@@ -1,0 +1,20 @@
+
+.page {
+  
+  header {
+    background: bottom left no-repeat url('../img/hashes-yellow-bot-left.svg') transparent;
+    background-size: ($hashes__width * 0.75) ($hashes__height * 0.75);
+    
+    @include breakpoint-up(medium) {
+      background-size: $hashes__width $hashes__height;
+    }
+  }
+}
+
+.support {
+  &__form {
+    float: left;
+    width: auto;
+    padding: 0.5em 1em 0.5em 0;
+  }
+}

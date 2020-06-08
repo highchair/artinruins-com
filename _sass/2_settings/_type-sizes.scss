@@ -1,0 +1,48 @@
+////
+/// Required list of sizes for typographics elements
+/// 1) Set base font sizes for mobile first
+/// 2) Set the desired sizes for desktop
+/// Mixins will fluidly change between the two values
+////
+
+
+/// Typographic Scales Map
+/// List as unitless pixels, use SASS function to convert to whatever you want
+///
+/// Use the same $key names as the corresponding breakpoint in layout/_breakpoints.scss $breakpoints
+///
+$type-sizes: (
+
+  // Fibonacci set: Each number is the sum of the two previous numbers
+  // Using the 1, 1, 2, 3, 5, 8, 13, etc… pattern for the increments
+  base: (
+    micro: 14, // an exception
+    base: 16,
+    h6: 17,
+    h5: 18,
+    h4: 20,
+    h3: 23,
+    h2: 28,
+    h1: 36,
+    display-4: 49,
+    display-3: 70,
+    display-2: 104,
+    display-1: 159
+  ),
+
+  // 1.25 typographic scale base 18
+  x-large: (
+    micro: 14,
+    base: 18,
+    h6: 19,
+    h5: 21,
+    h4: 24,
+    h3: 29,
+    h2: 37,
+    h1: 50,
+    display-4: 71,
+    display-3: 105,
+    display-2: 160,
+    display-1: 249
+  ),
+);

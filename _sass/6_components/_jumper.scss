@@ -1,0 +1,131 @@
+.jumper {
+  
+  // Hide completely for no-js as this is an enhancement
+  .no-js & {
+    @include hide;
+  }
+  
+  &--top {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: z(jumper);
+  }
+  
+  /*button*/&__toggler {
+    @include button-reset;
+    background-color: palette('brand-teal');
+    color: $white;
+    cursor: pointer;
+    display: flex;
+    justify-content: flex-start;
+    line-height: $line-height__base;
+    padding: ($gutter-min * 1rem * 0.75) ($gutter-min * 1rem);
+    width: 100%;
+    
+    &__icon {
+      margin: -0.375em ($gutter-min * 1rem) -0.375em 0;
+      font-size: 1.75em;
+    }
+    
+    // Toggle the aria-expanded attribute
+    &[aria-expanded=false] + .jumper__wrapper {
+      box-shadow: none;
+      opacity: 0;
+      max-height: 0;
+      transition: 500ms opacity ease 0s, 500ms max-height ease 0s, 0s visibility linear 500ms;
+      visibility: hidden;
+    }
+    
+    &[aria-expanded=true] + .jumper__wrapper {
+      box-shadow: 0 0.5rem 1rem rgba($black, 0.25);
+      display: block;
+      opacity: 1;
+      max-height: rem(360);
+      transition: 500ms opacity ease 0s, 500ms max-height ease 0s, 0s visibility linear 0s;
+      visibility: visible;
+    }
+    
+    @include layout-columns() {
+      padding: ($gutter-min * 1rem) ($gutter-max * 1rem);
+    }
+  }
+  
+  &__wrapper {
+    background-color: $white;
+    overflow: hidden;
+    position: absolute;
+    margin: 0 ($gutter-min * 1rem);
+    width: calc(100% - #{$gutter-min * 2rem});
+  }
+  
+  &__list {
+    > li:first-child a {
+      padding-top: 1rem;
+    }
+    > li:last-child a {
+      padding-bottom: 1rem;
+    }
+  }
+  
+  // The duplicate jumper In-content
+  &--in-content {
+    padding-left: ($gutter-min * 1.5rem);
+  }
+  
+  &--in-content &__toggler__text {
+    font-style: italic;
+  }
+  
+  // Reposition the duplicate wrapper
+  &--in-content &__wrapper {
+    margin: 0;
+    overflow: visible;
+    position: sticky;
+    top: ($vertical-min * 1rem);
+    width: auto;
+  }
+  
+  &__title {
+    font-style: italic;
+    margin-bottom: 0.5em;
+  }
+  
+  &__list {
+    
+    a {
+      @include ff-sans(false);
+      text-decoration: none;
+      letter-spacing: -0.0125em;
+      line-height: $line-height__tight;
+      padding: 0.375em 0;
+    }
+  }
+  
+  // Switch the visibility of the two
+  // The top one needs to remain visible to screen readers and focusable to keyboards
+  // The one in-content has aria-hidden on it to avoid duplication
+  &--top {
+    @include jumper-switch() {
+      @include sr-only;
+      
+      &:focus,
+      &:focus-within {
+        position: relative;
+        width: initial;
+        height: auto;
+        overflow: visible;
+        clip: auto;
+        white-space: normal;
+        -webkit-clip-path: none;
+        clip-path: none;
+      }
+    }
+  }
+  
+  &--in-content {
+    @include jumper-switch(down) {
+      @include hide;
+    }
+  }
+}

@@ -1,0 +1,158 @@
+//<aside id="anecdotes" class="anec u__vertical__p u__gutter__p">
+//  <h2 class="o__title--sm anec__title">Anecdotes <span class="u__sr-only">from people like you</span></h2>
+//  <ul class="u__list__unstyled anec__list">
+//    <li class="anec__list__item">
+//      <figure class="anec__dote">
+//        <blockquote class="anec__dote__content">
+//          I’ve been listening to some old Shadow Radio shows, with Orson Welles narrating, and was curious about the Blue Coal Commercials, so I looked up the company. Interesting history, with some possible connections to the disappearance of Jimmy Hoffa, among other things.
+//I’ve spent some time on Federal Hill – a good friend of mine used to live there, and I know Providence fairly well, but I don’t remember the Atlantic Coal Co. towers. Don’t know how I missed them, because I was there often in the sixties and the seventies. Does State Line Scrap still exist? 
+//        </blockquote>
+//        <figcaption class="anec__dote__meta">
+//          <cite>Charles Taylor</cite> <time datetime="2015-03-01">March  1, 2015</time>
+//        </figcaption>
+//      </figure>
+//    </li>
+
+.anec {
+  background-color: $white;
+  // When URLs get too long for the width of the viewport
+  // AND overflow-wrap is not supported by the browser
+  overflow-y: hidden;
+  
+  & > div {
+    background-color: $anecdote-bg;
+  }
+  
+  &__title {
+    padding: 1rem 0;
+  }
+  
+  &__list {
+    
+    &__item {
+      
+      &::after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      
+      a {
+        overflow-wrap: break-word;
+      }
+    }
+  }
+  
+  &__list__item:last-child &__dote {
+    border-bottom: 0;
+  }
+  
+  /*figure*/&__dote {
+    border-bottom: 0.5px solid $color__borders;
+    margin-bottom: ($vertical-rhythm/2);
+    padding: 0 0 ($vertical-rhythm/2) 1.5em;
+    
+    /*blockquote*/&__content {
+      position: relative;
+      z-index: 2;
+      
+      &::before {
+        @include ff-retro();
+        color: palette('brand-red');
+        content: '“';
+        font-size: 4em;
+        position: absolute;
+        top: -0.25em;
+        left: -0.4em;
+      }
+    }
+    
+    /*figcaption*/&__meta {
+      display: flex;
+      flex-flow: row wrap;
+      align-items: baseline;
+      justify-content: space-between;
+      
+      cite {
+        display: inline-block;
+        font-style: italic;
+        margin-top: 0.5rem;
+        text-transform: capitalize;
+        
+        &::before {
+          content: '—';
+          margin-right: 0.375rem;
+        }
+      }
+      
+      time {
+        @extend .o__title--sm;
+        color: palette(gray-700);
+      }
+    }
+  }
+
+  //<section id="anecdote-form" class="anec__form__wrapper">
+  //  <h2 class="o__title--sm anec__form__title">Leave an Anecdote</h2>
+  //  <p>The information about each building … </p>
+  //  <form name="anecform" method="post" class="anec__form">
+  //    <div class="form__group__wrapper">
+  //      <div class="form__group">
+  //        <label for="email">Your Email:</label>
+  //        <input id="email" name="email" type="email" class="form__input form__input--email" placeholder="you@domain.com" required>
+  //      </div>
+  //    	<div class="form__group">
+  //      	<label for="name">Your Name:</label>
+  //      	<input id="name" name="name" type="text" class="form__input form__input--text" placeholder="First and Last, please" required>
+  //      </div>
+  //    </div>
+  //    <div class="form__group form__pollen" tabindex="-1">
+  //    	<label for="website">Website:</label>
+  //    	<input id="website" name="website" type="url" class="form__url form__input--url" placeholder="http://www.domain.com" required>
+  //    </div>
+  //    <div class="form__group">
+  //    	<label for="name">Anecdote:</label>
+  //    	<textarea name="message" id="message" class="form__input--area" placeholder="Tell us your anecdote" required></textarea>
+  //    </div>
+  //  	<input type="hidden" id="property" name="property" value="{{ property.slug }}">
+  //  	
+  //    <div class="form__submit__group">
+  //  	  <input name="submit" type="submit" id="submit" value="Submit" class="form__submit btn btn--primary">
+  //        &nbsp; 
+  //  	  <input name="reset" type="reset" id="reset" value="Clear form" class="form__submit btn btn--ghost">
+  //    </div>
+  //  </form>
+  //</section>
+  &__form {
+    
+    &__wrapper {
+      background-color: rgba(palette('brand-teal'), 0.1);
+    }
+    
+    &__title {}
+  }
+}
+
+//.form {
+//  
+//  &__group {
+//    
+//    &__wrapper {}
+//  }
+//  
+//  &__input {
+//    
+//    &--email {}
+//    
+//    &--text {}
+//    
+//    &--url {}
+//    
+//    &--area {}
+//  }
+//  
+//  &__submit {
+//    
+//    &__group {}
+//  }
+//}

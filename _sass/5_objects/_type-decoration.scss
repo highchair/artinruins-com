@@ -1,0 +1,45 @@
+.o {
+
+  // Small titles, intended as section eyebrows
+  // Most of these are hidden visually
+  &__title {
+    &--sm {
+      @include ff-sans(true);
+      color: palette('brand-red');
+      font-size: 0.875em;
+      letter-spacing: ($kerning * 2);
+      text-transform: uppercase;
+    }
+  }
+  
+  &__drop-cap:first-letter {
+    color: palette('brand-teal');
+    float: left;
+    font-size: 3.5em;
+    font-weight: $font-custom__serif__lt-weight;
+    line-height: 1;
+    margin-top: -0.175em;
+    margin-right: 0.125em;
+    
+    // If Firefox
+    @include for-any-firefox() {
+      margin-top: 0.125em;
+    }
+  }
+  
+  &__pull-quote {
+    @include ff-retro();
+    background: bottom right no-repeat url('../img/hashes-yellow-bot-right.svg') transparent;
+    background-size: ($hashes__width * 0.75) ($hashes__height * 0.75);
+    color: palette('brand-red');
+    font-size: 2em;
+    // Experimental way to "stretch" the font and make it a little more legible
+    transform: scale(1.125, 1);
+    padding: 0 1em;
+  }
+  
+  &__lead {
+    @include ff-sans(bold);
+    color: palette('brand-red');
+  }
+}

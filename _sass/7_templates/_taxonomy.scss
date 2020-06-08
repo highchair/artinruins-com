@@ -1,0 +1,170 @@
+//<article class="l__article content__article">
+//  <header class="taxonomy__header">
+//    <div class="u__vertical__pt u__gutter__p">
+//      <h1 class="content__title taxonomy__title u__mb--0">Category: #UsedToBeThere</h1>
+//    </div>
+//  </header>
+//  <ul class="taxonomy__list u__list__unstyled u__vertical__pt u__gutter__p">
+//    <li>
+//      <img class="taxonomy__img" src="/property-img/132-fountain-st/old-mcd-bldg-01.jpg" alt="" loading="lazy">
+//        <div class="taxonomy__colwrap">
+//        <h2><a href="/property/132-fountain-st/" class="taxonomy__link">132 Fountain Street, Downtown Providence</a>
+//        <p class="taxonomy__excerpt">A simple building located next to the former Sportsman’s Inn (now the Dean Hotel) that was razed for a never-built hotel.</p>
+//        <p class="taxonomy__meta"><strong>Built: </strong> 1915<span class="taxonomy__sep"> | </span><strong>Demolition: </strong> 2008<span class="taxonomy__sep">|</span><strong>Decade: </strong> <a href="/decade/1910-1919">1910-1919</a></p>
+
+.taxonomy {
+  
+  &__header {
+    background: top right no-repeat url('../img/hashes-yellow-top-right.svg') transparent;
+    background-size: ($hashes__width * 0.75) ($hashes__height * 0.75);
+    
+    @include breakpoint-up(medium) {
+      background-size: $hashes__width $hashes__height;
+    }
+  }
+  
+  &__title {
+    &--empty {
+      @include ff-retro;
+      color: palette('brand-red');
+    }
+  }
+  
+  &__count {
+    color: palette('brand-red');
+    padding-top: $vertical-rhythm;
+  }
+  
+  &__description {
+    @include ff-sans();
+    color: palette('brand-teal');
+    padding-top: $vertical-rhythm;
+  }
+  
+  &__list {
+    li {
+      border: 0.5px solid $color__borders;
+      margin-bottom: 0.5rem;
+      padding: 0.5rem;
+      position: relative;
+      z-index: 1;
+      
+      &:hover {
+        .taxonomy__img {
+          opacity: 0.5;
+          transform: scale(1, 1) translate(-50%, -50%);
+        }
+        
+        .taxonomy__card-title {
+          background-size: 100% 100%;
+        }
+      }
+    }
+  }
+  
+  &__img-wrap {
+    background-color: palette('brand-dark-brown');
+    margin: -0.5rem -0.5rem ($vertical-rhythm/2) -0.5rem;
+    
+    // Make the container a 16:9
+    height: 0;
+    overflow: hidden;
+    padding-bottom: (9/16 * 100%);
+    position: relative;
+  }
+  
+  &__img {
+    opacity: 1;
+    transition: all 250ms ease;
+    transform: scale(1.1, 1.1) translate(-50%, -50%);
+    transform-origin: top left;
+    transition-delay: 250ms;
+    
+    // position the image to the center
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  }
+  
+  &__card-title {
+    background-image: linear-gradient(180deg,transparent 33%,lighten(palette('brand-yellow'), 5%) 0);
+    background-size: 0 100%;
+    background-repeat: no-repeat;
+    display: inline;
+    transition: all 750ms ease;
+  }
+  
+  &__link {
+    text-decoration: none;
+    
+    // https://inclusive-components.design/cards/
+    &::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 2;
+    }
+  }
+  
+  &__excerpt {
+    padding-top: ($vertical-rhythm/2);
+    padding-bottom: ($vertical-rhythm/2);
+  }
+  
+  &__meta {
+    @include ff-sans();
+    position: relative;
+    z-index: 3;
+    
+    &__group {}
+  }
+  
+  // Grouped media query
+  @include layout-columns() {
+    
+    &__list {
+      li {
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: stretch;
+        justify-content: flex-start;
+        margin-bottom: 1rem;
+        padding: 1rem;
+      }
+    }
+    
+    &__img-wrap {
+      flex: 0 1 40%;
+      width: 40%;
+      height: auto;
+      margin: -1rem 2rem -1rem -1rem;
+      padding-bottom: 25%;
+      min-height: 25%;
+    }
+    
+    &__img {
+      min-height: 100%;
+      min-width: 100%;
+      max-width: unset;
+      max-height: 125%;
+    }
+    
+    &__colwrap {
+      flex: 0 1 60%;
+      width: 60%;
+      display: flex;
+      flex-flow: column;
+    }
+    
+    &__meta {
+      margin-top: auto;
+
+      &__group {
+        white-space: nowrap;
+      }
+    }
+  }
+}

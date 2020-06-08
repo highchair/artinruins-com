@@ -1,0 +1,12 @@
+/*main*/.content {
+  background-color: $white;
+  
+  /*article*/&__article {}
+  
+  /*h1*/&__title {
+    color: palette('brand-brown');
+    font-weight: $font-custom__serif__lt-weight;
+    line-height: $line-height__tight;
+    margin-bottom: $vertical-rhythm;
+  }
+}

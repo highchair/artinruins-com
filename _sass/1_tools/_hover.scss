@@ -1,0 +1,35 @@
+// Hover, Focus, Active helpers
+// Often all three are chained together
+
+@mixin hover() {
+  &:hover {
+    @content;
+  }
+}
+
+@mixin hover-focus() {
+  &:hover,
+  &:focus {
+    @content;
+  }
+}
+
+@mixin focus() {
+  &:focus {
+    @content;
+  }
+}
+
+@mixin hover-focus-active() {
+  &:hover,
+  &:focus,
+  &:active {
+    @content;
+  }
+}
+
+@mixin active() {
+  &:active {
+    @content;
+  }
+}

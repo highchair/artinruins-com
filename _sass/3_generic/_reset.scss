@@ -1,0 +1,153 @@
+// A simple, modern reset without a lot of opinions
+// https://hankchizljaw.com/wrote/a-modern-css-reset/
+
+// Box sizing rules
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+// Remove default margin
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+// Set core body defaults
+body {
+  min-height: 100vh;
+  min-width: 320px;
+  text-rendering: optimizeSpeed;
+  
+  // Since we replaced BS4 Reboot, need to declare some things:
+  font-family: $font-stack__serif;
+  font-size: 100%;
+  color: $color__body-fg;
+  text-align: left;
+  background-color: $color__body-bg;
+  
+  @include breakpoint-up(small) {
+    text-rendering: optimizeLegibility;
+  }
+}
+
+// Make spacing browser consistent on ul, ol elements
+ul,
+ol {
+  margin: 0 0 0 1.5rem;
+  padding: 0;
+}
+nav ul, 
+nav ul ul {
+  list-style: none;
+  margin-left: 0;
+}
+
+// Make images easier to work with
+img {
+  max-width: 100%;
+  display: block;
+}
+
+// Generic Anchor style
+a {
+  color: $color__link;
+  text-decoration: underline;
+  text-decoration-color: $color__link__underline;
+  background-color: transparent; // Remove the gray background on active links in IE 10.
+  text-decoration-skip-ink: auto;
+  transition: $transition;
+  -webkit-text-decoration-skip: objects; // Remove gaps in links underline in iOS 8+ and Safari 8+.
+
+  @include hover-focus {
+    color: $color__link--hover;
+    text-decoration-color: $color__link--hover__underline;
+  }
+
+  @include active {
+    color: $color__link--active;
+    text-decoration: none;
+  }
+
+  &:focus {
+    outline: 2px solid palette('black');
+    outline-offset: 2px;
+  }
+  
+  nav & {
+    display: block;
+    text-decoration: none;
+  }
+}
+
+// Special focus needed when the outline style is not allowed to be in full view
+//@mixin special-focus() {
+//  &:focus {
+//    outline: none;
+//    position: relative;
+//    z-index: 99;
+//
+//    &::after {
+//      content: '';
+//      border: 2px solid palette('black');
+//      position: absolute;
+//      top: 2px;
+//      right: 2px;
+//      bottom: 2px;
+//      left: 2px;
+//    }
+//  }
+//}
+
+// And undo these styles for placeholder links/named anchors (without href)
+// which have not been made explicitly keyboard-focusable (without tabindex).
+// See https://github.com/twbs/bootstrap/issues/19402
+a:not([href]):not([tabindex]) {
+  color: inherit;
+  text-decoration: none;
+
+  @include hover-focus {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  &:focus {
+    outline: 0;
+  }
+}
+
+// Color when text is highlighted
+::selection {
+  color: $white;
+  background-color: $black;
+  box-decoration-break: clone;
+}
+
+// Suppress the focus outline on elements that cannot be accessed via keyboard.
+// This prevents an unwanted focus outline from appearing around elements that
+// might still respond to pointer events.
+// Credit: https://github.com/suitcss/base
+[tabindex="-1"]:focus {
+  outline: 0 !important;
+}
+
+// Remove all animations and transitions for people that prefer not to see them
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

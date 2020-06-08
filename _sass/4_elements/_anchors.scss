@@ -1,0 +1,62 @@
+// &#x2197
+a[target='_blank'] {  
+  &::after {
+    content: '\2197'; // northeast arrow HTML entity: https://www.toptal.com/designers/htmlarrows/arrows/north-east-arrow/
+  }
+}
+
+// Headers in content processed into jump anchors
+h2[id],
+h3[id],
+h4[id] {
+  // We are making the touch target larger with absolute positioning
+  position: relative;
+  
+  a {
+    text-decoration: none;
+    
+    &::after {
+      background-color: rgba(palette('brand-teal'), 0);
+      border-radius: 2rem;
+      content: '';
+      position: absolute;
+      top: -0.125rem;
+      right: 0;
+      bottom: -0.125rem;
+      left: -1.75rem;
+      transition: all 250ms ease;
+    }
+    
+    > span {
+      color: palette('brand-teal');
+      font-family: $font-stack__serif;
+      font-size: 1.5rem;
+      opacity: 0.4;
+      position: absolute;
+      top: 0.0625rem;
+      left: -0.875em;
+      transition: all 250ms ease;
+    }
+    
+    @include hover-focus {
+      
+      &::after {
+        background-color: rgba(palette('brand-teal'), 0.125);
+      }
+      
+      > span {
+        opacity: 1;
+      }
+    }
+  }
+}
+
+h2[id] a {
+  &::after {
+    top: 0; 
+    bottom: -0.25rem;
+  }
+  > span {
+    top: 0.375em;
+  }
+}

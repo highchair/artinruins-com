@@ -1,0 +1,60 @@
+// Define a "System" font stack for fallbacks
+@font-face {
+  font-family: 'System Sans';
+  font-style: normal;
+  font-weight: normal;
+  src: local(".SFNSText-Light"),
+       local("Roboto-Light"),
+       local(".HelveticaNeueDeskInterface-Light"),
+       local("Ubuntu Light"),
+       local("Segoe UI Light"),
+       local("DroidSans"),
+       local("Tahoma");
+}
+
+// Adobe fonts
+@import url("https://use.typekit.net/kxt2agf.css");
+
+// Emigre Base 9
+$font-custom__sans__family: base-9-sans;
+$font-custom__sans__weight__normal: 400;
+$font-custom__sans__weight__bold: 700;
+
+// Adobe Alda. Italic in the reg weight available
+$font-custom__serif__family: alda;
+$font-custom__serif__lt-weight: 300;
+$font-custom__serif__rg-weight: 400;
+$font-custom__serif__bd-weight: 700;
+
+// Emigre Senator Demi weight
+$font-custom__retro__family: senator;
+$font-custom__retro__rg-weight: 500;
+
+// Define the family and weights
+$font-stack__sans: $font-custom__sans__family, 'System Sans', 'Segoe UI', sans-serif;
+$font-stack__serif: $font-custom__serif__family, serif;
+$font-stack__mono: monospace;
+
+$font-weight__normal: $font-custom__serif__rg-weight;
+$font-weight__bold: $font-custom__serif__bd-weight;
+
+$line-height__base: 1.5;
+$line-height__tight: 1.25;
+$line-height__loose: 1.625;
+
+$kerning: .03125em;
+
+@mixin ff-sans($bold: false) {
+  font-family: $font-stack__sans;
+  @if $bold {
+  font-weight: $font-custom__sans__weight__bold;
+  } @else {
+  font-weight: $font-custom__sans__weight__normal;
+  }
+  letter-spacing: 0.03125em;
+}
+
+@mixin ff-retro() {
+  font-family: $font-custom__retro__family, $font-stack__sans;
+  font-weight: $font-custom__retro__rg-weight;
+}

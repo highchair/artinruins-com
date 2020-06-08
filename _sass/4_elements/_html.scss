@@ -1,0 +1,11 @@
+html {
+  // Newer browsers want this on the html element
+  scroll-behavior: smooth;
+  scroll-padding-top: rem(48);
+}
+
+body {
+  // Slightly older want it on the body element
+  scroll-behavior: smooth;
+  scroll-padding-top: rem(48);
+}

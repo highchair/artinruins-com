@@ -1,0 +1,92 @@
+.sitefoot {
+  color: $white;
+  position: relative;
+  
+  h3 {
+    color: palette('brand-yellow');
+  }
+  
+  a {
+    color: palette('brand-orange');
+    text-decoration-color: $white; 
+    
+    @include hover-focus() {
+      color: $white;
+    }
+  }
+  
+  &__wrapper {
+    
+    @include breakpoint-up(x-large) {
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: stretch;
+      justify-content: flex-start;
+      background: top right no-repeat url('../img/hashes-brown-top-right.svg') $color__body-bg;
+      background-size: $hashes__width $hashes__height;
+    }
+  }
+  
+  &__section {
+    
+    @include layout-columns(down) {
+      background-color: $color__body-bg;
+      position: sticky;
+      bottom: $mobile-header-height;
+      width: 100%;
+      z-index: z(site-foot-mid);
+    
+      &:first-child {
+        background: top right no-repeat url('../img/hashes-brown-top-right.svg') $color__body-bg;
+        background-size: ($hashes__width * 1.25) ($hashes__height * 1.25);
+        z-index: z(site-foot-top);
+      }
+      
+      &:last-child {
+        background: bottom left no-repeat url('../img/hashes-brown-bot-left.svg') $color__body-bg;
+        background-size: ($hashes__width * 1.25) ($hashes__height * 1.25);
+        z-index: z(page);
+      }
+    } // end mobile design
+    
+    &:first-child,
+    &:last-child {
+      @include breakpoint-up(medium) {
+        background-size: $hashes__width $hashes__height;
+      }
+    }
+    
+    @include layout-columns() {
+      flex: 0 1 33.33%;
+      width: 33.33%;
+      
+      &:first-child {
+        padding-right: 0;
+      }
+      
+      &:nth-child(2) {
+        padding-right: ($gutter-max / 2 * 1rem);
+        padding-left: ($gutter-max / 2 * 1rem);
+      }
+      
+      &:last-child {
+        padding-left: 0;
+      }
+    }
+  }
+  
+  &__copyright {
+    background-color: darken($color__body-bg, 2%);
+    color: palette('brand-yellow');
+    
+    @include breakpoint-up(x-large) {
+      background-position: bottom left;
+      background-repeat: no-repeat;
+      background-image: url('../img/hashes-brown-bot-left.svg');
+      background-size: $hashes__width $hashes__height;
+      position: sticky;
+      bottom: 0;
+      z-index: -1;
+    }
+  }
+}

@@ -1,0 +1,46 @@
+//
+// Color system
+//
+
+$white: #fff;
+$black: #101010;
+
+$colors: (
+  gray-100: #dae5e5,  // h180 s5  b90
+  gray-200: #ccdbdb,  // h180 s7  b86
+  gray-400: #8a9999,  // h180 s10 b60
+  gray-500: #778585,  // h180 s10 b52
+  gray-600: #5c6666,  // h180 s10 b40
+  gray-700: #4c5454,  // h180 s10 b32
+  gray-800: #394040,  // h180 s10 b25
+  gray-900: #292e2e,  // h180 s10 b18
+  'brand-teal': #007070,       // h180 s100 b50.2
+  'brand-teal-dark': #075555,  // h180 s92 b33
+  'brand-grey': #524b46,
+  'brand-brown': #522b0d,      // h26 s73 b19
+  'brand-dark-brown': #2d1c0b, // h26 s62 b11
+  'brand-yellow': #fedc90,
+  'brand-orange': #f9ad53,
+  'brand-red': #eb5131,
+);
+
+// Color getter
+@function palette($color) {
+  @return map-get($colors, $color);
+}
+
+// Generic variables
+$color__body-fg: palette(gray-700);
+// Make the body bg the same as the footer bg.
+// This makes the page seamless when the body is shorter than the viewport height.
+$color__body-bg: palette('brand-dark-brown');
+
+$color__link: palette('brand-teal');
+$color__link__underline: palette('brand-grey');
+$color__link--hover: darken($color__link, 15);
+$color__link--hover__underline: palette('brand-orange');
+$color__link--active: palette('brand-orange');
+$color__borders: palette(gray-200);
+
+// Specific things
+$anecdote-bg: rgba(palette('brand-teal'), 0.05);

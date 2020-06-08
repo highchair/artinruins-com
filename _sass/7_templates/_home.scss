@@ -1,0 +1,38 @@
+// Overrides for Home
+.page--home {
+  
+  .taxonomy__card-title {
+    // Here we use an H3 instead of an H2 so we lose some styles
+    font-family: $font-stack__serif;
+    font-weight: $font-custom__serif__bd-weight;
+  }
+  
+  .anec__list__item {
+    
+    > a {
+      display: block;
+      float: right;
+      margin-left: 1.5rem;
+      max-width: 11em;
+    }
+  }
+  
+  .anec__list__item {
+    border-bottom: 0.5px solid palette('gray-200');
+    margin-bottom: ($vertical-rhythm/2);
+    padding: 0 0 ($vertical-rhythm/2) 0;
+  }
+  
+  .anec__dote {
+    border-bottom: 0;
+    margin-bottom: 0;
+    padding: 0 0 0 1.5em;
+  }
+}
+
+// Custom for Home
+.home {
+  &__anec {
+    background-color: $anecdote-bg;
+  }
+}

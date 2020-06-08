@@ -1,0 +1,60 @@
+/*li*/.google-search {
+  padding-top: 0.5rem;
+  white-space: nowrap;
+  
+  &__input,
+  &__btn {
+    vertical-align: text-bottom;
+  }
+  
+  &__input {
+    background-color: transparent;
+    border: 0;
+    color: palette('brand-orange');
+    padding: 0.5rem 0rem;
+    margin-left: -0.125rem;
+    width: calc(100% - #{rem(52)});
+    
+    &::-webkit-input-placeholder {
+      color: palette('brand-orange');
+    }
+    
+    &::-moz-placeholder {
+      color: palette('brand-orange');
+    }
+    
+    &:ms-input-placeholder {
+      color: palette('brand-orange');
+    }
+    
+    &:hover,
+    &:focus {
+      background-color: rgba($black, 0.1);
+      color: $white;
+    }
+  }
+  
+  &__btn {
+    @include button-reset;
+    background-color: transparent;
+    border-radius: 0;
+    color: palette('brand-yellow');
+    padding: 0.375rem 0.5rem;
+    
+    svg {
+      height: em(28);
+      width: em(28);
+    }
+  }
+  
+  // Stick the search bar to the bottom when viewport is tall enough
+  @media (min-width: em(bp(large))) and (min-height: em(650)) {
+    position: fixed;
+    bottom: 1rem;
+    width: ($nav-max-width - ($nav-h-padding * 3));
+  }
+  
+  @media (min-width: em(bp(x-large))) and (min-height: em(650)) {
+    width: ($nav-max-width - $nav-h-padding);
+  }
+}

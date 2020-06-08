@@ -1,0 +1,23 @@
+// Forms
+// Raw elements only. No classes
+
+form {
+  display: block;
+  width: 100%;
+}
+
+input,
+button,
+textarea,
+select {
+  display: inline-block;
+  font: inherit; // Inherit fonts for inputs and buttons
+  font-size: 1rem;
+  -webkit-appearance: none;
+}
+
+label {}
+
+fieldset {}
+
+legend {}

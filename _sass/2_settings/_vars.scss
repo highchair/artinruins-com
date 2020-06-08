@@ -1,0 +1,41 @@
+// General variables
+
+$transition: all 250ms ease;
+$all-headings: "h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6";
+
+$hashes__width: 720px;
+$hashes__height: 90px;
+
+// Spacing
+// Assumed REMs
+$gutter-min: 1;
+$gutter-max: 4;
+$vertical-min: 2;
+$vertical-max: 4;
+
+$spacing__min-vw: (bp(base)/16);
+$spacing__max-vw: (bp(large)/16);
+
+// Borders that change size
+$border-design__base: 3px;
+$border-design__md: 4.5px;
+$border-design__lg: 6px;
+
+
+// Establishing some vertical rhythm for block elements
+$vertical-rhythm: ($line-height__base * 1rem);
+
+// Z Indices
+$z-indices: (
+  page: 1,
+  site-foot-mid: 3,
+  site-foot-top: 5,
+  jumper: 10,
+  skip-link: 25,
+  header-nav: 100
+);
+
+// Z-index helper
+@function z($name) {
+  @return map-get($z-indices, $name);
+}

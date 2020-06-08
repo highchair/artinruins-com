@@ -1,0 +1,79 @@
+// Layout
+
+// <div class="l">
+//   <header class="l__head"></header>
+//   <div class="l__main">
+//     <main id="content" class="l__content content">
+//       <article class="l__article content__article"></article>
+//     </main>
+//     <aside id="anecdotes" class="anec"></aside>
+//   </div>
+// </div>
+
+$mobile-header-height: rem(57);
+
+.l {
+  min-height: 100vh;
+  padding-bottom: $mobile-header-height;
+  
+  &__head {
+    
+    &__wrapper {
+      
+      @include layout-columns(down) {
+        display: flex;
+      }
+      
+      // Vertical media query
+      // Stick the Nav to the top left when viewport is tall enough
+      @media (min-width: em(bp(large))) and (min-height: em(650)) {
+        position: sticky;
+        top: 0;
+        left: 0;
+        z-index: 1;
+      }
+    }
+  }
+  
+  &__main {}
+  
+  &__content {}
+  
+  &__article {}
+  
+  // Mobile layout
+  @include layout-columns(down) {
+    &__head {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      z-index: z(header-nav);
+    }
+    
+    &__wrapper {
+      display: flex;
+      flex-flow: row nowrap;
+      justify-content: space-between;
+    }
+  }
+  
+  // Desktop layout
+  @include layout-columns() {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: stretch;
+    justify-content: flex-start;
+    padding-bottom: 0;
+    
+    &__head {
+      flex: 1 1 27%;
+      max-width: rem(360);
+    }
+    
+    &__main {
+      flex: 1 1 73%;
+      // The big wide gallery messes things up, so this measurement is neccesary
+      max-width: calc(100% - #{rem(360)});
+    }
+  }
+}

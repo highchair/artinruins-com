@@ -1,0 +1,33 @@
+.btn {
+  @include button-reset; // in case this is an actual button element
+  @include ff-sans(true);
+  border-radius: 3px;
+  background-color: palette('brand-teal');
+  border: 2px solid $white;
+  box-shadow: 4px 4px 0 0 rgba(palette('brand-teal-dark'), 0.75);
+  color: palette('brand-yellow');
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1;
+  padding: 0.75rem 1.25rem;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    background-color: palette('brand-teal-dark');
+    box-shadow: 2px 2px 0 0 rgba(palette('brand-teal-dark'), 0.75);
+    color: $white;
+    transform: translate(2px, 2px);
+  }
+
+  &--primary {
+    background-color: palette('brand-orange');
+    color: palette('brand-brown');
+
+    &:hover,
+    &:focus {
+      background-color: palette('brand-brown');
+      color: palette('brand-yellow');
+    }
+  }
+}

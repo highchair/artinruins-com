@@ -1,0 +1,69 @@
+$base-min: (16 / 16);
+$base-max: (18 / 16);
+$base-sm: (14 / 16);
+
+:root {
+  
+  // Fluid Type sizes
+  --vp__min: #{$min-vw};
+  --vp__max: #{$max-vw};
+  --fs__min: #{$base-min};
+  --fs__max: #{$base-max};
+  --fs__sm: #{$base-sm};
+}
+
+// Fallback variables for older browsers
+$h6-min: (17 / 16);
+$h6-max: (19 / 16);
+
+h6,
+.h6 {
+  --fs__min: #{$h6-min};
+  --fs__max: #{$h6-max};
+}
+
+$h5-min: (18 / 16);
+$h5-max: (21 / 16);
+
+h5,
+.h5 {
+  --fs__min: #{$h5-min};
+  --fs__max: #{$h5-max};
+}
+
+$h4-min: (20 / 16);
+$h4-max: (24 / 16);
+
+h4,
+.h4 {
+  --fs__min: #{$h4-min};
+  --fs__max: #{$h4-max};
+}
+
+$h3-min: (23 / 16);
+$h3-max: (29 / 16);
+
+h3,
+.h3 {
+  --fs__min: #{$h3-min};
+  --fs__max: #{$h3-max};
+}
+
+$h2-min: (28 / 16);
+$h2-max: (37 / 16);
+
+h2,
+.h2,
+.item__content h3 {
+  --fs__min: #{$h2-min};
+  --fs__max: #{$h2-max};
+}
+
+$h1-min: (36 / 16);
+$h1-max: (50 / 16);
+
+h1,
+.h1 {
+  --fs__min: #{$h1-min};
+  --fs__max: #{$h1-max};
+}

@@ -1,0 +1,378 @@
+// Responsive and fluid type sizing
+// Root sizes are set in 3_generic/_root.scss
+
+
+// Fallbacks for IE11 and crappier browsers. Desktop sizes used.
+h1,
+.h1 {
+  font-size: $h1-max * 1rem;
+}
+
+h2,
+.h2 {
+  font-size: #{$h2-max * 1rem};
+}
+
+h3,
+.h3 {
+  font-size: #{$h3-max * 1rem};
+}
+
+h4,
+.h4 {
+  font-size: #{$h4-max * 1rem};
+}
+
+h5,
+.h5,
+blockquote p,
+.o__lead {
+  font-size: #{$h5-max * 1rem};
+}
+
+h6,
+.h6 {
+  font-size: #{$h1-max * 1rem};
+}
+
+small,
+.small {
+  font-size: #{$base-sm * 1rem};
+}
+
+body,
+input,
+textarea {
+  font-size: #{$base-max * 1rem};
+}
+// End Fallbacks for older browsers
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+blockquote p,
+.o__lead,
+h6,
+.h6,
+body {
+  // Body is a catch all for other block level elements
+  font-size: calc(var(--fs__min) * 1rem);
+  font-weight: $font-custom__serif__rg-weight;
+  
+  @include breakpoint-up('small') {
+    font-size: calc(
+      (var(--fs__min) * 1rem) + (var(--fs__max) - var(--fs__min)) * ((100vw - #{$min-vw * 1rem}) / #{$max-vw - $min-vw})
+    );
+  }
+  
+  @include breakpoint-up('x-large') {
+    font-size: calc(var(--fs__max) * 1rem);
+  }
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+  line-height: $line-height__tight;
+}
+
+body,
+input,
+textarea {
+  line-height: $line-height__base;
+}
+
+// Styles for Headers
+h3,
+.h3 {
+  @include ff-retro();
+  color: palette('brand-brown');
+}
+
+h4,
+.h4 {
+  color: palette('brand-teal');
+  font-weight: $font-custom__serif__bd-weight;
+}
+
+small,
+.small {
+  font-size: calc(var(--fs__sm) * 1rem);
+  letter-spacing: ($kerning * 2);
+}
+
+
+// Vertical rhythm
+// Natural flow and rhythm in articles by default
+.v-rhythm {
+  margin-bottom: $vertical-rhythm;
+}
+
+.rhythm {
+  //background: linear-gradient(#c0c 0px, #fff 1px) repeat;
+  //background-size: 100% 27px;
+  //background-position: top 4px left 0;
+  
+  > * + * {
+    margin-top: $vertical-rhythm;
+  }
+  
+  h2 {
+    margin-top: 2.25rem;
+  }
+  
+  h3 {
+    margin-top: 2.875rem;
+  }
+  
+  h2 + p:not([class]):first-line {
+    @include ff-sans(bold);
+    color: palette('brand-teal');
+  }
+}
+
+
+// HTML elements
+
+blockquote {
+  quotes: none;
+  position: relative;
+
+  p {
+    font-style: italic;
+    padding-left: 1.375em;
+  }
+
+  p::before,
+  p:last-child::after {
+    @include ff-retro();
+    color: palette('brand-orange');
+    font-style: normal;
+    line-height: 1;
+  }
+
+  p::before {
+    content: "“";
+    font-size: 3.5em;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  p:last-child::after {
+    content: "”";
+    font-size: 2.5em;
+    display: inline;
+    line-height: 0;
+    margin-left: .0625em;
+    vertical-align: text-bottom;
+  }
+}
+
+//hr {
+//  border: none;
+//  border-top: 1px solid palette(gray-200);
+//  height: 0;
+//  line-height: 1;
+//  margin: $vertical-rhythm 0;
+//  width: 100%;
+//}
+
+ul,
+ol {
+  margin-left: 1.5rem;
+}
+
+ul { list-style: square; }
+
+ul ul { list-style: disc; }
+
+ul ul ul { list-style: circle; }
+
+ol { list-style: decimal; }
+
+ol ol { list-style: upper-alpha; }
+
+ol ol ol { list-style: upper-roman; }
+
+ol ol ol ol { list-style: lower-alpha; }
+
+ol ol ol ol ol { list-style: lower-roman; }
+
+dl {
+  border-top: 1px solid $color__borders;
+  margin-botom: $vertical-rhythm;
+}
+
+dt,
+dd {
+  border-left: 1px solid $color__borders;
+  border-right: 1px solid $color__borders;
+  padding: .75em 1em .5625em;
+}
+
+dt {
+  border-bottom: 1px dotted $color__borders;
+  font-weight: $font-weight__bold;
+}
+
+dd {
+  border-bottom: 2px solid $color__borders;
+}
+
+//figure {}
+
+//table {
+//  width: 100%;
+//
+//  th {
+//    //border-bottom: 2px solid $table-border-color;
+//    //padding: $table-cell-padding;
+//    text-align: left;
+//  }
+//
+//  td {
+//    //border-top: 1px solid $table-border-color;
+//    //padding: $table-cell-padding;
+//  }
+//
+//  // zebra striping pattern
+//  tbody {
+//
+//    tr:nth-of-type(odd) {
+//      //background-color: $table-border-color;
+//    }
+//  }
+//}
+
+// Inline typography elements
+strong,
+b,
+em,
+i,
+cite,
+small,
+sup,
+sup {
+  letter-spacing: $kerning;
+}
+
+//sub,
+//sup {
+//  font-size: 75%;
+//  line-height: 1;
+//  position: relative;
+//}
+//
+//sup {
+//  top: -0.5em;
+//}
+//
+//sub {
+//  bottom: -0.25em;
+//}
+
+//abbr[title] {
+//  font-size: 75%;
+//  font-weight: $font-weight__bold;
+//  letter-spacing: ($kerning * 2);
+//  text-transform: uppercase;
+//}
+
+//var {
+//  color: palette(mono, 75);
+//  display: inline-block;
+//  padding: 0 .125em;
+//}
+
+// Proper code blocks need to be surrounded by a <pre>. They work together.
+//pre {
+//  white-space: pre-wrap;
+//  word-wrap: break-word; // For IE 5.5+ and up
+//
+//  code {
+//    border-bottom: 1px solid palette(mono, 25);
+//    border-left: 5px solid $color-code;
+//    border-radius: 0;
+//    display: block;
+//    margin: 0;
+//    padding: 1.375em 1.25em 1.3125em;
+//  }
+//}
+
+//code,
+//kbd,
+//samp,
+//mark,
+//ins {
+//  display: inline-block;
+//  line-height: 1.5;
+//  padding: 0.125em 0.25em 0;
+//}
+
+//code,
+//kbd,
+//samp {
+//  background: rgba(#000, .05);
+//  //border-radius: $default-border-radius;
+//  box-shadow: 0 0 .25em rgba(#000, .1) inset;
+//  //font-family: $font-mono;
+//}
+//
+//code {
+//  //color: $color-code;
+//}
+//
+//mark {
+//  background-color: #ff9; // yellow
+//}
+
+//strike,
+//s {
+//  //color: palette(mono, 25);
+//}
+//
+//del {
+//  //color: $color-error;
+//}
+//
+//ins {
+//  //background-color: palette(mono, 25);
+//  text-decoration: none;
+//}
+//
+//// These should change depending on the language
+//[lang="en-US"] {
+//
+//  q {
+//    display: inline;
+//
+//    ::before { content: "“"; }
+//
+//    ::after {
+//      content: "”";
+//      white-space: nowrap;
+//    }
+//
+//    // Nested
+//    q::before { content: "‘"; }
+//
+//    q::after { content: "’"; }
+//  }
+//}
