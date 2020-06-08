@@ -1,0 +1,25 @@
+---
+layout: default
+body-class: page
+---
+
+<main id="content" class="l__content content">
+          <article class="l__article content__article page">
+            <header>
+              <div class="u__max-width--text u__vertical__pt u__gutter__p">
+                <h1 class="content__title page__title u__mb--0">{{ page.title }}</h1>
+              </div>
+            </header>
+            <div class="page__content u__max-width--text u__vertical__p u__gutter__p rhythm">
+              {%- include property-item/content-anchors.html 
+                html=content 
+                beforeHeading=true 
+                anchorTitle="Press to bookmark this heading" 
+                anchorBody="<span>#</span>"
+                h_min=2
+                h_max=4
+              -%}
+            
+            </div>
+          </article>
+        </main>

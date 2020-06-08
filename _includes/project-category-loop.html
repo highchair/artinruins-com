@@ -1,0 +1,73 @@
+{%- assign items = site.property | where: page.type, page.category | sort: "title" -%}
+
+            <header class="taxonomy__header">
+              <div class="u__vertical__pt u__gutter__p">
+                <h1 class="content__title taxonomy__title u__mb--0">{{ page.title }}</h1>
+              {%- if items.size >= 1 -%}
+                <p class="taxonomy__count">{{ items.size }}{% if items.size == 1 %} property{% else %} properties{% endif %}</p>
+              {%- endif -%}
+              {%- if page.description -%}
+                <p class="taxonomy__description">{{ page.description }}</p>
+              {%- endif -%}
+              </div>
+            </header>
+
+          {%- if items.size >= 1 -%}
+            <ul class="taxonomy__list u__list__unstyled u__vertical__p u__gutter__p" role="list">
+              {%- for item in items -%}
+                {%- if item.thumbnail -%}
+                  {%- assign item_image = item.thumbnail -%}
+                {%- else -%}
+                  {%- assign item_image = item.images.first.url -%}
+                {%- endif -%}
+              <li>
+                <div class="taxonomy__img-wrap">
+                  <img class="taxonomy__img" src="{{ site.propimg_path }}{{ item.slug }}/{{ item_image }}" alt="" loading="lazy">
+                </div>
+                <div class="taxonomy__colwrap">
+                  <div class="taxonomy__title-wrap">
+                    <h2 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}" class="taxonomy__link">{{ item.title }}</a></h2>
+                  </div>
+                  <p class="taxonomy__excerpt">{{ item.excerpt }}</p>
+                  <p class="taxonomy__meta">
+                  {%- if page.type != 'categories' -%}
+                    {%- if item.categories.size > 0 -%}
+                      {%- for category in item.categories -%}
+                      <a href="{{ site.baseurl }}category/{{ category | replace: '.', '' | slugify }}" title="More properties from this category">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}<span class="taxonomy__sep"> | </span>
+                      {%- endfor -%}
+                    {%- endif -%}
+                  {%- endif -%}
+                  {%- if page.type != 'neighborhoods' -%}
+                    {%- if item.neighborhoods.size > 0 -%}
+                      {%- for neighborhood in item.neighborhoods -%}
+                      <a href="{{ site.baseurl }}neighborhood/{{ neighborhood | replace: '.', '' | slugify }}" title="More properties from this neighborhood">{{ neighborhood }}</a>{%- unless forloop.last -%}, {%- endunless -%}<span class="taxonomy__sep"> | </span>
+                      {%- endfor -%}
+                    {%- endif -%}
+                  {%- endif -%}
+                    {%- if item.built.size > 0 -%}
+                      <span class="taxonomy__meta__group"><b>Built:</b> {{ item.built }}</span><span class="taxonomy__sep"> | </span>
+                    {%- endif -%}
+                    {%- if item.demolition.size > 0 -%}
+                      <span class="taxonomy__meta__group"><b>Demolition:</b> {{ item.demolition }}</span><span class="taxonomy__sep"> | </span>
+                    {%- endif -%}
+                    {%- if item.decade.size > 0 -%}
+                      <span class="taxonomy__meta__group"><b>Decade:</b> <a href="{{ site.baseurl }}decade/{{ item.decade | replace: '.', '' | slugify }}" title="More properties from this decade">{{ item.decade }}</a></span>
+                    {%- endif -%}
+                  {%- if page.type == 'lists' -%}
+                    {%- if item.added-to-NRHP.size > 0 -%}
+                      <br><b>Added to <abbr title="National Register of Historic Places">NRHP</abbr>:</b> {{ item.added-to-NRHP | date:'%B %u, %Y' }}
+                    {%- endif -%}
+                    {%- if item.NRHP-ref-number.size > 0 -%}
+                      <br><b><abbr title="National Register of Historic Places">NRHP</abbr> Reference Number:</b> {{ item.NRHP-ref-number }}
+                    {%- endif -%}
+                  {%- endif -%}
+                  </p>
+                </div>
+              </li>
+              {% endfor %}
+            </ul>
+          {%- else -%}
+            <div class="u__vertical__p u__gutter__p">
+              <p class="h2 taxonomy__title--empty">Sorry, no properties were found.</p>
+            </div>
+          {%- endif -%}

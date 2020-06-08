@@ -1,0 +1,36 @@
+      <header class="l__head">
+        <div class="l__head__wrapper">
+          <div class="brand">
+            <a href="{{ '/' | relative_url }}" class="brand__logo" title="To Home page">ArtInRuins</a>
+            <p class="brand__tagline">Documenting Change since 2002</p>
+          </div>
+          <nav aria-label="Primary">
+            <ul role="list">
+              <li>
+                <a href="#">Architecture</a>
+                <ul role="list">
+                  <li><a href="/arch/?id=historical"><span class="u__sr-only">Archives RI</span><span aria-hidden="true">#ArchiveRI</span></a></li>
+                  <li><a href="/arch/?id=redevelop"><span class="u__sr-only">Not In Ruins</span><span aria-hidden="true">#NotInRuins</span></a></li>
+                  <li><a href="/arch/?id=decay"><span class="u__sr-only">Urban Decay</span><span aria-hidden="true">#UrbanDecay</span></a></li>
+                  <li><a href="{{ '/' | relative_url }}category/usedtobethere/" class="{% if page.permalink == 'category/usedtobethere/' %}active{% endif %}"><span class="u__sr-only">Used To Be There</span><span aria-hidden="true">#UsedToBeThere</span></a></li>
+                  <li><a href="/arch/?id=construction"><span class="u__sr-only">What Are They Building</span><span aria-hidden="true">#WhatAreTheyBuilding</span></a></li>
+                  <li><a href="{% link all-tags.html %}">All Tags</a></li>
+                </ul>
+              </li>
+              <li><a href="{% link about.md %}">About</a></li>
+              <li><a href="{% link links.md %}">Similar Projects</a></li>
+              <li><a href="{% link support.md %}">Support A I R</a></li>
+              <!--<li><a href="#">Contact</a></li>-->
+              <li class="google-search">
+                <form class="google-search__form" action="https://google.com/search" method="get">
+                  <input type="hidden" name="sitesearch" value="http://artinruins.com">
+                  <input class="google-search__input" type="search" name="q" placeholder="Search">
+                  <button type="submit" id="submit" name="google-search" value="Search" class="google-search__btn">
+                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg>
+                    <span class="u__sr-only">Search</span>
+                  </button>
+                </form>
+              </li>
+          </nav>
+        </div>
+      </header>

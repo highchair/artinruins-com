@@ -1,0 +1,23 @@
+<!doctype HTML>
+<html lang="en">
+  
+  {% include head.html %}
+  
+  <body class="l--{{ page.layout }}{% if page.body-class %} page--{{ page.body-class }}{% endif %} no-js">
+    <div id="page-top" class="l">
+      <a href="{% if page.layout == 'property-item' %}#jump-nav{% else %}#content{% endif %}" class="u__sr-only u__sr-only--focusable skip-link">Skip to Content</a>
+      
+      {% include navigation.html %}
+      
+      <div class="l__main">
+        
+        {{ content }}
+
+        {% include footer.html %}
+
+      </div>
+    </div>
+    
+    {% include scripts.html %}
+  </body>
+</html>

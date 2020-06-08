@@ -1,4 +1,6 @@
-_site/
+_stage/
+_prod/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+

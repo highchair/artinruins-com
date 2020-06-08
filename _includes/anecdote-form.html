@@ -1,0 +1,34 @@
+<section id="anecdote-form" class="anec__form__wrapper">
+  <h2 class="o__title--sm anec__form__title">Leave an Anecdote</h2>
+  <p>The information about each building grows as visitors let us know about their experiences. Did you or a member of your family work here? Did you grow up near it as a child? Let us know. All entries will be moderated and may be posted in an edited form. We will use your name unless you tell us otherwise. We will not make your email public.</p>
+  <form name="anecform" method="post" class="anec__form">
+    <fieldset> 
+      <legend class="u__sr-only">Send us your anecdote</legend>
+      <div class="form__group__wrapper">
+        <div class="form__group">
+          <label for="email">Your Email:</label>
+          <input id="email" name="email" type="email" class="form__input form__input--email" placeholder="you@domain.com" required>
+        </div>
+      	<div class="form__group">
+        	<label for="name">Your Name:</label>
+        	<input id="name" name="name" type="text" class="form__input form__input--text" placeholder="First and Last, please" required>
+        </div>
+      </div>
+      <div class="form__group form__pollen" tabindex="-1">
+      	<label for="website">Website:</label>
+      	<input id="website" name="website" type="url" class="form__url form__input--url" placeholder="http://www.domain.com" required>
+      </div>
+      <div class="form__group">
+      	<label for="name">Anecdote:</label>
+      	<textarea name="message" id="message" class="form__input--area" placeholder="Tell us your anecdote" required></textarea>
+      </div>
+    	<input type="hidden" id="property" name="property" value="{{ property.slug }}">
+  	</fieldset>
+  	
+  	<div class="form__submit__group">
+    	<input name="submit" type="submit" id="submit" value="Submit" class="form__submit btn btn--primary">
+        &nbsp; 
+    	<input name="reset" type="reset" id="reset" value="Clear form" class="form__submit btn btn--ghost">
+  	</div>
+  </form>
+</section>

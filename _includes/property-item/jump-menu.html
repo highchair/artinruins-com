@@ -1,0 +1,25 @@
+          <button id="jump-trigger" class="jumper__toggler" type="button" aria-controls="jump-content" aria-haspopup="true" aria-expanded="false" aria-label="Toggle page navigation">
+            <span class="jumper__toggler__icon" aria-hidden="true">⋮</span>
+            <span class="jumper__toggler__text">Jump to a section</span>
+          </button>
+          <div aria-labelledby="jump-trigger" class="jumper__wrapper u__gutter__p">
+            <ul id="jump-list" class="jumper__list" role="list">
+              <li><a href="#gallery" class="jumper__link"><span class="u__sr-only">Property </span>Gallery</a></li>
+              <li><a href="#meta" class="jumper__link"><span class="u__sr-only">Property </span>Details</a></li>
+              <!--<li><a href="#description"><span class="u__sr-only">Property </span>Description</a></li>-->
+              <li>
+              {%- include property-item/content-toc.html 
+                html=page.content 
+                sanitize=true
+                h_min=3
+                h_max=3
+                anchor_class='jumper__link'
+              -%}
+              </li>
+              {% if anecdotes.size > 0 %}
+              <li><a href="#anecdotes" class="jumper__link">Anecdotes</a></li>
+              {% endif %}
+              <li><a href="#anecdote-form" class="jumper__link">Leave an Anecdote</a></li>
+              <li><a href="#page-top" class="jumper__link">Back to Top</a></li>
+            </ul>
+          </div>
