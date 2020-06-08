@@ -1,0 +1,33 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// See: https://jekyllrb.com/docs/assets/
+// The load path '_sass' is assumed and inserted here for every include
+// To change the load path, go to _config.yml and change the value of 'sass_dir'
+
+
+// From https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
+// 
+// Settings – used with preprocessors and contain font, colors definitions, etc.
+// Tools – globally used mixins and functions. It’s important not to output any CSS in the first 2 layers.
+// Generic – reset and/or normalize styles, box-sizing definition, etc. This is the first layer which generates actual CSS.
+// Elements – styling for bare HTML elements (like H1, A, etc.). These come with default styling from the browser so we can redefine them here.
+// Objects – class-based selectors which define undecorated design patterns, for example media object known from OOCSS
+// Components – specific UI components. This is where the majority of our work takes place and our components are often composed of Objects
+// Utilities – utilities and helper classes with ability to override anything which goes before in the triangle, eg. hide helper class
+
+
+// Our functions and helpers
+@import '1_tools/index';
+@import '2_settings/index';
+
+// Output CSS now
+@import '3_generic/index';
+
+// This project
+@import '4_elements/index';
+@import '5_objects/index';
+@import '6_components/index';
+@import '7_templates/index';
+@import '8_utilities/index';

@@ -1,0 +1,107 @@
+---
+layout: taxonomy
+permalink: tags/
+title: "ArtInRuins: All Tags"
+body-class: all-tags
+---
+
+<header class="taxonomy__header">
+              <div class="u__max-width--text u__vertical__pt u__gutter__p">
+                <h1 class="content__title taxonomy__title u__mb--0">{{ page.title }}</h1>
+              </div>
+            </header>
+            <div class="u__max-width--text">
+
+        {%- assign designers = site.pages | where: 'type', 'designers' -%}
+        {%- if designers.size >= 1 -%}
+            <div class="all-tags__wrapper u__vertical__pt u__gutter__p">
+              <h2 class="all-tags__title">Designers</h2>
+            {%- for designer in designers -%}
+              {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
+              <li><a href="{{ '/' | relative_url }}{{ designer.permalink }}">{{ designer.category }}</a></li>
+              {%- if forloop.last -%}</ul>{%- endif -%}
+            {%- endfor -%}
+            </div>
+        {%- endif -%}
+        
+        {%- assign lists = site.pages | where: 'type', 'lists' -%}
+        {%- if lists.size >= 1 -%}
+            <div class="all-tags__wrapper u__vertical__pt u__gutter__p">
+              <h2 class="all-tags__title">Lists</h2>
+            {%- for list in lists -%}
+              {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
+              <li><a href="{{ '/' | relative_url }}{{ list.permalink }}">{{ list.category }}</a></li>
+              {%- if forloop.last -%}</ul>{%- endif -%}
+            {%- endfor -%}
+            </div>
+        {%- endif -%}
+        
+        {%- assign tags = site.pages | where: 'type', 'tags' -%}
+        {%- if tags.size >= 1 -%}
+            <div class="all-tags__wrapper u__vertical__pt u__gutter__p">
+              <h2 class="all-tags__title">Tags</h2>
+            {%- for tag in tags -%}
+              {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
+              <li><a href="{{ '/' | relative_url }}{{ tag.permalink }}">{{ tag.category }}</a></li>
+              {%- if forloop.last -%}</ul>{%- endif -%}
+            {%- endfor -%}
+            </div>
+        {%- endif -%}
+        
+            <div class="all-tags__wrapper u__vertical__pt u__gutter__p">
+              <h2 class="all-tags__category">Places</h2>
+          {%- assign neighborhoods = site.pages | where: 'type', 'neighborhoods' -%}
+          {%- if neighborhoods.size >= 1 -%}
+              <h3 class="all-tags__title">Neighborhoods</h3>
+            {%- for neighborhood in neighborhoods -%}
+              {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
+              <li><a href="{{ '/' | relative_url }}{{ neighborhood.permalink }}">{{ neighborhood.category }}</a></li>
+              {%- if forloop.last -%}</ul>{%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+        
+          {%- assign towns = site.pages | where: 'type', 'town' -%}
+          {%- if towns.size >= 1 -%}
+              <h3 class="all-tags__title">Towns, States</h3>
+            {%- for town in towns -%}
+              {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
+              <li><a href="{{ '/' | relative_url }}{{ town.permalink }}">{{ town.category }}</a></li>
+              {%- if forloop.last -%}</ul>{%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+            </div>
+
+            <div class="all-tags__wrapper u__vertical__p u__gutter__p">
+              <h2 class="all-tags__category">Dates</h2>
+          {%- assign decades = site.pages | where: 'type', 'decade' -%}
+          {%- if decades.size >= 1 -%}
+              <h3 class="all-tags__title">Decades Built</h3>
+            {%- for decade in decades -%}
+              {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
+              <li><a href="{{ '/' | relative_url }}{{ decade.permalink }}">{{ decade.category }}</a></li>
+              {%- if forloop.last -%}</ul>{%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+        
+          {%- assign dates-added = site.pages | where: 'type', 'date-added' -%}
+          {%- if dates-added.size >= 1 -%}
+              <h3 class="all-tags__title">Date Added to <abbr title="Art In Ruins">A.I.R.</abbr></h3>
+            {%- for dateadded in dates-added -%}
+              {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
+              <li><a href="{{ '/' | relative_url }}{{ dateadded.permalink }}">{{ dateadded.category }}</a></li>
+              {%- if forloop.last -%}</ul>{%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+        
+          {%- assign dates-demolished = site.pages | where: 'type', 'demolition' -%}
+          {%- if dates-demolished.size >= 1 -%}
+              <h3 class="all-tags__title">Date Demolished</h3>
+            {%- for datedemo in dates-demolished -%}
+              {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
+              <li><a href="{{ '/' | relative_url }}{{ datedemo.permalink }}">{{ datedemo.category }}</a></li>
+              {%- if forloop.last -%}</ul>{%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+            </div>
+
+          </div>
