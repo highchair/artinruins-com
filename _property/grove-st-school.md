@@ -1,0 +1,98 @@
+---
+title: "Grove Street Primary School"
+slug: grove-st-school
+aka: 
+date-modified: 2020-06-06 17:00
+
+built: 1901
+demolition: 2012
+decade: '1900-1909'
+date-added: 2003
+categories: [ '#UsedToBeThere' ]
+neighborhoods: [ 'West Side' ]
+town: [ 'Providence, RI' ]
+designers: [ 'Designer Unknown' ]
+lists: [ 'National Register of Historic Places' ]
+tags: [ 'Demolition by Neglect', 'Demolition without Permit' ]
+
+NRHP-ref-number: 74000047
+added-to-NRHP: 1974
+
+address: '95 Grove Street, Providence RI'
+latitude: '41.820084'
+longitude: '-71.4345947'
+gmap: "https://www.google.com/maps/place/95+Grove+St,+Providence,+RI+02909/@41.820084,-71.4345947,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459e50925525:0x75cb168fa98908d0!8m2!3d41.820084!4d-71.432406"
+
+meta: ""
+excerpt: "A long fight over the demolition of a former neighborhood school — and a contributing structure to the Broadway-Armory Historic District."
+
+thumbnail: 
+
+images:
+  - url: grove-school-jh-2003-03-01.jpg
+  - url: grove-school-jh-2003-03-02.jpg
+  - url: grove-school-jh-2003-07-01.jpg
+  - url: grove-school-jh-2003-07-02.jpg
+  - url: grove-school-jh-2003-07-03.jpg
+  - url: grove-school-jh-2003-07-04.jpg
+  - url: grove-school-jh-2003-07-05.jpg
+  - url: grove-school-jh-2003-07-06.jpg
+  - url: grove-school-jh-2003-07-07.jpg
+  - url: grove-school-jh-2003-07-08.jpg
+  - url: grove-school-jh-2003-07-09.jpg
+  - url: 09.jpg
+  - url: 10.jpg
+  - url: 11.jpg
+  - url: 12.jpg
+  - url: 13.jpg
+  - url: 14.jpg
+  - url: 15.jpg
+  - url: 16.jpg
+  - url: 17.jpg
+  - url: 18.jpg
+  - url: 19.jpg
+  - url: 20.jpg
+  - url: 21.jpg
+  - url: 22.jpg
+  - url: 23.jpg
+  - url: 24.jpg
+
+imagescredit: 
+---
+
+### Reason for Demolition
+
+The series of events that led to the demolition of the former primary school were long. For years, the Tarro family who owned the building and the land kept it boarded up and barely maintained. The roof leaked but the strong brickwork stood its ground. They sought a demolition permit previously but were denied. Then one weekend in 2007, they started to tear it down themselves without a permit. Members of the WBNA who were on a neighborhood tour caught wind of the illegal demo in progress and got the authorities to stop the demolition. The damage, however, had been done. 
+
+Even with half of one of the walls gone, for years the building stayed upright. Exposed to the elements of a few winters, the building remained. Then finally, after many years of neglect and no attempt to mitigate any of the damage, the family won a judge's order for demolition. From the first strikes in 2007 to its last in 2012, the Grove Street School was a thorn in the side of the City and the Tarro family. 
+
+It should be noted that members of the Tarro family were also attorneys who worked for the City. Why would an attorney break the law and allow an illegal demolition to take place? Maybe because the fine, at only $5000.00, is not enough of a deterrent. 
+
+### Current Events
+
+The lot where the building once stood is still an empty lot, not officially paved or used for parking. 
+
+### History
+
+Built at the turn of the twentieth century, the schoolhouse rises two stories and is topped by a hipped roof and a massive brick chimney. The T-shaped structure is articulated by brick quoins on the corners and modillion blocks at the cornice. Pedestrian entrances are housed within recessed, arched openings located in two-story, hip-roof wings flanking the central block. The arched openings feature brick corbeling and keystones. The building stands on a granite foundation and features a watertable at the raised basement level. Fenestration consists of rectangular window openings with several round-arch openings with granite sills; windows have been boarded up. The property is surrounded by a chain link fence with a small paved parking area.
+
+The Grove Street Elementary School was constructed as a public grammar school during a period of massive immigration. The building first appears on the 1908 Sanborn map and is identified as a “school.” Subsequent maps show that the building has retained its original size and shape over its 100-year existence. 
+
+### In the News
+
+#### WBNA Board Members And Staff At Grove Street School On Saturday To Halt Demolition
+
+_Press Release, February 5, 2007_
+
+WBNA And Neighbors Rally To Save Historic Neighborhood School From Demolition
+{: .o__lead }
+
+Last Monday, February 29, 2007, the West Broadway Neighborhood Association (WBNA) responded to complaints from neighbors of the Grove Street School that workers onsite claimed that the building was going to be demolished. The WBNA sent out an email alert to all of its members and citywide contacts urging them to contact the Mayor. In response to numerous phone calls and emails the City issued a Stop Work Order for the building and attached it to the front door of the school.
+
+Kari Lang, Executive Director of the WBNA, said that she was beginning a tour of the neighborhood with board members as part of the annual board retreat on Saturday, February 3rd. “The tour came to an abrupt stop when a neighbor drove up and announced that the Grove Street School was being demolished.” Board members immediately called the police, city officials and local news stations. “Fortunately, we were nearby the school on our tour and were able to get there in advance of police. We were stunned and dismayed to see the bulldozer was striking the building when we arrived. We told the demolition contractor to stop and after several minutes they did so,” explained Lang. Police, city officials and the Mayor arrived on the scene and confirmed that the contractor was doing work without a demolition permit and against the City’s Stop Work Order. WBNA board members, staff, and other concerned neighbors remained at the school until the demolition crew left and 24-hour police detail set up post to ensure that no further destruction of the building took place.
+
+“The community came together in response to the threat to a treasured historic school building. Their action and the City’s prompt response we hope will change this devastating blow into a preservation victory,” said WBNA board member and neighbor of the Grove Street School, Anne Tait.
+
+On Monday, February 5, the Rhode Island Superior Court issued an Order Granting The City’s Emergency Motion For Injunctive Relief which states that no further demolition or alteration may be made to the Grove Street School. Additionally, the WBNA has been informed by city officials that they are looking at various actions to protect the building, including a Providence Redevelopment Agency meeting on Thursday, February 8th at 4pm at the Department of Planning and Development, 400 Westminster Street, 4th floor to hear plans for the acquisition of the Grove Street School from the current property owners.
+
+The WBNA organizes neighbors and businesses on the West Side of Providence to preserve and protect our diverse, historic, urban community as a safe, vibrant, and sustainable place to live, work, and play.
