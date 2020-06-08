@@ -85,4 +85,4 @@ WARWICK – Demolition of the 19th-century Elizabeth Mill has begun in preparati
 * Gulf Station 2003-04 P4200772.JPG
 
 # Movies
-* Dumb and Dumber: South Water St in the opening. TF Green exterior 6:30 (of course, in the terminal, it's another airport. 21m in, Big Blue Bug off the highway. 
+* Dumb and Dumber: South Water St in the opening. TF Green exterior 6:30 (of course, in the terminal, it's another airport. 21m in, Big Blue Bug off the highway. While there is a rumor that the circular Gulf station served as a Bus terminal, I could not see that in the movie itself. Maybe a deleted scene? 
