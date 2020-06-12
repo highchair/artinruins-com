@@ -8,7 +8,7 @@ Last Updated August 24, 2002
 + Brown's Marvel Gym
 + Eagle Square
 + East Side Auto Repair
-++ GE Building, Cranston
++ GE Building, Warwick
 + Providence Fruit & Produce Warehouse/Tourtellot
 ++ Mason Building (Masonic Temple)
 + Narragansett Brewing Company (Sarah's photos)
@@ -16,7 +16,7 @@ Last Updated August 24, 2002
 + Rocky Point Amusement Park
 + Silver Springs Bleaching &amp; Dyeing
 ++ Silver Top Diner
-++ Sockanosset Boys School, Cranston
++ Sockanosset Boys School, Cranston
 + What Cheer/Louttit Laundry
 
 

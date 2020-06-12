@@ -62,15 +62,19 @@ imagescredit:
 
 ### Reason for Demolition
 
-The series of events that led to the demolition of the former primary school were long. For years, the Tarro family who owned the building and the land kept it boarded up and barely maintained. The roof leaked but the strong brickwork stood its ground. They sought a demolition permit previously but were denied. Then one weekend in 2007, they started to tear it down themselves without a permit. Members of the WBNA who were on a neighborhood tour caught wind of the illegal demo in progress and got the authorities to stop the demolition. The damage, however, had been done. 
+The series of events that led to the demolition of the former primary school happened over years. 
 
-Even with half of one of the walls gone, for years the building stayed upright. Exposed to the elements of a few winters, the building remained. Then finally, after many years of neglect and no attempt to mitigate any of the damage, the family won a judge's order for demolition. From the first strikes in 2007 to its last in 2012, the Grove Street School was a thorn in the side of the City and the Tarro family. 
+The family that owned the property kept it boarded up and barely maintained — no matter how you feel about the family, this was true, the building was underutilized and lightly maintained. They sought a demolition permit previously but were denied because it was a contributing structure in a historic district (a district created in 1988). Then one weekend in 2007, they started to tear it down without a permit. Members of the WBNA who were on a neighborhood tour caught wind of the illegal demo in progress and got the authorities to stop the demolition. The damage, however, had been done. 
 
-It should be noted that members of the Tarro family were also attorneys who worked for the City. Why would an attorney break the law and allow an illegal demolition to take place? Maybe because the fine, at only $5000.00, is not enough of a deterrent. 
+Even with half of one of the walls gone, the building stayed upright for a few more years. Exposed to the elements, the building remained. Then finally, after many years of neglect and no attempt to mitigate any of the damage, the family won a judge's order for demolition. From the first strikes in 2007 to its last in 2012, the Grove Street School was a thorn in the side of the City and the family. 
+
+It should be noted that members of the family were also attorneys who worked for the City. Why would an attorney break the law and allow an illegal demolition to take place? Maybe because the fine, at only $5000.00, is not enough of a deterrent. [We've seen it before]({% link tag/demolition-without-permit.html %}).
+
 
 ### Current Events
 
 The lot where the building once stood is still an empty lot, not officially paved or used for parking. 
+
 
 ### History
 
