@@ -81,14 +81,22 @@ $text-logo-height: 50px;
     
     &__logo,
     &__tagline {
-      margin: 0 auto;
       max-width: $nav-max-width;
+      text-align: left;
     }
   }
   
   @include breakpoint-up(x-large) {
+    padding-top: ($nav-v-padding * 2);
+    
     &__logo {
+      margin: 0 auto;
       width: rem(260);
+    }
+
+    &__tagline {
+      margin: 0 auto;
+      text-align: center;
     }
   }
 }

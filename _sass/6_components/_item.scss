@@ -90,6 +90,16 @@
       li {
         scroll-snap-align: center;
       }
+      
+      // These do not work for Ipad for some reason
+      // I use a media query to target an iPad and undo them
+      @media only screen 
+        and (min-device-width : 768px) 
+        and (max-device-width : 1024px)
+        and (-webkit-min-device-pixel-ratio: 1)  {
+        scroll-snap-type: none;
+        scroll-padding: 0;
+      }
     }
     
     &__figure {      
@@ -147,7 +157,8 @@
     $horiz-sp: 0.5em;
     $vert-sp: 0.375em;
     
-    border: 0.5px solid $color__borders;
+    border-top: 0.5px solid $color__borders;
+    border-right: 0.5px solid $color__borders;
     margin: 0 #{- $horiz-sp} !important;
     
     &__item {
@@ -166,7 +177,7 @@
       }
     }
     
-    @include breakpoint-up(x-large) {
+    @include breakpoint-up(large) {
       display: flex;
       align-items: stretch;
       flex-flow: row wrap;
