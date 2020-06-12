@@ -1,11 +1,185 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: jg-goffs-pub\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: ge-bulova-watch\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: jg-goffs-pub\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: ge-bulova-watch\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &ndash;
+
+# Check validity with http://www.yamllint.com/
+
+- property: ge-bulova-watch
+  person: 'Kyle Baker'
+  date: '2015-10-03'
+  content: 'My father, Lloyd A Baker, designed this building for Bulova in the early seventies. My father was a graduate of RISD school of architecture and was a devotee of the Frank Lloyd Wright style of Modern American Architecture. My father was extremely proud of this design because he was given the freedom to design a building that would be an architectural statement as well as a utilitarian headquarters for what was at the time a progressive and thriving company. The Bauhaus Movement in Architecture from which this design is an offshoot is no longer as Chic as it once was. It breaks my heart to have someone describe this building as ugly. I grew up in a redwood house that my father designed which was very much in the Frank Lloyd Wright tradition. Not many people “get” the genre from which this building was created, but it will always be a source of pride to my family.'
+
+- property: ge-bulova-watch
+  person: 'John Duggan'
+  date: '2011-07-29'
+  content: 'The building is in a flood zone and was damaged during the flood of 2010. Not sure if GE moved out of there before this, but the zoning is a liability and the new owners may have improved the surrounding land to prevent future floods.'
+
+- property: ge-bulova-watch
+  person: 'todd m carden'
+  content: 'well, my father worked in this building as a GE executive from 1973 until GE left – i worked in this building as a janitorial supervisor while in high school 1981 or so... it was a cool looking building inside and out – good to see cars in the parking lot again.'
+
+- property: ge-bulova-watch
+  person: 'Liam Lunchtray'
+  content: 'I was surprised to see the entire left hand wing of this building gutted last week. I drive by every day and hadnt noticed too much going on then all of a sudden its just the 4 walls with no ceiling or interior. Im hoping this means they keep the crazy 60s look tha the place has.'
+
+- property: ge-bulova-watch
+  person: 'Mark McKenna'
+  content: 'This building was built as the Bulova Watch Co. GE moved here in the late 70s/80s from the warehouse complex on Park Ave that now holds State Rug Co.'
+
+- property: sockanosset-boys-school
+  person: 'Ronald Bernier' 
+  date: '2017-08-27' 
+  content: 'I recently published a book titled “The Class of 1969” about my experience as a 16 year old and what led to me being incarcerated. You can check it out on my web <a href="//ronaldbernierauthor.com">ronaldbernierauthor.com</a>. There is a way to contact me. I would like to answer any questions or discuss your experience with the school.'
+
+- property: sockanosset-boys-school
+  person: 'J.C. Walsh' 
+  date: '2011-04-28' 
+  content: 'The Sockanosett Training school has always fascinated me. The look of the buildings, how the gothic architect looked and everytime i was in the in the car with my parents and drove by, or when i someday began driving when i turned 18, i always thought to myself what kind of stories did that place hold. Even though they could be dark i can&rsquo;t help but want to know them not just for the research for a great fictional story but just to learn such history, can anyone help me out?'
+
+- property: sockanosset-boys-school
+  person: 'Linnea' 
+  date: '2010-06-12' 
+  content: 'My daughter and I visited and photographed many of the buidlings just when they were starting to demolish some. When I told my father about it, we found out he used to visit there as the protestant chaplain/social worker. Does anyone remember William Wiltenburg?'
+
+- property: sockanosset-boys-school
+  person: 'Terry Shea' 
+  date: '2009-08-24' 
+  content: 'My dad was a Guidance Counselor at The Training School, as everyone called it, in the 70s and into the early 80s. We used to pick him up for work and I&rsquo;d see kids being dragged in, cuffed. And the implicit threat was that you&rsquo;d wind up there if &rdquo;you were bad&rdquo; and it certainly kept me out of trouble knowing that I&rsquo;d wind up in there with my father!! I was brought into a classroom there by my Father around 1974 or so to demonstrate to some kids that I was able to read at an early age. I think it was an attempt to shame some of the teenagers who weren&rsquo;t able to read yet... I kind of resent this now, as I&rsquo;m sure most of them probabaly wanted to kill this snotty little precocious kid reading his dinosaur book. My dad also helped me build my Pinewood Derby cars for Cub Scouts in the woodshop there... a positive memory... and I became the inheritor of some of the contraband that was confiscated from the some of the kids... but, even then, the place had an air of gloom about it. It epitomizes the early 70s for me'
+
+- property: sockanosset-boys-school
+  person: 'Ruth' 
+  date: '2009-01-05' 
+  content: 'If we heard that a kid was sent to Socko, we trembled. Parents had us convinced that they could simply commit us there or to Oaklawn. One irresponble relative of mine would take his ill behaved child thru Howard and threaten to leave her there.'
+
+- property: sockanosset-boys-school
+  person: 'Bruce Ames' 
+  date: '2008-12-22' 
+  content: 'In June 1944, Arthur E. Marley, Superintendent, Sockanosset, heard a German radio band message about my uncle being shot down over Bremen, Germany during a B-17 bombing raid. Arthur Marley sent a letter to my uncle&rsquo;s wife informing her that her husband was a wounded POW in a Stalag camp. We still have the letter. I was surprised to learn about the difficulties at Sockanosset, but at least one person had a &ldquo;caring spot&rdquo; in his heart. A belated Thank You goes out to Arthur Marley. Does anyone remember him?'
+
+- property: sockanosset-boys-school
+  person: 'sande' 
+  date: '2008-12-20' 
+  content: 'It is really sad that the only impression of this school was for bad kids. Well, I beg to differ. I have 2 uncles and an aunt that were put in this school. In talking to my uncles and doing the family history. Children were also put in this school because there parents did not want them or they couldn&rsquo;t afford to take care of them. My uncles were 6 &amp; 7 and my aunt was 5.They were not all bad boys or girls. They were there because they had no other choice.'
+
+- property: sockanosset-boys-school
+  person: 'Maria Merandi' 
+  date: '2008-09-18' 
+  content: 'My mom went there in 1964. She often told us stories about her and her girlfriend that was pregnant. My mom is quite ill and I would love to surprise her by getting her back in touch with her friend. Does anyone know her or how to get in touch with her??'
+
+- property: sockanosset-boys-school
+  person: 'colleen ray' 
+  date: '2008-07-6' 
+  content: 'Well my little brother Scott Ray, you don&rsquo;t even remember Pepe&rsquo;s name! Not Alfred Gaulin, it was Wilfred! Yes our grandfather was the one taking care of the &ldquo;bad boys&rdquo; while we were growing up. I remember staying at his house, right where the library is now (if anyone has any pictures ot this house please e-mail me) I remember being in the backyard with my Meme and a boy would run through the yard (escaping from the school) and she would let him in to use the phone to call for a ride. Boy Pepe did not like to hear this when he came home. We would go to the built-in swimming pool as kids with him and have a blast!  He was a very firm man. He passed away in 1983. Lots of stories of the &ldquo;bad boys school&rdquo; but to us growing up it was just a normal place that Pepe worked! Again if anyone has pictures of the home that was where the super lived please e-mail me, I can remember that home and everything about it, inside and out. I just wished I had a picture, I spent so much of my childhood there!!  &ndash; Colleen'
+
+- property: sockanosset-boys-school
+  person: 'Michele' 
+  date: '2008-05-28' 
+  content: 'I remember driving by those old, haunted looking buildings and my father would say if you&rsquo;re not a good girl your going there! Not much good said about the site, but at least it is getting fixed up.'
+
+- property: sockanosset-boys-school
+  person: 'Bill' 
+  date: '2008-04-09' 
+  content: 'There was a picture of all of the training school units, with boys in formation in front of each along with the Sockanosset School Band in Building A (Administration) at the RI Training School'
+
+- property: sockanosset-boys-school
+  person: 'ANNIE DEPALO' 
+  date: '2008-03-06' 
+  content: 'i&rsquo;ve lived in Cranston all my live. I remember as a child, my brother and I would be in the back seat and our parents would say &ldquo;that&rsquo;s the BAD boys and girls school... if your BAD.. thats where we are dropping you off&rdquo;  Needless to say... my brother and I were scared everytime we drove by.  In the 80&rsquo;s I remember going to a haunted house with friends on the property. I got so shackin up going through the maze. I have never been able to go into another haunted house again. I am glad they turned the property into a beautiful area where people can shop, live and work, but whenever I drive by, I still see all those abandoned open dorms with broken windows and wonder what those children went through when they lived there many,many years ago.'
+
+- property: sockanosset-boys-school
+  person: 'philgarringer'
+  content: 'When I was a young&rsquo;un back in the seventies, my parents always told me that if I was bad, they would send me off to the &ldquo;Bad Boys&rdquo; school. I was terrified of the place whenever we drove by that area.<br />
+&nbsp;&nbsp;&nbsp;When I was older and read about what they used to do to boys in those big institutions, with people like Margaret Sanger and the eugenics movement and all, well, it boggles the mind, doesn&rsquo;t it?'
+
+- property: sockanosset-boys-school
+  person: 'jay'
+  content: 'i spent the first six years of my life living behind garden city on garden city drive (1954-60). like many a young boy i heard &ldquo;if your not good your going to soccanosett!!&rdquo; scared the living daylights out of me. we drove by it every day along with the coal mine that was next to it. even scarier. mom would say &ldquo;every boy that&rsquo;s gone to explore that coal mine has died in there.&rdquo; nuff said mom. just the word &ldquo;soccanosett&rdquo; was scary. too bad such a beautiful native american word had such a terrible meaning to many children. my uncle was sent there by his father, who was attorney general, back in the 1930&rsquo;s, as a lesson that he meant business. my uncle turned out to be not very nice&hellip; guess the visit did little good. i feel it&rsquo;s kind of creepy making them into condo&rsquo;s but am glad they weren&rsquo;t demolished, beautiful stone work. i&rsquo;ll never be able to drive by them without shuddering though&hellip; '
+
+- property: sockanosset-boys-school
+  person: 'Dave'
+  content: 'I grew up in California, so i never really saw these buildings before i came upon them sometime in 2003, i believe.  I got there at the right time, apparently... during deconstruction, but before any major demolition or changes had been made to the buildings/land.  I managed to get some amazing black and white photography done there.  It was definitely creepy walking around in those old decrepit buildings... and i can understand why after reading some of the comments on here.  Everywhere i walked, the wooden floors that were partially rotting away were creaking, and i felt like i was going to fall through at any given minute.  If anyone is interested in checking out the pictures i took, feel free to email me and ill send them over. '
+
+- property: sockanosset-boys-school
+  person: 'Corey'
+  content: 'Of course it&rsquo;s wonderful that these buildings are being reused for something (anything), but I have to admit I&rsquo;m utterly astonished at the total lack of creativity and insight involved in the project. Here, we had an exceptional set of historic institutional buildings, beautifully and solidly constructed, nicely arranged on an attractive piece of land. There were so many possiblities for something truly unique and beautiful to come out of it - something that Cranston desperately needs. I was thrilled to hear of plans to reuse the buildings, and yet when I drive by today I&rsquo;m disppointed that all anyone could think to do was install another Big Box, complete with requisite sprawling lagoon of parking lot. '
+
+- property: sockanosset-boys-school
+  person: 'Miguel'
+  content: 'Just to let you all know, the Bones found on the property were from about the 1900s and were from a forgotten Graveyard that seems to lie under Rt 37. NOT from any mysteriously missing child from the training school.'
+
+- property: sockanosset-boys-school
+  person: 'Carmen Duran'
+  content: 'I grew up in Providence and as a child remember dreading the look of the place as we drove by. I&rsquo;ve been living in South Florida since 1992 and still have family living in Rhode Island with a brother in Cranston. Recently, my younger sister visted and commented on the place telling me my sister in law told her of the new contruction. We commented on how we always suspected awful things took place there and she told me my sister in law told her that used to be a Boy&rsquo;s Traing School or correctional facilty. Today I came across this site and was astonished at the bits of information of possible torturing of the children and now bones discovered. I think that due to the possiblity of this place having some sort of terrible past there should be more research regarding the matter before continuing contruction. Maybe a Memorial can be built if not on the enterity of the land in a small portion to all those children that suffered and possibly died there.'
+
+- property: sockanosset-boys-school
+  person: 'Timmie T Chatelain Inmate'
+  content: 'I lived in all 3 &ldquo;cottages&rdquo; in two different tours in &ldquo;Soko&rdquo; once when I was 11 (1961) for assault with attempt to do greiviace bodily harm &ndash; a nice legal term for atempted murder and again when I was 14 for violation of probation &ndash; I am now 56 and a Senior Foreign Service Officer for the Department of State &ndash; I can answer one question above &ndash; the 3 tunnels he refers too were Steam heating tunnels &ndash; they provided heat for the unite and hot water for the showers &ndash; we used them to &ldquo;Run&rdquo; when we had enough of the abuse, refered to as &ldquo;discipline&rdquo; used for any infraction of the &ldquo;rules&rdquo; no kid knew all the rules, only the &ldquo;Cottage Masters&rdquo; they threw softballs at us when we did something out of line &ndash; Softballs left no marks since they were being kneaded constantly by the trustees, there was one bastard &ndash; I only knew him as &ldquo;Sarge&rdquo; German man &ndash; former semi pro basketball player (Providence College I think) he used to throw basketballs at us like Dodgeball when we broke his rules &ndash; I did continue my education in Soko was an A student in fact, that cost me dearly as the Cottage masters labled me as a smart aleck &ndash; I spent a lot of hours scrubbing the bathroom and shower floors for being smart??? <br />
+&nbsp;&nbsp;&nbsp;Training school??? yeah, that was the Title, but for the most part, it was a stepping stone to the Big house &ndash; I once spent 11 days in solitary confinement for an infraction &ndash; Painting a picture when I should have been &ldquo;studying&rdquo; I broke &ldquo;their&rdquo; rules &ndash; all in all, the experience made me an institutional kind of guy, I spent 22 years in the Army , 2 combat tours in Vietnam, Cambodia, Mogdishu, Grenada and as a Dept of State Foreign Officer, becaue of Terrorist activities, eavacuations from Monrovia, Liberia; Freetown Sierra Leone, Phnom Penh Cambodia and Jakarta Indonesia &ndash; Yes I am a survivor, I might owe some my toughnest from my experience on 
+&ldquo;Soko&rdquo; but I still wake up somtimes with the silence shattered by the sound of a softball crashing into a locker &ndash; I was shot, bayonetted and blown up in Vietnam and nothing was as frightening as that sound &ndash; he could throw that ball with such accuracey that it wizzed past your head and exploded into the locker next to you... nuff said about that, I am surprised the buildings are still standing... I am a true blue Rhody and have no regrets, but when I read about bones discovered and unidentified, It brings back memories of our &ldquo;cottage masters&rdquo; they could have murdered anyone without blinking an eye'
+
+- property: sockanosset-boys-school
+  person: 'Anthony P. Travisono'
+  content: 'It was wonderful to read some of the words of rememberance of the old training school. I was the superintendent from Jan 1959 to Dec 60, approx two years. My family and I (wife &amp; 5 children) lived in the supt&rsquo;s house. Our youngest daughter, Jeanne, was christened in the chapel on the grounds by the Catholic priest (forgot his name) whose parish was in W Warwick. Bill Gaulin was the mainstay of the staff of the training school. He and his wife and children lived on Sockanosett Rd in a very old, white house. Bill was not happy when I became supt because I was a liberal and he wasn&rsquo;t, at least he pretended he wasn&rsquo;t. I had to go to a meeting in NY one day and called Bill in and told him I was going to be away for 4 days and would he please take care of the kids. He said, &ldquo;I suppose you want me to give him candy!&rdquo; I said, &ldquo;That&rsquo;s about right.&rdquo; I knew what he meant and he knew what I meant and from that day on we got along famously.<br />
+&nbsp;&nbsp;&nbsp;We had two Picards, father and son, working as Youth Supervisors. They too came from W Warwick as did most of the staff. Old man Picard, as he was know, had a beautiful German Shepard Dog, when she had puppies he gave us one whom we named Princess. She was a part of our family for 14 years, a great dog. Many memories come flooding back- I have a lot of stories to tell-by the way, one more...<br />
+&nbsp;&nbsp;&nbsp; I was away one evening giving a speech and there was a little &ldquo;to-do&rdquo; with one or two of the boys. Ray Palmer, Sr. Supv now deceased, a great guy, called our house and asked for me. My wife said I was out; he then asked my wife what he should do about the situation. She told him she wasn&rsquo;t the superintendent and that he should call back around 10 pm and talk to me.<br />
+&nbsp;&nbsp;&nbsp;I am very pleased to see the improvements being made to the old training school.'
+
+- property: sockanosset-boys-school
+  person: 'concerned'
+  content: 'Bones were found on the site &ndash; probably belonging to a child/children. The place has to be haunted: <br />
+<b>Medical Examiner Seeks Help To Identify Bones</b>, 06-24-2006 3:42 AMs <br />
+(Providence, RI) &ndash; The state Medical Examiner&rsquo;s Office has confirmed that bones found in the Garden City section of Cranston are human remains. The bones were found Thursday afternoon by a work crew digging in the area. The ME&rsquo;s Office says the identification of the bones as being human was made visually by an anthropologist at the University of Maine. The investigation will continue in an attempt to provide further information about the remains. (A.I.R.: It was later determined that the bones originated from a forgotten graveyard on the site.)'
+
+- property: sockanosset-boys-school
+  person: 'Nite'
+  content: 'Anyone remember the big red building that was demolished about a decade ago? Anyone have any pictures of it or of its interior, or information on it?'
+
+- property: sockanosset-boys-school
+  person: 'Josh E'
+  content: 'I grew up in the area as I child I was always interested in the look of those buildings. When i got older I went to school for Photography and used to walk the area all the time. I have done some beautiful Black + White photos of those old buildings and am glad to see them being revitalized into something... Their character is being held onto.'
+
+- property: sockanosset-boys-school
+  person: 'Scott Cameron Ray'
+  content: 'Interesting stuff. As a child I spent my time at the bottom of the hill from the boy&rsquo;s detention center. My grandfather &ldquo;ran the place&rdquo;, as he told us. His name was Alfred Gaulin &ndash; I dont even know if the spelling is correct. His house was the only one there I believe, with Garden City right across the street and a patch of woods behind the house with large rocks and salamanders. He drove his old army jeep to work up the hill. Can someone PLEASE give me info on this man. I know not much about him and I long to. Thank you. <a href="mailto:nascarkook@yahoo.com">Scott</a>'
+
+- property: sockanosset-boys-school
+  person: 'Robert Jaz'
+  content: 'Doesn&rsquo;t anyone ever learn form the past?? This entire plot of land is cursed and haunted. I&rsquo;m not making light of this either &ndash; terrible things went on there, as was mentioned above &ndash; no rest will ever come to that horrible place and I will never step foot on that land...'
+
+- property: sockanosset-boys-school
+  person: 'Eric'
+  content: 'I visited there a few years back. I recall there were small tunnels leading out of each of the basements. Does anyone know where they led to?'
+
+- property: sockanosset-boys-school
+  person: 'Mike Walsh'
+  content: 'I am about to publish a book that has a chapter about my experience as a resident of Sockanosset in 1948. Believe me, at that time it was no picnic. The cover of the book shows the basement as it is today, actually 2000 I think, when I toured the place and took video. It was prior to all the vegetation being removed. I call it the toture chamber. I can still see the man&rsquo;s face that dished out the punishment.'
+
+- property: sockanosset-boys-school
+  person: 'Paul Grimshaw'
+  content: 'I love these buildings. Echos of my mother saying &ldquo;If you&rsquo;re not good, I&rsquo;m taking you to Sockanosset!&rdquo; ring in my head every time I drive by. If lofts or condos ever become available, I&rsquo;ll try to be first in line. I spent much of my youth avoiding the place and now it&rsquo;s all I can do to buy a peice of it. Life is so funny.'
+
+- property: sockanosset-boys-school
+  person: 'John'
+  content: 'I remember in the early 90s, Impossible Dream (a local charity org.) and another group &ndash; I think a local special effects company &ndash; put on a haunted house in the building adjacent the sockanossett intersection. It was quite a scary adventure. What a setting! I remember the long lines and the good show they put on. Nice to see family fun like that, something missing nowadays due to things like the Station fire.'
+
+- property: sockanosset-boys-school
+  person: 'P Serpa'
+  content: 'My grandmother was a &ldquo;housemother&rdquo; at the old Training School for Girls which used to be north of the Boys School on the right and bordered Oaklawn Ave. A baseball field is there now. She ran the laundry room there and the girls affectionately called her &ldquo;Mrs. G&rdquo; because her name (Groslouis) was too long. I used to spend Sundays with her there occasionally as a child because in those days the girls&rsquo; offenses were relatively mild compared to the ones today&rsquo;s youth commit. The girls always made a big deal when I visited and painted with me or played cards or other games. I remember that they had a great deal of respect for my grandmother because she always treated them as if they were her own granddaughters.'
+
+- property: sockanosset-boys-school
+  person: 'andrea'
+  content: 'Growing up I used to ride past those buildings on a regular basis, as my grandmother lived nearby. I never grew tired of seeing those old buildings and imagining all the things that went on there in the past. Although I guess it&rsquo;s good that they&rsquo;re not completely demolishing them, I&rsquo;m still sad that such a cool piece of history is being turned into yet another shopping center.'
+
+
+- property: christ-episcopal
+  person: 'Lillian Johnson'
+  date: '2020-06-02'
+  content: 'I taught at Oxford st school 1959-1960 and got off the Eddy St bus and walked past this church each day. I also visited as a member of The Girls Friendly Society as a youngster. Both the school and the church are gone but they were lovely buildings.'
 
 - property: hope-webbing-boiler
   person: 'Mike F'
@@ -16,6 +190,127 @@
   person: 'anthony roccio'
   date: '2010-06-28'
   content: 'I remember having band practice in front office in mid 80s so sad how time erodes. beutiful landmarks'
+
+- property: grove-st-school
+  person: 'Sherrie Butts' 
+  date: '2017-12-06' 
+  content: 'I went to this school from 1968-1970 when I lived on Bernen st which was right behind the school. I have no idea what made me even look this up today but I’m glad that I did now so that I could just say that this school is obviously near and dear to me as I now live in West Virginia and don’t get to visit often. I’m now almost 55 yrs old and still remember my 1st grade teachers name was Mrs Mactaz, she was so good to me as my parents were going through a divorce at that time and she treated me like I was her own child. I truly hope that there is some way to make repairs on this beautiful old building, instead of tearing it down. (A.I.R.: Sorry Sherrie, it was torn down in 2012)'
+
+- property: grove-st-school
+  person: 'Al' 
+  date: '2017-05-11' 
+  content: 'This looks very similar to the old Manton Avenue school on the corner of Fruit Hill and Manton Avenue. It was sad to see it go, but these buildings, when not in use, are just dangerous. Between drug squatters, people who steal the copper inside and vandals they just aren&rsquo;t redeemable once they fall into decay. It&rsquo;s sad. The Manton Ave school was there since 1890. '
+
+- property: grove-st-school
+  person: 'Daniel' 
+  date: '2010-09-21' 
+  content: 'I&rsquo;ve changed my mind. A year or so ago I wrote that the school should be a school again. It&rsquo;s not going to happen; the thing&rsquo;s been half-demolished for 2+ years. Besides which, other school buildings stand vacant in the neighborhood (Holy Ghost, West Broadway Elementary). The BEST thing that could happen at this point would be for the demo to continue and the property be turned into a park. The neighborhood could use it, that&rsquo;s for sure. I just bought a house (to move into) a block away and my biggest concern is safe greenspace for my kids.'
+
+- property: grove-st-school
+  person: 'Jake' 
+  date: '2010-09-19' 
+  content: 'I used to rent the third floor apartment directly across from the school, 94 Grove st. I lived there for about a year, I left about 2months ago to live on broadway, and never have I seen anybody going in, nor have I seen rats, the only thing I did see is that people were using it as a dumpyard, I recently went to the rally for it, and learned that there are investors that want to buy it, and they have a grant for 1.4 million dollars to fix it up. If it were anyone else that tried to domolish it, we&rsquo;d be in big trouble if we pulled a stunt like he did.'
+
+- property: grove-st-school
+  person: 'Roger W.' 
+  date: '2010-06-29' 
+  content: 'Beverly, you may have USED to live on Ring Street, but I actually still live less than half a block from the Grove Street school, it&rsquo;s still a hotspot for rats and baseheads. Whoever said that the police are watching this place &ldquo;24 hours a day&rdquo; doesn&rsquo;t live around here, because the cops cruise through maybe three or four times a day, tops. Living that close to a combination rat factory, crackhouse and public toilet is a definite drag. I hope the city fines the Tarros for trying to weasel around the permit requirements, and then has someone tear this shit down before it gets even nastier.'
+
+- property: grove-st-school
+  person: 'Beverly' 
+  date: '2010-04-24' 
+  content: 'Used to live a block from this place (on Ring Street). I never noticed any of the suppossed crackheads or potential &ldquo;rappists&rdquo; that some alarmists seem to live in fear of. Gosh, I had crackheads re-siding the place I lived, but they weren&rsquo;t living in the school. There should be a revision of how long buildings can sit vacant... to prevent people from buying them, encouraging them to rot beyond belief, then knocking them down w/o any real reason. That funeral home already has a TON of parking, and there is plenty of space on the side streets &amp; Broadway. Our view from our back window was parking lots straight to Broadway. Parking lots do nothing for the character of a neighborhood... but then again, neither do funeral homes.'
+
+- property: grove-st-school
+  person: 'Sue' 
+  date: '2010-04-10' 
+  content: 'JUSTICE IS SERVED... the school is coming down. Finally, an authority figure had the nerve to stand up to the City of Providence and their picking and choosing what gets demolished and what does not... regardless of the &ldquo;historical&rdquo; value of the property or the political connections. Way to go Judge Procacini! Richard, Carol, Greg and Stephen... hope you are smiling!'
+
+- property: grove-st-school
+  person: 'David'
+  content: 'I would like all of you who think of this school as such a great haven to take a second and think of the following; This building has sat unattended to for nearly 30 years!! Think about it, the floors are ready to give way, and the building is much to small to create any type of income. I would like to speak for the people who really care about the children, and the health and safty risks this building poses to the public. What if kids are in there palying arround and the floors let go!! What if a girl is rapped in this vacent building!! What abouit drug deals, and drug user!!! there are many signs of drug usage in this building. If this building has done nothing for 30 years than take it down before it takes someones life. To me life is gretaer than this old piece of shit building!!'
+  
+- property: grove-st-school
+  person: 'Carla'
+  content: 'I have known the Tarro Family since I was a little girl, and it disgusts me to hear such negative things about the family. they are hard workers, and want the best for the future generation to come I am saddened about the deaths of the youngest siblings. I feel that all of the negativity from the community regarding the school caused all of these problems for the family to the point where a brother is no longer with us (Solely my opinion). The stress must have been so much for Stephen Tarro that he had no other out. Who cares about the old school. I remember living in Rhode island with one of the sisters and visiting the funeral home and looking across to parking lot to find homeless people and crack heads breaking the windows to climb in. Let’s talk about what is ok! Do you really want that in your neighborhood? All they wanted was a parking lot so that they could move on with their lives and be able to accommodate your family and friends when a loved one passed away. Do tell the real reason why this has all happened!! Pure envy. Everyone in Rhode Island is to preoccupied dabbling in everyones business instead of trying to make the world a better place and helping your fellow man. let the Tarros do what they need to do. They have been through enough. Now go on your way and leave them alone and Oh, mind your own businesses. I blame the people of Providence for all of the demons that surround the Tarros.'
+
+- property: grove-st-school
+  person: 'martin austin'
+  content: 'hi, i hope they save the school, im from the uk and these developers are scum, our history is being destroyed, its not green, its not moral, and its not environmentaly friendly'
+
+- property: grove-st-school
+  person: 'Daniel'
+  content: ' I am personally a little bothered that the only factors in favor of preservation are (1) it&rsquo;s a lovely building and (2) it could be turned into condos. I agree that it&rsquo;s a lovely building, and my stomach twists to think what might be put in its place. And I guess it could be profitably turned into condos, if the economy heats up or Federal Hill becomes the &ldquo;it&rdquo; neighborhood in Providence. But personally, I&rsquo;d like to see it become a school again. I moved from Boston, where I taught in a school that combined racial and socioeconomic diversity with academic rigor. Providence&rsquo;s schools are not serving Providence&rsquo;s kids. I can&rsquo;t think of a lovelier facility or more central location than this! As much as those of us who react viscerally to improvement-by-demolition hate it, empty schools can&rsquo;t last too long. Bring the kids back to Federal Hill, and to Grove Street School.'
+
+- property: grove-st-school
+  person: 'Calvin Tawney'
+  content: 'For goodness sakes, let them tear this old heap of bricks down. I grew up in this neighborhood in the 1950s. It&rsquo;s a bygone era. Just let it go. It&rsquo;s time to renew.'
+
+- property: grove-st-school
+  person: 'mary becker'
+  content: 'my father was the principal there from the 1950&rsquo;s until it closed.'
+
+- property: grove-st-school
+  person: 'James'
+  content: 'Now that we know what everyones feelings are about this property, does anyone know if there are toxic levels of asbestos or other contaminants) being released in our neighborhood by the un-encapsulated state of the building?'
+
+- property: grove-st-school
+  person: 'Trish'
+  content: 'To Raymond and all other posters who don&rsquo;t know what they are talking about should take a hard look at the facts before posting. There is no Theresa Tarro. And the Tarros do live in the neighborhood. Susan, I cannot agree with you more on the late Mrs. Carol Tarro and late Mr. Richard Tarro &ndash; they both offered so much to the community. And the fact that people are calling them jerks is unbelievable. The school, yes is historic, but it has been sitting there vacant for decades and is an eyesore. It&rsquo;s only occupants are punks and rats. Stating your opinions about saving a historic building is one thing but attacking a good name is just unexcusable. I agree with Susan. Keep the personal attacks out! I hope all of you are happy with in what this awful situation has resulted. Read the paper!'
+
+- property: grove-st-school
+  person: 'Zaidee'
+  content: 'I live right down the street from the school and was shocked one morning to bike by and see a huge chunk ripped out of it. I went back a couple days ago to take some pictures of it while it was snowing. It&rsquo;s so sad we are losing more and more of the beautiful architecture that to me helps makes this city what it is.'
+
+- property: grove-st-school
+  person: 'Sophie'
+  content: 'I live around the corner from this beautiful school building. It&rsquo;s a crying shame to see such a beautiful building destroyed, especially at a time when so many people are working to breathe new life into this city by restoring it&rsquo;s historic architecture. The building had a lot of potential &ndash; as a family home, as a multi-family condo unit, as a community centre, or as an art space. By illegally and irreparably destroying such a gem, the Tarros have hurt west broadway and the city of Providence. Until Providence manages to put some teeth in its laws, we will be hostage to this sort of thuggery and profiteering.<br />
+		&nbsp;&nbsp;&nbsp;Incidently, the demolition job at Grove street was carried out by the same Johnston thugs who started demolishing the Pawtucket/Central falls Railway: Bilray Demolition. These people need to be stopped! '
+
+- property: grove-st-school
+  person: 'James'
+  content: 'I&rsquo;ve just learned that this school had an unfortunate &ldquo;surprise attack&rdquo; of sorts. The owners, without a permit, started demolition and no doubt distroyed it before someone had the good sense to call the proper city hall reps to the site to stop work on the demo. I understand that this building has had a rather bad recent few years with all that &ldquo;Roger W.&rdquo; stated below but common sense should tell you that this building is NOT better leveled than rehabbed. If rehabbed properly, the property values around this location would go UP! While some regard this as tax trouble, others regard this as a good investment made better. I have seen these sorts of buildings razed for other plans and the result is always awful! The architect of today is not given the tools to make a building as beautifull as this. This is something that can ONLY be made prior to WWII. I have always said that if a building cannot be made again in the same style without a 9 figure grant, it shouldn&rsquo;t be torn down! Historic scenery enhances a place. Why more people don&rsquo;t understand this, is baffeling!? I understand the owners have a business nearby that requires more parking and that is why they want to erase this piece of history and fine example of a bygone era in architecture. Where I come from, we call that squandering and selfish. Pure and simple. Many years ago I tried in vein to do what I could to save the Manton and Fruithill Avenue school but was uncomfortabley way out of my league. It was demolished in 2002 and is now the site of a very unattractive 1 story building. Why anyone would want something like this to happen again is unimaginable. We as a city need to support groups like the preservation society so that landowners like this do not destroy our beautifull landscape one bad idea at a time. I beleive the penalty for this infraction of demo without proper permission is $500 a day. Is this a joke? I knew it would be low but what kind of arrogant land developer wouldn&rsquo;t ignore this and rip into it if it may cost $500 a day? This is an outrage. The very first thing that should be done is to raise that amount to something that would be quite inconvenient. That cost wouldn&rsquo;t deter even the poorest of developers. This website is invaluable and I want to thank the webmasters for making a difference in our landscape. If it weren&rsquo;t for people like this, we&rsquo;d be living in a very different kind of world.'
+
+- property: grove-st-school
+  person: 'Anne Tait'
+  content: 'The building was being demolished this morning even though there was a stop order on its demolition this week. The owners (the demo team) say they were requested to demolish it by Theresa(?) Tarro of Miami FL but no demolition permit was issued (the building inspector for the city came this morning as did the Mayor). It is being watched by the police 24 hours a day. It seems that the Tarros figure that now they have got what they want. The building is damaged so it can be condemned and then torn down. First neglect then damage then poof, they&rsquo;ll have a nice parking lot. Somehow this doesn&rsquo;t seem right that historic buildings and a city-owned former school can be put into the hands of these sleazy owners who screw the neighborhood from Florida and who don&rsquo;t even live in the neighborhood they&rsquo;re screwing. Not that this is a new event. Hey, paolini&rsquo;s office is around the corner too.'
+
+- property: grove-st-school
+  person: 'Bill'
+  content: 'I recently moved just down the street from this school and have fantasized about buying it and renovating it since I first saw it. I did/do not know the Tarro&rsquo;s and I assume that the children are the ones who have the funeral home and the newly renovated law office on Broadway. If that is so then I can understand why they would want it for parking and I can&rsquo;t fault them for it, especially since I would not comment on people I have no personal interaction with. I recently (1/29/07) received an email that demolition is about to begin and that the pipes are being removed in anticipation of the demo. It is sad because I really would&rsquo;ve loved to turn that into a unique home one day (the property value is under 200k and even 200k in renovations would still result in a beautiful and unique home under 400k in a great neighborhood). But, like I said I can&rsquo;t fault them for wanting to increase the parking in the area since it is tough to come by and especially if they operate businesses on Broadway. But on the flipside, there are a handul of buildings I would love to see demo-ed and turned into parking before we knock down this gem.'
+
+- property: grove-st-school
+  person: 'Glenn'
+  content: 'I agree with Susan. Richard Tarro was a kind and gentle man, and all of his friends and family sorely miss him. My mother grew up with him on the Hill, and they remained friends for a lifetime. Yes, it would be a shame to lose the school to a parking lot, but let&rsquo;s keep personal attacks out of this forum.'
+
+- property: grove-st-school
+  person: 'Corey'
+  content: 'Unfortunately, Susan, you seem to be the only person who approves of this family, or their actions, so frankly, I don&rsquo;t think anybody believes you. I also think that Federal Hill&rsquo;s &ldquo;best interest&rdquo; is a very subjective issue, and if you&rsquo;re of the generation that insists on urban renewal, of course you&rsquo;re going to be a proponent of 3 blocks of surface parking. Do yourself a favor, and take a trip to Savannah, GA, for a long weekend, and see what preservation can really do for us. I think everything should be done to save this place, and others like it. There&rsquo;s a lot more to all this than just Victorian mansions and Brown University&rsquo;s table scraps. '
+
+- property: grove-st-school
+  person: 'Larry'
+  content: ' Unfortunately the fate of this beautiful building follows a national pattern. Very many of my generation, the baby boomers, have forsaken their history and cultural heritage to pursue materialism and ego, and worship wealth. With that, wondeful historical structures like the Grove St. School will fall to the same effective underhanded tactics, which is to send the historic buildings into disrepair and even intentionally damage them to induce condemnation. The shallow disregard is made so very clear with the &ldquo;eyesore&rdquo; and &ldquo;jealousy&rdquo; comments from those who hold no value on their history and culture, and only see their own ego or personal gain as the main priority. I wish the best to those who have not forsaken community values and wish to preserve these structures. It is wise for all of us to hold our elected officials responsible in being proper guardians for these public properties. The Grove St. School, like many, was likely sold to pad public coffers and offset some red ink, but no regard for the fate of this historic structure was included in this sale. I fear these wealthy owners will likely win in this battle as they destroy this beautiful piece of history for their own gain. As the old saying goes, there are no rich people in heaven.'
+
+- property: grove-st-school
+  person: 'Susan'
+  content: 'I would personaly like to respond to &ldquo;Raymond&rdquo;. First of all, Richard Tarro was and is (as you are well aware, he is deceased) one of the most generous and kindness men that I ever knew, next to my own father. You obviously did not know this man who gave so much to the Federal Hill community, Holy Ghost Church, the elderly and pretty much any human being or four legged creature that came into contact with him. His selflessness stood out when he was alive and is still praised to this day by all that knew him. He loved this neighborhood as much as he loved his own family and friends. Mr. Tarro, as well as his own father was a State Representative for the area and had only Federal Hill&rsquo;s best intersts at heart. He was a stand up guy that put his name to anything and everything that he believed in and his children are and will continue to do the same with their Family business and in their own lives. As for the &ldquo;Tarro Boys&rdquo;, obviously you do not know them either, because ALL the Tarro children, not just the boys, share the same generous, selflessness traits that both their parents passed on to them. I have always been told that jealousy is the root of all evil, and it could not be clearer that it centers your world. To try to deter a family business that has been in this area for well over 80 years from growing and developing with the rest of the Federal Hill area, is simply just JEALOUSY.'
+
+- property: grove-st-school
+  person: 'Raymond'
+  content: 'In the earlry 80&rsquo;s my friends and I went into this school a couple if times. We were 12 or 13 at the time. It was a fallout shelter, as one of the pics still had the fallout sign on building, and in there they had red hard hats, excersize bikes in boxes, tins of crackers, and these cardboard tiolets. I don&rsquo;t remember the layout that well but we made a makeshift clubhouse on the top floor. Put three of the tiolets and screens to block the view of the top from the bottom of the stairs. You used to be able to enter from the back of the building through a busted door and go through what I believe was the old cafe. The Tarros are jerks, always have been. The father if he is still alive was the biggest a-hole. It&rsquo;s a shame to see them ruining the building to get it torn down. I hope the funeral place down the street puts them out of business. It is a shame they don&rsquo;t make that some kind of club for the neighborhood kids.'
+
+- property: grove-st-school
+  person: 'Lou Fancy'
+  content: 'I don&rsquo;t know if you&rsquo;ve been inside the school recently but it looks like people have been pulling apart the stairwells to make them unsafe and piling things up at the bottom. One section of stairs has already been collaped. I&rsquo;ve seen plenty of collapsed stairs before but what got me is the relatively good condition of the rest of the building. It took me about 2 seconds to realize that someone was collapsing the stairs on purpose.'
+
+- property: grove-st-school
+  person: 'Roger W.'
+  content: 'Thank God! I live around the corner from the school on Almy St., and in the past couple of years, it&rsquo; s been used as a crack house, had a series of small fires, and has, in general, been a total eyesore. Would it be better off as a school? Of course it would be, but since the police can&rsquo;t be around 24 hours a day to keep people out of it, it will be better off as a parking lot than as it currently stands.'
+
+- property: grove-st-school
+  person: 'Peter'
+  content: 'I live right behind this building. It is beautiful, and a shame that no one in the city (ahem, to the owners) has used it in a productive way; e.g., rehabbed it into a community/rec center of sorts for the massive amounts of kids who live in this five square block area. The parking lots are no longer in use, and haven&rsquo;t been as long as i&rsquo;ve lived here, about a year now.'
+
 
 - property: jg-goffs-pub
   person: 'Ross'
