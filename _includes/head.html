@@ -30,9 +30,9 @@
     <meta property="og:site_name" content="{{ site.title }}">
   
     <title>{{ meta_title }}</title>
-    <meta name="description" content="{{ meta_description | truncate: 140 }}">
+    <meta name="description" content="{{ meta_description | strip_html | truncate: 140 }}">
     <meta property="og:image" content="{{ meta_image }}">
-    {%- if page.categories -%}<meta property="og:article:section" content="{{ page.categories.first }}">{%- endif -%}
+    {%- if page.categories -%}<meta property="og:article:section" content="{{ page.categories.first | strip_html }}">{%- endif -%}
     {% if page.date-modified %}<meta property="og:article:modified_time" content="{{ page.date-modified }}">{% endif %}     
     
     <link rel="stylesheet" type="text/css" href="{{ '/' | relative_url }}assets/css/main.css?{{ "now" | date: "%Y%m%d-%H%M" }}">
