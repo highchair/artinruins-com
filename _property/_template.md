@@ -6,6 +6,7 @@ date-modified: 2020-05-02 12:00
 
 built: 
 demolition: 
+redeveloped: 
 decade: '1940-1949'
 date-added:
 categories: [ '#UsedToBeThere' ]

@@ -50,6 +50,9 @@ sitemap:
           {%- if item.demolition.size > 0 -%}
             <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Demolition:</b> {{ item.demolition }}</span>
           {%- endif -%}
+          {%- if item.redeveloped.size > 0 -%}
+            <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Redeveloped:</b> {{ item.redeveloped }}</span>
+          {%- endif -%}
         </p>
       </div>
     </li>

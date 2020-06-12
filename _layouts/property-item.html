@@ -111,6 +111,9 @@ layout: default
                 {%- if page.demolition.size > 0 -%}
                   <strong>Demolition: </strong> <a href="{{ site.baseurl }}demolition/{{ page.demolition | replace: '.', '' | slugify }}">{{ page.demolition }}</a><br>
                 {%- endif -%}
+                {%- if page.redeveloped.size > 0 -%}
+                  <strong>Redeveloped: </strong> {{ page.redeveloped }}<br>
+                {%- endif -%}
                 {%- if page.date-added.size > 0 -%}
                   <strong>Date Added: </strong> <a href="{{ site.baseurl }}date-added/{{ page.date-added | replace: '.', '' | slugify }}">{{ page.date-added }}</a>
                 {%- endif -%}

@@ -50,6 +50,9 @@
                     {%- if item.demolition.size > 0 -%}
                       <span class="taxonomy__meta__group"><b>Demolition:</b> {{ item.demolition }}</span><span class="taxonomy__sep"> | </span>
                     {%- endif -%}
+                    {%- if item.redeveloped.size > 0 -%}
+                      <span class="taxonomy__meta__group"><b>Redeveloped:</b> {{ item.redeveloped }}</span><span class="taxonomy__sep"> | </span>
+                    {%- endif -%}
                     {%- if item.decade.size > 0 -%}
                       <span class="taxonomy__meta__group"><b>Decade:</b> <a href="{{ site.baseurl }}decade/{{ item.decade | replace: '.', '' | slugify }}" title="More properties from this decade">{{ item.decade }}</a></span>
                     {%- endif -%}
