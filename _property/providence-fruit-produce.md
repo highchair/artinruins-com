@@ -105,7 +105,7 @@ imagescredit: Contributions by Davis, Gemma, Lou Fancy, Robert Brewster from the
 
 ### Reason for Demolition
 
-We mourn the loss of the Fruit and Produce Warehouse, which through a series of unfortunate events and a pattern of neglect, had to come down for public safety reasons. This warehouse represents the last major component of an important historic district — the Provisions Warehouse District. When the Merchants Cold Storage building came down in 1998, we should have known that the rest of the district was doomed. If a developer with vision could have redeveloped the structurally sound but completely unfinished and vagrant-infested [Masonic Temple]({% link _property/masonic-temple.md %}), why not this building?
+We mourn the loss of the Fruit and Produce Warehouse, which through a series of unfortunate events and a pattern of neglect, had to come down for public safety reasons. This warehouse represents the last major component of an important historic district — the Provisions Warehouse District. When the Merchants Cold Storage building came down in 1998, we should have known that the rest of the district was doomed. If a developer with vision could have redeveloped the structurally sound but completely unfinished and vagrant-infested [Masonic Temple]({% link _property/masonic-temple-pvd.md %}), why not this building?
 
 #### Links
 + [Erik Gould Projects — Providence Fruit and Produce Warehouse](//www.erikgouldprojects.com/coldcoffee/2015/4/26/providence-fruit-and-produce-warehouse){:target="blank"}

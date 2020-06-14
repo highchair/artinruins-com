@@ -20,7 +20,7 @@ We believe the state said it best in the introduction of their 2002 tax credit b
 
 ## Mission
 
-To document the changing architectural landscape and to collect the oral and written history of these important places.
+Document the changing architectural landscape and to collect the oral, written, and photographic history of these important places. Be a safe space for storytelling, memory-sharing, and dreaming about the future of our built environment. 
 {: .o__pull-quote }
 
 As Providence continues to grow, many industrial and historic buildings are being razed to make way for chain stores and expensive loft apartments. What happens to the artists, musicians, and small businesses that inhabited them? What happens to the City as they are forced to move away? What happens to our connections with history? What do we really lose when we don’t preserve our past? These are some of the questions ArtInRuins tries to discuss.
@@ -29,7 +29,7 @@ We also want to celebrate the region’s great history. At the turn of the 20th 
 
 ## Our Roots
 
-In 2001, a development corporation by the name of Feldco approached the city of Providence to raze the a mill complex and put in a shopping center. That mill complex was known as Eagle Square and was home to a collective of artists called *Fort Thunder*. Eagle Square quickly became a rallying cry. Protests ensued. The development went forward but the new plans saved a few of the buildings and converted them to retail use. The replacement buildings were slightly better (than they might have been if the outcry did not happen), with brick facing and massing more similar to their historic counterparts. 
+In 2001, a development corporation by the name of Feldco approached the city of Providence to raze the a mill complex and put in a shopping center. That mill complex was known as [Eagle Square]({% link _property/eagle-square.md %}) and was home to a collective of artists called *Fort Thunder*. Eagle Square quickly became a rallying cry. Protests ensued. The development went forward but the new plans saved a few of the buildings and converted them to retail use. The replacement buildings were slightly better (than they might have been if the outcry did not happen), with brick facing and massing more similar to their historic counterparts. 
 
 While Eagle Square was a failure in some ways — artists were forced to move out and the shopping center went forward, albeit with a more sensitive design — it spawned some important artist organizations, some of which remain today (2020, the year of this writing). Those include The Steel Yard, Monohassett Mills, The Hive Archive, The Plant (alas its non-profit real estate developer, Puente, is no longer), and this blog. 
 

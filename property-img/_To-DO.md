@@ -54,6 +54,9 @@ caption: Providence Historical Aerial Viewer 2008
 # Hartford Avenue apartments
 * Find Micheal Tucker Terzian's photo of the demolition
 
+# Red Fez
+* There is a photo of this building from 1977 in the Downtown Providence Historic District for the National Register
+
 # Silver Spring
 * Find the old photos and rescan them. All are poor quality. 
 
