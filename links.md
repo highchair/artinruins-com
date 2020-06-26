@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: links/
-title: "Similar Projects"
+title: "Similar Projects | ArtInRuins"
 body-class: links
 ---
 

@@ -1,8 +1,24 @@
 {%- assign meta_title = site.title -%}
+{%- assign meta_title_trailer = site.title | prepend: ' | ' -%}
+{%- assign meta_title_truncate = 60 | minus: meta_title_trailer.size -%}
 {%- assign meta_description = site.description -%}
 {%- assign meta_image = "artinruins-social-card.jpg" | prepend: site.image_path | prepend: site.baseurl -%}
-{%- if page.title -%}
-  {%- assign meta_title = page.title | append: " | " | append: site.title -%}
+{%- comment -%}
+  
+  Page Title, order of importance
+  - By default, meta_title is the site title only
+  - If this is a property item, form a title with the page.title and add the trailer
+  - OR if this is a page with a title (as all should have), use that
+  - If this page has a custom Meta title, use that instead (trumps all)
+
+{%- endcomment -%}
+{%- if page.path contains '_property' -%}
+  {%- assign meta_title = page.title | truncate: meta_title_truncate | append: meta_title_trailer -%}
+{%- elsif page.title -%}
+  {%- assign meta_title = page.title -%}
+{%- endif -%}
+{%- if page.meta-title -%}
+  {%- assign meta_title = page.meta-title -%}
 {%- endif -%}
 {%- if page.meta -%}
   {%- assign meta_description = page.meta -%}
