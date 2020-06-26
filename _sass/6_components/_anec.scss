@@ -65,6 +65,22 @@
         top: -0.25em;
         left: -0.4em;
       }
+      
+      // Zero out default blockquote styles
+      p {
+        font-style: normal;
+        padding-left: 0;
+        
+        &::before,
+        &::after {
+          content: '' !important;
+        }
+      }
+      
+      // Add a visual break when there are multiple <p>s
+      p + p {
+        text-indent: 1.5rem;
+      }
     }
     
     /*figcaption*/&__meta {
