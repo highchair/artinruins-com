@@ -69,6 +69,7 @@ images:
   - url: marvel-gym-jh-2001-11-04.jpg
   - url: marvel-gym-jh-2001-11-05.jpg
   - url: marvel-gym-jh-2001-12-01.jpg
+  - url: marvel-gym-jh-2020-06-01.jpg
 
 imagescredit:  
 ---

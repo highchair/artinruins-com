@@ -2,7 +2,7 @@
 title: "Masonic Temple"
 slug: masonic-temple-pvd
 aka: "Marriott Renaissance Hotel"
-date-modified: 2020-06-12 14:00
+date-modified: 2020-06-19 14:00
 
 built: 1926
 demolition: 
@@ -27,9 +27,17 @@ gmap: "https://www.google.com/maps/place/5+Ave+of+the+Arts,+Providence,+RI+02903
 meta: ""
 excerpt: "This Neo—Classical Revival structure stood unfinished for 80 years before finally getting a new life as a hotel in 2004."
 
-thumbnail: 
+thumbnail: masonic-temple-jh-2002-02-01.jpg
 
 images:
+  - url: masonic-temple-eg-1992-01.jpg
+    caption: Photo by Erik Gould, 1992
+  - url: masonic-temple-eg-1992-02.jpg
+    caption: Photo by Erik Gould, 1992
+  - url: masonic-temple-eg-1992-03.jpg
+    caption: Photo by Erik Gould, 1992
+  - url: masonic-temple-eg-1992-04.jpg
+    caption: Photo by Erik Gould, 1992
   - url: masonic-temple-jh-2002-02-01.jpg
   - url: masonic-temple-jh-2002-02-02.jpg
   - url: masonic-temple-jh-2002-02-03.jpg
@@ -75,8 +83,9 @@ images:
   - url: masonic-temple-jh-2005-06-05.jpg
   - url: masonic-temple-jh-2006-03-01.jpg
     caption: A new steel interior structure is constructed
+  - url: masonic-temple-jh-2020-06-01.jpg
 
-imagescredit: 
+imagescredit: Contributions from Erik Gould.
 ---
 
 ### Redevelopment

@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Jenks and Ballou Architects' ]
-lists: [ 'PPS Ten Most Endangered', 'A.I.R.’s Lead Brick List', 'HABS HAER', 'National Register of Historic Places' ]
+lists: [ 'PPS Ten Most Endangered', 'A.I.R.’s Lead Brick List', 'HABS HAER', 'National Register of Historic Places', 'Provisions Warehouse District' ]
 tags: [ 'Concrete', 'Demolition by Neglect' ]
 
 NRHP-ref-number: 05000583
