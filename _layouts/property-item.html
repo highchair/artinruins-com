@@ -97,8 +97,10 @@ layout: default
                   {%- endfor -%}
                 {%- endif -%}
                 {%- if page.town.size > 0 -%}
-                  <strong>Town: </strong> 
-                  <a href="{{ site.baseurl }}town/{{ page.town | replace: '.', '' | slugify }}">{{ page.town }}</a>
+                  <strong>{%- if page.town.size >= 2 -%}Towns{%- else -%}Town{%- endif -%}: </strong> 
+                  {%- for town in page.town -%}
+                  <a href="{{ site.baseurl }}town/{{ town | replace: '.', '' | slugify }}">{{ town }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+                  {%- endfor -%}
                 {%- endif -%}
                 </li>
                 <li class="item__cats__item item__cats__duration">
@@ -178,7 +180,7 @@ layout: default
               <li id="{{ anecdote.date | date: "%Y-%m-%d" }}" class="anec__list__item">
                 <figure class="anec__dote">
                   <blockquote class="anec__dote__content">
-                    {{ anecdote.content }}
+                    {{ anecdote.content | markdownify }}
                   </blockquote>
                   <figcaption class="anec__dote__meta">
                     <cite>{{ anecdote.person }}</cite> <time datetime="{{ anecdote.date | date: "%Y-%m-%d" }}">{{ anecdote.date | date: "%B %e, %Y" }}</time>
