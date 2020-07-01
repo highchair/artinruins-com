@@ -28,13 +28,10 @@ caption: Providence Historical Aerial Viewer 2008
 * When using someone else's photo, add a credit but not a AIR logo
 
 ## Anecdotes
-+ Search for [link needed] every now and again to add property links to anecdotes. Must be HTML form. 
++ Search for [link needed] every now and again to add property links to anecdotes. Must be Markdown form. 
 
 ## Dean Hotel
 * Kept some notes for the Dean Hotel in the New New Photos folder
-
-## Talk of the Town / 137-149 Washington Street
-* Images simply numbered 09 – 18 are small and original. Taken in 2007 and 2008, some from "The Men of Letters". 
 
 # El Faro / Krystal's Diner
 * Photo in Eagle Square from Sarah, Feb 2002: P1010087.JPG, P1010088.JPG, P10100100.JPG
@@ -49,10 +46,13 @@ caption: Providence Historical Aerial Viewer 2008
 * https://www.loc.gov/pictures/item/ri0447.photos.381370p/resource/
 
 # Grove Street School
-* Find the source of the demolition photos
+* Find the source of the interior photos — Charles Heganam Architects
 
 # Hartford Avenue apartments
 * Find Micheal Tucker Terzian's photo of the demolition
+
+# Kinsley Park
++ Research this place, another athletic field owned and run by the guy that started the Cyclodrome. Mentioned in the essay.
 
 # Poirier's Diner / El Faro / West Side Diner
 * More photos and some history here: http://61thriftpower.com/back.shtml

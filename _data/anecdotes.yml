@@ -1,13 +1,335 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: ge-bulova-watch\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: cyclodrome\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: ge-bulova-watch\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: cyclodrome\n  person: '\1'\n  content: '\2'\n
 
-# &ldquo; &rdquo; &lsquo; &rsquo; &ndash;
+# &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
+# One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: chinese-restaurants
+  person: 'Mimi Medeiros' 
+  date: '2014-03-20' 
+  content: ' Ming Garden-where my mother and her sisters sang as children and where �Charlie� as the owner Americanized his name back then, always ran to the front when we came in because he loved my Abuelita!'
+
+- property: cyclodrome
+  person: 'james lazzaro sr.' 
+  date: '2017-08-15' 
+  content: 'My Grand Uncle was Vincent Madonna. I am just  finding out about this know so i am intesreted to find out more, picture etc. what ever anyone is willing to share. I would like to message Len Harten'
+
+- property: cyclodrome
+  person: 'Terry' 
+  date: '2014-03-02' 
+  content: 'My grandfather was Peter Laudati. Any information you have would be greatly appreciated. The Patriots Hall of Fame has a nice display of Steamroller memorabilia and an NFL film. I have a couple of team photos of the Steamrollers; one of them is on exhibit at the Patriots Hall of Fame.'
+
+- property: cyclodrome
+  person: 'Newcomb' 
+  date: '2013-03-04' 
+  content: 'My Grandfather (Henry Hayes) in the early 20s raced/road a Indian at the Cycledome in Providence. I do remember stories – and the name of Madonna. Please help, I am looking for pictures to share with my family.'
+
+- property: cyclodrome
+  person: 'Stephanie M' 
+  date: '2010-09-10' 
+  content: 'My grandfather Sam Young played for the Steamrollers in 1927 with his brother Lloyd. I’d love to see any team photos'
+
+- property: cyclodrome
+  person: 'Renee' 
+  date: '2010-06-04' 
+  content: 'I may have a photo of the 1928 Steam Rollers. It’s a fairly large picture. It does not have any names, autographs. This photo was taken in front of a Navel ship (I think) There are 3 rows of players and a few Navel Officers? The Person sitting on the groung in the middle is holding a football with the writing on it that says 1928 champs. I can’t find any pictures to compare this with so I was wondering If there is anyone out there that might be able to help me Identify this Photo'
+
+- property: cyclodrome
+  person: 'Brian Hart' 
+  date: '2009-10-12' 
+  content: 'My wife’s great grandfather Charles Coppen was the manager of the Steam Roller and also managed the Cyclodrome from ‘25 til about ‘32. I’ve got the book of the minutes of the Board of Directors meetings of the Cyclodrome Co. I’d like to find a home for the book. Also I’ve talked to Rep. Patrick Kennedy’s friend and House doorkeeper Frank DiPaolo. I asked if he remembered the Cyclodrome and he rolled up his sleeves and showed me scars on his arm from when he used to race his bike on the track!! He still has the bike hanging in his garage.'
+
+- property: cyclodrome
+  person: 'Jack Koslowsky' 
+  date: '2008-12-16' 
+  content: 'My father’s uncle (Joe Kozlowsky) played for the Providence Steam Rollers officially from 1924 through 1927, and 1930. As was common during the time, he also played pro football before this time under an assumed name while playing college football for Boston College.
+
+
+If there are any old photographs or video during this time, I would love help in getting a copy. Is there any way I can get a better copy of the 1925 photo you are referring to.'
+
+- property: cyclodrome
+  person: 'Leah Nahmias' 
+  date: '2008-08-27' 
+  content: 'To respond to some of the questions above:
+
+
++ Old programs are at the RIHS Library on Hope Street in Providence. Thanks for sharing these memories... email me (leah_nahmias [at] yahoo [dot] com) for more information. I am also interested in collecting Providence memories of the Cyclodrome, so do contact me!
+
++ I don’t know anything else about the photos. I found these in the RIHS Library and there is little documentation.
+
++ If anyone remembers minstrel activity in Providence, such as that performed by Happy Stanley (who may also have performed for Christmas shoppers into the 1950s) please contact me.'
+
+- property: cyclodrome
+  person: 'Lenn Harten' 
+  date: '2008-07-04' 
+  content: 'My father was one of the stars of the Cyclodrome racers along with Madonna. His name was Len Harten (or Leonard Harten) I have a few pictures of him and his team of racers taken on the track at the Cycldrome. My Grandfather had kept all the original programs of the races, but they were destroyed along with other important material by an uninterested relative. Is there any way that I may be able to track down and actually “see” any of the old programs? I was only two years old when my Mother took me to the races one night. Even at the age of two, I remember it vividly, with the crowds cheering, the sound of the motorcycles that were used in the “pacer” racing. And I remember, as they rounded the curve of that huge wooden track, yelling out “Hi Daddy” not knowing there is no way in the world that he would have heard me in the midst of the hundreds of fans in the stands.'
+
+- property: cyclodrome
+  person: 'Mike J' 
+  date: '2008-01-26' 
+  content: 'Does anyone know if that plaque still exists? Also, does anyone know if there is any existant video of the Providence Steam Roller from 1928?'
+
+- property: cyclodrome
+  person: 'Lisa Bennett'
+  content: ' The photo you have w/the Prov. Steamrollers vs. the Chic. Bears 10/25 is believed to be part owned by my husbands Uncle Sam Rushton. Our family has the original panoramic photo and would like more information on it. I can not find anywhere that states he was an owner yet we were told he was the only person who ever owned, coached and played on a semi pro team. I hope you can help w/any type of informantion'
+
+- property: cyclodrome
+  person: 'Rose Doherty'
+  content: ' The Cyclodome was just where you say it was, but all evidence of it was gone by the 1950’s when I was growing up on No. Main Street. My grandfather, b 1870, used to use that steeply banked wooden track when he raced bicycles there when it was first opened. My mother, b 1904, and aunt, b 1900, remembered going there to watch him. I wonder whether there was less elaborate seating before the 1925 site.'
+
+- property: cyclodrome
+  person: 'Mike P'
+  content: 'The Cyclodome was indeed on the site of Shaw’s Plaza. I don’t know if it’s still there, but there was a plaque commemorating the Steam Roller and their 1928 NFL championship.'
+
+- property: down-under-duckpin
+  person: 'Marc Berman' 
+  date: '2019-04-30' 
+  content: 'Anybody know if anything remains of the Down Under Duckpin space below LA Fitness? It’s hard to tell, but it looks like they reused at least the exposed foundation walls along the side and back of the property. I’d love to get a peek inside to see what clues remain from the bowling alley, even if it’s essentially just LA Fitness’s basement now.'
+
+- property: down-under-duckpin
+  person: 'John' 
+  date: '2014-11-19' 
+  content: 'So terrible. I just drove by there today and they’re in the process of demolishing it. It’s all dug up and excavated and it’s basically just a big ugly hole in the ground now. What a shame I was really hoping they can turn that back into something cool. Another one for the RIP list I guess.'
+
+- property: down-under-duckpin
+  person: 'jon williams' 
+  date: '2014-04-09' 
+  content: 'It seems to be the end of the bowlling alley plans are to tear down the former sears bld for parking and for a healthclub but… there have been many plans for that area since the closing of sears so stay tuned'
+
+- property: down-under-duckpin
+  person: 'Maxine' 
+  date: '2013-11-14' 
+  content: 'When I was little, my mother played in a league there. I would go with my father to take her there. I could never figure out how they fit 24 lanes in that tiny building.'
+
+- property: down-under-duckpin
+  person: 'Chris X. Hall' 
+  date: '2013-09-19' 
+  content: 'Great place for a birthday party… I remember mine from 1964. If you got a strike when the lead pin showed a red stripe, you got a dollar.'
+
+- property: down-under-duckpin
+  person: 'Craig Scorpio' 
+  date: '2012-01-31' 
+  content: 'I bowled there many times as a kid (in the 1980s). My mother would take me there during "off hours", just after school, and we would pretty much have the place to ourselves. When I was in the RI Big Brother’s program – My "Big Brother" would take me there often to bowl, and they used to have a yearly bowl a thon / party that I would attend. Interestingly, there was a man who worked there at that time, when we would go there, he would be practicing his accordion in the back. I ran into that man a few times in the last year or so. When I saw him, despite the many years that passed – I recognized him on the spot. I said to him "You used to work at Chips Bowling years ago, right? You used to play the accordion?" He looked at me (I think shocked, seeing how young I was to remember such as thing), and when he said yes, It immediately sent me into (good) flashbacks of my childhood. I really miss this place. Would have loved to take my kids there.'
+
+- property: down-under-duckpin
+  person: 'Will' 
+  date: '2010-06-08' 
+  content: 'Well, sadly, I drove by it today. I’m not really from Providence, i just commute there for school. What was so sad about it? There were at least 9 fire trucks, 3 police cars, 4 ambulances, and multiple chief’s cars. We stopped to watch, and sadly, it looks like it went up in flames. Smoke was pouring out the small entrance building, and there was clearly a fire below.'
+
+- property: down-under-duckpin
+  person: 'Don' 
+  date: '2009-06-15' 
+  content: 'I can recall bowling there in the late 1950s when it was Sullivan’s. There also was a Sullivan’s Steak House across the street where Gregg’s is now. I don’t know if the same Sullivan owned both. In the 80s and early 90s I took my kids bowling there when it was Chip’s. Fun place.'
+
+- property: down-under-duckpin
+  person: 'lisa t' 
+  date: '2009-05-12' 
+  content: 'In 88-93,I used to work for Sears Auto, and a year later i transfered to the main building. I then met my boyfirnd at the time, and we would go bowling. i believe it used to be called Chip’s. It used to be very crowded and my boyfriend’s dad used to be in a league there.'
+
+- property: down-under-duckpin
+  person: 'Sean' 
+  date: '2009-03-31' 
+  content: 'I bowled several times at Down Under Duckpins circa 2000-2001, so your rumor is confirmed. Seemed like someone was running it as a labor of love.'
+
+- property: down-under-duckpin
+  person: 'Liam' 
+  date: '2009-03-30' 
+  content: 'I went bowling here in either 1999 or 2000 and it seemed to be doing a fine business. I always thought it was a shame that someone didnt turn it into a club and have bands play. It seems like you could take out a couple lanes and put up a stage  and do the whole band/bowling thing. Retro schtick appeal, ahoy! Add in some decent pizza and Gansett on tap and you’d be the most popular spot in town. Anyhow, my understanding (and I could be wrong on this) is that this was built as part of the drive-in theatre complex that is now the Shaws plaza.'
+
+- property: sears-north-main
+  person: 'Cecilia' 
+  date: '2019-01-20' 
+  content: 'This Sear’s was built on the site of Sullivan’s Steak House (and bowling alley), which was destroyed in a spectacular fire in the mid to late 1940’s. The Steakhouse was adjacent to the A & P where my mother worked, and we watched the flames from our house on 9th St.  The construction site was a great place for kids to get into mischief.  Sear’s had a great model train display at Christmas. I remember their bathroom displays with sinks, tubs and toilets.  I bet many a kid mistook the display toilets for the real thing.'
+
+- property: sears-north-main
+  person: 'Debra English Wright' 
+  date: '2018-01-24' 
+  content: 'This Sears & Roebuck store is rich in history for our family! My Mom, Lucille English, worked at this one, part-time, for 30 years! I grew up wearing Sears clothing. My sister and I, as young Moms, would visit our mother while she was working and ALWAYS stopped at the hotdog counter for lunch! Then, the candy counter was next — on first floor which always had the freshest chocolate covered raisins and malted milk balls. I also learned how to DRIVE in the parking lot on the lower level. Still love the Sears that WAS! Years later, I moved to Ohio/Kentucky area and ended up managing a Sears Portrait Studio, which is also now defunct.'
+
+- property: sears-north-main
+  person: 'Dean' 
+  date: '2015-02-14' 
+  content: 'RIP Sears… great old store. Worked there through high school and college. Lots of fun memories.'
+
+- property: sears-north-main
+  person: 'Valerie A. Susi' 
+  date: '2010-11-15' 
+  content: 'I went to Sears with my Grandmother when I was just a little kid, I will never forget the hotdogs there at the grill on the first floor, she bought one for me everytime we went shopping!!'
+
+- property: sears-north-main
+  person: 'Harry' 
+  date: '2009-02-10' 
+  content: 'Glad to see that I am not the only one to misses this old store!  Remember getting a new daisy bb gun in the seventies. I also remember looking at the boats as a kid, located in the lower level of the store and dreaming what it would be like to have one for fishing with my dad. My family went there many times.'
+
+- property: sears-north-main
+  person: 'Stephen Mattos' 
+  date: '2008-12-11' 
+  content: 'Man, why did Down Under (or as I remember as a little kid Chip’s Bowlarama) go out of business? I feel like a bowling alley in Providence is so needed right now. They could make it a mix use, bowling alley/rock club like they used to have in Chicago at a place called the Fireside Bowl. An awesome divey punk club right in the bowling alley!'
+
+- property: sears-north-main
+  person: 'Pat C' 
+  date: '2008-06-26' 
+  content: 'I SO remember the Sears on North Main Street. My mom used to take us on the bus (we lived in South Providence when it was still a lovely place to live in 1960)  Mom would get our school clothes and after shopping we would go across the street to the Howard Johnson’s for hot dogs and then some ice cream before shlepping back home on the bus. God, it seems like yesterday!! I live in Fall River now but work in Downtown Providence since 1993 and I can’t get over how so many things are different but so much is still the same. My old stomping grounds!! This is the greatest website! Thanks for the memories.'
+
+- property: sears-north-main
+  person: 'Angus M' 
+  date: '2008-03-05' 
+  content: 'I remember the Sears store there and going when I was a kid in 1967 with my grandparents and my aunt to buy all my birthday presents. They had the full line of Major Matt Mason toys and I came up from Riverside thinking that it was a long journey to get there. Also across the street on the diagonal was a toy store called Brodski’s, I think. I wonder what became of that?'
+
+- property: sears-north-main
+  person: 'Mike F'
+  content: 'When this store closed, I was certainly sad to see it go. The North Main St store was a vestige of what department stores used to be. I have so many memories from my grandparent’s shopping there, my parents friends who worked there, my friends parents who worked, the small basement lunch counter that served the best hot dogs (with mustard, relish and celery salt) to the first video games and stereos I had. Bummer.'
+
+- property: sears-north-main
+  person: 'Cesar'
+  content: 'I remember shopping at the Sears with my parents and brother many times. We were in the car leaving the enormous Sears parking lot when we learned on the radio that John Lennon had died.
+
+
+At a certain point in the 1980s Sears made a strange business decision that it would close all the free-standing Sears complexes in the USA. It would only continue to operate the Sears stores that were part of large suburban shopping malls. While many could argue that this saves on marketing, because other stores help bring in the customers, it also appeared to be another anti-urban decision by a large retailer. Even now, Wal-Mart’s approach is to begin thinking about urban areas only when the rural and suburban markets are saturated.
+
+
+In the mid-1980s, some of my friends bought their first suits at theAndersen Little. The underground bowling alley was open long after the Sears complex closed. The combination of duckpins and the small bowling balls is something that is extremely difficult to find these days. This is a unique aspect of New England culture that has largely disappeared.'
+
+- property: anderson-little-north-main
+  person: 'Pankaj' 
+  date: '2018-08-25' 
+  content: 'In 1986 my ward-robe consisted of 14 suits — every single one from Anderson Little bought from the Anderson-Little Store in the Neshaminy Mall in Bensalem, PA. The fabric was so plush, rich, attractive, people used to ask me where I bought those from !!!! They had an in-shop tailor that would shorten the sleeves, lower the collar and the fit became a million-dollar fit !!! Scott, I know you sell under the brands directly to Strathmore and the like, but I am hoping you sell those beautiful suits directly to the public — you will be surprised at the following you have garnered !!!'
+
+- property: anderson-little-north-main
+  person: 'Becky' 
+  date: '2013-08-02' 
+  content: ' The Anderson-Little building has been demolished but it is owned by Miriam Hospital. '
+
+- property: anderson-little-north-main
+  person: 'Pablo' 
+  date: '2009-12-12' 
+  content: ' Does anyone know if anything is to be built on this property following the demolition?'
+
+- property: anderson-little-north-main
+  person: 'Dan' 
+  date: '2009-01-11' 
+  content: ' This end of town was a happening place when I started at RISD in 1967. North Main Street had Sears, Anderson Little, Kelly’s Hamburgers (I worked there for a while), and RI Auditorium.  These places did very well in the 1950s and 1960s. Back then, Anderson Litle did a lot of TV advertising. I remember them well. They were a very well known, quality brand.'
+
+- property: anderson-little-north-main
+  person: 'Scott Anderson' 
+  date: '2008-08-22' 
+  content: ' Anderson-Little is back. <a href="http://www.andersonlittle.com">Our website is now open for business</a> and we have started selling our Classic Blue Blazer which I am proud to say in Made in America. This building may be in decay, but Anderson-Little is coming back like a phoenix.'
+
+- property: anderson-little-north-main
+  person: 'Roland L.' 
+  date: '2008-06-28' 
+  content: 'As a man, I hated to go shopping for clothes but there was always something different about that Anderson-Little touch. I felt like an important customer and the salesman would spent at least 20 minutes or more picking out a shirt and tie to go with my new suit. I recall seeing the two tailors at works taking great care sizing, chalking, pinning and sewing a customized suit. ALL my suits came from Anderson-Little and I wore them until the late 80s.'
+
+- property: anderson-little-north-main
+  person: 'Scott Anderson' 
+  date: '2008-04-24' 
+  content: 'Feel free to visit us at [andersonlittle.com](//www.andersonlittle.com) or email me at scott.anderson [at] andersonlittle [dot] com.  I’d love to hear your memories of Anderson-Little'
+
+- property: anderson-little-north-main
+  person: 'Scott Anderson' 
+  date: '2008-01-23' 
+  content: 'Hi, this is Scott Anderson and I am bringing Anderson-Little back to life. After many years of struggle, I finally was able to get the courts to give me my name back. I hope to have the company up and running by the fall of this year. It’s nice to hear that you have fond memories of our clothing. My father and I hope that you and your children will have many more fine memories to come. All the best.'
+
+- property: anderson-little-north-main
+  person: 'Mike Blake'
+  content: 'Anderson-Little was a men’s clothing store. If you look at the sign on the side, it looks like, by the space, it used to say “Anderson Little Men’s Clothing” but someone tore down the word “Men’s”. I got the suit I wore in my high school senior glass picture there.'
+
+- property: anderson-little-north-main
+  person: 'Mike F'
+  content: 'The Anderson-Little chain closed in 1987. It has been vacant since ‘87-‘88… Too bad, I got my HS graduation suit from there in ‘85.'
+
+- property: anderson-little-north-main
+  person: 'Joe C.'
+  content: 'I used to live on 7th St. Right up the street and around the corner from this place, and my mom would drive by it everyday, since I was going to school at St. Mary’s at the time, and we moved there in 1990 when I was 5, and it was empty then. The place has been empty for about 16 years.'
+
+- property: sears-auto-north-main
+  person: 'Thom Ring'
+  date: '2019-02-27'
+  content: 'We were coming to Sears from Seekonk with my mom driving when I was a kid. When you came off 95-south you drove toward North Main but had to turn right a block away. My mom was sitting at the traffic light behind the Sears Auto Center, waiting to take the left to North Main and then turn into the store itself up the road. Suddenly we heard a loud crash. I looked behind me to see that a ‘53 Chevy had rolled down the embankment from the center’s parking lot and wiped out the car behind us. When the light turned green we went on out way.'
+
+- property: sears-auto-north-main
+  person: 'bob lannon'
+  date: '2014-04-04'
+  content: 'My sister and I saw Santa here at Sears in 1958. The photo disappeared thanks to my mother and Cumberland PD until discovered in 2008. Miss RI but glad I’m here in California.'
+
+- property: sears-auto-north-main
+  person: 'Kim'
+  date: '2009-11-02'
+  content: 'I worked at the main store from 1983-1988 in the shoe dept which was managed by Paul Pontarelli. My older brother had worked for the automotive store years prior to my time there. At the time I worked there, my mom was employed by the accounting center in Warwick (which had originally been in store 1153) and has since retired from Sears. Dean C.’s post hit it right on the money: Sears underwent many changes trying to “progress” into the 90s. But like other things that go the way of the DoDo, they failed. The Sears I worked for was a by-gone era... the department stores that have survived did so by moving into malls and amalgamating their personalities with that of those stores around them. Like the Lit Brothers, GC Murphy’s and Ann And Hopes, this Sears suffered the same fate of all free standing department stores.'
+
+- property: sears-auto-north-main
+  person: 'Dean C.' 
+  date: '2008-07-07' 
+  content: 'I worked at the main store from ’85 to ’92. It was a great job, but a crazy time to work for Sears in hindsight, because it was when the retail giant took some really big chances that did not pan out. Sears closed its catalog, overdiversified in financial services and real estate, began selling other brand name products through Brand Central, tried to convert underperforming community-stores into HomeLife specialty stores [furniture], and then started accepting other credit cards besides Sears and Discover. Anyway, now that they cleaned up the old Automotive, maybe they will do something with the main store. Between that and Anderson Little, it looks pretty bad. That area has a lot of history, the old Lowes Drive-in and, way before that, the [Cyclodrome]({% link _property/cyclodrome.md %}), which was where the drive-in was, became the first spot to host an NFL game under lights [Providence Steamrollers vs. Chicago cardinals], Chip’s underground bowling alley, the list goes on. On a side note: When they stopped selling hot dogs and candy in the middle of the main store, a woman who used to sell them ended up making food and selling it to employees from the break room. She made awesome chicken crouquets!'
+
+- property: sears-auto-north-main
+  person: 'lisa tudino'
+  content: 'sears automotive was my first real job. in 88, i was 16, and worked as a cashier. i was the only young girl there. i worked with so many nice and wonderful people. i learned so much about cars and customer service. my godfather got me the job, and i wasn’t too fond of my boss, but i learned to like him. i stil talk to him til this day. i had many great memories there. we were all very close, i would love to hear from anyone.'
+
+- property: sears-auto-north-main
+  person: 'Ken Foote'
+  content: 'I worked at [Sears on North Main Street]({% link _property/sears-north-main.md %}) throughout high school and college. My first job was pumping gas at the Automotive Center. I have lots of fond memories of all the people who worked there. I even met my wife there. She sold hot dogs at the main store. We’ve been married for 33 years.'
+
+- property: sears-auto-north-main
+  person: 'Pete Falina'
+  content: 'I remember going to the [North Main St Sears]({% link _property/sears-north-main.md %}) store as a child, about 50 years ago. I recall seeing automotive work going on in a small, single-storey brick structure sited against the parking lot retaining wall. Eventually, perhaps 40 years ago or so, the store took over the space, and the separate auto service center was opened down North Main St.'
+
+- property: old-stone-bank-north-main
+  person: 'Michael Farris'
+  date: '2012-08-19'
+  content: 'This building was an Old Stone Bank branch on N. Main St at the Providence/Pawtucket line. One time when taking the bus home from Providence to Pawtucket; my mother and I saw Meredith Viera from Channel 10 reporting on a bank robbery there. That would have been in the mid-late 1970s...'
+
+- property: old-stone-bank-north-main
+  person: 'Paul Mowrey'
+  date: '2010-08-11 2010'
+  content: 'When I first came to Providence in 1962 I believe that this building was used as a branch office by the old Stone Bank.'
+
+- property: ethan-allen-north-main
+  person: 'Guy Primo' 
+  date: '2015-07-17' 
+  content: ' pilgrim house was another name my step farther Richard M. DeRosa  work in this store for many years untill he was killed in a car crash in april 1978 he drove a  Red 1976 ford Thunderbird im trying to remember if a George Massey also work with him if any one knew him drop me an email riboatboy [at] yahoo [dot] com'
+
+- property: ethan-allen-north-main
+  person: 'Linda' 
+  date: '2013-01-16' 
+  content: 'As to when the Ethan Allen Furniture Store closed, it was sometime around 1990-1991. I needed a new sofa &amp; since my children were still very young, I didn’t want to spend a great deal. But since even the best behaved kids can be tough on things, I also wanted something of quality that would be durable so I decided to take advantage of the going out of business sale. I did find a floor model sofa which, several changes of upholstery later,  is still in use. '
+
+- property: ethan-allen-north-main
+  person: 'John' 
+  date: '2013-01-03' 
+  content: 'I passed by this morning and it’s a pile of rubble. Didn’t miss the signal at that intersection so I could not grab a photo. Perhaps on the way home.'
+
+- property: ethan-allen-north-main
+  person: 'Bill' 
+  date: '2011-10-07 ' 
+  content: 'This used to be the Outlet Tire Center in the 60s across the street RI Arena.'
+
+- property: ethan-allen-north-main
+  person: 'Pete' 
+  date: '2010-12-17 ' 
+  content: 'Does anybody have any updates on this building? I live off North Main and would love to see the street come back.'
+
+- property: ethan-allen-north-main
+  person: 'Roland'
+  content: 'I believe the name of the store was Carriage House and they sold the Pennsylvania brand. I would say this was around 1975. I know that they had the best of furniture and the prices to match.'
+
+- property: ethan-allen-north-main
+  person: 'Scott'
+  content: 'I just recently inquired about purchasing the Ethan Allen building to put a neighborhood-friendly business in (a for-sale sign is posted on it presently by Hayes &amp; Sherry) and was told that it was under contract. No word as to who the buyer might be. Let’s hope someone good. My understanding is that the Sears and Anderson-Little buildings are owned by Miriam Hospital. Apparently they have no plans for developing or selling them.'
+
+- property: ethan-allen-north-main
+  person: 'Cesar'
+  content: 'Mark, if Brown Univ. owns all of those sites, does that mean that the City is not even receiving any tax revenue? (Colleges/Universities do not pay property tax. Our understanding would be that yes, there is no property tax gained if a university owns these properties).'
+
+- property: ethan-allen-north-main
+  person: 'Mark'
+  content: 'When I checked with the tax assesor (winter 2005), the owner of the Ethan Allen Building (1120 N. Main) and Sears Automotive (1140 N. Main) along with the three vacant lots alongside (1146, 1152 &amp; 1156 N. Main) is Brown University, which purchased all of the properties in 1997.'
 
 - property: silver-top-diner
   person: 'Sherri Q' 
