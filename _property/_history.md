@@ -10,12 +10,12 @@ Last Updated August 24, 2002
 + East Side Auto Repair
 + GE Building, Warwick
 + Providence Fruit & Produce Warehouse/Tourtellot
-++ Mason Building (Masonic Temple)
++ Mason Building (Masonic Temple)
 + Narragansett Brewing Company (Sarah's photos)
 + RI Malleable Iron Works
 + Rocky Point Amusement Park
 + Silver Springs Bleaching &amp; Dyeing
-++ Silver Top Diner
++ Silver Top Diner
 + Sockanosset Boys School, Cranston
 + What Cheer/Louttit Laundry
 
@@ -58,7 +58,7 @@ Urban Decay section (16)
 + Grove Street School
 + the Hope Building (Hope Boiler)
 + Improved Laminated Metal
-++ North Main Street — Including Ethan Allen, Sears Automotive, Sears, Anderson Little, and #1320
++ North Main Street — Including Ethan Allen, Sears Automotive, Sears, Anderson Little, and #1320
 ++ Parkin Yarn
 ++ Royal Mills & Ace Dyeing 
 ++ (Cranston St.) Trolley Barn
@@ -148,10 +148,9 @@ Urban Decay
 ++ First Federal Bank, recently Buck a Book
 ++ Fox Point Bath House
 ++ New England Paper Tube, Co. 
-++ North Main Street
++ North Main Street — Ethan Allen, Sears Auto, Sears, Anderson Little, #1320
 ++ Providence Armory
 ++ Royal Mills & Ace Dyeing 
-++ the Trolley Barn 
 
 
 ## 2005 (only the ones that have been added)
@@ -335,7 +334,7 @@ Urban Decay
 ++ 175 Broad Street (former Boy Scouts, now Planned Parenthood)
 ++ The Arcade (?)
 ++ Beswick Building, Pawtucket (?)
-++ Down Under Duckpin
++ Down Under Duckpin
 ++ Morris Novelty
 ++ Rustic Drive-In
 

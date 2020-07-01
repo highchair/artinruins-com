@@ -54,6 +54,12 @@ A web compendium of ornate armories throughout the state.
 
 Captivating places, intriguing people, and exciting events fill Rhode Island’s history. Rhode Tour offers a new way to interact with these untold tales of the state’s past. Using stories, sounds, and images, history comes alive. A project by the [John Nicholas Brown Center for Public Humanities and Cultural Heritage](//www.brown.edu/academics/public-humanities/){:target="_blank"}, the [Rhode Island Historical Society](//www.rihs.org/){:target="_blank"} and the [Rhode Island Council for the Humanities](//rihumanities.org/){:target="_blank"}. 
 
+### Small State Big History
+
++ **Web:** [smallstatebighistory.com](//smallstatebighistory.com){:target="_blank"}
+
+The Online Review of Rhode Island History. Put together by some pretty serious academic folks, this blog intrigues me because they have been responding to recent events pretty quickly — the post on the Macaroni Riots and Vaccines in RI are particularly timely and intriguing. An easy site to get lost reading — short on visuals but long on quality historical content. 
+
 
 ## Similar Projects (beyond RI)
 

@@ -119,7 +119,7 @@
           width: em(48);
           position: absolute;
           top: 0;
-          right: $image-right-margin;
+          right: 0;
           transition: 250ms opacity ease;
           z-index: 3;
         }
@@ -147,6 +147,16 @@
       
       b {
         font-weight: $font-custom__sans__weight__bold;
+      }
+      
+      a {
+        color: $white;
+        text-decoration: underline !important;
+        
+        &::after {
+          height: 0;
+          width: 0;
+        }
       }
     }
   }

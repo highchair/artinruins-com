@@ -33,8 +33,9 @@
                   {%- if page.type != 'categories' -%}
                     {%- if item.categories.size > 0 -%}
                       {%- for category in item.categories -%}
-                      <a href="{{ site.baseurl }}category/{{ category | replace: '.', '' | slugify }}" title="More properties from this category">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}<span class="taxonomy__sep"> | </span>
+                      <a href="{{ site.baseurl }}category/{{ category | replace: '.', '' | slugify }}" title="More properties from this category">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
                       {%- endfor -%}
+                      <span class="taxonomy__sep"> | </span>
                     {%- endif -%}
                   {%- endif -%}
                   {%- if page.type != 'neighborhoods' -%}
