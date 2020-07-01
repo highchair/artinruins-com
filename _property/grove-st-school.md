@@ -40,15 +40,6 @@ images:
   - url: grove-school-jh-2003-07-07.jpg
   - url: grove-school-jh-2003-07-08.jpg
   - url: grove-school-jh-2003-07-09.jpg
-  - url: 09.jpg
-  - url: 10.jpg
-  - url: 11.jpg
-  - url: 12.jpg
-  - url: 13.jpg
-  - url: 14.jpg
-  - url: 15.jpg
-  - url: 16.jpg
-  - url: 17.jpg
   - url: 18.jpg
   - url: 19.jpg
   - url: 20.jpg
@@ -56,8 +47,19 @@ images:
   - url: 22.jpg
   - url: 23.jpg
   - url: 24.jpg
+  - url: grove-school-jh-2006-02-01.jpg
+  - url: grove-school-jh-2006-02-02.jpg
+  - url: grove-school-jh-2006-02-03.jpg
+  - url: grove-school-jh-2006-02-04.jpg
+  - url: grove-school-jh-2006-02-05.jpg
+  - url: grove-school-jh-2006-02-06.jpg
+  - url: grove-school-jh-2006-02-07.jpg
+  - url: grove-school-jh-2006-03-01.jpg
+  - url: grove-school-jh-2006-04-01.jpg
+  - url: grove-school-jh-2006-04-02.jpg
+  
 
-imagescredit: 
+imagescredit: Images contributed by Charles Hagenah Architects
 ---
 
 ### Reason for Demolition

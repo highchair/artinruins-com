@@ -33,7 +33,7 @@ images:
   - url: ge-bulova-jh-2002-03-01.jpg
   - url: ge-bulova-jh-2002-03-02.jpg
   - url: ge-bulova-jh-2002-03-02-alt.jpg
-    caption: The reversed sign has been highlighted and flipped to read "General Electric"
+    caption: The reversed sign has been highlighted and flipped to read “General Electric”
   - url: ge-bulova-jh-2002-03-03.jpg
   - url: ge-bulova-jh-2002-03-04.jpg
   - url: ge-bulova-jh-2002-03-05.jpg

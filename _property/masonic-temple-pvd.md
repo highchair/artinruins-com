@@ -83,6 +83,9 @@ images:
   - url: masonic-temple-jh-2005-06-05.jpg
   - url: masonic-temple-jh-2006-03-01.jpg
     caption: A new steel interior structure is constructed
+  - url: masonic-temple-jh-2006-04-01.jpg
+  - url: masonic-temple-jh-2006-07-01.jpg
+  - url: masonic-temple-jh-2006-07-02.jpg
   - url: masonic-temple-jh-2020-06-01.jpg
 
 imagescredit: Contributions from Erik Gould.
