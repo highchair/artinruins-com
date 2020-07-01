@@ -27,6 +27,10 @@ excerpt: "Built circa 1915, these concrete coal storage towers were demolished i
 thumbnail: blue-coal-sclover-01.jpg
 
 images:
+  - url: blue-coal-egould-01.jpg
+    caption: Photo by Erik Gould circa 1993
+  - url: blue-coal-egould-02.jpg
+    caption: Photo by Erik Gould circa 1993
   - url: blue-coal-sclover-04.jpg
   - url: blue-coal-sclover-05.jpg
   - url: blue-coal-sclover-06.jpg
@@ -44,7 +48,7 @@ images:
   - url: google-earth-april-2002.jpg
     caption: Google Earth, April 2002
 
-imagescredit: Photos by Sarah Clover and Matt Kierstead. 
+imagescredit: Photos by Sarah Clover, Matt Kierstead, and Erik Gould. 
 ---
 
 ### Reason For Demolition
