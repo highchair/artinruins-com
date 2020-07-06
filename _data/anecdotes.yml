@@ -1,14 +1,339 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: cyclodrome\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: ri-auditorium\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: cyclodrome\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: ri-auditorium\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: ri-auditorium
+  person: 'Ramona Reis' 
+  date: '2019-04-26' 
+  content: 'In 1961 when I was 8 years old I won a horse on the Salty Brine show. I went to the Rhode Island Auditorium to pick up the horse it was on television I met Fury the horse and Jeff salty Brian’s dog. I never received any photos which I’m sad about my family was poor so we didn’t have a camera. If anyone out there has any information or pictures I know it’s where I could get pictures please let me know. that was the best I had time of my life. I had to write a letter in order to win the horse. There were 7 judges in the letter I wrote, my mother always told me money can buy a lot of things but love can do miracles. The judges said that touch the heart. I hope if anyone remembers any pictures or anything about it it will touch the hot and they’ll let me know. Thank you so much in advance. It would be nice to see another miracle'
+
+- property: ri-auditorium
+  person: 'norman leach' 
+  date: '2019-02-14' 
+  content: 'lorne greene came here with his rodeo… and some kids took a weekend to training session on the ice with some RI Reds… and my old girl friend brought me down to the corner sandwich shop at the foot of the hill.'
+
+- property: ri-auditorium
+  person: 'Thomas Rabczak' 
+  date: '2018-10-04' 
+  content: 'I remember my dad taking me to the Reds hockey games in 1960.  Remember the drunks who sat in the lower corners throwing beers at the opponents through the chicken wire!'
+
+- property: ri-auditorium
+  person: 'Len Arzoomanian' 
+  date: '2017-11-14' 
+  content: 'Does anyone know where I can find a list of shows, exhibits, and demonstrations that were at the RI Auditorium/Arena over the years?  Anything other that concerts.'
+
+- property: ri-auditorium
+  person: 'Alton Nichols' 
+  date: '2017-04-07' 
+  content: 'My best friend’s uncle got tickets and invited me along to the last Celtic’s game played in the Providence Auditorium. I think they were playing the Minneapolis Lakers. At half time they presented Bob Cousy with a pair with a pair of huge red chandeliers he was alleged to have admired. The most noteworthy play of the game came when Cousy’s full court fast break pass went just over the out stretched hands of Bill Russell and swished through the basket. Cousy did a pirouette and mocked fainting. The next day the newspapers called it the longest shot ever made at the Auditorium. '
+
+- property: ri-auditorium
+  person: 'Paul Cournoyer' 
+  date: '2017-02-01' 
+  content: 'I remember going to the RIA every Sunday night with my brother and friends from West Warwick. $3.50  Sometimes on a Wed. Student night for $2.50.  he smoke filled arena, Vivian at the organ and Jack Cleary on the PA in the press box with the ladder stairs in back. I remember when the Voyagers came to town one Sunday and asking: “Who is that tall goalie Ken Dryden”?  Hoping for a scrap with Battleship Kelly. Great Memories and fun times in my childhood.'
+
+- property: ri-auditorium
+  person: 'billy cicone' 
+  date: '2016-03-11' 
+  content: 'AS I REMEMBER THE GREAT TIMES I ENJOYED AT RI AUDITORIUM,,GOING THERE IN THE LATE 50’S AND EARLY 60’S WATCHING THE CELTICS WITH HAVLICEK,RUSSELL,SANDERS,THE JONES,,,WOW,,,THERE WAS A STEAK HOUSE MY UNCLE WOULD TAKE ME TO EAT BEFORE THE GAME,IT WAS 1 MIN. FROM THE AUDITORIUM,I MET KC JONES ONE NIGHT,IN THERE,,,MEMORIES,THEN GROWING UP I WENT TO MY FIRST CONCERT THERE ,JIMI HENDRIX ,THEN STEPPENWOLF,BLACK SABBATH,,,WE COULDN’T GET IN TO SEE CREAM,IT WAS SOLD OUT,,,,,THERE WILL NEVER BE ANOTHER PLACE LIKE  RI AUDITORIUM.....'
+
+- property: ri-auditorium
+  person: 'Dennis Lesieur' 
+  date: '2015-08-14' 
+  content: 'My very first concert as a 15 year old was the Beach Boys! I also got interested in Ice Hockey watching the Reds on Sunday nights! The smoke filled Arena usually filled to capacity was great. Marcel Paille, the Red’s goal tender never wore a mask. About 8 years later, I worked in construction converting the abandoned Arena into a tennis club and Charlie’s restaurant, later becoming the 1111 club, and Cheater’s men’s club. My wedding shower was held at Charlie’s in 1979. Many fond memories in different capacities were experinced in this building!'
+
+- property: ri-auditorium
+  person: 'jerry leveille' 
+  date: '2015-08-02' 
+  content: 'in 1958, my sister Nancy and her boyfriend took me to the Auditorium to see Alann Freeds traveling Rock n Roll show, which was quite controversial at the time. We were early, before the show (I was 13) I wandered down below the stands, security was lax in those days, went into a room and there was... Chuck Berry, Jerry Lee Lewis and Buddy Holly. I told Mr. Berry that I wanted to play guitar just like him. Got their autographs, lost them since. Six years later, my band The Bel-Aires opened for the Searchers. It was a Monday nite, the night before, they were in Ed Sullivan. Chuck Stevens was our manager! Later in the sixties, I went to the Reds games every Sunday night. Great memories.'
+
+- property: ri-auditorium
+  person: 'Dennis Lesieur' 
+  date: '2015-06-24' 
+  content: 'My very first concert in November 1966, the Beach Boys. I was only 14, really awesome event! Also attended many Sunday night Red’s games. We had a neighbor John Nolan, he was a part time ticket booth worker, who would set aside the better seats for us on Sunday nights. This was also the first time I could purchase a Narragansett beer, I was not 21 yet! It was served in a wax coated paper cup! Later in my life, I worked for Charlie Tapalian, who purchased the Arena for $225,000, along with his partner, Sol Resnick of Emblem &amp; Badge. Great memories!'
+
+- property: ri-auditorium
+  person: 'bobby desjardins' 
+  date: '2014-12-07' 
+  content: 'I live in New Orleans now but have many great memories of the building. I was born in Woonsocket, grew up in West Warwick, my father took my brothers and myself to reds games, I remember going in on snowy nights into the smoke filled lobby smelling the roasted peanuts, pizza, and the cigars. I miss the place… i wish somehow the building was never torn down. I still have Bobby Leduc’s stick and purchased a print framed of the artist painting of the auditorium at my home.'
+
+- property: ri-auditorium
+  person: 'Thom' 
+  date: '2014-06-06' 
+  content: 'I recall my parents taking us to the Clyde Beatty Cole Bros circus at the Auditorium. My only memory was when a woman was hoisted by her hair, got tangled while doing acrobatics and had to be lowered and untangled by the crew. The memory came back after the incident with the Ringling Bros Circus and the 8 women who fell while hanging by their hair. Don’t hang by your hair in RI. And does anybody remember the crooked glass around the hickey rink? It was as if management had bought remennts; they all extended up to different heights. I want to a playoff game between the Reds and the Boston Braves. A friend got whacked with the tip of a stick as its owner was smashed into the boards.'
+
+- property: ri-auditorium
+  person: 'Lou Metz' 
+  date: '2014-05-10' 
+  content: 'I was fortunate to grow up close to the Arena. As a kid in the 1960s I used to walk down the hill to see Reds games, Celtics games, the circus, the rodeo, etc. When the circus or rodeo was in town, they use to keep the animals behind the building and next to the wall on the south side of the building. There was a pretty big parking lot next to that with a big old house on it. Across the lot was a Kelly’s Hamburgers place. As a teenager in the early ’70s I went to concerts, public skated, and played some high school and pick up hockey games there. For about 2 years in high school I got to work at the Arena (we always called it "the Arena" or "the Auditorium")- what a blast! I got to know the building pretty well. I even got to work Reds games for a while as a "skate boy", where I got to skate on the ice during intermissions and move the goals for the Zamboni machine. I got to know a few of the Reds players and coach Wilson a little too. My best Reds memory was probably the time after a morning Reds practice when 2-3 of the workers, including me, went across the street to the Penalty Box bar (the drinking age was 18 then) with Bob "Battleship" Kelley and had some beers. A good guy and tough fighter on the ice. Kelley ended up of course in the NHL. So many memories. I miss the building and the atmosphere and characters there.'
+
+- property: ri-auditorium
+  person: 'Dennis MacKay' 
+  date: '2014-02-07' 
+  content: 'RI Reds , RI school boy hockey (LaSalle vs East Prov.) Ice skating Sunday afternoons (Red Hots &amp; hot chocolate)Harlem Globe Trotters, Roller Derby, RB &amp; BB Circus, Rodeos, Hendrix, Cream, Iron Butterfly, Jethro Tull, Leon Russel (guest appearance Elton John sang "Levon" played Russel’s piano). I think the last concert I saw there, Black Sabbath. When I was little it was Kellys’ Hamburgers. Later after Civic opened and Main Event had space (Eric Burden) It was go see Al &amp; Ginger Harris at the Penalty Box. '
+
+- property: ri-auditorium
+  person: 'Bobby Desjardins' 
+  date: '2013-07-28' 
+  content: 'I really miss this place… i wish somehow the building would remain as a historical landmark. My father, uncle would take my brothers ad myself to the reds’ games. I still have Bobby Leduc’s stick that was given to me, and the beautiful print of the auditorium hanging in my bedroom in new orleans.'
+
+- property: ri-auditorium
+  person: 'rob smith' 
+  date: '2013-06-01' 
+  content: '2 things i remember about that place… 1) i got a puck at a RI Reds vs Quebec Aces game in the 70s… it was rolling down the stairs and my dad grabbed it… i think i lost it playing hockey at Roger Williams Park… 2) the disco club 11-11 was the Best place on the Friday night… i met the same girl every Friday to dance up on stage… what a great time I had...'
+
+- property: ri-auditorium
+  person: 'Jimmy V' 
+  date: '2013-03-31' 
+  content: '$.50 tickets for Sunday night Reds games up top with the Pigeons.
+
+
++ High School Hockey games and the fights in the parking lot (LaSalle vs. Cranston East - The only Cranston school back then)
+
++ Oscar Robertson as a rookie in 1961
+
++ The Rotella Family (#1 Reds fans) and all the hockey sticks given them by the Reds
+
++ Rolling Stones (I think in 1966 or so).
+
++ Lenny Wilkens as a St. Louis Hawk playing in Providence again.'
+
+- property: ri-auditorium
+  person: 'John Cameron' 
+  date: '2013-03-04' 
+  content: 'I am an author working on the biography of Rocky Marciano, if anyone can recall watching Rocky fight here I would really like to hear your stories: you can contact me here <a href="//redemptionthelifeanddeathofrocky.weebly.com/contact.html" target="_blank">redemptionthelifeanddeathofrocky.weebly.com</a>...'
+
+- property: ri-auditorium
+  person: 'Gino DiCarlo' 
+  date: '2013-01-27' 
+  content: 'I saw my first live Roller Derby at the Auditorium on January 30, 1971. The game, played between the San Francisco Bay Bombers and Northeast Braves, drew a SRO crowd of 6,579. Roller Derby was a huge attraction for the Auditorium. So much so that Reds owner, Louis Pieri, met with the owner of the Roller Derby, Jerry Seltzer, to try and secure a franchise for the building. Today, I am the President and Curator of the National Roller Derby Museum and Archive located in North Providence, Rhode Island. Anyone who has any photographs or things associated with Roller Derby when it was played at the Auditorium should feel free to contact me. I would love to hear from you.'
+
+- property: ri-auditorium
+  person: 'Paul Klenk' 
+  date: '2013-01-14' 
+  content: 'I grew up in Mansfield MA and during summers of my high schools years, grades 10, 11, and 12, I attended concerts at The Arena.  Because I was employed on the grounds crew at Wheaton College in Norton, MA, it was easy to steal away during lunch, drive furiously to the ticket window, and make purchases for upcoming events. My memory is sharp and I know the shows that I saw. These included Hendrix and his warm-up band was Buddy Myles, Steppenwolf, and Chicago Transit Authority.'
+
+- property: ri-auditorium
+  person: 'Al Arsenault' 
+  date: '2012-12-12' 
+  content: 'I enjoyed attending hockey games in the old arena. As smoking was allowed in the arena, by the time the third period arrived smoke filled the arena. If you had bleeder seats, then you were lucky to see the ice. As I was teaching in Lewiston, Maine at the time, I enjoyed attending the New England Hockey Tournaments which were held there each year.'
+
+- property: ri-auditorium
+  person: 'Buddy Goldshine' 
+  date: '2012-09-11' 
+  content: 'My friend and I were one of those kids who would get floor seats to the Celtic games at the arena every time they came. I have a picture with Bob Cousy in the hall of the locker room. '
+
+- property: ri-auditorium
+  person: 'Dave Seidman' 
+  date: '2012-09-10' 
+  content: 'I too have this Arena picture framed and hanging in my office as a remembrance of great times and events held in that building. The Reds had a working agreement with the New York Rangers and we had players like Camille Henry, Johnny Bower, Marcel Paille to mention a few NY owned guys and of course Ed Giacamin who I ran into in Ft Myers, Florida several years ago. Topper (Zelio Toppazini),and Paul Larivee were mainstays of those Reds teams. George Army was the trainer. I miss that place as it was fun. I remember a restaurant close by called Tops Gaylord. North Main Street was the place to be. Also, a record store not too far away was Carl’s Diggins.'
+
+- property: ri-auditorium
+  person: 'Howard Pedlikin' 
+  date: '2012-09-09' 
+  content: 'I fondly remember going to our High School hockey games at the arena when the Providence HS had a league. I also went to “free skate” at the arena in the 50s as it was close to my father’s store, Irvings Market, on No Main St. The arena was the only place with ice for hockey team practice in the 40s and 50s, thus many teams had 3am or 4am ice time. But it was a cozy place, every seat was close to the ice, and I think that I recall HS cheerleaders. It was a great spot for kids to stay out of trouble, I believe.'
+
+- property: ri-auditorium
+  person: 'Jim Pilkington' 
+  date: '2012-08-16' 
+  content: 'I remember going to the auditorium in the late fortys and early fifties to see both hockey and the fights. i also saw some basketball games with my dad there too. The Providence Steamrollers with Ernie Calverly was a great team. High school hockey was also well attended. I can also remember the Range Rider as well. There were those great hockey teams with Carl Liscomb and Zellio Toppazzini who were great to watch. When George Aroujo was coming up all the big names in that division would come to the arena. His biggest fight there at the time was when he defeated Del Flanagan on his way to his title bout with Jimmy Carter. Those great fights too with Ralph Zannelli. I saw him fight Kid Gavalan there in the early fifties. a great place. Lots of memories'
+
+- property: ri-auditorium
+  person: 'Charlene King' 
+  date: '2012-08-11' 
+  content: 'A few people sharing their memories of the old RI Auditorium mentioned hearing the organ playing at the RI Reds Hockey games, particularly on a Sunday night game. The woman playing the organ was our neighbor from across the street from our house, Miss Vivian Porter. She was about 4-11 and a real lady and she could really play!!! I haven’t too many regrets in my life, but I wish now that I had taken her up on free piano lessons she offered my sister and I!!! I had never seen a hockey game there, though, but did attend the circus and horse shows with my cousins.'
+
+- property: ri-auditorium
+  person: 'Steven Brown' 
+  date: '2012-06-25' 
+  content: 'My dad used to take me and my brothers to the place to watch high school hockey, me and my brothers used to comb the place and find a ton of hockey pucks while dad watched the games, gone but not forgotten.'
+
+- property: ri-auditorium
+  person: 'steve z' 
+  date: '2012-05-06' 
+  content: 'My only two shows: (10/71) Jethro Tull performing "Aqualung" and the RI Reds the same year. I remember the four of us at the Tull concert (18 at the time) with long shoulder length hair wearing long overcoats... What a great time!'
+
+- property: ri-auditorium
+  person: 'Ed Vallee' 
+  date: '2012-03-17' 
+  content: 'Went to my first real concert at the RI Auditorium and saw The Righteous Brohers! Must have been around ‘65 or ‘66. If anyone out there knows the date for sure, please lemme know. I wan’t even driving yet, but I met a girl, Cathy M., that summer in Narragansett. After vacation was over, she went back home to Providence. I called her on the phone and asked her to go to the concert with me. My father drove me to her house, picked her up, and brought us both to the concert. He had a few beers at the Penalty Box (the corner bar) while waiting for the concert to be over, and then we drove Cathy back home after the show. Lost touch with Cathy after that, but always cherished that memory. And by the way, @Robert Fagan, I did get to go to that Doors concert and met Jim Morrison! Sorry.'
+
+- property: ri-auditorium
+  person: 'Joe Buben' 
+  date: '2012-02-12' 
+  content: 'I lived the first 17 years (1945 to 1963) of my life a few blocks from the Arena at 1187 North Main. I would love to hear from any others that lived near the Arena in that time period. I came from a poor family and would never have seen anything more entertaining than TV in my childhood had it not been for the Arena. My brothers worked parking cars there. So between that and the many ways to sneak in or sometimes just hang around by the front entrance and someone would give away an extra ticket. So I saw the Reds, Celtics, Ice Capades, rodeos (one with Jock Mahoney, the Range Rider).  I was there the night his partner during a fake fight broke his arm. I was there when a circus performer fell from the high wire into the stands.  Fortunately he only broke some bones. I remember seeing many stars like Bobby Darren. I knew many of the rink rats (kids that hung around the Arena and got as much ice time as they could. Some went on to become great hockey players in High School and College like Bobby Goudreau, Bosco (Dennis) Sweeney.  Speaking of High School hockey, all schools played at the Arena in that era with several games a night (for one admission) one after the other. Kids from all over the state went and spent the night there watching hockey, socializing and many couples meet each other that way. It was a great time.  I had the pleasure only once of appearing on stage at the Arena.  I played a Roman Soldier in a passion play. I kissed my first girl backstage. '
+
+- property: ri-auditorium
+  person: 'dean' 
+  date: '2010-11-10' 
+  content: 'Bill Reynolds has a nice little article about how and the Celtics ended up playing there. Evidently the players had to find their own way down from Boston, no bus, no i95 at the time'
+
+- property: ri-auditorium
+  person: 'Gail Lucas' 
+  date: '2010-11-03' 
+  content: 'Wow! How wonderful to see that the lithograph used to show the RI Auditorium happens to be showing the fight with my Godfather/Uncle, Tiger Ted Lowry and Marciano. Personally, I hated fights and never went to watch a single bout. Actually, I was too young to attend that boxing match.<br>
+However, I distinctly remember the night of that particular fight (shown in the picture). After that fight family and friends came back to our home.  There was a lot of conversation regarding my Uncle Ted and the fact that he actually won the fight that night. Family and friends have contended that he won the fight, “Hands down”. For years this would be the sentiment of the folks that attended that fight actually believed he won. My Uncle never commented one way or another about what he thought!
+
+
+Years and I mean many, many years later I over heard that the fight was lost because my Uncle’s family’s lives would be in jeopardy... if he won the fight. Go figure, it was back in the day and well, no need to add anything more to the point! So, so many people felt that he won the fight and this was a topic of any conversation on the East Side of Providence amid the local boxing scholars for years and years.
+
+
+When I asked Uncle Ted if it was true about his family being threatened… he would say, “Marciano is not here to defend himself so I will not answer the question.” My Uncle was a wonderful and decent man! He finally realized his life’s dream when he wrote his life story and had the first copy of his book actually in his hand. The title of the book is “God’s in My Corner” and should you decide to purchase the book, remember that “Tiger Ted Lowry” was in his eighties when he completed it, and up to the last two years of his life… he could tell you about his fights and amid other interesting facets of his long life.
+
+
+I was so very lucky to have him in my life. He was the second person to hold me when I was born. My dad was a tad over the limits of celebrating my birth and my mother would not allow him to hold me… LOL.
+
+
+So, again, it was a wonderful surprise to see this picture here and in my office I have the same picture beautifully framed. I have had it for more than 13 years.
+
+
+One final note, the man that created this lithograph attended my Uncle’s 80th birthday party in Connecticut nearly 11 years ago. My Uncle cherished that gift. He has gone on to meet his maker. He died in June 2009. He was married to Alice Lowry and she too…is a beautiful person, they were simply a beautiful couple. RIP Uncle Ted!'
+
+- property: ri-auditorium
+  person: 'bobby desjardins' 
+  date: '2010-10-01' 
+  content: 'Oh i really still think of those great days of playing hockey after mass on sunday morning and then getting ready to go to see the reds that evening with my dad on snowy nights. I remember getting to the arena early to see the players come out for pre-game warm-ups and hearing the organ play, smelling cigars, pizza, and peanuts roasting. My uncle had season tickets and managed to get bobby leduc’s stick which he gave me and still have in new orleans where i presently live. I also purchased a print by the artist which is hanging in my bedroom... wish the old barn was still standing!'
+
+- property: ri-auditorium
+  person: 'Paul Fernandes' 
+  date: '2010-03-06' 
+  content: 'I would like to ask anyone that has pictures of the RI Auditoium, LeRoy or concerts if you would like to contribute to the [RIROCKS.NET](//rirocks.net){:target="_blank"} website and I will give you full credit. The website will be launched in April 2010  please contact me at paulfernandes04 [at] yahoo [dot] com. thank you'
+
+- property: ri-auditorium
+  person: 'Mike Farrell' 
+  date: '2010-01-09' 
+  content: 'I can’t begin to count the number of great nights I spent @ The Auditorium. Sunday night hockey games were a regular in my family. The very first concert I attended was Thanksgiving Eve 1963 with The Beachboys and 2 opening acts. During the following years Hendrix, Cream, The Who and a loooong list of others led me down a path to my professional life as an audio engineer. I actually got to mix several shows in the building in it’s later years and was thrilled to do so in the spot where it all began for me. I have a number of bricks from the building I aquired during demolition lining gardens around my property. I wish I could squeeze some old toons out of them !!'
+
+- property: ri-auditorium
+  person: 'Paul Santos' 
+  date: '2009-10-30' 
+  content: '1968, the first concert of my life, The Cream farewell tour, backed by Terri Reid. Not to mention seeing the original WWW, with the likes of Haystack Calhoun and Killer Kawalski.'
+
+- property: ri-auditorium
+  person: 'Rock' 
+  date: '2009-08-02' 
+  content: 'I remember seeing a Wizard of Oz themed Ice Capades at the old Arena... some time in the early 60s... It was Winter and was really cold inside that place...'
+
+- property: ri-auditorium
+  person: 'Gale' 
+  date: '2009-07-10' 
+  content: 'I remember seeing Melanie at the Arena. I went ice skating there as well. I don’t live in RI right now, but I do miss the arena.'
+
+- property: ri-auditorium
+  person: 'Jerry' 
+  date: '2009-04-24' 
+  content: 'When I was a little guy we went to the Auditorium to see a rodeo. The highlight of the night was when the Range Rider (Jock Mahoney) and his side kick Dick West “The All American Boy” made their appearance. I don’t remember any of the rodeo – just thier appearance! The Range Rider was one of the earliest TV shows that I actually remember. Table Talk pies was the sponsor! The Auditorium may be long gone, but the Penalty Box is still there! A small bar right on the corner that got its name from the hockey term of the same name. '
+
+- property: ri-auditorium
+  person: 'Loran Fairfield' 
+  date: '2009 Apr 4 2009' 
+  content: 'My best memory of the Auditorium is from spring of ‘69, the last time Jimi Hendrix played there. My friend Jack Hanrahan and I arrived around 7 that nite, walked right to the box office and got two tickets, 6 bucks apiece.  No scalper or anything. Just imagine trying to do that for any popular artist today. Great show, I’d swear there were still notes bouncing around the rafters when the place was torn down. Too bad he’s gone. '
+
+- property: ri-auditorium
+  person: 'John' 
+  date: '2009-04-02' 
+  content: 'Wow, nice parking lot! Great use of the land. This really brings people together. Thank goodness for redevelopment.'
+
+- property: ri-auditorium
+  person: 'Bobby Desjardins' 
+  date: '2009-02-03' 
+  content: 'I live in new orleans now, but born in r.i. My father and uncle would take my brothers and myself to red games on sunday evening after playing hockey during the day. I remember bobby leduc giving me his stick which i still have to this day! I remember the cigar smoke filling up the place where you could not see across the rink; also the coziness of the building to watch the reds, and the organ playing during pre-game warm ups. i miss the place but will never forget. i purchased one of the limited prints which is hanging in my bedroom here in new orleans.'
+
+- property: ri-auditorium
+  person: 'William Flanagan' 
+  date: '2009-01-26' 
+  content: 'RI Auditorium hosted a lot of important rock concerts in the 60s and early 70s: Bob Dylan and the Hawks (later The Band), Hendrix twice, the Doors, Buffalo Springfield, Johnny Cash, Sly and the Family Stone – which started a riot and got rock concerts banned in Providence for a couple of years. Merv Griffin did a special called “Sidewalks of New England” that featured Aretha Franklin live at RI Auditorium. In its final days, when half the hall had been converted into The Main Event, a very young U2 played there. And yes, Beacon Shop, just down the street, was the kind of record store that doesn’t exist anymore – not just deep catalog rock and R&amp;B, but yards of classical, jazz, blues, gospel, country, and easy listening. Throw in Korb’s bakery and Miller’s deli and North Main Street was the boulevard of dreams.'
+
+- property: ri-auditorium
+  person: 'Andy Braica' 
+  date: '2009-01-14' 
+  content: 'My father used to take me to the Arena to see boxing, which I believe was on Monday nights. I recall seeing Chris Schenkel doing the radio cast from ringside. Also, Warren Walden the former WJAR sports caster Ralph Zanelli ,Willie Pep, Geoge Aroujo fought there as well as Rocky Marciano. I also remember seeing Roy Rogers there.'
+
+- property: ri-auditorium
+  person: 'Jesse Levesque' 
+  date: '2008-11-22' 
+  content: 'I’ll never forget the many Wednesdays and Sunday nights I enjoyed watching the R.I. Reds play hockey at that auditorium. I was just a boy then so the thrill for me was great.  My Dad and two uncles used to have season tickets and would bring me along twice per week. They knew one of the ticket takers at the door who would let me in for free. I used to carry and bring-in my own little folding chair and would sit in front of one of the building support columns and be next to my Dad. I even had a plastic horn which my Dad had made for me, even had a mouthpiece on it and that horn was loud! I’m sure many people had seen me sitting in front of that particular column every Sunday night and many Wednesdays. I was fortunate no employees ever threw my Dad out because I never had a ticket!
+
+
+I remember seeing a live chicken or two and chairs getting thrown on the ice when the Reds weren’t doing so well. I remember several of the Reds players. Only one wore a helmet that I remember during that time (Alton White?). Even Marcel P. (our beloved goaltender) didn’t wear a face mask! I remember one particular game against the Rochester Americans where the Reds had scored over 15 goals! I had never seen a hockey team lose the game and their moral soooo badly as on that night!
+
+
+The only thing I really disliked about that arena? I’ll never forget the cigarette smoke. It used to fill the arena sooo bad by the third period you could cut it with a knife!  Talk about danger of second-hand cigarette smoke? Holy crap it was bad, but seeing the Reds play hockey twice per week when I was just a kid?? It sure was worth it! Many a time in the start of the 3rd period my Dad would allow me to change seats. He knew I hated the cigarette smoke, so he let me go look below where I’d always find an empty seat for myself! I’d sometimes sit in the first row right-up against the glass!! What a thrill it was for me who didn’t even have a ticket and never thought of such things!!'
+
+- property: ri-auditorium
+  person: 'ray buben' 
+  date: '2008-07-12' 
+  content: 'I will never forget The Arena. I spent a great deal of my childhood there. I worked in the parking lot for Al Rondeau, I  started when I was about 11 years old, I would stand at the entrance of the parking lot waving a flashlight trying to encourage people to park there, my brother George was my competitor across the street. Working there would get us in the arena to see what ever was playing for fre,. Pay was only about a dollar a night. I saw the RI Reds hockey, high school hockey, college hockey, Ice Capades, Ice Follies Famous stars ie Bob hope, Bill Halley and The Comets, Circuses, Jean Autrey, and rodeos it was our main form of entertainment. I am glad we had the ARENA.'
+
+- property: ri-auditorium
+  person: 'Jack Reich (Met Cafe, Lupo’s)'
+  content: 'Around 1980 I promoted some concerts there… It was called the Main Event and then 11-11 for a short time.
+
++ Rickie Lee Jones
+
++ Adam Ant
+
++ The Ramones
+
++ Iggy Pop
+
++ George Thorogood &amp; the Destroyers (George had his custom white thunderbird Gibson guitar stolen from back stage)
+
++ And a group called the Plasmatics blew up a car in there
+
+
+That’s not a shabby line-up but the place was past it’s prime. The building had been sub-divided by then and was a maze.'
+
+- property: ri-auditorium
+  person: 'Donna Rosa Baker'
+  content: 'My father, Norman Rosa, was the nephew of Louis Pieri and was the building superintendent for years at the Rhode Island Auditorium. Uncle Louis was also my godfather and I have fond memories of visiting the auditorium, watching the games and going to alot of events there. I have great memories of my dad and watching him work the building doing his thing. He stayed in the business until he retired, working other Arenas over the years (St. Louis Arena/Boston Gardens/ and Portland Civic Center in Maine. He was a great man.
+
+
+I am a deputy juvenile officer for St. Louis County, Missouri. Like the generations before me, I have dedicated years to my profession and contributed alot to the Family Court for the past 29 years. It always feels good to have had dedicated people who came before me showing me the way of good work ethic – the parents, aunts, and uncles and other family members who consider that working hard is hardly working when you’re doing something you love and making a difference in the world of others. Thanks Uncle Louis and Norman Rosa for leading the way!'
+
+- property: ri-auditorium
+  person: 'Ollie Running Water Best'
+  content: 'I am looking for pictrures of a Pageant that took place in the Rhode Island Auditorium on Friday, Dec. 1, 1939. The Pageant was called “The Brotherhood of Yesterday is the Peace of Tomorrow” I am looking for pictures for our Native Narragansett Indian Museum called “Tomaquag” in Exeter, R.I. These pictures would be approx 66 years old now. We would LOVE to display them. Also interested to see if any had my Great Grandmother Theresa Peckham in them. The Pageant was apparently written by Princess Red Wing.
+
+
+Thank you. Pleaes e-mail me if you would have any such pictures or souveniers of this play. I would be ever so thankful. OllieB789@aol.com'
+
+- property: ri-auditorium
+  person: 'Marie George'
+  content:  'I grew up going to all kinds of events there.  Ice Capades, Ringling Brothers Circus, and even a Jimi Hendrix concert. It seemed so big to me.  I was sad to see it go.'
+
+- property: ri-auditorium
+  person: 'Lester Goulart'
+  content: 'I used to work there near the end of its era. When I was there it was no longer a ice rink. It had a second floor put in and the top floor was a roller rink and the lower floor had a Salon, (my lady of Fittness) and tennis courts took over where the ice rink used to be ) fore court) there was a diner on the left side of the building. It was owned by a R.I. developer named Charles Tapalian and he tried many different things there, motor-cross, flea market, auctions, etc but nothing seemed to take hold. It was a grand old place though, I miss it and the many memories it used to bring. I agree with the other writer, “Its sure an ugly place now”'
+
+- property: ri-auditorium
+  person: 'Jim Engstrom - Eagle Mountain, Texas'
+  content: 'I watched my great friend Ray Sauer play high school hockey (Warwick Vets) and remember Mr. Joe Marcello (Photographer) covering the Reds in the late 50’s.'
+
+- property: ri-auditorium
+  person: 'Dean Carlson'
+  content: 'In it’s last years, it was a disco named 11-11. It also had a video game room on the left side of the building and a roller skating rink on the right. I think I heard Rapper’s Delight for the first time skating around in there.'
+
+- property: ri-auditorium
+  person: 'Robert Fagan'
+  content: 'I remember two things about the RI Auditorium/Arena. One, very late in it’s existence I believe it became some sort of disco/nightclub, and 2) My mother refused to let me go see the Doors when they played there in about 1968 or so (I was only 11 years old!)<br>
+And, by the way – does anyone remember (or have photos of) Beacon Record Shop, which was right down the street a few blocks from the Arena? Biggest and best record store in RI at the time – probably still would be, too…'
+
+- property: ri-auditorium
+  person: 'Thomas Nosal'
+  content: 'I live right around the corner from where the arena used to be. I’m not old enough to remember it but my dad has told me all about how he used to attend concerts and other events there. Everytime i look at that huge, ugly parking lot that’s there now I wish that place never got torn down.'
+
+- property: ri-auditorium
+  person: 'Stanley Bomes'
+  content: 'As someone brought up in Providence and as an avid Providence Reds fans I cannot help but have fond memories of the building. It really was the perfect sport arena – especially for hockey. You were right on top of the action. I remember the night they took down the chicken wire and replaced it with plexi-glass. The Reds were loosing and everyone started yelling “bring back the chicken wire.” What a lot of people forget is that prior to the days of Schneider Arena built on the Providence College campus, The PC hockey Friars played their home games in the arena and for a number of years the Boston Celtics played a few games a year there. '
 
 - property: chinese-restaurants
   person: 'Mimi Medeiros' 
