@@ -1,7 +1,7 @@
 ---
 title: "Sears Automotive"
 slug: sears-auto-north-main
-aka: ""
+aka:
 date-modified: 2020-06-25 16:00
 
 built: 

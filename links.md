@@ -132,6 +132,10 @@ Providing people who live and/or work in Providence with a strong residential vo
 
 [Pawtucket and Central Fall’s Community Development Corporation](//pcfdevelopment.org){:target="_blank"} works in the Broad Street neighborhood and beyond for affordable housing and the improvement of community housing and green space. Home buyer and landlord education offerings as well as a limited pool of new and renovated affordable housing stock in the two cities. 
 
+### Preservation Society of Fall River
+
+Founded in 2007 and incorporated as a 501c3 nonprofit organization, the [Preservation Society of Fall River](//psfallriver.org/){:target="_blank"}’s all-volunteer board of directors and its members are dedicated to protecting Fall River’s historical resources and unique architecture.
+
 ### Preserve RI
 
 Rhode Island’s only [statewide non-profit preservation organization](//www.preserveri.org){:target="_blank"}, Preserve Rhode Island is protecting Rhode Island’s historic structures and unique places for the enjoyment of present and future generations. Advocacy, Education, Merit Awards and Mini Grants help fuel the community and get our message out there.

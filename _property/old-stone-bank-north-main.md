@@ -1,7 +1,7 @@
 ---
 title: "Old Stone Bank"
 slug: old-stone-bank-north-main
-aka: ""
+aka:
 date-modified: 2020-06-24 18:00
 
 built: 
