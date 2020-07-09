@@ -2,7 +2,7 @@
 title: "Louttit Laundry"
 slug: louttit-laundry
 aka: "What Cheer Steam Laundry"
-date-modified: 2020-05-13 20:05
+date-modified: 2020-07-06 16:53
 
 built: 1906
 demolition: 2008
@@ -90,6 +90,16 @@ images:
     caption: Photo by Lou Fancy
   - url: loutit-laundry-lf-2005-01-09.jpg
     caption: Photo by Lou Fancy
+  - url: loutit-laundry-jh-2008-03-01.jpg
+  - url: loutit-laundry-jh-2008-03-02.jpg
+  - url: loutit-laundry-jh-2008-03-03.jpg
+  - url: loutit-laundry-jh-2008-12-01.jpg
+  - url: loutit-laundry-jh-2008-12-02.jpg
+  - url: loutit-laundry-jh-2008-12-03.jpg
+  - url: loutit-laundry-jh-2008-12-04.jpg
+  - url: loutit-laundry-jh-2008-12-05.jpg
+  - url: loutit-laundry-jh-2008-12-06.jpg
+  - url: loutit-laundry-stump-2009-01-01.jpg
   - url: loutit-aerial-1972.jpg
     caption: Providence Historical Aerial Viewer 1972
   - url: loutit-aerial-1988.jpg
@@ -101,7 +111,7 @@ images:
   - url: loutit-aerial-2011.jpg
     caption: Providence Historical Aerial Viewer 2011
 
-imagescredit: Contributions by Chris Martin (Quahog.org), Rick Greenwood (RIHPHC), Frederick C. Stachura, Lou Fancy, and aerials from the Providence Historical Aerial Viewer
+imagescredit: Contributions by Chris Martin (Quahog.org), Rick Greenwood (RIHPHC), Frederick C. Stachura, Lou Fancy, Stump, and aerials from the Providence Historical Aerial Viewer
 ---
 
 ### Reason for Demolition
@@ -118,7 +128,7 @@ The City supposedly saved the ceramic (?) tiles on the front of the building abo
 
 ### Current Events
 
-This area is the site of the [Urban Greens co-op market](https://urbangreens.com) and an affordable residential development called [The Upton](//www.uptonpvd.com). 
+This area is the site of the [Urban Greens co-op market](//urbangreens.com) and an affordable residential development called [The Upton](//www.uptonpvd.com). 
 
 ### History
 
