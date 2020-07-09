@@ -1,14 +1,112 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: ri-auditorium\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: united-traction-trolley-barn\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: ri-auditorium\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: united-traction-trolley-barn\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: united-traction-trolley-barn
+  person: 'Miguel' 
+  date: '2015-12-30' 
+  content: 'Somewhere along the line (not sure when) the name of the current strip mall got changed from "Brewery Parkade" to "Cranston Parkade". So even that small homage to Narragansett Brewing Co. was eliminated.'
+
+- property: united-traction-trolley-barn
+  person: 'Jim Vaitkunas' 
+  date: '2008-12-19' 
+  content: 'People are calling this building a “trolley barn.” but it was much more than just a storage building for streetcars. Until the late 1930s this building and its grounds comprised the primary repair shops (called Cranston Repair Shops) for the Rhode Island Company, the electric railway company that operated over 400 miles of electric railway tracks in Rhode Island until just after WW I.
+
+
+At its height, besides the Providence, Pawtucket and Woonsocket local lines, the RI Co opperated the following suburban streetcar lines: Woonsocket to Pascoag, a high-speed line to Providence from Woonsocket and slow speed (i.e., side of the road) line to Pawtucket; a high-speed line from Providence to Warwick neck, Rocky Point and Buttonwoods; a long line to Narragansett Pier and Wakefield via East Greenwich (Seaview RR); the long line to Rockland and on to Danielson, Connecticut; and lines to Artic and on to Hope and Washington via Crompton.
+
+
+In the early 1920s RICo reorganized as United Electric Railways and operated the streetcars in RI until the last streetcar line was abandoned in 1948. During the 1920s and 30s UER abandoned most of the suburban/interurban trolley lines except for a handfull of Providence local lines and the North Main Street line to Pawtucket.
+
+
+In the late 1930s UER had cut back so much that they no longer needed such a large shop complex. So they vacated their Cranston repair shops and did what heavy repairs needed at their Broad Street carhouse, Elmwood carhouse and the Prairie Avenue carhouse. They sold the shops building and land in the back to the brewery which then used it as a storage warehouse.
+
+
+I believe that the Elmwood carhouse still exists as does the Cranston Street carhouse and the Academy Avenue carhouse. There might be another one or two of the old RICo carhouses still extant.
+
+
+Jim Vaitkunas  
+[Minnesota Streetcar Museum](//www.trolleyride.org){:target="_blank"}
+
+
+(**A.I.R.**: Thanks for the history, Jim! After our own research, it seems like you have the names of the company backwards. They were the United Traction Electric Company first, then the Rhode Island Company. The previous page did not mention United Traction at all but we have since corrected the omission)'
+
+- property: united-traction-trolley-barn
+  person: 'pat s' 
+  date: '2008-08-24' 
+  content: 'When I first moved to Cranston back in 1990, I had explored the grounds of the Brewery, but never once set foot in the Trolley Barn; it was impenetrable at the time. As I grew older and the old Brewery demolished, I once saw from my vehicle on Cranston St, behind an overgrowing shrub, a sheet of plywood had been removed from one of the tall windows, allowing easy access. I thouhgt about it, but never acted on the attempt to explore. Shame on me! I’d give anything to go back! Thanks for the great pics!!'
+
+- property: united-traction-trolley-barn
+  person: 'Alicia Clark'
+  content: 'I grew up in Cranston, my dad drove a truck for B&amp;B transportation, who hauled for the brewery. I haven’t been “home” in years, and these pictures of the decaying barn made me cry a little. It was such a wonderful building. There used to be tunnels that lead to the brewery across the street. This was so they could send the beer on conveyor belts to be loaded on horse drawn carts – many many years ago, and not be seen because, according to my dad, The Internal Revenue Service granted the brewery a permit to brew, bottle and sell beer and malt liquor for medicinal purposes during Prohibition. The beer had to be sold on the brewery’s premises. Sales could be in a quantity of one gallon at a time and a prescription was required. So, they would bring the beer under ground and load it onto “ice trucks” to be delivered, illegally, else where.'
+
+- property: united-traction-trolley-barn
+  person: 'rob'
+  content: 'Brilliant work folks. You should be commended for preserving the memories of these venerable historical structures. They are the old Rhode Island, the community where people lived, prayed, worked, and passed from this life. All we have now is the bloodsucking Paolinos who care only about money as they buy and sell in a satanic enterprise which will leave nothing more than a Kafka-esque nightmarish monochrome kalaidescope of prefabricated upscale housing and further “gentrification.” Thanks for taking one more thing from the people Paolino. God’s curse on you!'
+
+- property: united-traction-trolley-barn
+  person: 'Steve Micke'
+  content: 'I am greatful to all of you who havw entered your thoughts here and on the other sites linked to this site. I am an avid researcher of historical facts, and the one thing that bothers me is that more people do not regard history as a foundation of our present but they regard history more as just a stepping stone to bigger and “better” things. While I will admit that an electric mixer makes whipping potatoes a lot easier, I still enjoy using and old fashioned crank drive mixer my grandmother use to use. Why must we destroy the Mom and Pop corner store so that mass retailers like Walmart and Stop and Shop can build over sized, intimidating gargantuan buildings which just take up more and more open space. The site of the Main building of the Narragansett Brewery (Lets not forget that at one time there was also a race track where car manufacturers would bring their newest models and race for bragging rights.) which now houses a shopping center with Stop and Shop and Kmart as the anchor stores, could have had so much more to offer. How about a museum of work and culture similar to that in the northern part of the state which could have paid homage to those who made the Narragansett Brewery an icon for Rhode Island, which could have been the central focal point of a new state park with athletic facilities and walking tracks. But the almighty dollar and the dollar signs in the eyes of J. Paolino take precedent. I realize that I may be rambling on but my dismay and distaste for people who have no regard for history and feel that we should shun the past and only support a future which cuts all ties to our past gets the best of me. I hope that we do not someday have to once again learn how to build a world from soil and trees, rather I would prefer to learn how those that did before us did it and try to maintain what they have given us instead of tearing it down. (one last note: It is land owners like J. Paolino who cause great historical landmarks such as the Brewery to fall into disrepar and allow them to get into a state of no return.)
+
+
+(**A.I.R.**: Thanks for the info, Steve. Just a slight correction, the former site of the Narragansett Brewery is not the site of the current Cranston Parkade [KMart, Lowes, etc…]. That land was undeveloped until about 2000 — we checked via aerial photos.)'
+
+- property: united-traction-trolley-barn
+  person: 'Matt Coleman'
+  content: 'My grandfather worked there for 40 years. He’s 94 now and I still ask for stories of the old days at Narragansett brewery. When he had to move from his local residence 10 years ago, I asked to keep old wooden crates that were used and beer cases before cardboard was utilized. I also framed a 5’ x4’ (foot) picture that must have been a poster in the mangers area. it shows lobsters, beer, clams, and other local delicacies.'
+
+- property: united-traction-trolley-barn
+  person: 'CD'
+  content: 'J. Paolino Jr. is a liar of the worst kind. His m.o. is greed.'
+
+- property: united-traction-trolley-barn
+  person: 'Mark Hellendrung'
+  content: 'They may have torn down the brewery, but we’re bringing the beer back! <a href="//www.narragansettbeer.com" target="_blank" title="Open in a new window">narragansettbeer.com</a>'
+
+- property: united-traction-trolley-barn
+  person: 'Dan Sheppard'
+  content: 'I had the privilege to explore this place when it was used as a warehouse by the brewery. I’m in advertising, and produced the last TV commercial ever shot for Narragansett Beer in 1983. It happend that we needed Narragansett Beer bar glasses for the commercial, and John MacNabo (sp), the brewery president, took me into the barn where they stored all the beer advertising paraphenalia. It was pretty cavernous, and most of it was unused by then. We took the last 8 gold-rimmed Narragnasett beer glasses out of that place, and used them for the shoot. I still have 4 of them.
+
+
+We used to meet regularly in the main brewery building, in the BrewMaster’s room, which was an ornate, dark-panelled Germanesque room with a large, leather-covered conference room table in the center. At one end of the oval table, 3 draught handles stood at attention. You had your choice (yes, even at a 9 am meeting) of fresh-tapped Narragansett Lager, porter (which was really good), or ale. It’s a shame the whole place wasn’t put on the national register. It was a real piece of history.'
+
+- property: united-traction-trolley-barn
+  person: 'Roland'
+  content: 'Why do we tie our emotions so tightly to the buildings and landmarks of our past? Because our past is what makes us New Englanders.
+
+
+We ache inside to see this decaying trolley barn come down because no one cared enough to preserve our past, to remember that new is not always the best and to remind us that our existence in life has so little meaning to our unknown neighbors.
+
+
+Mention the pyramid structure of the Apex building in Pawtucket and a few hundred thousand people will nod in unison.
+
+
+Does everyone remember that commercial in the 70’s where it shows an Indian with a tear running down his face and as the camera backs away it shows a polluted stream? Our waterways are now cleaner because of the EPA and Superfund money. We need to have that Indian make the same commercial next to the trolley barn as it’s coming down. Perhaps it’ll have the same effect. 
+
+
+My heart is tearing apart seeing those pictures…'
+
+- property: united-traction-trolley-barn
+  person: 'Than'
+  content: 'Some friends and I filmed a short movie in the brewery a few years back, ping pong club it was called. While we were in there, some little punks were screaming at us and tagging their shitty scriggles over some amazing graffitti on the walls. Man those kids sucked.
+
+
+Anyways, we had a ping pong table set up for the film, and one of the kids comes stumbling into the room we were in during filming and collapses on the table. He had a broken wrist, so that the back of his hand could bend all the way back to his arm. Man, I hate to say he had it coming, but– Anyways, he had fallen like 30 feet inside. Not through rotting floor or anything, just being careless. His friends wanted to run away, the little pansies. But we made them call for an ambulance, and firemen came with the ambulance. 
+
+
+We were going to high tail it out of there, but one of the girls in our group knew the fireman or something, so they werent pissed at us for being in there. When we saw that kid again he wouldnt talk to us. What a lil shit!'
+
+- property: united-traction-trolley-barn
+  person: 'AJM'
+  content: 'I am a 12 year old urban explorer who lives in Cranston and is SHOCKED to hear that this place is coming down in May 2005, to make room for a new police center. I have visited this building several times and even seen the interior. The archetexture is very intricate in the brickwork and as much as it is indeed decaying, it is an amazing place. My dad tells us how he used to be able to take tours of the brewery complex and how my late grandfather used to enjoy ‘Gansett Beer. All I can say is farewell and bon voyage to this landmark.'
 
 - property: ri-auditorium
   person: 'Ramona Reis' 
@@ -739,7 +837,10 @@ It seems ironic (and ill-omened) that the city that invented diners is in its so
 - property: masonic-temple-pvd
   person: 'James Pilkington'
   date: '2014-08-17'
-  content: 'I’m a little confused. Back in the late forties. 1949 or so, one part of that complex was totally redone and was called the Veterans Memorial Auditorium. It was i thought part of that complex that was halted when the depression hit. The General Contractor was either Gilbane Construction or E. Turgeon Construction. My dad was the foreman for the company that did the plastering to the auditorium. That company was H. Carr & Sons who I think is still in business today. (A.I.R.: True, all true. See our timeline of events. These were constructed as two structures with connecting “bridge” building.)'
+  content: 'I’m a little confused. Back in the late forties. 1949 or so, one part of that complex was totally redone and was called the Veterans Memorial Auditorium. It was i thought part of that complex that was halted when the depression hit. The General Contractor was either Gilbane Construction or E. Turgeon Construction. My dad was the foreman for the company that did the plastering to the auditorium. That company was H. Carr & Sons who I think is still in business today. 
+
+
+(**A.I.R.**: True, all true. See our timeline of events. These were constructed as two structures with connecting “bridge” building.)'
 
 - property: masonic-temple-pvd
   person: 'sue'
@@ -922,7 +1023,10 @@ I am very pleased to see the improvements being made to the old training school.
 **Medical Examiner Seeks Help To Identify Bones**, 06-24-2006 3:42 AMs
 
 
-(Providence, RI) — The state Medical Examiner’s Office has confirmed that bones found in the Garden City section of Cranston are human remains. The bones were found Thursday afternoon by a work crew digging in the area. The ME’s Office says the identification of the bones as being human was made visually by an anthropologist at the University of Maine. The investigation will continue in an attempt to provide further information about the remains. (A.I.R.: It was later determined that the bones originated from a forgotten graveyard on the site.)'
+(Providence, RI) — The state Medical Examiner’s Office has confirmed that bones found in the Garden City section of Cranston are human remains. The bones were found Thursday afternoon by a work crew digging in the area. The ME’s Office says the identification of the bones as being human was made visually by an anthropologist at the University of Maine. The investigation will continue in an attempt to provide further information about the remains.
+
+
+(**A.I.R.**: It was later determined that the bones originated from a forgotten graveyard on the site.)'
 
 - property: sockanosset-boys-school
   person: 'Nite'
@@ -983,7 +1087,10 @@ I am very pleased to see the improvements being made to the old training school.
 - property: grove-st-school
   person: 'Sherrie Butts' 
   date: '2017-12-06' 
-  content: 'I went to this school from 1968-1970 when I lived on Bernen st which was right behind the school. I have no idea what made me even look this up today but I’m glad that I did now so that I could just say that this school is obviously near and dear to me as I now live in West Virginia and don’t get to visit often. I’m now almost 55 yrs old and still remember my 1st grade teachers name was Mrs Mactaz, she was so good to me as my parents were going through a divorce at that time and she treated me like I was her own child. I truly hope that there is some way to make repairs on this beautiful old building, instead of tearing it down. (A.I.R.: Sorry Sherrie, it was torn down in 2012)'
+  content: 'I went to this school from 1968-1970 when I lived on Bernen st which was right behind the school. I have no idea what made me even look this up today but I’m glad that I did now so that I could just say that this school is obviously near and dear to me as I now live in West Virginia and don’t get to visit often. I’m now almost 55 yrs old and still remember my 1st grade teachers name was Mrs Mactaz, she was so good to me as my parents were going through a divorce at that time and she treated me like I was her own child. I truly hope that there is some way to make repairs on this beautiful old building, instead of tearing it down.
+
+
+(**A.I.R.**: Sorry Sherrie, it was torn down in 2012)'
 
 - property: grove-st-school
   person: 'Al' 
