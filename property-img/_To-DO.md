@@ -54,8 +54,25 @@ caption: Providence Historical Aerial Viewer 2008
 # Kinsley Park
 + Research this place, another athletic field owned and run by the guy that started the Cyclodrome. Mentioned in the essay.
 
+# Narragansett Race Track
+* Link to this property from the RI Auditorium page
+
+# Old Police Station
+* Find the Frank Mullin photos and recrop/resize
+* Find the 2007 photos of the post-demolition cleared land
+
+# Photos from Tucker!
+* Hartford Ave Apartment demolition
+* RI Auditorium demolition
+
 # Poirier's Diner / El Faro / West Side Diner
 * More photos and some history here: http://61thriftpower.com/back.shtml
+
+# Providence Fruit Warehouse
+* A bunch of photos collected in a folder called LOST where I can no longer find the originals to recrop them
+
+# Pulse Nightclub
+* Images in the Thurston Saw folder, Providence. P1010127.JPG, P1010128.JPG, P1010129.JPG
 
 # Red Fez
 * There is a photo of this building from 1977 in the Downtown Providence Historic District for the National Register
@@ -63,15 +80,6 @@ caption: Providence Historical Aerial Viewer 2008
 # Silver Spring
 * Find the old photos and rescan them. All are poor quality. 
 
-# Old Police Station
-* Find the Frank Mullin photos and recrop/resize
-* Find the 2007 photos of the post-demolition cleared land
-
-# Pulse Nightclub
-* Images in the Thurston Saw folder, Providence. P1010127.JPG, P1010128.JPG, P1010129.JPG
-
-# Providence Fruit Warehouse
-* A bunch of photos collected in a folder called LOST where I can no longer find the originals to recrop them
 
 # RI Malleable Iron / Elizabeth Mill
 * First photo is actually another building that was razed sometime between 2012 and 2016
@@ -89,6 +97,9 @@ WARWICK – Demolition of the 19th-century Elizabeth Mill has begun in preparati
 # Good photos of construction/demolition equipment
 * Grants Block 2004-10 PA311488.JPG
 * Gulf Station 2003-04 P4200772.JPG
+* Sears Auto sears-auto-jh-2006-01-09.jpg
+* Sears Auto sears-auto-jh-2006-02-03.jpg
+* Trolley Barn 2005-06-01 P1010199.JPG, P1010198.JPG (trolley-barn-jh-2005-06-05.jpg), P1010205.JPG, P1010204.JPG (trolley-barn-jh-2005-06-07.jpg)
 
 # Movies
 * Dumb and Dumber: South Water St in the opening. TF Green exterior 6:30 (of course, in the terminal, it's another airport. 21m in, Big Blue Bug off the highway. While there is a rumor that the circular Gulf station served as a Bus terminal, I could not see that in the movie itself. Maybe a deleted scene? 

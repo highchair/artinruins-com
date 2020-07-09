@@ -19,7 +19,7 @@ description: Tracking demolition and redevelopment in the City of Providence, RI
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 port: 4090
-url: "http://artinruins.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://artinruins.com" # the base hostname & protocol for your site, e.g. http://example.com
 destination: _prod/
 
 # Build settings

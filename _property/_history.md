@@ -28,7 +28,9 @@ Historical Section
 
 Rest In Peace section (18)
 + Hartford Ave Apartments
-++ Greenhaulgh Mills
+++ Greenhaulgh Mills — 368 Cottage Street, demolished 2002. I can't find any AIR photos of this site. 
+New story: https://www.middletownpress.com/news/article/Mill-fire-spreads-displaces-residents-11915991.php
+Video of the fire: https://www.youtube.com/watch?v=2i4VbOTc00I
 + Gulf Station (The Circular Station)
 + Providence Machine Company
 + Thurston Saw/Atlantic Rayon
@@ -61,7 +63,7 @@ Urban Decay section (16)
 + North Main Street — Including Ethan Allen, Sears Automotive, Sears, Anderson Little, and #1320
 ++ Parkin Yarn
 ++ Royal Mills & Ace Dyeing 
-++ (Cranston St.) Trolley Barn
++ (Cranston St.) Trolley Barn
 
 
 ## 2004
@@ -228,7 +230,7 @@ Construction (Nov 2006)
 Historic
 ++ (moved Merchant's from RIP)
 ++ Possner Castle
-++ RI Auditorium
++ RI Auditorium
 
 Still In Use
 ++ 372 West Fountain Street
@@ -480,4 +482,3 @@ RIP (51)
 Streetscapes (6)
 Still In Use (46)
 Urban Decay (46)
-= 264
