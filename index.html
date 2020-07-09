@@ -18,7 +18,7 @@ sitemap:
   {%- for item in properties -%}
     {%- if item.title and item.slug and item.date-modified -%}
       {% assign props = props | plus:1 %}
-      {%- if forloop.index < 7 -%}
+      {%- if forloop.index < 11 -%}
         {%- if item.thumbnail -%}
           {%- assign item_image = item.thumbnail -%}
         {%- else -%}
@@ -60,13 +60,17 @@ sitemap:
     {%- endif -%}
   {%- endfor -%}
   </ul>
-  <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ props }} properties.</span> Browse more from our <a href="{% link category/usedtobethere.html %}">#UsedToBeThere</a> collection.</p>
+  {%- assign totalimg = 0 -%}
+  {%- for item in properties -%}
+    {%- assign totalimg = totalimg | plus: item.images.size -%}
+  {%- endfor -%}
+  <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ props }} properties</span> and <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ totalimg }} images</span>. Browse more from our <a href="{% link category/usedtobethere.html %}">#UsedToBeThere</a> collection.</p>
 </section>
 <section class="home__anec u__vertical__p u__gutter__p">
   {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
   <h2 class="o__title--sm v-rhythm">Recently added Anecdotes</h2>
   <ul class="u__list__unstyled anec__list" role="list">
-  {%- for quote in anecdotes limit:6 -%}
+  {%- for quote in anecdotes limit:8 -%}
     {%- assign property = site.property | where: 'slug', quote.property -%}
     {%- if property.first.thumbnail -%}
       {%- assign prop_img = property.first.thumbnail -%}
