@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: about/
-title: "About ArtInRuins (A.I.R.)"
+title: "About ArtInRuins"
+meta-title: "About A.I.R. | ArtInRuins"
 body-class: about
 ---
 

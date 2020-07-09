@@ -2,6 +2,7 @@
 layout: page
 permalink: support/
 title: "Help Support ArtInRuins"
+meta-title: "Help Support A.I.R. | ArtInRuins"
 body-class: support
 ---
 
