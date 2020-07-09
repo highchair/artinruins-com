@@ -2,7 +2,7 @@
 title: "Public Safety Complex at LaSalle Square"
 slug: public-safety-lasalle-square
 aka: 
-date-modified: 2020-05-02 21:46
+date-modified: 2020-07-06 16:34
 
 built: 1940s
 demolition: 2007
@@ -88,28 +88,23 @@ images:
   - url: public-safety-lf-2006-01-12.jpg
     caption: Photo by Lou Fancy
 
-  - url: 35.jpg
+  - url: public-safety-fm-2007-08-01.jpg
     caption: Photo by Frank Mullin
-  - url: 36.jpg
+  - url: public-safety-fm-2007-08-02.jpg
     caption: Photo by Frank Mullin
-  - url: 37.jpg
+  - url: public-safety-fm-2007-08-03.jpg
     caption: Photo by Frank Mullin
-  - url: 38.jpg
+  - url: public-safety-fm-2007-08-04.jpg
     caption: Photo by Frank Mullin
-  - url: 39.jpg
+  - url: public-safety-fm-2007-08-05.jpg
     caption: Photo by Frank Mullin
 
-  - url: 40.jpg
-  - url: 41.jpg
-  - url: 42.jpg
-  - url: 43.jpg
-  - url: 44.jpg
-  - url: 45.jpg
-  - url: 46.jpg
-  - url: 47.jpg
-  - url: 48.jpg
-  - url: 49.jpg
-  - url: 50.jpg
+  - url: public-safety-jh-2007-08-01.jpg
+  - url: public-safety-jh-2007-08-02.jpg
+  - url: public-safety-jh-2007-10-01.jpg
+  - url: public-safety-jh-2007-11-01.jpg
+  - url: public-safety-jh-2007-11-02.jpg
+  - url: public-safety-jh-2007-11-03.jpg
 
 imagescredit: Contributions by Mike Morgan, Lou Fancy, and Frank Mullin.
 ---
@@ -126,11 +121,12 @@ The new complex is a $32 million, 129,000 sf. home to the city’s police and fi
 
 The new complex includes separate police officer and firefighter locker and training areas, booking and detention areas, police forensic laboratories, fire battalion dormitory, fire apparatus bay, courtrooms, a 100-seat auditorium, below-grade parking and sally ports. An adjacent 525-car parking garage was also built.
 
+
 ### Current Events
 
 13+ years later, the former building site is still a parking lot. No doubt, along with the small lot where the 
 [Gulf Station]({% link _property/gulf-station-circular.md %}) 
-used to be, it makes really good money when there is an even at the Dunkin’ Center. We don’t know exactly why a project didn't go forward, but based on the last quote in the quoted news article, it looks like Procaccianti was not in fact _“committed to investing in downtown Providence.”_ 
+used to be, it makes really good money when there is an even at the Dunkin’ Center. We don’t know exactly why a project didn’t go forward, but based on the last quote in the news article, it looks like Procaccianti was not in fact _“committed to investing in downtown Providence.”_ 
 
 The idea was sound — a location so close to the Dunkin’ Center, the Convention Center, and other venues could easily support another hotel. In fact, in these 13 years (2020), a new hotel was built on the site of the former Fogarty Center. It just seems to be clear that Procaccianti was not the developer to do it. Would love more information about why redevelopment of this parcel has stalled. 
 
