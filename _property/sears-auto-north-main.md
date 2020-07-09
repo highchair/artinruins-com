@@ -36,6 +36,18 @@ images:
   - url: sears-auto-jh-2004-04-03.jpg
   - url: sears-auto-jh-2004-04-04.jpg
   - url: sears-auto-jh-2004-04-05.jpg
+  - url: sears-auto-jh-2006-01-01.jpg
+  - url: sears-auto-jh-2006-01-02.jpg
+  - url: sears-auto-jh-2006-01-03.jpg
+  - url: sears-auto-jh-2006-01-04.jpg
+  - url: sears-auto-jh-2006-01-05.jpg
+  - url: sears-auto-jh-2006-01-06.jpg
+  - url: sears-auto-jh-2006-01-07.jpg
+  - url: sears-auto-jh-2006-01-08.jpg
+  - url: sears-auto-jh-2006-01-09.jpg
+  - url: sears-auto-jh-2006-02-01.jpg
+  - url: sears-auto-jh-2006-02-02.jpg
+  - url: sears-auto-jh-2006-02-03.jpg
 
 imagescredit: 
 ---
