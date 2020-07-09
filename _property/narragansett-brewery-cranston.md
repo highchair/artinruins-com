@@ -54,7 +54,7 @@ The Narragansett Brewery in Cranston, Rhode Island, closed its doors on July 31,
 
 The plant suffered a long, drawn out death, succumbing to vandalism, property damage, fire and neglect. The site was eventually redeveloped after 17 years and (cruelly, in our opinion) renamed “Brewery Parkade”. A Lowe’s, K-Mart, and Stop-n-Shop occupy the site nearby along with a Texas Roadhouse and Wendy’s, right off Route 10, on previously undeveloped land. The corner of Garfield and Cranston street will be the home of the Cranston Police Department’s new facility. 
 
-In the summer of 2005, right as the reclaimed [Narragansett Beer](//www.narragansettbeer.com) brand came under new ownership and started its local comeback, the last remaining building of the original brewery came down – the [Cranston Street Trolley Barn]({% link _property/narragansett-trolley-barn.md %}). The site of the Trolley Barn – as of summer 2020 – is still unoccupied.
+In the summer of 2005, right as the reclaimed [Narragansett Beer](//www.narragansettbeer.com) brand came under new ownership and started its local comeback, the last remaining building of the original brewery came down – the [Cranston Street Trolley Barn]({% link _property/united-traction-trolley-barn.md %}). The site of the Trolley Barn – as of summer 2020 – is still unoccupied.
 
 ### Current Events
 
