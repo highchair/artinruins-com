@@ -2,7 +2,7 @@
 title: "Rhode Island Auditorium"
 slug: ri-auditorium
 aka: "The Arena"
-date-modified: 2020-07-04 22:00
+date-modified: 2020-07-15 22:00
 
 built: 1925
 demolition: 1989
@@ -32,10 +32,11 @@ images:
   - url: ri-auditorium-ephemera.jpg
   - url: former-site-plaque-close-up.jpg
   - url: former-site-plaque-on-gate.jpg
+  - url: ri-auditorium-tucker-1989-01.jpg
   - url: ri-auditorium-2004-04-01.jpg
     caption: "On this spot stood the Rhode Island Auditorium, home of the Rhode Island Reds hockey team, December 3, 1926 to April 11, 1972. 1111 North Main Street, Providence, Rhode Island. Dedicated on Saturday, July 31, 2010, by the Rhode Island Reds Heritage Society"
 
-imagescredit: Images from The Providence Journal and Wikimedia.
+imagescredit: Images from The Providence Journal, Tucker, and Wikimedia.
 ---
 
 ### Reason for Demolition

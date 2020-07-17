@@ -2,13 +2,13 @@
 title: "Hartford Avenue Apartments"
 slug: hartford-ave-apt
 aka: 2 Whelan Road
-date-modified: 2020-05-23 12:00
+date-modified: 2020-07-16 12:00
 
 built: 1952
 demolition: 1989
 decade: '1940-1949'
 date-added: 2003
-categories: [ '#UsedToBeThere' ]
+categories: [ '#UsedToBeThere', '#ArchiveRI' ]
 neighborhoods: [ 'Silver Lake' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -29,36 +29,38 @@ excerpt: "A mid-century housing complex that survived the blast intended to take
 thumbnail: 
 
 images:
+  - url: hartford-ave-tucker-1989-01.jpg
+    caption: 'Photo by Michael “Tucker” Terzian, 1989'
   - url: hartford-ave-g-1989-01.jpg
-    caption: Photo by Gemma, 1989
+    caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-02.jpg
-    caption: Photo by Gemma, 1989
+    caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-03.jpg
-    caption: Photo by Gemma, 1989
+    caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-04.jpg
-    caption: Photo by Gemma, 1989
+    caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-05.jpg
-    caption: Photo by Gemma, 1989
+    caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-06.jpg
-    caption: Photo by Gemma, 1989
+    caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-07.jpg
-    caption: Photo by Gemma, 1989
+    caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-08.jpg
-    caption: Photo by Gemma, 1989
+    caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-09.jpg
-    caption: Photo by Gemma, 1989
+    caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-10.jpg
-    caption: Photo by Gemma, 1989
+    caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-11.jpg
-    caption: Photo by Gemma, 1989
+    caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-12.jpg
-    caption: Photo by Gemma, 1989
+    caption: 'Photo by Gemma, 1989'
   - url: hartford-apt-aerial-1981.jpg
-    caption: Providence Historical Aerial Viewer 1981
+    caption: 'Providence Historical Aerial Viewer 1981'
   - url: hartford-apt-aerial-1997.jpg
-    caption: Providence Historical Aerial Viewer 1997
+    caption: 'Providence Historical Aerial Viewer 1997'
 
-imagescredit: All photos by Gemma, aerials from the Providence Historical Aerial Viewer.
+imagescredit: Photos by Gemma, Tucker, and aerials from the Providence Historical Aerial Viewer.
 ---
 
 ### Reason for Demolition
