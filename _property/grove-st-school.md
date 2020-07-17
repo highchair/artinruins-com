@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'National Register of Historic Places' ]
+lists: [ 'National Register of Historic Places', 'Former Schools' ]
 tags: [ 'Demolition by Neglect', 'Demolition without Permit' ]
 
 NRHP-ref-number: 74000047
