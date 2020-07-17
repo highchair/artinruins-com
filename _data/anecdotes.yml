@@ -1,14 +1,276 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: united-traction-trolley-barn\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: engle-tire-prov-ignition\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: united-traction-trolley-barn\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: engle-tire-prov-ignition\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: engle-tire-prov-ignition
+  person: 'Andy' 
+  date: '2012-06-16' 
+  content: 'Anything would be better than what exists there now and am excited that UCAP is taking a lead. But the notion that an urban core has plenty of coffee shops is plenty absurd. There is only ONE on Broadway. Cafes, bars, markets, etc. these third-locations (non-home, non-work) are what make neighborhoods, main streets and urban living accessible. Providence is not suburbia! It is a city! Like it or not! No drive-thrus! Yes to dense, transit oriented development.'
+
+- property: engle-tire-prov-ignition
+  person: 'worker X' 
+  date: '2011-07-11' 
+  content: 'I think you got more problems than any body knows i worked there about 14 years  3rd lift from office was the alinement rack  the oil tank way under ground leaked alot and for years we dumped 5 gal. buckets of oil at least 2 times a day 6 days aweek were talking thousands of gallons hydraulic oil seping into the ground under that building i think if somone did some real testing you would find you got a real problem'
+
+- property: engle-tire-prov-ignition
+  person: 'millhouse'
+  content: 'Here is your problem– between not allowing a drive through, and calling it historic, the development of the building is hampered. There is no reason this building needs to be preserved, there is nothing special about it. It has not been taken care of, and when in good nick it is still an ugly building. Every thing about it screams demolition, from the badly designed and placed docking platform off of Carpenter st to the roof and guts of the building which must have to be replaced any way. This property is gonzo though, even with the recession and bad market for real estate, this building is right between the Hill and Down Town and right off the high way. If they ever got some pull in the city of Providence to rezone or allow the destruction of the building, it would be a nice piece of land.'
+
+- property: engle-tire-prov-ignition
+  person: 'Jodie'
+  content: 'I’m always up for more coffee places (not the dunk), but it doesn’t seem practical. Trader Joe’s would make me soooo happy. something needs to be done, though. it looks like time just stopped in that place and everyone vaporized.'
+
+- property: engle-tire-prov-ignition
+  person: 'Roger W.'
+  content: 'A pharmacy would be nice here. As it stands, the nearest CVS is in Olneyville, and DePasquale’s on Broadway closed down in July. No more cafes or bars, though – we’re all set with those on Broadway. '
+
+- property: engle-tire-prov-ignition
+  person: 'Andy'
+  content: 'A Trader Joes, a mom &amp; pop pharmacy (no Walgreens) and a hip little cafe/rest/bar/gallery space in the section with the car bays would be killer for that area. Why raze all for a one-use space when the existing could be used for numerous offerings?'
+
+- property: engle-tire-prov-ignition
+  person: 'brian rosa'
+  content: 'I walk by this place every day, and found it funny that all of the computers in Engle Tire are still turned on. I was always curious what happened with this place, it seemed to close very hastily. '
+
+- property: engle-tire-prov-ignition
+  person: 'cotuit'
+  content: 'Walgreens would actually be nice in this area. If the rumors that the 3rd Power Block condo tower is going next to Dominica Manor are true, a ground level Walgreens there would be nice. It would be good for the residents of Dominca Manor too (Atwells Ave). '
+
+- property: ladd-school
+  person: 'Anthony Castaldi'
+  content: 'I had a need to explore a abandoned “asylum” recently, so i asked around and uncovered plenty of stories about this ladd center, as a rhode island resident all my life i never knew about it. i talked to my cousin who told me that she once went here to go look around but was too scared to enter, i went home later that night and asked my 81 yr old great grandmother about it. she got furious and told me to stay away from it. then i mention my great great aunt aurora. she was placed there wrongfully, she was highly intelligent and functional, she suffered from epilepsy and her sisters didn’t wanna take care of her, she ended up working until she died of a heart attack in the childrens dorms.'
+
+- property: ladd-school
+  person: 'Mike F'
+  content: 'My mother used to make threats to send me there when I was when I would “act up”. Eesshh! Nice memory there. The only other memories I have of this place are working for the furniture crew for URI during the summers of ‘88 and ‘89; getting mattresses, bed frames and assorted dorm furniture to stock the dorms for the fall.'
+
+- property: ladd-school
+  person: 'Pete'
+  content: 'I made a short movie about the Ladd School in 2003. I will put it up on YouTube, so you guys can look at it. Its about 20 minutes long and I know you will enjoy it. I visited the site about 15 time from the spring of 02 to the spring of 03. Nothing ever happened to me and my friends, however the vibe you get from the place is very sad. And I could not believe how quiet it is there. I haven’t been back to visit in over two years. Any building of importance get taken down? How is security?'
+
+- property: ladd-school
+  person: 'Brittani'
+  content: 'I grew up in exeter all my life, so I’ve heard all the stories. I’ve gone in most of the buildings, but the only one that currently stands is the hospital. (the round building) I ride through the ground on my atv, and I can honestly say that i never feel alone. Friends parents that used to work there say there are hundreds of unmarked graves around the property. Paitents were raped, gave birth, and the workers killed and disposed of the “evidence” i guess you could say. The dentist is a whole other story. Because these kids were mentally diabled they “couldn’t feel pain”, so the dentist would just pull out teeth, an do all sorts of things with out medications. Its located in the basement of the hospital, and every time i go in that part of the building i swear i feel a sort of pain all over. The showers they were given if you could even call it that was just getting sprayed with a hose, one with enoughpressure to break your skin wide open. Ladd has underground tunnels that led to all the buildings, and one that led to a creamatorim. Like Nazi style they would burn the “useless” paitents. Its not on any map of the grounds, and none of the workers really new where it was. But i found it in the middle of the woods riding on my atv. Its just a big cement block with two chimneys. Ladd school was just a cruel and inhumaine place. You can feel it whenever you step foot on the grounds that something very wrong happened there.'
+
+- property: ladd-school
+  person: 'Amanda'
+  content: 'Me and a few close friends visited Ladd School maybe a couple months back. We showed up late at night and decided to explore the circular building… according to a friend it was the hospital wing but then again he could have been misinformed.
+
+
+We found an opening in one of the boarded windows and thus made our entrance. However, my boyfriend at the time got a bad feeling and asked me to wait outside with him while our friends explored the dark corridors. 
+
+
+They were gone for awhile and all I can recall is hearing someone scream. They all came running out soon after and claimed to have heard something dragging on the floor above them and a low moaning sound.
+
+
+There was a very morose air to The Ladd School and I would definately like to go back and actually go inside this time.'
+
+- property: ladd-school
+  person: 'alyson'
+  content: 'the first time i was there it was really scary. i was walking through out the building when i felt a cold chill. then i heard like thuds coming from above us. then we all looked at each other in fear. we were like hello and no one answer’d then we heard thuds from way bellow us and we thought mabey something else is hear with us. we didnt now what to do. come to find out there was not one other soul in the building. this took place on september 24 2006!!'
+
+- property: ladd-school
+  person: 'pidgeonman'
+  content: 'When my grandmother was alive I had a wealth of information about T.L.S (the Ladd school) but now I just have the stories I had time to ask about. one story is an older sister of an patient (alternately called inmate) came to pick him up for some holiday. The sister was told that her brother was not to be found and probably ran away. Obviously her family was upset they searched the grounds and did not find him. my grandmother herd this from her friend a police officer, eventually they found several bodies in the centers sewer system. My best friends late father worked there. One of my family’s friends worked there and everyone I have asked agrees it was a sad disgusting place the inmates were treated as animals. my father aunts and grandmother used to live right on Exeter road virtually across the highway from the center apparently an inmate once ran away and hid out in their barn.Once my dads and grandmothers church choir sang there. '
+
+- property: ladd-school
+  person: 'Mike'
+  content: 'I went into Ladd with two friends, we climbed in a window where the board was hanging on with about 3 nails. When we got in we looked around and decided to go left which we found out brings you to the mourgue. we didnt go to far into the mourgue only because we had one flashlight, but we did see all the bodey trays some open and some closed. We then turned around and went upstairs and looked around each floor(the big round building). We never heard or saw anything that could have been a ghost. If you just listen you will hear noises but use your head and you will realize that the building has a lot of leaks where water falls, and that its falling appart. Now having said that we left that building and climed in the second floor of anouther buildin, again we heard and saw nothing.After we looked around that building we left. But I do things theres something there because another time I was there with the same two friends and one more who wouldent get out of the car, and I swear to you we saw something none of us or any smart person we know could answer. Their were very long and skinny clouds reall low to the ground, they were moving alot faster than a normal clound and definatly was not from a plane...none flew over head. The two clouds then formed into an X over the big round building and was there untill we left about 10 min. later. We have walked the premesis and we have heard some unexplaind noises from around the buildings and in the woods around it... all in all its definatly wourth checking out.'
+
+- property: ladd-school
+  person: 'Lauren'
+  content: 'my friends and i have been to the Ladd school three times, twice into the Fogarty building and once into the boys dorm the Howe building. Our second time in the Fogarty building two of my friends flash lights turned off at exactly the same time, we all heard foot steps eminating from like nothing, and when we got onto the roof, as we looked towards the childrens building we could hear voices from the roof below telling us to JUMP! but we shinned our flash lights all over that ground and didnt see any one at all. THEN when we went into the boys dormitory we entered through the bacement, and it was a little bit colder in the bacement than outside but not really that cold and when we were in there though we could all see our breath, it didnt make sence at first we thought it was dust, but why would it only show the dust when we were breathing? and when we were in the building there were old matresses on the floor and from the other room we heard what sounded like one of the matresses being dragged across the floor, but no one else was there. it was very creepy and i def believe that place is haunted i want to go back!'
+
+- property: ladd-school
+  person: 'Chris P.'
+  content: 'Yes im from apanaug in warwick and i have been in the school but to my suprise the cold air is from the basment and the vacuum keeping it in. The sounds can come from the pipes i found the still carry water from the roof when it rains to the tunnels the extend throughout exeter. also lights come from the found 5 servalince cameras found but theres more outside. sounds come from teenagers getting drunk and spray painting things, not including the homeless people. and as for some peoples pictures they’re are explanations for that. I believe the Ladd Center is haunted but the evidence people are using is not real. I spent three days in there with my friend and took pictures and investigated noises and logicly proved everything wrong.'
+
+- property: ladd-school
+  person: 'Erica'
+  content: 'I’ve been to the Ladd School once with two of my friends. We went into one of the buildings and walked around the first floor and then we went to the top floor, everything felt fine until we went to the basement. It was very cold and it felt like we were being watched, then all of the sudden we heard a loud bang coming from the first floor. With that being our only way out we headed up the stairs out the door to the car. I think the place is probably hanted, but I want to go back. '
+
+- property: ladd-school
+  person: 'jane'
+  content: 'i never been to the ladd center but i did have older people that i took care of that came from the ladd center. on of the ladies recalled geting a chair broken on her arm. she is very damage by the things she remembers she hardly wnats to take about it. u have to think they were there some since they were kids… so image the things they seen !!!! and yes i can say that i know a worker who intership a ladd school and when he went in he said that he seen a bunch of old guys naked mind you just going in circules in a room. after he seen that he never went back and now he helps big time the people who don’t live there '
+ 
+- property: ladd-school
+  person: 'Chance'
+  content: 'i got to the center and stood in front of the hospital building main entrance, The plank was torn off and there was an exposed broken window, i leaned in and it was so cold that i needed to put on a jacket, this is in JUNE mind you! taking no steps in i felt a presence that didnt want me there at all, I envy those brave enough who have gone in, and if anyone has gone in during june of 2006 let me know, i have gone many times but have never gone in, i would like to let the apparition guarding the entrance get a feel for me before i actually go in. btw does any one know who was the one to graffiti the very top of the building, and how did they get up there. i plan on purchasing the hospital building son i can take down the no tresspassing signs and let people explore without penalty, as long as no vandalism is done, if any one supports my purchase of that particular building, please e-mail me saying so. I care deeply for this building and the ones inhabitting it, and would not like to see it get torn down for whatever reason. If i do purchse this property, i will not restore it in any way but cleaning up the graffiti and to put patrolling gaurds outside around the clock to keep drug dealers out.'
+
+- property: ladd-school
+  person: 'chris davis'
+  content: 'i used to camp near ladd at wawalaom campground. my friends and i went thier and crashed because the car wouldn’t stop. we saw a little girl at the end of the morg hall way. we know this place is haunted. '
+
+- property: ladd-school
+  person: 'donald'
+  content: 'well i have never been in the place but i plan on it after everything i have hesrd from my friends that have been there i have to go for my self before they destroy the buelding avery person in rhode island should go in.'
+
+- property: ladd-school
+  person: 'mike gauthier'
+  content: 'i went to ladd school and me and my friend saw a ghostly figure down the hall and i ventured down there with extreme caution and suddenly it slapped me in the face and i ran leaving my friend there and i never saw him again i called the police and they didnt beileve me so thats why im writing to you today. Also last night i think that my friend might have tried to make contact but im not sure if it was him or not so i need your help!'
+
+- property: ladd-school
+  person: 'BARBARA NIMAN'
+  content: 'HI, MY NAME IS BARBARA. MANY YEARS AGO MY MOTHERS TWIN SISTER WAS PUT IN THAT PLACE BY HER MOTHER. WE HAVE BEEN TRYING TO FINE MY MOTHERS SISTER. HER NAME IS ELAINE BOULLARD, LAST MY MOTHER KNEW. HOPE THAT I CAN FINE MY MOMS SISTERS FOR HER.MY MOTHERS WISH IS THAT SOMEDAY WILL FIND HER. WE DON’T EVEN THINK THAT MY AUNT ELAINE BELONGED IN THAT PLACE. I PRAY THAT SHE IS SAFE AND WELL, AND IN A GOOD PLACE, NOT THAT. SO IF ANYBODY OUT THEIR KNOWS MY AUNT ELAINE BOULLARD PLEASE LET ME KNOW.WE WANT TO BRING MY MOTHERS TWIN SISTER HOME, GOD BLESS YOU. FOR TAKING THE TIME TO READ MY LETTER. EVEN IF YOU CAN, OR CAN’T, HELP US.GOD BLESS!!! MRS BARBARA NIMAN &amp; FAMILY'
+
+- property: ladd-school
+  person: 'Michael'
+  content: 'I went to Fogarty last night, 3/26/2006, and took 187 pictures on my Canon digital rebel SLR. A friend and I explored all 5 floors of Fogarty, including moving out to the roof, and also the basement, and there were no signs of the building being haunted, no strange feelings, no out of place noises minus a few bangs and cracks, and the echoes of our own footsteps in the stairwells. The place is not haunted sadly, and all of my pictures had no paranormal activity in them.'
+
+- property: ladd-school
+  person: 'alex'
+  content: 'the ladd school is very haunted i went with three of my friends last night and we had flashlights and cameras we caught some paranormal activity on our cameras a bunch of orbs and strange dark person was at the end of the corridor its really weird something is there and this is no joke if you go there bring people with you but at the same time we were very amazed and yes we will be going back '
+
+- property: ladd-school
+  person: 'VERONICA'
+  content: 'HEY GUYS, LETS NOT FORGET THAT ASYLUMS OR ANY STATE RUN HOSPITALS, FOR THAT MATTER, WHERE ALL HORRIBLE BACK THEN. ESPECIALLY, NORWICH STATE HOSPITAL, DANVERS, PILGRIMS, RIVERSIDE, ETC. AFTER SOME OF THE STOREIS I HAVE HEARD ON THOSE OTHER HOSPITALS, I WOULD HAVE TAKEN A NIGHT AT LADD ANYTIME. AND TAMMY YOU SEEM VERY PROUD OF YOUR GRANDPARENTS TAKING CARE OF YOUR AUNTS BY THEM SELFS. THEY DESERVE A PAT ON THE BACK. HOWEVER SOME FAMILY’S JUST WERE’NT AS FORTUNATE OR HEAD STRONG TO TAKE ON THAT RESPONSIBILITY. (WETHER IT BE RIGHT OR WRONG) AND I STRONGLY BELIEVE THAT ALOT OF PARENTS REALLY DID BELIEVE THERE KIDS NEEDS WOULD BE BETTER MET IN A FACILITY SUCH AS LADD. THEY TRUSTED A DOCTOR TO GIVE THEM THE PROPPER CARE . WHICH IS WHAT I DO AS WELL WHEN SENDING MY KIDS TO THERE PEDIATRICIAN. AND ONE MORE THING. IF YOU REALLY LOOK INTO ALOT OF OTHER THINGS THAT WENT ON AT LADD, YOU WILL FIND THAT OUR STATE WOULD NOT FUND THEM AS NEEDED. AND IM THANKFUL FOR PEOPLE LIKE TAMMYS GRANDPARENTS, THAT GAVE ALL THERE ASSISTANCE AND THEN SOME.'
+
+- property: ladd-school
+  person: 'emil'
+  content: 'i can tell you from experience that the place is haunted because i got a scar over my right eye. were should i begin their was 20 of us that went in. well this is what happened inside we went up the first set of stairs and a vase went flying at our heads we ducked so it wouldnt hit us we went through every door and found blood and bodies of the people that had died. and we got to the second we heard voices talking and things getting thrown and people screaming for help. and on the third when we reached people were disappearing and we couldnt find them and we walked into the room we smelled death waiting for us but of course we wanted to be brave and still go on our way we got to the forth floor and i walked into to a room to look around for any signs of my necklace and never found it but i had found a woman dressed in black and told me to get away but i kept on walking towards her but that was a mistake because i got a scalpul thrown at my face but it was aimed to kill me but i tryed to duck and im glad i did because i would of been dead their was only two of us left that left out that place. and can i give u word of advice dont sit in the car u dont live my friend sat in the car and he was gone me and my brother looked around for him we went back to the car and there was blood all in side the car did i say the walls bleed well this is my story'
+
+- property: ladd-school
+  person: 'Joshua'
+  content: 'On January 24, 2006 my friends and I returned to Ladd School but this time not just to drive by it. This time we went inside the building. We went in through the basement window and started to travel through the main building. When we were proceeding to the second floor, a non-living person pass through my physical being and it was as cold as ice. I paniced for a moment unable to move or breathe then I was able to let out a scream to my friends who were about to turn the corner on the second floor landing and I told them what happend to me. They thought I was crazy so I kept the errie feelings that I was experiencing at the moment. Then just at the point of reaching the second floor landing we noticed that one of our friends was not near us. Just then we heard sobbing coming from the second floor. We went down there and saw our friend standing against the wall crying. We tried to get some answers as what happened to him and he was non-responsive to our request for him to speak to him for the first five minutes. After the duration of five minutes he seemed uncertain or baffled as to what was happening around him. Then after a few minutes as if coming out of a comastasis stage and having a flash back of a traumatic event he started to mumble what was going on and what he had seen. He could only tell us that he had seen a little girl in the building who was bleeding all over. I needed to see for myself what he had seen so I had him point out the room of in which he had seen the little girl. In the far right corner of the room there was a little girl roughly around the age of 7 sitting in a small chair holding a teddy bear with no eyes. Blood was pouring down her head and body. The way I hear it, this girl was not only murdered but also raped in this building and the story was covered up. When we saw this she pointed to my friend, told him to get out, not in threatning manner but I would say in a warning tone of voice because she knew we were in danger. When they saw it we ran for the basement window where we had entered the building. Upon exiting the building, my brother and I were the last ones standing in the basement when him and I heard something move in back of us. We both turned to see what it was and there was a tall, dark, and slender figure in back of us. The figure pointed at my brother and motioned to him as if it wanted my brother to follow. My brother turned around and climbed out of the window. The figure then turned to me and motioned to me as to follow it. I wanted to follow my first instinct and feed my curiosity but instead followed my brother and friends out of the window and back to the car. When we were driving away my breathing was not fogging the windows but instead frosting them with visible ice. I asked everyone else if they were able to see their breath and the rest of them said no. For most of the ride I was non-responsive to everyone but instead tried to focus on what or who passed through me. What is odd is that instead of seeing what I was trying to find, a picture of a woman in her mid-thirties clouded my every thought. I do not know who she was but the image of her face would not leave me. Then we stopped at a restaraunt and I went into the bathroom and looked in the mirror. In the reflection was a man who looked exactly like me but he had red hair and blue eyes and it looked as if he was trying to say something to me but I could not make out what he was saying. Now that my friends and I have went in there together, another trip to Ladd School is being planned but this time our main objective is to find the morgue. And here is a word of advice to those who plan on going to Ladd School, Bring more than just 7 people and make sure you don’t get seperated from your group because there have been people who went in and never came out and I’m sure no one has heard their story because they got seperated from the group. However I have had the honor of having some of my friends who were a part of those groups who were able to give the story of those people who have disappeared. May they rest in peace and our journey to discover the paranormals continue safely. '
+
+- property: ladd-school
+  person: 'Anonymous'
+  content: 'Like alot of the testimoniales you have who individually wrote to your site, They to were scared out of the building late one night in Nov.- Nov. 27th., 2005. One of which I know well. The "boys" FOUND - on the property jugs of a clear liquid substance, not knowing what it was and looking like “alcahole” jugs, broke one while in the building on themselves. Two boys who were severley injured!
+
+
+They entered in a window already opened on the third floor. THEY WERE SCARED HALF OUT OF THIER MINDS WHEN THE JUG BROKE, AND NEVER EXITED THE BUILDING WITH THEM. THEY WOULD HAVE DIED IF THEY DIDN’T GET OUT, AND ALMOST DIDN’T. COULD NOT FIND AN EXIT, ONE KICKED OUT A PIECE OF PLYWOOD AND WHILE THIS " SUFIRIC ACID WAS MELTING OFF THIER SKIN, THE BOYS COULDN’T GET THIER CLOTHES OFF FAST ENOUGH.
+
+
+Knowing the grounds and building to which I am reffering you must know how long they had to run to the road to even drive to the ER to get help. This was property of the State of Rhode Island and if the boys drank it thinking it was bootleg whiskey, which is what it looked like, we would be looking at the death of 2 to 6 children! 
+
+
+THIS WAS NOT A CASE OF VANDLES AND 5 CHILDREN WERE THERE BEFORE, WHO WRITE TO YOU OFTEN!!! TWO BOYS NEVER WENT. THAT WAS THIER FIRST AND LAST I AM SURE THEY WILL EVER SET FOOT IN THAT PLACE AGAIN AFTER BEING LED BY GHOSTS TO WHERE THIS WAS LOCATED, AND THEN IN PANIC AND SHEER TERROR BROKE A BOTTLE SPLASHING THEM, 2 SEVERLY AND ALMOST LOOSING THIER LIMBS COULD NOT FIND AN EXIT. THIS STUFF IS OIL BASED, AND DOES NOT STOP BURNING WHOLES CLEAR THROUGH TISSUE AND BONE AND DOES NOT COME OFF. EATS THROUGH MEDAL AND ANY SUBSANCE ON EARTH. JUST IMAGINE A WHOLE GALLON BRAKING, SPLASHING ON THEM WHILE THEY WERE ALREADY IN A PANIC TO GET OUT. THINKING IT IS ALCAHOLE OR WATER, THEN BURNING AS THEY TORE OFF THIER CLOTHES IN THE MIDDLE OF WINTER, NARROWLY EXCAPEING BY THE VERY SKIN OF THIER BODY’S!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! NOW YOU KNOW THE TRUTH AND IT WAS NOT DONE ON PURPOSE. THE POLICE WERE GIVEN THE LOCATION BY THE CHILREN THEMSELVES. SO THAT NO ONE ELSE WOULD GET HURT, NAMELY YOU AND YOUR MEMBERS. SOME DAY I HOPE YOU TALK TO THEM SO THEY CAN GIVE YOU THE REAL FACTS OF WHAT WENT ON AT THAT PERTICULAR BUILDING ON THE LADD SCHOOL GROUNDS. MOST OF RI RES. DO NOT KNOW JUST HOW MANY BUILDINGS AND GROUNDS ARE LOCATED AT THE "LADD SCHOOL" GROUNDS. JUST THE GHOST STORIES FROM EVERY CHILD WHO WENT IN AND THIS VERY SAME THING COULD HAVE HAPPENED TO THEM.'
+
+- property: ladd-school
+  person: 'Harlie S'
+  content: 'I lived at the Exeter Job Corps Academy from March 3, 2005 to April 27, 2005. Me and a lot of the other students that lived there with me would always sneek off campus and go to the ladd school, the fogerty buildin,g because it was directly next to our dorm rooms. Anyway one night, kenny M, myself, Rob M, Makayla M, and Tyler who was a really interested in this kind of stuff was so excited, Josh and Ashley whom are kids who believe in spirits and ghosts were getting really antsy. We were on the third floor and my necklace broke off my neck and my cross was broken in half. kenny freaked out and rob bugged out, we left and went back to our dormitory and told some people what happened but they didnt believe it, bu ti will tell you it is the last time i ever went in there. and ive been in the buildings over 10 times, sometimes more then once a day. i think the only reason that that stuff happened to me was because i preyed before going in and everyone else didnt but tyler told me ill have something following me for the rest of my life. its really freaky.'
+
+- property: ladd-school
+  person: 'Tammy Tillinghast'
+  content: 'I’m writing as I’m interested on some of the brutality that the MR people were giving not to mention rape,death and torture amoungest other things. I remember as a child going to the Ladd School with my grandparents as they use to bring clothing for the clients.The reason being my family knew what it was like to have MR children-adults as my Aunts both were but my grandparents didn’t give them up to be treated like animals, they took care of them up until they were to old to care for them.Any feedback would be greatly appreciated about what I didn’t see although I do remember people naked on the floors.'
+
+- property: ladd-school
+  person: 'Joshua'
+  content: 'On January 19, 2006, a few of my friends and I were driving bythe Ladd School. One of my friends (who’s name I will not mention) had already been on the inside of the Ladd institution and was talking to me about her experience in there. All of my life I have wanted to have a super natural experience with the dead. We did ot go in, however as we were driving by, instead of feeling scared, I felt the presense of a non-living person in the same car as me. I do have to admit it did freak me out a little, but what I felt with me was not that of an angry spirit but instead a scared person. At the time these thoughts were passing through my head I heard a voice saying to me “please help me. I’m in the basement, please help me”. Yes I did pick up on some bad ora with that building but I believe that there are some spirits looking for resolution to what happened to them in that building. Do I plan on returning to the building? Absolutely, and I plan on going on the inside to do some further investigating on the matter to see what happened in the basement.'
+
+- property: ladd-school
+  person: 'Zack'
+  content: 'yeah, ok, erinne i just went the other night and the boarded window was ripped open'
+
+- property: ladd-school
+  person: 'Erinne'
+  content: '3 friends and I went to Ladd last night, it was my first time. There are definetly some bad vibes there, and I can guarantee if you go there you’ll hear something. We heard some whispering,and a really loud noise that sounded like an animal,and I heard someone walking in the leaves. We couldn’t get in cuz it was all boarded up, but I would really like to… all my friends were too scared.'
+
+- property: ladd-school
+  person: 'Twiss'
+  content: 'Ive been to TLS once like two summers ago with a car full of my friends and as we were driving through my car suddenly stalled (maybe cause it was a piece of sh!t 92 hyundai excel) i tried to start my car over and over again but it wouldnt start so me and a friend got out to look under the hood, and when we opened the hood the car started up as if it never stalled... instead of tryin 2 figue out what went wrong we just hopped in and hauled a$$...'
+
+- property: ladd-school
+  person: 'Dave'
+  content: 'Last night was my second visit to Ladd this weekend and surely not my last. The first night i went was on a friday and we went with about 12 kids at around 9:30-10. We parked the cars a little down the road and walked a dirt road surrounded by the dark woods and old ladd buildings. we passed one old brick buidling which i believe is called Greene. we passed the next building which was Doyle and then we came upon the large orange and tan building. We went through the window and there was an upside down trash can waiting for us. we all got in and we walked around the basement for a little while. we walked up about 3 floors and searched everyone of them. nothin really happend but as we passed the morgue one of my friends said shut up shut up i hear something. so we all went silent and went up to him. the wall outside of the morgue was thumping like a faint hearbeat. i was taping the whole entire thing and throughout the whole night my screen would flip upside down and would get messed up. it happend about 20 times. we left the fogarty building and headed back to the car. i was leading the way with one of my other friends and we heard leaves crinkiling as if someone were runnign in them. my other friend saw someone running through the woods in what looked like a white hoodie. we left right after that. the next day i called a few of my friends to go back up. this time i only went with a group of five. as we approached the fogarty (big orange building) one of the rooms on the second floor lit up. We hesitated to go in now and waited. About 5 minutes later another room on another floor lit up. Once again we waited. Now a blue light appeared from the 4th floor window and from there it jumped around the building. It looked like it was being shined from the outside and after about 10 minutes it stopped completely. We waited a few more minutes and than went into the building once again. We went through the same window and walked right to the stairs. we heard a gust of wind, but no one had felt any breeze at all. we kept walking up the stairs and my older brother said he heard footsteps. We stood on the the floor which we had not been to yet, dead silent. all of a sudden i heard footsteps coming from an upstiars room. we all looked at each other scared and left for the night.'
+
+- property: ladd-school
+  person: 'Jace Under Baggage'
+  content: 'I was with one other friend, Eric and I’ve heard a bunch of stories about the Ladd school. It was on November 20, 2005 when we went to find it. Our goal was to find it and nothing more. We had a dinky digital camera on us when we pulled up to, what seemed like the main building. It was rounded and eriee looking. As we pulled up to the buildings a feeling of slight terror over came us, but we continued to drive to the buildings. Until we reached what seemed like the far corner of the rounded building. I took several shots of the landscape on which the buildings lied upon. We pulled away from the buildings and somehow we decided to go back. to take a few more shots. We were at the corner once agian about 20 feet away from the rounded building. I rolled down the window to take clearer shots. I heard knocking noises coming from the forest behind us. I told Eric as he drove slowly to the side of the building to slow down so he could listen to the noises I heard a few seconds earlier. He convinced himself it was the car. He turned the car off so we could hear clearer. My window was down half way and he heard the noises as soon as the engine was off. The noises we noticed seemed like the were getting closer until they reached the building. then it sounded as if they were right behind the car. Eric was at the stage of full terror and I also panicked. Our car could not start for about thirty seconds. The sound we heard could be compared to a broom stick hitting a hollow tree. The pictures we took were very dark. But some did show some things that we could not explain. One picture of a tree facing the rounded building had a big white mark almost in the center of the tree. One other picture of the biulding had a swirl in it at the bottom left of the picture. We took a total of about 30 pictures and about a 3rd had little white marks in them. Eric is convinced thet it is his camera, but I bielive there was some type of energy lingering around the front entrance of the building. One- We felt frightened for no reason and Two- The strange noise we heard and the pictures could be some type of sign. I plan on entering Ladd School but I advise people who do try to go there, to go there with more then three people. I had some strange vibes about the place as we were pulling up to it. By the way the time was around 11:30 at night. This was my first visit to Ladd School. '
+
+- property: ladd-school
+  person: 'Veronica'
+  content: 'I have been to Ladd thousands of times. However not in the dark. My grandmother worked there for years. I loved her so much I can only hope she didn’t treat her clients badly. I can’t picture it, seeing as she had a mentally retarded daughter who was also in state care. I was just there in the beginning of November of 2005. I took pictures and didn’t notice anything out of the ordinary. In all honesty I was hoping I did. I would really hate to see it knocked down even though it may deserve to be. Its quite a historical site, and besides ,y mother, the only thing I have left of my grandmother. I would love to visit Ladd at night, the only thing stopping me is that I have a family of my own now and dont want to be arrested for tresspassing, or anything else for that matter. But I would like to tell all those who are brave enough to visit Ladd at night, to have some fun for me. Thanks.'
+
+- property: ladd-school
+  person: 'Johnny B'
+  content: ' Email: BIGBAND39 [at] YAHOO [dot] COM. Anyone interested in Ladd and what has happened there, feel free to get in touch. I am doing a documentary and would like to hear about your experiences. I have had many of the same experiences listed here. I have heard the girl who is screaming as if she is being raped. I have audio of it. I was with a friend that had a spirit scrape its nails into her back. I have seen the shadows across the field and have had things sneak up on me as well. I would really like to set up a group meeting sometime and compare experiences. '
+ 
+- property: ladd-school
+  person: 'Matt'
+  content: 'I have been to the Ladd twice as of today, 11/5/05. My first trip was on Halloween, and we went in the hospital building through a smashd window leading to the basement. We did not get very far in when the digital camera my friend was taking pictures on shut off at full battery life. When we left, we walked about 200 yards and the camera turned back on at full life again. In two of the pictures there are orbs. The same group of us also tried to go back in the hospital building last night. We were walking up to the same entrace as on halloween and we were about 30 feet away when we heard a door slam and what I thought was shattering glass but the rest of my group said was a clattering chain. We ran behind one of the other buildings and decided not to try to go in this night. We thought if we went in we would either be in there with security or another group of people, or something else which did not appeal to us at the time. We plan to go back within a day or two though.'
+
+- property: ladd-school
+  person: 'Barry White'
+  content: 'Ive been to Ladd acouple of times in the year 03-04 and it is very run down… Porn Porn Porno room… and lots of crack paraphanlia… be careful not to cut yourself because yes the blood stains are real.'
+
+- property: ladd-school
+  person: 'Juan'
+  content: 'Me and my friends visit the ladd school on october 31,2005 it was like around 11 when we got in the bouilding my we walked tru the round buildin for half hour and hear a screem which seem to come from a lil girl and i friend that stayed outside hear more screems and creepy noises'
+
+- property: ladd-school
+  person: 'Athena'
+  content: 'It was the day before halloween and me, and four other of my friends decided to go to the Ladd School. We heard alot of creepy stories about what happened there. We took a half hour drive up there. Absolutly no street light around, nothing at all. We parked across the street so we can walk to the metal gate we had to go around. We walked up to the gate and 3 of my started to b**** out. So we started to walk back to the car and we all said “Be quiet, lets see if we hear anything”. Once we became quiet we heard a loud moan coming from the woods. We ran across the street into the car. Then we drove up to the gate and shined our head lights down the road. That road was like 1/2 a mile long, pitch black. I wanted to go but my one of my girl friends wouldnt go so i stayed in the car with her. We parked the car facing the road just incase something happened. So she sat in the drivers seat and i sat in the passenger seat. We watched them walk down the long road with their flashlights. While i was watching them go down the road, i seen a strange orange some kind of flashlight looking at them go down the road. I looked like someone was holding it, and then it went off. A couple of minutes later it did it again. So i was freaked out, i called my friend and told them to come back. They said they’ll be back in a minute. Then they just disappered around one of the windy roads. We couldnt see them no more. I was pitch black and all I had was my cell phone to keep the inside of the car lite. I turned around to see if they were coming and i swear i seen a white face in the back window and disappered. i thought it was a car light but no cars were riding by. I ducked down in the seat scared shitless. Then we were quiet and we heard someone or something running in the woods. We called them back and we heard them running. They came running back up to the car and jumped in and we drove away. They said they were hearing screaming coming out of the woods and they said they seen footsteps on the road and then they disappeared. We also saw someone walkin in the woods with a white hoody on and then it looked at them, thats when they started to run. But my friends went back again hallween night and they said that everything was knocked down. There was no more building left there. But you know that it was haunted by not even going into the place. Some scary s*** when its real.'
+
+- property: ladd-school
+  person: 'John'
+  content: 'Me and friends have drove in LADD, I took pictures and captured a LADY, and a bunch of orbs.. It was amazing.. While riding back from LADD, We heard a SCREAM of a girl.. like it sounded like she was getting beat up or something.. And we all heard it in the car and we looked at each other like WHAT WAS THAT!!!... I have never experienced ghostly things, this was a first time and i wasnt expecting all of what I captured.. Very scary, very real.. Nothing like the events they put on for people lke factory of terror, etc. LADD, is the real deal.'
+
+- property: ladd-school
+  person: 'Frank'
+  content: 'As of September 2005 much of TLS is still there. Newly constructed Exeter Job Corps Academy and some firefighting training at the west end of site. Phoenix House detox center on east end of site. '
+
+- property: ladd-school
+  person: 'faith'
+  content: 'I am thankful every day for the news reporter who went to meadowbrook (in NY) and brought light to how we had treated the people living at Ladd. I work with people who lived at Ladd and am amazed every day that they are able to forget the horror that they dealt with there. I am forunate never to have been inside ladd, but many of the people who did still can’t remove the image from their minds. May we never forget therefore we will never repeat…'
+
+- property: ladd-school
+  person: 'J.M.S'
+  content: 'On Aug. 20, 2005 was the first time I had ever gone to the ladd school. Friends and I have heard scary stories about it in the past and we all wanted to see for ourselfs. And when we never expected that we would experience the scariest night of all of our lives… Before we even entered the building two or three people from our group said they saw a large shadow run throw the bushes ahead of the main enterence, when we first entered the building we went threw a large door that brought us into what seemed to be a kitchen area we walked around for a bit going into the rooms then went upstairs and went down a long hallway at this point there hadnt been any “ghostly expeirences” as we walked down the hall we passed the morgue when we went in there the first time all the draws were closed as we exited one of the people in our group fell threw the floor… after that happened alot of crazy sh*t started. when we went by the morgue again to exit the hall every draw in the wall was open and there was what appeared to be body bags on each table that came out of the wall. at that point we began to move much faster as we were exiting the hall way we heard a loud sceram then sounded like it came from a young girl. It was the most horrorfying sound ive ever heard this scream sounded like a scream of terrible pain and tourment. as we were now trying to find our way out of the building as quickly as possible everything got cold the air was soo cold we could see our breath at that point the red metal holders for the fire extinguishers began to rattle and shake. The section of the ladd School that we were in was the large round orange building we could not find the exit it was almost as if it fanished we kept goin in circles trying to find our wat out and couldnt not find the way we came in it was at that point that my brother who also was terrified smashed a window with his hand so we could climb out but there was a piece of ply wood blocking the window after searching every room for a window that wasnt boared up we finally found a room that had two windows wide opened with a trash barrel upside down under it. It was as if they opened the windows to let us out. This is an Intierly truthful story chances our i will never return the the lass school unless its during the day!'
+
+- property: ladd-school
+  person: 'scaredshitless'
+  content: 'This place is messed up! as i was walking towards the building i seen a shadow of sombody running from out of the bushes and it was no body that i was with. when we all finally went in we walked around and there blood all over the walls. when we walked by the morge we all heard a little girl screaming in pain. after the scream the fire extiguiser case started to rattle on the wall. then my frind fell through a hole in the wall. we could not find the exit. we walked in the circle 8 times and we could not find it. we finally found a window with a trash barrel conviently upsidedown near the window for us to climb out. that place is messed up and haunted and your crazy if you want to go there.'
+
+- property: ladd-school
+  person: 'Dawn'
+  content: 'Most of my family worked at Ladd – my mother, my father, aunts, uncles, my grandmother – I remember being about 7 or 8 yrs old and going with my mom to work and seeing all the patients there. I was never afraid of them due to the fact I grew up around them. My father was a firefighter for the Ladd school fire department. I remember the Fogarty building well, where my mom mainly worked her second shift. I remember being amazed at the building being round, I had never seen a building shaped like that before and I would run around in circles playing with patients who were alot older than me at the time but had the mind and mentality of 2 and 3 yr olds when I also remember walking the grounds playing pushing patients in their wheel chairs thinking that even though they were mentally retarded they still needed to get outside and enjoy the sunshine fresh air birds or just the changing of the leaves or maybe see the first snowfall of the season. I would like to hear more stories i’m trying to get the exact dates when my parents and relatives worked there I will post them when I get them. My aunt used to run the sewage plant for Ladd school for years.'
+
+- property: ladd-school
+  person: 'Dawn'
+  content: 'I just 2 weeks ago went to the site of the Ladd School, and took several pictures of the buildings from the outside as well as the inside of one, it was about 90 degrees out but as i walked thru the hall of the main building all the hair on the back of my neck stood up and suddenly i was cold, the building in their time must of been very beautiful, if you look at the craftmanship of the glass bordering and wood etchings you can tell these were works of years past when craftmen took their time and the quality of work was so different, my pictures came out well and some from inside do show orbs of light! It is a shame such beautiful buildings are overshadowed by the evil and horror that happened between their walls.'
+
+- property: ladd-school
+  person: 'Pinkocd'
+  content: 'The Ladd School is located just about a few miles from my house and I have visited the site numerous times. Both of my grandparents worked in the institution for over 20 years as head of maintenence and as a secretary. At the time of there employment they were allowed to live on the site as an employee benefit. After hearing stories and being told about this i became more and more curious as to what this place was like. I took my first trip to the Institution in 2000 where I collected numerous memos x-rays, cups and multiple curtains , which i have turned into a collection of art pieces. I have painted on memos, x-rays and have made some journals out of linen collected. Of course, none of which i have ever shown at gallery’s or sold because of it being illegal. I still charish and value these projects. It is history of not only my family but of the state of the mentally handicaped and testiment to what they have gone through to become part of present day society. '
+
+- property: ladd-school
+  person: 'A.J.M.'
+  content: 'My moms cousin who has Down Syndrome was in the Ladd School. According to my mom, grandma, and anyone who used to routinly visit her, the place was a living HELL and the smell was unbearable.'
+
+- property: ladd-school
+  person: 'mike'
+  content: 'we walked into the old infirmary and as we were taking a picture of a metal gurny in the morgue we heard heavy footsteps walking from the distance towards us. '
+
+- property: ladd-school
+  person: 'Joe C.'
+  content: 'My mother worked at the Ladd School from 1972-1974. She was an R.N. and worked in the Infirmary. It started as a School for the Mentally Handicapped, but through state intervention, and a lack of insane assylums, it was soon filled to overflowing with the Mentally Handicapped, Drunks, Obsessive Compulsives, the Criminaly Insane, people who had had nervous breakdowns. It was quite a mix. I’ve been to the Ladd School at least 10 times and each time is a little different. The padded cages on the first floor of the infirmary were used as some sort of punishment. My mother says that most of the insane residents would need to be sedated, restrained, and kept in solitary confinement. The strange looking chairs throughout the building are “Shock Chairs” as shock treatment was largely in practice back then. It’s definately haunted though. I’ve seen shadows run acoss the fields, when nobody is in front of a light source. My friend had his camera slapped out of his hand and was then pushed/thrown back 5 or 6ft while he was taking a picture. We’ve videotaped some of our “Explorations” into the buildings, and upon watching the tapes, you can see strange orbs of light. Some people say it could be dust, magnified by camera, but we’ve had these things checked out, and people have said they haven’t seen anything like it. The Rhode Island Ghost Hunters have thier own show on the Sci-Fi Channel, and the guys who run it live about 5 minutes down the road from me in Warwick Neck. If you like the Ladd School, you’ll like Mercy Browns grave, and if your ever on Benefit St. at about 1-3am, look for the Ghost of H.P. Lovecraft. He’s around there till this day.'
+
+- property: ladd-school
+  person: 'Adam Buxton'
+  content: 'In the late 90’s, my friends and I took several trips to the Ladd School. We would go late at night and we experienced quite a few scary things in our looking around the place. Why did they have cages in the school building? If you went downstairs, the first door on the right had cages in it. While we were in the hospital building, we were slowly making our way to the third floor when we witnessed what looked like a small fire?! And finally and definately not least, around one or two in the morning we witnessed a lady jogging around the place. She came within fifteen feet of us as we hid behind a wall. This is very scary stuff and I can NOT stress this enough... all of this is the truth!! Ask people about the underground tunnels, they ran from building to building. I will NEVER go back there. '
+
+- property: ladd-school
+  person: 'Tony'
+  content: 'Our group has been to Ladd School twice, only entering the old sewage plant, but still getting some great pictures of the outsides of the other buildings. We went just before the demolition took place, our last trip being the summer of ’04. On our first trip in particular we walked through the woods to enter, and strangley we heard what sounded like children playing… there no kids around, the only people near us were an older couple skating in the veterans cemetary.'
+
+- property: blue-ribbon-beef
+  person: 'Tom Sullivan (Jr)'
+  date: '2010-01-17'
+  content: 'I was surprised to see the view in picture 6. I did have fond memories of the building in the foreground, the Providence & Worcester Railroad North Freight Station. My father leased space in that building for the “Providence Philadelphia Despatch Co.” up to the early – mid 50s.'
+
+- property: blue-ribbon-beef
+  person: 'Stephen Benjamin'
+  date: '2010-01-16'
+  content: 'I can add, that Swift and Wilson Meat companies were also over the canal. I used to work for Lincoln Packing which was on the site of where the RW Park site is. I worked there only one summer as a driver. But, I can recall being sent down Canal St to pick up some Franks from Saugy’s and anything else the Collagiovanni Bros needed for delivery.'
 
 - property: united-traction-trolley-barn
   person: 'Miguel' 

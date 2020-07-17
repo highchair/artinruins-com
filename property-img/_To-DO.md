@@ -13,8 +13,10 @@ _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites
 _by Gregory Smith_  
 **Providence Journal** | December 4, 2003 (abridged)
 
+caption: Photo by Robert Brewster, HABS/HAER
+
 Aerials from the Providence Historical Aerial Viewer
-caption: Providence Historical Aerial Viewer 2008
+caption: 'Providence Historical Aerial Viewer 1972'
 
 
 ## Tools

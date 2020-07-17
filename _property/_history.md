@@ -78,7 +78,7 @@ Construction
 ++ RISD’s Chace Center
 
 Historical
-++ Blue Ribbon Beef
++ Blue Ribbon Beef
 ++ Crescent Park
 ++ Postcards from the Past
 ++ RI State Archives
@@ -115,7 +115,7 @@ Redeveloped
 RIP
 + AAA Surgical
 ++ the Jamestown Bridge
-++ the Ladd School
++ the Ladd School
 ++ Ocean State Steel 
 
 Still In Use
@@ -215,7 +215,7 @@ RIP
 Urban Decay
 ++ 395 Promenade Street / HP Hood
 ++ American Express bldg
-++ Engle Tire & Providence Auto Ignition
++ Engle Tire & Providence Auto Ignition
 ++ Old Colonial Bank, Pawtucket
 
 
@@ -243,7 +243,6 @@ Redeveloped
 ++ 755 Westminster Street
 ++ American Locomotive Works, for. US Rubber
 ++ Calender Mills
-++ the Dunlop Tire / Conley Wharf
 ++ Firehouse 13
 ++ L. Vaughn Company / 1153 Westminster St
 ++ Pearl Street Lofts
