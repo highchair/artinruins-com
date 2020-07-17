@@ -111,7 +111,7 @@ layout: default
                   <strong>Decade Built: </strong> <a href="{{ site.baseurl }}decade/{{ page.decade | replace: '.', '' | slugify }}">{{ page.decade }}</a><br>
                 {%- endif -%}
                 {%- if page.demolition.size > 0 -%}
-                  <strong>Demolition: </strong> <a href="{{ site.baseurl }}demolition/{{ page.demolition | replace: '.', '' | slugify }}">{{ page.demolition }}</a><br>
+                  <strong>Demolition: </strong> {%- if page.demolition.size <= 8 -%}<a href="{{ site.baseurl }}demolition/{{ page.demolition | replace: '.', '' | slugify }}">{{ page.demolition }}</a>{%- else -%}{{ page.demolition }}{%- endif -%}<br>
                 {%- endif -%}
                 {%- if page.redeveloped.size > 0 -%}
                   <strong>Redeveloped: </strong> {{ page.redeveloped }}<br>
