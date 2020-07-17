@@ -2,7 +2,7 @@
 title: "Providence Fruit & Produce Warehouse Company"
 slug: providence-fruit-produce
 aka: "Providence Fruit Warehouse, Tourtellot & Co., Feinberg & Co."
-date-modified: 2020-05-16 08:29
+date-modified: 2020-07-17 16:45
 
 built: 1929
 demolition: 2008
@@ -99,8 +99,25 @@ images:
     caption: Providence Historical Aerial Viewer 2004
   - url: prov-terminal-aerial-2008.jpg
     caption: Providence Historical Aerial Viewer 2008
+  - url: prov-terminal-ew-2008-01-01.jpg
+    caption: 'Photo by Emily Walters'
+  - url: prov-terminal-ew-2008-01-02.jpg
+    caption: 'Photo by Emily Walters'
+  - url: prov-terminal-ew-2008-01-03.jpg
+    caption: 'Photo by Emily Walters'
+  - url: prov-terminal-ew-2008-01-04.jpg
+    caption: 'Photo by Emily Walters'
+  - url: prov-terminal-ew-2008-pana.jpg
+    caption: 'Photos and stitch-up by Emily Walters'
+  - url: prov-terminal-jh-2008-02-01.jpg
+  - url: prov-terminal-jh-2008-02-02.jpg
+  - url: prov-terminal-jh-2008-02-03.jpg
+  - url: prov-terminal-jh-2008-02-04.jpg
+  - url: prov-terminal-jh-2008-02-05.jpg
+  - url: prov-terminal-jh-2008-03-01.jpg
+  - url: prov-terminal-jh-2008-03-02.jpg
 
-imagescredit: Contributions by Davis, Gemma, Lou Fancy, Robert Brewster from the National Register Nomination, and aerials from the Providence Historical Aerial Viewer.
+imagescredit: Contributions by Davis, Gemma, Lou Fancy, Robert Brewster from the National Register Nomination, Emily Walters, and aerials from the Providence Historical Aerial Viewer.
 ---
 
 ### Reason for Demolition
