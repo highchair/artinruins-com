@@ -1,14 +1,75 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: engle-tire-prov-ignition\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: bonanza-pvd\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: engle-tire-prov-ignition\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: bonanza-pvd\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: ri-auditorium
+  person: 'Bobby Desjardins'
+  date: '2020-07-19'
+  content: 'I Loved this building, going to a Red’s Hockey game with my brothers, Father, and uncle who had season tickets was such a treat growing up in West Warwick, born in Woonsocket, Rhode Island. I remember going in on cold, snowy evenings and feeling the cold air, the smell of roasting peanuts, cigars. My bothers would go down to the Red’s bench early to watch the players come out for pre-game warmups. One evening, my uncle gave me a player’s stick of Yves Locus which I still have, and a print of the Auditoruim, or Arena as many called it, painted by a local artist hanging in my room in New Orleans where I currently live. I wish the building could have been preserved.'
+
+- property: bonanza-pvd
+  person: 'George B.' 
+  date: '2018-02-13' 
+  content: 'In the 70s and my early teens, I took the bus from that terminal to Boston every Saturday to study music. The seven-thirty AM up and the six or seven o’clock back. On the way up, it was Suffolk law students who worked during the week and were studying on Saturdays; there was no law school in RI then. On the way back, all kinds of characters. Likewise in the terminal. There was an especially dark and seedy bar there you could smell throughout. On occasion, I’d see some friend’s dad furtively buying something at the newstand. I infer today it perhaps offered a selection of magazines not easily found elsewhere. My friends would meet me (always late) and we would then carouse about the magically decrepit world of downtown Providence on a 70s Saturday night.'
+
+- property: bonanza-pvd
+  person: 'chris pereira' 
+  date: '2017-07-25' 
+  content: 'Around 1972,I remember waiting for my bus on Bonanza to South County,(which then was like a foreign country to me), and there were seats with small tv’s  u could watch for a quarter while waiting.'
+
+- property: bonanza-pvd
+  person: 'Jon Howard' 
+  date: '2016-10-13' 
+  content: 'I used to commute from North Kingston to this terminal every work day back in the late 70’s. I often whiled away my wait for the ride home at the bar inside the circular space — I think that door from Fountain Street went straight into the bar. Was it called the Hole in the Wall, or am I making that up? I remember Mod decor — foil wallpaper with color blobs.'
+
+- property: bonanza-pvd
+  person: 'Jeffrey Allcock' 
+  date: '2016-04-07' 
+  content: 'Had this building survived into the present day, it might spark some almost perverse affection, but at the time I’d venture to say it was not considered, by anyone who used it, to be at all attractive. Bus stations rarely are.'
+
+- property: bonanza-pvd
+  person: 'eljiffy' 
+  date: '2015-09-16' 
+  content: 'Hated it.'
+
+- property: bonanza-pvd
+  person: 'JB' 
+  date: '2014-06-01' 
+  content: 'To quote from the article above “Cathedral Square in front of Grace Church” WHAT ?? “Cathedral Square” is in front of the Cathedral of Saints Peter and Paul, NOT Grace Church. Grace Church is actually located about four blocks EAST of Cathedral Square.'
+
+- property: bonanza-pvd
+  person: 'Colin Donahue' 
+  date: '2014-01-06' 
+  content: 'Just a point of information, the pedestrian mall on Westminster between Dorrance and Snow streets did not reopen to traffic by 1986. I went to HS from 84~88 &amp; it was definitely still closed to vehicles the whole time. '
+
+- property: bonanza-pvd
+  person: 'Art O' 
+  date: '2013-12-09' 
+  content: 'Growing up in Federal Hill in the 70s we use to walk to the bus terminal to play pinball. I remember they had these plastic chairs with little televisions attached where you could put a quarter in to watch tv.'
+
+- property: bonanza-pvd
+  person: 'Beverly Gorden Schneider' 
+  date: '2013-08-19 ' 
+  content: 'In early November of 1967 I got on a bus at this terminal to head to my first job in Washington, DC — I had to change buses in NY and ended up in a similar terminal in the heart of downtown Washington, DC’s red light district! If my parents only knew. :-)  From there, it was a cab ride to the Meredian Hill Girls Hotel where I stayed until I got my own apartment. I moved from RI to Washington to work for Senator Claiborne Pell — and I ended up staying in Washington DC and environs for forty years! Happily back in RI now. RI will always be home.'
+
+- property: bonanza-pvd
+  person: 'JT' 
+  date: '2013-01-11' 
+  content: 'This complex replaced a much smaller bus station on the other side of Fountain Street and won several awards for innovative design and convenience. It was a much better facility than the one that replaced it.'
+
+- property: bonanza-pvd
+  person: 'Bob D.' 
+  date: '2009-02-18' 
+  content: 'As teenagers, we used drive to Bonanza from EP just to play pinball on the 2 or 3 machines they had in there.'
+
 
 - property: engle-tire-prov-ignition
   person: 'Andy' 
