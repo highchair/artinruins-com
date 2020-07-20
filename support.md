@@ -17,6 +17,12 @@ ArtInRuins is a labor of love. We are not a huge organization, we are not a gian
 
 _Note:_ AIR is not – nor can we afford to become – a registered 501c3 non-profit. Please remember that your contribution is not tax-deductible, but our love will keep you warm at night. 
 
+
+## Send me a Gift
+
+This is not why I do it… but it you really like ArtInRuins, I have a gift list on Amazon with some local resources, photography-related items, and some graphic design things as well. If you are so inclined, something from this list would be fantastic. AND if you can get the same thing while supporting a local bookstore or shop, please do that and I'll remove the item from [my public wish list](//www.amazon.com/gp/registry/wishlist/2NUTLG5EDL7U8/ref=cm_wl_huc_view){:target="_blank"}.
+
+
 ## Donate Time and/or Expertise
 
 The history we collect here is typically cut-and-pasted from work other people have done – we won’t pretend that it isn’t. And yet, some of it is new and done for the first time. Some of it is current events and it takes keeping our ears on the ground, picking up new info, riding by to see what is going on, or getting tips from fellow <strike>snoops</strike> historians like you.
