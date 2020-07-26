@@ -50,7 +50,7 @@
       z-index: 1;
       
       &:hover {
-        .taxonomy__img {
+        .rwd-img {
           opacity: 0.5;
           transform: scale(1, 1) translate(-50%, -50%);
         }
@@ -71,19 +71,19 @@
     overflow: hidden;
     padding-bottom: (9/16 * 100%);
     position: relative;
-  }
   
-  &__img {
-    opacity: 1;
-    transition: all 250ms ease;
-    transform: scale(1.1, 1.1) translate(-50%, -50%);
-    transform-origin: top left;
-    transition-delay: 250ms;
-    
-    // position the image to the center
-    position: absolute;
-    top: 50%;
-    left: 50%;
+    .rwd-img {
+      opacity: 1;
+      transition: all 250ms ease;
+      transform: scale(1.1, 1.1) translate(-50%, -50%);
+      transform-origin: top left;
+      transition-delay: 250ms;
+      
+      // position the image to the center
+      position: absolute;
+      top: 50%;
+      left: 50%;
+    }
   }
   
   &__card-title {
@@ -123,7 +123,7 @@
   }
   
   // Grouped media query
-  @include layout-columns() {
+  @include breakpoint-up(medium) {
     
     &__list {
       li {
@@ -143,13 +143,13 @@
       margin: -1rem 2rem -1rem -1rem;
       padding-bottom: 25%;
       min-height: 25%;
-    }
     
-    &__img {
-      min-height: 100%;
-      min-width: 100%;
-      max-width: unset;
-      max-height: 125%;
+      .rwd-img {
+        min-height: 100%;
+        min-width: 100%;
+        max-width: unset;
+        max-height: 125%;
+      }
     }
     
     &__colwrap {

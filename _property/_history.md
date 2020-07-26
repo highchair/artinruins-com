@@ -347,7 +347,7 @@ Construction
 ++ RIC Residence Hall
 
 Historic
-++ Downtown Bonanza Bus Terminal
++ Downtown Bonanza Bus Terminal
 
 Redeveloped
 ++ 101 North Main Street
@@ -367,7 +367,7 @@ RIP
 ++ Harris Lumber Co.
 ++ Javaspeed Scooter Sales
 ++ Pontiac Mills
-++ Smith Swim Center
++ Smith Swim Center
 
 Still In Use (Some of these were added 2010)
 ++ American Textile Mill
