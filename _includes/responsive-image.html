@@ -1,0 +1,6 @@
+{%- capture srcset -%}
+  {%- for i in resized -%}
+/{{ i.path }} {{ i.width }}w{%- unless forloop.last -%}, {%- endunless -%}
+  {%- endfor -%}
+{%- endcapture -%}
+<img src="/{{ path }}" class="rwd-img" srcset="{{ srcset | strip_newlines }}" alt="" loading="lazy">

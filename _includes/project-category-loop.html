@@ -20,9 +20,13 @@
                 {%- else -%}
                   {%- assign item_image = item.images.first.url -%}
                 {%- endif -%}
+                {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
               <li>
                 <div class="taxonomy__img-wrap">
-                  <img class="taxonomy__img" src="{{ site.propimg_path }}{{ item.slug }}/{{ item_image }}" alt="" loading="lazy">
+                  {% responsive_image_block %}
+                    path: {{ image_path }}
+                    cache: true
+                  {% endresponsive_image_block %}
                 </div>
                 <div class="taxonomy__colwrap">
                   <div class="taxonomy__title-wrap">
