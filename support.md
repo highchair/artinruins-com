@@ -4,6 +4,10 @@ permalink: support/
 title: "Help Support ArtInRuins"
 meta-title: "Help Support A.I.R. | ArtInRuins"
 body-class: support
+sitemap:
+  lastmod: 2020-07-25
+  priority: 0.6
+  changefreq: 'monthly'
 ---
 
 ArtInRuins is a labor of love. We are not a huge organization, we are not a giant team of volunteers, we are only a few people willing to spend the time to do the research and take the photos and design and support the website. We love what <abbr title="ArtInRuins">A.I.R.</abbr> has become and want to see it continue. That being said, <abbr title="ArtInRuins">A.I.R.</abbr> can only be updated in our “spare” time, and it does cost real money from time to time. So, here are some ways that you can help.

@@ -4,6 +4,10 @@ permalink: about/
 title: "About ArtInRuins"
 meta-title: "About A.I.R. | ArtInRuins"
 body-class: about
+sitemap:
+  lastmod: 2020-07-25
+  priority: 0.6
+  changefreq: 'monthly'
 ---
 
 To quote from “The Urban Mill Restoration and Tax Exemption Act”, introduced in February, 2002 by the RI General Assembly:

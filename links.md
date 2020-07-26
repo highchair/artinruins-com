@@ -4,6 +4,10 @@ permalink: links/
 title: "Similar Projects"
 meta-title: "Similar Projects | ArtInRuins"
 body-class: links
+sitemap:
+  lastmod: 2020-07-25
+  priority: 0.6
+  changefreq: 'monthly'
 ---
 
 When ArtInRuins started there were not quite as many home-grown historians, internet sleuths, or blogs dedicated to tracking change in the architectural landscape as there are now. These are the ones that we know of and support, as well as links to some tools and resources that we find helpful when researching a property. 
