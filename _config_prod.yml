@@ -57,6 +57,7 @@ sass:
 # Plugins and extras
 plugins:
 - jekyll-autoprefixer
+- jekyll-responsive-image
 
 
 # Exclude from processing.
@@ -68,3 +69,18 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+
+# https://github.com/wildlyinaccurate/jekyll-responsive-image
+responsive_image:
+  template: _includes/responsive-image.html
+  default_quality: 88
+  sizes:
+    - width: 480  # [Required] How wide the resized image will be.
+      quality: 80 # [Optional] Overrides default_quality for this size.
+    - width: 800
+  auto_rotate: false
+  strip: true
+  base_path: property-img/
+  output_path_format: property-img/r/%{width}/%{basename}
+  save_to_source: false
+  cache: false

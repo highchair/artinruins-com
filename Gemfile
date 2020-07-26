@@ -1,3 +1,5 @@
+# bundle install
+
 source "https://rubygems.org"
 
 gem "jekyll", ">=4.0.0"
@@ -12,3 +14,4 @@ gem "sassc",">=2.4.0"
 gem "uglifier",">=4.1.0"
 gem "nokogiri", ">= 1.10.4"
 gem "activesupport", ">= 6.0.3.1"
+gem "jekyll-responsive-image"
