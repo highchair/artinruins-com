@@ -10,6 +10,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: smith-swim-center
+  person: 'Daniel F. Tully, Architect'
+  date: '2013-04-27'
+  content: 'During the time I was asked to investigate the troubles noticed in 2007, I found that someone perhaps 20 years earlier had cut the humidistat wiring. The humidity control system was a simple one, when the humidity on the inside rose well above that on the outside six exhaust fans would automatically turn on and lower the humidity significantly. In a misplaced zeal to save energy during the crisis in the seventies some consultant simply CUT the control wiring. This madness may have saved Brown University a few dollars but it cost them a wonderful building.' 
+
 - property: ri-auditorium
   person: 'Bobby Desjardins'
   date: '2020-07-19'
