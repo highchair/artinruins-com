@@ -5,7 +5,7 @@ aka:
 date-modified: 2020-05-23 17:00
 
 built: 1940?
-demolition: 1985?
+demolition: 1985
 decade: '1940-1949'
 date-added: 2003
 categories: [ '#UsedToBeThere' ]

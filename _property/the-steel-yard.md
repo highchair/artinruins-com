@@ -1,36 +1,7 @@
 ---
 layout: redirect
 section: redevelop
-oldslug: steelyard
-
-title: ""
-slug: 
-aka: 
-
-built: 
-demolition: 
-decade:
-categories: []
-neighborhoods: []
-town: []
-designers: []
-lists: []
-tags: []
-
-address: ''
-latitude: ''
-longitude: ''
-gmap: ""
-
-meta: ""
-excerpt: ""
-
-thumbnail: 
-
-images:
-  - url: hope-st-auto-jh-01.jpg
-
-imagescredit:  
+oldslug: steelyard 
 ---
 
 ### Reason for Demolition
