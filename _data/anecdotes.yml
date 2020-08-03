@@ -1,14 +1,56 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: bonanza-pvd\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: merchants-cold-storage\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: bonanza-pvd\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: merchants-cold-storage\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: merchants-cold-storage
+  person: 'Richard A Mitchell' 
+  date: '2016-04-05' 
+  content: 'Back in the Early Forty when I was growing up In Providence, R.I. my Dad worked for Merchant Cold Storage as a truck driver. He left us in 1948. I want to Thank You for making sure that us kid have something under the tree at Christmas. What I’m looking for is some Picture picture about the Plant. I did fine a Picture with The Name Merchant cold Storage close to one of the side near the top. But has faded. The old back Dock. The Old Train Siding. Would have a Picture of the step Van that he drove for the Company. I’m updating in my the history of our early Life to the present. Richard A Mitchell of Lincoln, Ne.'
+
+- property: merchants-cold-storage
+  person: 'Andrea' 
+  date: '2015-05-09' 
+  content: 'My Grandfather saved lives when they had a ammonia spill in the 40s.'
+
+- property: merchants-cold-storage
+  person: 'Bill' 
+  date: '2013-11-23' 
+  content: 'My father worked in Merchants Cold Storage later called Providence Cold Storage for many years as head of maintenance. I worked here many summers in my teen years defrosting the giant freezers, we would cut off the supply of cold brine going to the room, the pump heated brine thru the pipes, then literally, beat the ice off the pipes, shovel the ice up and dump it in the parking lot, 6 foot snow pile in August… I also got to paint the old steam engines that were inoperable but still in the engine room. I did lots of cleaning and painting in and on this building. I also did some exploring, some areas of this building were very creepy. There was a couple old elevators that ran off water pressure to move them, my Dad got them working once just so we could say we rode them (talk about creepy) these were scary and slow, but was an experience I will not soon forget. He worked here until it closed for good, broke his heart when it was torn down… Anyway many good memories with Dad in here.'
+
+- property: merchants-cold-storage
+  person: 'Brian Sirois' 
+  date: '2010-02-26' 
+  content: 'My Grandfather used to own Wesco Banana directly across the street in the Farmers market. There was a tunnel that led from the main underground tunnel across the street to Merchants Cold Storage. It was never used during my time there, but my father remembers it. Once, after Maide Rite left the building and PFD was using it for training, a friend and I went exploring and found a door ajar. That building was huge, with what looked like Teak flooring and mazes of stairways. I did venture into the basement to see the other side of the tunnel. I didn’t stay there long because it was dark, humid, moldy, and very creepy. Since I did work across the street I was familiar with the size of the rats and the vagrents that frequented the outside dock area I didn’t stay long. One of the homeless’ names was “Buckshot” who liked to frequent to loading docks after hours to get loaded or take a nap.'
+
+- property: merchants-cold-storage
+  person: 'melanie' 
+  date: '2008-06-09' 
+  content: 'for a brief period in the early 90’s i lived in this building, in the top apartment (if you want to call it that) with the two arched windows. previous tenants had built a sleeping loft, above which there was a fantastic old skylight/window. they’d also had a stage set up along the back wall. there was a huge, heavy door behind the stage, and beyond that was storage – junk (some of it mine, left behind), and stacks of flat cardboard boxes. as you can imagine, it was always a bit chilly in there. looking out those arched windows at the river was amazing. the apartment was broken into at one point, and soon afterwards i moved out. i wish i’d poked around in the building a bit more while i had the chance. looking at this photo certainly brings back memories.'
+
+- property: merchants-cold-storage
+  person: 'Jayelle'
+  content: 'Bland, indeed. To think that someone actually replaced this with that cardboard deathtrap is absurd. The new condos must be for out-of-staters who don’t know any better. By the way: 02 “903” is really not a cool place to be.'
+
+
+- property: merchants-cold-storage
+  person: 'matt maraia'
+  content: 'I can remember this massive structure from when i was a child. My Father owned Maid Rite Foods. I spent the majority of my child hood snooping around this building and was very upset to see such a beautiful building get knocked down.'
+
+
+- property: merchants-cold-storage
+  person: 'Jenn'
+  content: 'I remember one night when my band and a few other people from other bands that also practiced at the Merchant’s Cold Storage Building grabbed some flashlights and ventured into the basement. We found just piles of old restraunt items and paperwork but behind a large wooden sliding door…
+
+
+We came across a tunnel with cages on each side. They held old furniture and other junk. We followed the tunnel to another sliding door and came to a staircase with peeling greenish blue paint. We went up the stairs and realized we were in the warehouse next door. A giant room that was once a freezer or refriderator was the whole first floor. More junk on the second and what looked like an apartment on the top floor. Letters were found in the closet that reviled children working at the factory that “had to get up early in the morning to shovel coal into the furnace before they could start work because it was so cold.” Do you have any info on that or the tunnel of cages? (A.I.R.: Those were the tunnels that connected warehouses together for easier shipping of goods in an out of cold storage.)'
 
 - property: shooters-cafe
   person: 'RICH B' 
