@@ -144,7 +144,7 @@ Urban Decay
 ++ Abandoned retail
 ++ Atlas Warehouses
 ++ Bayley Street
-++ Bootleggers
++ Bootleggers
 ++ Central Falls/Pawtucket Train Station (2003)
 ++ Earl Mason Carriage House
 ++ First Federal Bank, recently Buck a Book
@@ -207,7 +207,7 @@ Redeveloped
 RIP
 ++ Fogarty Building
 + JG Goffs
-++ Merchants Cold Storage
++ Merchants Cold Storage
 ++ Phenix Mill
 ++ Quonset Point Davisville
 + Rialto Furniture
