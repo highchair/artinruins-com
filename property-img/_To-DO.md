@@ -50,28 +50,14 @@ caption: 'Providence Historical Aerial Viewer 1972'
 # Grove Street School
 * Find the source of the interior photos — Charles Heganam Architects
 
-# Hartford Avenue apartments
-* Find Micheal Tucker Terzian's photo of the demolition
-
 # Kinsley Park
 + Research this place, another athletic field owned and run by the guy that started the Cyclodrome. Mentioned in the essay.
 
 # Narragansett Race Track
 * Link to this property from the RI Auditorium page
 
-# Old Police Station
-* Find the Frank Mullin photos and recrop/resize
-* Find the 2007 photos of the post-demolition cleared land
-
-# Photos from Tucker!
-* Hartford Ave Apartment demolition
-* RI Auditorium demolition
-
 # Poirier's Diner / El Faro / West Side Diner
 * More photos and some history here: http://61thriftpower.com/back.shtml
-
-# Providence Fruit Warehouse
-* A bunch of photos collected in a folder called LOST where I can no longer find the originals to recrop them
 
 # Pulse Nightclub
 * Images in the Thurston Saw folder, Providence. P1010127.JPG, P1010128.JPG, P1010129.JPG

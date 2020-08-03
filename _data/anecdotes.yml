@@ -10,6 +10,81 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: enchanted-forest
+  person: 'Mike P' 
+  date: '2015-02-27' 
+  content: 'The sign is still there, but all the buildings and fixtures on the site were razed in 2014'
+
+- property: enchanted-forest
+  person: 'bob' 
+  date: '2015-02-02' 
+  content: 'went to visit the site November 2014 only two buildings remain, seen in picture 1 (bottom left) and the gocart track still seems to be in good shape as pictured in <a href="#photo-6">photo 6</a>. the golf course is still there but quite overgrown and the sign remains but the humpty dumpty has been taken, pretty sad, as another fun place for familys to go is lost, such as rocky point park, but it will live on in our memories'
+
+- property: enchanted-forest
+  person: 'Jen Martin' 
+  date: '2013-10-24' 
+  content: 'Went to The Enchanted Forest many years with both grandmothers and my brother. It was a summer tradition we all looked forward to. So sad to see the pictures and read of the lack of care given to this wonderful place that gave so many children such happy memories.'
+
+- property: enchanted-forest
+  person: 'Meagan Mahoney' 
+  date: '2013-05-21' 
+  content: 'I went here as a kid with my parents and 4 of my siblings. Im 24 now, I was probly 7 the last time I was there. We have a homevideo of us running around playing there and my sister getting scared on the rollercoaster (they actually stopped it so she could hop off).'
+
+- property: enchanted-forest
+  person: 'Brenda' 
+  date: '2012-08-15' 
+  content: 'This is so sad to see. I can remember bringing my son there when he was little (he is now 19). Just another ruined family fun place.'
+
+- property: enchanted-forest
+  person: 'JPX' 
+  date: '2011-05-22' 
+  content: 'You can still get into the place. I went there on 05/22/11. It’s very overgrown but a few of the buildings are still standing. There is no fence around the place so anyone can go visit it if they want to check it out. (A.I.R.: Don’t go there anymore, neighbors have the cops on speed dial)'
+
+- property: enchanted-forest
+  person: 'Don' 
+  date: '2010-05-31' 
+  content: 'As I was house-hunting today (5/31/2010), I ran across this 31-acre property. It has a for sale sign on it and it is overgrown with many of the buildings gutted out. If it had a large enough building to make into a residence, I would have considered offering something for it. It will take the next owner a lot of work and funds to transform this place.'
+
+- property: enchanted-forest
+  person: 'Eric Scantlebury' 
+  date: '2009-06-23' 
+  content: 'I agree with Krissy – picture 11 (now <a href="#photo-2">photo 2</a>, top left) is a sad one. I remember that slide well. (Oh – as a side note it is In, not near, Hopkinton which is one of the towns that make up Washington County. It is near The center of Hope Valley which is a village in Hopkinton) (A.I.R.: Fixed in the description).
+
+
+I worked there as my first job – at 15 years old. I worked for the then owners Mr Hurley and Mr Jones. I was “The Farmer” – the job to have. The Farmer was responsible for all the daily maintenance of the park, kitchen and rides and care of the animals in the petting zoo as well as giving each ride worker thier lunch break – the “fixit” guy. I worked there from around 1984 till the end of 86 when I got into a big arguement with Mr Hurley over the care of the animals and walked out, apparently using a little bit more than a capfull of detergent to clean the animals barn floor cost too much. Went back about two weeks later when asked to come fix the main bearing on the scrambler by the manager (she was a family friend – and how I got the job).
+
+
+Mr Jones and Mr Hurley sold the park to a couple of guys that ran a go cart track out on the Cape. That is when the park began to go to pieces – they just wouldn’t spend any money at all on anything (even worse than Mr Hurley) and I left permanently after that. Took my kids there around 2002, and it was a far cry from what it had been.
+
+
+When I worked there they had the Roller Coaster, the Ferris Wheel, the Mary Go Round, the Scrambler, the Octopus, the little battery powered bumper cars (not the remnents of those in one of the pictures), and a small little boat ride thing down near the shoe. Oh, and of course the very annoying kiddie music that blared throughout the park every day over and over and over.'
+
+- property: enchanted-forest
+  person: 'Krissy' 
+  date: '2009-04-05' 
+  content: 'I think the saddest picture is #11 (now <a href="#photo-2">photo 2</a>, top left), that was the foot of the old woman who lived in a shoe slide. I remember looking in that window as a kid and seeing the “old woman” and her kids. I also remember sliding down the metal slide out of the top of the shoe! To agree with Anne, to a small child... it was amazing. There is a picture of me in the petting zoo area near a cow at 3 years old, the cow was sniffing my head... for years later, I thought that was why I had a cowlick in my hair :)'
+
+- property: enchanted-forest
+  person: 'Dan' 
+  date: '2009-01-11' 
+  content: 'I have a lot of video from that park. Took my kids there when they were little, around 1991. It was a funky little place, most of the buildings were based upon nursery rhymes. The “shoe” with a slide, the little school house, etc. It was a nice setting for very small kids, but not much to do beyond running in and out of the buildings and pay a quarter for a handful of pellets to feed the goats in the pen. The last time we went, they’d put in that little roller coaster. It didn’t look very safe, so we passed on that one. They had a small go-cart track, and one of those boat rides that go in a circle in a litle bit of water. Kids rang the boat bells until the head explodes. Sorry the park is gone, but then I was crushed when Crescent Park and Lincoln Park closed. I loved places like that.'
+
+- property: enchanted-forest
+  person: 'Anne' 
+  date: '2009-01-03' 
+  content: 'I went there every year that I can remember from 1977 to 1985 and again with my own child from 2003 to 2004. Say what you will about peeling paint and food poisoning, but to a 2-7 year old kid it was a fantasy world of unlimited rides and little lines. Once the place closed we spent way more on pay as you go rides closer to home than we ever did on an outing to enchanted forest. There have been rides there as long as I can remember but the last company did add quite a few more of the cheesy kid rides (that kids happen to like). There was a tilt-a-wirl and I kind of remember this ride that would whip you around the turn in a large oval.'
+
+- property: enchanted-forest
+  person: 'Jeff Warhurst' 
+  date: '2008-12-20' 
+  content: 'I remember The Enchanted Forest vividly from my childhood. I was born in 81 and my parents would take me every year; all the time. The Enchanted Forest had many fun rides, such as the Ferris wheel, the swing-out merry go-round, a Tilt-a-Whirl, etc. Around 2001 I worked there and it was nothing even close to the same. Rockwell Amusements took it over and basically ran it into the ground. I remember working the coaster one day and as it went up the hill, it caught on the chain and fell back down the hill injuring a couple of people. The owner of the park told me to tell them to leave if they had a problem. They also imported boring rides such as helicopters, some fish thing that went in a circle and a train without enough horsepower to go around the track. You would have to go and push it around the track; and this was for $8 an hour at a summer job. The gokarts would spark and the Titanic slide they bought collapsed on numerous occasions. Word of mouth killed that place. Also the animals were terribly mistreated and there were food poisoning outbreaks from the kitchen. All in all I would say may the Enchanted Forest rest in peace; finally.'
+
+- property: enchanted-forest
+  person: 'Alex' 
+  date: '2008-11-23' 
+  content: 'I’m pretty sure there were small rides there prior to 2003. I remember going there mid-90’s and they had a small roller coaster, some bumper cars, and I think a little train that went around the park.'
+
+
 - property: smith-swim-center
   person: 'Daniel F. Tully, Architect'
   date: '2013-04-27'
