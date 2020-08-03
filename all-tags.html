@@ -21,9 +21,10 @@ sitemap:
         {%- if designers.size >= 1 -%}
             <div class="all-tags__wrapper u__vertical__pt u__gutter__p">
               <h2 class="all-tags__title">Designers</h2>
-            {%- for designer in designers -%}
+            {%- for thisdesigner in designers -%}
+              {%- assign collection = site.property | where: 'designers', thisdesigner.category -%}
               {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
-              <li><a href="{{ '/' | relative_url }}{{ designer.permalink }}">{{ designer.category }}</a></li>
+              <li><a href="{{ '/' | relative_url }}{{ thisdesigner.permalink }}"><span>{{ thisdesigner.category }}</span> <span>({{ collection.size }})</span></a></li>
               {%- if forloop.last -%}</ul>{%- endif -%}
             {%- endfor -%}
             </div>
@@ -34,8 +35,9 @@ sitemap:
             <div class="all-tags__wrapper u__vertical__pt u__gutter__p">
               <h2 class="all-tags__title">Lists</h2>
             {%- for list in lists -%}
+              {%- assign collection = site.property | where: 'lists', list.category -%}
               {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
-              <li><a href="{{ '/' | relative_url }}{{ list.permalink }}">{{ list.category }}</a></li>
+              <li><a href="{{ '/' | relative_url }}{{ list.permalink }}"><span>{{ list.category }}</span> <span>({{ collection.size }})</span></a></li>
               {%- if forloop.last -%}</ul>{%- endif -%}
             {%- endfor -%}
             </div>
@@ -46,8 +48,9 @@ sitemap:
             <div class="all-tags__wrapper u__vertical__pt u__gutter__p">
               <h2 class="all-tags__title">Tags</h2>
             {%- for tag in tags -%}
+              {%- assign collection = site.property | where: 'tags', tag.category -%}
               {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
-              <li><a href="{{ '/' | relative_url }}{{ tag.permalink }}">{{ tag.category }}</a></li>
+              <li><a href="{{ '/' | relative_url }}{{ tag.permalink }}"><span>{{ tag.category }}</span> <span>({{ collection.size }})</span></a></li>
               {%- if forloop.last -%}</ul>{%- endif -%}
             {%- endfor -%}
             </div>
@@ -59,8 +62,9 @@ sitemap:
           {%- if neighborhoods.size >= 1 -%}
               <h3 class="all-tags__title">Neighborhoods</h3>
             {%- for neighborhood in neighborhoods -%}
+              {%- assign collection = site.property | where: 'neighborhoods', neighborhood.category -%}
               {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
-              <li><a href="{{ '/' | relative_url }}{{ neighborhood.permalink }}">{{ neighborhood.category }}</a></li>
+              <li><a href="{{ '/' | relative_url }}{{ neighborhood.permalink }}"><span>{{ neighborhood.category }}</span> <span>({{ collection.size }})</span></a></li>
               {%- if forloop.last -%}</ul>{%- endif -%}
             {%- endfor -%}
           {%- endif -%}
@@ -69,8 +73,9 @@ sitemap:
           {%- if towns.size >= 1 -%}
               <h3 class="all-tags__title">Towns, States</h3>
             {%- for town in towns -%}
+              {%- assign collection = site.property | where: 'town', town.category -%}
               {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
-              <li><a href="{{ '/' | relative_url }}{{ town.permalink }}">{{ town.category }}</a></li>
+              <li><a href="{{ '/' | relative_url }}{{ town.permalink }}"><span>{{ town.category }}</span> <span>({{ collection.size }})</span></a></li>
               {%- if forloop.last -%}</ul>{%- endif -%}
             {%- endfor -%}
           {%- endif -%}
@@ -82,8 +87,9 @@ sitemap:
           {%- if decades.size >= 1 -%}
               <h3 class="all-tags__title">Decades Built</h3>
             {%- for decade in decades -%}
+              {%- assign collection = site.property | where: 'decade', decade.category -%}
               {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
-              <li><a href="{{ '/' | relative_url }}{{ decade.permalink }}">{{ decade.category }}</a></li>
+              <li><a href="{{ '/' | relative_url }}{{ decade.permalink }}"><span>{{ decade.category }}</span> <span>({{ collection.size }})</span></a></li>
               {%- if forloop.last -%}</ul>{%- endif -%}
             {%- endfor -%}
           {%- endif -%}
@@ -92,8 +98,9 @@ sitemap:
           {%- if dates-added.size >= 1 -%}
               <h3 class="all-tags__title">Date Added to <abbr title="Art In Ruins">A.I.R.</abbr></h3>
             {%- for dateadded in dates-added -%}
+              {%- assign collection = site.property | where: 'date-added', dateadded.category -%}
               {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
-              <li><a href="{{ '/' | relative_url }}{{ dateadded.permalink }}">{{ dateadded.category }}</a></li>
+              <li><a href="{{ '/' | relative_url }}{{ dateadded.permalink }}"><span>{{ dateadded.category }}</span> <span>({{ collection.size }})</span></a></li>
               {%- if forloop.last -%}</ul>{%- endif -%}
             {%- endfor -%}
           {%- endif -%}
@@ -102,11 +109,11 @@ sitemap:
           {%- if dates-demolished.size >= 1 -%}
               <h3 class="all-tags__title">Date Demolished</h3>
             {%- for datedemo in dates-demolished -%}
+              {%- assign collection = site.property | where: 'demolition', datedemo.category -%}
               {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
-              <li><a href="{{ '/' | relative_url }}{{ datedemo.permalink }}">{{ datedemo.category }}</a></li>
+              <li><a href="{{ '/' | relative_url }}{{ datedemo.permalink }}"><span>{{ datedemo.category }}</span> <span>({{ collection.size }})</span></a></li>
               {%- if forloop.last -%}</ul>{%- endif -%}
             {%- endfor -%}
           {%- endif -%}
             </div>
-
           </div>

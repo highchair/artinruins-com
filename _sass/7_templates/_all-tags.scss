@@ -1,0 +1,42 @@
+//<div class="all-tags__wrapper u__vertical__pt u__gutter__p">
+//  <h2 class="all-tags__title">Designers</h2>
+//  <h3 class="all-tags__title">Decades Built</h3>
+//  <ul class="all-tags__list">
+//    <li>
+//      <a href="/designer/curtis-and-davis/"><span>Curtis and Davis</span> <span>(1)</span></a>
+//    </li>
+//  </ul>
+//</div>
+
+/*body*/.all-tags {
+  
+  &__wrapper {
+    
+    h2 + h3,
+    ul + h3 {
+      padding-top: $vertical-rhythm;
+    }
+  }
+  
+  &__list {
+    padding: ($vertical-rhythm/2) 0;
+    
+    li {
+      border-bottom: 2px dotted palette('brand-orange');
+      margin-bottom: 0.25rem;
+    }
+    
+    a {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      
+      span {
+        background-color: $white;
+        display: inline-block;
+        margin-bottom: -2px;
+        padding: 1px 0.125rem;
+      }
+    }
+  }
+}
