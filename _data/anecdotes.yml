@@ -1,14 +1,100 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: merchants-cold-storage\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: american-screw-co\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: merchants-cold-storage\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: american-screw-co\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: american-screw-co
+  person: 'Bonnie Corman PhD' 
+  date: '2016-03-18' 
+  content: 'My father and uncle had their Textile Business in  part of the American Screw Co., 24 Stevens St. It was Podrat Bros Textile Co. I have many memories of the equipment used to put textiles into bales and the sorting of textiles into fibers which were then rewoven.'
+
+- property: american-screw-co
+  person: 'Dorothy Fitta' 
+  date: '2015-12-14' 
+  content: 'My husband worked at American Screw co, during WW11, He did defense work… He worked at the one in Providence R.I. North Main st. Interesting, that site is now a parking lot…'
+
+- property: american-screw-co
+  person: 'shannon veber' 
+  date: '2015-08-27' 
+  content: 'i recently found about 15 boxes of American screw company full of screws from providence, R.I... they are very old!!! the boxes are a dark brown with blue lettering in great condition according to how old they may be??? i also found machine taps, hand taps etc. along with the screws and gauges i found 14 packets of drill bits from National twist drill &amp; tool company, Detroit, U.S.A.... does anyone know about this stuff??? please email me shannon.veber [at] yahoo [dot] com'
+
+- property: american-screw-co
+  person: 'Dave S.' 
+  date: '2015-03-21' 
+  content: 'I bought an American Screw Co. #3A Philips head screwdriver from an old gentleman several years ago at his "hoarding clear out" sale… never knew the company had roots in RI. I live in Narragansett, RI, and so did he! Pretty cool!'
+
+- property: american-screw-co
+  person: 'Robert Harrington' 
+  date: '2014-11-26' 
+  content: 'I have a few American screw that I got from my 92 year old uncle they are the best I have ever used. I will try to send a photo of one of the boxes.'
+
+- property: american-screw-co
+  person: 'Richard Lester' 
+  date: '2014-07-25' 
+  content: 'Back in the early 1950’s, my mother -- Clare Lester -- worked night shifts at the Willimantic plant. I remember riding out with my Dad some nights to pick her up after her shift had ended. We sometimes stopped at Butler’s Dairy for a milk shake on the way. I remember they even had a pinball machine there. My Mom introduced a friend and co-worker to her brother Bill Scofield, they fell in love, and eventually married — a romance that had its roots at the American Screw Company.'
+
+- property: american-screw-co
+  person: 'Van Schuyler, Kathleen' 
+  date: '2014-06-26' 
+  content: 'My grandfather and father worked at the American Screw Co before and after WWII. Carl August Johnson drove the horses to Quonset Pt to deliver screws for the ship. Henry L. Johnson, my father, supervised women during the war, making screws. He would not go to Conn. when they moved. My grandfather is a Swedish/American, came to this country around 1900.'
+
+- property: american-screw-co
+  person: 'Jill Gilbert' 
+  date: '2014-05-14' 
+  content: 'My grandfather ran a small hardware store and I have a large display in the original boxes from the Continental Screw Company before the purchase by American. Such great history of this company start. '
+
+- property: american-screw-co
+  person: 'Carolyn Gillon' 
+  date: '2014-05-07' 
+  content: 'My grandfather Charles Gillon, lived on Taunton, Ma, and worked as machinist at the American Screw Co. I would like to see photo found by Randall McDaniel.'
+
+- property: american-screw-co
+  person: 'Maryann Ruffini' 
+  date: '2013-12-02' 
+  content: 'I have found a crate with the graphics American (in top) then a picture of a red eagle and around it says made in the united states of america. On each side of the eagle there are a screw in black and on one side is a flat head and the other a phillips screw. Below that one side it says Screws and the other it says Bolts. Under that on one side it says American Screw Co. and on the other side it says, Providence, RI. Could anyone tell me what circa this crate could be? Thank you.'
+
+- property: american-screw-co
+  person: 'Dorothy Lapre' 
+  date: '2011-07-08' 
+  content: 'My husband’s grandfather (Remi Lapre) worked at the American Screw Co in Providence, RI in the 1880s. He lived 6 Lock Street, Providence.  All of his decendents still live in RI, NH, MA, &amp; CT. We are the Lapre’s living in CT, formerly residing in Lincoln, RI (where the Oscar E. Lapre family) lived for over 65 yrs. in the Limerock section.'
+
+- property: american-screw-co
+  person: 'Bill Demarais' 
+  date: '2011-04-14' 
+  content: 'My father Ernest Demarais and his brother John worked at the Willimantic plant till it closed. John went south with them when they moved out. We had many friends work there Larry Kelly. I can’t think of all of them now. My father got a job with the US Postoffice after they left.'
+
+- property: american-screw-co
+  person: 'Hakan Torstensson' 
+  date: '2009-03-16' 
+  content: 'I am curious about my grand-mothers’ father who worked as a working leader for the american screw, probably 1891-1903. The family emigrated from Sweden to Providence in 1891, his name was Sanfrid Westman. I remember a nice broshure of the company, smoking chimenys and so on.'
+
+- property: american-screw-co
+  person: 'William Kotrba' 
+  date: '2008-07-26' 
+  content: 'My late father in law Leonard F. Lee began as a header operator in Providence, worked himself up to inspector, and eventually became Plant Superintendent. At his funeral ceremony people came far and wide to pay their respects, many coming from as far away as New Bedford. Leonard was a great man and a wonderful Father, Grandfather, and Father in Law. I worked at the research and development laboratory in the late 1950s, while working my way through college. Many old timers worked there at that time, Herman Munchinger, metallurgist, Stan Berkley, Chemist, Wilbur Kilburn, chief technician etc. Those were certainly the good old days. I still have a large wooden Screwdriver trade sign, 4’ long of a screw driver marked “American Screw Co.” that was supposedly part of the industrial display at the 1939 Worlds Fair. It hangs proudly in my garage'
+
+- property: american-screw-co
+  person: 'Arlene Drew Guenther'
+  content: 'My father, Raymond Drew, worked for the American Screw Company in Providence before and after his 4 years of miltary duty (WW II). We moved with the company to Willimantic in 1949 and lived there until the company was bought out by Textron in 1962 and relocated to Wytheville, VA. We moved there and my father retired in 1979 with 37 years of service to the American Screw Co.'
+
+- property: american-screw-co
+  person: 'Briere'
+  content: 'Both of my parents worked at American Screw Company in Willimantic, CT from the late 1940’s / early 1950’s until it closed in 1962. My father obtained a job with Air Industries in Gardena, California and we moved west.'
+
+- property: american-screw-co
+  person: 'Randall McDaniel'
+  content: 'I recently purchased an old photo. The photo is labeled on the reverse “Charlie J. Gillon, machinist at The American Screw Co, Providence RI”. The photo was taken at the Rankin Photo Studio in Taunton Massachusetts.'
+
+- property: american-screw-co
+  person: 'marc bissonnette'
+  content: 'The first immigrants in my ancestry from Canada worked at American Screw, Henry Beauregard and his sons especially Albert were living in Providence and working there in 1880. They also kept their farm in Stukely, Canada. My grandfather (Joseph) George Bissonnette worked there his whole life even commuting from Central Falls to Willimantic till the early ’60s. '
 
 - property: merchants-cold-storage
   person: 'Richard A Mitchell' 
