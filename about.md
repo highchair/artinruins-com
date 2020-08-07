@@ -30,7 +30,7 @@ Document the changing architectural landscape and to collect the oral, written, 
 
 As Providence continues to grow, many industrial and historic buildings are being razed to make way for chain stores and expensive loft apartments. What happens to the artists, musicians, and small businesses that inhabited them? What happens to the City as they are forced to move away? What happens to our connections with history? What do we really lose when we don’t preserve our past? These are some of the questions ArtInRuins tries to discuss.
 
-We also want to celebrate the region’s great history. At the turn of the 20th century, it was claimed that Providence contained the world’s largest tool factory (Brown and Sharpe), file factory (Nicholson File), engine factory (Corliss Steam Engine Company), screw factory (American Screw), and silverware factory (Gorham). These were proclaimed as _Providence’s Five Industrial Wonders of the World_. (Conley and Campbell p. 100). 
+We also want to celebrate the region’s great history. At the turn of the 20th century, it was claimed that Providence contained the world’s largest tool factory (Brown and Sharpe), file factory (Nicholson File), engine factory (Corliss Steam Engine Company), screw factory ([American Screw]({% link _property/american-screw-co.md %})), and silverware factory (Gorham). These were proclaimed as _Providence’s Five Industrial Wonders of the World_. (Conley and Campbell p. 100). 
 
 ## Our Roots
 
