@@ -27,7 +27,6 @@ excerpt: "This property is actually a tale of three things — competitive cycl
 thumbnail: 
 
 images:
-  - url: cyclodrome-grandstands-1919.jpg
   - url: cyclodrome-aerial-1928.jpg
   - url: cyclodrome-playbill.jpg
   - url: cyclodrome-ephemera.jpg
@@ -154,3 +153,18 @@ Today, virtually no memory of the original Cyclodrome exists. Photos of the site
 1. O’Hara, Neal, “Telling the World,” from a 1931 column found in Laudati’s scrapbook at RIHS.
 1. “Notes,” Providence Journal, 8 November 1932, p. 10.
 1. “E.M. Lowe’s Drive-In Theater Advertisement,” Providence Journal, 21 July 1937, p. 12.
+
+
+### Retraction
+
+A previous version of this article used a photo of the Cranston Open-Air Cycledrome in 1919, located at 721 Reservoir Avenue, by mistake. Similar, but not the Providence Cycledrome. We regret the error but thank [Dash Bicycle Shop](//www.dashbicycle.com){:target="_blank"} for the correction. The photo is displayed here until we can create a page for the Cranston Cycledrome. 
+
+<figure class="u__img" aria-hidden="true">
+  <img src="{{ site.propimg_path }}{{ page.slug }}/cyclodrome-grandstands-1919.jpg" alt="" />
+  <figcaption>
+    Photo from the Providence Journal, 1919, of the Cranston Open-Air Cycledrome
+  </figcaption>
+</figure>
+{% comment %}
+https://www.facebook.com/ProvidenceJournal/photos/p.418768288159541/418768288159541/?type=1&theater
+{% endcomment %}
