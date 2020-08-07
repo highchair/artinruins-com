@@ -32,7 +32,10 @@ caption: 'Providence Historical Aerial Viewer 1972'
 ## Anecdotes
 + Search for [link needed] every now and again to add property links to anecdotes. Must be Markdown form. 
 
-## Dean Hotel
+# Cranston Open-Air Cycledrome
++ Providence dome uses a photo that is actually a Cranston track. Research and add a page for it. 
+
+# Dean Hotel
 * Kept some notes for the Dean Hotel in the New New Photos folder
 
 # El Faro / Krystal's Diner
@@ -52,6 +55,9 @@ caption: 'Providence Historical Aerial Viewer 1972'
 
 # Kinsley Park
 + Research this place, another athletic field owned and run by the guy that started the Cyclodrome. Mentioned in the essay.
+
+# Moshassuck Square Historic District 1972
++ Already have American Screw… can add the old boiler building on the corner, former Bark street, as well as Canal House and the Stillman White and Fletcher Manufacturing Company. And that rounded corner building that is still part of the Providence Center.
 
 # Narragansett Race Track
 * Link to this property from the RI Auditorium page

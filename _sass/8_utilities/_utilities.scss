@@ -40,6 +40,36 @@
     }
   }
   
+  // Images
+  &__img {
+    
+    figcaption {
+      font-size: calc(var(--fs__sm) * 1rem);
+      letter-spacing: ($kerning * 2);
+      padding-top: 0.5rem;
+    }
+    
+    &--right {
+      @include fluid-units('margin-left', $gutter-min, $gutter-max, $min-vw, $max-vw, 1rem, false);
+      
+      @include breakpoint-up(small) {
+        float: right;
+        margin-bottom: 1rem;
+        max-width: 45%;
+      }
+    }
+    
+    &--left {
+      @include fluid-units('margin-right', $gutter-min, $gutter-max, $min-vw, $max-vw, 1rem, false);
+      
+      @include breakpoint-up(small) {
+        float: left;
+        margin-bottom: 1rem;
+        max-width: 45%;
+      }
+    }
+  }
+  
   // Colors
   &__color {
     &__primary {

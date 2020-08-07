@@ -212,6 +212,14 @@
       }
     }
     
+    p {
+      hanging-punctuation: first;
+    }
+    
+    blockquote p {
+      hanging-punctuation: none;
+    }
+    
     // Special treatment for the last paragraph, whatever it might be
     p:last-of-type::after {
       // content: '' / 'The End'; Added recently: support for Alt text

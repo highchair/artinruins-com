@@ -165,7 +165,7 @@ Construction
 ++ Proposed Westin Tower
 
 Historic
-++ American Screw Company
++ American Screw Company
 ++ the Cove, now Waterplace Park
 ++ Downtown Providence
 ++ Gorham Manufacturing
@@ -275,7 +275,7 @@ Historic
 Still in Use
 ++ Eddy Estate Carriage House
 ++ Imperial Place
-++ Regal Plating
++ Regal Plating
 
 Redeveloped
 ++ 130 Vinton / Vinton Street Garage

@@ -68,6 +68,10 @@ The Online Review of Rhode Island History. Put together by some pretty serious a
 
 ## Similar Projects (beyond RI)
 
+### Decay Devils
+
+[The Decay Devils](//www.decaydevils.org){:target="_blank"} spearhead historic building preservation, restoration, and appreciation in Northwest Indiana and beyond. It is our goal to bring new life and restore beauty, safety, and activity in the places we once looked past or cringed at. Art interventions as well as typical restoration efforts. 
+
 ### Fabulous Ruins of Detroit
 
 In many ways, the precursor to ArtInRuins, set in [Detroit, Michigan](//detroityes.com){:target="_blank"}. Many, many fabulous ruins located here.

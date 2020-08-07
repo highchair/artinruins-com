@@ -111,6 +111,12 @@ h4,
   font-weight: $font-custom__serif__bd-weight;
 }
 
+h5,
+.h5 {
+  @include ff-sans(bold);
+  color: palette('brand-brown');
+}
+
 small,
 .small {
   font-size: calc(var(--fs__sm) * 1rem);
@@ -144,6 +150,14 @@ small,
   h2 + p:not([class]):first-line {
     @include ff-sans(bold);
     color: palette('brand-teal');
+  }
+  
+  h5 {
+    margin-top: 1.875rem;
+        
+    + p {
+      margin-top: 0;
+    }
   }
 }
 
