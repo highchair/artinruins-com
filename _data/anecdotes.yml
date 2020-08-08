@@ -10,6 +10,20 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: regal-plating
+  person: 'david guleserian'
+  date: '2016-02-03'
+  content: 'my father, john guleserian, founded regal plating co in 1946, upstairs was atlantic lures, another company he started, and downstairs was yet another company he owned, vacuum plating co. he owned it until 1973 when he sold it to john grosse.'
+
+- property: regal-plating
+  person: 'ABD'
+  date: '2008-01-26'
+  content: 'I don’t understand why it’s being marketed for student housing. It must be some know-nothing real estate firm that thinks that’s the way to make a quick buck.'
+
+- property: regal-plating
+  person: 'Bob Eggleton'
+  content: 'My late Dad, as I recall did some business with the people here – I think, a long time ago, around the late 80’s or early 90’s. Plated machine parts if memory serves me. I walked by it a zillion times on my own foot errands in the 80’s/90’s and obnoxious smells, and loud noises were always coming from the various ventilators and open windows exiting the building. It has finally become yet another memory of an old business – of so many now gone from that area – that itself became obsolete and what’s left is done overseas. It’s sort of in that weird Bermuda Triangle of streets that are near the 195 entrance that reflected until very recently one of the last manufacturing areas left in the city.'
+
 - property: american-screw-co
   person: 'Bonnie Corman PhD' 
   date: '2016-03-18' 
