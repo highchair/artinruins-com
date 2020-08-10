@@ -253,7 +253,7 @@ RIP
 ++ Second Universalist Church
  +
 Urban Decay
-++ Brownell and Field / Standardized Wholesale Liquors
++ Brownell and Field / Standardized Wholesale Liquors
 ++ Fort Adams
 ++ Lincoln Amusement Park
 ++ M. N. Cartier & Sons Co. / 1107 Westminster

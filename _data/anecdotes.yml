@@ -1,14 +1,43 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: american-screw-co\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: brownell-field\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: american-screw-co\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: brownell-field\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: brownell-field
+  person: 'John Battick (Ph.D.)' 
+  date: '2017-02-28' 
+  content: 'I have a cylindrical paperboard one-pound container with the Autocrat Coffee label from Brownell & Field Co. The top is missing, the metal bottom is rusty and the container showing its age. Directions to make coffee are intact on the label. Of anyone is interested in acquiring this item, I shall be glad to mail to him/her/it — preference to a historical society. Please get back to me at my email address. jbattick [at] roadrunner [dot] com'
+
+- property: brownell-field
+  person: 'Ed Cifelli' 
+  date: '2013-09-27' 
+  content: 'My father worked for Autocrat in the early 1950s. He delivered the coffee in a box truck to the different locations and part of the route would take him by the old Gladstone St Elementary School where I was. He would give me a ride home in that big yellow and black cab-over truck. It was a thrill to be able to get in the truck and look at the world through that big glass from so high up. Now when I think about my father, that is one of the many things that come to mind. There were also times during the week that I was allowed to go into the plant. I can still remember a display of the different roasts and blends that were in the front office.'
+
+- property: brownell-field
+  person: 'DE' 
+  date: '2011-05-20' 
+  content: 'I originally thought someone was gutting the building to do a rehab. It is now obvious it is on its way down… too bad for another piece of history.'
+
+- property: brownell-field
+  person: 'John' 
+  date: '2011-02-18' 
+  content: 'My dad worked for Standard Wholesale from 1948 to 1971. They moved to Naragansett Ave. before he retired.'
+
+- property: brownell-field
+  person: 'Rhonda Bucci' 
+  date: 'Apr 23 2010' 
+  content: 'I was born in Providence, but now live in Santa Barbara, CA and found a Brownell Coffee mug at a thrift store, and decided to look up the company which brought me to this website, I recognize the building. (Both of my parents are from Olneyville) not to far from Harris Ave. And my inlaws are from Federal Hill. And I grew up on coffee milk, stock-up on it every time i’m in R.I. Now I have a nice mug to remind me of home. WAs their coffee as good as Dunkin Donuts?'
+
+- property: brownell-field
+  person: 'Mike Blake'
+  content: 'A wealth of historical detail on the property, but no mention of what Brownell &amp; Field was most famous for to average Rhode Islander, if they ever knew the original name of the manufacturer: they made the legendary <b>Autocrat Coffee Syrup</b>, source of the best coffee milk in the state (unless you were an Eclipse fan). <i>{ED. This omission has been corrected and added to the history above}</i> When I worked downtown, though, they’d already moved to Lincoln and just owned the building.'
 
 - property: regal-plating
   person: 'david guleserian'
