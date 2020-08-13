@@ -106,9 +106,8 @@ Redeveloped
 ++ Pawtucket Armory
 ++ Peerless Building
 ++ Peoples Savings Bank
-++ Providence National Bank (now RIP)
++ Providence National Bank (now RIP)
 ++ Rau (Ray) Fastner
-++ Sockanosset Boys Training School
 ++ South Street Power Plant / Heritage Harbor Museum
 ++ Texaco Station / West Broadway Neighborhood Association
 
@@ -142,12 +141,11 @@ Streetscape
 Urban Decay
 ++ 354 Pine Street
 ++ Abandoned retail
-++ Atlas Warehouses
 ++ Bayley Street
 + Bootleggers
 ++ Central Falls/Pawtucket Train Station (2003)
 ++ Earl Mason Carriage House
-++ First Federal Bank, recently Buck a Book
++ First Federal Bank, recently Buck a Book
 ++ Fox Point Bath House
 ++ New England Paper Tube, Co. 
 + North Main Street — Ethan Allen, Sears Auto, Sears, Anderson Little, #1320
@@ -181,8 +179,8 @@ Still in Use
 ++ Chestnuts
 ++ Coro Building
 ++ Dryden Lane, for. Allen Printworks
-++ Fairhaven Millst, New Bedford
-++ Littlest Building in Providence
+++ Fairhaven Mills, New Bedford
+++ Littlest Building in Providence (Lil Dunk)
 ++ Machine Shop for the Phenix Iron Foundry
 ++ Smith Webbing
 ++ Steeple Street
@@ -228,7 +226,6 @@ Construction (Nov 2006)
 ++ Two Thomas Street
 
 Historic
-++ (moved Merchant's from RIP)
 ++ Possner Castle
 + RI Auditorium
 
@@ -249,9 +246,9 @@ Redeveloped
 ++ The Grant
 
 RIP
-++ 383 West Fountain Street
+++ 383 West Fountain Street (was never demolished)
 ++ Second Universalist Church
- +
+
 Urban Decay
 + Brownell and Field / Standardized Wholesale Liquors
 ++ Fort Adams
@@ -269,7 +266,7 @@ Construction
 ++ Miriam Hospital Expansion
 
 Historic
-++ Providence Cyclodome
++ Providence Cyclodome
 ++ Providence Central Fire Station
 
 Still in Use
@@ -286,12 +283,12 @@ Redeveloped
 RIP
 ++ Decatur Lounge
 ++ Pontiac Mills
-++ Sears Automotive (1st appeared 2003 now standalone)
++ Sears Automotive (1st appeared 2003 now standalone)
 ++ Talk of the Town
 
 Urban Decay
-++ Anderson Little (1st appeared 2003 now standalone)
-++ Ethan Allen (1st appeared 2003 now standalone)
++ Anderson Little (1st appeared 2003 now standalone)
++ Ethan Allen (1st appeared 2003 now standalone)
 ++ Rialto Theatre
 ++ RI Mall
 ++ Slater Cotton Company
@@ -363,7 +360,7 @@ Redeveloped
 ++ Rope Works
 
 RIP
-++ 1320 North Main Street
++ 1320 North Main Street
 ++ Harris Lumber Co.
 ++ Javaspeed Scooter Sales
 ++ Pontiac Mills
@@ -481,3 +478,5 @@ RIP (51)
 Streetscapes (6)
 Still In Use (46)
 Urban Decay (46)
+
+= 264

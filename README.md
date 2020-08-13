@@ -25,20 +25,13 @@ Builds into the Stage folder: `_stage`.
 
 In a browser, open [http://127.0.0.1:4090/](http://127.0.0.1:4090/)
 
-### Additional Flags
-
-+ `--drafts` to publish/preview drafts
-+ `--future` to publish/preview posts with a future date
-+ `--unpublished` to publish/preview posts marked with unpublished
-
-
 ## Build the Site for Production
 
 Specify the production environment to omit content intended for development only. 
 Optionally, add the future flag to publish posts that have a future timestamp. 
 
 ```bash
-$ JEKYLL_ENV=production jekyll build --config _config_prod.yml --I --future
+$ JEKYLL_ENV=production jekyll build --config _config_prod.yml --I
 ```
 
 Builds into the Production folder: `_prod`. Used so that we may conduct incremental 
