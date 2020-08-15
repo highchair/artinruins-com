@@ -1,6 +1,6 @@
 ---
 layout: redirect
-section: redevelop
+section: decay
 oldslug: fogarty
 ---
 

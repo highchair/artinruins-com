@@ -1,14 +1,47 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: brownell-field\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: vanity-fair\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: brownell-field\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: vanity-fair\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: vanity-fair
+  person: 'Christine Tassone' 
+  date: '2018-04-10' 
+  content: 'The Library in North Providence has a 1908 program from the park. It shows pictures of the park at night, the baby incubators, and other attractions. It’s really neat. '
+
+- property: vanity-fair
+  person: 'John Damon' 
+  date: '2016-08-18 ' 
+  content: 'Old canisters of celluloid film turn to dust, after 40 or fifty years. Hence the rush and reason to preserve as possible of the old films from Hollywood. The likelihood we’ll ever see anything the man from North Providence had.'
+
+- property: vanity-fair
+  person: 'Marge Phelps' 
+  date: '2016-03-13' 
+  content: 'Vanity Fair was way before my time but as a history buff and someone who lived in EP from the 50s-70s and recently (2014) moved back to the area, I find the story fascinating. I’d love to see that old film if that person ever agrees to share it. I have a special fondness for Crescent Park and was their first female employee.'
+
+- property: vanity-fair
+  person: 'Richard Correia' 
+  date: '2012-06-15' 
+  content: 'I learned about Vanity Fair by mistake. I was in a Burger King in Wakefield, and saw a picture on the wall of the old park. I decided to look it up and found some information, but not much. I was talking to a man in North Providence and he told me that he grew up in that area. I asked him if he had heard of Vanity Fair. He said he owned the land in the area, and he had heard of the park which is unusal. I was floored when he told me he had old film on the park. He said he never opened up the cannisters. It could be opening day or something else. These cannisters are rare!! '
+
+- property: vanity-fair
+  person: 'Barbara-Jean (Carroll) Vallante'
+  content: 'My parents bought <a href="#photo-9">21 Sunnyside Ave.</a> in 1957. It is formerly the bandstand of Vanity Fair. They raised 5 daughters there and sold the house only a few years ago. It was a fun place to grow up and we always enjoyed the memorabilia related to Vanity Fair. The house is currently on the East Providence Historical Society poster. I enjoy having the framed poster in my home to bring back the memories of a wonderful childhood. '
+
+- property: vanity-fair
+  person: 'Shirley Marland Hanley'
+  content: 'My grandmother had twin babies who were in incubators at Vanity Fair. She said there were nurses around the clock to take care of them and they were on exhibit.'
+
+- property: american-screw-co
+  person: 'Jason Costello' 
+  date: '2020-08-12' 
+  content: 'My great-grandfather, Thomas Costello was a Foreman at American Screw Company in Providence when he died in 1937. His death certificate states 47 years spent in that occupation.'
 
 - property: brownell-field-co
   person: 'John Battick (Ph.D.)' 
