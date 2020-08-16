@@ -69,8 +69,9 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - _property/_womens-city-missionary-society-laundry.md
-  - list/_providence-jewelry-manufacturing-historic-district.html
+  - _property/_history.md
+  - _property/_template.md
+  - _property-drafts
 
 # https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:
