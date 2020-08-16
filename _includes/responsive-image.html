@@ -1,6 +1,18 @@
+{%- comment -%}
+  
+  Available liquid variables:
+  {{ path }} = the entire image path. Required for responsive image versions to get created
+  {{ image }} = representing the file name of the image
+  {{ size }} = optional, representing a single size request as a means of bypassing srcset
+  
+{%- endcomment -%}
 {%- capture srcset -%}
   {%- for i in resized -%}
 /{{ i.path }} {{ i.width }}w{%- unless forloop.last -%}, {%- endunless -%}
   {%- endfor -%}
 {%- endcapture -%}
-<img src="/{{ path }}" class="rwd-img" srcset="{{ srcset | strip_newlines }}" alt="" loading="lazy">
+{%- if size -%}
+  <img src="{{ site.propimg_path }}r/{{ size }}/{{ image }}" class="rwd-img" alt="" loading="lazy">
+{%- else -%}
+  <img src="/{{ path }}" class="rwd-img" srcset="{{ srcset | strip_newlines }}" alt="" loading="lazy">
+{%- endif -%}

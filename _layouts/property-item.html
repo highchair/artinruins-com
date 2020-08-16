@@ -7,15 +7,14 @@ layout: default
         <nav class="prev-next" aria-label="Property">
           {%- comment -%} Store the index of this property out of ALL properties {%- endcomment -%}
           {%- assign properties = site.property | sort: "title" -%}
-          {%- assign properties = properties | reverse -%}
           {%- for property in properties -%}
             {%- if property.title == page.title -%}
               {%- assign item_index = forloop.index -%}
               {%- break -%}
             {%- endif -%}
           {%- endfor -%}
-          {%- assign prev_index = item_index | plus: 1 -%}
-          {%- assign next_index = item_index | minus: 1 -%}
+          {%- assign prev_index = item_index | minus: 1 -%}
+          {%- assign next_index = item_index | plus: 1 -%}
           
           {%- comment -%} Loop again, this time, find the items with the prev and next indices {%- endcomment -%}
           {%- for property in properties -%}

@@ -6,7 +6,7 @@ body-class: home
 sitemap:
   lastmod: 2020-07-25
   priority: 0.8
-  changefreq: 'monthly'
+  changefreq: 'weekly'
 ---
 
 <section class="home__updates u__gutter__p">
@@ -27,18 +27,12 @@ sitemap:
         {%- endif -%}
     <li>
       <div class="taxonomy__img-wrap">
-        {%- comment -%}
-      
-        Responsive image plugin works well… but this could be optimized to ONLY 
-        use an image that is medium. With srcset, if the viewport is large the 
-        image loaded is large… but this one is not displayed larger than 800px
-        I'm just unsure how to supply a custom template path through the responsive_image_block
-        or possibly supply a max-width to use in a <picture> declaration
-        
-      {%- endcomment -%}
         {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
+        {%- assign size = '800' -%}
         {% responsive_image_block %}
           path: {{ image_path }}
+          image: {{ item_image }}
+          size: {{ size }}
           cache: true
         {% endresponsive_image_block %}
       </div>
@@ -92,18 +86,13 @@ sitemap:
       {%- assign prop_img = property.first.images.first.url -%}
     {%- endif -%}
     <li class="anec__list__item">
-      {%- comment -%}
-      
-        Responsive image plugin works well… but this could be optimized to ONLY 
-        use an image that is small. With srcset, if the viewport is large the 
-        image loaded is large… but this one is not displayed larger than 200px
-        I'm just unsure how to supply a custom template path through the responsive_image_block
-      
-      {%- endcomment -%}
       <a href="{{ site.baseurl }}property/{{ property.first.slug }}#{{ quote.date | date: '%Y-%m-%d' }}" aria-hidden="true">
-        {%- assign anec_image_path = site.propimg_path | replace_first: '/' | append: property.first.slug | append: '/' | append: prop_img -%}
+        {%- assign anec_image = site.propimg_path | replace_first: '/' | append: property.first.slug | append: '/' | append: prop_img -%}
+        {%- assign size = '480' -%}
         {% responsive_image_block %}
-          path: {{ anec_image_path }}
+          path: {{ anec_image }}
+          image: {{ prop_img }}
+          size: {{ size }}
           cache: true
         {% endresponsive_image_block %}
       </a>
