@@ -1,14 +1,278 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: vanity-fair\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: crescent-park\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: vanity-fair\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: crescent-park\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: vanity-fair
+  person: 'Bruce Remick'
+  date: '2020-07-11'
+  content: 'Actually, George Boyden had nothing to do with Vanity Fair, which lasted only 4 seasons (1907-1910). The fire in 1912 was NOT at Vanity Fair, which had already been dismantled, but at the remnants of nearby Boyden Heights amusement park and resort which itself had closed two years earlier. Lots of misinformation here. (**A.I.R.**: You are right! Further research revealed the name of the designer. New information reflects these changes.)'
+
+- property: crescent-park
+  person: 'Bill Gannon' 
+  date: '2016-09-10' 
+  content: 'Played the Alhambra often (Sugarberry) in the mid to late 60s in a rock band. Opened for BJ Thomas. When his band failed to show, we backed him up onstage.'
+
+- property: crescent-park
+  person: 'Daniel Moses' 
+  date: '2016-03-23' 
+  content: 'I was really young, but I do have memories of the park. I remember the clown’s mouth you had to throw the wooden rings into on the carousel, and I remember a little ride in Kiddieland, which consisted of four boats which actually floated on water. You’d step in, behind one of the steering wheels and the boats just went around in a little circle. Looking at some of the pictures of the train brought back some really distant memories, too. So glad I found this site, and I’m so happy my parents took me to the park! That would have been in 1969 to 71, when I was 2 to 4 years old!'
+
+- property: crescent-park
+  person: 'Brent Williams' 
+  date: '2016-02-12' 
+  content: 'I worked at Crescent Park as a “game stand attendant” 1976-1977. The game I usually worked was “Cat Rack” and “Duck Pond”, which was located directly across the midway from the Loof Carousel. To this day I can still hear the music from that carousel… I think I may have sustained a little drain bamage from it!!! To play Cat Rack you would have to throw a baseball at some very fuzzy (mostly fuzz!) stuffed cats and knock them down. Duck Pond consisted of about 100 identical plastic ducks that floated in a continuous loop past the customer… usually a very young child. They would pick up the duck and see what number was on the bottom, then pick their prize! It was a fun place to work (making $1.42 per hour!), and sometimes we used to have fun little parties in the parking lot when we got off work. I also remember two of the “regular” customers who would arrive most Sundays… both were men, but one would be dressed as a woman with blonde wig and heels!!!'
+
+- property: crescent-park
+  person: 'Phyllis' 
+  date: '2015-10-10' 
+  content: 'In 1965-1966, I worked at the park, at McCusker’s Popcorn Stand, which was right across the beginning of the midway from the carousel. All afternoon and evening, when I was working, I listened to the carousel music. It was impossible not to hear the music. Fifty years later, if I think about it, I can still hear the music in my head. I was at the carousel on Sept. 26 2015, two weeks ago, riding the carousel and having chowder and clam cakes.  I’m glad East Providence saved it from being torn down or sold.
+
+
+Does anyone remember Emancipation Day, August 1, of each year? Someone mentioned rock and roll concerts. I seem to think I saw Dionne Warwick there at the beginning of her career in 1962. On Thursday evenings, there would be dances at the Alhambra Ballroom. You could tell when there was a break in the music at the Ballroom because these couples in ballroom attire would stroll up the midway. They looked out of place among the more casual attire of the other parkgoers.
+
+
+By the time the Alhambra Ballroom burned in 1969, it had been turned into the Sugarberry Lounge. My father knew the chief of police for East Providence. He told us a story about the police chief. He said the police were frequent visitors to the Sugarberry Lounge to break up fights, etc. One night, the police chief was present as several teenage boys were brought out of the Lounge by other police officers. When one teenager emerged, the police chief hit him across the face. One of the other officers said, “What did you do that for?” The chief said, “That’s my son!”'
+
+- property: crescent-park
+  person: 'Matthew Tracy' 
+  date: '2015-02-01' 
+  content: 'I was one of a bunch of people worked on the merry go round when it first reopened. The first summer it didn’t run, people just come in to see and show there children the great old ride. The crowd was so big we had to limit how many people were let in the building at one time. The season the ride started running again the crowds grew even larger. I was collecting tickets or doing rings then. It was normal to see rider counts over 100. I also worked on the restoration of the Ruth and son band organ done by Bob and Sue Newman.'
+
+- property: crescent-park
+  person: 'john padula' 
+  date: '2014-09-28' 
+  content: 'Does anyone have a photo of the kiddie land sign they could share?'
+
+- property: crescent-park
+  person: 'Barbara Costa' 
+  date: '2014-09-10' 
+  content: 'I remember going to the park as a child. My father John Costa worked there he did maintenance on various rides. I remember him doing something with the roller coaster. If anyone has any pictures from 1930-1960, or of him would you share them? I also remember Mrs. White telling my fortune when I was a teenager. '
+
+- property: crescent-park
+  person: 'Greg Graustein' 
+  date: '2014-06-01' 
+  content: 'Grew up in Barrington since 1967, fond memorys of Flying fish, bumper cars midway, pinball games, old stlye coin games, go carts, etc  Biggest memory was my sister was working the ticket booth in kiddie land, While visiting her, the radio in the booth announce the Death of Elvis, However there was great day had going to the park.'
+
+- property: crescent-park
+  person: 'Joanne Duval' 
+  date: '2013-08-19' 
+  content: 'I grew up in Drownesville in West Barrington and I could lie in bed at night and hear the screaming of the women on the Flying Fish, the snapping noise from the shooting range and the mournful toot of the railroad. CP had a great penny arcade with some beautiful, old hand-crank Mutoscopes that worked on the same principle as the “flip book”. As a teenager, we loved the Flying Cages that worked on momentum… the harder you worked, the faster they would circle around!'
+
+- property: crescent-park
+  person: 'Kirke McVay' 
+  date: '2013-07-22' 
+  content: 'Does anyone remember the day the Satellite ride broke and went down the midway and across the road?  It happened while I was in elementary school at Oldham Elementary in the late 50s/ early 60s and I think a friend of mine broke his leg. I don’t recall his name. I grew up on the Terrace in the 50s/early 60s and remember one day @ summer they’d have a special rate, for $5.00 ride all the rides all day. My mother would bring us on that day. On other days the rides were $0.25 each. I recall the bumper cars as a favorite and I recall when the dance hall burned down. I also recall getting free rides for A’s on my report card.'
+
+- property: crescent-park
+  person: 'Russ White' 
+  date: '2013-04-10' 
+  content: 'My grandmother lived just up the street from Crescent Park and we were regular visitors. I can recall the excitement we felt each time we entered the park. The sounds, the smells, we couldn’t get enough. My personal favorite was the Butterfly (perhaps Bumble Bee?) that sat just in front of the Alhambra. This ride had cars suspended from chains that flew through the air high off the ground. It was my favorite because it had a large tail rudder that you could turn to control your altitude. Pull it toward you and the car would dive. Push it away and it would soar back up. It really brought a sense of actual flying to small kid! (**A.I.R.**: This ride can be seen in the foreground of <a href="#photo-16">photo 16</a>.)'
+
+- property: crescent-park
+  person: 'George LaCross' 
+  date: '2013-02-20' 
+  content: 'I recently wrote a feature story on the history of Crescent Park’s dark rides and fun houses for our website laffinthedark.com. Our creative director Bill Luca designed it. Here’s the link: <a href="//laffinthedark.com/articles/CP/cp_1.htm">laffinthedark.com/articles/CP/cp_1.htm</a>'
+
+- property: crescent-park
+  person: 'Maxine S Chamberlain' 
+  date: '2011-11-28' 
+  content: 'I have been cleaning my house getting it ready to sell and during this time, I found a Crescent Park R.I. banner. It is purple with gold lettering and a crescent moon and star also in gold. I am wondering how old this banner is and if it is a collectible item.'
+
+- property: crescent-park
+  person: 'dino' 
+  date: '2011-01-12' 
+  content: 'I was from Bristol, and used to day trip there all summer. between the ballroom and the rides and the girls, what great fun. I remember the old wooden roller coaster, it was scarry the wooden structure would move when you went into the curves. I think maybe five feet. The flying riding on chains in front of the ballroom we use to make it jump on the chains scarry. I was introduced to salt water taffy there, i still havn’t had any better. One thing that has not been mentioned, the shows at the park, in the late 50s early 60s, Rock and Roll was there. Little Stevey Wonder. Little Richard and a few others, that i can’t recall... I took my children there to ride the Merry-G-Round. My wife and i still go ride and we have chowder and clam cakes on the lawn across the way. WoW. Boy it was a different world. Peace.'
+
+- property: crescent-park
+  person: 'bob'
+  date: '2010-08-23'
+  content: 'My wife and I just recently revised Crescent Park with our 2 granddaughters and son. I had a really hard time revisting the grounds as it’s the first time I’ve been back since the park was dismantled. We have such fond memories of the “old park”. Our granddaughters really loved the carousel, you could see the joy and excitement that they had in their eyes as they rode the horses. As I sat on the benches inside watching, I couldn’t help but notice the other children with their parents enjoying this great treasure. Thanks Riverside for upkeeping this precious treasure. Hopefully my granddaughters will take their kids someday to ride the “carousel”.'
+
+- property: crescent-park
+  person: 'John' 
+  date: '2010-06-16' 
+  content: 'I Grew up in the house that was right across the street from cresent park it was the only house there there was all woods we use to sit right on the front porch to watch the firework they had. i remember when the ballroom went up in a fire i remeber when they had report card day bring your report to the front office depend on how many A and B you get that how many tickets you recieve the shore dinner hall was big it sit right by narragansett bay the flying fish was scary when u go up the hill the first turn was sharp it felt like you was going off the ride there so many memory of the park had a walk in scare house and at the end of it the guy use to shoot air up that was funny then they had a haunted house ride that was cool ride'
+
+- property: crescent-park
+  person: 'Rock' 
+  date: '2009-08-02' 
+  content: 'I remember seeing the Three Stooges at Crescent Park in the early 60’s...'
+
+- property: crescent-park
+  person: 'Kerri' 
+  date: '2009-04-21' 
+  content: 'When I was younger I rode on the carousel and ate clam cakes almost every weekend. Finally one day my dad and I walked in back of the carousel, in the early 90s. Nearby housing had already been built, but directly in back of the carousel was wooded and overgrown areas (this was a couple of years before the new housing developments when up in the late 90s). There was hardly anything left, but a few broken remains of rides. I was very young, but I remember fragments of go carts, and car rides. There was even a metal hole in the ground, which my dad explained was a “blow hole.” He said there used to be a fun house right in front of it, and the air coming out of the ground would take visitors by surprise. I wish I had a camera then, and had taken pictures. It wasn’t much, but it was something. The only thing still miraculously standing is the carousel with the original horses.'
+
+- property: crescent-park
+  person: 'Laura' 
+  date: '2009-04-05' 
+  content: 'I wasn’t born &amp; raised in RI. Look up “defunct amusement parks” and you will see a state-by-state location & history of what we all grew up in & around. I love to visit the Loof carousel at CP. I have many carousel horses (miniatures). Your Crescent Park & Rocky Point Park was to me --- Mountain Park (Holyoke, MA) & Riverside Park (Agawam, MA --- now Six Flags New England)... and being from West Springfield, MA, who has not been to the Eastern States Exposition?'
+
+- property: crescent-park
+  person: 'Frank DiPaola' 
+  date: '2009-03-20' 
+  content: 'Oh I have very fond memories of the park. My dad played piano at the ballroom in it’s hey-day. My favorite memories of my grandmother were all at the park in the late 60s-early 70s. I would like something from the park for my home. If anyone knows of someone that might have something, please feel free to let me know!'
+
+- property: crescent-park
+  person: 'Jack Welch' 
+  date: '2008-12-17' 
+  content: 'I worked at the park around 1948-1950. I worked at McCusker’s root beer stand. It was located at the entrance to the park where we could observe the families arriving each weekend for a playful time. The location of the stand was across the street from the carosole. I must have heard “I’m as corny as Kansas” a million times during the course of the day. Besides the big mugs of root beer we also has a counter selling taffy.'
+
+- property: crescent-park
+  person: 'cher338' 
+  date: '2008-11-22' 
+  content: 'Grew up going to the 2 big parks in RI. Namely, Rocky Point and Crescent Park! Crescent Park outdid Rocky Point... better candy apples, carmel corn, cotton candy and rides. Don’t understand how families with children let the beauty of an Ammusment Park go to waste! Dumb and Sad was that generation. Never will know the experience! Not one park in RI now, what a corrupt dumbbell state!'
+
+- property: crescent-park
+  person: 'Marcel Belanger' 
+  date: '2008-09-23' 
+  content: 'I am doing genealogy reserch on my family and I just received a postcard with my grandfather in the picture. On the picture, he is sitting in a boat and the caption says: “Souvenir of Crescent Park Rhode Island”. I would like to know what year this postcard was issued. My grandfather was in Rhode Island in 1920, precisely in Woonsocket where my uncle was born. I also saw some stories about Crescent Park on the net, but I got so excited when I saw the same postcard with someone else in it, that I lost the page!'
+
+- property: crescent-park
+  person: 'Dave L' 
+  date: '2008-09-23' 
+  content: 'I was a Riverside kid during most of the 70s, so Crescent Park was a major part of my childhood, to say the least. I was always too chicken to go inside the Laugh Inn funhouse. That animatronic fat lady and her whooping laugh just creeped me out. But the building always intrigued me. The Showboat, on the other hand, was a different story. One day I worked up the nerve to go inside, and boy, was it weird. It was like a lysergic nightmare. And I’ll never forget that strange chanting sound all the way through the ride – unless I imagined it!'
+
+- property: crescent-park
+  person: 'Patricia Patrick' 
+  date: '2008-09-14' 
+  content: 'I loved Crescent Park as kid. I used to got there with my parents in the late 50s and early 60s. It was great. I loved the Bubble Bounce ride and the tumble bug. Those were the days.'
+
+- property: crescent-park
+  person: 'George' 
+  date: '2008-08-31' 
+  content: 'Yes, I do recall the Laff In The Dark ride. It was my first dark ride, at age three in 1957, and I’ve been in love with them ever since. Laff In The Dark was a 1935 installation by the former Pretzel Amusement Ride Company. The ride was originally called Pretzel and a for a few years renamed Witch Cave. In 1950, the facade received a major face lift by park painter Len Minor and it was renamed Laff In The Dark. New stunts were purchased to supplement the original Pretzel figures. It closed after the 1963 season and the building became part of the park’s new Wild West walk-through fun house, aka “Hotel.” More info can be found here: <a href="//laffinthedark.com/articles/pretzelogic/crescentpretzel.htm">laffinthedark.com/articles/pretzelogic/crescentpretzel.htm</a> and <a href="//laffinthedark.com/articles/pretzelride/pretzelride1.htm">laffinthedark.com/articles/pretzelride/pretzelride1.htm</a>'
+
+- property: crescent-park
+  person: 'Ralph Baker' 
+  date: '2008-08-11' 
+  content: 'Crescent Park is long gone but remains in my memory like it was only yesterday. I’m sorry that I didn’t bring a camera to shoot pics of the place in its heyday. So what identifies a ’heyday’ in Crescent Park terms? I was born in 1950, and my favorite years at the Park were 1956-1966. What wood was used to build the Riverboat/Showboat ride? I recall the Ride standing and operating with the big roller coaster still running behind it. I was IN the ride at the ’Swamp’ turn when the coaster cars went flying by behind the building. Yes, you could hear them!
+
+
+Does anyone remember the Laff In The Dark ride? There were the usual light-up stunts all the way along, but the cars jerked into and out of the turns. The set-up crew knew exactly how to lay out the track so the cars would just miss each other. Now THAT was scary! I saw the track with a pocket flashlight (cheating) and found that the first few turn degrees were removed and put on the end of each turn. No WONDER the cars jerked!
+
+
+By the way, the condos were built on the old parking lot. They don’t extend into the midway. Crescent Park would be alive today if management had promoted ’The Park FIRST‘ like it should have. Long live Crescent Park!'
+
+- property: crescent-park
+  person: 'Richard Page' 
+  date: '2008-08-05' 
+  content: 'I fed the rings into the arm at the carousal in the years 1937-1938. Born in Riverside. Crescent Park was a great part of my life. My wife worked at Alhambra Ball Room in 1954-1955 (or there abouts).'
+
+- property: crescent-park
+  person: 'chet holmes' 
+  date: '2008-07-06' 
+  content: 'spent a lot of time there as a youngster, my parents or my nana would often bring me, either there or to block island on the old ferry out of providence, the seafood hall was a plus, i still order clam cake mix from kenyon over the internet, brings back alot of memories'
+
+- property: crescent-park
+  person: 'Elizabeth (Cummings) McCullom' 
+  date: '2008-07-01' 
+  content: 'I lived on the Terrace and have many memories of Crescent Park. My brother, Tom, was a good friend of Ray Simmons (whose Father owned the park at the time). He worked on many of the games there. From my home, we could hear screams from the riders as the roller coaster came down that first steep hill.'
+
+- property: crescent-park
+  person: 'Arthur Manchester' 
+  date: '2008-06-16' 
+  content: 'Unfortunately, I was born three years after the close of Crescent Park and have only surviving photos and stories of those who were there to portray the majesty of what was one of the grandest amusement centers in the country. The carousel remains as the jewel that reminds us of the times before giant theme parks. Recently, through the efforts of the Serowik family, almost all of the outside horses have been refinished and a museum is being created where people can share in the magical memories of what once was.'
+
+- property: crescent-park
+  person: 'Charles K. Rogers' 
+  date: '2008-04-09' 
+  content: 'I am married to Charlotte (Winn) Rogers. Her father Joseph was the Asst. Mgr. Of the park in the 60’s. Charlotte’s godfather was Fred McCusker. Charlotte worked at the park in the McCusker stand making cotton candy. I began working at the park in 1959 in Kiddy Land and left the park in 65 or 66. These were the best years of my life for a lot of reasons but most importantly Cresent Park is where I met Charlotte. We have been married 42 years and we met in 1960.'
+
+- property: crescent-park
+  person: 'Claudette (Orris) Bergstrom' 
+  date: '2008-04-06' 
+  content: 'I grew up in Rhode Island and remember going to Crescent Park all during my childhood. I remember seeing the Three Stooges on the stage by the dining hall. I remember eating clam chowder and clamcakes and corn. I enjoyed my nights as a teenager hanging out with friends Ginny and the rest of the gang, at Crescent Park. A few years ago I took my family to Riverside and was so happy that I could share the wonderful carousel with my children.  They got to catch the ring and toss it into the clowns mouth. There was even a little food stand just outside of the carousel so my kids got to eat clamcakes, THANKS FOR THE MEMORIES!!'
+
+- property: crescent-park
+  person: 'Steve Leonard'
+  content: 'I have GREAT memories of the park. I used to run the “westwood Ho” and was a brake man for a number of rides. I remember on a slow day, I was giving the operator of the “Flying Fish” a break. I assumed that no one was currently on the ride… I was wrong. I ran over to the 3 levers that stopped the cars just as a little girl came zooming around the corner. I only got to one lever in time and the car only slowed a little. As I watched helplessly, she smashed into the other cars, knocking them all over the place. I ran to her to help, but she just looked up at me and whispered “Can I go again?”'
+
+- property: crescent-park
+  person: 'suellen chandler-mckinney'
+  content: 'In planning a trip back to the old days I came upon your wonderful site and it brought back so very many memories. I grew up in East Providence in the 1940s and Crescent Park was such a big adventure for my family. Planning for weeks only heightened the desire to finally get there, to ride the wonderful Looff carousel and to reach for that brass ring. It was always a family event that took up the whole day and night. I still think that the best clamcakes and chowder ever was served there. My parents and the older folks settled into the Shore Dinner Hall for a day of eating and imbibing of good old Narragansett Beer which was served in quart bottles which somehow never got empty. then it was chowder, steamers, lobster, corn which seemed to go on and on. The children got to explore the Midway with all of it’s games of chance and promises of great treasures to bring home and enjoy forever. We felt so grown up in the Dodge em Cars as we spun around and enjoyed the fun. The Fun House was both fun and scary to all of us and we stuck very close together until we got to the mirrors and laughed and laughed at how strange we looked. Too soon it was getting dark and the music was starting up as we watched young and old alike dance and twirl around the Alahambra ballroom. And then it was time to go home. Oh what grand days they were… Thanks for the memories.'
+
+- property: crescent-park
+  person: 'Marc C Coico'
+  content: 'I first moved to riverside in 1974.I was 7 years old, I knew the park was there, but my parents woulndn’t let me go alone. So i made some friends and went to the park for my very first time. My favorite ride was the flying fish. Still to this day there is no rollercoaster like that. They had string bracelets with different colors each day. We used to make them and go four days a week all summer. All the way up to 1977 when it closed. Those were precious years i’ll never forget. Hail, Hail, Crescent Park!'
+
+- property: crescent-park
+  person: 'Bill “Vuds” Vaudrain'
+  content: 'When I was 13 - 14 years old, my friends and I would take a day trip and ride our bicycles from the Darlington section of Pawtucket to Crescent Park for some good old fun! Traffic wasn’t as big a concern as the distance, but we knew a good thing when we saw it and even then, we knew it wouldn’t be around forever… except in our fond memories.'
+
+- property: crescent-park
+  person: 'Bruce A. Randall'
+  content: 'I worked in the park summers in late 50s thru early 60s. I ran various gambling stands where people put dimes on numbers and I spun a wheel. There was the radio stand, gift stand, cigarette stand, stuffed animal stand. I also ran the hoopla stand where people tried to throw wooden hoops over prizes mounted on block of wood. I ran the ski-ball stand and got pretty good at that game. We had a dime mounted on a piece of wire that we used to give free games. 
+
+
+I remember each summer Emancipation Day when all the blacks would come down from Providence and get rowdy. We white middle class suburbanites were always on edge because occasionally there would be fights and violence. The police in those days had a lot of leeway to handle troublemakers. They had long wooden clubs, blackjacks and a vicious devise called the iron claw.
+
+
+There was this girl we called “Angie the pump” who would provide sexual favors behind the Alhambra Ballroom. Once I remember the ambulance coming to get some guy who had a heart attack doing Angie behind the dance hall. 
+
+
+I really miss the place, the great wooden coaster, long summer days and interesting people. '
+
+- property: crescent-park
+  person: 'Renee (Bestwick) Bates'
+  content: 'I grew up just a few minutes walking distance from Crescent Park and spent many happy hours there especially on the Carousel. Our lives were much simpler back in the late 50’s and early 60’s. The mid-way had so much to offer, clam cakes and chowder, salt water taffy, many fun activities, and the dodge’em and satellite were fun also. We danced at the Alhambra Ballroom, went on boat rides, and ate dinner with family and friends at the Shore Dinner Hall. There were free open-air concerts on Sundays for all to enjoy. Those are cherished memories of experiences that I wish my Children and Grandchildren could have if even for just one day.<br>
+Thanks for the memories!'
+
+- property: crescent-park
+  person: 'Hubert O’Neill'
+  content: 'I grew up in West Barrington, RI and spent many a day at Crescent Park. I rode the carousel, the whip and the roller coaster many times. I also enjoyed their clam cakes and chowder very much. The salt water taffy and French fries were also very delicious.'
+
+- property: crescent-park
+  person: 'Anthony Ottone Jr'
+  content: 'I have fond memories of the park, as a child i went with my parents to visit the park. i remember packing the car and getting everything ready for the visit to the park and the ride there. it seemed like it was so far away, now i realize it was just across town. i grew up in the center of east providence, it makes me laugh thinking that is was just a 10 minute drive. i didnt really get to enjoy the park at its finest moments. my visits to the park were in the mid 70s shortly before its dimise. i remember the carousel, the shooting gallery and the games the most as i was too small to go on most of the rides then… I now own a business and live in riverside, walking distance from the restored crescent park carousel and the beautiful park across from it. My wife and i freqently visit it with our two boys. It is wonderfull that there is still some of it left for children to enjoy and others to watch and remember fond memories. the spirit of the park lives in the carousel you can feel it in the air and hear it in the sounds of the music . The chatter of the memories and the making of new will always live on. I hope someday my boys will be able to bring their children and give them a chance to grab a gold ring.. to all who were involved in the restoration and the saving of the carousel we thank you. to those who keep it up and running and open, you keep the spirit of the park and memories alive.'
+
+- property: crescent-park
+  person: 'Rob Schwartz'
+  content: 'Boy, I remeber Crescent Park quite vividly! While I grew up in Providence, I have in recent years moved to East Providence – just a few miles from the famed Park. I remember alternating trips to Rocky Point & Crescent – a few times per month during the summers of the 1960s and early 1970s. Personally, I favored Crescent Park – there was a magical aura of slowly driving down Bullocks Point Avenue and seeing the luminated “Flying Fish” lit sign grow larger and larger as we approached the park. Fondly remember playing “Dixieland” and “Moulon Rouge” pinball machines in the arcade. Afterwards, taking a turn on the Dodgems across the way. Loved the comical wall mural on the back wall. Next, would take a ride on the “Bubble-Bounce”. And, of course, the favorite attraction was the “Showboat” dark ride. Still remember the animated musicians rocking and rolling, and, the kinda scary pirate who would go round and round on the top floor. Lastly, took some nudging from friends to finally take a liking to the western-themed walk-thru fun house across from the Showboat. Think as a little kid, the animated large laughing lady in the front entrance window scared me!! To this day, we still go back to the park to ride the great Looff carousel. At times, I will walk to the back of the attraction and peer down the stretch of grassy land and imagine what once was a magical midway!!'
+
+- property: crescent-park
+  person: 'Katie McDermott Johnson'
+  content: 'I worked at Crescent Park during the summers of 1970, 1971, and 1972. I spent a great deal of time in the ticket booths and enjoyed the Carousel the best. The faces on the top would come alive as the Carousel would spin. It was magic then and still is today. On a busy day, the midway would bustle. I worked with a woman who had worked at the park for 50 years – May Ford. She had the most marvelous memories of the park. I had friends working all over the park. Very fond memories of those summers! '
+
+- property: crescent-park
+  person: 'H Dozier'
+  content: 'The park firehouse still exists, but is now a private home.'
+
+- property: crescent-park
+  person: 'Jim Margason Sr.'
+  content: 'What happened to the park train Steamer and if it is still there could you put it back on this site so we can all see it? Thank you. Jim.'
+
+- property: crescent-park
+  person: '(Edwin) Earl Clare III'
+  content: 'Sorry I don’t have a lot of information about the park, but thought you might be interested to know that my great great uncle, John Clare, was manager of Crescent Park some time ago.'
+
+- property: crescent-park
+  person: 'Michael W. Beaudoin'
+  content: 'I lived across the water from the park, and fondly recall walking out the front door of the house to watch the fireworks… my wife &amp; kids gripe over the fact that I point this out every time we have to drive somewhere to see fireworks now. My favorite ride was the walk through spook house… even if I can’t recall the name. Everyone’s favorite trick was to freeze like you were part of the display until someone walked by… then leap at them. Wish I’d known then how much we had right at our doorstep.'
+
+- property: crescent-park
+  person: 'Lisa Gendron'
+  content: 'I moved from Providence to Riverside when I was in junior highschool and have taken many walks along the bay from Sabin Point up to Crescent Park. During those walks I have found so many wonderful pieces of ceramics and other small artifacts that may have been from hotels and cottages that had been pulled into the bay during storms. It’s so wonderful how the bay spits out little fragments of history for us to find.'
+
+- property: crescent-park
+  person: 'Laurie Raso-Almeida'
+  content: 'Some of my most favorite times as a child was to visit my Aunt Rosie and Uncle Henry who lived next to Cresent Park. You could see the park from their back yard. I loved to go to the arcade and go on the rides. Even now, 35 years later, I still have a straw hat that my father won for me as a cherished reminder of that park.'
+
+- property: crescent-park
+  person: 'Jude Rouslin'
+  content: 'Just happened upon your site. I practically lived at “The Park”, as we referred to it… My Mother is a McCusker and Freddie McCusker was my uncle. (My Mother’s Father was Thomas H. McCusker) McCusker’s Taffy and Popcorn was the best around and there is a story about the recipe for the Carmelized popcorn. The recipe was bought in Atlantic City and to this day remains as a secret recipe on a yellowed piece of paper. Fredddie McCusker’s son, known back then as Little Freddie, resides in Florida and has possession of that recipe. Much of my family also lives in Florida. Many Park pictures in photo albums, bring back so many great times. I can still smell the odors that came from the midway and hear the music that seemed to never stop. Ahh the good ole days. By the way, the marble slab that the taffy was made on, was stored in my Grandparents garage. My GrandMother had once given it to me back in the early 70’s. By then it was sinking into the sand floor of the garage. I had no way to remove the slab and it is still there. My Brother now owns that home, marble slab and all:-) Too many stories to actually post here.'
+
+- property: crescent-park
+  person: 'Dan Sheppard'
+  content: 'I first went to Crescent Park as a freshman at RISD in 1967. I remember my friend and classmate, Dave Reading, playing in a C&amp;W band on an open air stage there. Today, I live just a couple of miles from the carousel, and visit often. Sadly, when they built the housing development on the site of the roller coaster and mini-highway, the remaining aritifacts were ploughed under.'
 
 - property: vanity-fair
   person: 'Christine Tassone' 

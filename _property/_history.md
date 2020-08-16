@@ -79,11 +79,10 @@ Construction
 
 Historical
 + Blue Ribbon Beef
-++ Crescent Park
++ Crescent Park
 ++ Postcards from the Past
 ++ RI State Archives
 ++ RIPTA (2003)
-++ Vanity Fair Amusement Park (2003)
 
 Redeveloped
 ++ 60 Valley Street / Providence Bleaching, Dyeing and Calendaring
