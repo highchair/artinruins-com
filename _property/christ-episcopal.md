@@ -12,8 +12,11 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son' ]
-lists: [ 'PPS Ten Most Endangered' ]
+lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places' ]
 tags: [ 'Demoliion by Neglect' ]
+
+NRHP-ref-number: '76000043'
+added-to-NRHP: '1976-06-30'
 
 address: '909 Eddy Street, Providence RI'
 latitude: '41.802894'
@@ -26,6 +29,8 @@ excerpt: "Closed in 1981, this William R. Walker and Son-designed church was vac
 thumbnail: eddy-st-church-02.jpg
 
 images:
+  - url: eddy-st-church-NRHP-1976-01.jpg
+    caption: 'Photo by Richard Longstretch for the National Register of Historic Places, 1976'
   - url: eddy-st-church-01.jpg
   - url: eddy-st-church-02.jpg
   - url: eddy-st-church-03.jpg
@@ -51,34 +56,34 @@ images:
   - url: eddy-st-church-23.jpg
   - url: eddy-st-church-24.jpg
   - url: eddy-st-church-lf-2005-05.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
   - url: eddy-st-church-lf-2005-06.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
   - url: eddy-st-church-lf-2005-01.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
   - url: eddy-st-church-lf-2005-02.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
   - url: eddy-st-church-lf-2005-07.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
   - url: eddy-st-church-lf-2005-03.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
   - url: eddy-st-church-lf-2005-04.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
   - url: eddy-st-church-lf-2005-08.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
   - url: eddy-st-church-lf-2005-09.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
   - url: eddy-st-church-lf-2005-10.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
   - url: eddy-st-church-mkh-2006-01.jpg
-    caption: Photo by Mary Kate Harrington
+    caption: 'Photo by Mary Kate Harrington'
   - url: eddy-st-church-mkh-2006-02.jpg
-    caption: Photo by Mary Kate Harrington
+    caption: 'Photo by Mary Kate Harrington'
   - url: eddy-st-church-mkh-2006-03.jpg
-    caption: Photo by Mary Kate Harrington
+    caption: 'Photo by Mary Kate Harrington'
   - url: eddy-st-church-25.jpg
 
-imagescredit: Contributed photos from Lou Fancy and Mary Kate Harrington.
+imagescredit: 'Contributed photos from Richard Longstretch, Lou Fancy, and Mary Kate Harrington.'
 ---
 
 ### Reason for Demolition

@@ -179,7 +179,7 @@ Still in Use
 ++ Coro Building
 ++ Dryden Lane, for. Allen Printworks
 ++ Fairhaven Mills, New Bedford
-++ Littlest Building in Providence (Lil Dunk)
++ Littlest Building in Providence (Lil Dunk)
 ++ Machine Shop for the Phenix Iron Foundry
 ++ Smith Webbing
 ++ Steeple Street
@@ -332,7 +332,7 @@ Urban Decay
 ++ The Arcade (?)
 ++ Beswick Building, Pawtucket (?)
 + Down Under Duckpin
-++ Morris Novelty
++ Morris Novelty
 ++ Rustic Drive-In
 
 

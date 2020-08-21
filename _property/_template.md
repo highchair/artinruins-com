@@ -30,7 +30,7 @@ excerpt: ""
 thumbnail: 
 
 images:
-  - url: hope-st-auto-jh-01.jpg
+#  - url: hope-st-auto-jh-01.jpg
 
 imagescredit: 
 ---
