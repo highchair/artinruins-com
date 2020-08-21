@@ -1,14 +1,39 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: crescent-park\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: morris-novelty\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: crescent-park\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: morris-novelty\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: morris-novelty
+  person: 'George B.' 
+  date: '2018-02-13' 
+  content: 'My dad owned the games at a local amusement park in the 70s and we often stopped by Morris Novelty to buy prizes. There were innumerable cats; one pretty much everywhere you looked. Novelties stocked on shelves up to the high ceilings in no discernible order. But old man Morris always knew exactly where everything was, from spider rings to Chinese finger traps. Rumor was, there was a back room where were certain off-limits movies could be sampled, but I was just a kid and never confirmed this. Across the street was a large meat packing operation and the Blarney Stone bar, where in future years my friend Henry and I sometimes sampled a draft Guinness (rare in RI back then). It adjoined the Triple Diamond social club... to us a mysterious association with some Irish connection. Interestingly, other than negotiating craftily on pricing for a grand gross of live boxed chameleons (for real), the only thing I remember about old man Morris was his anger at the fire department. He hated firefighters with an obsessive passion, and could go on for a long time about how often they water-damaged his goods and axed his doors for no good reason. Ironic that the place eventually succumbed to fire.'
+
+- property: morris-novelty
+  person: 'ElJiffy' 
+  date: '2015-08-07' 
+  content: 'Mineral Spring cemetery is worth a stroll. And across the street there’s a pocket park with a statue of a 19th century fireman.'
+
+- property: morris-novelty
+  person: 'Mike P' 
+  date: '2011-08-19' 
+  content: 'Before this location, Morris Novelty was in the Slater Cotton building around the corner at Church &amp; Pine Streets. Not sure exactly when they moved, but it was probably in the late 1980s/early ‘90s.'
+
+- property: morris-novelty
+  person: 'Scott Allen' 
+  date: '2011-07-27' 
+  content: 'Sadly, Morris Novelty burned down Monday night. Thanks for your fantastic website. Too bad we’re losing some of these great old buildings.'
+
+- property: morris-novelty
+  person: 'mike' 
+  date: '2008-08-06' 
+  content: 'It was a furniture store before morris novelty.'
 
 - property: 66-fountain-st
   person: 'Mickey M' 

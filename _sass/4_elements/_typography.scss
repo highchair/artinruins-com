@@ -302,12 +302,21 @@ sup {
 //  bottom: -0.25em;
 //}
 
-//abbr[title] {
-//  font-size: 75%;
-//  font-weight: $font-weight__bold;
-//  letter-spacing: ($kerning * 2);
-//  text-transform: uppercase;
-//}
+abbr[title],
+dfn[title] {
+  border-bottom: 1px dotted currentColor;
+  cursor: help;
+}
+
+abbr[title] {
+  font-size: 75%;
+  letter-spacing: ($kerning * 2);
+  text-transform: uppercase;
+}
+
+dfn[title] {
+  font-style: normal;
+}
 
 //var {
 //  color: palette(mono, 75);

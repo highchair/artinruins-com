@@ -224,8 +224,38 @@
       hanging-punctuation: none;
     }
     
+    // Footnotes
+    sup[role="doc-noteref"] {
+      font-size: inherit;
+      vertical-align: baseline;
+    }
+    
+    /*a*/.footnote {
+      margin-left: 0.25em;
+      
+      &::before {
+        content: '[';
+      }
+      &::after {
+        content: ']';
+      }
+    }
+    
+    /*div*/.footnotes {
+      border-top: 1px solid $color__borders;
+      margin-top: ($vertical-rhythm * 2);
+      padding-top: $vertical-rhythm;
+      
+      &::before {
+        @extend .o__title--sm;
+        content: 'Footnotes';
+        display: inline-block;
+        padding-bottom: ($vertical-rhythm/2);
+      }
+    }
+    
     // Special treatment for the last paragraph, whatever it might be
-    p:last-of-type::after {
+    > p:last-of-type::after {
       // content: '' / 'The End'; Added recently: support for Alt text
       content: '';
       //background: center center no-repeat url('../img/artinruins-monogram.svg') palette('brand-teal-dark');
