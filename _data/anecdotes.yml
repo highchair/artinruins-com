@@ -10,6 +10,58 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: 66-fountain-st
+  person: 'Mickey M' 
+  date: '2017-03-03' 
+  content: 'I am also a relative of James Lavell (Deery’s). He did live at 36 Park Place in Pawtucket. Info can be found on him and his family in 1910, 1920, 1930 census records, RI Census records, and in Providence City Directories. In Providence Business directories he had 24-28 Fountain St. as well as 32 Fountain St. listed under Saloons or Liquors. I would love to hear from his relatives.'
+
+- property: 66-fountain-st
+  person: 'Bill' 
+  date: '2014-07-28 ' 
+  content: 'Played in the Mouthpiece on Clemence in a trio called "Wood River Junction". Always wondered what happened to the man who ran it, J. William Brown. We were friends in the early 70s but, fell out of touch. <a href="//www.billgannonmusic.com">www.billgannonmusic.com</a>'
+
+- property: 66-fountain-st
+  person: 'Stephanie Cherrington' 
+  date: '2012-08-19' 
+  content: 'I too am a descendent of James Lavell. My mother, Helene Farrell, was his grand daughter. We are visiting Rhode Island and are interested in his history. I understand that his old house is located at 36 Park Place. We visited the house but are unsure if that was indeed his house. Do you have any other history that you can share?'
+
+- property: 66-fountain-st
+  person: 'pete' 
+  date: '2009-11-25' 
+  content: 'i remember in the early 70s  there was a L shaped bldg which wrapped around this. it housed a restaurant called  “HONEYDEW”. i  used to help out there serving when i was 15-16 yrs old. wow the memories. on the 2nd floor on clemence st there was a coffee drop in center called the MOUTHPIECE where people can come in chat and eat and relax etc. it burned in 74 i beleive. also on the corner of mathewson st there was an army surplus store and next door to that was jimmy’s bar. i remember quite a bit about it and the pepople that worked there, many people from projo came in there for food etc. it was a family that ran it. too bad its gone miss it a lot'
+
+- property: 66-fountain-st
+  person: 'brosa'
+  content: 'It seems that the facade of this building is metaphorical. they used the area behind it for a ground-level parking lot, and kept the front of the building to maintain the historical architectural fabric. It’s like the Mason building development – to the uncritical eye, an old building was preserved to maintain the historicity of downtown. In fact, it’s a “facade” of historic preservation that conceals the contemporary drive for downtown development. '
+
+- property: 66-fountain-st
+  person: 'James O’Reill'
+  content: 'James Lavell was my great-grandfather. I have a whiskey jug that reads James Lavell & Son 24-28 Fountain Street. This is interesting because he must’ve produced whiskey at that speakeasy. If anyone is interested in contacting me please do so. Thank you. '
+
+- property: 66-fountain-st
+  person: 'W Gnoza'
+  content: 'A possible answer to the question why this building is here may be seen behind it in <a href="#photo-4">picture 4</a> with the Palmer Block behind. It was common on large projects to build a “Detail” closer to the ground where the folks who put up the money and designed it could see it full size and work out cosmetic schemes. (**A.I.R.**: Likely, possible, but we must admit the details are vastly different other than the chamfered corner.)'
+
+- property: 66-fountain-st
+  person: 'C Feisthamel'
+  content: 'This building was owned by James Lavell during the first part of the 20th century. He operated a business named Beacon Realty, which, during Prohibition, was used as a front for his Pawtucket brewery. Clients would come in and order (and prepay) for kegs of full strength beer (“near” beer was allowed to be made), which was made at the former Hand brewery. Lavell also ran a speakeasy down the street at 24-28 Fountain St, which 
+boasted the “world’s longest bar”, which eventually became the more familiar Doorley’s. The site is now a parking lot. Lavell, who was arrested and convicted of federal tax evasion in 1931, went on to re-name the brewery the Rhode Island Brewing Company and operated it until his death in 1939. I am also told that the basement extends under the sidewalk. I am unsure of what has happened to the little building since the 30s; I would hope that if the adjacent parking lots are developed, that the building is incorporated into the new structures.'
+
+- property: american-screw-co
+  person: 'Michael Wolf'
+  date: '2020-06-01'
+  content: 'Yesterday I bought a wooden crate at a flea market in Central PA in which wood screws were sent from American Screw Company to Wood-Metal Industries, a cabinet maker, in Kreamer, PA. I am trying to make out the black letters beneath “American Screw Company,” where their two-line address is shown, so my wife (an artist) can restore the lettering of the street name, town & state (Willimantic, Conn?) using black paint & a fine-tipped artist brush.'
+
+- property: ri-auditorium
+  person: 'Marc'
+  date: '2020-05-29'
+  content: 'I saw some of my earliest concerts in the very early 70s there. I also remember attending Rhode Island men’s games, my neighbors were Canadian French and sometimes posted some of the players during the season. One name that stands out was Marcel Paia(sp) The Reds goalie… During the game there was one guy that we could always hear him say “Marcel, here they come” when the opposing team would cross the center ice line towards the Reds goal. One of the most memorable Hockey games I attended was my Alma Mater La Salle versus Mount Saint Charles in the ‘72 playoffs; Someone from Mount pushed our athletic director brother Anthony and the place exploded into a fights… It took the providence police quite some time to quell the disturbance. After the place close to close friends from high school spent the summer jackhammering the cement tiers out of the center of the building. In the mid-70s it became a roller rink and hosted some concerts… I saw seeing the Motels there'
+
+- property: smith-swim-center
+  person: 'Jeff Bedard'
+  date: '2020-05-13'
+  content: 'I remember taking swimming lessons here as a child during the summer. It was an impressive pool, and it most likely was the best in the state. I believe it had a 45 foot deep end. I got over my fear of deep water and went diving for the first time here.'
+
 - property: vanity-fair
   person: 'Bruce Remick'
   date: '2020-07-11'
