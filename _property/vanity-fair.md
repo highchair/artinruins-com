@@ -5,7 +5,7 @@ aka:
 date-modified: 2020-08-15 12:00
 
 built: '1907'
-demolition: '1912'
+demolition: '1910'
 redeveloped: 
 decade: '1900-1909'
 date-added: '2003'
@@ -42,6 +42,8 @@ images:
     caption: 'A postcard view of the same ride, Shoot the Chutes. Colored photographic postcard.'
   - url: vanity-fair-down-chute.jpg
     caption: 'Looking down the chute rail tracks from the top. Colored photographic postcard.'
+  - url: vanity-fair-ballroom-1907.jpg
+    caption: 'A postcard photograph of the Ball room in the center, with “…Flames” visible on the bottom left and “One Cent Vaudeville”, 1907'
   - url: vanity-fair-dance-hall.jpg
     caption: 'Interior of the Dance Hall. Colored photographic postcard.'
   - url: vanity-fair-south-walk.jpg
@@ -52,11 +54,14 @@ images:
 imagescredit: 'Postcards from various auction sites and Google Image Search.'
 ---
 
+
 ### Reason for Demolition
 
-In direct competition with the nearby [Crescent Park]({% link _property/crescent-park.md %}), construction begins on a new amusement park to be called **Vanity Fair**. Developers must have seen how successful Crescent Park was an speculated they could one-up it. Architects and designers Copeland and Dole are hired to design the park. A bit further north in Boston’s Revere Beach, this duo was designing another park with many similarities for the Point of Pines Attraction Company. That park never opened. 
+In direct competition with the nearby [Crescent Park]({% link _property/crescent-park.md %}), construction begins on a new amusement park to be called **Vanity Fair**. Developers must have seen how successful Crescent Park was and speculated they could one-up it. Architects and designers Copeland and Dole are hired to design the park. A bit further north in Boston’s Revere Beach, this duo was designing another park with many similarities for the Point of Pines Attraction Company. That park never opened. 
 
-Vanity Fair was America’s first theme park designed from scratch and it attracted 40,000 visitors on its first day. Three months later, the stock market crashed in the Great Panic of 1907. In 1910, only 3 years after opening, attendance flounders and the park is haunted by bankruptcy. Perhaps it was too much in competition with its older but more loved sister park. A fire in 1912 almost destroys everything and the park closes for good.
+Vanity Fair was America’s first theme park designed from scratch and it attracted 40,000 visitors on its first day. Three months later, the stock market crashed in the Great Panic of 1907. In 1910, on the fourth season after opening, attendance flounders and the park is haunted by bankruptcy. A small fire in May 1910 didn’t affect operations but the park did close at the end of that season[^1]. During 1911 and 1912, the park was dismantled and many reusable features were purchased and shipped to Rocky Point and to a wide range of other places. 
+
+[^1]: Many sources mention a fire in 1912 as one that happened at Vanity Fair. In fact, it was at the Boyden Heights park, just down the coast a bit, which had closed two years earlier in 1910.
 
 
 ### Current Events
@@ -66,15 +71,19 @@ The site was purchased by Standard Oil as a refinery in 1915. Oil storage tanks 
 
 ### History
 
-Across what is now a dirt track, along the shore of the Providence River, used to be another world. Enormous wooden buildings rose like castles over the trees, with spires sparkling in the sun and triangular flags snapping in the breeze. Welcome to Vanity Fair.
+Across from a Dunkin’ on Veterans Memorial Parkway, along the shore of the Providence River, used to be another world. Enormous wooden buildings rose like castles over the trees, with spires sparkling in the sun and triangular flags snapping in the breeze. Welcome to Vanity Fair.
 
-Never heard of Vanity Fair Amusement Park? We’re not surprised. While only in operation for 5 years, it was one of the most grand amusement parks of its time. Providence at the turn of the century was home to manufacturing giants such as Gorham Silver, Brown & Sharpe, Corliss Steam Engine, and Nicholson File Co., and was considered the richest city in America. Amusement parks could flourish with a strong working middle class. 
+Never heard of Vanity Fair Amusement Park? We’re not surprised. While only in operation for 4 seasons, 1907–1910, and it was one of the most grand amusement parks of its time. Providence at the turn of the century was home to manufacturing giants such as Gorham Silver, Brown & Sharpe, Corliss Steam Engine, and Nicholson File Co., and was considered the richest city in America. Amusement parks could flourish with a strong working middle class. 
 
 Unlike many early Rhode Island and Massachusetts parks which were developed as picnic areas at the end of trolley lines, Vanity Fair was developed on a centralized plan inspired by the 1902 Pan-American Exposition in Buffalo, N. Y. Its central attraction was the “Shoot the Chutes” boat ride which ended in a large 1,600,000 gallon pool. The entire park encompassed about 40 acres. Other attractions included shops, a “one-cent vaudeville” theatre, a grand ballroom, The Human Laundry, Rocky Road to Dublin, Dippy Daffy House, and a scenic railway called “Over the Rockies.” 
 
 One of the most popular shows was called “Fighting the Flames” in which a mock fire was started at various times to be put out by the Vanity Fair “fire company.” Visitors got to jump from the upper floors of the constructed buildings into nets and get “saved.” Trained acrobats performed stunts as well. 
 
 Copeland and Dole were designers for the park and its attractions. Point of Pines in Revere Beach could be Vanity Fair’s sister — same designers and many of the same attractions within the same years. Point of Pines had a boardwalk, an immense lagoon, a pony track, a scenic railway over 1000 feet in length, an ocean salt-water bathing pool, a mammoth lighthouse, dancing pavilion, a large open air theater, a carousel, and a show called “Fighting the Flames”. The Revere park never opened.
+
+#### Fact checker
+
+**Fact checking provided by historian Bruce Remick**. For years he has been researching the resorts and hotels in Riverside and has compiled a book, _”Rhode Island: Riverside’s Historic Shore Resorts and Hotels”_. Sources have been daily newspapers from the late 1840’s through around 1920. Mr. Remick can be contacted for questions or to request a copy of his research at remick [at] cox.net. 
 
 #### Sources:
 
@@ -104,7 +113,10 @@ The babes would soon get used to the shrieks that surrounded them, non-stop, day
 
 It was opening day, May 25, 1907, at America’s original Magic Kingdom. All over New England, people dreamed of coming to the magnificent new amusement park called Vanity Fair in Riverside, Rhode Island.
 
-Located on 40 acres of what is now the Silver Spring Golf Course, America’s first theme park designed from scratch attracted 40,000 visitors on its first day — yet closed forever just five years later.
+Located on 40 acres of what is now the Silver Spring Golf Course[^2], America’s first theme park designed from scratch attracted 40,000 visitors on its first day — yet closed forever just five years later[^3].
+
+[^2]: Correction: The golf course was there almost ten years before the Vanity Fair land was acquired and continued to be there while the park operated. Vanity Fair was built on land adjacent to the golf course. When Standard Oil bought the Vanity Fair property from Halsey Farms, it kept and expanded the course footprint to the south over the newly acquired land to about how it looks today.
+[^3]: Correction/clarification: The park operated for four seasons over the course of three years — 1907, 1908, 1909, 1910. It closed in 1910 and any remaining attractions were sold and removed over the course of the next two years. 
 
 Billed as “the park triumphant,” it didn’t disappoint.
 

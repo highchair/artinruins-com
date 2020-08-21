@@ -18,6 +18,10 @@ caption: Photo by Robert Brewster, HABS/HAER
 Aerials from the Providence Historical Aerial Viewer
 caption: 'Providence Historical Aerial Viewer 1972'
 
+## Footnotes
+[^1]
+[^1]: Content of footnote
+
 
 ## Tools
 * Providence historical aerials: https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html
