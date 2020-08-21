@@ -1,5 +1,5 @@
 ---
-title: "132 Fountain Street, Downtown Providence"
+title: "Fountain Street, #132, Downtown Providence"
 slug: 132-fountain-st
 aka: "The Downtown McDonald’s"
 date-modified: 2020-05-02 14:55

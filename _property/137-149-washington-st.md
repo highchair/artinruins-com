@@ -1,5 +1,5 @@
 ---
-title: "137–149 Washington Street, Downtown Providence"
+title: "Washington Street, #137–149, Downtown Providence"
 slug: 137-149-washington-st
 aka:
 date-modified: 2020-05-02 14:56
