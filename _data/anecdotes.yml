@@ -1,14 +1,301 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: morris-novelty\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: chinese-restaurants\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: morris-novelty\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: chinese-restaurants\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: chinese-restaurants
+  person: 'Catherine'
+  date: '2020-05-25'
+  content: 'My mother and I would go downtown (PVD) on Sat.and head right to Luke’s .She always had chicken or beef chow mein, fried rice and egg foo yung .I stuck with the chicken in batter covered with brown gravy. with mashed potatoes. Bread and butter came with the meal.
+
+
+My mother, Italian through and through, loved her Chinese food. She once told me that when she was pregnant with me,she would go downtown and in the course of a day eat at 3 different Chinese restaurants. Luke’s must have been her favorite though because she never took me anywhere else.
+
+I remember the Luau Hut but always thought it was for “adults”. After a day of shopping on a Sat. we would stop at Fanny Farmer’s (still the best chocolate I’ve ever had) and get a box of “Bordeaus” to bring home. Usually, we would also grab a bag of hard candies from Kresege’s. Shopping on a Sat. downtown was _de rigeur_. Everyone did it. The stores were great and full of great items. The clothing choices were extensive and, as my mo. used to say:  “You won’t see yourself coming and going.”'
+
+- property: chinese-restaurants
+  person: 'Ken Kowalski' 
+  date: '2019-01-13' 
+  content: 'From late 1950’s remember 3 Chinese restaurants, but Google has not been helpful with substantiating info:
+
+
+Toy Sun’s, Thayer St. Next to Avon. Sort of nice and more expensive than the other 2. Went there a lot with future wife.
+
+
+Brown Jug, Thayer St across from Quads. Lots of "Brownies" on stools at the counter. Big "American" menu.
+
+
+Brown Bear, Brook St. up the road a bit from Loui’s [Once a fellow grad student took me for some “real” Chinese food, which he ordered, in Chinese, by going back to the kitchen and talking to the cooks. One of the best ever.'
+
+- property: chinese-restaurants
+  person: 'Don' 
+  date: '2018-12-30' 
+  content: 'I worked as a bus and dishwasher from 1977-80. Charlie Tow used to bring me upstairs at the ming garden and tell me stories. Bobby Tow was my boss and Bobby Tow Jr. did some favors for me. Real nice people in the restaurant. They worked really hard.  What ever happened to the bartender named Bobby. I worked with Charlotte Quigley and a girl named Barbara. Had a lot of fun. I miss those wings real bad. '
+
+- property: chinese-restaurants
+  person: 'kathleen bagley' 
+  date: '2018-12-01' 
+  content: 'I remember going downtown and just ordering sticky wings at Ming Garden. They made the very best wings and Charlie would always come and say hello. I was in High school, and my girlfriends and I always went there after school. The good old days.'
+
+- property: chinese-restaurants
+  person: 'Karan' 
+  date: '2018-07-18' 
+  content: 'Great House. Have a Polaroid of 1977 graduation dinner; see online that it was a Tow family restaurant that opened in 1972. Don’t have the address. <a href="//www.riheritagehalloffame.com/inductees_detail.cfm?iid=668" target="_blank">Bio of Yat K. Tow, 1912–1990</a>.'
+
+- property: chinese-restaurants
+  person: 'Lori Ann DiSandro' 
+  date: '2018-07-05' 
+  content: '.........and if anyone remembers this........that there was a plaque on the entrance front door to Mee Hong’s which read "through these portals pass the nicest people we know". Can someone please post pictures of these great gone by restaurants?'
+
+- property: chinese-restaurants
+  person: 'Vicki' 
+  date: '2018-02-11' 
+  content: 'Mee Hongs was my favorite. I worked for an attorney in the Hospital Trust Building -— had friends who worked for Amica Insurance and we all used to have lunch frequently there. The meal always included little dishes with pickled beets, coleslaw and fries. My second favorite was Chen’s on Washington St. — near the old City Hall Hardware. Chen’s was upstairs and one of the Chinese actors used to eat there when he was in town. Think he was the one who spoke of Son #1 and Son 2? Also — at Mee Hongs we used to see an older lady who my friend’s mom said to have Roger Williams buried in her back yard! Thank you so much for these posts — I’m 87 and these memories go back to when I was around 17 or 18!'
+
+- property: chinese-restaurants
+  person: 'Richard Millman' 
+  date: '2017-12-25' 
+  content: 'To this day, I remember going to Luke’s Luau Hut as a child with my family. Best Chinese food ever. To this day (although no longer in Rhode Island) nothing is as good as the food there. Dad and Mr. Luke (as I would call him)  would talk for a little bit and then the food would come. While I don’t remember everything we got, I remember the beef fried rice and the pupu platters. a kid cooking with a stick on an open flame, what could be better? There was always a fight over who would get the last of it. It was moist and I’m sure the beef had been marinated. Now most places fried rice is dry. I remember the décor, and the fact that it felt like a restaurant, not a take out place. Don’t see many Chinese restaurants like that anymore and I haven’t seen one in decades. I’d love to know if any relatives are still cooking with the old recipes, I would make the trip to RI. '
+
+- property: chinese-restaurants
+  person: 'louise suzzi' 
+  date: '2017-07-28' 
+  content: 'I remember Mee Hong’s!(My family pronounced it Mee Yung). I’ve thought about this restaurant many times through the years! We used to drive there in the early 60’s from Woonsocket. My parents and Grandparents ordered chow mein or chop suey. Yuck! My sister and I had an open turkey sandwich on white bread points with brown gravy chosen from the children’s menu.  An earlier post commented on the large pickled beets. I remember them! My dad loved them! I enjoyed the delicious fries. I must have gotten “cole slaw, peas or beets” also mentioned earlier, but do not remember which. Mee Hong’s was dark and quiet at 1:00 on a Sunday afternoon. We were often the only customers at that time. Outside, the front facade had a large circle with pinky/red (that’s what I remember) neon light illuminating brightly. The sign must have been there too. It’s a great visual memory! I wish there was still a great Chinese restaurant around that felt just like that. Nostalgia. Days gone by with the best memories. '
+
+- property: chinese-restaurants
+  person: 'Kevin' 
+  date: '2017-05-18' 
+  content: 'I just saw a beautiful menu for Ming’s Garden at POP Providence, if a researcher needs one.'
+
+- property: chinese-restaurants
+  person: 'DEBORAH COOK' 
+  date: '2017-03-27' 
+  content: 'I remember in the 50s and 60s my mother would take us to Hon Hong on Washington Street. I think they closed in the 70s. My mother would order chop suey, chow mein and fried rice. They would bring the dishes and my mother would serve my sister, brother and me from those dishes they brought to the table. The food was so good to me. I was in my late teens the last time I went to Hon Hongs and then they closed. I would go to Chen’s which was on the 2nd floor of a building on Washington Street. Their food was really good and then I discovered Kubla Khan on Weybosset Street. I think I ate at all of the Chinese Restaurants in in Providence, Downcity except Mee Hong’s and Ming Garden. Now Chinese food is nowhere near as good as it was back in the 50s 50s and 70s. What happened?'
+
+- property: chinese-restaurants
+  person: 'Lou Cohen' 
+  date: '2017-02-17' 
+  content: 'My friends and I lived in Windsor Gardens in Norwood, MA in the 70’s and we stumbled across Charlie Tow and Ming Gardens. I have been looking for over 40 years for someone who could replicate the Ming Garden chicken Wings. We would drive down to Providence and have a couple of orders apiece and then take 3 or 4 orders home to Norwood! I would REALLY LOVE to taste those wings again!!! I doesn’t seem that anyone really knows how to make them anymore — Just once more I’d like to taste those sticky, shiny, black wings with the slivered garlic. It is a taste of my youth that will never come along, again!'
+
+- property: chinese-restaurants
+  person: 'Rebecca J Varley' 
+  date: '2016-10-05' 
+  content: 'Henry Luke was my uncle. I see no other family members have posted, and I am the youngest of the first cousins. I love reading these posts about the restaurant and your experiences there! My parents met there as my dad was a regular, and my mom of course worked there growing up. My mom still cooks lobster Cantonese, and it’s still delicious. I have no vivid memories of the downtown Luke’s and I had more experiences in the other restaurant location later on. But we still visit the downtown site when we got to RI for family reunions. Thank you for sharing and collecting these stories.'
+
+- property: chinese-restaurants
+  person: 'Jacqueline Munson' 
+  date: '2016-05-28' 
+  content: 'I care for a Chinese gentlemen whos father owned the Brown Bear Chinese Restaurant on East Side and his grandfather owned 3 Chinese restaurants on Westminster St in the 30’s. One was Far East and one was Asia Restaurant. Don’t know the 3rd one. Does anyone remember these restaurants? The reference Patricia made about climbing the stairs I believe was the Brown Bear on east side of prov. This gentlemen has wonderful memories from when he came to USA from China when he was a teenager. :)'
+
+- property: chinese-restaurants
+  person: 'Patricia' 
+  date: '2016-01-28' 
+  content: 'My mom used to take me to a Chinese restaurant in Providence when I was a little girl and I can remember climbing up a bunch of stairs to get to it.  She would order me a hamburger plate gravy with mashed potatoes and corn and it was delicious. What was the name of it???'
+
+- property: chinese-restaurants
+  person: 'Steve K' 
+  date: '2016-01-16' 
+  content: 'I believe there was a Chinatown in Providence at once time. Mee Hong was the restaurant we always went to when I was young. French bread. Veal Cutlet in brown gravy. I think all their meals came with french fries and cole slaw? '
+
+- property: chinese-restaurants
+  person: 'Labann' 
+  date: '2016-01-05' 
+  content: '<a href="//ridingrhody.blogspot.com/2015/11/eat-dust.html?m=1" target="_blank">My long list of defunct restaurants</a> includes ones mentioned plus several other area Chinese establishment: 
+
+
+Cathay Garden, Elmwood Ave; Cathay Pearl, Seekonk; Chen’s; Chinese Iron Wok, Benevolent St; Eastern Pearl, Oaklawn Ave; Empress Chinese, Park Ave; Hon Hong’s; Moi Lee. Narragansett; Panda Island, Cowesett Plaza; People Wei, Chapel View; Silver Palace, Reservoir Ave'
+
+- property: chinese-restaurants
+  person: 'Ken Faig' 
+  date: '2015-12-29' 
+  content: 'I remember some of these Chinese restaurants from when I was a student at Brown in 1970-72. I wonder what the Chinese restaurant scene in Providence was like in earlier eras. H. P. Lovecraft and his aunt Lillie Clark had Christmas dinner at a downtown Chinese restaurant in 1929. I wonder which one it might have been. I presume there were Chinese restaurants in Providence even before 1900. I wonder if there was ever a Chinatown (predominant Chinese residence/business area) in Providence.'
+
+- property: chinese-restaurants
+  person: 'Beryl Russell' 
+  date: '2015-12-01' 
+  content: 'I worked at the Ming Garden in the early 80s when I was a student at J&amp;W. Charlie Tow was still alive – I believe he was 94 at the time. He was so funny. One day we were all sitting together shelling pea pods in our uniforms, which were black pants, white shirts and colored vests and he walked by, stopped and asked us if we all wanted a job. I loved the rolls – they had a sweet pork mixture in the middle. Never saw another Chinese Restaurant serve rolls.'
+
+- property: chinese-restaurants
+  person: 'Norm' 
+  date: '2015-06-16' 
+  content: 'Chens (upstairs, across from Shepards) was a wonderful place. Remember distinctly those ‘before school starts’ shopping trips and taking the bus from the stop below the clock after a wonderful meal over at Chens. The Tow family has been Rhode Islands’ own Chinese dynasty for years. Those famous wings can be had at Kings Garden on Rolfe Street in Cranston. This wonderful restaurant was just recently sold by the Tows who retired, but the new owners were wise enough not to tamper with the superb recipes of ‘old fashioned’ style chow mein and combo platters fit for a king!!'
+
+- property: chinese-restaurants
+  person: 'Tullio David Pitassi, Ph.D.' 
+  date: '2015-03-01' 
+  content: 'I had the pleasure of meeting officer Luke of the Providence Police Department. He told me that his branch of the LUKE family was related to Keye Luke, the actor from the golden age of Hollywood, and, Charlie Chan’s No.1 son.  He assured me the story is true!'
+
+- property: chinese-restaurants
+  person: 'Jeff Darman' 
+  date: '2014-12-24' 
+  content: 'Chinese restaurants in RI served French bread and butter for some reason. Just expected, but once I left RI realized not done elsewhere.'
+
+- property: chinese-restaurants
+  person: 'Bill Ewen' 
+  date: '2014-12-19' 
+  content: 'When I worked at the advertising agency of Horton, Church &amp; Goff, the Ming Garden was the favorite place to go when we would go out for lunch in a group. Ming Wings! Nothing better. I seem to remember the owner’s name being Yat Tow.'
+
+- property: chinese-restaurants
+  person: 'Rosemarie' 
+  date: '2014-09-24' 
+  content: 'On Thursday nights after work I met my mother and sisters downtown and we ate at Chen’s. I always ordered Ipswich fried clams with cole slaw. We also ate at Luke’s from time to time. The chow mein and other Chinese dishes that I ate as a child in Providence had a unique flavor. I don’t know what style they were but I NEVER found anything equal to them in my travels. '
+
+- property: chinese-restaurants
+  person: 'James Pilkington' 
+  date: '2014-08-17' 
+  content: 'I remember the Ming Garden in the late fifties. It was more upscale that the other Chinese Restaurants. It had a great bar and i remember the bartenders name was Leo. An excellent bartender who could make some great whiskey sours. i came from Washington Park section and there was a chinese laundry there. I believe that the owner was either Raymond Tow or Raymond Tong. It was right next door to Benson"s Hardware and I went by it everyday on my way to school.'
+
+- property: chinese-restaurants
+  person: 'Tyler Smith' 
+  date: '2014-07-14' 
+  content: 'Mee Hong! The large neon art deco sign was unforgettable. I remember the over sized pickled beets that you would get whether you ordered them or not as a side with your chow mein. The french fries were incredible. They were large, very large. The length of an entire potato. I can’t describe how they were cooked — maybe boiled first and then fried, but not left in the fryer too ling. Great soft texture — mmmm.'
+
+- property: chinese-restaurants
+  person: 'Debbie Storti Sohegan' 
+  date: '2014-02-17' 
+  content: 'When I was about eight years old, my grandmother would take my sister and I downtown to go shopping. We would get all dressed up and take the bus on a Saturday. We would shop in the Outlet store with the large wooden tables and go to the Woolworth’s luncheonette counter and get sundaes with sugar cone hats made to look like clown faces.  However; the best part of the big trip downtown was when she took us to Luke’s! How I miss Luke’s. I remember the low lighting and the red vinyl booths. I remember feeling like a princess when the waiter would take the silver cover off the pedestal serving dish! I would always order the same thing… veal cutlet with brown gravy. My grandmother and sister always ordered the combination plate… chow mein, fried rice and egg roll. Oh how I miss that veal cutlet and brown gravy! I have tried for years to find something that even came close to that gravy. Please, if anyone has that recipe, please, please, please share! Special memories were made at Luke’s with Lori, me and Gram.'
+
+- property: chinese-restaurants
+  person: 'Mimi Medeiros' 
+  date: '2014-03-20' 
+  content: 'Ming Garden-where my mother and her sisters sang as children and where “Charlie” as the owner Americanized his name back then, always ran to the front when we came in because he loved my Abuelita!'
+
+- property: chinese-restaurants
+  person: 'Marya' 
+  date: '2013-09-27' 
+  content: 'I grew up on the East Side in the 60s and 70s. Sundays were the night my mom didn’t cook and every other Sunday we got take out from Luke’s. My dad was from New York and my mom from Los Angeles where good Chinese restaurants were plentiful. They considered Luke’s to be the best, most authentic (New York and California style) Chinese place outside of Boston. Some of my earliest memories are of Luke’s (big fish tank, I think?) and their eggrolls and lobster Cantonese in lobster sauce. They always gave my brother and me the little paper parasols to take home and play with.'
+
+- property: chinese-restaurants
+  person: 'Dennis Ratcliffe' 
+  date: '2013-09-26' 
+  content: 'My family went to Mee Hongs every Sunday growing up. We were waited on by a man named Chen, he was a friend of my Uncle.  When I was young I did not like most food but he always brought me Veal cutlet, brown gravy, white rice and French fries. Almond cookie for dessert.  As I got older it was shrimp, chicken, chow mein, fried rice and tea.'
+
+- property: chinese-restaurants
+  person: 'Alice' 
+  date: '2013-04-23' 
+  content: 'I am reading Jennifer 8. Lee’s "Fortune Cookie Chronicles" and I started getting nostalgic about Chinese restaurants in RI our family used to frequent. I have fond, albeit slightly vague, memories of my dad taking me to the "big city," to eat at Ming Garden and visit Bob Tow, with whom he was friends. Even as a kid, I recognized and appreciated the elegant decor and upscale food. I wish I could find some photos of the interior, but there is nothing on the internet. My dad would get a kick out of seeing them, as would I!'
+
+- property: chinese-restaurants
+  person: 'Richard Palazzo' 
+  date: '2013-02-18' 
+  content: 'I ate in every one of these places. I loved them all. When I was a young boy, my mother took me shopping with her and promised if I behaved she would take me to Mee Hong for chow mien. To this day it was my favorite and I have searched for years (I’m 70) to find a place that makes the same recipe with no luck.'
+
+- property: chinese-restaurants
+  person: 'Dr. James R. Pannozzi' 
+  date: '2013-02-14' 
+  content: 'I recall a Chinese restaurant, now a small parking lot, just before the Buck a Book store (or where it was, have not been to  Providence in over a decade) next to the Arcade bldg. The restaurant was there forever and we often ate there. The food was excellent but the really endearing feature was that they had the most beautiful relaxing subdued blue cerulean lights in the ceiling. They were recessed and behind a circular projection so you did not see any florescent bulbs, only the reflection of the blue light from the ceiling. It gave the most relaxing atmosphere. I do recall there were Chinese scenes on the walls too. What the name of it was eludes me, I’m going back something like half a century. (**A.I.R.**: Sounds to us like you are describing Mee Hong)'
+
+- property: chinese-restaurants
+  person: 'Jim' 
+  date: '2012-11-07' 
+  content: 'I at at Luke’s many times in the early 1980s when I was in my 20s. The food was good, not expensive, and the decor was very fun. The lights were low and I remember the booths were red vinyl. They served bread and butter with the Chinese food, which I have never seen anywhere else. The chicken wings had a very good black sauce. I loved the neon, it lit up that little street. I think they had a special drink menu with a Scorpion Bowl that you could share with friends, but it was expensive.  Lots of gay people went there and we always felt comfortable and welcome. The Ming Garden was more upscale than Luke’s. It was more expensive but the linens and furniture were more modern and elegant. It was special to eat upstairs. I can remember going there with my friends and they all ordered their food "no MSG". Providence was a great place in the early 1980s and I have many fond memories of those times.'
+
+- property: chinese-restaurants
+  person: 'Myrna “Mimi” Medeiros' 
+  date: '2012-09-19' 
+  content: 'We used to go to the Ming Garden all the time as children in the 70’s. The owner who I only knew as “Charlie” had a special place in his heart for my grandmother Lorenza Siton. She allowed her daughters (my mother and aunts-Ruth aka Gloria, Lydia, Sonia, Myrna and Margie) to sing there as children to help bring in customers. Anytime we came in Charlie would rush over as fast as his age would allow and give us all hugs and treated us as family. I was extremely upset when I heard he passed away and they closed the Ming Garden. Everytime I go to another city, another State, there is a Ming Garden, but it is never the same.'
+
+- property: chinese-restaurants
+  person: 'The Rev. Fr. David B. Rude' 
+  date: '2012-04-29' 
+  content: 'Luke’s Luau Hut is my all-time favorite restaurant. Haven’t found anything to compare in all my travels. I especially loved the filet mignon in oyster sauce. But I remember the hut being in the basement and the chinese fare on the first floor.'
+
+- property: chinese-restaurants
+  person: 'Chad Snell' 
+  date: '2011-12-16' 
+  content: 'Who was the original owner of Ming Garden? Does these names ring a bell for any of the above restaurants? Sing Yuan or Ding Wong Yuan. They were brothers. I always heard Sing owned a Chinese Restaurant in the 40s in Washington, DC. Please let me know. Thank you!'
+
+- property: chinese-restaurants
+  person: 'Wolffie' 
+  date: '2010-06-03' 
+  content: 'We lived in Richmond Va. but my father was a Jewelry Rep for companies in Cranston. He used to load the car with Ming wings and drive them back 10 hours for all of us. It took weeks for the smell to leave the car and we were always dissapointed when it did. I have never been able to duplicate that recipe and would love someone to share if they have it.'
+
+- property: chinese-restaurants
+  person: 'Meimei Tsang' 
+  date: '2010-01-05' 
+  content: 'My dad and uncle worked at the Ming Garden before they purchased Luke’s Restaurant back in ’78 with another partner. It’s was kind of strange because we were living in Oakland, CA at the time. We got shuttled back. And all I could remember was the talk of blizzard of ’78 and that I was clueless about. We all worked at the restaurant including my cousins except my little brother and mom. Funny, two of my cousins met their respective spouses at Luke’s. Luke’s Restaurant was actually located on the first floor and the Laua Hut was down below. Carrying those trays down a flight of stairs that got somewhat greasy was not fun. I’m sure my dad has some interesting stories. I remember him making real duck sauce before the introduction of the bland plastic duck packets.'
+
+- property: chinese-restaurants
+  person: 'liz' 
+  date: '2009-08-02' 
+  content: 'My mom and I used to go to MeeHong’s for lunch when we went “downtown” in later years when I was a teenager my girlfriends and I would take the bus downtown and always have lunch there. The chop suey/chow mein mix that came in a silver covered dish was better than any I’ve ever had before or since. I have not found one restaurant that makes it even close to the delicious way Mee Hong’s did. Wish I could find some now, I’ve been looking for years. I miss Mee Hong’s, what a nice memory.'
+
+- property: chinese-restaurants
+  person: 'bev schneider' 
+  date: '2009-06-25' 
+  content: 'Sometimes my parents, but usually just my mother, took me to Mee Hong Restaurant in Providence – from my early childhood until I left RI at the age of 19 to move to DC. My father approved of Mee Hong as opposed to some of the other Chinese restaurants in RI (ie, Hon Hongs, Luke’s, etc.) because he was of the belief that Mee Hong did not use pork in its Chop Suey or Chow Mein (basically the only two items most of us were allowed to order). So, my entire family would go there on special occasions for Sunday dinners, always accompanied by bread, butter, and “Cole Slaw, Peas or Beets?” (this was the oft-repeated refrain of every waiter in the place). And my mother and I frequented the restaurant for Saturday luncheons before shopping downtown. I became totally turned off to Chop Suey AND Chow Mein (who knew the difference) after an episode of having been given a Chop Suey (or Chow Mein) sandwich. I have never been able to eat soggy bread – and that was the soggiest bread I had ever eaten. The rest of my family, however, loved the soggy sandwiches. Two bites of the sandwich and I spent the rest of the afternoon – well, I don’t want to go into the details, but you may feel free to use your imagination. That was the end of Chinese food eating for me, but not the end of Chinese restaurants. I came to adore Mee Hong’s batter fried fish and chips – also served with bread, butter and “Cole Slaw, Peas or Beets” (I always got the cole slaw). The fish was nearly tripled in size after having been batter dipped and deep fried and I couldn’t get enough of it (actually I could never finish it). I was chastised both by my father, and an Aunt who also took me to Mee Hong on occasion, for eating a non-Chinese dish in a Chinese restaurant. Fast foward about ten years, and in Washington, DC a date wanted to take me out for Chinese food. I could only remember Chop Suey and Chow Mein and wanted to decline. I was convinced to give it a try and was delighted to learn about the glories of chinese spare ribs, shrimp toast, mu shu chicken (never pork!), and some szchuan and hunan delights. I became a fan, once again, of Chinese cuisine. But I am very sad to learn, upon returning to my native State of RI, that Mee Hong, Hon Hong, Port Arthur, Luke’s and Ming Garden have disappeared from the tapestry of downtown Providence.'
+
+- property: chinese-restaurants
+  person: 'Larry' 
+  date: '2009-06-22' 
+  content: 'I remember the Tows buy cars from my family and getting Mings Wings. I just came across a coin good for purchases at the Persimmon Market. I also seem to remember activities in the lower levels of the building.'
+
+- property: chinese-restaurants
+  person: 'Family Tree Researcher' 
+  date: '2009-05-15' 
+  content: 'I’m told that my father’s sister and also their cousin sang with a band at the Port Arthur. In the 1940’s, it was a very “hot” and popular place to go in Providence if you were young and out on the town. My aunt also sang with Vaughn Monroe’s band but I don’t know whether he ever played at the Port Arthur.'
+
+- property: chinese-restaurants
+  person: 'Ed Iannuccilli' 
+  date: '2009-05-13' 
+  content: 'The Hon Hong Restaurant was our favorite. At the end of my Mom’s Saturday shopping “down town,” she would always stop at Hon Hong for chicken chow mein, our regular Saturday evening meal. I had the good fortune of being with my Mom on many of those Saturdays, and though I was not a fan of Chinese food then (I ate the noodles), I remember the smells that accompanied us on our ride home on the bus to Wealth Avenue. It was all part of the busy Saturday afternoon experience in the vibrant city of those times.'
+
+- property: chinese-restaurants
+  person: 'Liza Bartlett' 
+  date: '2009-04-13' 
+  content: 'Once again this afternoon I have set out to attempt to replicate the infamous Ming Wings... Nothing!... has ever been the same as the finger sucking delight of dining at Ming Garden in my childhood. I remember Charlie making his rounds every evening, always with a grapefruit in hand, stopping at each table to smile and ask how everyting was... unless of course he saw empty plates in which case he would just say, “ok, you finsh, you go!”... So, once again... I will try to recreate the taste, the smell, the texture... but if anyone out there might have the recipe, I would be eternally grateful to you for sharing it...'
+
+- property: chinese-restaurants
+  person: 'Donna' 
+  date: '2009-04-12' 
+  content: 'I, too, remember Port Arthur. When I was young we used to meet my Dad after work to go there. They had a band and a dance floor and the owner seemed to know my folks. I think the man’s name was Tow and I also think his son may have owned a resturant in Washington Park. The “good ole’ days” before the world got goofy and most people were friendly.'
+
+- property: chinese-restaurants
+  person: 'jean(andersen)finnegan' 
+  date: '2009-03-30' 
+  content: 'i grew up in south providence off of eddy street while i remember these restraurants i remember most the old port arthur restraurant downtown it used to be upstairs i don’t remember street i think weybosset they also had a fine dance band my mom used to take us there for chow mein does any one remember it it was family owned and they had anoter place in woosocket r.i thanks'
+
+- property: chinese-restaurants
+  person: 'Dean' 
+  date: '2009-03-02' 
+  content: 'Man, I’d forgotten all about the Luau Hut at Luke’s! After a couple of their exotic drinks there one night, my vegetarian friend threw away 5 years of dietary control and inhaled a plate of spareribs, which made him sick for days. No one ever has quite matched the Ming Garden Chicken Wings. And, yeah, Young China. My father introduced me to the chow mein sandwich there. It cost about a dollar. I believe my mother told me before she passed that it had finally closed in the early 2000s.'
+
+- property: chinese-restaurants
+  person: 'Cheryl Tow-Keogh' 
+  date: '2009-02-10' 
+  content: 'Both of my grandfathers were owners of the Mee Hong Restaurant. There are several Aunts and Uncles in R.I. still who can give you stories and photos of the restaurant.'
+
+- property: chinese-restaurants
+  person: 'Cliff' 
+  date: '2009-01-28' 
+  content: 'The restaurant across from the Majestic (Trinity) was called Hon Hong. My parents and I always ate there when we went “down city” on a saturday in the 50s &amp;60s.'
+
+- property: chinese-restaurants
+  person: 'Raul Correa' 
+  date: '2009-01-26' 
+  content: 'My grandfather was a dishwasher, my father and 2 uncles were bartenders and my Mom was a waitress at the Ming Garden. And none of them were Chinese. As a kid, the name Tow might as well have been Kennedy or Yaztremski. I moved away 23 years ago but until a few minutes ago, had assumed that it would never close. If Young China, the family’s place to eat (Chow Main Sandwich!) has closed as well I’d rather not know.'
+
+- property: chinese-restaurants
+  person: 'kenn speiser' 
+  date: '2009-01-06' 
+  content: 'Bob Tow ran the restaurant after his father died, and introduced Dim Sum to Providence before anyone who was not Chinese in the state even knew what it was. He served it in the 2nd floor Persimmon Room on Sundays. Bob Tow was also the creator of “Ming Wings” that he sold through the IGA which is now  The Eastside Marketplace off of Pitman St, in Providence. The Ming Garden’s chicken wings were such a hit at the restaurant he started wholesaling them to local markets packaged in those Chinese Take-Out cartons with the wire handles. If I remember correctly he closed the restaurant, sold the building to his brother and moved to China sometime in the early 1990s. Bob is alive and well living in Guangzhou, China. '
+
+- property: chinese-restaurants
+  person: 'Ann Paniccia' 
+  date: '2008-12-18' 
+  content: 'When I was about 8 or 10 my friend Nancy and I would take the bus from Olneyville and go downtown to the library to do book reports. When we were done we would go to the Chinese Restaurant across from the Majestic Theatre for lunch. I think the name was Hong Kong. We would split an order because this was 1964 and we didn’t have enough money for 2 dinners. Great memories.'
+
+- property: chinese-restaurants
+  person: 'Sarah' 
+  date: '2008-12-12' 
+  content: 'I can put you in touch with my dad. He was Charlie Tow’s lawyer, and we were well supplied with Ming Garden takeout in the 1970s and 1980s. I bet my dad would love to chat with you.'
 
 - property: kiernan-wholesale-drug
   person: 'Dr. Carl E. Aronson'
@@ -1533,11 +1820,6 @@ And, by the way – does anyone remember (or have photos of) Beacon Record Shop,
 - property: ri-auditorium
   person: 'Stanley Bomes'
   content: 'As someone brought up in Providence and as an avid Providence Reds fans I cannot help but have fond memories of the building. It really was the perfect sport arena – especially for hockey. You were right on top of the action. I remember the night they took down the chicken wire and replaced it with plexi-glass. The Reds were loosing and everyone started yelling “bring back the chicken wire.” What a lot of people forget is that prior to the days of Schneider Arena built on the Providence College campus, The PC hockey Friars played their home games in the arena and for a number of years the Boston Celtics played a few games a year there. '
-
-- property: chinese-restaurants
-  person: 'Mimi Medeiros' 
-  date: '2014-03-20' 
-  content: ' Ming Garden-where my mother and her sisters sang as children and where �Charlie� as the owner Americanized his name back then, always ran to the front when we came in because he loved my Abuelita!'
 
 - property: cyclodrome
   person: 'james lazzaro sr.' 
