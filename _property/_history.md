@@ -95,7 +95,7 @@ Redeveloped
 ++ East Side Tunnel Reopened?
 ++ Engine Station #7
 ++ Hotel Providence / Lederer building and Bell dormitory
-++ J & H Electric / Ship Street Lofts
++ J & H Electric / Ship Street Lofts
 ++ Lebanon Mills
 ++ Lerner / Wilkinson bldg
 ++ Mason bldg//RISD Center for Integrative Technology
@@ -297,7 +297,7 @@ Urban Decay
 ## 2008
 
 Historic
-++ Downtown Chinese Restaurants
++ Downtown Chinese Restaurants
 
 Redeveloped
 ++ Dye House, Weybossett Mills
