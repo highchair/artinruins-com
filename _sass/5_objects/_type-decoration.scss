@@ -27,6 +27,11 @@
     }
   }
   
+  &__tldr {
+    background-color: rgba(palette('brand-yellow'), .5);
+    padding: 0.75em 1em;
+  }
+  
   &__pull-quote {
     @include ff-retro();
     background: bottom right no-repeat url('../img/hashes-yellow-bot-right.svg') transparent;

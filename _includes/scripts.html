@@ -1,17 +1,6 @@
-{% comment %}
-    This is where we should place scripts that need to load last on the page
-    <script
-      src="//code.jquery.com/jquery-3.4.0.min.js"
-      integrity="sha256-BJeo0qm959uMBGb65z40ejJYGSgR7REI4+CW1fNKwOg="
-      crossorigin="anonymous"></script>
-{% endcomment %}    
-    <script src="{{ '/' | relative_url }}assets/js/project.js"></script>
-{%- if jekyll.environment == "production" -%}
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" data-cfasync="false"></script>
-    <script src="{{ '/' | relative_url }}assets/js/plugins.js"></script>
-{%- endif -%}
+    <script src="{{ '/' | relative_url }}assets/js/global.js"></script>
 {%- if page.layout == 'property-item' -%}
-    <script src="{{ '/' | relative_url }}assets/js/fslightbox.js"></script>
+    <script src="{{ '/' | relative_url }}assets/js/property.js"></script>
     <script>
       document.addEventListener("DOMContentLoaded", function(){
         // Initialize the Property Gallery

@@ -24,6 +24,8 @@
       justify-content: flex-start;
       background: top right no-repeat url('../img/hashes-brown-top-right.svg') $color__body-bg;
       background-size: $hashes__width $hashes__height;
+      position: relative;
+      z-index: z(site-foot-top);
     }
   }
   
@@ -45,7 +47,7 @@
       &:last-child {
         background: bottom left no-repeat url('../img/hashes-brown-bot-left.svg') $color__body-bg;
         background-size: ($hashes__width * 1.25) ($hashes__height * 1.25);
-        z-index: z(page);
+        z-index: z(site-foot-bot);
       }
     } // end mobile design
     
@@ -86,7 +88,7 @@
       background-size: $hashes__width $hashes__height;
       position: sticky;
       bottom: 0;
-      z-index: -1;
+      z-index: z(page);
     }
   }
 }

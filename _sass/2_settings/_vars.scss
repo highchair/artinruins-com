@@ -27,12 +27,14 @@ $vertical-rhythm: ($line-height__base * 1rem);
 
 // Z Indices
 $z-indices: (
-  page: 1,
-  site-foot-mid: 3,
-  site-foot-top: 5,
+  page: 2,
+  site-foot-bot: 3,
+  site-foot-mid: 4,
+  site-foot-top: 6,
   jumper: 10,
   skip-link: 25,
-  header-nav: 100
+  header-nav: 100,
+  cookie-banner: 999,
 );
 
 // Z-index helper

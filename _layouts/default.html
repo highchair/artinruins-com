@@ -4,6 +4,13 @@
   {% include head.html %}
   
   <body class="l--{{ page.layout }}{% if page.body-class %} page--{{ page.body-class }}{% endif %} no-js">
+    <div id="cookies-eu-banner" class="cb" role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" aria-hidden="true">
+      <p id="cookieconsent:desc" class="cb__description">You like cookies? We do, too! But if you don’t, you can opt out. </p>
+      <a href="/privacy-policy/" id="cookies-eu-more" class="cb__readmore" aria-label="Read our Privacy Policy">Privacy Policy</a>
+      <span class="cb__sep"></span>
+      <button id="cookies-eu-reject" class="cb__reject btn" aria-label="Do not allow cookies">Reject</button>
+      <button id="cookies-eu-accept" class="cb__accept btn btn--primary" aria-label="Allow the use of cookies">Accept</button>
+    </div>
     <div id="page-top" class="l">
       <a href="{% if page.layout == 'property-item' %}#jump-nav{% else %}#content{% endif %}" class="u__sr-only u__sr-only--focusable skip-link">Skip to Content</a>
       

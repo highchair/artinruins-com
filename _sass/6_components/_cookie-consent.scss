@@ -1,356 +1,58 @@
-//<div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-banner cc-type-opt-in cc-theme-block cc-bottom" style="">
-//  <span id="cookieconsent:desc" class="cc-message">We use 3rd-party cookies from Google Analytics to track usage of this website. Data is stored anonymously for 14 months. 
-//    <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="https://2gdpr.com/cookies" rel="noopener noreferrer nofollow" target="_blank">More about cookies</a>
-//  </span>
-//  <div class="cc-compliance cc-highlight">
-//    <a aria-label="deny cookies" role="button" tabindex="0" class="cc-btn cc-deny">Do Not Allow</a>
-//    <a aria-label="allow cookies" role="button" tabindex="0" class="cc-btn cc-allow">Allow</a>
-//  </div>
+// https://github.com/Alex-D/Cookies-EU-banner
+
+//<div id="cookies-eu-banner" class="cb" role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc">
+//  <p id="cookieconsent:desc" class="cb__description">You like cookies? We do, too! But if you don’t, you can opt out.</p>
+//  <a href="/privacy-policy/" id="cookies-eu-more" class="cb__readmore">Read more</a>
+//  <button id="cookies-eu-reject" class="cb__reject" aria-label="Do not allow cookies">Reject</button>
+//  <button id="cookies-eu-accept" class="cb__accept" aria-label="Allow the use of cookies">Accept</button>
 //</div>
 
-.cc-window {
-	background-color: palette('brand-brown');
-	color: $white;
-	opacity: 1;
-	transition: opacity 1s ease;
-	
-	@include breakpoint-up(medium) {
-  	margin: 1rem;
+.cb {
+  background-color: palette('brand-brown');
+  color: $white;
+  padding: 1em;
+  z-index: z(cookie-banner);
+  
+  .no-js & {
+    display: none;
+    visibility: hidden;
   }
   
-  a:not(.cc-btn) {
-    color: palette('brand-yellow');
-    
-    @include hover-focus {
-      color: $white;
+  a {
+    color: $white;
+    text-decoration-color: palette('brand-orange');
+  }
+  
+  &__description,
+  &__readmore {
+    display: inline;
+  }
+  
+  &__description,
+  &__readmore,
+  .btn {
+    margin-right: 0.75rem;
+  }
+  
+  &__readmore {
+    white-space: nowrap;
+  }
+  
+  @include breakpoint-down(medium) {
+    &__sep {
+      display: block;
+      margin-bottom: 1rem;
     }
   }
-}
-
-.cc-window.cc-invisible {
-	opacity: 0;
-}
-
-.cc-animate.cc-revoke {
-	transition: transform 1s ease;
-}
-
-.cc-animate.cc-revoke.cc-top {
-	transform: translateY(-2em);
-}
-
-.cc-animate.cc-revoke.cc-bottom {
-	transform: translateY(2em);
-}
-
-.cc-animate.cc-revoke.cc-active.cc-top {
-	transform: translateY(0);
-}
-
-.cc-animate.cc-revoke.cc-active.cc-bottom {
-	transform: translateY(0);
-}
-
-.cc-revoke:hover {
-	transform:translateY(0);
-}
-
-.cc-grower {
-	max-height: 0;
-	overflow: hidden;
-	transition: max-height 1s;
-}
-
-.cc-revoke,
-.cc-window {
-	position: fixed;
-	overflow: hidden;
-	display: flex;
-	flex-wrap:nowrap;
-	z-index: 9999;
-}
-
-.cc-window.cc-static {
-	position: static;
-}
-
-.cc-window.cc-floating {
-	padding: 1.5em;
-	max-width: 24em;
-	flex-direction:column;
-}
-
-.cc-window.cc-banner {
-	padding: 0.5em 1.5em;
-	flex-direction: row;
-}
-
-.cc-revoke {
-	padding: 0.5em;
-}
-
-.cc-revoke:hover {
-	text-decoration: underline;
-}
-
-.cc-header {}
-
-.cc-btn,
-.cc-close,
-.cc-link,
-.cc-revoke {
-	cursor: pointer;
-}
-
-.cc-link {
-	opacity: 0.8;
-	display: inline-block;
-	padding: 0.2em;
-	text-decoration: underline;
-}
-
-.cc-link:hover,
-.cc-link:focus {
-	opacity: 1;
-}
-
-.cc-link:active,
-.cc-link:visited {
-	color: initial;
-}
-
-.cc-btn {
-	text-align: center;
-	white-space: nowrap;
-}
-
-.cc-highlight .cc-btn:first-child {
-	background-color: transparent;
-	border-color: transparent;
-}
-
-.cc-highlight .cc-btn:first-child:focus,
-.cc-highlight .cc-btn:first-child:hover {
-	background-color: transparent;
-	text-decoration: underline;
-}
-
-.cc-close {
-	display: block;
-	position: absolute;
-	top: 0.5em;
-	right: 0.5em;
-	font-size: 1.6em;
-	opacity: 0.9;
-	line-height: 0.75;
-}
-
-.cc-close:focus,
-.cc-close:hover {
-	opacity: 1;
-}
-
-.cc-revoke.cc-top {
-	top: 0;
-	left: 3em;
-	border-bottom-left-radius: 0.5em;
-	border-bottom-right-radius: 0.5em;
-}
-
-.cc-revoke.cc-bottom {
-	bottom: 0;
-	left: 3em;
-	border-top-left-radius: 0.5em;
-	border-top-right-radius: 0.5em;
-}
-
-.cc-revoke.cc-left {
-	left: 3em;
-	right: unset;
-}
-
-.cc-revoke.cc-right {
-	right: 3em;
-	left: unset;
-}
-
-.cc-top {
-	top: 1em;
-}
-
-.cc-left {
-	left: 1em;
-}
-
-.cc-right {
-	right: 1em;
-}
-
-.cc-bottom {
-	bottom: 1em;
-}
-
-.cc-floating>.cc-link {
-	margin-bottom: 1em;
-}
-
-.cc-floating .cc-message {
-	display: block;
-	margin-bottom: 1em;
-}
-
-.cc-window.cc-floating .cc-compliance {
-	flex: 1 0 auto;
-}
-
-.cc-window.cc-banner {
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-}
-
-.cc-banner.cc-top {
-	left: 0;
-	right: 0;
-	top: 0;
-}
-
-.cc-banner.cc-bottom {
-	left: 0;
-	right: 0;
-	bottom: 0;
-}
-
-.cc-banner .cc-message {
-	display: block;
-	font-size: 0.875rem;
-	flex: 1 1 auto;
-	max-width: 100%;
-	margin-right: 1em;
-}
-
-.cc-compliance {
-	display: flex;
-	align-items: center;
-	align-content: space-between;
-}
-
-.cc-floating .cc-compliance>.cc-btn {
-	flex: 1;
-}
-
-.cc-deny {
-  @include ff-sans();
-  color: palette('brand-yellow');
   
-  @include hover-focus {
-    color: $white;
+  @include breakpoint-up(medium) {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+    margin: 1rem;
+    position: fixed;
+      right: 0;
+      bottom: 0;
   }
-}
-
-.cc-allow {
-  @extend .btn;
-  border-color: palette('brand-brown');
-  box-shadow: 4px 4px 0 0 rgba(#000, 0.5);
-  
-  @include hover-focus {
-    box-shadow: 2px 2px 0 0 rgba(#000, 0.5);
-  }
-}
-
-.cc-btn + .cc-btn {
-	margin-left: 1rem;
-}
-
-@media print {
-	.cc-revoke,
-	.cc-window {
-		display: none;
-	}
-}
-
-@media screen and (max-width:900px) {
-	.cc-btn {
-		white-space: normal;
-	}
-}
-
-@media screen and (max-width:414px) and (orientation:portrait), screen and (max-width:736px) and (orientation:landscape) {
-	.cc-window.cc-top {
-		top: 0;
-	}
-	
-	.cc-window.cc-bottom {
-		bottom: 0;
-	}
-	
-	.cc-window.cc-banner,
-	.cc-window.cc-floating,
-	.cc-window.cc-left,
-  .cc-window.cc-right {
-		left: 0;
-		right: 0;
-	}
-	
-	.cc-window.cc-banner {
-		flex-direction: column;
-	}
-	
-	.cc-window.cc-banner .cc-compliance {
-		flex: 1 1 auto;
-	}
-	
-	.cc-window.cc-floating {
-		max-width: none;
-	}
-	
-	.cc-window .cc-message {
-		margin-bottom: 1em;
-	}
-	
-	.cc-window.cc-banner {
-		-webkit-box-align: unset;
-		-ms-flex-align: unset;
-		align-items: unset;
-	}
-	
-	.cc-window.cc-banner .cc-message {
-		margin-right: 0;
-	}
-}
-
-.cc-floating.cc-theme-classic {
-	padding: 1.2em;
-	border-radius: 5px;
-}
-
-.cc-floating.cc-type-info.cc-theme-classic .cc-compliance {
-	text-align: center;
-	display :inline;
-	flex: none;
-}
-
-.cc-floating.cc-type-info.cc-theme-classic .cc-btn {
-	display: inline-block;
-}
-
-.cc-theme-edgeless.cc-window {
-	padding: 0;
-}
-
-.cc-floating.cc-theme-edgeless .cc-message {
-	margin: 2em;
-	margin-bottom: 1.5em;
-}
-
-.cc-banner.cc-theme-edgeless .cc-btn {
-	height: 100%;
-}
-
-.cc-banner.cc-theme-edgeless .cc-message {
-	margin-left: 1em;
-}
-
-.cc-floating.cc-theme-edgeless .cc-btn+.cc-btn {
-	margin-left: 0;
 }
