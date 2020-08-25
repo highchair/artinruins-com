@@ -1,14 +1,31 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: chinese-restaurants\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: second-universalist-church\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: chinese-restaurants\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: second-universalist-church\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: second-universalist-church
+  person: 'A Chin' 
+  date: '2015-12-09' 
+  content: 'I shot this video as I was going to my office in the Fletcher Building (May 2006). <a href="//youtu.be/V6nXBbLxY2g" target="_blank">youtu.be/V6nXBbLxY2g</a>'
+
+- property: second-universalist-church
+  person: 'Paul Coletta'
+  content: 'I have a photograph of my grandfather (Antonio D’Amario) standing in front of his business (Antonio D’Amario Tin Smith) in about 1895 at # 30 Tefft St., with Anthony’s father Vincenzo and his infant son James. I am told that Tefft Street was replaced when Rt. 95 was built. Could you tell me where number 30 would be on today’s map?'
+
+- property: second-universalist-church
+  person: 'Laura'
+  content: 'I visited this building many times over the past 11 years to attend dance class at Providence Ballet and have many fond memories of it. I loved the space and how it never changed while the city around it did. I can’t believe it’s gone! It will be missed by many. '
+
+- property: second-universalist-church
+  person: 'Brian Varano'
+  content: 'I was at the Safari Lounge once during my time at RISD sometime before 2004. Was that still located in the rear section at the time of the fire? (**A.I.R.**: No, the Safari was forced to move in October of 2005.)'
 
 - property: chinese-restaurants
   person: 'Catherine'

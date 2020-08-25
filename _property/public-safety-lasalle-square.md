@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'A.I.R.’s Lead Brick List' ]
+lists: [ 'A.I.R.’s Lead Brick List', 'Brussat’s 10 Best Lost Buildings' ]
 tags: [ 'Demolition by Proposal', 'Demolition by Neglect', 'Needs History' ]
 
 address: '186 Fountain Street, Providence RI'

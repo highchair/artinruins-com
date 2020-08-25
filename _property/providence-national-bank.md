@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Howe & Church' ]
-lists: [ 'Downtown Providence National Historic District' ]
+lists: [ 'Downtown Providence National Historic District', 'Brussat’s 10 Best Lost Buildings' ]
 tags: [ 'Demolition by Proposal', 'Needs History' ]
 
 address: '90 Westminster Street, Providence RI'
