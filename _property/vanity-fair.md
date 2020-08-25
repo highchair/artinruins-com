@@ -83,7 +83,7 @@ Copeland and Dole were designers for the park and its attractions. Point of Pine
 
 #### Fact checker
 
-**Fact checking provided by historian Bruce Remick**. For years he has been researching the resorts and hotels in Riverside and has compiled a book, _”Rhode Island: Riverside’s Historic Shore Resorts and Hotels”_. Sources have been daily newspapers from the late 1840’s through around 1920. Mr. Remick can be contacted for questions or to request a copy of his research at remick [at] cox.net. 
+**Fact checking provided by historian Bruce Remick**. For years he has been researching the resorts and hotels in Riverside and has compiled a book, _”Rhode Island: Riverside’s Historic Shore Resorts and Hotels”_. Sources have been daily newspapers from the late 1840’s through around 1920. Mr. Remick can be contacted for questions or to request a copy of his book at remick [at] cox.net. 
 
 #### Sources:
 

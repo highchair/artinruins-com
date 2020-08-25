@@ -2,7 +2,7 @@
 title: "Rocky Point Park"
 slug: rocky-point-park
 aka: 
-date-modified: 2020-05-22 10:30
+date-modified: 2020-08-22 11:00
 
 built: 1847–1918
 demolition: 2003
@@ -34,6 +34,18 @@ images:
     caption: Photo of skee ball by John Barchi, 1954
   - url: rocky-point-jb-spitfire-1954.jpg
     caption: Photo of the Spitfire ride by John Barchi, 1954
+  - url: rocky-point-1950s-salt-pool.jpg
+    caption: 'Aerial view of the salt water pool, guessing late 1950s'
+  - url: rocky-point-1960s-shore-hall.jpg
+    caption: 'Interior view of the shore dinner hall, guessing late 1960s'
+  - url: rocky-point-jh-1982-kiddie-land-01.jpg
+    caption: 'Kids on the Kiddie Land rides, 1982'
+  - url: rocky-point-jh-1982-kiddie-land-02.jpg
+    caption: 'Kids on the Kiddie Land rides, 1982'
+  - url: rocky-point-jh-1982-kiddie-land-03.jpg
+    caption: 'Kids on the Kiddie Land rides, 1982'
+  - url: rocky-point-jh-1982-kiddie-land-04.jpg
+    caption: 'Kids on the Kiddie Land rides, 1982'
   - url: rocky-point-g-1996-gate.jpg
     caption: Photo by Gemma, 1996
   - url: rocky-point-g-1996-booths.jpg
@@ -129,20 +141,21 @@ images:
   - url: rocky-point-aerial-2016.jpg
     caption: Providence Historical Aerial Viewer 2016
 
-imagescredit: Contributions by John Barchi and Gemma. 
+imagescredit: Contributions by John Barchi, Denise Hogue, and Gemma. 
 ---
 
 ### Reason for Demolition
 
-Rocky Point was a mainstay destinations for local families from its early days in the 1920s through its heyday in the 50s and 60s and into its twillight years in the 80s and 90s. Its decrepit and somewhat skeezy nature when I was a kid was part of the charm. It felt old and worn in and in some cases worn out but we loved it because it felt like ours. 
+Rocky Point was a mainstay destinations for local families from its early days in the 1920s through its heyday in the 50s and 60s and into its twilight years in the 80s and 90s. Its decrepit and somewhat skeezy nature when I was a kid was part of the charm (though I am sure that I hardly noticed). It felt old and worn in and in some cases worn out but we loved it because it felt like ours. 
 
-It became harder and harder to compete with newer parks like Six Flags in Connecticut or parks that constantly upgraded their rides, like Lake Compounce also in Connecticut. The country and region were becoming more affluent, so the bigger theme parks like Disney were also taking a chunk out of Rocky Point’s appeal. The owners also over-leveraged the park and its land to fund other ventures. Eventually, bankruptcy was inevitable. 
+It became harder and harder to compete with newer parks like Six Flags in Connecticut or parks that constantly upgraded their rides, like Lake Compounce also in Connecticut. The country and region were becoming more affluent, so the bigger theme parks like Disney were also taking a chunk out of Rocky Point’s appeal. The owners over-leveraged the park and its land to fund other ventures. Eventually, bankruptcy was inevitable. 
 
-Rocky Point closed in 1994, then reopened briefly in 1996 as a farewell to patrons. In 1996, the park auctioned off many of the major rides. It attempted a “comeback” as the Rocky Point Family Fair with rented rides for the 1996 season, but the crowds were sparse. The Shore dinner hall remained open for a year or two after that, and eventually, the buildings and land weren’t used at all.
+Rocky Point closed in 1994, then reopened briefly in 1996 as a farewell to patrons. In 1996, the park auctioned off many of the major rides. It attempted a “comeback” as the Rocky Point Family Fair with rented rides for the 1996 season, but the crowds were sparse. The Shore Dinner Hall remained open for a year or two after that, and eventually, the buildings and land weren’t used at all.
 
 In June of 2000, a fire broke out in the Dodge-em house, causing some damage to the structures around it. The mayor of Warwick called for the demolition of the remaining structures (including all the midway buildings and the House of Horrors). Another mysterious fire broke out in October, 2006. The abandoned structures proved to be very attractive to vandals. 
 
 On May 7, 2007, demolition of the remaining midway officially began with a press conference at the park. Prior to this, a handful of stands and minor buildings had already been demolished. 
+
 
 ### Current Events
 

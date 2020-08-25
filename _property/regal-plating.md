@@ -69,4 +69,4 @@ The site, sadly, nearly 10 years later, is still a parking lot. The URL that was
 
 Some records show that the Regal Plating Company was established in 1948 and employed up to 43 people. Their activities were Metal Finishing, Plating, Metal Polishing, Metalworking, Gold Plating, Silver Plating, Gold & Silver Plating, Metal, Polishing, Finishing, and Buffing. 
 
-The building was not listed as a contributing structure in the _Providence Jewelry Manufacturing Historic District_ nomination form, 1985
+The building was **not** listed as a contributing structure in the “[Providence Jewelry Manufacturing Historic District]({% link list/providence-jewelry-manufacturing-historic-district.html %})” nomination form, 1985
