@@ -9,15 +9,6 @@ this.setCookie(this.cookieName,consent);},hasConsent:function(){var cookieName=t
 return null;},setCookie:function(name,value){var date=new Date();date.setTime(date.getTime()+this.cookieTimeout);document.cookie=name+'='+value+';expires='+date.toGMTString()+';path=/';},deleteCookie:function(name){var hostname=document.location.hostname.replace(/^www\./,''),commonSuffix='; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/';document.cookie=name+'=; domain=.'+hostname+commonSuffix;document.cookie=name+'='+commonSuffix;},addClickListener:function(DOMElement,callback){if(DOMElement.attachEvent){return DOMElement.attachEvent('onclick',callback);}
 DOMElement.addEventListener('click',callback);},removeBanner:function(wait){var banner=document.getElementById('cookies-eu-banner');banner.classList.add('cookies-eu-banner--before-remove');setTimeout(function(){if(banner&&banner.parentNode){banner.parentNode.removeChild(banner);}},wait);}};return CookiesEuBanner;}));
 
-// If JS is loaded, change the body class
-document.addEventListener("DOMContentLoaded", function() {
-  document.body.classList.remove("no-js");
-  document.body.classList.add("js");
-  
-  // Remove the aria-hidden from the cookie banner
-  document.getElementById("cookies-eu-banner").setAttribute("aria-hidden", "false");
-});
-
 // Set up the Cookie Consent Banner
 new CookiesEuBanner(function () {
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -28,5 +19,18 @@ new CookiesEuBanner(function () {
   ga('send', 'pageview');
 }, true);
 
-// Check all external anchors and add a title
-
+// If JS is loaded, change the body class
+document.addEventListener("DOMContentLoaded", function() {
+  document.body.classList.remove("no-js");
+  document.body.classList.add("js");
+  
+  // Remove the aria-hidden from the cookie banner
+  document.getElementById("cookies-eu-banner").setAttribute("aria-hidden", "false");
+  
+  // Check all external anchors and add a title
+  const extanchors = document.querySelectorAll('[target="_blank"]');
+	extanchors.forEach(anchor => {
+	  anchor.setAttribute("title", "Opens in a new window");
+	  anchor.setAttribute("rel", "noopener noreferrer");
+	});
+});

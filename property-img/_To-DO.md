@@ -36,6 +36,9 @@ caption: 'Providence Historical Aerial Viewer 1972'
 ## Anecdotes
 + Search for [link needed] every now and again to add property links to anecdotes. Must be Markdown form. 
 
+# Brussat's list of the 10 Best Lost buildings in Providence, 2014
+https://www.providencejournal.com/article/20140327/OPINION/303279890
+
 # Cranston Open-Air Cycledrome
 + Providence dome uses a photo that is actually a Cranston track. Research and add a page for it. 
 
