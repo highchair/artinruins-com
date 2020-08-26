@@ -14,7 +14,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Daniel F. Tully' ]
 lists: []
-tags: [ 'Sports Entertainment' ]
+tags: [ 'Sports Entertainment', 'Brown University', 'College Properties' ]
 
 address: '230 Hope Street, Providence RI'
 latitude: ''

@@ -13,7 +13,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Demolition by Neglect', 'Brown University' ]
+tags: [ 'Demolition by Neglect', 'Brown University', 'College Properties' ]
 
 address: '414 Elmgrove Ave, Providence RI'
 latitude: '41.8428716'
