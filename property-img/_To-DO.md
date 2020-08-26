@@ -22,6 +22,10 @@ caption: 'Providence Historical Aerial Viewer 1972'
 [^1]
 [^1]: Content of footnote
 
+#### Sources
+
+_“Riverboat Ride: Crescent Park, Riverside, RI”_, George Malone for Laff in the Dark, captured August 15, 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
+
 
 ## Tools
 * Providence historical aerials: https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html
@@ -38,6 +42,9 @@ caption: 'Providence Historical Aerial Viewer 1972'
 
 # Brussat's list of the 10 Best Lost buildings in Providence, 2014
 https://www.providencejournal.com/article/20140327/OPINION/303279890
+
+# Click tracking
++ Use GA to track the clicks on Surprise Me. I'd be interested to know if people use it. 
 
 # Cranston Open-Air Cycledrome
 + Providence dome uses a photo that is actually a Cranston track. Research and add a page for it. 

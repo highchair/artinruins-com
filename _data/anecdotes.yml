@@ -1,14 +1,24 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: second-universalist-church\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: farnum-hall\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: second-universalist-church\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: farnum-hall\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: farnum-hall
+  person: 'Jin' 
+  date: '2011-07-25' 
+  content: 'I was one of the very last residents of this building, from 2003 fall to 2004 summer for one academic year. But I think the building was used until 2005 as a residence and probably after that it was used as a studio space for painting dept for another year. My room was on the second floor, second from the right on Photo 3. One of the school residential director used to live on the first floor, she didn’t like me. I remember the place was so full of mice that I needed to keep all my snacks in plastic boxes, completely sealed. I shot part of my very first short film in the basement where the laundromat used to be. Even though the condition was horrible, the view from my room was fantastic. Very sad to see it has been demolished. But for sure, it was one of the ugliest buildings on that street.'
+
+- property: farnum-hall
+  person: 'Al Chin' 
+  date: '2011-06-09 2011' 
+  content: 'Farnum Hall will be demolished beginning Tuesday, June 14 and continuing through Friday, June 17.'
 
 - property: second-universalist-church
   person: 'A Chin' 

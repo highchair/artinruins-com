@@ -246,7 +246,7 @@ Redeveloped
 
 RIP
 ++ 383 West Fountain Street (was never demolished)
-++ Second Universalist Church
++ Second Universalist Church
 
 Urban Decay
 + Brownell and Field / Standardized Wholesale Liquors
