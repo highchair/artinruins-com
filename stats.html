@@ -1,0 +1,82 @@
+---
+layout: page
+permalink: stats/
+title: "Statistics"
+meta-title: "Statistics | ArtInRuins"
+body-class: stats
+sitemap:
+  priority: 0.6
+  changefreq: 'weekly'
+---
+
+{%- assign properties = site.property | sort: "date-modified" | reverse -%}
+{%- assign totalimg = 0 -%}
+{%- for item in properties -%}
+  {%- assign totalimg = totalimg | plus: item.images.size -%}
+{%- endfor -%}
+{%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
+{%- assign tags = site.pages | where: 'layout', 'taxonomy' | sort: "type" -%}
+
+
+              <div class="all-tags__wrapper">
+                <h2 class="all-tags__title">Properties</h2>
+                <ul class="all-tags__list">
+                  <li>New site launched in June, 2020, mostly rehashing old posts. <a href="{% link date-added/2020.html %}" style="display:inline">The list of properties added in 2020</a>.</li>
+                  <li><div class="all-tags__list__group"><span>Total properties including redirects:</span> <span>{{ properties.size }}</span></div></li>
+                {%- assign totalpermonth = 0 -%}
+                {%- assign totalprops = 0 -%}
+                {%- assign totalredirects = 0 -%}
+                {%- assign currentmonth = properties.first.date-modified | date: "%B, %Y" -%}
+                {%- for property in properties -%}
+                  {%- if property.date-modified -%}
+                    {%- assign thismonth = property.date-modified | date: "%B, %Y" -%}
+                    {%- if thismonth != currentmonth -%}
+                  <li><div class="all-tags__list__group"><span>Added in {{ currentmonth }}:</span> <span>{{ totalpermonth }}</span></a></li>
+                      {%- assign currentmonth = thismonth -%}
+                      {%- assign totalpermonth = 0 -%}
+                    {%- endif -%}
+                    {%- assign totalpermonth = totalpermonth | plus: 1 -%}
+                    {%- assign totalprops = totalprops | plus: 1 -%}
+                  {%- else if -%}
+                    {%- assign totalredirects = totalredirects | plus: 1 -%}
+                    {%- if forloop.last -%}
+                  <li><div class="all-tags__list__group"><span>Added in {{ currentmonth }}:</span> <span>{{ totalpermonth }}</span></div></li>
+                  <li><div class="all-tags__list__group"><span>Total redirects:</span> <span>{{ totalredirects }}</span></div></li>
+                    {%- endif -%}
+                  {%- endif -%}
+                {%- endfor -%}
+                  <li><div class="all-tags__list__group"><span>Total properties:</span> <span>{{ totalprops }}</span></div></li>
+                </ul>
+              </div>
+              
+              <div class="all-tags__wrapper">
+                <h2 class="all-tags__title">Anecdotes</h2>
+                <ul class="all-tags__list">
+                  <li><div class="all-tags__list__group"><span>Total anecdotes:</span> <span>{{ anecdotes.size }}</span></div></li>
+                </ul>
+              </div>
+              
+              <div class="all-tags__wrapper">
+                <h2 class="all-tags__title">Images</h2>
+                <ul class="all-tags__list">
+                  <li><div class="all-tags__list__group"><span>Total images:</span> <span>{{ totalimg }}</span></div></li>
+                </ul>
+              </div>
+
+              <div class="all-tags__wrapper">
+                <h2 class="all-tags__title">Taxonomy Pages</h2>
+                <ul class="all-tags__list">
+                {%- assign currenttype = tags.first.type -%}
+                {%- assign totaltags = 0 -%}
+                {%- for tag in tags -%}
+                  {%- assign thistype = tag.type -%}
+                  {%- if thistype != currenttype -%}
+                  <li><div class="all-tags__list__group"><span>{{ currenttype | capitalize }}:</span> <span>{{ totaltags }}</span></div></li>
+                    {%- assign currenttype = thistype -%}
+                    {%- assign totaltags = 0 -%}
+                  {%- endif -%}
+                  {%- assign thistype = tag.type -%}
+                  {%- assign totaltags = totaltags | plus: 1 -%}
+                {%- endfor -%}
+                </ul>
+              </div>

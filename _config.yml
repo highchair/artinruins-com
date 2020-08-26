@@ -69,6 +69,7 @@ exclude:
   - LICENSE
   - README.md
   - _property-drafts
+  - stats.html
 
 # https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:
