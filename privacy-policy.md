@@ -1,5 +1,6 @@
 ---
 layout: page
+type: page
 permalink: privacy-policy/
 title: "Privacy Policy"
 meta-title: "Privacy Policy | ArtInRuins"

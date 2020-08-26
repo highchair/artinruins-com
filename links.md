@@ -1,5 +1,6 @@
 ---
 layout: page
+type: page
 permalink: links/
 title: "Similar Projects"
 meta-title: "Similar Projects | ArtInRuins"

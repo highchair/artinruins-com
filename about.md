@@ -1,5 +1,6 @@
 ---
 layout: page
+type: page
 permalink: about/
 title: "About ArtInRuins"
 meta-title: "About A.I.R. | ArtInRuins"

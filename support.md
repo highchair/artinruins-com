@@ -1,5 +1,6 @@
 ---
 layout: page
+type: page
 permalink: support/
 title: "Help Support ArtInRuins"
 meta-title: "Help Support A.I.R. | ArtInRuins"
