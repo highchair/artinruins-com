@@ -156,6 +156,11 @@
       a {
         color: $white;
         text-decoration: underline !important;
+        text-decoration-color: $white;
+        
+        @include hover-focus() {
+          text-decoration-color: palette('brand-orange');
+        }
         
         &::after {
           height: 0;

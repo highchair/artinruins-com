@@ -10,6 +10,21 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: central-fire-stations
+  person: 'Roland Lavallee' 
+  date: '2009-10-05' 
+  content: 'Wasn’t the fire station called the Three One’s because it was street address One of the three intersecting streets? (**A.I.R.**: Perhaps that is also true, but its not the story that we received. Older maps show the potential three streets to be Exchange Place, Exchange Terrace, and Exchange Street. They could have called it the “Three Exchanges” in that case. [A Sanborn Map from 1889](//repository.library.brown.edu/studio/item/bdr:212114/) shows a simple description that could also be the origin of the name — “1 steamer, 1 hose cart, 1 hook and ladder truck.”)'
+
+- property: central-fire-stations
+  person: 'Jack Welch' 
+  date: '2008-12-17' 
+  content: 'I don’t like to be critical, but for the sake of accuracy the google map gives the incorrect location of the Central Fire Station. The actual location was across Washington St on Exchange place opposite the Federal building at the east end of Burnside Park. (**A.I.R.**: This address seems to be the closest that we can get to its previous location. You can see in the photos of Exchange Place that it was next door to the left of the Federal Court building as you look at it from City Hall.)'
+
+- property: central-fire-stations
+  person: 'Arnold' 
+  date: 'Aug 9 2008' 
+  content: 'I am an intern at Gilbane Building company and for our Intern day, we had Bill Gilbane, the CEO or GBC, give us a presentation on the history of the company.  On one of the slides this exact picture came up of the Providence Central Fire Station.  Gilbane had constructed the fire station and at the time it was built was the tallest building in Rhode Island. (The Rhode Island state house was completed in 1904 which then became the tallest building in Rhode Island).'
+
 - property: 66-fountain-st
   person: 'Jim White — Business Manager & President, Local 57 Engineers'
   date: '2020-08-25'

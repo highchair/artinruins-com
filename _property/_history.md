@@ -112,7 +112,7 @@ Redeveloped
 
 RIP
 + AAA Surgical
-++ the Jamestown Bridge
++ the Jamestown Bridge
 + the Ladd School
 ++ Ocean State Steel 
 
@@ -266,7 +266,7 @@ Construction
 
 Historic
 + Providence Cyclodome
-++ Providence Central Fire Station
++ Providence Central Fire Station
 
 Still in Use
 ++ Eddy Estate Carriage House
