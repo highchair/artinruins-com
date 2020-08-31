@@ -27,6 +27,8 @@ excerpt: "The littlest building in downtown (not including parking lot shelters)
 thumbnail: little-bldg-jh-2004-04-01.jpg
 
 images:
+  - url: little-bldg-jw-c1960.jpg
+    caption: 'Photo from the collection of Jim White'
   - url: little-bldg-jh-2004-04-01.jpg
   - url: little-bldg-jh-2004-04-02.jpg
   - url: little-bldg-jh-2004-04-03.jpg
@@ -90,6 +92,8 @@ Very little (not just the building). We have found this building on the followin
 + [Sanborn, 1904, Central Business District](//repository.library.brown.edu/studio/item/bdr:212271/){:target="_blank"} — shown in yellow to indicate a “frame” building. We believe the “3” indicates that it was still three stories high, surrounded by a red “brick” building of 2 stories. 
 + [L.J. Richards, 1908](//www.wardmaps.com/viewasset.php?aid=1612) — No indication of height but surrounded by a building still. The name looks like ”J. Lavell.“ It could be that between 1904 and 1908, the building structure here changed while the plat boundaries did not. Interestingly, the adjacent building is “Nightingale.”
 + [G.M. Hopkins, 1937](//www.historicmapworks.com/Map/US/895458/Plate+001/Providence+1937/Rhode+Island/){:target="_blank"} — Hard to make out the name on this block, looks like “M.A. Gillick.”
+
+From 1940 to 1973, this building was the union hall of Operational Engineers, Local 57. They were at this location for those 33 years until a new hall was built on Gano Street near Engineer’s Field. 
 
 
 ### In the News

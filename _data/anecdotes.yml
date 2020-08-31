@@ -10,6 +10,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: 66-fountain-st
+  person: 'Jim White — Business Manager & President, Local 57 Engineers'
+  date: '2020-08-25'
+  content: 'The 72 Fountain Street building was purchased by the Operating Engineers, Local 57 in 1940 for use as their union hall. My grandfather, Jack White, was the Business Manager at the time of the purchase. Local 57 Engineers is a union that represents the heavy equipment operators and mechanics throughout Rhode Island. Local 57 stayed on Fountain Street until they built a new union hall at 141 Gano Street, Providence in 1973. The new union hall was next to their soft ball field (Engineer’s Field) on Gano Street. I sold the Gano Street location, 5 years ago and built a new union hall in Johnston.'
+
 - property: jamestown-bridge
   person: 'name withheld' 
   date: '2012-05-29' 
