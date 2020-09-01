@@ -4,7 +4,7 @@ slug: central-fire-stations
 aka: 
 date-modified: 2020-08-30 12:00
 
-built: '1903'
+built: '1873 and 1903'
 demolition: '1938'
 redeveloped:
 decade: '1900-1909'
@@ -14,7 +14,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Martin & Hall' ]
 lists: []
-tags: [ 'Demolition by Progress' ]
+tags: [ 'Demolition by Progress', 'Fire Stations' ]
 
 address: '2 Exchange Terrace, Providence RI'
 latitude: '41.8259541'
@@ -59,7 +59,7 @@ In 1881, the Providence fire department had 72 men on its roster, with 101 call 
 
 The first central station (seen in the [first 3 photos](#photo-2)) was built over the Woonasquatucket river with wooden pilings in 1873–1875. It was called the “Three Ones” because it housed Hose, Hook & Ladder, and Protective Companies number 1. To us, its mansard roof and steep-faceted central tower resembled City Hall, which was being built at the same time (1875). It was in use for only 25 years before being expanded and replaced by the Central Fire Station designed by Martin & Hall and built by the Gilbane Corporation. The new station opened in 1903. 
 
-It was a lovely, lovely building with great details similar to that of the Union Trust Company (Stone, Carpenter & Wilson, built 1901-02 at [170 Westminster Street](//www.google.com/maps/place/170+Westminster+St,+Providence,+RI+02903/@41.8235943,-71.4135251,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44514106fba8f:0x457e1f5b8668e003!8m2!3d41.8235943!4d-71.4113364){:target="_blank"}). The multi-colored stonework and brick courses added an elegant finesse — one which is evident in many of Martin & Hall’s other designs. At the time that it was constructed, its central tower made it the tallest building in Providence until the State House was constructed a year later[^1]. 
+It was a lovely building with great details similar to that of the Union Trust Company (Stone, Carpenter & Wilson, built 1901-02 at [170 Westminster Street](//www.google.com/maps/place/170+Westminster+St,+Providence,+RI+02903/@41.8235943,-71.4135251,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44514106fba8f:0x457e1f5b8668e003!8m2!3d41.8235943!4d-71.4113364){:target="_blank"}). The multi-colored stonework and brick courses added an elegant finesse — one which is evident in many of Martin & Hall’s other designs. At the time that it was constructed, its central tower made it the tallest building in Providence until the State House was constructed a year later[^1]. 
 
 [^1]: According to one of our anecdotes. We are inclined to believe it, even though no other record provides proof of this statement.
 
