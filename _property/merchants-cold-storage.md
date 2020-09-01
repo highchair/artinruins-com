@@ -32,6 +32,8 @@ thumbnail: merchants-cold-rihphc-1994-06.jpg
 images:
   - url: merchants-cold-archive-1917.jpg
     caption: 'National Archives, Military Administration, 1917-1918'
+  - url: merchants-cold-ppl-1940c.jpg
+    caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library, circa 1940 (guess)'
   - url: merchants-cold-sd-1979-03-01.jpg
     caption: '1910 Wolf-Linde Compressor and 14-foot engine flywheel, side view — Steve Dunwell, Photographer, March 1979'
   - url: merchants-cold-sd-1979-03-02.jpg
@@ -61,14 +63,14 @@ images:
   - url: merchants-cold-rihphc-1994-11.jpg
   - url: merchants-cold-rihphc-1994-12.jpg
 
-imagescredit: 'Contributions by Steve Dunwell, Virginia Adams and Anne Tait, and Erik Gould'
+imagescredit: 'Contributions by the <a href="//provlibdigital.org/islandora/object/islandora%3A036-03" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, Steve Dunwell, Virginia Adams & Anne Tait, and Erik Gould'
 ---
 
 ### Reason for Demolition
 
-The Merchants Cold Storage Warehouse was demolished in 1998-2000 as part of the redevelopment of the old Cold Storage Provisions Warehouse District for increased residential use. The sign on the roof — at least 6' tall letters spelling “Providence Cold Storage” — looks to have been removed shortly after the company became defunct, about 1993. It was one of the first buildings to be razed in the district, followed by the Fruit Warehouse, A.T. Armour, and Brownell and Sharpe. 
+The Merchants Cold Storage Warehouse was demolished in 1998-2000 as part of the redevelopment of the old Cold Storage [Provisions Warehouse District]({% link list/provisions-warehouse-district.html %}) for increased residential use. The sign on the roof — at least 6' tall letters spelling “Providence Cold Storage” — looks to have been removed shortly after the company became defunct, about 1993. It was one of the first buildings to be razed in the district, followed by the [Providence Fruit Warehouse]({% link _property/providence-fruit-produce.md %}), A.T. Armour, and [Brownell and Field]({% link _property/brownell-field-co.md %}). 
 
-Its too bad that this building was gone right before the trend became turning them into housing or other commercial functions. The building’s thick insulated, sound-dampening walls would have made a perfect host for music practice spaces or even a few dance clubs. There is a similar building (built for the same use) in Paris that has been transformed into band practice and recording studios. Its even worse that it was replaced by a building that wont last the same 100 years that the Cold Storage building did.
+It's too bad that this building was gone right before the trend became turning them into housing or other commercial functions. The building’s thick insulated, sound-dampening walls would have made a perfect host for music practice spaces or even a few dance clubs. There is a similar building (built for the same use) in Paris that has been transformed into band practice and recording studios. It's even worse that it was replaced by a building that won’t last the same 100 years that the Cold Storage building did.
 
 
 ### Current Events

@@ -39,8 +39,10 @@ images:
   - url: ming-garden-location-2019.jpg
   - url: ming-garden-typewriter.jpg
     caption: 'Lilly Tow’s typewriter used to compose newspaper ads for the Ming Garden Restaurant in Providence. Note card reads: “At this underwood typewriter Lilly Tow wrote the daily specials and advertisements for Ming Garden and other Tow family restaurants. Through her advertisements, Lilly was able to attract new clientele to the Tow restaurants. Her witty poems and catchy slogans were tailored for specific populations in Rhode Island.”'
+  - url: port-arthur-gold-coin-dorrance-weybosset.jpg
+    caption: 'Many comments mentioned Port Arthur, seen here on the corner of Dorrance and Westminster. Date unknown.'
 
-imagescredit: 
+imagescredit: 'Contributions from the Providence Journal and Google Streetview.'
 ---
 
 
@@ -134,7 +136,7 @@ The folks in the anecdotes have left us many memories. Here are a few of the nam
 + The Luau Hut at Luke’s
 + Mee Hong Restaurant
 + Bob Tow and the Persimmon Room with their introduction of Dim Sum
-+ Port Arthur restaurant upstairs with a dance floor and live bands
++ Port Arthur restaurant upstairs with a dance floor and live bands ([photo #9](#photo-9))
 + Toy Sun’s, Thayer Street next to Avon
 + Young China and chow mein sandwiches
 
