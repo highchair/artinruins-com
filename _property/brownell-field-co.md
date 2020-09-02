@@ -13,7 +13,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'PPS Ten Most Endangered', 'Provisions Warehouse District' ]
+lists: [ 'PPS Ten Most Endangered', 'Provisions Warehouse District', 'Providence Industrial Sites 1981' ]
 tags: [ 'Demolition by Neglect' ]
 
 NRHP-ref-number:

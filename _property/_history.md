@@ -418,7 +418,7 @@ Historic (18)
 Redevelop (69)
 ++ Butcher Block Mills
 ++ Kendrick-Prentice-Tirocchi House
-++ Ward Baking
++ Ward Baking
 
 RIP (48)
 ++ Fuller Ironworks

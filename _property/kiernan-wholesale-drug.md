@@ -13,7 +13,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Providence Jewelry Manufacturing Historic District' ]
+lists: [ 'Providence Jewelry Manufacturing Historic District', 'Providence Industrial Sites 1981' ]
 tags: []
 
 NRHP-ref-number:

@@ -13,7 +13,7 @@ categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Provisions Warehouse District' ]
+lists: [ 'Provisions Warehouse District', 'Providence Industrial Sites 1981' ]
 tags: []
 
 NRHP-ref-number:
