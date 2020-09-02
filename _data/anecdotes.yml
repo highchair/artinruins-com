@@ -1,6 +1,6 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: farnum-hall\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: ward-baking-co\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
 # Replace: - property: farnum-hall\n  person: '\1'\n  content: '\2'\n
@@ -9,6 +9,41 @@
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: ward-baking-co
+  person: 'Wayne Guyette' 
+  date: '2018-03-14' 
+  content: 'Both my brother Irvin and I worked there during the summers, he 1957-59, me 1960-61, to pay for college. Our step-father, Vincent Miele, got us the jobs. Guys there were good to us both and helpful. A bit warm dumping oven baking trays. I remember when they first brought in the fruit pies. Everyone ate them till stuffed, almost didn’t have enough for the routes. Thanks guys for helping us. If you remember us, Irv went on to get  PhD and a successful career as a psychologist and I went on to get a PhD and became a businessman, professor and university administrator. But, it all started with the support of the the Ward Baking guys. Thanks again... Wayne and Irvin Guyette'
+
+- property: ward-baking-co
+  person: 'domenic' 
+  date: '2017-10-19' 
+  content: 'I live in a house owned by Joe Villari, he must have worked there because in my attic I found boxes labled tip top cakes. Ward baking co. someone email me dgg083 [at] gmail [dot] com'
+
+- property: ward-baking-co
+  person: 'albert barnds' 
+  date: '2015-03-14' 
+  content: 'I work at wards for 13 years. I did all jobs as a vacation relief end up as a head wrapper in all breads. it was the best job I ever had. I am 80 years old today a big hello to my fellow workers. Rest in peace ANGELO MILETTA.'
+
+- property: ward-baking-co
+  person: 'Alan Mackiewicz' 
+  date: '2013-07-08' 
+  content: 'I worked there as a maintenance mechanic for Ward Baking for about three years until the bakery ceased operations.  Actually I worked there after operations ceased until the bakery equipment was removed and the building turned over to the new owners. The tanks in the basement contained liquid sugar and lard and were kept heated. It was a spooky place at night when it was empty and there were a few break-ins. We had to keep a Stationary Engineer on duty twenty-four hours as long as the boiler was in operation, mostly for heat after baking ceased. It was a good operation worked by a great bunch of hard working guys and it was one of my better bakery jobs. I worked at the old Bond Bakery, one in Central Falls and Wonder in Natick, Mass. John Senecal, the maint super and I worked the last shift together and turned over the building. I can still picture the guys and the layout of the interior, remember the sounds and smells. It was a solid building and I hope it didn’t go down easily.'
+
+- property: ward-baking-co
+  person: 'Jim Miletta' 
+  date: '2013-02-18' 
+  content: 'My father had worked there up until 1970. At that time it was the headquarters for baking and distributing of the old Tip Top bread. I had made frequent visits in th 70s. Sad to see it go. '
+
+- property: ward-baking-co
+  person: 'Noman' 
+  date: '2012-08-23' 
+  content: 'I went in there a little while ago. Not much to see. The upper floor has a bunch of industrial type stuff, some weird chemicals. The basement is pretty creepy, and had what I imagine was an old chemical room.'
+
+- property: ward-baking-co
+  person: 'Marc Berman' 
+  date: '2010-03-13' 
+  content: 'What’s goin’ on with the sign lettering anyway? Was the person who installed them cross-eyed?  I can’t imagine how they would be attached to the building in such a way as to allow that much movement? Oh well.'
 
 - property: central-fire-stations
   person: 'Roland Lavallee' 
@@ -22,7 +57,7 @@
 
 - property: central-fire-stations
   person: 'Arnold' 
-  date: 'Aug 9 2008' 
+  date: '2008-08-09' 
   content: 'I am an intern at Gilbane Building company and for our Intern day, we had Bill Gilbane, the CEO or GBC, give us a presentation on the history of the company.  On one of the slides this exact picture came up of the Providence Central Fire Station.  Gilbane had constructed the fire station and at the time it was built was the tallest building in Rhode Island. (The Rhode Island state house was completed in 1904 which then became the tallest building in Rhode Island).'
 
 - property: 66-fountain-st
