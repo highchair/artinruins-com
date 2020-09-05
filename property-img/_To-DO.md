@@ -27,6 +27,13 @@ caption: 'Providence Historical Aerial Viewer 1972'
 _“Riverboat Ride: Crescent Park, Riverside, RI”_, George Malone for Laff in the Dark, captured August 15, 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
 
 
+## Project Road Map
+* Feature: Purchase license to fslightbox.js for the Zoom & Slideshow features
+* Add the ability to browse properties by Map
+* Then and Now template with a horizontal slider thing?
+* Paginate category pages
+
+
 ## Tools
 * Providence historical aerials: https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html
 
@@ -37,8 +44,10 @@ _“Riverboat Ride: Crescent Park, Riverside, RI”_, George Malone for Laff in 
 * Either white or black is acceptable
 * When using someone else's photo, add a credit but not a AIR logo
 
+
 ## Anecdotes
 + Search for [link needed] every now and again to add property links to anecdotes. Must be Markdown form. 
+
 
 # Brussat's list of the 10 Best Lost buildings in Providence, 2014
 https://www.providencejournal.com/article/20140327/OPINION/303279890

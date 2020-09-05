@@ -165,7 +165,7 @@ Historic
 + American Screw Company
 ++ the Cove, now Waterplace Park
 ++ Downtown Providence
-++ Gorham Manufacturing
++ Gorham Manufacturing
 ++ Postcards from the Past
 ++ Postcards from the Past 2
 ++ Providence 1903
@@ -316,7 +316,7 @@ Construction
 ++ Blue Cross Blue Shield
 
 Historical
-++ A Before/After Project: photos from 1976 meet present day Providence
++ A Before/After Project: photos from 1976 meet present day Providence
 
 Redeveloped
 ++ 53-65 Ashburton St
