@@ -1,5 +1,5 @@
 ---
-title: "ALERT – Ward Baking Company"
+title: "Ward Baking Company"
 slug: ward-baking-co
 aka: 'Victory Plating/Victory Finishing'
 date-modified: 2020-09-01 12:00

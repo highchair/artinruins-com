@@ -16,36 +16,35 @@ sitemap:
 {%- endfor -%}
 {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
 {%- assign tags = site.pages | where: 'layout', 'taxonomy' | sort: "type" -%}
-
+{%- assign totalpermonth = 0 -%}
+{%- assign totalprops = 0 -%}
+{%- assign totalredirects = -1 -%}
+{%- assign currentmonth = properties.first.date-modified | date: "%B, %Y" -%}
 
               <div class="all-tags__wrapper">
                 <h2 class="all-tags__title">Properties</h2>
                 <ul class="all-tags__list">
                   <li>New site launched in June, 2020, mostly rehashing old posts. <a href="{% link date-added/2020.html %}" style="display:inline">The list of properties added in 2020</a>.</li>
                   <li><div class="all-tags__list__group"><span>Total properties including redirects:</span> <span>{{ properties.size }}</span></div></li>
-                {%- assign totalpermonth = 0 -%}
-                {%- assign totalprops = 0 -%}
-                {%- assign totalredirects = 0 -%}
-                {%- assign currentmonth = properties.first.date-modified | date: "%B, %Y" -%}
                 {%- for property in properties -%}
                   {%- if property.date-modified -%}
                     {%- assign thismonth = property.date-modified | date: "%B, %Y" -%}
                     {%- if thismonth != currentmonth -%}
                   <li><div class="all-tags__list__group"><span>Added in {{ currentmonth }}:</span> <span>{{ totalpermonth }}</span></a></li>
                       {%- assign currentmonth = thismonth -%}
-                      {%- assign totalpermonth = 0 -%}
+                      {%- assign totalpermonth = -1 -%}
                     {%- endif -%}
                     {%- assign totalpermonth = totalpermonth | plus: 1 -%}
                     {%- assign totalprops = totalprops | plus: 1 -%}
                   {%- else if -%}
                     {%- assign totalredirects = totalredirects | plus: 1 -%}
-                    {%- if forloop.last -%}
+                  {%- endif -%}
+                  {%- if forloop.last -%}
                   <li><div class="all-tags__list__group"><span>Added in {{ currentmonth }}:</span> <span>{{ totalpermonth }}</span></div></li>
                   <li><div class="all-tags__list__group"><span>Total redirects:</span> <span>{{ totalredirects }}</span></div></li>
-                    {%- endif -%}
                   {%- endif -%}
                 {%- endfor -%}
-                  <li><div class="all-tags__list__group"><span>Total properties:</span> <span>{{ totalprops }}</span></div></li>
+                  <li><div class="all-tags__list__group"><span>Total properties:</span> <span>{{ totalprops | plus: 1 }}</span></div></li>
                 </ul>
               </div>
               
