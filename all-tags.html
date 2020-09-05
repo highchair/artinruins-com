@@ -10,11 +10,10 @@ sitemap:
   changefreq: 'monthly'
 ---
 
-
         {%- assign designers = site.pages | where: 'type', 'designers' -%}
         {%- if designers.size >= 1 -%}
-            <div class="all-tags__wrapper u__vertical__pt">
-              <h2 class="all-tags__title">Designers</h2>
+            <div class="all-tags__wrapper u__vertical__pb">
+              <h2 class="all-tags__title u__mt--0">Designers</h2>
             {%- for thisdesigner in designers -%}
               {%- assign collection = site.property | where: 'designers', thisdesigner.category -%}
               {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
@@ -26,8 +25,8 @@ sitemap:
         
         {%- assign lists = site.pages | where: 'type', 'lists' -%}
         {%- if lists.size >= 1 -%}
-            <div class="all-tags__wrapper u__vertical__pt">
-              <h2 class="all-tags__title">Lists</h2>
+            <div class="all-tags__wrapper u__vertical__pb">
+              <h2 class="all-tags__title u__mt--0">Lists</h2>
             {%- for list in lists -%}
               {%- assign collection = site.property | where: 'lists', list.category -%}
               {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
@@ -39,8 +38,8 @@ sitemap:
         
         {%- assign tags = site.pages | where: 'type', 'tags' -%}
         {%- if tags.size >= 1 -%}
-            <div class="all-tags__wrapper u__vertical__pt">
-              <h2 class="all-tags__title">Tags</h2>
+            <div class="all-tags__wrapper u__vertical__pb">
+              <h2 class="all-tags__title u__mt--0">Tags</h2>
             {%- for tag in tags -%}
               {%- assign collection = site.property | where: 'tags', tag.category -%}
               {%- if forloop.first -%}<ul class="all-tags__list">{%- endif -%}
@@ -50,8 +49,8 @@ sitemap:
             </div>
         {%- endif -%}
         
-            <div class="all-tags__wrapper u__vertical__pt">
-              <h2 class="all-tags__category">Places</h2>
+            <div class="all-tags__wrapper u__vertical__pb">
+              <h2 class="all-tags__category u__mt--0">Places</h2>
           {%- assign neighborhoods = site.pages | where: 'type', 'neighborhoods' -%}
           {%- if neighborhoods.size >= 1 -%}
               <h3 class="all-tags__title">Neighborhoods</h3>
@@ -75,8 +74,8 @@ sitemap:
           {%- endif -%}
             </div>
 
-            <div class="all-tags__wrapper u__vertical__p">
-              <h2 class="all-tags__category">Dates</h2>
+            <div class="all-tags__wrapper u__vertical__pb">
+              <h2 class="all-tags__category u__mt--0">Dates</h2>
           {%- assign decades = site.pages | where: 'type', 'decade' -%}
           {%- if decades.size >= 1 -%}
               <h3 class="all-tags__title">Decades Built</h3>

@@ -9,6 +9,15 @@
       background-size: $hashes__width $hashes__height;
     }
   }
+  
+  &__header {
+    padding-bottom: 0.25rem;
+    margin-bottom: $vertical-rhythm;
+    
+    @include breakpoint-up(x-large) {
+      padding-bottom: 1.625rem;
+    }
+  }
 }
 
 .support {
