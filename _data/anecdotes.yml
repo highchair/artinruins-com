@@ -10,6 +10,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: then-now-1975-2008
+  person: 'Jeffrey Allcock'
+  date: '2015-09-16'
+  content: 'If this building is on Orange Street, I remember it as a very hot gay club in the early 198Os. There was a sit-down bar as you came in on the left, with a smallish but very busy dance floor on the right. Lots of fun! Today I think it’s almost entirely residential, but in its day it was one of the top gay bars in Providence, with the Mirabar, Fife and Drum, and La Boheme and the Gallery.'
+
 - property: gorham-manufacturing-co
   person: 'Richard Barker Grant' 
   date: '2019-06-16' 
