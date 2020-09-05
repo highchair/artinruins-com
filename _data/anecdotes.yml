@@ -1,14 +1,148 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: ward-baking-co\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: gorham-manufacturing-co\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: farnum-hall\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: gorham-manufacturing-co\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
 # Check validity with http://www.yamllint.com/
+
+- property: gorham-manufacturing-co
+  person: 'Richard Barker Grant' 
+  date: '2019-06-16' 
+  content: 'The four of us over tea, tied our families together with mutual relatives that worked at Gorham Silver. My wife’s grandfather was Alexander MacBeth and maybe my grandfather was there also, He was Torhild Johnson. Now MacBeth was on the cover of National Geographic as Silversmith and hanging on my hall wall is a copper head of Lincoln 10 x 8 that was produced at Gorham after hours by my grandfather Johnson so the family story goes. The other couple had a relative and I will send that name later. Now that I am touching base with this, I remember that the Johnson name was related to the statues in Roger Williams Park. and it just came to me that my wife has a small charm of a pitcher that was made from a dime. These are good examples of silversmiths that loved their work and it appears that they spent time on memory items. It is too bad that the factories of the past are just memories. '
+
+- property: gorham-manufacturing-co
+  person: 'Ray Pouliot' 
+  date: '2018-06-29' 
+  content: 'My father moved several of Gorham’s bronze castings as a worker for J. M. Anderson moving &amp; rigging. The mustang statue in Austin, Texas &amp; the Geo. Washington statue in Alexandria, VA. I have a photo of the mustang statue’s parts crated for shipment. I may also have a photo of the GW statue in the Gorham foundry. My mother also worked there as an inspector in the silver products area.'
+
+- property: gorham-manufacturing-co
+  person: 'Elizabeth Capwell' 
+  date: '2017-10-31' 
+  content: 'My maternal grandfather, Eugene Bates, worked here as a designer. I have a sterling silver bracelet he designed for his wife, Bessie Bates.'
+
+- property: gorham-manufacturing-co
+  person: 'art zeh' 
+  date: '2016-05-22' 
+  content: 'My maternal great grandfather Arthur Reaney worked at Gorhams. Biographical and anecdotal information I have indicates he may have retired sometime in the 1920’s, as he and his wife and two daughters moved to Niagara Falls sometime in that time, possibly early 1930’s, perhaps as a result of the Depression. Does anyone know how the company fared during that time? I know Arthur made a good living, because he took a lot of family photographs around the turn of the century, and you needed money to own a camera and have film developed at that time. Any info would be appreciated. THANKS!'
+
+- property: gorham-manufacturing-co
+  person: 'AJC Westwood' 
+  date: '2016-03-01' 
+  content: 'Actually, I’m very interested in the Gorham Silver company’s history — because the Anchor Hallmark, which the silverwork I’ve seen uses as part of its hallmark — is the same hallmark as the Birmingham Assay Office in England. My ancestors served as the official Assay Masters of the Birmingham Assay Office for nearly two centuries — and my father is known for his work in metallurgy — and we’re all from Birmingham, England. There has to be a story to all this! I know that several Westwoods resided in Rhode Island in the 17th and 18th centuries, then moved on to CT and MA. Is there a link? I don’t know, but as a historian and archaeologist, I’d love to find out. Please point me in the right direction! Humbly, AJC Westwood (Abi)'
+
+- property: gorham-manufacturing-co
+  person: 'Jeffrey Herman' 
+  date: '2013-11-13' 
+  content: 'I was hired right out of design school in 1981 by Burr Sebring, head of silver design. Working at Gorham as a designer, technical illustrator, and sample maker was the most incredible experience. Trained as a silversmith at Maine College of Art, this was a dream come true as I roamed virtually every square foot of the plant, amazed at everything I saw. Studying the history of this turn of the century greatest silver company in the world leaves me sad as to what it is today – just a name. My experiences at Gorham have helped shape my 30-year career as a silver restoration, conservation, and preservation specialist. I carry with me the techniques I learned and the friendships I developed and hold dear to this day. You can see a beautiful <a href="//www.hermansilver.com/gorham-martele-vase.htm" target="_blank">Gorham Martelé piece conserved here</a>.'
+
+- property: gorham-manufacturing-co
+  person: 'Eleanor Nugent' 
+  date: '2012-10-23' 
+  content: 'It’s possible that my great-great-grandfather worked at Gorham. Accdg to family lore, he was a silversmith and lived in either Providence, RI, or Fall River, Mass., where his daughter was born in 1843. He was originally from England. I’d like to find out if there are any employee records still available from the early years of Gorham so I could check this out. His surname was either Nixon or Nickerson. Thanks.'
+
+- property: gorham-manufacturing-co
+  person: 'teane' 
+  date: '2011-10-25' 
+  content: 'I was researching a Gorham sales promotion item and found all of this. So sad that the building burned down. Sounds like there are many good memories that stayed intact. Some of you say your relatives worked there. Were any of your relative salesmen? I have a box that was sent to Seattle WA (don’t know what year) in the box is a miniature boxing glove and a card that says... Save this glove! You have a punch coming! See Your Gorham Salesman... When you open it, there is a list of 9 magazines that I presume they ran advertisements in... circulation... issue... publication date (not the year) on the back it says. Ask your Gorham Salesman what goes on in this balloon... then of course a circle with a string hanging down. Then it says Gorham sterling.  I do hope that this questioning doesn’t seem out of place on this thread. Just curious and now more so after reading all about Gorhams history. You may write directly to my email if you have any information. Thank you and sorry for the loss of such a great historical building. teane.tc [at] gmail [dot] com'
+
+- property: gorham-manufacturing-co
+  person: 'Marguerite Smith' 
+  date: '2011-07-16' 
+  content: 'My husband, Hugh, worked for Gorham from 1954 until 1980. In later years he was vice-president of retail sales. Our family has wonderful memories of the people with whom he worked. We kidded him about his fantasy tatoo, Lion/Anchor/G. So sad, there is no Gorham, as we knew it.'
+
+- property: gorham-manufacturing-co
+  person: 'mike zacchino' 
+  date: '2010-05-29' 
+  content: 'My wife purchased a small silver dish yesterday. We discovered it was from Gorham by going to the web site listed below. My wife loves silver (her father chased for International Silver) and suggests this site for researching hallmarks: <a href="http://www.925-1000.com" target="_blank">www.925-1000.com/Gorham_Date_Code.html</a>'
+
+- property: gorham-manufacturing-co
+  person: 'Maueen Payne, Carmarthen, West Wales, UK' 
+  date: '2010-05-25' 
+  content: 'I have recently been through some papers from my Aunt who died some years ago. I found a newspaper cliping regarding William J Bird, who was a Silversmith and lived in Rhode Island, USA. I have tried several sites to find out about him, but without success. The newspaper notice was sent to my Aunt in 1943 and I would like very much to send the covering letter to perhaps one of his children etc. I have gone on many sites but the name Bird is common in the USA and I am not sure who I am looking for for. The letter came from a Ethel Bird and I do have confirmation she died when she was 98. It was sent in the War (World War 2) and I think perhaps they like to have it. It tells how difficult in England it was at that time. I was born in 1947 so I only remember sweets were difficult to come by! If you could help me, I would be really pleased. As I am not computer literature, I am not even sure how I got on to your site - sorry. I do know William was a Silversmith and went to the USA from Birmingham and worked for Gorham ? I have an old address of Ethel’s. 5 Woodforward Road? My Auntie was called Ethel – I think there was some connection there as the letter mentions money being sent over during the War.'
+
+- property: gorham-manufacturing-co
+  person: 'Barbara Rickard' 
+  date: '2010-03-14' 
+  content: 'I have a pair of silverplated candlesticks that have the Gorham names on the bottom. It has the silver anchor with an E on the left and P on the right of it. It also has YC3002 below the anchor. The candlesticks are just under 5 inches tall and have a possibly swirled, flower design around the middle of the base and the top edging. I can not find any Gorham markings anywhere of YC3002. Is this a true Gorham candlestick pair?  The closest I came is YC3003.'
+
+- property: gorham-manufacturing-co
+  person: 'David' 
+  date: '2010-01-17' 
+  content: 'I remember when I was a college student – 1983 – I worked security as the night watchman for Gorham – I used to do the “outside” patrol which meant I had to walk the entire complex from front to back (About an hour walk) – even in 1983 they had a skeleton crew at night (Foundry) and I remember getting creeped out by the cemetary markers they would forge all night. I also remember the Carriage House (Shame it has burned down) and would go into there at night (When it used to be a guest residence for visitors). Only memories left now.'
+
+- property: gorham-manufacturing-co
+  person: 'Sylvia DiPrete' 
+  date: '2009-05-21' 
+  content: 'My childhood home is on Adelaide Ave, directly across from what used to be the office parking lot. My mother always warned us kids to be very careful when Gorham’s traffic was getting out of work. (I think around 3 or 3 thirty). I have since moved back to this house and have seen all the changes of the property. I was born in 1953 and remember a thriving business. I was very saddened to see the last of the property destroyed by arson. Only childhood memories left.'
+
+- property: gorham-manufacturing-co
+  person: 'Pam Deeds' 
+  date: '2009-04-23' 
+  content: 'I have a sterling silver folding cup and holder that also has a compass. The marks indicate it was made in the late quarter of the 19th century. Could you tell me if this is a correct date, what individuals would have used this ie: military, hunters etc., and any other interesting facts about the item. Also what company produced the compass. Thanks! dbardfarms [at] windstream [dot] net'
+
+- property: gorham-manufacturing-co
+  person: 'MG' 
+  date: '2009-04-15' 
+  content: 'Looks like the remaining carriage house sadly went up in flames today (or at least the building in <a href="#photo-19">picture #13</a>?) Sad day for the south side :('
+
+- property: gorham-manufacturing-co
+  person: 'K.Log' 
+  date: '2009-03-04' 
+  content: 'I have a small sterling wiskey hip flask 7/16 pint dated April 19th, #285 with a sideways 3 underneath, RRT.3, and the large letters JPG and S9V inscribed in script interlocking from top to bottom. Could you help identify it? Who was it originaly made for? Date of manufacture? Approximate value? Thank You for any help you could offer.'
+
+- property: gorham-manufacturing-co
+  person: 'Tony Santoro' 
+  date: '2009-01-08' 
+  content: 'I have a commerative medallion for the 400th Anniversary of the discovery of America by Christopher Columbus. It was made by Gorham Company in 1892. How do I find out more information concerning the number made and value?'
+
+- property: gorham-manufacturing-co
+  person: 'Joan Piester' 
+  date: '2009-01-01' 
+  content: 'I am 84 years old and back in 1949 when my daughter Nancy was born the man I worked for gave me his wife’s silver plated Gorham Mug #0313. I have the Gorham name + an anchor on the bottom. I would like to check the age and wondered how. I am not too swift on the internet, but can try. Thank you for your courtesy in this matter. Kind regards.'
+
+- property: gorham-manufacturing-co
+  person: 'wayne talacko' 
+  date: '2008-09-16' 
+  content: 'my grandfather worked there from 1946 until 1971. i have a silver shell plate dedicated to him for 25 years of service i was born in providence ri but later moved to trenton nj with my mother and brother'
+
+- property: gorham-manufacturing-co
+  person: 'Paul Koch' 
+  date: '2008-08-13' 
+  content: 'Does anyone know the designer of Gorham’s Lansdowne flatware? Also Plymouth hollow ware designer? When was this popular hollow ware first introduced? I have some date marked 1904? Any info greatly appreciated. silverkingsf [at] hotmail [dot] com'
+
+- property: gorham-manufacturing-co
+  person: 'Brian R' 
+  date: '2008-06-28' 
+  content: 'I have a question for anyone familiar with Gorham products stamped 14.k I have a napkin ring with the anchor and lion and is stamped 14.k gold. Can anyone tell me when gorham made gold items and where can I read about them. This might be a presentation item of some sort because it has initials MJR and it is dated 1861 to 1911 with the script intials in between the dates. Although it looks like a napkin ring as I said it may be a ring that went around a document presented to some one for some occasion. Any help would be appreciated. thanks in advance. Sincerely Brian R'
+
+- property: gorham-manufacturing-co
+  person: 'Donna Boileau'
+  content: 'My grandfather was a huband die cutter in Providence in the late 1800’s. I was told by a former employee (now 80 yrs old) that he knew of my grandfather as when he worked at Gorham, all the hub and die cutters pictures (past and then present) were mounted on the gorham co. walls. I would like to confirm that my grandfather worked there, and if any of the pictures were preserved and if so where. My grandfather was William F. Baker.  Thank you, Donna Boileau: deerrunridge [at] aol [dot] com. 
+'
+- property: gorham-manufacturing-co
+  person: 'Charles Allen'
+  content: 'My Brother Skip Allen went to work for Gorhams in 1946 after getting discharged from Army. I also was in a period waiting to enter College after serving in the Navy. Skip got Me a Job also in the next Dept from His. They assembled the knife handels to the blade. The knives came by trays to My dept. Myself and one other man buffed out the  grind  and seam marks where the two halfs of the handle were joined… I stayed for two years there . it was a great Place to work. I purchased all my dinner ware and chest s to keep my Silver in . Gorham’s had a great wood working  dept and produced the finest cabinets and chests.'
+
+- property: gorham-manufacturing-co
+  person: 'Martha Christensen'
+  content: 'My father worked for the Gorham Company from about 1950 until the early 70’s. His father, I believe, had secured him the position. His father was a silver buyer for the J. Herbert Hall Company on Colorado Blvd. in Pasadena California and purchased from the Gorham Co. I have memories of parking along Adelaide Ave. with my mother waiting for my father to come out of work. I remember going to work with him on a Saturday when I was young. I remember wanting to have a job there delivering the mail. My father left Gorham in the 70’s and went to work for the Poole Silver Company in Taunton, MA. He stayed there until it closed in the late 70’s and then went to work for Taunton Silversmiths, also located in Tauton, MA. He retired from there in the late 1980’s. When my father died in 1991 I remember an elderly gentleman coming to his wake. He said he worked as a security guard there and remembered my father during his work at the Gorham Company. '
+
+- property: gorham-manufacturing-co
+  person: 'Claire Dietz'
+  content: 'My husband’s great grandfather Joseph Baker worked here. John Gorham went to London in 1852. He met Baker and thought him a skilled workman. After returning to Providence he sent for Joseph Baker offering him work at Gorham’s. Baker accepted and with his son Joseph Baker, Jr. arrived in Providence. Joseph Sr. worked 65 years and his son a retired silversmith after 67 years. Baker’s daughter married Fred Dietz.'
+
+- property: gorham-manufacturing-co
+  person: 'Hubert O’Neill'
+  content: 'I was employed by the Gorham Mfg. Co. from 1941 to 1943. I left Goham’s to join the Navy. I also met my future wife at Gorham’s. I was shocked to hear that it was torn down. We had many good tims at Gorham’s. At coffee time they had the most delicious coffee and donuts I ever tasted.'
+
+- property: gorham-manufacturing-co
+  person: 'P Babbidge'
+  content: 'The Stop&amp;Shop that was built upon this land is scheduled to close by the end of October (2006). Let’s all hope we don’t see that building end up on the urban decay page. The Gorham factory was a true victim of being in the  wrong place at the wrong time. If those buildings still existed on the same land today, I bet they would have been redeveloped.'
 
 - property: ward-baking-co
   person: 'Wayne Guyette' 

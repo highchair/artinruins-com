@@ -12,7 +12,7 @@ date-added: '2006'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: [ 'Frank P. Sheldon & Son' ]
 lists: [ 'PPS Ten Most Endangered', 'Provisions Warehouse District', 'Providence Industrial Sites 1981' ]
 tags: [ 'Demolition by Neglect' ]
 

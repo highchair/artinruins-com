@@ -6,7 +6,7 @@ title: "About ArtInRuins"
 meta-title: "About A.I.R. | ArtInRuins"
 body-class: about
 sitemap:
-  lastmod: 2020-07-25
+  lastmod: 2020-09-04
   priority: 0.6
   changefreq: 'monthly'
 ---
@@ -31,7 +31,15 @@ Document the changing architectural landscape and to collect the oral, written, 
 
 As Providence continues to grow, many industrial and historic buildings are being razed to make way for chain stores and expensive loft apartments. What happens to the artists, musicians, and small businesses that inhabited them? What happens to the City as they are forced to move away? What happens to our connections with history? What do we really lose when we don’t preserve our past? These are some of the questions ArtInRuins tries to discuss.
 
-We also want to celebrate the region’s great history. At the turn of the 20th century, it was claimed that Providence contained the world’s largest tool factory (Brown and Sharpe), file factory (Nicholson File), engine factory (Corliss Steam Engine Company), screw factory ([American Screw]({% link _property/american-screw-co.md %})), and silverware factory (Gorham). These were proclaimed as _Providence’s Five Industrial Wonders of the World_. (Conley and Campbell p. 100). 
+We also want to celebrate the region’s great history. At the end of the 19th century (1890-1900), Providence had the “Five Industrial Wonders of the World”[^1]:
+
+1. Brown and Sharpe, the world’s largest tool factory;
+1. Nicholson File, the world’s largest file factory; 
+1. Corliss Steam Engine Company, the world’s largest engine factory; 
+1. [American Screw]({% link _property/american-screw-co.md %}), the world’s largest screw factory; and 
+1. [Gorham Silver]({% link _property/gorham-manufacturing-co.md %}), the world’s largest silver foundry.
+
+[^1]: There are a few sources for this claim. Heritage Harbor Foundation mentions it in this page: [heritageharborfoundation.org/heritage-harbor-six-big-ideas/wonders-of-the-world/](//heritageharborfoundation.org/heritage-harbor-six-big-ideas/wonders-of-the-world/){:target="_blank"}: “By late 19th century, Providence is a world leader in production od (sic) cotton, wool, base metals, precious metals and rubber. Corliss, Gorham, Brown and Sharpe, Nicholsen (sic) File and American Screw are dubbed the ‘Five Industrial Wonders of the World’.”
 
 ## Our Roots
 
@@ -43,7 +51,7 @@ We have been documenting the region since 2002 and collecting the histories that
 
 ## Our People
 
-ArtInRuins was founded by J. Hogue, Sarah Clover, and Kathleen Griffin. Sarah contributed to many photos in the early years, and Kathleen contributed writing about the artists that lived in these spaces for sections called “Interviews” and “Stories.” It proved to be too difficult to continue writing and interviewing people, and those stories have been archived. Sarah has moved on to other parts of the country with occasional visits to Providence and Kathleen is an artist living and working in New York. Both Sarah and Kathleen were graduate students at RISD from 1999–2001. 
+ArtInRuins was founded by J. Hogue, Sarah Clover, and Kathleen Griffin. Sarah contributed many photos in the early years, and Kathleen contributed writing about the artists that lived in these spaces for sections called “Interviews” and “Stories.” It proved to be too difficult to continue writing and interviewing people, and those stories have been archived. Sarah has moved on to other parts of the country with occasional visits to Providence and Kathleen is an artist living and working in New York. Both Sarah and Kathleen were graduate students at RISD from 1999–2001. 
 
 J. Hogue continues to maintain, design, and take photos for the site. Over the years many contributors have helped collect history or photography, and we do our best to credit them on the individual property pages. 
 
