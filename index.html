@@ -8,83 +8,56 @@ sitemap:
   priority: 0.9
   changefreq: 'weekly'
 ---
+{%- assign demoalert = site.property | where: "categories", "#DemolitionAlert" | sort: "date-modified" | reverse -%}
+{%- assign properties = site.property | sort: "date-modified" | reverse -%}
+{%- assign props = 1 -%}
+{%- assign totalimg = 0 -%}
+{%- for item in properties -%}
+  {%- assign totalimg = totalimg | plus: item.images.size -%}
+{%- endfor -%}
+{%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
 
 <section class="home__updates u__gutter__p">
   <p class="u__vertical__pb"><b>ArtInRuins is undergoing a (quarantine-powered ) makeover</b>. The properties here have been updated for 2020 within a new responsive and mobile-friendly design. Photographs have been re-cropped, enhanced, and enlarged. Histories have been revisited and current events have been updated. We are going through properties one by one, starting with some of our oldest, to bring them into the new decade. We hope you enjoy the new look. </p>
   
-  {%- assign properties = site.property | sort: "date-modified" | reverse -%}
-  {%- assign props = 1 -%}
-  <h2 class="o__title--sm v-rhythm">Recently updated Properties</h2>
-  <ul class="taxonomy__list u__list__unstyled u__vertical__pb">
-  {%- for item in properties -%}
-    {%- if item.title and item.slug and item.date-modified -%}
-      {% assign props = props | plus:1 %}
-      {%- if forloop.index < 11 -%}
-        {%- if item.thumbnail -%}
-          {%- assign item_image = item.thumbnail -%}
-        {%- else -%}
-          {%- assign item_image = item.images.first.url -%}
-        {%- endif -%}
-    <li>
-      <div class="taxonomy__img-wrap">
-        {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
-        {%- assign size = '800' -%}
-        {% responsive_image_block %}
-          path: {{ image_path }}
-          image: {{ item_image }}
-          size: {{ size }}
-          cache: true
-        {% endresponsive_image_block %}
-      </div>
-      <div class="taxonomy__colwrap">
-        <div class="taxonomy__title-wrap">
-          <h3 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}" class="taxonomy__link">{{ item.title }}</a></h3>
-        </div>
-        <p class="taxonomy__excerpt">{{ item.excerpt }}</p>
-        <p class="taxonomy__meta">
-          {%- if item.categories.size > 0 -%}
-            {%- for category in item.categories -%}
-            <a href="{{ site.baseurl }}category/{{ category | replace: '.', '' | slugify }}" title="More properties from this category">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
-            {%- endfor -%}
-          {%- endif -%}
-          {%- if item.neighborhoods.size > 0 -%}
-            {%- for neighborhood in item.neighborhoods -%}
-            <span class="taxonomy__sep"> | </span><a href="{{ site.baseurl }}neighborhood/{{ neighborhood | replace: '.', '' | slugify }}" title="More properties from this neighborhood">{{ neighborhood }}</a>{%- unless forloop.last -%}, {%- endunless -%}
-            {%- endfor -%}
-          {%- endif -%}
-          {%- if item.built.size > 0 -%}
-            <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Built:</b> {{ item.built }}</span>
-          {%- endif -%}
-          {%- if item.demolition.size > 0 -%}
-            <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Demolition:</b> {{ item.demolition }}</span>
-          {%- endif -%}
-          {%- if item.redeveloped.size > 0 -%}
-            <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Redeveloped:</b> {{ item.redeveloped }}</span>
-          {%- endif -%}
-        </p>
-      </div>
-    </li>
-      {%- endif -%}
-    {%- endif -%}
-  {%- endfor -%}
+{%- if demoalert -%}
+  <h2 class="o__title--sm v-rhythm">Demolition Alert{% if demoalert.size > 1 %}s{%- endif -%}</h2>
+  <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
+    {%- for item in demoalert -%}
+      {% include property-card.html %}
+    {%- endfor -%}
   </ul>
-  {%- assign totalimg = 0 -%}
-  {%- for item in properties -%}
-    {%- assign totalimg = totalimg | plus: item.images.size -%}
-  {%- endfor -%}
+{%- endif -%}
+  
+  <h2 class="o__title--sm v-rhythm">Recently updated Properties</h2>
+  <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
+{%- for item in properties -%}
+  {%- if item.title and item.slug and item.date-modified -%}
+    {%- assign categories = item.categories -%}
+    {%- capture is_demo_alert -%}
+      {% if categories contains '#DemolitionAlert' %}Yes{% else if %}No{% endif %}
+    {%- endcapture -%}
+    {%- assign props = props | plus:1 -%}
+    {%- if forloop.index < 11 and is_demo_alert == 'No' -%}
+      {% include property-card.html %}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+  </ul>
+  
   <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ props }} properties</span> and <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ totalimg }} images</span>. Browse more from our <a href="{% link category/usedtobethere.html %}">#UsedToBeThere</a> collection.</p>
 </section>
 <section class="home__anec u__vertical__p u__gutter__p">
-  {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
-  <h2 class="o__title--sm v-rhythm">Recently added Anecdotes</h2>
+  <h2 class="o__title--sm v-rhythm">Anecdotes</h2>
+  <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ anecdotes.size }} anecdotes</span> from people just like you.</p>
   <ul class="u__list__unstyled anec__list" role="list">
-  {%- for quote in anecdotes limit:8 -%}
-    {%- assign property = site.property | where: 'slug', quote.property -%}
-    {%- if property.first.thumbnail -%}
-      {%- assign prop_img = property.first.thumbnail -%}
-    {%- else -%}
-      {%- assign prop_img = property.first.images.first.url -%}
-    {%- endif -%}
+{%- for quote in anecdotes limit:8 -%}
+  {%- assign property = site.property | where: 'slug', quote.property -%}
+  {%- if property.first.thumbnail -%}
+    {%- assign prop_img = property.first.thumbnail -%}
+  {%- else -%}
+    {%- assign prop_img = property.first.images.first.url -%}
+  {%- endif -%}
     <li class="anec__list__item">
       <a href="{{ site.baseurl }}property/{{ property.first.slug }}#{{ quote.date | date: '%Y-%m-%d' }}" aria-hidden="true">
         {%- assign anec_image = site.propimg_path | replace_first: '/' | append: property.first.slug | append: '/' | append: prop_img -%}
@@ -105,7 +78,6 @@ sitemap:
         </figcaption>
       </figure>
     </li>
-  {%- endfor -%}
+{%- endfor -%}
   </ul>
-  <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ anecdotes.size }} anecdotes</span> from people just like you.</p>
 </section>

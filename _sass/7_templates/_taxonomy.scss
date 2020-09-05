@@ -59,6 +59,17 @@
           background-size: 100% 100%;
         }
       }
+
+      &.item-type--demolition {
+        background: repeating-linear-gradient(
+          135deg,
+          rgba(palette('brand-yellow'), 0.1),
+          rgba(palette('brand-yellow'), 0.1) 1rem,
+          rgba(palette('brand-yellow'), 0.25) 1rem,
+          rgba(palette('brand-yellow'), 0.25) 2rem
+        );
+        border: 1.5px solid palette('brand-red');
+      }
     }
   }
   
@@ -166,5 +177,26 @@
         white-space: nowrap;
       }
     }
+  }
+}
+
+// Snipes
+.snipe {
+  position: absolute;
+    top: 20%;
+    left: -30%;
+  transform: rotate(-45deg);
+  width: 100%;
+  z-index: 3;
+
+  &--demolition {
+    @include ff-sans(true);
+    background-color: rgba(palette('brand-red'), 0.92);
+    color: palette('brand-dark-brown');
+    letter-spacing: $kerning;
+    line-height: 1;
+    padding: 0.5rem;
+    text-align: center;
+    text-transform: uppercase;
   }
 }

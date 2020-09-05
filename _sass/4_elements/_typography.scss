@@ -36,7 +36,8 @@ h6,
 }
 
 small,
-.small {
+.small,
+.snipe {
   font-size: #{$base-sm * 1rem};
 }
 
@@ -199,18 +200,24 @@ blockquote {
   }
 }
 
-//hr {
-//  border: none;
-//  border-top: 1px solid palette(gray-200);
-//  height: 0;
-//  line-height: 1;
-//  margin: $vertical-rhythm 0;
-//  width: 100%;
-//}
-
-ul,
-ol {
-  margin-left: 1.5rem;
+hr {
+  border: none;
+  border-top: 1px dotted palette('brand-teal');
+  height: 0;
+  line-height: 1;
+  position: relative;
+  width: 100%;
+  
+  &:after {
+    color: palette('brand-teal');
+    content: '* * *';
+    font-size: 200%;
+    position: absolute;
+    top: -.375em;
+    left: 50%;
+    transform: translateX(-50%);
+    line-height: 1;
+  }
 }
 
 ul { list-style: square; }

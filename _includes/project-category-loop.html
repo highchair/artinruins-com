@@ -21,8 +21,12 @@
                   {%- assign item_image = item.images.first.url -%}
                 {%- endif -%}
                 {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
-              <li>
+                {%- assign categories = item.categories -%}
+              <li{% if categories contains '#DemolitionAlert' %} class="item-type--demolition"{% endif %}>
                 <div class="taxonomy__img-wrap">
+                  {%- if categories contains '#DemolitionAlert' -%}
+                  <div class="snipe snipe--demolition">Demolition Alert</div>
+                  {%- endif -%}
                   {% responsive_image_block %}
                     path: {{ image_path }}
                     cache: true
