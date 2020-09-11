@@ -8,7 +8,19 @@
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
 
+# (**A.I.R.**: blah blah)
+
 # Check validity with http://www.yamllint.com/
+
+- property: vintage-aerials-pvd
+  person: 'Kevin'
+  date: '2019-05-21'
+  content: '1983 photo: When the Biltmore reopened in 1979 it had installed it’s glass elevator. I can’t quite make out if it is there or not in the photo. (**A.I.R.**: Hard to say but we think it is there. The Garrahy Courthouse and demolition of the East Side viaduct gives us enough confidence to date the photo at 1983.)'
+
+- property: vintage-aerials-pvd
+  person: 'Dave Hall'
+  date: '2018-03-28'
+  content: 'I can remember parking in the lots across from the old train station and walking to the Civic Center for a concert and having to walk through those old tunnels like under the tracks, Very dark and dank and dirty back then in the 70’s. Great memories though!'
 
 - property: then-now-1975-2008
   person: 'Jeffrey Allcock'
