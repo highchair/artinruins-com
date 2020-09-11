@@ -12,6 +12,30 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: possner-castle-cranston
+  person: 'Brian'
+  date: '2012-10-30'
+  content: 'After the castle was demolished, the land was subdivided into 5 lots. We bought one of the lots (1320 Narragansett, the one right at the corner with Shaw) and built the house that stands there. We engaged John Thibodeau (one of the developers) as the general contractor.
+
+
+By the time we got there, the only things that were left from the castle were the copper beech tree (there were some other, newer trees, but we are guessing that Olmstead picked out the beech), the massive stone gates and the hedge. We designed the house around the beech tree. 
+
+
+There is also a massive concrete piling right at the corner of the Shaw Avenue and Narragansett Bay escarpments (which is not actually part of the lot that I purchased). I was told that that was one of the footing for Dutee Flint’s transmission tower – it was certainly big enough.
+
+
+We put a lot of effort into respecting and honoring the location and the neighborhood when we built that house – I hope that it showed.
+
+
+Finally, when we used to point out the tree and the hedge and talk about Frederick Law Olmstead, we usually pointed out that he was the landscape architect for both NYC’s Central Park and Montreal’s Mont Royal Park as well.'
+
+- property: possner-castle-cranston
+  person: 'Kathleen Dunley'
+  content: 'I just picked up a copy of a pamphlet book by Hazel Wade Kennedy titled “A Bird’s Eye View of Edgewood”. It mentioned that the Castle’s grounds were designed by none other than Frederick Law Olmsted, perhaps best known for his work at the 1893 World’s Columbian Exposition in Chicago and the landscape surrounding the US Capitol Building. 
+
+
+(**A.I.R.**: We assume you mean Jr., as the older Frederick Law Olsted retired due to senility in 1895. After his father’s death in 1903, Olmsted stopped using the suffix “Jr.” Works attributed to Frederick Law Olmsted after about 1896 are considered to be those of his son.)'
+
 - property: vintage-aerials-pvd
   person: 'Kevin'
   date: '2019-05-21'
