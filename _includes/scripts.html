@@ -1,10 +1,4 @@
     <script src="{{ '/' | relative_url }}assets/js/global.js"></script>
 {%- if page.layout == 'property-item' -%}
     <script src="{{ '/' | relative_url }}assets/js/property.js"></script>
-    <script>
-      document.addEventListener("DOMContentLoaded", function(){
-        // Initialize the Property Gallery
-        require('fslightbox');
-      });
-    </script>
 {%- endif -%}

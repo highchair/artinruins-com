@@ -55,7 +55,7 @@ layout: default
                 <li id="photo-{{ forloop.index }}">
                   <figure class="item__gallery__figure">
                     <a data-fslightbox="air-lightbox" data-type="image" {%- if image.caption -%}data-caption="{{ image.caption }}"{%- endif -%} href="{{ site.propimg_path }}{{ page.slug }}/{{ image.url }}" role="button" aria-label="Link opens image in a larger pop-over">
-                      <img src="{{ site.propimg_path }}{{ page.slug }}/{{ image.url }}" alt="" loading="{% if forloop.first == true %}eager{% else %}lazy{% endif %}" />
+                      <img src="{{ site.propimg_path }}{{ page.slug }}/{{ image.url }}" alt="{%- if image.alt -%}{{ image.alt }}{%- endif -%}" loading="{% if forloop.first == true %}eager{% else %}lazy{% endif %}" />
                     </a>
                     {%- if image.caption -%}
                     <figcaption class="item__gallery__caption">
