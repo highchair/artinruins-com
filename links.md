@@ -14,6 +14,7 @@ sitemap:
 When ArtInRuins started there were not quite as many home-grown historians, internet sleuths, or blogs dedicated to tracking change in the architectural landscape as there are now. These are the ones that we know of and support, as well as links to some tools and resources that we find helpful when researching a property. 
 {: .o__drop-cap }
 
+
 ## Similar Projects (RI)
 
 ### Greater City Providence
@@ -90,7 +91,7 @@ Exactly what it sounds like — [a country-wide list of all the octagon plan ho
 The personal portfolio and project [site of Philip Beuhler](//modern-ruins.com){:target="_blank"}
 
 
-## Research
+## Research & Resources
 
 ### Dead Malls
 
@@ -99,6 +100,10 @@ The personal portfolio and project [site of Philip Beuhler](//modern-ruins.com){
 ### Historic American Buildings Survey/Historic American Engineering Record
 
 The Historic American Buildings Survey (HABS) and the Historic American Engineering Record (HAER) are two major collections of 19th century documentation of historic structures throughout the country. Their collections include many properties that have been surveyed for inclusion into the National Register as well as other surveys conducted after the Industrial Revolution. [Search their collection online through the Library of Congress](//www.loc.gov/pictures/collection/hh/){:target="_blank"} and get started by using the search terms “Rhode Island” or ”Providence Rhode Island”. The titles for each entry are fairly verbose so searching can also be done by location terms, property name, or business name. 
+
+### The John O. Pastore Photograph Album at Providence College
+
+After a distinguished career of 42 years in politics, Rhode Island Senator John O. Pastore retired from politics and donated his political papers to Providence College. Included among his papers was a [photograph album of late 19th and early 20th century images](//library.providence.edu/spcol/pas_scrbk/pas_scrapb.html){:target="_blank"}. Many of the locations and buildings depicted in these images are now unrecognizable. 
 
 ### National Register of Historic Places 
 

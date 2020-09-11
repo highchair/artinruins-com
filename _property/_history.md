@@ -168,7 +168,7 @@ Historic
 + Gorham Manufacturing
 ++ Postcards from the Past
 ++ Postcards from the Past 2
-++ Providence 1903
++ Providence 1903
 ++ Kennedy Plaza, Providence
 ++ State Archives
 
@@ -225,7 +225,7 @@ Construction (Nov 2006)
 ++ Two Thomas Street
 
 Historic
-++ Possner Castle
++ Possner Castle
 + RI Auditorium
 
 Still In Use

@@ -55,6 +55,10 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 # Click tracking
 + Use GA to track the clicks on Surprise Me. I'd be interested to know if people use it. 
 
+# 365 Eddy Street, circa 1900
++ Listed as "Joseph I. H. Banigan" in GM Hopkins map, 1937
++ Banigan: [http://www.riheritagehalloffame.org/inductees_detail.cfm?iid=517]
+
 # Cranston Open-Air Cycledrome
 + Providence dome uses a photo that is actually a Cranston track. Research and add a page for it. 
 
@@ -64,17 +68,21 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 # El Faro / Krystal's Diner
 * Photo in Eagle Square from Sarah, Feb 2002: P1010087.JPG, P1010088.JPG, P10100100.JPG
 
-# GE Light Bulb Atwells Avenue / Eagle Square
-* Photo in Eagle Square from Sarah, Feb 2002: P1010096.JPG, P1010097.JPG
-
 # Furniture place, Atwells Ave
 * Photo in Eagle Square from Sarah, Feb 2002: P1010098.JPG, P1010099.JPG
+
+# GE Light Bulb Atwells Avenue / Eagle Square
+* Photo in Eagle Square from Sarah, Feb 2002: P1010096.JPG, P1010097.JPG
 
 # George Arnold (thin) building
 * https://www.loc.gov/pictures/item/ri0447.photos.381370p/resource/
 
 # Grove Street School
 * Find the source of the interior photos — Charles Heganam Architects
+
+# The John O. Pastore Photograph Album
+* http://library.providence.edu/spcol/pas_scrbk/pas_scrapb2.html
+* LOTS of early photos, turn of the 20th century
 
 # Kinsley Park
 + Research this place, another athletic field owned and run by the guy that started the Cyclodrome. Mentioned in the essay.
