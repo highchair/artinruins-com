@@ -14,8 +14,11 @@
 {%- endcomment -%}
 {%- if page.path contains '_property' -%}
   {%- assign meta_title = page.title | truncate: meta_title_truncate | append: meta_title_trailer -%}
-{%- elsif page.title -%}
+{%- else if page.title -%}
   {%- assign meta_title = page.title -%}
+  {%- if page.layout == 'taxonomy' -%}
+    {%- assign meta_title = page.title | truncate: meta_title_truncate | append: meta_title_trailer -%}
+  {%- endif -%}
 {%- endif -%}
 {%- if page.meta-title -%}
   {%- assign meta_title = page.meta-title -%}
