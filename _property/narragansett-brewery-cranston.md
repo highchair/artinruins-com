@@ -8,7 +8,7 @@ built: 1890
 demolition: 1998
 decade: '1890-1899'
 date-added: 2002
-categories: [ '#UsedToBeThere' ]
+categories: [ '#ArchiveRI', '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Cranston, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -23,10 +23,11 @@ gmap: "https://www.google.com/maps/place/5+Garfield+Ave,+Cranston,+RI+02920/@41.
 meta: ""
 excerpt: "Abandoned and derelict for 17 years, the former brewery complex that once employed 850 people was razed in 1998. The brand has lived on and has since reclaimed its Rhode Island heritage."
 
-thumbnail: narrbrew-cranston-tod-1999-01.jpg
+thumbnail: narrbrew-cranston-thumb.jpg
 
 images:
   - url: narrbrew-cranston-old-1920s.jpg
+  - url: narrbrew-cranston-pin-1910c.jpg
   - url: narrbrew-cranston-aerial-1997.jpg
     caption: Aerial from the Providence Historical Aerial Viewer
   - url: narrbrew-cranston-b-1999-01.jpg

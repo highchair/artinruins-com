@@ -8,7 +8,7 @@ built: 1940?
 demolition: 1985
 decade: '1940-1949'
 date-added: 2003
-categories: [ '#UsedToBeThere' ]
+categories: [ '#ArchiveRI', '#UsedToBeThere' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -26,7 +26,7 @@ gmap: "https://www.google.com/maps/place/734+Eddy+St,+Providence,+RI+02903/@41.8
 meta: ""
 excerpt: "A sweet and spare little gas and service station formerly on Eddy Street. Love the painted transom sign."
 
-thumbnail: 
+thumbnail: zams-g-thumb.jpg
 
 images:
   - url: zams-g-1985-01.jpg

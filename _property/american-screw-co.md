@@ -2,7 +2,7 @@
 title: "American Screw Company"
 slug: american-screw-co
 aka: 'Eagle Mill, Eagle Screw Company, Bay State Mill'
-date-modified: 2020-08-04 12:00
+date-modified: 2020-09-11 16:00
 
 built: '1840–1873'
 demolition: '1971'
@@ -32,6 +32,12 @@ thumbnail: amerscrew-habs-1970-01.jpg
 images:
   - url: amerscrew-litho-1886.jpg
     caption: 'Lithograph reproduction of American Screw Complex, including Eagle Mill, circa 1886'
+  - url: Letterhead-from-Ebay-1883.png
+    caption: 'Company letterhead from 1883'
+  - url: John-Gannon-via-Facebook.jpg
+    caption: 'Cover of a large box of assorted screws from John Gannon'
+  - url: 'amerscrew-ppl-1965c-01.jpg'
+    caption: 'Newspaper clipping from the John Hutchins Cady Research Scrapbooks Collection at Providence Public Library, circa 1965. Notice the “American Screw Company” sign, which is why we date the photo pre-1970 — signage is not present in the Library of Congress photos'
   - url: amerscrew-habs-1970-01.jpg
     caption: 'Complex looking east, Bay State building on left. Building 1 in middle, roof line and tower of building 2 visible to right, building 2 boiler house on extreme right. “Canal House” commercial/residential building (not part of American Screw complex) in foreground at 125-127 Charles Street alongside “Hope Cycle and Auto Supply” at 137 Charles Street.'
   - url: amerscrew-habs-1970-02.jpg
@@ -39,7 +45,7 @@ images:
   - url: amerscrew-habs-1970-03.jpg
     caption: 'Bay State Mill, built 1873, Stevens Street.'
   - url: amerscrew-habs-1970-04.jpg
-    caption: 'Building 6, 1850, on left (21 Stevens), with Building 1, 1840, (Admiral Radios/Televisions/Refrigerators) on right at the corner of Hewes and Stevens Streets.'
+    caption: 'Building 6, 1850, on left (21 Stevens), with Building 1, 1840, (Admiral Radios/Televisions/Refrigerators) on right at the corner of Hewes and Stevens Streets. Notice that bell tower top is gone from Building 1 as compared to the photo circa 1965'
   - url: amerscrew-habs-1970-05.jpg
     caption: 'South east corners of building 1 (foreground) and Bay State building (background).'
   - url: amerscrew-habs-1970-06.jpg
@@ -64,18 +70,14 @@ images:
     caption: 'East end of southern addition to Building 1, 3rd floor.'
   - url: amerscrew-habs-1970-16.jpg
     caption: 'Framing below skylights in building 6.'
-  - url: Letterhead-from-Ebay-1883.png
-    caption: 'Company letterhead from 1883'
-  - url: John-Gannon-via-Facebook.jpg
-    caption: 'Cover of a large box of assorted screws from John Gannon'
+  - url: amerscrew-rendering-1972.jpg
+    caption: 'Architectural renovation rendering by Karen Noel. View is to the south at the intersection of Stevens and Charles streets.'
   - url: amerscrew-aerial-1899-1997.jpg
     caption: 'Providence Historic Aerial Viewer 1997 with a 1899 Sanborn Map overlay'
   - url: amerscrew-aerial-1937-1997.jpg
     caption: 'Providence Historic Aerial Viewer 1997 with a 1937 Sanborn Map overlay'
   - url: amerscrew-aerial-1970-1997.jpg
     caption: 'Providence Historic Aerial Viewer 1997 with a 1970 schematic of the complex from the National Register nomination'
-  - url: amerscrew-rendering-1972.jpg
-    caption: 'Architectural renovation rendering by Karen Noel. View is to the south at the intersection of Stevens and Charles streets.'
 
 imagescredit: 'All images from the National Register nomination forms, photos by Laurence Tilley. Architectural drawing by Karen Noel.'
 ---

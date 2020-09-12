@@ -2,7 +2,7 @@
 title: "Crescent Park"
 slug: 'crescent-park'
 aka: 
-date-modified: 2020-08-16 11:00
+date-modified: 2020-09-11 14:52
 
 built: '1886'
 demolition: '1979'
@@ -40,6 +40,8 @@ images:
     caption: 'Crescent Park Studio on the left with Toboggan Races advertised on the right, circa 1900.'
   - url: crescent-park-looff-family-1905.jpg
     caption: 'The Looff family pose in front of the Crescent Park carousel, 1905.'
+  - url: crescent-park-boy-in-boat-c1910.jpg
+    caption: 'A boy poses in the Crescent Park boat painting, 1910.'
   - url: crescent-park-chutes-c1910.jpg
     caption: 'A postcard photograph of the “Shooting the Chutes” ride, only 5¢ roundtrip, circa 1910. '
   - url: crescent-park-bandstand-c1910.jpg

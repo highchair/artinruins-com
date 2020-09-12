@@ -2,7 +2,7 @@
 title: "Central Fire Stations, Providence"
 slug: central-fire-stations
 aka: 
-date-modified: 2020-08-30 12:00
+date-modified: 2020-09-11 15:15
 
 built: '1873 and 1903'
 demolition: '1938'
@@ -38,6 +38,8 @@ images:
   - url: central-fire-1902c-profile.jpg
   - url: central-fire-1903c-views-of-prov.jpg
     caption: 'Detail from a page out of “Views of Providence,” circa 1903'
+  - url: central-fire-1906c-postcard.jpg
+    caption: 'Rare photo from a postcard without the Federal Court in place (built 1906-1908)'
   - url: central-fire-1908c-with-union.jpg
   - url: central-fire-1910c-and-court-house.jpg
     caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library, circa 1910'
@@ -45,6 +47,8 @@ images:
     caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library, circa 1910'
   - url: central-fire-1910c-lib-congress.jpg
     caption: 'Detail from a photo of Exchange Place, Library of Congress, circa 1910'
+  - url: central-fire-1918c-hospital-trust.jpg
+    caption: 'Postcard view circa 1918 with the Hospital Trust new tower in the background (pale yellow)'
   - url: central-fire-1924c-demonstration.jpg
     caption: 'Providence Journal file photo, circa 1924'
 

@@ -24,7 +24,7 @@ meta: "Built circa 1915. Photographs starting May 2002. Demolished Sept 2002. Fo
 
 excerpt: "Built circa 1915, these concrete coal storage towers were demolished in late 2002 by oversight — a permit was granted despite their protection by inclusion in the National Register of Historic Places. "
 
-thumbnail: blue-coal-sclover-01.jpg
+thumbnail: blue-coal-mkierstead-01.jpg
 
 images:
   - url: blue-coal-egould-01.jpg

@@ -23,7 +23,7 @@ gmap: "https://www.google.com/maps/place/387+Charles+St,+Providence,+RI+02904/@4
 meta: ""
 excerpt: "An early demolition of a large mill complex that flew under the radar in the early 2000s. Replaced by a Home Depot shopping center."
 
-thumbnail: 
+thumbnail: silver-spring-thumb.jpg
 
 images:
   - url: 01.jpg
