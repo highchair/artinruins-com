@@ -12,6 +12,48 @@
 
 # Check validity with http://www.yamllint.com/
 
+
+- property: louttit-laundry
+  person: 'Marian Shannon-Fre'
+  date: '2020-09-18'
+  content: 'Question. My mother worked fir What Cheer Laundry back in the 40’s. Is there a way for me to find out the years she was employed, I do remember seeing a “5 year pin”. My mom passed when I was 13, unfortunately I never was able to hear her wonderful stories of friends she had there'
+
+- property: clarks-flower-shop
+  person: 'John' 
+  date: '2015-07-28' 
+  content: 'Whatever the developers had planned seemed to have stalled after a foundation was poured. It seems to have been months since any activity. Upon my bus ride in this morning, however, I noticed construction has resumed.'
+
+- property: clarks-flower-shop
+  person: 'Andrew' 
+  date: '2015-05-30' 
+  content: 'it appears that construction has stalled for the new city kitty that is being built in this location. the foundation has been poured for some time now but no construction work beyond that has been done.'
+
+- property: clarks-flower-shop
+  person: 'Amanda' 
+  date: '2014-11-01' 
+  content: 'This building has been torn down.'
+
+- property: clarks-flower-shop
+  person: 'Ruth' 
+  date: '2013-08-21' 
+  content: 'the original Clark’s was at the corner of Thayer and Cushing I believe'
+
+- property: clarks-flower-shop
+  person: 'kath connolly' 
+  date: '2011-03-03' 
+  content: ' Developers have put the same proposal from last August on the zoning agenda for March 16. The proposal includes plans to demolish the existing building and asks for variances for a drive thru and for signage. Clarke Flowers neighbors are reaching out to interested organizations and others who can help us spread the word. Steps anyone can take:
+
+
++ Come to the Zoning Board hearing, March 16 at 5:30 pm at City Hall, 5th floor. We are 4th on the agenda.
+
++ If you cannot attend, submit a letter to the Zoning Board which will be entered as testimony. Write to: Providence Zoning Board of Review, 190 Dyer St., Providence, RI 02903 attn: Myrth York, chair
+
++ Help us get the word out so we will have a strong presence at the hearing.
+
+
+Summit Neighborhood Association, Wayland Square Neighborhood Association and the College Hill Neighborhood Association have all graciously sent news to their circles. We have posted the background to our Facebook group and shared details on our web site preservehopestreet.org including a flyer folks can download and distribute.'
+
+- property: silver-top-diner
   person: 'Mary King'
   date: '2020-09-13'
   content: 'I LOVE THE SILVER TOP DINER!!! I was an Architecture student at RISD during the 80’s. As me and other fellow RISD students had to pull all-nighters working on design projects at the design studio located on South Main Street, we would go to Silver Top around 3 am starving!... I remember the western omelettes and the most amazing blueberry and corn muffins! I remember always having to wait for a booth since we were a big group... there were so many people, from the truck drivers of the Produce Company, to police officers, to RISD students to people coming in after a night of drinking! I will always remember Silver Top as part of the RISD experience and Providence history! Save Silver Top!!!'
