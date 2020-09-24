@@ -13,6 +13,16 @@
 # Check validity with http://www.yamllint.com/
 
 
+- property: cove-basin-and-waterplace
+  person: 'chuckA'
+  date: '2012-02-15'
+  content: 'Wonderful map/picture series! I had no idea the cove was so large and how dramatically Providence had evolved over time. Was one of those earlier buildings on the cove labeled a Prison? (**A.I.R.**: – Yes, it was. This is one of the foundations that was uncovered during construction of the Mall, documented by PAL in 1997)'
+
+- property: cove-basin-and-waterplace
+  person: 'Lynne'
+  date: '2010--05-22'
+  content: 'The book, “Providence, Renaissance City,” by Mott & Leazes gives a fascinating and accurate account of the process and people that made the river relocation project happen.'
+
 - property: louttit-laundry
   person: 'Marian Shannon-Fre'
   date: '2020-09-18'

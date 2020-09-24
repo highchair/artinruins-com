@@ -1,5 +1,6 @@
 /*main*/.content {
   background-color: $white;
+  word-break: break-word; // Because sometimes URLs in Source citations are too long
   
   /*article*/&__article {}
   
