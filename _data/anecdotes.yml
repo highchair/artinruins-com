@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: gorham-manufacturing-co\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: east-side-train-tunnel\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: gorham-manufacturing-co\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: east-side-train-tunnel\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -12,6 +12,104 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: east-side-train-tunnel
+  person: 'Carl' 
+  date: '2018-02-01' 
+  content: 'I was a RISD student from ’89 to ’92 and walked through this tunnel with a friend. We were wearing shorts, flipflops, and had no flashlights. (Maybe one of us had a book of matches) After we got to the “halfway point” (when you can’t see light at either end), our eyes started playing tricks on us. It also got very damp and musty, and I remember mud squeezing up between my toes. It was downright creepy. I’m also pretty sure we weren’t the only ones down there. I had another friend who told me he used to walk though it by himself “when he was feeling depressed”.'
+
+- property: east-side-train-tunnel
+  person: 'jj partridge' 
+  date: '2016-09-24' 
+  content: 'I am the author of the “Algy Temple” mystery series that takes place in Providence. In a new book, tentatively entitled “The Hanger”, two students from an ivy league school in Providence have the shattering experience of discovering a body hanging deep in the tunnel. When you were there, was there debris in the tunnel, enough for a body to be launched off or would someone have to bring material like a box or a step ladder to create sufficient height? Anything hanging from a ceiling to put a rope over? When you were there, were there trickles of water? What month? Any good recent stories of tunnel hi-jinx?'
+
+- property: east-side-train-tunnel
+  person: 'Scott Maits' 
+  date: '2014-03-30' 
+  content: 'Never walked this tunnel as I live far away but have done others. What a rich story of urban adventures since its demise of RR use. As a historian and rail expert who at night runs the oldest regional performing arts incubator in part as another urban renewal effort but with enrichment and inclusion by colleges in Philadelphia, I can appreciate all of this.
+
+
+But not having this tunnel used by RRs has greatly hurt downtown Providence and your regions economic performance cutting out maybe 1/3 of its potential feeder rail network which in other cities has proven to be the key for long term vitality as much as colleges and other better known factors. However a new old day comes again and otherwise what would be another half a billion dollars to build tunnel is positioned right where it is needed again for rails if you are to have a better future and Providence is to actually stay on the Next Generation 200+ Northeast Corridor line being planned which I am advising. Before Amtrak and other entities came to the same conclusion they shouldn’t cut out Providence for this additional new line for the 21st Century as was originally being planned and still advocated by many powerful interests, I was looking at how to get a new High Speed train line to your downtown but to avoid the series of severe Pawtucket curves which are not near any, all-trains stop station like Providence. Your closest in curves including East Providence and its draw bridge to a modified underground downtown station via an attractive and even scenic new high tech single post slow double track viaduct with low (so riders can still see your attractive downtown!) wheel sound barriers and baffling over the river, streets and lower parking lots would all not be to much of a speed restricting problem for new trains that will reach well over 200mph elsewhere. Existing MBTA and any freight trains would continue on the existing line north till it again turns to sharply into the straight old line right of way to be rebuilt at that father out point where high speeds are required. Any Amtrak trains could still use the existing NEC line too if needed for critical back up if nothing dumb like to expensive and incompatible all new maglev is planned to be built for the next generations as every other country on the planet has decided in favor of evolving high speed trains (tested at 357mph by the way). Maybe more initially obvious to those who have not studied these things for as long as I have, your RR tunnel is needed to have any rail services due east of Providence too as modified local trains that would be required to share the medium speed tracks in the tunnel with slowing High Speed trains can take the place of many Light and regional rail proposals in that direction. The other old trolley tunnel could also be used for any trolleys to the top of the hill and closer in to East Providence perhaps too as I design these things for communities but would need to look closer at that then I have scouring the East Coast for solutions and best designs for the Next Gen NEC.
+
+
+Providence needs to see and advocate for all this for itself or it will likely miss out on the benefits or RI would have to contribute to something much more expensive and disruptive to build rather then retrofit. NIMBYs and others who are against any change or still think we only subsidies transit travel in this country need to be shown how this is the best solutions. Any who doubt something much faster is coming to the NEC should understand that the two initial High Speed lines built in the world by the Japanesse and later the French after studying our line in the 1950s are most like the NEC demographically and otherwise mostly both made their total costs back (planning, building, equipment, operation and ongoing in-kind replacement shares) back within 10 years of opening even faster then I had realized due to the lines being used to finance thousands of other miles of more! Key politicians on both sides of the political divide who are supporting the Next Gen HS NEC are now learning this fact which has been vetted by a major Midwest University study for another lesser corridor there.'
+
+- property: east-side-train-tunnel
+  person: 'sam brodsky' 
+  date: '2012-10-14' 
+  content: 'i was down in the gano entrance today (10/14/12), and there seems to be a small open hole/door. i was thinking about going in, but people appear to be living in it and i didn’t want to invade. anyone know what’s up with it these days? i’m new to providence and never got to see inside this thing.'
+
+- property: east-side-train-tunnel
+  person: 'Tunnel Traveller'
+  date: '2008-06-26'
+  content: 'I attended Brown 1974-78. On Halloween of my freshman year, several friends and I traversed the tunnel in costumes, walking east to west with no flashlights. We walked all the way to the Union Station (at that time, on Kennedy Plaza, not below the State Capitol where the present station stands) and startled the train customers as we strolled nonchalantly through the lobby.
+
+
+The Science Library at Brown sits directly over the tunnel at the corner of Thayer and Waterman Streets. In the 1970s, freight trains still operated in the tunnel. If you were in the library at the proper time, you could feel subterranean rumbling. Several times I raced by elevator to the top floor of the library and caught the Seekonk bridge in the horizontal position, further proof that a train was using the tunnel, though I was never lucky enough to actually SEE a train crossing the Seekonk River.
+
+
+I continued in graduate school at Brown, but by 1980 I no longer used the library and am unable to comment on which year the trains stopped using the tunnel. I am certain they operated at least through 1980. On my first post-graduation visit to Providence in 1989, the viaduct that carried the tracks over Main Street from the west tunnel portal to Union Station had been dismantled, but the tunnel portal had not yet been sealed off with the steel doors.'
+
+- property: east-side-train-tunnel
+  person: 'Jim S.' 
+  date: '2008-06-04' 
+  content: 'My memory of this tunnel goes back to the 1950’s. I was born in Fox Point and my friends and I walked through this tunnel many times as kids and teens. One of our big dares was walking it alone! In the late 1960’s it was a place to hang out at times, mostly on the Gano St. side. In The whole area around the tunnel was a playground for us as kids. There were ponds on both sides of the Seekonk that we use to skate on, catch turtles, etc. and generally hang out. We use to hop on the trains going through and ride to either downtown or across to East Providence. I remember we use to lay pennies on the tracks so the trains would flatten them. And the big thing when we were older was, we use to climb the train bridge when it was up. That was cool. We use to call it the Black Bridge.'
+
+- property: east-side-train-tunnel
+  person: 'Marcus'
+  content: 'While I was at RISD a group of 5 of us walked through the tunnel from the west side. This was in ‘87, in the dead of winter. A homeless guy was encountered inside the entrance a ways, standing over a little campfire but he didn’t give us any grief. The wind howling thru the tunnel made it way colder and once we hit the middle where the tunnel turns left we were plunged into darkness. Couldn’t see either lights at the end of the tunnel. Naturally we didn’t bring flashlights and the effect was creepy to say the least. Not my idea of a pleasant experience but it did elevate the senses. It felt like you were caving under a mountain and all you could hear were bats and the endless drip, drip, drip. As we headed for the East entrance, light was seen again and although no one said anything I think we were a little relieved. Tough guys, eh? One scary feature were the icicles hanging from the tunnel ceiling. These suckers were easily 8-10 feet long and my imagination got the best of me. I was constantly shifting my line to prevent from walking directly beneath any of them. That bit of fun now over, we spilled out into the open East side where the old rusted hulk of a train bridge headed out over the river. We stopped to huddle for a minute, wishing we had some beer to celebrate the historic crossing. Then realizing we needed to return, we turned and plunged back in. Funny though, I don’t remember a damn thing about it.'
+
+- property: east-side-train-tunnel
+  person: 'Tim G (pawtucket)'
+  content: 'Me and a few friends went into this tunnel about 3 years ago. We were very interested in the old bridge and followed the tracks only to discover it. We went inside with a flashlight. There was alot of old junk in there. It is mostly flooded but there are wooden crates to walk across. There is a flipped over junk car at the mouth of the tunnel. I tried to indentify it but I can’t tell what it is. I went to the tunnel recently but the door had been welded shut.'
+
+- property: east-side-train-tunnel
+  person: 'jr'
+  content: 'When I was in high school in Providence (School One, when it was still on John Street) in the late 80s early 90s, we used to drink beer and do other bad stuff at the mouth of the tunnel off Gano Street. I don’t think I ever went very far into the thing, but plenty of people I knew had, and for some it was a right of passage to finish off a 40oz of Haffenreffer (or two) and make your drunken way to the other end. Those were definitely the days.'
+
+- property: east-side-train-tunnel
+  person: 'Katie'
+  content: 'My dad was telling me about this one time he went to the tunnel with a bunch of his friends, and their bikes, sometime in the 80s. Apparently, it was early morning, and there was fog shooting out of the tunnel, because the air from the other end, forced it out the end he was going to enter near. When the fog stopped, and they went in, there was lots of water near the ground, and some dripping off the ceiling. He said that at some points it was so deep they had to walk their bikes through. Also, he said that there we open manholes, so you had to be extremly careful, so as not to fall through one. He said it was an extremely creepy experience, but a really awesome one too, because it had a sense of danger and trouble.'
+
+- property: east-side-train-tunnel
+  person: 'From Providence'
+  content: 'Today (Jan 12, 2006), the Mayor announced that he favored some sort of streetcar/light rail system for Providence. My personal thoughts, “Where the hell are you going to put it? Every other city that’s done a light rail system either is low density or has a disused railroad track… oh wait…” A $2 million tunnel in good structural shape sitting around that would cost hundreds of times this today? That qualifies. Hope the Transit 2020 Working Group sees this.'
+
+- property: east-side-train-tunnel
+  person: 'Bob E'
+  content: 'I remember “the tunnel” when I worked near it in the early 80’s. It was a bane for the police dept in many ways. Homeless drunks, drug addicts and sometimes demented people (as someone documented an encounter with) lived in there and would clamber up the side to Benefit Street to beg, or accost people on North Main. One newsmaking event involved RISD students having some kind of year-end party ritual that was like the aforementioned LaSalle one, only that it was far more “artsy” and tribal in nature – kind of like a proto Rave party — it involved drums, torches, bonfires, running naked (in some cases) and chanting and overall boisterousness. Police were called in for what was called in about as a “Satanic ritual” (hardly) and a near riot occurred when they shut it down, lots of people hauled in including bystanders on Benefit, one of whom was apparently injured, mistaken for a reveler. That was about the time they decided to board it up as I recall. It had an urban legend of creepiness about the whole place, that fit well into H.P Lovecraft mythos in Providence, and I even knew a guy who wrote a horror story about it. '
+
+- property: east-side-train-tunnel
+  person: 'Bob D.'
+  content: 'When I was a teenager back in the 70’s, I and some friends often “humped” long frieght trains and would ride them for several miles. We would either hang on the ladders or sometimes hop into an open car. On at least one occasion we rode from E. Providence, across the Jack Knife Bridge and through the entire tunnel into downtown Providence!
+
+
+We walked through the tunnel many times and it was always an adventure. We would always encounter some low-lifers who would threaten us, and it got pretty loud in there when a train would go by. You could create some great echos in there also. Looking back at those years, this was definately some of the more dangerous and stupid stuff we did.'
+
+- property: east-side-train-tunnel
+  person: 'M-Foran'
+  content: 'My friends and I walked through the tunnel back in ‘89. Despite that it was the middle of the day, the tunnel quickly submerged us in total darkness, and we had brought no lights with us. As we carefully navigated the track, all that was visible was the bright pinpoint of light from the opposite end. It was an amazingly cathartic experience and when we emerged from the tunnel on the east side we all felt like we had somehow been reborn.
+
+
+We took several trips through the tunnel in the year that followed. Once we brought torches, but, while fun, it definitely lessened the experience. Plunging oneself into total darkness in an uncertain landscape frightened us, and made our other senses more alive.
+
+
+On one of the trips, we were confronted by a huge guy and his disfigured little friend, who were in the process of finishing off a case of Bud cans by the bridge on the east side. We didn’t even notice them off to the side of the tracks until the big one said “Hey! Did you make a noise!” and the little guy goes “We gonna f--- you UP!” After 20 extremely uncomfortable minutes I guess they decided we weren’t worth the effort. So we walked back home above ground, laughing off our strange fortune.'
+
+- property: east-side-train-tunnel
+  person: 'some guy that hates Providence'
+  content: 'the tunnel is neat, supposedly the Brown SciLi’s foundations are visible underneath?'
+
+- property: east-side-train-tunnel
+  person: 'Hatari'
+  content: 'I been in the East side tunnel numerous times it is deffinatley a place to visit i remember the first time we came across a hobo and tried to kick us out of his so called home but gave him a dollar and he shut up, there is alot of history about that tunnel it’s just a fun place to explore especially for beginner to advanced explorers. '
+
+- property: east-side-train-tunnel
+  person: 'troth specks'
+  content: 'before the fancy restaurant was there, the downtown side of the tunnel was enclosed by trees and shrubs. great place to go in the summer, as when the tunnel door was opened tons of cool air spilled out. i did walk in on some shady dudes in suits conducting business down there once. '
+
+- property: east-side-train-tunnel
+  person: 'A Wood'
+  content: 'I remember my first experience in the Gano Street tunnel. Seniors from La Salle decided to have a “tunnel party”. They put all the wooden planks down to provide access through the flooding opening of the tunnel. The main source of light were torches that provided a certain “Temple of Doom” atmosphere. The had a radio playing a drum. It was a fun night. I think everyone should see this tunnel once in their life. Oh and welding the door shut never works, we always find a way in.'
 
 - property: cove-basin-and-waterplace
   person: 'chuckA'
