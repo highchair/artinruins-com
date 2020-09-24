@@ -12,6 +12,41 @@
 
 # Check validity with http://www.yamllint.com/
 
+  person: 'Mary King'
+  date: '2020-09-13'
+  content: 'I LOVE THE SILVER TOP DINER!!! I was an Architecture student at RISD during the 80’s. As me and other fellow RISD students had to pull all-nighters working on design projects at the design studio located on South Main Street, we would go to Silver Top around 3 am starving!... I remember the western omelettes and the most amazing blueberry and corn muffins! I remember always having to wait for a booth since we were a big group... there were so many people, from the truck drivers of the Produce Company, to police officers, to RISD students to people coming in after a night of drinking! I will always remember Silver Top as part of the RISD experience and Providence history! Save Silver Top!!!'
+
+- property: jamestown-bridge
+  person: 'Don J'
+  date: '2020-06-30'
+  content: 'My Dad had been stationed on Beavertail (at the the submarine net) before being sent to Europe during World War II, so he was the first to tell me stories of the Bridge. In the late 1980s I actually got to travel over the two bridges (Newport) as a state employee, often in the winter when everything was so peaceful, and grew to love the industrial nature of the structure. I was always thrilled when the Great Scared Populace would slow down to a stop when became terrified simply of a car going by, because I could then stick my head out and see look through the open grates down more than 100 feet to the water. The incredible Chain of Rocks bridge on Route 66 was given a reprieve but no matter how historic it was -- and it WAS; I am an architectural historian -- the Jamestown Bridge was doomed the second those filthy liars at the Army Corps said “oh, if you let us build a new one we promise to keep the old one for bicycle traffic, or pedestrians, or fishing…” I don’t need to see an indoctrinator because I see conspiracies; I now WORK for the Feds so fully understand how often lies and manipulation take place in our nation. So love your history while you can before someone feels the money they can make off of it is more important than its history. I have a lonnng list of National Register-listed or eligible resources that hit the skids due to arrogance and greed, and consultants like RI’s PAL, Inc. are MORE than happy to make $ off of their demolition.'
+
+- property: postcards-pvd
+  person: 'Al Rodgers'
+  date: '2014-07-28'
+  content: '<a href="#photo-17">Picture #17</a>. I was 13 in 1953 and would go to Lowe’s State by myself for a feature, cartoon and news reel. You could stay in the theater and watch the feature a second time if you liked. The squat building in the street in front of Lowe’s is a public rest room. Men down one set of stairs and women the other side down the stairs. You can see the WJAR radio station tower to the left of the Lowe’s sign. WJAR was owned by the Outlet Company, a general department store just down the street. My wife learned to swim at The Plantation Club just a few blocks up the street from Lowe’s — now the site of Johnson & Wales. The Industrial Trust Bank is the large yellow/white building to the left. That’s a UER (United Electric Railways) bus to the very right.'
+
+- property: postcards-pvd
+  person: 'Pete Falina'
+  date: '2008-04-08'
+  content: 'In <a href="#photo-13">picture #13</a>, immediately to the left of City Hall, you can see SS Kresge’s. Those big signs are long gone, as is the Kresge store, but the next time you pass, look up near the roofline. There is still KRESGE carved in a granite block.'
+
+- property: possner-castle-cranston
+  person: 'Michael Poole'
+  date: '2020-09-11'
+  content: 'I remember meetings there while I was a member of Fidelity Chapter of the Order of Demolay (the youth arm of the Masons) in the late 1960’s.  
+
+
+We also had monthly dances at the Edgewood Yacht Club down the hill. They were well attended by various chapters of Demolay and of course Rainbow Assemblies of girls. Kids came from all over the state.
+
+
+More than one of the Masons (advisors to our chapter) spoke of the history of the building. Apparently at point in time, it had a tunnel to the shoreline that had been used to smuggle in liquor during Prohibition.'
+
+- property: down-under-duckpin
+  person: 'Jim Nielson'
+  date: '2020-09-09'
+  content: 'I bowled there in the 1960’s and started working there when I turned 16 at the end of 1970. The owner was Ed Sullivan, not to be confused with the host of the famous TV show at the time. He offered me a weekend job and I worked there for 6 years until I graduated from college. I no longer live in RI. I have great memories of working there'
+
 - property: possner-castle-cranston
   person: 'Brian'
   date: '2012-10-30'
