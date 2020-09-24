@@ -80,7 +80,7 @@ Construction
 Historical
 + Blue Ribbon Beef
 + Crescent Park
-++ Postcards from the Past
++ Postcards from the Past
 ++ RI State Archives
 ++ RIPTA (2003)
 
@@ -92,7 +92,7 @@ Redeveloped
 ++ Brown and Sharpe Manufacturing
 ++ Trinity Rep Extension, Citizens Bank
 ++ Dunlop Tire / Providence Teaming Co.
-++ East Side Tunnel Reopened?
++ East Side Tunnel Reopened?
 ++ Engine Station #7
 ++ Hotel Providence / Lederer building and Bell dormitory
 + J & H Electric / Ship Street Lofts
@@ -163,11 +163,11 @@ Construction
 
 Historic
 + American Screw Company
-++ the Cove, now Waterplace Park
-++ Downtown Providence
++ the Cove, now Waterplace Park
++ Downtown Providence
 + Gorham Manufacturing
-++ Postcards from the Past
-++ Postcards from the Past 2
++ Postcards from the Past
++ Postcards from the Past 2
 + Providence 1903
 ++ Kennedy Plaza, Providence
 ++ State Archives
@@ -375,7 +375,7 @@ Still In Use (Some of these were added 2010)
 ++ To Kalon Club
 
 Urban Decay
-++ 398 Hope Street / Clark's Flowers
++ 398 Hope Street / Clark's Flowers
 ++ Feldman Furniture
 ++ Weeden Manor
 ++ Weybosset St Facade
@@ -447,7 +447,7 @@ Urban Decay (41)
 ## 2016
 
 Historic
-++ Providence 1975 – Dec 6 Added a new entry for a photo I saw in an office. I place the aerial photo circa 1975
++ Providence 1975 – Dec 6 Added a new entry for a photo I saw in an office. I place the aerial photo circa 1975
 
 
 ## 2017

@@ -55,6 +55,9 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 # Click tracking
 + Use GA to track the clicks on Surprise Me. I'd be interested to know if people use it. 
 
+# 101 North Main St and Two Thomas Street
++ Add links to those properties from the East Side Train Tunnel property page
+
 # 365 Eddy Street, circa 1900
 + Listed as "Joseph I. H. Banigan" in GM Hopkins map, 1937
 + Banigan: [http://www.riheritagehalloffame.org/inductees_detail.cfm?iid=517]
@@ -87,6 +90,9 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 # Kinsley Park
 + Research this place, another athletic field owned and run by the guy that started the Cyclodrome. Mentioned in the essay.
 
+# Millrace in Woonsocket
++ Many small buildings, a large mill, and public park space turned into housing. Neighborworks was the developer. Former Hardware store building used as business incubator. 
+
 # Moshassuck Square Historic District 1972
 + Already have American Screw… can add the old boiler building on the corner, former Bark street, as well as Canal House and the Stillman White and Fletcher Manufacturing Company. And that rounded corner building that is still part of the Providence Center.
 
@@ -104,6 +110,9 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 
 # Silver Spring
 * Find the old photos and rescan them. All are poor quality. 
+
+# “Stuck Up” Bridge over Seekonk River
++ Add a link to this property from the East Side Train Tunnel property page
 
 
 # RI Malleable Iron / Elizabeth Mill
