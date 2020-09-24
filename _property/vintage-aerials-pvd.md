@@ -34,6 +34,8 @@ images:
     caption: 'Photo by L. Baker 1903, with landmarks labelled'
   - url: pvd-1983-unlabelled.jpg
   - url: pvd-1983-labelled.jpg
+  - url: pvd-1995-downtown.jpg
+  - url: pvd-1995-hurricane-barrier.jpg
 
 imagescredit: 'L. Baker, 1903; Unknown circa 1981'
 ---
@@ -71,7 +73,7 @@ Labelled properties listed left to right — still standing unless noted:
 1. **First Unitarian Church**, Benefit Street, built 1816
 
 
-### Vintage View: [1983](#photo-3)
+### Vintage View: [circa 1983](#photo-3)
 
 Again, we were just sitting in an office for the first time and this photo was on the wall. It was a lawyer's office in the Turks Head building. They must have thought I was a little bit nuts to take photos of a photo on the wall, but we were fascinated with this 1980s-era aerial. 
 
@@ -94,4 +96,13 @@ Here is our list of significant landmarks, from left to right:
 1. _(unlabelled)_ **Providence Civic Center**, opened November 1972. Source: [Wikipedia](//en.wikipedia.org/wiki/Dunkin%27_Donuts_Center){:target="_blank"}
 1. _(unlabeled, not present)_ The **Route 6/10 connector** to I-95 was built in 1988. Source: [Wikipedia](//en.wikipedia.org/wiki/Rhode_Island_Route_10){:target="_blank"}
 
-It’s still crazy to us that the downtown Providence of our youth was overrun with railroad tracks and that Waterplace Park was not always a thing. This photo shows that very clearly. 
+
+### Vintage View: [circa 1995](#photo-5)
+
+This set of two postcards was found over time. We had one of them in our possession and passed over the second more than once because we thought it was the same view. Turns out it was probably the same helicopter ride. Here is why we place the date at around 1995:
+
+1. **The State Normal School** ([photo 5](#photo-5)) is still present on the site of what is now the Providence Place Mall. The Mall opened in 1999 after a prolonged period of excavation due to the ruins of the old state prison on the same site
+1. **The Westin Hotel** is present in the photo and it was completed in 1994 
+1. **Manchester Street Generating Station** ([photo 6](#photo-6)) is under construction in the lower left. It was renovated to be gas-fired and more efficient. It was complete and online by 1996. 
+
+It’s still crazy to us that the downtown Providence of our youth was overrun with railroad tracks and that Waterplace Park was not always a thing. The 1983 photo shows that very clearly. Even still, while it is more recent, the 1995 photo of I-195 splitting the city in two is hard to remember. 

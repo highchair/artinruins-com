@@ -30,6 +30,8 @@ excerpt: "During this park’s 90-year run, it entertained millions of New Engla
 thumbnail: crescent-park-studio-c1900.jpg
 
 images:
+  - url: crescent-park-sanborn-1899.jpg
+    caption: 'East Providence Plate 194, 1899 Sanborn Insurance Map'
   - url: crescent-park-pier-walk-c1900-projo.jpg
     caption: 'View of people walking down the pier to the ferryboats circa 1900, courtesy the Providence Journal.'
   - url: crescent-park-pier-c1900.jpg
@@ -75,7 +77,7 @@ images:
   - url: crescent-park-photo-studio-c2010.jpg
     caption: 'The old Crescent Park studio has been re-created by Ed Serowik at the still-operating carousel.'
 
-imagescredit: 'Postcards from various auction sites and Google Image Search. Few photos from the Providence Journal.'
+imagescredit: 'Postcards from various auction sites and Google Image Search. Few photos from the Providence Journal. Sanborn Map from the Brown University research collection.'
 ---
 
 ### Reason for Demolition

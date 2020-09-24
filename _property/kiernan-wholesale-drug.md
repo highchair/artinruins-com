@@ -27,7 +27,7 @@ gmap: "https://www.google.com/maps/place/3+Ship+St,+Providence,+RI+02903/@41.819
 meta: ""
 excerpt: "This handsome trapezoidal mill building with chamfered corner in the Jewelry District was converted to lofts in 2004."
 
-thumbnail: jh-electric-jh-2004-03-01.jpg
+thumbnail: jh-electric-jh-2020-09-01.jpg
 
 images:
   - url: jh-electric-jh-2003-03-01.jpg
@@ -42,6 +42,8 @@ images:
   - url: jh-electric-jh-2004-03-02.jpg
   - url: jh-electric-jh-2011-01-01.jpg
   - url: jh-electric-jh-2011-01-02.jpg
+  - url: jh-electric-jh-2020-09-01.jpg
+  - url: jh-electric-jh-2020-09-02.jpg
 
 imagescredit: 
 ---
