@@ -9,11 +9,11 @@ demolition: '1983'
 redeveloped: 
 decade: '1900-1909'
 date-added: '2004'
-categories: [ '#ArchiveRI', '#UrbandDecay' ]
+categories: [ '#ArchiveRI', '#UrbanDecay' ]
 neighborhoods: [ 'East Side', 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'HABS HAER' ]
+lists: [ 'Did You Know?', 'HABS HAER' ]
 tags: [ 'Demolition by Progress' ]
 
 NRHP-ref-number:
@@ -27,7 +27,7 @@ gmap: ""
 meta: ""
 excerpt: "In use for almost 70 years, the East Side Train tunnel burrows beneath College Hill and once connected Union Station to East Providence"
 
-thumbnail: 
+thumbnail: es-train-tunnel-habs-1983-01.jpg
 
 images:
   - url: es-train-tunnel-benefit-st-01.jpg

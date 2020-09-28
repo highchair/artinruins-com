@@ -22,7 +22,7 @@
         <div class="taxonomy__title-wrap">
           <h2 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}" class="taxonomy__link">{{ item.title }}</a></h2>
         </div>
-        <p class="taxonomy__excerpt">{{ item.excerpt }}</p>
+        <p class="taxonomy__excerpt">{% if item.update %}{{ item.update }}{% else %}{{ item.excerpt }}{% endif %}</p>
         <p class="taxonomy__meta">
         {%- if item.categories.size > 0 -%}
           {%- for category in item.categories -%}

@@ -71,6 +71,9 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 # El Faro / Krystal's Diner
 * Photo in Eagle Square from Sarah, Feb 2002: P1010087.JPG, P1010088.JPG, P10100100.JPG
 
+# Fogarty Building
++ Find my photos of the demolition or scour the innerwebs for demolition photos
+
 # Furniture place, Atwells Ave
 * Photo in Eagle Square from Sarah, Feb 2002: P1010098.JPG, P1010099.JPG
 

@@ -3,6 +3,7 @@ title: "Ward Baking Company"
 slug: ward-baking-co
 aka: 'Victory Plating/Victory Finishing'
 date-modified: 2020-09-01 12:00
+update: '<b>Demolition by Neglect:</b> The owner is seeking emergency demolition permission on the only remaining section due, in part, to their own lack of maintenance of the building.'
 
 built: '1901–1956'
 demolition: '2012'
@@ -22,7 +23,7 @@ longitude: '-71.4089601'
 gmap: "https://www.google.com/maps/place/461+Eddy+St,+Providence,+RI+02903/@41.8154927,-71.4089601,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456a14bd66f1:0xd2dbfce59fc96a1f!8m2!3d41.8154927!4d-71.4067714"
 
 meta: ""
-excerpt: "<b>Demolition by Neglect:</b> The owner is seeking emergency demolition permission on the only remaining section due, in part, to their own lack of maintenance of the building."
+excerpt: "A large parcel of land on the edge of the jewelry district whose 1- and 2-story buildings were razed by speculation but nothing yet occupies the site."
 
 thumbnail: 'ward-baking-pps-2011-02-01.jpg'
 

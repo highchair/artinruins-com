@@ -202,7 +202,7 @@ Redeveloped
 ++ the Wilkinson Building / for. Lerner Dept Store (added 2004, expanded 2005)
 
 RIP
-++ Fogarty Building
++ Fogarty Building
 + JG Goffs
 + Merchants Cold Storage
 ++ Phenix Mill
@@ -251,7 +251,7 @@ RIP
 Urban Decay
 + Brownell and Field / Standardized Wholesale Liquors
 ++ Fort Adams
-++ Lincoln Amusement Park
++ Lincoln Amusement Park
 ++ M. N. Cartier & Sons Co. / 1107 Westminster
 ++ The Milk Can
 ++ Rolo Building / DM Watkins Co.

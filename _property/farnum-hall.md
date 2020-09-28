@@ -50,7 +50,7 @@ imagescredit: 'Contributions from Google Streetview, Daniel Penfield for Wikimed
 
 ### Reason for Demolition
 
-Somewhat sadly, the one-time east side residence hall for the Rhode Island School of Design outlived its usefulness as a dormitory. It was erected in the mid 20s and was constructed quickly and cheaply. Extensive damage to the foundation from years of being built atop the [East Side Railroad Tunnel]({% link _property/east-side-railroad-tunnel.md %}) took its toll. Fancier accommodations at 15 West (the former [Hospital Trust building]({% link _property/hospital-trust.md %})) could house 500 more students, so Farnum Hall was no longer needed and not viable for repair and rehabilitation. 
+Somewhat sadly, the one-time east side residence hall for the Rhode Island School of Design outlived its usefulness as a dormitory. It was erected in the mid 20s and was constructed quickly and cheaply. Extensive damage to the foundation from years of being built atop the [East Side Train Tunnel]({% link _property/east-side-train-tunnel.md %}) took its toll. Fancier accommodations at 15 West (the former [Hospital Trust building]({% link _property/hospital-trust.md %})) could house 500 more students, so Farnum Hall was no longer needed and not viable for repair and rehabilitation. 
 
 It seems as though RISD put in a good effort to study the feasibility of saving the building. Eventually the Providence Historic District Commission granted the request for demolition. To RISD’s credit, a lovely bit of green space has been created in its place in a dense College Hill residential neighborhood. 
 
