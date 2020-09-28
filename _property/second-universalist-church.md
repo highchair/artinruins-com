@@ -27,6 +27,8 @@ excerpt: "This mid-1800s structure was one the few examples of Providence’s em
 thumbnail: second-universalist-jh-2004-02-02.jpg
 
 images:
+  - url: second-universalist-ppl-1920c.jpg
+    caption: 'Emery’s Congress Alleys were in business at the corner of Eddy and Westminster from about 1910-1935 offering bowling and billiards during the heyday of Weybosset Street in Providence as an entertainment district. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library.'
   - url: second-universalist-jh-2004-02-01.jpg
   - url: second-universalist-jh-2004-02-02.jpg
   - url: second-universalist-jh-2004-02-03.jpg
@@ -43,7 +45,7 @@ images:
   - url: second-universalist-goog-2015-01.jpg
     caption: 'Google Streetview from September 2015'
 
-imagescredit: Contributions from Google Streetview.
+imagescredit: 'Contributions from Google Streetview and <a href="//provlibdigital.org/islandora/object/islandora%3A4813" target="_blank">Providence Public Library</a>.'
 ---
 
 ### Reason for Demolition

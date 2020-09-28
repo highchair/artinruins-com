@@ -2,7 +2,7 @@
 title: "American Screw Company"
 slug: american-screw-co
 aka: 'Eagle Mill, Eagle Screw Company, Bay State Mill'
-date-modified: 2020-09-11 16:00
+date-modified: 2020-08-04 12:00
 
 built: '1840–1873'
 demolition: '1971'
