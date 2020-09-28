@@ -1,6 +1,6 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: east-side-train-tunnel\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: lincoln-park-ma\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
 # Replace: - property: east-side-train-tunnel\n  person: '\1'\n  content: '\2'\n
@@ -12,6 +12,291 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: lincoln-park-ma
+  person: 'Dawn Oxnard' 
+  date: '2017-10-03' 
+  content: 'I used to compete in roller skating with the RIFSC from Riverdale Roller World in Warwick. We had a meet/competition at the Lincoln Park rink back in 1983/1984. As part of our fun, anyone competing got to go into the park & ride all the rides for FREE! It was awesome, but back then, I was only 9/10 yrs and not the fan of coasters I am now. I watched my Mom & some of my older friends go on the Comet and to this day, I still regret not riding it myself.'
+
+- property: lincoln-park-ma
+  person: 'Elizabeth Palm' 
+  date: '2016-09-14' 
+  content: 'When my kid brother was three (in 1948) he was dressed in a Sailor suit when my sisters took him to the Park. One sister asked a Sailor friend to take him on the stage for the Annual Children’s Beauty Contest. The sailor was, of course in his sailor suit, too. My brother won and his prize was a doll. (At that time he had long banana curls, with natural curly blond hair and blue eyes.)
+
+
+And when others commented on him being a good looking girl, he would say, "NO, I AM A BOY!" Shortly after his win, my father insisted that he get a boy’s haircut. Perhaps the contest sponsors expected a girl to win, so had a doll waiting for the winner. 
+
+
+As a senior in High School, I was at the park with friends and saw one of my classmates betting on one number. But, she kept losing. It was my lucky number, 13. When she walked away, I put a dime on 13 and won. Some said I should give the prize to her since she was trying to get a suitcase. But hey… my family wasn’t made of money, either, And I was very young. If it happened today, she would have had whatever she chose and I would have wished her well. At that time, I chose a lamp. 
+
+
+On weekends in the fifties, we roller skated, bowled, and danced in the Ballroom to the bands. Rock and roll — the new music — was just starting in ’56, and we needed to learn all about it. Elvis was on TV and from then on other singers could never compare to him after hearing him on Ed Sullivan. The Park with the grand ballroom was the best place around to meet friends old and new. And clambakes for annual outings for my father’s work, they were great, too. We lived in Fairhaven near the water, and seafood was the best and inexpensive. The best thing (besides the anticipation that kept building) when planning an outing at the Park — was bringing picnic baskets and using the picnic area. And, not getting frisked or entering through a metal detector at the gate.'
+
+- property: lincoln-park-ma
+  person: 'Zack' 
+  date: '2016-01-24' 
+  content: 'My mother, as a child growing up in SE Mass, with her family, would go here once a year. An interesting side story to that, is the year my cousin Amy had her b-day party at Caddyshack, a mini-golf joint across the road from Lincoln Park. Anyone know if Caddyshack is still open?'
+
+- property: lincoln-park-ma
+  person: 'AW' 
+  date: '2014-04-29' 
+  content: 'This was one of my first urban exploration projects at night (night photography is my specialty) and I too some neat photos, albeit not really knowing what I’m doing. Sadly, the site is now completely flattened and no remnants remain. I would have liked to go back one more time to capture the space in its degraded form.'
+
+- property: lincoln-park-ma
+  person: 'Jeff Kline' 
+  date: '2013-03-04' 
+  content: 'One of the park owners, Harry Prince, was my great uncle. As kids, we had many family birthday parties held at Lincoln Park. It is really a shame that the roller coaster could not have been saved/reassembled. My mom told me that I had to wait until my 12th birthday, before I could go on the “big” coaster. I loved it! It was a shame to see it go. I am surprised that nothing ever happened to the site. On a trip to Horseneck Beach, several years ago, I almost could not even FIND where it once stood…  So sad over this…'
+
+- property: lincoln-park-ma
+  person: 'Geraldine Vieira' 
+  date: '2012-12-28' 
+  content: 'i am looking for the dvd or vhs of the lincoln park remembers. the history and film of the park. i went to newsbreak in swansea, mass. and bought a dvd, but it would not work said there was a error on the dvd. is there somewhere else where i can buy or order it. my sons and my whole family just loved lincoln park and would like to get dvd for my sons and grandchildren to see how much fun we had there.'
+
+- property: lincoln-park-ma
+  person: 'Daniel Oliveira' 
+  date: '2012-07-18' 
+  content: 'I had allways went to the park when I was younger and remembering how loud the fireworks were. I can still picture the park’s lighting sound and smell in my mind. I also worked there as an electrician for Joe Grassella and his son Jim who was very knowledgeable about the park. Toward the end the owner Harry prince had asked me to be the superintendant, so I was there till Jay hoffman bought it the left before the electrician that took my place. He was kill on the large coaster. I remember while playing with Johnny and the blue jays in the tap room how people would ask Why does the bass player put the guitar down in the middle of the song and leave then after a while come back pick up the guitar and start playing again. Well no one knew I had carried a radio and that being on salary I had to also had to deal with the problems in the park.
+
+
+I remember alot of the good times with people that worked there and the years I spent there but I guess it hit me when I seen pictures of the coaster comming down. I would like to thank a few of the people that I remember by name and there are many that the names that I have for gotten but I can picture them in my mind.
+
+
+Thanks to Joe Grassella ,Jim Grassella,  Slim and Shirley Mc Connell John Rebello and family, Harry Prince Earnie Maritti Nobert Pont, Ray-Led the grand march in the ballroom Manny Viera and Andy in maintaince Dick Bohn who originaly help build the Comet Coaster in 1943, Rousseau in the arcade an Dominic Spidola The park artist that also did work for Cresent park.Althogh he wasn’t a tall guy, he did big things as an artist there . I could tell how heart broken he was when they came in and sprayed all the buildings battle ship grey and many other people though the years that worked there.. I will always remember Lincoln park’s sign and the penny on the penny arcade. I will always remember one the parks clean up men. A potuguese guy named tony who I gave a Lincoln Park cup to because he was going back to portugal. You might have thought I gave him a million dollars.     Now its gone forever!'
+
+- property: lincoln-park-ma
+  person: 'JULIA M DEMPSEY' 
+  date: '2011-12-15' 
+  content: 'I am originally from Rhode Island and have now lived in Florida for 17 years. I too as a kid remember going to Lincoln Park with my mom, aunt, grandma, and great grandma. I remember on Sunday evenings after dinner watching The Lawrence Welk show and seeing the The Semonski Sisters. The Semonski sisters were a family musical act that appeared on television from 1975 to 1977. I received a signed photo of them and had my picture taken with them as well. I was only 9 years old and hold this memory in my heart as it was at a time when my family was a family still. I had so much fun as a kid and completely enjoyed eating the food while at the park. I knew once we went of the Fall River bridge that we were heading to Lincoln Park!  I remember that I hated when we went over the bridge I would get so scared and once we were over the bridge I continually looked out the window to try and see the park as we approached. In 1978, I moved across the street from Cresent park, which was also closed down and abandoned in 1979. I remember as a kid lets call it breaking into the park that was closed and going into the shore dinner hall and gathering up all the tickets from the game machines and with our friends in tow we would all pretend to be enjoying the park and playing as if we were a family visiting the park. What we think of later in life is amazing. To think that life back then was just so innocent and playful. Today living in Florida my family and I hold and have held annual passes to Disney World, Universal Studios, in orlando. We today attend these huge theme parks and have the time of our life. I hope that they remain around for a long time so that my child can take his children there and enjoy his family time and remenisss of enjoyable times with the family as a kid. Love and miss Lincoln Park and Cresent Park you have surely been missed but still hold in my heart some great memories of family time fun and great food!'
+
+- property: lincoln-park-ma
+  person: 'Marie Landry' 
+  date: '2011-09-08' 
+  content: 'I remember going to Lincoln Park many times in my youth. I lived in Taunton which wasn’t too far from there. One time, it was Kiddies Day and that was the day every year when the area schools went to Lincoln Pk by buses. I went with my mother and I won the Miss Taunton Daily Gazette contest. It was like a beauty contest for kids. I won a doll and had my picture in the paper. I had platinum blonde hair in those days and I think that’s what did it for me. When I was a teenager, my parents took me and my friend to the park to see Dwayne Eddy. We waited and waited. They kept telling us he was held up but would be there soon. He never showed up. We got taken. It was a great place for a date. I went on the large roller coaster as a teenager on a date. I never went before and never after that. I loved the Penny Arcade and several of the rides. Today, just for the heck of it, we went by the place. It’s all grown over. The buldings are all gone but I can still see the top of the roller coaster. I almost cried at the sight of my beautiful Lincoln Park. Things never stay the same. It was a kind of sad day.'
+
+- property: lincoln-park-ma
+  person: 'Scott' 
+  date: '2011-08-07' 
+  content: 'My Grandparents lived up Fisher road… Went every summer I visited them in the 70’s with my cousins, I did not go on the coaster but every other ride I could, and shows were good. My mother told of the story when the cars flew off the coaster in the 50’s or around then…'
+
+- property: lincoln-park-ma
+  person: 'richard' 
+  date: '2011-06-06' 
+  content: 'its sad that it’s gone, what’s even sadder we live in a world that we make our own money,bring back the old days ,bring back the park ,give the people something to go to and have fun ,life is short. Enjoy it'
+
+- property: lincoln-park-ma
+  person: 'peter' 
+  date: '2011-05-16' 
+  content: 'i still have 1965 tickets… for .10 cents… in great shape…'
+
+- property: lincoln-park-ma
+  person: 'leonard leoncello' 
+  date: '2010-12-15' 
+  content: 'I remember going to lincoln park in the 70s and 80s ,seeing Danny and the Juniors. For those who dont know them, they had a hit song way back called “Lets go to the Hop”. I’m only 44 years old but the music was great. and of course the comet and the old fun house the round up and i can go on. Its sad that hoodlums had to destroy what was left of the park which was pretty much everything, until the park was set on fire a bunch of times. well at least we have the memories.'
+
+- property: lincoln-park-ma
+  person: 'bob murphy' 
+  date: '2010-11-24' 
+  content: 'My thoughts of Lincoln Park go back to the early 1950’s. My family would spend all day Sunday at the Park. In those days, they had a band named Eddie Zack, and Cousin Richie (Country Music). The rides, food (especially fried clams) and music will be remember forever.'
+
+- property: lincoln-park-ma
+  person: 'jennifer' 
+  date: '2010-08-21' 
+  content: 'I miss mt park my mom use to bring me there as a kid, i am now 35 yrs old and realize that i was was lucky to experience this place.'
+
+- property: lincoln-park-ma
+  person: 'Bill Pacheco' 
+  date: '2010-06-17' 
+  content: 'Its like the loss of a old freind .I rember years of roller skateing so many old friends the ballroom for the dance ,Bowling even if i wasnt very good bt it was fun.It was a innocent time with good clean fun.Its gone now and tis gemeration never had the chance to see it .Guess we were blessed wernt we .Good bye old friend thanks for the memories'
+
+- property: lincoln-park-ma
+  person: 'Mark' 
+  date: '2010-05-24' 
+  content: '  have lived in the North Datmouth area for years, I can’t remeber how many times my parents took mt to LP untill the the day it closed in the late 80s. For me it has so many great family memories. It saddens me to drive by it on a daily basis watching it slowly being erased into history. I recently “snuck“ into the park for a memory ride of of the Commet, even took some picx and grabed a piece of the shattered and rotted wood for a souvineer. It’s so sad to see the great parks from the past being slowly erased by time. Future generations will never know what fun we had and the good times we shared there.'
+
+- property: lincoln-park-ma
+  person: 'james whittaker' 
+  date: '2010-04-12' 
+  content: 'i remember the old roller coster tryin to sneak on becuse u wasent tall enough to get on it and all the other rides i could i really dont remeber to much of it but i do remeber some what it was fun i was only 7 when i was there last im 34 now so its been a very long time it was fun and i will always miss it thank you for the memories'
+
+- property: lincoln-park-ma
+  person: 'Cris H.' 
+  date: '2009-10-05' 
+  content: 'I worked at LP for 15 seasons and loved the park since I was a toddler. my brother and I use to go under a desk we had as kids and play that we were going in the car to LP. My cousin Slim was the Concessions manager there for 45 years and lived in the house in the parking lot. The greater part of my youth was spent hang out and working there. the lights and music were magic. If you love Lp buy thebook LP remembered at Barnes and Knoble. If any one I worked with see this give me a shout. LP memories rule.'
+
+- property: lincoln-park-ma
+  person: 'Pete Grenier' 
+  date: '2009-08-12' 
+  content: 'I grew up in Fall River, I now live in Sparks, NV near Reno, NV. I can remember going to Lincoln Park almost every summer. The last time I was there in 1987, my ex wife and my son and I drove cross counrty from Los Angeles so I could show them where I grew up. We were driving on Rt 6 going to Cape Cod, we passed by Lincoln Park. We turned the car around and spent 2 or 3 hours there, reliving my childhood. Oh what a shame what has happened there. Yes Lincoln Park will live with me forever. Thank you Lincoln Park for all the great memories.'
+
+- property: lincoln-park-ma
+  person: 'Kerri-Ann Pontifice' 
+  date: '2009-06-09' 
+  content: 'I went to the park today to take some photos and do a bit of exploring. You have to drive around a bit, but its fairly easy to find portions of the fences that are torn down so you can get in. Some entrances are very wooded. There is a fence around the roller coaster, because its literally falling apart. If you go around there are paths leading to small things like rundown concession stands, the outer structure of what once was a carousel, a tilt-o-wheel platform, and lots of colorful/somewhat obnoxious graffiti. There are ways to walk right into the fence guarding the roller coaster, but they are built up or dangerous. The entrance to the coaster says “Enter the vagina of hell.” Its understandable since accidents and fires have occurred here. I tried to cross over the lower tracks of the coaster, but this was a bad idea; the floor board I stepped on fell in. The closer you get to this roller coaster, the stronger the odor of a charred structure becomes apparent. If I didn’t know any better I would think the thing was on fire while I was there.'
+
+- property: lincoln-park-ma
+  person: 'Bob Freitas' 
+  date: '2009-03-21' 
+  content: 'The days of Lincoln Park were the best days of my life. I worked at the park in the early 80s. I started working at a building called Front French. I cooked clam cakes, french fries, clam strips and shrimp. I then got promoted to yard crew. The job of a yard crew person, was to make sure the food stands were stocked. The friends and relationships I formed were unforgetable. I still keep in contact with Tom Barboza and Kurt Santos who also worked there. And recently, I came in contact with a person who ment a great deal to me, her name is Diana Barros. I just wish I could get a hold of the other people who worked there when I did.  We could have a big reunion party!'
+
+- property: lincoln-park-ma
+  person: 'Sonny Tavares' 
+  date: '2009-01-23' 
+  content: 'Oh, the memories! going to the sock hops on Friday night. a gang of us guys from the South End of New Bedford. The Water St. boys would go and cruise around the dance floor, checking out the babes, getting our groove on. Bands from the 50’s and 60’s would come and entertain us. Sometimes there were fist fights with rivals from Fall River and other places. We were “Greasers”. Those were the days!'
+
+- property: lincoln-park-ma
+  person: 'keith' 
+  date: '2008-08-28' 
+  content: 'I grew up visiting Lincoln Park in the 70s and 80s. I will always remember traveling up Rt. 6 from Wareham and looking out the window to see the giant “seahorse” and know that it only meant one thing... We were going to Lincoln Park! When my little league baseball team won the championship, in stead of going to Disenyland, we went to Lincoln Park. When my cousins would visit from out of state, we went to Lincoln Park. It has been a part of my Summertime fun since the second grade. My Dad also remembers going to see “Chief J Strongbo” wrestle at the park when he was growing up. My last memory of the park was in the Summer of 86 with a girl I was dating only to realize that it was the first time I had been to the park without my parents present. NERD!
+
+
+Then in the Mid-90s I moved to Holyoke and discovered another great amusement park that had also closed in the late 80s. “Mountain Park” started out as a trolley park and evolved into an amusement park just like Lincoln Park. Both carousels were made by the same company. In looking at the pictures of the park and its many differnet rides I noticed the same identical pastel colored structures located in both monster rides. I investigated furtehr online to discover that the same artist worked for both parks and the owners were the same too. The MT. Park carousel had also been relocated to Holyoke’s Heritage Park which is located across from Holyoke’s Police Department. A pavillion and a walk over structure for the Mini-Golf area are the only things left standing from the multiple fires that also plagued Mountian Park. The simalarities of the two parks are uncanny to say the least. I also learned that most of Mt. Park was still standing in 95 when I moved up, but did not discover the park until most of it had burned down.  When I was younger and we would visit family in Holyoke, we would always travel to Riverside Park which is now Six Flags New England. At that time Mt. Park was deemed unsafe due to the bus loads of New York residents that would attend the park on weekends. Then I discovered that I had attended Mt. Park when I was younger. My Mom gave me a photograph me riding on the carousel with her when I was only 12 months old. I will end with the fact that Lincoln Park was the only park for me!'
+
+- property: lincoln-park-ma
+  person: 'Lori (now in Texas)' 
+  date: '2008-08-03' 
+  content: 'Just down Rt.6 for me. Just to see that ferris wheel going round, dad couldn’t get in the parking lot fast enough! The sound of the roller coaster and the kids screaming, cotton candy stuck to your fingers, candy apples, soda and popcorn, lost in the fun house, kiddie train, monster ride and cooling off on the merry go round while dad waved at us. Told that grandfather worked the coaster part time. He could ride standing on side and holding on (after hrs. we hope).'
+
+- property: lincoln-park-ma
+  person: 'Pete' 
+  date: '2008-06-05' 
+  content: 'Wonderful memories, and many visits from me from the late 60- closing. So much so we started a website dedicated to the memories and history http://www.lpcomet.com">www.lpcomet.com (now defunct)'
+
+- property: lincoln-park-ma
+  person: 'Judy Serdahl' 
+  date: '2008-05-03' 
+  content: 'Looking at the pictures of the ruins of Lincoln Park is just heart wrenching. The park was such a big part of my life from the time I was a little girl until the day it closed. Once a year my mother would take us kids (if we were good), and we would spend the whole day just running around like crazy people. When I was old enough to work, I got a job working in the concession stands when minimum wage was something like $3.65 an hour. Fried dough, candy apples, cotton candy, and clam cakes, I sold them all. Sometimes my German Shepard, Mickey, would sneak in through the back gait (we lived on Reed Road) which got me into trouble a time or two. He was just following his nose to the great smells though, he didn’t mean any harm. On my day off I would often go to just hang out and ride my favorites like the Comet, the Whip, or the Bumper Cars, but I loved all the rides.  Quite a few romances blossomed there, too, those were the days.  Nearly thirty years later, I still have vivid dreams of that coaster – Six Flags, Disney, and Universal don’t hold a candle to that crickety wooden track. I’ll never forget that treachorous plunge that made you come right out of your seat! After the park closed, I worked on weekends at the Flea Market selling things for my landlady in the old ballroom, but it just wasn’t the same. Once the rides were auctioned off and they vandalized what was left on the deserted grounds, it became difficult to even drive by any more to visit my mother. But Lincoln Park will live on forever in my heart and in my memory, as I’m sure it will for thousands of others who enjoyed it as much as I did.'
+
+- property: lincoln-park-ma
+  person: 'Mike Hamer' 
+  date: '2008-04-09' 
+  content: 'My favorite place in the world! As a child of the 60’s-70’s, my parents would load the four of us kids into the station wagon, sometimes with a couple of extra friends for our annual summer pilgrimage from the Cape to Lincoln Park. We wore our hand stamps like diamonds, and jumped from ride to ride like chipmunks on mochachino. Hands down, without a doubt, the Comet ruled! My cousin Steve Hill, God rests his soul, was one of the last of the famed roller-coaster operators, and the stories he would tell... Before his day, there was the old guy with the wooden leg. Did anyone have the brass to ask him how he lost it? Of course us kids assumed it went without saying was an obvious  occupational hazard that any man would eventually incur if they stood on that grey platform hoisting the little ones from the carts on a hot August day, then pulling the large wooden levers that would start the carts rolling into a sea of adrenaline. I can still remember the day that I finally measured up to the height chart for entry, almost as a right of passage to teen-hood. Surely anyone who could survive the Comet, would walk their path on earth from that day on, a little taller, a lot braver. Clam Cakes, Popcorn and Cotton Candy was the breakfast of champions for park goers. And in the 70s, everything was groovy, and Lincoln Park was the epicenter of cool. The funhouse was like walking into a different dimension, and a view from atop the Ferris Wheel provided a view like looking into a field of neon and human ants. My first bona-fide addiction was to Skee Ball, where we would typically end our day. And the drive home, always quiet. Driving past the park as we left, hoping to return again one day. Maybe with our own families, to pass down the tradition that was handed to us, on a sticky, red-and white striped paper cone. All that is left now is fading memories, and nostalgic photos of great times past, with family and friends, at the greatest place in the world.'
+
+- property: lincoln-park-ma
+  person: 'Lisa' 
+  date: '2008-03-19' 
+  content: 'Growing up I spent countless days and evenings at Lincoln Park.  Summer family outings were common. My parents would take my sister and I and we would meet my Aunts, Uncles and cousins. Probably a group of about twenty including my VaVoa who enjoyed just sitting by the rollercoaster and people watching. As a teen, Friday nites were spent at Lincoln Park with friends. My uncle, Roland Barros, worked the “baby” rollercoaster – which made me and my friends feel like we were important!! Favorite rides were the Paratrooper where you got a good view of everyone else(boys!) at the park and the Monster Ride. We used to jump out of our carts and wander through the ride! I never went on the Comet! It was forbidden by my parents as “unsafe”. By the time I was old enough to go without them – I was too chicken! Something I will always regret... On Saturdays we would go roller skating. My mother used to make me and my friends our skating outfits and matching pom-poms for our skates. My boyfriend and I use to love to go on the Ferris Wheel at nite.(Except for the time some drunken fool in a car above us tipped his beer on us!) The last time I went there was their last season. I took my then two year old niece. I have wonderful pictures of the day we spent there. Especially of her riding Mother Goose – a favorite book of hers at the time. What a wonderful place it was... Although I and others are filled with sadness when we drive by and see what remains of our beloved park, I hope the families of all the owners of Lincoln Park realize what a great heritage they have – their families brought so much joy and happiness to so many people for so many wonderful years.'
+
+- property: lincoln-park-ma
+  person: 'Jason Pereira' 
+  date: '2008-03-07' 
+  content: 'My grandfather Jimmy Brock Pereira use to play with the Al Rainone band. My uncle worked for Lincoln Park for many years. I worked at the park for a summer in 85, I ran the kids boats. I would really like to find more pictures of my grandfather. I’m also hopefully somebody knowing the where abouts one of my Grandfathers Sax is will contact me. My son who is name Brock is a natural at the Saxophone and would love to pass it on to him. – jetmech [at] gmail [dot] com'
+
+- property: lincoln-park-ma
+  person: 'Brad Mandell' 
+  date: '2008-02-23' 
+  content: 'My memories of Lincoln Park go back to the late 40’s and through the 50’s when I went to Lincoln Park, first as a kid and later as a teenager. Those memories are with me and make my trips to our local amusement park with the grandchildren into memory lane. A former classmate sent me this YouTube archive film of Lincoln Park with a song about the Park from Johnny Botelho’s CD - <b>I’m Home</b>. <a href="//www.youtube.com/watch?v=JFJSPHjyFKs" target="_blank">What memories!!</a>'
+
+- property: lincoln-park-ma
+  person: 'Steve Mathias' 
+  date: '2008-02-23' 
+  content: 'I had been going to the park since 1975, for the rides and rollerskating. I learned how to shoot pool in the gameroom, and am now a pretty accomplished pool player. We always had a group of 5-12 kids that met there every weekend. I grew up about 3 miles from the park and I worked there the summer of 1987, mostly operating many of the rides. I remember the owner promising a sizeable bonus for the people who worked there through the entire season, but that never happened. Oh well. It’s too bad my kids didn’t have a place like that to hang out in thier teens. Good cheap fun.'
+
+- property: lincoln-park-ma
+  person: 'cindie'
+  content: 'I loved Lincoln Park and was always excited when my parents took me there. I loved the smell of the clam cakes with lots of vinegar… the roller coaster and class outings at the ensd of the school year. As I got older I enjoyed the skating rink and fell in love at my High School prom in the Dance Hall. It was a wonderful place to visit.'
+
+- property: lincoln-park-ma
+  person: 'Mary T. Lanning Loiselle'
+  content: 'As a young girl I loved going to Lincoln Park with my parents and my younger Sister, Helen and Little Billy later to have my Parents bring my new Little Brother Johnny there also. The memories are so great, The Ferris Wheel, where I would scream when the young boy who ran it would stop it at the top when I was in the car. He always laugh when we descended and I begged him never to do that again because my brother Billy, would start to shake the cart and I would scream to Heaven to get me down. But that guy always spotted me and would stop it at the top, Like the Freddie Cannon Song, “Stop at the top of the Ferris Wheel”. But for me it was a nighmare being only 10 or so. But I never gave up a chance to ride on that Ferris Wheel. I liked the games they had there, I would please please plese Mar give me a nickel I know the number the wheel is going to stop on. My Mother always said, the only time we will get a red light is when we are driving home, a red light on the wheel meant you got a Ham. Wow, we always were hoping for Mom to win that ham, she did and we were the happiest kids around. Such great memories, so many moments in my heart and mind to say this was the carefree era. I have so ma ny stories I could go on and on. Lincoln Park, You Always will be what we were all about, no fighting no picking on people, no dirty talking only good, good times and always leaving a little happier then when we got there. I Love You Lincoln Park of North Dartmouth, Massachusetts, you were a big part of my youth.'
+
+- property: lincoln-park-ma
+  person: 'Deb'
+  content: 'in case anyone was wondering the ferris wheel from lincoln park is in new bedford near the water down by davy jones restaurant… they gave it a new paint job and it brings back many memories. i was stopped at the top when the Comet derailed when we got off the ride and headed to the roller coaster that is when we heard what happened. i am glad we rodee the ferris wheel first!!!'
+
+- property: lincoln-park-ma
+  person: 'Cathy Webb'
+  content: 'I Loved Lincoln Park we went every year on my birthday July 7th and set at the picnic tables by the baby roller coaster Me and all my sisters and brothers enjoyed Lincoln Park My favorite memories are the baby roller coaster the train ride the boats kiddie land and I also remember Rex Trailer always there on his horse  he was from boom town  another favorite of mine I also Loved the place where you can make your own painted picture swirls of colors I can still smell the paint So sad that it closed I and my family went through the 70s my bestest child hood memories getting my hand stamped and riding all day free and in the evening after spending the whole day there we’d stay a little longer to see the night lights of the park so pretty then we’d go home I remember always sleeping on the way home after such a great day at the park I also remember meeting Helen Reddy once she was standing at the exit saying goodbye to every one as we left  WOW so much fun  GoodBye Lincoln Park you will always live on in a lot of Hearts of the inner children and Im one of them my inner child thanks you and bye Rex Trailer of Boom Town I miss you too  Loved it still do in my memories '
+
+- property: lincoln-park-ma
+  person: 'Sherry Schultz'
+  content: 'I worked at Lincoln Park from 1977 – 1981 in the food concessions – I worked in the cotton candy stand by kiddie land – then at the fried dough stand – eventually getting my own stand which was the snow cone booth by the bubble bounce ride… those were the best years of my life… I remember Ernie Mauretti the park General Manager so vividly – standing by all about 5’ tall with a huge cigar hanging out of his mouth – and always standing by the hand stamp booth or at the top of the stairs near the office/tap room… sometimes the owner Harry Prince would be right by his side – standing about 4’8” tall with an even bigger cigar – I could tell so many stories – but I met a couple of very good friends working there – Karla, Brad, Mike &amp; Doug Amaral – Trisha Tripp, Alan (can’t remember his last name) and I could go on and on… it–s too bad the children of today from the Fall River area didn–t have this to enjoy… '
+
+- property: lincoln-park-ma
+  person: 'Tony Biello'
+  content: 'Growing up 1 of 5 children in the family money was very tight. I remenber waiting all year for that one time that my mother would take us to the park. We would get our hands stamped and ride all day. The stories that were told to us about how my parents would go dancing there on the weekends before they were married leaves these romantic thoughts in my head. I myself moved down the street a few miles from it in 1983 and remember it still being open and was sad to see it shut down in 87. There was always the hope that it would re-open but after the fires I knew it would not. It’s kind of sad to see that it will be developed but I must say that at least the property will be used again and not just sitting there looking like an eye soar.'
+
+- property: lincoln-park-ma
+  person: 'Meaghan'
+  content: 'Its weird to read about this park as I had often heard stories about it as a kid. My father was on the coaster in 68 when the last car derailed. I often heard stories of how my mom who was at that point only dating my dad was standing at the farthest side away from the crash when a little boy came running around the corner singing the coaster crashed the coaster crashed. Luckily my dad was not hurt but supposedly did get into to trouble because instead of waiting for help he climbed down out of the coaster.'
+
+- property: lincoln-park-ma
+  person: 'Jack Marino'
+  content: 'Lincoln Park was owned by my Grandmother\’s cousin, John Collins. My Grandmother was Elizabeth (Magloan)Powers and she lived in Brookline MA on the same street as Joseph P. Kennedy before he married Rose. My Grandparents used to take my brother Bob and me (Jack) to Linclon Park when we were kids in the early fifties, I have some old black &amp; white 8mm movies of a visit to the park taken by my Grandfather about 1952. I still have fond memories of the Park and some stories told to me by my Grandmother. It’s sad to have the Park gone and I hope that people can at least keep the memories alive through the web. Can we submit photos that we have?'
+
+- property: lincoln-park-ma
+  person: 'Joseph Napolitano'
+  content: 'Well… I finally got on the motorbike yesterday (JUNE 21 2007) for my long delayed adventure to explore  and photograph what was left of a terrific childhood memory… LINCOLN PARK. As a man in his 40’s I recall countless great times at the park... particully the coaster and to be  now standing there in front of what was left of this amazing ride yesterday was kind of heartbreaking. The same rider boarding station I would run back up to reride the coaster for the 30th time as a child that day now stood before me colapsed… though much of the ride is intact compared to the rest of the park. As I walked the grounds, I was trying to recall the proximity of the rides to the coaster… I believe the bumper cars were nearby as well as the full house of mirrors. The flying chairs ride I beleive was at the other end of the park. Of course now it all being over grown it is hard to tell where everything was situated. A few concession stands remain and I think a horror house too… a bit charred out etc… as I do not recall the four devastating fires that took down much of the park in the 90s. Kind of eerie, ghostly and mostly sad to witness what was such a vibrant park to now appear to be something from a sci fi movie set. Anyway… the memories were great and like many who have seen her up close past and present will always have those wonderful memories of Lincoln park. If anyone would like to see pix from what remains i would be happy to email then to you… they are bit grainy… but they do give a glimpse of what remains'
+
+- property: lincoln-park-ma
+  person: 'Janet Massa'
+  content: 'I remember Lincoln Park from the late 1950’s. We were from Rhode Island, and we usually went to Rocky Point (also, sadly, demolished and about to become condos), but a trip to Lincoln Park was a huge event because the rides seemed much more exciting. Almac’s grocery store gave away free tickets for the rides according to how much you bought, so when my mother accumulated enough she would load up the car with neighborhood kids and we would all go. I was very little at the time. My older sister and her friends were thrilled with the massive roller coaster, but I was frightened even looking at it, so I never did ride on it. Everything seemed oversize. spent most of my time in Kiddieland. It is part of the family mythology that once my mother “lost” me in Lincoln Park, and she and the other kids looked everywhere for me. They found me some time later riding on the Turtle, where I had happily been for most of the day. I wish that it was still open so I could have brought my children and now my grandchildren. The huge amusement parks that are so popular now seem like overkill, and running through the park with a gang of your friends is like a memory from a dream.'
+
+- property: lincoln-park-ma
+  person: 'Chris Guertin'
+  content: 'I miss this park, I think about it all the time, my summers were spent there from the 70s to the 80s. All good things come to an end. It’s weird to say but if not for Lincoln Park I would not have been born! My mother was in New Bedford high school, &amp; my father was from Case high in Swansea, when I asked them how they met they told me at Lincoln Park. My mothers high school prom was held in the ball room. I still live in Fall River Ma. &amp; I drive by there all the time. I stood outside the gate &amp; took pics of the Comet. I would love to go in &amp; take more before they get rid of it all for good, but the signs say no. The pics on the google site are great who ever took them. If I had alot of money I would reopen it as a park. Putting condos there stinks, theres nothing there for kids any more. Good luck lincoln park &amp; I will always remember the good times there. I look at my lincoln park remembers book all the time &amp; I’m happy but very sad. Thank You for the great years Lincoln Park, Chris'
+
+- property: lincoln-park-ma
+  person: 'James MacKay'
+  content: 'How sad is this! I feel like part of my childhood is gone. I was a summer born baby in Mattapoisett Mass. My mom,god rest her soul, took me and my friends there every July 16 for my birthday. It doesn’t seem that long ago. Looking at it now brings a tear to my eye. I’ll surely miss those carefree summer days forever. I can still remember how much I loved the old park, especialy the comet. It was the first coaster I ever rode! My mom too!'
+
+- property: lincoln-park-ma
+  person: 'Kevin Mello'
+  content: 'I remember going to Lincoln Park as a child on Easter Sundays. We always looked forward to the annual Easter Egg hunt. When I was 18 I got a job at the park working in the paint shop with Dominic Spadola and Dave Comstock. We painted the rides, signs and anything else that needed attention. We spent one winter remodeling the Lounge into a Disco club complete with lighted dance floor. I also ran rides for Manny Correira and and worked some of the game stands for Slim McConnell. My favorite ride to operate was the Tilt-A-Whirl. It was located behind the Bubble Bounce and next to the Paratrooper. Before the park opened, all ride operators had to perform a routine maintenance check on their rides. It was after one of these checks that I went over to the Bubble Bounce to say hi to Bob Rayno who had ran that ride for many years. He was retiring and that was going to be his last day at the park. As I walked toward the Bubble Bounce I saw Bob laying on the ground. I checked to see if he was alright but he didn’t respond. I ran to the office to get help but it was too late. Bob had suffered a heart attack and later that day I found out that he had died. In the early 1980’s I was in a band called Sanctuary with park employee Dave Comstock. We played in the Pavillion and often rehearsed in the Bowling Alley which by that time had become an arcade. I continued to work at the park until 1985. I met many people who have become life-long friends. I have fond memories of my time there. It was such a great place that I often went there even if I wasn’t working. It’s too bad that we no longer have local parks such as Lincoln Park. They were a great place for the entire family to spend a day together.'
+
+- property: lincoln-park-ma
+  person: 'bill lanning'
+  content: 'As a child growing up during that time in Fall River with my sisters, the memories are still as strong as when i was a little boy. Now as a man living in Texas i still tell my grandkids so they know what it was like for they grandparents to grow with the rich heritage of that time. I was glad to hear that the old park would come back to life with new families living on the grounds of the old park. All the best to all out there with the wonderful memories of a great place to have shared wonderful times.'
+
+- property: lincoln-park-ma
+  person: 'Sonya Howland'
+  content: 'When I was young Lincoln Park was one of THE places to go. My dad however didn’t like to sit and wait and riding the rides just wasn’t his thing to do. My aunt and uncle who had no children would drive down to our home in Taunton from Boston just to take me to Lincoln Park for the day. While my aunt, mother and I rode the rides and played the games, my uncle would sit peacefully in the car with some clam cakes or whatever taking in all the people as they came and went through the front gates. Those were really special times. All of those people have passed on now, but I still have those memories and how much they loved me to come, just to take me for a day of fun at Lincoln Park.'
+
+- property: lincoln-park-ma
+  person: 'tracy connors'
+  content: 'i remember being a little girl around three years old learning how to roller skate there and when i got older and the new rides started coming in it was so fun made alot of friends there. and also the dances they had to.i have alot of memories of lincoln park wish it never closed because i know my three kids would of loved it just as much as i did.'
+
+- property: lincoln-park-ma
+  person: 'Tom'
+  content: 'I went here today, since it said it would be torn down. But got some nice pictures of it. I totally forgot about the area in the back. Its strange to see the neighborhood with homes and yards very visible from on the tracks. While in it you forget hey everyone can see us, you feel lost in a jungle of tracks.'
+
+- property: lincoln-park-ma
+  person: 'Evan'
+  content: 'I am twelve years old and 
+i have obviously never had been to Lincoln Park. Well, in the year 2004 i was driving down to Fall River with my dad and i noticed a roller  coaster on route 6 and i said dad! and he said oh yah, that used to  be a fun actually very fun place to go until they colsed it in 1987. When i got home i was on the internet 24/7 trying to learn as much as i can about it. Last night, i was on the internet and i found out that  a guy wants to put in 252 condo units. So i went to the Ellen degeneres  website and signed up and for “MY LIST” so i said that i would like lincon park to reopen. And i wrote a desription. I will post what i sadi at the end of this mesage. anyways, i also contacted the mayor of darmouth and fall river and i still havent heard back from  them yet. lastly Whoopi Goldbeg often come to my home town Gloucester MA, and you probally know how she is into fundraising. So i will have a talk with her soon about this and she if she can help me. So please read this letter. i have go to compliments that this letter was heartfelt and that we should do something about it. My art teacher loved going to Lincoln park as a child and always had dreamed of bringing her children there. i wish this place with all my heart to reopen. thank you! 
+
+
+**The One and Only Thing That Should Change:**
+The Only thing I ever wanted was Lincoln Park in Fall River MA to re-opened. Lincoln park was an amusement park that everyone has loved for decades.  Last year i was driving to my grandmothers house with my dad and we were driving down the old main route, route 6 and i noticed this “roller  coaster” and i was like DAD TURN AROUND! And he said what? And i said i saw a roller coaster and he said oh yah that was the old amusement park  i used to go when i was a kid. And i was like well, why is it closed? And he said that it closed in the late 1987’s and I wanted to re search  more about it. Well, when i got home to my home in Gloucester Massachusetts I started researching about it and i found out that it was a amusement park  opened in the early 1890’s and i thought, well, this is an historical site! So i have been researching more on trying to find out how we can save  this park. And i found out that it was for sale and someone had bought it and wants to get rid of all of the remanding stuff that is still standing,  such as the roller coaster, some food buildings and other rides. This roller coaster named the commet was the fastest, longest, most enjoyable roller  coaster in the world until I think the 19050’s. The guy had bought it wants to put in 252 condominium units. Which actually breaks my heart (Even thought i have never been to it.) that someone would want to get rid of the historical stuff. I would like you to help get it up and running or even start a fundraiser to get it back in business. I would love to be able to see it running cause this amusement park was a part of people’s lives. I was reading that a couple had gone to the park in the 50’s and when on the ferries wheele and had there first kiss. Which I think is very cute, but that is kind of topic. But what i really mean is that i want to stop this person from putting up 252 condo units and get the park back in business. If you go to google and type in Lincoln Park Fall River it should come up with lots of options to see pictures of what it looked like and how it looks now. Or go to www.defunctnewengland.com and on the left it will have a sidebar and scroll down and click Lincoln  Park and it will have lots of choices to see pictures. The guy who wants to build this condo-land is going to pull down the roller coaster with five  trucks, which i think is completely absurd. But this park means a lot to  me and again i know i have never been to it, but this place was a fun, colorful,  amazing, joyful, and had a ton of excitement. This park is a part history. So I would love to start a fundraiser and actually raise 2.5- 3 million  dollars to buy it from the company before it’s to late. I wish i can become more and become a better part of this community. I really appreciate  who ever reads this and i would love to see the smile on peoples faces and see them happy again.'
+
+- property: lincoln-park-ma
+  person: 'Chelsea'
+  content: 'I grew up down the road from Lincoln Park, although the year my family moved to Westport was the year that the park officially closed for business. My very first memory, which is a foggy, 5 year old memory, is of a small semi enclosed rink, similar to that of bumper cars, where riders would sit on these little wheeled platforms with handles. I may be crazy, but if you know  of these, please let me know.
+
+
+I remember the fires –– the second of which was the worst, with thick black smoke and ash that dropped like snow from  the sky. We would walk down and stand in the median on Rt 6 and just watch in amazement. Most of the amazement came from the fact that the roller coaster never burnt down. When I was in high school we would walk down, slip through  the fence and walk around, just marveling at what was left. There were some  old light bulbs, fragments of wooden, colored banners, and you could make out the spots where all the rides had once been.
+
+
+However, driving to my parents house just a few months ago, I noticed that a piece of the roller coaster had collapsed. The top portion of the tallest hill is missing.<br> &nbsp;&nbsp;&nbsp;I’ve heard rumor that the Caterpillar ride currently operating (or at least operating as soon ago as May 2000) at Canobie Lake  Park in New Hampshire is the original from Lincoln Park.
+
+
+What great memories. Thanks for the opportunity to reminisce.'
+
+- property: lincoln-park-ma
+  person: 'Judy Wright'
+  content: 'We lived in New Bedford & made many trips to Lincoln Park. We went there for elementary school graduation, often spent time @ the skating rink. The rides, especially the roller coaster, were lots of fun. We made a trip back to New Bedford in 1977 & I wanted to take my children to Lincoln Park, but the weather was too bad for that. Oh, & don’t forget the clam cakes – they were great. Had some Rosie’s in NB a few years ago & it brought back so many  memories. It’s sad that young people of today will miss out on so many great memories.' 
+
+- property: lincoln-park-ma
+  person: 'dennis trznadel'
+  content: ' I remember the train and to this day. I am a train collector. A few summers ago while  vistiting Fairhaven I got on the phone and called a town that the owner of the train lived. I called the zoning office and the person that I  had talked to actually knew who I was looking for and was even able to give me that persons phone number. I placed the call and was able to talk to the owner of the Lincoln Park train. To this day I still  have dreams of owning it. I am not a wealthy person but I can still dream. You will have to excuse me now, I have to go out and buy some lottery tickets because you never know.'
+
+- property: lincoln-park-ma
+  person: 'John Costello'
+  content: 'Lincoln Park was the BIG field trip from grammar school in the late 1970’s. First it took 90 mintues+ from Dorchester to get there. Secondly, it was further from home than most of us had ever been. I remember at least 5 trips there, 2 with St. Mark’s in Dorchester and 2 with the Murphy Day Camp also in Dorchester. Those four trips were somewhere between 1976 (First Grade) and 1980 (Summer between 5th and 6th Grade). My last trip there was with my parents and some friends from New Bedford in either the summer of 1982 or 1983.
+
+
+A few photos are of the former train shed that went around the minature golf course. It was a little diesel engine that pulled a few cars with the engineer sitting on the top of the engine and everyone moving along at 10 MPH.
+
+
+It is sad to see Lincoln Park go. You could always tell who were the up and coming redneck rock groups were by the t-shirts worn by the operators of the rides. With all these parks gone where will I get a Saga or REO Speedwagon mirror now?'
 
 - property: fogarty-bldg
   person: 'Jeffrey Allcock' 
