@@ -128,7 +128,7 @@ The new complex includes separate police officer and firefighter locker and trai
 [Gulf Station]({% link _property/gulf-station-circular.md %}) 
 used to be, it makes really good money when there is an even at the Dunkin’ Center. We don’t know exactly why a project didn’t go forward, but based on the last quote in the news article, it looks like Procaccianti was not in fact _“committed to investing in downtown Providence.”_ 
 
-The idea was sound — a location so close to the Dunkin’ Center, the Convention Center, and other venues could easily support another hotel. In fact, in these 13 years (2020), a new hotel was built on the site of the former Fogarty Center. It just seems to be clear that Procaccianti was not the developer to do it. Would love more information about why redevelopment of this parcel has stalled. 
+The idea was sound — a location so close to the Dunkin’ Center, the Convention Center, and other venues could easily support another hotel. In fact, in these 13 years (2020), a new hotel was built on the site of the former [Fogarty Memorial Building]({% link _property/fogarty-bldg.md %}). It just seems to be clear that Procaccianti was not the developer to do it. Would love more information about why redevelopment of this parcel has stalled. 
 
 
 ### In the News
@@ -154,7 +154,7 @@ On the same day, Procaccianti opened 200 new hotel rooms in the 380-foot tower a
 
 The exterior construction of the 32-story tower was completed with a topping-off ceremony in March [2007]. In addition to the hotel rooms and condominiums, the building houses a Fleming’s Prime Steak House & Wine Bar and other retail shops at street level and several floors of private parking for its homeowners, Izzi said.
 
-**Within the next couple of months, Procaccianti expects to raze the Fogarty Building on Fountain Street and begin work to build a mixed-use office and parking complex with a street-level restaurant**, he said.
+**Within the next couple of months, Procaccianti expects to raze the [Fogarty Building]({% link _property/fogarty-bldg.md %}) on Fountain Street and begin work to build a mixed-use office and parking complex with a street-level restaurant**, he said.
 
 Procaccianti purchased the Fogarty Building and the development rights to the former public safety complex from the Providence Redevelopment Agency in August 2005. The acquisitions were key components of the company’s plan to take part in an economic revitalization of the blocks surrounding the Dunk, which is in the midst of a $65 million renovation that will link the facility to the adjacent convention center.
 

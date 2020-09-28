@@ -12,6 +12,21 @@
 
 # Check validity with http://www.yamllint.com/
 
+
+- property: fogarty-bldg
+  person: 'Jeffrey Allcock' 
+  date: '2016-04-07' 
+  content: 'I never had any experience of this building when it was in use (thank god) but I used to work next door when it was vacant, and it was a good place to smoke a j and even take a piss if you had to. I’ve sort of grown fond of it since, despite or maybe because of its defiant ugliness: it’s certainly like no other building downtown. I think I’ll be sad to see it go, especially if it’s replaced by another Lego-style hotel like the Westin.'
+
+- property: fogarty-bldg
+  person: 'john' 
+  date: '2011-03-06' 
+  content: 'This building used to facilitate the “state wellfare office” growing up pretty poor, me and many i know can remember spending many grueling hours in early 80’s sitting/playing in multicolored plastic chairs in a vast waiting room. Back when food stamps were actual paper money lol.'
+
+- property: fogarty-bldg
+  person: 'Cotuit'
+  content: 'It may be a bit premature to label this one a RIP, though not too many tears may be shed if it were to come down. TPGs latest proposal for the building calls for glassing in the ground floor arcade and attracting restaurant/retail on the ground floor with offices above. There is a _chance_ that they may add more floors to the building, the structure apparently can support it. The building has been dubbed OneEleven Fountain. (**A.I.R.**: This property previously languished in our #UsedToBeThere section)'
+
 - property: east-side-train-tunnel
   person: 'Carl' 
   date: '2018-02-01' 
