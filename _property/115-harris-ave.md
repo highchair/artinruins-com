@@ -31,6 +31,7 @@ thumbnail: 115-harris-jh-2019-05-03.jpg
 
 images:
   - url: 115-harris-jh-2005-11-01.jpg
+    alt: 'A three story red brick building with granite edging three-bays wide and four times as deep as it is wide. Built alongside a rail spur, the building bends slightly as it moves back.'
   - url: 115-harris-jh-2005-11-02.jpg
   - url: 115-harris-jh-2010-10-01.jpg
   - url: 115-harris-jh-2010-10-02.jpg

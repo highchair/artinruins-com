@@ -29,6 +29,7 @@ thumbnail: cove-basin-thumbnail.jpg
 images:
   - url: cove-basin-map-1823.jpg
     caption: 'Based on a map from 1823. Collection of the Providence Public Library, John Hutchins Cady Research Scrapbooks Collection'
+    alt: 'Maps showing how the inland body of water known as The Cove became infilled over time to create the area north of Union Station and Kennedy Plaza and south of the State House. The Cove at one period in time was a circular basin ringed by railroad access and a wide walking promenade. The smaller round water feature of the current Waterplace Park mimics some of this history.'
   - url: cove-basin-map-1849.jpg
     caption: 'Based on a map from 1849. Harvard Map Collection, Harvard College Library'
   - url: cove-basin-map-1889.jpg

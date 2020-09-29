@@ -29,6 +29,7 @@ thumbnail: hope-cycle-habs-1970-02.jpg
 images:
   - url: hope-cycle-habs-1970-01.jpg
     caption: 'Photo by Laurence Tilley for HABS/HAER and the National Register Nomination for American Screw Company, 1970'
+    alt: 'A single-story white painted stucco building with many signs on its facade and the look of a mid-century gas station — rounded corners and smooth surfaces. The building narrows on its left side to a triangular point, where small gas pumps are located.'
   - url: hope-cycle-habs-1970-02.jpg
     caption: 'Detail of the photo by Laurence Tilley for HABS/HAER and the National Register Nomination for American Screw Company, 1970'
   - url: hope-cycle-habs-1971-01.jpg

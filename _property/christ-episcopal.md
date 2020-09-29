@@ -31,6 +31,7 @@ thumbnail: eddy-st-church-02.jpg
 images:
   - url: eddy-st-church-NRHP-1976-01.jpg
     caption: 'Photo by Richard Longstretch for the National Register of Historic Places, 1976'
+    alt: 'An asymmetrical church red brick building with dark brown granite ornamentation. A bell tower was offset from the semi-circular nave, while the interior was in poor repair, with exposed stick work and a frescoed ceiling as ornament.'
   - url: eddy-st-church-01.jpg
   - url: eddy-st-church-02.jpg
   - url: eddy-st-church-03.jpg

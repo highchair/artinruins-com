@@ -32,6 +32,7 @@ thumbnail: brownell-field-jh-2005-11-03.jpg
 images:
   - url: brownell-field-autocrat-1950.jpg
     caption: 'Photo from the Autocrat, Inc. Archives'
+    alt: 'A three story, eleven bay wide brick structure with semi-arched lintels, granite sills, and a central arched main entrance. The shape of the building from the air is trapezoidal, owing to the train spurs that approach on either side of it and along the back.'
   - url: brownell-field-jh-2005-11-01.jpg
   - url: brownell-field-jh-2005-11-02.jpg
   - url: brownell-field-jh-2005-11-03.jpg

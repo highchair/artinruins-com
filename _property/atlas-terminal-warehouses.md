@@ -30,6 +30,7 @@ thumbnail:
 
 images:
   - url: atlas-terminal-jh-2002-12-01.jpg
+    alt: 'Two large, solidly built five-story warehouses along the Providence harbor waterfront. Red brick construction with small window openings, stone sills, and arched stone lintels on square plans with a few hundred feet between them. The warehouse facing the waterfront had giant white faded letters reading Terminal Warehouse Co.'
   - url: atlas-terminal-jh-2002-12-02.jpg
   - url: atlas-terminal-jh-2002-12-03.jpg
   - url: atlas-terminal-jh-2002-12-04.jpg

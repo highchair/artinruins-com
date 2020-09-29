@@ -28,6 +28,7 @@ thumbnail:
 
 images:
   - url: anderson-little-jh-2003-07-01.jpg
+    alt: 'A single story mid-century retail building with natural stone facade and commercial glass entrance vestibule. The rear of the building is painted white concrete block. Large plastic letters emblazon the facade and right side overlooking the parking lot, with very large letters on the back of the building that could be seen from the distant highway.'
   - url: anderson-little-jh-2003-07-02.jpg
   - url: anderson-little-jh-2003-07-03.jpg
   - url: anderson-little-jh-2003-07-04.jpg

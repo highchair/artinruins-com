@@ -21,13 +21,13 @@ longitude: '-71.4161469'
 gmap: "//www.google.com/maps/@41.8232623,-71.4161469,3a,75y,125.03h,96.12t/data=!3m6!1e1!3m4!1sapauteUAoeTPiXNW01lowg!2e0!7i13312!8i6656"
 
 meta: ""
-
 excerpt: "A simple building located next to the former Sportsman’s Inn (now the Dean Hotel) that was razed for a never-built hotel."
 
 thumbnail: old-mcd-bldg-02.jpg
 
 images:
   - url: old-mcd-bldg-01.jpg
+    alt: 'A two-story red brick facade with painted concrete block behind. Windows and door openings on the facade have arched lintels. Windows on the ground floor have been closed up with plywood.'
   - url: old-mcd-bldg-02.jpg
   - url: old-mcd-bldg-03.jpg
   - url: old-mcd-bldg-04.jpg

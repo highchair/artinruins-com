@@ -28,6 +28,7 @@ thumbnail: bonanza-rihphc-1970-03.jpg
 
 images:
   - url: bonanza-sanborn-1956.jpg
+    alt: 'A space-age designed single story brick and concrete bus terminal comprised of circular and pill-shaped buildings as well as a triangular pick-up and drop-off platform.'
   - url: bonanza-master-plan-1961.jpg  
   - url: bonanza-rihphc-1970-01.jpg
     caption: 'Rhode Island Historic Preservation and Heritage Commission survey, 1970'

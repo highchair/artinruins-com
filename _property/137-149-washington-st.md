@@ -27,6 +27,7 @@ thumbnail: 147-washington-st-02.jpg
 
 images:
   - url: 147-washington-st-01.jpg
+    alt: 'A three-story red-brick fronted commercial building seven windows wide. Windows have stone lintels and sills. The ground floor was occupied by three restaurant businesses with a mix of metal, wood, and brick facades.'
   - url: 147-washington-st-02.jpg
   - url: 147-washington-st-03.jpg
   - url: 147-washington-st-04.jpg

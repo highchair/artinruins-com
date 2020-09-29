@@ -32,6 +32,7 @@ thumbnail: crescent-park-studio-c1900.jpg
 images:
   - url: crescent-park-sanborn-1899.jpg
     caption: 'East Providence Plate 194, 1899 Sanborn Insurance Map'
+    alt: 'A large amusement park that evolved over time from a mostly wooded park to one with a long midway full of rides, games, food stands, and attractions. A wooden carousel, roller coaster, dance hall, and other rides changed with the tastes and times of the local thrill-seekers.'
   - url: crescent-park-pier-walk-c1900-projo.jpg
     caption: 'View of people walking down the pier to the ferryboats circa 1900, courtesy the Providence Journal.'
   - url: crescent-park-pier-c1900.jpg

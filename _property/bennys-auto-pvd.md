@@ -28,6 +28,7 @@ thumbnail: bennys-auto-jh-2020-06-01.jpg
 
 images:
   - url: bennys-auto-jh-2020-06-01.jpg
+    alt: 'A simple, one-story commercial building in an L shape. One side contains the retail store and the other leg of the L contains a garage three bays wide. Small one inch tiles in white and red cover some faces of the building.'
   - url: bennys-auto-jh-2020-06-02.jpg
   - url: bennys-auto-jh-2020-06-03.jpg
   - url: bennys-auto-jh-2020-06-04.jpg

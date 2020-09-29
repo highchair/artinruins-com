@@ -29,6 +29,7 @@ thumbnail: blue-coal-mkierstead-01.jpg
 images:
   - url: blue-coal-egould-01.jpg
     caption: Photo by Erik Gould circa 1993
+    alt: 'Seven tall cylinders of concrete with an eighth cylinder used as an elevator to help fill the other seven. These structures are joined together by a conveyor belt along the top which was used to distribute coal into one of the seven chambers.'
   - url: blue-coal-egould-02.jpg
     caption: Photo by Erik Gould circa 1993
   - url: blue-coal-sclover-04.jpg

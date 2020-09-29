@@ -29,6 +29,7 @@ thumbnail: central-fire-1903c-views-of-prov.jpg
 images:
   - url: central-fire-1886c-three-ones.jpg
     caption: 'Providence Journal file photo, circa 1886. The city was celebrating the 250th anniversary of its founding.'
+    alt: 'The first fire house located to the southeast of Union Railroad Station. It was a square plan, two-story mansard roof building with a central projecting three-story tower in a simply decorated second empire style.'
   - url: central-fire-1895c-three-ones.jpg
     caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library, circa 1895'
   - url: central-fire-1900c-three-ones.jpg
@@ -36,6 +37,7 @@ images:
   - url: central-fire-1901c-gilbane-construct.jpg
     caption: 'Part of the Gilbane collection'
   - url: central-fire-1902c-profile.jpg
+    alt: 'A large, square plan, three-story firehouse with a central tall tower equal to the height of the lower three stories. The first floor has many double-door, full height openings for fire wagons while the second and third story windows have ornamentation made of alternating courses of granite and brick topped by ornamental granite lintels comprised of alternating quoins.'
   - url: central-fire-1903c-views-of-prov.jpg
     caption: 'Detail from a page out of “Views of Providence,” circa 1903'
   - url: central-fire-1906c-postcard.jpg

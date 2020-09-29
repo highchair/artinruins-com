@@ -28,6 +28,7 @@ thumbnail:
 
 images:
   - url: cyclodrome-aerial-1928.jpg
+    alt: 'A banked wooden track for bicycle racing. The steep banks allowed riders to go as fast as possible, centrifugal force sticking them to the middle of the wall instead of leaning hard or slowing down to make the corners. A football field fit inside the oval track and artificial lighting was added to allow for night game play.'
   - url: cyclodrome-playbill.jpg
   - url: cyclodrome-ephemera.jpg
   - url: steamroller-playbill.jpg

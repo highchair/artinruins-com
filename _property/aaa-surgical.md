@@ -25,6 +25,7 @@ excerpt: "A simple art-deco-inspired mid-century storefront in Federal Hill demo
 
 images:
   - url: aaa-surgical-01.jpg
+    alt: 'A two-story red brick building with a glass commercial storefront on the first floor. Floor plan seems basically square with an offset first floor entrance on the right side. The second story windows have been filled with glass block and a few windows in these photos are boarded up.'
   - url: aaa-surgical-02.jpg
   - url: aaa-surgical-03.jpg
   - url: aaa-surgical-04.jpg

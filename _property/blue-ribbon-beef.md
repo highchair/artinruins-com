@@ -29,6 +29,7 @@ thumbnail: blue-ribbon-habs-1982-02.jpg
 images:
   - url: blue-ribbon-habs-1977-01.jpg
     caption: 'Photo by Jack Boucher, April 1977'
+    alt: 'A rectangular, flat-roofed three story brick building with windows on only the narrow sides. Two loading docks are along the first floor. All that remains are parts of the foundation and stairs along with the flat concrete floor that straddled the Blackstone River.'
   - url: blue-ribbon-habs-1977-02.jpg
     caption: 'Photo by Jack Boucher, April 1977'
   - url: blue-ribbon-habs-1982-01.jpg

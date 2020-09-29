@@ -29,6 +29,7 @@ thumbnail: little-bldg-jh-2004-04-01.jpg
 images:
   - url: little-bldg-jw-c1960.jpg
     caption: 'Photo from the collection of Jim White'
+    alt: 'A small two-story blond-brick building with 4 windows on the front face, an angled corner with door and window, and one more set of windows on the side. Two sides are without windows. The building is flat roofed and only about 10 feet deep.'
   - url: little-bldg-jh-2004-04-01.jpg
   - url: little-bldg-jh-2004-04-02.jpg
   - url: little-bldg-jh-2004-04-03.jpg

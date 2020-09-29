@@ -32,6 +32,7 @@ thumbnail: amerscrew-habs-1970-01.jpg
 images:
   - url: amerscrew-litho-1886.jpg
     caption: 'Lithograph reproduction of American Screw Complex, including Eagle Mill, circa 1886'
+    alt: 'A collection of three and four story red-brick and stone mill buildings with central stairtowers. The larger mills have pithed roofs, some with clerstory windows, while other have mansard roofs. A street runs through the center of the main mills.'
   - url: Letterhead-from-Ebay-1883.png
     caption: 'Company letterhead from 1883'
   - url: John-Gannon-via-Facebook.jpg

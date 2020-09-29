@@ -29,13 +29,16 @@ thumbnail: mee-hong-placesetting-1938.jpg
 images:
   - url: mee-hong-placesetting-1938.jpg
     caption: 'The “Chow Mein, Chicken Wings, and Cheeseburgers” exhibit at the Culinary Arts Museum at Johnson & Wales University featured a 1938 table and setting from Mee Hong restaurant. Providence Journal file photo November 10, 2016.'
+    alt: 'Three different Chinese food restaurants. Mee Hong was inside a two story commercial building with an enameled steel facade. Two large picture windows have large rounded outside corners while the central double door entrance has a split circle window down the center of it. A very large neon sign occupies the entire second story of the facade.'
   - url: mee-hong-pj-undated.jpg
     caption: 'The Mee Hong Restaurant in Providence at 102 Westminster St. closed February 24, 1979. Providence Journal file photo by David LaMontagne.'
   - url: lukes-pj-1961.jpg
     caption: 'Luke’ss Chinese American Restaurant, in downtown Providence, circa 1961. Providence Journal archives.'
+    alt: 'Luke’s restauirant was located on the first floor of a taller commercial office building. A large neon sign took up most of the space above the entrance and retail window. '
   - url: lukes-postcard-undated.jpg
   - url: lukes-location-2019.jpg
   - url: ming-garden-1977.jpg
+    alt: 'The Ming Garden was in the ground floor of a narrow three story commercial building. A large neon sign occupies most of the third floor, and the building shares a wall with a much taller former bank building.'
   - url: ming-garden-location-2019.jpg
   - url: ming-garden-typewriter.jpg
     caption: 'Lilly Tow’s typewriter used to compose newspaper ads for the Ming Garden Restaurant in Providence. Note card reads: “At this underwood typewriter Lilly Tow wrote the daily specials and advertisements for Ming Garden and other Tow family restaurants. Through her advertisements, Lilly was able to attract new clientele to the Tow restaurants. Her witty poems and catchy slogans were tailored for specific populations in Rhode Island.”'

@@ -27,6 +27,7 @@ thumbnail: marvel-gym-jh-2001-03-05.jpg
 
 images:
   - url: marvel-gym-jh-2001-03-01.jpg
+    alt: 'A large, greek-revival or neo-classical brick and concrete building with a three-bay facade under a triangular pediment roof, flanked by two buttress-like outcroppings, set in front of a larger, wider hip-roofed structure crested with a clock-tower and small dome supported by four classical columns. Most windows had arched lintels and the concrete was used to form decorative trim work and a crest-like shape over the entrance. '
   - url: marvel-gym-jh-2001-03-02.jpg
   - url: marvel-gym-jh-2001-03-03.jpg
   - url: marvel-gym-jh-2001-03-04.jpg
