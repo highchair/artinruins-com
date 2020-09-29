@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: lincoln-park-ma\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: american-woolen-riverside-mills\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: east-side-train-tunnel\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: american-woolen-riverside-mills\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,33 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: american-woolen-riverside-mills
+  person: 'Joe Margulies' 
+  date: '2017-11-11' 
+  content: 'Hello everyone, I hope this is not a misuse of the site, but I am a professor at Cornell doing some writing about Olneyville. I am interested in the history of Riverside Mills both before and after the 1989 fire. If anyone has anecdotes about or photos of the space, including the mill buildings before and after the fire but before the creation of Riverside Park, I’d love to hear from you. Thanks. jm347 [at] cornell [dot] edu'
+
+- property: american-woolen-riverside-mills
+  person: 'George Miller' 
+  date: '2012-10-22' 
+  content: 'I have a brown woolen blanket with a label with the following info: made by the American Woolen Co INC  May 29, 1940 W669 OM Civ 405, Spec 8-11 Ser# 27-8-678… can anyone provide me with any information…'
+
+- property: american-woolen-riverside-mills
+  person: 'Mark Sawtelle' 
+  date: '2009-03-14' 
+  content: 'My grandfather worked for years for American Woolen, though in New York. My father also worked in the woolen industry for decades. When we moved to my wife’s family’s 3-decker in Olneyville in 1982, I explored the mills down the hill, where her parents had worked and met long before, and sometimes processed goods from my father’s company. When I came upon this front office building, and unexpectedly discerned “American Woolen Co.” on the ivy-covered granite name plate over the left doorway, I felt an eerie jolt of a connection being made.'
+
+- property: american-woolen-riverside-mills
+  person: 'Gerry Veley'
+  content: 'My grandmother had a brother who worked as the head dyer at the American Woolen mills. His name was Rudolf Bullard. I also think that his father, Joseph Eusebe Bullard was employed at the mill in the same capacity. Do you have any information on these two individuals? I think that they worked at the mill in the 1930’s. Any information on these two relatives of mine would be greatly appreciated. Thank you.'
+
+- property: american-woolen-riverside-mills
+  person: 'A.M. Adrain'
+  content: 'My band, Cool Beverages, was one of many who lost everything when the mill burned down. We lost instruments and personal items, but more than anything it was the sense of community that being in the old mill fostered that was displaced. Many bands were there: Tyger Tyger, The Threats, BoneYard just to name a few. It was a good time while it lasted. But boy, when that place came down, it came down hard and fast. A 1/4 of a mile long, and four stories built in brick, all came crashing down. Leaving behind just 4 story columns where the double walled bathrooms had been. Long gone right after the fire was Barry Lewis'
+
+- property: american-woolen-riverside-mills
+  person: 'Anthony Branco'
+  content: 'We have an old cardboard box with a picture of a little girl sitting in a bed with a raggety ann type doll surrounded by a peach colored blanket The little girl looks to be about 8 yrs old and is holding a lollypop in her hand. At the bottom of the picture in big letters are the words “American Woolen Co. Incorporated” We were wondering if you someone could tell us how old this picture/box is.'
 
 - property: lincoln-park-ma
   person: 'Dawn Oxnard' 
