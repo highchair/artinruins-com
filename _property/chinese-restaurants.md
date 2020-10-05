@@ -12,7 +12,7 @@ date-added: '2008'
 categories: [ '#ArchiveRI', '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
-designers: []
+designers: [ 'Morris Nathanson' ]
 lists: []
 tags: [ 'Restaurants and Bars' ]
 
@@ -30,6 +30,8 @@ images:
   - url: mee-hong-placesetting-1938.jpg
     caption: 'The “Chow Mein, Chicken Wings, and Cheeseburgers” exhibit at the Culinary Arts Museum at Johnson & Wales University featured a 1938 table and setting from Mee Hong restaurant. Providence Journal file photo November 10, 2016.'
     alt: 'Three different Chinese food restaurants. Mee Hong was inside a two story commercial building with an enameled steel facade. Two large picture windows have large rounded outside corners while the central double door entrance has a split circle window down the center of it. A very large neon sign occupies the entire second story of the facade.'
+  - url: mee-hong-jb-1975.jpg
+    caption: 'Black and white film scan of a photo taken in 1975 by John Ballantine'
   - url: mee-hong-pj-undated.jpg
     caption: 'The Mee Hong Restaurant in Providence at 102 Westminster St. closed February 24, 1979. Providence Journal file photo by David LaMontagne.'
   - url: lukes-pj-1961.jpg
@@ -37,15 +39,19 @@ images:
     alt: 'Luke’s restauirant was located on the first floor of a taller commercial office building. A large neon sign took up most of the space above the entrance and retail window. '
   - url: lukes-postcard-undated.jpg
   - url: lukes-location-2019.jpg
+  - url: ming-garden-1937.jpg
+    caption: 'Exchange Place in 1937 — electric trolley buses are in use. Ming’s Garden wouldn’t open for another few years in the building with the AUTO LOANS sign. The nearby Waldorf Cafeteria can be seen along with many mid-century advertising signs. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+  - url: ming-garden-1950c.jpg
+    caption: 'Ming Garden building circa mid-1950s (The People’s Bank building was constructed in 1949). John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
   - url: ming-garden-1977.jpg
-    alt: 'The Ming Garden was in the ground floor of a narrow three story commercial building. A large neon sign occupies most of the third floor, and the building shares a wall with a much taller former bank building.'
+    alt: 'The Ming Garden occupied the first two floors of a narrow three story commercial building. A large neon sign occupies most of the third floor, and the building shares a wall with a much taller former bank building.'
   - url: ming-garden-location-2019.jpg
   - url: ming-garden-typewriter.jpg
     caption: 'Lilly Tow’s typewriter used to compose newspaper ads for the Ming Garden Restaurant in Providence. Note card reads: “At this underwood typewriter Lilly Tow wrote the daily specials and advertisements for Ming Garden and other Tow family restaurants. Through her advertisements, Lilly was able to attract new clientele to the Tow restaurants. Her witty poems and catchy slogans were tailored for specific populations in Rhode Island.”'
   - url: port-arthur-gold-coin-dorrance-weybosset.jpg
     caption: 'Many comments mentioned Port Arthur, seen here on the corner of Dorrance and Westminster. Date unknown.'
 
-imagescredit: 'Contributions from the Providence Journal and Google Streetview.'
+imagescredit: 'Contributions from John Ballantine, the Providence Journal, <a href="//provlibdigital.org/islandora/object/islandora%3A5578"> target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, and Google Streetview.'
 ---
 
 
@@ -109,6 +115,11 @@ _From the anecdotes:_
 The longest lived of the Chinese restaurants, the Ming Garden was vital to life in downtown Providence. Open from 1941 to 1986, the restaurant was located at 141-143 Westminster Street, which had entrances on Westminster Street as well as Kennedy Plaza (now #68 Kennedy Plaza). The building was 2 and a half stories tall and dates to the late 19th century. 
 
 During the 1950s, the Tows contracted a young architect named [Morris Nathanson](//archive.storycorps.org/interviews/morris-nathanson-on-being-a-17-year-old-medic-in-the-pacific-theatre/){:target="_blank"} to modernize the restaurant’s interior. Mr. Nathanson was well known for hospitality design, and his portfolio includes The China Inn in Pawtucket and the Johnson & Wales Culinary Arts Museum among others.
+
+_From the Downtown Providence Historic District National Register Nomination Form, 1983_
+
+The Ming Garden (building constructed 1903): 3-story brick building with tiled modern entrance (similar entrance on Westminster Street side of building) and large plate-glass windows on upper stories; modern interiors by Morris Nathanson (ground floor) and Ira Rakatansky (upper floor). Though architecturally undistinguished outside, the building is heavily altered. The Ming Garden is a major Providence institution and the longest lived of a popular type, the Chinese restaurant, which has been an important part of the urban scene since the early 20th century.
+
 
 _From the anecdotes:_
 
