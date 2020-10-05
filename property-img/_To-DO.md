@@ -62,6 +62,9 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 + Listed as "Joseph I. H. Banigan" in GM Hopkins map, 1937
 + Banigan: [http://www.riheritagehalloffame.org/inductees_detail.cfm?iid=517]
 
+# American Woolen / Riverside Mills, Olneyville
++ Go take a new picture of the remains and the cannonball safe
+
 # Cranston Open-Air Cycledrome
 + Providence dome uses a photo that is actually a Cranston track. Research and add a page for it. 
 

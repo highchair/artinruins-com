@@ -2,7 +2,7 @@
 title: "Central Fire Stations, Providence"
 slug: central-fire-stations
 aka: 
-date-modified: 08-30 12:00
+date-modified: 2020-08-30 12:00
 
 built: '1873 and 1903'
 demolition: '1938'
