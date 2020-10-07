@@ -34,11 +34,16 @@ images:
   - url: prov-nat-bank-jh-2004-10-06.jpg
   - url: prov-nat-bank-jh-2004-11-01.jpg
   - url: prov-nat-bank-ac-2005-12-01.jpg
-    caption: Photo by Alex Carr, 2005
+    caption: 'Photo by Alex Carr, December 2005'
   - url: prov-nat-bank-ac-2005-12-02.jpg
-    caption: Photo by Alex Carr, 2005
+    caption: 'Photo by Alex Carr, December 2005'
+  - url: prov-nat-bank-jh-2006-02-01.jpg
+  - url: prov-nat-bank-dt-2006-03-01.jpg
+    caption: 'Photo by Donald Tetto, March 2006'
+  - url: prov-nat-bank-jh-2006-04-01.jpg
+  - url: prov-nat-bank-jh-2007-10-01.jpg
   - url: prov-nat-bank-kj-2012-07-01.jpg
-    caption: Photo by Kevin James, 2012
+    caption: 'Photo by Kevin James, July 2012'
 
 imagescredit: Contributions by Alex Carr and Kevin James.
 ---
