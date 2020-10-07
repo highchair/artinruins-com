@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: american-woolen-riverside-mills\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: one-ten-westminster\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: american-woolen-riverside-mills\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: one-ten-westminster\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,42 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: one-ten-westminster
+  person: 'Steve' 
+  date: '2012-02-29' 
+  content: 'Currently the lot is now paved with tar, looks to be a parking lot now, but it hasn’t opened up yet.'
+
+- property: one-ten-westminster
+  person: 'Damilo' 
+  date: '2009-02-05' 
+  content: 'why is every building in providence being built with glass? this changes the whole look of the city and it will be impossible to last as long as the original skyline.'
+
+- property: one-ten-westminster
+  person: 'Corey' 
+  date: '2008-12-30' 
+  content: 'Plans for this project were officially revived in December of 2008. The W Hotels website lists a W Hotel coming to Providence in 2010. Previously, no confirmation of plans for a hotel here had ever officially been made by W. An email to them by Bret Ancowitz of Greater City: Providence was returned with an expected opening date of September 1st, 2010, on the 110 Westminster Street site.'
+
+- property: one-ten-westminster
+  person: 'mike' 
+  date: '2008-03-12' 
+  content: 'I’d gladly spend tax dollars to see this building go 40 stories high as proposed :('
+
+- property: one-ten-westminster
+  person: 'Sid'
+  content: 'Scrapped as of today, 26 October. Twenty-two stories is what’s being proposed now. So much for the future of Prov. Without Buddy at the helm, this ship’s a sinkin’.'
+
+- property: one-ten-westminster
+  person: 'Micharjuna'
+  content: 'The info hasn’t been updated in a while, so I think I shall do so. In 2006, just before they were about to break ground, they halted the project in order to rethink it. They went from “all condo” to “condo and retail”, then “condo, retail, and hotel”, and finally “condo, retail, hotel, and office”. The latest update (now this is hearsay, but from a reliable source) is that it is going to be 18 stories, rather than 40, and it will just be a hotel. (and a W Hotel at that!) Too bad, I was looking forward to another skyscraper.'
+
+- property: one-ten-westminster
+  person: 'Jim'
+  content: 'I think it’s to be 40 floors, not 32, and will be the tallest building in RI.'
+
+- property: one-ten-westminster
+  person: '...but will it ever get built?'
+  content: 'A truly beautiful building that will compliment the financial district. What’s taking so long?'
 
 - property: american-woolen-riverside-mills
   person: 'Joe Margulies' 
