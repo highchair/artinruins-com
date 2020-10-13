@@ -23,6 +23,14 @@ When ArtInRuins started there were not quite as many home-grown historians, inte
 
 GCPVD is a great resource for current news and proposals in pedestrian, streetscapes, and architecture that go in front of the City council or the Downcity Architectural Review board. Whenever I want to know “what are they building over there” GCPVD usually knows. 
 
+### Lots in Limbo
+
+* **Web:** [lotsinlimbo.wordpress.com](//lotsinlimbo.wordpress.com){:target="_blank"}
+
+There are fifty vacant lots in Downtown Providence. Those include in-transition places like [110 Westminster]({% link _property/one-ten-westminster.md %}) and 143 Washington Street/132 Fountain Street and the area’s forty-eight pay and private parking lots. The city’s urban fabric has a few holes. Hear the interviews, get information on how you can take action to make use of public land, and contribute your thoughts about what you’d like to see Providence become.
+
+A project of a class in the American Civilization department at Brown University around the years 2009-2011.
+
 ### OldPVD
 
 + **Web:** [OldPVD](//oldpvd.com){:target="_blank"}

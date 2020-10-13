@@ -41,6 +41,9 @@
           {%- endif -%}
         {%- endif -%}
       {%- endif -%}
+        {%- if item.tags contains "Never Built" -%}
+          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Never Built</b></span>
+        {%- endif -%}
         {%- if item.built.size > 0 -%}
           <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Built:</b> {{ item.built }}</span>
         {%- endif -%}
