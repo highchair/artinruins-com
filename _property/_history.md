@@ -71,10 +71,10 @@ Urban Decay section (16)
 Construction
 ++ Brown's new BioMed center, Meeting St. (first!)
 ++ Downtown Developments — the Alice Building, Lerner, Peerless, O'Gorman, Conrad, as well as 755 Westminister and the Monohassett Mills.
-++ Downtown Parking Garage / Traveller's Aid and Mama's Metro
-++ GTECH Headquarters
++ Downtown Parking Garage / Traveller's Aid and Mama's Metro
++ GTECH Headquarters
 ++ ITEM New Product Development
-++ RI Credit Union
++ RI Credit Union
 ++ RISD’s Chace Center
 
 Historical
@@ -159,7 +159,7 @@ Construction
 ++ Capital Center Parcel 2: the Intercontinental Towers, Waterplace Towers
 ++ Capital Center Parcel 6: Capital Cove
 ++ Watson Institute for International Studies
-++ Proposed Westin Tower
++ Proposed Westin Tower
 
 Historic
 + American Screw Company
@@ -221,7 +221,7 @@ Urban Decay
 Construction (Nov 2006)
 ++ 1577 Westminster Street
 ++ I-Way Bridge I-Way Bridge
-++ One Ten Westminster
++ One Ten Westminster
 ++ Two Thomas Street
 
 Historic
@@ -261,7 +261,7 @@ Urban Decay
 
 Construction
 ++ 19 Fremont Street
-++ 1029 Westminster Street
++ 1029 Westminster Street
 ++ Miriam Hospital Expansion
 
 Historic
