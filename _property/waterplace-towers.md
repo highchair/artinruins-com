@@ -5,6 +5,7 @@ aka:
 date-modified: 2020-10-11 12:00
 
 built: '2006-2007'
+parcel: 2
 demolition: 
 redeveloped: 
 decade: '2000-2009'
@@ -13,7 +14,7 @@ categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'ADD Inc.' ]
-lists: []
+lists: [ 'Capital Center Parcels' ]
 tags: []
 
 address: '200 Exchange Terrace, Providence RI'
@@ -58,7 +59,7 @@ imagescredit:
   <figcaption>An early rendering of the new towers by ADD Architects from Boston.</figcaption>
 </figure>
 
-For the third time since 1990, a developer proposed a project for the vacant land known as Parcel 2 in Capital Center. The Intercontinental Real Estate Corp. planned to build two towers containing 275 high-end apartments, sitting atop a garage with space for more than 500 cars on the 2.1 acre lot at a cost of about $100 million. Eastman Pierce, one of the first developers to bring a plan forward, proposed a 225-room, luxury Hilton hotel at Parcel 2 in 2000. Three years later, the company downsized it to a 176-room, mid-priced Hilton Garden Inn after the economy and hotel industry soured following 9/11. Tourism boosters say the city needs more hotel rooms to attract conventions to the Rhode Island Convention Center and more visitors to Providence, but Intercontinental saw potential in the residential market.[^1]
+For the third time since 1990, a developer proposed a project for the vacant land known as Parcel 2 A & B in Capital Center. The Intercontinental Real Estate Corp. planned to build two towers containing 275 high-end apartments, sitting atop a garage with space for more than 500 cars on the 2.1 acre lot at a cost of about $100 million. Eastman Pierce, one of the first developers to bring a plan forward, proposed a 225-room, luxury Hilton hotel at Parcel 2 in 2000. Three years later, the company downsized it to a 176-room, mid-priced Hilton Garden Inn after the economy and hotel industry soured following 9/11. Tourism boosters say the city needs more hotel rooms to attract conventions to the Rhode Island Convention Center and more visitors to Providence, but Intercontinental saw potential in the residential market.[^1]
 
 [^1]: _“Capital Center panel hears new proposal”_, Michael Corkery for the Providence Journal, March 31, 2004. Captured March 31, 2004 on UrbanPlanet.org. https://www.urbanplanet.org/forums/topic/3974-in-progress-waterplace-intercontinental/, http://www.projo.com/metro/content/projo_20040331_capcen31.2772df.html
 

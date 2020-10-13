@@ -5,6 +5,7 @@ aka: 'IGT Center'
 date-modified: 2020-10-08 12:00
 
 built: '2005-2006'
+parcel: 9
 demolition: 
 redeveloped: 
 decade: '2000-2009'
@@ -13,7 +14,7 @@ categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Spagnolo Gisness & Associates', 'William D. Warner' ]
-lists: [ 'Did You Know?' ]
+lists: [ 'Did You Know?', 'Capital Center Parcels' ]
 tags: []
 
 address: '10 Memorial Boulevard, Providence RI'
@@ -51,7 +52,7 @@ imagescredit:
 
 ### Proposal
 
-Around April, 2004, news started to circulate that the GTECH Corporation, known for running state lotteries and gaming, was going to choose an architect to design their new headquarters to be situated in a vacant parcel on the corner of Memorial Boulevard and Francis Street. The Capital Center Commission had oversight on the development of the 77-acre Capital Center District, which rings the State House. Its Design Review Committee can approve, deny, or request modifications to submitted designs for any development in the area. The committee does not prohibit certain types of design, but it does work to make sure all new development “fits” with the Capital Center’s existing properties.  
+Around April, 2004, news started to circulate that the GTECH Corporation, known for running state lotteries and gaming, was going to choose an architect to design their new headquarters to be situated in a vacant parcel (Parcel 9) on the corner of Memorial Boulevard and Francis Street. The Capital Center Commission had oversight on the development of the 77-acre Capital Center District, which rings the State House. Its Design Review Committee can approve, deny, or request modifications to submitted designs for any development in the area. The committee does not prohibit certain types of design, but it does work to make sure all new development “fits” with the Capital Center’s existing properties.  
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-4">

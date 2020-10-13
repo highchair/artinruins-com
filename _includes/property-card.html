@@ -45,7 +45,12 @@
           <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Never Built</b></span>
         {%- endif -%}
         {%- if item.built.size > 0 -%}
-          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Built:</b> {{ item.built }}</span>
+          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group">{% unless item.built contains "Proposed" %}<b>Built:</b> {% endunless %}{{ item.built }}</span>
+        {%- endif -%}
+        {%- if item.lists contains "Capital Center Parcels" -%}
+          {%- if item.parcel.size > 0 -%}
+          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Parcel {{ item.parcel }}</b></span>
+          {%- endif -%}
         {%- endif -%}
         {%- if item.demolition.size > 0 -%}
           <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Demolition:</b> {{ item.demolition }}</span>
