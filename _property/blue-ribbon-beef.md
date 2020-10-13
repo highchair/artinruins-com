@@ -52,6 +52,7 @@ images:
   - url: blue-ribbon-jh-2004-05-06.jpg
   - url: blue-ribbon-jh-2004-05-07.jpg
   - url: blue-ribbon-jh-2004-05-08.jpg
+  - url: blue-ribbon-jh-2020-10-01.jpg
 
 imagescredit: Images from the Library of Congress HABS/HAER projects, Jack Boucher and William E. Barrett, photographers. 
 ---

@@ -35,7 +35,7 @@ images:
   - url: second-universalist-jh-2006-05-01.jpg
   - url: second-universalist-jh-2006-05-02.jpg
   - url: second-universalist-jh-2006-05-03.jpg
-  - url: second-universalist-jh-2006-05-04.jpg
+  - url: second-universalist-jh-2006-05-04.jpg  - url: second-universalist-jn-2006-05-01.jpg    caption: 'Photo by Jef Nickerson, May 2006'
   - url: second-universalist-jh-2006-05-05.jpg
   - url: second-universalist-jh-2006-05-06.jpg
   - url: second-universalist-jh-2006-05-07.jpg

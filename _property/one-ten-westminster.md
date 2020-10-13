@@ -4,10 +4,10 @@ slug: one-ten-westminster
 aka: 
 date-modified: 2020-10-06 12:00
 
-built: 
+built: 'Proposed 2005'
 demolition: 
 redeveloped: 
-decade: '2000-2005'
+decade:
 date-added: '2006'
 categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'Downtown Providence' ]
@@ -66,7 +66,7 @@ At one point, the tower was proposed to be over 500 feet — that was 35 floors
 1. 520 ft. — _proposed_ OneTen Westminster
 1. 428 ft. — Industrial Trust (“Superman”) Building (Note, by occupied floor, the Superman Building is shorter than the Hospital Trust Tower)
 1. 410 ft. — One Financial Plaza ("Hospital Trust Tower")
-1. ??? ft. — _proposed_ Second Westin Tower
+1. 358 ft. — Second Westin Tower
 1. 329 ft. — Westin Providence
 1. 311 ft. — Textron Tower
 1. 285 ft. — 50 Kennedy Plaza
@@ -78,7 +78,9 @@ The City was clearly excited as well. Mayor Cicilline was all for it, as well as
 
 [Jef Nickerson](//www.gcpvd.org/2009/02/24/vaporscraper-first-spark/){target="_blank"} summed it up well:
 
-> The Mayor was quoted as saying that OneTen would be a “first spark of a development boom.” And it was, in that time we’ve seen the development of GTECH, the Waterplace Condos, the Westin Residences, Capitol Cove, 333 Atwells Avenue, ALCO, RISD’s Chase Center and numerous other developments and renovations both large and small. We just never saw the development of OneTen Westminster.
+> The Mayor was quoted as saying that OneTen would be a “first spark of a development boom.” And it was, in that time we’ve seen the development of [GTECH]({% link _property/gtech-headquarters.md %}), the Waterplace Condos, the Westin Residences, Capitol Cove, 333 Atwells Avenue, ALCO, RISD’s Chase Center and numerous other developments and renovations both large and small. We just never saw the development of OneTen Westminster.
+
+Why, why, why… why does the City allow demolition so quickly when a developer comes forward with nothing more than promises? Why do they not demand to see signed financing paperwork? Why can’t demolition be contingent on an imminent ground-breaking? It is truly sad how many structures we have lost to [Demolition by Proposal]({% link tag/demolition-by-proposal.html %}).
 
 
 ### Current Events
@@ -86,6 +88,10 @@ The City was clearly excited as well. Mayor Cicilline was all for it, as well as
 Nearly 15 years later, the “vaporscraper” never came to pass. At one point a hotel was going to occupy part of the structure — rumored to be a W Hotel. The tower grew in height, and then shrunk. In the end, the fact that it was all privately financed was probably the death knell. 
 
 The lot is still parking. The former buildings that were here have been lost to history. The façade of the Providence National Bank on Weybosset still stands, but seeing as it has been exposed to the elements as City property for much longer than intended, we would not be surprised if it eventually needs to be removed before it falls on local traffic. 
+
+#### So what happened?
+
+We’re not entirely sure. Financing dried up we suppose, but this was at the height of local new construction and years before the economic crash of 2008. Likely, it was a mix of events that turned these plans to mist, much like the famed [Power Block]({% link _property/power-block.md %}) proposal of 2005. 
 
 
 ### In the News
