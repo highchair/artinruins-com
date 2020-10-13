@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: one-ten-westminster\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: gtech-headquarters\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: one-ten-westminster\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: waterplace-towers\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,54 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: waterplace-towers
+  person: 'Chuck'
+  content: 'These will be more attractive than the Gtech bldg, but it was unfortunate that Waterplace Park was essentially privatized between these two projects. During winter 2006-07, the white lights in these buildings (for construction purposes) were quite visible, and were, in fact, a beautiful sight, with a pleasing spectrum and arrangement. Everyone commented on how attractive they appeared. Perhaps it was just temporary lighting, but permanent incorporartion of this look should be considered.'
+
+- property: waterplace-towers
+  person: 'brenton lembo'
+  content: 'these new building wil give a touch of moderization to the city of providence cannot wait to see it completed '
+
+- property: waterplace-towers
+  person: 'rudysdad'
+  content: 'Wow! What a bold concept: high-rise luxury condos!'
+
+- property: gtech-headquarters
+  person: 'KM'
+  content: 'I have to agree with everyone – including the notion that modern and traditional buildings can co-exist… however, this is over the top. Its not modern, its cheap looking. The glowing “GTECH” beacon is just the icing on the already tacky cake. Its horrifying. However, with a little luck perhaps the new condo buildings will detract from the hideousness of the “GTECH” building? Sort of like a good make-up artist subtly shading a large nose to make it look smaller? Maybe these new structures will allow this one to blend a little rather than being a complete tacky eyesore. Really whoever approved these plans were obviously aesthetically numb.'
+
+- property: gtech-headquarters
+  person: 'Monkey'
+  content: 'Has anyone here actually bothered to visit this building, walked inside it, looked at the plans, talked with anyone about the ideas behind it, looked into its use of energy and its sustainability. Architectural criticism is more than talking about a building’s general appearance. Just like one doesn’t some up a person by the clothes they wear, a building is so much more than the way it looks and those opinions are so subjective. Some people like modern architecture, some people like historic architecture. Personally I think that they can coexist quite gracefully. The Europeans have mastered this. Why do Rhode Islanders seem to struggle with it so much? Someone from Europe would laugh at the way the mall looks because it looks like a cartoon or a weird Disney version of a New England skyline. If you think about it at one time Victorian architecture was radical, modern and strange to some. There seems to be an international architectual revolution going on, particularily in green building and the new modernism as seen in magazines like Dwell.The past is the past. Let’s preserve what we have but let’s address the future.'
+
+- property: gtech-headquarters
+  person: 'Birdie'
+  content: 'I agree with Indy. “Great potential, horrible use of it.” Providence always seems to define itself as a city that has one foot in the past and one in the future. A result of this, modern looks boring and it’s historic is never truly celebrated. We now have a glass cube on the water. Goodie.'
+
+- property: gtech-headquarters
+  person: 'Melissa'
+  content: 'I personally think that something connecting the mall to the GTECH building, either above or below ground, would be nice cause cross the street there can be pretty risky'
+
+- property: gtech-headquarters
+  person: 'Chuck'
+  content: 'Such a shame this was built. The Providence Place Mall incorporated many elements of classic Providence architecture - brick, wrought iron, cupola, etc. Then the GTECH black cube (is this the Borg cube from Star Trek?) gets dropped next to it, blocking the view from waterplace and disconnecting these two public areas and crowding the open feeling.'
+
+- property: gtech-headquarters
+  person: 'chick coletta'
+  content: 'I just came back to RI from Florida. being away for 3 years... I see many things have changed... Upon driving to downtown, I see this building that looks like it belongs in the future century. It just doesn’t fit into the citys appearance. I think it is a disgrace to see this Gteck building going up here. Whoever gave an approval on this should have been hung by the ____. Everthing that has been built in Providence has alway been in keeping with the architectural era of the city. The city has always had a look of historic beauty... But now things have changed... Now I fully understand what a great job Buddy Cianci has done... it’s a shame he wasn’t here to keep up the same apperance for the city... I guess some people now in office are guilty of what they accused Buddy of...........................????Some people might not have liked him but he did what was best for the City ...Regardless of what he was accused of ,and not to meantion what he was found not guilty of... I guess the Judge or someone just didn’t like him... What a shame to see this city falling apart. '
+
+- property: gtech-headquarters
+  person: 'indy'
+  content: 'I think the location is fine; the mall was designed to look like a downtown building but with nothing countering it it still looks a lot like a mall. The Gtech location has the potential to make a great urban street with outdoor restaurants on the mall side and retail on the Gtech side. It could create a really nice extenstion of downtown leading to Waterplace park and the capital. It would also provide a nice sense of enclosure to waterplace park. (which the mall did a good job of when it was built but this will be even tighter) The designs that Ive seen for the Gtech building however are atrocious. A big ugly, characterless glass box next to the river? Providence already have one of those on the East Side obstructing the charm of College Hill (the Citizens tower)… We don’t need another one. Great protential… horrible use of it.'
+
+- property: gtech-headquarters
+  person: 'Jordan'
+  content: 'I disagree with Roland’s comments about the site and its relation to the river. The great appeal of this development to me is the potential to use the public spaces around it and the new activity that it will generate to integrate the mall with the city. Currently, Francis Street functions as an extension of the mall and is very “one sided” – the link to the river from the mall can be accentuated with well designed public spaces and active ground floor uses. '
+
+- property: gtech-headquarters
+  person: 'Roland'
+  content: 'I am rather distressed that GTECH is building in that location. The building will hide some of the key features of the waterway. People will now have to work around the building to see the great College Hill and the Rhode Island Court House.'
 
 - property: one-ten-westminster
   person: 'Steve' 

@@ -148,7 +148,7 @@ Two years after the national real estate and hotel management company [The Proca
 
 On Aug. 1, the Cranston-based developer began demolition of the city’s former police and fire headquarters across the street from the Dunk in La Salle Square, which it will turn into a surface parking lot while designs are drawn and approved for a new mixed-use office tower with street-level restaurant and retail shops.
 
-On the same day, Procaccianti opened 200 new hotel rooms in the 380-foot tower addition it is building to its landmark [Westin Providence Hotel]({% link _property/westin-hotel-pvd.md %}). The 103 luxury condominiums being built in the tower’s upper floors will be completed in early November, said Ralph V. Izzi Jr., Procaccianti’s spokesman.
+On the same day, Procaccianti opened 200 new hotel rooms in the 380-foot tower addition it is building to its landmark [Westin Providence Hotel]({% link _property/westin-tower.md %}). The 103 luxury condominiums being built in the tower’s upper floors will be completed in early November, said Ralph V. Izzi Jr., Procaccianti’s spokesman.
 
 “We expect to have our homeowners moved in by Thanksgiving,” he said.
 
