@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: gtech-headquarters\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: the-903\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: waterplace-towers\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: the-903\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,85 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: the-903
+  person: 'matt' 
+  date: 'Sep 15 2011' 
+  content: 'I have TILE throughout my unit on the 4th floor... only unit in the building that has this. Liz made it happen. The 903 is a great place to live... I’ve owned there 5 years now and have ZERO complaints. Extremely accessible to downtown Providence, which is a great city to live in!'
+
+- property: the-903
+  person: 'Joi Love' 
+  date: 'Aug 25 2008' 
+  content: 'They are very racist at this place. They have treated me with disdain and disrespect. I was told they don’t want to deal with “My kind of people” I moved in anyway to show them they are less of people than I am. Maintenance is great, management sucks and the place is not that great. It has bugs and mold spores.'
+
+- property: the-903
+  person: 'steve'
+  content: '
+This one is for all the ignorant people who don’t understand real estate or can’t afford it. Your complaining about the best real estate investment in the city.
+
+
+260.000 poolside one br in the city w/ security and parking
+
+
+50% tax credit until 2013
+
+
+2 yrs paid condo fees and taxes
+
+
+oh look what just happened to the historical fruit company it just got wacked by the building  inspector. Now how could that have happened. Thanks Buddy I’ll double my money by 2013. '
+
+- property: the-903
+  person: 'sus brennon'
+  content: 'With a comment like “if you guys have a problem…” That says it all!  Anyone who would be taken in by the stories being told by the 903.  There are NO guarantees to the development of the market across the way. The 903 is on the wrong side of the City. Paolino only put Cianci in the 903 because of his strengh on the airways to promote Paolino’s run for Prov. Mayor or to hawk Clinton, so Paolino could be Ambassador to Italy. It’s all about power, and Paolino is always thinking about himself and what better way to get yourself promoted to the people – have a BUDDY.'
+
+- property: the-903
+  person: 'Resident'
+  content: 'P Everly should check their facts, Both the head of security and Liz Taber do live in the building but get only discounted rent, not free housing as stated below nor do either of them live in New Hampshire. Ask them for yourself. And as far as the murder that occurred there, that was at a time when there wasn’t security like there is today and if you get the facts on that as well, it was quite likely someone that the woman knew and that she let into the building as a guest, so yes do ask the police, there is nothing to hide at the 903. And if you guys have problems with the building or anything about it, just don’t visit or live there because the residents are just fine with the way things are. No need to get into the personal business of the great staff.'
+
+- property: the-903
+  person: 'Len'
+  content: 'I love reading these comments because they are probably from people who are jealous or too poor to actually buy something of their own. I recently purchased a unit overlooking the courtyard and absolutely love the place.  The staff and all of the people that live there are friendly and we are building a great little community there.  Complaints about the halls being too long?? That is a funny one, because exercise never hurt anyone, except for those who spend all day searching and writing reviews about a place that they don’t even live in first hand.  The 903 is a great place and I’m happy to call it home.'
+
+- property: the-903
+  person: 'Will'
+  content: 'Boy, P Everly put it better than anything I’ve heard. “Can’t make chicken salad out of chicken poop!” How right they are, hope to protect their investment, they don’t get kissed.'
+
+- property: the-903
+  person: 'leland mathews'
+  content: 'Liz Taber and all her nonsense about flooring is a joke!'
+
+- property: the-903
+  person: 'dee whitcomb'
+  content: 'I first looked at the 903 in February of 2006, but couldn’t make a purchased until I sold by home. When I took my first tour, a very nice, accomodating older women did the tour. She was knowledgeable and showed me everything that was available. I felt like she loved the property, that the condo was a good investment and she felt the purchase would be beneficial for me. I sold my house at the end of 06, and in 07, I returned to the 903. Things have certainally changed. Clearly the entire atmosphere has changed and not for the best. In one year of looking at condos, there has not been another agent/development who has made me as uncomfortable as the staff at the 903. Even though my first choice was the 903, Liz and her staff drove me to purchase elsewhere. Feel free to eat your cheap flooring and stainless appliances, apparently you haven’t a clue to what you are doing or even don’t worse don’t care! Smoke and mirrows – too bad.'
+
+- property: the-903
+  person: 'P Everly'
+  content: 'Liz Taber’s comments are bias, you can tell she’s on the payroll as is head of security. Would Head of Security buy a glorified hotel room if he had to actually pay for it. I was told he actually lives in New Hampshire. As part of his and Ms. Tabor’s contract a free apartment is part of their work package. Ms. Tabor’s reputation preceeds her: she is a hard broad who is constantly seen in male renter’s apartments, that seems to correspond to the party image and a way to get someone to buy a condo in a really badly built building. During tours, I have been repeatedly told about the renovations of the produce market, well not in the next 5 years. The most positive attribute of the 903, is that you can open the windows on the exterior of the building and shoot rats. Class? Remember you can’t make chicken salad out of chicken poop!'
+
+- property: the-903
+  person: 'L Mathews'
+  content: 'Oh my! I was horrified when I went to look at the 903, the halls are so long one needs a cart to travel from the much raved about garage to one’s apartment. The only level to look at is the top floor; otherwise just too much noise. It seems they are trying to make a party place rather than a home. This seems to be Paolino’s place to distribute his pay backs with henchmen as concierge, his girl friend’s late husband (Anthony Quinn) poor idea of art in the courtyard. And the Athena Group… these people think very poorly of we masses. I shan’t be drawn in by their greed and foolishness, and hopefully others will follow my lead. There are other wonderful condos – with far better construction and great locations, more space and lower prices. '
+
+- property: the-903
+  person: 'Catherine'
+  content: 'I won’t get into a debate about neighborhood safety, but Liz’s statement: “feel free to contact the Providence Police Dept to verify the safety of the property” is a pretty bold assertion, considering the murder that occured there – inside the building – a few years back. When you talk with the police, be sure to ask!'
+
+- property: the-903
+  person: 'Liz Taber'
+  content: 'As the Sales Director at The 903, I had received many requests for hardwood floors by potential buyers. We created stringent guidelines for those who chose to have floors installed. We also offer the installation of hardwoods as an upgrade option. To ensure diligence before approving hardwoods, we actually brought in a professional sound testing company to verify the sound levels were compliant to industry standards in the units below. Additionally, the condo docs require that 80% of any hard floor surface be covered with rugs. There is no issue whatsoever with the “added weight”, as noted by Shauna above (where did that come from?). Wood framing on a four story building is not a problem – steel framing is required for high-rise structures, for the weight bearing requirements of many floors. Otherwise to typical three and four story multi-family house would require steel as well. And yes, there are steel beams in the construction – the framing is wood. RI has some of the toughest fire codes in the country; we are fully compliant with all regulations. Since we are aa fully sprinklered property, I feel a lot safer here than in a typical single family home. As far as security and neighborhood, I encourage anyone with concerns to speak directly with our head of security. He is a 28-year veteran of the Providence Police Dept, and like me, he also lives here at The 903. There is onsite security staff as well as electronic surveillance at all entrances and exits. Also feel free to contact the Providence Police Dept to verify the safety of the property. The best advice I can offer anyone is see for yourself. Six million dollars in upgrades have gone into the property since it was the Jefferson Apartments, and it made all the difference.'
+
+- property: the-903
+  person: 'Brian'
+  content: 'I disagree with Shauna. As an owner and former renter, if you read the condo docs you can put in hardwood floors. The Condo Association has specifics as to how they want any new floors installed. I have had a couple contractors look at the building, all of them have commented on how well the structure is built. They said the wall board and beams are stronger than they need to be. I have never seen problems with doors or windows, and only minor cracks. The place is so warm that I often have the AC on in the winter. The units are quieter than any other apartment building I have lived in. People are so critical of the place, but they aren’t asking $500,000 per unit. It’s affordable, safe and passed inspection twice, the first time when it opened, and two years later when it went condo.'
+
+- property: the-903
+  person: 'shauna'
+  content: 'We were told that you could not install hardwood floors because it would be too loud for the surrounding condos, especially below. And they are also worried about the weight added to the structure… no steel in the construction! They try to represent themselves with class, yet they don’t let you to have any class of your own in your overpriced hotel room. Also, when they start the construction on the surrounding areas (the fruit warehouse), who knows what kinds of creatures will be scurrying about ?'
+
+- property: the-903
+  person: 'mike'
+  content: 'I have to agree with Lt. George Calise – I cant believe they build a structure of that magnitude out of wood. I am in the fire protection industry and I cant believe it flew.'
 
 - property: waterplace-towers
   person: 'Chuck'
