@@ -12,14 +12,32 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: chace-center-risd
+  person: 'Scott'
+  date: '2009-08-20'
+  content: 'Such an ugly and inappropriate building. It will look even uglier in 20 years or so. It will have people asking the same question we ask ourselves today when viewing a building from the 60s or 70s… “What were they thinking?”'
+
+- property: chace-center-risd
+  person: 'Jef'
+  date: '2009-04-19'
+  content: 'I’ve heard it called, or seen it written as, The Malcolm and Happy Chace Center (or some such). I believe the children donated in their honor.'
+
+- property: chace-center-risd
+  person: 'LeoC'
+  content: 'I am a current student at RISD and have my own thoughts on this building. The design is more interesting inside than out, although I have gotten used to the look of the building’s facade. However, the community here is really opposed to the way the space inside is being planned for use. Some at school wish that the space somehow incorporated a parking structure at its base, parking being something a luxury for most students in Providence. And the Cafe down at street level has most students wondering if the feel of the cafe will be as corporate as that of the rest of the new RISD buildings. Unfortunately due to budget problems, it seems the building will exist only on paper for now, and its unlikely I’ll see it completed before I graduate.'
+
+- property: chace-center-risd
+  person: 'some guy'
+  content: 'it was originally called the RISD Center – it changed to the Chace Center once they got some serious cash from, yes, Elizabeth and other Chace family members.'
+
 - property: the-903
   person: 'matt' 
-  date: 'Sep 15 2011' 
+  date: '2011-09-15' 
   content: 'I have TILE throughout my unit on the 4th floor... only unit in the building that has this. Liz made it happen. The 903 is a great place to live... I’ve owned there 5 years now and have ZERO complaints. Extremely accessible to downtown Providence, which is a great city to live in!'
 
 - property: the-903
   person: 'Joi Love' 
-  date: 'Aug 25 2008' 
+  date: '2008-08-25' 
   content: 'They are very racist at this place. They have treated me with disdain and disrespect. I was told they don’t want to deal with “My kind of people” I moved in anyway to show them they are less of people than I am. Maintenance is great, management sucks and the place is not that great. It has bugs and mold spores.'
 
 - property: the-903
