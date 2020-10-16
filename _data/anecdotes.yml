@@ -12,6 +12,29 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: 139-point-st
+  person: 'M3TI'
+  content: 'I think the building is going to be used by LifeSpan, starting in the next few months. They were meant to be moving in earlier, but recently let the movie “27 Dresses” film a few scenes inside the building.'
+
+- property: 139-point-st
+  person: 'Margaux'
+  content: 'My friend Josh, who goes to RISD CE classes with me, told me our building was on this site. I work here, and yes, the building was built from an existing structure. Where the atrium is is where the loading dock used to be. It’s a great space to work in, but we did just sell it – moving to a larger building in Cranston, near Lowe’s. Check that out soon for another great re-hab of an existing industrial building!'
+
+- property: 139-point-st
+  person: 'P Babbidge'
+  content: 'This building was formerly Gallimaufry Good Food, a catering business.
+
+
+(**A.I.R.:** Thanks for this, but further research indicates that Gallimaufry was located at 103 Point Street — the former Olga’s Cafe location.)'
+
+- property: 139-point-st
+  person: 'BBascule'
+  content: 'Nice installation of Bamboo in front of the windows. It took a hit after the tough winter of ‘04 but has bounced back nicely. The plywood part of the facade isn’t aging very well, though.'
+
+- property: 139-point-st
+  person: 'D Rizzolo'
+  content: 'It was built on top of and expanded a lunch/catering place called Gallamophries (spelling is all wrong). (**A.I.R.**: See P. Babbidge’s comment.)'
+
 - property: chace-center-risd
   person: 'Scott'
   date: '2009-08-20'
