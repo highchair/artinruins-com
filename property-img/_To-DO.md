@@ -28,7 +28,6 @@ _“Riverboat Ride: Crescent Park, Riverside, RI”_, George Malone for Laff in 
 
 
 ## Project Road Map
-* Feature: Purchase license to fslightbox.js for the Zoom & Slideshow features
 * Add the ability to browse properties by Map
 * Then and Now template with a horizontal slider thing?
 * Paginate category pages
@@ -143,3 +142,5 @@ WARWICK – Demolition of the 19th-century Elizabeth Mill has begun in preparati
 
 # Movies
 * Dumb and Dumber: South Water St in the opening. TF Green exterior 6:30 (of course, in the terminal, it's another airport. 21m in, Big Blue Bug off the highway. While there is a rumor that the circular Gulf station served as a Bus terminal, I could not see that in the movie itself. Maybe a deleted scene? 
+
+* Scenes of 27 Dresses was filmed inside 139 Point Street (ITEM) in 2007 or so. 

@@ -73,9 +73,9 @@ Construction
 ++ Downtown Developments — the Alice Building, Lerner, Peerless, O'Gorman, Conrad, as well as 755 Westminister and the Monohassett Mills.
 + Downtown Parking Garage / Traveller's Aid and Mama's Metro
 + GTECH Headquarters
-++ ITEM New Product Development
++ ITEM New Product Development
 + RI Credit Union
-++ RISD’s Chace Center
++ RISD’s Chace Center
 
 Historical
 + Blue Ribbon Beef
@@ -155,7 +155,7 @@ Urban Decay
 ## 2005 (only the ones that have been added)
 
 Construction
-++ Jefferson at Providence Place
++ Jefferson at Providence Place
 ++ Capital Center Parcel 2: the Intercontinental Towers, Waterplace Towers
 ++ Capital Center Parcel 6: Capital Cove
 ++ Watson Institute for International Studies
