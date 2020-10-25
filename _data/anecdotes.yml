@@ -12,6 +12,27 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: 101-north-main-st
+  person: 'Rick O.'
+  date: '2015-01-15'
+  content: 'A Francesca lived there around that time. She had a room on the corner of the building facing the camera. I was going to RISD between 1972 and 76.'
+
+- property: 101-north-main-st
+  person: 'Thomas Svaland'
+  date: '2010-12-30'
+  content: 'Could this place be where Fransesca Woodman (<a href="//en.wikipedia.org/wiki/Francesca_Woodman">Wikipedia entry</a>) was either living or (and) had her studio? See here: mialjibe.tumblr.com/post/2529393255/more-photos-by-francesca-from-the-book-i (link defunct). When I Google “Pilgrim Mills, Providence”: www.socialweb.net/places/8964.lasso= “The Mills Tavern is an upscale seasonal restaurant nestled in the culinary rich North Main Street area of Providence, Rhode Island. The restaurant is located in the old Pilgrim Mills Building and still has a lot of the charm, and beauty of an era long ago.” 
+
+
+When I Google “Francesca Woodman Pilgrim Mills” I noticed www.mostrawoodman.it/bio_eng.php (now defunct). The page wouldn’t let me copy &amp; paste, but read the chapter “Summer of 1976”. It says she lived in the industrial building of Pilgrim Mills, where she took numerous photos, while attending an Academy of Fine Arts in Providence (the Rhode Island School of Design). I get the impression there weren’t many buildings named Pilgrim Mills in Providence, Rhode Island back in 1976.
+
+
+(**A.I.R.**: Yes, good find Thomas. More digging five years after your comment and we found Betsy von Die, who is credited here with her essay on Woodman’s short life and powerful work)'
+
+- property: rocky-point-park
+  person: 'Jason Churchill'
+  date: '2020-10-08'
+  content: 'I worked at RPP in the mid 90’s in maintenance. I started out cleaning up around the park and eventually ended up working on the rides. I worked with Greg, Bob, Joe, Henry, Big Rob (or Mate) as his friends called him, Scotty and Jay in the Carpentry Department shout out to you guys and many more! They were some of the best years of my life and one of my favorite jobs! I learned a lot there and saw a lot of cool bands as well. Testing out the rides every morning was one of my favorite things to do. I mean who wouldn’t want to ride the corkscrew or free fall all alone at 7 in the morning. We used to love going into the haunted house during park hours and scaring the people mid ride! I will always remember my time there. Such a shame it ended the way it did.'
+
 - property: two-thomas-st
   person: 'Mike P'
   content: 'Raul Lovett also had a little red sports car – an MG, I think – that could usually be seen parked curbside on the Thomas Street side of the building. License plate was MMOUSE.'
