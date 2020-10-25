@@ -9,7 +9,7 @@ demolition:
 redeveloped: 
 decade: '1940-1949'
 date-added:
-categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding' ]
+categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding', '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]

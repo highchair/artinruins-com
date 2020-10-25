@@ -107,6 +107,9 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 # Poirier's Diner / El Faro / West Side Diner
 * More photos and some history here: http://61thriftpower.com/back.shtml
 
+# Pop Lofts
++ http://www.truthbox.com/45-poplofts
+
 # Pulse Nightclub
 * Images in the Thurston Saw folder, Providence. P1010127.JPG, P1010128.JPG, P1010129.JPG
 

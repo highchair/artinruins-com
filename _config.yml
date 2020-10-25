@@ -70,6 +70,7 @@ exclude:
   - README.md
   - _property-drafts
   - stats.html
+  - sitemap.xml
 
 # https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:

@@ -222,7 +222,7 @@ Construction (Nov 2006)
 ++ 1577 Westminster Street
 ++ I-Way Bridge I-Way Bridge
 + One Ten Westminster
-++ Two Thomas Street
++ Two Thomas Street
 
 Historic
 + Possner Castle
@@ -346,7 +346,7 @@ Historic
 + Downtown Bonanza Bus Terminal
 
 Redeveloped
-++ 101 North Main Street
++ 101 North Main Street
 ++ AT Wall Co.
 ++ Capt. Tillinghast House
 ++ Davis Lofts (407pinest)
@@ -402,7 +402,7 @@ Still In Use (41)
 Urban Decay (40)
 ++ The former Poirier Diner moved to its new location, now the Westminster Diner
 ++ RISD's Farnum Hall
-++ Sutton Motor Inn
++ Sutton Motor Inn
 
 **Sep 13 2011 — 306 properties**
 But the numbers above add up to 233
