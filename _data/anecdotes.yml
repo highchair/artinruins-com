@@ -12,6 +12,16 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: sutton-motor-in
+  person: 'Zack'
+  date: '2016-01-24'
+  content: 'I’ve been here (very recently) twice. First time, the old projection booth wasn’t boarded up (my father, being the juvenile funnyman he is, used it as a bathroom), and the old condiment/utensil counter was near the screen. The lot had fewer trees, and it was easy to get to the exit road. The 2nd time, in a side room, standing in the doorway, I noticed unwrapped straws and a pizza-themed paper plate. I heard that, in the mid-90s, a trio of businessmen tried to reopen the place. Well, we know how THAT turned out. If you wanna get in, no one’ll stop you. Park outside the main gate, walk over the chain, and walk right in. No sweat.'
+
+- property: sutton-motor-in
+  person: 'John Gilbert'
+  date: '2013-05-02'
+  content: 'I grew up in a drive-in and wrote a story called “Reflections After Sunset. Memories of the Drive-in.” Sadly, the site it was on is no longer on line. It was a great place to grow up. The few drive-ins that are left have been killed by digital. At $150,000 a projector, they are too expensive plus, you can’t fill that big a screen from that distance. The picture is just too dim.'
+
 - property: 101-north-main-st
   person: 'Rick O.'
   date: '2015-01-15'
