@@ -28,14 +28,28 @@ thumbnail: chace-center-render.jpg
 
 images:
   - url: chace-center-fm-2005-01.jpg
+    caption: 'Photo by Frank Mullin'
   - url: chace-center-fm-2005-02.jpg
+    caption: 'Photo by Frank Mullin'
   - url: chace-center-jn-2006-08-01.jpg
+    caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
   - url: chace-center-jn-2006-08-02.jpg
+    caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
   - url: chace-center-jn-2007-04-01.jpg
+    caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
   - url: chace-center-jn-2007-04-02.jpg
+    caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
   - url: chace-center-jn-2007-05-01.jpg
+    caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
   - url: chace-center-jn-2007-05-02.jpg
+    caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
   - url: chace-center-jn-2008-01-01.jpg
+    caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
+  - url: chace-center-jh-2020-10-01.jpg
+  - url: chace-center-jh-2020-10-02.jpg
+  - url: chace-center-jh-2020-10-03.jpg
+  - url: chace-center-jh-2020-10-04.jpg
+  - url: chace-center-jh-2020-10-05.jpg
 
 imagescredit: 'Contributions from Frank Mullin and Jef Nickerson'
 ---
