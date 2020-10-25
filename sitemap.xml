@@ -23,7 +23,7 @@ sitemap:
   {% endif %}
 {%- endfor -%}
 {%- for post in site.posts -%}
-  {%- unless post.published == false -%}
+  {% unless post.published == false %}
   <url>
     <loc>{{ site.url }}{{ post.url }}</loc>
     {%- if post.sitemap.lastmod -%}
@@ -44,10 +44,13 @@ sitemap:
       <priority>0.5</priority>
     {%- endif -%}
   </url>
-  {%- endunless -%}
+  {% endunless %}
 {%- endfor -%}
+
+{% assign exclude = "/assets/js/property.js,/assets/css/main.css,/assets/css/main.css.map" | split: ',' %}
+
 {%- for page in site.pages -%}
-  {%- unless page.sitemap.exclude == "yes" or page.name == "feed.xml" -%}
+  {% unless page.sitemap.exclude == "yes" or exclude contains page.url %}
   <url>
     <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
     {%- if page.sitemap.lastmod -%}
@@ -68,6 +71,6 @@ sitemap:
       <priority>0.3</priority>
     {%- endif -%}
   </url>
-  {%- endunless -%}
+  {% endunless %}
 {%- endfor -%}
 </urlset>
