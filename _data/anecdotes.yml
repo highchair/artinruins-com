@@ -12,6 +12,30 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: two-thomas-st
+  person: 'Mike P'
+  content: 'Raul Lovett also had a little red sports car – an MG, I think – that could usually be seen parked curbside on the Thomas Street side of the building. License plate was MMOUSE.'
+
+- property: two-thomas-st
+  person: 'Susanna Prull'
+  content: 'that Mickey Mouse was a landmark for me as a child and I was sad to see it go. I just referenced it the other day.'
+
+- property: two-thomas-st
+  person: 'Craig'
+  content: 'Yup. It used to house the law office of Lovett, Sherffring, Gallogly and Harnett. And yes, Mr. Lovett, now deceased (who resembled a member of ZZ Top), was once told that the firm would be nothing more than a Mickey Mouse Operation – later becoming a very large firm – the large Mickey Mouse that once hung in the window was representative of the firm’s success. I believe the office was also adorned with Mickey paraphernalia. I wonder what happened to the Mickey??'
+
+- property: two-thomas-st
+  person: 'Kirk Snow'
+  content: 'I believe it was the Lovitt brothers offices (i think that was there last name)… The oldest brother (now deceased) hosted a local roundtable show on channel 10(?). He was balding and had a white beard, quite the character from what i remember…'
+
+- property: two-thomas-st
+  person: 'mary kate'
+  content: 'I was always told that the building served as the offices for a local attorney who at one time was told: “you’ll never be more than a Mickey Mouse operation”, hence the oversized Mickey in the windows!'
+
+- property: two-thomas-st
+  person: 'Tracey'
+  content: 'I believe it was a lawyers office – some big local personal injury firm I think.'
+
 - property: 139-point-st
   person: 'M3TI'
   content: 'I think the building is going to be used by LifeSpan, starting in the next few months. They were meant to be moving in earlier, but recently let the movie “27 Dresses” film a few scenes inside the building.'
