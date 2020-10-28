@@ -88,7 +88,11 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 # Grove Street School
 * Find the source of the interior photos — Charles Heganam Architects
 
-# The John O. Pastore Photograph Album
+# iWay
+* Find the supporting photos of highway construction for this series
+* Find original photos provided by Frank Mullin
+
+# John O. Pastore Photograph Album
 * http://library.providence.edu/spcol/pas_scrbk/pas_scrapb2.html
 * LOTS of early photos, turn of the 20th century
 

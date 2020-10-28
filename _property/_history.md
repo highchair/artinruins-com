@@ -220,7 +220,7 @@ Urban Decay
 
 Construction (Nov 2006)
 ++ 1577 Westminster Street
-++ I-Way Bridge I-Way Bridge
++ I-Way Bridge I-Way Bridge
 + One Ten Westminster
 + Two Thomas Street
 
@@ -339,7 +339,7 @@ Urban Decay
 ## July & Aug 2010
 
 Construction
-++ Box Office
++ Box Office
 ++ RIC Residence Hall
 
 Historic
@@ -360,7 +360,7 @@ Redeveloped
 
 RIP
 + 1320 North Main Street
-++ Harris Lumber Co.
++ Harris Lumber Co.
 ++ Javaspeed Scooter Sales
 ++ Pontiac Mills
 + Smith Swim Center
