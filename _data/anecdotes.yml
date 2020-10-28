@@ -1,6 +1,6 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: the-903\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: 546-harris-ave\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
 # Replace: - property: the-903\n  person: '\1'\n  content: '\2'\n
@@ -11,6 +11,47 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: box-office
+  person: 'Carl Friend'
+  date: '2013-12-28'
+  content: 'Whilst I have had nothing directly to do with “the Box Office”, I get to admire it every time I pass by on my way to my computer-history concern over at Atlantic Mills (another featured site hereon). I think that this is a fabulous re-use of otherwise scrap material that would merely be chopped up and transported back across the Pacific to China for recycling. In its own way, it’s also quite aesthetically pleasing, too! It’s sad that what was once there is no more, but I am hoping that Providence is learning that re-use of existing structures is usually more friendly, both environmentally and socially, than constructing new. I still mourn the loss of Eagle Square.'
+
+- property: box-office
+  person: 'James'
+  date: '2013-03-05'
+  content: 'What a waste this construction is. This cost $1.8 million to build?! With so much ArtinRuins in RI, that money would have better spent repurposing an existing structure.
+
+
+(**A.I.R.**: While we might agree that a historic rehab would have been a great thing to spend the money on, the fact remains that 12 office units would not have been possible with only 1.8 million. The economy was terrible at the time, and these containers would have otherwise been scrapped instead of reimagined. We have to respectfully disagree on your assessment that this was a waste.)'
+
+- property: 546-harris-ave
+  person: 'Andrea Boucher Brown'
+  date: '2013-03-31'
+  content: 'My Uncle Rene Boucher worked there as a barber. He passed many years ago. I always thought that he may have had a pedophilic side to him, secondary to his behaviors with his daughters and nieces, me one of them. In no way am I indicting him after all of these years. I am going to counseling after the loss of my husband and all of this stuff has come up. Trying to share it with family is not comfortable and no one thinks it is true. I pray that it is not. I was just a little kid and I have repressed all of those bad memories. No one beleives the trauma or pain inflicted on me. If you have any history of my Uncle Rene, kindly share. Thank you so much…'
+
+- property: 546-harris-ave
+  person: 'Chris'
+  date: '2011-08-20'
+  content: "WTF? Lumber yards are one of the joys of life. Plus, this one allowed me to get a replacement bumper (AKA a 4x6) walking distance from my place on Federal Hill. Got some looks walking around with an 8' 4x6 but hey!"
+
+- property: 546-harris-ave
+  person: 'sandy (ucci) rebello'
+  date: '2011-11-14'
+  content: 'I used to live next door to harris lumber on 65 Valley st. I have such good memories there… going to the white tower, grand central market sitting outside on the stoops lol.'
+
+- property: 546-harris-ave
+  person: 'Roland'
+  date: '2009-08-06'
+  content: 'I remember oh so well the lumber cars that would line up against the docks. I’ve no idea why this place went out of business as they were the premier lumber supplier to the area. I wish I could print the picture in my mind regarding the lumber railcars.'
+
+- property: 546-harris-ave
+  person: 'mike'
+  date: '2009-07-27'
+  content: 'This was an artist/vendor/performance space called “Fort Thunder” up until probably around 1998-1999. Watch Your Head or Honest Bob’s Smoke Shop actually got it’s start in this building.
+
+
+(**A.I.R.:** We remember Fort Thunder in nearby Eagle Square across the intersection of Atwells and Harris but not in the former Harris Lumber building. Not debating your memory, just noting)'
 
 - property: sutton-motor-in
   person: 'Zack'
