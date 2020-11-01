@@ -61,24 +61,28 @@ With this rendering video, you can just taste the glossy, glassy 2005 goodness:
 
 The general reception was excitement. This was the first big new construction project of its kind in the early 00s when most of the development and construction happening was mill redevelopment and historic renovations. Nothing wrong with any of that, but a new modern glass skyscraper would start to directly compete with developments in Boston and Hartford. Just read some of the giddy comments in [the Urban Planet thread](//www.urbanplanet.org/forums/topic/9032-postponed-110-westminster-street){target="_blank"}.
 
-At one point, the tower was proposed to be over 500 feet — that was 35 floors with 6 levels of parking and a decorative spire. According to Jef Nickerson’s height list, that would have made it the tallest building in Providence (tallest architectural feature used as the measure): 
+At one point, the tower was proposed to be over 500 feet — that was 35 floors with 6 levels of parking and a decorative spire. According to Jef Nickerson’s height list, that would have made it the tallest building in Providence by almost 100 feet (tallest architectural feature used as the measure): 
 
 1. 520 ft. — _proposed_ OneTen Westminster
 1. 428 ft. — Industrial Trust (“Superman”) Building (Note, by occupied floor, the Superman Building is shorter than the Hospital Trust Tower)
-1. 410 ft. — One Financial Plaza ("Hospital Trust Tower")
-1. 358 ft. — Second Westin Tower
-1. 329 ft. — Westin Providence
+1. 410 ft. — One Financial Plaza (“Hospital Trust Tower”)
+1. 380 ft. — [Second Westin Tower]({% link _property/westin-tower.md %})
+1. 329 ft. — Omni Providence Hotel (original Westin tower)
 1. 311 ft. — Textron Tower
-1. 285 ft. — 50 Kennedy Plaza
-1. 235 ft. — WaterPlace Tower
-1. 223 ft. — The State House
+1. 285 ft. — 100 Westminster Street (formerly 50 Kennedy Plaza, “Fleet Bank” tower)
+1. 278 ft. — The State House (using the statue of the Independent Man as the tallest feature)
+1. 236 ft. — [BCBS RI Headquarters]({% link _property/blue-cross-tower.md %})
+1. 236 ft. — [WaterPlace Tower #1]({% link _property/waterplace-towers.md %})
+1. 223 ft. — The State House (using the top of the dome as the tallest feature)
 1. 220 ft. — The Biltmore
+1. 217 ft. — Turk’s Head Building & Providence County Courthouse
+1. 210 ft. — [WaterPlace Tower #2]({% link _property/waterplace-towers.md %})
 
 The City was clearly excited as well. Mayor Cicilline was all for it, as well as the zoning board and the Downcity Design Board of review which granted demolition permits of [two former bank structures]({% link _property/first-federal-bank.md %}), one of them an [85 year old Georgian Revival building]({% link _property/providence-national-bank.md %}), whose Weybosset Street façade the developer was encouraged to save and integrate into their building design. 
 
 [Jef Nickerson](//www.gcpvd.org/2009/02/24/vaporscraper-first-spark/){target="_blank"} summed it up well:
 
-> The Mayor was quoted as saying that OneTen would be a “first spark of a development boom.” And it was, in that time we’ve seen the development of [GTECH]({% link _property/gtech-headquarters.md %}), the Waterplace Condos, the Westin Residences, Capitol Cove, 333 Atwells Avenue, ALCO, RISD’s Chase Center and numerous other developments and renovations both large and small. We just never saw the development of OneTen Westminster.
+> The Mayor was quoted as saying that OneTen would be a “first spark of a development boom.” And it was, in that time we’ve seen the development of [GTECH]({% link _property/gtech-headquarters.md %}), the [Waterplace Condos]({% link _property/waterplace-towers.md %}), the [Westin Residences]({% link _property/westin-tower.md %}), [Capitol Cove]({% link _property/capital-center-parcel-6.md %}), 333 Atwells Avenue, ALCO, [RISD’s Chase Center]({% link _property/chace-center-risd.md %}) and numerous other developments and renovations both large and small. We just never saw the development of OneTen Westminster.
 
 Why, why, why… why does the City allow demolition so quickly when a developer comes forward with nothing more than promises? Why do they not demand to see signed financing paperwork? Why can’t demolition be contingent on an imminent ground-breaking? It is truly sad how many structures we have lost to [Demolition by Proposal]({% link tag/demolition-by-proposal.html %}).
 
