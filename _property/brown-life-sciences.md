@@ -41,7 +41,6 @@ images:
   - url: bio-med-jh-2006-10-02.jpg
   - url: bio-med-jh-2006-10-03.jpg
   - url: bio-med-jh-2006-10-04.jpg
-  - url: bio-med-jh-2006-10-05.jpg
 
 imagescredit:
 ---

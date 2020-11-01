@@ -4,16 +4,17 @@ slug: masonic-temple-pvd
 aka: "Marriott Renaissance Hotel"
 date-modified: 2020-06-19 14:00
 
-built: 1926
+built: '1926'
+parcel: '14'
 demolition: 
-redeveloped: 2004
+redeveloped: '2004'
 decade: '1920-1929'
-date-added: 2002
+date-added: '2002'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Osgood and Osgood', 'Jackson, Robertson, and Adams' ]
-lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places' ]
+lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places', 'Capital Center Parcels' ]
 tags: []
 
 NRHP-ref-number: 93001181

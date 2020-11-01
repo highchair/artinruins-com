@@ -5,7 +5,7 @@ aka: 'IGT Center'
 date-modified: 2020-10-08 12:00
 
 built: '2005-2006'
-parcel: 9
+parcel: '9'
 demolition: 
 redeveloped: 
 decade: '2000-2009'

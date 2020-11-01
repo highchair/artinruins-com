@@ -5,6 +5,7 @@ aka:
 date-modified: 2020-10-12 12:00
 
 built: '2003-2005'
+parcel: '15b'
 demolition: 
 redeveloped: 
 decade: '2000-2009'
@@ -13,7 +14,7 @@ categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Newport Collaborative Architects' ]
-lists: []
+lists: [ 'Capital Center Parcels' ]
 tags: []
 
 NRHP-ref-number:
