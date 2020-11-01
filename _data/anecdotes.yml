@@ -12,6 +12,27 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: brown-life-science
+  person: 'der einzige'
+  date: '2013-01-27'
+  content: 'Have you ever lived next to a college research lab. I have. very near boston. started out with a promise that only grad students would work there ant the work would be small scale.. in three years that promise was belied; large number of undergrads driving their cars in, lots of pollution from cars and research, and air quality was definitely affected. Oh well. cannot stop the forward thrust of progress, especially when sponsored by the uber-rich... We all know that women’s center was useless anyway, women are over empowered and over represented, right? (Hoping you get the joke)'
+
+- property: brown-life-science
+  person: 'Joe'
+  content: 'The toxins argument is totally overblown. It’s just the neighbors trying to clothe their NIMBYism with a veil of legitimacy. For what it’s worth, there are PLENTY of pigeons on the roof. And frankly, pigeon droppings are going to represent far more serious a health risk than the boogeyman of toxins.'
+
+- property: brown-life-science
+  person: 'brianna'
+  content: 'i agree with jerry in that brown’s production of “toxic chemicals” through lab experiments will not significantly increase due to one building. also, brown has its students to think about. if the life sciences building was actually such a large environmental hazard, parents spending thousands on a brown education would have something to say about the potentially carcinogenic effects as well. '
+
+- property: brown-life-science
+  person: 'jerry'
+  content: 'I doubt that the pollutants from the lab will be all that bad. The same amount of research is being done now, at facilities that are spread out throughout the campus. '
+
+- property: brown-life-science
+  person: 'Tod Damon'
+  content: 'I have heard from a very reliable source that a disproportionate amount of residents on a street bordering the BioMedical Center either have some form of cancer or lost someone in their family to cancer. There is a good reason to make Brown disclose what they plan to discharge from the new Life Sciences building. Or we can just guage it by the lack of pigeons on their roof.'
+
 - property: gorham-manufacturing-co
   person: 'Philip L Winsor'
   date: '2020-10-30'

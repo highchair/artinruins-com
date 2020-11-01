@@ -53,6 +53,7 @@
     padding: 0 0 ($vertical-rhythm/2) 1.5em;
     
     /*blockquote*/&__content {
+      @include clearfix;
       position: relative;
       z-index: 2;
       
