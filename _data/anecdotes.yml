@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: 546-harris-ave\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: brown-life-science\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: the-903\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: brown-life-science\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,14 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: capital-center-parcel-6
+  person: 'Alex'
+  content: 'Perhaps the homes should be more modestly priced. I think a bit more hight would complement the other projects as well. Either way, Capitol Cove needs to play catch up! The other projects are nearing completion.'
+
+- property: capital-center-parcel-6
+  person: 'mother jones'
+  content: 'It’s been more than a year since that story appeared in the Projo and still nothing has really happened at the site. They seem like cautious developers. Maybe they decided the market can’t absorb any more expensive condos?'
 
 - property: brown-life-science
   person: 'der einzige'
