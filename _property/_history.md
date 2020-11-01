@@ -69,7 +69,7 @@ Urban Decay section (16)
 ## 2004
 
 Construction
-++ Brown's new BioMed center, Meeting St. (first!)
++ Brown's new BioMed center, Meeting St. (first!)
 ++ Downtown Developments — the Alice Building, Lerner, Peerless, O'Gorman, Conrad, as well as 755 Westminister and the Monohassett Mills.
 + Downtown Parking Garage / Traveller's Aid and Mama's Metro
 + GTECH Headquarters
@@ -156,8 +156,8 @@ Urban Decay
 
 Construction
 + Jefferson at Providence Place
-++ Capital Center Parcel 2: the Intercontinental Towers, Waterplace Towers
-++ Capital Center Parcel 6: Capital Cove
++ Capital Center Parcel 2: the Intercontinental Towers, Waterplace Towers
++ Capital Center Parcel 6: Capital Cove
 ++ Watson Institute for International Studies
 + Proposed Westin Tower
 
@@ -313,7 +313,7 @@ Urban Decay
 _Big hole in Archive.org_
 
 Construction
-++ Blue Cross Blue Shield
++ Blue Cross Blue Shield
 
 Historical
 + A Before/After Project: photos from 1976 meet present day Providence

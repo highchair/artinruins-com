@@ -108,6 +108,12 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 # Narragansett Race Track
 * Link to this property from the RI Auditorium page
 
+# Peter Greene House move
++ Video: https://www.youtube.com/watch?v=x3yd9dTPKU4
++ LLB Architects
++ https://news.brown.edu/articles/2007/07/historic-house-relocates
++ Photo of the house as part of our Brown Biomed collection
+
 # Poirier's Diner / El Faro / West Side Diner
 * More photos and some history here: http://61thriftpower.com/back.shtml
 
