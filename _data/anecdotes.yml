@@ -12,6 +12,16 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: gorham-manufacturing-co
+  person: 'Philip L Winsor'
+  date: '2020-10-30'
+  content: 'I started working at Gorhams, under Bud Holmes in the Yard gang in September 1972 at 19 years old. Dick Angelini was the shop steward, Harold Thompson (Murphy) was the lead man. In 1973, I transferred to the second shift foundry as a squeeze molder and fill in for melter-pourer, molders and the shake-out gang. After a few months I transferred to days as a full time melter-pourer. I survived the strike of 1975 (?) and went back to work for a few months, but decided to move on. I made great money for the time, but had to put in 50 hours/week. I still have the scars from splashing molten bronze. It was the hardest work I ever did, but I do miss those days and the people I worked with. May they, and the former Gorham’s, Rest in Peace.'
+
+- property: ri-malleable-iron
+  person: 'Greg Paris'
+  date: '2020-10-28'
+  content: '<img src="/property-img/ri-malleable-iron/anecdote-paperweight.jpg" class="u__img--left" alt="">I have a cast toy Do Not Park Sign with R I Malleable Iron Works RI and swastika on it. Only one I’ve ever seen.'
+
 - property: box-office
   person: 'Carl Friend'
   date: '2013-12-28'
@@ -3408,7 +3418,7 @@ In the mid-1980s, some of my friends bought their first suits at theAndersen Lit
 - property: sears-auto-north-main
   person: 'Dean C.' 
   date: '2008-07-07' 
-  content: 'I worked at the main store from ’85 to ’92. It was a great job, but a crazy time to work for Sears in hindsight, because it was when the retail giant took some really big chances that did not pan out. Sears closed its catalog, overdiversified in financial services and real estate, began selling other brand name products through Brand Central, tried to convert underperforming community-stores into HomeLife specialty stores [furniture], and then started accepting other credit cards besides Sears and Discover. Anyway, now that they cleaned up the old Automotive, maybe they will do something with the main store. Between that and Anderson Little, it looks pretty bad. That area has a lot of history, the old Lowes Drive-in and, way before that, the [Cyclodrome]({% link _property/cyclodrome.md %}), which was where the drive-in was, became the first spot to host an NFL game under lights [Providence Steamrollers vs. Chicago cardinals], Chip’s underground bowling alley, the list goes on. On a side note: When they stopped selling hot dogs and candy in the middle of the main store, a woman who used to sell them ended up making food and selling it to employees from the break room. She made awesome chicken crouquets!'
+  content: 'I worked at the main store from ’85 to ’92. It was a great job, but a crazy time to work for Sears in hindsight, because it was when the retail giant took some really big chances that did not pan out. Sears closed its catalog, overdiversified in financial services and real estate, began selling other brand name products through Brand Central, tried to convert underperforming community-stores into HomeLife specialty stores [furniture], and then started accepting other credit cards besides Sears and Discover. Anyway, now that they cleaned up the old Automotive, maybe they will do something with the main store. Between that and Anderson Little, it looks pretty bad. That area has a lot of history, the old Lowes Drive-in and, way before that, the <a href="/property/cyclodrome/">Cyclodrome</a>, which was where the drive-in was, became the first spot to host an NFL game under lights [Providence Steamrollers vs. Chicago cardinals], Chip’s underground bowling alley, the list goes on. On a side note: When they stopped selling hot dogs and candy in the middle of the main store, a woman who used to sell them ended up making food and selling it to employees from the break room. She made awesome chicken crouquets!'
 
 - property: sears-auto-north-main
   person: 'lisa tudino'
@@ -3416,11 +3426,11 @@ In the mid-1980s, some of my friends bought their first suits at theAndersen Lit
 
 - property: sears-auto-north-main
   person: 'Ken Foote'
-  content: 'I worked at [Sears on North Main Street]({% link _property/sears-north-main.md %}) throughout high school and college. My first job was pumping gas at the Automotive Center. I have lots of fond memories of all the people who worked there. I even met my wife there. She sold hot dogs at the main store. We’ve been married for 33 years.'
+  content: 'I worked at <a href="property/sears-north-main/">Sears on North Main Street</a> throughout high school and college. My first job was pumping gas at the Automotive Center. I have lots of fond memories of all the people who worked there. I even met my wife there. She sold hot dogs at the main store. We’ve been married for 33 years.'
 
 - property: sears-auto-north-main
   person: 'Pete Falina'
-  content: 'I remember going to the [North Main St Sears]({% link _property/sears-north-main.md %}) store as a child, about 50 years ago. I recall seeing automotive work going on in a small, single-storey brick structure sited against the parking lot retaining wall. Eventually, perhaps 40 years ago or so, the store took over the space, and the separate auto service center was opened down North Main St.'
+  content: 'I remember going to the <a href="property/sears-north-main/">North Main St Sears</a> store as a child, about 50 years ago. I recall seeing automotive work going on in a small, single-storey brick structure sited against the parking lot retaining wall. Eventually, perhaps 40 years ago or so, the store took over the space, and the separate auto service center was opened down North Main St.'
 
 - property: old-stone-bank-north-main
   person: 'Michael Farris'
@@ -5006,7 +5016,7 @@ I remember once the concessionaires elected NOT to hire the Beatles for a 3-day 
 
 - property: providence-fruit-produce
   person: '401-RUSH' 
-  content: 'Just if anyone is interested, the skatepark in this spot which under went a few different names (outback appleshack, Potato factory, etc.) was built by PSC (Providence Skate Crew). It was completed using materials “found” in local construction sites. The locker entrance was constructed by a member to keep uninvited guests out. We would like to thank all the junkies, Providence Police, and RI underworld for the fire, smashing up the ramps and essentially ruining what was a great spot for local skaters and graffiti punks. This place was a great example of what a bunch of high school drop outs and thayer street rats can do with a space most of the well to do in Providence want to destroy. Others examples include Olneyville, the Thayer Street Mansion, and the [Masonic Temple]({% link _property/masonic-temple.md %}).'
+  content: 'Just if anyone is interested, the skatepark in this spot which under went a few different names (outback appleshack, Potato factory, etc.) was built by PSC (Providence Skate Crew). It was completed using materials “found” in local construction sites. The locker entrance was constructed by a member to keep uninvited guests out. We would like to thank all the junkies, Providence Police, and RI underworld for the fire, smashing up the ramps and essentially ruining what was a great spot for local skaters and graffiti punks. This place was a great example of what a bunch of high school drop outs and thayer street rats can do with a space most of the well to do in Providence want to destroy. Others examples include Olneyville, the Thayer Street Mansion, and the <a href="property/masonic-temple/">Masonic Temple</a>.'
 
 - property: providence-fruit-produce
   person: 'Andy' 

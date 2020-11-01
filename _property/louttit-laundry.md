@@ -30,6 +30,7 @@ thumbnail: loutit-laundry-jh-2002-04-02.jpg
 
 images:
   - url: loutit-laundry-anon-1959-01.jpg
+  - url: loutit-laundry-unknown-01.jpg
   - url: loutit-laundry-cm-2001-05-01.jpg
     caption: Photo by Chris Martin
   - url: loutit-laundry-cm-2001-05-02.jpg
