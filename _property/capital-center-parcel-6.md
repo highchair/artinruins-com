@@ -29,6 +29,7 @@ thumbnail: parcel-6-jh-2008-05-05.jpg
 
 images:
   - url: parcel-6-jh-2002-06-01.jpg
+    alt: 'A low and wide condominium complex clad in new panel materials with many notches and bump-outs to break up its large mass. Red brick veneer, tan stucco and alumninum panels comprise the bulk of the facades.'
   - url: parcel-6-jh-2005-07-01.jpg
   - url: parcel-6-jh-2005-07-02.jpg
   - url: parcel-6-jh-2005-07-03.jpg

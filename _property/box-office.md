@@ -29,6 +29,7 @@ thumbnail: box-office-promo-02.jpg
 images:
   - url: box-office-jh-2009-05-01.jpg
     caption: 'Ground breaking Ceremony May 25th, 2009'
+    alt: 'An admittedly odd-looking structure consisting of Lego-like shipping containers stacked on top of one another and cantilevering out into mid air, brightly painted, with small cut-out windows and an interior breezeway under a steel canopy.'
   - url: box-office-pc-2009-11-01.jpg
     caption: 'Construction photos by Peter Case, November 2009'
   - url: box-office-pc-2009-11-02.jpg

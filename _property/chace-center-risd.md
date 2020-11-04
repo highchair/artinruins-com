@@ -29,6 +29,7 @@ thumbnail: chace-center-render.jpg
 images:
   - url: chace-center-fm-2005-01.jpg
     caption: 'Photo by Frank Mullin'
+    alt: 'A modern, glass and bright red brick multi-story building that houses a portion of the Rhode Island School of Design Museum. Its facade is madeof panels of translucent glass and aluminum which reflects or lets light through without flooding the interior museum spaces with natural light that could damage artworks.'
   - url: chace-center-fm-2005-02.jpg
     caption: 'Photo by Frank Mullin'
   - url: chace-center-jn-2006-08-01.jpg

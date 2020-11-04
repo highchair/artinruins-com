@@ -28,6 +28,7 @@ thumbnail: harris-shed-jh-2009-05-09.jpg
 
 images:
   - url: harris-shed-jh-2009-05-01.jpg
+    alt: 'A non-descript 2-story shed along the railroad tracks used for shipping and receiving. Most of the structure is covered in corrugated steel panels and grafitti with an exterior steel stair.'
   - url: harris-shed-jh-2009-05-02.jpg
   - url: harris-shed-jh-2009-05-03.jpg
   - url: harris-shed-jh-2009-05-04.jpg

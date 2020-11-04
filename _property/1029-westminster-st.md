@@ -31,6 +31,7 @@ thumbnail: swap-westminster-jh-2006-06-01.jpg
 
 images:
   - url: swap-westminster-jh-2006-04-01.jpg
+    alt: 'A modern but inexpensive structure with a first floor of golden brick and upper floors sheathed in dark red cement fiberboard. Steel industrial details act as awnings over the main windows with other small industrial details around the entrances.'
   - url: swap-westminster-jh-2006-06-01.jpg
   - url: swap-westminster-jh-2006-06-02.jpg
   - url: swap-westminster-jh-2006-06-03.jpg

@@ -32,6 +32,7 @@ thumbnail: a-f-adie-house-pps-2013-01.jpg
 images:
   - url: a-f-adie-house-ss-1986-01.jpg
     caption: 'Photo by Shelby Salzberg circa 1986'
+    alt: 'A stately square three-story wood framed home with two central ground-level entrances a few steps above street level. The style of the structure is early 20th century Federalist and for most of its late life it was painted white.'
   - url: a-f-adie-house-pps-2013-01.jpg
     caption: 'Photo from the Providence Preservation Society Guide to Providence Architecture, Warren Jagger (unverified)'
   - url: a-f-adie-house-jh-2014-01.jpg

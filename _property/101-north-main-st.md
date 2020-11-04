@@ -29,6 +29,7 @@ thumbnail: 101-nmainst-jh-2020-10-02.jpg
 images:
   - url: Pilgrim-Mills-Francesca-Woodman.jpg
     caption: 'Image taken of artist Francesca Woodman by Betsy von Die'
+    alt: 'A four-story mill with narrow newer additon serving as a modern elevator and stair tower. The front is a traditional ground-level commercial storefront with wood millwork details, topped with 3 stories of brick and windows with arched lintels. The rear of the building is simple stucco in a more blocky, modern configuration.'
   - url: 101-nmainst-wh-1990-01.jpg
     caption: 'View of 101 North Main Street from the roof of One Financial Plaza, August 20, 1990, by Will Hart'
   - url: 101-nmainst-ARC-1998c-04.jpg

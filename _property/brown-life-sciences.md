@@ -28,6 +28,7 @@ thumbnail: bio-med-jh-2006-10-01.jpg
 
 images:
   - url: bio-med-jh-2003-11-01.jpg
+    alt: 'A massive 6-story brick structure with sections of more modern glass puncturing its heavy mass. The building wraps around and connects to older structures around it and features a ground-level walkway thrugh the center of it connecting it to the main campus green.'
   - url: bio-med-jh-2004-12-01.jpg
   - url: bio-med-jh-2004-12-02.jpg
   - url: bio-med-jh-2004-12-03.jpg

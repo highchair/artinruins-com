@@ -30,6 +30,7 @@ thumbnail: bcbs-tower-jh-2020-10-01.jpg
 images:
   - url: bcbs-tower-jn-2008-05-01.jpg
     caption: 'Photo by Jef Nickeron, May 2008'
+    alt: 'A modern 13-story tower covered in glass and steel or alumninum panels. Each facade is slightly different – one rises straight up while others curve in a subtle wave-like fashion.'
   - url: bcbs-tower-jn-2008-05-02.jpg
     caption: 'Photo by Jef Nickeron, May 2008'
   - url: bcbs-tower-jn-2008-05-03.jpg
