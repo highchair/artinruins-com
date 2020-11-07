@@ -12,6 +12,16 @@
 
 # Check validity with http://www.yamllint.com/
 
+
+- property: '1577-westminster-st'
+  person: 'Paul'
+  date: '2011-05-04'
+  content: 'It’s built, but haven’t seen any progress on getting a business or co-op set up in there... seems like a needless build thus far.'
+
+- property: '1577-westminster-st'
+  person: 'George'
+  content: 'Nothing going on here – over a year has passed since the target date for ground breaking – this place looks pretty sad – even the WBNA banner looks decayed. Sad… very sad.'
+
 - property: cumberland-plastics
   person: 'Christina Holden-Shea'
   date: '2019-04-30'
