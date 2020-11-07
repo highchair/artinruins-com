@@ -27,7 +27,7 @@ gmap: ""
 meta: ""
 excerpt: "Four residential units plus retail in a industrial chic box added density to the West Side in 2007."
 
-thumbnail: swap-westminster-jh-2006-06-01.jpg
+thumbnail: swap-westminster-jh-2020-11-01.jpg
 
 images:
   - url: swap-westminster-jh-2006-04-01.jpg
@@ -35,6 +35,9 @@ images:
   - url: swap-westminster-jh-2006-06-01.jpg
   - url: swap-westminster-jh-2006-06-02.jpg
   - url: swap-westminster-jh-2006-06-03.jpg
+  - url: swap-westminster-jh-2020-11-01.jpg
+  - url: swap-westminster-jh-2020-11-02.jpg
+  - url: swap-westminster-jh-2020-11-03.jpg
 
 imagescredit: 
 ---
