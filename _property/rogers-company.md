@@ -14,7 +14,7 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Bars, Businesses, & Restaurants' ]
+tags: [ 'College Properties', 'Bars, Businesses, & Restaurants' ]
 
 address: '35 Richmond Street, Providence RI'
 latitude: '41.820566'

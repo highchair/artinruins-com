@@ -43,7 +43,7 @@ Saved section (14)
 ++ Dyerville Mill
 ++ Engine Station #9
 ++ Greystone / for. RI Tool / for. Providence Tool
-++ J & H Electric
++ J & H Electric
 ++ Lebanon Mill / Riverside lofts
 ++ Poirier’s Diner / El Faro / Krystal's’Diner
 ++ National Providence and Worsted Mills
@@ -88,14 +88,13 @@ Redeveloped
 ++ 60 Valley Street / Providence Bleaching, Dyeing and Calendaring
 ++ 1088 Main Street / Rag & Bone Bindery
 ++ Alice Building
-++ American Woolen / Riverside Mills
++ American Woolen / Riverside Mills
 ++ Brown and Sharpe Manufacturing
 ++ Trinity Rep Extension, Citizens Bank
 ++ Dunlop Tire / Providence Teaming Co.
 + East Side Tunnel Reopened?
 ++ Engine Station #7
 ++ Hotel Providence / Lederer building and Bell dormitory
-+ J & H Electric / Ship Street Lofts
 ++ Lebanon Mills
 ++ Lerner / Wilkinson bldg
 ++ Mason bldg//RISD Center for Integrative Technology
@@ -107,7 +106,6 @@ Redeveloped
 ++ Peoples Savings Bank
 + Providence National Bank (now RIP)
 ++ Rau (Ray) Fastner
-++ South Street Power Plant / Heritage Harbor Museum
 ++ Texaco Station / West Broadway Neighborhood Association
 
 RIP
@@ -139,17 +137,15 @@ Streetscape
 
 Urban Decay
 ++ 354 Pine Street
-++ Abandoned retail
++ Abandoned retail
 ++ Bayley Street
 + Bootleggers
 ++ Central Falls/Pawtucket Train Station (2003)
 ++ Earl Mason Carriage House
 + First Federal Bank, recently Buck a Book
-++ Fox Point Bath House
 ++ New England Paper Tube, Co. 
 + North Main Street — Ethan Allen, Sears Auto, Sears, Anderson Little, #1320
 ++ Providence Armory
-++ Royal Mills & Ace Dyeing 
 
 
 ## 2005 (only the ones that have been added)
@@ -219,7 +215,7 @@ Urban Decay
 ## 2006 (only those that have been added)
 
 Construction (Nov 2006)
-++ 1577 Westminster Street
++ 1577 Westminster Street
 + I-Way Bridge I-Way Bridge
 + One Ten Westminster
 + Two Thomas Street
@@ -260,7 +256,7 @@ Urban Decay
 ## 2007
 
 Construction
-++ 19 Fremont Street
++ 19 Fremont Street
 + 1029 Westminster Street
 ++ Miriam Hospital Expansion
 
@@ -380,6 +376,7 @@ Urban Decay
 ++ Weeden Manor
 ++ Weybosset St Facade
 
+
 **Dec 9 2010 — 296 properties**
 
 ## 2011
@@ -401,7 +398,7 @@ Still In Use (41)
 
 Urban Decay (40)
 ++ The former Poirier Diner moved to its new location, now the Westminster Diner
-++ RISD's Farnum Hall
++ RISD's Farnum Hall (RIP)
 + Sutton Motor Inn
 
 **Sep 13 2011 — 306 properties**
@@ -455,13 +452,13 @@ Historic
 ** Homepage still says there are 315 properties**
 
 RIP
-++ Fogarty Building moved from decay
++ Fogarty Building moved from decay
 
 
 ## 2018
 
 RIP
-++ Cumberland Engineering, formerly Howard & Bullough American Machine Co
++ Cumberland Engineering, formerly Howard & Bullough American Machine Co
 
 
 ## 2019

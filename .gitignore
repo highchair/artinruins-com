@@ -1,5 +1,6 @@
 _stage/
 _prod/
+.nova/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata

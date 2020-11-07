@@ -76,6 +76,9 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 # Fogarty Building
 + Find my photos of the demolition or scour the innerwebs for demolition photos
 
+# Fremont Street
++ Find photos from 2007 of 19 Fremont Street
+
 # Furniture place, Atwells Ave
 * Photo in Eagle Square from Sarah, Feb 2002: P1010098.JPG, P1010099.JPG
 
@@ -120,11 +123,17 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 # Pop Lofts
 + http://www.truthbox.com/45-poplofts
 
+# Post Office, Meeting Street
++ The new Brown Biomed expansion on Meeting Street in 2006 demolished a building that a Post Office was located in, owned by the University
+
 # Pulse Nightclub
 * Images in the Thurston Saw folder, Providence. P1010127.JPG, P1010128.JPG, P1010129.JPG
 
 # Red Fez
 * There is a photo of this building from 1977 in the Downtown Providence Historic District for the National Register
+
+# Sarah Doyle Women's Center Meeting Street
++ The new Brown Biomed expansion on Meeting Street in 2006 demolished this contributing building owned by the University listed in a College Hill survey as the Mary H. Parsons House. 
 
 # Silver Spring
 * Find the old photos and rescan them. All are poor quality. 
