@@ -12,6 +12,26 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: edgewood-yacht-club
+  person: 'Lesley Maxwell'
+  date: '2018-12-29'
+  content: 'It has been rebuilt and recently reopened. Photos here: <a href="//www.edgewoodyachtclub.com/category/building-update">edgewoodyachtclub.com/category/building-update</a>'
+
+- property: edgewood-yacht-club
+  person: 'Carolyn Mancone'
+  date: '2018-3-04'
+  content: 'I remember picking apples in the small orchard next to the club. Sitting on the dock on a hot summer day, trying to catch a breeze. Playing on the beach at low tide. We lived on Shaw Ave, so I was always there. Had my baby shower there and got married there. It certainly was a beautiful piece of history.'
+
+- property: edgewood-yacht-club
+  person: 'jim miller'
+  date: '2018-01-22'
+  content: 'Many a summer day was spent at the EYC playing ping pong when it rained, racing and sailing our Beetles in the evening while our folks looked on from the dock. Getting towed to a regatta my the Mellors old boat with 8 or 9 little sail boats towed in the wake. Sleeping in potters cove on our little boats watching the phosphors light up around us at night. These were the memories from the 50’s and we were a lucky and blessed group of kids.'
+
+- property: edgewood-yacht-club
+  person: 'ElJiffy'
+  date: '2015-09-16'
+  content: 'Why not rebuild it?'
+
 - property: '19-fremont-st'
   person: 'Sam' 
   date: '2008-05-21' 

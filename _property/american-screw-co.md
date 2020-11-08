@@ -14,7 +14,7 @@ neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Alpheus C. Morse', 'Thomas A. Tefft' ]
 lists: [ 'HABS HAER', 'Moshassuck Square Historic District', 'National Register of Historic Places', 'Providence’s Five Industrial Wonders' ]
-tags: [ 'Demolition by Neglect' ]
+tags: [ 'Demolition by Neglect', 'Demolition by Fire' ]
 
 NRHP-ref-number: 709380013
 added-to-NRHP: '1970'

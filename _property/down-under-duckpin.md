@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'North Main Street Commercial Corridor' ]
-tags: [ 'Needs History' ]
+tags: [ 'Needs History', 'Demolition by Fire' ]
 
 address: '615 Pawtucket Avenue, Pawtucket RI'
 latitude: '41.8570074'

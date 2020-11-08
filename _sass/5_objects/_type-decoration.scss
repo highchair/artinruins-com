@@ -37,10 +37,10 @@
     background: bottom right no-repeat url('../img/hashes-yellow-bot-right.svg') transparent;
     background-size: ($hashes__width * 0.75) ($hashes__height * 0.75);
     color: palette('brand-red');
-    font-size: 2em;
+    font-size: 1.625em;
     // Experimental way to "stretch" the font and make it a little more legible
     transform: scale(1.125, 1);
-    padding: 0 1em;
+    padding: 0 1.5em;
   }
   
   &__lead {

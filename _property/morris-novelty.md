@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Demolition by Neglect', 'Needs History' ]
+tags: [ 'Demolition by Neglect', 'Demolition by Fire', 'Needs History' ]
 
 address: '523 Main Street, Pawtucket RI'
 latitude: '41.876175'

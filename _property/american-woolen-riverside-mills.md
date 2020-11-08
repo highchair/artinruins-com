@@ -14,7 +14,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Lewis Downe' ]
 lists: [ 'Providence Industrial Sites 1981' ]
-tags: []
+tags: [ 'Demolition by Fire' ]
 
 NRHP-ref-number:
 added-to-NRHP:

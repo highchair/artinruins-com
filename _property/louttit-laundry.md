@@ -13,7 +13,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places', 'Providence Industrial Sites 1981' ]
-tags: [ 'Demolition by Neglect' ]
+tags: [ 'Demolition by Neglect', 'Demolition by Fire' ]
 
 NRHP-ref-number: 04000197
 added-to-NRHP: Mar 18, 2004
