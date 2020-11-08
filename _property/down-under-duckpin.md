@@ -28,6 +28,7 @@ thumbnail: down-under-jh-2009-12-01.jpg
 
 images:
   - url: down-under-postcard.jpg
+    alt: 'At the level of the parking lot was a small outcrop building that served as the main entrance. In the building was a set of stairs that led down to the bowling alley below the parking lot. The bowling alley was a time capsule of late 70s interior design.'
   - url: down-under-em-2008-08-01.jpg
   - url: down-under-em-2008-08-02.jpg
   - url: down-under-jh-2008-11-01.jpg

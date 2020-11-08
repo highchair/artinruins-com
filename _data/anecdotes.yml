@@ -12,6 +12,30 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: '19-fremont-st'
+  person: 'Sam' 
+  date: '2008-05-21' 
+  content: 'What a smart-looking little house. I’ve seen some similar structures sprout on College Hill in recent years, and they jive really well with the older stock. I think this style is most successful in dense neighborhoods with lots of trees, and dramatic topography. But see how it makes a depressed, flatlands neighborhood look even more dreary, as with the Meeting Street School in South Providence. (**A.I.R**:- dreary by comparison, we assume?)'
+
+- property: '19-fremont-st'
+  person: 'Vic' 
+  date: '2008-04-10' 
+  content: 'Josh, unfortunately more architects never even know who McKim, Mead and White were, let alone follow in their hallowed footsteps. The trio were way ahead of their time and inspired many contemporary architects from FLWright to Robert (AM) Stern. 19 Fremont is a travesty unlike most of M M &amp; W’s works. With McKim’s classicalism, Mead’s structurisms and White’s worldly influences, the group was a formidable force to be built against. 19 Fremont’s scriber only wished he penned the famous Low House in Bristol, RI. This box is nowhere near worth mentioning in the same article as McKim, Mead and White. I pick “blend” anytime.'
+
+- property: '19-fremont-st'
+  person: 'josh'
+  content: 'I think it is unfortunate that Rhode Islanders are so unwilling to embrace modern Architecture. It seems we have all become so dumbed down with the visual restraints placed on us by commissions and commities. While the three tenaments have their rightful place in RI’s rich architectural history, vinyl siding should never be considered “character”. True character comes in the form of innovative, progressive, often daring ideas. With out innovative thinkers we wouldn’t have some of our most treasured Rhode Island architecture. Bye bye State House (Mckim, Mead &amp; White). The dome alone is amazing and was considered too radical for its time. We can no longer afford to reject modern buildings with innovative uses of resources. These building standards often incorporate LEED requirements and have minimal impact on the environment while adding another chapter in our history. I think we should continue to have a open mind when we look at Providence’s architecture and the rich visual story unfolding. 
+
+
+Think about it, no one gets hot and bothered by the Court Yard Marriott which “blends” in and to some extent, fades away. Instead, your eye is drawn to the GTECH building which acts as a counterpoint to all of the other “classical” architecture. Without this balance one can’t truly appreciate different styles and gestures. It might be that the house on Fremont has just made us aware of the boring, restrained, and inhibited design we have had to live with.'
+
+- property: '19-fremont-st'
+  person: 'John'
+  content: 'Looks like something I see built in Venice or Hermosa Beach, CA, not RI. Sorry does not fit, only 3 decker tenaments should be built there to keep character intact.'
+
+- property: '19-fremont-st'
+  person: 'Vic'
+  content: 'Oh yeah, “that” blends…'
 
 - property: '1577-westminster-st'
   person: 'Paul'
