@@ -37,6 +37,8 @@ images:
     caption: 'Company letterhead from 1883'
   - url: John-Gannon-via-Facebook.jpg
     caption: 'Cover of a large box of assorted screws from John Gannon'
+  - url: 'amerscrew-ppl-1930c.jpg'
+    caption: 'Rhode Island Mills and Mill Villages Photograph Collection, Providence Library Digital'
   - url: 'amerscrew-ppl-1965c-01.jpg'
     caption: 'Newspaper clipping from the John Hutchins Cady Research Scrapbooks Collection at Providence Public Library, circa 1965. Notice the “American Screw Company” sign, which is why we date the photo pre-1970 — signage is not present in the Library of Congress photos'
   - url: amerscrew-habs-1970-01.jpg

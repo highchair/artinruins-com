@@ -8,7 +8,7 @@ built: '1908'
 demolition: '2011'
 redeveloped: 
 decade: '1900-1909'
-date-added:
+date-added: '2011'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Cranston, RI' ]

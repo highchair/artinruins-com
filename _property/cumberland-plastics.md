@@ -35,6 +35,8 @@ images:
     alt: 'A long, wide red brick mill located along train tracks consisting of columns and columns of windows with a connected administration building that features a decorative spinerette tower'
   - url: cumb-plastics-historic-unknown-02.jpg
     caption: 'Historic photo of the complex, date unknown'
+  - url: cumb-plastics-ppl-postcard-01.jpg
+    caption: 'Postcard of the Howard & Bullough American Machine Company building in Attleboro, MA. Railroad tracks run in the foreground of the postcard'
   - url: cumb-plastics-jh-2015-08-01.jpg
   - url: cumb-plastics-jh-2015-08-02.jpg
   - url: cumb-plastics-jh-2015-09-01.jpg
@@ -48,7 +50,7 @@ images:
   - url: cumb-plastics-jh-2015-12-02.jpg
   - url: cumb-plastics-jh-2015-12-03.jpg
 
-imagescredit: 
+imagescredit: 'Postcard from the <a href="//provlibdigital.org/islandora/object/islandora%3A16116">Edward Ozog Photograph Collection</a>, Providence Public Library Digital Collection'
 ---
 
 ### Reason for Demolition
