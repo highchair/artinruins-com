@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'Warwick, RI' ]
 designers: []
 lists: []
-tags: []
+tags: [ 'Demolition by Fire' ]
 
 address: '785 Main Street, West Warwick RI'
 latitude: '41.7208157'
