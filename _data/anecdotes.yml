@@ -12,6 +12,27 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: vedanta-society-addition
+  person: 'Jeff Allcock'
+  date: '2015-10-15'
+  content: 'I remember 224 Angell Street, the building demolished to make way for this expansion, and Swami Sarvagatananda, who was the Vedanta Society’s guru when my boyfriend and I attended in the 198Os. I’m sorry to see the old building go but the new one is pretty striking and seems to fit in well with the old neighborhood.
+
+
+(**A.I.R.**: You are right to be a bit confused Jeffrey. The building that was demolished by Vedanta was 221, but the building they were in for over 60 years was at 224, across the street. That’s now gone, too.)'
+
+- property: vedanta-society-addition
+  person: 'Jeffrey Allcock'
+  date: '2015-09-16'
+  content: 'This isn’t the building I remember going to in the 198Os, which was at 224 Angell. But it looks very nice in its present incarnation and fits in with the neighborhood. A good job from these architects, sensitive and bold.'
+
+- property: miriam-expansion
+  person: 'Jonathan Howard'
+  content: 'As the head wind-blower from <a href="//www.sna.providence.ri.us" target="_blank">Summit Neighborhood Association</a>, I wanted add my two cents. Maybe we did win, but it sure felt like getting our ass kicked. Neighbor opposition was massive, not manufactured, and stemmed from decades of abusive behavior toward the neighborhood, not just this proposal. Yep, it’s great to have a great hospital a couple of blocks away (as it is for me), but what if it’s less than a block, as it is for people living between North Main and Brewster? The new hospital will be at least 25% bigger and will support at least that much increase in patient throughput and impact on neighbors. They should have built a beautiful new hospital on North Main. Everyone I spoke to, including hospital planners and economists, volunteered this solution before I could suggest it. They didn’t, so we move on, hoping for a better relationship based on more responsible, neighborly behavior in future. So far, it’s been better than before the clash. One area we’ve worked together on is North Main, where Miriam long owned the <a href="/property/sears-north-main">Sears</a> and <a href="/property/anderson-little-north-main">Anderson Little</a> buildings. They have helped us hire consultants to figure out what can be done to revitalize that desolate stretch.'
+
+- property: watson-institute
+  person: 'rudysdad'
+  content: 'Brown U continues its uglification campaign against the East Side…'
+
 - property: east-side-train-tunnel
   person: 'Paul'
   date: '2020-06-10'
