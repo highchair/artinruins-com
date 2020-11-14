@@ -35,24 +35,26 @@ images:
 imagescredit: 
 ---
 
-### Reason for Demolition
-
-
+For Urban Decay: 
+### Last Tenant
+#### Architecture
 ### Current Events
-
-
 ### History
-
-
 ### In the News
 
+For Not In Ruins
+### Redevelopment
+### Current Events
+### History
+### In the News
 
-For new construction: 
+For Used to Be There
+### Reason for Demolition
+### Current Events
+### History
+### In the News
 
+For What are they Building: 
 ### Proposal
-
-
 ### Design Reception
-
-
 ### In the News
