@@ -2,7 +2,7 @@
 title: "Apex Department Store"
 slug: apex-pawtucket
 aka: 
-date-modified: 2020-11-14 12:00
+date-modified: 2020-11-13 12:00
 
 built: '1969'
 demolition: 
@@ -30,6 +30,10 @@ images:
   - url: apex-rendering.jpg
     caption: 'Original rendering of proposed Apex building by Andrew Geller, provided by Jake Gorst. Notice that the orientation is different, with a front entrance along the water front and additional parking at the back.'
     alt: 'A low, single story department store with a mid-sixties style. Projecting entrance pavollions are flanked by four-sided columns that are fat at the bottom and taper up in the form of an elongated pyramid. The roof is topped with a six-stepped ziggurat pyramid capped with neon letters spelling the name of the store, Apex.'
+  - url: apex-pj-1969-01.jpg
+    caption: 'From the Providence Journal, captioned: “In 1969, The Apex store’s distinctive pyramidal roof starts to take shape in downtown Pawtucket around 1969 as part of the Slater Renewal Project.” The steel supports for the roof decoration are part of the structure of the building, even though the ziggurat is open to the elements and has a flat rubber roof underneath it.'
+  - url: apex-pj-1970-01.jpg
+    caption: 'Providence Journal, circa 1970'
   - url: apex-jh-2003-11-01.jpg
   - url: apex-jh-2003-11-02.jpg
   - url: apex-jh-2003-11-03.jpg
@@ -59,7 +63,7 @@ images:
   - url: aerial-google-3d-2020.jpg
     caption: 'Aerial view of the Blackstone riverfront from Slater Mill on the left to the river basin on the left, after the falls under the Main Street bridge and interstate 95 and Division Street bridges. Apex is center left.'
 
-imagescredit: 'Contributions by Jake Gorst, C.F., the Providence Historical Aerial Viewer, and Google Maps'
+imagescredit: 'Contributions by Jake Gorst, the Providence Journal, C.F., the Providence Historical Aerial Viewer, and Google Maps'
 ---
 
 ### Current Tenant
