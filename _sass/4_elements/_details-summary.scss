@@ -1,0 +1,12 @@
+details {
+  
+  summary {
+    @include ff-sans(true);
+    margin-bottom: $vertical-rhythm;
+    
+    &:focus {
+      outline: 2px solid palette('brand-orange');
+      outline-offset: 2px;
+    }
+  }
+}
