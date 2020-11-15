@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: rustic-tri-view\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: milk-can\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: brown-life-science\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: milk-can\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,43 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: milk-can
+  person: 'John Tardif' 
+  date: '2019-05-07' 
+  content: 'I grew up playing right next door to where the Milk Can is currently at. My Dad (Roland Tardif) owned the Texaco Gas Station right next door to it.'
+
+- property: milk-can
+  person: 'Ronald Truppa and Lori Caruolo Truppa' 
+  date: '2018-03-31' 
+  content: 'We had our first date at the Milk Can in 1963 and now we are married for 50 years. We wish it would open as an ice cream and burger business! I have gone to the Milk Can since 1946.'
+
+- property: milk-can
+  person: 'david clark' 
+  date: '2002-03-02' 
+  content: 'If you are from the area or have been by the milk can and have pictures or memories of it, and want to support the “future” of it… go add the page!!!! share your pictures!!!! watch the progress!!!! <a href="//www.facebook.com/MilkCanRI" target="_blank">www.facebook.com/MilkCanRI</a>'
+
+- property: milk-can
+  person: 'Annette Smith Sweeney' 
+  date: '2011-10-26 ' 
+  content: 'I was born in 1959 and remember going to the Milk Can for ice cream. I was very young and don’t remember if we ate anything else there, but remember being excited to go there. My mother, Lucille Smith, remembers and she is now 90. She remembers everything.'
+
+- property: milk-can
+  person: 'richard eastman' 
+  date: '2011-07-11' 
+  content: 'Hi I am 29 years old and I heard many storys about the milk can on 146. I am a 4th generation house and building mover. It was my father and uncles who moved it back in the 80s. I remember they made a special set of beams to lay the milk can on its side for the move and when i was a kid i always wundered what the weard set of beams were that i always played on were. I think my uncle still has parts of the rigging used to move the can around still.'
+
+- property: milk-can
+  person: 'Donna (DePedro) Tripp'
+  content: 'I vaguely remember going for ice cream there with my parents and then to the <a href="/property/rustic-tri-view/">Rustic</a> – it would have been mid to late 60’s – I too was glad to see it moved and then saddened when it didn’t reopen. I was actually surprised to see it still standing there when I was back a few months ago.'
+
+- property: milk-can
+  person: 'Marc'
+  content: 'Last I checked there were similar milk can ice cream stands in Boston outside either the children’s museum or the museum of science (can’t remember which). There is also one in Raynham MA not far off rt 495'
+
+- property: milk-can
+  person: 'Liam'
+  content: 'My understanding is that once they moved it they then found that the groundwater was contaminated by the gas station next door and were unable to open.'
 
 - property: rustic-tri-view
   person: 'Jo' 
@@ -5272,7 +5309,7 @@ I remember once the concessionaires elected NOT to hire the Beatles for a 3-day 
 
 - property: providence-fruit-produce
   person: 'Andy' 
-  content: 'What an amazing space! Now that the Jefferson [link needed] is open and filling with tenants and the Foundry [link needed] almost complete as condos, not to mention P. Place... theres going to be a flurry of activity in the Promenade section of the city. How great it would be to use this with numerous multifuntions. Artisan shops and boutiques, cafes, a fruit veggie &amp; flower market, a News Stand (there arent and notable news stands I can think of in an area like this) perhaps some late night eatery, Trader Joes, etc. Include perhaps more retail and the second floor then add a mix of low income artist space/loft live-work studio with a mix of some decently priced apartments for those fresh out of college who are mature, but who might not yet have a set career path on the third floor with roof top decks and patios. Anchor it on both ends with a resturant / lounge, both occupying three levels. I should get some credit for this.'
+  content: 'What an amazing space! Now that the <a href="/property/the-903/">Jefferson</a> is open and filling with tenants and the Foundry [link needed] almost complete as condos, not to mention P. Place... theres going to be a flurry of activity in the Promenade section of the city. How great it would be to use this with numerous multifuntions. Artisan shops and boutiques, cafes, a fruit veggie &amp; flower market, a News Stand (there arent and notable news stands I can think of in an area like this) perhaps some late night eatery, Trader Joes, etc. Include perhaps more retail and the second floor then add a mix of low income artist space/loft live-work studio with a mix of some decently priced apartments for those fresh out of college who are mature, but who might not yet have a set career path on the third floor with roof top decks and patios. Anchor it on both ends with a resturant / lounge, both occupying three levels. I should get some credit for this.'
 
 - property: providence-fruit-produce
   person: 'another J' 
