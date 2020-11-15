@@ -1,6 +1,6 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: brown-life-science\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: rustic-tri-view\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
 # Replace: - property: brown-life-science\n  person: '\1'\n  content: '\2'\n
@@ -11,6 +11,34 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: rustic-tri-view
+  person: 'Jo' 
+  date: '2019-01-30' 
+  content: 'They don’t fix the parking lot so that people are forced to drive slow so that no car accidents happen. If they fixed it, then cars would zoom across the lot and hit people or other cars, and to anyone claiming that the ground is “too dangerous to walk on,” learn how to walk correctly. A great place to go.'
+
+- property: rustic-tri-view
+  person: 'Zack' 
+  date: '2016-01-24' 
+  content: 'I can still remember the first time I went to the rustic. Let’s see… I was all of 6 MAYBE 7 years old. My mother owned a 1999 Daewoo (anyone remember Hyundai’s hick cousin?) Nubria station wagon in a pine green color (early CD changer in the freaking trunk. WTF!). One day, my mother suggested we go to the Rustic to see Finding Nemo and the ever-classy Rugrats go Wild (not in that order). At the time, Burger King was giving out scratch-n-sniff cards FOR the latter film. So, we arrived, I wasn’t allowed to go to the snack bar (popcorn from home), and I remember watching both movies, and then nothing else. Fast forward to freshman year-ish. I was 14, maybe 15. That summer, my mother and I went back. I can’t remember what we saw, but I know we had fun. That trip began the tradition of yours truly making runs to the snack bar (I’d advise against the burgers, but recommend the new soft serve stand), for dinner, popcorn, snacks. Of course, it’s pepsi, and I’m not a pepsi person, so we bring soda, candy, chips, etc. from home. I’ve seen movies like Men in Black 3, Neighbors, Avengers: Age of Ultron, and the super-classy A million ways to Die in the West. My best friend Jamar and I make it a point to go multiple times each season. Thank god for hilly real estate not being valuable. That’s what eats up places like the Shipyard, the Hilltop, etc. Eh, progress DOES have its price, as they say.'
+
+- property: rustic-tri-view
+  person: 'Tom Quinn' 
+  date: '2015-04-7' 
+  content: 'The Rustic may not be perfect, but where else can you go with your family to see two first run movies for $25? Bring folding chairs or sit back in your car, or bring sleeping bags for your pick-up truck and park backwards. The Rustic is once again a solid night of entertainment for your family'
+
+- property: rustic-tri-view
+  person: 'tim' 
+  date: '2014-01-12' 
+  content: 'Is it me or does everyone ignore the obvious penis marquee. just saying.
+
+
+(**A.I.R.**: It’s not just you. Odd to think, but maybe it is a remnant of its adult-film days?)'
+
+- property: rustic-tri-view
+  person: 'Darlene' 
+  date: '2014-01-12' 
+  content: 'They charge $25/ car load, but they have not done any updates to the parking area since I was a child (I am 45). The tar is broken up. Also, if your not watching a movie on the MAIN screen, you are sitting on a LEAN as the park was for one screen but they later added 2 more on the sides that is NOT comfortable to watch movies… I have NOT been in years for this fact ALONE. '
 
 - property: apex-pawtucket
   person: 'Thom Ring' 
