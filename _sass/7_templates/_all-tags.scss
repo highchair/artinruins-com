@@ -38,5 +38,19 @@
         padding: 1px 0.125rem;
       }
     }
+    
+    // Make few of these lists go to two columns
+    &--decade,
+    &--date-added,
+    &--demolition {
+      columns: 280px 2;
+      column-gap: 2em;
+      list-style: none;
+      margin-left: 0;
+      
+      li {
+        break-inside: avoid;
+      }
+    }
   }
 }
