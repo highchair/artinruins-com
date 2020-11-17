@@ -26,6 +26,13 @@ caption: 'Providence Historical Aerial Viewer 1972'
 
 _“Riverboat Ride: Crescent Park, Riverside, RI”_, George Malone for Laff in the Dark, captured August 15, 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
 
+#### HTML5 accordion
+
+<details markdown="1">
+<summary>Read the full article</summary>
+content in markdown form
+</details>
+
 
 ## Project Road Map
 * Add the ability to browse properties by Map
@@ -87,6 +94,14 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 
 # George Arnold (thin) building
 * https://www.loc.gov/pictures/item/ri0447.photos.381370p/resource/
+
+# George's Games, 101 Main Street Pawtucket
+* To be demolished as part of the waterfront redevelopment including Apex
+* https://www.valleybreeze.com/2015-08-04/pawtucket/georges-games-building-would-be-leveled-part-apex-plan#.X7AUwy9h2jQ
+
+# Gilder Center for the Arts, Wheeler School
+# Swapped houses with the Vedanta Society. Used to own 224 Angell St, stucco three story house. 
+https://www.google.com/maps/place/227+Angell+St,+Providence,+RI+02906/@41.828282,-71.3988607,3a,75y,24.67h,92.87t/data=!3m7!1e1!3m5!1smQ3bWQzQfdpS-OJmFRWdOQ!2e0!5s20110901T000000!7i13312!8i6656!4m13!1m7!3m6!1s0x89e44524e9ffccb9:0x2268c6e80555fcd!2s227+Angell+St,+Providence,+RI+02906!3b1!8m2!3d41.8281639!4d-71.3983716!3m4!1s0x89e44524e9ffccb9:0x2268c6e80555fcd!8m2!3d41.8281639!4d-71.3983716
 
 # Grove Street School
 * Find the source of the interior photos — Charles Heganam Architects

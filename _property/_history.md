@@ -38,7 +38,7 @@ Video of the fire: https://www.youtube.com/watch?v=2i4VbOTc00I
 
 Saved section (14)
 + American Woolen / Riverside Mills
-++ Atlantic Mills
++ Atlantic Mills
 ++ Carpenter Mills
 ++ Dyerville Mill
 ++ Engine Station #9
@@ -119,7 +119,7 @@ Still In Use
 ++ 146 Dyer Street (Narragansett Electric)
 ++ 250 Esten Street
 ++ 32 Branch Avenue (Nicki's Liquors)
-++ Apex Department Store
++ Apex Department Store
 ++ East Avenue Auto
 ++ George Arnold Building
 ++ Greenville Fin / Putnam Pike Mills
@@ -154,7 +154,7 @@ Construction
 + Jefferson at Providence Place
 + Capital Center Parcel 2: the Intercontinental Towers, Waterplace Towers
 + Capital Center Parcel 6: Capital Cove
-++ Watson Institute for International Studies
++ Watson Institute for International Studies
 + Proposed Westin Tower
 
 Historic
@@ -201,7 +201,7 @@ RIP
 + Fogarty Building
 + JG Goffs
 + Merchants Cold Storage
-++ Phenix Mill
++ Phenix Mill
 ++ Quonset Point Davisville
 + Rialto Furniture
 
@@ -249,7 +249,7 @@ Urban Decay
 ++ Fort Adams
 + Lincoln Amusement Park
 ++ M. N. Cartier & Sons Co. / 1107 Westminster
-++ The Milk Can
++ The Milk Can
 ++ Rolo Building / DM Watkins Co.
 
 
@@ -258,7 +258,7 @@ Urban Decay
 Construction
 + 19 Fremont Street
 + 1029 Westminster Street
-++ Miriam Hospital Expansion
++ Miriam Hospital Expansion
 
 Historic
 + Providence Cyclodome
@@ -329,14 +329,14 @@ Urban Decay
 ++ Beswick Building, Pawtucket (?)
 + Down Under Duckpin
 + Morris Novelty
-++ Rustic Drive-In
++ Rustic Drive-In
 
 
 ## July & Aug 2010
 
 Construction
 + Box Office
-++ RIC Residence Hall
++ RIC Residence Hall
 
 Historic
 + Downtown Bonanza Bus Terminal
@@ -358,7 +358,6 @@ RIP
 + 1320 North Main Street
 + Harris Lumber Co.
 ++ Javaspeed Scooter Sales
-++ Pontiac Mills
 + Smith Swim Center
 
 Still In Use (Some of these were added 2010)
@@ -391,7 +390,7 @@ Redeveloped (67)
 ++ Sealtest Ice Cream
 
 RIP (47)
-++ Edgewood Yacht Club
++ Edgewood Yacht Club
 
 Still In Use (41)
 ++ Davol Square
@@ -408,7 +407,7 @@ But the numbers above add up to 233
 ## 2012
 
 Construction (21)
-++ Vedanta Society
++ Vedanta Society
 
 Historic (18)
 

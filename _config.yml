@@ -69,6 +69,8 @@ exclude:
   - LICENSE
   - README.md
   - _property-drafts
+  - _property/_history.md
+  - _property/_template.md
   - stats.html
   - sitemap.xml
 
