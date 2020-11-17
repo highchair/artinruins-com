@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: milk-can\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: atlantic-mills\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: milk-can\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: atlantic-mills\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,93 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: atlantic-mills
+  person: 'Joan Tomaszewski' 
+  date: '2017-09-24' 
+  content: 'My maternal grandarents (Wikenti and Barbara Gichan), and my mother (Stephanie), and probably my paternal grandfather (Roman Tomaszewski) and other family members, worked at the Atlantic Mills. My grandmother earned enough at the Atlantic Mill to raise 3 children alone and buy a house! I enjoyed the store in the basement in the 50’s and 60’s, and worked at Bullard and Pickering, a business making jewelry boxes and displays, in the 60’s.'
+
+- property: atlantic-mills
+  person: 'SANDRA HADLEY' 
+  date: '2015-04-28' 
+  content: 'Both my husband Ted Hadley knew Howard and his family very well. We visited the mill many times always had a great time.. My husband passed away in jan.. Would love to hear from Howard as thru the years lost contact. '
+
+- property: atlantic-mills
+  person: 'Tom Smith' 
+  date: '2013-08-16' 
+  content: 'I grew up in and around this place. At age 16 I even worked at a jewlery factory in this building (I made “mood rings” on a foot press.) This building was one good wind away from falling down back then! I remember walking on the creaky wooden floor trying to imagine what part of the building I would be in if I fell through. I actually walked up the creaky stair case in the left tower once at around age 7. The doors to that tower were suddenly locked one day and stayed that way until I left Providence at age 19. I’m severely shocked this place is still standing. Personally, I would never enter it again… it WILL collapse one of these days, it HAS to!  Santa and I had our picture taken there every year until he went all uppity on me… '
+
+- property: atlantic-mills
+  person: 'Betty Filippelli Gordon' 
+  date: '2013-05-15' 
+  content: 'I found this site while looking for carpet warehouse in Atlantic Mills. I worked in Nina’s Jewelry shop in the Mill while attending St. Teresa High School. There were 4 or 5 of us from the high school there until she moved to Valley Street. We worked at the right end of the building. Although a desolate area at night, it was a safe area (after work got out at 6PM) as we walked down Aleppo St to get our buses in Olneyville Square. The year was Spring 1963. I gew up on Hartford Avenue and so did a lot of shopping and walking to / in the Mills and until I moved out of the area still visited the Flea Mkt. One jewelry seller there made 3 special order pearl sets for my daughter’s bridesmaids for her wedding and they were beautiful at a very reasonable price. Thinking of trying out the carpet warehouse – is it still there? To walk to St Teresa’s, 4-5 of us girls from Hartford Ave Area cut through Paul Arpin’s, came out to a  Aleppo St  near the Mill and walked up the hill to Manton/Pope St. About a mile and faster than the school bus. Every day (except bad weather - then we took 2 buses) until I drove us to school.'
+
+- property: atlantic-mills
+  person: 'Marcia Silliphant' 
+  date: '2001-08-05' 
+  content: 'In the late 50’s my dad ran the toy dept. at Atlantic Mills for Eastern Toy, In 1959  Atlantic Mills & Eastern toy expanded to open in Norfolk, Va. and the family was transferred there.'
+
+- property: atlantic-mills
+  person: 'David Fiorio' 
+  date: '2011-01-31' 
+  content: 'I have memories of Christmas shopping at Atlantic Mills with my brother and father in the late 60’s. I remember seeing Santa there and reaching into the mouth of a large painted clown face to grab a prize. I can still see the hardwood floors and large staircase.'
+
+- property: atlantic-mills
+  person: 'Jean Rotter' 
+  date: '2010-01-29' 
+  content: 'My grandfather, Bill Rotter and his father Carl Rotter both worked at the Atlantic Mills as weavers. Carl arrived in Rhode Island from Germany in 1893 and lived in the Manton Ave area until 1929. Bill Rotter lived in the section of Providence he called the Annex until his death in 1983.'
+
+- property: atlantic-mills
+  person: 'Karen Christie Aucker' 
+  date: '2009-08-16' 
+  content: 'Hello, I am doing family research and was told by my father that my great grandfather William James Christie came over from England to “run the wool room’ at Atlantic mills/A.D. Julliard in the late 1800s &amp; early 1900s, when he passed away his sons James Christie and Charles Christie continued on, with Charles being a wool buyer who would travel around the world. Any information would be greatly appreciated. When the mill closed where did the records go? Were they destroyed or does the state have them? My email is kcachristie [at] hotmail [dot] com. Thank you.'
+
+- property: atlantic-mills
+  person: 'erica brynes' 
+  date: '2008-06-12' 
+  content: 'leo brynes was my great-uncle. i spent many, many, sundays at atlantic mills as a child in the late 70’s and early 80’s working at the “big top flea market” with my grandfather (leo’s brother, charles brynes). i learned most of my basic entrepeneurial skills selling shoelaces and assorted junk there! once i got old enough, my great-aunt ethel and my cousin ellie would let me work in the snack bar and make popcorn in the old-school popper. i loved that place. '
+
+- property: atlantic-mills
+  person: 'Susan Polouski' 
+  date: '2008-04-01 ' 
+  content: 'My grandmother worked as a janitor at the mills in the 1930s. The family lived on Manton Ave and went to St Theresa’s. My Dad tells many stories of growing up in Olneyville.'
+
+- property: atlantic-mills
+  person: 'Barry' 
+  date: '2008-03-02' 
+  content: 'I remember the “Altlantic Mills” being a department store in the 60’s and early 70’s. It was so popular that people of my generation grew up calling all department stores a “Mill”. There was a pretty good fire (I believe) and the building was closed for quite a period until finally re-opening as “The Big Top” flea market. My mother rented a booth there once so to allow our junk to become someone elses treasure. I had a dresser full of comic books that I unloaded that day. I was fourteen years old and walked away from the Atlantic Mill’s Big Top Flea Market with over two hundred dollars in my pocket. It was a good day!'
+
+- property: atlantic-mills
+  person: 'Nanette Spector'
+  content: 'After doing some family historical research, I understand that my great-grandfather, William Jacobs was the overseer of Atlantic Mills from at least 1900-1905. He and my great-grandmother had immigrated from England and settled in Providence. I live in LV, far from New England, but still have family in Green Hill Beach, RI.'
+
+- property: atlantic-mills
+  person: 'matthew brynes'
+  content: 'I am the grandson of the owner of atlantic mills and my family has been owning it and in the buisness since the early 1900s by Leo brynes passed down to libby brynes my great grandmother and great grandfather i hope it still lives on with my grandfather'
+
+- property: atlantic-mills
+  person: 'K Corley'
+  content: 'I found that my great grandfather worked at Atlantic Mills in the 1910s and 1920s. Eventually, more members of his family started working there, too. He was an Italian immigrant named Vincenzo Forte.'
+
+- property: atlantic-mills
+  person: 'Val Hughes'
+  content: 'Doing genealogy research I discovered my Great Grandfather was working at Atlantic Mills in 1919. I suspect he started about 1913 when he arrived here from France. I don’t know how long he worked there. His name was Edouard Bels.'
+
+- property: atlantic-mills
+  person: 'Joe Masterson'
+  content: 'My Father &amp; Grandfather both worked there thru the 20, 30. & 40ths. I grew up in St. Teresas school area. Manton Ave. was part of our lives as was Marino Park. Its a shame how the area has gone down.'
+
+- property: atlantic-mills
+  person: 'alisa (d’attilio) cossette'
+  content: 'I’m doing geneology on my great-grandfather who I worked there i believe 1920s 30s. His name was Chicerio (Charles) D’Attilio. While employed there we do know he lost a couple of his fingers in some sort of accident.'
+
+- property: atlantic-mills
+  person: 'L Rosenberg'
+  content: 'The Atlantic Mills was purchased by Leo Brynes and is now owned by Libby L. Brynes of Boynton Beach FL. Howard Brynes is currently running the facility. FYI – The taxes on the building are 60K+ a year. Although there have been improvements to the building it is overwhelmed by the degradation of the architecture due to age. Next project will be a huge iron fence surrounding the parking lot, that will be electronically operated to keep the riff raff out.'
+
+- property: atlantic-mills
+  person: 'patti provau'
+  content: 'I grew up on sheridan street, which is right up the road from alantic mills. as a kid around 1960 my mom would pack us on the sled and we would walk to the mill. I can remeber seeing santa there also.'
 
 - property: milk-can
   person: 'John Tardif' 
