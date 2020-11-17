@@ -32,7 +32,7 @@ thumbnail: milk-can-jh-2006-02.jpg
 images:
   - url: milk-can-unknown-1970c.jpg
     caption: 'Unknown photographer, unknown date. We guess it was 1970, as the business closed in 1968. The sign is still in the window and the house behind is not yet boarded up as it was in the photos from 1983.' 
-    alt: ''
+    alt: 'A vintage ice cream stand featuring a larger than life milk can as the main building, 16 feet in diameter and 32 feet high'
   - url: milk-can-wj-habs-1983-01.jpg
     caption: 'All black and white photos by Warren Jagger, 1983, for Rhode Island Historical Preservation and Heritage Commission and HABS/HAER'
   - url: milk-can-wj-habs-1983-02.jpg

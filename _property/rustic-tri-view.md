@@ -29,6 +29,7 @@ thumbnail:
 images:
   - url: rustic-egrobichaud-2007.jpg
     caption: 'Flickr user Egrobichaud, 2007'
+    alt: 'A side-of-the-highway Drive In movie theatre with a distinctive neon and multi-bulb sign featuring an arrow that runs from the bottom left up to the top and the sharp right and across the top'
   - url: rustic-rimonthly-2000.jpg
   - url: rustic-meredithmarciano-2002.jpg
   - url: rustic-jh-2019-07-01.jpg
