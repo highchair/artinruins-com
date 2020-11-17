@@ -10,13 +10,17 @@ sitemap:
   changefreq: 'monthly'
 ---
 
-{% assign tags = "categories,town,neighborhoods,designers,lists,tags,decade,date-added,demolition" | split: ',' %}
+{% assign tags = "categories, town, neighborhoods, designers, lists, tags, decade, date-added, demolition" | split: ', ' %}
+{% comment %}
+  Forloop index starts at 1, arrays start at 0 — therefore add a blank spot
+{% endcomment %}
+{% assign pretty_tags = "blank, Categories, Town or State, Providence Neighborhoods, Designers, Lists, Tags, Decade built, Date added, Date of demolition" | split: ', ' %}
 
 {% for tag in tags %}
   {%- assign pages = site.pages | where: 'type', tag -%}
   {%- if pages.size >= 1 -%}
     <div class="all-tags__wrapper u__vertical__pb">
-      <h2 class="all-tags__title u__mt--0">{{ tag | capitalize }}</h2>
+      <h2 class="all-tags__title u__mt--0">{{ pretty_tags[forloop.index] }}</h2>
     {%- for thispage in pages -%}
       {%- assign collection = site.property | where: tag, thispage.category -%}
       {%- if forloop.first -%}<ul class="all-tags__list all-tags__list--{{ tag }}">{%- endif -%}
