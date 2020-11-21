@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: atlantic-mills\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: washburn-wire\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: atlantic-mills\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: washburn-wire\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,143 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: washburn-wire
+  person: 'David Corsetti' 
+  date: '2020-03-08' 
+  content: 'My Father (Donato Corsetti) worked there from 1958 to 78 along with his brother Michele Corsetti &amp; brother in law Francis “Frank” Desantis and his best friend Joseph “PeeWee” Martin. As I’m here typing my farther is talking about his fond memories and men named “Rooney”, Johnny Vincent, and many others he can’t quite remember. His duties were #1 tester &amp; crane operator. I was born right after they went on strike and for many years after would hear the stories of how bad was. My farther always said what a great job he had there, how the pay and the benefits were excellent. I would love to hear if someone remembers him or has any photos, this would be greatly appreciated.'
+
+- property: washburn-wire
+  person: 'Peter Parise' 
+  date: '2018-10-27' 
+  content: 'Worked at the plant getting it back up in running in 1986/1987. Watched the Smithsonian take a lot of the old machinery out and shipped to Washington. Watched Morse diesel get the old locomotives up and running. They had to cut down trees to move the locomotive. Watched and worked on getting the plant up and running from leather belt spring machines to natural gas ladle pouring steel. What history! You could just feel it. All of the workers that came before us.'
+
+- property: washburn-wire
+  person: 'Craig Gaines' 
+  date: '2017-07-25 ' 
+  content: 'My father (J. Wilburn Gaines) worked at Washburn Wire Co. in East Providence, RI his entire life. He was an an electrician and worked all over the plant and I have many childhood memories of waiting outside the gate for the whistle to blow then watching all the men herding out of the gate heading for the large parking lot outside the plant. I would love to hear from anyone who knew my dad back in those days, he knew practically everyone who work there from the late 1940’s – late 1970’s when finally retired. '
+
+- property: washburn-wire
+  person: 'Bethany Erickson Rodrigues' 
+  date: '2017-07-09' 
+  content: 'My grandfather was Thomas Shea who worked for Washburn Wire Company starting when he was 15 years old. Thomas was born in 1913 and worked for the company alongside his father and 2 brothers. Thomas worked there for 38 years and was president of the worker’s union for 25 years. My mother has told me this. My grandfather, I never met as he died before I was born. We have very little in the way of pictures. I would absolutely love to hear from anyone who has any knowledge of my grandfather, his father during those times at Washburn Wire Company. I’m extremely proud of the workers and would love to hear stories from anyone, good or bad, about my grandfather’s work there. Please contact me with any information. I have no pictures as my family then didn’t take many. Pictures speak a thousand words and even just one I would love. My grandfather lived in East Providence with his wife (my grandmother) and my mother and Aunt. I am happy to give more information if someone wishes to contact me. Bethany Erickson Rodrigues. My mother’s name is Patricia Shea (maiden).'
+
+- property: washburn-wire
+  person: 'Chris Sheridan' 
+  date: '2016-01-03' 
+  content: 'I remember visiting my Grandmothers Aunt Lee who lived in a run down house behind the WMCA on Broad Street, in the area of Stewart and Conduit. When I look at the map now I only see parking lots there. Does anyone remember if there were houses located in this area around 1970-1972?'
+
+- property: washburn-wire
+  person: 'Brad Vale' 
+  date: '2015-02-20 ' 
+  content: 'I worked in the later 70s I believe it was 1976-77 started in #2 Rod Mill as A “Hooker”/ scrap bundler @ the finish end (when the wire went through the finish rolls you had to stop it so it wouldn’t whip around, this was scary, one time I missed peeled up part of the break shack (Quinn was on the finish diamond at the time told me to take a break &lt; all but pissed my pants &gt; Later worked in the wire mill (Ran the small crane cleaning coils of wire either to ship or to coat with lime, borax, whatever; I do and did miss it! Jimmy Artamian, Bill Cundy, to many to mention. Also work with Paul Dusseau @ Ocean State Steel. Paul remember the RADIO that broke in the locker Room?? LOL I truly miss the steel business and the people associated with it. “JUST GREAT MEMORIES PERIOD” — p.s was Ladleman for OSS'
+
+- property: washburn-wire
+  person: 'Patrick Joyce' 
+  date: '2014-03-18' 
+  content: 'I worked there in 1979 when it was Washburn Wire Company and again in 1981 for Jim Morrill’s Rhode Island Forging Steel. I have many pictures and documents that came out of the office at the time of the closing.'
+
+- property: washburn-wire
+  person: 'Robert S. Geleney' 
+  date: '2013-02-14' 
+  content: 'My dad, Joseph F. Geleney worked at Washburn wire from the early 40s to the day they closed down. I worked there from 1970 until the day they closed, I was there for the strike that was to finish the company and close the doors. My dad was the union VP before the strike, and ended up as President of the Union after. Those were tough times I had two small children at the time. I have a lot of memories of working there. I only wish in hindsight I would have taken photos of the place.'
+
+- property: washburn-wire
+  person: 'Diane Coccia' 
+  date: '2012-11-12' 
+  content: 'My dad Peter Ondrasek worked at Washburn wire for as long as I can remember we would go and pick up his paychecks and go out for lunch during vacations from school. My dad had so many stories of the great people he worked with for 30-49 years of employment RIP washburn wire you left us with many memories for the workers along with their children. Pete has passed from Cancer (lung) now but I am sure he is smiling about me writing this.'
+
+- property: washburn-wire
+  person: 'Robin Marcotte' 
+  date: '2012-10-10' 
+  content: 'My father, Harold (Red) Riley worked there for 40 years. My brother Wayne Riley worked there as well. My father had fond memories of his years at Washburn Wire. I  am employed in East Providence myself and always think of Washburn as I drive to work. My father passed at the age of 91 on December 3, 2005; but I will always think of him and his stories of Washburn and all the friends he made.'
+
+- property: washburn-wire
+  person: 'Mary Milewski' 
+  date: '2012-04-28' 
+  content: 'My dad worked there for 25 years. He was a crew captain named Leo Milewski. He always spoke fondly of his men. There was George and  Andy and more that I can’t remember.'
+
+- property: washburn-wire
+  person: 'P.Dusseau' 
+  date: '2011-03-07' 
+  content: 'Someone needs to make a facebook page for the mill! I would but Im still just a steelworker!'
+
+- property: washburn-wire
+  person: 'Jeanne Casiano' 
+  date: '2011-02-07' 
+  content: 'I worked in the accounting offices of RIFS at the same time as Pete McNeil and Paul Dusseau who piped in earlier (and Lincoln Chaffee too). I lived down the street from the mill, as did Betty, John and John Jr. Heatherton. The mill was a neighborhood entity, and a relic of olden times where you worked where you lived and vice versa. The nightly tap of the furnace was a spectacle not unlike the eruption of a volcano, and often brought folks to the parking lot to witness the show. I never got tired of it. And never in my life have I seen a work ethic such as was held by the “guys in the mill”, and I’ve always felt privileged and proud to have been a part of this slice of history. A special note of memorial for James “Gara” Reilly, a man who worked his entire life at the mill until his passing in 1989. I’ll always look back fondly at the people who tried so hard to keep it going.'
+
+- property: washburn-wire
+  person: 'Russell' 
+  date: '2010-07-26' 
+  content: ' My uncle was an employee in the mid seventies. He’s trying to find out if he is entitled to a pention. He believes he was a member of IBEW, does anyone know the local number or any information that would assist in his search.'
+
+- property: washburn-wire
+  person: 'Paul Dusseau' 
+  date: '2010-04-07' 
+  content: 'I worked here for 10 yrs. I was a Laddle Crane Operator. We had some very good people who put there heart and soul into making steel. It was shame to see it all go, as where the Rhode Island goverment did nothing to help save the jobs of the 100 plus yrs of history. I find it all quite disgusting that Lincoln Chaffe who was once and employee is making sure that this all becomes a faded memory! I still am a crane op. for Arcelormittal steel in Pa. And Lincoln Chaffe is not welcome here! He can just keep detroying Rhode Island jobs!
+
+
+TR: who was your Dad? Im sure I know him!'
+
+- property: washburn-wire
+  person: 'Peter McNeil' 
+  date: '2008-07-21' 
+  content: 'I am going to Goerge O’Laughlins 85th birthday party in early August and while looking for a picture of Washburn Wire my wife came upon this site. My dad (Pete McNeil) uncles (Leo McNeil, John “Pro” McNeil, Dave Swanson) all worked at Washburn. I worked there for five years and then went back when Rhode Island Forging Steel opened up. I would like to pay a little tribute to the folks like Joe Sullivan, Tommy Jordon, Bill MacNamara, Stanley Puc, Stan Babiack, Jim Fleming, Dick Dextrase, Johnnny London, and I could go on and on. Suffice to say I met the best folks making steel and once it gets in your blood it will always be there.'
+
+- property: washburn-wire
+  person: 'Gail (Rekos) Merrill'
+  content: 'This brings back so many memories. My dad worked as a machinist at Washburn for close to 40 years. I can remember him talking about the “blooming” mill, massive scrap piles (where there was always something useful found), trains coming and going, cranes, the steel furnaces. I remember him telling us about the Brown crew team that passed the mill every day on the Seekonk River. Reading the names Charles Reilly (son of Red Reilly? who also worked there) wrote about brings a flood of memories. Anyone remember Bob Clark and his Newfoundland dog Champ? Working at Washburn was dirty, hard work. Those guys earned their pay for sure. The strike in the 70s was one of the worst in RI. There were 5 kids in our family and I can remember my dad saying how some of the younger guys would follow the trucks that crossed the picket line all the way to New York. My dad stayed there when they settled the strike to when they closed. This dangerous, dirty, old mill and the men who proudly worked there are a thing of the past. There aren’t many people today who would work as hard as those guys did in such conditions. Wish my dad was around to tell us more stories.'
+
+- property: washburn-wire
+  person: 'Joseph E. Hight'
+  content: 'I am glad I found these photos of Washburn Wire Co., espececially since it is now gone from the scene. My dad worked at the steel mill when it was Washburn Wire Co. He worked there from about 1945 to about 1970. I worked in the mill for a couple of years, 1959-1960. My Dad was a “catcher” in rod mill #1 and I worked as a catcher in rod mill #2. I was one of the youngest to learn that trade. It payed very well relative to other manufacturing jobs in R.I. at the time. But working with the hot steel was dangerous. One of the foremans I worked for had a patch over one eye that he had lost by getting hit with hot steel rod. I can only remember his first name as Manny. My dad died about five years ago. He would have remembered far more names than I can. I remember Jack Finnegan of Cranston who was my dad’s foreman. I think my dad got his job through Dan Morrocco who had worked there before 1945. I can remember some of the guys nicknames. There was a fellow we called “Radio” because he always talked very loud like he was broadcasting on the radio. And I remember a fellow called Harry the Fisherman, because he liked fishing so much.
+
+
+I am sure that if I search my memory and check with my mom who is 90 years old but still doing fine and has all her faculties, I may be able to come up with some more names.
+
+
+In fact, I would like to do that, as I am a part time freelance writer, and I have been thinking of writing about steel making in America and what has become of it and to use my experience at Washburn Wire as a source.
+
+
+If I were to become real ambitious, perhaps I could do a story on Washburn Wire and the people who once worked there, If I could find enough to form a story. Might be a good piece for RI Magazine or the Providence Journal.
+
+
+Anybody who has got material that they think might be useful in such a story can <a href="mailto:jehight@cox.net">e-mail me</a>.'
+
+- property: washburn-wire
+  person: 'Sheree McGill'
+  content: 'I am looking for someone who worked at Washburn Wire in 1957, and perhaps many years later. I do not know what he did there, but his name was Joseph Palumbo. Any information on this person would be greatly appreciated.'
+
+- property: washburn-wire
+  person: 'Patricia O’Hara'
+  content: 'Back in the late 70’s, I was married to Chuck Reilly. Chuck has written his comments on OOS. I am somewhat amazed of all the fond memories. My brother Frank also worked there for a short period of time. There is no doubt that the salaries were outstanding for the day. I also brought lunch (homemade) to Chuck on a regular basis. I was given a tour of the buildings approximately in 1977. It was like walking into a Charles Dickens novel. I immediately was overcome by the ominous feeling of impending danger, it could very well have been a premonition of the tour guide falling into a huge, square hole in the floor and breaking his leg. It was one of the filthiest surroundings I had and still to this day, ever encountered. I am also surprised that John O’Neil’s name has not been mentioned by anyone. John was the top union rep. I remember meeting Chuck at Asquino’s after the “union meeting” along with the other union stewards, Mike Chandly and Polland who’s first name I can not remember. Prior to the factory being purchased by OOS, while it was Washburn Wire, one of the most violent union strikes in the history of the State of Rhode Island was at that site. I have been living about 1/4 of a mile up river from OOS where the waterfront development is taking place. There are people living in the first set of condos completed, the housing area is called Ross Commons. The Narragansett Bay Commission which is located between OOS and my property have just completed millions of dollars worth of work which will now eliminate 96% of previous raw sewage overflow with a huge underground tank system. It is unfortunate that so many people lost such great paying jobs, but since the facility has been closed, the Seekonk River has cleaned up so much, it is amazing. We have blue-shell crabs, bluefish and stripers are so easy to catch. We have friends and family bringing young children here for a guaranteed “first salt water fish catch”. The area now has Osprey, Snowy Egrets, Great Blue Heron, King Fisher along the standard swans and sea gulls living in the area from early spring until late fall. The selfish people who worked to close OOS down have contributed greatly to bringing the area back to what it originally was, an estuary. I have to say that it is really a pleasure to look down river and see the 1st of a seaside village rather than filthy, old decrepit broken down industrial buildings. The OOS facility was also the location for the filming of “Other Peoples’s Money”, staring Danny DeVito and Gregory Peck.'
+
+- property: washburn-wire
+  person: 'Elizabeth Heatherton'
+  content: 'My husband, John P. Heatherton worked there (long before we met) and also his dad (also John P. Heatherton of Johnston); I think his dad got him the job. John also met Charles Reilly there; also posted to this site – Hi Chuck! John still speaks of fond memories and of the characters he worked with. He was snowed-in (!!) once! I’m certain the “mill” helped to make my loving husband the wonderful man he is today. We were fortunate to visit the mill with our girls in ‘01 and we took some great pictures. I know there is “good karma” within the grounds and hopefully the new ventures will succeed. Elizabeth Heatherton. Manhattan Beach,CA'
+
+- property: washburn-wire
+  person: 'John Heatherton'
+  content: 'My father worked as the blacksmith there starting in 49 until he retired in 69, he contiuned on from his shop at home supplying them the hand made tools they needed. I did a stint there after high school in 71 then summers in college.
+
+
+As not much going on in RI work wise I ended up back there full time until 79 when I move to LA, now in Manhattan Beach.
+
+
+I was the plant blacksmith from 77 to 79 but not using the trade in the corporate world where I ended up. Most my age have no experience working in such a place as it and the people who worked there came from another world, guys like Dick Tracy for example. Another part of the old world slips from view.'
+
+- property: washburn-wire
+  person: 'Charles Reilly'
+  content: 'I worked at Washburn Wire in the Millwright Apprentice Program starting in 1973. Tony Khoury, Jimmy “Gabby” Greenwood, Carl Thornton, Freddie Lewis, Leo Barrett, Joe “The Carpenter” Bienkowski, Joe Lombardi, Antone Moniz, Al Silvia, Howie Davis, John Rekos and others I can’t remember at the moment, were all my co-workers. Since these gentlemen were old thirty years ago, I’m sure quite a few of them have passed on. I later became a Union Representative for the Local and eventually left for the Los Angeles area in 1980. I am now the Corporate Recruiter for<br>the Technology Integration Group (TIG), a major IT Reseller and Integrator based in San Diego. Anyway, it’s too bad they tore down the old Steel Mill. There was a lot history in that twisted metal landscape. – Charles Reilly, Manhattan Beach, CA'
+
+- property: washburn-wire
+  person: 'Alan Mackiewicz'
+  content: 'I was 25 yrs old in 1971 when I went to work in Washburn Wire as a millwright apprentice. The old timers in that maintenance dept were really tough on a new “kid”. Long hours and hard work in a dirty, very hazardous, old fashioned mill. Tony Khoury, Bill O’Brien, Jimmy the train mech were my mentors and I learned a lot there. I worked all over that mill from the greasy pits under the “blooming mill” to all the cranes up high. I got introduced to the 50 lb sledge hammer too. Those pix sure brought back a flood of memories. The small white building way to the left of the long pix was where the maintenance shop and switch engine repair used to be. Working in the melt shop was the best and the worst. I loved to watch the heat get tapped and hear the molten steel plopping into the ladle. Burning sculls from the still glowing ladles was worst. Scull being the steel that splashed and hardened near the top of the ladles and had to be burned and muscled off with acetylene torches and huge pry bars. Froze our asses off in the winters and wore insulated underwear in summer to protect us from the heat. Damn few creature comforts in that mill. The trade I learned in that mismanaged man-eater took me from RI to South Texas and a few other places, and today I’m retired and living on the beach on the east coast of Vancouver Island in Canada. They ain’t making mills like that any more… thank God cause they ain’t making any more “steel jackasses” and “mill rats” like us either.'
+
+- property: washburn-wire
+  person: 't.r.'
+  content: 'i remember being young and taking burger king to my dad at ocean state steel on his lunchbreak. i’d stare up at all the cranes and sparks flying in complete and total amazement. unfortunately, my dad was out of a job when oss closed down. until this very day i am extremely angry that they were forced to shut down. some ten years later, my father and i’m sure many other workers are left making half the income they were making at oss. oss was truly a wonderful employer. i think it’s really a shame that people are so selfish that they shut down such a large facility knowing how many people and families would be affected. the majority of the people who worked there had no college education and can’t get many jobs nowadays. oss was no worse than the trucks driving on the highway that pollute the air everday. put them out of a job! i thank all the people of oss for giving my father such a wonderful opportunity however, no matter how little it lasted. if only we could have it back…'
 
 - property: atlantic-mills
   person: 'Joan Tomaszewski' 
