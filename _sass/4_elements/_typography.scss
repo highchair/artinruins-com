@@ -315,8 +315,10 @@ dfn[title] {
   cursor: help;
 }
 
-abbr[title] {
+abbr[title],
+.abbr {
   font-size: 75%;
+  font-weight: $font-custom__serif__bd-weight;
   letter-spacing: ($kerning * 2);
   text-transform: uppercase;
 }

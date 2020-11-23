@@ -65,7 +65,7 @@ This history below is a mix of buildings that still survive today as Phillipsdal
 : Richmond Paper Company builds the earliest of seven buildings on this land and land north of what would become Washburn Wire. These early buildings have become known as Phillipsdale Landing since 1987. 
 
 1887–1889
-: The Richmond Paper Company fails and its equipment is sold for auction. The land lay vacant for four years until it was purchased at public auction in 1893 by Eugene Phillips and adapted for wire manufacture. Phillips’ company, **American Electrical Works** (AEW), a pioneer in the manufacture of insulated wire, made significant alterations to the plant and occupied it until 1934. 
+: The Richmond Paper Company fails and its equipment is sold for auction. The land lay vacant for four years until it was purchased at public auction in 1893 by Eugene Phillips and adapted for wire manufacture. Phillips’ company, **American Electrical Works** (<span class="abbr">AEW</span>), a pioneer in the manufacture of insulated wire, made significant alterations to the plant and occupied it until 1934. 
 
 1893–1899
 : Phillips’s acquisition of the former Richmond Paper plant allowed space to expand and provided access to rail, coal, process water, and a wharf on the Seekonk River. The new plant contained about 175,000sf of floor space. 
@@ -74,14 +74,14 @@ This history below is a mix of buildings that still survive today as Phillipsdal
 : Charles Washburn leaves Worcester-based manufacturer **Washburn and Moen** when it was acquired by American Steel and Wire. He entered into a brief partnership with Eugene Phillips the following year, under the name **Washburn Wire Company**. 
 
 1900
-: AEW built a new rolling mill and a three-story shipping building, the first major adaptations of the former Richmond plant for wire manufacture. In 1900 the Washburn Wire Company built an open hearth furnace to the immediate south of the AEW works. Although Charles Washburn left the partnership shortly after, Phillips continued to operate it as a wire manufacturer. 
+: <span class="abbr">AEW</span> built a new rolling mill and a three-story shipping building, the first major adaptations of the former Richmond plant for wire manufacture. In 1900 the Washburn Wire Company built an open hearth furnace to the immediate south of the <span class="abbr">AEW</span> works. Although Charles Washburn left the partnership shortly after, Phillips continued to operate it as a wire manufacturer. 
 : The plant employed upwards of 1000 workers, and was processing fifty tons per day of Michigan copper billet into rod for wire.
 
 1905
-: Eugene Phillips dies at the age of 62 and management of the AEW company passed to his sons. 
+: Eugene Phillips dies at the age of 62 and management of the <span class="abbr">AEW</span> company passed to his sons. 
 
 1934
-: The Phillips interests sold the AEW plant to **Kennecott Wire and Cable**. Washburn Wire continues to operate. 
+: The Phillips interests sold the <span class="abbr">AEW</span> plant to **Kennecott Wire and Cable**. Washburn Wire continues to operate. 
 
 1976
 : Within a year of the resolution of an 8-month strike, Washburn Wire files for bankruptcy. 

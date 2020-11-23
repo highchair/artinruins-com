@@ -12,6 +12,10 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: fletcher-building
+  person: 'achin'
+  content: 'I have an office on the 6th floor of the Fletcher Bldg. Some time ago a railing cap of a banister was removed exposing a signature. It reads: “A W Warren, 335 Pocasset Ave, Providence RI, Feb 20 1903.” Does this have any historical significance?'
+
 - property: washburn-wire
   person: 'David Corsetti' 
   date: '2020-03-08' 

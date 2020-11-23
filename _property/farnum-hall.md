@@ -14,7 +14,7 @@ neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'College Properties' ]
+tags: [ 'College Properties', 'RISD' ]
 
 address: '14-20 Congdon Street, Providence RI'
 latitude: '41.8282163'
