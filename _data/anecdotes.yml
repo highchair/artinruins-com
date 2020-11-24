@@ -12,6 +12,21 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: m-n-cartier
+  person: 'Jeffrey Allcock'
+  date: '2015-09-16'
+  content: 'I think it’d be a shame if this building was knocked down. It’s a handsome, utilitarian structure that could serve a number of purposes. And there’s an unusually good amount of parking too for such a dense urban space. Are there still tax credits in RI for preserving buildings rather than demolishing them?'
+
+- property: m-n-cartier
+  person: 'Meagan Mahoney'
+  date: '2013-05-21'
+  content: 'While the building is just sitting there all bored up, I would really like to make it into a community chalkboard project. I saw this on TED and loved the idea. A woman printed before i die I want to… and then the rest were lines and she left chalk and ppl walking by could write whatever they wanted. It was simple but beautiful and maybe somehow it would inspire someone to buy the space, fix it up and start a business. I could change the printed message every so often when the space gets filled up. Could be something like “my favorite place in RI is…” or “I am grateful for…” “I smile when I think about…” I dont know who I would have to get in contact with to make it happen though.'
+
+- property: m-n-cartier
+  person: 'Hambone'
+  date: '2010-05-23'
+  content: 'Last week I was talking with the owner of the car lot next door and he said he used to own a strip club their called Hawks. I think he said there was another strip club there before that.'
+
 - property: fletcher-building
   person: 'achin'
   content: 'I have an office on the 6th floor of the Fletcher Bldg. Some time ago a railing cap of a banister was removed exposing a signature. It reads: “A W Warren, 335 Pocasset Ave, Providence RI, Feb 20 1903.” Does this have any historical significance?'
