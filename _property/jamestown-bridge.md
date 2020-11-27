@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'North Kingstown, RI' ]
 designers: [ 'Parsons, Klapp, Brinckerhoff and Douglass' ]
 lists: []
-tags: []
+tags: [ 'Bridges' ]
 
 NRHP-ref-number:
 added-to-NRHP:

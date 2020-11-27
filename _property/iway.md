@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'William D. Warner' ]
 lists: []
-tags: []
+tags: [ 'Bridges' ]
 
 address: 'Providence River, south of the Hurricane Barrier, Providence RI'
 latitude: '41.815501'
