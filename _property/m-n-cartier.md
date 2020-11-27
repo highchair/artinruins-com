@@ -10,7 +10,7 @@ demolition:
 redeveloped: 
 decade: '1890-1899'
 date-added: '2006'
-categories: [ '#DemolitionAlert', '#UrbandDecay' ]
+categories: [ '#DemolitionAlert', '#UrbanDecay' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]

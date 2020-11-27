@@ -31,6 +31,7 @@ thumbnail: fletcher-jh-2005-11-01.jpg
 
 images:
   - url: fletcher-jh-2004-03-01.jpg
+    alt: "A three bay wide, ten bay deep six story commercial building. The first through fourth story are comprised of square windows, while the fifth story features half moon windows with arched tops, and the sixth story pairs two arched windows to every single window below. An ornate central entrace at 212 Union Street features an arch flanked by twin decorative corbels. The window lintels on the fifth floor feature decorative corinthian-style crests"
   - url: fletcher-jh-2004-10-01.jpg
   - url: fletcher-jh-2004-10-02.jpg
   - url: fletcher-jh-2004-10-03.jpg

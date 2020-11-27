@@ -31,6 +31,7 @@ thumbnail: mason-jh-2004-01.jpg
 
 images:
   - url: mason-jh-2001-01.jpg
+    alt: "A six-story, three bay wide commercial building clad in steel and aluminum with a rectangular set of windows on the first two floors, narrower rectangular windows on the third through fifth, and rounded arched windows across the top floors"
   - url: mason-jh-2001-02.jpg
   - url: mason-jh-2001-03.jpg
   - url: mason-jh-2004-01.jpg
