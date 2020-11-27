@@ -1,6 +1,6 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: washburn-wire\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: crook-point-bascule\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
 # Replace: - property: washburn-wire\n  person: '\1'\n  content: '\2'\n
@@ -11,6 +11,64 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: crook-point-bascule
+  person: 'Paul'
+  date: '2020-06-10'
+  content: 'I have wondered how this has survived so many years despite the railroad at each end being severed. But this is not “the Red Bridge”; that automotive bridge carried Waterman Street/Waterman Avenue across the Seekonk on a center-swing span. With the elimination of the New Haven Railroad tracks in East Providence, one can now (in 2020) drive down the right-of-way to a tiny stub of the eastern landing of the Red Bridge, but it is discontinuous with the rest of Waterman Avenue.'
+
+- property: crook-point-bascule
+  person: 'chris' 
+  date: '2015-11-21' 
+  content: 'Believe it or not, when I was at Fox Point Elementary School, I played hooky more than once and we would hide in the tall grass by the tracks as the slow moving freight cars would appear from the tunnel, and grab a ride across the Black Bridge to East Providence… I remember this scene well, as a youngster, this was an adventurous place, from hopping the slow moving boxcars, to the large (to us) water rats as we called them. Also remember the cars in the river. At the time, India Point was a large scrapyard, where cars were crushed, and big cranes with large magnets would pile the scrap metal for loading on ships bound for Japan. The old “Red Bridge” that I used was before the Henderson bridge was built. Used to ride my bike across it on the wooden walkways on each side. The bridge would turn to let ships pass by on either side, and sometimes it would get stuck in place, which was a big problem before commerce on the river slowly diminished… '
+
+- property: crook-point-bascule
+  person: 'lester goulart' 
+  date: '2014-09-12' 
+  content: 'I am 75 yrs old and I grew up on Pitman street Providence. I can remember the steam locomotives going across the bridge and into the tunnel. I can only remember 2 names for the bridge, Crook Point bridge, and Jack-knife bridge. It sure was a long time ago…'
+
+- property: crook-point-bascule
+  person: 'Dimitri' 
+  date: '2011-10-23' 
+  content: 'Anyone know how tall the bridge is?'
+
+- property: crook-point-bascule
+  person: 'John Ballantine' 
+  date: '2011-05-04' 
+  content: 'I wanted to let you know that my 2008 post on the Seekonk RR Drawbridge has been updated with a vintage postcard purchased on Ebay showing the bridge, plus three color photos I took in the spring of 73. Feel free to link to the page and here’s the url: open.salon.com/blog/designanator/2008/08/10/providence_part_four (now defunct. **A.I.R.**: See our link under History to archive.org)'
+
+- property: crook-point-bascule
+  person: 'Marc' 
+  date: '2009-12-24' 
+  content: 'Actually, I just referenced some pictures I took of the bridge a few years ago, and in approximately that same spot, on the east side of Providence, there is evidence of where the operator house was on the left… Beams jutting out from the left side of the bridge. Also, what remains of the utility poles that once carried those power lines are on the left, consistent with the old photo.'
+
+- property: crook-point-bascule
+  person: 'Mark Sawtelle' 
+  date: '2009-03-26' 
+  content: 'My daughter says she’s heard it called the “Dead Bridge” (cf. the Red Bridge, upstream).'
+
+- property: crook-point-bascule
+  person: 'mickey' 
+  date: '2009-01-26' 
+  content: 'i’ve heard lots of people call it the “ghost bridge” before. i often incorrectly refer to it as the “red bridge”. it’s sort of red. right?'
+
+- property: crook-point-bascule
+  person: 'Richard Goulis' 
+  date: '2009-01-25' 
+  content: 'I think it was the summer of 1982 when I was a student in the film department at RISD that I first encountered the bridge. In those days you could still get into <a href="/property/east-side-train-tunnel/">the tunnel</a> that led from beside Thomas street, above <a href="/property/101-north-main-st/">The Blue Point restaurant</a> to near the area of the bridge. I used to drive my International Harvester Scout through that narrow tunnel on occasion. That was a great vehicle. It had the steering wheel on the right hand side since it was originally used for delivering mail. I could drive like a maniac and my front seat passenger, whoever was fool-hearty enough to drive with me, would always get the blame. One day, I just decided I would climb to the top of that bridge. It was long before the fire which damaged it badly, and it looked like some kind of giant ladder, perfect. I had a video camera with me to document the experience. It was a brand-new, early, state-of-the-art Panasonic “Porta-Pack.” This was a VHS unit that had a camera with a long cable attached to a separate recording deck you had to sling over your shoulder and carry along. It was bulky and cumbersome but it was incredible, and I felt like the luckiest person in the world to be able to actually use this kind of thing. It was a bright, sunny day, maybe a Sunday, as I climbed up holding the camera in one hand and navigating the “rungs”/ties with the other. I narrated my thoughts simultaneously. The most striking thing I remember was the view. When I got to the top, I felt like I was the last person on earth for a moment or two. I sat up there for I don’t know how long, my feet dangling over the water, just watching the world and enjoying it immensely. I later showed the video in class and my teacher just about had a heart attack, some of my fellow students too, seriously. I didn’t get into trouble, but I never heard the end of it. I think the story may still be told within the hallowed halls of the department. Where is that tape?'
+
+- property: crook-point-bascule
+  person: 'john' 
+  date: '2008-09-10' 
+  content: 'you folks might be interested in this one. this is the only pic i’ve ever been able to come across of the bridge in the “down” position: <a href="http://photos.nerail.org/showpic/?photo=2004051712391620075.jpg&amp;order=byyear&amp;page=8&amp;key=1954" target="_blank">photos.nerail.org/showpic/?photo=2004051712391620075.jpg</a> i remember seeing it down a few times when i was very young and driving over the old Red Bridge between the East Side and E. Prov.'
+
+- property: m-n-cartier
+  person: 'TWD'
+  date: '2020-11-24'
+  content: 'This building seems to be getting razed. Excavator parked behind building and half of the roof and south wall has been demolished. Work maybe started this week?
+
+
+(**A.I.R.:** We understand that it did not come down of its own accord recently. The wind and heavy rain on Monday collapsed the roof. Now it seems like they have to take it down because it’s a hazard.)'
 
 - property: m-n-cartier
   person: 'Jeffrey Allcock'
