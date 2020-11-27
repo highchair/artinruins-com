@@ -43,9 +43,14 @@ layout: default
               <div class="u__vertical__pb u__gutter__p">
                 {%- if page.aka -%}<p class="h6 item__aka">also known as {{ page.aka }}</p>{%- endif -%}
                 {%- if page.excerpt -%}<p class="item__excerpt">{{ page.excerpt }}</p>{%- endif -%}
+                {%- if page.categories contains '#DemolitionAlert' -%}
+                <div class="demolition-alert">
+                  <h2 class="o__title--sm">#DemolitionAlert</h2>
+                  <p>{{ page.update }}</p>
+                </div>
+                {%- endif -%}
               </div>
             </header>
-        
             <div id="gallery" class="item__gallery">
               <h2 class="o__title--sm item__gallery__title u__sr-only">Images of this Property</h2>
             {%- for image in page.images -%}

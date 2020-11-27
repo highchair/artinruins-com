@@ -59,17 +59,6 @@
           background-size: 100% 100%;
         }
       }
-
-      &.item-type--demolition {
-        background: repeating-linear-gradient(
-          135deg,
-          rgba(palette('brand-yellow'), 0.1),
-          rgba(palette('brand-yellow'), 0.1) 1rem,
-          rgba(palette('brand-yellow'), 0.25) 1rem,
-          rgba(palette('brand-yellow'), 0.25) 2rem
-        );
-        border: 1.5px solid palette('brand-red');
-      }
     }
   }
   
