@@ -12,6 +12,16 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: earl-mason-carriage
+  person: 'John S'
+  date: '2012-02-08'
+  content: 'Much more construction going on in early 2012 (Jan/Feb). A foundation is being laid just to the left of this photo (leading to the garage door). I’ll try and snap some photos soon.'
+
+- property: earl-mason-carriage
+  person: 'John S'
+  date: '2009-06-16'
+  content: 'In June 2009 there is some work going on with this building. New roof was going on 6/15 and some structural work being done as well.'
+
 - property: crook-point-bascule
   person: 'Paul'
   date: '2020-06-10'
