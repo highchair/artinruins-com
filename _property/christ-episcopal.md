@@ -90,9 +90,9 @@ imagescredit: 'Contributed photos from Richard Longstretch, Lou Fancy, and Mary 
 ### Reason for Demolition
 Having sat vacant for more than twenty years, the structure had deteriorated and much maintenance was required before it could be used again. While the Victorian brownstone and brick building retained some of its picturesque profile and distinctive detailing, its condition continued to get worse and worse. 
 
-The Christ Episcopal Church made the [Providence Preservation Society’s](//guide.ppsri.org/property/church-of-god-in-christ-jesus){:target="_blank"} Ten Most Endangered List in 1999, and PPS has worked with the church in the past. Renewed fears about the building’s status returned the structure to PPS’s Ten Most Endangered List in 2003.
+The Christ Episcopal Church made the [Providence Preservation Society’s](//guide.ppsri.org/property/church-of-god-in-christ-jesus){:target="_blank"} Ten Most Endangered List in 1999, and <abbr title="Providence Preservation Society">PPS</abbr> has worked with the church in the past. Renewed fears about the building’s status returned the structure to <span class="abbr">PPS</span>’s Ten Most Endangered List in 2002 and 2003.
 
-In early January 2006, the structure was finally taken down.
+In early January 2006, the structure was taken down. The lot it used to sit on is still vacant. 
 
 ### Additional Links
 
@@ -107,4 +107,4 @@ Despite facing discrimination and even persecution in colonial New England, by t
 
 With its fine brickwork, asymmetrical massing and stately corner tower, the Christ Episcopal Church (1888) represents a fine example of English Gothic Revival. Established in 1864, the congregation erected a frame chapel on the site in 1867 which they moved across Eddy street when construction on the present sanctuary began. Designed by the prolific William R. Walker and Son, Christ Episcopal Church was home to the congregation for more than a century until dwindling numbers forced the church to close its doors in 1981.
 
-Having sat vacant for more than twenty years, the structure has deteriorated and maintenance is required before it can be used again. While the Victorian brownstone and brick building still retains its picturesque profile and distinctive detailing, its condition continues to get worse. The Christ Episcopal Church made the Ten Most Endangered List in 1999, and PPS has worked with the church in the past, but renewed fears about the building’s status have returned the structure to PPS’s Ten Most Endangered List. Hope remains that a homeless congregation could rehabilitate the building, but the the fact that the church was originally built for religious purposes does not preclude its adaptation for any number of community or neighborhood uses.
+Having sat vacant for more than twenty years, the structure has deteriorated and maintenance is required before it can be used again. While the Victorian brownstone and brick building still retains its picturesque profile and distinctive detailing, its condition continues to get worse. The Christ Episcopal Church made the Ten Most Endangered List in 1999, and <span class="abbr">PPS</span> has worked with the church in the past, but renewed fears about the building’s status have returned the structure to <span class="abbr">PPS</span>’s Ten Most Endangered List. Hope remains that a homeless congregation could rehabilitate the building, but the the fact that the church was originally built for religious purposes does not preclude its adaptation for any number of community or neighborhood uses.

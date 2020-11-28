@@ -96,7 +96,7 @@ imagescredit: Contributions from Erik Gould.
 
 After 80 years of sitting open to the elements — a little more than 50 years of which was under state-ownership — the Masonic Temple gets a new life as a hotel. A major $87 million renovation saved nothing but the impressive three Greek-Revival brick-and-sandstone exterior walls of the building. The interior was completely gutted and reconfigured as it was originally designed with double-story meeting rooms and an interior amphitheater on the top levels. 
 
-The Temple and its close neighbor, the [Veterans Memorial Auditorium](//www.thevetsri.com){:target="_blank"}, were built as a single complex in the 1920s. Construction was never finished and the shells remained standing but unoccupied from 1928-1949. In 1950, the state completed construction on the Auditorium portion while the Temple remained unfinished. Over 50 years later the Temple is finally redeveloped and structurally complete. 
+The Temple and its close neighbor, the [Veterans Memorial Auditorium](//www.thevetsri.com){:target="_blank"}, were built as a single complex in the 1920s. Construction was never finished and the shells remained standing but unoccupied from 1928-1949. In 1950, the state completed construction on the Auditorium portion while the Temple remained unfinished. Over 50 years later the Temple is finally redeveloped and structurally complete. The Sage Hospitality Group renovated the building with a complete interior gut-out in 2004–2006. 
 
 
 ### Current Events
@@ -126,7 +126,7 @@ Late 1910s/early 1920s
 1949
 : Construction on the auditorium and offices block began in the spring. On May 4, Governor John O. Pastore signed a bill dedicating [one of the buildings] as the “Veterans Memorial Auditorium” and providing free office space for chartered veterans organizations. 
 : The optimistic “1949” date is carved into the facade of the Temple.
-: The linking building between the two structures is removed as part of the construction process on the Auditorum.
+: The linking building between the two structures is removed as part of the construction process on the Auditorium.
 
 1950
 : Restoration of the auditorium was completed for a dedication ceremony on January 29, 1950, and the grand opening concert on January 30, with performances by the Rhode Island Philharmonic Orchestra and the Boston Symphony Orchestra. *Long range plans to finish the Temple as office space never materialized*.
@@ -135,7 +135,7 @@ Late 1910s/early 1920s
 : Edward F. Sanderson, a historian and executive director of the Rhode Island Historical Preservation and Heritage Commission was quoted as saying of the Temple, “when I first came to work in the 1970s, you could go in there, and you could see the hand tools that were still sitting where they had been put down in 1928. It was pretty amazing.” The entire copper roof was stolen for scrap. 
 
 1994
-: The first year that the [Providence Preservation Society](//ppsri.org){:target="_blank"} published their “Ten Most Most Endangered Properties” list, the Masonic Temple was included. It went on to be included until 2003. 
+: The first year that the [Providence Preservation Society](//ppsri.org){:target="_blank"} published their “Ten Most Most Endangered Properties” list, [the Masonic Temple](//guide.ppsri.org/property/masonic-temple){:target="_blank"} was included. It went on to be included every year until 2003. 
 
 1996
 : In April, the Providence Preservation Society hosted a design charrette with partners — the State, the City, the RI Foundation, the Providence Foundation, the Greater Providence Chamber of Commerce, the Scenic Rhode Island Foundation, and the Veteran’s Memorial Auditorium Preservation Association. The charette examined nine reuse concepts and was attended by over 130 participants.
