@@ -79,4 +79,5 @@ document.addEventListener("DOMContentLoaded", function() {
   
   // The Property Gallery is initialized by HTML on the page, i.e. "data-fslightbox"
   fsLightboxInstances['air-lightbox'].props.slideshowTime = 6000;
+  fsLightboxInstances['air-lightbox'].props.zoomIncrement = 1.0;
 });
