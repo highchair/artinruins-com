@@ -27,12 +27,16 @@ gmap: ""
 meta: ""
 excerpt: ""
 
-thumbnail: 
+#thumbnail: 
 
-images:
+#images:
 #  - url: hope-st-auto-jh-01.jpg
 
 imagescredit: 
+
+#external:
+#  - source: 'Providence Journal (permalink)'
+#    url: https://perma.cc/MQ4Z-Z9K4
 ---
 
 For Urban Decay: 

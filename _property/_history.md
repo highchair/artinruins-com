@@ -97,7 +97,7 @@ Redeveloped
 ++ Hotel Providence / Lederer building and Bell dormitory
 ++ Lebanon Mills
 ++ Lerner / Wilkinson bldg
-++ Mason bldg//RISD Center for Integrative Technology
++ Mason bldg//RISD Center for Integrative Technology
 ++ Rising Sun / National Providence and Worsted Mills
 ++ Palmer Block / the “Cosmopolitan”
 ++ Parkin Yarn
@@ -112,7 +112,7 @@ RIP
 + AAA Surgical
 + the Jamestown Bridge
 + the Ladd School
-++ Ocean State Steel 
++ Ocean State Steel 
 
 Still In Use
 ++ 1080 Main Street
@@ -141,7 +141,7 @@ Urban Decay
 ++ Bayley Street
 + Bootleggers
 ++ Central Falls/Pawtucket Train Station (2003)
-++ Earl Mason Carriage House
++ Earl Mason Carriage House
 + First Federal Bank, recently Buck a Book
 ++ New England Paper Tube, Co. 
 + North Main Street — Ethan Allen, Sears Auto, Sears, Anderson Little, #1320
@@ -185,7 +185,7 @@ Still in Use
 Redeveloped
 ++ the Alice Building (added 2004, expanded 2005)
 ++ the Dreyfus Hotel
-++ RISD's Fletcher bldg.
++ RISD's Fletcher bldg.
 ++ Hive Archive
 ++ Brown Hillel
 ++ RI Hospital Trust bldg
@@ -248,7 +248,7 @@ Urban Decay
 + Brownell and Field / Standardized Wholesale Liquors
 ++ Fort Adams
 + Lincoln Amusement Park
-++ M. N. Cartier & Sons Co. / 1107 Westminster
++ M. N. Cartier & Sons Co. / 1107 Westminster
 + The Milk Can
 ++ Rolo Building / DM Watkins Co.
 
@@ -301,7 +301,7 @@ Redeveloped
 Urban Decay
 + Enchanted Forest
 ++ National Casket Company
-++ Seekonk River Bridge
++ Seekonk River Bridge
 
 
 ## 2009

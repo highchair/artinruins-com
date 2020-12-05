@@ -181,3 +181,6 @@ WARWICK – Demolition of the 19th-century Elizabeth Mill has begun in preparati
 * Dumb and Dumber: South Water St in the opening. TF Green exterior 6:30 (of course, in the terminal, it's another airport. 21m in, Big Blue Bug off the highway. While there is a rumor that the circular Gulf station served as a Bus terminal, I could not see that in the movie itself. Maybe a deleted scene? 
 
 * Scenes of 27 Dresses was filmed inside 139 Point Street (ITEM) in 2007 or so. 
+
+* Polka King filmed in Pawtucket. Interior shot of Modern Diner and Tony Estrella on stage as presenter for Ms. Pennsylvania pageant. Also filmed in Woonsocket. Scene filmed in Benny’s parking lot, old prison in Warwick, and Route 10 in Cranston. https://www.providencejournal.com/news/20170627/the-polka-king-filmed-in-ri-picked-up-by-netflix
+
