@@ -43,11 +43,11 @@ images:
   - url: 1107-westminster-jh-2020-11-02.jpg
   - url: 1107-westminster-pl-2020-11-23.jpg
     caption: 'Photo submitted by Peter Landry, November 23, 2020. A portion of the roof has collapsed from heavy rain and wind.'
-  - url: 1107-westminster-pl-2020-11-27-01.jpg
-  - url: 1107-westminster-pl-2020-11-27-02.jpg
-  - url: 1107-westminster-pl-2020-11-27-03.jpg
-  - url: 1107-westminster-pl-2020-11-27-04.jpg
-  - url: 1107-westminster-pl-2020-11-27-05.jpg
+  - url: 1107-westminster-jh-2020-11-27-01.jpg
+  - url: 1107-westminster-jh-2020-11-27-02.jpg
+  - url: 1107-westminster-jh-2020-11-27-03.jpg
+  - url: 1107-westminster-jh-2020-11-27-04.jpg
+  - url: 1107-westminster-jh-2020-11-27-05.jpg
 
 imagescredit: 'Contribution from Peter Landry'
 ---

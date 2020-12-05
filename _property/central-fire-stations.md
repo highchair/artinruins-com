@@ -27,13 +27,13 @@ excerpt: "The story of two central fire stations located on the perimeter of Exc
 thumbnail: central-fire-1903c-views-of-prov.jpg
 
 images:
-  - url: central-fire-1886c-three-ones.jpg
-    caption: 'Providence Journal file photo, circa 1886. The city was celebrating the 250th anniversary of its founding.'
-    alt: 'The first fire house located to the southeast of Union Railroad Station. It was a square plan, two-story mansard roof building with a central projecting three-story tower in a simply decorated second empire style.'
+  #- url: central-fire-1886c-three-ones.jpg
+  #  caption: 'Providence Journal file photo, circa 1886. The city was celebrating the 250th anniversary of its founding.'
   - url: central-fire-1895c-three-ones.jpg
     caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library, circa 1895'
-  - url: central-fire-1900c-three-ones.jpg
-    caption: 'Providence Journal file photo, circa 1900'
+    alt: 'The first fire house located to the southeast of Union Railroad Station. It was a square plan, two-story mansard roof building with a central projecting three-story tower in a simply decorated second empire style.'
+  #- url: central-fire-1900c-three-ones.jpg
+  #  caption: 'Providence Journal file photo, circa 1900'
   - url: central-fire-1901c-gilbane-construct.jpg
     caption: 'Part of the Gilbane collection'
   - url: central-fire-1902c-profile.jpg
@@ -51,10 +51,15 @@ images:
     caption: 'Detail from a photo of Exchange Place, Library of Congress, circa 1910'
   - url: central-fire-1918c-hospital-trust.jpg
     caption: 'Postcard view circa 1918 with the Hospital Trust new tower in the background (pale yellow)'
-  - url: central-fire-1924c-demonstration.jpg
-    caption: 'Providence Journal file photo, circa 1924'
+  #- url: central-fire-1924c-demonstration.jpg
+  #  caption: 'Providence Journal file photo, circa 1924'
 
-imagescredit: 'Contributions by the Providence Journal, <a href="//provlibdigital.org/islandora/object/islandora%3A036-03" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, and the Library of Congress'
+imagescredit: 'Contributions by <a href="//provlibdigital.org/islandora/object/islandora%3A036-03" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, and the Library of Congress'
+
+external:
+  - source: 'Time Lapse: Ready to answer the bell (gallery of 50 historic fire departmrnt photos), Providence Journal'
+    url: '//www.providencejournal.com/entertainmentlife/20200213/time-lapse-ready-to-answer-bell'
+    #url: https://perma.cc/Y2NS-PV49
 ---
 
 ### Reason for Demolition

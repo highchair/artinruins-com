@@ -30,8 +30,8 @@ excerpt: "A former steel and wire manufacturing facilty along the waterfront in 
 thumbnail: washburn-wire-pips-2003-11-03.jpg
 
 images:
-  - url: washburn-wire-pj-unknown-01.jpg
-    caption: 'Image from the Providene Journal, date unknown. Likely before 1985'
+  #- url: washburn-wire-pj-unknown-01.jpg
+  #  caption: 'Image from the Providene Journal, date unknown. Likely before 1985'
   - url: washburn-wire-pips-2003-11-01.jpg
   - url: washburn-wire-pips-2003-11-02.jpg
   - url: washburn-wire-pips-2003-11-03.jpg
@@ -52,7 +52,12 @@ images:
   - url: washburn-wire-pips-2004-03-05.jpg
   - url: washburn-wire-pips-2004-03-06.jpg
 
-imagescredit: 'Contribution by the Providence Journal and all other photos provided by PIPS Works — Providence Initiative for Psychogeographic Studies'
+imagescredit: 'All photos provided by PIPS Works — Providence Initiative for Psychogeographic Studies'
+
+external:
+  - source: 'Time Lapse: An East Providence time capsule from our archives, Providence Journal'
+    url: '//www.providencejournal.com/entertainment/20200312/time-lapse-scenic-tour-of-east-providence'
+    #url: https://perma.cc/G4JT-TU2Q
 ---
 
 ### Reason for Demolition

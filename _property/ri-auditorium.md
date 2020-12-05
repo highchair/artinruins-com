@@ -24,10 +24,10 @@ gmap: "https://www.google.com/maps/@41.8505782,-71.4037438,17z"
 meta: ""
 excerpt: "A big hulking 5300-person capacity civic auditorium that hosted sports and entertainment for close to 50 years. "
 
-thumbnail: Projo-TimeLapse-1966-RI-Auditorium.jpg
+thumbnail: ri-auditorium-tucker-1989-01.jpg
 
 images:
-  - url: Projo-TimeLapse-1966-RI-Auditorium.jpg
+  #- url: Projo-TimeLapse-1966-RI-Auditorium.jpg
   - url: riaud-painting.jpg
   - url: ri-auditorium-ephemera.jpg
   - url: former-site-plaque-close-up.jpg
@@ -36,7 +36,12 @@ images:
   - url: ri-auditorium-2004-04-01.jpg
     caption: "On this spot stood the Rhode Island Auditorium, home of the Rhode Island Reds hockey team, December 3, 1926 to April 11, 1972. 1111 North Main Street, Providence, Rhode Island. Dedicated on Saturday, July 31, 2010, by the Rhode Island Reds Heritage Society"
 
-imagescredit: Images from The Providence Journal, Tucker, and Wikimedia.
+imagescredit: Images from Tucker and Wikimedia.
+
+external:
+  - source: 'Time Lapse: R.I. Auditorium was center stage for big events, Providence Journal'
+    url: '//www.providencejournal.com/article/20160428/ENTERTAINMENTLIFE/160429291'
+    #url: https://perma.cc/A6TT-KFZY
 ---
 
 ### Reason for Demolition

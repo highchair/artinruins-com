@@ -30,10 +30,10 @@ images:
   - url: apex-rendering.jpg
     caption: 'Original rendering of proposed Apex building by Andrew Geller, provided by Jake Gorst. Notice that the orientation is different, with a front entrance along the water front and additional parking at the back.'
     alt: 'A low, single story department store with a mid-sixties style. Projecting entrance pavollions are flanked by four-sided columns that are fat at the bottom and taper up in the form of an elongated pyramid. The roof is topped with a six-stepped ziggurat pyramid capped with neon letters spelling the name of the store, Apex.'
-  - url: apex-pj-1969-01.jpg
-    caption: 'From the Providence Journal, captioned: “In 1969, The Apex store’s distinctive pyramidal roof starts to take shape in downtown Pawtucket around 1969 as part of the Slater Renewal Project.” The steel supports for the roof decoration are part of the structure of the building, even though the ziggurat is open to the elements and has a flat rubber roof underneath it.'
-  - url: apex-pj-1970-01.jpg
-    caption: 'Providence Journal, circa 1970'
+  #- url: apex-pj-1969-01.jpg
+  #  caption: 'From the Providence Journal, captioned: “In 1969, The Apex store’s distinctive pyramidal roof starts to take shape in downtown Pawtucket around 1969 as part of the Slater Renewal Project.” The steel supports for the roof decoration are part of the structure of the building, even though the ziggurat is open to the elements and has a flat rubber roof underneath it.'
+  #- url: apex-pj-1970-01.jpg
+  #  caption: 'Providence Journal, circa 1970'
   - url: apex-jh-2003-11-01.jpg
   - url: apex-jh-2003-11-02.jpg
   - url: apex-jh-2003-11-03.jpg
@@ -63,7 +63,15 @@ images:
   - url: aerial-google-3d-2020.jpg
     caption: 'Aerial view of the Blackstone riverfront from Slater Mill on the left to the river basin on the left, after the falls under the Main Street bridge and interstate 95 and Division Street bridges. Apex is center left.'
 
-imagescredit: 'Contributions by Jake Gorst, the Providence Journal, C.F., the Providence Historical Aerial Viewer, and Google Maps'
+imagescredit: 'Contributions by Jake Gorst, C.F., the Providence Historical Aerial Viewer, and Google Maps'
+
+external:
+  - source: 'ThrowBackThursday: Celebrating Pawtucket, Providence Journal'
+    url: '//www.providencejournal.com/photogallery/PJ/20180920/NEWS/920009999/PH/1'
+    #url: https://perma.cc/D2JV-Y8YE
+  - source: 'Billy Turbitt Facebook page share, original source Providence Journal'
+    url: 'https://www.facebook.com/photo?fbid=3614448851922515&set=gm.3408004512591193
+    https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/119973316_3614448855255848_6138480143601186102_n.jpg?_nc_cat=100&_nc_sid=ca434c&_nc_ohc=BDo4idu6TBEAX8FHUTE&_nc_ht=scontent-bos3-1.xx&oh=640564ca2d779d34c835875340d7fe4d&oe=5F92A85B&dl=1'
 ---
 
 ### Current Tenant

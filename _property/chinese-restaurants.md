@@ -32,12 +32,8 @@ images:
     alt: 'Three different Chinese food restaurants. Mee Hong was inside a two story commercial building with an enameled steel facade. Two large picture windows have large rounded outside corners while the central double door entrance has a split circle window down the center of it. A very large neon sign occupies the entire second story of the facade.'
   - url: mee-hong-jb-1975.jpg
     caption: 'Black and white film scan of a photo taken in 1975 by John Ballantine'
-  - url: mee-hong-pj-undated.jpg
-    caption: 'The Mee Hong Restaurant in Providence at 102 Westminster St. closed February 24, 1979. Providence Journal file photo by David LaMontagne.'
-  - url: lukes-pj-1961.jpg
-    caption: 'Luke’ss Chinese American Restaurant, in downtown Providence, circa 1961. Providence Journal archives.'
-    alt: 'Luke’s restauirant was located on the first floor of a taller commercial office building. A large neon sign took up most of the space above the entrance and retail window. '
   - url: lukes-postcard-undated.jpg
+    alt: 'Luke’s restauirant was located on the first floor of a taller commercial office building. A large neon sign took up most of the space above the entrance and retail window.' 
   - url: lukes-location-2019.jpg
   - url: ming-garden-1937.jpg
     caption: 'Exchange Place in 1937 — electric trolley buses are in use. Ming’s Garden wouldn’t open for another few years in the building with the AUTO LOANS sign. The nearby Waldorf Cafeteria can be seen along with many mid-century advertising signs. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
@@ -51,7 +47,12 @@ images:
   - url: port-arthur-gold-coin-dorrance-weybosset.jpg
     caption: 'Many comments mentioned Port Arthur, seen here on the corner of Dorrance and Westminster. Date unknown.'
 
-imagescredit: 'Contributions from John Ballantine, the Providence Journal, <a href="//provlibdigital.org/islandora/object/islandora%3A5578"> target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, and Google Streetview.'
+imagescredit: 'Contributions from John Ballantine, <a href="//provlibdigital.org/islandora/object/islandora%3A5578"> target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, and Google Streetview.'
+
+external:
+  - source: 'Photos: Restaurants in Providence, Providence Journal'
+    url: '//www.providencejournal.com/photogallery/PJ/20190723/NEWS/723009998/PH/1'
+    #url: https://perma.cc/E3JL-Z42K
 ---
 
 

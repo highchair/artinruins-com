@@ -37,7 +37,7 @@ images:
   - url: possner-postcard-undated-01.jpg
   - url: possner-postcard-undated-02.jpg
     caption: 'Postcard of the Edgewood Yacht Club. Upper left shows how close Possner Castle was to the Club building. '
-  - url: possner-pj-1942-01.jpg
+  - url: possner-ppl-1942-01.jpg
     caption: 'Clipping from the John Hutchins Cady Research Scrapbooks Collection at the Providence Public Library, circa 1942'
   - url: possner-kd-1986-01.jpg
     caption: 'Photo by Kathleen Dunley, 1986'

@@ -30,10 +30,10 @@ excerpt: "A former waterfront nightclub overlooking Narragansett Bay that operat
 thumbnail: shooters-jh-2003-06-03.jpg
 
 images:
-  - url: shooters-pj-1990-01.jpg
-    caption: 'Photo from the Providence Journal archive, staff photo, 1990'
-  - url: shooters-pj-1990-02.jpg
-    caption: 'Photo from the Providence Journal archive, staff photo, 1990'
+  #- url: shooters-pj-1990-01.jpg
+  #  caption: 'Photo from the Providence Journal archive, staff photo, 1990'
+  #- url: shooters-pj-1990-02.jpg
+  #  caption: 'Photo from the Providence Journal archive, staff photo, 1990'
   - url: shooters-aerial-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997'
   - url: shooters-jh-2003-06-01.jpg
@@ -88,7 +88,12 @@ images:
     caption: 'Photo by Kerri-Ann Pontifice 2009'
   - url: shooters-gsv-2011-05-01.jpg
 
-imagescredit: 'Contributions from the Providence Journal, Lou Fancy, Kerri-Ann Pontifice, and Google Streetview'
+imagescredit: 'Contributions from Lou Fancy, Kerri-Ann Pontifice, and Google Streetview'
+
+external:
+  - source: 'Bustling recreational destination planned for vacant Shooters site in Providence, Providence Journal'
+    url: '//www.providencejournal.com/news/20171102/bustling-recreational-destination-planned-for-vacant-shooters-site-in-providence'
+    #url: https://perma.cc/85F2-5R4J
 ---
 
 ### Reason for Demolition

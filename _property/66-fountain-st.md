@@ -38,10 +38,10 @@ images:
   - url: little-bldg-jh-2017-03-01.jpg
   - url: little-bldg-jh-2017-03-02.jpg
   - url: little-bldg-jh-2017-03-03.jpg
-  - url: little-bldg-pj-2018-05-01.jpg
-    caption: 'Photo by Lisa Newby for Providence Journal, May 2018'
-  - url: little-bldg-pj-2018-10-01.jpg
-    caption: 'Photo by Sandor Bodo for Providence Journal, October 2018'
+  #- url: little-bldg-pj-2018-05-01.jpg
+  #  caption: 'Photo by Lisa Newby for Providence Journal, May 2018'
+  #- url: little-bldg-pj-2018-10-01.jpg
+  #  caption: 'Photo by Sandor Bodo for Providence Journal, October 2018'
   - url: little-bldg-jh-2018-10-01.jpg
   - url: little-bldg-jh-2018-10-02.jpg
   - url: little-bldg-map-1889.jpg
@@ -57,7 +57,15 @@ images:
   - url: little-bldg-aerial-1972.jpg
     caption: 'Providence Historical Aerial Viewer 1972'
 
-imagescredit: 'Contributions from the Providence Journal’s Lisa Newby and Sandor Bodo. Aerials from the Providence Historical Aerial Viewer'
+imagescredit: 'Aerials from the Providence Historical Aerial Viewer'
+
+external:
+  - source: 'Providence rising: That buzz downtown is from these 10 construction projects, Providence Journal'
+    url: '//www.providencejournal.com/news/20180505/providence-rising-that-buzz-downtown-is-from-these-10-construction-projects'
+    #url: https://perma.cc/J7ES-2HE7
+  - source: 'Videos, photos: Coffee King building in Providence is torn down, Providence Journal'
+    url: '//www.providencejournal.com/news/20181016/videos-photos-coffee-king-building-in-providence-is-torn-down'
+    #url: https://perma.cc/YBX6-8E4T
 ---
 
 ### Reason for Demolition

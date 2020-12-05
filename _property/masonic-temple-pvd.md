@@ -89,7 +89,11 @@ images:
   - url: masonic-temple-jh-2006-07-02.jpg
   - url: masonic-temple-jh-2020-06-01.jpg
 
-imagescredit: Contributions from Erik Gould.
+imagescredit: 'Contributions from Erik Gould'
+
+external:
+  - source: 'Time Lapse: The Renaissance of a fallen temple, Providence Journal'
+    url: '//www.providencejournal.com/photogallery/PJ/20201010/NEWS/101009997/PH/1'
 ---
 
 ### Redevelopment

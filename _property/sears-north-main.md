@@ -27,9 +27,9 @@ excerpt: "One of the last big box stores on North Main Street, closed since the 
 thumbnail: sears-jh-2003-07-02.jpg
 
 images:
-  - url: sears-pj-1961-01.jpg
-  - url: sears-pj-mm-1993-01.jpg
-  - url: sears-pj-mm-1993-02.jpg
+  #- url: sears-pj-1961-01.jpg
+  #- url: sears-pj-mm-1993-01.jpg
+  #- url: sears-pj-mm-1993-02.jpg
   - url: sears-jh-2003-07-01.jpg
   - url: sears-jh-2003-07-02.jpg
   - url: sears-jh-2003-07-03.jpg
@@ -42,7 +42,12 @@ images:
   - url: sears-jh-2014-12-01.jpg
   - url: sears-jh-2014-12-02.jpg
 
-imagescredit: Images from the Providence Journal and Mary Murphy (for the Projo), and RI Lurky.
+imagescredit: 'Contribution by RI Lurky.'
+
+external:
+  - source: 'Photos: Sears over the Years, Providence Journal'
+    url: '//www.providencejournal.com/photogallery/pj/20181015/news/101509998/PH/1'
+    #url: https://perma.cc/TMH7-YF8Z
 ---
 
 ### Reason for Demolition

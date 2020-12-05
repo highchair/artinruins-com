@@ -33,11 +33,11 @@ images:
   - url: rustic-rimonthly-2000.jpg
   - url: rustic-meredithmarciano-2002.jpg
   - url: rustic-jh-2019-07-01.jpg
-  - url: rustic-projo-2020.jpg
+  #- url: rustic-projo-2020.jpg
   - url: rustic-advertisement-cinematreasures.jpg
-    caption: 'An advestisement from the dark times of the 1970s when the Rustic showed adult films. Image from CinemaTreasures.org'
+    caption: 'An advertisement from the dark times of the 1970s when the Rustic showed adult films. Image from CinemaTreasures.org'
 
-imagescredit: 'Contributions from Flickr users, RI Monthly, and the Providene Journal'
+imagescredit: 'Contributions from Flickr users, RI Monthly, and Cinema Treasures'
 ---
 
 ### Current Events
