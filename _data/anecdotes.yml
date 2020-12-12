@@ -12,6 +12,21 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: javaspeed
+  person: 'Mitch DeJesus'
+  date: '2019-06-07'
+  content: 'Mechanic there installed piston backwards and destroyed the engine, went back and they had cleared out. Super annoying place. Wish I never had brought my scooter there.'
+
+- property: javaspeed
+  person: 'Ryan'
+  date: '2014-08-30'
+  content: 'Javaspeed closed down several years ago and it sucks because it was a great shop and really nice folks worked there. I drove by the site yesterday and saw it was being renovated into a cross fit type gym.'
+
+- property: javaspeed
+  person: 'Total Bummer'
+  date: '2009-11-06'
+  content: 'That sucks, let’s hope they stay local. The mail order Vespa businesses always send you the wrong parts. Having a specialist is a huge help.'
+
 - property: earl-mason-carriage
   person: 'John S'
   date: '2012-02-08'
