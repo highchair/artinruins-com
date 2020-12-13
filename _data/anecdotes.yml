@@ -12,6 +12,27 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: fox-point-bathhouse
+  person: 'Lisa Bianco' 
+  date: '2017-01-23' 
+  content: 'I remember visiting this when it was library. My cousin went to Fox Point Elementary she was in kindergarten at the time.  We could walk to it since she lived at 70 Hope St'
+
+- property: fox-point-bathhouse
+  person: 'Carol Parent' 
+  date: '2009-01-25' 
+  content: 'I lived on Schofield Street from 1961-1968. Both my parents lived there too as children. They also lived on Williams St. and Sheldon St. I attended Fox Pt. Elementary and was a student participating in “Headstart”. Now I realize that I was part of the 60s movement towards better education. I did visit the library that was next to the old bath house as well as swim in the public pool that was on the corner of Wickeden and I believe Ives St. I remember the local grocery where I was sent by my Vavao to buy goat cheese and you could say “put it on our tab”. I also remember that my Aunt Mary would send me for a pack of cigarettes! How things have changed. Like many Foxpointers I attended Holy Rosary Church and have pictures leaving the church after I made my first communion.'
+
+- property: fox-point-bathhouse
+  person: 'Jeanne Beaulieu'
+  content: 'The Providence Public Library leased the city owned building at 511 Wickenden Street for $1 a year to convert into a new branch. The Library assumed the cost of renovating the interior. The City appropriated $3,200 for the exterior repairs and installation of heating. A new tile floor and special soundproof ceilings were added and the walls were repainted. On October 19, 1964 an Open House to mark the formal opening of the Fox Point Branch was held. In August of 1970, the Fox Point Branch was closed because of lack of funds. In October, the City, State and Library agreed to pay one third each of the operating costs of the branch for the 1971 fiscal year. On July 1, 1971 the Library reabsorbed the cost of maintaining this branch. In February 1975, the branch moved out of 511 Wickenden Street to its present building at 90 Ives Street (Fox Point Neighborhood Center-Boys and Girls Club.)'
+
+- property: fox-point-bathhouse
+  person: 'M DePaiva'
+  content: 'I was born and grew up in Fox Point and lived on 273 Wiickenden Street in the 40s and 50s. It was still being used as a bathhouse then. This was before the Vartan Gregorian Elementary school. I remember playing baseball at the park next to the bath house, and if I remember correctly there was also an outdoor swimming pool. I attended Arnold Street Elementary until the 3rd grade, then Thayer Street Elementary for a couple of years until the city sold the property to Brown University. Until the elementary school in Fox Point was built a couple of years later, the Fox Point children went to Nathan Bishop JH. I finished JH at Nathan Bishop then went on to Hope High, graduating in 1958. I left right after that to enlist in the Air Force.
+
+
+My mom and dad lived in Fox Point until the mid 60s. Both have passed away now and we held their funeral services at the Holy Rosary church; which I think is one of the most beautiful churches I’ve ever seen.'
+
 - property: javaspeed
   person: 'Mitch DeJesus'
   date: '2019-06-07'

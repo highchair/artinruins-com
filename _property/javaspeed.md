@@ -14,7 +14,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Bars, Businesses, & Restaurants' ]
+tags: [ 'Bars, Businesses, & Restaurants', 'Needs History' ]
 
 address: '1284 North Main Street, Providence RI'
 latitude: '41.855296'
