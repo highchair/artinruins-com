@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: crook-point-bascule\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: fox-point-bathhouse\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: washburn-wire\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: fox-point-bathhouse\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,23 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: george-arnold
+  person: 'George C Arnold 4th' 
+  date: '2009-11-25'
+  content: 'Great building, its my great uncles.'
+
+- property: george-arnold
+  person: 'Whitney Easton' 
+  content: 'I can’t believe that Mr. Cortollessa may knock this building down. I used to live in it when I was in highschool from 1994-1996. My family was living in Florida from 92-94 and when we returned to Providence we all moved in to this building. There were four apartments total and we rented three of them and rehabed them over the two years we lived there. I used to walk to Classical High everyday, and my friends obviously thought my family was crazy for living there, but it was always a lot of fun standing in the windows of my bedrooms and watching the lines for concerts at the Strand. I remember waking up one morning and the Shepards building right next door was engulfed in fire with flames practically licking my window. I haven’t been back to Providence for a few years (I am living in New Haven now) but I hope that they have not torn down this building, I have a lot of fond memories from my time living there.'
+
+- property: george-arnold
+  person: 'Corey Rossi' 
+  content: 'It’s still there, as of now, May 2006. I went to high school in the old Shepard’s, and this building was always really interesting to me because there seems to be no plausible reason for it to have been built this way. A February 1923 photograph of a fire at Shepard’s shows the western end of the lot where the Arnold building is supposed to be, and it isn’t yet there.'
+
+- property: george-arnold
+  person: 'Jeff Allcock' 
+  content: 'I don’t know how the Geo. Arnold building fared (I’m writing this in April of 2005) but I hope it survived. Its current occupants are Kevin’s Corner Smoke Shop, Honorbilt apparel, and Downtown Liquors. Businesses supplying some of the things that make a city liveable, where anyone can go for cigarettes or a newspaper, a six-pack of beer or shirts and socks. It’s a short-sighted, one-sided vision of economic development that considers these businesses and the goods and services they provide as obsolete in the Renaissance Providence of creeping parking lots, luxury high-rise condos, swank hotels, but nowhere to get your hair cut, or to buy a used book.'
 
 - property: fox-point-bathhouse
   person: 'Lisa Bianco' 
