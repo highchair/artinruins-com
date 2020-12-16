@@ -16,7 +16,7 @@ lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places' ]
 tags: [ 'Demoliion by Neglect' ]
 
 NRHP-ref-number: '76000043'
-added-to-NRHP: '1976-06-30'
+added-to-NRHP: 'June 30, 1976'
 
 address: '909 Eddy Street, Providence RI'
 latitude: '41.802894'

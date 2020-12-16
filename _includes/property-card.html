@@ -65,7 +65,7 @@
         {%- endif -%}
       {%- if page.type == 'lists' -%}
         {%- if item.added-to-NRHP.size > 0 -%}
-          <br><b>Added to <abbr title="National Register of Historic Places">NRHP</abbr>:</b> {{ item.added-to-NRHP | date:'%B %u, %Y' }}
+          <br><b>Added to <abbr title="National Register of Historic Places">NRHP</abbr>:</b> {{ item.added-to-NRHP }}
         {%- endif -%}
         {%- if item.NRHP-ref-number.size > 0 -%}
           <span class="taxonomy__sep"> | </span><b><abbr title="National Register of Historic Places">NRHP</abbr> Reference Number:</b> {{ item.NRHP-ref-number }}

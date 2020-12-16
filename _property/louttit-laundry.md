@@ -15,8 +15,8 @@ designers: [ 'Designer Unknown' ]
 lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places', 'Providence Industrial Sites 1981' ]
 tags: [ 'Demolition by Neglect', 'Demolition by Fire' ]
 
-NRHP-ref-number: 04000197
-added-to-NRHP: Mar 18, 2004
+NRHP-ref-number: '04000197'
+added-to-NRHP: 'March 18, 2004'
 
 address: '93 Cranston Street, Providence RI'
 latitude: '41.8164469'

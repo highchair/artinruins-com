@@ -15,8 +15,8 @@ designers: [ 'Jenks and Ballou Architects' ]
 lists: [ 'PPS Ten Most Endangered', 'A.I.R.’s Lead Brick List', 'HABS HAER', 'National Register of Historic Places', 'Provisions Warehouse District' ]
 tags: [ 'Concrete', 'Demolition by Neglect' ]
 
-NRHP-ref-number: 05000583
-added-to-NRHP: Jun 10, 2005
+NRHP-ref-number: '05000583'
+added-to-NRHP: 'June 10, 2005'
 
 address: '6-64 Harris Avenue, Providence RI'
 latitude: '41.8273512'

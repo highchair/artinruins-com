@@ -17,7 +17,7 @@ lists: [ 'Did You Know?', 'National Register of Historic Places' ]
 tags: [ 'Amusement Park' ]
 
 NRHP-ref-number: 76000045
-added-to-NRHP: '1976-04-21'
+added-to-NRHP: 'April 21, 1976'
 
 address: '700 Bullocks Point Avenue, Riverside, East Providence, RI'
 latitude: '41.756652'

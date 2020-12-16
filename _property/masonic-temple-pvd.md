@@ -17,8 +17,8 @@ designers: [ 'Osgood and Osgood', 'Jackson, Robertson, and Adams' ]
 lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places', 'Capital Center Parcels' ]
 tags: []
 
-NRHP-ref-number: 93001181
-added-to-NRHP: Oct 5, 1993
+NRHP-ref-number: '93001181'
+added-to-NRHP: 'October 5, 1993'
 
 address: '5 Avenue of the Arts, Providence RI'
 latitude: '41.830055'
