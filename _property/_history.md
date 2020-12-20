@@ -56,12 +56,12 @@ Urban Decay section (16)
 ++ Brown and Sharpe Manufacturing
 ++ Central Falls/Pawtucket Train Station
 + Christ Episcopal Church
-++ Fox Point Bathhouse
++ Fox Point Bathhouse
 + Grove Street School
 + the Hope Building (Hope Boiler)
 + Improved Laminated Metal
 + North Main Street — Including Ethan Allen, Sears Automotive, Sears, Anderson Little, and #1320
-++ Parkin Yarn
++ Parkin Yarn
 ++ Royal Mills & Ace Dyeing 
 + (Cranston St.) Trolley Barn
 
@@ -121,14 +121,14 @@ Still In Use
 ++ 32 Branch Avenue (Nicki's Liquors)
 + Apex Department Store
 ++ East Avenue Auto
-++ George Arnold Building
++ George Arnold Building
 ++ Greenville Fin / Putnam Pike Mills
 ++ Hope Webbing
 ++ Louis Fink building
 ++ Ocean House
 ++ Rhode Island Tool
-++ Wanskuck Hall
-++ Wanskuck Mills
++ Wanskuck Hall
++ Wanskuck Mills
 
 Streetscape
 ++ Downtown Providence (various)
@@ -209,7 +209,7 @@ Urban Decay
 ++ 395 Promenade Street / HP Hood
 ++ American Express bldg
 + Engle Tire & Providence Auto Ignition
-++ Old Colonial Bank, Pawtucket
++ Old Colonial Bank, Pawtucket
 
 
 ## 2006 (only those that have been added)
@@ -286,7 +286,7 @@ Urban Decay
 + Ethan Allen (1st appeared 2003 now standalone)
 ++ Rialto Theatre
 ++ RI Mall
-++ Slater Cotton Company
++ Slater Cotton Company
 ++ Union Wadding
 
 
@@ -357,7 +357,7 @@ Redeveloped
 RIP
 + 1320 North Main Street
 + Harris Lumber Co.
-++ Javaspeed Scooter Sales
++ Javaspeed Scooter Sales
 + Smith Swim Center
 
 Still In Use (Some of these were added 2010)
