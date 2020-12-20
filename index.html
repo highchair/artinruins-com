@@ -39,17 +39,18 @@ sitemap:
     {%- endcapture -%}
     {%- assign props = props | plus:1 -%}
     {%- if forloop.index < 11 and is_demo_alert == 'No' -%}
+      {% assign home = 'Yes' %}
       {% include property-card.html %}
     {%- endif -%}
   {%- endif -%}
 {%- endfor -%}
   </ul>
   
-  <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ props }} properties</span> and <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ totalimg }} images</span>. Browse more from our <a href="{% link all-tags.html %}">Categories and Tags</a>.</p>
+  <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ props }} properties</span> and <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=totalimg %} images</span>. Browse more from our <a href="{% link all-tags.html %}">Categories and Tags</a>.</p>
 </section>
 <section class="home__anec u__vertical__p u__gutter__p">
   <h2 class="o__title--sm v-rhythm">Anecdotes</h2>
-  <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ anecdotes.size }} anecdotes</span> from people just like you.</p>
+  <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=anecdotes.size %} anecdotes</span> from people just like you.</p>
   <ul class="u__list__unstyled anec__list" role="list">
 {%- for quote in anecdotes limit:8 -%}
   {%- assign property = site.property | where: 'slug', quote.property -%}
@@ -74,7 +75,7 @@ sitemap:
           {{ quote.content | truncate: 280 }}
         </blockquote>
         <figcaption class="anec__dote__meta">
-          <a href="{{ property.first.url }}#{{ quote.date | date: '%Y-%m-%d' }}"><cite>{{ quote.person }}</cite> on {{ property.first.title }}</a> <time datetime="{{ quote.date | date: "%Y-%m-%d" }}">{{ quote.date | date: "%B %e, %Y" }}</time>
+          <a href="{{ property.first.url }}#{{ quote.date | date: '%Y-%m-%d' }}"><cite>{{ quote.person }}</cite> on {{ property.first.title }}</a> <time datetime="{{ quote.date | date: "%Y-%m-%d" }}">{{ quote.date | date: "%e %B, %Y" }}</time>
         </figcaption>
       </figure>
     </li>
