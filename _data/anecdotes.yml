@@ -12,6 +12,10 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: gately-bldg
+  person: 'P Babbidge'
+  content: 'This building is the M.J. Gallagher Building, built in 1921.'
+
 - property: wanskuck-mills
   person: 'william dipanni' 
   date: '2016-12-05' 
