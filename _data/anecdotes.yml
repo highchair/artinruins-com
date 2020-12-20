@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: campbell-machine-shop
+  person: 'Jim Mitchell'
+  date: '2017-08-23'
+  content: 'I just found out that in the Chapel Hill Industrial District was home to the James Brown Machine Shop and in 1903-1905 a car was built there on Union st. the car was called the Cameron. I don’t know anymore but look forward to hearing more info.'
+
 - property: gately-bldg
   person: 'P Babbidge'
   content: 'This building is the M.J. Gallagher Building, built in 1921.'
