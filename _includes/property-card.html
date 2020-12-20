@@ -28,6 +28,7 @@
             <span class="taxonomy__meta__group"><b>Parcel {{ item.parcel }}: </b></span>
             {%- endif -%}
           {%- endif -%}
+          {% if home == "Yes" %}<span class="js-humanize-date"><i>Updated {{ item.date-modified | date: "%e %B, %Y" }}:</i></span> {% endif %}
           {% if item.update %}{{ item.update }}{% else %}{{ item.excerpt }}{% endif %}
         </p>
         <p class="taxonomy__meta">
