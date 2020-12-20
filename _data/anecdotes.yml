@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: fox-point-bathhouse\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: wanskuck-mills\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: fox-point-bathhouse\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: wanskuck-mills\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,11 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: slater-cotton
+  person: 'Rick Goyette'
+  date: '2008-06-01'
+  content: 'Almost EVERY member of my family worked in this building when it housed ER Hutchinson Co., a company that made jewelry displays for as long as I can remember. My father was one of the founding employees when Earl Hutchinson opened the company in the 1960’s (could it have been opened earlier?) He, along with Earl, Mario, and Dick DiFusco and many others could fill volumes with stories of this building. They spend the better parts of their lives working there, and forming friendships that survive to this day.'
 
 - property: campbell-machine-shop
   person: 'Jim Mitchell'
