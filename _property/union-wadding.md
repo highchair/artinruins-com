@@ -168,7 +168,7 @@ Since we at A.I.R. have mixed feelings about the original developers of this pro
 
 2010, October 13
 : A fire starts around 11:20pm and quickly spread through the large empty structures of the mill complex. Residents of the converted portions of the mill were evacuated in precaution. The fire destroys more than 225,000 square feet and hot spots continue for days afterward. The vacant portions of the complex where the fire broke out were intended to house 140 residential apartments.
-: First National had numerous problems in complying with city codes and paying its debts, according to city records. Tax records show it owes more than $262,000 in back real-estate taxes, court costs, fines and liens. The building and land are valued at $3.75 million. The remaining buildings were scheduled for a tax sale on November 10, 2010. A previous tax auction on the property had been scheduled in the summer of 2009 but was later canceled after an agreement was reached between First National Development and its lender, Rockland Trust.
+: First National has numerous problems in complying with city codes and paying its debts, according to city records. Tax records show it owes more than $262,000 in back real-estate taxes, court costs, fines and liens. The building and land are valued at $3.75 million. The remaining buildings were scheduled for a tax sale on November 10, 2010. A previous tax auction on the property had been scheduled in the summer of 2009 but was later canceled after an agreement was reached between First National Development and its lender, Rockland Trust.
 
 2010, October 22
 : State Fire Marshal Jack Chartier said that the results of the sweeping investigation by federal, state, and local fire officials revealed “multiple points of origin within the building.” Fire Chief William Sisson noted that some 200 firefighters from eight different communities had responded to the late-night blaze, which took several days to completely extinguish.
@@ -178,7 +178,7 @@ Since we at A.I.R. have mixed feelings about the original developers of this pro
 
 
 #### Sources
-+ Stories from the Pawtucket Times written by Douglas Hadden used for reference, but links to the orignal source material has been lost. August 3, 2005; August 10, 2005; and January 18, 2006. A former version of ArtInRuins’s Union Wadding page was used for reference, captured December 23, 2020 from https://web.archive.org/web/20100922165149/http://artinruins.com/arch/?id=decay&pr=unionwadding
++ Stories from the Pawtucket Times written by Douglas Hadden used for reference, but links to the orignal source material have been lost. August 3, 2005; August 10, 2005; and January 18, 2006. A former version of ArtInRuins’s Union Wadding page was used for reference, captured December 23, 2020 from https://web.archive.org/web/20100922165149/http://artinruins.com/arch/?id=decay&pr=unionwadding
 + Original listing for the property on Craigslist: https://providence.craigslist.org/off/219021887.html, link since dead and unrecoverable
 + Union Wadding thread on the UrbanPlanet forum, https://www.urbanplanet.org/forums/topic/15077-in-progress-union-wadding/
 + “Owners fined $40,000 for renting unfinished apartments in Pawtucket,” Tom Mooney, Providence Journal, April 4, 2009. Captured December 23, 2020 from https://web.archive.org/web/20090613003339/http://www.projo.com/ri/pawtucket/content/pawtucket_mill_developers_fined_04-04-09_H4DU_v10.34f600a.html
@@ -188,7 +188,7 @@ Since we at A.I.R. have mixed feelings about the original developers of this pro
 + “Union Wadding and N.E. Machine make National Historic Register,” Pawtucket Times, April 1, 2011. Captured on December 23, 2020 from https://www.pawtuckettimes.com/union-wadding-and-n-e-machine-make-national-historic-register/article_a76b6b7c-247f-5f02-880f-cc5a61b28627.html
 
 
-__From the Church Hill Industrial District (expanded) nomination form, 2010_
+_From the Church Hill Industrial District (expanded) nomination form, 2010_
 
 Richard Goff established the Union Cotton Manufacturing Co. in Rehoboth, Ma, in 1808. His son Darius (1809-1891) learned the cotton trade in his father's mill. In 1835 Darius and his brother Nelson took ownership of the mill, adapting it for the manufacture of cotton batting, a non-woven fabric used for stuffing and lining. During this period they developed a manufacturing process — an "apron process" that produced batting on a continuous roll.
 
