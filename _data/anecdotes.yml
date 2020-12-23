@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: wanskuck-mills\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: union-wadding\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: wanskuck-mills\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: union-wadding\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,62 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: union-wadding
+  person: 'Carol Thomas' 
+  date: '2018-08-26' 
+  content: 'I worked there in 1971-1972. It was an after school job. I walked there from Tolman HS on Exchange St. First, I’d spend about an hour or so in the Pawtucket Public Library, since my shift didn’t start until 4pm. It was my first job. We made yo-yos and other toys there as well as Christmas decorations. Back in the good old days before foreign competition killed off industries like this in the US. Pawtucket was quite an industrial town back in the day. Textile mills, jewelry factories, etc., all clustered in this downtown area. Now all are gone.'
+
+- property: union-wadding
+  person: 'Michael Wood' 
+  date: '2014-02-14' 
+  content: 'I worked for a company named Camvac and ITW. We were a supplier to U.W. and I was the sales rep with account responsibility. I used to call on Mr. Herb Carlson the purchasing manager. He was a very nice man always honest and above board this was from 1986-2000. I remember taking Herb out to lunch and seeing the TV at this quaint little bar and Grill and that was the day the Challenger exploded. '
+
+- property: union-wadding
+  person: 'Michael Viveiros' 
+  date: '2010-04-11' 
+  content: 'Does any one know if there is anything possibly bad about this building on the opposite side of the condos? such as asphestus or other enviormentaly dangerous things? if so please e-mail me at viveiros_michael [at] yahoo [dot] com'
+
+- property: union-wadding
+  person: 'John G.' 
+  date: '2009-08-01' 
+  content: 'I remember this building since I was young. For 24yrs, My father worked here and it was a nice place. I remember coming here on days and meeting my father and he’d take me inside and I’d meet his boss and co-workers who I got to know over the years. Union Wadding wasn’t far from my house. I remember walking inside with my father and hearing the machines run. At first the loud bangs did frighten me a little, but I got used to it. Because, how friendly everyone was, I felt like I was indeed a member of Union Wadding. My father was very upset when this place closed. Of course, he lost his job. I recently went here to take pictures of the dying building before changes are made.'
+
+- property: union-wadding
+  person: 'Scott' 
+  date: '2009-04-29' 
+  content: 'Hello, I was a tenant of First National Development for a short time. I  honestly believe that a forum such as this while providing historical data for a structure such as this, should also be able to provide a warning for potential tenants of this company. If you research recent activity on the property you would find that First National Development allowed almost 30 people and their pets to move into this building without any certificates of occupancy. They lied to many people to get them into the building as a way of staving off foreclosure, and subsequently put our lives in jeopardy. Fortunately no harm came to any of us that were living there, but practices such as this need to be public record, and they should honestly be run out of town. Should you be interested in any further information please don’t hesitate to contact me at the above listed email address.
+
+
+Thank you, Scott Graham, Former tenant, Union Wadding Lofts, Current tenant, Slater Cotton Mill Lofts'
+
+- property: union-wadding
+  date: '2009-03-09'
+  person: 'Jacob'
+  content: 'Mr. Sauter, “Mary” and others, I would like to hear your stories about working at this plant, or having family/childhood connections to it. I am a multimedia artist and student at Brown working on a project about the history of abandoned structures in the area, and would perhaps like to do interviews. Thanks! richman.jacob@gmail.com'
+
+- property: union-wadding
+  person: 'Harry' 
+  date: '2009-02-10' 
+  content: 'My mother worked there for many years on the production line before retiring in the 80s. She enjoyed the time with her co-workers there, although some of the supervisors were slave drivers! We never ran out of Christmas items such as tinsel and bulbs around my house. They had a loud horn that would go off every day at 3pm. You could hear it for miles away. I knew that my mother would be on her way home shortly afterwards. (walking)'
+
+- property: union-wadding
+  person: 'Stephen Sauter' 
+  date: '2008-04-24' 
+  content: 'I worked there for 3 years in the early 1970s and installed a process and quality control system throughout the plant at that time. I would be happy to talk with someone to give my recollections of the plant at that time.'
+
+- property: union-wadding
+  person: 'Tripp Evans' 
+  date: '2008-01-28' 
+  content: 'My great-grandfather (Roy Tripp Evans) worked here from the 1910s through the 1940s and lived on East Avenue in Pawtucket; my father remembers visiting here in the early 1940s and when Union Wadding still had a few mule-driven carts. '
+
+- property: union-wadding
+  person: 'Mary'
+  content: 'I did work there in the office in the early 60’s. I am interested in the history and development of that site.'
+
+- property: union-wadding
+  person: 'Michael A. Russo'
+  content: 'I have no information to share about the building, but just this weekend I purchased two very large (nearly 3 ft.long) panoramic Blk and Wht photographs of the Union Wadding Company Clambake Outing from an consignment shop here in Branford, CT. It show all the employees in front of the large porch at the Francis Farm. One photo is dated Oct. 7, 1950 and the other is Oct.6, 1951. I was attracted to the large group of cheerful folks and couldn’t pass up the opportunity to purchase them and give them a new home. I visited your website to find out the history of the company and was interested and delighted to learn this company also produced Christmas decorations, as I am a collector of antique and vintage Christmas related items. Good luck collecting information about this building and company. I have never seen the Union Wadding Company’s building, but I do have a clear image of the people that worked within its brick walls. Regards.'
 
 - property: slater-cotton
   person: 'Rick Goyette'
