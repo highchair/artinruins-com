@@ -13,7 +13,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Lewis Downe' ]
-lists: [ 'Providence Industrial Sites 1981' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981' ]
 tags: [ 'Demolition by Fire' ]
 
 NRHP-ref-number:
@@ -43,6 +43,8 @@ images:
   - url: amer-woolen-jh-2009-11-03.jpg
   - url: amer-woolen-jh-2009-11-04.jpg
     alt: 'Trash car enclosure with steel stamped lettering which reads “At the turn of the 20th century, eight thousand people, mostly immigrants, were employed by the five mills in Olneyville. For years the neighborhood had a reputation for labor radicalism. Striking workers won improved conditions and the highest manufacturing wages in the area.”'
+  - url: amer-woolen-jh-2020-12-01.jpg
+    caption: 'All that remains of the Riverside Mills and the American Woolen Company office building are the granite slabs bearing the lettering of these two place and a cannonball style safe that was found in the basement'
   - url: amer-woolen-aerial-1939.jpg
     caption: 'Providence Historical Aerial Viewer 1939'
   - url: amer-woolen-aerial-1972.jpg
