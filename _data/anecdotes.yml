@@ -12,6 +12,21 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: grants-mill
+  person: 'M S' 
+  date: '2017-06-02' 
+  content: 'My great-grandfather, Carl Johnson worked here in the 1920s, possibly as a superintendent. I have a pocket watch that was given to him in 1928 when he left for another opportunity in Blackstone MA.'
+
+- property: grants-mill
+  person: 'Peter Lutz' 
+  date: '2009-01-13' 
+  content: 'This space has currently been sold and is being converted into lofts, I guess this entry should be filed under “Redeveloped”'
+
+- property: grants-mill
+  person: 'Patrick' 
+  date: '2004' 
+  content: 'My aunt owns the building and I work on the second floor. A lot of the units have been converted to be used for office space and/or small manufacturing. There are still many places still availible'
+
 - property: union-wadding
   person: 'Carol Thomas' 
   date: '2018-08-26' 
