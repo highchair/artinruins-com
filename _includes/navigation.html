@@ -9,18 +9,18 @@
               <li>
                 <a href="#">Architecture</a>
                 <ul role="list">
-                  <li><a href="/category/archiveri"><span class="u__sr-only">Archives RI</span><span aria-hidden="true">#ArchiveRI</span></a></li>
+                  <li><a href="{% link category/archiveri.html %}" class="{% if page.permalink == 'category/archiveri/' %}active{% endif %}"><span class="u__sr-only">Archives RI</span><span aria-hidden="true">#ArchiveRI</span></a></li>
                   <li><a href="/arch/?id=redevelop"><span class="u__sr-only">Not In Ruins</span><span aria-hidden="true">#NotInRuins</span></a></li>
-                  <li><a href="{{ '/' | relative_url }}category/thenandnow/" class="{% if page.permalink == 'category/thenandnow/' %}active{% endif %}"><span class="u__sr-only">Then and Now</span><span aria-hidden="true">#ThenAndNow</span></a></li>
+                  <li><a href="{% link category/thenandnow.html %}" class="{% if page.permalink == 'category/thenandnow/' %}active{% endif %}"><span class="u__sr-only">Then and Now</span><span aria-hidden="true">#ThenAndNow</span></a></li>
                   <li><a href="/arch/?id=decay"><span class="u__sr-only">Urban Decay</span><span aria-hidden="true">#UrbanDecay</span></a></li>
-                  <li><a href="{{ '/' | relative_url }}category/usedtobethere/" class="{% if page.permalink == 'category/usedtobethere/' %}active{% endif %}"><span class="u__sr-only">Used To Be There</span><span aria-hidden="true">#UsedToBeThere</span></a></li>
-                  <li><a href="/arch/?id=construction"><span class="u__sr-only">What Are They Building</span><span aria-hidden="true">#WhatAreTheyBuilding</span></a></li>
-                  <li><a href="{% link all-tags.html %}">All Tags</a></li>
+                  <li><a href="{% link category/usedtobethere.html %}" class="{% if page.permalink == 'category/usedtobethere/' %}active{% endif %}"><span class="u__sr-only">Used To Be There</span><span aria-hidden="true">#UsedToBeThere</span></a></li>
+                  <li><a href="{% link category/whataretheybuilding.html %}" class="{% if page.permalink == 'category/whataretheybuilding/' %}active{% endif %}"><span class="u__sr-only">What Are They Building</span><span aria-hidden="true">#WhatAreTheyBuilding</span></a></li>
+                  <li><a href="{% link all-tags.html %}" class="{% if page.permalink == 'tags/' %}active{% endif %}">All Tags</a></li>
                 </ul>
               </li>
-              <li><a href="{% link about.md %}">About</a></li>
-              <li><a href="{% link links.md %}">Similar Projects</a></li>
-              <li><a href="{% link support.md %}">Support A I R</a></li>
+              <li><a href="{% link about.md %}" class="{% if page.permalink == 'about/' %}active{% endif %}">About</a></li>
+              <li><a href="{% link links.md %}" class="{% if page.permalink == 'links/' %}active{% endif %}">Similar Projects</a></li>
+              <li><a href="{% link support.md %}" class="{% if page.permalink == 'support/' %}active{% endif %}">Support A I R</a></li>
               <!--<li><a href="#">Contact</a></li>-->
               <li class="google-search">
                 <form class="google-search__form" action="https://google.com/search" method="get">

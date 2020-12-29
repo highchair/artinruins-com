@@ -3,14 +3,13 @@ title: "M.N. Cartier & Sons"
 slug: m-n-cartier
 aka: "American Building Company, John Hancock Mutual Life Insurance Company"
 date-modified: 2020-11-23 12:00
-update: '<b>Demolition by Neglect:</b> Heavy wind and rain in the past few days has caused part of the roof to collapse on this structure'
 
 built: '1892'
 demolition: '2020'
 redeveloped: 
 decade: '1890-1899'
 date-added: '2006'
-categories: [ '#DemolitionAlert', '#UsedToBeThere' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -23,7 +22,7 @@ longitude: '-71.4291047'
 gmap: "https://www.google.com/maps/place/1107+Westminster+St,+Providence,+RI+02909/@41.8172654,-71.4291047,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445768008e1b1:0x760c6bed5251dc0f!8m2!3d41.8172654!4d-71.426916"
 
 meta: ""
-excerpt: "A neglected little brick Greek-revival building vacant and boarded up since a fire in the 1990s"
+excerpt: "A neglected little brick Greek-revival building vacant and boarded up since a fire in the 1990s succumbed to extensive roof damage in 2020"
 
 thumbnail: 1107-westminster-jh-2020-11-02.jpg
 
@@ -52,7 +51,7 @@ images:
 imagescredit: 'Contribution from Peter Landry'
 ---
 
-### Last Tenant
+### Reason for Demolition
 
 City records from 1983 put a restaurant on the first floor of this building with a night club on the second floor. Previous to that, many businesses came and went inside this modest structure. The owner for which it is named apparently only occupied it for a few years. 
 
@@ -67,7 +66,7 @@ The building is a red-brick-clad 2-story square plan with a central entrance. It
 
 Since about 2003, a vinyl sign on the side of the property advertised impending condominium apartments. That was the thing to do, of course, in the early aughts. We love how the year had quotes around it, because, “2004” came and went without any sign of redevelopment at this location. 
 
-In November 2020, a heavy rainstorm damaged the roof and part of it collapsed. 20+ years of neglect has taken its toll and has taken the building down with it. 
+In November 2020, a heavy rainstorm damaged the roof and part of it collapsed. 20+ years of neglect took its toll and took the building down with it. It was razed in late November, 2020. 
 
 
 ### History
