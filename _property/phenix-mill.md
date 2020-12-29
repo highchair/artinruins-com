@@ -13,7 +13,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Warwick, RI' ]
 designers: []
-lists: []
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Demolition by Fire' ]
 
 address: '785 Main Street, West Warwick RI'
@@ -69,7 +69,7 @@ _From “Historic and Architectural Resources of West Warwick, Rhode Island: A P
 
 Set in the northwest corner of West Warwick, the village of Phenix had its origin when a dam and a cotton mill were built here by the Roger Williams Manufacturing Company in 1810. Following an 1821 fire, the mill was rebuilt with an improved water-power system on a site between Main Street and the river. 
 
-[…] As in other villages, housing for mill works was constructged in Phenix. The houses at 776-78 and 780-82 Main Street (c. 1822) are typical — plain, functional dwellings — 
+[…] As in other villages, housing for mill works was constructed in Phenix. The houses at 776-78 and 780-82 Main Street (c. 1822) are typical — plain, functional dwellings — 
 and may be the oldest houses of their type in West Warwick. […] By 1850, Phenix was a well established village with mills, mill housing along Main Street and the side streets north of the river, many private residences especially on the former Atwood estate, broken up in 1825, churches, two banks, and a post office.
 
 […] Mill operations at Phenix remained in the hands of the Lonsdale Company and its corporate successors well into the twentieth century. […] While maintaining a steady pace of production through the nineteenth and early twentieth centuries, the Phenix mills never exceeded a moderate capacity. In 1882, for example, the Centerville, Crompton, and Arctic Mills had far greater capacity, and the Natick Mills ran over four times as many spindles as Phenix.

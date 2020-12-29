@@ -7,13 +7,14 @@ date-modified: 2020-12-18 12:00
 built: '1888–1889'
 demolition: 
 redeveloped: '2003–2004'
+units: '25'
 decade: '1880-1889'
 date-added: '2003'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Church Hill Industrial District', 'National Register of Historic Places' ]
+lists: [ 'Church Hill Industrial District', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: []
 
 NRHP-ref-number: '82000135 (contributing)'

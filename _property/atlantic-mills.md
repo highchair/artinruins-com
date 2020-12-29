@@ -1,7 +1,7 @@
 ---
 title: "Atlantic Mills"
 slug: atlantic-mills
-aka: 
+aka: 'Atlantic Delaine Company'
 date-modified: 2020-11-15 12:00
 
 built: '1871–1899'
@@ -13,7 +13,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Clifton Hall' ]
-lists: []
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: []
 
 NRHP-ref-number:
@@ -55,6 +55,7 @@ images:
   - url: atlantic-jh-2003-08-21.jpg
   - url: atlantic-jh-2003-08-22.jpg
   - url: atlantic-jh-2003-08-23.jpg
+  - url: atlantic-jh-2020-12-01.jpg
   - url: atlantic-goog-wide-01.jpg
     caption: 'Image from Google Earch circa 2019. The building in the top left fronting Hartford Avenue is independent of the mills.'
   - url: atlantic-goog-wide-02.jpg
@@ -81,12 +82,23 @@ Atlantic Mills is a complex of buildings fronting on Manton Avenue with the Woon
 
 25 Aleppo Street stands a gasometer and storehouse associated with Atlantic Mills. The 50' diameter brick structure was constructed in 1852 and connects to a mid-twentieth century, one-story brick and cinderblock building fronting on Manton Avenue. Originally used as a gasholder by Providence Gas Company (see separate entries) in a process of releasing flammable gas from the heating of coal in a retort, the structure was later used as storage for Atlantic Mills. Gasworks were commonly associated with large-scale textile mills of the nineteenth century. The structure was built at the same time as the earliest of the Atlantic Mill buildings across Aleppo Street. This facility is one of three surviving gas plants in the city of Providence (others are located in Elmwood and the Wanskuck Historic District). Further down Aleppo Street (plat 63, lot 441) is a one-story, hip-roof, brick building with corbelling below a wood cornice. This building was part of the gas manufacturing plant and, along with the gasometer, was part of the Atlantic Delaine complex across the street.
 
-The original Atlantic Delaine factory was located near the junction of Hartford, Plainfield, and Manton streets. The company was founded in 1851 by General C.T. James to manufacture delaine — a wool muslin, which was one of the earliest mass produced worsteds. In 1863 the company commissioned architect Clifton A. Hall to design a new mill. What was built was a three-story, brick, pier-and-spandrel style mill on Manton Avenue. It had an unusual round-domed tower that was topped by a glass lantern. This mill had its own gasometer, as the company chartered its own gas company, and built the complete works to supply light for its mills. The worsted mill contained rooms for worsted, spinning, spoiling, warping, and dressing. It also had a water tank on the roof and fireproof vaults in the basement to store wool and other goods.
+The original **Atlantic Delaine** factory was located near the junction of Hartford, Plainfield, and Manton streets. The company was founded in 1851 by General C.T. James to manufacture delaine — a wool muslin, which was one of the earliest mass produced worsteds. In 1863 the company commissioned architect Clifton A. Hall to design a new mill. What was built was a three-story, brick, pier-and-spandrel style mill on Manton Avenue. It had an unusual round-domed tower that was topped by a glass lantern. This mill had its own gasometer, as the company chartered its own gas company, and built the complete works to supply light for its mills. The worsted mill contained rooms for worsted, spinning, spoiling, warping, and dressing. It also had a water tank on the roof and fireproof vaults in the basement to store wool and other goods.
 
-The company went bankrupt in the Panic of 1873 and the buildings were eventually sold at auction and incorporated as Atlantic Mills by the new owners. In 1882 a new mill was erected next to the 1863 building, and was almost identical (including the domed tower).
+The company went bankrupt in the Panic of 1873 and the buildings were eventually sold at auction and incorporated as **Atlantic Mills** by the new owners. In 1882 a new mill was erected next to the 1863 building, and was almost identical (including the domed tower).
 
 Over time other buildings were added to the complex, including a four-story brick mill for dyeing and finishing, a three-story worsted mill, a brick office building, and another four-story brick mill. This last building had segmental arch windows, granite sills, and a slightly pitched roof.
 
-By the late 1880s the company was known for its worsted and cotton-wrap fabrics. The Atlantic Mills operation was the largest in Providence, employing over 2000 workers and its impressive mill complex was a noted Olneyville landmark. The company expanded into khaki manufacturing at the turn of the twentieth century (which proved successful since the government used khaki to manufacture uniforms). Atlantic Mills was bought out by the A.D. Julliard Company in 1904, who continued to run it for nearly fifty years until it, like many New England textile companies, went out of business (Woodward 1986; RIHPHC 1981; Kulik 1978).
+By the late 1880s the company was known for its worsted and cotton-wrap fabrics. The Atlantic Mills operation was the largest in Providence, employing over 2000 workers and its impressive mill complex was a noted Olneyville landmark. The company expanded into khaki manufacturing at the turn of the twentieth century (which proved successful since the government used khaki to manufacture uniforms). Atlantic Mills was bought out by the **A.D. Julliard Company** in 1904, who continued to run it for nearly fifty years until it, like many New England textile companies, went out of business (Woodward 1986; RIHPHC 1981; Kulik 1978).
 
 Today the former worsted mill complex is used by a variety of commercial enterprises. Some of the businesses located there include a furniture store, a carpet warehouse, and a nightclub.
+
+_From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
+
+The Atlantic Mills, also known as the **Atlantic Delaine Company Mills**, had a national reputation for its worsted and cotton warp fabrics, which were used primarily for womens’ dress goods. In the late 1880s, the **Atlantic Mills**, which then employed 2,100 operatives, housed
+expensive specialized machinery, mainly of foreign manufacture. Steam engines powered 41,620 worsted spindles, 34,368 cotton spindles, 58 double cards, 47 combs, and 2,160 looms. None of the machinery remains. The main 3 1⁄2-story, brick mill is extant. It was built in two stages: the east wing, 162’ X 205’, in 1871, and the west wing, 162’ X 206’, in 1882. The structure has twin cylindrical towers which have domes with copper-trimmed cupolas. Both domes are now painted in red and white stripes, and a granite balustrade separates the domes from the brick towers. 
+
+The original 1851-1852 building, 310’ X 70’, remains, though it has been heavily altered with only one floor left standing. It is now a supermarket. Built at the east side of the 1871 mill is a complex that was used for dyeing, finishing, and crabbing (crabbing is a machine operation using alternating hot and cold running water to reduce shrink age in worsteds and woolens). The mill, built c. 1871, is a 4-story, brick structure, 210’ X 104’. Another worsted mill was constructed behind the domed mill in 1893. It is a 3-story, brick building, 244’ X 100’.
+
+The newest mill on the site was completed in 1899 and is located on Hartford Avenue. This 4-story, brick building has segmental-arch windows, granite sills, and a near-flat roof. Two storage houses remain on Aleppo Street. One is an 1852 circular structure, fifty feet in diameter and originally used as a gas holder; the other is a 1-story brick building, 138’ X 32’. The main mill is now used as a retail store.
+
+Credits: _The Industrial Advantages of Providence, Rhode Island, 1899; Interviews with Peter Parisi, Leo Brynes, 20 February 1976; Associated Mutual Insurance Company Drawings: 6 July 1897, 17 December 1910._

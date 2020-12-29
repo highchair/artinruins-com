@@ -7,13 +7,14 @@ date-modified: 2020-12-19 12:00
 built: '1881'
 demolition: 
 redeveloped: '2007–2009'
+units: '124'
 decade: '1880-1889'
 date-added: '2003'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Church Hill Industrial District', 'National Register of Historic Places' ]
+lists: [ 'Church Hill Industrial District', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: []
 
 NRHP-ref-number: '82000135 (contributing)'
@@ -69,7 +70,7 @@ imagescredit: 'Contribution by Warren Jagger for the National Register nominatio
 
 ### Redevelopment
 
-New Hampshire-based Brady Sullivan Properties purchased the former Slater Cotton Mill in 2007 or 2008. The downtown property is the second historic Rhode Island mill the developer acquired in six months — the first being Carpenter Mills, aka Grant’s Mill, on the West Side of Providence. Brady Sullivan spent $22 million to renovate the 164,175-square-foot mill and created 124 market-rate loft condominiums which opened in 2009. 
+New Hampshire-based Brady Sullivan Properties purchased the former Slater Cotton Mill in 2007 or 2008. The downtown property is the second historic Rhode Island mill the developer acquired in six months — the first being Carpenter Mills, aka [Grant’s Mill]({% link _property/grants-mill.md %}), on the West Side of Providence. Brady Sullivan spent $22 million to renovate the 164,175-square-foot mill and created 124 market-rate loft condominiums which opened in 2009. 
 
 
 ### Current Events

@@ -13,7 +13,7 @@ categories: [ '#UsedToBeThere', '#ArchiveRI' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Stone, Carpenter and Wilson' ]
-lists: [ 'HABS HAER', 'Provisions Warehouse District' ]
+lists: [ 'HABS HAER', 'Provisions Warehouse District', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Demolition by Neglect' ]
 
 NRHP-ref-number:

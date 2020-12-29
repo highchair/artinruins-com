@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
 designers: [  ]
-lists: [ 'Providence Industrial Sites 1981' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981' ]
 tags: [ 'Demolition by Progress' ]
 
 address: '387 Charles Street, Providence RI'

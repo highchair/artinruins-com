@@ -13,7 +13,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Cranston, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'A.I.R.’s Lead Brick List' ]
+lists: [ 'A.I.R.’s Lead Brick List', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Demolition by Neglect' ]
 
 NRHP-ref-number:

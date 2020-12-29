@@ -6,14 +6,15 @@ date-modified: 2020-12-23 12:00
 
 built: '1847–1870'
 demolition: 'post-fire 2010'
-redeveloped:
+redeveloped: '2006-2015'
+units: '200'
 decade: '1870-1879'
 date-added: '2007'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Church Hill Industrial District', 'National Register of Historic Places' ]
+lists: [ 'Church Hill Industrial District', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Demolition by Fire' ]
 
 NRHP-ref-number: '10001218 (expanded)'

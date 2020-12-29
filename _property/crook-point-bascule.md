@@ -4,7 +4,7 @@ slug: crook-point-bascule
 aka: "Seekonk River drawbridge S.S. K-315, Standing Bridge, the “Stuck-up Bridge”"
 date-modified: 2020-11-25 12:00
 
-built: '1908'
+built: '1907'
 demolition: 
 redeveloped: 
 decade: '1900-1909'
@@ -13,7 +13,7 @@ categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: []
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Bridges' ]
 
 NRHP-ref-number:
@@ -75,6 +75,11 @@ The populace generally has fond feelings towards the bridge and people think of 
 ### History
 
 The bridge has many names, some technical but most colloquial: The bridge opened with the name “Crook Point Bascule Bridge” ([Bascule Bridge definition in Wikipedia](//en.wikipedia.org/wiki/Bascule_bridge){:target="_blank"}), which is technically a “Scherzer Rolling Lift Bridge”; the DOT knows the bridge as the Seekonk River Drawbridge S.S. K-315; most of the rest of us call it the Drawbridge, or the Seekonk River Bridge, or the Stuck-Up Bridge, or simply the Up Bridge. It was built around 1908 – at the same time as the [East Side Railroad Tunnel]({% link _property/east-side-train-tunnel.md %}) – to connect the East Side and Downtown Providence with East Providence. The bridge served the Warren and Bristol train lines running east to west, and from Union Station, could connect out to the Providence and Worcester.
+
+_From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
+
+The Phoenix Bridge Company, of Phoenixville, Pennsylvania, built this single leaf, bascule railroad bridge over the Seekonk River in 1907. Approached by deck plate girder spans resting on cut-stone piers, the lift portion spans 200 feet. The bridge was designed by the Scherzer Rolling Lift Bridge Company of Chicago and carried the tracks of the Providence, Warren & Bristol line. Rolling lift bridges of this type were first developed in Chicago in the early 1890s. The bridge, the only of its type in the state, is still in use. 
+
 
 #### Links
 

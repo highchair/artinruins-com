@@ -7,13 +7,14 @@ date-modified: 2020-12-14 12:00
 built: '1862–1906'
 demolition: 
 redeveloped: '2019-2020'
+units: '225'
 decade: '1860-1869'
 date-added: '2004'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'North End' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Wanskuck Historic District', 'National Register of Historic Places' ]
+lists: [ 'Wanskuck Historic District', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: []
 
 NRHP-ref-number: '83003867 (contributing)'

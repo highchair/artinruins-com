@@ -1,7 +1,7 @@
 ---
-title: "Eagle Square"
+title: 'Valley Worsted Mills'
 slug: eagle-square
-aka: 'Valley Worsted Mills'
+aka: "Eagle Square"
 date-modified: 2020-05-02 21:50
 
 built: 1866-1875
@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'A.I.R.’s Lead Brick List', 'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
+lists: [ 'A.I.R.’s Lead Brick List', 'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Demolition by Progress' ]
 
 address: '589 Atwells Ave, Providence RI'
@@ -129,6 +129,13 @@ The Valley Worsted Mills were founded in 1842 by John Giles, one of the earliest
 By 1868 the mill turned out 2000 pounds of yarn a day. In the late 1880’s the mill employed 450 workers, and by the 1890’s it was at the height of its productivity. It upgraded its equipment with modern machinery; 120-horsepower engines were replaced by three 250-hp motors and several upright boilers. Soon the mill produced 100,000 pounds of worsted yarn a month.
 
 In 1899 the American Woolen Co. bought the mill (as well as several others in or near Olneyville) and ran it until 1928, when they abandoned it. The Valley mill was sold to a realtor in 1931, who leased space to other textile companies, trucking businesses, and jewelry firms.
+
+_From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
+
+The Valley Worsted Mills were founded in 1842, one of the first worsted mills in the country. Worsted yarns were spun for consumption by hand knitters during the early years when the machinery was powered by oxen. The plant was destroyed by fire in 1866 and was immediately rebuilt to house 1,000 braiding machines. In 1899, the mills became part of the [American Woolen Company]({% link _property/american-woolen-riverside-mills.md %}). At this time, the Valley Worsted Mills were equipped with twenty-three sets of worsted cards, nineteen Noble combs and 9,840 spindles, along with reeling, winding, and spooling machines. Over 450 employees were involved in the production of 100,000 pounds of worsted yarn a month. Three Greene engines, of 250 horsepower each; three up right boilers and five horizontal boilers provided the power. 
+
+Today the two main brick buildings, which originally were three and one-half stories high, are arranged one behind the other. The top floor of the second structure has been removed. The unaltered mill has segmental-arch windows with brick sills and a low-pitched roof. One of the two wooden storehouses remains but is covered with a simulated brick facing. The 1-and 2-story, brick buildings located behind the main mills are also part of the Valley Worsted complex. These smaller buildings were used for scouring, drying, and dyeing. Several varied firms now occupy the buildings.
+
 
 ### In The News
 
