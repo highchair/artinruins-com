@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: union-wadding\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: royal-mill-ace-dyeing\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: union-wadding\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: royal-mill-ace-dyeing\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,18 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: dyerville-mill
+  person: 'Chris Suchmann'
+  date: '2012-03-19'
+  content: 'The Cove Center and The Groden Network Offices have been occupying Dyerville Mill since 2003. During the 2009 flood a river ran through it, but it is back together and better than before. The Woonasquatucket River Watershed Council in conjunction with the NRC removed the remains of the old dam so the alewifes and friends can now swim upstream. Cowan Plastics filed for bankruptcy when they lost a patent dispute over the Mosquito Magnet. The owner is currently in negotiations with new tenants.
+
+
+Also, someone recently purchased 610 Manton Ave. which used to be connected by a bridge to the mill building.'
+
+- property: dyerville-mill
+  person: 'P Duhaime'
+  content: 'I grew up in the neighborhood in the 1950s and 60s. I can remember playing along the railroad tracks and near the falls of the dam we called the “Bulk”.'
 
 - property: royal-mill-ace-dyeing
   person: 'Jack Lancellotta'
