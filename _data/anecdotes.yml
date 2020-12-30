@@ -12,6 +12,21 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: prince-hall-masonic
+  person: 'Brent Runyon'
+  date: '2020-12-29'
+  content: 'Doesn’t this building resemble the <a href="//commons.wikimedia.org/wiki/File:Almy_Street_School,_Providence,_Rhode_Island.jpg" target="_blank">Almy Street School</a>? If the Sanborn Map circa 1895 is correct, it seems likely that these schools had similar floor plans.'
+
+- property: washburn-wire
+  person: 'Ann Pelicano Goff'
+  date: '2020-12-27'
+  content: 'I took a ride by the area today, with my husband, and was hoping to reminisce about the place where my dad — Sebastião Pelicano — worked for many years. My Dad worked at Washburn Wire for as long as I can remember and was laid off before it became RI Forging Steele. He was a very proud steelworker. His boss was Gene Silva, who was also a very good friend to my father. I remember him speaking about Peter McNeil as well. I vaguely remember the day when they became unionized. He was very happy when the strike ended. He returned to work as a security guard until he retired in January, 1993. He passed away in July, 1993. I’m glad I searched and found this site and the photos. Thank you. It helped me with my trip down memory lane today. :-)'
+
+- property: apex-pawtucket
+  person: 'Maria Elena Arata'
+  date: '2020-12-26'
+  content: 'I worked at the Central Avenue store in the early 1960s part time in the stock room; I remember my boss was Ralph Goodreau and I really enjoyed my time there. I worked for a short time on the floor when needed until my mother passed a few months later. Apex was a great place to work and a very reputable store. I was grateful for the opportunity.'
+
 - property: dyerville-mill
   person: 'Chris Suchmann'
   date: '2012-03-19'
