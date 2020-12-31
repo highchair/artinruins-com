@@ -14,9 +14,10 @@ neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Alpheus C. Morse', 'Thomas A. Tefft' ]
 lists: [ 'HABS HAER', 'Moshassuck Square Historic District', 'National Register of Historic Places', 'Providence’s Five Industrial Wonders' ]
-tags: [ 'Demolition by Neglect', 'Demolition by Fire' ]
+tags: [ 'Demolition by Neglect', 'Demolition by Fire', 'The Superlatives' ]
+superlative: 'At the turn of the 20th century, the largest screw manufacturer in the country'
 
-NRHP-ref-number: 709380013
+NRHP-ref-number: '709380013 (contributing)'
 added-to-NRHP: '1970'
 
 address: '21 Stevens Street, Providence RI'

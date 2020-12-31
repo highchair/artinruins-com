@@ -14,7 +14,8 @@ neighborhoods: []
 town: [ 'Massachusetts' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: []
+tags: [ 'The Superlatives' ]
+superlative: 'In 1894, this was the first direct investment by a British manufacturer in the United States'
 
 NRHP-ref-number:
 added-to-NRHP:

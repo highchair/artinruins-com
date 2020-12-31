@@ -14,7 +14,8 @@ neighborhoods: []
 town: [ 'North Smithfield, RI' ]
 designers: []
 lists: []
-tags: [ 'Drive Ins' ]
+tags: [ 'Drive Ins', 'The Superlatives' ]
+superlative: 'Screen number one is 60 by 120 feet, the largest in RI'
 
 address: '1193 Eddie Dowling Highway, North Smithfield RI'
 latitude: '41.9571324'

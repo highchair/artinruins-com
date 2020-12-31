@@ -14,7 +14,8 @@ neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Frank P. Sheldon & Son' ]
 lists: [ 'National Register of Historic Places', 'Providence’s Five Industrial Wonders', 'Providence Industrial Sites 1981' ]
-tags: [ 'Demolition by Progress' ]
+tags: [ 'Demolition by Progress', 'The Superlatives' ]
+superlative: 'At the turn of the 20th century, the largest metal-working foundries in the world'
 
 NRHP-ref-number: 'Eligible, not listed'
 added-to-NRHP: '1981'

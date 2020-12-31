@@ -14,7 +14,8 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: []
 lists: [ 'Did You Know?' ]
-tags: [ 'Sports Entertainment' ]
+tags: [ 'Sports Entertainment', 'The Superlatives' ]
+superlative: 'With a capacity of 13,000 spectators, it was the largest bicycle track in the country during the 1920s'
 
 address: '50 Ann Mary Street, Pawtucket RI'
 latitude: '41.85611'

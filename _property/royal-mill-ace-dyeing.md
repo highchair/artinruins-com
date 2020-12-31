@@ -15,7 +15,8 @@ neighborhoods: []
 town: [ 'Warwick, RI' ]
 designers: [ 'The Architectural Team', 'SBER' ]
 lists: [ 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: []
+tags: [ 'The Superlatives' ]
+superlative: 'Under the ownership of B.B. and R. Knight, part of the largest textile manufacturers in the world'
 
 NRHP-ref-number: '04000377 (individual)'
 added-to-NRHP: 'April 29, 2004'

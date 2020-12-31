@@ -13,7 +13,8 @@ neighborhoods: []
 town: [ 'Cranston, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Demolition by Progress', 'Demolition by Neglect' ]
+tags: [ 'Demolition by Progress', 'Demolition by Neglect', 'The Superlatives' ]
+superlative: 'By 1915, the largest lager beer brewery in New England'
 
 address: '5 Garfield Ave, Cranston RI'
 latitude: '41.8024603'

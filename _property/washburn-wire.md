@@ -14,7 +14,8 @@ neighborhoods: []
 town: [ 'East Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: []
+tags: [ 'The Superlatives' ]
+superlative: 'Under the leadership of Eugene Phillips, it became the largest steel and copper wire manufacturer in the world.'
 
 NRHP-ref-number:
 added-to-NRHP:

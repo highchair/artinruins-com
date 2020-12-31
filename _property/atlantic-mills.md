@@ -14,7 +14,8 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Clifton Hall' ]
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: []
+tags: [ 'The Superlatives' ]
+superlative: 'By the late 1880s, its production of worsted and cotton-wrap fabric was the largest in Providence, employing over 2000 workers'
 
 NRHP-ref-number:
 added-to-NRHP:

@@ -14,7 +14,8 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Demolition by Neglect' ]
+tags: [ 'Demolition by Neglect', 'The Superlatives' ]
+superlative: 'City directories listed the company as the largest receivers of roofing materials in New England'
 
 address: '1107 Westminster Street, Providence RI'
 latitude: '41.8172654'

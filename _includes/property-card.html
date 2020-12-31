@@ -29,7 +29,15 @@
             {%- endif -%}
           {%- endif -%}
           {% if home == "Yes" %}<span class="js-humanize-date"><i>Updated {{ item.date-modified | date: "%e %B, %Y" }}:</i></span> {% endif %}
-          {% if item.update %}{{ item.update }}{% else %}{{ item.excerpt }}{% endif %}
+          {%- if item.tags contains "The Superlatives" -%}
+            {{ item.superlative }}
+          {%- else -%}
+            {%- if item.update -%}
+              {{ item.update }}
+            {%- else -%}
+              {{ item.excerpt }}
+            {%- endif -%}
+          {%- endif -%}
         </p>
         <p class="taxonomy__meta">
         {%- if item.categories.size > 0 -%}
