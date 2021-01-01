@@ -13,7 +13,7 @@
 # Check validity with http://www.yamllint.com/
 
 - property: prince-hall-masonic
-  person: 'Brent Runyon'
+  person: 'Kim Smith Barnett'
   date: '2020-12-29'
   content: 'Doesn’t this building resemble the <a href="//commons.wikimedia.org/wiki/File:Almy_Street_School,_Providence,_Rhode_Island.jpg" target="_blank">Almy Street School</a>? If the Sanborn Map circa 1895 is correct, it seems likely that these schools had similar floor plans.'
 

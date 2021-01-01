@@ -5,10 +5,10 @@ aka:
 date-modified: 2020-12-28 12:00
 update: 'A fire started in the basement on Christmas morning and after a 3-alarm response from fire department, we are not sure if the building can be saved or not.'
 
-built:
+built: 'circa 1890'
 demolition:
 redeveloped:
-decade:
+decade: '1890–1899'
 date-added: '2020'
 categories: [ '#DemolitionAlert' ]
 neighborhoods: [ 'South Providence' ]
@@ -44,6 +44,8 @@ images:
   - url: prince-hall-jh-2020-12-05.jpg
   - url: prince-hall-jh-2020-12-06.jpg
   - url: prince-hall-jh-2020-12-07.jpg
+  - url: 1895-sanborn-map.jpg
+    caption: 'A portion of an 1895 Sanborn Insurance Map showing only the label “School” where Prince Hall is located now. The building outline is the same, leading us to believe it is the same structure.'
 
 imagescredit: 'Contribution from Google Streetview'
 
@@ -61,7 +63,7 @@ The [Most Worshipful Prince Hall Grand Lodge of Rhode Island](//princehallmasons
 
 ### History
 
-Not much about the building itself, yet. A quick survey of Sanborn Maps reveal that the building was a former school of some kind. We are working on finding more sources to verify when the building was built and what its original purpose was. The Masons became owners in 1966. 
+Not much about the building itself, yet. A quick survey of [Sanborn Maps](#photo-10) reveal that the building was a former school of some kind. We are working on finding more sources to verify when the building was built and what its original purpose was. The Masons became owners in 1966. 
 
 #### Prince Hall
 
