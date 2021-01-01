@@ -27,11 +27,11 @@ excerpt: "These three restaurants are a gateway to memories of mid-century immig
 thumbnail: mee-hong-placesetting-1938.jpg
 
 images:
-  - url: mee-hong-placesetting-1938.jpg
-    caption: 'The “Chow Mein, Chicken Wings, and Cheeseburgers” exhibit at the Culinary Arts Museum at Johnson & Wales University featured a 1938 table and setting from Mee Hong restaurant. Providence Journal file photo November 10, 2016.'
-    alt: 'Three different Chinese food restaurants. Mee Hong was inside a two story commercial building with an enameled steel facade. Two large picture windows have large rounded outside corners while the central double door entrance has a split circle window down the center of it. A very large neon sign occupies the entire second story of the facade.'
+  # url: mee-hong-placesetting-1938.jpg
+  #  caption: 'The “Chow Mein, Chicken Wings, and Cheeseburgers” exhibit at the Culinary Arts Museum at Johnson & Wales University featured a 1938 table and setting from Mee Hong restaurant. Providence Journal file photo November 10, 2016.'
   - url: mee-hong-jb-1975.jpg
     caption: 'Black and white film scan of a photo taken in 1975 by John Ballantine'
+    alt: 'Three different Chinese food restaurants. Mee Hong was inside a two story commercial building with an enameled steel facade. Two large picture windows have large rounded outside corners while the central double door entrance has a split circle window down the center of it. A very large neon sign occupies the entire second story of the facade.'
   - url: lukes-postcard-undated.jpg
     alt: 'Luke’s restauirant was located on the first floor of a taller commercial office building. A large neon sign took up most of the space above the entrance and retail window.' 
   - url: lukes-location-2019.jpg
@@ -47,7 +47,7 @@ images:
   - url: port-arthur-gold-coin-dorrance-weybosset.jpg
     caption: 'Many comments mentioned Port Arthur, seen here on the corner of Dorrance and Westminster. Date unknown.'
 
-imagescredit: 'Contributions from John Ballantine, <a href="//provlibdigital.org/islandora/object/islandora%3A5578"> target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, and Google Streetview.'
+imagescredit: 'Contributions from John Ballantine, <a href="//provlibdigital.org/islandora/object/islandora%3A5578" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, and Google Streetview.'
 
 external:
   - source: 'Photos: Restaurants in Providence, Providence Journal'
