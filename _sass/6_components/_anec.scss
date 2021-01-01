@@ -144,32 +144,79 @@
     
     &__wrapper {
       background-color: rgba(palette('brand-teal'), 0.1);
+      
+      p {
+        max-width: em(680);
+      }
     }
     
     &__title {}
   }
 }
 
-//.form {
-//  
-//  &__group {
-//    
-//    &__wrapper {}
-//  }
-//  
-//  &__input {
-//    
-//    &--email {}
-//    
-//    &--text {}
-//    
-//    &--url {}
-//    
-//    &--area {}
-//  }
-//  
-//  &__submit {
-//    
-//    &__group {}
-//  }
-//}
+.form {
+  
+  fieldset {
+    background-color: transparent;
+    border: 0;
+    margin: -1rem -1rem 0;
+    padding: 1.5rem 1rem 0;
+    transition: $transition;
+    
+    &:focus-within {
+      background-color: rgba(palette('brand-teal'), 0.1);
+    }
+  }
+  
+  &__group__wrapper {
+    
+    // When the layout supports a 3-column footer, it can support 2-column groups
+    @include layout-columns() {
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: flex-start;
+      justify-content: space-between;
+      
+      > .form__group {
+        flex: 0 0 48.5%;
+        width: 48.5%;
+      }
+    }
+  }
+  
+  &__group {
+    padding-bottom: 0.75rem;
+  }
+  
+  label {
+    @extend .o__title--sm;
+    display: block;
+    color: palette(gray-700);
+    padding-bottom: 0.25rem;
+  }
+  
+  input:not(.btn),
+  textarea {
+    border: 2px solid rgba(palette('brand-teal'), 0.25);
+    display: block;
+    padding: 0.5rem 0.75rem;
+    width: 100%;
+    
+    &:focus {
+      border-color: palette('brand-orange');
+      box-shadow: none;
+      outline: none;
+    }
+  }
+  
+  // Honeypot
+  &__pollen {
+    @include sr-only;
+  }
+  
+  &__submit__group {
+    padding-top: 1rem;
+  }
+  
+  &__submit {}
+}

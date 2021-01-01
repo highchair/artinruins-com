@@ -185,15 +185,15 @@ layout: default
         </main>
 
         <aside id="anecdotes" class="anec">
-          {% if anecdotes.size > 0 %}
-            {% assign anecdotes_text = 'Anecdote' %}
-            {% if anecdotes.size > 1 %}
-              {% assign anecdotes_text = 'Anecdotes' %}
-            {% endif %}
+          {%- if anecdotes.size > 0 -%}
+            {%- assign anecdotes_text = 'Anecdote' -%}
+            {%- if anecdotes.size > 1 -%}
+              {%- assign anecdotes_text = 'Anecdotes' -%}
+            {%- endif -%}
           <div class="u__vertical__p u__gutter__p">
             <h2 class="o__title--sm anec__title"><span role="text">{{ anecdotes.size }} {{ anecdotes_text }} <span class="u__sr-only">from people like you</span></span></h2>
             <ul class="u__list__unstyled anec__list" role="list">
-            {% for anecdote in anecdotes %}
+            {%- for anecdote in anecdotes -%}
               <li id="{{ anecdote.date | date: "%Y-%m-%d" }}" class="anec__list__item">
                 <figure class="anec__dote">
                   <blockquote class="anec__dote__content">
@@ -204,10 +204,19 @@ layout: default
                   </figcaption>
                 </figure>
               </li>
-            {% endfor %}
+            {%- endfor -%}
             </ul>
           </div>
-          {% endif %}
+          {%- endif -%}
           
-          {% include anecdote-email.html %}
+          <section id="add-your-anecdote" class="u__vertical__p u__gutter__p rhythm anec__form__wrapper">
+            <h2 class="o__title--sm anec__form__title">Leave an Anecdote</h2>
+            <p>The information about each building grows as visitors let us know about their experiences. Did you or a member of your family work here? Did you grow up near it as a child? Let us know. All entries will be moderated and may be posted in an edited form. We will use your name unless you tell us otherwise. <i>We will not make your email public</i>.</p>
+            <form id="anecdote-form" name="anecform" method="POST" action="/assets/partials/mailer.php" class="form anec__form">
+              <input type="hidden" id="property" name="property" value="{{ page.slug }}">
+              <div id="js__insert-form">
+                <button id="js__load-form" type="button" class="btn btn--primary">Load the Anecdote form</button>
+              </div>
+            </form>
+          </section>
         </aside>

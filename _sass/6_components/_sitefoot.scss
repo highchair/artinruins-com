@@ -17,7 +17,7 @@
   
   &__wrapper {
     
-    @include breakpoint-up(x-large) {
+    @include layout-columns() {
       display: flex;
       flex-flow: row nowrap;
       align-items: stretch;
