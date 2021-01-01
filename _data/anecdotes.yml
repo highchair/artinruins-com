@@ -11,6 +11,30 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+- property: texaco-station
+  person: 'Marc Berman'
+  date: '2010-03-13'
+  content: 'What’s goin’ on with the sign lettering anyway? Was the person who installed them cross-eyed? I can’t imagine how they would be attached to the building in such a way as to allow that much movement? Oh well.'
+
+- property: texaco-station
+  person: 'Chris'
+  content: 'I used to drive by this building when I lived in Cranston. A great example of an old-style Texaco gas station. I’m happy that it has survived, and is being put to good use.'
+
+- property: engine-number-9
+  person: 'S Wallace'
+  content: 'R Anastasi is referring to a different firehouse that was converted to a recording studio, <a href="//www.mixonline.com/recording/sound-station-seven-374342" target="_blank">Sound Station Seven</a> (789 Atwells Avenue). Sound Station Seven closed a couple of years ago (say, 2003?) and was located off Atwells near Amherst St.'
+
+- property: engine-number-9
+  person: 'R Anastasi'
+  content: 'I first found appreciation for this building when I arrived at a party during a very cold winter (i think it was 1999). The Itchies were playing inside. It was a Christmas party for the local music scene (back when things were fun). We ate, we drank, we talked. Some slept over since there were beds. Some recorded music at the studio. It was a fun place and I am surprised no one mentioned that it was a recording studio not so long ago.'
+
+- property: national-providence-worsted
+  person: 'Shirley Hanley'
+  content: 'My grandmother (an immigrant from England) worked at the mills as a burler. She worked there all during World War I and II. She would purchase some of the fabric and it was fantastic.'
+
+- property: national-providence-worsted
+  person: 'Andrew H. Panciotti Sr.'
+  content: 'My wife and I operated our business at this location. Our experience in the redelopment process was verry unpleasant. I don’t believe that any of the stated goals or assurances given were acomplished. I do not wish to speak for others, however many of the busineses, residents,and members of the community were not included or even considered. I sincersly believed and had hoped the Project as presented would succeed. To me it represents tremendous opportunity lost and I feel very said to say this. I wish it wasn’t true. AUDI ALTERAM PARTEM'
 
 - property: prince-hall-masonic
   person: 'Kim Smith Barnett'
@@ -61,6 +85,11 @@ Best Wishes and continued success to all.<br>
 Yours in Public Service,<br>
 John J. “Jack” Lancellotta, Ex. Director<br>
 JAYCEE Education &amp; Library Foundation'
+
+- property: royal-mill-ace-dyeing
+  person: 'Marie'
+  date: '2020-11-13'
+  content: 'I just got to visit the inside of the mill on November 12 ,2020. My grandfather, Joseph Denault, was one of the men who built the smokestack,  my mom a bobbin filler and my aunt a weaver worked here in the 20’s and 30’s. Thank you for giving me an onsite of their lives working here.'
 
 - property: royal-mill-ace-dyeing
   person: 'Lynn Paola' 
