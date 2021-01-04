@@ -49,6 +49,21 @@ While Eagle Square was a failure in some ways — artists were forced to move o
 
 We have been documenting the region since 2002 and collecting the histories that make Rhode Island special in the hopes that we may learn from, and preserve, our past. 
 
+## Press
+
++ _“RIGOR MORTAR: In Conversation With J Hogue,”_ The College Hill Independent, Ben Berke, December 4, 2015. [www.theindy.org/753](//www.theindy.org/753){:target="_blank"}
++ Article: _Designers Come Together in Renovated mini-Arcade_, Natalie Myers, Providence Business News, January 2007
++ Article: _Redeveloping Memories_, Vikki Warner, Providence Monthly, June 2009
++ Article: Owner and designer of ArtInRuins, owner of Highchair designhaus, Providence Business News, Providence RI, July 2006
++ Article: Owner and designer of ArtInRuins, Pawtucket Times’ Special Section, _Momentum_, Pawtucket RI, May 2006
++ Author for Exhibition Catalog: _Scott Lapham Bearing Witness_, photography solo show, October 2005
++ Interview: _Urban Revival_, Lauren Rosati, Providence Monthly, April 2005
++ Contributing author: _How to keep the Arts from Dying of Old Age_, AS220 Newsletter, March 2005
++ Interview: _The Apex of Potential_, Tim Lehnert, Providence Phoenix, December 2004
++ Interview: _Change in Scenery_ (subject: curator for the “Transformation” art show), Alison Fields, Providence Monthly, May 2004
++ Curator: _Transformation (The Inevitability of Change: An exploration of urbanism, memory, and romanticism through photography, art, and architecture)_, AS220 Project Space gallery at Union Station, April 2-May 21, 2004
++ Interview: _Focus on Downcity_, Laura Kline, Providence Monthly, March 2004
+
 ## Our People
 
 ArtInRuins was founded by J. Hogue, Sarah Clover, and Kathleen Griffin. Sarah contributed many photos in the early years, and Kathleen contributed writing about the artists that lived in these spaces for sections called “Interviews” and “Stories.” It proved to be too difficult to continue writing and interviewing people, and those stories have been archived. Sarah has moved on to other parts of the country with occasional visits to Providence and Kathleen is an artist living and working in New York. Both Sarah and Kathleen were graduate students at RISD from 1999–2001. 

@@ -122,7 +122,7 @@ The property was purchased by Textile Properties Inc. in 1954 and sold that same
 
 A lengthy story was written by Ian Donnis for the Providence Phoenix in February 2003 detailing the issues of gentrification in the Olneyville/Valley neighborhood. Mill renovations were hot, with many underway or nearing completion, pushing out small businesses or artists that would occupy older un-renovated mill spaces. 
 
-<details markdown="1">
+<details markdown="1" class="rhythm">
   <summary>Read the full article</summary>
 
 #### Where Will People Live?

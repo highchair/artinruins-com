@@ -13,7 +13,7 @@ gem "kramdown", ">= 2.3.0"
 gem "rake", ">=10.0.0"
 gem "sassc",">=2.4.0"
 gem "uglifier",">=4.1.0"
-gem "nokogiri", ">=1.10.4"
+gem "nokogiri", ">= 1.11.0.rc4"
 gem "activesupport", ">=6.0.3.1"
 
 #group :jekyll_plugins do
