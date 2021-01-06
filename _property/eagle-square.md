@@ -4,10 +4,10 @@ slug: eagle-square
 aka: "Eagle Square"
 date-modified: 2020-05-02 21:50
 
-built: 1866-1875
-demolition: 2001-2002
+built: '1866-1875'
+demolition: '2001-2002'
 decade: '1860-1869'
-date-added: 2002
+date-added: '2002'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
@@ -93,7 +93,7 @@ imagescredit: Contributed photos from Sarah Clover, Philip Marshall, and Stephen
 ---
 
 ### Reason for Demolition
-Eagle Square, [Fort Thunder](//en.wikipedia.org/wiki/Fort_Thunder)’s home from 1995–2001, was a vibrant place full of many artists and bands, as well as a  weekend flea market. In 2001, developers by the name of [Feldco](//feldcodevelopment.com/property/eagle-square-providence-ri/) approached the city to raze the complex and put in a shopping center. Their original proposal would have leveled **all** of the buildings and erected a cookie cutter Shaw’s plaza. After much protest and back and forth with different design plans, Feldco agreed to save more buildings (only 4 out of 16) and incorporate more of a mill “look.” Even with a better design that saved some of the architectural fabric of the Valley mill district, about a hundred artists were displaced because, after all, this was only every going to be a shopping center.
+Eagle Square, [Fort Thunder](//en.wikipedia.org/wiki/Fort_Thunder){:target="_blank"}’s home from 1995–2001, was a vibrant place full of many artists and bands, as well as a  weekend flea market. In 2001, developers by the name of [Feldco](//feldcodevelopment.com/property/eagle-square-providence-ri/){:target="_blank"} approached the city to raze the complex and put in a shopping center. Their original proposal would have leveled **all** of the buildings and erected a cookie cutter Shaw’s plaza. After much protest and back and forth with different design plans, Feldco agreed to save more buildings (only 4 out of 16) and incorporate more of a mill “look.” Even with a better design that saved some of the architectural fabric of the Valley mill district, about a hundred artists were displaced because, after all, this was only every going to be a shopping center.
 
 On a brighter side, the demolition produced a total of 59,701 tons of waste, of which only 349 tons (less than 1%) went to landfill. Old factory buildings were typically constructed in a way that is ideal for reclamation. The precision arm of the Komatzu “long arm” allowed the crew to pluck timbers from the building frame without damaging them. The buildings were full of old growth yellow pine. The timbers in this project were milled into flooring, the bricks that were in good shape for resale were sold, and the rest were crushed for on site fill.
 
@@ -101,7 +101,7 @@ It is a small glimmer, we know.
 
 #### Shaw‘s Replaced by Price Rite
 
-A few years later, the Shaws that the plaza was originally built around had closed, as larger restructuring forced Shaws out of RI in general. A Price Rite entered the space, moving over from its former location on Manton Ave. Price Rite fits the neighborhood better than Shaw’s did, anyway, and it is a nice, large, clean space – it even has a cafe. Other typical retail has filled in – a Staples, Dunkin’ Donuts, Subway, a fried chicken place, etc… 
+A few years later, the Shaws that the plaza was originally built around had closed, as larger restructuring forced Shaws largely out of RI. A Price Rite entered the space, moving over from its former location on Manton Ave. Price Rite fits the neighborhood better than Shaw’s did, arguably, and it is a nice, large, clean space — it even has a cafe. Other typical retail has filled in — a Staples, Dunkin’ Donuts, Subway, a fried chicken place, etc… 
 
 The area around the river and bike path has been better landscaped and is pretty nice, actually. The way that Feldco worked with the existing buildings (that they saved) and the footprints of some of the others was their greatest challenge. Hence, they have one of the most complicated parking lots around, which seems to be the largest drawback of the place.
 
@@ -113,12 +113,12 @@ The real silver lining might be the smarter developments and stronger collective
 [the Plant]({% link _property/the-plant.md %}), 
 [Firehouse 13]({% link _property/firehouse-13.md %}), 
 and to a lessor degree, the Streuver Brothers investments in the City: 
-[Rising Sun Mills]({% link _property/rising-sun-mills.md %}), 
+[Rising Sun Mills]({% link _property/national-providence-worsted.md %}), 
 [Calender Mills]({% link _property/calender-mills.md %}), 
 [Alco]({% link _property/alco.md %}), and 
 [the Dynamo House]({% link _property/south-st-landing.md %}) (which later became South Street Landing). 
 
-The first four were artist-inspired or artist-run and managed. These represent a “line in the sand” for those that decided to own something and take control, rather than rely on altruistic investors to do the right thing. The SBER projects were investments in the sought-after mill spaces. Ones which, though mixed-blessings in their own right, have proven to be valuable options for people wanting to live in the city. They provide a range of housing that a diverse place like Providence needs. All of these projects benefitted from the Eagle Square conversation, and **“Not another Eagle Square”** became a personal and public mantra for people in the field. 
+The first four were artist-inspired or artist-run and managed. These represent a “line in the sand” for those that decided to own something and take control, rather than rely on altruistic investors to do the right thing. The [SBER]({% link designer/sber.html %}) projects were investments in the sought-after mill spaces. Ones which, though mixed-blessings in their own right, have proven to be valuable options for people wanting to live in the city. They provide a range of housing that a diverse place like Providence needs. All of these projects benefitted from the Eagle Square conversation, and **“Not another Eagle Square”** became a personal and public mantra for people in the field. 
 
 It even gave rise to this little blog project.
 
@@ -163,7 +163,7 @@ Raphael Lyon, 25, a freelance textbook editor who lives in one of the threatened
 
 Meetings of the Providence Plan Commission usually attract little more than a glimmer of public interest. But on November 21, the council chambers at City Hall was the place to be, as an unusual coalition of artists, preservationists, scenesters, and neighborhood residents packed the room to challenge Feldco Development’s proposal for Eagle Square. In all, more than 280 people signed in to register their presence — an extraordinary outpouring of interest in the often soporific realm of planning and site design — and many made thoughtful arguments. A petition drive gathered 818 signatures, and organizers were savvy enough to attract pro bono assistance from Deming E. Sherman, a lawyer with the high-powered firm of Edwards &amp; Angell.
 
-The fight for Eagle Square is particularly important because it exposes a disparity between the stated goals of the Providence Renaissance and the squeeze being faced by artists, many of who are moving to places such as Pawtucket, Central Falls, and Fall River, Massachusetts, to find affordable live-work spaces. It may be nice symbolically that artists who live in the downtown arts district don’t have to pay sales tax on their work, but that doesn’t count for a whole lot when the only artists who can afford to reside in the area are those at <a href="http://www.as220.org">AS220</a>, the pioneering, dorm-style nonprofit arts space on Empire Street.
+The fight for Eagle Square is particularly important because it exposes a disparity between the stated goals of the Providence Renaissance and the squeeze being faced by artists, many of who are moving to places such as Pawtucket, Central Falls, and Fall River, Massachusetts, to find affordable live-work spaces. It may be nice symbolically that artists who live in the downtown arts district don’t have to pay sales tax on their work, but that doesn’t count for a whole lot when the only artists who can afford to reside in the area are those at <a href="//www.as220.org" target="_blank">AS220</a>, the pioneering, dorm-style nonprofit arts space on Empire Street.
 
 Providence has made a name for itself as a city where the arts are celebrated, but Erminio Pinque, founder of the internationally acclaimed Big Nazo puppets, likens the city’s creative scene to a fragile ecosystem. **“A lot of students go down to Fort Thunder — it’s funky to them,”** he says. **“You take that thing away and people don’t feel the city’s magical any more.”**
 
@@ -183,6 +183,6 @@ What happens next is anyone’s guess. The Plan Commission is slated to decide t
 
 Jeremy Woodward, a freelance theatrical set designer and puppet maker, has a secret apocalyptic vision for Providence: all of the excellent public relations about the Renaissance City leads “a bunch of Ally McBeals up in Boston” to realize they can commute to Providence faster, via the high-speed Acela, than driving to Braintree and live — within walking distance of Nordstrom — at these sort of artist lofts downtown. For the time being, of course, this dystopia remains just an imaginary nightmare. The son of a building contractor, **Woodward recognizes that artists, if they’re honest with themselves, need to accept the reality of the SoHo effect — that people with more money will invariably move in after urban pioneers settle in a neglected neighborhood and make it hip.**
 
-Providence has been the subject of so much positive hype in recent years that the propaganda machine has taken on a life of its own. And although the city remains a bargain compared to Boston, it’s the low-rent artists who feel the squeeze when housing costs rise and once-useful spaces begin to disappear.<b> “We’re losing people all the time,”</b> says gallery owner Agniel, who notes that she’s making a large number of visits to studios in Pawtucket and Central Falls. <b>“There’s only so much that the proximity of RISD and Brown can do for you.”</b>
+Providence has been the subject of so much positive hype in recent years that the propaganda machine has taken on a life of its own. And although the city remains a bargain compared to Boston, it’s the low-rent artists who feel the squeeze when housing costs rise and once-useful spaces begin to disappear. <b>“We’re losing people all the time,”</b> says gallery owner Agniel, who notes that she’s making a large number of visits to studios in Pawtucket and Central Falls. <b>“There’s only so much that the proximity of RISD and Brown can do for you.”</b>
 
 It will be more than just a sad day if the mills of Eagle Square are destroyed for a sterile shopping complex. But if the activism that greeted this threat sparks some real impact in preserving and upgrading other mills, and nurturing the more fragile elements of the artistic community, it might just be worth it. It’s possible that in 10 years, as planning director Palmieri says, “we will look back and say the city responded quickly.” Let’s hope so. In a time of exaggerated hype and rising prospects, it would show that Providence can be seen as something other than just terrain fit for maximum commercial potential.	
