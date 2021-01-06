@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: royal-mill-ace-dyeing\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: poiriers-kullman-diner\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: royal-mill-ace-dyeing\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: poiriers-kullman-diner\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,60 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: texaco-station
+  person: 'Mark Van Noppen'
+  date: '2021-01-05'
+  content: 'May not make the history books but if memory serves me The Armory Revival Company, who had offices next door, worked with the sole proprietor gas station owner (who couldn’t afford DEM mandated tank upgrades) to get the tanks removed and to to buy the station. Our proposed use, back in the early days of trying to repair Westminster and bring back neighborhood services, was to put a restaurant with both indoor and outdoor dining in. A particular elder neighbor whom BJ, Barry and I much admire and to whom we all owe a debt for the neighborhood’s survival as an historic restoration kind of place objected to the idea of a restaurant because of the potential for noise, traffic and smells. Some others, including WBNA as I recall, objected, perhaps less vociferously. Rather than pursue an upsetting situation, we backed off and assigned the agreement to WBNA and helped a bit with the restoration.'
+
+- property: 101-north-main-st
+  person: 'Dan Gosch'
+  date: '2021-01-05'
+  content: 'First off, sort of a minor thrill seeing my name in bold typeface but I did NOT have a studio in the Pilgrim Mills building. I did live diagonally across from it at 118 North Main St where I shared a living/studio space with Dave Hansen AKA Sport Fisher from the Fabulous Motels and The Young Adults back in the very early 70s. Was not aware of any artist studios back then but I do remember the ground floor clothing store. The proprietors who appeared to be time travellers from a much earlier era were peculiar and seemed suspicious of RISD-type folk as customers. I remember the room as being quite dark with shelves stuffed with NOS clothing going up to the high ceilings. I bought a wide novelty pink necktie with a printed image of a ‘40s/50s women’s face with a cat’s-eye sunglasses pin attached to the eye area and a pink and grey sport shirt that looked like something Elvis would have worn in his early career. I still have both. Back in the old days I don’t think any of us could have imagined that side of the street becoming what it is today what with the ancient lock and safe store and Sam Sing laundry next door. Glad to know of the F. Woodman Pilgrim Mills connection.'
+
+- property: poiriers-kullman-diner
+  person: 'Jon' 
+  date: '2013-09-26' 
+  content: 'At long last, as of this morning, the diner is open for business… Stop in and take a look… '
+
+- property: poiriers-kullman-diner
+  person: 'Mark Sawtelle'
+  date: '2013-04-16'
+  content: 'My wife’s family lived up the hill since the 1940s, so she sometimes went here. We lived there in the early 1980s, when I took this shot: <a href="http://www.flickr.com/photos/mcsawtelle/5795296415/">www.flickr.com/photos/mcsawtelle/5795296415/</a>'
+
+- property: poiriers-kullman-diner
+  person: 'Ann Paniccia'
+  date: '2012-12-05'
+  content: 'I grew up on Valley St. and even when I was young, I was always interested in Diners. Now as an adult and with the help of FB I couldn’t remember the name of the diner I went by many times, Squire’s. It turned into a trivia question with so many people I came in contact with. Looking forward to the diner re-opening on Westminster St. A big part of Providence’s history! Best of luck!'
+
+- property: poiriers-kullman-diner
+  person: 'Jon'
+  date: '2012-10-08'
+  content: 'Okay, it’s taking a little longer than expected, but come on by to take a look, we’re probably only a few weeks away from completion. Hoping to be open by Christmas / New Years…'
+
+- property: poiriers-kullman-diner
+  person: 'Jon'
+  date: '2012-01-01'
+  content: 'We’re making good progress, hope to see it open by Summer, 2012.'
+
+- property: poiriers-kullman-diner
+  person: 'Len'
+  date: '2011-12-13'
+  content: 'Great update to this story <a href="http://dinerhotline.wordpress.com/2011/12/13/providence-rhode-island-diner-set-to-make-comeback/">dinerhotline.wordpress.com/2011/12/13/providence-rhode-island-diner-set-to-make-comeback/</a>'
+
+- property: poiriers-kullman-diner
+  person: 'Krystal'
+  date: '2010-10-16'
+  content: 'My name is Krystal and I ran the diner when it was Krystal’s Diner. I had alot of fun running that diner, met alot of people and enjoyed cooking for them. I hope to see it restored and put back into operation. I would love to visit that place again I have alot of memories of being their.'
+
+- property: poiriers-kullman-diner
+  person: 'JoalAnn Poirier Budday'
+  date: '2010-07-01'
+  content: 'My father owned and operated the Poirier Diner, he was also the Chef. People came to enjoy his food and especially his pies. My oldest brother Kenneth S. Poirier worked along side my father in the diner. I have family photos of my family in the diner. My Mother is 97 and is still living and can recall so many people and things that occurred in the diner. I would love to see the diner restored to its original condition to keep alive that part of history in Rhode Island.'
+
+- property: poiriers-kullman-diner
+  person: 'Jon'
+  content: 'I hope to have the Diner moved to a new location nearby on Westminster Street and restored over the Fall and Winter of 2010-11. If all goes well, you can move it to the “Redeveloped” category next Spring.'
 
 - property: perkins-bldgs
   person: 'Edward Verdelotti' 
