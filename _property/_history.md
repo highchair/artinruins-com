@@ -39,17 +39,17 @@ Video of the fire: https://www.youtube.com/watch?v=2i4VbOTc00I
 Saved section (14)
 + American Woolen / Riverside Mills
 + Atlantic Mills
-++ Carpenter Mills
-++ Dyerville Mill
-++ Engine Station #9
++ Carpenter Mills
++ Dyerville Mill
++ Engine Station #9
 ++ Greystone / for. RI Tool / for. Providence Tool
 + J & H Electric
 ++ Lebanon Mill / Riverside lofts
-++ Poirier’s Diner / El Faro / Krystal's’Diner
-++ National Providence and Worsted Mills
-++ Rau (Ray) Fastner
++ Poirier’s Diner / El Faro / Krystal's’Diner
++ National Providence and Worsted Mills
++ Rau (Ray) Fastner
 ++ South Street Power Plant / Heritage Harbor Museum
-++ Texaco Station / West Broadway Neighborhood Association
++ Texaco Station / West Broadway Neighborhood Association
 
 Urban Decay section (16)
 + Atlas Warehouses
@@ -62,7 +62,7 @@ Urban Decay section (16)
 + Improved Laminated Metal
 + North Main Street — Including Ethan Allen, Sears Automotive, Sears, Anderson Little, and #1320
 + Parkin Yarn
-++ Royal Mills & Ace Dyeing 
++ Royal Mills & Ace Dyeing 
 + (Cranston St.) Trolley Barn
 
 
@@ -98,15 +98,12 @@ Redeveloped
 ++ Lebanon Mills
 ++ Lerner / Wilkinson bldg
 + Mason bldg//RISD Center for Integrative Technology
-++ Rising Sun / National Providence and Worsted Mills
 ++ Palmer Block / the “Cosmopolitan”
 ++ Parkin Yarn
 ++ Pawtucket Armory
 ++ Peerless Building
 ++ Peoples Savings Bank
 + Providence National Bank (now RIP)
-++ Rau (Ray) Fastner
-++ Texaco Station / West Broadway Neighborhood Association
 
 RIP
 + AAA Surgical
@@ -287,7 +284,7 @@ Urban Decay
 ++ Rialto Theatre
 ++ RI Mall
 + Slater Cotton Company
-++ Union Wadding
++ Union Wadding
 
 
 ## 2008
