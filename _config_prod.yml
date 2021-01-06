@@ -69,6 +69,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - assets/js/cookie-consent.js
   - _property/_history.md
   - _property/_template.md
   - _property-drafts
