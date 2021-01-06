@@ -63,12 +63,14 @@ images:
   - url: rau-fastner-jh-2005-04-14.jpg
   - url: rau-fastner-jh-2005-04-15.jpg
   - url: rau-fastner-jh-2005-rendering.jpg
+  - url: charles-perkins-dbvw.jpg
+    caption: 'In progress photos from DBVW Architects'
   - url: perkins-bldg-aerial-1997.jpg
-    caption: 'Providence Historical Aerial Viewer 1997'
+    caption: 'Providence Historical Aerial Viewer 1997. Notice the 1952 addition to the far left of the lower Ada Building.'
   - url: perkins-bldg-aerial-2008.jpg
-    caption: 'Providence Historical Aerial Viewer 2008'
+    caption: 'Providence Historical Aerial Viewer 2008. That 1952 addition is now gone.'
   - url: perkins-bldg-aerial-2018.jpg
-    caption: 'Providence Historical Aerial Viewer 2018'
+    caption: 'Providence Historical Aerial Viewer 2018. Infill commercial buildings now occupy the center parcel (to the right of the Perkins buildings)'
 
 imagescredit: 'Contributions from Clark Schoettle for the National Register form and the Providence Aerial Viewer'
 
