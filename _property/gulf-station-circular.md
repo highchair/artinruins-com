@@ -98,7 +98,7 @@ A.I.R.: The Holiday Inn got a facelift and is now a Hilton. The Dunkin Donuts Ce
 
 #### The Changing Face Of Historical Preservation
 
-_Originally aired on Focus RI, WRNI, May 2nd – by Ned Connors._
+_Originally aired on Focus RI, WRNI, May 2nd — by Ned Connors_
 
 Last week a small downtown parcel of land, overlooking Route 95 adjacent to the old Providence Police Station, made the front page. The land, owned by Paolino Properties, had been the home of a Gulf gas station since 1968, a few years after the Interstate came through.
 
@@ -108,11 +108,11 @@ Perhaps the greatest irony of an outcry over the loss of a mid-century piece of 
 
 So what is that heritage? Does it include gas stations?
 
-Like everything else, historical preservation has a history, and its animating ideas have evolved as well. The old “Washington slept here” preservation efforts, or the idea of a sanitized, slave-free Colonial Williamsburg have given way, happily, to a much broader, more inclusive sense of what is worth preserving .
+Like everything else, historical preservation has a history, and its animating ideas have evolved as well. The old “Washington slept here” preservation efforts, or the idea of a sanitized, slave-free Colonial Williamsburg have given way, happily, to a much broader, more inclusive sense of what is worth preserving.
 
 So what does any of this have to do with gas stations? I’ve often wondered what historians 100 years from now will have to say about the 20th century. The ongoing transformation of our landscape around the private car – and the low-density commuter suburbs made possible by it – may well be the big story of the 20th century and the current discussion of a loss of “sense of place” amid the galloping homogenization of American life suggests that historians may well start by looking, so to speak, in our collective garage.
 
-Gas stations streamlined and standardized long before McDonalds came on the scene. They were garish, hokey, and sometimes brilliantly designed. There’s a Frank Lloyd Wright gas station in Cloquet, Minnesota – tourists come to see it and buy postcards. Closer to home, the [West Broadway Neighborhood Association]({% link _property/wbna.md %}) has adapted and reused a beautiful 1930s Texaco station designed by famed industrial designer [Walter Dorwin Teague]({{ site.baseurl }}designer/walter-dorwin-teague).
+Gas stations streamlined and standardized long before McDonalds came on the scene. They were garish, hokey, and sometimes brilliantly designed. There’s a Frank Lloyd Wright gas station in Cloquet, Minnesota – tourists come to see it and buy postcards. Closer to home, the [West Broadway Neighborhood Association]({% link _property/texaco-station.md %}) has adapted and reused a beautiful 1930s Texaco station designed by famed industrial designer [Walter Dorwin Teague]({% link designer/walter-dorwin-teague.html %}).
 
 I don’t imagine much of this went through the mind of the demolition crew. It was all in a day’s work, like the demolition of the concrete Art Moderne garage next to the Coke plant in Smith Hill last year. Providence will survive the loss of a roadside rarity and some will say we’re the better for it – even if, for now, the grand plan for its demolition was to make way for a parking lot. The National Register of Historic Places looks at a building or structure 50 years old or older as historic – by that standard the Interstate itself is approaching the status of historical artifact.
 
