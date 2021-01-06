@@ -141,6 +141,7 @@
   //  </form>
   //</section>
   &__form {
+    padding-bottom: $vertical-rhythm;
     
     &__wrapper {
       background-color: rgba(palette('brand-teal'), 0.1);
@@ -151,6 +152,18 @@
     }
     
     &__title {}
+  }
+}
+
+.back-to-top {
+  background: rgba(palette('brand-teal'), 0.1);
+  display: block;
+  padding: 0.625rem 1rem;
+  text-align: center;
+  
+  &:hover,
+  &:focus {
+    background: rgba($white, 0.5);
   }
 }
 
