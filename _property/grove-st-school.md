@@ -4,19 +4,19 @@ slug: grove-st-school
 aka: 
 date-modified: 2020-06-06 17:00
 
-built: 1901
-demolition: 2012
+built: '1901'
+demolition: '2012'
 decade: '1900-1909'
-date-added: 2003
+date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'National Register of Historic Places', 'PPS Ten Most Endangered', 'Former Schools' ]
+lists: [ 'National Register of Historic Places', 'Broadway-Armory Historic District', 'PPS Ten Most Endangered', 'Former Schools' ]
 tags: [ 'Demolition by Neglect', 'Demolition without Permit' ]
 
-NRHP-ref-number: 74000047
-added-to-NRHP: 1974
+NRHP-ref-number: '74000047 (contributing)'
+added-to-NRHP: 'May 1, 1974'
 
 address: '95 Grove Street, Providence RI'
 latitude: '41.820084'

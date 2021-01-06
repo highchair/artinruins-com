@@ -14,11 +14,11 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981' ]
+lists: [ 'National Register of Historic Places', 'Broadway-Armory Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981' ]
 tags: []
 
-NRHP-ref-number:
-added-to-NRHP:
+NRHP-ref-number: '74000047 (contributing)'
+added-to-NRHP: 'May 1, 1974'
 
 address: '299 Carpenter Street, Providence RI'
 latitude: '41.8181843'

@@ -13,11 +13,11 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: []
+lists: [ 'National Register of Historic Places', 'Broadway-Armory Historic District' ]
 tags: [ 'Fire Stations' ]
 
-NRHP-ref-number:
-added-to-NRHP:
+NRHP-ref-number: '74000047 (contributing)'
+added-to-NRHP: 'May 1, 1974'
 
 address: '4 Pallas Street, Providence RI'
 latitude: '41.8202394'
