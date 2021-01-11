@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: poiriers-kullman-diner\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: ri-tool\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: poiriers-kullman-diner\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: ri-tool\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,62 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: ri-tool
+  person: 'Sandra' 
+  date: '2018-11-17' 
+  content: 'My matchbook collection contains a 2" x 2.5" pack of 21 cardboard matches printed on the face with images of nuts and bolts and a “RI” on the head of the bolt. “Established 1834” is printed on the book cover over the image of a wrench. The matchbook was printed by Lion Match, NY. Patent #1733258-1839845-6.
+
+
+(**A.I.R.:** Sandra, this is pretty cool! That means that your matchbook references the Providence Forge & Nut Company, precursor to Providence Tool, which erected the first buildings at this site in 1853 and sold to Providence Tool by 1861.)'
+
+- property: ri-tool
+  person: 'John in PA' 
+  date: '2013-04-15' 
+  content: 'I have been a student and collector of Providence Tool arms for 30 years. I have 3 special order Peabody Sporting Rifles, an 1861 contract musket, two Peabody military rifles, one carbine, and an engraved presentation Turkish Peabody-Martini musket. Providence Tool can take a back seat to NO ONE as far as quality of manufactured goods is concerned. Read the article from Scientific American, 1863, documenting a tour of the factory for details as to their arms manufacture. A fine example of American entrepreneurship and pride of production!!'
+
+- property: ri-tool
+  person: 'Roxann Fichtner' 
+  date: '2012-07-10' 
+  content: 'I’m Proud to Say I have purchased a Household Treadle Sewing Machine from an Auction Recently, It is a 5 Drawer Cabinet with Brass handles. The Middle Drawer came with lots of accessories. After Looking into the Company and finding pictures of the Sewing Machines I see This Machine is as Beautiful As it was when it was Made. Still in working condition and after taking years of dust and grime the Decals it will look like in the pictures. Thank you for all the Information on the Company. Roxann Lapeer, MI.'
+
+- property: ri-tool
+  person: 'Gail Norstrom' 
+  date: '2009-08-08' 
+  content: 'My great grandfather worked for the Providence Tool Company beninning in 1861 for a period of about 20 years until he formed his own manufacturing company. I have a rifle made by the Providence Tool Company. I think it was made during the civil war, but am not sure. I am still trying to get further information.'
+
+- property: ri-tool
+  person: 'Bob' 
+  date: '2009-02-15' 
+  content: 'I have a pair of leg Shackles of the Civil War period manufactured by the Providence Tool Co. I have a book on the Lincoln Assassination and the the exact pair are shown as the set I own which were used on the Lincoln Conspirators.'
+
+- property: ri-tool
+  person: 'charleen connell' 
+  date: '2008-07-15' 
+  content: 'I have a sabre or rifle that I inherited from my father and on the left side it is stamped with Pearody’s Patent 7/22/1862 Providence Tool Co. Prov R I. The story I have heard though the years is that the gun was used in the Civil War. Does that seem possible?\
+
+
+(**A.I.R.:** Yes! Providence Tool was a well respected manufacturer of rifles during the civil war.'
+
+- property: ri-tool
+  person: 'Arthur Remington'
+  content: 'I worked for RI Tool for almost 30 years. There was no mention how RI Tool was a leader in the forging world for the better part of 20th Century as a Manufacture of First Class Forgings to such companys as L.S. Starrett, Brown & Sharp just to name a few.'
+
+- property: ri-tool
+  person: 'Doss White'
+  content: 'Approximately 7,000 of the Turkish-contract Peabody Martinis were sold to Japan in the early 1880s. These are marked on the right side of the barrel, immediately forward of the receiver, “Meiji 13” or “Meiji 15” (1880 and 1882). What little is known about the purchase is that in 1880 the Japanese Navy purchased 12 Providence Tool Co. Peabodys for trial then in 1882 purchased an additional 7,000. Many were brought back to the States by G.I.s following the occupation, I know of five in various collections.'
+
+- property: ri-tool
+  person: 'Robert B. Phillips'
+  content: 'I read your history of this fine company, but thought it lacked something. The company also made sabres for the Union Army. I have a very fine example which carries the stamp of Prov. Tool on the left side, and U.S. D.F.C. 1862 on the right side. I know that companies like Ames get most of the credit for production of sabres, but I’m willing to bet that those made by Providence Tool Co. could stand beside any other sabre in quality or craftsmanship. I would like to know what your feelings are on this subject.'
+
+- property: ri-tool
+  person: 'Jeff Peterson'
+  content: 'I’m glad there is some interest in this building. I worked there (H&H Products) for about 5 years beginning around 1991. I always loved structure itself, but it was in serious need of some help. I’d like to go there and see if I could get a little tour of the place, just to see what they’ve done. I hope they keep the still working bell! It rang quite nicely!'
+
+- property: ri-tool
+  person: 'john lindgram'
+  content: 'hi i’m sitn here in baytown tx lookn at a rifle that was made in ur plant for the civil war. it belongs to my brother-n-law. it was carried thru that war by one of his ancesters. its pretty rough but i think with a smiths touch it would prolly fire again. its traveled a long way and wouldnt it be great to here its story. im afraid not much is known about the man that carried it. i just thought that u guys might be interested in hereing about the rifle as there may not be many of em around. i hate to here that the factory has fallen to the niglect of time but i guess we all do sooner or later. its a handsome ol building and i hope that the people of R.I. get behind u on this project. im a little bit of a history buff (slept thru most of my Lit. classes tho) and i hate for peeps to forget were we come from and what it took to get to were we r now. imo history is or most valuable asset. we can learn much by lookn at what was done before we got here. we im rattlen now haha. anywhoo if i ever get up thata way ill sure stop by and have a look at the ol place that had a part in keepn this nation in one piece'
 
 - property: lebanon-mill
   person: 'Kathi Maynard'
