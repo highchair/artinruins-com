@@ -30,15 +30,15 @@ excerpt: "This 70-year-old diner car sat on blocks for 10 years before being res
 thumbnail: poiriers-jh-2013-05-02.jpg
 
 images:
+  - url: poiriers-lc-1981-05-01.jpg
+    caption: 'The Sandwich Factory, photo by Larry Cultrera, Diner Hotline, May 1981'
+    alt: 'A sleek, mid-century modern dining car made of steel columns, glass block, and a shapely curved roof, this example of pre-fabricated restaurants resembles a train car with its streamlined lines and it long, lozenge shape'
+  - url: poiriers-lc-1981-05-02.jpg
+    caption: 'The Sandwich Factory, photo by Larry Cultrera, Diner Hotline, May 1981'
   - url: poiriers-ms-1982-10-01.jpg
-    caption: 'Early Gary’s Sandwich Factory, photo by Mark Sawtelle, October 1982, from Flickr'
-    alt: 'A sleek, mid-century moderne dining car made of steel columns, glass block, and a shapely curved roof, this example of pre-fabricated restaurants resembles a train car with its streamlined lines and it long, lozenge shape'
-  - url: poiriers-lc-1982-01.jpg
-    caption: 'Early Gary’s Sandwich Factory, photo by Larry Cultrera, Diner Hotline, circa 1982'
+    caption: 'Gary’s Sandwich Factory, photo by Mark Sawtelle, October 1982, from Flickr'
   - url: poiriers-lc-1983-05-01.jpg
-    caption: 'Later Gary’s Sandwich Factory, photo by Larry Cultrera, Diner Hotline, May 1983'
-  - url: poiriers-lc-1983-05-02.jpg
-    caption: 'Later Gary’s Sandwich Factory, photo by Larry Cultrera, Diner Hotline, May 1983'
+    caption: 'Gary’s Sandwich Factory, photo by Larry Cultrera, Diner Hotline, May 1983'
   - url: poiriers-trr-unknown-01.jpg
     caption: 'The El Faro diner, photo by user “Tomlinson Run Railroad”, O-Guage Railroading'
   - url: poiriers-cs-2002-08-01.jpg
