@@ -3,7 +3,7 @@ title: "Prince Hall Masonic Lodge"
 slug: prince-hall-masonic
 aka: 
 date-modified: 2020-12-28 12:00
-update: 'A fire started in the basement on Christmas morning and after a 3-alarm response from fire department, we are not sure if the building can be saved or not.'
+update: 'A fire on Christmas morning gutted the building, but the Masonic Lodge members plan to rebuild, <a href="https://charity.gofundme.com/phglfa" target="_blank">and you can help</a>.'
 
 built: 'circa 1890'
 demolition:

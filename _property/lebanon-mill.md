@@ -1,7 +1,7 @@
 ---
 title: "Lebanon Mill Company"
 slug: lebanon-mill
-aka: 'Vesta Underwear, Riverfront Lofts'
+aka: 'Vesta Underwear, now Riverfront Lofts'
 date-modified: 2021-01-07 12:00
 
 built: '1901'
