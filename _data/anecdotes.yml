@@ -12,6 +12,47 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: perkins-bldgs
+  person: 'Dore'
+  date: '2021-01-17'
+  content: 'Richard Woodbine (Central High ‘46) worked for Rau Fastener Co. on Westfield street from shortly after the time he got out of the Marines (1951) until 1987. He worked there as a machinist, inspector, trouble shooter, etc for his long time boss, Augustine (Gus) Cilione. Lots of great people worked there over the years.'
+
+- property: south-street-power
+  person: 'Lou Marinacci'
+  date: '2009-01-23'
+  content: 'I was the Superintendent for the asbestos abatement of the power house and remember that it was a major project. I’m not at all surprised that the plans to renovate have stalled.  When we set out in the beginning it was a dark, cold and dangerous building. As you walked thru the structure you could feel the past and new that there was history there that only the people who were a apart of this would ever know. I have performed many projects like this and they make you remember that life is fleeting and you should cherish the time you have here.'
+
+- property: south-street-power
+  person: 'Paul Vincent Zecchino, FL'
+  content: 'Grew up in long shadow of South Street, father of good friend worked across Point Street at Manchester St. Generating Station. Recall well dark smoke issuing forth from stacks, including large black stack atop 1925 steam house. 
+
+
+South St. signifigant as you could see development of electric power generation over decades. Original plant topped by eight short stacks wedded by iron filligree work. Thirty two coal fired boilers fed high and low pressure turbines of about 25 Megawatts each.
+
+
+Ca. 1926, large black stack west side of plant topped four steam generators feeding two high pressure turbines of forty megawatts apiece. “Smokestack Lightning”, as tall black iron riveted stack was dubbed, ceased smoking mid-1970’s, casualty of oil shocks.
+
+
+1919 section of plant, east end, continued to roll hi and lo pressure turbines. Ca. 1955, steel ’n glass futuristic structure, northeast side of complex, containing two steam generators replaced remaining 32 coal fired boilers that fed short stacks. New 65 Megawatt hi pressure “topping” turbine installed. Early concept of today’s cogeneration, new steam generators fed topping turbine, whose exhaust steam was in turn fed to existing hi and lo pressure turbines. This gave South St. its 110 Megawatt capacity from three generators.
+
+
+South St. was base load station designed to run continuously, as turbines continued spinning up to three days following shut down. Starting was slow process, low pressure steam fed low pressure turbine whose electricity was fed to generator of hi pressure turbine, acting as a starting motor to get hi pressure turbine spooling up. Ingenious. Once high pressure was achieved, topping turbine was started.
+
+
+About 1991 South St. decommissioned, west stack, long cold yet nonetheless dominating skyline, was taken down, classic lines and all.
+
+
+1979 this writer toured South Street during summer heat. Generators screaming, boilers throbbing with hot gasses and flashing water, steam shooting at supersonic speed to turbine nirvana. 1982 visit hosted by Ed Reid. Screamingly silent South St.’s turbines dismantled for maintennance. Another visit 1985 thrilled small son and fiance.
+
+
+Timeless powerful lines of plant an architectural treasure, good to know they’ll be preserved by museum. Early autumn 1968, wee hours, awoke to thundering loud roar akin to turbojet afterburner. Sound of Boeing 707 taking off in our driveway. Scurry outside into cool fall night, southwest sky rendered in two by plume of white vapor shooting skyward.
+
+
+South St. had “tripped off the line”, shutting down generator. To avoid catastrophic overspeed following disconnection of generator from turbine, valves slam shut, shunting supersonic thousand pound pressure, thousand degree steam away from turbine, thru mufflers, not so silently into atmosphere, source of most dramatic nocturnal thundering.
+
+
+An architectural treasure whose slow evolution from 1919 forward still conceals fascinating mysteries. Switch panels of marble, control room partitions of copper, a bygone era still accessible through frosted glass framed by industrial black steel frames.'
+
 - property: ri-tool
   person: 'Sandra' 
   date: '2018-11-17' 
