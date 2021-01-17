@@ -26,7 +26,7 @@ longitude: '-71.4170831'
 gmap: "https://www.google.com/maps/place/146+W+River+St,+Providence,+RI+02904/@41.8434338,-71.4170831,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444e3830a9dbd:0x3fafd2ac22e0ef41!8m2!3d41.8434298!4d-71.4148944"
 
 meta: ""
-excerpt: "A sprawling pre-Cival-War-era complex with a proud history of metal manufacturing of many kinds, including armaments"
+excerpt: "A sprawling pre-Civil-War-era complex with a proud history of metal manufacturing of many kinds, including armaments"
 
 thumbnail: ri-tool-jh-2003-06-02.jpg
 
@@ -62,6 +62,16 @@ images:
     caption: 'Photo by Matthew A. Kierstead, May 2002, for the National Register nomination form'
   - url: ri-tool-habs-2003-12-12.jpg
     caption: 'Photo by Matthew A. Kierstead, May 2002, for the National Register nomination form'
+  - url: ri-tool-jh-2021-01-01.jpg
+  - url: ri-tool-jh-2021-01-02.jpg
+  - url: ri-tool-jh-2021-01-03.jpg
+  - url: ri-tool-jh-2021-01-04.jpg
+  - url: ri-tool-jh-2021-01-05.jpg
+  - url: ri-tool-jh-2021-01-06.jpg
+  - url: ri-tool-jh-2021-01-07.jpg
+  - url: ri-tool-jh-2021-01-08.jpg
+  - url: ri-tool-jh-2021-01-09.jpg
+  - url: ri-tool-jh-2021-01-10.jpg
 
 imagescredit: 'Contributions by Matthew A. Kierstead for the National Register Nomination form'
 
