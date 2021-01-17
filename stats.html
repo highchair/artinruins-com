@@ -17,7 +17,7 @@ sitemap:
 {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
 {%- assign tags = site.pages | where: 'layout', 'taxonomy' | sort: "type" -%}
 {%- assign totalpermonth = 0 -%}
-{%- assign totalprops = 0 -%}
+{%- assign totalprops = 1 -%}
 {%- assign totalredirects = -1 -%}
 {%- assign currentmonth = properties.first.date-modified | date: "%B, %Y" -%}
 
@@ -41,24 +41,24 @@ sitemap:
                   {%- endif -%}
                   {%- if forloop.last -%}
                   <li><div class="all-tags__list__group"><span>Added in {{ currentmonth }}:</span> <span>{{ totalpermonth }}</span></div></li>
-                  <li><div class="all-tags__list__group"><span>Total redirects:</span> <span>{{ totalredirects }}</span></div></li>
+                  <li><div class="all-tags__list__group"><span>Total redirects:</span> <span>{% include humanize-numbers/index.html number=totalredirects %}</span></div></li>
                   {%- endif -%}
                 {%- endfor -%}
-                  <li><div class="all-tags__list__group"><span>Total properties:</span> <span>{{ totalprops | plus: 1 }}</span></div></li>
+                  <li><div class="all-tags__list__group"><span>Total properties:</span> <span>{% include humanize-numbers/index.html number=totalprops %}</span></div></li>
                 </ul>
               </div>
               
               <div class="all-tags__wrapper">
                 <h2 class="all-tags__title">Anecdotes</h2>
                 <ul class="all-tags__list">
-                  <li><div class="all-tags__list__group"><span>Total anecdotes:</span> <span>{{ anecdotes.size }}</span></div></li>
+                  <li><div class="all-tags__list__group"><span>Total anecdotes:</span> <span>{% include humanize-numbers/index.html number=anecdotes.size %}</span></div></li>
                 </ul>
               </div>
               
               <div class="all-tags__wrapper">
                 <h2 class="all-tags__title">Images</h2>
                 <ul class="all-tags__list">
-                  <li><div class="all-tags__list__group"><span>Total images:</span> <span>{{ totalimg }}</span></div></li>
+                  <li><div class="all-tags__list__group"><span>Total images:</span> <span>{% include humanize-numbers/index.html number=totalimg %}</span></div></li>
                 </ul>
               </div>
 
