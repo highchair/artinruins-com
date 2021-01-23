@@ -33,13 +33,13 @@ As Providence continues to grow, many industrial and historic buildings are bein
 
 We also want to celebrate the region’s great history. At the end of the 19th century (1890-1900), Providence had the “Five Industrial Wonders of the World”[^1]:
 
-1. Brown and Sharpe, the world’s largest tool factory;
+1. [Brown & Sharpe]({% link _property/brown-sharpe-foundry.md %}), the world’s largest tool factory;
 1. Nicholson File, the world’s largest file factory; 
 1. Corliss Steam Engine Company, the world’s largest engine factory; 
 1. [American Screw]({% link _property/american-screw-co.md %}), the world’s largest screw factory; and 
 1. [Gorham Silver]({% link _property/gorham-manufacturing-co.md %}), the world’s largest silver foundry.
 
-[^1]: There are a few sources for this claim. Heritage Harbor Foundation mentions it in this page: [heritageharborfoundation.org/heritage-harbor-six-big-ideas/wonders-of-the-world/](//heritageharborfoundation.org/heritage-harbor-six-big-ideas/wonders-of-the-world/){:target="_blank"}: “By late 19th century, Providence is a world leader in production od (sic) cotton, wool, base metals, precious metals and rubber. Corliss, Gorham, Brown and Sharpe, Nicholsen (sic) File and American Screw are dubbed the ‘Five Industrial Wonders of the World’.”
+[^1]: There are a few sources for this claim. Heritage Harbor Foundation mentions it in this page: [heritageharborfoundation.org/heritage-harbor-six-big-ideas/wonders-of-the-world/](//heritageharborfoundation.org/heritage-harbor-six-big-ideas/wonders-of-the-world/){:target="_blank"}: “By late 19th century, Providence is a world leader in production od (sic) cotton, wool, base metals, precious metals and rubber. Corliss, Gorham, Brown & Sharpe, Nicholsen (sic) File and American Screw are dubbed the ‘Five Industrial Wonders of the World’.”
 
 ## Our Roots
 

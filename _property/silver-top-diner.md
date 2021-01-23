@@ -75,7 +75,7 @@ A fixture at the corner of Harris Avenue and Kinsley for 60 years, the Silver To
 
 When this area was full of industry, the diner was one of several restaurants, large factories, and small businesses flourishing along Harris Avenue. During its heyday, the Silver Top would stay open 24 hours, feeding the city’s factory workers on their way home from the third shift or on the way into starting first shift. In more recent years, it has opened after midnight and closed around dawn, catering to the after-the-bars-close crowd. 
 
-Once surrounded by the [Providence Fruit and Produce Warehouse]({% link _property/providence-fruit-produce.md %}), [Merchants Cold Storage]({% link _property/merchants-cold-storage.md %}), [Brown &amp; Sharpe]({% link _property/brown-and-sharpe.md %}), and others, the departure of the Silver Top marks a changeover from city of industry to city of apartments. 
+Once surrounded by the [Providence Fruit and Produce Warehouse]({% link _property/providence-fruit-produce.md %}), [Merchants Cold Storage]({% link _property/merchants-cold-storage.md %}), [Brown &amp; Sharpe]({% link _property/south-street-power.md %}), and others, the departure of the Silver Top marks a changeover from city of industry to city of apartments. 
 
 
 ### Current Events

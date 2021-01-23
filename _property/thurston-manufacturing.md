@@ -83,7 +83,7 @@ Demolition occurred in the spring and summer of 2004. The neighboring cinder-blo
 
 ### History
 
-Thurston Manufacturing was founded by Horace Thurston in 1883 at 419 Eddy Street. Thurston apprenticed at Corliss Steam Engine Co., was employed by Providence Tool Co., served as a foreman for Brown & Sharpe, and was a master mechanic for Cummer Engine of Ohio. They started as millers of cutting plates for jewelry businesses, and later expanded to produce precision cutting saws for all types of materials and industries. 
+Thurston Manufacturing was founded by Horace Thurston in 1883 at 419 Eddy Street. Thurston apprenticed at Corliss Steam Engine Co., was employed by Providence Tool Co., served as a foreman for [Brown & Sharpe]({% link _property/south-street-power.md %}), and was a master mechanic for Cummer Engine of Ohio. They started as millers of cutting plates for jewelry businesses, and later expanded to produce precision cutting saws for all types of materials and industries. 
 
 The first building was constructed in 1873 for the Union Eyelet Company, a manufacturer of brass eyelets for clothing and shoes. George Boyden purchased the company in 1911 and converted it for the manufacture of knitted hosiery. Boyden had established a dry goods store on High Street (now Westminister) in 1875 and was a large stockholder in several local companies. By about 1930, the main building had been sold to Thurston Manufacturing, and the remainder of the complex was sold to Franklin Rayon Corp. 
 
