@@ -42,6 +42,8 @@ images:
   - url: south-street-ppl-1964c-02.jpg
   - url: south-street-unknown-1970c-01.jpg
     caption: 'Found on Pinterest, original author and date unknown. Our guess is 1970s. This structure was built in the 1950s and contained two steam generators.'
+  - url: south-street-habs-1992-04-01.jpg
+    caption: 'Conveyor belt running from the South Street Power plant’s coal crusher over Point Street and feeding the Manchester St Power Station, built 1950 — Robert Guiliani, April 1992'
   - url: south-street-jh-2002-03-01.jpg
     caption: 'South Street Power Station in 2002 — the cube of the 400lb house (built 1925) in front'
   - url: south-street-jh-2002-03-02.jpg
@@ -85,7 +87,7 @@ images:
   - url: south-street-jh-2019-05-04.jpg
   - url: south-street-jh-2019-05-05.jpg
 
-imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12111" target="_blank">circa 1956</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10776" target="_blank">circa 1962-1</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10452" target="_blank">circa 1962-2</a>) at the Providence Public Library and Matthew Kierstead for the National Register nomination form'
+imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12111" target="_blank">circa 1956</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10776" target="_blank">circa 1962-1</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10452" target="_blank">circa 1962-2</a>) at the Providence Public Library, Robert Guiliani and Matthew Kierstead for National Register nomination forms'
 
 external:
   - source: 'RI Photo Survey Instagram'

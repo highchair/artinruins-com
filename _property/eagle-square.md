@@ -114,9 +114,8 @@ The real silver lining might be the smarter developments and stronger collective
 [Firehouse 13]({% link _property/firehouse-13.md %}), 
 and to a lessor degree, the Streuver Brothers investments in the City: 
 [Rising Sun Mills]({% link _property/national-providence-worsted.md %}), 
-[Calender Mills]({% link _property/calender-mills.md %}), 
-[Alco]({% link _property/alco.md %}), and 
-[the Dynamo House]({% link _property/south-st-landing.md %}) (which later became South Street Landing). 
+[Calender Mills]({% link _property/calender-mills.md %}), and 
+[Alco]({% link _property/alco.md %})
 
 The first four were artist-inspired or artist-run and managed. These represent a “line in the sand” for those that decided to own something and take control, rather than rely on altruistic investors to do the right thing. The [SBER]({% link designer/sber.html %}) projects were investments in the sought-after mill spaces. Ones which, though mixed-blessings in their own right, have proven to be valuable options for people wanting to live in the city. They provide a range of housing that a diverse place like Providence needs. All of these projects benefitted from the Eagle Square conversation, and **“Not another Eagle Square”** became a personal and public mantra for people in the field. 
 

@@ -44,7 +44,7 @@ imagescredit: 'L. Baker, 1903; Unknown circa 1981'
 
 Hanging in the office of a former client in Pawtucket, this fascinating and large panoramic image was found in their boiler room along with other detritus. It was not cared for very well but the image, once cleaned and framed, was in surprising good shape. 
 
-In the lower left corner reads _“Copyright by L. Baker, July 1903.”_ It seems to have been shot from the top of a smokestack at what is now the Manchester Street generating station off Eddy Street on the corner of Point Street. The large singular stack of the South Street power plant is on the right, along with the Providence River and its waterfront, choked with industry. 
+In the lower left corner reads _“Copyright by L. Baker, July 1903.”_ It seems to have been shot from the top of a smokestack at what is now the Manchester Street generating station off Eddy Street on the corner of Point Street. The large singular stack of the [South Street power plant]({% link _property/south-street-power.md %}) is on the right, along with the Providence River and its waterfront, choked with industry. 
 
 The vantage point of the photo makes some sense, as the Manchester Street plant was built in 1903 in a form similar to what we know today[^1]. Interestingly, we think that more aerial photos were taken around this time from the tower of the South Street power plant seen in this photo. The vantage point seems to align with the photos found in [The John O. Pastore Photograph Album](//library.providence.edu/spcol/pas_scrbk/pas_scrapb2.html){:target="_blank"} titled “Looking West,”, “Looking East,” and “Looking Northwest.”
 
