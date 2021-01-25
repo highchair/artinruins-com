@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: []
+lists: [ 'RI Historic Resources Archive' ]
 tags: [ 'I-195 Relocation Project', 'Demolition by Progress' ]
 
 address: '86 Crary Street, Providence RI'

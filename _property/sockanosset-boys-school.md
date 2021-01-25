@@ -13,7 +13,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Cranston, RI' ]
 designers: [ 'Stone, Carpenter and Wilson' ]
-lists: [ 'Former Schools' ]
+lists: [ 'Former Schools', 'RI Historic Resources Archive' ]
 tags: []
 
 NRHP-ref-number:

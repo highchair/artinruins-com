@@ -13,7 +13,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'North Kingstown, RI' ]
 designers: [ 'Parsons, Klapp, Brinckerhoff and Douglass' ]
-lists: []
+lists: [ 'RI Historic Resources Archive' ]
 tags: [ 'Bridges' ]
 
 NRHP-ref-number:

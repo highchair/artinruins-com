@@ -13,7 +13,7 @@ categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'Downtown Providence', 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Did You Know?' ]
+lists: [ 'Did You Know?', 'RI Historic Resources Archive' ]
 tags: []
 
 address: ''
@@ -71,6 +71,10 @@ The revitalization of Waterplace Park and the uncovering of the river during the
 Providence was founded largely as a harbor at the top of the bay, and much of what is now called Capital Center was under water. Part of what is now the mall was the “Grand Point”, which jutted out into the Cove. Our 1823 view was very much what Providence looked like since it started to become a settlement. It was incorporated as a City in 1831. 
 
 One of the reasons why it became a thriving center were the conglomeration of shipping by ocean and shipping by rail. This was where those goods changed over from one shipping method to another with raw materials moving in from the ports or out from the mills along the Blackstone River. By 1856 some of the land in the Cove started to get filled in and landscaped into a smaller circular body of water surrounded by a raised Promenade, heavily favoring rail travel. The original Union Station was built right up to the Cove and the Promenade was used for the tracks. By 1900 the Cove was completely filled in and the area resembled what remained in Providence until the late 80s, with a shaped body of water and a raised platform of railroad tracks. The redesign of Waterplace Park incorporated a smaller circular design and a rerouted (largely removed) railroad and river.
+
+#### Other Links
+
++ [Report upon Sanitary Effects of Filling the Cove Basin in the City of Providence](//catalog.sos.ri.gov/repositories/2/archival_objects/1000){:target="_blank"}, 1868, State Archives
 
 
 ### Maps of the Cove Lands

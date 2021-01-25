@@ -35,7 +35,7 @@ thumbnail: brown-sharpe-jh-2004-04-07.jpg
 images:
   - url: brown-sharpe-ppl-undated-bldg1.jpg
     caption: 'Rhode Island Photographs Collection, Providence Public Library, undated'
-    alt: ''
+    alt: 'A series of red brick mill buildings with a public street running through them of varying heights and window styles. A three-story skybridge clad in copper floats over the street, connecting two of the larger buidings.'
   - url: brown-sharpe-ppl-undated-postcard1.jpg
     caption: 'Rhode Island Postcard Collection, Providence Public Library, undated'
   - url: brown-sharpe-ppl-undated-postcard2.jpg
@@ -165,6 +165,8 @@ At its height, **Brown & Sharpe** revolutionized the way machine parts were engi
 
 
 ### History
+
+Absent from the formal history below is the fact that the original music venue, the Living Room, was located in part of the lessor used portion of this complex. The famous “bubble window” was here. Would love some photos, send ‘em if you got ‘em. [This remembrance of Randy Hien](//www.ripopmusic.org/musical-artists/producers/randy-hien-the-living-room/){:target="_blank"} has a good photo of the Living Room at that time. 
 
 _From the National Register nomination form, 2002, prepared by Edward Connors and Associates_
 

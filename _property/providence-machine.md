@@ -11,7 +11,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Providence Industrial Sites 1981' ]
+lists: [ 'Providence Industrial Sites 1981', 'RI Historic Resources Archive' ]
 tags: [ 'I-195 Relocation Project', 'Demolition by Progress' ]
 
 address: '1 Allens Avenue, Providence RI'
