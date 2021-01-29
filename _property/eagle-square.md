@@ -110,7 +110,7 @@ The area around the river and bike path has been better landscaped and is pretty
 The real silver lining might be the smarter developments and stronger collectives that rose out of the ashes of Eagle Square. We mean 
 [Monohasset Mill]({% link _property/monohasset-mill.md %}), 
 [the Steel Yard]({% link _property/the-steel-yard.md %}), 
-[the Plant]({% link _property/the-plant.md %}), 
+[the Plant]({% link _property/providence-dye-bleach-calendering.md %}), 
 [Firehouse 13]({% link _property/firehouse-13.md %}), 
 and to a lessor degree, the Streuver Brothers investments in the City: 
 [Rising Sun Mills]({% link _property/national-providence-worsted.md %}), 

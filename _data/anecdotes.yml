@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: ri-tool\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: pawtucket-central-falls-train\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: ri-tool\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: pawtucket-central-falls-train\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -12,6 +12,10 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: brown-sharpe-foundry
+  person: 'Andrea McCaughey'
+  date: '2021-01-25'
+  content: 'My father,Robert McCaughey, my aunt Suzanne McCaughey, and my great grandfather James McCoy all worked at Brown & Sharp tool manufacturing co. My father came back from being in the Korean War to become an apprentice for B&S, then after a year he became the first mid/west tool rep. My father Robert D.McCaughey moved to Indiana from R.I. In the early 1060’s. He met my mother at Vonagets Tool Supply in Indianapolis. My father loved working for Brown &amp; Sharp his spec tools still sit in our basement in there wooden boxes.'
 
 - property: pawtucket-central-falls-train
   person: 'Bernie' 

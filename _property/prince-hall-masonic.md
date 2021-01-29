@@ -14,7 +14,7 @@ categories: [ '#DemolitionAlert' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: []
+lists: [ 'PPS Ten Most Endangered' ]
 tags: [ 'The Superlatives' ]
 superlative: 'The African Masonic Lodge was the first institution, other than the Black church, that organized on behalf of African Americans in the United States'
 
@@ -59,6 +59,8 @@ imagescredit: 'Contribution from Google Streetview'
 A fire that started in the basement ravaged the building on Christmas morning. The cause of the fire is under investigation. 
 
 The [Most Worshipful Prince Hall Grand Lodge of Rhode Island](//princehallmasonsglri.org/){:target="_blank"} are owners of the building and have been since 1966. Various activities take place and the Hall has been the center of a community for many members and non-members in the neighborhood. The basement level was home to the [Acacia Club](//princehallmasonsglri.org/acacia-club/){:target="_blank"}, which would showcase local and touring musicians. 
+
+Because of the significance of the structure and its history, the Providence Preservation Society added the building to its [Ten Most Endangered List of 2021](//ppsri.org/advocacy/mep/2021mep/){:target="_blank"} to call additional attention to efforts to save the structure and rebuild. 
 
 
 ### History

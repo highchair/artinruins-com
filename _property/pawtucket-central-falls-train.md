@@ -13,7 +13,7 @@ categories: [ '#UrbanDecay' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'F. W. Mellor' ]
-lists: [ 'RI Historic Resources Archive' ]
+lists: [ 'RI Historic Resources Archive', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Train Stations' ]
 
 NRHP-ref-number:
