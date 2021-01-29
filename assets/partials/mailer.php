@@ -4,6 +4,7 @@
 // (this is an effort to make sure it was a human)
 // And then send the anecdote to myself
 error_reporting(E_ALL);
+date_default_timezone_set('America/New_York');
 
 if ( count($_POST) ) {
   $postaction = $_POST['submit'];
@@ -62,10 +63,11 @@ if ( count($_POST) ) {
     $to = 'info@artinruins.com';
     $subject = "Anecdote about ". $property;
     
-    $bodyofmessage = "Property: ".$property."\n";
-    $bodyofmessage .= "Name: ".$theirname."\n";
-    $bodyofmessage .= "From: ".$theiremail."\n";
-    $bodyofmessage .= "\n".$anecdote."\n";
+    $bodyofmessage .= "From: ".$theiremail."\n\n";
+    $bodyofmessage = "- property: ".$property."\n";
+    $bodyofmessage .= "  person: '".$theirname."'\n";
+    $bodyofmessage .= "  date: '".date('Y-m-d')."'\n";
+    $bodyofmessage .= "  content: '".$anecdote."'\n";
     
     $headers = "From: ". $theiremail . "\r\n" . "Reply-To: " . $theiremail . "\r\n" . "X-Mailer: PHP/" . phpversion();
     
