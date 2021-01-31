@@ -13,8 +13,8 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Exeter, RI' ]
 designers: [ 'Donald J. Prout and Associates' ]
-lists: [ 'Did You Know?', 'Former Schools' ]
-tags: [ 'Demolition by Neglect' ]
+lists: [ 'Did You Know?' ]
+tags: [ 'Demolition by Neglect', 'Former Schools' ]
 
 address:
 latitude: '41.555459'

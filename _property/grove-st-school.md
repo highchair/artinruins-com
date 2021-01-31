@@ -12,8 +12,8 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'National Register of Historic Places', 'Broadway-Armory Historic District', 'PPS Ten Most Endangered', 'Former Schools' ]
-tags: [ 'Demolition by Neglect', 'Demolition without Permit' ]
+lists: [ 'National Register of Historic Places', 'Broadway-Armory Historic District', 'PPS Ten Most Endangered' ]
+tags: [ 'Demolition by Neglect', 'Demolition without Permit', 'Former Schools' ]
 
 NRHP-ref-number: '74000047 (contributing)'
 added-to-NRHP: 'May 1, 1974'
