@@ -12,6 +12,14 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: alice-building-pvd
+  person: 'Curtis Constant'
+  date: '2009-08-11'
+  content: 'I am also a student at Johnson & Wales University (JWU), but I have lived in the Alice Building for the past two years with a roommate. The renovations in there are beautiful as long as you are someone who likes lofts and open floor plans. Not the best place to have a roommate for more than a year with; unless it is your significant other. The walls are so big in there anyone who thinks about moving in there should highly consider in investing in a projector to watch TV on. There is a lot of wall space. My apartment was on the third floor over looking Westminster Street (301) and it was an amazing spot for a college kid. Would you believe that if you have a roommate there the rent is less than or equal to the JWU dorms?! Students pay around $1,100 a month for the time that they are in school. It isn’t like you have to be rich to live there. I had some great times in the Alice Building and I feel like it is the best building out of all of the ones that the Westminster Lofts own.'
+
+- property: alice-building-pvd
+  person: 'Sean Banigan'
+  content: 'Joseph Banigan was my great-great-great grandfather. His work impresses me so much. I now go to Johnson and Wales in Providence and as i sit to eat lunch in our cafe, the Alice building is in view. I am so amazed with the work that he did, I dream of someday becommin as greatly appreciated as he was. I would also like to someday live in the Alice building.'
 
 - property: peerless-low-buildings-pvd
   person: 'Pat C' 
