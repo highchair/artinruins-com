@@ -1,0 +1,29 @@
+/*body*/.all-props {
+  
+  &__list {}
+  
+  &__alpha {
+    @include ff-sans(true);
+    background-color: palette('gray-100');
+    color: palette('brand-teal-dark');
+    line-height: 1;
+    padding: 0.5rem;
+    margin: -0.125rem -0.5rem;
+    position: sticky;
+    top: 0;
+  }
+  
+  &__item {
+    border-bottom: 2px dotted palette('brand-orange');
+    padding: ($vertical-rhythm/2) 0;
+  }
+  
+  &__link {
+    // font-size controlled in typography
+  }
+  
+  &__aka,
+  &__cats {
+    display: block;
+  }
+}

@@ -1,0 +1,37 @@
+---
+layout: page
+permalink: property/all/
+title: "All Properties"
+meta-title: "All Properties | ArtInRuins"
+body-class: all-props
+sitemap:
+  lastmod: 2021-02-02
+  priority: 0.8
+  changefreq: 'weekly'
+---
+
+{%- assign items = site.property | sort: "title" -%}
+{%- assign alpha = '' -%}
+
+<p>{{ items.size }} properties in alphabetical order by historic name — “also known as” names added for context. To explore properties by tags like location, dates, and more, use <a href="{% link all-tags.html %}">our All tags page</a>.</p>
+
+<ul class="all-props__list u__list__unstyled" role="list">
+{%- for item in items -%}
+  {%- if item.title and item.layout != 'redirect' -%}
+    {%- assign newalpha = item.title | slice: 0 -%}
+    {%- if newalpha != alpha -%}
+  <li class="all-props__alpha">{{ newalpha }}</li>
+      {% assign alpha = newalpha %}
+    {%- endif -%}
+  <li class="all-props__item">
+    <a class="all-props__link" href="{{ item.url }}">{{ item.title }}</a>
+    {%- if item.aka -%}<span class="all-props__aka"><b>aka: </b>{{ item.aka }}</span>{%- endif -%}
+    <span class="all-props__cats"><b>Status: </b> 
+      {%- for cat in item.categories -%}
+        {{ cat }}{% unless forloop.last %}, {%- endunless -%}
+      {%- endfor -%}
+    </span>
+  </li>
+  {%- endif -%}
+{%- endfor -%}
+</ul>
