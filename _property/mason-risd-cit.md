@@ -13,11 +13,11 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Stone, Carpenter and Wilson' ]
-lists: []
+lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
 tags: [ 'College Properties', 'RISD' ]
 
-NRHP-ref-number:
-added-to-NRHP:
+NRHP-ref-number: '84001967 (contributing)'
+added-to-NRHP: 'February 10, 1984'
 
 address: '169 Weybosset St #3830, Providence RI'
 latitude: '41.8224684'
@@ -61,6 +61,6 @@ The Center for Integrative Technology provides maker resources and studio space 
 
 ### History
 
-_From RIHPHC’s Survey of Downtown Providence, 1984_ 
+_From RIHPHC’s Survey of Downtown Providence, 1981_ 
 
 **Mason Building** (1903) — Stone, Carpenter and Wilson, architect. 6-story, brick and metal sheeted, steel frame structure with late 20th-century storefront; 4-story, 3-bay articulation of upper stories with three Chicago windows on each story, corbel cornice; modern interiors. The structure was built by the John N. Mason Real Estate Company and used as commercial and office space. While more massive than neighboring structures to its east, the Mason building is similar in style to these commercial structures. It is harmonious in style and scale with the [Fletcher building] to its west and the Outlet Company across Weybosset street (since burned).

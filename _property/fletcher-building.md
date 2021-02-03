@@ -13,11 +13,11 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'George Waterman Cady' ]
-lists: []
+lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
 tags: [ 'College Properties', 'RISD' ]
 
-NRHP-ref-number:
-added-to-NRHP:
+NRHP-ref-number: '84001967 (contributing)'
+added-to-NRHP: 'February 10, 1984'
 
 address: '169 Weybossett Street, Providence RI'
 latitude: '41.8225017'
