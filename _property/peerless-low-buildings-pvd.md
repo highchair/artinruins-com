@@ -4,10 +4,10 @@ slug: peerless-low-buildings-pvd
 aka: 'Peerless Department Store (circa 1950–1985), Lupo’s Heartbreak Hotel (1993–2003), Met Cafe (1993—2003), Woolworth’s'
 date-modified: 2021-01-29 12:00
 
-built: '1866, 1873, 1892 — 1897'
+built: '1866, 1873, 1892 | 1897'
 demolition: 
 redeveloped: '2004-2005'
-units: '97'
+units: '110'
 decade: '1860-1869'
 date-added: '2004'
 categories: [ '#NotInRuins' ]

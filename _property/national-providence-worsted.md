@@ -7,6 +7,7 @@ date-modified: 2020-12-29 12:00
 built: '1881–1930'
 demolition: 
 redeveloped: '2003-2005'
+units: '150'
 decade: '1880-1889'
 date-added: '2003'
 categories: [ '#NotInRuins' ]

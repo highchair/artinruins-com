@@ -7,7 +7,7 @@ date-modified: 2020-12-19 12:00
 built: '1881'
 demolition: 
 redeveloped: '2007–2009'
-units: '124'
+units: '163' #124 + 39, two phases. Weave shed added later
 decade: '1880-1889'
 date-added: '2003'
 categories: [ '#NotInRuins' ]

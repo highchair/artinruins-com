@@ -7,6 +7,7 @@ date-modified: 2020-12-16 12:00
 built: '1914'
 demolition: 
 redeveloped: '2015-2016'
+units: '12'
 decade: '1910-1919'
 date-added: '2005'
 categories: [ '#NotInRuins' ]

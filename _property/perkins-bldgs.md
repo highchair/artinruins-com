@@ -7,7 +7,7 @@ date-modified: 2021-01-02 12:00
 built: '1887–1892'
 demolition: 
 redeveloped: '2004-2005'
-units: '69'
+units: '91' # 69 market rate + 22 affordable
 decade: '1880-1889'
 date-added: '2003'
 categories: [ '#NotInRuins' ]
