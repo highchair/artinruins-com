@@ -12,6 +12,21 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: easton-burnham-machine
+  person: 'robin'
+  date: '2010-01-08'
+  content: 'I worked at both Standard Uniform and Perry Blackburne when I was in my early 20s. I can recall the miserable heat and smell of the cleaning machines at the uniform company. I was in charge of replacing buttons and steam pressing the uniforms before the orders were filled. If the temperature inside the building went above 96 degrees they had to let us go home. Many eyes watched the thermostat in the Summertime! Perry Blackburne was a keychain company. We glued and packaged keychains in blister packs for the local retail stores. I still have some of the keychains til this day!'
+
+- property: easton-burnham-machine
+  person: 'Kurt R Bryson'
+  date: '2008-03-06'
+  content: 'My Parents Russell & Elaine Bryson Ran Our Metal Finishing Company Currier Industrials on The Conant St Side for a few Years in The early 1980s. At That time The building was owned By The Percelay Family. Abe Percelay Ran his used Machinery Business Associated Machine, Who I later worked for as a Teenager in Summer and Afterschool when he moved to Dunnell Lane. Brian Sheppard Ran His New England Paint Manufacturing on the opposite end of the Building. I have fond memories of those times When People had a much better sense of Community. They all helped each other and looked out for each other. I can only hope those values will return to our society sometime in the Future. Rest in Peace Russell Bryson, Elaine Bryson, Abe Percelay.'
+
+- property: atlas-terminal-warehouses
+  person: 'Steve Koch'
+  date: '2021-02-01'
+  content: 'My Dad, Charles Koch, worked as warehouse manager in the Atlas building for 20 years. The warehouse storage company was owned by Charles Sherman. As a young boy of 16 years old I worked there in 1968. I would clean the offices in the morning and then move out to the warehouse to unload railroad freight cars and and tractor trailers. I was paid $1.25 per hour. It was grueling work. I was injured in a freight car when a coworker tipped the forklift blades in the wrong direction and buried me in 2400 pounds of freight (60 boxes of canned goods), ouch! I was ecstatic to get a job at a grocery store where they paid me a whopping $1.85 per hour!'
+
 - property: alice-building-pvd
   person: 'Curtis Constant'
   date: '2009-08-11'
