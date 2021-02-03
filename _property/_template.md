@@ -7,12 +7,14 @@ date-modified: 2021-01-10 12:00
 built: 
 demolition: 
 redeveloped: 
+units:
 decade: '1940-1949'
 date-added:
 categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding', '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
+people: []
 lists: []
 tags: []
 

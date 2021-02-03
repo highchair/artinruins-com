@@ -28,7 +28,7 @@ _“Riverboat Ride: Crescent Park, Riverside, RI”_, George Malone for Laff in 
 
 #### HTML5 accordion
 
-<details markdown="1">
+<details markdown="1" class="rhythm">
 <summary>Read the full article</summary>
 content in markdown form
 </details>
@@ -37,7 +37,8 @@ content in markdown form
 ## Project Road Map
 * Add the ability to browse properties by Map
 * Then and Now template with a horizontal slider thing?
-* Paginate category pages
+* Paginate category pages… alphabetical?
+* Do something tag-like with the new "People" set of tags. These people pages deserve more of a description to deliver the biography and significance of a person
 
 
 ## Tools

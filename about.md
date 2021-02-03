@@ -6,7 +6,7 @@ title: "About ArtInRuins"
 meta-title: "About A.I.R. | ArtInRuins"
 body-class: about
 sitemap:
-  lastmod: 2020-09-04
+  lastmod: 2021-02-02
   priority: 0.6
   changefreq: 'monthly'
 ---
@@ -71,3 +71,7 @@ ArtInRuins was founded by J. Hogue, Sarah Clover, and Kathleen Griffin. Sarah co
 J. Hogue continues to maintain, design, and take photos for the site. Over the years many contributors have helped collect history or photography, and we do our best to credit them on the individual property pages. 
 
 We are thankful to the individuals that have purchased t-shirts, posters, and made monetary donations to the project. You have our gratitude and we will always try to acknowledge your generosity. We are also thankful to the businesses that have hired [Highchair designhaus](//highchairdesign.com) over the years for design and web development projects. In your own ways, you have been helping to sustain this project. 
+
+***
+
+Need to contact someone without using our Anecdote form? Email [info@artinruins.com](mailto:info@artinruins.com) but be warned that we are not always good about returning email right away. 

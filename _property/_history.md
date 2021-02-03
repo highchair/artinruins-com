@@ -42,19 +42,19 @@ Saved section (14)
 + Carpenter Mills
 + Dyerville Mill
 + Engine Station #9
-++ Greystone / for. RI Tool / for. Providence Tool
++ Greystone / for. RI Tool / for. Providence Tool
 + J & H Electric
-++ Lebanon Mill / Riverside lofts
++ Lebanon Mill / Riverside lofts
 + Poirier’s Diner / El Faro / Krystal's’Diner
 + National Providence and Worsted Mills
 + Rau (Ray) Fastner
-++ South Street Power Plant / Heritage Harbor Museum
++ South Street Power Plant / Heritage Harbor Museum
 + Texaco Station / West Broadway Neighborhood Association
 
 Urban Decay section (16)
 + Atlas Warehouses
-++ Brown and Sharpe Manufacturing
-++ Central Falls/Pawtucket Train Station
++ Brown and Sharpe Manufacturing
++ Central Falls/Pawtucket Train Station
 + Christ Episcopal Church
 + Fox Point Bathhouse
 + Grove Street School
@@ -70,7 +70,7 @@ Urban Decay section (16)
 
 Construction
 + Brown's new BioMed center, Meeting St. (first!)
-++ Downtown Developments — the Alice Building, Lerner, Peerless, O'Gorman, Conrad, as well as 755 Westminister and the Monohassett Mills.
++ Downtown Developments — the Alice Building, Lerner, Peerless, O'Gorman, Conrad, as well as 755 Westminister and the Monohassett Mills.
 + Downtown Parking Garage / Traveller's Aid and Mama's Metro
 + GTECH Headquarters
 + ITEM New Product Development
@@ -85,21 +85,17 @@ Historical
 ++ RIPTA (2003)
 
 Redeveloped
-++ 60 Valley Street / Providence Bleaching, Dyeing and Calendaring
++ 60 Valley Street / Providence Bleaching, Dyeing and Calendaring
 ++ 1088 Main Street / Rag & Bone Bindery
-++ Alice Building
++ Alice Building
 + American Woolen / Riverside Mills
-++ Brown and Sharpe Manufacturing
 ++ Trinity Rep Extension, Citizens Bank
 ++ Dunlop Tire / Providence Teaming Co.
 + East Side Tunnel Reopened?
-++ Engine Station #7
 ++ Hotel Providence / Lederer building and Bell dormitory
-++ Lebanon Mills
-++ Lerner / Wilkinson bldg
++ Lerner / Wilkinson bldg
 + Mason bldg//RISD Center for Integrative Technology
 ++ Palmer Block / the “Cosmopolitan”
-++ Parkin Yarn
 ++ Pawtucket Armory
 ++ Peerless Building
 ++ Peoples Savings Bank
@@ -123,7 +119,6 @@ Still In Use
 ++ Hope Webbing
 ++ Louis Fink building
 ++ Ocean House
-++ Rhode Island Tool
 + Wanskuck Hall
 + Wanskuck Mills
 
@@ -133,16 +128,15 @@ Streetscape
 ++ Westminster Street (2003)
 
 Urban Decay
-++ 354 Pine Street
++ 354 Pine Street
 + Abandoned retail
-++ Bayley Street
 + Bootleggers
 ++ Central Falls/Pawtucket Train Station (2003)
 + Earl Mason Carriage House
 + First Federal Bank, recently Buck a Book
 ++ New England Paper Tube, Co. 
 + North Main Street — Ethan Allen, Sears Auto, Sears, Anderson Little, #1320
-++ Providence Armory
+++ Providence Armory (?)
 
 
 ## 2005 (only the ones that have been added)
@@ -163,7 +157,6 @@ Historic
 + Postcards from the Past 2
 + Providence 1903
 ++ Kennedy Plaza, Providence
-++ State Archives
 
 Still in Use
 ++ 1 Charles Street
@@ -177,7 +170,7 @@ Still in Use
 ++ Smith Webbing
 ++ Steeple Street
 ++ Union Station
-++ Washington Street (Talk of the Town, Cuban Revolution)
++ Washington Street (Talk of the Town, Cuban Revolution)
 
 Redeveloped
 ++ the Alice Building (added 2004, expanded 2005)
@@ -393,7 +386,7 @@ Still In Use (41)
 ++ Davol Square
 
 Urban Decay (40)
-++ The former Poirier Diner moved to its new location, now the Westminster Diner
++ The former Poirier Diner moved to its new location, now the Westminster Diner
 + RISD's Farnum Hall (RIP)
 + Sutton Motor Inn
 
