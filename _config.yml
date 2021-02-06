@@ -72,6 +72,8 @@ exclude:
   - _property-drafts
   - _property/_history.md
   - _property/_template.md
+  - all-properties.html
+  - all-tags.html
   - stats.html
   - sitemap.xml
 

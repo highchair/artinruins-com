@@ -69,10 +69,9 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - assets/js/cookie-consent.js
   - _property/_history.md
   - _property/_template.md
-  - _property-drafts
+  - _drafts
 
 # https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:
