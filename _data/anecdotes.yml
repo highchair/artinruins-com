@@ -12,6 +12,24 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: lederer-building-pvd
+  person: 'Bill Vallante' 
+  date: '2010-11-22' 
+  content: 'I was born and in Providence and grew up there in the 50s and 60s. I could be wrong, but as I recall, what is today a beauty of a hotel (the Hotel Providence), was, in those days, a flea bag hotel called “The Kent Hotel.” If so, whoever built and designed this place did one hell of a job! Kudos.
+
+
+(**A.I.R.**: According to the National Register documentation, you are correct. We are unsure when the Blackston Hotel became the Kent Hotel, but it is listed as a business that was located here in the Westminster St building)'
+
+- property: lederer-building-pvd
+  person: 'dennis sullivan' 
+  date: '2009-06-16' 
+  content: 'i was born in providence in 1954 lived an worked here my whole life. i have seen downtown providence at its worst and now i have the chance to see it at its best. i am also proud to say that i am the chief engineer of the hotel providence. the best hotel in providence.'
+
+- property: lederer-building-pvd
+  person: 'Jeanne A (Edgerley) McGirr' 
+  date: '2008-07-30' 
+  content: 'My Mother and Aunt (Marietta Crosby and Helen Edgerley) had a small resturaunt in the Lederer Building called the Cake Box in the late 30s early 40s. Spent a lot of time there. There was a hairdresser across the hall.'
+
 - property: easton-burnham-machine
   person: 'robin'
   date: '2010-01-08'
