@@ -15,7 +15,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Newport Collaborative Architects' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: []
+tags: [ 'Former/Current Hotels' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
@@ -54,7 +54,7 @@ images:
   - url: lederer-jh-2005-11-03.jpg
     caption: 'The former Blackstone Hotel and Bell Dormitory for Johnson and Wales, Westminster Street'
 
-imagescredit: 'Contribution from <a href="://www.re-vision.com/photography/providence/" target="_blank">Jay Boersma’s student collection</a>'
+imagescredit: 'Contribution from <a href="//www.re-vision.com/photography/providence/" target="_blank">Jay Boersma’s student collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

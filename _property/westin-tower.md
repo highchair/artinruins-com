@@ -14,7 +14,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Jung Brannen Associates' ]
 lists: []
-tags: []
+tags: [ 'Former/Current Hotels' ]
 
 address: 'One West Exchange Street, Providence RI'
 latitude: '41.825213'

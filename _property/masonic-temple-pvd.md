@@ -15,7 +15,7 @@ neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Osgood and Osgood', 'Jackson, Robertson, and Adams' ]
 lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places', 'Capital Center Parcels' ]
-tags: []
+tags: [ 'Former/Current Hotels' ]
 
 NRHP-ref-number: '93001181'
 added-to-NRHP: 'October 5, 1993'
