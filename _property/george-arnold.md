@@ -35,6 +35,7 @@ images:
     alt: 'A narrow 3-story building made of yellow-grey brick with copper accents. Seven bays wide with a central entrance bay, the facade occupies an entire city block but it only 12 and a half feet deep.'
   - url: george-arnold-jw-2004-01.jpg
   - url: george-arnold-jw-2004-02.jpg
+  - url: george-arnold-jh-2005-04-01.jpg
   - url: george-arnold-jh-2010-04-01.jpg
   - url: george-arnold-jh-2010-04-02.jpg
   - url: george-arnold-jh-2010-04-03.jpg
