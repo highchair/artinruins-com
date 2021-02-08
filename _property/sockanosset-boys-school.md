@@ -12,7 +12,7 @@ date-added: 2002
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Cranston, RI' ]
-designers: [ 'Stone, Carpenter and Wilson' ]
+designers: [ 'Stone, Carpenter, & Willson' ]
 lists: [ 'RI Historic Resources Archive' ]
 tags: [ 'Former Schools' ]
 
@@ -99,7 +99,7 @@ There was a machine shop, a carpenter shop, a printing shop, a mason shop and a 
 
 The cottages that housed the boys were designed to give them a sense of ordered and structured home life; they were both institutional and domestic at the same time. These handsome cottages, which surround a circular driveway, were built between 1881 and 1895 and combine solid rubblestone walls, brownstone quoins, and arched windows with Stick style porches.
 
-Wholesome recreational activities were provided by the gymnasium (built in 1898). The chapel and its infirmary addition administered the necessary spiritual and physical healing needed by the wayward youth. The current chapel (now minus the infirmary wing, which was destroyed by fire in the 1970s. In some of the photos you can see the ghost of the roofline) was built in 1891 of stone, with a shingled porch. Designed by Stone, Carpenter and Wilson, it is one of the most handsome buildings at the Howard Complex.
+Wholesome recreational activities were provided by the gymnasium (built in 1898). The chapel and its infirmary addition administered the necessary spiritual and physical healing needed by the wayward youth. The current chapel (now minus the infirmary wing, which was destroyed by fire in the 1970s. In some of the photos you can see the ghost of the roofline) was built in 1891 of stone, with a shingled porch. Designed by [Stone, Carpenter, & Willson]({% link designer/stone-carpenter-willson.html %}), it is one of the most handsome buildings at the Howard Complex.
 
 The Rhode Island Historical Preservation Commission report on Cranston states, 
 

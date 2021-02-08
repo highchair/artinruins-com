@@ -12,7 +12,7 @@ date-added: '2005'
 categories: [ '#UsedToBeThere', '#ArchiveRI' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Stone, Carpenter and Wilson' ]
+designers: [ 'Stone, Carpenter, & Willson' ]
 lists: [ 'HABS HAER', 'Provisions Warehouse District', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Demolition by Neglect', 'The Superlatives' ]
 superlative: 'The largest cold storage plant in New England outside of Boston with nearly 3 million cubic feet of storage by 1910'
