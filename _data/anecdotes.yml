@@ -12,6 +12,43 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: union-wadding
+  person: 'Linda LaMarca'
+  date: '2020-12-21'
+  content: 'I just found among my collections an Angel Tree Topper made by the Union Wadding Company. I also found an unopened package of gift wrap entitled WILDLIFE from Red Farm Studio, Pawtucket.'
+
+- property: dreyfus-hotel
+  person: 'Renni' 
+  date: '2014-10-24' 
+  content: 'My Great Uncle was the owner of they Dreyfus Hotel around 1950. A Greek immigrant, Tom Trulis.'
+
+- property: dreyfus-hotel
+  person: 'Bronagh O’Kane' 
+  date: '2013-05-14' 
+  content: 'I am tracing my family tree and I believe my father’s cousin was a waiter at Dreyfus hotel in 1918. He was called Charles Patrick O’Kane'
+
+- property: dreyfus-hotel
+  person: 'Amanda' 
+  date: '2012-12-30' 
+  content: 'Lived here in 1993 in college at JWU. Good times :)'
+
+- property: dreyfus-hotel
+  person: 'Mary' 
+  date: '20100-11-12' 
+  content: 'My grandfather and grandmother met in the Dreyfus Hotel. She was a waitress and he was a traveling salesman from Chicago. They were married in 1919, so my grandmother was probably a waitress there in 1917, 1918, and maybe some time before that.'
+
+- property: dreyfus-hotel
+  person: 'Josh'
+  content: 'The Interior design firm I work at (<a href="//www.jbd.cc" target="_blank">Judd Brown Designs</a>) designed the interior of Local 121. Most of the mill-work and detailing is original to the space. You have to go and check out the corner booths.'
+
+- property: dreyfus-hotel
+  person: 'Jef Nickerson'
+  content: 'Local 121 is awesome. By far my new favorite spot Downcity.'
+
+- property: dreyfus-hotel
+  person: 'Shirley Hanley'
+  content: 'I do think at one time in the 1950s the Dreyfus had a cocktail lounge that was for women only. I do not think it would be possible in today’s world.'
+
 - property: lederer-building-pvd
   person: 'Bill Vallante' 
   date: '2010-11-22' 
