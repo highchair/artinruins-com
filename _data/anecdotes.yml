@@ -12,6 +12,21 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: rialto-theatre
+  person: Mike P
+  date: '2010-10-20'
+  content: 'For years I had heard stories from folks older than me about “Fay’s Theatre” downtown. this must be it. I was told it was basically silent films, with piano players and old vaudeville acts.'
+  
+- property: rialto-theatre
+  person: shane jones'
+  date: '2008-05-31'
+  content: 'I have noticed that there is a small plaque on this building above the door to the smoke shop, which is dedicated to the electrical scientist Nicola Tesla. I asked around and apparently it was placed there by the owner of a prior smoke shop &ndash; who felt some personal affinity with Tesla.'
+
+- property: crescent-park
+  person: 'Barry Belotti'
+  date: '2021-02-08'
+  content: 'Hi, I was wondering if anyone knows the date that the Three Stooges performed at the park? I am talking about around 1968 I believe. I believe it was around Memorial Day. My Mom and Dad brought me for my birthday. Over 50 years ago and I still remember the day. I met Moe after the show and he put me in a headlock for a photo. Unfortunately, the photo was lost years ago. Are there any photos of them there that day? Love to see them. Thanks!'
+
 - property: union-wadding
   person: 'Linda LaMarca'
   date: '2020-12-21'

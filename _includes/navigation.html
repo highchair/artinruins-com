@@ -7,10 +7,10 @@
     <nav aria-label="Primary">
       <ul role="list">
         <li>
-        {%- if JEKYLL_ENV == 'production' -%}
+        {%- if JEKYLL_ENV == production -%}
           <a href="{% link all-properties.html %}" class="{% if page.permalink == 'property/all/' %}active{% endif %}" title="List all Properties">Architecture</a>
         {%- else -%}
-          <a href="#" class="{% if page.permalink == 'property/all/' %}active{% endif %}" title="List all Properties">Architecture</a>
+          <a href="#" title="List all Properties">Architecture</a>
         {%- endif -%}
           <ul role="list">
             <li><a href="{% link category/archiveri.html %}" class="{% if page.permalink == 'category/archiveri/' %}active{% endif %}"><span class="u__sr-only">Archives RI</span><span aria-hidden="true">#ArchiveRI</span></a></li>
@@ -19,10 +19,10 @@
             <li><a href="/arch/?id=decay"><span class="u__sr-only">Urban Decay</span><span aria-hidden="true">#UrbanDecay</span></a></li>
             <li><a href="{% link category/usedtobethere.html %}" class="{% if page.permalink == 'category/usedtobethere/' %}active{% endif %}"><span class="u__sr-only">Used To Be There</span><span aria-hidden="true">#UsedToBeThere</span></a></li>
             <li><a href="{% link category/whataretheybuilding.html %}" class="{% if page.permalink == 'category/whataretheybuilding/' %}active{% endif %}"><span class="u__sr-only">What Are They Building</span><span aria-hidden="true">#WhatAreTheyBuilding</span></a></li>
-          {%- if JEKYLL_ENV == 'production' -%}
+          {%- if JEKYLL_ENV == production -%}
             <li><a href="{% link all-tags.html %}" class="{% if page.permalink == 'tags/' %}active{% endif %}">All Tags</a></li>
           {%- else -%}
-            <li><a href="#" class="{% if page.permalink == 'tags/' %}active{% endif %}">All Tags</a></li>
+            <li><a href="#">All Tags</a></li>
           {%- endif -%}
           </ul>
         </li>
