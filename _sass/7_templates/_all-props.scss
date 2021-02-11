@@ -1,6 +1,33 @@
 /*body*/.all-props {
   
-  &__list {}
+  &__search {
+    
+    // Darn the specificity of not
+    &:not(.btn) {
+      display: block;
+      padding: 0.5em 1em 0.5em 2em;
+      width: 100%;
+    }
+  
+    &__wrapper {
+      position: relative;
+      z-index: 1;
+      
+      svg {
+        color: palette('brand-teal');
+        height: em(24);
+        position: absolute;
+        top: 50%;
+        left: 0.5em;
+        transform: translateY(-50%);
+        width: em(24);
+      }
+    }
+  }
+  
+  &__list {
+    margin-top: $vertical-rhythm;
+  }
   
   &__alpha {
     @include ff-sans(true);

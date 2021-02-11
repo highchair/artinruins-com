@@ -359,6 +359,12 @@ dfn[title] {
 //  padding: 0.125em 0.25em 0;
 //}
 
+mark {
+  background-color: palette('brand-yellow');
+  display: inline-block;
+  padding: 0.125em 0 0.0625em;
+}
+
 //code,
 //kbd,
 //samp {
@@ -372,9 +378,6 @@ dfn[title] {
 //  //color: $color-code;
 //}
 //
-//mark {
-//  background-color: #ff9; // yellow
-//}
 
 //strike,
 //s {

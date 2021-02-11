@@ -19,6 +19,11 @@
     }
   }
   
+  // Inline anything
+  &__inline {
+    display: inline !important;
+  }
+  
   // Text
   &__text {
     &__small {

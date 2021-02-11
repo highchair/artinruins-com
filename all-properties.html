@@ -13,25 +13,111 @@ sitemap:
 {%- assign items = site.property | sort: "title" -%}
 {%- assign alpha = '' -%}
 
+<style>
+  .js__searchable > ul > li.is-hidden {
+    display: none;
+  }
+  .js__searchable__notfound {
+    display: none;
+  }
+  .js__searchable__notfound.is-visible {
+    display: block;
+  }
+</style>
+
 <p>{{ items.size }} properties in alphabetical order by historic name — “also known as” names added for context. To explore properties by tags like location, dates, and more, use <a href="{% link all-tags.html %}">our All tags page</a>.</p>
 
-<ul class="all-props__list u__list__unstyled" role="list">
-{%- for item in items -%}
-  {%- if item.title and item.layout != 'redirect' -%}
-    {%- assign newalpha = item.title | slice: 0 -%}
-    {%- if newalpha != alpha -%}
-  <li class="all-props__alpha">{{ newalpha }}</li>
-      {% assign alpha = newalpha %}
+<section class="js__searchable">
+  <div class="all-props__search__wrapper">
+    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg>
+    <label for="search-properties" class="u__sr-only">Search All Properties</label>
+    <input class="all-props__search" id="search-properties" name="search-properties" type="search" value="" placeholder="Start typing to find matches" />
+  </div>
+  <ul class="all-props__list u__list__unstyled" role="list">
+  {%- for item in items -%}
+    {%- if item.title and item.layout != 'redirect' -%}
+      {%- assign newalpha = item.title | slice: 0 -%}
+      {%- if newalpha != alpha -%}
+    <li class="all-props__alpha">{{ newalpha }}</li>
+        {% assign alpha = newalpha %}
+      {%- endif -%}
+    <li class="all-props__item">
+      <a class="all-props__link" href="{{ item.url }}">{{ item.title }}</a>
+      {%- if item.aka -%}<span class="all-props__aka"><b>aka: </b>{{ item.aka }}</span>{%- endif -%}
+      <span class="all-props__cats"><b>Status: </b> 
+        {%- for cat in item.categories -%}
+          {{ cat }}{% unless forloop.last %}, {%- endunless -%}
+        {%- endfor -%}
+      </span>
+    </li>
     {%- endif -%}
-  <li class="all-props__item">
-    <a class="all-props__link" href="{{ item.url }}">{{ item.title }}</a>
-    {%- if item.aka -%}<span class="all-props__aka"><b>aka: </b>{{ item.aka }}</span>{%- endif -%}
-    <span class="all-props__cats"><b>Status: </b> 
-      {%- for cat in item.categories -%}
-        {{ cat }}{% unless forloop.last %}, {%- endunless -%}
-      {%- endfor -%}
-    </span>
-  </li>
-  {%- endif -%}
-{%- endfor -%}
-</ul>
+  {%- endfor -%}
+  </ul>
+  <div class="js__searchable__notfound"><p><b>No matches were found&hellip;</b> Totally possible we do not have that property yet! Also possible, that we are not aware of the name you are searching for — as in, that name is not associated with the history of the places we have indexed.</p></div>
+</section>
+
+<script>
+  /* Thanks to https://osvaldas.info/examples/real-time-search-in-javascript/ */
+  'use strict';
+
+  ;( function ( document, window, index )
+  {
+    var hasElementClass = function( element, className ){ return element.classList ? element.classList.contains( className ) : new RegExp( '(^| )' + className + '( |$)', 'gi' ).test( element.className ); },
+      addElementClass = function( element, className ){ element.classList ? element.classList.add( className ) : element.className += ' ' + className; },
+      removeElementClass = function( element, className ){ element.classList ? element.classList.remove( className ) : element.className = element.className.replace( new RegExp( '(^|\\b)' + className.split( ' ' ).join( '|' ) + '(\\b|$)', 'gi' ), ' ' ); };
+
+    // search & highlight
+    ;( function ( document, window, index )
+    {
+      var container = document.querySelector( '.js__searchable' );
+      if( !container ) return true;
+
+      var input = container.querySelector( 'input' ),
+        notfound = container.querySelector( '.js__searchable__notfound' ),
+        items = document.querySelectorAll( '.js__searchable > ul > li' ),
+        item = {},
+        itemsIndexed	= [];
+
+      [].forEach.call( items, function( entry )
+      {
+        itemsIndexed.push( entry.textContent.replace( /\s{2,}/g, ' ' ).toLowerCase() );
+      });
+
+      input.addEventListener( 'keyup', function( e )
+      {
+        if( e.keyCode == 13 ) // enter
+        {
+          input.blur();
+          return true;
+        }
+
+        [].forEach.call( items, function( entry )
+        {
+          entry.innerHTML = entry.innerHTML.replace( /<mark>([^<]+)<\/mark>/gi, '$1' );
+        });
+
+        var searchVal = input.value.trim().toLowerCase();
+        if( searchVal.length )
+        {
+          itemsIndexed.forEach( function( entry, i )
+          {
+            if( itemsIndexed[ i ].indexOf( searchVal ) != -1 )
+            {
+              removeElementClass( items[ i ], 'is-hidden' );
+              items[ i ].innerHTML = items[ i ].innerHTML.replace( new RegExp( searchVal+'(?!([^<]+)?>)', 'gi' ), '<mark>$&</mark>' );
+            }
+            else
+              addElementClass( items[ i ], 'is-hidden' );
+          });
+        }
+        else [].forEach.call( items, function( entry ){ removeElementClass( entry, 'is-hidden' ); });
+
+        if( items.length == [].filter.call( items, function( entry ){ return hasElementClass( entry, 'is-hidden' ) } ).length )
+          addElementClass( notfound, 'is-visible' );
+        else
+          removeElementClass( notfound, 'is-visible' );
+      });
+    }( document, window, 0 ));
+
+  }( document, window, 0 ));
+</script>

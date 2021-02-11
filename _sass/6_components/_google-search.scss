@@ -7,10 +7,11 @@
     vertical-align: text-bottom;
   }
   
-  &__input {
+  &__input:not(.btn) {
     background-color: transparent;
     border: 0;
     color: palette('brand-orange');
+    display: inline;
     padding: 0.5rem 0rem;
     margin-left: -0.125rem;
     width: calc(100% - #{rem(52)});
