@@ -32,6 +32,8 @@ images:
   - url: mee-hong-jb-1975.jpg
     caption: 'Black and white film scan of a photo taken in 1975 by John Ballantine'
     alt: 'Three different Chinese food restaurants. Mee Hong was inside a two story commercial building with an enameled steel facade. Two large picture windows have large rounded outside corners while the central double door entrance has a split circle window down the center of it. A very large neon sign occupies the entire second story of the facade.'
+  - url: mee-hong-jboersma-1975.jpg
+    caption: 'Photo by Jay Boersma, 1975'
   - url: lukes-postcard-undated.jpg
     alt: 'Luke’s restauirant was located on the first floor of a taller commercial office building. A large neon sign took up most of the space above the entrance and retail window.' 
   - url: lukes-location-2019.jpg
@@ -47,7 +49,7 @@ images:
   - url: port-arthur-gold-coin-dorrance-weybosset.jpg
     caption: 'Many comments mentioned Port Arthur, seen here on the corner of Dorrance and Westminster. Date unknown.'
 
-imagescredit: 'Contributions from John Ballantine, <a href="//provlibdigital.org/islandora/object/islandora%3A5578" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, and Google Streetview.'
+imagescredit: 'Contributions from John Ballantine, <a href="//www.re-vision.com/photography/providence/" target="_blank">Jay Boersma</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A5578" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, and Google Streetview.'
 
 external:
   - source: 'Photos: Restaurants in Providence, Providence Journal'
@@ -67,9 +69,9 @@ While browsing through and recreating some of the photos in Jay Boersma’s port
 
 <figure class="u__img u__img--right">
   <a href="#photo-4">
-    <img src="{{ site.propimg_path }}{{ page.slug }}/mee-hong-pj-undated.jpg" alt="" />
+    <img src="{{ site.propimg_path }}{{ page.slug }}/mee-hong-jboersma-1975.jpg" alt="" />
   </a>
-  <figcaption>The Mee Hong Restaurant in Providence at 102 Westminster St. closed February 24, 1979. Providence Journal file photo by David LaMontagne.</figcaption>
+  <figcaption>The Mee Hong Restaurant in Providence at 102 Westminster St. closed February 24, 1979. Photo taken by Jay Boersma, 1975 .</figcaption>
 </figure>
 
 Mee Hong was located at 102 Westminster Street, between [Providence National Bank]({% link _property/providence-national-bank.md %}) (#90) and [First Federal Bank]({% link _property/first-federal-bank.md %}) (#110). It was opened by the Chin family in 1938 and closed in 1979. The building was probably razed within 10 years. It might be one of the earliest Chinese restaurants in the city. 
@@ -117,7 +119,7 @@ The longest lived of the Chinese restaurants, the Ming Garden was vital to life 
 
 During the 1950s, the Tows contracted a young architect named [Morris Nathanson](//archive.storycorps.org/interviews/morris-nathanson-on-being-a-17-year-old-medic-in-the-pacific-theatre/){:target="_blank"} to modernize the restaurant’s interior. Mr. Nathanson was well known for hospitality design, and his portfolio includes The China Inn in Pawtucket and the Johnson & Wales Culinary Arts Museum among others.
 
-_From the Downtown Providence Historic District National Register Nomination Form, 1983_
+_From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
 The Ming Garden (building constructed 1903): 3-story brick building with tiled modern entrance (similar entrance on Westminster Street side of building) and large plate-glass windows on upper stories; modern interiors by Morris Nathanson (ground floor) and Ira Rakatansky (upper floor). Though architecturally undistinguished outside, the building is heavily altered. The Ming Garden is a major Providence institution and the longest lived of a popular type, the Chinese restaurant, which has been an important part of the urban scene since the early 20th century.
 
