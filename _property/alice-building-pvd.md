@@ -48,7 +48,10 @@ images:
   - url: alice-bldg-jh-2005-05-01.jpg
   - url: alice-bldg-jh-2005-12-01.jpg
   - url: alice-bldg-goog-2011-01.jpg
+    caption: 'Google Streetview, 2011'
   - url: alice-bldg-cornish-2015-01.jpg
+    caption: 'Photo from the Westminster Lofts website, Cornish Associates'
+  - url: alice-bldg-jh-2021-02-01.jpg
 
 imagescredit: 'Contribution by Google Streetview and Cornish Associates'
 

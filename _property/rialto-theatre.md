@@ -48,6 +48,7 @@ images:
   - url: rialto-jh-2019-06-01.jpg
     caption: 'Notice the peak of the old pediment rising above the yellow brick facade. You can now see and understand how the former greek columnade was filled in with the yellow brick addition.'
   - url: rialto-jh-2019-06-02.jpg
+  - url: rialto-jh-2021-02-01.jpg
 
 imagescredit: 'Contribution by the <a href="//provlibdigital.org/islandora/object/islandora%3A10372" target="_blank">Rhode Island Photo Collection</a>, Providence Public Library'
 

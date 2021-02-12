@@ -34,8 +34,8 @@ images:
   - url: lederer-block-gmh-1937-01.jpg
     caption: 'Insurance map from G.M. Hopkins Co., 1937 — Block where the Lederer and Blackstone buildings (here as “Hotel Berhshire”) are located are highlighted'
   - url: lederer-jb-1976-01.jpg
-    caption: 'Two smaller buildings used to occupy what is now Freeman Park — notice the Lederer Building in the top right. Photo by Jay Boersma, 1976.'
-    alt: 'Two buildings, the Blackstone Hotel is a five-story, red brick clad buiding three bays wide with highly decorative window trim, large ornamental brackets along the roofline, and elaborate cornice. The Lederer building is seven stories faced in yellow brick with brown sandstone trimwork, a cast-iron first-to-second floor storefront entrance, topped with three levels of steel-trimmed bay windows rising above it. '
+    caption: 'Two smaller buildings used to occupy what is now Freeman Park — notice the Lederer Building in the top right. Photo by Jay Boersma, 1976'
+    alt: 'Two buildings, the Blackstone Hotel is a five-story, red brick clad buiding three bays wide with highly decorative window trim, large ornamental brackets along the roofline, and elaborate cornice. The Lederer building is seven stories faced in yellow brick with brown sandstone trimwork, a cast-iron first-to-second floor storefront entrance, topped with three levels of steel-trimmed bay windows rising above it.'
   - url: lederer-jh-2003-10-01.jpg
   - url: lederer-jh-2003-10-02.jpg
   - url: lederer-jh-2003-10-03.jpg
@@ -48,11 +48,15 @@ images:
   - url: lederer-jh-2003-10-10.jpg
   - url: lederer-jh-2003-10-11.jpg
   - url: lederer-jh-2005-11-01.jpg
-    caption: 'The Hotel shortly after it opened, background right. Freeman Park is in the left foreground, corner of Mathrewson and Westminster.'
+    caption: 'The Hotel shortly after it opened, background right. Freeman Park is in the left foreground, corner of Mathrewson and Westminster'
   - url: lederer-jh-2005-11-02.jpg
     caption: 'The former Blackstone Hotel and Bell Dormitory for Johnson and Wales, Westminster Street'
   - url: lederer-jh-2005-11-03.jpg
     caption: 'The former Blackstone Hotel and Bell Dormitory for Johnson and Wales, Westminster Street'
+  - url: lederer-jh-2019-04-01.jpg
+  - url: lederer-jh-2019-04-02.jpg
+    caption: 'The building in the center is the former Blackstone Hotel. An interesting outline of a former abutting building on its right side? Below that is the two story connector building added in the 1990s'
+  - url: lederer-jh-2021-02-01.jpg
 
 imagescredit: 'Contribution from <a href="//www.re-vision.com/photography/providence/" target="_blank">Jay Boersma’s student collection</a>'
 
@@ -114,7 +118,7 @@ _From the National Register nomination form for the Downtown Providence Historic
 139 Mathewson: **Lederer Building** (1897): M.J. Houlihan, builder. 7-story, brick-sheathed building with elaborate 2-story entrance now covered on first story by mid-20th-century stuccoed storefronts; elaborate frieze above second story with 3-bay resolution of upper stories dominated by central projecting bay window with rounded corners; a frieze above the sixth story, elaborately framed tripartite windows on seventh story, and a heavy, boxed, copper modillion cornice supported by console brackets. Since its completion, the Lederer Building has housed the offices of a number of small businesses, primarily tailors, dressmakers, milliners, and hairdressers.
 
 It is a well designed commercial structure with fine detailing. Taller than the buildings flanking it on Mathewson Street, its articulation is similar in scale to these buildings, and its height
-is well integrated with nearby taller structures at Westminster Street, such as the Lapham Building and the Grace Church steeple.
+is well integrated with nearby taller structures at Westminster Street, such as the [Lapham Building]({% link _property/lapham-building-pvd.md %}) and the Grace Church steeple.
 
 ***
 

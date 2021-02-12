@@ -48,6 +48,10 @@ images:
   - url: wit-jh-2019-04-07.jpg
   - url: wit-jh-2019-04-08.jpg
   - url: wit-jh-2019-04-09.jpg
+  - url: wit-jh-2021-02-01.jpg
+  - url: wit-jh-2021-02-02.jpg
+  - url: wit-jh-2021-02-03.jpg
+    caption: 'The Wit Building and its very close neighbor, the Lapham Building, now joined at the second floor'
 
 imagescredit: 'Contribution from the Aurora Facebook page'
 
@@ -58,7 +62,7 @@ imagescredit: 'Contribution from the Aurora Facebook page'
 
 ### Redevelopment
 
-The Wit Building, along with its neighbor the Lapham Building, have joined the group of historic buildings renovated by Cornish Associates into Westminster Lofts. The Wit building is the smallest of the bunch which includes the [Alice]({% link _property/alice-building-pvd.md %}), [Burgess O’Gorman]({% link _property/burgess-ogorman-buildings-pvd.md %}), [Peerless]({% link _property/peerless-low-buildings-pvd.md %}), [Wilkinson]({% link _property/wilkinson-building-pvd.md %}), Kinsley, and Smith buildings. 
+The Wit Building, along with its neighbor the [Lapham Building]({% link _property/lapham-building-pvd.md %}), have joined the group of historic buildings renovated by Cornish Associates into Westminster Lofts. The Wit building is the smallest of the bunch which includes the [Alice]({% link _property/alice-building-pvd.md %}), [Burgess O’Gorman]({% link _property/burgess-ogorman-buildings-pvd.md %}), [Peerless]({% link _property/peerless-low-buildings-pvd.md %}), [Wilkinson]({% link _property/wilkinson-building-pvd.md %}), Kinsley, and Smith buildings. 
 
 The Wit Building is now connected to the Lapham Building through the second floor space. Both the first and second floors will be commercial space with restaurant space available on the first floor. In 2019, the plan was for Union Studio Architects to move from their office in the back of the Peerless Building to the second floor of the Wit Building, but we have not confirmed the move. 
 
@@ -84,4 +88,4 @@ _Captured February 9, 2020 from http://cornishlp.com/tag/lapham-building_
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-276-282 **Wit Building** (non-contributing, ca 1925): 2-story masonry structure with plate-glass-and-aluminum storefront and a tile-sheathed upper story used as a background-billboard for a sign for the store. The Wit Building housed a shoe store for many years until a women’s retail shop remodeled the building and moved in during the 1950s. The building was occupied, upon the dress shop’s closing in 1980, by a bookstore. 
+276-282 Westminster **Wit Building** (non-contributing, ca 1925): 2-story masonry structure with plate-glass-and-aluminum storefront and a tile-sheathed upper story used as a background-billboard for a sign for the store. The Wit Building housed a shoe store for many years until a women’s retail shop remodeled the building and moved in during the 1950s. The building was occupied, upon the dress shop’s closing in 1980, by a bookstore. 
