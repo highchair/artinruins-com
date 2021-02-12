@@ -3,14 +3,14 @@ title: "Prince Hall Masonic Lodge"
 slug: prince-hall-masonic
 aka: 
 date-modified: 2020-12-28 12:00
-update: 'A fire on Christmas morning gutted the building, but the Masonic Lodge members plan to rebuild, <a href="https://charity.gofundme.com/phglfa" target="_blank">and you can help</a>.'
+#update: 'A fire on Christmas morning gutted the building, but the Masonic Lodge members plan to rebuild, <a href="https://charity.gofundme.com/phglfa" target="_blank">and you can help</a>.'
 
 built: 'circa 1890'
 demolition:
 redeveloped:
 decade: '1890–1899'
 date-added: '2020'
-categories: [ '#DemolitionAlert' ]
+categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -27,7 +27,7 @@ longitude: '-71.4092577'
 gmap: "https://www.google.com/maps/place/883+Eddy+St,+Providence,+RI+02905/@41.8037348,-71.4092577,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44560ba6173fd:0xaf0e82fdf5089f15!8m2!3d41.8037348!4d-71.407069"
 
 meta: ""
-excerpt: ""
+excerpt: 'A fire on Christmas morning gutted the building, but the Masonic Lodge members plan to rebuild, <a href="//charity.gofundme.com/phglfa" target="_blank">and you can help</a>.'
 
 thumbnail: prince-hall-jh-2020-12-01.jpg
 

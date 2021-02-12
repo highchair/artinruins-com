@@ -3,7 +3,7 @@ title: "Ward Baking Company"
 slug: ward-baking-co
 aka: 'Victory Plating/Victory Finishing'
 date-modified: 2020-09-01 12:00
-update: '<b>Demolition by Neglect:</b> The owner is seeking emergency demolition permission on the only remaining section due, in part, to their own lack of maintenance of the building.'
+update: '<b>Demolition by Neglect:</b> The owner has been granted approval for demolition — a previous denial of demolition has been overturned. Equipment is on site and demo is imminent.'
 
 built: '1901–1956'
 demolition: '2012'
