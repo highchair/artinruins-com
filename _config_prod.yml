@@ -87,4 +87,4 @@ responsive_image:
   base_path: property-img/
   output_path_format: property-img/r/%{width}/%{basename}
   save_to_source: false
-  cache: false
+  cache: true
