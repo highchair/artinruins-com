@@ -28,6 +28,10 @@
       @include ff-retro;
       color: palette('brand-red');
     }
+    
+    em {
+      font-size: 0.625em;
+    }
   }
   
   &__count {
