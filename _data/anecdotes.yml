@@ -12,6 +12,29 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: peoples-bank-kennedy-plaza
+  person: 'JMW'
+  date: '2015-11-04'
+  content: 'I remember eating at the <a href="/property/chinese-restaurants/">Ming Garden</a> next door.'
+
+- property: peoples-bank-kennedy-plaza
+  person: 'Adrian'
+  date: '2009-04-05'
+  content: 'The new website for this building is www.spahealthandwellness.com. It is a 6-story urban retreat, complete w/ a spa, salon, florist, wellness center & meeting space.'
+
+- property: peoples-bank-kennedy-plaza
+  person: 'AZ'
+  content: 'Hey! I work at the CVS on there – yeah, I went to the fifth floor and saw the nice fix condo, it was all mirrors as i stepped in, but the other floors are just duct work. The new guy that is taking charge of the building is not doing a good job, well he aint even doing nothing – he just trys to boss my managers and uses our phones like if he owned CVS.'
+
+- property: peoples-bank-kennedy-plaza
+  person: 'Karl Swanson'
+  content: 'I’ve read your ad relating to the People’s Bank Building, and have some insight. I was the Project Manager for Algen, in charge of this project. (As you see the reference to “Swanson” in the article) The work has come to a hault, as Algen has sold the property to another developer. We are no longer involved, and I’m reluctant to say if it will ever get completed at this point. We did finish one model unit on the Fifth floor of the Kennedy Plaza side, which turned out to be a beautiful condo, with a breath taking view. Hopefully someone will step up and get this building done, as it will be a great spot to live.'
+
+- property: trayne-building-pvd
+  person: 'Highchair'
+  date: '2021-02-13'
+  content: 'I had a client up on the fifth floor, FirstWorks, that I would visit once a year when we kicked off a new season. The building had a great old vibe to it, with glass transoms over the doors, an old elevator, iron railings, and a cool skylight over the stairwell.'
+
 - property: rialto-theatre
   person: Mike P
   date: '2010-10-20'
