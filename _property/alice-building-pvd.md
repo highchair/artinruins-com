@@ -71,7 +71,7 @@ The repurposed Alice Building was converted to house 38 loft-style residential u
 
 ### Current Events
 
-Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](//westminsterlofts.com){:target="_blank"}. 
+More photos of the spaces can be found at [@WestminsterLofts on Instagram](//www.instagram.com/westminsterlofts/){:target="_blank"}. Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](//westminsterlofts.com){:target="_blank"}.
 
 
 ### History

@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Howard Hoppin', 'Union Studio Architecture', 'Cornish Associates' ]
 people: [ 'Benjamin N. Lapham' ]
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: [ 'Former/Current Hotels' ]
+tags: []
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
@@ -68,7 +68,7 @@ The Lapham Building is now connected to the Wit Building through the second floo
 
 ### Current Events
 
-Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](//westminsterlofts.com){:target="_blank"}. 
+More photos of the spaces can be found at [@WestminsterLofts on Instagram](//www.instagram.com/westminsterlofts/){:target="_blank"}. Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](//westminsterlofts.com){:target="_blank"}.
 
 
 ### History
@@ -79,7 +79,7 @@ The Lapham Building, located at 290 Westminster Street and wrapping around the n
 
 Lapham & [Wit]({% link _property/wit-building-pvd.md %}) will be combined into one building with the second floors connected to provide 9,000 square feet of flexible commercial office space. The ground floors will be built with space for up to 4 restaurant or retail tenants. Floors 3 through 9 of the Lapham Building will be renovated into 35 one and two-bedroom apartments. 
 
-_Captured February 9, 2020 from http://cornishlp.com/tag/lapham-building_
+— _Captured February 11, 2020 from http://cornishlp.com/tag/lapham-building_
 
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_

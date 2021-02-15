@@ -68,7 +68,8 @@ These structures came down in late 2005 to make way for a proposed parking and r
 
 The parking structure has yet to be built, 15 years later (2020). The surface parking lot gets heavy use, but the need for 450 parking spots in this location has not materialized. In fact, in the past few years concepts like the micro-lofts at the Arcade have shown that additional housing in a dense city with public transport options can be built without additional parking. New projects in the Jewelry District also show this to be possible. 
 
-In very recent years, the last remaining building on this block, the Roger Williams Building, has been converted to residential with a new addition by Cornish Associated and Union Studio Architects. The project is known as the Trayne Building and has been undertaken in conjunction with a renovation of the [Lapham Building]({% link _property/lapham-building-pvd.md %}) next door. 
+In very recent years, the last remaining building on this block, the Roger Williams Building, has been converted to residential with a new addition by Cornish Associates and Union Studio Architects. The project is known as the [Trayne Building]({% link _property/trayne-building-pvd.md %}) and has been undertaken in conjunction with a renovation of the [Lapham Building]({% link _property/lapham-building-pvd.md %}) next door. The park on the corner of Union and Westminster will remain as part of the streetscape.
+
 
 ### In the News
 

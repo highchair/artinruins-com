@@ -63,7 +63,7 @@ Prior to renovations, the Lerner Department Store was vacant for almost 20 years
 
 ### Current Events
 
-Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](//westminsterlofts.com){:target="_blank"}. 
+More photos of the spaces can be found at [@WestminsterLofts on Instagram](//www.instagram.com/westminsterlofts/){:target="_blank"}. Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](//westminsterlofts.com){:target="_blank"}.
 
 
 ### History

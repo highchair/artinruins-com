@@ -69,7 +69,7 @@ The Wit Building is now connected to the Lapham Building through the second floo
 
 ### Current Events
 
-Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](//westminsterlofts.com){:target="_blank"}. 
+More photos of the spaces can be found at [@WestminsterLofts on Instagram](//www.instagram.com/westminsterlofts/){:target="_blank"}. Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](//westminsterlofts.com){:target="_blank"}. 
 
 
 ### History
@@ -83,7 +83,7 @@ _From the Cornish Associates website press release_
 
 The Wit Building was built by the I. Wit Realty Co. sometime in the mid-1930’s. The building’s longest tenant was **Jean’s Department Store**, which existed from 1933 to 1979. In later years the building was home to the Black Repertory Theatre, Roots Cafe, and most recently Aurora.
 
-_Captured February 9, 2020 from http://cornishlp.com/tag/lapham-building_
+— _Captured February 9, 2020 from http://cornishlp.com/tag/lapham-building_
 
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
