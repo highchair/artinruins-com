@@ -7,7 +7,7 @@ date-modified: 2020-09-10 12:00
 built: '1901'
 demolition: '1990'
 redeveloped: '1942'
-decade: '1940-1949'
+decade: '1900-1909'
 date-added: '2006'
 categories: [ '#ArchiveRI', '#UsedToBeThere' ]
 neighborhoods: []

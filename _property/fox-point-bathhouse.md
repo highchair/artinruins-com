@@ -7,7 +7,7 @@ date-modified: 2020-12-12 12:00
 built: '1926'
 demolition: '1920-1929'
 redeveloped: '2007-2008'
-decade: '1940-1949'
+decade: '1920-1929'
 date-added: '2003'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Fox Point/India Point' ]

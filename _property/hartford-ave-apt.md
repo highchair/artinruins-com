@@ -1,13 +1,13 @@
 ---
 title: "Hartford Avenue Apartments"
 slug: hartford-ave-apt
-aka: 2 Whelan Road
+aka: '2 Whelan Road'
 date-modified: 2020-07-16 12:00
 
-built: 1952
+built: '1952'
 demolition: 1989
-decade: '1940-1949'
-date-added: 2003
+decade: '1950-1959'
+date-added: '2003'
 categories: [ '#UsedToBeThere', '#ArchiveRI' ]
 neighborhoods: [ 'Silver Lake' ]
 town: [ 'Providence, RI' ]
