@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Cram & Ferguson' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: [ 'Mid-century Modern' ]
+tags: [ 'Mid-century Modern', 'Former Banks' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'

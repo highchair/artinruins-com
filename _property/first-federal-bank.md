@@ -13,7 +13,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Demolition by Proposal', 'Needs History' ]
+tags: [ 'Former Banks', 'Demolition by Proposal', 'Needs History' ]
 
 address: '110 Westminster Street, Providence RI'
 latitude: '41.82425'

@@ -13,7 +13,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Howe & Church' ]
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places', 'Brussat’s 10 Best Lost Buildings' ]
-tags: [ 'Demolition by Proposal', 'Needs History' ]
+tags: [ 'Former Banks', 'Demolition by Proposal', 'Needs History' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: '1984'
