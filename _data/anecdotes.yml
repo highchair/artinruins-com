@@ -12,6 +12,15 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: old-stone-empire-st
+  person: 'Faye Sanders'
+  date: '2008-03-19'
+  content: 'In [one of the photos] there is a painting that is thought to actually be part of a set. The other paintings were rumored to have been given to the Hope Club by an Old Stone Bank Executive (and member of the Hope Club) before Citizens acquired the building from the Resolution Trust Company after the closing of Old Stone Bank.'
+
+- property: old-stone-empire-st
+  person: 'katharine'
+  content: 'I think my great grandfather worked here, Charles Post.'
+
 - property: peoples-bank-kennedy-plaza
   person: 'JMW'
   date: '2015-11-04'
