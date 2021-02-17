@@ -7,6 +7,7 @@ date-modified: 2021-01-25 12:00
 built: '1773–1918'
 demolition: 
 redeveloped: '2004-2006'
+units: '32' # 4 nest units
 decade: '1830-1839'
 date-added: '2004'
 categories: [ '#NotInRuins' ]
@@ -126,7 +127,7 @@ The Plant is managed by the [Armory Revival Company and Armory Management](//arm
 
 ### History
 
-_From the National Register nomination form, 2003, prepared by Edward Connors and Associates__
+_From the National Register nomination form, 2003, prepared by Edward Connors and Associates_
 
 The Providence Dyeing, Bleaching and Calendering Complex is significant as a textile dyeing and finishing plant, an important component of the textile industry. […]
 

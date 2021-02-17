@@ -124,6 +124,10 @@ The redevelopment here followed the same thinking as “urban renewal” ideas o
 
 We hold out hope that the $400 million investment in a sports complex, housing, and event center with retail will be something that the City can continue to be proud of in 20-30 years, rather than a thorn in the side of continued progress. 
 
+#### More Photos
+
++ The [Pawtucket Library Flickr page](//www.flickr.com/photos/pawtucketlibrary/albums/72157667444051724){:target="_blank"} has amassed quite a collection of Apex-related photos, including ads and construction photos
+
 
 ### In the News
 

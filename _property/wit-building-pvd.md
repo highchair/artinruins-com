@@ -29,7 +29,7 @@ gmap: "https://www.google.com/maps/place/276+Westminster+St,+Providence,+RI+0290
 meta: ""
 excerpt: "Smaller than its neighbors, this 2-story commercial building joined the ranks of its neightbors in the collective called “Westminster Lofts”"
 
-thumbnail: wit-jh-2019-04-01.jpg
+thumbnail: wit-jh-2021-02-01.jpg
 
 images:
   - url: wit-jh-2002-06-01.jpg
