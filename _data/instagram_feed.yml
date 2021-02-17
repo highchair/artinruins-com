@@ -1,0 +1,79 @@
+# Idea: Make it easy for someone who lands on the homepage to see list of recent posts from Instagram
+#
+# Create a new page with properties relevant to recent Instagram posts
+
+- post: ward-baking-co
+  date: '2021-02-12'
+  insta_link: https://www.instagram.com/p/CLMzPhfnNYo/
+
+- post: dreyfus-hotel
+  date: '2021-02-11'
+  insta_link: https://www.instagram.com/p/CLKHK4EHxrG/
+
+- post: memorial-hospital
+  date: '2021-02-10'
+  insta_link: https://www.instagram.com/p/CLIdmaPn311/
+
+- post: ri-tool
+  date: '2021-01-14'
+  insta_link: https://www.instagram.com/p/CKB68K3nfan/
+
+- post: prince-hall-masonic
+  date: '2020-12-29'
+  insta_link: https://www.instagram.com/p/CJZQEJKnXzu/
+
+- post: m-n-cartier
+  date: '2020-11-27'
+  insta_link: https://www.instagram.com/p/CIHh9kIn0S_/
+
+- post: blue-ribbon-beef
+  date: '2020-11-13'
+  insta_link: https://www.instagram.com/p/CGSO15Yn_f4/
+
+- post: east-side-train-tunnel
+  date: '2020-09-24'
+  insta_link: https://www.instagram.com/p/CFh0JE4HsU3/
+
+- post: central-fire-stations
+  date: '2020-09-03'
+  insta_link: https://www.instagram.com/p/CErWmprHgy6/
+
+- post: ward-baking-co
+  date: '2020-09-02'
+  insta_link: https://www.instagram.com/p/CEowPVWnp6H/
+
+- post: brownell-field-co
+  date: '2020-08-12'
+  insta_link: https://www.instagram.com/p/CDyxrCIHxr6/
+
+- post: bonanza-pvd
+  date: '2020-08-11'
+  insta_link: https://www.instagram.com/p/CDwhHAsHQF5/
+
+- post: merchants-cold-storage
+  date: '2020-08-06'
+  insta_link: https://www.instagram.com/p/CDjmoD6HK8M/
+
+- post: rocky-point-park
+  date: '2020-08-01'
+  insta_link: https://www.instagram.com/p/CDXnReBnLqR/
+
+- post: merchants-cold-storage
+  date: '2020-07-22'
+  insta_link: https://www.instagram.com/p/CBvSD1dHONO/
+
+- post: hope-webbing-boiler
+  date: '2020-06-16'
+  insta_link: https://www.instagram.com/p/CBgZZMVHEyt/
+
+- post: atlas-terminal-warehouses
+  date: '2020-05-28'
+  insta_link: https://www.instagram.com/p/CAvJdvLHff-/
+
+- post: thurston-manufacturing
+  date: '2020-04-27'
+  insta_link: https://www.instagram.com/p/B_f3pqaniz9/
+
+- post: grants-block-pvd
+  date: '2020-04-26'
+  insta_link: https://www.instagram.com/p/B_dBwbknG0M/

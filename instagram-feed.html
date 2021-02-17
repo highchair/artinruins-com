@@ -1,0 +1,61 @@
+---
+layout: taxonomy
+permalink: instagram/
+title: "Instagram Feed"
+meta-title: "Instagram Feed | ArtInRuins"
+body-class: instagram
+sitemap:
+  lastmod: 2021-02-15
+  priority: 0.6
+  changefreq: 'weekly'
+---
+
+{% assign instagrams = site.data.instagram_feed %}
+
+<header class="taxonomy__header">
+  <div class="u__vertical__pt u__gutter__p">
+    <h1 class="content__title taxonomy__title u__mb--0">{{ page.title }}</h1>
+    <p class="taxonomy__count">A list of the properties we have recently mentioned on our <a href="//instagram.com/artinruins" target="_blank">Instagram feed</a></p>
+  </div>
+</header>
+<ul class="taxonomy__list u__list__unstyled u__vertical__p u__gutter__p" role="list">
+{%- for insta in instagrams limit:20 -%}
+  {%- comment -%}
+    A "where" query will always return an array, even though there should only be one thing in it
+  {%- endcomment -%}
+  {%- assign items = site.property | where: 'slug', insta.post -%}
+  {%- for item in items -%}
+    {%- if item.thumbnail -%}
+      {%- assign item_image = item.thumbnail -%}
+    {%- else -%}
+      {%- assign item_image = item.images.first.url -%}
+    {%- endif -%}
+  <li>
+    <div class="taxonomy__img-wrap">
+      {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
+      {%- assign size = '800' -%}
+      {% responsive_image_block %}
+        path: {{ image_path }}
+        image: {{ item_image }}
+        size: {{ size }}
+        cache: true
+      {% endresponsive_image_block %}
+    </div>
+    <div class="taxonomy__colwrap">
+      <div class="taxonomy__title-wrap">
+        <h2 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}" class="taxonomy__link">{{ item.title }}</a></h2>
+      </div>
+      <p class="taxonomy__excerpt">
+      {%- if item.categories contains '#DemolitionAlert' -%}
+        {{ item.update }}
+      {%- else -%}
+        {{ item.excerpt }}
+      {%- endif -%}
+      </p>
+      <p class="taxonomy__meta">
+        Instagram post date: <a href="{{ insta.insta_link }}" target="_blank">{{ insta.date | date: "%e %B, %Y" }}</a>
+      </p>
+  </li>
+  {%- endfor -%}
+{%- endfor -%}
+</ul>
