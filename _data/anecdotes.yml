@@ -12,6 +12,33 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: louis-fink
+  person: 'Bonnie Carter'
+  date: '2015-09-02'
+  content: 'Currently for sale!'
+
+- property: louis-fink
+  person: 'Bruce'
+  date: '2014-07-07'
+  content: 'Louis Fink was my grandfather’s cousin. He did well in the scrap metal business, & visited his relatives here in Philadelphia about once a year. I have a picture of him & his wife with my grandparents during 1 of these visits.'
+
+- property: east-avenue-auto
+  person: 'Tom'
+  date: '2017-10-12'
+  content: 'This was home to Gibby’s repair shop. As I recall, when he bought the place, they gave up selling gas, and focused on low-cost/high-quality repairs. They had a pretty thriving business. Gibby was a little fire plug of a guy, full of life and enthusiasm, He died suddenly, I believe from a heart attack. The shop closed down, and was, to the best of my knowledge, never reopened.'
+
+- property: east-avenue-auto
+  person: 'Kirk Snow'
+  content: 'I remember this as Gibby’s gas station from when I was a kid. I would have to ask my father, but I seem to recall that the family that ran it struggled to keep the business alive after they could not afford to keep up with federally mandated changes to the gas tanks. They existed for a while just as a mechanic shop. I’m not sure when the family had to finally close it all down.'
+
+- property: east-avenue-auto
+  person: 'Wayne Henderson'
+  content: 'This is one of the thousands of such buildings built for Phillips Petroleum between 1957 and 1970. The concept was taken from some design elements in a Frank Lloyd Wright designed Phillips 66 station in Cloquet, MN. After completion of that building, the corporate architects modified the design to make it more usable for car care of the era and built literally thousands of these peaked canopy units. Many are still in use, even as Phillips 66 stations, although I haven’t seen an unmodified one in over 10 years (Rolla, MO, about 1992 comes to mind)'
+
+- property: east-avenue-auto
+  person: 'Emily'
+  content: 'This is now a cafe, Jac’s (named for the abbreviation of the owner and his friends’ names :) – he’s really nice, the food is fresh and good, and they have live music sometimes on the weekend. Smoothies too.'
+
 - property: old-stone-empire-st
   person: 'Faye Sanders'
   date: '2008-03-19'
