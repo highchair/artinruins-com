@@ -12,6 +12,23 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: 32-branch-avenue
+  person: 'Allison'
+  date: '2016-06-15'
+  content: 'This now home to Nikki’s liquors'
+
+- property: 32-branch-avenue
+  person: 'Chris Suchmann'
+  date: '2012-03-19'
+  content: 'The Groden Network moved their core offices from 32 Branch Ave. to the former Dyerville Mill in 2004. We turned the sign around until the building was rented. VNA (Visiting Nurses Association) occupied the building before us.'
+
+- property: 32-branch-avenue
+  person: 'Anusha'
+  content: 'The Groden Center sign was recently backwards for a while… strange. Now there is no sign.
+
+
+(**A.I.R.**: A reversed and backside-out sign is a signal that the previous tenant is no longer at that location. Otherwise, the sign-holder is empty, which usually exposes unsightly lighting elements)'
+
 - property: louis-fink
   person: 'Bonnie Carter'
   date: '2015-09-02'
