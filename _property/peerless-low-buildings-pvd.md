@@ -44,6 +44,8 @@ images:
     caption: 'Westminster Street, from Dorrance to Empire streets, was a pedestrian mall created in 1964 which lasted until 1986. The Low Building has the Woolworth’s sign on it.'
   - url: cmt-low-habs-1977-01.jpg
     caption: 'Photo by Eric Hertfelder for the National Register nomination form, summer 1977'
+  - url: cmt-low-jh-2000-01.jpg
+    caption: 'Color film transparency scan from 2000'
   - url: lupos-heartbreak-hotel-239-westminster-st.jpg
     caption: 'The former Peerless Department store was home to the rock-n-roll music venue “Lupo’s Heartbreak Hotel” run by proprietor’s Rick Lupo and Jack Reich'
   - url: cmt-low-fm-2004-01.jpg

@@ -1,7 +1,7 @@
 ---
 title: "East Avenue Auto"
 slug: east-avenue-auto
-aka: 'Jac’s Wraps, Gibby’s Repair Shop'
+aka: 'Phillips 66, Jac’s Wraps, Gibby’s Repair Shop'
 date-modified: 2021-02-16 12:00
 
 built: 'late 1950s/early 1960s'
