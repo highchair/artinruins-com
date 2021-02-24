@@ -16,7 +16,7 @@ sitemap:
 {%- endfor -%}
 {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
 {%- assign tags = site.pages | where: 'layout', 'taxonomy' | sort: "type" -%}
-{%- assign totalpermonth = 0 -%}
+{%- assign totalpermonth = 1 -%}
 {%- assign totalprops = 1 -%}
 {%- assign totalredirects = -1 -%}
 {%- assign currentmonth = properties.first.date-modified | date: "%B, %Y" -%}
@@ -28,14 +28,14 @@ sitemap:
                   <li><div class="all-tags__list__group"><span>Total properties including redirects:</span> <span>{{ properties.size }}</span></div></li>
                 {%- for property in properties -%}
                   {%- if property.date-modified -%}
+                    {%- assign totalpermonth = totalpermonth | plus: 1 -%}
+                    {%- assign totalprops = totalprops | plus: 1 -%}
                     {%- assign thismonth = property.date-modified | date: "%B, %Y" -%}
                     {%- if thismonth != currentmonth -%}
                   <li><div class="all-tags__list__group"><span>Added in {{ currentmonth }}:</span> <span>{{ totalpermonth }}</span></a></li>
                       {%- assign currentmonth = thismonth -%}
-                      {%- assign totalpermonth = -1 -%}
+                      {%- assign totalpermonth = 0 -%}
                     {%- endif -%}
-                    {%- assign totalpermonth = totalpermonth | plus: 1 -%}
-                    {%- assign totalprops = totalprops | plus: 1 -%}
                   {%- else if -%}
                     {%- assign totalredirects = totalredirects | plus: 1 -%}
                   {%- endif -%}

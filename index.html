@@ -20,9 +20,9 @@ sitemap:
 {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
 
 <section class="home__updates u__gutter__p">
-  <p class="u__vertical__pb"><b>ArtInRuins is undergoing a quarantine-powered makeover.</b> For over 150 properties so far, photographs have been re-cropped, enhanced, and enlarged. Histories have been researched and expanded. Current events have been updated. Enjoy!</p>
+  <p class="u__vertical__pb"><b>ArtInRuins is undergoing a quarantine-powered makeover.</b> For over 160 properties so far, photographs have been re-cropped, enhanced, and enlarged. Histories have been researched and expanded. Current events have been updated. Enjoy!</p>
   
-{%- if demoalert -%}
+{%- if demoalert.size >= 1 -%}
   <h2 class="o__title--sm v-rhythm">Demolition Alert</h2>
   <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
     {%- for item in demoalert limit:1 -%}
