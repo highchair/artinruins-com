@@ -6,11 +6,11 @@ date-modified: 2020-09-01 12:00
 update: '<b>Demolition by Neglect:</b> The owner has been granted approval for demolition — a previous denial of demolition has been overturned. Equipment is on site and demo is imminent.'
 
 built: '1901–1956'
-demolition: '2012'
+demolition: '2012, 2021'
 redeveloped: 
 decade: '1900-1909'
 date-added: '2012'
-categories: [ '#DemolitionAlert', '#UrbanDecay', '#UsedToBeThere' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -56,6 +56,11 @@ images:
   - url: ward-baking-jh-2017-10-01.jpg
   - url: ward-baking-jh-2017-10-02.jpg
   - url: ward-baking-jh-2017-10-03.jpg
+  - url: ward-baking-jh-2021-02-01.jpg
+  - url: ward-baking-jh-2021-02-02.jpg
+  - url: ward-baking-jh-2021-02-03.jpg
+  - url: ward-baking-jh-2021-02-04.jpg
+  - url: ward-baking-jh-2021-02-05.jpg
   
 imagescredit: 'Contributions by the Providence Preservation Society and the Providence Historical Aerial Viewer.'
 ---
@@ -66,23 +71,23 @@ A long story of proposals and failures haunts this site currently, and its futur
 
 Though the venture received tax stabilization, the development never moved forward. It was put back on the market in 2013.
 
-For a short time in 2015, the property was considered to be the second potential location for a new Pawtucket Red Sox stadium. The first location was just up the street on the waterfront on what is now (in 2020) a public park. Plans for a new stadium never met with approval and the Paw Sox declared a move to Worcester instead. 
+For a short time in 2015, the property was considered to be the second potential location for a new Pawtucket Red Sox stadium. The first location was just up the street on the waterfront on what is now (in 2021) a public park. Plans for a new stadium never met with approval and the Paw Sox declared a move to Worcester instead. 
+
+In the summer of 2020, Lifespan — owner of the property since 2015 — started to seek an emergency demolition permit for the remaining Administration Building. They had done nothing to stabilize the building and — surprise surprise — part of the roof collapsed. An attorney and a structural engineer hired by Lifespan have determined that the building is a threat to public safety. The engineer recommended demolition, but the committee requested a second opinion. 
+
+The former owner gifted the standing building to Lifespan as part of the transfer — it was not part of the purchase price — as a way to explicitly encourage stabilization of the structure. The previous owner was only granted a demolition permit for the entire parcel if the Administration Building remained. It seems that Lifespan then proceeded to let it rot and created the unstable conditions that led to its demise.  
 
 
 ### Current Events
 
-Since 2012, only the Ward Baking Company Administration building is left standing on the corner of the site. The rest of the property has been remediated and leveled with blue stone and a small corner of asphalt. A few summers ago the property hosted a carnival, but that was the most action it had seen in some time. 
+From 2012 to 2021, only the Ward Baking Company Administration building was left standing on the corner of the site. The rest of the property has been remediated and leveled with blue stone and a small corner of asphalt. A few summers ago the property hosted a carnival, but that was the most action it had seen in some time. 
 
-#### 2020
-
-In the summer of 2020, Lifespan — current owner of the property since 2015 — started to seek an emergency demolition permit for the remaining Administration Building. It seems that they have done nothing to stabilize the building since 2015 and — surprise surprise — part of the roof has now collapsed. An attorney and a structural engineer hired by Lifespan have determined that if the building is a threat to public safety, then Lifespan is within its right to demolish the building without approval from the committee. The engineer recommends demolition, but the committee so far has requested a second opinion. 
-
-While the lawyer disagrees, the understanding is that the former owner gifted the standing building to Lifespan — it was not part of the purchase price — to explicitly encourage stabilization of the structure. The previous owner was only granted a demolition permit for the entire parcel if the Administration Building remained. Lifespan then proceeded to let it rot. [Upcoming meetings of the Building Board of Review](//www.providenceri.gov/inspection/boards-of-review/){:target="_blank"} will address this issue further. 
+In 2021 the owner, Lifespan, was granted approval for demolition — a previous denial of demolition was overturned. Demolition occurred in February. The site is currently an empty lot. 
 
 
 ### History
 
-In 2012, the Providence Preservation Society included the administration building on the Most Endangered Properties list. This followed a 2011 demolition that was allowed by the Providence Historic District Commission, with the stipulation that the developer preserve the Administration Building. The building was continually threatened by demolition, leading to PPS including it on the 2012 and 2014 MEP list. The property is now owned by Lifespan with no current plans for reuse or develop the site. 
+In 2012, the Providence Preservation Society included the administration building on the Most Endangered Properties list. This followed a 2011 demolition that was allowed by the Providence Historic District Commission, with the stipulation that the developer preserve the Administration Building. The building was continually threatened by demolition, leading to PPS including it on the 2012 and 2014 MEP list. 
 
 _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct) and the [PPS Architectural Guide](//guide.ppsri.org/property/ward-baking-company-administration-building){:target="_blank"} website_
 
@@ -101,7 +106,6 @@ The Ward Baking Company remained at this location through to around 1976. The bu
 
 _by Paul Grimaldi_  
 **Providence Journal** | September 11, 2015 (abridged)  
-retrieved September 1, 2020 from https://www.providencejournal.com/article/20150911/NEWS/150919765
 
 The Lifespan health-care group announced Friday that its Rhode Island Hospital affiliate has bought Victory Place, a strategically located chunk of vacant land in the Jewelry District.
 
@@ -111,9 +115,7 @@ The announcement did not indicate what plans the health-care group has for the 5
 
 Rhode Island Hospital will pay $7.75 million for the property, which is structured in part as a gift, from landowner JAG Investment Realty.
 
-JAG’s principal owner is Richard Gudoian Jr., the one-time owner of the Inskip auto dealership in Warwick.
-
-[…]
+JAG’s principal owner is Richard Gudoian Jr., the one-time owner of the Inskip auto dealership in Warwick. […]
 
 The sale to the nonprofit hospital also calls into question whether the land will remain on the tax rolls. The city has struggled for years with the amount of property controlled by the city’s nonprofit institutions.
 
@@ -129,3 +131,5 @@ Dr. Timothy J. Babineau, Lifespan president and chief executive officer, said th
 Bruno declined to elaborate on why Lifespan would buy land she described as “strategically located” without any plans for it.
 
 “It was a good opportunity for us,” Bruno said.
+
+– _Captured September 1, 2020 from https://www.providencejournal.com/article/20150911/NEWS/150919765_
