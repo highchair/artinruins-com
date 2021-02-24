@@ -12,6 +12,10 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: alexander-duncan-warehouse
+  person: 'Zachariah Allen'
+  content: 'Interesting history. Family lore was a little different, and probably romanticized.'
+
 - property: 32-branch-avenue
   person: 'Allison'
   date: '2016-06-15'
