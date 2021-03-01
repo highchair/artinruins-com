@@ -12,6 +12,10 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: good-will-engine-co
+  person: 'mother jones'
+  content: 'I went to a party here in 2001, I think and it might have been Mahi Mahi’s first or second live show. It was still going at 4:00am when I left. The following year friends of mine from Brooklyn heard about their parties and came up for it. I hope FH13 lives up to those beginnings.'
+
 - property: alexander-duncan-warehouse
   person: 'Zachariah Allen'
   content: 'Interesting history. Family lore was a little different, and probably romanticized.'
