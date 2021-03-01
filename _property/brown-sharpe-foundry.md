@@ -117,6 +117,12 @@ images:
     caption: 'Photo by Frank Mullin circa 2003'
   - url: brown-sharpe-fm-2003-22.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+  - url: machine-jh-2003-05-01.jpg
+    caption: 'A old Brown and Sharpe machine (milling?) found in the American Textile Mill, Pawtucket'
+  - url: machine-jh-2003-05-02.jpg
+  - url: machine-jh-2003-05-03.jpg
+  - url: machine-jh-2003-05-04.jpg
+  - url: machine-jh-2003-05-05.jpg
   - url: brown-sharpe-jh-2004-04-01.jpg
   - url: brown-sharpe-jh-2004-04-02.jpg
   - url: brown-sharpe-jh-2004-04-03.jpg
