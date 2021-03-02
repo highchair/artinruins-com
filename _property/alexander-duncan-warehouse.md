@@ -29,7 +29,7 @@ gmap: "https://www.google.com/maps/place/146+Dyer+St,+Providence,+RI+02903/@41.8
 meta: ""
 excerpt: "A handsome two-story former wharf warehouse along Dyer street, backing up to the Providence River, used as a electric substation for about 100 years"
 
-thumbnail: quay-jh-2015-10-01.jpg
+thumbnail: quay-jh-2021-02-01.jpg
 
 images:
   - url: quay-jh-2003-07-01.jpg

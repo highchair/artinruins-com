@@ -102,6 +102,7 @@ images:
   - url: loutit-laundry-jh-2008-12-05.jpg
   - url: loutit-laundry-jh-2008-12-06.jpg
   - url: loutit-laundry-stump-2009-01-01.jpg
+  - url: loutit-laundry-jh-2020-07-01.jpg
   - url: loutit-aerial-1972.jpg
     caption: Providence Historical Aerial Viewer 1972
   - url: loutit-aerial-1988.jpg
