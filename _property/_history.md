@@ -86,19 +86,19 @@ Historical
 
 Redeveloped
 + 60 Valley Street / Providence Bleaching, Dyeing and Calendaring
-++ 1088 Main Street / Rag & Bone Bindery
++ 1088 Main Street / Rag & Bone Bindery
 + Alice Building
 + American Woolen / Riverside Mills
-++ Trinity Rep Extension, Citizens Bank
++ Trinity Rep Extension, Citizens Bank
 ++ Dunlop Tire / Providence Teaming Co.
 + East Side Tunnel Reopened?
-++ Hotel Providence / Lederer building and Bell dormitory
++ Hotel Providence / Lederer building and Bell dormitory
 + Lerner / Wilkinson bldg
 + Mason bldg//RISD Center for Integrative Technology
-++ Palmer Block / the “Cosmopolitan”
++ Palmer Block / the “Cosmopolitan”
 ++ Pawtucket Armory
-++ Peerless Building
-++ Peoples Savings Bank
++ Peerless Building
++ Peoples Savings Bank
 + Providence National Bank (now RIP)
 
 RIP
@@ -108,16 +108,15 @@ RIP
 + Ocean State Steel 
 
 Still In Use
-++ 1080 Main Street
-++ 146 Dyer Street (Narragansett Electric)
-++ 250 Esten Street
-++ 32 Branch Avenue (Nicki's Liquors)
++ 146 Dyer Street / Quay Building (Narragansett Electric)
++ 250 Esten Street
++ 32 Branch Avenue (Nicki's Liquors)
 + Apex Department Store
-++ East Avenue Auto
++ East Avenue Auto
 + George Arnold Building
 ++ Greenville Fin / Putnam Pike Mills
 ++ Hope Webbing
-++ Louis Fink building
++ Louis Fink building
 ++ Ocean House
 + Wanskuck Hall
 + Wanskuck Mills
@@ -131,7 +130,6 @@ Urban Decay
 + 354 Pine Street
 + Abandoned retail
 + Bootleggers
-++ Central Falls/Pawtucket Train Station (2003)
 + Earl Mason Carriage House
 + First Federal Bank, recently Buck a Book
 ++ New England Paper Tube, Co. 
@@ -173,8 +171,8 @@ Still in Use
 + Washington Street (Talk of the Town, Cuban Revolution)
 
 Redeveloped
-++ the Alice Building (added 2004, expanded 2005)
-++ the Dreyfus Hotel
++ the Alice Building (added 2004, expanded 2005)
++ the Dreyfus Hotel
 + RISD's Fletcher bldg.
 ++ Hive Archive
 ++ Brown Hillel
@@ -185,7 +183,7 @@ Redeveloped
 ++ the Steelyard
 ++ The Summerfield building
 ++ Two Ton Inc.
-++ the Wilkinson Building / for. Lerner Dept Store (added 2004, expanded 2005)
++ the Wilkinson Building / for. Lerner Dept Store (added 2004, expanded 2005)
 
 RIP
 + Fogarty Building
@@ -225,7 +223,7 @@ Redeveloped
 ++ 755 Westminster Street
 ++ American Locomotive Works, for. US Rubber
 ++ Calender Mills
-++ Firehouse 13
++ Firehouse 13
 ++ L. Vaughn Company / 1153 Westminster St
 ++ Pearl Street Lofts
 ++ The Grant
@@ -274,7 +272,7 @@ RIP
 Urban Decay
 + Anderson Little (1st appeared 2003 now standalone)
 + Ethan Allen (1st appeared 2003 now standalone)
-++ Rialto Theatre
++ Rialto Theatre
 ++ RI Mall
 + Slater Cotton Company
 + Union Wadding
