@@ -12,6 +12,16 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: pawtucket-armory
+  person: 'jeff'
+  date: '2015-10-15'
+  content: 'I grew up in Pawtucket and the Armory was one of its landmarks. There used to be a sign forbidding passersby to spit on the sidewalk.'
+
+- property: ward-baking-co
+  person: 'Marshall Martin'
+  date: '2021-03-01'
+  content: 'My 3rd grade went there on a class trip in 1956, we were given a loaf of bread and a cardboard put together bread truck. Even for a 3rd grader it was very interesting.'
+
 - property: american-textile-pwt
   person: 'Donna'
   date: '2009-09-01'
