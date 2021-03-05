@@ -36,6 +36,8 @@ images:
   - url: amertextile-ppl-date-unknown-01.jpg
     caption: 'Date unknown (likely 1900–1920), before the 1949 weave shed and the fourth floor penthouse — Rhode Island Photograph Collection</a>, Providence Public Library'
     alt: 'A four-story, twelve bay wide main red brick building, nine bays deep, with an ornate stair tower on the south east corner featuring a group of three arched windows, topped by brickwork design outlining five square crosses, topped by diamond brick patterns surrounding three circular windows, all topped by a double hip roof.'
+  - url: amertextile-pawtlib-date-unknown-01.jpg
+    caption: 'Date unknown, before the 1949 weave shed but after the fourth floor penthouse — Pawtucket Library collection'
   - url: amertextile-jh-2003-05-01.jpg
   - url: amertextile-jh-2003-05-02.jpg
   - url: amertextile-jh-2003-05-03.jpg
@@ -65,7 +67,7 @@ images:
   - url: amertextile-sanborn-1902-01.jpg
     caption: 'Sanborn Insurance Map from 1902, Brown University Digital repository. The weave shed has not yet been built and the 4th floor has not been added (note the “3” in the bottom left corner of the building footprint’s outline)'
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A11068" target="_blank">Rhode Island Photograph Collection</a>, Providence Public Library'
+imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A11068" target="_blank">Rhode Island Photograph Collection</a>, Providence Public Library and <a href="//www.flickr.com/photos/pawtucketlibrary/46946460295/in/photolist-2fQQMqb-25iQTKn-2ewuT4e/" target="_blank">Pawtucket Library collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
