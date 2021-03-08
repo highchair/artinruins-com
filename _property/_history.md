@@ -96,7 +96,7 @@ Redeveloped
 + Lerner / Wilkinson bldg
 + Mason bldg//RISD Center for Integrative Technology
 + Palmer Block / the “Cosmopolitan”
-++ Pawtucket Armory
++ Pawtucket Armory
 + Peerless Building
 + Peoples Savings Bank
 + Providence National Bank (now RIP)
@@ -134,7 +134,7 @@ Urban Decay
 + First Federal Bank, recently Buck a Book
 ++ New England Paper Tube, Co. 
 + North Main Street — Ethan Allen, Sears Auto, Sears, Anderson Little, #1320
-++ Providence Armory (?)
++ Providence Armory (?)
 
 
 ## 2005 (only the ones that have been added)

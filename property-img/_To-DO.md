@@ -6,6 +6,8 @@ Ongoing Notes
 
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
+_From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
+
 _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_

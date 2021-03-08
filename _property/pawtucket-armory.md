@@ -18,7 +18,7 @@ people: []
 lists: [ 'Exchange Street Historic District', 'National Register of Historic Places' ]
 tags: []
 
-NRHP-ref-number: '83003836'
+NRHP-ref-number: '83003836 (individual)'
 added-to-NRHP: 'November 1983'
 
 address: '172 Exchange Street, Pawtucket RI'
@@ -99,8 +99,7 @@ _From the National Register Nomination Form, individual, 1983_
 
 The 1894-95 Pawtucket Armory is located on the westerly corner of Exchange and Fountain Streets in a neighborhood dominated by the 1925 Tolman High School and a cluster of turn-of-the-century industrial complexes. The armory building is composed of two distinct sections: a 3 1/2-story, rectangular main block facing Exchange Street, and a 140-foot by 80-foot gable-roofed drill hall which stretches along Fountain Street. […] Reddish-brown sandstone trim (window sills, lintels, beltcourses) is used throughout; similarly colored terra-cotta ornament is used for accent on the main block. Two non-identical round corner-towers distinguish the building’s main facade, where a dramatic, round-arched portal in the manner of H.H. Richardson marks the major entrance. […] A pair of ornate, wrought-iron gates close across the mouth of the entry portal a somewhat similar wrought iron bracket on the eastern wall of the building may originally have been used in connection with a freight hoist. 
 
-Window openings in the first story of the main block are round-headed; all other windows, except five large lunettes in the end wall of the drill hall, are flat-headed. The rectangular window openings of the second and third floors of the main block are linked vertically by slightly recessed panels; exceptions are the two sets of small, paired windows on the front facade, where two round terra-cotta medallions (representing
-the seals of the United States and Rhode Island) are placed between the upper and lower pairs. […]
+Window openings in the first story of the main block are round-headed; all other windows, except five large lunettes in the end wall of the drill hall, are flat-headed. The rectangular window openings of the second and third floors of the main block are linked vertically by slightly recessed panels; exceptions are the two sets of small, paired windows on the front facade, where two round terra-cotta medallions (representing the seals of the United States and Rhode Island) are placed between the upper and lower pairs. […]
 
 Virtually the entire interior of the drill hall is an uninterrupted open space. A series of arch.ed steel trusses support the roof without the aid of any other interior support. A small wooden balcony/reviewing stand projects into the hall from the second-floor level of the main block; the only intrusions into the hall on the ground floor level are a pair of narrow, partitioned enclosures against the back wall of the
 main block.
