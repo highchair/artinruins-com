@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: pawtucket-central-falls-train\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: providence-armory\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: pawtucket-central-falls-train\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: providence-armory\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,70 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: providence-armory
+  person: 'Leonard J Arzoomanian' 
+  date: '2017-08-09' 
+  content: 'In the 1920’s there were Radio shows at the Armory displaying all the latest Radio equipment of the time. Does anyone have photos, memorabilia or knowledge of this?'
+
+- property: providence-armory
+  person: 'Carol A Diffley' 
+  date: '2016-12-19' 
+  content: 'I went to St. Charles Boromeo School and we went there for what seemed like a “home show”. There was a toboggan ride that slid down a hill and free milk to drink. We also went to halloween parties there. So glad it is still here.'
+
+- property: providence-armory
+  person: 'cjman' 
+  date: '2011-03-12' 
+  content: 'this location is currently the home of the ri state fire marshal. (118 parade st prov ri) or the corner of dexter and cranston (the area the armory inhabits'
+
+- property: providence-armory
+  person: 'peter keegan' 
+  date: '2009-08-30' 
+  content: 'I ran indoor track here for 4 years in the early 70s. The air was dusty and the floor slippery, each lap was 180 yards. You could always tell when the dog shows had used the place. I have wonderful memories of great races in this magnificent building.'
+
+- property: providence-armory
+  person: 'Wayne Womble' 
+  date: '2008-06-19' 
+  content: 'I have never been to Providence or even seen the building, but I have a tie with it. I own a 1933 Cadillac that was on display there at the Jan. 1933 auto show. It was built especially for the show and shipped there for display. I hope the building will survive many more years. I have searched for years for pictures from the show, but have been unable to find any. I know someone took pictures. If anyone happens to know of any leads, I would certainly appreciate it. Wayne Womble, North Carolina'
+
+- property: providence-armory
+  person: 'Katherine Gamble'
+  content: 'Actually, the Providence Armory is still in use. The National Guard still meets there on occasion. My Honor Guard team got permission to hold practices there several times a week and we still do. The reason why we can is that one of our friends, who is in the National Guard, works there, so it is certainly not closed down or renovated. It is definitely still being used. The only times people aren’t there is on National Holidays.'
+
+- property: providence-armory
+  person: 'Whit'
+  content: 'I walked by the armory a few weeks ago, and the door was wide open! Apparently the Fire Marshal Office is moving in. Does anyone have any info on this?
+
+
+(**A.I.R.**: Yes, the State Fire Marshall’s office is moving their headquarters into the space. They will be occupying a few of the offices while most of the space is still unused.)'
+
+- property: providence-armory
+  person: 'A. Avakian-Douglas'
+  content: 'I remember going by this masterpiece when I was younger, and it looked a like a Castle to me, I admired the beautiful detail of this building and it should be preserved. '
+
+- property: providence-armory
+  person: 'Jesse Roberts'
+  content: 'I moved across the street from armory this year ‘07. my wife and I are amazed at the grand scale of it. We have never been inside but we would like to. I think they are filming a movie there right now.'
+
+- property: providence-armory
+  person: 'John Shumaker'
+  content: 'I also lived across the street from the armory as a young boy. I don’t know if its my memory playing tricks on me but I seem to remember looking out my bedroom window at night and watching them doing there marching drills through the windows of the great hall! I havent seen this building since I left Providence in 1986. Now, 20 years later, seeing these pictures brings back memories!'
+
+- property: providence-armory
+  person: 'Paul Russell Sr'
+  content: 'I was a member of the 43rd MP HHD in that building. Also remember the rifle range in the basement which is where I learned to shot as a boy scout. the large artillery naval gun that use to be in the drill hall. the first time in the armory was in 1960’s for the scout show and later for the dinner for J. Harold Williams (Chief) of the boys scouts.'
+
+- property: providence-armory
+  person: 'M.W. Beaudoin'
+  content: ';I ran indoor track here in the 70’s – I remember walking in and looking up through the atrium and always being amazed @ the scale of things here. Also attended school around the corner @ St. Charles (later Bishop McVinney), which was constructed of a matching yellow brick (same contractor perhaps?)'
+
+- property: providence-armory
+  person: 'Katherine Yvenat'
+  content: 'When I was very small we used to live across the street from the armory. I think I should have a photo of me playing in the snow with the armory in the background. It was taken in 1950 I think.'
+
+- property: providence-armory
+  person: 'Bob Healey'
+  content: 'I remember having gym class here because my school, Bishop McVinney Middle School had no gym. In the summer we would be in the baseball field and in the winter we would go inside. 1976-1980.'
 
 - property: pawtucket-armory
   person: 'jeff'
