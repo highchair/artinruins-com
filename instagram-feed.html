@@ -52,9 +52,11 @@ sitemap:
         {{ item.excerpt }}
       {%- endif -%}
       </p>
+      {%- if insta.insta_link -%}
       <p class="taxonomy__meta">
         Instagram post date: <a href="{{ insta.insta_link }}" target="_blank">{{ insta.date | date: "%e %B, %Y" }}</a>
       </p>
+      {%- endif -%}
   </li>
   {%- endfor -%}
 {%- endfor -%}
