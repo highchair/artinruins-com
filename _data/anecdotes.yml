@@ -12,6 +12,20 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: hope-webbing-pwt
+  person: 'bettylou'
+  date: '2014-08-01'
+  content: 'I lived on Warren Ave. when I was about ten. We were right across the street, I remember there was a big hill in our yard. One year my dad made a snow path for us to slide down and it stopped just before the sidewalk. A tractor trailer was coming down the street and we scared the poor driver. I also know Helen Triantopolous and have fond memories of she and her family. My mom worked at School House Candy for a little bit. I’m so glad that the building is still used to this day… Hi Helen, I also remember the hustle and bustle of the machinery. Everyone had a job!!'
+
+- property: hope-webbing-pwt
+  person: 'Gail Ahlers'
+  date: '2010-08-06'
+  content: 'My company is <a href="//www.ahlersdesigns.com">Ahlers Designs</a> and I am an American manufacturer. Currently my design studio in the Hope Artiste Village. It has been very heartwarming to meet people that have a history with the building when they stop by. I have heard stories like, “I used to make Easter baskets right here.” (Besides the Hope Webbing Co. this building also housed School House Candy at one time.) As a designer I am always looking to use sustainable, reclaimed or recycled materials. I have made custom awards using reclaimed lumber from the Hope Webbing building. I used Coca-Cola cans to make the flowers. Carrying on the manufacturing tradition in not such a traditional way.'
+
+- property: hope-webbing-pwt
+  person: 'Helen Triantopoulos Card'
+  content: 'I worked at Hope Webbing from 1968-1970. I worked part time after school from 3-7 for 2 years, and worked full time during summer. I made $1.60 an hour; even though it was so loud. You had to punch in and punch out for 30 minute lunch/dinner breaks. I had a great time. When I visit my mom in Pawtucket, i drive way and stop outside and if i close my eyes I can hear the spoolers on the lower level and the machine on the 2nd floor.'
+
 - property: providence-armory
   person: 'Leonard J Arzoomanian' 
   date: '2017-08-09' 

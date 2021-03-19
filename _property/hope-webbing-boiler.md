@@ -1,5 +1,5 @@
 ---
-title: "Hope Webbing Boiler Building"
+title: "Hope Webbing Power Plant, Bleach House, and Dye House"
 slug: hope-webbing-boiler
 aka: "School House Candy / American Textile Company"
 date-modified: 2020-06-07 17:00
