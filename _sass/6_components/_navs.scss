@@ -171,9 +171,9 @@ header {
         }
       }
     
-      a.active,
-      a.active:hover,
-      a.active:focus {
+      a[aria-current],
+      a[aria-current]:hover,
+      a[aria-current]:focus {
         cursor: default;
         color: lighten(palette('brand-teal'), 4%);
       }
