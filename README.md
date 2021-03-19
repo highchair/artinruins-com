@@ -1,9 +1,12 @@
 ArtInRuins
 ==========
 
-Locally generated static HTML site built with [Jekyll](https://jekyllrb.com/) with 
-[SASS](https://sass-lang.com/), and [Autoprefixer](https://github.com/vwochnik/jekyll-autoprefixer).
+View the production site: [ArtInRuins](//artinruins.com)
 
+Locally generated static HTML site built with [Jekyll](//jekyllrb.com/) with 
+[SASS](//sass-lang.com/), and [Autoprefixer](//github.com/vwochnik/jekyll-autoprefixer).
+
+***
 
 ## Get started with Bundler
 
@@ -25,6 +28,10 @@ Builds into the Stage folder: `_stage`.
 
 In a browser, open [http://127.0.0.1:4090/](http://127.0.0.1:4090/)
 
+**NOTE:** Certain files are not built during local development to keep build times 
+speedy. Check the `_config.yml` file for a list of the pages that are excluded.
+
+
 ## Build the Site for Production
 
 Specify the production environment to omit content intended for development only. 
@@ -39,6 +46,14 @@ builds and only upload what has changed. Will conditionally include the Google
 Analytics tag in production build mode. 
 
 
+## Custom post types (Collections)
+
+ArtInRuins has configured a custom “collection” (in Jekyll speak) called Properties 
+(`_property`). These files are in Markdown format with substantial FrontMatter to 
+support taxonomy linking for designer, years built, year demolished, lists, location, 
+and more. 
+
+
 ## Taxonomy pages
 
 Taxonomies like neighborhoods, towns, designers, years built, etc… are actually 
@@ -51,5 +66,5 @@ Example:
 {%- assign items = site.property | where: page.type, page.category | sort: "title" -%}
 ```
 
-For a "Date Added" page where `type: date-added` and `category: '2002'`, 
+For a “Date Added” page where `type: date-added` and `category: '2002'`, 
 `items` will be an array of Properties where `date-added` == `2002`. 

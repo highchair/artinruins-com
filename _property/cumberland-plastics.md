@@ -72,6 +72,9 @@ The site is still undeveloped in 2020. While condemnation by the City put its de
 
 ### History
 
+More photos from the [Pawtucket Library Flickr collection](//www.flickr.com/photos/pawtucketlibrary/albums/72157708803331863){:target="_blank"}
+
+
 #### Fred M. Roddy & Cumberland Plastics
 
 Fred M. Roddy was the inventor who revolutionized the plastics industry and later founded Cumberland Engineering. Roddy invented machinery used to granulate plastic. Granulated plastic then could be molded into any other shape. The machines continue to be sold internationally. He formed Cumberland Engineering in Kingsport in 1939, and later, moved the company to Attleboro. ACS Group purchased Cumberland Engineering in 1999.

@@ -4,7 +4,7 @@ slug: american-textile-pwt
 aka: 
 date-modified: 2021-02-27 12:00
 
-built: '1899'
+built: '1899, circa 1920'
 demolition: 
 redeveloped: 
 units:
@@ -34,10 +34,10 @@ thumbnail: amertextile-jh-2003-05-10.jpg
 
 images:
   - url: amertextile-ppl-date-unknown-01.jpg
-    caption: 'Date unknown (likely 1900–1920), before the 1949 weave shed and the fourth floor penthouse — Rhode Island Photograph Collection</a>, Providence Public Library'
+    caption: 'Date unknown (likely 1900–1910), before the 1920 weave shed and fourth floor penthouse — Rhode Island Photograph Collection</a>, Providence Public Library'
     alt: 'A four-story, twelve bay wide main red brick building, nine bays deep, with an ornate stair tower on the south east corner featuring a group of three arched windows, topped by brickwork design outlining five square crosses, topped by diamond brick patterns surrounding three circular windows, all topped by a double hip roof.'
   - url: amertextile-pawtlib-date-unknown-01.jpg
-    caption: 'Date unknown, before the 1949 weave shed but after the fourth floor penthouse — Pawtucket Library collection'
+    caption: 'Date unknown, before the 1920 weave shed but after the fourth floor penthouse — Pawtucket Library collection'
   - url: amertextile-jh-2003-05-01.jpg
   - url: amertextile-jh-2003-05-02.jpg
   - url: amertextile-jh-2003-05-03.jpg
@@ -66,8 +66,10 @@ images:
   - url: amertextile-jh-2003-05-26.jpg
   - url: amertextile-sanborn-1902-01.jpg
     caption: 'Sanborn Insurance Map from 1902, Brown University Digital repository. The weave shed has not yet been built and the 4th floor has not been added (note the “3” in the bottom left corner of the building footprint’s outline)'
+  - url: amertextile-sanborn-1923-01.jpg
+    caption: 'Sanborn Insurance Map from 1923, Brown University Digital repository. The weave shed has been built and the 4th floor has been added (note the “4th” along the yellow lines over the main structure, upside down)'
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A11068" target="_blank">Rhode Island Photograph Collection</a>, Providence Public Library and <a href="//www.flickr.com/photos/pawtucketlibrary/46946460295/in/photolist-2fQQMqb-25iQTKn-2ewuT4e/" target="_blank">Pawtucket Library collection</a>'
+imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A11068" target="_blank">Rhode Island Photograph Collection</a> at the Providence Public Library, <a href="//www.flickr.com/photos/pawtucketlibrary/46946460295/in/photolist-2fQQMqb-25iQTKn-2ewuT4e/" target="_blank">Pawtucket Library Flickr collection</a>, and the <a href="//repository.library.brown.edu/studio/item/bdr:212320/" target=_blank">Brown University Digital Repository</a>.'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -88,7 +90,7 @@ The property is owned by a group of small real estate companies that also lease 
 
 ### History
 
-Designed by Howe, Prout, & Ekman (known for designing the 1950s addition to the Providence Public Library), this mill was once the largest lace producer in the country. A three-story brick pier building with 4th story penthouse featuring a 5-story elaborately detailed hip roof tower. The tower is a fine period example and can be seen from the surrounding neighborhood, including traffic on Interstate 95. A later addition (1945–1950) is attached at the north side, concealing a sawtooth weave shed behind it. 
+Designed by Howe, Prout, & Ekman (known for designing the 1950s addition to the Providence Public Library), this mill was once the largest lace producer in the country. A three-story brick pier building with 4th story penthouse featuring a 5-story elaborately detailed hip roof tower. The tower is a fine period example and can be seen from the surrounding neighborhood, including traffic on Interstate 95. A later addition of a sawtooth weave shed was added around 1920 on the north side. 
 
 _From “Pawtucket Past and Present, being a brief account of the beginning and progress of its industries and a resume of the early history of the city,” by the Slater Trust Company, 1917_
 
