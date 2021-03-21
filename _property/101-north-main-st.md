@@ -69,7 +69,7 @@ The redevelopment has been quite successful. Condo units in the building sell oc
 
 ### History
 
-An [1889 Sanborn Map](#photo-11) shows the following: “Bower’s Block, 103–109 North Main Street, Mattress Factory 1st (floor), Painting 3rd, Tailor Shop 4th.” A large 2-story livery stable is behind the bulk of the 4-story mill. In a [G.M. Hopkins 1937 cadastral map](#photo-12), the City of Providence is shown as the owner. Perhaps the city had to purchase the building to obtain right of way for the raised train tracks that carried the trains from behind Union Station to East Providence inside the [East Side Train Tunnel]({% link _property/east-side-train-tunnel.md %}). 
+An [1889 Sanborn Map](#photo-101-nmainst-sanborn-1889) shows the following: “Bower’s Block, 103–109 North Main Street, Mattress Factory 1st (floor), Painting 3rd, Tailor Shop 4th.” A large 2-story livery stable is behind the bulk of the 4-story mill. In a [G.M. Hopkins 1937 cadastral map](#photo-101-nmainst-sanborn-1937), the City of Providence is shown as the owner. Perhaps the city had to purchase the building to obtain right of way for the raised train tracks that carried the trains from behind Union Station to East Providence inside the [East Side Train Tunnel]({% link _property/east-side-train-tunnel.md %}). 
 
 Per one of the Armory Revival Company principals, the City of Providence owned the property and had their horse stable located in back in what is now a covered parking garage. When the train tracks that ran across North Main Street — the “Great Wall of China” as it was called — came down, it opened the location up dramatically and made the renovation appealing while Federal Historic Tax credits made it financially feasible. 
 

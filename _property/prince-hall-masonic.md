@@ -65,7 +65,7 @@ Because of the significance of the structure and its history, the Providence Pre
 
 ### History
 
-Not much about the building itself, yet. A quick survey of [Sanborn Maps](#photo-10) reveal that the building was a former school of some kind. We are working on finding more sources to verify when the building was built and what its original purpose was. The Masons became owners in 1966. 
+Not much about the building itself, yet. A quick survey of [Sanborn Maps](#photo-1895-sanborn-map) reveal that the building was a former school of some kind. We are working on finding more sources to verify when the building was built and what its original purpose was. The Masons became owners in 1966. 
 
 #### Prince Hall
 

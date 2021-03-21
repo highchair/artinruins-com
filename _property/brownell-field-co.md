@@ -112,7 +112,7 @@ The Brownell & Field Building was constructed between 1895 and 1908 when it appe
 
 #### Architecture
 
-If seen from the air, many of the buildings in this district — including this one — were built on an angle plan instead of a straight box plan — hence the “lozenge-shape” description. This was due to the way that rail lines curved off of Harris Avenue in “spurs” for loading and unloading. Rail lines could not make a sharp corner to meet a building at a 90° angle easily, so the building were built to meet the rail lines. The [aerial from 1939](#photo-38) makes this more apparent than it might be today, as ghosts of some of the newly removed rail lines can still be seen. It was because of some of these removals that the adjacent building at [115 Harris Avenue]({% link _property/115-harris-ave.md %}) was built. 
+If seen from the air, many of the buildings in this district — including this one — were built on an angle plan instead of a straight box plan — hence the “lozenge-shape” description. This was due to the way that rail lines curved off of Harris Avenue in “spurs” for loading and unloading. Rail lines could not make a sharp corner to meet a building at a 90° angle easily, so the building were built to meet the rail lines. The [aerial from 1939](#photo-provisions-warehouse-district-1939) makes this more apparent than it might be today, as ghosts of some of the newly removed rail lines can still be seen. It was because of some of these removals that the adjacent building at [115 Harris Avenue]({% link _property/115-harris-ave.md %}) was built. 
 
 _From the Provisions Warehouse Historic District nomination form, 1994_
 

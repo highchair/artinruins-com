@@ -66,7 +66,7 @@ The redevelopment of this commercial block was the first for [Cornish Associates
 
 The report led to the development of Westminster Street as a mixed-use commercial and residential corridor, shifting from heavily commercial to heavily residential. It helped the City create the Downcity Arts and Entertainment District which was passed by then-mayor Cianci in 1996. This program was the first of its kind in the country. 
 
-The repurposed Alice Building was converted to house 38 loft-style residential units above first-floor commercial and restaurant spaces. The exterior underwent a major cleaning and repointing of brick and stonework, with care taken to preserve and recreate details that had deteriorated. Each loft apartment features generous windows, high ceilings, and an open floor plan, between 750 and 2,000 square feet. Some of the seventh floor units feature a mezzanine level. Most interesting are the preserved corridor “[streetscapes](#photo-4)” that were created when the building was a collection of small shops on every floor. 
+The repurposed Alice Building was converted to house 38 loft-style residential units above first-floor commercial and restaurant spaces. The exterior underwent a major cleaning and repointing of brick and stonework, with care taken to preserve and recreate details that had deteriorated. Each loft apartment features generous windows, high ceilings, and an open floor plan, between 750 and 2,000 square feet. Some of the seventh floor units feature a mezzanine level. Most interesting are the preserved corridor “[streetscapes](#photo-alice-bldg-jh-2004-06-02)” that were created when the building was a collection of small shops on every floor. 
 
 
 ### Current Events

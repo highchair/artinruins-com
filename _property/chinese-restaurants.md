@@ -37,6 +37,7 @@ images:
   - url: lukes-postcard-undated.jpg
     alt: 'Luke’s restauirant was located on the first floor of a taller commercial office building. A large neon sign took up most of the space above the entrance and retail window.' 
   - url: lukes-location-2019.jpg
+    caption: 'A photo of the Luke’s facade superimposed on its former location in the Smith Building. Current streetview photo from Google.'
   - url: ming-garden-1937.jpg
     caption: 'Exchange Place in 1937 — electric trolley buses are in use. Ming’s Garden wouldn’t open for another few years in the building with the AUTO LOANS sign. The nearby Waldorf Cafeteria can be seen along with many mid-century advertising signs. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
   - url: ming-garden-1950c.jpg
@@ -68,7 +69,7 @@ While browsing through and recreating some of the photos in Jay Boersma’s port
 #### Mee Hong
 
 <figure class="u__img u__img--right">
-  <a href="#photo-4">
+  <a href="#photo-mee-hong-jboersma-1975">
     <img src="{{ site.propimg_path }}{{ page.slug }}/mee-hong-jboersma-1975.jpg" alt="" />
   </a>
   <figcaption>The Mee Hong Restaurant in Providence at 102 Westminster St. closed February 24, 1979. Photo taken by Jay Boersma, 1975 .</figcaption>
@@ -87,7 +88,7 @@ _From the anecdotes:_
 #### Luke’s Chinese American Restaurant
 
 <figure class="u__img u__img--right">
-  <a href="#photo-4">
+  <a href="#photo-lukes-postcard-undated">
     <img src="{{ site.propimg_path }}{{ page.slug }}/lukes-postcard-undated.jpg" alt="" />
   </a>
   <figcaption>An interior postcard view of the restaurant with small inset photo of the exterior sign</figcaption>
@@ -97,7 +98,7 @@ _From the anecdotes:_
 
 The restaurant occupied two stories. During the 1960s, the Lukes converted the upstairs dining room into a Polynesian themed restaurant called the “Luau Hut”, which served tropical cocktails and exotic dishes. The Luau Hut was decorated with straw wall covering, bamboo polls, and gigantic shell light fixtures. Downstairs the decorations were modest. People ate in formica covered booths.
 
-59 Eddy Street still exists as the Edwin A. Smith Building as seen in the [Google Streetview photo](#photo-5).
+59 Eddy Street still exists as the Edwin A. Smith Building as seen in the [Google Streetview photo](#photo-lukes-location-2019).
 
 _From the anecdotes:_ 
 
@@ -109,7 +110,7 @@ _From the anecdotes:_
 #### Ming Garden
 
 <figure class="u__img u__img--right">
-  <a href="#photo-4">
+  <a href="#photo-ming-garden-undated">
     <img src="{{ site.propimg_path }}{{ page.slug }}/ming-garden-undated.jpg" alt="" />
   </a>
   <figcaption>Another exterior view of Ming’s Garden next door to People’s Bank, Kennedy Plaza, date unknown (maybe 1960s)</figcaption>
@@ -130,7 +131,7 @@ _From the anecdotes:_
 + Ming’s Garden decor was more upscale than the other two listed here.
 + Other favorites dishes include sweet pork buns.
 
-68 Kennedy Plaza still exists in much the same form as seen in [photo #7](#photo-7).
+68 Kennedy Plaza still exists in much the same form as seen in [the 1950 photo](#photo-ming-garden-1950c).
 
 
 #### Other restaurants mentioned
@@ -153,7 +154,7 @@ The folks in the anecdotes have left us many memories. Here are a few of the nam
 + The Luau Hut at Luke’s
 + Mee Hong Restaurant
 + Bob Tow and the Persimmon Room with their introduction of Dim Sum
-+ Port Arthur restaurant upstairs with a dance floor and live bands ([photo #9](#photo-9))
++ Port Arthur restaurant upstairs with a dance floor and live bands ([undated photo](#photo-port-arthur-gold-coin-dorrance-weybosset))
 + Toy Sun’s, Thayer Street next to Avon
 + Young China and chow mein sandwiches
 
@@ -167,7 +168,7 @@ _by Gail Ciampa_
 
 In 2009, Johnson & Wales and the [Culinary Art Museum] museum sponsored a series of discussions with Brown University to explore “Eating Chinese: Comestibles, Cuisine, Commerce and Culture.” It was just one of several collaborations among JWU and Brown’s Center for the Study of Race and Ethnicity in America and the John Nicholas Brown Center for Public Humanities and Cultural Heritage.
 
-It featured what seemed the tiniest exhibit you’ll ever see, “Chow Mein, Chicken Wings, and Cheeseburgers” with a table setting from Mee Hong Restaurant ([photo #1](#photo-1)), which was opened by the Chin family next to the Arcade in 1938. There was also Lily Tow’s typewriter [from Ming’s Garden, [photo #8](#photo-8)], used to compose newspaper ads for the Ming Garden restaurant.
+It featured what seemed the tiniest exhibit you’ll ever see, “Chow Mein, Chicken Wings, and Cheeseburgers” with a table setting from Mee Hong Restaurant ([1975 photo](#photo-mee-hong-jb-1975)), which was opened by the Chin family next to the Arcade in 1938. There was also Lily Tow’s typewriter [from Ming’s Garden, [typewriter photo ](#photo-ming-garden-typewriter)], used to compose newspaper ads for the Ming Garden restaurant.
 
 Links:
 

@@ -57,7 +57,8 @@ layout: default
               {%- if forloop.first -%}
               <ul class="u__list__unstyled u__vertical__p u__gutter__p item__gallery__wrap">
               {%- endif -%}
-                <li id="photo-{{ forloop.index }}">
+              {%- assign imageslug = image.url | split: '.' -%}
+                <li id="photo-{{ imageslug[0] }}">
                   <figure class="item__gallery__figure">
                     <a data-fslightbox="air-lightbox" data-type="image" {%- if image.caption -%}data-caption="{{ image.caption }}"{%- endif -%} href="{{ site.propimg_path }}{{ page.slug }}/{{ image.url }}" role="button" aria-label="Link opens image in a larger pop-over">
                       <img src="{{ site.propimg_path }}{{ page.slug }}/{{ image.url }}" alt="{%- if image.alt -%}{{ image.alt }}{%- endif -%}" loading="{% if forloop.first == true %}eager{% else %}lazy{% endif %}" />

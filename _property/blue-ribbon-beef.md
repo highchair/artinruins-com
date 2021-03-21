@@ -71,14 +71,14 @@ The foundation that spans over the Blackstone canal is still present and is now 
 
 ### History
 
-**Caption of [photo #5](#photo-5) from HABS/HAER:** _View, looking north, with Canal Street on right, building at center is Blue Ribbon Company/Wilson and Company, the last remaining meat packing company on the [Blackstone] river._ 
+**Caption of [1982 #3](#photo-blue-ribbon-habs-1982-03) from HABS/HAER:** _View, looking north, with Canal Street on right, building at center is Blue Ribbon Company/Wilson and Company, the last remaining meat packing company on the [Blackstone] river._ 
 
 We found this building while searching the HABS/HAER database at the Library of Congress. We then went out for a walk and were able to find the foundation, which is still present and in use as an outdoor space.
 
-The staircase in the lower corner of the building from [photo 6](#photo-6) can be seen in [photo 7](#photo-7). Also, notice the absence of Roger Williams Memorial Park in photos 1–6, taken from a series documenting the Northeast Corridor Railroad, dated 1977 through 1982.
+The staircase in the lower corner of the building from [1982 #4](#photo-blue-ribbon-habs-1982-04) can be seen in [1982 #5](#photo-blue-ribbon-habs-1982-05). Also, notice the absence of Roger Williams Memorial Park in photos 1–6, taken from a series documenting the Northeast Corridor Railroad, dated 1977 through 1982.
 
 The park, relative to the history of Providence, is new. It was authorized by Congress in 1965, took many years to landscape and develop, and did not formally open to the public until 1985. Prior to the existence of the park, the area was divided up by about 6 or so small lanes and all the lots were privately owned. The properties were acquired by the government, demolished and totally cleared to make way for the park. Photo #6 shows it in the “cleared” phase.
 
-In [photo #1](#photo-1), the long rectangular building in the foreground is the Providence & Worcester Railroad North Freight Station. It was built in 1847-1848, back when the original train station was built (Thomas A. Tefft, architect). It was once a beautiful Romanesque building, but as you can see in that photo, it was definitely showing it’s age. It was around until at about 1980, and it was in the National Register of Historic Places.
+In [1977 #1](#photo-blue-ribbon-habs-1977-01), the long rectangular building in the foreground is the Providence & Worcester Railroad North Freight Station. It was built in 1847-1848, back when the original train station was built (Thomas A. Tefft, architect). It was once a beautiful Romanesque building, but as you can see in that photo, it was definitely showing it’s age. It was around until at about 1980, and it was in the National Register of Historic Places.
 
 We don’t know much about Blue Ribbon Beef Co/Wilson & Company meats… According to the HABS/HAER data sheets, more than one meat packing company was located over the river. Blue Ribbon was the last remaining meat packing plant on (over) the river in 1982. The Blackstone canal was designed to connect Worcester, Mass, and the Providence seaport. Construction started in 1824 and took four years, constructing a total of 49 granite locks. In 1832 a rail line opened from Worcester to Boston and made a quicker, cheaper route for goods to travel. In 1848 the canal ceased to be used for trade. 

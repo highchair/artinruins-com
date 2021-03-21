@@ -51,7 +51,7 @@ imagescredit: 'Aerials from the Providence Historical Aerial Viewer'
 
 From aerial photos we can tell that the bulk of the operations at this location were razed between 1997 and 2003. The remaining structure in these photos was the last remnant of a large corner lot with railroad access. 
 
-Part warehouse and part covered loading area, the building was probably a shipping and receiving area from rail to trucks. It was the only structure left of a parcel that once stretched along the railroad tracks to Atwells Avenue (where the 7-11 is now). [Aerial photos](#photo-10) show the size of the operation from the 50s to the late 90s.
+Part warehouse and part covered loading area, the building was probably a shipping and receiving area from rail to trucks. It was the only structure left of a parcel that once stretched along the railroad tracks to Atwells Avenue (where the 7-11 is now). [Aerial photos](#photo-harris-aerial-1952.jpg) show the size of the operation from the 50s to the late 90s.
 
 “William Harris Jr. Lumber Co.” had been located in Providence along Harris Avenue for about 100 years. In 1997 the company left its Providence location for North Kingstown and was renamed JT’s Lumber. 
 

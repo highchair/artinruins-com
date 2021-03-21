@@ -115,7 +115,7 @@ Still In Use
 + East Avenue Auto
 + George Arnold Building
 ++ Greenville Fin / Putnam Pike Mills
-++ Hope Webbing
++ Hope Webbing
 + Louis Fink building
 ++ Ocean House
 + Wanskuck Hall

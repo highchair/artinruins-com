@@ -29,9 +29,11 @@ thumbnail: central-fire-1903c-views-of-prov.jpg
 images:
   #- url: central-fire-1886c-three-ones.jpg
   #  caption: 'Providence Journal file photo, circa 1886. The city was celebrating the 250th anniversary of its founding.'
+  - url: sanborn-map-1889-xxchange-place-plate-1.jpg
+    caption: 'Detail of a Sanborn Insurance Map from 1889'
+    alt: 'The first fire house located to the southeast of Union Railroad Station. It was a square plan, two-story mansard roof building with a central projecting three-story tower in a simply decorated second empire style.'
   - url: central-fire-1895c-three-ones.jpg
     caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library, circa 1895'
-    alt: 'The first fire house located to the southeast of Union Railroad Station. It was a square plan, two-story mansard roof building with a central projecting three-story tower in a simply decorated second empire style.'
   #- url: central-fire-1900c-three-ones.jpg
   #  caption: 'Providence Journal file photo, circa 1900'
   - url: central-fire-1901c-gilbane-construct.jpg
@@ -43,6 +45,7 @@ images:
   - url: central-fire-1906c-postcard.jpg
     caption: 'Rare photo from a postcard without the Federal Court in place (built 1906-1908)'
   - url: central-fire-1908c-with-union.jpg
+    caption: 'This postcard labels the current Federal Court House as only a Post Office. This building started as the Providence Post Office, Court House and Custom House until a new post office was constructed.'
   - url: central-fire-1910c-and-court-house.jpg
     caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library, circa 1910'
   - url: central-fire-1910c-firemen-ppl.jpg
@@ -68,7 +71,7 @@ An evolving and growing city like Providence at the turn of the century had an e
 
 In 1881, the Providence fire department had 72 men on its roster, with 101 call men. There were scarcely more in 1884. There are more than 400 in the regular department in modern times. 
 
-The first central station (seen in the [first 3 photos](#photo-2)) was built over the Woonasquatucket river with wooden pilings in 1873–1875. It was called the “Three Ones” because it housed Hose, Hook & Ladder, and Protective Companies number 1. To us, its mansard roof and steep-faceted central tower resembled City Hall, which was being built at the same time (1875). It was in use for only 25 years before being expanded and replaced by the Central Fire Station designed by Martin & Hall and built by the Gilbane Corporation. The new station opened in 1903. 
+The first central station (seen in the [first photo](#photo-central-fire-1895c-three-ones)) was built over the Woonasquatucket river with wooden pilings in 1873–1875. It was called the “Three Ones” because it housed Hose, Hook & Ladder, and Protective Companies number 1. To us, its mansard roof and steep-faceted central tower resembled City Hall, which was being built at the same time (1875). It was in use for only 25 years before being expanded and replaced by the Central Fire Station designed by Martin & Hall and built by the Gilbane Corporation. The new station opened in 1903. 
 
 It was a lovely building with great details similar to that of the Union Trust Company (Stone, Carpenter, & Willson, built 1901-02 at [170 Westminster Street](//www.google.com/maps/place/170+Westminster+St,+Providence,+RI+02903/@41.8235943,-71.4135251,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44514106fba8f:0x457e1f5b8668e003!8m2!3d41.8235943!4d-71.4113364){:target="_blank"}). The multi-colored stonework and brick courses added an elegant finesse — one which is evident in many of Martin & Hall’s other designs. At the time that it was constructed, its central tower made it the tallest building in Providence until the State House was constructed a year later[^1]. 
 
@@ -87,11 +90,11 @@ The location of the former Three Ones station is now the site of the Federal Cou
 It is tempting to think that the first central fire station, the “Three Ones”, was in the same location as the turn-of-the-century station. In fact, when the first Union Station burned in 1896, more of the Cove lands were filled in to enlarge Exchange Place, which up to that point would have been considered a single wide street that ran in front of City Hall and the old Union Station. 
 
 <figure class="u__img">
-  <a href="#photo-4">
+  <a href="#photo-sanborn-map-1889-xxchange-place-plate-1">
     <img src="{{ site.propimg_path }}{{ page.slug }}/sanborn-map-1889-xxchange-place-plate-1.jpg" alt="" />
   </a>
   <figcaption>
-    Sanborn Map, 1889, from <a href="//repository.library.brown.edu/studio/item/bdr:212114/" target="_blank">the collection of Brown University</a>. Upper left shows City Hall, with the old Union Station and the Cove encroaching into what is now Exchange Place. The “Three Ones” (funnily enough, just under the large “1“ in the upper right) is drawn over water in the location of what would become the Federal Court building in 1908. 
+    Sanborn Map, 1889, from <a href="//repository.library.brown.edu/studio/item/bdr:212114/" target="_blank" title="Opens in a new window">the collection of Brown University</a>. Upper left shows City Hall, with the old Union Station and the Cove encroaching into what is now Exchange Place. The “Three Ones” (funnily enough, just under the large “1” in the upper right) is drawn over water in the location of what would become the Federal Court building in 1908. 
   </figcaption>
 </figure>
 
@@ -101,4 +104,4 @@ Construction of this Central Fire Station was authorized in 1900 and the buildin
 
 This fire station was demolished in 1938. Fire Headquarters moved temporarily to the old Richmond St. Fire Station until the consolidated Police and Fire Station at Lasalle Square was finished in 1940, which itself was subsequently demolished in 2007.
 
-This 1903 building replaced an earlier Central Station of 1873 that stood on pilings in the river. Its site is occupied by the present Federal Building, [**A.I.R.**: Then called the “Providence Post Office, Court House and Custom House.” Notice that [postcard #7 and #8 labels it a Post Office](#photo-7)] opened in 1908, on Kennedy Plaza. The 1873 station was called the “Three Ones” because it housed Hose Co. 1, Hook & Ladder Co. 1, and Protective Co. 1. I’m not sure if the title “Three Ones” was ever used for the 1903 building.
+This 1903 building replaced an earlier Central Station of 1873 that stood on pilings in the river. Its site is occupied by the present Federal Building, [**A.I.R.**: Then called the “Providence Post Office, Court House and Custom House.” Notice that [a postcard labels it a Post Office](#photo-central-fire-1908c-with-union) opened in 1908, on Kennedy Plaza. The 1873 station was called the “Three Ones” because it housed Hose Co. 1, Hook & Ladder Co. 1, and Protective Co. 1. I’m not sure if the title “Three Ones” was ever used for the 1903 building.

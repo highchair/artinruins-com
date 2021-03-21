@@ -4,11 +4,11 @@ slug: ri-malleable-iron
 aka: 
 date-modified: 2020-05-02 21:45
 
-built: 1867, 1918
-demolition: 2002
+built: '1867, 1918'
+demolition: '2002'
 decade: '1860-1869'
-date-added: 2002
-categories: [ '#UsedToBeThere' ]
+date-added: '2002'
+categories: [ '#UsedToBeThere', '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Warwick, RI' ]
 designers: [ 'Jackson, Robertson, and Adams' ]
@@ -27,6 +27,7 @@ thumbnail: ri-malleable-mk-2002-09-04.jpg
 
 images:
   - url: ri-malleable-jh-2002-03-02.jpg
+    alt: 'Mostly a shell of a building left after a fire and then were later completely demolished. What remains is the main office, a two story square brick building five bays wide with a carved transform over the second floor that reads “Rhode Island Maleable Iron Works”.'
   - url: ri-malleable-jh-2002-03-03.jpg
   - url: ri-malleable-jh-2002-03-04.jpg
   - url: ri-malleable-jh-2002-03-05.jpg
@@ -37,23 +38,22 @@ images:
   - url: ri-malleable-jh-2002-03-10.jpg
   - url: ri-malleable-jh-2002-03-11.jpg
   - url: ri-malleable-jh-2002-03-01.jpg
-  
   - url: ri-malleable-mk-2002-09-01.jpg
-    caption: Photo by MK
+    caption: 'Photo by MK'
   - url: ri-malleable-mk-2002-09-02.jpg
-    caption: Photo by MK
+    caption: 'Photo by MK'
   - url: ri-malleable-mk-2002-09-03.jpg
-    caption: Photo by MK
+    caption: 'Photo by MK'
   - url: ri-malleable-mk-2002-09-04.jpg
-    caption: Photo by MK
+    caption: 'Photo by MK'
   - url: ri-malleable-mk-2002-09-05.jpg
-    caption: Photo by MK
+    caption: 'Photo by MK'
   - url: ri-malleable-mk-2002-09-06.jpg
-    caption: Photo by MK
+    caption: 'Photo by MK'
   - url: ri-malleable-mk-2002-09-07.jpg
-    caption: Photo by MK
+    caption: 'Photo by MK'
   - url: Google-Streetview-Nov-2019.jpg
-    caption: Google Streetview from November 2019
+    caption: 'Google Streetview from November 2019'
 
 imagescredit: Contribution by M.K.
 ---
@@ -62,19 +62,21 @@ imagescredit: Contribution by M.K.
 
 _Excerpted from the ProJo, Cathleen Crowley_
 
-Joseph Piscopio, owner of the Jefferson Grille, is developing the 4.3 acre site and demolishing most of the buildings there. There will be a hotel and an apartment building, the first development in the so-called Warwick Station District, named for the Amtrack station that has yet to materialize.
+Joseph Piscopio, owner of the Jefferson Grille, is developing the 4.3 acre site and demolishing most of the buildings there. There will be a hotel and an apartment building, the first development in the so-called Warwick Station District, named for the Amtrak station that has yet to materialize.
 
 The complex, called Metro Center Plaza, is slated to include a 170-room hotel and 110-unit apartment building. There also might be plans for 60,000 square feet of office space. A second hotel is planned for across the street.
 
 The demolition crew tried to save the shell, but the mortar could not hold the 25 foot walls. Piscopio plans to incorporate the remaining wall and the main office (saved from demolition) into the hotel design.
 
+
 ### Current Events
 
 The main office building is all that remains of the former Iron Works, but its impressive facade is still very impressive as a home to a restaurant — the [Iron Works](//www.ironworkswarwick.com). There was a Hilton Garden Inn hotel built next door as early as 2008, according to the oldest Streetview we could find. 
 
-The building on Thurber Street in [Photo 11](#photo-11) is actually a different building (and should be moved as such). It was present up until around 2015 (Streetview May 2012 shows it but October 2016 does not). As of November 2019 it is still a large, empty lot. 
+The building on Thurber Street in [Photo 11](#photo-ri-malleable-jh-2002-03-01) is actually a different building (and should be moved as such). It was present up until around 2015 (Streetview May 2012 shows it but October 2016 does not). As of November 2019 it is still a large, empty lot. 
 
 Across the street is the giant parking garage and rental car drop off for the airport at 700 Jefferson Boulevard. 
+
 
 ### History
 
@@ -84,6 +86,6 @@ Malleable Iron is defined as a high-tensile strength white cast iron produced by
 
 _From [SO Rhode Island](//sorhodeisland.com/stories/iron-works-tavern,7989)_
 
-Built by industrialist Thomas Jefferson Hill in 1867 for the manufacture of malleable iron castings, the RI Malleable Iron Works Factory provided the nucleus for the village that was to grow around it. This factory, the adjoining mill housing in the neighboring blocks, and the train depot next door were all part of Hill’s vision, who gave his name to the village “Hillsgrove.”  The Malleable Iron Works factory burned in 1918 and was almost immediately rebuilt.
+Built by industrialist Thomas Jefferson Hill in 1867 for the manufacture of malleable iron castings, the RI Malleable Iron Works Factory provided the nucleus for the village that was to grow around it. This factory, the adjoining mill housing in the neighboring blocks, and the train depot next door were all part of Hill’s vision, who gave his name to the village “Hillsgrove.” The Malleable Iron Works factory burned in 1918 and was almost immediately rebuilt.
 
 The Iron Works Tavern is located in the original main office building, where Hill’s office was located on the second floor. Much of the original foundry has been preserved, such as the 8–foot 300–pound solid oak front door, the ceilings and beams, along with the brick. Many other details have been replicated to match the time period. The Iron Works Tavern is a reflection of this area’s rich history and a beacon of its promising future.

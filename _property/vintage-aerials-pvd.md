@@ -40,7 +40,7 @@ images:
 imagescredit: 'L. Baker, 1903; Unknown circa 1981'
 ---
 
-### Vintage View: [1903](#photo-1)
+### Vintage View: [1903](#photo-pvd-1903-unlabelled)
 
 Hanging in the office of a former client in Pawtucket, this fascinating and large panoramic image was found in their boiler room along with other detritus. It was not cared for very well but the image, once cleaned and framed, was in surprising good shape. 
 
@@ -50,7 +50,7 @@ The vantage point of the photo makes some sense, as the Manchester Street plant 
 
 [^1]: The Merwin Group was responsible for the rework of the plant in the 1990s. On their page, captured on September 10, 2020, they have a photo of the expansion under construction. [To the left, the blond brick original tower can be seen](http://www.new.merwingroup.com/electric-repowering----manchester-street-station---providence-ri/){:target="_blank"}. It was taken down at the end of the conversion process. For more photos of the Manchester Street station before conversion, the [Library of Congress and HABS/HAER](//www.loc.gov/resource/hhh.ri0458.photos?st=gallery){:target="_blank"} have a collection of images from 1992, before the conversion.  
 
-Be sure to review the [labelled version of this image](#photo-2) as well. We are pretty sure that the labels and dates are accurate, but if you spot something incorrect please be sure to tell us in the anecdotes. 
+Be sure to review the [labelled version of this image](#photo-pvd-1903-labelled) as well. We are pretty sure that the labels and dates are accurate, but if you spot something incorrect please be sure to tell us in the anecdotes. 
 
 Labelled properties listed left to right — still standing unless noted:
 
@@ -73,7 +73,7 @@ Labelled properties listed left to right — still standing unless noted:
 1. **First Unitarian Church**, Benefit Street, built 1816
 
 
-### Vintage View: [circa 1983](#photo-3)
+### Vintage View: [circa 1983](#photo-pvd-1983-unlabelled)
 
 Again, we were just sitting in an office for the first time and this photo was on the wall. It was a lawyer's office in the Turks Head building. They must have thought I was a little bit nuts to take photos of a photo on the wall, but we were fascinated with this 1980s-era aerial. 
 
@@ -97,12 +97,12 @@ Here is our list of significant landmarks, from left to right:
 1. _(unlabeled, not present)_ The **Route 6/10 connector** to I-95 was built in 1988. Source: [Wikipedia](//en.wikipedia.org/wiki/Rhode_Island_Route_10){:target="_blank"}
 
 
-### Vintage View: [circa 1995](#photo-5)
+### Vintage View: [circa 1995](#photo-pvd-1995-downtown)
 
 This set of two postcards was found over time. We had one of them in our possession and passed over the second more than once because we thought it was the same view. Turns out it was probably the same helicopter ride. Here is why we place the date at around 1995:
 
-1. **The State Normal School** ([photo 5](#photo-5)) is still present on the site of what is now the Providence Place Mall. The Mall opened in 1999 after a prolonged period of excavation due to the ruins of the old state prison on the same site
+1. **The State Normal School** ([1955 photo](#photo-pvd-1995-downtown)) is still present on the site of what is now the Providence Place Mall. The Mall opened in 1999 after a prolonged period of excavation due to the ruins of the old state prison on the same site
 1. **The Westin Hotel** is present in the photo and it was completed in 1994 
-1. **Manchester Street Generating Station** ([photo 6](#photo-6)) is under construction in the lower left. It was renovated to be gas-fired and more efficient. It was complete and online by 1996. 
+1. **Manchester Street Generating Station** ([1995 photo](#photo-pvd-1995-hurricane-barrier)) is under construction in the lower left. It was renovated to be gas-fired and more efficient. It was complete and online by 1996. 
 
 It’s still crazy to us that the downtown Providence of our youth was overrun with railroad tracks and that Waterplace Park was not always a thing. The 1983 photo shows that very clearly. Even still, while it is more recent, the 1995 photo of I-195 splitting the city in two is hard to remember. 

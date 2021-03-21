@@ -61,7 +61,7 @@ imagescredit: Aerials from the Providence Historical Aerial Viewer
 
 ### Redevelopment
 
-Between 1962 and 1972, the first half of this complex was designed by Lloyd Baker (thanks for the info, Kyle Baker) and built. In the [aerial from 1972](#photo-20) we can see a star pattern rotating on a center axis. This was the home of the Bulova Watch Company until about 1980. General Electric then acquired the building and constructed a new building on the northern side, as seen in the [aerial from 1981](photo-21). 
+Between 1962 and 1972, the first half of this complex was designed by Lloyd Baker (thanks for the info, Kyle Baker) and built. In the [aerial from 1972](#photo-ge-bulova-aerial-1972) we can see a star pattern rotating on a center axis. This was the home of the Bulova Watch Company until about 1980. General Electric then acquired the building and constructed a new building on the northern side, as seen in the [aerial from 1981](#photo-ge-bulova-aerial-1981). 
 
 Coming in low like a spaceship about to land, the details of this building are mid-century space-age modern. Rounded corners, white/light tan bricks, big punctuations of windows, and long wide courses of glass. The original building is made of two different shapes that circle around each other in an interlocking pattern. One is rounded and restrained with thick pilasters and small amounts of glass while the other has a second floor that protrudes over the first with a very space-age look. 
 

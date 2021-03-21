@@ -32,7 +32,7 @@ thumbnail: dyerville-jh-2003-02-01.jpg
 images:
   - url: dyerville-habs-1978-01.jpg
     caption: 'Photo by Warren Jagger, 1978'
-    alt: ''
+    alt: 'A three story, stucco covered stone mill in an L-shaped plan with simple granite window adornment and a large, central bell tower. It some ways, it looks very much like a 19th-century church.'
   - url: dyerville-habs-1978-02.jpg
     caption: 'Photo by Warren Jagger, 1978'
   - url: dyerville-habs-1978-03.jpg
