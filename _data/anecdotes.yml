@@ -12,6 +12,20 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: primo-art-co
+  person: 'Matt M'
+  date: '2014-03-27'
+  content: 'I am currently renting this lovely building. I just got back from the state archive where I dug up some more info. It was built in 1924/5 by or for Primo Art Co, a plaster and cast stone garden furniture/decoration company. In 1950 Pilz Ltd moved in with them and they shared the space until 1970 then Pilz had the space up until around 1990. Since then there have been no public records of the building, but in 2011 it was used as a pop up gallery. We are turning the space into a shared studio headed by our company Pneuhaus. Which make inflatable event structures and furniture. Its cool to hear that Pilz made the Kentucky derby trophy.'
+
+- property: primo-art-co
+  person: 'Michael'
+  date: '2008-06-25'
+  content: 'This building appears to have been purchased recently. There is a dumpster out front and construction going on inside.'
+
+- property: primo-art-co
+  person: 'Jason Duclos'
+  content: 'This bldg. used to be a silversmith company Pilz Ltd. They manufactured many different items, including the Kentucky Derby Trophy. They went out of business in the late 1980’s & the building sat vacant for years b4 Regal Reptiles moved in.'
+
 - property: hope-webbing-pwt
   person: 'bettylou'
   date: '2014-08-01'
