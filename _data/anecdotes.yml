@@ -12,6 +12,20 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: phenix-machine-shop
+  person: 'Adam'
+  date: '2019-04-26'
+  content: 'Claire is correct; this building is now home to Brown Physicians Inc.'
+
+- property: phenix-machine-shop
+  person: 'Claire'
+  date: '2018-02-25'
+  content: 'I believe the Brown Development offices have now relocated to South Street Landing (former Dynamo House).'
+
+- property: phenix-machine-shop
+  person: 'P Babbidge'
+  content: 'I first set eyes upon this building in the late 1980s when I frequently walked to RI Hospital by passing through the jewelry district. It has got to be the most fascinating Providence mill building based upon it’s random-course-ashlar construction. By early 1997 I had given up all hope of restoration and took a lot of pictures of the Phenix Iron Foundry in utter ruins. While taking the pics, a man across the street saw the tears in my eyes and said that he knew I would buy that building if I could. But nothing matched the tears of joy I experienced upon seeing it miraculously restored a few years later. Brown University is my hero for making this structure achieve it’s full potential. I intend to share my pics from 1997.'
+
 - property: primo-art-co
   person: 'Matt M'
   date: '2014-03-27'
