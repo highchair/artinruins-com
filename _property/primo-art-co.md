@@ -32,8 +32,10 @@ excerpt: "A small but charming red square building in various states of repair a
 thumbnail: primo-jh-2018-12-01.jpg
 
 images:
+  - url: primo-sanborn-1921-01.jpg
+    caption: 'Sanborn Insurance Map, 1921, from ProQuest Digital Sanborn Maps via the Providence Public Library'
+    alt: 'A relatively non-descript two story cinder block structure with large second-story, steel frame windows. No ornamentation aside from a hand-painted sign on the middle of the facade reading “891 North Main Street”. First floor window opening have all been bricked in.'
   - url: primo-jh-2005-03-01.jpg
-    caption: ''
   - url: primo-jh-2005-03-02.jpg
   - url: primo-jh-2005-03-03.jpg
   - url: primo-jh-2008-07-01.jpg
@@ -44,7 +46,7 @@ images:
   - url: primo-jh-2018-11-03.jpg
   - url: primo-jh-2018-12-01.jpg
 
-imagescredit: 
+imagescredit: 'Contribution from the ProQuest Online Digital Sanborn Map collection'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -60,7 +62,7 @@ This is a C4-zoned industrial 0.13 acre lot with a small, two-story cinder-block
 
 This building does not appear on Sanborn Insurance maps from 1920-1921, but does appear on a [G.M. Hopkins map from 1937](//www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/){:target="_blank"}. That’s how we estimate its build date between 1920 and 1937.
 
-+++
+***
 
 The original owner/builder was Primo Art Company, a producer of plaster and cast stone objects. Another company, Pilz Limited, moved in and shared the space from 1950 until 1970. After 1970, Primo Art moved out and Pilz became the primary occupant of the space until 1990. Pilz must have been a silver designer, because they most notably made the Kentucky Derby trophy. Public records are scarce between 1990 and 2010, but from 2011 to about 2016 there were many pop-up gallery shows in the space.
 
