@@ -12,6 +12,14 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: monohasset-mill
+  person: 'Robert W. Merriam'
+  content: 'I am impressed by your web site. The New England Wireless and Steam Museum is fortunate in having the city of Hartford’s first generating plant (1883) in operating condition. It uses a 25 HP Armington & Sims engine driving a Thomson Houston generator.'
+
+- property: monohasset-mill
+  person: 'Bert Armington'
+  content: 'Interesting also that the Armington & Sims engine was chosen by Thomas Edison for his Pearl Street power station in New York due to its accurate speed control (no more flickering lights). Armington & Sims engines were also the first to provide power to the Houses of Parliament in London.'
+
 - property: phenix-machine-shop
   person: 'Adam'
   date: '2019-04-26'
