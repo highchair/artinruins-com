@@ -45,6 +45,7 @@ images:
   - url: primo-jh-2018-11-02.jpg
   - url: primo-jh-2018-11-03.jpg
   - url: primo-jh-2018-12-01.jpg
+  - url: primo-jh-2021-04-01.jpg
 
 imagescredit: 'Contribution from the ProQuest Online Digital Sanborn Map collection'
 
