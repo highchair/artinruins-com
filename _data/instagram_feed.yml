@@ -2,6 +2,10 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: 
+  date: '2021-04-04'
+  insta_link: https://www.instagram.com/p/CNNlYzpHMw7/
+
 - post: providence-armory
   date: '2021-03-07'
   insta_link: https://www.instagram.com/p/CMKLohVHKVX/
