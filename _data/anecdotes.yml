@@ -12,6 +12,258 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: ocean-house
+  person: 'Jack Forstrom' 
+  date: '2020-06-23' 
+  content: 'I was so fortunate to spend 3 summers working at the Ocean House, 1976, 77 and 78. My first summer I worked as kitchen steward, the next year I was breakfast cook, and my final summer I was Night Auditor/manager. Wonderful memories!'
+
+- property: ocean-house
+  person: 'Barb Steinhauser' 
+  date: '2010-05-28' 
+  content: 'Loved the Ocean House both times I visited in the 80s and 90s but it was a little long in the tooth… so glad Mr Royce came along. Please, please direct him to The Homestead in Hot Springs, VA. Since 1766 it has served people coming to find a bit of recreation, rest and relaxation in the mountain air and scenery! Virginia is as full of history as is the northeast!! Please let him  know we are waiting for him to ride in on his white horse…'
+
+- property: ocean-house
+  person: 'C Feisthamel' 
+  date: '2010-03-10' 
+  content: 'The new OH is set to open in May 2010, and while I too love old buildings, this one had become a hazard and desperately needed updating. I only hope it will be assessible to all, so that memories similar to the ones posted here can be created and continued. So far it appears that Mr Royce has been very respectful to the previous OH and I can’t thank him enough for preventing five more overdesigned and oversized houses from being built.'
+
+- property: ocean-house
+  person: 'Rock' 
+  date: '2009-08-02' 
+  content: 'Ocean House Lives… I was at Watch Hill a week ago and was so excited to see the rebuilding of Ocean House; quite exactly to the original specs… What a vast undertaking and a great job… a must see.'
+
+- property: ocean-house
+  person: 'Shelly Joline Lintner' 
+  date: '2008-09-10' 
+  content: 'As a child I spent 2 weeks every summer with my family at my grandparents house just blocks from the ocean and downtown watchhill. We loved the east beach and the beach in front of the ocean house also. My twin sister and I would go play bingo as teenagers and I loved the huge wrap around porch. My first kiss was amidst the sand dunes right outside the ocean house. It was 1978 and I was 13. I always found the ocean house to be magical as well as the whole town of watch hill. I’ve never seen the boy again, I just remember his name was John. Although I still live in a small town in western Missouri I have wanted to live in Watch Hill my whole life. I still have family in the surrounding area from my dad’s side but I never see them or talk to them. I have my own kids now, 4 daughters, and I tell them about Rhode Island constantly. I’m trying to arrange a trip for this summer so my kids can see the town that I talk about so much so hopefully I can save up the money to get us there. I have so many wonderful memories, many of them visual, of the ocean house and the beautifull ocean. So many memories that are hard to even find words to describe.'
+
+- property: ocean-house
+  person: 'Shelly Joline Lintner' 
+  date: '2008-09-09' 
+  content: 'As a child I spent 2 weeks every summer with my family at my grandparents house just blocks from the ocean and downtown watchhill. We loved the east beach and the beach in front of the ocean house also. My twin sister and I would go play bingo as teenagers and I loved the huge wrap around porch. My first kiss was amidst the sand dunes right outside the ocean house. It was 1978 and I was 13. I always found the ocean house to be magical as well as the whole town of watch hill. I’ve never seen the boy again, I just remember his name was John. Although I still live in a small town in western Missouri I have wanted to live in Watch Hill my whole life. I still have family in the surrounding area from my dad’s side but I never see them or talk to them. I have my own kids now, 4 daughters, and I tell them about Rhode Island constantly. I’m trying to arrange a trip for this summer so my kids can see the town that I talk about so much so hopefully I can save up the money to get us there. I have so many wonderful memories, many of them visual, of the ocean house and the beautifull ocean.  So many memories that are hard to even find words to describe.'
+
+- property: ocean-house
+  person: 'Donald A. Carr' 
+  date: '2008-07-23' 
+  content: 'Born in Westerly and bathed at the beautiful beaches of Watch Hill and Misquamicut from 1940-1966. The OH is more than a landmark: it IS Watch Hill. Oregon is our home now but Watch Hill will always hold fond memories for me with the family during our evening drives and beach events.'
+
+- property: ocean-house
+  person: 'Carl James Grindley' 
+  date: '2008-06-30' 
+  content: 'My latest book, “Icon,” contains a novel The Memoirs of a Supervillain, which is set in The Ocean House. Currently, the book is available through Amazon and through the publishers, No-Record Press of San Francisco.'
+
+- property: ocean-house
+  person: 'Susan Carr-Sparkman'
+  content: 'Being from Westerly, I grew up in Misquamicut. My parents owned a small house on Atlantic Avenue, so I didn’t learn of the charm of the OH until my I reached my teens. One of my best friends, Henry, worked there, along with his brother and two girls with whom we were friends. In my teens, I visited my friends who worked there, and spent many nights with them at beach parties in front of the OH, complete with music, fires and tiki torches.
+
+
+Nothing will ever replace the peace and quiet of the lobby; complete with that the musty/salty smell of the old building and summer air. You can’t describe that to anyone; you have to have enjoyed it while you were there.
+
+
+Ironically, that summer, I also began to review my grandmother’s claims that she was born in Watch Hill. In picking her brain and looking in the local library, I learned that my 4th great grandfather was Jonathan Nash; long term keeper of the Watch Hill Light and father to George Nash, the builder of the Ocean House. That historical connection brought an added charm to my time there, and lent to my friends and I many jokes about their claims that the upper floors were haunted. “It’s okay,” I’d say, “we’re related.” (Rumor had it that my 4th great grandfather, Jonathan, had been laid to rest about where the front porch of the OH was, then moved in later years to River Bend Cemetary.)
+
+
+As a member of the public, we were allowed to play bingo, at that time, with “Ace” calling the numbers in the main ballroom. We played ping pong in the game room, and, in later years, could enjoy blues bands in the bar. Will the new OH lend its charm to the public? I certainly hope so, as that was one of the benefits of enjoying that local icon.
+
+
+It broke my heart when the OH came down, but I, too, understand the limitations of renovating something so far deteriorated. I’ve heard rumors of the new plans, and have yet to review the plans online. I can only hope that Mr. Royce will remember, as we all do, what we loved about the ocean house; it’s welcoming charm to distant travelers and locals alike; the gorgeous and majestic wrap-around deck with game tables and lounge chairs; the beach bar; the game room; and, of course, the breathtaking views. We’ve placed our hopes that Mr. Royce constructs a building which will pay homage to the original building. I doubt, however, he will be able to replace that musty/salty smell of the lobby, or rebuild the atmosphere that took that over a hundred years to build.'
+
+- property: ocean-house
+  person: 'Lizz'
+  content: 'For a while, it looked like the Ocean House had a chance. I’d always wanted to go. I love old hotels and my family and I make it a point to stay in old hotels when we’re on vacation. I planned to stay at the Ocean House, but alas, that day never came. It’s very unfortunate that we lost this beautiful piece of architecture.'
+
+- property: ocean-house
+  person: 'S. lIistro'
+  content: 'I have only been going to OH for the past decade or so. My beach friend and I went all the time during the summer months. We would drive up from CT. It was well worth the ride. We would pay our $20 for parking at the OH parking area. $10 would be returned for drinks at their quaint little restaurant area with the breath taking views. The beach sand felt like hot baby powder in your toes. The waves were always big enough to body surf and when you were ready to relax… you could rest on your belly and stare at the most beautiful structure. The hotel was extrodinary. It made you feel like you could almost go back in time. There was something comforting about the old lopsided building and now it’s gone for ever. I’m so sad that it had to be torn down, but I am greatful that we accidentally fell upon the hotel that one summer day.'
+
+- property: ocean-house
+  person: 'Randi Spivak'
+  content: 'I spent a few summers at Stonington CT where I’d rent a house with some friends. Every weekend we went to Watch Hill. From the mintue I saw the Ocean House, I fell in love. It was absolutely perfect, everything about it - the porch, the crazy bright yellow color and even the name.
+
+
+Mr. Royce – you are not just renovating a hotel – you are saving a bit of history, culture and community. Thank you for your foresight and for recognizing the value of such a place to so many. Far too many treasures are lost to the “let’s knock it down and build sprawling McMansions” development craze without a throught of the community now and for future generations.
+
+
+Wishing you luck with the project and I for one look forward to visiting the Ocean House when it reopens. This is one historic landmark with a happy ending.'
+
+- property: ocean-house
+  person: 'A. Avakian-Douglas'
+  content: 'Today I learned that today demolition started on Rocky Point, buildings that hold so many memories for us Rhode Islanders are being chipped away, this is so unfortunate that such a place as Ocean House has met her fate also. This beautiful nostaglic building that reminds of that beautiful hotel where the movie “Somewhere in Time” was filmed is gone. Why such a beautiful hotel that holds so much history is gone. We, as Rhode Islanders have so much to grateful for, our unique architecture is only known to RI and Rhode Islanders. I feel so sad that such a beautiful place has been taken away from us.'
+
+- property: ocean-house
+  person: 'A. Avakian-Douglas'
+  content: 'What a beautiful building, Ocean House has that old RI favor, please preserve this glorious building there are not that many left, this is unique to Watch Hill and to Rhode Islanders. '
+
+- property: ocean-house
+  person: 'Denise LaPointe'
+  content: 'I grew up in Westerly, and Watch Hill was a huge part of it, I remember our entire neighborhood riding our bikes to the beach everyday to the Ocean House and parking our bikes in the garage, locking them up and heading for the beach, how, you ask, were we so priveliged,local kids having the right to leave our bikes there, well it helps if the owners grandaughter is one of the kids in your nieghborhood, you see the asst mngr Carol Lacey lived down the road from me and her daughter Jackie and the entire Lamphere Rd gang all hung out together so we made it our annual summer rendevou spot. That is one of my fondest memories of the Ocean House. Now when I go home to visit I see this empty lot, I only hope that Mr. Royce does the Ocean House justice in replicating her as she once was, so future generations may have the experience of enjoying the never ending summers at Watch Hill. '
+
+- property: ocean-house
+  person: 'miquamicutclub<3'
+  content: 'From the standpoint of a girl who lives a few houses down, it meant a great deal to me and was a large part of my childhood. What most of you don?t seem to be aware of is that it was all rotten and Chuck or “Charles M. Royce” tried to find a way out of knocking it down but the building was beyond repair. I have seen the plans for the new ocean house (I’m close friends with Chuck’s stepdaughter) and they are almost identical to the old Ocean House. The back is slightly different but the building was modeled after the original blueprints. He also plans to put many of the old artifacts there were in the original but is adding a nice restaurant, a spa and gorgeous rooms without changing the feel of the building we all loved. Can’t wait until 2009.'
+
+- property: ocean-house
+  person: 'Evan'
+  content: 'What really is a surprise is that they’d actualy pass the path of tearing down a piece of history. History is important for our communinty. As a result, this is going to rebuilt? Wouldn’t you think that its rediculous that they’d do somethig like that? Nothing will proabaly be the same, all 21rst century stuff. It’s not REAL stuff. Handmade, now when it’s going to be rebuilt its going to be made by computer, not 1868 style, proably modern and a lot stupider. That’s my opinion, I know I am just a kid, but history matters, and if we preserve it better, the smile will be back on those people’s faces again.'
+
+- property: ocean-house
+  person: 'Tod Damon'
+  content: ' About a year ago I saw an old, unfinished small table in a Providence antique shop. The dealer told me it had come from the Ocean House in Watch Hill and that he had gotten a bunch of tables from there before it was demolished. It had initials from the 70’s carved into the top. I took it home and refinished it. Everytime myself or anyone else sits at it I remind them of where it came from and the history likely associated with it. Can’t get that from IKEA.'
+
+- property: ocean-house
+  person: 'Christopher Cyphers'
+  content: 'My family and I visited the Ocean House each summer during much of my youth, beginning in 1969 (I’m now 40). As an adult, I had, until the hotel closed, spent at least four or five days each summer at the Ocean House. And in 2003, I proposed to my wife at the Ocean House. Suffice to say, this marvelous institution holds a very dear place in my heart, and I sincerely hope that one day soon the Ocean House will be reopen. To be sure, the village of Watch Hill has not been the same since the hotel closed. Like all those who have committed their own experiences here on this Web site, I would love to see the good people of Westerly grant the Ocean House the zoning variance that would allow the hotel to reopen – after, of course, a much need restoration. Nothing would make me happier to one day bring my own children to the Ocean House so they, too, can experience what has always been the highlight of summer holiday.'
+
+- property: ocean-house
+  person: 'Dennis'
+  content: 'Looks like the Town of Westerly and the community were fleeced on this one. We have seen the last of the Ocean House or anything that closely resembles it.'
+
+- property: ocean-house
+  person: 'Anonymous'
+  content: 'Go Ocean House! You are a venerable institution, an icon, a symbol of all that is excellent and dear to true New Englanders. May tradition live on!'
+
+- property: ocean-house
+  person: 'Chris Weir'
+  content: 'I was fortunate to have both lived and worked at the OH up until the last season it was open. What a place, and what a cast of characters I worked with and for. The OH will always hold a special place in my heart: the creepy and spooky top floors, the way the dining room windows sagged, enjoying intense sunrises in the sun room, and last, but not least, swimming every day in the ocean. One hell of a place. RIP'
+
+- property: ocean-house
+  person: 'Victoria Wylie'
+  content: 'I can tell you with complete honesty that in a world where I never fit in, I was at home at The Ocean House. To me, and I’m sure many others it is Heaven on Earth. I’m only a teenager but one of my goals is to be a historic preservationist. That’s why it killed me to hear of her destruction. I understand she will be rebuilt but more economically reasonable, this hurts me even more because she won’t be the same. That is why I will rebuild The Ocean House in the future when I have the means to. She will be exactly the same down to every window pane and every nail in every floorboard. I promise you all The Ocean House will be back one day, just like she should be. I love you Ocean House.'
+
+- property: ocean-house
+  person: 'Edward Williams'
+  content: 'My story of the OH began in the spring of 1970. I was a high school junior at Jackson High School in Camden SC. a English teacher by the name of Mr. Mclester (Daddy Mac as he was so effectionly called) came to me to discuss a summer job in Rhode Island at a hotel. Daddy Mac had taught my parents as well as myself and my siblings. He was a scholar and a gentleman.
+
+
+I could make a lot of money for next season school. Of he had to speak to my parents to get permission. And of course with his charm they said OK.
+
+
+I still remember arriving at the grand hotel to work. At that time i do not remember ever setting foot in a hotel. I had never seen building so beautiful. As it turned out I worker the entire summer through labor day. I was late coming home to start school which began in August.
+
+
+Daddy Mac as the head man there for us “boys” was a great impression. I learned a lot from him that summer that I still keep close. Too bad he can not continue to train young men as did with me and others at the Ocean House Hotel. My life has been better as a result of him crossing my path. I could say more about Daddy Mac but I can not type as fast as the thoughts could to mine. God bless Daddy Mac.'
+
+- property: ocean-house
+  person: 'Beshka Candelaria'
+  content: 'I worked at the OH for several summers. One summer I was lead housekeeper which allowed me access to EVERY part of the hotel. This experience led me to appreciate architecture forever.
+
+I am pleased the OH is under REBUILD: which means the historical structure will be rebuilt from scratch. Though it is entirely too sad to see the hotel demolished, I can safely say that I painted on wood and filled holes with paint as well. Pulling away one rotten piece of wood exposed slats of more rotten wood many times over. Needless to say the rebuild is the best thing to happen!'
+
+- property: ocean-house
+  person: 'Patty Hopkins Glatthaar'
+  content: 'Today I drove by the former Ocean House where I had spent many weekends with my family. I was very saddened to see that the magestic old inn had been demolished. What is going to replace this elegant part of history?'
+
+- property: ocean-house
+  person: 'Joe'
+  content: 'Seeing photos of the demolition of the tarnished, majestic Ocean House break my heart. There was a profound perfection in that building in that spot that will be difficult to replicate. I hope the new owner (our savior?) will find a way to make the economics work while retaining a lot of what made the Ocean House so special. The memories are wonderful; it’s hard to bear the thought of too many summers without this fixture of the Watch Hill area up and running.'
+
+- property: ocean-house
+  person: 'Veronica'
+  content: 'The Ocean House was always a very special place to me. I remember when I was young, going upstairs and looking out the windows at the ocean at night and seeing an old piano covered in dust. It was like stepping back in time to an era that was forever gone. I am so happy to see that it is being restored (sort of) and look forward to new days there.'
+
+- property: ocean-house
+  person: 'Deborah Pont'
+  content: 'I feel like I grew up with the Ocean House. As a little kid we all looked forward to going to “Bingo in the Ballroom” with Gladys. She’d shout out, “B-4!” Some kid who thought he was being wise would always shout back, “And after!” What a thrill to win $10 to spend at the beach, or on candy at Al’s News, or french fries from Snuffy’s. As we grew into our teenage years, my friends from out of town always looked forward to going back to the OH. Then the thrill became sneaking into the bar to see if we could pass for legal drinking age. Of course, the waiter or waitress was usually someone’s sister, neighbor, or cousin who knew better, so we’d end up settling for a Coke on the porch. I have many, many black and white 35 mm pictures of that porch, which was downright patrician. In high school one of them actually won an award; again I was thrilled. When it came time for my high school yearbook picture, I already knew where mine would be taken – on the Ocean House porch, of course. It was the quintessential New England shot. Over the years the Ocean House became a bit of a has-been (the rooms stood still in a time I never knew!), but still the ?local? folks went there not only because it was one of the only places in town, but because it was habitual. I really hope the new Ocean House makes Watch Hill a world class vacation destination not only for visitors to RI, but for locals as well. I am looking forward to the day I can check in for a weekend of spa treatment: rest, relaxation, and good food, all less than 10-minutes from home. Hopefully, another small thrill from the Ocean House to carry with me for years to come.'
+
+- property: ocean-house
+  person: 'Genie O’Donnell'
+  content: '(**A.I.R.**: Posted before demolition from here on out)
+
+
+For more years than I can count, our family has delighted in an Ocean House lunch on the deck as part of our family reunion. We celebrated our parents 50th wedding anniversary dinner there and I will never forget my mother’s happiness!!! She feels the Ocean House is one of the grandest houses in the world. Mom is in her mid-eighties now, and I would be “as pleased as punch” to book her a room when the hotel is again open to guests. May the renovations proceed smoothly.'
+
+- property: ocean-house
+  person: 'sandra mayo'
+  content: 'I am from Swampscott, MA, a beautiful seaside town, and spent the summers of my childhood on the beach in front of the New Ocean House, a grand hotel similar to the Ocean House of Watch Hill. So sadly, the Ocean House burned to the ground in the early 70’s after many years neglect. In 1996 I discovered the Ocean House in Watch Hill and spent an enchanting 4 days there that August, absolutely falling in love with the place. Each summer after that, my stay at the Ocean House was a highlight. I was so disappointed when the Hotel closed, and crushed to hear it was slated to be destroyed. However, reading the Boston Globe today I’ve learned that the Ocean House has been saved and is in the process of being restored. I could not be happier and look forward to its completion so that I may once again sit and daydream on that magnificent porch. A thousand thank you’s to Charles M. Royce for doing the right thing and saving this lovely piece of history. '
+
+- property: ocean-house
+  person: 'Gibbs Saunders'
+  content: 'I grew up in Westerly &amp; working at the Ocean House was a distinct part of my life. As a server, we would wait tables in the AM , go to the beach all day and then go back to wait tables in the PM. My favorite memories were of BINGO in the ballroom and quiet moments with myself on the deck listening to the ocean. A bellboy once took me to the top floor which was off limits to guests. He showed me a room with clothes hung up in a closet, tarnished jewelry and even playing cards that had been left there for many years untouched. I just remember thinking that it all looked very, very old. The Ocean House is one of the only uplifting memories that I have of my youth.'
+
+- property: ocean-house
+  person: 'Susan Mejia'
+  content: 'Although I have never stayed at the Ocean House, I have always wanted to. I did have lunch there on the porch and felt like I belonged there. I wish the new owner luck in the restoration process and some day I hope to be a guest at such a grand hotel.'
+
+- property: ocean-house
+  person: 'Christina Maschke'
+  content: 'The Ocean House is a huge part of my life and my family history. My grandparents took my mother there as a child and the tradition continued throughout my childhood. We have home movies of my mother on the beach. We spent about 20 days every summer there. My grandparents<br>used to rent a suite for the entire summer! I have so many precious memories of people (Sam the lifeguard,Edgar, Steve…) It broke my heart to think that it could be destroyed! I am so relieved that it is being renovated! I can’t wait to stay there again!'
+
+- property: ocean-house
+  person: 'Cynthia R. Knight'
+  content: 'I worked at the Ocean House for two summers (1980 & 1981) which will forever remain special to me. I worked as part of the wait staff in the dining room and the hours were perfect. I was afforded time to earn some money and the bulk of my day was spent on the beautiful beach, body surfing and hanging out with all the great people I met those 2 summers. My cousins have a house in Watch Hill and I would stay with them so that I literally had a two minute walk to and from work. My job at the ocean house was my first true job and just like a first love it will always hold a special place in my heart. Though I live away from the east coast now I have always hoped to return and stay as a guest at the hotel and I am thrilled to see I may have that opportunity. Perhaps I will see you this summer. '
+
+- property: ocean-house
+  person: 'Kathy Sumpter'
+  content: 'Summers used to mean weekends at the Ocean House. The rooms weren’t great and neither was the food… but the location was FABULOUS! We loved having lunch on the deck after a morning on the beach. We loved Howard and Carol… Sam… Rita & Paul and their two boys… the people who came every year. We loved Johnny and the East Coast Rockers and the Black &a White Band. We used to pack up the car and head down on Saturday morning early and then call the desk to see if anyone had vacated a room… and we had great luck! We came prepared with our “Watch Hill Survival Kit” that included towels, a fan, and an extension cord. We miss the Ocean House, but are so glad that it will be restored! Hope we can afford a room once it is!'
+
+- property: ocean-house
+  person: 'Kiggins Family'
+  content: 'We will miss our visit to ocean house this summer so much! The beach, lunch on the patio and, of course, the dinners made our family vacations there one of our favorites.'
+
+- property: ocean-house
+  person: 'Jim Cassidy'
+  content: 'I have wonderful memories of the two summers I worked at the Ocean House before leaving to join the U. S. Navy. The summer’s of 1979 & 1980 I worked as a Bellboy. It was great meeting the different guests from all parts of New England and New York. I hope they are able to restore this great queen to her original glory.'
+
+- property: ocean-house
+  person: 'deirdre counter'
+  content: 'Somehow the Ocean House and its setting have a sweetness and tranquility not found in a hotel these days. Casual elegance wouldnt you say, and sincere! I will never forget running along down to the beach on the blinstering hot boards, having Sam come over with the chairs and umbrella, and letting the parents get settled while we rushed into the waves. I remember the older generation who would come for the season, some of whom seemed to spend hours standing out just past the break in quiet chest deep water. They taught us to hold our hands in certain ways and squeeze to make a splray of water come out like a fountain, and would chat with us like old friends on first meeting. My foster grandparents! Yes, truly a place one felt surrounded by love and expansiveness, where people were all about but one felt completely private and free. There is no place like it. I remember arriving the first night and leaving the window open to hear the lapping of the waves, and waking before everyone else to run to the window and peek out at the huge expanse of blue, blue ski, blue sea, what an incredible panorama. Grand architecture yet unassuming. Just perfect. And the sounds and smells of course, the waves, the FOOD, the whipoorwhils often heard from the patio in a rather wild section of side yard, the bunnies on the lawn in the morning, and hearing the banging of pots and pans and the singing and chatting rising up from the kitchens! fantastic memories. Can’t wait to come back and hope the qualities that make it so great are made a central focus of the changes, as this is a place of great heart.'
+
+- property: ocean-house
+  person: 'John Derham'
+  content: 'Where should I start about the wonderful days spent at the Ocean House? In 1939 we began going to the Ocean House and the love affair was immediate and absolute. To really appreciate the Ocean House you have to understand the people that went there as customers and the people who worked there with a single mission to make your vacation a memory for a life time.
+
+Now you all know that we did not believe in segragation in the North but we did practice restricted clientele. No one would be turned down by the management but the kinds of guests could make a family feel either very comfortable or uncomfortable. Those that were comfortable would return year after year. Although there were people from ethinic groups, the majority were of Celtic origin and were in the upper middle class financally. To me a seven year old I could have cared less who came as long as they brought their kids so I had people to play with.
+
+
+The beach and all of the other elements of the Ocean environment were absolutely super. A review of a map will show you that the beaches run in a East/West line and look directly into the Block Island Sound. With a prevalling wind from the Southeast the surf was always great and I very soon was a very good body surfer. About the only thing negative about the beach were the rip tides that could be very strong. But once you had a little experience and had survived you know how to handle your self if you got caught in a rip tide.
+
+
+The beaches of Florida, especially those in the Panhandle area have beaches of wonderful fine sand but mostly just white to light yellow but the Beaches of the Watch Hill area are also very fine and much more beautiful because of the strands of granite and titanium sand that provided a true beautiful addition of color.
+
+
+Even in 1939, the OH had some problems relative to the state of repair but who cared because you were on vacation and the most important events were related to people. The one physical attribute that I will always remember was the dinning room were the American Plan meals were served.
+
+
+This room in its hay day was wide and long and occupied a space that ran the full length of the East side of the hotel. There was a main carpet covered aisle down the length of the room and the tables were set up to the right and left of this aisle. To get to your table you would usually enter through the main door and walk the aisle to your table greeting all the people you knew that might be there when you arrived. The more status you had the closer your table was to the ocean side tables and the farther you would have to walk. My Dad was in politics and he just love to work this room. For me, there was a back entrance that would allow me to get to our usual table quickly so I could get on with the serious business of eating. For a 98 lb little guy with a high metobolism, this was just great because the food was just wonderful especially Sunday evenings that was presented as a seafood buffet. The rest of the days you had a menu with maybe six choices. Yes, the food was good espcially the bakery products. There was also a house musical group that played during both lunch and dinner and then in the cocktail lounge after 8PM.
+
+
+The other thing that you can not appreciate about the OH physical attributes were the porchs, the rocking chairs and the ping-pong table. But before I run out of time let me talk about the people who worked there that really made it all work. 
+
+
+When the Miller’s bought the property they had other properties in Florida. Some where in their back ground there had met a young Negro gentleman who taught English at a black college in North Carolina and he had worked for them in Florida and had become a very close friend. In 1939, that was definitely an unusal situation and one that should be praised from on High.
+
+
+So, when the Millers bought this property with four floors and lots of rooms they needed help and turned to Doc. His marching orders were to find the best of the best student atheletes and bring them North to work for summers as Bellmen, Waiters and Maids. Doc did his job and thus began a very long tradition of the best help you could get at the OH. Doc was always the head Bellman. The guest loved the excellant service and the servants loved the good pay that they got both on an hourly pay roll and tips. I can remember overhearing heated discussions by guests asking to be assigned to specific waiters. Later in the fifties when I was getting ready to either go off to war (Korea) or college, Doc and I spent many late evening hours talking about the problems of the South and how they would eventually be resolved.
+
+
+I worked at the OH as a beach boy and assistant life guard during the summer of 1949 & 1950. Myself and the Head Lifeguard lived in one of the four suites of the Cupola. It was a wonderful experience and if I had the talent would make for a great F. Scott Fitzgerald like tale.
+
+
+I sincerely hope that the old girl makes it and that the gentleman with good intentions is sucessful. He has bought himself a wonderful piece of Real Estate and more importantly a wonderful piece of the History of New England.
+
+
+I live in the South now, in the Atlanta area, so I don’t get to the North too much but if the OH opens this summer I will want to make a reservation to walk with my wonderful memories and to enjoy the beaches that have not changed.'
+
+- property: ocean-house
+  person: 'Fitzgerald Family'
+  content: 'Our family (all five kids, mom and dad) spent many vacations at the Ocean House and we will never forget those special days. I can still smell the ocean from the front porch. Breakfast in the dining room was so much fun and our family dinners always brought the day to an end with great food and fun desserts. One year there was a “costume ball”, we all dressed up and my little sister won the prize as the “Odd Ball”, she was all stuffed with pillows and looked so funny we laughed all night long. OHHHH the memories! Walking to town, riding the carousel, sitting on the beach and on the rain days, running down the hallways and playing hide n go seek and of course riding up and down the elevator. We had no cell phones, no TV, no computers… and it was the best. Wish our kids could have the same great time… Thanks for the memories!'
+
+- property: ocean-house
+  person: 'Nicholas AGresti'
+  content: 'My wife and I spent many summers at Watch Hill, and dinner at the Ocean House was always the highlight of our stay. We anxiously await more news of the restoration. Regardless, we will visit there this summer.'
+
+- property: ocean-house
+  person: 'David'
+  content: 'My family went there a few years ago. We were appalled at the hotel’s condition, yet it had a charm and elegance to it. Its beach property is magnificient and for years I have hoped that it would be renovated so we could go back.'
+
+- property: ocean-house
+  person: 'Anonymous'
+  content: 'Our family used to go almost every summer when our children were small. I do hope it is preserved. We remember when the fire took down the helpers quarters… and how the waiters lined up along the dining room wall with white gloves… so formal. '
+
+- property: ocean-house
+  person: 'D Archibald'
+  content: 'The Ocean House was our best summer vacations ever. My son and I greatly miss our tradition of summer vacation time spent there. As a historian the hotels whispered to us of guests from the past. We loved to make up stories about grand ballrooms, gentlemen and ladies and New England history. It is a classic experience that my 12 year old son and I loved.'
+
 - property: louis-fink
   person: 'Anon'
   date: '2020-08-07'
