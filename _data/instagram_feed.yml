@@ -2,7 +2,11 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
-- post: 
+- post: 721-hope-st
+  date: '2021-04-09'
+  insta_link: https://www.instagram.com/p/CNdhB2un2bW/
+
+- post: 312-wickenden-st
   date: '2021-04-04'
   insta_link: https://www.instagram.com/p/CNNlYzpHMw7/
 
