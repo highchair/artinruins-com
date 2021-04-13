@@ -9,7 +9,7 @@ demolition: '2005'
 redeveloped: '2006-2009'
 units:
 decade: '1860-1869'
-date-added:
+date-added: '2003'
 categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding' ]
 neighborhoods: []
 town: [ 'Westerly, RI' ]
