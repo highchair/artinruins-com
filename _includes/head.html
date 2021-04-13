@@ -47,8 +47,9 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.title }}">
-  
+    
     <title>{{ meta_title }}</title>
+    <meta name="twitter:site" content="@artinruins">
     <meta name="description" content="{{ meta_description | strip_html | truncate: 140 }}">
     <meta property="og:image" content="{{ site.url }}{{ meta_image }}">
     {%- if page.categories -%}<meta property="og:article:section" content="{{ page.categories.first | strip_html }}">{%- endif -%}
@@ -63,5 +64,10 @@
     <meta name="msapplication-config" content="{{ '/' | relative_url }}assets/favicons/browserconfig.xml">
     <meta name="msapplication-TileColor" content="#007070">
     <meta name="theme-color" content="#007070">
-    {% comment %}Looking for analytics? JS lazy loads it only when the user opts in{% endcomment %}
+    {%- if page.body-class == 'home' -%}
+    <link href="https://twitter.com/artinruins" rel="me authn">
+    {%- endif -%}
+    {%- comment -%}
+      Looking for analytics? JS lazy loads it only when the user opts in
+    {%- endcomment -%}
   </head>
