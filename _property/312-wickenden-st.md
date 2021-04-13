@@ -1,14 +1,14 @@
 ---
-title: "Wickenden Street, #312"
+title: 'Wickenden Street, #312'
 slug: 312-wickenden-st
 aka: 'The Blue Elephant, The Duck & Bunny'
 date-modified: 2021-04-03 12:00
 
-built: 'circa 1890'
+built: 'circa 1850'
 demolition: '2021'
 redeveloped: 
 units:
-decade: '1890-1899'
+decade: '1850-1859'
 date-added: '2021'
 categories: [ '#UsedToBeThere', '#DemolitionAlert' ]
 neighborhoods: [ 'Fox Point/India Point' ]
@@ -33,20 +33,28 @@ excerpt: "This turn-of-the-century Federal-style two-story wooden house-turned-r
 thumbnail: goog-streetview-2014-10-01.jpg
 
 images:
-  - url: goog-streetview-2011-06-01.jpg
+  - url: wickendon-312-gowdey-undated-01.jpg
+    caption: 'Undated photo from the Gowdey Property Database, Providence Preservation Society'
     alt: 'A two-story, gable-roofed wooden home on a raised basement with central doorway flanked by shallow columns and topped with a two-light transom and flat pediment. The building is five bays wide with a what looks like a symmetrical facade, but upon closer inspection the distances between windows and the central door are not symmetrical.'
+  - url: goog-streetview-2011-06-01.jpg
+    caption: 'Google Streetview June 2011'
   - url: goog-streetview-2011-06-02.jpg
+    caption: 'Google Streetview June 2011'
   - url: goog-streetview-2011-09-01.jpg
+    caption: 'Google Streetview September 2011'
   - url: goog-streetview-2014-10-01.jpg
+    caption: 'Google Streetview October 2014'
   - url: goog-streetview-2016-10-01.jpg
+    caption: 'Google Streetview October 2016'
   - url: duck-bunny-mf-2021-04-01.jpg
+    caption: 'Photo by Mike Ferguson, April 2, 2021'
   - url: duck-bunny-jh-2021-04-02.jpg
   - url: duck-bunny-jh-2021-04-03.jpg
   - url: duck-bunny-jh-2021-04-04.jpg
   - url: duck-bunny-jh-2021-04-05.jpg
   - url: duck-bunny-jh-2021-04-06.jpg
 
-imagescredit: 
+imagescredit: 'Contributions from the Gowdey Database, Google Streetview, and Mike Ferguson'
 
 external:
   - source: 'Flickr photo of the Blue Elephant sign, 2009, from user “S-400”'
@@ -55,9 +63,22 @@ external:
 
 ### Reason for Demolition
 
-Rumors abound. Some folks who know the owner told us via Instagram that the owners intended to renovate the building, but it became an albatross as they uncovered more and more problems due poorly executed earlier renovations. A small group of neighbors lobbied the owners to continue to save the building or sell it to someone else who would. 
+Rumors abound. Some folks who know the owner told us via Instagram that the owners intended to renovate the building, but it became an albatross as they uncovered more and more problems due poorly executed earlier renovations as well as issues with the foundation. A small group of neighbors lobbied the owners to continue to save the building or sell it to someone else who would. 
 
 The demolition came quickly and largely by surprise. There is not a historic district overlay that would have prevented a permit from being issued. There is a demolition delay instituted for downtown Providence, but this is outside the bounds. As another user stated, “Wildly rising East Side property values mean the pressure to ‘develop’ the neighborhood keeps building,” no pun intended. 
+
+Statement from the [Providence Preservation Society Facebook page](//www.facebook.com/pvdpreservation){:target="_blank"}:
+
+> The demolition of 312 Wickenden — formerly the Duck & Bunny — is an unfortunate reminder that while National Register Historic Districts provide recognition of architectural and historical significance, they lack local preservation protection. The Federal-style former house contributed to the College Hill Historic District on the National Register, but Wickenden Street is not part of a Local Historic District — and this means NO demolition delay/denial or review of new construction plans. Preservation is only as effective as the guidelines a neighborhood agrees to enact. PPS confirmed last year that the building was in rough shape, but we wish more could have been done.
+
+A statement from Councilman, Ward 1, John Goncalves: 
+
+> …the permit for demolition was issued on March 15. Again, while notifying abutters is not legally required, not letting the neighbors know prior to the contractor’s work creates challenges for the neighborhood. We have expressed our disappointment regarding the lack of communication, particularly due to the adverse impact this has had on our constituents as well as the way this demolition impacts the historic vibrancy and fabric of our neighborhood. The long-time owners indicated that they had hoped to rehab the property, but the building was in such poor shape it was preferable and more cost-effective to demolish and rebuild than to repair.
+
+#### Other Links
+
++ [After the Duck and Bunny, How Do Ww Save These Old Houses?](//www.rimonthly.com/duck-and-bunny-demolition/){:target="_blank"}, RI Monthly
++ [Former Duck & Bunny building in Providence demolished](//www.wpri.com/business-news/former-duck-bunny-building-in-providence-demolished/){:target="_blank"}, WPRI.com
 
 
 ### Current Events
