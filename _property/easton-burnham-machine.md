@@ -15,11 +15,11 @@ neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'Demolition by Neglect', 'Demolition by Fire' ]
+lists: [ 'Jenckes Spinning Company Historic District', 'National Register of Historic Places', 'Demolition by Neglect', 'Demolition by Fire' ]
 tags: []
 
-NRHP-ref-number:
-added-to-NRHP:
+NRHP-ref-number: 'Can’t find the number (contributing)'
+added-to-NRHP: 'December 5, 2017'
 
 address: '354 Pine Street, Pawtucket RI'
 latitude: '41.8802495'
