@@ -14,7 +14,7 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'College Properties', 'Bars, Businesses, & Restaurants' ]
+tags: [ 'Bars, Businesses, & Restaurants', 'College Properties', 'Johnson & Wales University' ]
 
 address: '35 Richmond Street, Providence RI'
 latitude: '41.820566'

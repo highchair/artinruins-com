@@ -12,6 +12,29 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: swedish-workingmens-association
+  person: 'Phyllis'
+  date: '2015-10-10'
+  content: 'I went to J&W from 1965-1967. In the fall of 1966, J&W purchased the building and opened it as Johnson Hall. It was the second building J&W would own — the first was the Plantations Club building on Abbott Park Place. The Crown Hotel would be the third — at the time I attended, they just rented the Crown Hotel for dorm space.'
+
+- property: swedish-workingmens-association
+  person: 'Donna'
+  date: '2013-11-11'
+  content: 'I was an adult student at J&W between 1989 and 1991. Chestnuts was where most of my fellow classmates went for coffee between classes.'
+
+- property: swedish-workingmens-association
+  person: 'jde'
+  date: '2008-04-08'
+  content: 'As photo 2 shows, this building was constructed as the Swedish Workingmen’s club. Chestnuts was converted to a Starbuck’s over the summer of 2007.'
+
+- property: swedish-workingmens-association
+  person: 'ABD'
+  content: 'This building is currently undergoing renovation. The ground floor will house a Starbucks and CityBurger will be next to it. It is scheduled to open November 2007.'
+
+- property: swedish-workingmens-association
+  person: 'johnvanveen'
+  content: 'its a dinning facility for j&w currently and has been. only the 1st floor is for food service (small place were they serve mainly drinks and burgers). the upper floors are classrooms. my dads the manager at Chestnuts.'
+
 - property: congdon-carpenter-building
   person: 'Lisa E.' 
   date: '2016-09-08' 
@@ -111,6 +134,17 @@
 - property: congdon-carpenter-building
   person: 'Julie'
   content: 'My Dad ran a restaurant their called <b>Armondos’</b> with a lounge upstairs called <b>3 steeple street</b>. My uncle ran a bar before that called <b>Crystal Tap</b>… This was in the 60’s.'
+
+- property: ocean-house
+  person: 'Anne Malone-Laraby'
+  date: '2021-03-21'
+  content: '“Accidental”, if you will, discovery in 1992; A place ON the beach was the only requirement for a simple honeymoon stay. Oh what a jewel!! Orange velour bedspreads, a foam padded headboard, indoor/outdoor carpeting, mismatched flea market furniture, itty bitty bath towels, two water glasses and a lone ashtray comprised our room decor. It was hysterically, absurdly amusing. BUT… the VIEW from our third floor window was worth dealing with anything… hands down.
+
+
+The ocean was simply SPECTACULAR everywhere we looked. It went forever and then some. Directly outside our door in the hallway was the exterior door to the roof… need I say more?? The ocean and the stars surrounded us in our forever love. We continued to visit every August for the next ten years. Bereft to hear it was being torn down, but elated to know it would be rebuilt. That is, until we fully understood we were out. Yes. It is, for us, truly overdone to the hilt. Affordable?? Not in this lifetime.  Thankyouverymuch. 
+
+
+The ocean, sea sun & stars are still there, but obscured by the nonsense “necessary” to justify the pricetag!! To those of you who do visit, don’t forget to look at the water once in awhile!!'
 
 - property: ocean-house
   person: 'Jack Forstrom' 
@@ -427,6 +461,11 @@ John Henry Douglas founded New England Paper Tube Company. He was born in Scotla
 - property: phenix-machine-shop
   person: 'P Babbidge'
   content: 'I first set eyes upon this building in the late 1980s when I frequently walked to RI Hospital by passing through the jewelry district. It has got to be the most fascinating Providence mill building based upon it’s random-course-ashlar construction. By early 1997 I had given up all hope of restoration and took a lot of pictures of the Phenix Iron Foundry in utter ruins. While taking the pics, a man across the street saw the tears in my eyes and said that he knew I would buy that building if I could. But nothing matched the tears of joy I experienced upon seeing it miraculously restored a few years later. Brown University is my hero for making this structure achieve it’s full potential. I intend to share my pics from 1997.'
+
+- property: primo-art-co
+  person: 'Joyce Landi'
+  date: '2021-03-14'
+  content: 'My grandfather was Primo. My father, Enrico, would take me there as a child. “Poppy” would give me a pail of water and a paint brush. I would brush all the beautiful statues he had on display in front of the building while my father helped him work.'
 
 - property: primo-art-co
   person: 'Matt M'
