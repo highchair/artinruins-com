@@ -84,6 +84,11 @@ The building is 6 stories including the newly-constructed penthouse level. Entry
 
 The 81,086-square-foot former factory complex on the east bank of the Blackstone River was once home to the Lebanon Mill Company, which made knit fabrics. Blackstone Exchange purchased the buildings on August 14, 2002, from J&K Sales Corp., the small jewelry company that had occupied a  portion of the complex since 1965.
 
+#### More Photos
+
++ [The Pawtucket Library Flickr collection](//www.flickr.com/photos/pawtucketlibrary/albums/72157708837358238){:target="_blank"} has 66 photos of Lebanon Mills.
+
+
 _From the Exchange Street Historic District nomination form, prepared by Matthew Kierstead, Ind. Historian; Christine Longiaru, Arch. Historian; Mary Varden, Arch. Assistant._
 
 […] It is a complex, L-shaped cluster of attached buildings measuring approximately 250 by 190 feet overall. All major buildings have granite foundations, brick walls, and flat roofs, with the exception of a small wood frame connector. Fenestration is almost entirely original throughout and consists predominantly of multi-pane, double-hung, wood sash windows with wood plank sills and segmental arch brick lintels. The building retains a high degree of its physical integrity. The complex can be broken down into sections that correspond to fire insurance maps.

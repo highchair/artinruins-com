@@ -2,6 +2,11 @@
 Ongoing Notes
 =============
 
+## Photoshop
+
+HABS/HAER, Photographer Name, Year
+
+
 ## Snippets to keep consistent
 
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
@@ -15,7 +20,7 @@ _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites
 _by Gregory Smith_  
 **Providence Journal** | December 4, 2003 (abridged)
 
-caption: Photo by Robert Brewster, HABS/HAER
+caption: 'Photo by Robert Brewster, HABS/HAER, 1981'
 
 Aerials from the Providence Historical Aerial Viewer
 caption: 'Providence Historical Aerial Viewer 1972'
@@ -25,6 +30,8 @@ caption: 'Providence Historical Aerial Viewer 1972'
 [^1]: Content of footnote
 
 #### Sources
+
+caption: 'Sanborn Insurance Map, 1899-1900, volume 1 sheet 15 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library. '
 
 _“Riverboat Ride: Crescent Park, Riverside, RI”_, George Malone for Laff in the Dark, captured August 15, 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
 
