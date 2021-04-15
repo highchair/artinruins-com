@@ -117,7 +117,7 @@ Still In Use
 ++ Greenville Fin / Putnam Pike Mills
 + Hope Webbing
 + Louis Fink building
-++ Ocean House
++ Ocean House
 + Wanskuck Hall
 + Wanskuck Mills
 
@@ -132,7 +132,7 @@ Urban Decay
 + Bootleggers
 + Earl Mason Carriage House
 + First Federal Bank, recently Buck a Book
-++ New England Paper Tube, Co. 
++ New England Paper Tube, Co. 
 + North Main Street — Ethan Allen, Sears Auto, Sears, Anderson Little, #1320
 + Providence Armory (?)
 
@@ -157,16 +157,16 @@ Historic
 ++ Kennedy Plaza, Providence
 
 Still in Use
-++ 1 Charles Street
-++ 891 North Main: A small space currently on the market for lease or for sale
-++ Chestnuts
++ 1 Charles Street
++ 891 North Main
++ Chestnuts
 ++ Coro Building
 ++ Dryden Lane, for. Allen Printworks
 ++ Fairhaven Mills, New Bedford
 + Littlest Building in Providence (Lil Dunk)
-++ Machine Shop for the Phenix Iron Foundry
++ Machine Shop for the Phenix Iron Foundry
 ++ Smith Webbing
-++ Steeple Street
++ Congdon & Carpenter / Steeple Street
 ++ Union Station
 + Washington Street (Talk of the Town, Cuban Revolution)
 
