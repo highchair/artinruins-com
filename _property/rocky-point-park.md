@@ -27,13 +27,16 @@ thumbnail: rocky-point-g-1996-gate.jpg
 
 images:
   - url: rocky-point-jb-bumper-1954.jpg
-    caption: Photo of the bumper cars by John Barchi, 1954
+    caption: 'Photo of the bumper cars, collection of John Barchi, 1954'
+    alt: ''
   - url: rocky-point-jb-skee-ball-2-1954.jpg
-    caption: Photo of the skee ball arcade by John Barchi, 1954
+    caption: 'Photo of the skee ball arcade, collection of John Barchi, 1954'
   - url: rocky-point-jb-skee-ball-1954.jpg
-    caption: Photo of skee ball by John Barchi, 1954
+    caption: 'Photo of skee ball, collection of John Barchi, 1954'
+  - url: rocky-point-jb-skooter-1954.jpg
+    caption: 'Photo of the Skooter ride, collection of John Barchi, 1954'
   - url: rocky-point-jb-spitfire-1954.jpg
-    caption: Photo of the Spitfire ride by John Barchi, 1954
+    caption: 'Photo of the Spitfire ride, collection of John Barchi, 1954'
   - url: rocky-point-1950s-salt-pool.jpg
     caption: 'Aerial view of the salt water pool, guessing late 1950s'
   - url: rocky-point-1960s-shore-hall.jpg
