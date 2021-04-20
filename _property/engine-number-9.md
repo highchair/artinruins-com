@@ -13,7 +13,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'National Register of Historic Places', 'Broadway-Armory Historic District' ]
+lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Broadway-Armory Historic District' ]
 tags: [ 'Fire Stations' ]
 
 NRHP-ref-number: '74000047 (contributing)'

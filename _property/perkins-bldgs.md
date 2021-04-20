@@ -14,7 +14,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'DBVW Architects' ]
-lists: [ 'National Register of Historic Places' ]
+lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: [ 'The Superlatives' ]
 suprlative: 'The older building in this complex is one of only a handful of wood-framed mill buildings in the state'
 

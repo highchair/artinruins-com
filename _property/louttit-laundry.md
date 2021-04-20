@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places', 'Providence Industrial Sites 1981' ]
+lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Demolition by Neglect', 'Demolition by Fire', 'The Superlatives' ]
 superlative: 'After 1925, the largest laundry business in RI with 150 employees and 16 outlets throughout the state'
 
