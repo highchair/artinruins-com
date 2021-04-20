@@ -14,8 +14,8 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-people: []
-lists: [ 'Moshassuck Square Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978','HABS HAER' ]
+people: [ 'Stillman White' ]
+lists: [ 'Moshassuck Square Historic District', 'HABS HAER', 'PPS/AIA Industrial Commercial Buildings Survey', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: []
 
 NRHP-ref-number: '709380013 (contributing)'
@@ -41,6 +41,13 @@ images:
   - url: stillman-jh-2005-08-02.jpg
   - url: stillman-jh-2005-08-03.jpg
   - url: stillman-jh-2005-08-04.jpg
+  - url: stillman-jh-2021-04-01.jpg
+  - url: stillman-jh-2021-04-02.jpg
+  - url: stillman-jh-2021-04-03.jpg
+  - url: stillman-jh-2021-04-04.jpg
+  - url: stillman-jh-2021-04-05.jpg
+  - url: stillman-jh-2021-04-06.jpg
+  - url: stillman-jh-2021-04-07.jpg
 
 imagescredit: 'Contributions from HABS/HAER and National Register Nomination forms'
 
@@ -66,7 +73,7 @@ _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS a
 
 Set on the east side of Charles Street, just east of the Moshassuck River. It is a brick building comprised of three sections: the northern part is a one-story brick structure with a gable roof, and tapered, square chimney; the middle section stands two-stories and has a gable roof and corbelling; the southern section, which was built in the early 20th century, has a flat roof and a chamfered facade. The primary entrance faces Charles Street and is comprised of paired metal-and-glass doors set below single-light transoms; a secondary entrance is set within the chamfered corner and along the east elevation facing a small paved area. Fenestration is comprised of rectangular, single-light awning sash with stone lintels and sills.
 
-This is the foundry complex in which Providence industrialist Stillman White manufactured an anti-friction metal used to line machine bearings. His product was renowned throughout New England during the Industrial Revolution. The Stillman White Brass Foundry continued to operate at this site until 1949. By the early 1970s the building was abandoned. Later in the decade it was rehabilitated for office use (Kulik 1978; RIHPHC 1981:46; RIHPHC data sheet). Along with the Fletcher Office Building and Warehouse at 2 Charles Street (see separate entry), it is one of the few remaining nineteenth-century industrial buildings in the once heavily industrialized Moshassuck Square area.
+This is the foundry complex in which Providence industrialist Stillman White manufactured an anti-friction metal used to line machine bearings. His product was renowned throughout New England during the Industrial Revolution. The Stillman White Brass Foundry continued to operate at this site until 1949. By the early 1970s the building was abandoned. Later in the decade it was rehabilitated for office use (Kulik 1978; RIHPHC 1981:46; RIHPHC data sheet). Along with the Fletcher Office Building and Warehouse at 2 Charles Street, it is one of the few remaining nineteenth-century industrial buildings in the once heavily industrialized Moshassuck Square area.
 
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
