@@ -2,6 +2,14 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: fletcher-manufacturing
+  date: '2021-04-21'
+  insta_link: 
+
+- post: stillman-white-brass
+  date: '2021-04-21'
+  insta_link: https://www.instagram.com/p/CN7dlmiHuRs/
+
 - post: 721-hope-st
   date: '2021-04-09'
   insta_link: https://www.instagram.com/p/CNdhB2un2bW/

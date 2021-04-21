@@ -88,7 +88,7 @@ imagescredit: 'All images from the National Register nomination forms, photos by
 
 ### Reason for Demolition
 
-It seems that there were plans to convert these mill buildings into residential use in the early 70s. The Providence Redevelopment Agency supported documentation for inclusion in the National Register, and sponsored the newly formed [Moshassuck Square Historic District]({% link list/moshassuck-square-historic-district.html %}). This complex figured heavily in that district, along with the Fletcher Manufacturing Company building (2 Charles Street, 1869), the Stillman Brass Foundry (1 Charles Street, circa 1856), Canal House (127 Charles Street, 1900), and a later addition to the American Screw Company at the corner of Hewes and North Main (1918). 
+It seems that there were plans to convert these mill buildings into residential use in the early 70s. The Providence Redevelopment Agency supported documentation for inclusion in the National Register, and sponsored the newly formed [Moshassuck Square Historic District]({% link list/moshassuck-square-historic-district.html %}). This complex figured heavily in that district, along with the [Fletcher Manufacturing Company]({% link _property/fletcher-manufacturing.md %}) building (2 Charles Street, 1869), the [Stillman Brass Foundry]({% link _property/stillman-white-brass.md %}) (1 Charles Street, circa 1856), Canal House (127 Charles Street, 1900), and a later addition to the American Screw Company at the corner of Hewes and North Main (1918). 
 
 From the nomination addendum, 1972:
 
