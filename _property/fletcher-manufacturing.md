@@ -1,7 +1,7 @@
 ---
 title: "Fletcher Manufacturing Company"
 slug: fletcher-manufacturing
-aka: 'The Fletcher Building'
+aka: 'International Braid Company, The Fletcher Building'
 date-modified: 2021-04-20 12:00
 
 built: '1869'
@@ -32,9 +32,11 @@ excerpt: "A striking 3-story mansard former office building for a larger manufac
 thumbnail: fletcher-jh-2021-04-06.jpg
 
 images:
+  - url: fletcher-gmhopkins-1937-01.jpg
+    caption: 'In the upper right is the International Braid Company, labelled in 1937 on these G.M. Hopkins cadastral map (this is a mash up of Plates 5 and 22). Notice how different the street and railroad pattern is around the site — Charles Street no longer passes by the West of the office building, but rather around the east side and north as Mill Street does.'
+    alt: 'A slightly trapezoidal shaped group of three buildings starts narrow in the front, with the oldest building of red brick with rusticated brownstone details and a mansard roof of slate tiles with protruding dormer windows. Ornamental brickwork courses run under a wooden cornice. In the center of the west wall is a browstone cartouche displaying the name of the firm in pro­jected lettering. A similar plaque on the north façade bears the date of construction. A lower, more modest, three-story brick warehouse abuts the south end of the office which comple­ments the main building but is not nearly as ornate. Abutting the south end of that warehouse is a newer 1980s addition which is also complementary in design.'
   - url: fletcher-aerial-1939-01.jpg
     caption: 'Highlighted in yellow is all that remains today of the once sprawling Fletcher Manufacturing company complex. Aerial from the Providence Historical Aerial Viewer, 1939.'
-    alt: 'A slightly trapezoidal shaped group of three buildings starts narrow in the front, with the oldest building of red brick with rusticated brownstone details and a mansard roof of slate tiles with protruding dormer windows. Ornamental brickwork courses run under a wooden cornice. In the center of the west wall is a browstone cartouche displaying the name of the firm in pro­jected lettering. A similar plaque on the north façade bears the date of construction. A lower, more modest, three-story brick warehouse abuts the south end of the office which comple­ments the main building but is not nearly as ornate. Abutting the south end of that warehouse is a newer 1980s addition which is also complementary in design.'
   - url: fletcher-ppl-1940s-01.jpg
     caption: 'One of the earlier mill buildings of the Fletcher Manufacturing company, built 1866, demolished in the late 1960s after a fire. Photo is labelled as taken in the 1940s but we think it is probably older, likely the mid-1930s — Rhode Island Mills and Mill Villages Photograph Collection, Providence Public Library'
   - url: fletcher-ppl-1970-09-01.jpg
@@ -49,7 +51,7 @@ images:
   - url: fletcher-jh-2021-04-08.jpg
   - url: fletcher-jh-2021-04-09.jpg
 
-imagescredit: 'Contribution from the Providence Historical Aerial Viewer; <a href="//provlibdigital.org/islandora/object/islandora%3A268" target="_blank">Rhode Island Mills and Mill Villages Photograph Collection</a>, Providence Public Library; and the National Register nomination form'
+imagescredit: 'Contribution from the <a href="//www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/" target="_blank">Historic Mapworks</a>; Providence Historical Aerial Viewer; <a href="//provlibdigital.org/islandora/object/islandora%3A268" target="_blank">Rhode Island Mills and Mill Villages Photograph Collection</a>, Providence Public Library; and the National Register nomination form'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
