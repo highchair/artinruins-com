@@ -1,7 +1,7 @@
 ---
 title: "Branch Avenue, #32 & 34"
 slug: 32-branch-avenue
-aka: 
+aka: 'Washington Laundry'
 date-modified: 2021-02-18 12:00
 
 built: 'circa 1930s'
@@ -29,17 +29,19 @@ gmap: "https://www.google.com/maps/place/32+Branch+Ave,+Providence,+RI+02904/@41
 meta: ""
 excerpt: "A nice, simple early 20th century building on a busy commercial corridor with some subtle Art Deco details"
 
-thumbnail:
+thumbnail: 32-branch-2004-04-01.jpg
 
 images:
-  - url: 32-branch-2004-04-01.jpg
+  - url: 32-branch-gmhopkins-1937-01.jpg
+    caption: 'G.M. Hopkins Insurance Map, 1937, courtesy of Historic MapWorks'
     alt: 'A two-story, six bay wide red brick commercial building with concrete, Art Deco-style decorative cornice elements sitting above a concrete stringcourse. The facade is nicely but simply detailed, while the other three sides of the building have little to no detail.'
+  - url: 32-branch-2004-04-01.jpg
   - url: 32-branch-2004-04-02.jpg
   - url: 32-branch-2004-04-03.jpg
   - url: 32-branch-2004-04-04.jpg
   - url: 32-branch-2004-04-05.jpg
 
-imagescredit: 
+imagescredit: 'Contribution by <a href="//www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/" target="_blank">Historic MapWorks</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -57,6 +59,10 @@ The building is the current home of [Nicki’s Liquors](//nikkisliquors.com){:ta
 
 
 ### History
+
+A [Sanborn Insurance Map from 1889](//repository.library.brown.edu/studio/item/bdr:213551/){:target="_blank"} show the “Frank F. Carpenter Lumber Yard” in this location. In [a 1899 Sanborn Map](//repository.library.brown.edu/studio/item/bdr:213318/){:target="_blank"}, another lumber yard is in this location, named “George D. Lansing & Son.”
+
+A [G.M. Hopkins Insurance map from 1937](//www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/){:target="_blank"} shows this building in place and labelled as “Washington Laundry." Next to this, sharing a party wall, in the yellow brick building now known as National Furniture, is labelled “Autocar & Studebaker Trucks.”
 
 _No official history so far._ 
 
