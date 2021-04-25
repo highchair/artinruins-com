@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade: '1850-1859'
 date-added: '2021'
-categories: [ '#UsedToBeThere', '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]

@@ -50,101 +50,101 @@ images:
   - url: rocky-point-jh-1982-kiddie-land-04.jpg
     caption: 'Kids on the Kiddie Land rides, 1982'
   - url: rocky-point-g-1996-gate.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-booths.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-permission.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-save-rp.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-chowder.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-ticket-books.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-shore-dinner.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-birthday.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-carousel.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-caterpiller.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-clamcakes.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-clown-can.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-enterprise.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-ferris.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-freefall.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-giftshop.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-haunted-car.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-haunted.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-haunted-car-2.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-horrors-sign.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-horrors.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-horse-race.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-horses-v.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-horses.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-kiddie-car.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-krazy-kurve.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-lights.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-music-xpress.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-rocknroll.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-scores.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-shooting.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-skeeball-badge.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-skeeball.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-skydiver-2.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-skydiver.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-stay-on.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-tiltawhirl.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-train.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-turnstile.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-g-1996-yoyo.jpg
-    caption: Photo by Gemma, 1996
+    caption: 'Photo by Gemma, 1996'
   - url: rocky-point-aerial-1939.jpg
-    caption: Providence Historical Aerial Viewer 1939
+    caption: 'Providence Historical Aerial Viewer 1939'
   - url: rocky-point-aerial-1962.jpg
-    caption: Providence Historical Aerial Viewer 1962
+    caption: 'Providence Historical Aerial Viewer 1962'
   - url: rocky-point-aerial-1981.jpg
-    caption: Providence Historical Aerial Viewer 1981
+    caption: 'Providence Historical Aerial Viewer 1981'
   - url: rocky-point-aerial-1988.jpg
-    caption: Providence Historical Aerial Viewer 1988
+    caption: 'Providence Historical Aerial Viewer 1988'
   - url: rocky-point-aerial-1997.jpg
-    caption: Providence Historical Aerial Viewer 1997
+    caption: 'Providence Historical Aerial Viewer 1997'
   - url: rocky-point-aerial-2008.jpg
-    caption: Providence Historical Aerial Viewer 2008
+    caption: 'Providence Historical Aerial Viewer 2008'
   - url: rocky-point-aerial-2016.jpg
-    caption: Providence Historical Aerial Viewer 2016
+    caption: 'Providence Historical Aerial Viewer 2016'
 
-imagescredit: Contributions by John Barchi, Denise Hogue, and Gemma. 
+imagescredit: 'Contributions by John Barchi, Denise Hogue, and Gemma.' 
 ---
 
 ### Reason for Demolition
@@ -198,4 +198,4 @@ _Personal Anecdote_
 
 I went to the park at least once a year in late August/early September, right around the end of summer and maybe even after the first week of school. My family would get day passes because a few of them worked at Electric Boat and there was a company day at the park. That meant I got to ride as many rides as I wanted without tickets and the park was almost empty. More people would line up for the corkscrew, which I thought was a short ride for the wait, so I'd ride the others instead. I often would get off the Skydiver just to get right back on. I once rode it with a buddy of mine 21 times in a row. This was how I experienced the park from age 6 to about 18 (1981 – 1993). 
 
-Throughout the 70s, 80s, and early 90s bands would occasionally play the midway. I remember some friends at mine in high school talking about a band they saw at Rocky Point called “The Pixies” and I remember thinking “What a lame name.” To add to the embarassment, the bands I remember seeing there were Dread Zeppelin and Weird Al Yankovic. 
+Throughout the 70s, 80s, and early 90s bands would occasionally play the midway. I remember some friends at mine in high school talking about a band they saw at Rocky Point called “The Pixies” and I remember thinking “What a lame name.” To add to the embarrassment, the bands I remember seeing there were Dread Zeppelin and Weird Al Yankovic. 

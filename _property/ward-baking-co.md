@@ -14,7 +14,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'PPS Ten Most Endangered', 'Providence Industrial Sites 1981' ]
+lists: [ 'PPS Ten Most Endangered', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Demolition by Proposal', 'Demolition by Neglect' ]
 
 address: '461 Eddy Street, Providence RI'
