@@ -1,14 +1,14 @@
 ---
-title: 'Wickenden Street, #312'
+title: 'Almira P. Allen House'
 slug: 312-wickenden-st
 aka: 'The Blue Elephant, The Duck & Bunny'
 date-modified: 2021-04-03 12:00
 
-built: 'circa 1850'
+built: 'circa 1830, perhaps 1790'
 demolition: '2021'
 redeveloped: 
 units:
-decade: '1850-1859'
+decade: '1830-1839'
 date-added: '2021'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Fox Point/India Point' ]
@@ -92,6 +92,30 @@ The building’s footprint is shown on a [Sanborn Insurance Map from 1900](//dig
 
 
 ### In the News
+
+#### A Duck and Bunny Mystery
+
+_by David Brussat  
+**[RI news Today](//rinewstoday.com/a-duck-bunny-mystery){:target="_blank"}** | April 24, 2021
+
+On Easter weekend a colonial-style building at 312 Wickenden St., in Providence, was razed by its new owners, who also owned the Duck & Bunny Snuggery, which was shut for the pandemic. I heard about this calamity on Sunday and instantly wrote an obituary for the lovely building, which was said to have been built in 1900, but might have been built as early as 1790.
+
+After my post ran I was informed by email that reporter Lynzi DeLuccia of WJAR Channel 10 had done a story in which the new owners said that code issues and structural instability had forced their hand, but they hoped to rebuild 312 Wickenden and reopen the Duck & Bunny. Good news, if true!
+
+But other emails came to me saying that there had been no code or structural issues arising at 312 Wickenden as of 2018, when the new owners bought the building for $405,000. I confirmed this with city planning officials.
+
+And yet the new owners insist that those issues were there, and they are backed up by the Providence Preservation Society. There is direct contradiction here not just between the new and old owners, but between PPS and the city planning department. And the evidence has been demolished.
+
+The local historic district’s boundary excludes Wickenden Street, so it was not protected by the city and the owners were able to demolish it “by right,” without any notification to abutters or the community, which they did not provide.
+
+Now I have learned from the prior owner that 312 Wickenden might have been built in the 1790s, early in the Federal period. The city gave it a pro-forma date of 1900 because the actual date was unknown, even though it was thought to be “earlier than 1857.” Local preservationist Mack Woodward dated it to between 1810 and 1830. The previous owner cites 18-inch floorboards and other features that suggest the older reaches of its age. If the building, officially the Almira P. Allen House, really dates from the post-colonial era, then its loss is doubly tragic.
+
+The new owners intend to rebuild 312 Wickenden as closely as they can manage to its old look, but they are using a quad construction system. It will be built in sections off-site and erected on-site. How well they can replicate the building using such a method seems unclear to me. For example, did they rescue the elegant front door surround? If not, can they reproduce it? Will the clapboards be as narrow as the original ones? They claim to have saved some of the beautiful interior features, but that will be of little account if the exterior looks as bad as 298 Wickenden, two doors downhill from 312. It was torn down a year or so ago and replaced with a clunky faux colonial. If anything like that happens at 312, the Duck & Bunny may end up in bad odor with the neighborhood, no longer so beloved. Naturally, I am rooting for a high-quality exterior restoration that the Duck & Bunny can occupy with their heads held high.
+
+The city contends that the Duck & Bunny could have operated in 312 Wickenden for the foreseeable future. But it seems there may have been a fly in the ointment. According to one source, the owners’ purchase of the building involved a new insurer in its fate, which may have said it would not insure the building unless it was brought up to a higher level of fire and safety codes and ADA disabled access that would take effect because of the owners’ desire to renovate substantially.
+
+Providence has 35 districts on the National Register of Historic Places. A listing is purely honorary. The city has only seven local historic districts with limited actual protection for historic properties. The local College Hill Historic District extends into Fox Point but only to within one block of Wickenden Street. If its merchants and residents fear for its historic character, they will need to petition to have the College Hill Historic District extended by at least one block. Eventually, the merchants who blocked the street’s inclusion in the local district decades ago will regret what is brought by the winds of change. Yet, by then it is likely that Providence as a whole will no longer boast the allure from which Wickenden Street borrows its charm.
+
 
 #### Duck and Bunny Building Demolished on Wickenden Street in Providence
 

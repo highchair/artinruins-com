@@ -29,8 +29,13 @@ excerpt: "A mid-century housing complex that survived the blast intended to take
 thumbnail: 
 
 images:
+  - url: hartford-apt-aerial-1981.jpg
+    caption: 'Providence Historical Aerial Viewer 1981'
+    alt: 'A ten story high rise apartmet building in concrete and with small window openings and alternating floors of recessed bands with small balconies.'
   - url: hartford-ave-tucker-1989-01.jpg
     caption: 'Photo by Michael “Tucker” Terzian, 1989'
+  - url: hartford-ave-tshirt-1989.jpg
+    caption: 'Commemorative tshirt part of the collection of Gary Buttenbaum'
   - url: hartford-ave-g-1989-01.jpg
     caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-02.jpg
@@ -55,12 +60,11 @@ images:
     caption: 'Photo by Gemma, 1989'
   - url: hartford-ave-g-1989-12.jpg
     caption: 'Photo by Gemma, 1989'
-  - url: hartford-apt-aerial-1981.jpg
-    caption: 'Providence Historical Aerial Viewer 1981'
   - url: hartford-apt-aerial-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997'
 
-imagescredit: Photos by Gemma, Tucker, and aerials from the Providence Historical Aerial Viewer.
+imagescredit: 'Photos by Tucker, Gary Buttenbaum, Gemma, and aerials from the Providence Historical Aerial Viewer.'
+
 ---
 
 ### Reason for Demolition
