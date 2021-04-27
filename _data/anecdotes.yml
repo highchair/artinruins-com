@@ -12,6 +12,45 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: allen-printworks
+  person: 'John Minor'
+  date: '2019-07-27'
+  content: 'I worked in that building in 1962 when it was Benny’s ware house.'
+
+- property: allen-printworks
+  person: 'Elayne Clay'
+  date: '2015-10-07'
+  content: 'I have two silloutte prints?… small in size framed in black frames with the sticker on the back “The Arcade Art Store” Providence R.I. anyone know anything about these?'
+
+- property: allen-printworks
+  person: 'Ray McKenn'
+  date: '2014-01-20'
+  content: 'I am researching the early generations of Irish immigrants to Providence. I am particularly interested in the period from the 1820s to the 1870s. If anyone has stories, documents or photos that they care to share, it will help put this history together for all of us.'
+
+- property: allen-printworks
+  person: 'melissa'
+  date: '2013-08-02'
+  content: 'I know where a picture is that was framed at the Arcade Art Store and is in a hand carved frame with A picture that says 1918 Sahel Curtis 40221 ~ Does anyone know about this?'
+
+- property: allen-printworks
+  person: 'Loree Muldowney'
+  date: '2010-08-08'
+  content: 'My Irish immigrant ancestors arrived in Providence in the late 1840s and found jobs at Allen’s printworks. Until the mid-1850’s, maybe till the panic and bankruptcy situation in 1857, five brothers were employed by Allen... Alexander, John, Barney, William, Michael and Patrick Doyle. They all lived in the North Main street area. Alex went on to have a grocery store on Sexton Street. Barney, Michael and Patrick had liquor stores on North Main.'
+
+- property: allen-printworks
+  person: 'C. Rodziewicz'
+  date: '2008-07-23'
+  content: 'Last year a friend gave me a embroidered work framed by the Providence Picture Frame Co. The sticker on the back had a six-pillared classical building with 1828 centered above the PPF Co. name and tag line “The Arcade Art Store.” then, 3rd floor Arcade Bldg. Would someone know when this sticker stopped being used? It would help me date the embroidery.'
+
+- property: allen-printworks
+  person: 'Dave Biggs'
+  content: 'One of my Great, Great Grandfathers worked for the Providence Picture Frame Company for 40 years. He arrived in Providence from Derbyshire, England in 1864 and lived out his life there with wife and children. His name was William Arthur Camp  1834 - 1911. His sons, who became plumbers in Providence, built two family homes around 1900 on Dora Street in the city. One of them remains in our family and is occupied by a decendant. I don’t know how long the Providence Picture Frame Company has been in the building you have documented here, but I know the company was founded in the early 1800’s and has only had three owners in all that time.'
+
+- property: greenville-fin-company
+  person: 'Cliff Mathewson'
+  date: '2009-01-28'
+  content: 'I worked there for a short time in 1983. The company was a belt buckle company. My job was to bend the little tabs on the back of the buckle. And then pressing them on a footpress. Talk about tedious work. One day during the summer we had an awful thunder & lightning storm. And lightening struck the metal chiminy of a ceramics company in the same building. What a loud bang when the lightning hit. The whole place shook!!!'
+
 - property: l-vaughn-company
   person: 'Mark Kennedy Vaughn'
   date: '2021-03-31'

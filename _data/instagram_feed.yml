@@ -2,9 +2,13 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: allen-printworks
+  date: '2021-04-26'
+  insta_link: https://www.instagram.com/p/COGqZD6HzEf/
+
 - post: fletcher-manufacturing
   date: '2021-04-21'
-  insta_link: 
+  insta_link: https://www.instagram.com/p/CN-B0NeHvkJ/
 
 - post: stillman-white-brass
   date: '2021-04-21'
