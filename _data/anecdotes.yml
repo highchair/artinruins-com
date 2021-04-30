@@ -12,6 +12,10 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: smith-webbing-pwt
+  person: 'Preston Halperin'
+  content: 'Two years ago, 1080 Main Street was purchased by my partners and I. The Providence Center, a counseling group, occupies the second and third floors as a long term tenant. As of December 9, 2005, our law firm, formerly based in Providence, completed a total renovation of the first floor, adding an addition. With approximately 65 employees, our firm, Shechtman Halperin Savage LLP, will occupy 1080 Main Street for many years to come.'
+
 - property: allen-printworks
   person: 'John Minor'
   date: '2019-07-27'
