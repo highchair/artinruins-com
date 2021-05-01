@@ -14,7 +14,7 @@ neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'College Properties', 'RISD' ]
+tags: [ 'College Properties', 'RISD', 'Yellow brick' ]
 
 address: '14-20 Congdon Street, Providence RI'
 latitude: '41.8282163'
@@ -29,6 +29,7 @@ thumbnail: farnum-hall-dp-2011-05-01.jpg
 images:
   - url: farnum-hall-goog-2007-01.jpg
     caption: 'Google Streetview 2007'
+    alt: 'A U-shaped, four- and three-story central plan apartment complex built on College Hill in the 1920s with simple or no ornamentation. When it was purchased by the Rhode Island School of Design, it was named after an American art educator.'
   - url: farnum-hall-goog-2007-02.jpg
     caption: 'Google Streetview 2007'
   - url: farnum-hall-gg-flickr-2007-01.jpg

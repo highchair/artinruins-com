@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: []
-tags: [ 'College Properties', 'Johnson & Wales University' ]
+tags: [ 'College Properties', 'Johnson & Wales University', 'Yellow brick' ]
 
 NRHP-ref-number:
 added-to-NRHP:

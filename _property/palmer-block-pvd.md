@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Stone, Carpenter, & Sheldon' ]
 people: [ 'Julius Palmer' ]
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: []
+tags: [ 'Yellow brick' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'

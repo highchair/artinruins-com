@@ -14,7 +14,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'Mysteries of the Unknown' ]
-tags: [ 'Demolition by Progress', 'Needs History' ]
+tags: [ 'Demolition by Progress', 'Needs History', 'Yellow brick' ]
 
 address: '66 Fountain Street, Providence, RI'
 latitude: '41.8236001'

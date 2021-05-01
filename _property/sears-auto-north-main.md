@@ -14,7 +14,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'North Main Street Commercial Corridor' ]
-tags: [ 'Needs History', 'Demolition by Neglect' ]
+tags: [ 'Needs History', 'Demolition by Neglect', 'Yellow brick' ]
 
 address: '1140 North Main Street, Providence RI'
 latitude: '41.8515859'

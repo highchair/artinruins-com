@@ -15,7 +15,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Newport Collaborative Architects' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: [ 'Former/Current Hotels' ]
+tags: [ 'Former/Current Hotels', 'Yellow brick' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
