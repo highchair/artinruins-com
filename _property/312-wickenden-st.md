@@ -95,7 +95,7 @@ The building’s footprint is shown on a [Sanborn Insurance Map from 1900](//dig
 
 #### A Duck and Bunny Mystery
 
-_by David Brussat  
+_by David Brussat_  
 **[RI news Today](//rinewstoday.com/a-duck-bunny-mystery){:target="_blank"}** | April 24, 2021
 
 On Easter weekend a colonial-style building at 312 Wickenden St., in Providence, was razed by its new owners, who also owned the Duck & Bunny Snuggery, which was shut for the pandemic. I heard about this calamity on Sunday and instantly wrote an obituary for the lovely building, which was said to have been built in 1900, but might have been built as early as 1790.

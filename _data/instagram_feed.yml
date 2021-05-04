@@ -2,6 +2,10 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: smith-webbing-pwt
+  date: '2021-04-30'
+  insta_link: https://www.instagram.com/p/COSuP7bHv_v/
+
 - post: allen-printworks
   date: '2021-04-26'
   insta_link: https://www.instagram.com/p/COGqZD6HzEf/

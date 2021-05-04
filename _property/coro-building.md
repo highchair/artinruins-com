@@ -44,8 +44,10 @@ images:
   - url: coro-jh-2004-07-06.jpg
   - url: coro-jh-2004-07-07.jpg
   - url: coro-jh-2004-07-08.jpg
+  - url: coro-goog-2021-01.jpg
+    caption: '167 Point Street from a Google satellite capture circa 2021'
 
-imagescredit: 'Contribution by Rick Greenwood for the National Register Form'
+imagescredit: 'Contributions by Rick Greenwood for the National Register Form and Google Maps'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

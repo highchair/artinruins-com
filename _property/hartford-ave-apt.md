@@ -26,7 +26,7 @@ gmap: "https://www.google.com/maps/place/375+Hartford+Ave,+Providence,+RI+02909/
 meta: ""
 excerpt: "A mid-century housing complex that survived the blast intended to take it down."
 
-thumbnail: 
+thumbnail: hartford-ave-tucker-1989-01.jpg
 
 images:
   - url: hartford-apt-aerial-1981.jpg
