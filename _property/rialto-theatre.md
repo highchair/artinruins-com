@@ -15,7 +15,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son' ]
 people: []
-lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
+lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places', 'Brussat’s 10 Best Lost Buildings' ]
 tags: [ 'Yellow brick' ]
 
 NRHP-ref-number: '84001967 (contributing)'
@@ -75,7 +75,7 @@ The street-front first-story has been three commercial storefronts since the 195
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-119-127 Mathewson: Former **Rialto Theatre**, previously **Westminster Congregational Church** (1829, 1902, 1950s): Russell Warren, architect for original structure; William R. Walker § Son, architects for 1902 facade renovations. 3-story, stone-and-brick-sheathed, wood-and-masonry structure with mid-20th-century storefronts; five regularly spaced 2-story round-head windows with stone trim and decorated keystones on upper stories; heavy cornice; original stuccoed rubble-stone walls exposed at rear of side walls. 
+119-127 Mathewson: Former **Rialto Theatre**, previously **Westminster Congregational Church** (1829, 1902, 1950s): Russell Warren, architect for original structure; William R. Walker & Son, architects for 1902 facade renovations. 3-story, stone-and-brick-sheathed, wood-and-masonry structure with mid-20th-century storefronts; five regularly spaced 2-story round-head windows with stone trim and decorated keystones on upper stories; heavy cornice; original stuccoed rubble-stone walls exposed at rear of side walls. 
 
 The Westminster Congregational Society was formed in 1828, and construction of their meetinghouse began almost immediately. The stuccoed-stone octastyle Ionic temple was a fully realized academic treatment of the Greek order. The congregation moved to Adelaide Avenue in 1902. At that time, the portico was removed, a new facade was added, and the structure was converted into a movie theatre. Later changes include the conversion of this theatre into a commercial block and the demolition of the rear part of the building, leaving essentially an early 20th-century building. As an early 20th-century presence on the street, this building is similar in scale and detailing with adjacent structures. 
 
