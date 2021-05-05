@@ -2,6 +2,10 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: union-station-old
+  date: '2021-05-04'
+  insta_link: https://www.instagram.com/p/COc8gABnhrG/
+
 - post: smith-webbing-pwt
   date: '2021-04-30'
   insta_link: https://www.instagram.com/p/COSuP7bHv_v/
