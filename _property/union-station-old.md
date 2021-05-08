@@ -1,5 +1,5 @@
 ---
-title: "Union Station no. 1"
+title: "Union Railroad Depot"
 slug: union-station-old
 aka: "The Old Union Station, Tefft’s Depot"
 date-modified: 2021-05-03 12:00
@@ -67,9 +67,9 @@ external:
 
 Providence’s first unified railroad station was designed by the then 21-year-old draftsman-architect Thomas A. Tefft out of the Providence office of Tallman & Bucklin. Astonishingly, the design was completed before Tefft graduated from Brown University in 1851 with a degree in architecture. In the three short years he studied and designed with the firm, he took part in drafting designs for 22 properties. Soon after his graduation, Tallman & Bucklin dissolved. In private practice he was the principal designer on 35 more properties in Rhode Island and beyond.
 
-While Union Station was being constructed, another Tefft design served as an interim passenger station called simply [Freight House No. 1](//www.loc.gov/pictures/collection/hh/item/ri0345/){:target="_blank"} (1847-1848). That building survived until the early 1970s. 
+While Union Station was being constructed, another Tefft design served as an interim passenger station called simply [Freight House No. 1](//www.loc.gov/pictures/collection/hh/item/ri0345/){:target="_blank"} (1847-1848). That building survived until the early 1970s.
 
-Tefft left for England in December, 1856, as the country and region were heading towards an economic slowdown that would lead to the Panic of 1857. Tefft’s intention was to tour Europe, visiting Paris, Rome, Geneva, Milan, Berlin, and Florence among others. In December 1859 he fell ill with a fever and died within a week or two. His body was shipped to Rhode Island in February 1860 where it was interred at Swan Point Cemetery.[^1] 
+Tefft left for England in December, 1856, as the country and region were heading towards an economic slowdown that would lead to the Panic of 1857. Tefft’s intention was to tour Europe, visiting Paris, Rome, Geneva, Milan, Berlin, and Florence among others. In December 1859 he fell ill with a fever and died within a week or two. His body was shipped to Rhode Island in February 1860 where it was interred at Swan Point Cemetery.[^1]
 
 [^1]: Wikipedia page on Thomas Tefft, captured May 3, 2021 from https://en.wikipedia.org/wiki/Thomas_Alexander_Tefft
 
@@ -77,9 +77,9 @@ One can’t help but wonder what other notable architecture Tefft could have des
 
 #### Architecture
 
-Designed in the [Lombard Romanesque](//en.wikipedia.org/wiki/First_Romanesque){:target="_blank"} style, the handsome station had two wings on either side of a central pavilion with tall, slender towers. The exterior had much brick ornamentation in the form of drip mouldings along the cornices and breaking up the surface area of the façades, with rounded arch window groupings and arched supports for covered walkway openings. A double hip roof covered the bulk of the terminal wings while the central structure resembled a church with its steep hip roof and rosette window. 
+Designed in the [Lombard Romanesque](//en.wikipedia.org/wiki/First_Romanesque){:target="_blank"} style, the handsome station had two wings on either side of a central pavilion with tall, slender towers. The exterior had much brick ornamentation in the form of drip mouldings along the cornices and breaking up the surface area of the façades, with rounded arch window groupings and arched supports for covered walkway openings. A double hip roof covered the bulk of the terminal wings while the central structure resembled a church with its steep hip roof and rosette window.
 
-The two wings were each a terminal for a different railroad, while the central pavilion open to [the Cove]({% link _property/cove-basin-and-waterplace.md %}) unified the two as passengers moved from one to the other to continue on their journey. Overall, the buildings extended 720 feet along the edge of Exchange Place and was the largest railroad station in the United States at the time of its construction. In 1885, _American Architect and Building News_ voted the building one of the 20 best buildings in the country. 20th century architectural historian Henry-Russell Hitchcock wrote of the station, “without much question it was the finest early station in the New World.” 
+The two wings were each a terminal for a different railroad, while the central pavilion open to [the Cove]({% link _property/cove-basin-and-waterplace.md %}) unified the two as passengers moved from one to the other to continue on their journey. Overall, the buildings extended 720 feet along the edge of Exchange Place and was the largest railroad station in the United States at the time of its construction. In 1885, _American Architect and Building News_ voted the building one of the 20 best buildings in the country. 20th century architectural historian Henry-Russell Hitchcock wrote of the station, “without much question it was the finest early station in the New World.”
 
 Tefft gave Providence one of the grandest of early railroad stations but it was built when rail traffic was relatively light. As railroad traffic increased over the coming decades, the need for additional transit space was apparent. While it took many years for the City and the various railroad corporations to agree on a solution, a new station began to be constructed behind Tefft’s station after Cove lands had been filled in. On February 21, 1896, a catastrophic fire gutted the soon-to-be “old” Union Station.[^2]
 
