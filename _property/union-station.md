@@ -34,7 +34,7 @@ thumbnail: union-station-ppl-1950-tunnel.jpg
 images:
   - url: union-station-ppl-1902-exterior.jpg
     caption: 'Exterior high-vantage view point (guessing from the first Industrial Trust building) with street trolleys and horse carts. The park, then called City Park, and Bajnotti’s fountain was in place by 1902, but Burnside’s monument will not be placed until 1906 — Rhode Island Photograph Collection, Providence Public Library'
-    alt: ''
+    alt: 'A wide, low multi-building complex designed at the end of the 19th-century for multi-modal transportation. Trains would come and go by the array of tracks in the rear elevated above a syste mof roadways for trolleys, buses, or cars. Steel supported with yellow brick facing, granite foundations, and brown sandstone embellishments'
   - url: union-station-ppl-1904-exterior.jpg
     caption: 'Front elevation view with the newly finished State House gleaming in the background. The State Normal School is also behind, which finished construction in 1898. Looks like landscaping was not completed around the State House, so we date the photo 1904, right after its completion — Rhode Island Photograph Collection, Providence Public Library'
   - url: union-station-ppl-1906-trolley.jpg

@@ -1,11 +1,11 @@
 ---
 title: "Monohasset Mill"
 slug: monohasset-mill
-aka: 'Armington & Sims Engine Company, Eastern Engine Company'
+aka: 'Armington & Sims Engine Company, Eastern Engine Company, Cleveland Worsted Mills Company'
 date-modified: 2021-03-29 12:00
 
 built: '1866'
-demolition: 
+demolition:
 redeveloped: '2002-2006'
 units: '21'
 decade: '1860-1869'
@@ -60,7 +60,7 @@ images:
   - url: monohasset-jh-2006-04-01.jpg
   - url: monohasset-jh-2006-04-02.jpg
 
-imagescredit: 
+imagescredit:
 
 #external:
 #  - source: 'Providence Journal (permalink)'

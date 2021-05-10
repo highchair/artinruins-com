@@ -1,7 +1,8 @@
 // &#x2197
 a[target='_blank'] {  
   &::after {
-    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><path style="fill:#{palette(brand-grey)}" d="M45.7 3.9c-.2-.3-.4-.6-.7-.9-1-1-2-.9-3.5-.8l-8.2.4c-.6 0-1.1.5-1.1 1.1 0 .6.4 1 1 1.1l6.6.7c-.5.3-1 .8-1.7 1.6L11.5 33.8l1.6 1.6c1.1.1 1.7-.3 3.5-2.1L42.1 7.7l.6 6.9c0 .5.5 1 1 1 .6.1 1.2-.4 1.2-1l1-10c0-.2 0-.5-.2-.7zM2.1 37.3h1.7c.9.7.9 1.4.9 3.9v1h38.1v-4.9h1.6c.8.6 1 1.4 1 3.9V46H3c-.9-.7-.9-1.4-.9-3.9v-4.8z"/></svg>');
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><path d="M45.7 3.9c-.2-.3-.4-.6-.7-.9-1-1-2-.9-3.5-.8l-8.2.4c-.6 0-1.1.5-1.1 1.1 0 .6.4 1 1 1.1l6.6.7c-.5.3-1 .8-1.7 1.6L11.5 33.8l1.6 1.6c1.1.1 1.7-.3 3.5-2.1L42.1 7.7l.6 6.9c0 .5.5 1 1 1 .6.1 1.2-.4 1.2-1l1-10c0-.2 0-.5-.2-.7zM2.1 37.3h1.7c.9.7.9 1.4.9 3.9v1h38.1v-4.9h1.6c.8.6 1 1.4 1 3.9V46H3c-.9-.7-.9-1.4-.9-3.9v-4.8z"/></svg>');
+    background-color: currentColor;
     background-size: cover;
     content: '';
     display: inline-block;

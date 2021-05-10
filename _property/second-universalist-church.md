@@ -1,12 +1,12 @@
 ---
 title: "Second Universalist Church"
 slug: second-universalist-church
-aka: 
+aka:
 date-modified: 2020-08-25 12:00
 
 built: '1847-1849'
 demolition: '2006'
-redeveloped: 
+redeveloped:
 decade: '1840-1849'
 date-added: '2006'
 categories: [ '#UsedToBeThere' ]
@@ -14,7 +14,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Thomas A. Tefft' ]
 lists: [ 'Brussat’s 10 Best Lost Buildings' ]
-tags: [ 'Demolition by Fire', 'The Superlatives' ]
+tags: [ 'Demolition by Fire', 'The Superlatives', 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
 superlative: 'Built as a church, the building later housed the first private normal school in Providence'
 
 address: '151 Weybosset Street, Providence RI'
@@ -53,11 +53,11 @@ imagescredit: 'Contributions from Google Streetview and <a href="//provlibdigita
 
 ### Reason for Demolition
 
-In the early morning on May 22, 2006, a brisket slow cooking for a catering job at Downcity Diner caught fire. Flames spread from the grill to between the walls. Though the building had an impressive brick exterior, it was a wood framed 1840s structure, therefore the fire spread to the roof quickly. The way the fire spread inside walls made it difficult to battle, and firefighters were not able to fight from the inside because of the threat of collapse. 
+In the early morning on May 22, 2006, a brisket slow cooking for a catering job at Downcity Diner caught fire. Flames spread from the grill to between the walls. Though the building had an impressive brick exterior, it was a wood framed 1840s structure, therefore the fire spread to the roof quickly. The way the fire spread inside walls made it difficult to battle, and firefighters were not able to fight from the inside because of the threat of collapse.
 
-By mid-afternoon the building was deemed to be a total loss, and the only way to stop the fire was to start to tear into it. Crews brought an emergency crane onto Weybosset street to start to open the roof and walls up further so firefighters could douse what was left. Embers were still burning as the crane ripped into the walls. 
+By mid-afternoon the building was deemed to be a total loss, and the only way to stop the fire was to start to tear into it. Crews brought an emergency crane onto Weybosset street to start to open the roof and walls up further so firefighters could douse what was left. Embers were still burning as the crane ripped into the walls.
 
-Over the next few days and weeks the building was completely torn down and debris removed. A parking lot was put in its place. Downcity Diner moved down Weybosset Street to the only remaining Tefft-designed building in downtown. 
+Over the next few days and weeks the building was completely torn down and debris removed. A parking lot was put in its place. Downcity Diner moved down Weybosset Street to the only remaining Tefft-designed building in downtown.
 
 
 ### Current Events
@@ -67,7 +67,7 @@ A parking lot still occupies this location. As early as 2011 a new covering was 
 
 ### History
 
-The Safari Lounge, a popular bar/music venue with the Providence underground music scene in the late 90s to early 2000s, was forced to relocate out of its address at 103 Eddy Street in this same building in 2005. 
+The Safari Lounge, a popular bar/music venue with the Providence underground music scene in the late 90s to early 2000s, was forced to relocate out of its address at 103 Eddy Street in this same building in 2005.
 
 _From a Providence Online crossword puzzle, 2012, by John Taraborelli_
 
@@ -80,7 +80,7 @@ _From Downtown Providence Historic District nomination form, 1980_
 Second Universalist Church (1847-49): Romanesque Revival, 3 1⁄2-story, brick structure with end-gable roof; 20th-century storefronts; 2nd-story windows infilled, five round head windows with voussoirs and connecting imposts on third story, centered round-head window with tracery flanked by two lunette windows below date stone in attic; simple corbel cornice; irregular fenestration on Eddy Street elevation.
 {:.o__drop-cap}
 
-Built as the Second Universalist Church, the building housed the first private normal school in Providence by 1852, the antecedent of Rhode Island College [**A.I.R.**: A “normal” school trains teachers. This evolved into the Henry Barnard School at RIC]. The structure was converted to commercial use later in the 19th century and continues thus today. Significant both as one of the few remaining buildings designed by Providence’s eminent mid-l9th-century architect, Thomas A. Tefft, and as a reminder of the generally residential nature of this part of the downtown before the Civil War. The Second Universalist Church building, though heavily altered both inside and out, adds architectural variety to the streetscape in a block of vernacular buildings. 
+Built as the Second Universalist Church, the building housed the first private normal school in Providence by 1852, the antecedent of Rhode Island College [**A.I.R.**: A “normal” school trains teachers. This evolved into the Henry Barnard School at RIC]. The structure was converted to commercial use later in the 19th century and continues thus today. Significant both as one of the few remaining buildings designed by Providence’s eminent mid-l9th-century architect, Thomas A. Tefft, and as a reminder of the generally residential nature of this part of the downtown before the Civil War. The Second Universalist Church building, though heavily altered both inside and out, adds architectural variety to the streetscape in a block of vernacular buildings.
 
 
 ### In the News
@@ -90,7 +90,7 @@ Built as the Second Universalist Church, the building housed the first private n
 A firefighter is injured in the fire and the fire chief says the building was destroyed.
 {:.o__pull-quote}
 
-_by Tom Mooney_  
+_by Tom Mooney_
 **Providence Journal** | May 23, 2006
 
 A fire that started inside a restaurant formerly known as **Downcity Diner** gutted a three-story brick building on Weybosset Street yesterday and stubbornly burned throughout the day as fear of collapse forced firefighters to fight the blaze from the outside.
