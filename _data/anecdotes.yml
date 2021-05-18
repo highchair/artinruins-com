@@ -12,6 +12,10 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: froebel-hall
+  person: 'Rose Euart Doherty'
+  content: 'In the mid 1950s Froebel Hall was used on Saturday nights for ballroom dancing lessons for grade school children like me. We learned to dance in that wonderful room on the second floor.'
+
 - property: union-station
   person: 'A. Douglas'
   content: 'I remember when my mother and I went to Boston and took the train there from this train station. Wonderful memories, and I also remember when my mother told me stories when the soldiers came home and how the place was buzzing! I am glad they didn’t destroy this great and memorable building.'
