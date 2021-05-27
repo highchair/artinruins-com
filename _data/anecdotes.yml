@@ -12,6 +12,16 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: providence-steel-iron
+  person: 'Honor Sanderford'
+  date: '2015-08-22'
+  content: 'Bill Toof, his name was actually Herman Toof, is the owner Alden is referring to. Bill Toof was my grandfather; he stayed on with the company after it was sold until his death in 1975. So glad to see that the building still stands and is being has been repurposed. I doubt our grandfathers ever envisioned what it would look like today.'
+
+- property: providence-steel-iron
+  person: 'Alden Wilson'
+  date: '2010-09-25'
+  content: 'My grandfather Harry Page Wilson 1878 1948 was one of the owners along with William Tooth they owned the company during the 30’s and 40’s and built the stadium where the Pawsox play in Pawtucket.'
+
 - property: froebel-hall
   person: 'Rose Euart Doherty'
   content: 'In the mid 1950s Froebel Hall was used on Saturday nights for ballroom dancing lessons for grade school children like me. We learned to dance in that wonderful room on the second floor.'
