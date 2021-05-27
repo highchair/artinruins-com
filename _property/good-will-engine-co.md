@@ -5,7 +5,7 @@ aka: 'Firehouse 13'
 date-modified: 2021-02-21 12:00
 
 built: '1856'
-demolition: 
+demolition:
 redeveloped: '2001-2006, 2018-2019'
 units:
 decade: '1850-1859'
@@ -56,17 +56,17 @@ imagescredit: 'Postcard taken from Ebay'
 
 ### Redevelopment
 
-In 2001, the former fire-fighter training facility became an art space called **Firehouse 13**. Nick Bauta, a collaborator on the Steel Yard project, purchased the firehouse as his pet project along with curator Anna Shea. It was slowly restored over a period of about six years and evolved into a first floor flexible space usually used for music shows, steel fabrication studio space, along with studio apartments and work spaces on the 2nd and 3rd floors. The main event space was used for art shows, theatre, fashion shows, and some really great parties. 
+In 2001, the former fire-fighter training facility became an art space called **Firehouse 13**. Nick Bauta, a collaborator on [The Steel Yard]({% link _property/providence-steel-iron.md %}) project, purchased the firehouse as his pet project along with curator Anna Shea. It was slowly restored over a period of about six years and evolved into a first floor flexible space usually used for music shows, steel fabrication studio space, along with studio apartments and work spaces on the 2nd and 3rd floors. The main event space was used for art shows, theatre, fashion shows, and some really great parties.
 
 The restoration included sandblasting the paint off the first floor of the façade, more brick and mortar work, new windows, wood floor refinishing, repoured concrete floors, and upgraded fire suppression systems. Some of the windows have custom made grates across them with metal flames. One of our favorite things about the firehouse was the peeling and cracking paint that was all over the stairwell and the moulding. They found a way to keep it by sealing it in with clear acrylic and it looked great.
 
 Bauta eventually turned his focus to partnering and managing Fete Music Hall in Olneyville around 2010 and 2011[^1]. New managers John “Cyco” Defruscio and his partner Windsong Hadley took over Firehouse 13. John had experience running venues from the Living Room as far back as the “[bubble](/property/brown-sharpe-foundry#history)” days and more recently at Club Hell. The stage and sound were upgraded and a beer and wine license was procured. Rehearsal studios for bands were added and unique events continued to take place here.[^2]
 
-Nationwide, though, live music attendance dropped off and new generations of fans declined. After a year of revenue losses, Firehouse 13 closed in the summer of 2017. 
+Nationwide, though, live music attendance dropped off and new generations of fans declined. After a year of revenue losses, Firehouse 13 closed in the summer of 2017.
 
 [^1]: Article mentioning the opening of Fete Music Hall, Providence Daily Dose, from 2011 by Beth Comfrey. Captured February 22, 2021 from https://providencedailydose.com/2011/10/07/fete-—-new-live-music-venue-in-olneyville/
 
-[^2]: “The Extinguished Flame: Providence's Beloved Firehouse 13 Set to Close,” 990WBOB, Bob Giusti, June 13 2017. Captured February 22, 2021 from http://www.990wbob.com/wbob-reads/the-extinguished-flame-providences-beloved-firehouse-13-set-to-close 
+[^2]: “The Extinguished Flame: Providence's Beloved Firehouse 13 Set to Close,” 990WBOB, Bob Giusti, June 13 2017. Captured February 22, 2021 from http://www.990wbob.com/wbob-reads/the-extinguished-flame-providences-beloved-firehouse-13-set-to-close
 
 #### Other Links
 
@@ -89,7 +89,7 @@ Historically known as the **Good Will Engine Company**, the firehouse was built 
 
 #### Former Providence music venue Firehouse 13 to reopen as Goodwill Engine Co.
 
-_by Rob Duguay_  
+_by Rob Duguay_
 **Providence Journal** | May 22, 2019 (abridged)
 
 Often in Providence’s music scene, when a venue closes another one opens somewhere else a few months later. There have also been instances of old places being resurrected, much like what’s happening at 41 Central St.

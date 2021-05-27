@@ -6,7 +6,7 @@ date-modified: 2021-05-03 12:00
 
 built: '1848'
 demolition: '1896'
-redeveloped: 
+redeveloped:
 units:
 decade: '1840-1849'
 date-added: '2021'
@@ -31,28 +31,28 @@ thumbnail: tefft-depot-ppl-1875-01.jpg
 
 images:
   - url: tefft-depot-ppl-1875-01.jpg
-    caption: 'Looking west, likely one of the earliest photos, guessing 1875 — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'Looking northeast, likely one of the earliest photos, guessing 1875 — Rhode Island Photograph Collection, Providence Public Library'
     alt: 'A handsome red-brick railroad station with two long single story passenger terminal wings on either side of a central pavilion. Brick ornamentation was in the form of drip mouldings along the cornices and surrounding rounded arch window groupings and arched supports for covered walkway openings. A double hip roof covered the bulk of the terminal wings while the central structure resembled a church with a steep hip roof, rosette window and the peak, and two tall slender towers projecting from either side.'
   - url: tefft-depot-ppl-1865-01.jpg
     caption: 'Possibly a slightly earlier photo, but hard to tell. In the background notice North Main Street’s Cathedral of St. John Episcopal church as well as the rail depot buildings — Rhode Island Photograph Collection, Providence Public Library'
   - url: tefft-depot-ppl-pre-1878-01.jpg
-    caption: 'Another early photo, looking east, pre 1878 as City Hall has not been built yet but not pre-1872 as Butler Exchange can be seen — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'Another early photo, looking southwest, pre 1878 as City Hall has not been built yet but not pre-1872 as Butler Exchange can be seen — Rhode Island Photograph Collection, Providence Public Library'
   - url: tefft-depot-ppl-1880-01.jpg
-    caption: 'Looking west, this photo shows a bustling Exchange Place, with the train station on the far left and the prominant Butler Exchange building (1872) on the right. The back of the Soldiers and Sailors monument (1871) is center — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'Looking east, this photo shows a bustling Exchange Place, with the train station on the far left and the prominant Butler Exchange building (1872) on the right. The back of the Soldiers and Sailors monument (1871) is center — Rhode Island Photograph Collection, Providence Public Library'
   - url: tefft-depot-ppl-1880-02.jpg
-    caption: 'Looking east now, another view of Exchange Place with the train station in center. A small bit of the back of the Three Ones fire station is in the lower left — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'Looking southwest now, another view of Exchange Place with the train station in center. A small bit of the back of the Three Ones fire station is in the lower left — Rhode Island Photograph Collection, Providence Public Library'
   - url: tefft-depot-jp-1885-01.jpg
-    caption: 'Looking east, labelled 1885 with City Hall (1878) to the left — from the John O. Pastore Photograph Album, Providence College Collection'
+    caption: 'Looking west, labelled 1885 with City Hall (1878) to the left — from the John O. Pastore Photograph Album, Providence College Collection'
   - url: tefft-depot-jp-1887-01.jpg
-    caption: 'Again looking east, labelled 1887, with the Burnside monument in place installed July 4th that same year — from the John O. Pastore Photograph Album, Providence College Collection'
+    caption: 'Again looking west, labelled 1887, with the Burnside monument in place installed July 4th that same year — from the John O. Pastore Photograph Album, Providence College Collection'
   - url: tefft-depot-ppl-post-1889-01.jpg
-    caption: 'Looking west, undated, but the presence of the sign reading “N.Y.P. & B. Baggage Room” for the New York Providence & Boston railroad indicates post 1889 as this was the name of the railroad which leased the Providence & Worcester in 1889 — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'Looking east, undated, but the presence of the sign reading “N.Y.P. & B. Baggage Room” for the New York Providence & Boston railroad indicates post 1889 as this was the name of the railroad which leased the Providence & Worcester in 1889 — Rhode Island Photograph Collection, Providence Public Library'
   - url: tefft-depot-ppl-1896-01.jpg
     caption: 'Looking east, 1896, Union Station damaged by fire — Rhode Island Photograph Collection, Providence Public Library'
   - url: tefft-depot-ppl-1896-02.jpg
     caption: 'Looking east, 1896, Union Station damaged by fire — Rhode Island Photograph Collection, Providence Public Library'
   - url: tefft-depot-ppl-1896-03.jpg
-    caption: 'Looking west, 1896, Union Station damaged by fire — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'Looking northwest, 1896, Union Station damaged by fire — Rhode Island Photograph Collection, Providence Public Library'
 
 imagescredit: 'Contributions from <a href="//dpml.providence.edu/islandora/object/islandora%3A14529" target="_blank">The John O. Pastore Photograph Album</a>, Providence College Collection; Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12686" target="_blank">photo 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12746" target="_blank">photo 2,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14471" target="_blank">photo 3,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A10857" target="_blank">photo 4,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14924" target="_blank">photo 5,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A10747" target="_blank">photo 6,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A27030" target="_blank">fire 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14575" target="_blank">fire 2,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14829" target="_blank">fire 3</a>), Providence Public Library'
 

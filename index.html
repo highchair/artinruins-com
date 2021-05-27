@@ -12,7 +12,7 @@ sitemap:
 {%- assign properties = site.property | sort: "date-modified" | reverse -%}
 {%- assign props = 1 -%}
 {%- assign totalimg = 0 -%}
-{%- if jekyll.environment == "production" -%} 
+{%- if jekyll.environment == "production" -%}
   {%- for item in properties -%}
     {%- assign totalimg = totalimg | plus: item.images.size -%}
   {%- endfor -%}
@@ -20,8 +20,8 @@ sitemap:
 {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
 
 <section class="home__updates u__gutter__p">
-  <p class="u__vertical__pb"><b>ArtInRuins is undergoing a makeover.</b> For over 180 properties, photographs have been re-cropped, enhanced, and enlarged. Histories have been researched and expanded and current events have been updated. Enjoy!</p>
-  
+  <p class="u__vertical__pb"><b>ArtInRuins is undergoing a makeover.</b> For over 190 properties, photographs have been re-cropped, enhanced, and enlarged. Histories have been researched and expanded and current events have been updated. Enjoy!</p>
+
 {%- if demoalert.size >= 1 -%}
   <h2 class="o__title--sm v-rhythm">Demolition Alert</h2>
   <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
@@ -30,7 +30,7 @@ sitemap:
     {%- endfor -%}
   </ul>
 {%- endif -%}
-  
+
   <h2 class="o__title--sm v-rhythm">Recently updated Properties</h2>
   <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
 {%- for item in properties -%}
@@ -47,7 +47,7 @@ sitemap:
   {%- endif -%}
 {%- endfor -%}
   </ul>
-  
+
   <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ props }} properties</span> and <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=totalimg %} images</span>. {% if JEKYLL_ENV == 'production' %}Browse more from our <a href="{% link all-tags.html %}">Categories and Tags</a>.{% endif %}</p>
 </section>
 <section class="home__anec u__vertical__p u__gutter__p">
