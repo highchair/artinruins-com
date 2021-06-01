@@ -12,6 +12,20 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: maine-creamery-co
+  person: 'Pat C'
+  date: '2016-08-10'
+  content: 'I think you should check this place out — I worked in the area up til July 2012. The RI Blood Center has totally revamped it and it looks great. Check it out.'
+
+- property: maine-creamery-co
+  person: 'Patrick Donovan'
+  date: '2012-08-27'
+  content: 'In 1967, 2 of my friends and I leased two ice cream trucks from a Mass. outfit and set ourselves up selling ice cream on a stick in Providence. Our supplies came from the Hood warehouse. It was breathtaking walking in there in the evening when it was still 95 degrees and 95% humidity outside, and inside it was 40 below. For the first few minutes it was unbelievably refreshing. And ice cream stacked 20 feet high! Paradise!'
+
+- property: maine-creamery-co
+  person: 'Heidi Jursa'
+  content: 'I was told that My great grandfather worked here, I am wondering if someone could tell me if there are any records to prove this. Thanks'
+
 - property: mowry-nicholson-house
   person: 'Claire'
   date: '2018-02-04'
