@@ -29,7 +29,7 @@ gmap: "https://www.google.com/maps/place/721+Hope+St,+Providence,+RI+02906/@41.8
 meta: ""
 excerpt: "Long-time tenants Davis Dairy vacated in spring 2020 after a fire damaaged the upper floors of the house"
 
-#thumbnail: 
+#thumbnail:
 
 images:
 - url: davis-dairy-jh-2020-05-01.jpg
@@ -39,8 +39,11 @@ images:
 - url: davis-dairy-jh-2021-04-01.jpg
 - url: davis-dairy-jh-2021-04-02.jpg
 - url: davis-dairy-jh-2021-04-03.jpg
+- url: davis-dairy-jh-2021-05-01.jpg
+- url: davis-dairy-jh-2021-05-02.jpg
+- url: davis-dairy-jh-2021-05-03.jpg
 
-imagescredit: 
+imagescredit:
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -49,24 +52,23 @@ imagescredit:
 
 ### Last Tenant
 
-Davis Dairy occupied the ground-floor retail location of this home since we don’t know when — a long time. A fire on the third floor broke out in May, 2020, and forced the Jewish deli to close. They made the decision in February, 2021, not to reopen the retail store but to continue a wholesale business. 
-
+Davis Dairy occupied the ground-floor retail location of this home since we don’t know when — a long time. A fire on the third floor broke out in May, 2020, and forced the Jewish deli to close. They made the decision in February, 2021, not to reopen the retail store but to continue a wholesale business.
 
 #### Architecture
 
-The home is 2 and three-quarter stories (according to the tax records), with a rare double-gable roof line on the south side of the third floor. The north side of the third floor features a large dormer bay. It is wood frame construction with brown-stained wood shingle on the upper stories and concrete block facing on the commercial first floor. A storefront is diagonally placed (kitty-corner) on the northwest wall with a commercial plate glass window on the north and west sides. A large bay window is above the storefront on the second floor. 
+The home is 2 and three-quarter stories (according to the tax records), with a rare double-gable roof line on the south side of the third floor. The north side of the third floor features a large dormer bay. It is wood frame construction with brown-stained wood shingle on the upper stories and concrete block facing on the commercial first floor. A storefront is diagonally placed (kitty-corner) on the northwest wall with a commercial plate glass window on the north and west sides. A large bay window is above the storefront on the second floor.
 
 
 ### Current Events
 
-In just the past few days the third floor of the house has been ripped off. The remaining structure looks like it will remain. Our gues is that someone plans to rebuild the third floor and prepare the home for rent again. 
+In April the third floor and roof were ripped off and the structure was left open to the elements for about six weeks. At the end of May a new third floor was added, this time, with straight walls to create a full size third floor. No roof has been added yet.
 
 
 ### History
 
 Not much found yet. This side of town has not been documented in very early Sanborn Insurance Maps. The earliest map we could find so far with this house on the corner of Hope (early maps label it as East Street/Ave) and Braman was from [1920-1921, Volume 2, Sheet 85](//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39395/41287/561123?accountid=7136){:target="_blank"}.
 
-Zillow and Realtor.com do not list this property for sale, and tax history shows the most recent sale as 2013. 
+Zillow and Realtor.com do not list this property for sale, and tax history shows the most recent sale as 2013.
 
 
 ### In the News
@@ -76,12 +78,12 @@ An additional remembrance from the [Jewish Rhody online by M. Charles Bakst](//w
 
 #### Providence's kosher market Davis Dairy closes for good
 
-_by Gail Ciampa_  
+_by Gail Ciampa_
 **Providence Journal** | February 16, 2021 (abridged)
 
 What the Davis family built in Providence will not soon be forgotten. The taste of many people’s childhoods and history were etched at Davis Dairy Products.
 
-But after a fire destroyed the Hope Street building housing their business in May [2020], they’ve decided not to reopen their Jewish kosher deli market, the last of its kind in Providence, where there once were many.  
+But after a fire destroyed the Hope Street building housing their business in May [2020], they’ve decided not to reopen their Jewish kosher deli market, the last of its kind in Providence, where there once were many.
 
 “Our decision to close the retail store was extremely difficult,” said Mark Glazer, co-owner with wife Lori Davis Glazer and father-in-law Joslin “Josh” Davis. It has been part of their family since 1906.
 
@@ -93,7 +95,7 @@ The lox brought in customers from all over New England, Glazer added.
 
 Leslie Y. Gutterman, rabbi emeritus of Temple Beth-El in Providence, remembered Davis Dairy this way: “It was one of the places I saw all manner of Jews gathering together.” It didn’t matter if they were Reform, Orthodox, cultural or religious — Davis was a place they shared, he said.
 
-He loved that they sold food not imitated by other places. 
+He loved that they sold food not imitated by other places.
 
 “I remember them cutting lox so thin you could see through it,” he said. Buying containers with their herring in cream sauce was a special delight.
 
@@ -103,17 +105,17 @@ The good news is that the wholesale business, which has spanned New England and 
 
 Glazer said the family has been in contact with Jeff Ingber and Freda Ronkin, who plan to open Bubbies Market and Deli nearby on Hope Street. Davis’ lox, and other products, will be sold there.
 
-But this is not the day to look forward, but to remember what made Davis Dairy unique. 
+But this is not the day to look forward, but to remember what made Davis Dairy unique.
 
 Glazer said they will miss seeing their customers and all the chatting they shared.
 
-While waiting in line, customers could catch up on what was new in the schools and synagogues, and in their lives, Glazer said. 
+While waiting in line, customers could catch up on what was new in the schools and synagogues, and in their lives, Glazer said.
 
 “Many times, we would hear about engagements and births, often before extended family. Sadly, we were also one of the first to be called after a death in the family,” he said.
 
 It’s been like this for generations.
 
-“Children who came shopping would often get a pickle or a cookie,” he recalled. “We have watched so many grow up and get married and then bring their own children in to see us.” 
+“Children who came shopping would often get a pickle or a cookie,” he recalled. “We have watched so many grow up and get married and then bring their own children in to see us.”
 
 People on social media have reacted to the closing, especially since they can’t gather anywhere but virtually. They recounted “out of this world” sour cream, jars of gefilte fish, the best pickles and sour tomatoes, and the names of those working the counter.
 
@@ -123,10 +125,10 @@ He called it the “end of an era in R.I. Jewish circles.”
 
 “Elizabeth [Bakst's wife] and I will miss this place — the food and the schmoozing — dearly. Indeed, we shopped there for decades and were among its very last customers, stopping in only hours before the fire,” he wrote.
 
-It was a late-night fire back on May 19 that badly damaged the building at 721 Hope St. and made it unusable. 
+It was a late-night fire back on May 19 that badly damaged the building at 721 Hope St. and made it unusable.
 
 “The fire started in the apartment on the third floor, but we do not know the actual cause,” Glazer said.
 
-What is understood is that it may have closed a business, but it won’t extinguish the memories that remain from decades and decades of fine food and conversation. 
+What is understood is that it may have closed a business, but it won’t extinguish the memories that remain from decades and decades of fine food and conversation.
 
 _Captured April 9, 2021 from https://www.providencejournal.com/story/entertainment/dining/2021/02/16/providence-kosher-market-davis-dairy-closes-after-114-years/6752062002/_
