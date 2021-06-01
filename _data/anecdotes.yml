@@ -12,6 +12,32 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: mowry-nicholson-house
+  person: 'Claire'
+  date: '2018-02-04'
+  content: 'I believe this B&B is closed :('
+
+- property: mowry-nicholson-house
+  person: 'James F. O’Gorman'
+  date: '2015-09-21'
+  content: 'Nathaniel Mowry, (1774-1843) of Smithfield, his son, William G. R. Mowry (1810-92) of Providence, and William T. Nicholson all successively signed (or stamped) the copy of Edward Shaw’s Civil Architecture (2nd ed., 1832) now in the Hay Library at Brown.'
+
+- property: mowry-nicholson-house
+  person: 'Pat Murphy'
+  date: '2014-11-09'
+  content: 'My grandparents from New Jersey briefly lived in Providence in 1916 and 1917 and according to ancestry.com records 57 Brownell was an address they briefly stayed at, it was called B & S Rooms. My grandfather was a guard, probably at a nearby factory.'
+
+- property: mowry-nicholson-house
+  person: 'Corey'
+  content: 'I think it all depends on documentation. If they could find photographs, renderings, etc… of the house without the dormers, then they’d have every right to get rid of them in the process of the restoration. They may not have been able to dig up documentation that the house didn’t have that feature, so even though it’s obvious to us looking at it, on paper they can’t do anything. Also, it might have been too expensive for them to get rid of the dormers than just to leave them there, even with tax credits, so after finding that out they may not have even tried to prove they weren’t there.'
+
+- property: mowry-nicholson-house
+  person: 'Vin'
+  content: 'It’s unfortunate that in their haste to “restore” the manse; the owners decided to leave the terrible addition tacked upon this victorian lady. It’s out of scale and overpowering for this beautiful home. But you gotta fill them rooms, huh?
+
+
+(**A.I.R.**: To counter your point, Vin, we believe that because they used Historic Tax Credits, they had to keep the third floor dormers as they were. To remove them would have altered the historic structure too much. The dormers were added in the 1920s, so they were considered integral to the historic nature of the structure.)'
+
 - property: providence-steel-iron
   person: 'Honor Sanderford'
   date: '2015-08-22'
