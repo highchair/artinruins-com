@@ -28,7 +28,7 @@ Historical Section
 
 Rest In Peace section (18)
 + Hartford Ave Apartments
-++ Greenhaulgh Mills — 368 Cottage Street, demolished 2002. I can't find any AIR photos of this site. 
+++ Greenhaulgh Mills — 368 Cottage Street, demolished 2002. I can't find any AIR photos of this site.
 New story: https://www.middletownpress.com/news/article/Mill-fire-spreads-displaces-residents-11915991.php
 Video of the fire: https://www.youtube.com/watch?v=2i4VbOTc00I
 + Gulf Station (The Circular Station)
@@ -62,7 +62,7 @@ Urban Decay section (16)
 + Improved Laminated Metal
 + North Main Street — Including Ethan Allen, Sears Automotive, Sears, Anderson Little, and #1320
 + Parkin Yarn
-+ Royal Mills & Ace Dyeing 
++ Royal Mills & Ace Dyeing
 + (Cranston St.) Trolley Barn
 
 
@@ -105,7 +105,7 @@ RIP
 + AAA Surgical
 + the Jamestown Bridge
 + the Ladd School
-+ Ocean State Steel 
++ Ocean State Steel
 
 Still In Use
 + 146 Dyer Street / Quay Building (Narragansett Electric)
@@ -114,7 +114,7 @@ Still In Use
 + Apex Department Store
 + East Avenue Auto
 + George Arnold Building
-++ Greenville Fin / Putnam Pike Mills
++ Greenville Fin / Putnam Pike Mills
 + Hope Webbing
 + Louis Fink building
 + Ocean House
@@ -132,7 +132,7 @@ Urban Decay
 + Bootleggers
 + Earl Mason Carriage House
 + First Federal Bank, recently Buck a Book
-+ New England Paper Tube, Co. 
++ New England Paper Tube, Co.
 + North Main Street — Ethan Allen, Sears Auto, Sears, Anderson Little, #1320
 + Providence Armory (?)
 
@@ -160,14 +160,14 @@ Still in Use
 + 1 Charles Street
 + 891 North Main
 + Chestnuts
-++ Coro Building
-++ Dryden Lane, for. Allen Printworks
++ Coro Building
++ Dryden Lane, for. Allen Printworks
 ++ Fairhaven Mills, New Bedford
 + Littlest Building in Providence (Lil Dunk)
 + Machine Shop for the Phenix Iron Foundry
-++ Smith Webbing
++ Smith Webbing
 + Congdon & Carpenter / Steeple Street
-++ Union Station
++ Union Station
 + Washington Street (Talk of the Town, Cuban Revolution)
 
 Redeveloped
@@ -175,14 +175,14 @@ Redeveloped
 + the Dreyfus Hotel
 + RISD's Fletcher bldg.
 ++ Hive Archive
-++ Brown Hillel
++ Brown Hillel
 ++ RI Hospital Trust bldg
-++ Monohasset Mills
-++ the Mowry-Nicholson House
++ Monohasset Mills
++ the Mowry-Nicholson House
 ++ Splinters Sports Pub
-++ the Steelyard
-++ The Summerfield building
-++ Two Ton Inc.
++ the Steelyard
++ The Summerfield building
++ Thorpe Electric Company / Two Ton Inc.
 + the Wilkinson Building / for. Lerner Dept Store (added 2004, expanded 2005)
 
 RIP
@@ -194,7 +194,7 @@ RIP
 + Rialto Furniture
 
 Urban Decay
-++ 395 Promenade Street / HP Hood
++ 395 Promenade Street / (formerly thought to be HP Hood) Maine Creamery Co.
 ++ American Express bldg
 + Engle Tire & Providence Auto Ignition
 + Old Colonial Bank, Pawtucket
@@ -224,7 +224,7 @@ Redeveloped
 ++ American Locomotive Works, for. US Rubber
 ++ Calender Mills
 + Firehouse 13
-++ L. Vaughn Company / 1153 Westminster St
++ L. Vaughn Company / 1153 Westminster St
 ++ Pearl Street Lofts
 ++ The Grant
 

@@ -1,12 +1,12 @@
 ---
 title: "Primo Art Company"
 slug: primo-art-co
-aka: 
+aka:
 date-modified: 2021-03-26 12:00
 
 built: '1924–1925'
-demolition: 
-redeveloped: 
+demolition:
+redeveloped:
 units:
 decade: '1920-1929'
 date-added: '2005'
@@ -46,8 +46,16 @@ images:
   - url: primo-jh-2018-11-03.jpg
   - url: primo-jh-2018-12-01.jpg
   - url: primo-jh-2021-04-01.jpg
+  - url: primo-crexi-2021-05-01.jpg
+    caption: 'Photo taken from the real estate listing'
+  - url: primo-crexi-2021-05-02.jpg
+    caption: 'Photo taken from the real estate listing'
+  - url: primo-crexi-2021-05-03.jpg
+    caption: 'Photo taken from the real estate listing'
+  - url: primo-crexi-2021-05-04.jpg
+    caption: 'Photo taken from the real estate listing'
 
-imagescredit: 'Contribution from the ProQuest Online Digital Sanborn Map collection'
+imagescredit: 'Contributions from the ProQuest Online Digital Sanborn Map collection and the real estate listing (2021)'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -56,8 +64,10 @@ imagescredit: 'Contribution from the ProQuest Online Digital Sanborn Map collect
 
 ### Current Events
 
-This is a C4-zoned industrial 0.13 acre lot with a small, two-story cinder-block building from the early 1930s with 3200 sf of interior space. It is of simple, economical construction with a flat roof and large metal-rail divided windows. The building has been under many owners — or had many tenants — since 2000. 
+This is a C4-zoned industrial 0.13 acre lot with a small, two-story cinder-block building from the early 1930s with 3200 sf of interior space. It is of simple, economical construction with a flat roof and large metal-rail divided windows. The building has been under many owners — or had many tenants — since 2000.
 
+[The former Primo Art Company building is currently for sale](//www.crexi.com/properties/602932/rhode-island-891-n-main-street){:target="_blank"}. And there are some interior photos here as well.
+{:.o__tldr}
 
 ### History
 
@@ -72,4 +82,4 @@ The original owner/builder was Primo Art Company, a producer of plaster and cast
 + Was the location of “Laugh Track” in December, 2018
 + Was the location of “Yukon Gold” in September, 2018
 + Was the location of a RISD Student show called “Birds of Prey” in 2018
-+ Was the home to [Pneuhaus, LLC](//www.pneu.haus){:target="_blank"}, who later moved to Rumford. They create inflatable event structures and furniture 
++ Was the home to [Pneuhaus, LLC](//www.pneu.haus){:target="_blank"}, who later moved to Rumford. They create inflatable event structures and furniture

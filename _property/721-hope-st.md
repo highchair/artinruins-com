@@ -42,8 +42,12 @@ images:
 - url: davis-dairy-jh-2021-05-01.jpg
 - url: davis-dairy-jh-2021-05-02.jpg
 - url: davis-dairy-jh-2021-05-03.jpg
+- url: davis-dairy-ja-2021-06-01.jpg
+  caption: 'Drone photo by Jason Allard, Uncommon Sense Media'
+- url: davis-dairy-ja-2021-06-02.jpg
+  caption: 'Drone photo by Jason Allard, Uncommon Sense Media'
 
-imagescredit:
+imagescredit: 'Contribution from <a href="//www.uncomsensemedia.com" target="_blank">Jason Allard, Uncommon Sense Media</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

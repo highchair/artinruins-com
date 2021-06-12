@@ -53,12 +53,14 @@ This ornate home had a long history of being prominently owned by one of the mor
 
 [^1]: Report written by Judith Barlow for the Gowdey Research Database at the Providence Preservation Society. Captured May 29 from https://gowdey.ppsri.org/gowdey/Brownell%20Street/57%20Brownell%20Street%20-%20MOWRY-NICHOLSON%20HOUSE.pdf
 
-It was a single-family home until the 1920s when it was sold and converted to a boarding house owned by J. T. McCabe. It remained a boarding house until 1997. A fire at the time put the future of the house in danger as the owner wanted to demolish it for a parking lot. Pressure from neighborhood groups and the Providence Preservation Society ultimately saved the building which led to a sale in 2002 for $175,000. An extensive renovation took place and the house was a bed and breakfast run by the same folks as the Christopher Dodge House until 2010 or 2019.
+It was a single-family home until the 1920s when it was sold and converted to a boarding house owned by J. T. McCabe. It remained a boarding house until 1997. A fire at the time put the future of the house in danger as the owner wanted to demolish it for a parking lot. Pressure from neighborhood groups and the Providence Preservation Society ultimately saved the building which led to a sale in 2002 for $175,000. An extensive renovation took place and the house was a bed and breakfast run by the same folks as the Christopher Dodge House until 2010.
+
+The renovation won an award from the Providence Preservation Society for “Commercial Rehab/Restoration” in 2003 in conjunction with a renovation of the Christopher Dodge House at 11 West Park Street (one block away). The collaboration of building owners and developers Kenneth Parker, Frank Hopton, and Michael Integlia, Jr. with architect Joseph Cornwall spearheaded the project.
 
 
 ### Current Events
 
-We are not sure what the current state of the house is except to say that it is still standing. It was sold in 2010 for $875,000 according to tax records but then in 2019 it sold again for $309,000 — a substantial decrease. We know it is no longer a bed and breakfast but are unsure of how it is being used.
+The Mowry-Nicholson House is no longer a bed and breakfast but was purchased by the Amos House in 2010. It is one of their “sober houses” used for a 90-day addition recovery program.
 
 
 ### History

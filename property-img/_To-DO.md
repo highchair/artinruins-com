@@ -17,7 +17,7 @@ _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS a
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
-_by Gregory Smith_  
+_by Gregory Smith_
 **Providence Journal** | December 4, 2003 (abridged)
 
 caption: 'Photo by Robert Brewster, HABS/HAER, 1981'
@@ -28,6 +28,9 @@ caption: 'Providence Historical Aerial Viewer 1972'
 ## Footnotes
 [^1]
 [^1]: Content of footnote
+
+## Classes
+{:.o__tldr} – Yellow background infobox
 
 #### Sources
 
@@ -62,14 +65,14 @@ content in markdown form
 
 
 ## Anecdotes
-+ Search for [link needed] every now and again to add property links to anecdotes. Must be Markdown form. 
++ Search for [link needed] every now and again to add property links to anecdotes. Must be Markdown form.
 
 
 # Brussat's list of the 10 Best Lost buildings in Providence, 2014
 https://www.providencejournal.com/article/20140327/OPINION/303279890
 
 # Click tracking
-+ Use GA to track the clicks on Surprise Me. I'd be interested to know if people use it. 
++ Use GA to track the clicks on Surprise Me. I'd be interested to know if people use it.
 
 # 101 North Main St and Two Thomas Street
 + Add links to those properties from the East Side Train Tunnel property page
@@ -82,7 +85,7 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 + Go take a new picture of the remains and the cannonball safe
 
 # Cranston Open-Air Cycledrome
-+ Providence dome uses a photo that is actually a Cranston track. Research and add a page for it. 
++ Providence dome uses a photo that is actually a Cranston track. Research and add a page for it.
 
 # Dean Hotel
 * Kept some notes for the Dean Hotel in the New New Photos folder
@@ -110,7 +113,7 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 * https://www.valleybreeze.com/2015-08-04/pawtucket/georges-games-building-would-be-leveled-part-apex-plan#.X7AUwy9h2jQ
 
 # Gilder Center for the Arts, Wheeler School
-# Swapped houses with the Vedanta Society. Used to own 224 Angell St, stucco three story house. 
+# Swapped houses with the Vedanta Society. Used to own 224 Angell St, stucco three story house.
 https://www.google.com/maps/place/227+Angell+St,+Providence,+RI+02906/@41.828282,-71.3988607,3a,75y,24.67h,92.87t/data=!3m7!1e1!3m5!1smQ3bWQzQfdpS-OJmFRWdOQ!2e0!5s20110901T000000!7i13312!8i6656!4m13!1m7!3m6!1s0x89e44524e9ffccb9:0x2268c6e80555fcd!2s227+Angell+St,+Providence,+RI+02906!3b1!8m2!3d41.8281639!4d-71.3983716!3m4!1s0x89e44524e9ffccb9:0x2268c6e80555fcd!8m2!3d41.8281639!4d-71.3983716
 
 # Grove Street School
@@ -128,7 +131,7 @@ https://www.google.com/maps/place/227+Angell+St,+Providence,+RI+02906/@41.828282
 + Research this place, another athletic field owned and run by the guy that started the Cyclodrome. Mentioned in the essay.
 
 # Millrace in Woonsocket
-+ Many small buildings, a large mill, and public park space turned into housing. Neighborworks was the developer. Former Hardware store building used as business incubator. 
++ Many small buildings, a large mill, and public park space turned into housing. Neighborworks was the developer. Former Hardware store building used as business incubator.
 
 # Moshassuck Square Historic District 1972
 + Already have American Screw… can add the old boiler building on the corner, former Bark street, as well as Canal House and the Stillman White and Fletcher Manufacturing Company. And that rounded corner building that is still part of the Providence Center.
@@ -158,10 +161,10 @@ https://www.google.com/maps/place/227+Angell+St,+Providence,+RI+02906/@41.828282
 * There is a photo of this building from 1977 in the Downtown Providence Historic District for the National Register
 
 # Sarah Doyle Women's Center Meeting Street
-+ The new Brown Biomed expansion on Meeting Street in 2006 demolished this contributing building owned by the University listed in a College Hill survey as the Mary H. Parsons House. 
++ The new Brown Biomed expansion on Meeting Street in 2006 demolished this contributing building owned by the University listed in a College Hill survey as the Mary H. Parsons House.
 
 # Silver Spring
-* Find the old photos and rescan them. All are poor quality. 
+* Find the old photos and rescan them. All are poor quality.
 
 # “Stuck Up” Bridge over Seekonk River
 + Add a link to this property from the East Side Train Tunnel property page
@@ -188,9 +191,9 @@ WARWICK – Demolition of the 19th-century Elizabeth Mill has begun in preparati
 * Trolley Barn 2005-06-01 P1010199.JPG, P1010198.JPG (trolley-barn-jh-2005-06-05.jpg), P1010205.JPG, P1010204.JPG (trolley-barn-jh-2005-06-07.jpg)
 
 # Movies
-* Dumb and Dumber: South Water St in the opening. TF Green exterior 6:30 (of course, in the terminal, it's another airport. 21m in, Big Blue Bug off the highway. While there is a rumor that the circular Gulf station served as a Bus terminal, I could not see that in the movie itself. Maybe a deleted scene? 
+* Dumb and Dumber: South Water St in the opening. TF Green exterior 6:30 (of course, in the terminal, it's another airport. 21m in, Big Blue Bug off the highway. While there is a rumor that the circular Gulf station served as a Bus terminal, I could not see that in the movie itself. Maybe a deleted scene?
 
-* Scenes of 27 Dresses was filmed inside 139 Point Street (ITEM) in 2007 or so. 
+* Scenes of 27 Dresses was filmed inside 139 Point Street (ITEM) in 2007 or so.
 
 * Polka King filmed in Pawtucket. Interior shot of Modern Diner and Tony Estrella on stage as presenter for Ms. Pennsylvania pageant. Also filmed in Woonsocket. Scene filmed in Benny’s parking lot, old prison in Warwick, and Route 10 in Cranston. https://www.providencejournal.com/news/20170627/the-polka-king-filmed-in-ri-picked-up-by-netflix
 

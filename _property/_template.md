@@ -1,12 +1,12 @@
 ---
 title: ""
-slug: 
-aka: 
-date-modified: 2021-04-00 12:00
+slug:
+aka:
+date-modified: 2021-06-00 12:00
 
-built: 
-demolition: 
-redeveloped: 
+built:
+demolition:
+redeveloped:
 units:
 decade: '1940-1949'
 date-added:
@@ -29,19 +29,19 @@ gmap: ""
 meta: ""
 excerpt: ""
 
-#thumbnail: 
+#thumbnail:
 
 #images:
 #  - url: hope-st-auto-jh-01.jpg
 
-imagescredit: 
+imagescredit:
 
 #external:
 #  - source: 'Providence Journal (permalink)'
 #    url: https://perma.cc/MQ4Z-Z9K4
 ---
 
-For Urban Decay: 
+For Urban Decay:
 ### Last Tenant
 #### Architecture
 ### Current Events
@@ -60,7 +60,7 @@ For Used to Be There
 ### History
 ### In the News
 
-For What are they Building: 
+For What are they Building:
 ### Proposal
 ### Design Reception
 ### In the News
