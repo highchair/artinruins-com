@@ -2,9 +2,10 @@
 
 source "https://rubygems.org"
 
-gem "jekyll", ">=4.1.0"
+gem "jekyll", ">=4.2.0"
 gem "jekyll-watch", ">=2.0.0"
-gem 'jekyll-autoprefixer', ">=1.0.0"
+gem "jekyll-autoprefixer", ">=1.0.0"
+gem "execjs", "=2.7.0"
 gem "jekyll-github-metadata"
 gem "jekyll-responsive-image", ">=1.5.0"
 gem "liquid", ">=4.0.0"
