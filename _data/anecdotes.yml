@@ -12,6 +12,20 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: gateway-building
+  person: 'Peter Gallant'
+  date: '2010-11-24'
+  content: 'Somebody told me that the American Express building downtown was finally sold this week. Is that true? If so, any info? Thanks.'
+
+- property: gateway-building
+  person: 'Doug'
+  date: '2008-05-21'
+  content: 'I worked here in 1993 and 1994 when it was The Shareholder Services Group. It’s a nice, modern office building, and having worked in a number of places in Providence, I appreciated that it was nice and modern. I have no idea why this building would sit vacant.'
+
+- property: gateway-building
+  person: 'M.W. Beaudoin'
+  content: 'FYI, this bldg. is in the midst of renovations as temporary space for Fidelity pending their new expasion in Smithfield (as of 8/06). I worked on it some years ago as it was being constructed (1988?)'
+
 - property: maine-creamery-co
   person: 'Pat C'
   date: '2016-08-10'
