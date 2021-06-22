@@ -1,12 +1,12 @@
 ---
 title: "Farnum Hall at RISD"
 slug: farnum-hall
-aka: 
+aka:
 date-modified: 2020-08-26 12:00
 
 built: 'circa 1920'
 demolition: '2011'
-redeveloped: 
+redeveloped:
 decade: '1920-1929'
 date-added: '2011'
 categories: [ '#UsedToBeThere' ]
@@ -51,14 +51,14 @@ imagescredit: 'Contributions from Google Streetview, Daniel Penfield for Wikimed
 
 ### Reason for Demolition
 
-Somewhat sadly, the one-time east side residence hall for the Rhode Island School of Design outlived its usefulness as a dormitory. It was erected in the mid 20s and was constructed quickly and cheaply. Extensive damage to the foundation from years of being built atop the [East Side Train Tunnel]({% link _property/east-side-train-tunnel.md %}) took its toll. Fancier accommodations at 15 West (the former [Hospital Trust building]({% link _property/hospital-trust.md %})) could house 500 more students, so Farnum Hall was no longer needed and not viable for repair and rehabilitation. 
+Somewhat sadly, the one-time east side residence hall for the Rhode Island School of Design outlived its usefulness as a dormitory. It was erected in the mid 20s and was constructed quickly and cheaply. Extensive damage to the foundation from years of being built atop the [East Side Train Tunnel]({% link _property/east-side-train-tunnel.md %}) took its toll. Fancier accommodations at 15 West (the former [Hospital Trust building]({% link _property/hospital-trust-no2.md %})) could house 500 more students, so Farnum Hall was no longer needed and not viable for repair and rehabilitation.
 
-It seems as though RISD put in a good effort to study the feasibility of saving the building. Eventually the Providence Historic District Commission granted the request for demolition. To RISD’s credit, a lovely bit of green space has been created in its place in a dense College Hill residential neighborhood. 
+It seems as though RISD put in a good effort to study the feasibility of saving the building. Eventually the Providence Historic District Commission granted the request for demolition. To RISD’s credit, a lovely bit of green space has been created in its place in a dense College Hill residential neighborhood.
 
 
 ### Current Events
 
-The plat where Farnum Hall once stood is green space with an overlook view of parts of downtown and Smith Hill. The design of the green space seems to reflect the ghost of Farnum Hall’s central plan design. 
+The plat where Farnum Hall once stood is green space with an overlook view of parts of downtown and Smith Hill. The design of the green space seems to reflect the ghost of Farnum Hall’s central plan design.
 
 
 ### History
@@ -78,7 +78,7 @@ Royal Bailey Farnum (11 June 1884 – 28 August 1967) was an American art educat
 
 #### Farnum Hall
 
-_Mathew McNamara_  
+_Mathew McNamara_
 **All-Nighter.com** | January 19, 2011, captured August 15, 2011. https://all-nighter.com/news/farnum-hall/ (now defunct)
 
 On Congdon Street stands an abandoned building over eighty years old. Located between RISD’s own Congdon house, local Providence housing and America’s First Black Baptist Church, its garden-style typology and grey worn bricks exude aged charm. All good things, however, must come to an end. For Farnum Hall, that end will come after Graduation week of this year, when it will be demolished.

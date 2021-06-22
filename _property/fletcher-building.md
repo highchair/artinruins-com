@@ -1,11 +1,11 @@
 ---
 title: "William Fletcher building"
 slug: fletcher-building
-aka: 
+aka:
 date-modified: 2020-11-22 12:00
 
 built: '1895-1903'
-demolition: 
+demolition:
 redeveloped: '1998–2004'
 decade: '1890-1899'
 date-added: '2005'
@@ -38,7 +38,7 @@ images:
   - url: fletcher-jh-2005-11-01.jpg
   - url: fletcher-jh-2021-02-01.jpg
 
-imagescredit: 
+imagescredit:
 ---
 
 ### Redevelopment
@@ -49,16 +49,16 @@ While the interior renovations went quickly, and reused the old doors and window
 
 We were able to take the shots from the Union Street side of the building so well because the demolition of [Traveller’s Aid]({% link _property/grants-block-pvd.md %}) was occurring next door.
 
-These two buildings (Mason and Fletcher) are part of <span class="abbr">RISD</span>’s expansion into downtown in the 2000s. The former [Hospital Trust]({% link _property/hospital-trust.md %}) building was renovated for student housing and the newly expanded <span class="abbr">RISD</span> library, and an ambitious new [Student Center and Museum]({% link _property/chace-center-risd.md %}) extension broke ground in 2006 on South Main Street.
+These two buildings (Mason and Fletcher) are part of <span class="abbr">RISD</span>’s expansion into downtown in the 2000s. The former [Hospital Trust]({% link _property/hospital-trust-no2.md %}) building was renovated for student housing and the newly expanded <span class="abbr">RISD</span> library, and an ambitious new [Student Center and Museum]({% link _property/chace-center-risd.md %}) extension broke ground in 2006 on South Main Street.
 
 
 ### Current Events
 
-The Fletcher building still houses graduate student programs and studios. Ground-floor retail along Union Street has been replaced by <span class="abbr">RISD</span> Co-works — a “maker” studio —  while Gourmet Heaven has become Serendipity Gourmet. 
+The Fletcher building still houses graduate student programs and studios. Ground-floor retail along Union Street has been replaced by <span class="abbr">RISD</span> Co-works — a “maker” studio —  while Gourmet Heaven has become Serendipity Gourmet.
 
 
 ### History
 
-_From RIHPHC’s Survey of Downtown Providence, 1984_ 
+_From RIHPHC’s Survey of Downtown Providence, 1984_
 
 **Fletcher building** (ca. 1895; 1903) — George Waterman Cady, architect; 5-story, brick-sheathed, steel-frame structure with mid-century storefronts; main entrance in quoined pavilion on Union Street; 5-bay facade of pier and recessed spandrel system with Chicago window infill second through fifth stories culminating with panels and cartouches above which are simple rectangular windows and round headed windows on top floor. Built as an office structure in the late 1890s, the Fletcher building was extensively remodeled in 1903 when the top three stories were added. It continues to function as an office building.
