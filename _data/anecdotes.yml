@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: gorham-manufacturing-co
+  person: 'Sister Marie Tellier'
+  date: '2021-06-19'
+  content: 'My dad Lawrence Anatole Tellier worked at Gorhams when jewelry with precious stones and metals were being made for the shah of Iran. It had to be before 1944 when my family of origin was living in D.C. Do you have any records of this name?'
+
 - property: gateway-building
   person: 'Peter Gallant'
   date: '2010-11-24'
