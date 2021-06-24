@@ -14,12 +14,11 @@ DOMElement.addEventListener('click',callback);},removeBanner:function(wait){var 
 
 // Set up the Cookie Consent Banner
 new CookiesEuBanner(function () {
- (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create','UA-817925-2','auto');
-  ga('send','pageview');
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-817925-2');
 }, true);
 
 // Ajax request for external Anecdote Form
@@ -52,13 +51,13 @@ var executeLoadAnecdoteForm = setTimeout(loadAnecdoteForm, 15000);
 document.addEventListener("DOMContentLoaded", function() {
   document.body.classList.remove("no-js");
   document.body.classList.add("js");
-  
+
   // Remove the aria-hidden from the cookie banner
   var cookieBanner = document.getElementById("cookies-eu-banner");
   if (cookieBanner !== null && cookieBanner !== '') {
     cookieBanner.setAttribute("aria-hidden", "false");
   }
-  
+
   // Check all external anchors and add a title
   const extanchors = document.querySelectorAll('[target="_blank"]');
 	extanchors.forEach(anchor => {

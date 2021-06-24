@@ -4,7 +4,7 @@
 {%- assign meta_description = site.description -%}
 {%- assign meta_image = "artinruins-social-card.jpg" | prepend: site.image_path | prepend: site.baseurl -%}
 {%- comment -%}
-  
+
   Page Title, order of importance
   - By default, meta_title is the site title only
   - If this is a property item, form a title with the page.title and add the trailer
@@ -39,22 +39,23 @@
   {%- endif -%}
 {%- endif -%}
   <head>
-    <meta charset="utf-8">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-817925-2"></script>
     <link rel="dns-prefetch" href="https://use.typekit.net">
+    <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  
+
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.title }}">
-    
+
     <title>{{ meta_title }}</title>
     <meta name="twitter:site" content="@artinruins">
     <meta name="description" content="{{ meta_description | strip_html | truncate: 140 }}">
     <meta property="og:image" content="{{ site.url }}{{ meta_image }}">
     {%- if page.categories -%}<meta property="og:article:section" content="{{ page.categories.first | strip_html }}">{%- endif -%}
-    {%- if page.date-modified -%}<meta property="og:article:modified_time" content="{{ page.date-modified }}">{%- endif -%}     
-    
+    {%- if page.date-modified -%}<meta property="og:article:modified_time" content="{{ page.date-modified }}">{%- endif -%}
+
     <link rel="stylesheet" type="text/css" href="{{ '/' | relative_url }}assets/css/main.css?{{ "now" | date: "%Y%m%d-%H%M" }}">
     <link rel="apple-touch-icon" sizes="180x180" href="{{ '/' | relative_url }}assets/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ '/' | relative_url }}assets/favicons/favicon-32x32.png">
