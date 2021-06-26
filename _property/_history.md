@@ -174,9 +174,9 @@ Redeveloped
 + the Alice Building (added 2004, expanded 2005)
 + the Dreyfus Hotel
 + RISD's Fletcher bldg.
-++ Hive Archive
++ Hive Archive
 + Brown Hillel
-++ RI Hospital Trust bldg
++ RI Hospital Trust / Fleet Library @ RISD
 + Monohasset Mills
 + the Mowry-Nicholson House
 ++ Splinters Sports Pub
@@ -195,7 +195,7 @@ RIP
 
 Urban Decay
 + 395 Promenade Street / (formerly thought to be HP Hood) Maine Creamery Co.
-++ American Express bldg
++ American Express bldg / Gateway Building
 + Engle Tire & Providence Auto Ignition
 + Old Colonial Bank, Pawtucket
 
@@ -238,7 +238,7 @@ Urban Decay
 + Lincoln Amusement Park
 + M. N. Cartier & Sons Co. / 1107 Westminster
 + The Milk Can
-++ Rolo Building / DM Watkins Co.
++ Rolo Building / DM Watkins Co.
 
 
 ## 2007

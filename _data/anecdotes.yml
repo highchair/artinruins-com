@@ -12,6 +12,23 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: d-m-watkins
+  person: 'Gary'
+  date: '2008-06-23'
+  content: 'This building is finally undergoing construction and will open this fall as the new student center containing the Student academic services and Student Financial services.'
+
+- property: d-m-watkins
+  person: 'Guest'
+  content: 'I have plans in front of me showing the building to be renovated and used possibly as a registrar’s office?'
+
+- property: d-m-watkins
+  person: 'Bob E'
+  content: 'I have seen this building alot. It’s fairly amazing how recent the “jewelry” district just kind of died and became something else. I used to commute to RI College and working in the city circa 1979-1983 I used to pass by these buildings and I recall many of them still had activity, employees etc. When exactly did these all sort of die off? It seemed like it was in the mid to late 80’s. The changes over time in any city can be amazing and predictable but the changes to Providence in the last 10-20 years I find shocking in the speed at which they have taken place. And not always good changes which makes them ever more shocking. I remember a lot of these old buildings became fly-by-night ad agencies back in the 80’s and most of those also just collapsed when companies took their advertising back in-house.'
+
+- property: d-m-watkins
+  person: 'Ari Heckman'
+  content: 'From what I am told, J&W is going to try to reuse this building for classrooms and admin space, and build around it if necessary.'
+
 - property: gorham-manufacturing-co
   person: 'Sister Marie Tellier'
   date: '2021-06-19'
