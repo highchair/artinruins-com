@@ -6,20 +6,23 @@ date-modified: 2020-11-03 12:00
 
 built: '1923-1925'
 demolition: '2012'
-redeveloped: 
+redeveloped:
 decade: '1920-1929'
 date-added: '2020'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: []
+lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
 tags: [ 'Bars, Businesses, & Restaurants', 'College Properties', 'Johnson & Wales University', 'Yellow brick' ]
 
 address: '35 Richmond Street, Providence RI'
 latitude: '41.820566'
 longitude: '-71.4143006'
 gmap: "https://www.google.com/maps/place/35+Richmond+St,+Providence,+RI+02903/@41.820566,-71.4143006,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44514a0a8f359:0xad5e4082c6bc45aa!8m2!3d41.820566!4d-71.4121119"
+
+NRHP-ref-number: '1140613 (contributing)'
+added-to-NRHP: 'October 2007'
 
 meta: ""
 excerpt: "A small commercial building surrounded by parking lots razed for an 800 car parking garage for Johnson & Wales University"
@@ -34,6 +37,8 @@ images:
     caption: 'Photo from Bob Meyers circa 2003'
   - url: mirabar-bm-2003-03.jpg
     caption: 'Photo from Bob Meyers circa 2003'
+  - url: rogers-co-je-2007-01.jpg
+    caption: 'Photo by Jeffrey Emidy, July 2007, from the expansion of the Providence Downtown Historic Histrict nomination form'
   - url: mirabar-gsv-2011-01.jpg
     caption: 'Photo from Google Streetview circa 2011'
   - url: mirabar-gsv-2011-02.jpg
@@ -54,12 +59,12 @@ imagescredit: 'Contributions from Bob Meyers, Google Streetview, and Jef Nickers
 
 ### Reason for Demolition
 
-In early 2012, Johnson & Wales University proposed acquiring this building to demolish it and build a student and faculty parking garage. The building was the only one on a block of surface parking lots not owned by the University. The University purchased the building and gave time to the owners of Mirabar to find a new location before demolition late in the year. 
+In early 2012, Johnson & Wales University proposed acquiring this building to demolish it and build a student and faculty parking garage. The building was the only one on a block of surface parking lots not owned by the University. The University purchased the building and gave time to the owners of Mirabar to find a new location before demolition late in the year.
 
 
 ### Current Events
 
-Johnson & Wales University built a 6-level parking garage with street level offices at this location. 
+Johnson & Wales University built a 6-level parking garage with street level offices at this location.
 
 
 ### History
