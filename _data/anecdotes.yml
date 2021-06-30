@@ -12,6 +12,10 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: lilly-building
+  person: 'Judith Babbitt'
+  content: 'I am trying to locate a Joseph Volpe (or his family). He worked at Hermanns in 1966. Any information you would have would be appreciated. He was a friend of Barbara Perkins who worked there at the time.'
+
 - property: d-m-watkins
   person: 'Gary'
   date: '2008-06-23'
