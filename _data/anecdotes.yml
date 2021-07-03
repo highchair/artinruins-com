@@ -12,6 +12,14 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: modern-diner
+  person: 'Donna'
+  content: 'My mom and her sister sat with their 17 year old brother for lunch in 1942. My mom was his legal guardian at the time. He begged her to sign enlistment papers for the Navy. She did, and she never saw her brother again. He was washed overboard somewhere near Itlaly. Every time we drove by that diner she would point and cry. Sorry about the sad memory. I wish I had a picture of the dinner in his memory.'
+
+- property: modern-diner
+  person: 'Richard C Parker'
+  content: 'My Granddad owner of EB Parker trucking of Amesbury MA delivered frieght to JB Judkins in the 1930s and 40s and as a boy and teenager I was there with him many times. Fond memories.'
+
 - property: lilly-building
   person: 'Judith Babbitt'
   content: 'I am trying to locate a Joseph Volpe (or his family). He worked at Hermanns in 1966. Any information you would have would be appreciated. He was a friend of Barbara Perkins who worked there at the time.'
