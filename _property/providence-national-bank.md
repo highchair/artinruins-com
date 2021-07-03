@@ -1,7 +1,7 @@
 ---
 title: "Providence National Bank"
 slug: providence-national-bank
-aka: 
+aka:
 date-modified: 2020-05-02 21:47
 
 built: 1929, 1950s
@@ -52,16 +52,20 @@ imagescredit: Contributions by Alex Carr and Kevin James.
 ---
 
 ### Reason for Demolition
-A proposed new 32-story condo tower proposal called the [One Ten Westminster]({% link _property/one-ten-westminster.md %}) was proposed for this site and caused quite a hub-bub. The full news story is below. 
+A proposed new 32-story condo tower proposal called the [One Ten Westminster]({% link _property/one-ten-westminster.md %}) was proposed for this site and caused quite a hub-bub. The full news story is below.
 
 ### Current Events
-The condo tower was never built. Fifteen years later (in 2020), a parking lot is the only thing at this location aside from the stabilized (but deteriorating) facade of the 1940s bank extension at 50 Weybosset Street. 
+The condo tower was never built. Fifteen years later (in 2020), a parking lot is the only thing at this location aside from the stabilized (but deteriorating) facade of the 1940s bank extension at 50 Weybosset Street.
+
+Jason Allard produced a video about the remaining bank façade on YouTube called “[Abandoned Providence National Bank Façade](//www.youtube.com/watch?v=9sXkm8aAfsc){:target="_blank"}” in June of 2021.
+
 
 ### History
 
-The building had been officially determined a contributing structure to the architectural and historical significance of the Downtown Historic District, which is listed on the National Register of Historic Places. The building at 90 Westminster arguably would have been eligible for National Register listing on its own merits. It was significant because of its quality as an example of a Georgian Revival commercial architecture of the early 20th century, and the fact that it was built to be the headquarters of Rhode Island’s oldest bank. 
+The building had been officially determined a contributing structure to the architectural and historical significance of the Downtown Historic District, which is listed on the National Register of Historic Places. The building at 90 Westminster arguably would have been eligible for National Register listing on its own merits. It was significant because of its quality as an example of a Georgian Revival commercial architecture of the early 20th century, and the fact that it was built to be the headquarters of Rhode Island’s oldest bank.
 
 Two blocks on the second story had two dates carved: 1791 and 1929. 1929 was the date the building was constructed while 1791 most likely denotes the incorporation of the Providence National Bank Company. At the time that it was built (1929), it was noted for its expansive use of glass. Later, in 1937, it was called one of the best modern commercial buildings in the state. In 2005 it was demolished for the 110 Westminster project, which was never built.
+
 
 ### In the News
 
@@ -70,7 +74,7 @@ Two blocks on the second story had two dates carved: 1791 and 1929. 1929 was the
 A city ordinance preventing demolition is voided by a Superior Court judge.
 {: .o__lead }
 
-_By Gregory Smith_  
+_By Gregory Smith_
 **Providence Journal** | February 25, 2005
 
 A joint venture of Providence and Boston developers plans to build a $90-million, luxury condominium tower on Westminster Street in the city’s business center. The 32-story tower would be the first skyscraper built in the Financial District in 20 years, since the Fleet Center opened across Westminster Street from the project site.

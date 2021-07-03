@@ -214,14 +214,15 @@ Historic
 
 Still In Use
 ++ 372 West Fountain Street
+++ 383 West Fountain Street (was never demolished)
 ++ the Holiday Inn / new Hilton
 ++ Jones Warehouse
 ++ Lincoln Mall
-++ Modern Diner
++ Modern Diner
 
 Redeveloped
 ++ 755 Westminster Street
-++ American Locomotive Works, for. US Rubber
+++ American Locomotive Works
 ++ Calender Mills
 + Firehouse 13
 + L. Vaughn Company / 1153 Westminster St
@@ -229,7 +230,6 @@ Redeveloped
 ++ The Grant
 
 RIP
-++ 383 West Fountain Street (was never demolished)
 + Second Universalist Church
 
 Urban Decay
