@@ -127,7 +127,7 @@ _All photos and documentation taken from the [National Register nomination form]
 This is a complex of factory buildings of brick, timber and iron construction with stone and wood trim, dating mainly from c.1800 to 1873. Those factories were erected on land at the north end of Providence sloping upwards to the east from the Moshassuck River, which, at the time the earliest of them were built, formed a part of the Blackstone Canal system. The principal buildings are three or four storeys in height, mostly rectangular in form, with gable roofs and protruding stair towers, and generally with vast undivided loft space.
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-4">
+  <a href="#photo-amerscrew-habs-building-1">
     <img src="{{ site.propimg_path }}{{ page.slug }}/amerscrew-habs-building-1.jpg" alt="" />
   </a>
   <figcaption>
@@ -142,7 +142,7 @@ The first of these to be built was that of the **Eagle Screw Company**, a length
 The original long building was given a gabled south wing of three storeys — making a P-shape — with an additional stair tower, but this was apparently not adequate for very long. Much later this addition itself was extended [upward] and given a mansard roof. 
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-14">
+  <a href="#photo-amerscrew-habs-building-2">
     <img src="{{ site.propimg_path }}{{ page.slug }}/amerscrew-habs-building-2.jpg" alt="" />
   </a>
   <figcaption>
@@ -155,7 +155,9 @@ The original long building was given a gabled south wing of three storeys — ma
 To the southeast of the c. 1840 structure another similar factory was built, probably within ten years of the first one; but this does not have a clerestorey or a belfry. (Samuel N. Green writes, 1966, in his _American Art_ that Thomas A. Tefft may have designed the Eagle Screw Company. 1840 is too early a date for Tefft. It is possible that he worked on this second factory, however.) These oldest buildings remain intact in their fabric and  handsome in their functional simplicity and severe dignity.
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <img src="{{ site.propimg_path }}{{ page.slug }}/amerscrew-habs-building-6.jpg" alt="" />
+  <a href="#photo-amerscrew-habs-building-6">
+    <img src="{{ site.propimg_path }}{{ page.slug }}/amerscrew-habs-building-6.jpg" alt="" />
+  </a>
   <figcaption>
     Photo by Laurence Tilley for HABS/HAER and the National Register
   </figcaption>
@@ -166,7 +168,7 @@ To the southeast of the c. 1840 structure another similar factory was built, pro
 Further factory space became needed after 1860, when the **Eagle Screw Company** merged with another firm to form the **American Screw Company**, and a second phase and style of building took place. A large triangular mill or factory was built higher up the slope, east of the c. 1840 building and north of the second factory. Enlargements were also made to the previously existing buildings. All this work is thought to be by a prominent mid-century Providence architect, Alpheus Morse, — and could be dated c. 1865-1870. Morse was the designer of 30 Benefit Street (1869), the home of William G. Angell, president of the American Screw Company for many years. Detail on his house is like that of these mill buildings. The additions to the mills consist of two- and three-storey runs and corner blocks topped by decked mansard roofs, high and angular in profile. These mansards cap still-severe brick walls with plain window openings; but there are at the eaves wooden architrave hands surmounted by projecting wooden cornices carried on curving brackets; there are hold capping cornices also at the break of the mansards; and all of the dormers are pedimented or gabled, with overhanging eaves, some being bracketted as well.
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-4">
+  <a href="#photo-amerscrew-habs-1970-03">
     <img src="{{ site.propimg_path }}{{ page.slug }}/amerscrew-habs-1970-03.jpg" alt="" />
   </a>
   <figcaption>
