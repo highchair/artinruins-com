@@ -13,7 +13,7 @@ date-added: '2003'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Frederick Howe' ]
+designers: [ 'Frederick Howe', 'Foundry Associates' ]
 people: [ 'Joseph R. Brown', 'Lucian Sharpe', 'Thomas McFarlane', 'Richmond Viall' ]
 lists: [ 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981', 'Providence’s Five Industrial Wonders' ]
 tags: [ 'The Superlatives' ]
@@ -157,7 +157,7 @@ Between 2005 and 2017, a big push to turn the unoccupied buildings into resident
 
 The buildings were maintained fairly well while they were empty, but the redevelopment has made them much better as a whole. The complex is a vibrant mix of commercial and residential steps away from the train station and with roofdeck views of the Woonasquatucket River, the State House, and, well, the highway. With their proud history, it is a benefit to the City that they were saved and reused in this fashion. 
 
-At its height, **Brown & Sharpe** revolutionized the way machine parts were engineered and manufactured, allowing the companies that pruchased their products to make more and faster and with easy to replace parts. They had a prominent role as a catalyst in the 19th-century industrial revolution and occupied this site for almost 100 years. 
+At its height, **Brown & Sharpe** revolutionized the way machine parts were engineered and manufactured, allowing the companies that purchased their products to make more and faster and with easy to replace parts. They had a prominent role as a catalyst in the 19th-century industrial revolution and occupied this site for almost 100 years. 
 
 #### Other Links
 
