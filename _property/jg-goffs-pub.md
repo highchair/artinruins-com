@@ -73,7 +73,7 @@ Local legend, bar owner, and bartender John “JR” Richard used to tend at JG 
 #### J.G. Goff’s Pub On Point Street Was Condemned And Is Considered To Be A Safety Hazard
 
 _By Karen Davis_  
-**Providence Journal | December 3, 2004 (abridged)**
+**Providence Journal** | December 3, 2004 (abridged)
 
 City officials have approved a proposal to demolish a historic building that was damaged by contractors working on the Narragansett Bay Commission’s combined sewage overflow tunnel last year. The building, which formerly housed J.G. Goff’s Pub, at 7 Point St., was closed last December after work on the multimillion dollar sewer project damaged the brick tavern’s foundation and walls.
 
