@@ -1,18 +1,18 @@
 ---
 title: "Vedanta Society addition"
 slug: vedanta-society-addition
-aka: 
+aka:
 date-modified: 2020-11-11 12:00
 
 built: '2010-2012'
 demolition: '2010'
-redeveloped: 
+redeveloped:
 decade: '2010-2019'
 date-added: '2012'
 categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'East Side', 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'KITE Architects' ]
+designers: [ 'KITE Architects', 'TRAC Builders' ]
 lists: []
 tags: []
 
@@ -43,24 +43,24 @@ imagescredit: 'Contributions from TRAC Builders and Warren Jagger'
 
 ### Proposal
 
-The Vedanta Society of Providence is a branch of the Ramakrishna Order in India and was founded by Swami Akhilananda in 1928. Vedanta is the philosophical foundation of Hinduism, but it is universal in its application, being relevant to all countries, all cultures, and all religious backgrounds of all times. “Vedanta” is a combination of two words: _Veda_ means “knowledge” and _anta_ means “the end of” or “the goal of.” 
+The Vedanta Society of Providence is a branch of the Ramakrishna Order in India and was founded by Swami Akhilananda in 1928. Vedanta is the philosophical foundation of Hinduism, but it is universal in its application, being relevant to all countries, all cultures, and all religious backgrounds of all times. “Vedanta” is a combination of two words: _Veda_ means “knowledge” and _anta_ means “the end of” or “the goal of.”
 
-The Society has a complicated history of building ownership on the East Side: 
+The Society has a complicated history of building ownership on the East Side:
 
 1930
-: The newly formed Society purchases 224 Angell Street on the corner of Cabot Street, having previously rented space at 241 Weybosset Street. The house is renovated to become a chapel and the swami’s living quarters. 
+: The newly formed Society purchases 224 Angell Street on the corner of Cabot Street, having previously rented space at 241 Weybosset Street. The house is renovated to become a chapel and the swami’s living quarters.
 
 1996
-: The Society acquired a house across the street at 221 Angell and renovates it into a women’s guest house. 
+: The Society acquired a house across the street at 221 Angell and renovates it into a women’s guest house.
 
 2000
-: The Wheeler School and the Society swap properties: 224 Angell is exchanged for a larger house at 227. The Society now owns two adjacent properties — 221 and 227 — and also purchases the vacant lot at 233 for parking. Wheeler will demolish the house at 224 in 2014 for their Gilder Center for the Arts expansion. Cabot street is abandoned and becomes part of the campus at this time as well. 
+: The Wheeler School and the Society swap properties: 224 Angell is exchanged for a larger house at 227. The Society now owns two adjacent properties — 221 and 227 — and also purchases the vacant lot at 233 for parking. Wheeler will demolish the house at 224 in 2014 for their Gilder Center for the Arts expansion. Cabot street is abandoned and becomes part of the campus at this time as well.
 
 October 15, 2010
-: Ground broke on the new and larger Chapel. The home at 221 was demolished for this expansion and the new Chapel was attached to 227. 
+: Ground broke on the new and larger Chapel. The home at 221 was demolished for this expansion and the new Chapel was attached to 227.
 
 April 2012
-: The new Chapel was complete and open. 
+: The new Chapel was complete and open.
 
 
 _Paraphrased from KITE Architects website case study about the project:_
@@ -74,4 +74,4 @@ KITE’s design for a major addition for the Vedanta Society is creating new wor
 
 ### Design Reception
 
-We think the the new addition is beautiful — the interior spaces are textured and visually interesting while also still being very calm to look at and enjoy. The simple restrained use of color allows the surfaces to be much more active. The exterior is not a house, of course, so its size fits while its function and interior scale stands out. The scale of the windows on the front of the building mimic its neighbors so that visual lines as one looks down the street are not interrupted. All in all, we think it is a very respectful and “zen” new space for Angell Street. 
+We think the the new addition is beautiful — the interior spaces are textured and visually interesting while also still being very calm to look at and enjoy. The simple restrained use of color allows the surfaces to be much more active. The exterior is not a house, of course, so its size fits while its function and interior scale stands out. The scale of the windows on the front of the building mimic its neighbors so that visual lines as one looks down the street are not interrupted. All in all, we think it is a very respectful and “zen” new space for Angell Street.

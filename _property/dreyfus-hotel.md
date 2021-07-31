@@ -12,7 +12,7 @@ date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'William R. Walker and Son', 'DBVW Architects' ]
+designers: [ 'William R. Walker and Son', 'DBVW Architects', 'TRAC Builders' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
 tags: [ 'Former/Current Hotels', 'Yellow brick' ]
