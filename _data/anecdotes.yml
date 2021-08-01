@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: american-textile-pwt
+  person: 'Joan McKenna'
+  date: '2021-07-19'
+  content: 'Just trying to find info on old lace mills in area of Esten Ave. believe great grandfather Charles (Thomas) Thompson had one'
+
 - property: modern-diner
   person: 'Donna'
   content: 'My mom and her sister sat with their 17 year old brother for lunch in 1942. My mom was his legal guardian at the time. He begged her to sign enlistment papers for the Navy. She did, and she never saw her brother again. He was washed overboard somewhere near Itlaly. Every time we drove by that diner she would point and cry. Sorry about the sad memory. I wish I had a picture of the dinner in his memory.'
