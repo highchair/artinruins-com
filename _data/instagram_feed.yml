@@ -2,9 +2,13 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: american-locomotive-works
+  date: '2021-07-31'
+  insta-link: https://www.instagram.com/p/CSA0toWH3KI/
+
 - post: modern-diner
   date: '2021-07-02'
-  insta_link:
+  insta_link: https://www.instagram.com/p/CQ121PgHAVh/
 
 - post: union-station-old
   date: '2021-05-04'
