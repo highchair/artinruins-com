@@ -67,13 +67,13 @@ body {
   // Body is a catch all for other block level elements
   font-size: calc(var(--fs__min) * 1rem);
   font-weight: $font-custom__serif__rg-weight;
-  
+
   @include breakpoint-up('small') {
     font-size: calc(
       (var(--fs__min) * 1rem) + (var(--fs__max) - var(--fs__min)) * ((100vw - #{$min-vw * 1rem}) / #{$max-vw - $min-vw})
     );
   }
-  
+
   @include breakpoint-up('x-large') {
     font-size: calc(var(--fs__max) * 1rem);
   }
@@ -119,6 +119,12 @@ h5,
   color: palette('brand-brown');
 }
 
+h6,
+.h6 {
+  color: palette('brand-teal');
+  font-weight: $font-custom__serif__bd-weight;
+}
+
 small,
 .small {
   font-size: calc(var(--fs__sm) * 1rem);
@@ -136,30 +142,31 @@ small,
   //background: linear-gradient(#c0c 0px, #fff 1px) repeat;
   //background-size: 100% 27px;
   //background-position: top 4px left 0;
-  
+
   > * + * {
     margin-top: $vertical-rhythm;
   }
-  
+
   h2 {
     margin-top: 2.25rem;
   }
-  
+
   h3 {
     margin-top: 2.875rem;
   }
-  
+
   h2 + p:not([class]):first-line {
     @include ff-sans(bold);
     color: palette('brand-teal');
   }
-  
-  h5 {
+
+  h5, .h5 {
     margin-top: 1.875rem;
-        
-    + p {
-      margin-top: 0;
-    }
+  }
+
+  h5 + p, .h5 + p, 
+  h6 + p, .h6 + p {
+    margin-top: 0;
   }
 }
 
@@ -199,6 +206,12 @@ blockquote {
     margin-left: .0625em;
     vertical-align: text-bottom;
   }
+
+  & + .citation {
+    color: palette(gray-500);
+    padding-bottom: $vertical-rhythm;
+    padding-left: 1.375em;
+  }
 }
 
 hr {
@@ -208,7 +221,7 @@ hr {
   line-height: 1;
   position: relative;
   width: 100%;
-  
+
   &:after {
     color: palette('brand-teal');
     content: '* * *';

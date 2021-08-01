@@ -1,115 +1,116 @@
 .item {
-  
+
   /*article*/&__grid {
     @include jumper-switch() {
       display: grid;
       grid-template-columns: 20% 2rem calc(80% - 2rem);
       grid-template-rows: auto;
-      grid-template-areas: 
+      grid-template-areas:
         "header header header"
         "gallery gallery gallery"
         "jumper . meta"
         "jumper . content";
-      
+
       > header {
         grid-area: header;
       }
-      
+
       .item__gallery {
         grid-area: gallery;
       }
-      
+
       .jumper--in-content {
         grid-area: jumper;
-        
+
         &__wrapper {
           padding-right: 0 !important;
         }
       }
-      
+
       .item__meta,
       .item__content {
         padding-left: 0 !important;
       }
-      
+
       .item__meta {
         grid-area: meta;
       }
-      
+
       .item__content {
         grid-area: content;
       }
     }
   }
-  
+
   &__title {
-    
+
     &__wrap {
       background: bottom 0.075em right 0px no-repeat url('../img/hashes-yellow-bot-right.svg') transparent;
       background-size: ($hashes__width * 0.75) ($hashes__height * 0.75);
       margin-bottom: $vertical-rhythm;
-      
+
       @include breakpoint-up(medium) {
         background-size: $hashes__width $hashes__height;
       }
     }
   }
-  
+
   &__aka {
     color: palette('brand-red');
+    font-weight: $font-custom__serif__rg-weight;
     padding-bottom: $vertical-rhythm;
   }
-  
+
   &__excerpt {
     @include ff-sans(true);
     color: palette('brand-teal');
   }
-  
+
   &__gallery {
     $image-right-margin: 1.5rem;
-    
+
     background-color: palette('brand-grey');
     color: $white;
     overflow-y: hidden;
-    
+
     img {
       max-height: 50vmin;
       max-width: none;
     }
-    
+
     /*ul*/&__wrap {
       display: flex;
       flex-flow: row nowrap;
       align-items: center;
       overflow-x: scroll;
-      
+
       // Scroll snapping
       scroll-snap-type: x mandatory;
       scroll-padding: 50%;
-      
+
       li {
         scroll-snap-align: center;
       }
-      
+
       // These do not work for Ipad for some reason
       // I use a media query to target an iPad and undo them
-      @media only screen 
-        and (min-device-width : 768px) 
+      @media only screen
+        and (min-device-width : 768px)
         and (max-device-width : 1024px)
         and (-webkit-min-device-pixel-ratio: 1)  {
         scroll-snap-type: none;
         scroll-padding: 0;
       }
     }
-    
-    &__figure {      
+
+    &__figure {
       position: relative; // for the screen reader text
       margin-right: $image-right-margin;
-      
+
       a {
         display: block;
         position: relative;
-        z-index: 2; 
+        z-index: 2;
 
         &::before {
           content: '';
@@ -127,12 +128,12 @@
           transition: 250ms opacity ease;
           z-index: 3;
         }
-        
+
         &:hover::before,
         &:focus::before {
           opacity: 1;
         }
-        
+
         @media (hover: none) {
           &::before {
             opacity: 0.75;
@@ -140,28 +141,28 @@
         }
       }
     }
-    
+
     &__caption {
       @include sr-only;
     }
-    
+
     &__credits {
       @include ff-sans(false);
       color: $white;
-      
+
       b {
         font-weight: $font-custom__sans__weight__bold;
       }
-      
+
       a {
         color: $white;
         text-decoration: underline !important;
         text-decoration-color: $white;
-        
+
         @include hover-focus() {
           text-decoration-color: palette('brand-orange');
         }
-        
+
         &::after {
           height: 0;
           width: 0;
@@ -169,79 +170,79 @@
       }
     }
   }
-  
+
   &__external {
     padding-top: 1rem;
   }
-  
+
   &__meta {}
-  
+
   &__cats {
     $horiz-sp: 0.5em;
     $vert-sp: 0.375em;
-    
+
     border-top: 0.5px solid $color__borders;
     border-right: 0.5px solid $color__borders;
     margin: 0 #{- $horiz-sp} !important;
-    
+
     &__item {
       border-bottom: 0.5px solid $color__borders;
       border-left: 0.5px solid $color__borders;
       margin: 0 0 -0.5px -0.5px;
       padding: $horiz-sp $vert-sp;
-      
+
       strong {
         @extend .o__title--sm;
         color: palette(gray-700);
       }
-      
+
       a + a {
         margin-left: ($horiz-sp/2);
       }
     }
-    
+
     @include breakpoint-up(large) {
       display: flex;
       align-items: stretch;
       flex-flow: row wrap;
       margin: 0;
-      
+
       &__item {
         padding: 0.5em 0.75em;
         flex: 1 0 50%;
       }
     }
   }
-  
+
   &__mod {
     margin-top: $vertical-rhythm;
   }
-  
+
   &__content {
-    
+
     h3[id] a {
       span {
         top: 0.375rem;
       }
     }
-    
+
     p {
       hanging-punctuation: first;
     }
-    
+
     blockquote p {
       hanging-punctuation: none;
     }
-    
+
     // Footnotes
     sup[role="doc-noteref"] {
       font-size: inherit;
       vertical-align: baseline;
     }
-    
+
     /*a*/.footnote {
       margin-left: 0.25em;
-      
+
       &::before {
         content: '[';
       }
@@ -249,12 +250,12 @@
         content: ']';
       }
     }
-    
+
     /*div*/.footnotes {
       border-top: 1px solid $color__borders;
       margin-top: ($vertical-rhythm * 2);
       padding-top: $vertical-rhythm;
-      
+
       &::before {
         @extend .o__title--sm;
         content: 'Footnotes';
@@ -262,7 +263,7 @@
         padding-bottom: ($vertical-rhythm/2);
       }
     }
-    
+
     // Special treatment for the last paragraph, whatever it might be
     > p:last-of-type::after {
       // content: '' / 'The End'; Added recently: support for Alt text
@@ -278,7 +279,7 @@
       width: 1.5em;
       margin-left: 0.25em;
     }
-    
+
     // Unset for some elements
     blockquote p:last-of-type::after {
       background: none;
