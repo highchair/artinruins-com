@@ -130,6 +130,7 @@ For more information about the history of the automobile in Rhode Island, the [R
 > Recognizing the direction of automobile production, [<span class="abbr">ALCO</span>] established a subsidiary called the American Locomotive Automobile Company to build the Berliet, a French luxury gasoline car, under license, using the awkward name American Locomotive Motor Car for its product. Generally called the “American Berliet,” this auto was manufactured from 1906 to 1908, at which time the American Locomotive Company discontinued the Berliet license and began producing its own car under the name Alco. Probably the finest automobile made in the United States prior to World War I, this big, superbly engineered automobile won the Vanderbilt Cup races in 1909 and 1910. The Alco cost from $6,000 to $7,500, making it one of the most expensive autos then produced. With the average annual income of a middle-class family in the first decade of the twentieth century ranging between $900 and $3,000, a $7,500 automobile would cost such a family several years worth of income — and in those days one could not buy cars on the installment plan. A less expensive model of the Alco was widely used for taxis. The American Locomotive Works made Alcos until August 1913, when it abruptly ceased production after an account of its automotive division revealed that the company had lost an average of $460 on every Alco it produced.
 
 — J. Stanley Lemon, _“RI History Volume 52 Number 4”_, August 1994, Rhode Island Historical Society
+{:.citation}
 
 
 #### National Register Nomination form
@@ -225,11 +226,23 @@ A single story, flat-roofed, 10' by 250', brick infill structure built by Revere
 A single-story, 38' by 25', gabled and flat-roofed, brick structure resting on a concrete foundation. The original wing of this building is the gabled south end. After 1926, Revere Rubber Company enlarged the building northerly with a flat-roofed extension. A low parapet with half-round ceramic coping defines the roofline of both sections of the building. The roof is shingled. A concrete stair on the east elevation leads to a steel door. A modern garage door is on the west elevation. […]
 
 
+<figure class="u__img u__img--right" aria-hidden="true">
+<a href="#photo-alco-jh-2006-03-19">
+  <img src="{{ site.propimg_path }}{{ page.slug }}/alco-jh-2006-03-19.jpg" alt="" />
+</a>
+<figcaption>U.S. Rubber Company Building 87; tenant at documentation time, Precision Industries</figcaption>
+</figure>
+
+###### Building 87, Precision Industries (between 1937 and 1951) [non-contributing]
+
+A heavily-altered, single story, 180' by 80' steel frame building. The 1951 Sanborn map identifies this as a U.S. Rubber factory with “sides mostly glass in steel sash.” This original glass sheathing has been replaced with cinderblock. The roof is metal, simplified mansard commonly found on commercial buildings of the period.
+
+
 ### In the News
 
 #### Smiles, Optimism Surround Project In Mill District
 
-_by Cathleen Crowley_
+_by Cathleen Crowley_  
 **Providence Journal** | March 9, 2006 (abridged)
 
 “We want to make Providence the coolest place in the world,” says developer Bill Struever.
