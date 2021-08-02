@@ -1,0 +1,59 @@
+---
+layout: page
+permalink: property/list-by-newest-image/
+title: "Properties by date of newest image"
+meta-title: "Properties by date of newest image | ArtInRuins"
+body-class: all-props
+sitemap:
+  lastmod: 2021-02-02
+  priority: 0.8
+  changefreq: 'weekly'
+---
+
+<style>
+.difference span {
+  padding: 0.25rem 0.5rem;
+}
+</style>
+{%- assign items = site.property | sort: "mostrecentimage" -%}
+{%- assign now = 'now' | date: "%Y" -%}
+
+<p>Our properties in order by historic name and with the newest image listed — the intent is to find the properties that need updated photos. #ArchivesRI and #UsedToBeThere are skipped.</p>
+<section class="js__searchable">
+  <ul class="all-props__list u__list__unstyled" role="list">
+  {%- for item in items -%}
+    {%- if item.title and item.mostrecentimage and item.layout != 'redirect' -%}
+      {%- unless item.categories contains '#ArchiveRI' or item.categories contains '#UsedToBeThere' -%}
+        {%- assign itemimgyear = item.mostrecentimage | date: "%Y" -%}
+        {%- assign difference = now | minus: itemimgyear -%}
+        {%- unless difference <= 1 -%}
+    <li class="all-props__item">
+      <a class="all-props__link" href="{{ item.url }}">{{ item.title }}</a>
+        {%- if item.aka -%}<span class="all-props__aka"><b>aka: </b>{{ item.aka }}</span>{%- endif -%}
+      <p><span class="all-props__cats"><b>Status: </b> 
+        {%- for cat in item.categories -%}
+          {{ cat }}{% unless forloop.last %}, {%- endunless -%}
+        {%- endfor -%}
+      </span></p>
+      <p class="difference">Newest image: 
+        {%- if difference >= 15 -%}
+        <span style="background-color: crimson; color: white">
+        {%- elsif difference >= 10 -%}
+        <span style="background-color: orangered">
+        {%- elsif difference >= 7 -%}
+        <span style="background-color: darkorange">
+        {%- elsif difference >= 5 -%}
+        <span style="background-color: gold">
+        {%- else -%}
+        <span style="background-color: yellow">
+        {%- endif -%}
+          {{ difference }} years ago ({{ itemimgyear }})
+        </span>
+      </p>
+    </li>
+        {%- endunless -%}
+      {%- endunless -%}
+    {%- endif -%}
+  {%- endfor -%}
+  </ul>
+</section>
