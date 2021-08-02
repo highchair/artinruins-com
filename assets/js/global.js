@@ -1,3 +1,6 @@
+---
+permalink: assets/js/global.js
+---
 // 2592000000ms is 30 days
 https:(function(root,factory,undefined){'use strict';if(typeof define==='function'&&define.amd){define([],factory);}else if(typeof exports==='object'){module.exports=factory();}else{root.CookiesEuBanner=factory();}}(window,function(){'use strict';var CookiesEuBanner,document=window.document;CookiesEuBanner=function(launchFunction,waitAccept,useLocalStorage,undefined){if(!(this instanceof CookiesEuBanner)){return new CookiesEuBanner(launchFunction);}
 this.cookieTimeout=2592000000;this.bots=/bot|crawler|spider|crawling/i;this.cookieName='hasConsent';this.trackingCookiesNames=['__utma','__utmb','__utmc','__utmt','__utmv','__utmz','_ga','_gat','_gid'];this.launchFunction=launchFunction;this.waitAccept=waitAccept||false;this.useLocalStorage=useLocalStorage||false;this.init();};CookiesEuBanner.prototype={init:function(){var isBot=this.bots.test(navigator.userAgent);var dnt=navigator.doNotTrack||navigator.msDoNotTrack||window.doNotTrack;var isToTrack=(dnt!==null&&dnt!==undefined)?(dnt&&dnt!=='yes'&&dnt!==1&&dnt!=='1'):true;if(isBot||!isToTrack||this.hasConsent()===false){this.removeBanner(0);return false;}
@@ -64,4 +67,22 @@ document.addEventListener("DOMContentLoaded", function() {
 	  anchor.setAttribute("title", "Opens in a new window");
 	  anchor.setAttribute("rel", "noopener noreferrer");
 	});
+  
+  {% if jekyll.environment != 'production' -%}
+  // If Development, change some links
+  
+  // Hide Search
+  var goog = document.getElementById('goog-search');
+  if (goog !== null && goog !== '') {
+    goog.style.display = 'none';
+  }
+  
+  // Insert a new link for the Properties listed by oldest image date page
+  var alltags = document.getElementById('all-tags');
+  var imgdates = document.createElement('li');
+  imgdates.innerHTML = '<a href="{% link props-by-image-date.html %}">Dates of newest image</a>';
+  if (alltags !== null && alltags !== '') {
+    alltags.parentNode.insertBefore( imgdates, alltags.nextSibling );
+  }
+  {% endif %}
 });

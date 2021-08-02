@@ -12,11 +12,9 @@ sitemap:
 {%- assign properties = site.property | sort: "date-modified" | reverse -%}
 {%- assign props = 0 -%}
 {%- assign totalimg = 0 -%}
-{%- if jekyll.environment == "production" -%}
-  {%- for item in properties -%}
-    {%- assign totalimg = totalimg | plus: item.images.size -%}
-  {%- endfor -%}
-{%- endif -%}
+{%- for item in properties -%}
+  {%- assign totalimg = totalimg | plus: item.images.size -%}
+{%- endfor -%}
 {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
 
 <section class="home__updates u__gutter__p">
