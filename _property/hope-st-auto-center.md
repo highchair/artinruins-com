@@ -27,6 +27,7 @@ thumbnail: hope-st-auto-jh-07.jpg
 
 images:
   - url: hope-st-auto-jh-01.jpg
+    alt: 'A single story, non-decript red brick auto service station with plate glass commercial storefront bay and two garage door bays.'
   - url: hope-st-auto-jh-02.jpg
   - url: hope-st-auto-jh-03.jpg
   - url: hope-st-auto-jh-04.jpg

@@ -35,6 +35,8 @@ images:
   - url: wbna-project-jh-2020-11-01.jpg
   - url: wbna-project-jh-2020-11-02.jpg
 
+mostrecentimage: 2020-11-01
+
 imagescredit: 
 ---
 

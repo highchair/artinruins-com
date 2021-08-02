@@ -50,6 +50,8 @@ images:
   - url: bog-jh-2009-11-01.jpg
     caption: 'Three Cornish properties in a row — top left, William Wilinson building; center, O’Gorman building; bottom right, Burgess building'
 
+mostrecentimage: 2009-11-01
+
 imagescredit: 'Contributions by Providence City Archives'
 
 #external:

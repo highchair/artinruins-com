@@ -55,6 +55,8 @@ images:
   - url: gasometer-adw-2019-01.jpg
     caption: 'Photo from the Atlantic Designworks website'
 
+mostrecentimage: 2019-01-01
+
 imagescredit: 'Contributions from <a href="//www.flickr.com/photos/hivearchive/" target="_blank">Hive Archive on Flickr</a>, <a href="//www.flickr.com/photos/78348039@N03/20454461263/" target="_blank">User JR2000 on Flickr</a>, and the <a href="//www.atlanticdesign.works" target="_blank">Atlantic Designworks website</a>'
 
 #external:

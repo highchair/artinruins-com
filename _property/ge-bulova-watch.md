@@ -31,6 +31,7 @@ thumbnail: ge-bulova-jh-2002-03-05.jpg
 
 images:
   - url: ge-bulova-jh-2002-03-01.jpg
+    alt: 'A silver gray brick building in two major parts; one two-story, and another one story. Both feature large commercial plate glass windows and large-radius rounded corners. In general, it looks very space age and mid-century.'
   - url: ge-bulova-jh-2002-03-02.jpg
   - url: ge-bulova-jh-2002-03-02-alt.jpg
     caption: The reversed sign has been highlighted and flipped to read “General Electric”
@@ -55,6 +56,8 @@ images:
     caption: Providence Historical Aerial Viewer 1972
   - url: ge-bulova-aerial-1981.jpg
     caption: Providence Historical Aerial Viewer 1981
+
+mostrecentimage: 2011-03-01
 
 imagescredit: Aerials from the Providence Historical Aerial Viewer
 ---

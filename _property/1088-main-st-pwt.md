@@ -30,7 +30,7 @@ thumbnail: rag-n-bone-jh-2003-04-01.jpg
 images:
   - url: rag-n-bone-jt-2002-08-01.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
-    alt: ''
+    alt: 'A small, two story, red brick, irregularly-shaped mill with a flat roof.'
   - url: rag-n-bone-jh-2003-04-01.jpg
   - url: rag-n-bone-jh-2003-04-02.jpg
   - url: rag-n-bone-jt-2002-10-01.jpg
@@ -56,7 +56,9 @@ images:
   - url: rag-n-bone-jt-2002-10-11.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
 
-imagescredit: 'Photos provided by Jason Thompson'
+mostrecentimage: 2003-04-01
+
+imagescredit: 'Most photos provided by Jason Thompson'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

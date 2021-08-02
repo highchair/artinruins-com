@@ -37,6 +37,8 @@ images:
   - url: engine-nine-jh-2007-11-02.jpg
   - url: engine-nine-jh-2007-11-03.jpg
 
+mostrecentimage: 2007-11-01
+
 imagescredit: 
 
 #external:

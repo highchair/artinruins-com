@@ -47,6 +47,8 @@ images:
   - url: good-will-jh-2006-08-04.jpg
   - url: good-will-jh-2006-08-05.jpg
 
+mostrecentimage: 2006-08-01
+
 imagescredit: 'Postcard taken from Ebay'
 
 #external:

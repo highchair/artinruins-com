@@ -58,6 +58,8 @@ images:
   - url: dreyfus-jh-2007-06-01.jpg
   - url: dreyfus-jh-2007-06-02.jpg
 
+mostrecentimage: 2007-06-01
+
 imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%3A11562" target="_blank">Rhode Island Photograph Collection</a>, Providence Public Library and Scott Lapham for AS220 and TRAC Builders'
 
 #external:

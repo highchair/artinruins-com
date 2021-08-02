@@ -52,6 +52,8 @@ images:
   - url: 101-nmainst-gmhopkins-1937.jpg
     caption: '1937 G.M. Hopkins Map, Providence, Plate 19'
 
+mostrecentimage: 2020-10-01
+
 imagescredit: 'Contributions by Betsy von Die, <a href="//www.flickr.com/photos/cthulhuwho1" target="_blank">Will Hart</a>, the Armory Revival Company, and real estate listing sites'
 ---
 

@@ -36,6 +36,8 @@ images:
   - url: bennys-auto-jh-2020-06-06.jpg
   - url: bennys-auto-jh-2020-06-07.jpg
 
+mostrecentimage: 2020-06-01
+
 imagescredit: 
 ---
 

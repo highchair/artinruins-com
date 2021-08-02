@@ -62,6 +62,8 @@ images:
   - url: atlantic-goog-wide-02.jpg
     caption: 'Image from Google Earch circa 2019'
 
+mostrecentimage: 2003-08-01
+
 imagescredit: 'Contributions from Google Earth'
 ---
 

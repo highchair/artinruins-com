@@ -54,6 +54,8 @@ images:
   - url: old-colony-bank-jh-2016-04-01.jpg
   - url: old-colony-bank-jh-2016-04-02.jpg
 
+mostrecentimage: 2016-04-01
+
 imagescredit: 'Contributions from the National Register nomination form by Edward Connors and Associates'
 
 #external:

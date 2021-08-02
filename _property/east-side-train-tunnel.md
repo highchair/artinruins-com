@@ -32,6 +32,7 @@ thumbnail: es-train-tunnel-habs-1983-01.jpg
 images:
   - url: es-train-tunnel-benefit-st-01.jpg
     caption: 'Postcard view of train tunnel entrance under Benefit St — First Baptist Church can be seen on the far right and the First Church of the Scientist, Meeting Street, center top. Edward Ozog Photograph Collection, Providence Public Library'
+    alt: 'The visible entrances to this tunnel are concrete and not very much to look at.'
   - url: es-train-tunnel-benefit-st-02.jpg
     caption: 'Postcard view of tunnel towards Benefit Street from the tracks. Edward Ozog Photograph Collection, Providence Public Library'
   - url: es-train-tunnel-benefit-st-03.jpg
@@ -68,6 +69,8 @@ images:
     caption: 'View looking east from Canal Street with North Main Street and closed train tunnel entrance in top right, October 2004.'
   - url: es-train-tunnel-aerial-1972-path.jpg
     caption: 'Aerial from the Providence Historical Aerial Viewer 1972 with overlay of the probable tunnel path underground. Cadastral Map from G.M. Hopkins, 1937, shows a quick turn under Benefit Street and then a rather straight path. It’s hard to tell, but the lift bridge over the Seekonk river is in a down position in this photo.'
+
+mostrecentimage: 2004-01-01
 
 imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A043-03" target="_blank">Providence Public Library Digital Collection</a>, Leo King, and Library of Congress HABS/HAER, photographer William E. Barrett'
 ---

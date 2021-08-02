@@ -51,6 +51,8 @@ images:
   - url: fletcher-jh-2021-04-08.jpg
   - url: fletcher-jh-2021-04-09.jpg
 
+mostrecentimage: 2021-04-01
+
 imagescredit: 'Contribution from the <a href="//www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/" target="_blank">Historic Mapworks</a>; Providence Historical Aerial Viewer; <a href="//provlibdigital.org/islandora/object/islandora%3A268" target="_blank">Rhode Island Mills and Mill Villages Photograph Collection</a>, Providence Public Library; and the National Register nomination form'
 
 #external:

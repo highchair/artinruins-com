@@ -44,6 +44,8 @@ images:
   - url: box-office-promo-02.jpg
     caption: 'Promotional photo from leasing website'
 
+mostrecentimage: 2010-09-01
+
 imagescredit: 'Construction photos from Peter Case'
 ---
 

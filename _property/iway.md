@@ -29,6 +29,7 @@ thumbnail: iway-bridge-jh-2006-06-01.jpg
 images:
   - url: iway-bridge-2006-08-30.jpg
     caption: 'Web cam photo downloaded August 30, 2006'
+    alt: ''
   - url: iway-bridge-2007-04-21.jpg
     caption: 'Web cam photo downloaded April 21, 2007'
   - url: iway-bridge-2007-10-14.jpg
@@ -49,6 +50,8 @@ images:
     caption: 'Photo by Frank Mullin'
   - url: 2007-10-04-fm.jpg
     caption: 'Photo by Frank Mullin'
+
+mostrecentimage: 2007-10-01
 
 imagescredit: 'Images of the public opening by Frank Mullin'
 ---

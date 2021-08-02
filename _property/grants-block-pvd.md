@@ -27,6 +27,7 @@ thumbnail: grants-block-jh-2004-03-03.jpg
 
 images:
   - url: grants-block-jh-2004-03-01.jpg
+    alt: 'A small collection of unattractive, multi-story red brick commercial structures. The Westminster Street façade was multi-story but with no windows on the upper floors. A commercial storefront occupied the first floor.'
   - url: grants-block-jh-2004-03-02.jpg
   - url: grants-block-jh-2004-03-03.jpg
   - url: grants-block-jh-2004-03-04.jpg

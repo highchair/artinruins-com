@@ -35,7 +35,7 @@ thumbnail: froebel-jh-2021-05-05.jpg
 images:
   - url: froebel-ppl-undated-01.jpg
     caption: 'John Hutchins Cady was an active photographer and collector of photos from 1925-1965. This photo seems to be on the 1925-1930 side and captures two sides of Froebel Hall — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
-    alt: ''
+    alt: 'A wood frame, two story building with craftsman style decorative stickwork and a cross gable shingled roof. The ground floor is red brick and the second floor is moss green wooden siding light cream trim.'
   - url: froebel-ppl-undated-02.jpg
     caption: 'John Hutchins Cady was an active photographer and collector of photos from 1925-1965. This photo seems to be on the 1925-1930 side and captures two sides of Froebel Hall — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
   - url: froebel-ppl-undated-03.jpg
@@ -69,6 +69,8 @@ images:
     caption: 'Connecting structure built during the 2002-03 renovation by architects Fred Babcock and Cornelis de Boer'
   - url: froebel-jh-2021-05-09.jpg
     caption: 'William Holroyd House, 1798, 106 Angell Street'
+
+mostrecentimage: 2021-05-01
 
 imagescredit: 'Contributons from the John Hutchins Cady Research Scrapbooks Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A4962" target="_blank">photo 1 and 2,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A5284" target="_blank">photo 3,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A5110" target="_blank">photo 4</a>), Providence Public Library and Google Maps'
 

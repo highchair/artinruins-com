@@ -47,6 +47,8 @@ images:
 - url: davis-dairy-ja-2021-06-02.jpg
   caption: 'Drone photo by Jason Allard, Uncommon Sense Media'
 
+mostrecentimage: 2021-06-01
+
 imagescredit: 'Contribution from <a href="//www.uncomsensemedia.com" target="_blank">Jason Allard, Uncommon Sense Media</a>'
 
 #external:

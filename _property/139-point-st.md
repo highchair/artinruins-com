@@ -36,6 +36,8 @@ images:
   - url: 139-point-jh-2004-05-06.jpg
   - url: 139-point-sanborn-1956.jpg
 
+mostrecentimage: 2004-05-01
+
 imagescredit: 
 ---
 

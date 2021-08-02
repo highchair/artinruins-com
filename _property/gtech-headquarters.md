@@ -29,6 +29,7 @@ thumbnail: gtech-jh-2020-10-03.jpg
 
 images:
   - url: gtech-jh-2005-05-01.jpg
+    alt: 'A five-story, glass and steel building with central seven story tower. Each facade is slightly different in shape and the way it meets its surroundings, but all are predominantly glass.'
   - url: gtech-jh-2005-05-02.jpg
   - url: gtech-jh-2005-05-03.jpg
   - url: gtech-jh-2005-06-01.jpg
@@ -45,6 +46,8 @@ images:
   - url: gtech-jh-2020-10-02.jpg
   - url: gtech-jh-2020-10-03.jpg
   - url: gtech-jh-2020-10-04.jpg
+
+mostrecentimage: 2020-10-01
 
 imagescredit:
 

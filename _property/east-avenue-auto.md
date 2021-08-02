@@ -39,6 +39,8 @@ images:
   - url: east-ave-auto-jh-2004-02-02.jpg
   - url: east-ave-auto-jh-2006-01-01.jpg
 
+mostrecentimage: 2006-01-01
+
 imagescredit: 
 
 #external:

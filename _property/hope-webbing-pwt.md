@@ -74,6 +74,8 @@ images:
   - url: hope-web-jh-2019-04-02.jpg
   - url: hope-web-jh-2019-04-03.jpg
 
+mostrecentimage: 2019-04-01
+
 imagescredit: 'Contributions from the <a href="//repository.library.brown.edu/studio/item/bdr:212389/" target="_blank">Brown University Digital Repository</a>,<a href="//catalog.archives.gov/id/533661" target="_blank">The National Archives</a>, and the <a href="//provlibdigital.org/islandora/object/islandora%3A12" target="_blank">Avery Lord Aerial Photograph Collection</a>, Providence Public Library'
 
 external:

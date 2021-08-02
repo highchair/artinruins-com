@@ -142,6 +142,8 @@ images:
   - url: brown-sharpe-jh-2005-07-01.jpg
   - url: brown-sharpe-jh-2005-07-02.jpg
 
+mostrecentimage: 2005-07-01
+
 imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A11078" target="_blank">Photo</a>) and Rhode Island Postcards Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A22843" target="_blank">From River</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A19915" target="_blank">Aerial</a>) at the Providence Public Library and Edward Connors for the National Register nomination form'
 
 external:

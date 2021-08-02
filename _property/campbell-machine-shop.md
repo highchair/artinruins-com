@@ -54,6 +54,8 @@ images:
   - url: parkin-yarn-jh-2009-11-03.jpg
   - url: parkin-yarn-jh-2009-11-04.jpg
 
+mostrecentimage: 2009-11-01
+
 imagescredit: 'Contribution by Warren Jagger for the National Register nomination form, Church Hill Industrial District'
 
 #external:

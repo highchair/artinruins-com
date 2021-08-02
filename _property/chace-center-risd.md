@@ -52,6 +52,8 @@ images:
   - url: chace-center-jh-2020-10-04.jpg
   - url: chace-center-jh-2020-10-05.jpg
 
+mostrecentimage: 2020-10-01
+
 imagescredit: 'Contributions from Frank Mullin and Jef Nickerson'
 ---
 

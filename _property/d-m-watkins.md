@@ -61,6 +61,8 @@ images:
   - url: rolo-jh-2010-01-02.jpg
   - url: rolo-jh-2010-01-03.jpg
 
+mostrecentimage: 2010-01-01
+
 imagescredit: 'Contributions by Paul Shelasky'
 
 #external:

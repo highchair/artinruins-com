@@ -47,6 +47,8 @@ images:
   - url: coro-goog-2021-01.jpg
     caption: '167 Point Street from a Google satellite capture circa 2021'
 
+mostrecentimage: 2004-07-01
+
 imagescredit: 'Contributions by Rick Greenwood for the National Register Form and Google Maps'
 
 #external:

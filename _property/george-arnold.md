@@ -48,6 +48,8 @@ images:
   - url: george-arnold-jh-2016-10-01.jpg
   - url: george-arnold-jh-2016-10-02.jpg
 
+mostrecentimage: 2016-10-01
+
 imagescredit: 'Contributions from Robert Brewster for the National Register and Jonathan Winslow'
 
 #external:

@@ -41,6 +41,8 @@ images:
   - url: fremont-19-jh-2020-11-04.jpg
   - url: fremont-19-jh-2020-11-05.jpg
 
+mostrecentimage: 2020-11-01
+
 imagescredit: 'Contribution by Jeff Pivorunas'
 ---
 

@@ -27,6 +27,7 @@ thumbnail: lam-metal-jh-2003-06-04.jpg
 
 images:
   - url: lam-metal-jh-2003-06-01.jpg
+    alt: 'A low and long two story red brick mill with segmental arch windows on the second floor and rectangular windows on the first. Both sets of windows have brick sills. The roof is flat with a decorative brick cornice. On one side of the building is a carriage-style entrance allowing cars or trucks to pass beneath the second floor.'
   - url: lam-metal-jh-2003-06-02.jpg
   - url: lam-metal-jh-2003-06-03.jpg
   - url: lam-metal-jh-2003-06-04.jpg

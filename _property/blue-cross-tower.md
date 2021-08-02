@@ -60,6 +60,8 @@ images:
   - url: bcbs-tower-pshelasky-04.jpg
     caption: 'Photo by Paul Shelasky'
 
+mostrecentimage: 2020-10-01
+
 imagescredit: 'Contributions by Jef Nickerson, Kinematix, and Paul Shelasky'
 ---
 

@@ -43,6 +43,8 @@ images:
 
 imagescredit: 'Contribution by <a href="//www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/" target="_blank">Historic MapWorks</a>'
 
+mostrecentimage: 2004-04-01
+
 #external:
 #  - source: 'Providence Journal (permalink)'
 #    url: https://perma.cc/MQ4Z-Z9K4

@@ -35,6 +35,7 @@ thumbnail: hosptrust-jh-2021-06-01.jpg
 images:
   - url: hosptrust-ppl-drawing.jpg
     caption: 'Architectural rendering from the John Hutchins Cady Research Scrapbooks — Providence Public Library'
+    alt: 'A light gray stone faced, eleven story building with a U shaped section rising above a two story base with double height first floor. Windows are all simple rectangles and ornamentation is reminescent of Greek architecture.'
   - url: hosptrust-ppl-1926-01.jpg
     caption: 'Photo labelled taken in 1926 from the John Hutchins Cady Research Scrapbooks — Providence Public Library'
   - url: hosptrust-ppl-c1940-01.jpg
@@ -52,6 +53,8 @@ images:
   - url: hosptrust-jh-2021-06-05.jpg
   - url: hosptrust-jh-2021-06-06.jpg
   - url: hosptrust-jh-2021-06-07.jpg
+
+mostrecentimage: 2021-06-01
 
 imagescredit: 'Contributions from the John Hutchins Cady Research Scrapbooks collection (<a href="//provlibdigital.org/islandora/object/islandora%3A5485" target="_blank">drawing,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A5781" target="_blank">photo</a>), Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A15182" target="_blank">photo</a>), Providence Public Library; Frank Mullin; PDXStreecar, and Woneffe'
 

@@ -27,6 +27,7 @@ thumbnail: hope-boiler-jh-2003-06-03.jpg
 
 images:
   - url: hope-boiler-jh-2003-06-01.jpg
+    alt: 'A U-shaped, red brick, shallow gable roofed building with tall, slender smokestack on one corner. On the three story section of the building, the hill that it is built into makes a main entrance from road surface at the third floor level. A second story wing protrudes perpendiculary from one end. Windows are all segmental arch with granite sills.'
   - url: hope-boiler-jh-2003-06-02.jpg
   - url: hope-boiler-jh-2003-06-03.jpg
   - url: hope-boiler-jh-2003-06-04.jpg

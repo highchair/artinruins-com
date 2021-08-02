@@ -43,6 +43,8 @@ images:
   - url: bio-med-jh-2006-10-03.jpg
   - url: bio-med-jh-2006-10-04.jpg
 
+mostrecentimage: 2006-10-01
+
 imagescredit:
 ---
 

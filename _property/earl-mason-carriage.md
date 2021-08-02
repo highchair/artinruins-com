@@ -55,6 +55,8 @@ images:
   - url: earl-mason-re-2013-04-04.jpg
     caption: "Photo by Robert Easton"
 
+mostrecentimage: 2013-04-01
+
 imagescredit: 'Contributions by RI Lurky and <a href="//www.rweaston.com" target="_blank">Robert Easton</a>'
 ---
 

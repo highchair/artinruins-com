@@ -28,6 +28,7 @@ thumbnail:
 
 images:
   - url: engle-tire-jh-2005-04-01.jpg
+    alt: 'A single story commercial garage structure built of cinder block and yellow brick. The Broadway facing façade was a plate glass and green enamel panel storefront. Much of the Service Road facing side was also garage door bays. The Providence Ignition building was faced with light blue enamel panels and had three garage doors as well as a commercial steel door frame customer entrance. Both buildings had large plastic letters across the top of the Broadway side.'
   - url: engle-tire-jh-2005-04-02.jpg
   - url: engle-tire-jh-2005-04-03.jpg
   - url: engle-tire-jh-2005-04-04.jpg

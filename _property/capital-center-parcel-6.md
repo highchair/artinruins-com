@@ -50,6 +50,8 @@ images:
   - url: parcel-6-jh-2008-10-02.jpg
   - url: parcel-6-jh-2020-10-01.jpg
 
+mostrecentimage: 2020-10-01
+
 imagescredit: 
 ---
 

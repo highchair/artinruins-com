@@ -77,6 +77,8 @@ images:
   - url: alco-jh-2006-03-19.jpg
     caption: 'Building 87 built between 1937 and 1951, heavily altered, and therefore considered non-contributing to the historic nomination. It was demolished as part of the redevelopment of the property.'
 
+mostrecentimage: 2006-03-01
+
 imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A11023" target="_blank">RI Locomotive,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A11438" target="_blank">American Locomotive Motor Car</a>), Providence Public Library'
 
 #external:

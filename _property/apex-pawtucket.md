@@ -63,6 +63,8 @@ images:
   - url: aerial-google-3d-2020.jpg
     caption: 'Aerial view of the Blackstone riverfront from Slater Mill on the left to the river basin on the left, after the falls under the Main Street bridge and interstate 95 and Division Street bridges. Apex is center left.'
 
+mostrecentimage: 2018-11-01
+
 imagescredit: 'Contributions by Jake Gorst, C.F., the Providence Historical Aerial Viewer, and Google Maps'
 
 external:

@@ -70,6 +70,8 @@ images:
   - url: allen-print-jh-2020-04-05.jpg
   - url: allen-print-jh-2020-10-01.jpg
 
+mostrecentimage: 2020-10-01
+
 imagescredit: 'Contributions by the Brown University Digital Repository (<a href="//repository.library.brown.edu/studio/item/bdr:213551/" target="_blank">1889</a>, <a href="//repository.library.brown.edu/studio/item/bdr:213318/" target="_blank">1899</a>), the Rhode Island Mills and Mill Villages Photograph Collection at the Providence Public Library (<a href="//provlibdigital.org/islandora/object/islandora%3A290" target="_blank">photo 1</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A162" target="_blank">photo 2</a>), and <a href="//www.re-vision.com/photography/providence/" target="_blank">Jay Boersma</a>'
 
 #external:

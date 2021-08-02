@@ -53,6 +53,8 @@ images:
     caption: 'Photo from the Westminster Lofts website, Cornish Associates'
   - url: alice-bldg-jh-2021-02-01.jpg
 
+mostrecentimage: 2021-02-01
+
 imagescredit: 'Contribution by Google Streetview and Cornish Associates'
 
 #external:

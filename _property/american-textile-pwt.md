@@ -69,6 +69,8 @@ images:
   - url: amertextile-sanborn-1923-01.jpg
     caption: 'Sanborn Insurance Map from 1923, Brown University Digital repository. The weave shed has been built and the 4th floor has been added (note the “4th” along the yellow lines over the main structure, upside down)'
 
+mostrecentimage: 2003-05-01
+
 imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A11068" target="_blank">Rhode Island Photograph Collection</a> at the Providence Public Library, <a href="//www.flickr.com/photos/pawtucketlibrary/46946460295/in/photolist-2fQQMqb-25iQTKn-2ewuT4e/" target="_blank">Pawtucket Library Flickr collection</a>, and the <a href="//repository.library.brown.edu/studio/item/bdr:212320/" target=_blank">Brown University Digital Repository</a>.'
 
 #external:

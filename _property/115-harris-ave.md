@@ -50,6 +50,8 @@ images:
   - url: 115-harris-jh-2019-05-04.jpg
   - url: 115-harris-jh-2019-05-05.jpg
 
+mostrecentimage: 2019-05-01
+
 imagescredit: 
 ---
 

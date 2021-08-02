@@ -27,6 +27,7 @@ thumbnail: gulf-station-jh-2003-04-06.jpg
 
 images:
   - url: gulf-station-jh-2003-04-01.jpg
+    alt: 'A concrete, circular building with garage doors in some bays and a commercial storefront in another. The flat roof overhung the main column of the building by a few feet, creating a low, flying saucer effect.'
   - url: gulf-station-jh-2003-04-02.jpg
   - url: gulf-station-jh-2003-04-03.jpg
   - url: gulf-station-jh-2003-04-04.jpg

@@ -52,6 +52,8 @@ images:
   - url: seekonk-bridge-jh-2008-08-15.jpg
   - url: seekonk-bridge-jh-2008-08-16.jpg
 
+mostrecentimage: 2008-08-01
+
 imagescredit: 'Postcard from the <a href="//provlibdigital.org/islandora/object/islandora%3A18026?solr_nav%5Bid%5D=98be77496b1046ab0dfe&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=3" target="_blank">Providence Public Library Digital Collection</a> and a photo by <a href="http://photos.nerail.org/showpic/?photo=2004051712391620075.jpg&amp;order=byyear&amp;page=8&amp;key=1954" target="_blank">Leo King</a>.'
 
 external:

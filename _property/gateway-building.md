@@ -42,6 +42,8 @@ images:
   - url: amer-express-jh-2005-10-08.jpg
   - url: amer-express-jh-2005-10-09.jpg
 
+mostrecentimage: 2005-10-01
+
 imagescredit:
 
 #external:

@@ -46,6 +46,8 @@ images:
   - url: bathhouse-gil-unknown-03.jpg
   - url: bathhouse-gil-unknown-04.jpg
 
+mostrecentimage: 2003-11-01
+
 imagescredit: 'Interior before photos by Gilbane Construction'
 
 #external:

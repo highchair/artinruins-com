@@ -49,6 +49,8 @@ images:
   - url: greenville-sc-2004-04-14.jpg
   - url: greenville-sc-2004-04-15.jpg
 
+mostrecentimage: 2004-04-01
+
 imagescredit: 'All photos by Sarah Clover'
 
 #external:

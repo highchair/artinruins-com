@@ -38,6 +38,8 @@ images:
   - url: fletcher-jh-2005-11-01.jpg
   - url: fletcher-jh-2021-02-01.jpg
 
+mostrecentimage: 2021-02-01
+
 imagescredit:
 ---
 

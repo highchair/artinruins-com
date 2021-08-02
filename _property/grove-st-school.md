@@ -30,6 +30,7 @@ thumbnail:
 
 images:
   - url: grove-school-jh-2003-03-01.jpg
+    alt: 'A square plan, red brick, two story former grade school building. Windows were rectangular with granite sils. Two entrances — one for boys, one for girls — are on opposite sides of the building. A cross gable shingled roof with a simple wooden cornice beneath it was on top.'
   - url: grove-school-jh-2003-03-02.jpg
   - url: grove-school-jh-2003-07-01.jpg
   - url: grove-school-jh-2003-07-02.jpg

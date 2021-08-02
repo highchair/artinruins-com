@@ -52,6 +52,8 @@ images:
   - url: grants-mill-wh-2010-11-10.jpg
   - url: grants-mill-wh-2010-11-11.jpg
 
+mostrecentimage: 2010-11-01
+
 imagescredit: 'Photo contribution by Will Heublein'
 
 #external:

@@ -55,6 +55,8 @@ images:
   - url: quay-map-1937-01.jpg
     caption: 'G.M. Hopkins Insurance Map from 1937, Historic Map Works'
 
+mostrecentimage: 2021-02-01
+
 imagescredit: 'Contributions from cadastral insurance maps — <a href="//repository.library.brown.edu/studio/item/bdr:213555/" target="_blank">1889 Sanborn Map</a>, <a href="//repository.library.brown.edu/studio/item/bdr:213588/" target="_blank">1899 Sanborn Map</a>. and <a href="//www.historicmapworks.com/Map/US/895458/Plate+001/Providence+1937/Rhode+Island/" target="_blank">1937 G.M. Hopkins Map</a>'
 
 #external:
