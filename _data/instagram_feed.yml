@@ -2,6 +2,10 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: j-l-clark-manufacturing
+  date: '2021-08-02'
+  insta_link:
+
 - post: american-locomotive-works
   date: '2021-07-31'
   insta-link: https://www.instagram.com/p/CSA0toWH3KI/

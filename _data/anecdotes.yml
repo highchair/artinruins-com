@@ -1,6 +1,6 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: providence-armory\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: j-l-clark-manufacturing\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
 # Replace: - property: providence-armory\n  person: '\1'\n  content: '\2'\n
@@ -11,6 +11,31 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: us-rubber
+  person: 'Josh'
+  date: '2021-08-01'
+  content: 'The Wilbury Group theatre company did 3 shows at the Butcher Block space around 2013 — “Bloody Bloody Andrew Jackson,” “Lungs,” and then “The Elaborate Entrance of Chad Deity.” Then a pipe burst in the building, the fire department came to check it out and put a stop to us using it as a performance space. It was a beautiful space, the floors and the restoration work that Erik had done were gorgeous. Even had a great roof deck. The heat was totally inadequate though, so during Chad Deity it was freezing. And that’s why the pipe burst I guess.'
+
+- property: j-l-clark-manufacturing
+  person: 'Lynn Berry Jr' 
+  date: '2020-05-10' 
+  content: 'I went with my 1964 class of Dallas Institute of Mortuary Science to the National Casket Company for a tour. When I graduated in 1964 I went to Illinois to work with my father, the third generation of the oldest single family funeral homes in Illinois beginning in Palmyra, Illinois 1853 and ending in 1990. I was the fourth and final generation of Berry Funeral Homes, Ltd.,Girard, Virden and Auburn, Illinois. I purchased two National Silver Plated Copper Deposit Caskets between 1964 and 1971.  I still have the #21200 casket, the casket Elvis was buried in with the blue velvet interior, in storage purchased in 1971. I sold the business in 1990 and retired. I would like to sell the casket.'
+
+- property: j-l-clark-manufacturing
+  person: 'Jessica Mancini' 
+  date: '2019-06-14' 
+  content: 'I have a sales photo or a reproduction painting of a casket from your granddad company. It’s a picture of a "National Seamless Solid Copper Deposit Casket". There are no dates but it is from your company. It’s 24" by 18" without frame but frame is included. Please email me if interested and let’s talk: jessis_way [at] yahoo [dot] com'
+
+- property: j-l-clark-manufacturing
+  person: 'Nancy Tourjee Mauro' 
+  date: '2019-03-09' 
+  content: 'John Lathrop Clark (1814-1914) was my G-Grandfather. I have the Clark Manufacturing Co. Casket Book. I have a picture of all the employees soon after it was incorporated. John L. had 9 child. almost all worked in the company. I descend from the 3rd marriage. I have many of John L’s possessions. His last child was my Grandfather & he had 8 child. and as children all worked in the Co. in the summer. John L. imported wood from all over to make the caskets. He was quite a man.'
+
+- property: j-l-clark-manufacturing
+  person: 'Robert Silver' 
+  date: '2010-10-07' 
+  content: 'I have a National casket company casket key in the box. Fun item.'
 
 - property: american-textile-pwt
   person: 'Joan McKenna'
