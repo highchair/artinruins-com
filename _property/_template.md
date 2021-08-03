@@ -36,6 +36,8 @@ excerpt: ""
 
 imagescredit:
 
+mostrecentimage: 2021-07-01
+
 #external:
 #  - source: 'Providence Journal (permalink)'
 #    url: https://perma.cc/MQ4Z-Z9K4

@@ -221,8 +221,8 @@ Still In Use
 + Modern Diner
 
 Redeveloped
-++ 755 Westminster Street
-++ American Locomotive Works
++ 755 Westminster Street
++ American Locomotive Works
 ++ Calender Mills
 + Firehouse 13
 + L. Vaughn Company / 1153 Westminster St
@@ -288,7 +288,7 @@ Redeveloped
 
 Urban Decay
 + Enchanted Forest
-++ National Casket Company
++ National Casket Company
 + Seekonk River Bridge
 
 
@@ -400,7 +400,7 @@ Construction (21)
 Historic (18)
 
 Redevelop (69)
-++ Butcher Block Mills
++ Butcher Block Mills
 ++ Kendrick-Prentice-Tirocchi House
 + Ward Baking
 
