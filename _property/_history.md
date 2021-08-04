@@ -216,7 +216,7 @@ Still In Use
 ++ 372 West Fountain Street
 ++ 383 West Fountain Street (was never demolished)
 ++ the Holiday Inn / new Hilton
-++ Jones Warehouse
++ Jones Warehouse
 ++ Lincoln Mall
 + Modern Diner
 
