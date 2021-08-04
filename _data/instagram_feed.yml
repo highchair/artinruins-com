@@ -3,8 +3,8 @@
 # Create a new page with properties relevant to recent Instagram posts
 
 - post: j-l-clark-manufacturing
-  date: '2021-08-02'
-  insta_link:
+  date: '2021-08-04'
+  insta_link: https://www.instagram.com/p/CSJw_zOHo82/
 
 - post: american-locomotive-works
   date: '2021-07-31'
