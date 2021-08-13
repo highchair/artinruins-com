@@ -12,6 +12,16 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: decatur
+  person: 'Yannick'
+  date: '2021-03-22'
+  content: 'I am French but lived on the west side between 2006 and 2009. Decatur was my local, met a lot of cool ppl there, loved the atmosphere and to go there to chat, watch a game, grab a Gansett. Place thoroughly missed.'
+
+- property: decatur
+  person: 'Steve Seddon'
+  date: '2013-06-10'
+  content: 'Joann is my cousin. I live in Chicago but grew up in Providence. When my wife and I got married on Block Island, we took the last ferry back to the mainland and headed to the Decatur. A highlight was the jukebox. I was sitting at the bar once and suddenly my band <i>Example: None</i>’s song “Providence Cold” came on by itself.'
+
 - property: us-rubber
   person: 'Josh'
   date: '2021-08-01'
