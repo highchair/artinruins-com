@@ -61,8 +61,14 @@
         {%- if item.built.size > 0 -%}
           <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group">{% unless item.built contains "Proposed" %}<b>Built:</b> {% endunless %}{{ item.built }}</span>
         {%- endif -%}
+        {%- if item.opened.size > 0 -%}
+          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Opened:</b> {{ item.opened }}</span>
+        {%- endif -%}
         {%- if item.demolition.size > 0 -%}
           <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Demolition:</b> {{ item.demolition }}</span>
+        {%- endif -%}
+        {%- if item.closed.size > 0 -%}
+          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Closed:</b> {{ item.closed }}</span>
         {%- endif -%}
         {%- if item.redeveloped.size > 0 -%}
           <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Redeveloped:</b> {{ item.redeveloped }}</span>

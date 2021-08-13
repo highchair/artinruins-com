@@ -4,8 +4,8 @@ slug: javaspeed
 aka: 
 date-modified: 2020-12-10 12:00
 
-built: 'Building date unknown'
-demolition: 
+opened: '2002-2003'
+closed: '2010'
 redeveloped: 
 decade:
 date-added: '2010'
