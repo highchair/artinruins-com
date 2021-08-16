@@ -12,6 +12,12 @@
 
 # Check validity with http://www.yamllint.com/
 
+
+- property: rispca
+  person: 'kathleen M bagley'
+  date: '2018-12-29 2018'
+  content: 'I lived on Cargill St. I always visited the dogs almost daily on Fountain St. I have such fond memories of this place'
+
 - property: decatur
   person: 'Yannick'
   date: '2021-03-22'
