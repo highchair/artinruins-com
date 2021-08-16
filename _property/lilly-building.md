@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Armory Revival Company', 'DBVW Architects' ]
 people: []
 lists: [ 'Westminster Street Historic District', 'National Register of Historic Places' ]
-tags: []
+tags: [ 'Ghost Signs' ]
 
 NRHP-ref-number: '03000494 (contributing)'
 added-to-NRHP: 'May 2003'

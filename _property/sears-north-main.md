@@ -14,7 +14,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'North Main Street Commercial Corridor' ]
-tags: [ 'Needs History', 'Demolition by Neglect', 'Yellow brick' ]
+tags: [ 'Needs History', 'Demolition by Neglect', 'Yellow brick', 'Ghost Signs' ]
 
 address: '1300 North Main Street, Providence RI'
 latitude: '41.855927'

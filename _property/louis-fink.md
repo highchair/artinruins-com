@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
-tags: []
+tags: [ 'Ghost Signs' ]
 
 NRHP-ref-number:
 added-to-NRHP:

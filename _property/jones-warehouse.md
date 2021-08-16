@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Gould, Angell & Swift' ]
 people: []
 lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
-tags: []
+tags: [ 'Ghost Signs' ]
 
 NRHP-ref-number:
 added-to-NRHP:
