@@ -17,7 +17,7 @@ _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS a
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
-_by Gregory Smith_
+_by Gregory Smith_  
 **Providence Journal** | December 4, 2003 (abridged)
 
 caption: 'Photo by Robert Brewster, HABS/HAER, 1981'

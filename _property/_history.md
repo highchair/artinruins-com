@@ -213,9 +213,9 @@ Historic
 + RI Auditorium
 
 Still In Use
-++ 372 West Fountain Street
++ 372 West Fountain Street
 ++ 383 West Fountain Street (was never demolished)
-++ the Holiday Inn / new Hilton
++ the Holiday Inn / new Hilton
 + Jones Warehouse
 ++ Lincoln Mall
 + Modern Diner
@@ -264,7 +264,7 @@ Redeveloped
 ++ Liberty Elm Diner
 
 RIP
-++ Decatur Lounge
++ Decatur Lounge
 ++ Pontiac Mills
 + Sears Automotive (1st appeared 2003 now standalone)
 ++ Talk of the Town
@@ -359,7 +359,7 @@ Still In Use (Some of these were added 2010)
 
 Urban Decay
 + 398 Hope Street / Clark's Flowers
-++ Feldman Furniture
++ Feldman Furniture
 ++ Weeden Manor
 ++ Weybosset St Facade
 
