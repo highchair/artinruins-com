@@ -3,8 +3,8 @@ ArtInRuins
 
 View the production site: [ArtInRuins](//artinruins.com)
 
-Locally generated static HTML site built with [Jekyll](//jekyllrb.com/) with 
-[SASS](//sass-lang.com/), and [Autoprefixer](//github.com/vwochnik/jekyll-autoprefixer).
+Locally generated static HTML site built via [Jekyll](//jekyllrb.com/) with 
+[SASS](//sass-lang.com/) and [Autoprefixer](//github.com/vwochnik/jekyll-autoprefixer).
 
 ***
 
@@ -42,8 +42,18 @@ $ JEKYLL_ENV=production jekyll build --config _config_prod.yml --I
 ```
 
 Builds into the Production folder: `_prod`. Used so that we may conduct incremental 
-builds and only upload what has changed. Will conditionally include the Google
-Analytics tag in production build mode. 
+builds and only upload what has changed. 
+
+### Supporting incremental builds
+
+In order to build these 200+ property pages quickly, we insert development-only changes
+via Javascript. The 1/assets/js/global.js` file has front matter in it to become part 
+of the build process. If development, certain new scripts are added that change the 
+main navigation. 
+
+The Google Global Tag is also added via JS as part of the cookie policy acceptance.
+Still, builds are not as incremental as we would like. If anyone has ways in which they
+see additional efficiencies, [please let us know](mailto:info@artinruins.com). 
 
 
 ## Custom post types (Collections)
@@ -57,7 +67,7 @@ and more.
 ## Taxonomy pages
 
 Taxonomies like neighborhoods, towns, designers, years built, etc… are actually 
-just pages with extra Front Matter. Liquid queries get the properties associated 
+just HTML pages with extra Front Matter. Liquid queries find the properties associated 
 with those bits of Front Matter.
 
 Example: 
