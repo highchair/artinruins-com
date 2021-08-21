@@ -10,7 +10,7 @@ redeveloped: '2021'
 units:
 decade: '1900-1909'
 date-added: '2021'
-categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding' ]
+categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]

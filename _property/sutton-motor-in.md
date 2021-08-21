@@ -9,7 +9,7 @@ demolition:
 redeveloped: 
 decade: '1940-1949'
 date-added: '2011'
-categories: [ '#UsedToBeThere', '#UrbanDecay' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Massachusetts' ]
 designers: []
