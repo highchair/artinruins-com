@@ -32,8 +32,10 @@ excerpt: "An irregulary shaped former horse stable turned furniture showroom tur
 thumbnail: feldman-jh-2010-03-01.jpg
 
 images:
+- url: feldman-pawtlib-1994-01.jpg
+  caption: 'Photo from the Pawtucket Library, dated 1994 — Of particular interest is the other neon sign on the right (what would be the south west corner) which was missing by our photo in 2002'
+  alt: 'An irregularly shaped red brick building with white painted brick first floor commercial storefront. An ornate metal cornice tops its third story as well as a vertically oriented formr neon sign set on a chamfered corner. Ghost signs are on many faces of the building along with a carved sandstone marking at second floor level that says “How Do The Beasts Groan”'
 - url: feldman-jh-2006-02-01.jpg
-  alt: ''
 - url: feldman-jh-2009-02-01.jpg
 - url: feldman-jh-2009-02-02.jpg
 - url: feldman-jh-2009-02-03.jpg
@@ -45,7 +47,7 @@ images:
 - url: feldman-jh-2010-03-04.jpg
 - url: feldman-jh-2010-03-05.jpg
 
-imagescredit:
+imagescredit: 'Contribution from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157673949588005" target="_blank">Pawtucket Library on Flickr</a>'
 
 mostrecentimage: 2021-07-01
 
