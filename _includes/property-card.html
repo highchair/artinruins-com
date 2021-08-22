@@ -1,10 +1,11 @@
-{%- if item.thumbnail -%}
-  {%- assign item_image = item.thumbnail -%}
-{%- else -%}
-  {%- assign item_image = item.images.first.url -%}
-{%- endif -%}
 {%- assign categories = item.categories -%}
     <li{% if categories contains '#DemolitionAlert' %} class="demolition-alert"{% endif %}>
+      {%- if item.thumbnail -%}
+        {%- assign item_image = item.thumbnail -%}
+      {%- else -%}
+        {%- assign item_image = item.images.first.url -%}
+      {%- endif -%}
+      {%- if item_image.size > 0 -%}
       <div class="taxonomy__img-wrap">
         {%- if categories contains '#DemolitionAlert' -%}
         <div class="snipe snipe--demolition">Demolition Alert</div>
@@ -18,6 +19,7 @@
           cache: true
         {% endresponsive_image_block %}
       </div>
+      {%- endif -%}
       <div class="taxonomy__colwrap">
         <div class="taxonomy__title-wrap">
           <h2 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}" class="taxonomy__link">{{ item.title }}</a></h2>
