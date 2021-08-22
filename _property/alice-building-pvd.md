@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Martin & Hall', 'Cornish Associates' ]
 people: [ 'Joseph Banigan' ]
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: []
+tags: [ 'Apartments for Rent' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
@@ -85,13 +85,14 @@ More photos of the spaces can be found at [@WestminsterLofts on Instagram](//www
 
 The Alice building was the home to many business and commercial storefronts, as it is now. Some of the brand names include Kay Jewelers, Fanny Farmer, and more recently, Tazza Caffe.
 
-_From the RIHPHC’s survey of Downtown Providence (P-P-5)), May 1981_
-
-The growth of department stores and large specialty stores did not immediately replace the individual craftsman or one-man store. In fact, a number of commercial structures erected in the retail area around the turn-of-the-century were built specifically to house these small operations, which must have benefitted from proximity to other retail enterprises. Both the Alice Building 1898 at 236 Westminster Street and the [Mason Building]({% link _property/mason-risd-cit.md %}) circa 1910 at 165 Weybosset Street originally featured shopping arcades on the upper floors, each small shop having a storefront on the corridor. Tailors, milliners, seamstresses, and dressmakers occupied these shops, as well as quarters in more conventional commercial structures, such as the Kinsley Building 1912, the [William H. Low Building]({% link _property/peerless-low-buildings-pvd.md %}) 1894, or the Caesar Misch Building 1903.
-
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
 236-250 Westminster **Alice Building** (1898): Martin & Hall, architects. 7-story, stone-trimmed, brick building with mid-20th-century storefronts; plate-glass display windows with tripartite transoms on second story; heavy cornice above second story, corner projecting pavilions on third through seventh stories; variety of surface texture on upper stories includes rustication of second and third stories and engaged columns at sixth and seventh stories; interior extensively remodeled on first story; upper stories retain original layout as shopping arcades. 
 
 The Alice Building was erected as an investment property by rubber magnate Joseph Banigan and
 named for his daughter, Mrs. James E. Sullivan. While the concept of a large building containing small shops had been realized in the Arcade of 1828, the precedent is without successor Downtown except for the Alice Building and the later Mason Building on Weybosset Street (now altered). A handsome commercial structure and an integral part of the streetscape, the Alice Building is increased in significance by its interior shopping arcade, a use of space completely belied by its standard exterior articulation.
+
+
+_From the RIHPHC’s survey of Downtown Providence (P-P-5)), May 1981_
+
+The growth of department stores and large specialty stores did not immediately replace the individual craftsman or one-man store. In fact, a number of commercial structures erected in the retail area around the turn-of-the-century were built specifically to house these small operations, which must have benefitted from proximity to other retail enterprises. Both the Alice Building 1898 at 236 Westminster Street and the [Mason Building]({% link _property/mason-risd-cit.md %}) circa 1910 at 165 Weybosset Street originally featured shopping arcades on the upper floors, each small shop having a storefront on the corridor. Tailors, milliners, seamstresses, and dressmakers occupied these shops, as well as quarters in more conventional commercial structures, such as the Kinsley Building 1912, the [William H. Low Building]({% link _property/peerless-low-buildings-pvd.md %}) 1894, or the Caesar Misch Building 1903.

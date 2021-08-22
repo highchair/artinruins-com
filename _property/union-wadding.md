@@ -15,7 +15,7 @@ neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'Church Hill Industrial District', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'Demolition by Fire' ]
+tags: [ 'Demolition by Fire', 'Apartments for Rent' ]
 
 NRHP-ref-number: '10001218 (expanded)'
 added-to-NRHP: '2010'

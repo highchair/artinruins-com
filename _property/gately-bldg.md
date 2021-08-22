@@ -15,7 +15,7 @@ neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'Church Hill Industrial District', 'National Register of Historic Places' ]
-tags: [ 'Former Banks' ]
+tags: [ 'Apartments for Rent', 'Former Banks' ]
 
 NRHP-ref-number: '12000135'
 added-to-NRHP: 'January 26, 2012'

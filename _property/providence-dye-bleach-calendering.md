@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Frank P. Sheldon & Son' ]
 people: [ 'Hercules Whitney', 'Henry Hoppin', 'Christopher Olney' ]
 lists: [ 'National Register of Historic Places', 'Providence Dyeing, Bleaching, & Calendering Co', 'Providence Industrial Sites 1981' ]
-tags: [ 'Ghost Signs' ]
+tags: [ 'Apartments for Rent', 'Ghost Signs' ]
 
 NRHP-ref-number: '04000809'
 added-to-NRHP: 'October 18, 2004'

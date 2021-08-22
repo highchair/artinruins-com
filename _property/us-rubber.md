@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: []
 people: []
 lists: [ 'National Register of Historic Places', 'U.S. Rubber Co. Mill Complex', 'PPS/AIA Industrial Commercial Buildings Survey' ]
-tags: []
+tags: [ 'Apartments for Rent' ]
 
 NRHP-ref-number: '05000917 (individual)'
 added-to-NRHP: 'August 2005'

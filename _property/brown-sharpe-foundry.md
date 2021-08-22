@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Frederick Howe', 'Foundry Associates' ]
 people: [ 'Joseph R. Brown', 'Lucian Sharpe', 'Thomas McFarlane', 'Richmond Viall' ]
 lists: [ 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981', 'Providence’s Five Industrial Wonders' ]
-tags: [ 'The Superlatives' ]
+tags: [ 'The Superlatives', 'Apartments for Rent' ]
 superlative: 'During the 19th and 20th centuries, Brown & Sharpe was one of the best-known and most influential machine tool builders and was a leading manufacturer of instruments for machinists'
 
 NRHP-ref-number: '03000081 (individual)'
@@ -169,7 +169,7 @@ At its height, **Brown & Sharpe** revolutionized the way machine parts were engi
 
 ### Current Events
 
-[Promenade Apartments](//www.promenadeprov.com/){:target="_blank"} has details about apartment and office space availability.
+[Promenade Apartments](//www.promenadeprov.com){:target="_blank"} has details about apartment and office space availability.
 
 
 ### History

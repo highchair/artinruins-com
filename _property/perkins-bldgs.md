@@ -15,7 +15,7 @@ neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'DBVW Architects' ]
 lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey' ]
-tags: [ 'The Superlatives' ]
+tags: [ 'The Superlatives', 'Apartments for Rent' ]
 suprlative: 'The older building in this complex is one of only a handful of wood-framed mill buildings in the state'
 
 NRHP-ref-number: '03001521 (individual)'

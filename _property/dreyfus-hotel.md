@@ -15,7 +15,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son', 'DBVW Architects', 'TRAC Builders' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: [ 'Former/Current Hotels', 'Yellow brick' ]
+tags: [ 'Apartments for Rent', 'Former/Current Hotels', 'Yellow brick' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'

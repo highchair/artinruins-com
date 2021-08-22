@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son', 'Martin & Hall', 'DBVW Architects', 'Cornish Associates' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: [ 'The Superlatives' ]
+tags: [ 'The Superlatives', 'Apartments for Rent' ]
 superlative: 'The first department store of its magnitude in Providence established in 1866 — the building would later be replaced in 1873'
 
 NRHP-ref-number: '84001967 (contributing)'

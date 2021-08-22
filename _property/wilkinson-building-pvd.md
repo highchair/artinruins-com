@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Cornish Associates' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: []
+tags: [ 'Apartments for Rent' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'

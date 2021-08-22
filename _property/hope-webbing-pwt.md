@@ -16,7 +16,7 @@ town: [ 'Pawtucket, RI' ]
 designers: [ 'Urban Smart Growth' ]
 people: [ 'Frank Sawtelle', 'Maguire & Penniman' ]
 lists: [ 'National Register of Historic Places' ]
-tags: [ 'The Superlatives']
+tags: [ 'The Superlatives', 'Apartments for Rent' ]
 superlative: 'Said to be the largest plant in world making narrow woven fabric in 1923'
 
 NRHP-ref-number: '06000297'

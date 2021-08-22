@@ -15,7 +15,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'SBER', 'Armory Revival Company' ]
 lists: [ 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981' ]
-tags: [ 'The Superlatives' ]
+tags: [ 'The Superlatives', 'Apartments for Rent' ]
 superlative: 'At one time, the largest consumer of wool in the United States'
 
 NRHP-ref-number: '03000656 (individual)'
