@@ -12,6 +12,14 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: atlantic-degras
+  person: 'Veronica Baker'
+  content: 'According to my grandfather’s 1918 Draft Registration Card, he was a percher at Riverside Mills. His name was John Kudzma and he was born in Lithunia in 1877. I don’t know when he emigrated to the US.'
+
+- property: american-woolen-riverside-mills
+  person: 'val'
+  content: 'My friend lives near this site now and all I can say is it’s very noisy and no fun to be living near, at least during renovation.'
+
 - property: holiday-inn-pvd
   person: 'Executive during renovation'
   date: '2016-09-27'

@@ -15,8 +15,8 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Frank P. Sheldon & Son' ]
 people: [ 'Hercules Whitney', 'Henry Hoppin', 'Christopher Olney' ]
-lists: [ 'National Register of Historic Places', 'Providence Industrial Sites 1981' ]
-tags: []
+lists: [ 'National Register of Historic Places', 'Providence Dyeing, Bleaching, & Calendering Co', 'Providence Industrial Sites 1981' ]
+tags: [ 'Ghost Signs' ]
 
 NRHP-ref-number: '04000809'
 added-to-NRHP: 'October 18, 2004'
@@ -73,6 +73,8 @@ images:
   - url: pdbc-jh-2004-04-22.jpg
   - url: pdbc-jh-2004-04-23.jpg
   - url: pdbc-jh-2004-04-24.jpg
+  - url: pdbc-jh-2005-08-01.jpg
+    caption: 'Building #8 — Ghost sign visible on this façade facing Valley Street, reading “Providence Dyeing Bleaching & Calendaring Co.” Second line across a lower row of windows is illegible'
   - url: pdbc-jh-2006-06-01.jpg
   - url: pdbc-jh-2006-06-02.jpg
   - url: pdbc-jh-2006-06-03.jpg
@@ -92,6 +94,8 @@ images:
     caption: 'View of Gillian Christy’s sculpture “Embrace”, atop the smokestack. Installed in May, 2007'
 
 imagescredit: 'Contributions by Edward Connors for the National Register nomination form'
+
+mostrecentimage: 2007-06-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -126,6 +130,9 @@ The Plant is managed by the [Armory Revival Company and Armory Management](//arm
 
 
 ### History
+
+**Note:** This property has been split in our archive into two parts: [Atlantic-Degras / Providence Dyeing, Bleaching, & Calendering Company (Calender Mills)]({% link _property/atlantic-degras.md %}) and Providence Dyeing, Bleaching, & Calendering Company (The Plant).
+{:.o__tldr}
 
 _From the National Register nomination form, 2003, prepared by Edward Connors and Associates_
 
@@ -166,6 +173,7 @@ between the Atlantic-Degras Building (No. 9) and the Machine/Carpenter Shop (No.
 [Following the second World War, despite] efforts at modernization, the company was unable to secure an adequate regional market because of the relocation of New England textile mills to the southern states, a process that had begun some thirty years earlier. In ill health at age 79, [then-owner Wilfred] Ward put his stock in the company up for sale in 1952. There were no buyers; after 137 years of operation PDB&C was liquidated in April, 1952. A company representative stated the reason for failure in very simple terms: “lack of profit.” Jali Realty (Jacob Licht) purchased the plant at auction on June 4, 1952. As described in a Providence Journal article the following day, much of the plant’s $300,000 worth of machinery was shipped to southern mills.
 
 The plant has been occupied by various tenants since that time. One current occupant, **Antonelli Plating, Inc.**, was incorporated in 1956 at which time it occupied Buildings 7, 11, 16, and 17. Circa 1962 Antonelli acquired Buildings No. 9 and 15 and built a rear cinderblock addition in 1976. The buildings of the central, and oldest part of the complex, including Buildings 1-6, 8, 12, and 13, are vacant. Ocean State Metals has occupied the Mangle/Tenter Room (No. 19) since the mid-1990s. 
+
 </details>
 
 
