@@ -13,7 +13,7 @@ date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Clifton Hall' ]
+designers: [ 'Clifton Hall', 'SignalWorks' ]
 people: []
 lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: []

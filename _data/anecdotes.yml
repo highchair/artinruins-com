@@ -12,6 +12,10 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: teste-block
+  person: 'Charles'
+  content: 'Someone told me not long ago that it belongs to Southern Union Gas Company (a.k.a. National Grid, a.k.a New England Gas, a.k.a. Providence Gas). Their main building is adjacent.'
+
 - property: atlantic-degras
   person: 'Veronica Baker'
   content: 'According to my grandfather’s 1918 Draft Registration Card, he was a percher at Riverside Mills. His name was John Kudzma and he was born in Lithunia in 1877. I don’t know when he emigrated to the US.'
