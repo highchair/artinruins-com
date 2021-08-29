@@ -19,7 +19,7 @@ lists: [ 'National Register of Historic Places', 'Downtown Pawtucket Historic Di
 tags: [ 'Ghost Signs' ]
 
 NRHP-ref-number: '06001227 (contributing)'
-added-to-NRHP: 'April 2007'
+added-to-NRHP: 'November 2006'
 
 address: '49 North Union Street, Pawtucket RI'
 latitude: '41.8790006'

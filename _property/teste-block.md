@@ -57,11 +57,13 @@ mostrecentimage: 2013-10-01
 
 ### Redevelopment
 
-Architects [StudioMeja](//studiomeja.com/work-3){:target="_blank"} (renamed [SignalWorks](//www.signalworksarchitecture.com/projects/providence-g/){:target="_blank"}) submitted plans and gained approval for a mixed use restaurant and residential use. Extensive masonry work will be done to the building and a new glassed-in courtyard will expand the footprint for a 30+ seat restaurant.
+Providence Capital, a real-estate developer led by Vincent Geoffroy, and  Architects [StudioMeja](//studiomeja.com/work-3){:target="_blank"} (renamed & rebranded as [SignalWorks](//www.signalworksarchitecture.com/projects/providence-g/){:target="_blank"}) submitted plans and gained approval for a mixed use restaurant and residential use. Extensive masonry work was done to the building and a new glassed-in courtyard will expand the ground- and second-floor footprint for a 30+ seat restaurant.
 
-We are not completely sure, but we believe the owners/developers took on this renovation at the same time as the nearby Providence G project which converted the former National Grid gas company buildings and the garage for the former Narragansett Hotel.
+Providence Capital took on this renovation at the same time as the nearby Providence G project, which converted the former National Grid gas company buildings and the garage for the former Narragansett Hotel into residential units as well as restaurant and commercial space. Providence Capital was also recently awarded $3.5 million to renovate and convert the former Union Trust building into residential.[^1]
 
-The redevelopment plan and execution won a Providence Preservation Society (<span class="abbr">PPS</span>) Design Excellence Award in 2017 for the entire Providence G development. This building had previously appeared on its [Ten Most Endangered List](//guide.ppsri.org/property/teste-block){:target="_blank"} five years in a row (2007 through 2011). 
+[^1]: RI Commerce Awarded Projects for tax credits, 2016, captured August 25, 2021 from https://commerceri.com/incentives/tax-credits-and-financing/rebuild-rhode-island-tax-credit-providence-capital/
+
+The redevelopment plan and execution won a Providence Preservation Society (<span class="abbr">PPS</span>) Design Excellence Award in 2017 for the entire Providence G development. The Teste Block building had previously appeared on <span class="abbr">PPS</span>’s [Ten Most Endangered List](//guide.ppsri.org/property/teste-block){:target="_blank"} five years in a row (2007 through 2011). 
 
 Along with the [George C. Arnold]({% link _property/george-arnold.md %}) building on Washington Street, these two buildings represent the narrowest still standing in the city. 
 

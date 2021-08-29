@@ -17,7 +17,7 @@ designers: [ 'Designer Unknown' ]
 lists: [ 'Church Hill Industrial District', 'National Register of Historic Places' ]
 tags: [ 'Apartments for Rent', 'Former Banks' ]
 
-NRHP-ref-number: '12000135'
+NRHP-ref-number: '12000135 (contributing)'
 added-to-NRHP: 'January 26, 2012'
 
 address: '335 Main Street, Pawtucket RI'

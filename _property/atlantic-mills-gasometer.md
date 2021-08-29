@@ -68,13 +68,13 @@ imagescredit: 'Contributions from <a href="//www.flickr.com/photos/hivearchive/"
 
 As the [history from SignalWorks Architects documents]({% link supplements/atlantic-mill-gasometer-history.md %}), the building was used as a gasometer by the Atlantic Mills until the turn of the century, when the dome was replaced by a flat, wood timbered roof. From about 1900 to 1940 they continued to use it as storage until leasing it to Arpin Van Lines until 1980. A jewerly manufacturer used it for another 20 years until it was vacated in 2000.
 
-From about 2003 up until 2014, the art collection Hive Archive made the rotunda their home base. They got a grant and fundraised to strip the building down to the studs, support the rotunda ceiling with new steel trusses, repoint and repair the brick, upgrade some of the windows, were in the process of turning the building into studio, performance, and community spaces.
+From about 2003 up until 2014, the art collection **Hive Archive** made the rotunda their home base. They got a grant and fundraised to strip the building down to the studs, support the rotunda ceiling with new steel trusses, repoint and repair the brick, upgrade some of the windows, were in the process of turning the building into studio, performance, and community spaces.
 
 The work was never fully completed. Unfortunately, the Hive Archive dissolved as an organization in 2014[^1] and the building was once again underutilized and vacant.
 
 [^1]: Open Corporates entry for the Hive Archive, founded 2001, captured June 19, 2021 from https://opencorporates.com/companies/us_ri/000118180
 
-In 2015 the building was acquired by a new local developer under the corporate name Wide Plank Developers. The owner, Eric Army, AIA, used the building as a catalyst for a community venture as well as an architectural studio (the first B-corporation architecture firm in the state). The necessary work on the building was completed in 2017.
+In 2015 the building was acquired by a new local developer under the corporate name Wide Plank Developers. Eric Army, AIA, and the renamed architectural firm SignalWorks ([the first B-corporation architecture firm in the state](//www.signalworksarchitecture.com/bcorp/){:target="_blank"}) developed the building as a catalyst for a community venture as well as an office. The necessary work on the building was completed in 2017.
 
 
 ### Current Events
