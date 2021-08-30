@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: mcdevitt-pwt
+  person: 'McDevitts clothing Store 1915-1940?'
+  date: '2015-10-15'
+  content: 'I am a great grandson of William H. McDevitt who purchased the former Kinyon’s Building at 23 Broad St. In Pawtucket. According to the document I found listing possible national historic buildings in Pawtucket, his store moved into the building in 1915 and was remodeled in art deco style in 1923. My mother (Sally Simpson McDevitt Cunneen) remembered visiting the store as a girl in the 1920s and 30s and being very impressed with what a big and fancy department store it was. William H. McDevitt lived until 1940, I believe. He is listed on the wall of contributing founders in the old main building at Providence College, having given money to help create a Catholic College on RI. I believe his son William J. McDevitt took over running the store. and that his branch of the family have remained successful businesspeople in Rhode Island down til today. William H. is buried in in the McDevitt family plot, together with my grandparents (John N. McDevitt & Marguerite O’Callaghan McDevitt) in St. Francis Cemetery in Pawtucket.'
+
 - property: teste-block
   person: 'Charles'
   content: 'Someone told me not long ago that it belongs to Southern Union Gas Company (a.k.a. National Grid, a.k.a New England Gas, a.k.a. Providence Gas). Their main building is adjacent.'
