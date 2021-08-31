@@ -1,6 +1,6 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: j-l-clark-manufacturing\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: arnold-stable-pwt\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
 # Replace: - property: providence-armory\n  person: '\1'\n  content: '\2'\n
@@ -11,6 +11,16 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: beswick-building-pwt
+  person: 'Martin Yates'
+  date: '2010-12-28'
+  content: 'Frances Beswick was my gt x3 aunt (formerly Frances Yates) who married John Beswick at Ashton under Lyne, Lancashire, England in 1867. John Beswick and his wife and baby son Thomas emigrated to America 2yrs later, along with my gt grandfather Albert yates, who was just 3 yrs old.'
+
+- property: beswick-building-pwt
+  person: 'Tammy Drape'
+  date: '2010-08-02'
+  content: 'The building was owned by my late fathers father, Mr. Frank Varone. He passed away (1974), when my father took over the business. I do know at one time there was a poultry place, along with a dentist on the 2nd floor. The open storefront on Exchange (next to the diner) used to be Starwatch… I will have to gather more info. Miles (the owner of the diner) would also be able to tell you a little more. It was nice to see the Beswick Building in the news. Beautiful architecture, love the window in front. The previous owner has since passed away (Kenneth Varone. 12/04). His widow sold the building.'
 
 - property: mcdevitt-pwt
   person: 'McDevitts clothing Store 1915-1940?'

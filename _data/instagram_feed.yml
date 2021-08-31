@@ -2,8 +2,12 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
-- post: beef-barn-ns
-  date: '2021-19-08'
+- post: beswick-building-pwt
+  date: '2021-08-30'
+  insta_link: https://www.instagram.com/p/CTKoUSsHqmL/
+
+- post: beef-barn-no1
+  date: '2021-08-19'
   insta_link: https://www.instagram.com/p/CSvjukJsm0J/
 
 - post: j-l-clark-manufacturing
