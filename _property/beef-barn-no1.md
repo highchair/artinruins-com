@@ -45,6 +45,7 @@ images:
     caption: 'Photo by Thomas Wetzel, August 2021'
   - url: beef-barn-jh-2021-08-01.jpg
     caption: 'A night time shot of the Beef Barn building sans its sign, interior, and silo'
+  - url: beef-barn-jh-2021-08-02.jpg
 
 imagescredit: 'Contributions from Thomas Wetzel and from Joe St. Pierre for RI Monthly'
 
@@ -57,7 +58,7 @@ external:
     url: https://www.google.com/maps/uv?pb=!1s0x89e46a6247ad56bb%3A0xa57d0aa64717af41!3m1!7e115!5sGoogle%20Search!15sCgIgAQ&hl=en&imagekey=!1e10!2sAF1QipPtvCYEzuWAECLgfSxtpvM1G0i38AZg7TPcGKEt&sa=X&ved=2ahUKEwj03pv7mMbyAhUhneAKHQfxB9AQ9fkHKAB6BAgBEEc
 ---
 
-### Reason for Demolition
+### Reason for Relocation
 
 The owners of the Beef Barn restaurant never owned the land that the building sat on. Under threat of rising rent, the owners decided to move the restaurant — and the iconic silo — to a new location that is more in keeping with the farm theme. The former Homestead Gardens building will be a roomier home with six acres of open land surrounding it. The owners plan to expand the business after the main restaurant reopens. 
 
