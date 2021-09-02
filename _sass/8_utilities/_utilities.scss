@@ -43,6 +43,11 @@
       letter-spacing: ($kerning * 2);
       text-transform: uppercase;
     }
+  
+    // Text alignment
+    &__center {
+      text-align: center;
+    }
   }
   
   // Images

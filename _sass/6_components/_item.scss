@@ -73,6 +73,17 @@
     color: $white;
     overflow-y: hidden;
 
+    // Scrollbar properties
+    scrollbar-color: palette('brand-dark-brown');
+
+    &::-webkit-scrollbar {
+      background: palette('brand-dark-brown');
+    }
+    
+    &::-webkit-scrollbar-thumb {
+      background: palette('brand-orange');
+    }
+
     img {
       max-height: 50vmin;
       max-width: none;

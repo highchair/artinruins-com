@@ -1,0 +1,33 @@
+table {
+  caption {
+    @include ff-sans(bold);
+    color: palette('brand-teal');
+    padding-top: $vertical-rhythm;
+    padding-bottom: $vertical-rhythm;
+  }
+}
+
+.table {
+  &__bordered {
+    border-top: 1px solid palette(gray-200);
+    
+    th, td {
+      padding: 0.25rem 0.5rem;
+    }
+    
+    thead th {
+      border-bottom: 2px solid palette(gray-200);
+    }
+    
+    td:not(:last-child),
+    tbody th {
+      border-bottom: 1px solid palette(gray-200);
+      border-right: 1px solid palette(gray-200);
+    }
+  
+    .timeline-span {
+      background-color: palette(gray-100);
+      color: palette(gray-900);
+    }
+  }
+}
