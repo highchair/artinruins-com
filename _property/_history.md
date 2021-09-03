@@ -223,7 +223,7 @@ Still In Use
 Redeveloped
 + 755 Westminster Street
 + American Locomotive Works
-++ Calender Mills
++ Calender Mills
 + Firehouse 13
 + L. Vaughn Company / 1153 Westminster St
 ++ Pearl Street Lofts
@@ -253,12 +253,12 @@ Historic
 + Providence Central Fire Station
 
 Still in Use
-++ Eddy Estate Carriage House
++ Eddy Estate Carriage House
 ++ Imperial Place
 + Regal Plating
 
 Redeveloped
-++ 130 Vinton / Vinton Street Garage
++ 130 Vinton / Vinton Street Garage
 ++ 340 Broadway (Seven Stars)
 ++ Lawton Family Storage / Pilgrim Congregational Church
 ++ Liberty Elm Diner
@@ -314,7 +314,7 @@ Still In Use
 Urban Decay
 ++ 175 Broad Street (former Boy Scouts, now Planned Parenthood)
 ++ The Arcade (?)
-++ Beswick Building, Pawtucket (?)
++ Beswick Building, Pawtucket (?)
 + Down Under Duckpin
 + Morris Novelty
 + Rustic Drive-In
@@ -336,7 +336,7 @@ Redeveloped
 ++ Davis Lofts (407pinest)
 ++ Dunkin Donuts Center
 ++ M Residential
-++ McDevitt Building
++ McDevitt Building
 ++ Mile Squared
 ++ Park Cinema
 ++ Peter Green House
@@ -354,7 +354,7 @@ Still In Use (Some of these were added 2010)
 ++ Grants Mill
 ++ Market House
 ++ Shepard Fairey attacks Providence
-++ Teste Block
++ Teste Block
 ++ To Kalon Club
 
 Urban Decay

@@ -6,9 +6,9 @@ title: "Help Support ArtInRuins"
 meta-title: "Help Support A.I.R. | ArtInRuins"
 body-class: support
 sitemap:
-  lastmod: 2020-07-25
+  lastmod: 2021-09-02
   priority: 0.6
-  changefreq: 'monthly'
+  changefreq: 'yearly'
 ---
 
 ArtInRuins is a labor of love. We are not a huge organization, we are not a giant team of volunteers, we are only a few people willing to spend the time to do the research and take the photos and design and support the website. We love what <abbr title="ArtInRuins">A.I.R.</abbr> has become and want to see it continue. That being said, <abbr title="ArtInRuins">A.I.R.</abbr> can only be updated in our “spare” time, and it does cost real money from time to time. So, here are some ways that you can help.
@@ -34,8 +34,10 @@ This is not why we do it… but if you really like ArtInRuins, we have a gift l
 
 The history we collect here is typically cut-and-pasted from work other people have done – we won’t pretend that it isn’t. And yet, some of it is new and done for the first time. Some of it is current events and it takes keeping our ears on the ground, picking up new info, riding by to see what is going on, or getting tips from fellow <strike>snoops</strike> historians like you.
 
-Help us grow ArtInRuins and our collection of buildings. Contribute your expertise about a building, or, [contact us]({{ '/' | relative_url }}contact) for a to do list of properties that we’d like more info on before we build a page for it.
+Help us grow ArtInRuins and our collection of buildings. Contribute your expertise about a building, or, [contact us]({% link contact.md %}) for a to do list of properties that we’d like more info on before we build a page for it.
 
+We have [a list of properties that need updated images](/property/list-by-newest-image/)! Tackle the ones towards the top of the list first so we don’t have any property still standing with images more than 10 years old, and thanks! 
+{:o__tldr}
 
 ## People who have helped
 
