@@ -15,11 +15,11 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son' ]
 people: [ 'Ebenezer Knight Dexter' ]
-lists: [ 'PPS Ten Most Endangered', 'Broadway-Armory Historic District', 'National Register of Historic Places' ]
+lists: [ 'PPS Ten Most Endangered', 'Broadway-Armory Historic District', 'National Register of Historic Places', 'HABS/HAER' ]
 tags: [ 'Yellow brick' ]
 
-NRHP-ref-number: '74000047 (individual)'
-added-to-NRHP: 'September 1997'
+NRHP-ref-number: '74000047 (contributing)'
+added-to-NRHP: 'May 1, 1974'
 
 address: '125 Dexter Street, Providence RI'
 latitude: '41.8126589'
