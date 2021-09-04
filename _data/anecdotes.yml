@@ -12,6 +12,34 @@
 
 # Check validity with http://www.yamllint.com/
 
+
+- property: vinton-st-garage
+  person: 'JP'
+  date: '2013-12-22'
+  content: 'This building was built about 1919 for James Tramonti, as a garage. The architect was B. S. D. Martin.'
+
+- property: vinton-st-garage
+  person: 'John'
+  dat: '2013-09-22'
+  content: 'I remember a beer distributor Paddy Byrne being in this building. They sold Schaffer beer.'
+
+- property: vinton-st-garage
+  person: 'Tyler'
+  date: '2009-08-20'
+  content: 'Why did they go through all the trouble of putting up what appears to be EIFS? Rather than just cleaning the original brick which would have been cheaper, faster, and better looking.
+
+
+(**A.I.R.**: We hear that. Same question.)'  
+
+- property: vinton-st-garage
+  person: 'mj'
+  date: '2009-01-19'
+  content: 'I was the project super on this job If you want ant further info get in contact. OH and the cheap “weird wavy glass” that was done to mimic orignal historic glass. The improvements done here were done in a way to honor the historic charecter of the building but also with cost in mind hence the detail at the top. It may not be Yellow porcelin brick but at least the detail is not lost forever. lets face it the thing was a eyesore and a Rat nest for better than 20 years and destined to be torn down at least it now has a new lease on life. if you need any history on the building let me know.'
+
+- property: vinton-st-garage
+  person: 'Zaidee'
+  content: 'I live right down the street from this and am so disappointed to see what’s being done to the building (my father even more so than me). It all looks kind of cheap too; the windows have a wierd plastic wavy-ness to them. Sadly the lot is becoming parking. They’ve already begun work on it. I had never seen the inside of the building until one night the front was open and you could see bands playing inside, along with a rock-em-sock-em robots tournament that was going on.'
+
 - property: barnaby-carriage-house
   person: 'Kevin Novell' 
   date: '2019-11-15' 
