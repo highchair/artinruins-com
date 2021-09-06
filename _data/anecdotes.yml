@@ -12,6 +12,14 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: combination-ladder
+  person: 'Lonnie Clark'
+  date: '2014-12-26'
+  content: 'I own one of the few existing Fire Hose wagons made or brokered by them'
+
+- property: combination-ladder
+  person: 'Eleanor Emby'
+  content: 'I was looking up info on the Combination Ladder Company in Providence when I came across your website. My maternal grandfather, Americo Fazzi and his brother Vincent Fazzi, both worked for Combination Ladder in the 1920s before forming the A&V Tire Company on Broadway. Apparently, at the time, Combination Ladder owned the distribution rights for Diamond Tires (which were manufactured by BF Goodrich), and they decided to give up the distributorship. My grandfather and his brother bought the rights and opened their own business, which lasted 50 years. (I think that’s the correct version). I showed your info to my parents, they loved it.'
 
 - property: vinton-st-garage
   person: 'JP'
