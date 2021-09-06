@@ -41,6 +41,7 @@ images:
     caption: 'Collection of the Pawtucket Library — The Kinyon Block as it appeared in 1914, with corner clearstory and cone-shaped tower'
   - url: mcdevitt-pwtlib-1989-05-01.jpg
     caption: 'Collection of the Pawtucket Library — The McDevitt’s Building as it appeared in 1989, showing signs of wear and under-utilization'
+  - url: mcdevitt-jh-2006-02-01.jpg
   - url: mcdevitt-jh-2009-03-01.jpg
   - url: mcdevitt-jh-2009-09-01.jpg
   - url: mcdevitt-jh-2009-09-02.jpg
