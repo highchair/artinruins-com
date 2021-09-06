@@ -34,7 +34,7 @@ thumbnail: monohasset-jh-2006-04-01.jpg
 images:
   - url: monohasset-sanborn-1899-01.jpg
     caption: 'Sanborn Insurance Map, 1899-1900, volume 1 sheet 15 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library. Notice how the “former” Armington Sims buildings are labelled as vacant and will be used as storage for the nearby Providence Brewing Company'
-    alt: ''
+    alt: 'A four story red brick mill with a wide stance, monitor roof, and central five story stair tower. An attached two-story red brick structure and associated one story structures surround the main building.'
   - url: monohasset-jh-2002-06-01.jpg
   - url: monohasset-jh-2005-06-01.jpg
   - url: monohasset-jh-2005-06-02.jpg
@@ -61,6 +61,8 @@ images:
   - url: monohasset-jh-2006-04-02.jpg
 
 imagescredit:
+
+mostrecentimage: 2006-04-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'

@@ -28,6 +28,7 @@ thumbnail: ladd-school-owl-2011-02.jpg
 
 images:
   - url: ladd-school-cdc-2002-01.jpg
+    alt: 'A rural complex of state-run municipal buildings of varying designs to house children and adults ith mental disabilities at a time when these differences were thought to be deficiencies'
   - url: ladd-school-cdc-2002-02.jpg
   - url: ladd-school-cdc-2002-03.jpg
   - url: ladd-school-cdc-2002-04.jpg
@@ -57,7 +58,6 @@ images:
     caption: 'Providence Historical Aerial Viewer 2011'
   - url: ladd-school-aerial-2016.jpg
     caption: 'Providence Historical Aerial Viewer 2016'
-  
 
 imagescredit: Contributions by Cristina di Chiera, OwlingDogArt (Flickr), TomCollinsArc (Flickr), and aerials from the Providence Historical Aerial Viewer
 ---

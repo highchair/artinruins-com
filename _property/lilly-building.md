@@ -48,6 +48,8 @@ images:
 
 imagescredit: 'Contributions from the Armory Revival Company'
 
+mostrecentimage: 2006-03-01
+
 #external:
 #  - source: 'Providence Journal (permalink)'
 #    url: https://perma.cc/MQ4Z-Z9K4

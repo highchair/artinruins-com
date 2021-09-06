@@ -31,6 +31,7 @@ thumbnail: bathhouse-jh-2003-11-11.jpg
 
 images:
   - url: bathhouse-jh-2003-11-01.jpg
+    alt: 'A small, red-brick municipal building with two entrances — one for men, one for women — to use as a public bathing center at a time when many local housing units did not have their own indoor plumbing'
   - url: bathhouse-jh-2003-11-02.jpg
   - url: bathhouse-jh-2003-11-03.jpg
   - url: bathhouse-jh-2003-11-04.jpg
@@ -57,7 +58,7 @@ imagescredit: 'Interior before photos by Gilbane Construction'
 
 ### Redevelopment
 
-Rehabilitation of this relatively small structure came with strong community support. So mush so that the City of Providence pledged $500,000 from the Providence Public Buildings Authority (<span class="abbr">PPBA</span>) and Ward One Bond Money. School and local leaders, the Providence School Department, Providence Historic District Commission, and councilmen David Segal and Seth Yurdin led the effort to turn a historic eyesore into a community resource. Studio JAED, The S/L/A/M Collaborative, and Gilbane Building Co. oversaw the exterior restoration and created separate spaces for school library and community gatherings inside.
+Rehabilitation of this relatively small structure came with strong community support. So much so that the City of Providence pledged $500,000 from the Providence Public Buildings Authority (<span class="abbr">PPBA</span>) and Ward One Bond money. School and local leaders, the Providence School Department, Providence Historic District Commission, and councilmen David Segal and Seth Yurdin led the effort to turn a historic eyesore into a community resource. Studio JAED, The S/L/A/M Collaborative, and Gilbane Building Co. oversaw the exterior restoration and created separate spaces for school library and community gatherings inside.
 
 The renovation and reuse of this structure won a Preserve RI and RI Historical Preservation and Heritage Commission award in 2009. 
 

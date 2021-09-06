@@ -33,6 +33,7 @@ thumbnail: masonic-temple-jh-2002-02-01.jpg
 images:
   - url: masonic-temple-eg-1992-01.jpg
     caption: Photo by Erik Gould, 1992
+    alt: 'A Greek-revival sandstone and concrete structure complete with ionic columns and symmetrical façades. More detail contained in the architectural description.'
   - url: masonic-temple-eg-1992-02.jpg
     caption: Photo by Erik Gould, 1992
   - url: masonic-temple-eg-1992-03.jpg
@@ -90,6 +91,8 @@ images:
   - url: masonic-temple-jh-2020-06-01.jpg
 
 imagescredit: 'Contributions from Erik Gould'
+
+mostrecentimage: 2020-06-01
 
 external:
   - source: 'Time Lapse: The Renaissance of a fallen temple, Providence Journal'

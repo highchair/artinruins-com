@@ -65,6 +65,8 @@ images:
 
 imagescredit: 'Contributions by the Online Digital Sanborn Maps via ProQuest and the Providence Public Library (<a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39392/41280/560502" target="_blank">1889</a>, <a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39393/41282/560653" target="_blank">1899</a>, <a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39395/41286/560982" target="_blank">1920</a>, <a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39396/41292/561610" target="_blank">1951</a>, <a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39398/41300/562264" target="_blank">1956</a>)'
 
+mostrecentimage: 2006-04-01
+
 #external:
 #  - source: 'Providence Journal (permalink)'
 #    url: https://perma.cc/MQ4Z-Z9K4

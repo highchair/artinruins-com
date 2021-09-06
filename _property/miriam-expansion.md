@@ -28,6 +28,7 @@ thumbnail: baxt-bldg-jh-2007-05-02.jpg
 
 images:
   - url: baxt-bldg-jh-2005-01.jpg
+    alt: 'A modern, wide rectangular three story architectural panel and steel trimmed hospital addtion with landscaping that softens the exterior as it meets the surrounding residential neighborhood'
   - url: baxt-bldg-jh-2006-01.jpg
   - url: baxt-bldg-jh-2007-05-01.jpg
   - url: baxt-bldg-jh-2007-05-02.jpg
@@ -37,6 +38,8 @@ images:
   - url: baxt-bldg-jh-2007-07-04.jpg
 
 imagescredit: 
+
+mostrecentimage: 2007-07-01
 ---
 
 ### Proposal

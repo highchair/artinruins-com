@@ -77,6 +77,8 @@ images:
 
 imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157711783572483" target="_blank">Pawtucket Library</a>, <a href="//www.loc.gov/pictures/collection/hh/item/ri0371/" target="_blank">HABS/HAER</a>, and <a href="//www.loc.gov/pictures/item/2018700651/" target="_blank">Carol M. Highsmith</a>'
 
+mostrecentimage: 2018-07-01
+
 #external:
 #  - source: 'Providence Journal (permalink)'
 #    url: https://perma.cc/MQ4Z-Z9K4

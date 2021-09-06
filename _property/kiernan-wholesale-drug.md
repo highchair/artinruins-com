@@ -31,7 +31,7 @@ thumbnail: jh-electric-jh-2020-09-01.jpg
 
 images:
   - url: jh-electric-jh-2003-03-01.jpg
-    alt: ''
+    alt: 'A three story red brick medium-sized mill building sitting on a raised concrete basement on a trapezoidal corner lot.'
   - url: jh-electric-jh-2003-03-02.jpg
   - url: jh-electric-jh-2003-03-03.jpg
   - url: jh-electric-jh-2003-03-04.jpg
@@ -46,7 +46,9 @@ images:
   - url: jh-electric-jh-2020-09-01.jpg
   - url: jh-electric-jh-2020-09-02.jpg
 
-imagescredit: 
+imagescredit:
+
+mostrecentimage: 2020-09-01
 ---
 
 ### Redevelopment

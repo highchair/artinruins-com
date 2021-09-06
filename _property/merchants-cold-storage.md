@@ -33,6 +33,7 @@ thumbnail: merchants-cold-rihphc-1994-06.jpg
 images:
   - url: merchants-cold-archive-1917.jpg
     caption: 'National Archives, Military Administration, 1917-1918'
+    alt: 'A large, monumental red brick storage warehouse with flat roof. Architectural details include brick corbels, half-round arched window openings, and drip mouldings. Windows are small but the design looks more open. The entire building was refridgerated using chilled salt water curculating in large pipes throughout.'
   - url: merchants-cold-ppl-1940c.jpg
     caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library, circa 1940 (guess)'
   - url: merchants-cold-sd-1979-03-01.jpg

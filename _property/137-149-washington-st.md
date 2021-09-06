@@ -13,7 +13,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Demolition by Proposal', 'Needs History' ]
+tags: [ 'Demolition by Proposal', 'Needs History', 'Never Built' ]
 
 address: '137–149 Washington Street'
 latitude: '41.8226661'

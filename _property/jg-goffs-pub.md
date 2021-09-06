@@ -27,6 +27,7 @@ thumbnail:
 
 images:
   - url: jg-goff-jh-2004-12-01.jpg
+    alt: 'A small, cute waterfront red brick one story building that was a local watering hole with waterside deck for the last years of its life.'
   - url: jg-goff-jh-2004-12-02.jpg
   - url: jg-goff-jh-2004-12-03.jpg
   - url: jg-goff-jh-2004-12-04.jpg
@@ -51,7 +52,7 @@ J.G. Goff's was formed, owned, and operated by Free & Clear, an “S” corporat
 
 The pub did not open for business on December 9, 2003, and it has not served another customer since that date. Two days later, on December 11, the Building Inspector for the City of Providence declared that the building was unsafe for occupancy and use. 
 
-__Excerpted from__ [Caser Law Archives](//caselaw.findlaw.com/ri-supreme-court/1726055.html)
+__Excerpted from [Caser Law Archives](//caselaw.findlaw.com/ri-supreme-court/1726055.html){:target="_blank"}__
 
 
 ### Current Events
@@ -61,9 +62,9 @@ The area where this building once stood is now home to [River House](//www.myriv
 
 ### History
 
-Haven’t been able to find any. Could this have been a building “study’ for the larger Davol Square (Davol Rubber Company)? Its 1820 build date would say that no, it came before the nearby rubber company by 60 years — the Davol buildings were constructed between 1880 and 1913. . 
+Haven’t been able to find any. Could this have been a building “study’ for the larger Davol Square (Davol Rubber Company)? Its 1820 build date would say that no, it came before the nearby rubber company by 60 years — the Davol buildings were constructed between 1880 and 1913. 
 
-In 2020, I am no longer sure where the 1820 build date came from. The [Wikipedia page for Davol Square](//en.wikipedia.org/wiki/Davol_Square) cites this page as a resource, so, I guess it must be true. 
+In 2020, we am no longer sure where the 1820 build date came from. The [Wikipedia page for Davol Square](//en.wikipedia.org/wiki/Davol_Square) cites our page as a resource, so, we guess it must be true. 
 
 Local legend, bar owner, and bartender John “JR” Richard used to tend at JG Goff’s. Known more recently as the owner of The Avery in Loungo Square, West Side, and the PTX Lounge in Pawtucket Village, Cranston. 
 

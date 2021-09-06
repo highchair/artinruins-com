@@ -59,6 +59,8 @@ images:
 
 imagescredit: 'Contributions from <a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39395/41288/561188" target="_blank">Proquest Digital Sanborn Maps</a>, Providence Public Library; <a href="//www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/" target="_blank">Historic Mapworks</a>; Kerri-Ann Pontifice; and Vision 3 Architects'
 
+mostrecentimage: 2015-01-01
+
 #external:
 #  - source: 'Providence Journal (permalink)'
 #    url: https://perma.cc/MQ4Z-Z9K4

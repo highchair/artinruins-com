@@ -27,6 +27,7 @@ thumbnail: eagle-square-jh-02.jpg
 
 images:
   - url: eagle-square-jh-01.jpg
+    alt: 'A collection of red brick mill buildings of varying sizes and heights. Some buildings have been demolished to make room for modern brick-fasced replacements, while others have been saved and redeveloped into commercial space or residential.'
   - url: eagle-square-jh-02.jpg
   - url: eagle-square-jh-03.jpg
   - url: eagle-square-jh-04.jpg
@@ -89,10 +90,13 @@ images:
     caption: Photo by Stephen Mattos
   - url: eagle-square-jh-2005.jpg
 
-imagescredit: Contributed photos from Sarah Clover, Philip Marshall, and Stephen Mattos.
+imagescredit: 'Contributed photos from Sarah Clover, Philip Marshall, and Stephen Mattos.'
+
+mostrecentimage: 2005-01-01
 ---
 
 ### Reason for Demolition
+
 Eagle Square, [Fort Thunder](//en.wikipedia.org/wiki/Fort_Thunder){:target="_blank"}’s home from 1995–2001, was a vibrant place full of many artists and bands, as well as a  weekend flea market. In 2001, developers by the name of [Feldco](//feldcodevelopment.com/property/eagle-square-providence-ri/){:target="_blank"} approached the city to raze the complex and put in a shopping center. Their original proposal would have leveled **all** of the buildings and erected a cookie cutter Shaw’s plaza. After much protest and back and forth with different design plans, Feldco agreed to save more buildings (only 4 out of 16) and incorporate more of a mill “look.” Even with a better design that saved some of the architectural fabric of the Valley mill district, about a hundred artists were displaced because, after all, this was only every going to be a shopping center.
 
 On a brighter side, the demolition produced a total of 59,701 tons of waste, of which only 349 tons (less than 1%) went to landfill. Old factory buildings were typically constructed in a way that is ideal for reclamation. The precision arm of the Komatzu “long arm” allowed the crew to pluck timbers from the building frame without damaging them. The buildings were full of old growth yellow pine. The timbers in this project were milled into flooring, the bricks that were in good shape for resale were sold, and the rest were crushed for on site fill.
@@ -107,19 +111,22 @@ The area around the river and bike path has been better landscaped and is pretty
 
 #### The Spark of a Revolution
 
-The real silver lining might be the smarter developments and stronger collectives that rose out of the ashes of Eagle Square. We mean
-[Monohasset Mill]({% link _property/monohasset-mill.md %}),
-[the Steel Yard]({% link _property/providence-steel-iron.md %}),
-[the Plant]({% link _property/providence-dye-bleach-calendering.md %}),
-[Firehouse 13]({% link _property/good-will-engine-co.md %}),
-and to a lessor degree, the Streuver Brothers investments in the City:
-[Rising Sun Mills]({% link _property/national-providence-worsted.md %}),
-[Calender Mills]({% link _property/atlantic-degras.md %}), and
-[Alco]({% link _property/american-locomotive-works.md %})
+The real silver lining might be the smarter developments and stronger collectives that rose out of the ashes of Eagle Square. We mean:
+
++ [Monohasset Mill]({% link _property/monohasset-mill.md %}),
++ [the Steel Yard]({% link _property/providence-steel-iron.md %}),
++ [the Plant]({% link _property/providence-dye-bleach-calendering.md %}),
++ [(the forer) Firehouse 13]({% link _property/good-will-engine-co.md %})
+
+And to a lessor degree, the Streuver Brothers investments in the City:
++ [Rising Sun Mills]({% link _property/national-providence-worsted.md %}),
++ [Calender Mills]({% link _property/atlantic-degras.md %}), and
++ [ALCo]({% link _property/american-locomotive-works.md %})
 
 The first four were artist-inspired or artist-run and managed. These represent a “line in the sand” for those that decided to own something and take control, rather than rely on altruistic investors to do the right thing. The [SBER]({% link designer/sber.html %}) projects were investments in the sought-after mill spaces. Ones which, though mixed-blessings in their own right, have proven to be valuable options for people wanting to live in the city. They provide a range of housing that a diverse place like Providence needs. All of these projects benefitted from the Eagle Square conversation, and **“Not another Eagle Square”** became a personal and public mantra for people in the field.
 
 It even gave rise to this little blog project.
+
 
 ### History
 

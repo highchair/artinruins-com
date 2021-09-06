@@ -33,7 +33,7 @@ thumbnail: lapham-jh-2021-02-04.jpg
 
 images:
   - url: lapham-jh-2003-10-01.jpg
-    alt: 'An L-shaped, none-story building that wraps around another four-story building. The first two floors on both steer-fronts feature decorative pilasters and decorative friezes. The building is five bays wide, with the center three windows together in a grouping and outside windows in their own group. Decorative terra cotta and elaborate cornice work as well.'
+    alt: 'An L-shaped, nine-story building that wraps around another four-story building. The first two floors on both steer-fronts feature decorative pilasters and decorative friezes. The building is five bays wide, with the center three windows together in a grouping and outside windows in their own group. Decorative terra cotta and elaborate cornice work as well.'
   - url: lapham-jh-2019-04-01.jpg
   - url: lapham-jh-2019-04-02.jpg
   - url: lapham-jh-2019-04-03.jpg
@@ -53,6 +53,8 @@ images:
   - url: lapham-jh-2021-02-04.jpg
 
 imagescredit:
+
+mostrecentimage: 2021-02-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'

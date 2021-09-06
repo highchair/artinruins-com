@@ -47,6 +47,8 @@ images:
 
 imagescredit:
 
+mostrecentimage: 2004-02-01
+
 #external:
 #  - source: 'Providence Journal (permalink)'
 #    url: https://perma.cc/MQ4Z-Z9K4

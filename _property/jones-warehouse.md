@@ -34,6 +34,8 @@ thumbnail:
 images:
   - url: jones-jh-2002-06-01.jpg
     alt: 'A blocky, thickly built, red brick storage warehouse with short, small windows with granite sills. Two thirds of the building is five stories tall, while the remaining third is seven stories tall. Windows along the top are round arched and in groups. A decorative cornice is on both portions, with a more ornate cornice that is reminiscent of an armory building on the taller setion.'
+  - url: jones-sc-2004-09-01.jpg
+    caption: 'Photo by Sarah Clover. The Good Will Engine Company can be seen in the center as well. Notice how the old painted side on the upper side of the Warehouse is faded and layered with several “Orrin Jones Storage Warehoueses”'
   - url: jones-jh-2006-04-01.jpg
   - url: jones-jh-2006-04-02.jpg
   - url: jones-jh-2006-04-03.jpg
@@ -49,7 +51,7 @@ images:
   - url: jones-jh-2006-04-13.jpg
   - url: jones-jh-2006-04-14.jpg
 
-imagescredit:
+imagescredit: 'Contribution from Sarah Clover'
 
 mostrecentimage: 2006-04-01
 

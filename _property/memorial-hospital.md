@@ -51,6 +51,8 @@ images:
 
 imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/sets/72157665888425744/" target="_blank">Pawtucket Library Flickr album</a>'
 
+mostrecentimage: 2018-11-01
+
 #external:
 #  - source: 'Providence Journal (permalink)'
 #    url: https://perma.cc/MQ4Z-Z9K4

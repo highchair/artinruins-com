@@ -52,6 +52,8 @@ images:
 
 imagescredit: 'Contributions by Warren Jagger for the National Register and Zillow.com'
 
+mostrecentimage: 2020-12-01
+
 #external:
 #  - source: 'Providence Journal (permalink)'
 #    url: https://perma.cc/MQ4Z-Z9K4

@@ -28,6 +28,7 @@ thumbnail: javaspeed-jh-2009-10-02.jpg
 
 images:
   - url: javaspeed-undated.jpg
+    alt: 'A local commercial establishment that sold and repaired scooters, which were typically small engine mototcycles. Coffee and snacks were served along with Pinball games and retail in a relaxed, cafe atmosphere'
   - url: javaspeed-jh-2009-10-01.jpg
   - url: javaspeed-jh-2009-10-02.jpg
   - url: javaspeed-jh-2009-10-03.jpg

@@ -57,6 +57,8 @@ images:
   - url: lebanon-jh-2009-02-09.jpg
   - url: lebanon-jh-2009-02-10.jpg
 
+mostrecentimage: 2009-02-01
+
 imagescredit: 'Contribution by Matthew A. Kierstead for the National Register Nomination form'
 
 #external:

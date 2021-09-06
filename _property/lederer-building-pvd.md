@@ -33,6 +33,7 @@ thumbnail: lederer-jh-2005-11-01.jpg
 images:
   - url: lederer-block-gmh-1937-01.jpg
     caption: 'Insurance map from G.M. Hopkins Co., 1937 — Block where the Lederer and Blackstone buildings (here as “Hotel Berhshire”) are located are highlighted'
+    alt: 'Two buildings have been combined into one hotel, flanking an open courtyard park area. One is a seven story yellow brick with brown sandstone details and a two story cast iron storefront. The other is a five story red brick with white stone details. MOre details in the architectural descriptions.'
   - url: lederer-jb-1976-01.jpg
     caption: 'Two smaller buildings used to occupy what is now Freeman Park — notice the Lederer Building in the top right. Photo by Jay Boersma, 1976'
     alt: 'Two buildings, the Blackstone Hotel is a five-story, red brick clad buiding three bays wide with highly decorative window trim, large ornamental brackets along the roofline, and elaborate cornice. The Lederer building is seven stories faced in yellow brick with brown sandstone trimwork, a cast-iron first-to-second floor storefront entrance, topped with three levels of steel-trimmed bay windows rising above it.'
@@ -59,6 +60,8 @@ images:
   - url: lederer-jh-2021-02-01.jpg
 
 imagescredit: 'Contribution from <a href="//www.re-vision.com/photography/providence/" target="_blank">Jay Boersma’s student collection</a>'
+
+mostrecentimage: 2021-02-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'

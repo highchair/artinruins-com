@@ -42,6 +42,8 @@ images:
   - url: mason-sitespecific-03.jpg
 
 imagescredit: 'Interior images from Site Specific, general contractors'
+
+mostrecentimage: 2006-01-01
 ---
 
 
