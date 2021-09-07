@@ -48,6 +48,13 @@ redirect 301 /links/other.php                  https://artinruins.com/links/
 redirect 301 /links/preservation.php           https://artinruins.com/links/
 redirect 301 /links/venues.php                 https://artinruins.com/links/
 
+# Individual redirects from Backlink checkers
+redirect 301 /arch/saved/provworst/*           https://artinruins.com/property/national-providence-worsted/
+redirect 301 /arch/redevelop/mason/*           https://artinruins.com/property/masonic-temple-pvd/
+redirect 301 /arch/stillinuse/unionstation/*   https://artinruins.com/property/union-station/
+redirect 301 /arch/historical/postcards/*      https://artinruins.com/property/postcards-pvd/
+
+
 # GZIP compression
 <ifModule mod_gzip.c>
   mod_gzip_on Yes
