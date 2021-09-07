@@ -65,6 +65,8 @@ plugins:
 exclude:
   - .htaccess
   - .gitignore
+  - anecdotes.xml
+  - feed.xml
   - Gemfile
   - Gemfile.lock
   - LICENSE
