@@ -41,22 +41,38 @@
   <head>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-817925-2"></script>
     <link rel="dns-prefetch" href="https://use.typekit.net">
+    <link rel="dns-prefetch" href="https://webmention.io">
+    <link rel="stylesheet" type="text/css" href="{{ '/' | relative_url }}assets/css/main.css?{{ "now" | date: "%Y%m%d-%H%M" }}">
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.title }}">
-
-    <title>{{ meta_title }}</title>
-    <meta name="twitter:site" content="@artinruins">
     <meta name="description" content="{{ meta_description | strip_html | truncate: 140 }}">
     <meta property="og:image" content="{{ site.url }}{{ meta_image }}">
-    {%- if page.categories -%}<meta property="og:article:section" content="{{ page.categories.first | strip_html }}">{%- endif -%}
-    {%- if page.date-modified -%}<meta property="og:article:modified_time" content="{{ page.date-modified }}">{%- endif -%}
+    {% if page.categories %}<meta property="og:article:section" content="{{ page.categories.first | strip_html }}">{% endif %}
+    {% if page.date-modified %}<meta property="og:article:modified_time" content="{{ page.date-modified }}">{% endif %}
+    <link href="{{ '/' | relative_url }}feed.xml" type="application/rss+xml" rel="alternate" title="Latest 12 updated Properties (RSS/Atom)" />
+    <link href="{{ '/' | relative_url }}anecdotes.xml" type="application/rss+xml" rel="alternate" title="Latest 24 anecdotes (RSS/Atom)" />
 
-    <link rel="stylesheet" type="text/css" href="{{ '/' | relative_url }}assets/css/main.css?{{ "now" | date: "%Y%m%d-%H%M" }}">
+    <title>{{ meta_title }}</title>
+    
+    <!-- Facebook Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:title" content="{{ meta_title }}">
+    <meta property="og:description" content="{{ meta_description | strip_html | truncate: 140 }}">
+    <meta property="og:image" content="{{ site.url }}{{ meta_image }}">
+    
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:site" content="@artinruins">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="artinruins.com">
+    <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
+    <meta name="twitter:title" content="{{ meta_title }}">
+    <meta name="twitter:description" content="{{ meta_description | strip_html | truncate: 140 }}">
+    <meta name="twitter:image" content="{{ site.url }}{{ meta_image }}">
+    
+    <!-- Icons and Theme -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ '/' | relative_url }}assets/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ '/' | relative_url }}assets/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ '/' | relative_url }}assets/favicons/favicon-16x16.png">
@@ -65,10 +81,14 @@
     <meta name="msapplication-config" content="{{ '/' | relative_url }}assets/favicons/browserconfig.xml">
     <meta name="msapplication-TileColor" content="#007070">
     <meta name="theme-color" content="#007070">
-    {%- if page.body-class == 'home' -%}
+    {% if page.body-class == 'home' %}
     <link href="https://twitter.com/artinruins" rel="me authn">
-    {%- endif -%}
-    {%- comment -%}
+    {% endif %}
+    
+    <!-- Webmentions -->
+    <link rel="webmention" href="https://webmention.io/artinruins.com/webmention">
+    <link rel="pingback" href="https://webmention.io/artinruins.com/xmlrpc">
+    {% comment %}
       Looking for analytics? JS lazy loads it only when the user opts in
-    {%- endcomment -%}
+    {% endcomment %}
   </head>

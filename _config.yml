@@ -66,6 +66,7 @@ exclude:
   - .htaccess
   - .gitignore
   - anecdotes.xml
+  - Changelog.md
   - feed.xml
   - Gemfile
   - Gemfile.lock

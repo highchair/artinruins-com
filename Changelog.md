@@ -1,0 +1,134 @@
+# Tracking design (theme) changes, not content changes
+
+## 2021-09-06
+
+Added
++ RSS/Atom feeds for Properties and for Anecdotes
++ Icons to support Social and RSS Feeds
++ Additional Webmention support meta tags
+
+Fixed
++ Open Graph meta tags for Facebook — page images did not use https
+
+Moved
++ Social Media links out of the third column of the footer and into the Copyright area
+
+## 2021-09-03
+
+Added
++ A contact page
+
+Fixed
++ A link from the Support page to a non-existent Contact page
+
+Changed
++ Added a link to the existing What is ArtInRuins section of the footer to the attribution portion of the new Contact page
+
+## 2021-09-02
+
+Added
++ CSS support for tables
++ A seres of tables that explain the evolution of Stone, Carpenter, Willson, and Sheldon.
+
+## 2021-08-23
+
+Changed
++ Added a more resilient statement to the homepage
++ Remove a link to the old Urban Decay section in navigation in favor of the new category
+* Added abbreviation class to instances of A.I.R. in the footer
+
+## 2021-08-22
+
+Fixed
++ Changed the way liquid statements nest and do a better job of hiding elements when there is no data — includes/property-card.html and layouts/property-item.html
+
+## 2021-08-20
+
+Changed
++ Remove a link to the old Redevelop section in navigation in favor of the new category
+
+## 2021-08-12
+
+Added
++ includes/property-card.html and layouts/property-item.html now allow the values of “Open” and “Closed” instead of “Built” and “Demolition” to support businesses like Javaspeed
+
+## 2020-08-01
+
+Added
++ The `mostrecentimage` variable to support the new list of properties in order by the newest image
++ Add a template to show properties in order by their oldest images in order to show which remaining properties need to have their images updated
++ H6 and a citation class to work with blockquotes
+
+Changed
++ Removed environment checks. If the build used “incremental,” these checks would force every page to need to be rerendered for production. The intent here is to reduce the need to render every single page and use JS instead to change the dev environment the way we want to.
+
+## 2021-06-18
+
+Fixed
++ Refactor the way that properties, images, and anecdotes are counted in the stats and index files
+
+## 2021-05-04
+
+Added
++ To the both the property-item layout and the responsive image layout, add a tag for `decoding="async"` which is supposed to tell the browser that it is OK for image decoding to be done at a later moment so that the browser can continue displaying content even if the images are not fully loaded.
+
+## 2021-04-18
+
+Fixed
++ Moved property JS functions from the global file to the property specific file. They should have been there in the first place
+
+## 2021-04-13
+
+Changed
++ Added the first meta tag to support Webmentions 
+
+## 2021-03-21
+
+Changed
++ Switch to a better anchor pattern to support linking directly to photos from anywhere in the text. All photo wrappers have an ID now associated with them of `photo-[photo-name minus the three letter extension]` so that links are not numeric but based on the name of the image.
+
+## 2021-03-18
+
+Changed
++ Use `aria-current` instead of an “active” css class and add style support for the change
+
+## 2021-03-08
+
+Changed
++ Update the instagram template to allow the date variable to be optional. This allows us to add a new property post without it being posted on Instagram yet
+
+## 2021-02-23
+
+Changed
++ More math corrections to the stats and the index pages
+
+## 2021-02-17
+
+Added
++ Create an instagram feed page to support links to properties we have recently posted about
+
+## 2021-02-12
+
+Fixed
++ The production environment flag in the navigation file was rendering inconsistently
+
+## 2021-02-10
+
+Added
++ On-page search functions and style support for the All Properties page
+
+Changed
++ Forced https in the htaccess file
+
+## 2021-02-06
+
+Added
++ Logic that makes numbers more human-readable: If 1 item in list, do nothing. If 2, add “and” in between. If three or more, put commas in between and “and” before the last one. Result is [item], [item], and [item] if there are three in the list
+
+Changed
++ Trying to make the local builds more efficient in the index and navigation files
+
+## 2021-01-01
+
+Changed
++ Switch to an on page form for Anecdotes loaded via JS/Ajax. Add an external mailer file and try to provide many checks for possible spam postings with PHP

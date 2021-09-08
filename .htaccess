@@ -49,6 +49,7 @@ redirect 301 /links/preservation.php           https://artinruins.com/links/
 redirect 301 /links/venues.php                 https://artinruins.com/links/
 
 # Individual redirects from Backlink checkers
+redirect 301 /rss2.php                         https://artinruins.com/feed.xml
 redirect 301 /arch/saved/provworst/*           https://artinruins.com/property/national-providence-worsted/
 redirect 301 /arch/redevelop/mason/*           https://artinruins.com/property/masonic-temple-pvd/
 redirect 301 /arch/stillinuse/unionstation/*   https://artinruins.com/property/union-station/
