@@ -9,7 +9,7 @@ demolition:
 redeveloped: 
 decade:
 date-added: '2005'
-categories: [ '#ArchiveRI' ]
+categories: [ '#ThenAndNow' ]
 neighborhoods: [ 'Downtown Providence', 'East Side', 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: []

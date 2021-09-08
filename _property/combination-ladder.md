@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Armory Revival Company' ]
 people: []
 lists: []
-tags: [ 'Never Built' ]
+tags: [ 'Apartments for Rent' , 'Never Built' ]
 
 NRHP-ref-number:
 added-to-NRHP:
