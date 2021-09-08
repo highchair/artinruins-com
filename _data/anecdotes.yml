@@ -12,6 +12,36 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: washburn-wire
+  person: 'Glen Hawthorne'
+  date: '2021-09-06'
+  content: 'My wife’s Great Uncle was Harry Davenport and was the President of Washburn Wire.'
+
+- property: new-england-butt
+  person: 'Carol Thomas'
+  date: '2014-03-30'
+  content: 'I have a iron with the number 7 in the middle from the New Eng. Butt Co. Prov. RI. Can you provide me with some history of this antique iron?'
+
+- property: new-england-butt
+  person: 'Joan'
+  date: '2011-06-05'
+  content: 'A question: I have a very very large flat iron that has the New England Butt Company, Providence RI, #21 on the top surface. This is extremely heavy. Can someone tell me if the company made these? and if so when? I have done searches and have not found that they made flat irons. Thanks in advance for any information you might have.'
+
+- property: new-england-butt
+  person: 'Trudi Hancock Beard'
+  date: '2008-05-25'
+  content: 'I recentely came across my great grandfathers WW1 draft registration card only to find out his employment was listed at the New England Butt Company as a machinist… since I live in Alabama and have never meet this grandfather – or his daughter (my grandmother) I couldn’t begin to imagine what a butt company was… Thanks for the information.'
+
+- property: new-england-butt
+  person: 'Barry Preston'
+  content: 'A clarification about the Pearl Street Lofts: there are 44,000 st of warehouse/commercial space in the Pearl Street Lofts, of which 14,000 sf are rented to Trinity Rep for set-makingn and prop storage. 30,000 sf are rented to the Providence School Department as their central stores warehouse.
+
+
+Of the for sale residences at the Pearl Street Lofts (of which, as you note there are 19), 4 are permanently affordable – 20% of the residences for sale. This has been made possible through a collaboration with the Providence Preservation Society Revolving Fund.
+
+
+You may wish to know that the New England Butt Company was one of the first clients of the Gilbreaths (about whom one of their children wrote “Cheaper by the dozen”). They were industrial efficiency experts, and moved to Providence to work with New England Butt to rationalize its processes and increase the efficiency of their workers. They set up shop – the “betterment room” – in what is now the loft space in the Pearl Street Loft apartments. Jane Lancaster, who has written the biography of Lillian Gilbreath, has more information on this chapter of the building’s history, as well as some interesting photographs and a movie made of their work with New Engalnd Butt Co.'
+
 - property: combination-ladder
   person: 'Lonnie Clark'
   date: '2014-12-26'
@@ -3426,12 +3456,12 @@ Summit Neighborhood Association, Wayland Square Neighborhood Association and the
 - property: postcards-pvd
   person: 'Al Rodgers'
   date: '2014-07-28'
-  content: '<a href="#photo-17">Picture #17</a>. I was 13 in 1953 and would go to Lowe’s State by myself for a feature, cartoon and news reel. You could stay in the theater and watch the feature a second time if you liked. The squat building in the street in front of Lowe’s is a public rest room. Men down one set of stairs and women the other side down the stairs. You can see the WJAR radio station tower to the left of the Lowe’s sign. WJAR was owned by the Outlet Company, a general department store just down the street. My wife learned to swim at The Plantation Club just a few blocks up the street from Lowe’s — now the site of Johnson & Wales. The Industrial Trust Bank is the large yellow/white building to the left. That’s a UER (United Electric Railways) bus to the very right.'
+  content: '<a href="#photo-postcard-Weybosset-St">Picture #17</a>. I was 13 in 1953 and would go to Lowe’s State by myself for a feature, cartoon and news reel. You could stay in the theater and watch the feature a second time if you liked. The squat building in the street in front of Lowe’s is a public rest room. Men down one set of stairs and women the other side down the stairs. You can see the WJAR radio station tower to the left of the Lowe’s sign. WJAR was owned by the Outlet Company, a general department store just down the street. My wife learned to swim at The Plantation Club just a few blocks up the street from Lowe’s — now the site of Johnson & Wales. The Industrial Trust Bank is the large yellow/white building to the left. That’s a UER (United Electric Railways) bus to the very right.'
 
 - property: postcards-pvd
   person: 'Pete Falina'
   date: '2008-04-08'
-  content: 'In <a href="#photo-13">picture #13</a>, immediately to the left of City Hall, you can see SS Kresge’s. Those big signs are long gone, as is the Kresge store, but the next time you pass, look up near the roofline. There is still KRESGE carved in a granite block.'
+  content: 'In <a href="#photo-postcard-City-Hall-and-SS-Kresge-c1922">picture #13</a>, immediately to the left of City Hall, you can see SS Kresge’s. Those big signs are long gone, as is the Kresge store, but the next time you pass, look up near the roofline. There is still KRESGE carved in a granite block.'
 
 - property: possner-castle-cranston
   person: 'Michael Poole'
@@ -3566,7 +3596,7 @@ Finally, when we used to point out the tree and the hedge and talk about Frederi
 - property: gorham-manufacturing-co
   person: 'MG'
   date: '2009-04-15'
-  content: 'Looks like the remaining carriage house sadly went up in flames today (or at least the building in <a href="#photo-19">picture #13</a>?) Sad day for the south side :('
+  content: 'Looks like the remaining carriage house sadly went up in flames today (or at least the building in <a href="#photo-gorham-eg-1997-13">picture #13</a>?) Sad day for the south side :('
 
 - property: gorham-manufacturing-co
   person: 'K.Log'
@@ -4329,12 +4359,11 @@ It was nice to learn that the building is soon to be put to new use, now that it
 
 - property: 66-fountain-st
   person: 'W Gnoza'
-  content: 'A possible answer to the question why this building is here may be seen behind it in <a href="#photo-4">picture 4</a> with the Palmer Block behind. It was common on large projects to build a “Detail” closer to the ground where the folks who put up the money and designed it could see it full size and work out cosmetic schemes. (**A.I.R.**: Likely, possible, but we must admit the details are vastly different other than the chamfered corner.)'
+  content: 'A possible answer to the question why this building is here may be seen behind it in <a href="#photo-little-bldg-jh-2004-04-04">picture 4</a> with the Palmer Block behind. It was common on large projects to build a “Detail” closer to the ground where the folks who put up the money and designed it could see it full size and work out cosmetic schemes. (**A.I.R.**: Likely, possible, but we must admit the details are vastly different other than the chamfered corner.)'
 
 - property: 66-fountain-st
   person: 'C Feisthamel'
-  content: 'This building was owned by James Lavell during the first part of the 20th century. He operated a business named Beacon Realty, which, during Prohibition, was used as a front for his Pawtucket brewery. Clients would come in and order (and prepay) for kegs of full strength beer (“near” beer was allowed to be made), which was made at the former Hand brewery. Lavell also ran a speakeasy down the street at 24-28 Fountain St, which
-boasted the “world’s longest bar”, which eventually became the more familiar Doorley’s. The site is now a parking lot. Lavell, who was arrested and convicted of federal tax evasion in 1931, went on to re-name the brewery the Rhode Island Brewing Company and operated it until his death in 1939. I am also told that the basement extends under the sidewalk. I am unsure of what has happened to the little building since the 30s; I would hope that if the adjacent parking lots are developed, that the building is incorporated into the new structures.'
+  content: 'This building was owned by James Lavell during the first part of the 20th century. He operated a business named Beacon Realty, which, during Prohibition, was used as a front for his Pawtucket brewery. Clients would come in and order (and prepay) for kegs of full strength beer (“near” beer was allowed to be made), which was made at the former Hand brewery. Lavell also ran a speakeasy down the street at 24-28 Fountain St, which boasted the “world’s longest bar”, which eventually became the more familiar Doorley’s. The site is now a parking lot. Lavell, who was arrested and convicted of federal tax evasion in 1931, went on to re-name the brewery the Rhode Island Brewing Company and operated it until his death in 1939. I am also told that the basement extends under the sidewalk. I am unsure of what has happened to the little building since the 30s; I would hope that if the adjacent parking lots are developed, that the building is incorporated into the new structures.'
 
 - property: american-screw-co
   person: 'Michael Wolf'
@@ -4415,7 +4444,7 @@ By the time the Alhambra Ballroom burned in 1969, it had been turned into the Su
 - property: crescent-park
   person: 'Russ White'
   date: '2013-04-10'
-  content: 'My grandmother lived just up the street from Crescent Park and we were regular visitors. I can recall the excitement we felt each time we entered the park. The sounds, the smells, we couldn’t get enough. My personal favorite was the Butterfly (perhaps Bumble Bee?) that sat just in front of the Alhambra. This ride had cars suspended from chains that flew through the air high off the ground. It was my favorite because it had a large tail rudder that you could turn to control your altitude. Pull it toward you and the car would dive. Push it away and it would soar back up. It really brought a sense of actual flying to small kid! (**A.I.R.**: This ride can be seen in the foreground of <a href="#photo-19">photo 19</a>.)'
+  content: 'My grandmother lived just up the street from Crescent Park and we were regular visitors. I can recall the excitement we felt each time we entered the park. The sounds, the smells, we couldn’t get enough. My personal favorite was the Butterfly (perhaps Bumble Bee?) that sat just in front of the Alhambra. This ride had cars suspended from chains that flew through the air high off the ground. It was my favorite because it had a large tail rudder that you could turn to control your altitude. Pull it toward you and the car would dive. Push it away and it would soar back up. It really brought a sense of actual flying to small kid! (**A.I.R.**: This ride can be seen in the foreground of <a href="#photo-crescent-park-alhambra-c1960">photo 19</a>.)'
 
 - property: crescent-park
   person: 'George LaCross'
@@ -4964,7 +4993,7 @@ Now that I am in my early forties and drive by the building, it makes me sad and
 - property: enchanted-forest
   person: 'bob'
   date: '2015-02-02'
-  content: 'went to visit the site November 2014 only two buildings remain, seen in picture 1 (bottom left) and the gocart track still seems to be in good shape as pictured in <a href="#photo-6">photo 6</a>. the golf course is still there but quite overgrown and the sign remains but the humpty dumpty has been taken, pretty sad, as another fun place for familys to go is lost, such as rocky point park, but it will live on in our memories'
+  content: 'went to visit the site November 2014 only two buildings remain, seen in picture 1 (bottom left) and the gocart track still seems to be in good shape as pictured in <a href="#photo-enchanted-forest-kap-2009-06-02">photo 6</a>. the golf course is still there but quite overgrown and the sign remains but the humpty dumpty has been taken, pretty sad, as another fun place for familys to go is lost, such as rocky point park, but it will live on in our memories'
 
 - property: enchanted-forest
   person: 'Jen Martin'
@@ -4994,7 +5023,7 @@ Now that I am in my early forties and drive by the building, it makes me sad and
 - property: enchanted-forest
   person: 'Eric Scantlebury'
   date: '2009-06-23'
-  content: 'I agree with Krissy – picture 11 (now <a href="#photo-2">photo 2</a>, top left) is a sad one. I remember that slide well. (Oh – as a side note it is In, not near, Hopkinton which is one of the towns that make up Washington County. It is near The center of Hope Valley which is a village in Hopkinton) (**A.I.R.**: Fixed in the description).
+  content: 'I agree with Krissy – picture 11 (now <a href="#photo-enchanted-forest-lf-2005-09-02">photo 2</a>, top left) is a sad one. I remember that slide well. (Oh – as a side note it is In, not near, Hopkinton which is one of the towns that make up Washington County. It is near The center of Hope Valley which is a village in Hopkinton) (**A.I.R.**: Fixed in the description).
 
 
 I worked there as my first job – at 15 years old. I worked for the then owners Mr Hurley and Mr Jones. I was “The Farmer” – the job to have. The Farmer was responsible for all the daily maintenance of the park, kitchen and rides and care of the animals in the petting zoo as well as giving each ride worker thier lunch break – the “fixit” guy. I worked there from around 1984 till the end of 86 when I got into a big arguement with Mr Hurley over the care of the animals and walked out, apparently using a little bit more than a capfull of detergent to clean the animals barn floor cost too much. Went back about two weeks later when asked to come fix the main bearing on the scrambler by the manager (she was a family friend – and how I got the job).
@@ -5008,7 +5037,7 @@ When I worked there they had the Roller Coaster, the Ferris Wheel, the Mary Go R
 - property: enchanted-forest
   person: 'Krissy'
   date: '2009-04-05'
-  content: 'I think the saddest picture is #11 (now <a href="#photo-2">photo 2</a>, top left), that was the foot of the old woman who lived in a shoe slide. I remember looking in that window as a kid and seeing the “old woman” and her kids. I also remember sliding down the metal slide out of the top of the shoe! To agree with Anne, to a small child... it was amazing. There is a picture of me in the petting zoo area near a cow at 3 years old, the cow was sniffing my head... for years later, I thought that was why I had a cowlick in my hair :)'
+  content: 'I think the saddest picture is #11 (now <a href="#photo-enchanted-forest-lf-2005-09-02">photo 2</a>, top left), that was the foot of the old woman who lived in a shoe slide. I remember looking in that window as a kid and seeing the “old woman” and her kids. I also remember sliding down the metal slide out of the top of the shoe! To agree with Anne, to a small child... it was amazing. There is a picture of me in the petting zoo area near a cow at 3 years old, the cow was sniffing my head... for years later, I thought that was why I had a cowlick in my hair :)'
 
 - property: enchanted-forest
   person: 'Dan'
