@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: beef-barn-no1
+  person: 'Jeff F'
+  date: '2021-09-09'
+  content: 'This restaurant had been in this location my entire life AND most of my parents life. Other than removing the pickle jars sometime in the 90s, the interior had remained the same as well. This was a 3 minute drive from my parents house so we got take out a lot. When we did eat there, I liked eating in the chicken coop with all the creepy taxidermy chickens. Now it’s like a 15 minute drive from me so I doubt I’ll be going there nearly as often. It’s so bizarre to see an empty lot there now.'
+
 - property: washburn-wire
   person: 'Glen Hawthorne'
   date: '2021-09-06'

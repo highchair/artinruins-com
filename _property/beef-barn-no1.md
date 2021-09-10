@@ -60,16 +60,16 @@ external:
 
 ### Reason for Relocation
 
-The owners of the Beef Barn restaurant never owned the land that the building sat on. Under threat of rising rent, the owners decided to move the restaurant — and the iconic silo — to a new location that is more in keeping with the farm theme. The former Homestead Gardens building will be a roomier home with six acres of open land surrounding it. The owners plan to expand the business after the main restaurant reopens. 
+The owners of the Beef Barn restaurant never owned the land that the building sat on. Under threat of rising rent, the owners decided to move the restaurant — and the iconic silo — to a new location that is more in keeping with the farm theme. The former **Homestead Gardens** building will be a roomier home with six acres of open land surrounding it. The owners plan to expand the business after the main restaurant reopens. 
 
-As someone born in North Smithfield, our family had frequented the Beef Barn since the mid-80s. We remember well the tables, the kitschy decor all over the walls, and the great food at very low prices. I took my wife while we were dating and my kids. Thick milk shakes, burgers, the strip beef sandwiches, chicken fingers and fries… was the food fantastic? No, but it was memorable and affordable and the service was quick with no frills. 
+As someone born in North Smithfield, our family had frequented the Beef Barn since the mid-80s. We remember well the tables, the kitschy decor all over the walls, and the great food at very low prices. I took my wife while we were dating and have taken my kids, too. Thick milk shakes, burgers, the strip beef sandwiches, chicken fingers and fries… was the food fantastic? No, but it was memorable and affordable and the service was quick with no frills. The milk shakes are pretty fantastic. 
 
 We look forward to trying the new location once they open back up, and hope to see them expand to offer “Coffee & Cream”-style breakfast once again. 
 
 
 ### Current Events
 
-The Beef Barn will open at its new location at [200 Industrial Drive, North Smithfield RI](//www.google.com/maps/place/200+Industrial+Dr,+North+Smithfield,+RI+02896/@41.989591,-71.5606767,17z/data=!3m1!4b1!4m5!3m4!1s0x89e46abaeefe06ff:0x22687a6646840dda!8m2!3d41.989591!4d-71.558488){:target="_blank"}, with the same silo, this fall. [Check the website for updates](//www.thebeefbarn.com){:target="_blank"} on their reopening. 
+The Beef Barn is open in its new location at [200 Industrial Drive, North Smithfield RI](//www.google.com/maps/place/200+Industrial+Dr,+North+Smithfield,+RI+02896/@41.989591,-71.5606767,17z/data=!3m1!4b1!4m5!3m4!1s0x89e46abaeefe06ff:0x22687a6646840dda!8m2!3d41.989591!4d-71.558488){:target="_blank"}, with the same silo. [Check the website for updates](//www.thebeefbarn.com){:target="_blank"} about their reopening or for menus. 
 
 
 ### History
