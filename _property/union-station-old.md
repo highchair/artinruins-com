@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Thomas A. Tefft' ]
 people: []
 lists: [ 'Brussat’s 10 Best Lost Buildings' ]
-tags: [ 'The Superlatives' ]
+tags: [ 'The Superlatives', 'Train Stations' ]
 superlative: 'Voted in 1885 as one of the 20 best buildings in the country'
 
 address: '42 Exchange Terrace Providence RI'
