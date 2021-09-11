@@ -148,9 +148,6 @@ layout: default
                     {%- assign secondtolast = length | minus: 1 -%}
                   <a href="{{ site.baseurl }}designer/{{ designer | replace: '.', '' | slugify }}">{{ designer }}</a>{% unless forloop.last %}{% if length > 2 %},{% endif %}{% endunless %}{% if forloop.index == secondtolast %} and{% endif %}
                   {%- endfor -%}
-                {%- endif -%}
-                {%- if page.superlative.size > 0 -%}
-                  <br><strong>Superlative: </strong> {{ page.superlative }}
                 </li>
                 {%- endif -%}
                 {%- assign lists = page.lists -%}
@@ -176,6 +173,9 @@ layout: default
                   {%- for tag in tags -%}
                   <a href="{{ site.baseurl }}tag/{{ tag | replace: '.', '' | slugify }}">{{ tag }}</a>{%- unless forloop.last -%}, {%- endunless -%}
                   {%- endfor -%}
+                  {%- if page.superlative.size > 0 -%}
+                  <br><strong>Superlative: </strong> {{ page.superlative }}
+                  {%- endif -%}
                 </li>
                 {%- endif -%}
                 <li class="item__cats__item item__cats__perma"><a href="//perma.cc" title="Perma.cc is a service that archives the internet and creates a Permalink that will last forever" target="_blank" rel="nofollow noreferrer">Use Perma.cc to create a link to this article… permanently</a></li>

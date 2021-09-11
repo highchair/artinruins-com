@@ -1,5 +1,10 @@
 # Tracking design (theme) changes, not content changes
 
+## 2021-09-10
+
+Fixed
++ Superlatives were outputting in the wrong spot when designer was not present. Moved the output into a better location surrounded by `<li>` tags
+
 ## 2021-09-06
 
 Added
