@@ -13,8 +13,8 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Thomas A. Tefft' ]
-lists: [ 'Brussat’s 10 Best Lost Buildings' ]
-tags: [ 'Demolition by Fire', 'The Superlatives', 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
+lists: [ 'Brussat’s 10 Best Lost Buildings', 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
+tags: [ 'Demolition by Fire', 'The Superlatives', 'Churches' ]
 superlative: 'Built as a church, the building later housed the first private normal school in Providence'
 
 address: '151 Weybosset Street, Providence RI'
