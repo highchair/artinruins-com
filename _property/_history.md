@@ -214,10 +214,10 @@ Historic
 
 Still In Use
 + 372 West Fountain Street
-++ 383 West Fountain Street (was never demolished)
++ 383 West Fountain Street (was never demolished)
 + the Holiday Inn / new Hilton
 + Jones Warehouse
-++ Lincoln Mall
++ Lincoln Mall
 + Modern Diner
 
 Redeveloped
@@ -226,15 +226,15 @@ Redeveloped
 + Calender Mills
 + Firehouse 13
 + L. Vaughn Company / 1153 Westminster St
-++ Pearl Street Lofts
-++ The Grant
++ Pearl Street Lofts
++ The Grant
 
 RIP
 + Second Universalist Church
 
 Urban Decay
 + Brownell and Field / Standardized Wholesale Liquors
-++ Fort Adams
++ Fort Adams
 + Lincoln Amusement Park
 + M. N. Cartier & Sons Co. / 1107 Westminster
 + The Milk Can
@@ -259,7 +259,7 @@ Still in Use
 
 Redeveloped
 + 130 Vinton / Vinton Street Garage
-++ 340 Broadway (Seven Stars)
++ 340 Broadway (Seven Stars)
 ++ Lawton Family Storage / Pilgrim Congregational Church
 ++ Liberty Elm Diner
 

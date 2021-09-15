@@ -21,7 +21,7 @@ _by Gregory Smith_
 **Providence Journal** | December 4, 2003 (abridged)
 
 caption: 'Photo by Robert Brewster, HABS/HAER, 1981'
-
+caption: 'Rhode Island Photograph Collection, Providence Public Library'
 Aerials from the Providence Historical Aerial Viewer
 caption: 'Providence Historical Aerial Viewer 1972'
 
@@ -31,12 +31,15 @@ caption: 'Providence Historical Aerial Viewer 1972'
 
 ## Classes
 {:.o__tldr} – Yellow background infobox
+{:.o__pull-quote} — Orange Senator font with slashes background
+
 
 #### Sources
 
 caption: 'Sanborn Insurance Map, 1899-1900, volume 1 sheet 15 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library. '
 
 _“Riverboat Ride: Crescent Park, Riverside, RI”_, George Malone for Laff in the Dark, captured August 15, 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
+
 
 #### HTML5 accordion
 
