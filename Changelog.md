@@ -1,4 +1,12 @@
-# Tracking design (theme) changes, not content changes
+Changelog
+=========
+
+Tracking design (theme) changes, not content changes
+
+## 2021-09-15
+
+Added
++ The All Properties page now supports typeahead real-time search by Address (Street name, City)
 
 ## 2021-09-10
 
