@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: arnold-stable-pwt\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: lincoln-mall\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: providence-armory\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: fort-adams\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -12,6 +12,23 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: d-andreas-pharmacy
+  person: '19harrison'
+  date: '2009-08-26'
+  content: 'This building was briefly used as the Paolino campaign headquarters in the lead up to the 2002 mayoral election.'
+
+- property: d-andreas-pharmacy
+  person: Broadway Joe'
+  date: '2008-08-06'
+  content: 'I looked into the place a number of years ago, but they did not want to hear it, Armory must have paid a mint to get it. Let’s hope the tenant can make it up there, I can only imagine that the rent is high; very high and the neighborhood is, well, a little rough!!!'
+
+- property: d-andreas-pharmacy
+  person: 'carlos'
+  content: 'I use to live next door. Jetta Realty are the scum bags that owned the funeral home (which is a part of the whole property). The place was a pharmacy before the Gattone/Tasca family let it go to pieces. Many people were interested in turning it into various things (chiropractor’s office, cigar shop, coffee shop) but Mike and Susan Tasca had other ideas — pay taxes, turn the building into an eye sore and let it go with the rest of the neighborhood.'
+
+- property: d-andreas-pharmacy
+  person: federalhillray'
+  content: 'That used to be D’Andreas Pharmacy back in the day. I remember it had a soda fountain in it, too. They had gone out of business years ago.'
 
 - property: lincoln-mall
   person: 'Carol Thomas' 
