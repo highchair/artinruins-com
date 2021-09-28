@@ -89,6 +89,10 @@ The original Grant Mill, a 4-story, stone textile mill with a central tower and 
 
 Sometime between 1908 and 1918, the present Grant Mill, a 4-story, brick structure fronting directly on Carpenter Street, was built. The new mill completely replaced the earlier one. In 1935, with the decline of the state’s textile industry a jewelry firm bought the Grant Mill. This same firm, Blacher Brothers, continues to operate the mill. The mill’s basement contains two inactive steam engines: one, a cross-compound Corliss with a 16-foot flywheel, a 4-foot stroke, a 24-inch cylinder on the high pressure side, and a 40-inch cylinder on the low pressure side; the other, a small Fleming engine from Harrisburg, Pennsylvania, connected to a 125 KW generator and previously used for emergency lighting. The Corliss once provided direct mechanical drive and was probably installed when the new mill was built. It is currently connected to a 450 KW generator, but it has not operated for a number of years.
 
+_From the “Broadway-Armory Historic District” National Register nomination form, 1974_
+
+295-313 Gotham Court **Grant Mill** (ca 1910): 4-story; flat; brick mill; with corbelled cornice and segmental arched windows. Built around an earlier stone mill and the only extant mill in Providence associated with the important cotton manufacturing firm of B.B. and R. Knight, best known for Fruit of the Loom products.
+
 
 ### In the News
 

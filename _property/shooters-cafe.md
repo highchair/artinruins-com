@@ -58,8 +58,6 @@ images:
   - url: shooters-lf-2005-09.jpg
     caption: 'Photo by Lou Fancy 2005'
   - url: shooters-jh-2009-02-01.jpg
-  - url: shooters-jh-2012-03-01.jpg
-  - url: shooters-jh-2012-03-02.jpg
   - url: shooters-kp-2009-05-01.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
   - url: shooters-kp-2009-05-02.jpg
@@ -87,6 +85,8 @@ images:
   - url: shooters-kp-2009-05-13.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
   - url: shooters-gsv-2011-05-01.jpg
+  - url: shooters-jh-2012-03-01.jpg
+  - url: shooters-jh-2012-03-02.jpg
 
 imagescredit: 'Contributions from Lou Fancy, Kerri-Ann Pontifice, and Google Streetview'
 

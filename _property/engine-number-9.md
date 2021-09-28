@@ -13,7 +13,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Broadway-Armory Historic District' ]
+lists: [ 'PPS/AIA Industrial Commercial Buildings Survey',  'Broadway-Armory Historic District', 'National Register of Historic Places', ]
 tags: [ 'Fire Stations' ]
 
 NRHP-ref-number: '74000047 (contributing)'
@@ -65,3 +65,7 @@ _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS a
 It is a two-story, end-gable, brick building with a round-arch central entrance on the façade set below a fanlight with tracery. A sign reading: “Engine Station 9” spans the central entrance. The building is embellished by a symmetrical façade, center entry, corbelled cornice, and arched Italianate-style windows. A pedestrian entrance is located in a brick ell on the side elevation that houses a stairway. The entrance is set below a blocked transom. Fenestration is comprised of round-arch openings with 12/9 and 9/9 sash with stone sills. Lozenge-shaped tie rods extend along the side elevation between the first and second stories. A two-story, gable-roof ell projects from the building’s rear elevation.
 
 Built ca. 1856, the gable-roofed fire station on Pallas Street housed a school for delinquent boys in the early twentieth century. The building also served as home to the Veteran’s Club of Rhode Island and in 1980 it was used for jewelry manufacturing (Woodward 1986:208; RIHPHC data sheet).
+
+_From the “Broadway-Armory Historic District” National Register nomination form, 1974_
+
+**Fire Station Number 9** (ca 1856): 2-story; end-gable; brick symmetrical, simple Romanesque fire station; with corbel cornice, round-arch windows, and round-arch central entry in 3-bay facade. The building housed a school for delinquent boys in the early 20th c., and the Veterans Club of Rhode Island later used it. In 1980 it was in use for jewelry manufacturing.

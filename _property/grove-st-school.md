@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'National Register of Historic Places', 'Broadway-Armory Historic District', 'PPS Ten Most Endangered' ]
+lists: [ 'PPS Ten Most Endangered', 'Broadway-Armory Historic District', 'National Register of Historic Places' ]
 tags: [ 'Demolition by Neglect', 'Demolition without Permit', 'Former Schools' ]
 
 NRHP-ref-number: '74000047 (contributing)'
@@ -86,6 +86,11 @@ Built at the turn of the twentieth century, the schoolhouse rises two stories an
 The Grove Street Elementary School was constructed as a public grammar school during a period of massive immigration. The building first appears on the 1908 Sanborn map and is identified as a “school.” Subsequent maps show that the building has retained its original size and shape over its 100-year existence. 
 
 The [Grove Street school](//guide.ppsri.org/property/grove-street-elementary-school){:target="_blank"} was included on <abbr title="Providence Preservation Society">PPS</abbr>’s Ten Most Endangered Lists in 2002, 2003, 2007, 2008, 2009, 2010, and 2011. 
+
+
+_From the “Broadway-Armory Historic District” National Register nomination form, 1974_
+
+95-97 Grove Street **Grove Street Primary School** (ca 1900): 2-story; flat; brick school; with brick quoins and window surrounds. Side entrances at either end of building, recessed underarches.
 
 
 ### In the News
