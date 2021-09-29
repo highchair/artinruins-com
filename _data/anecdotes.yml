@@ -13,6 +13,20 @@
 # Check validity with http://www.yamllint.com/
 
 
+- property: pilgrim-congregational-church
+  person: 'Claire'
+  date: '2018-02-12'
+  content: 'The church is in the process of being renovated into residential units called Pilgrim Lofts'
+
+- property: pilgrim-congregational-church
+  person: 'current owner'
+  date: '2009-06-25'
+  content: 'The above project has been dissolved, and the building sold. The current plan is a smaller number of units, less than 10. To update the history above, hand-written documents from the Pilgrim Congregational Church written in the 1800s show that the cornerstone was laid in August 1873, and the church dedicated (I assume completed) on November 20, 1874. The year mentioned above, 1866 was the year a committee was formed to explore the building of a church.'
+
+- property: pilgrim-congregational-church
+  person: 'tawana'
+  content: 'that building would be useful, for many other things than more condos that aren’t and needed parking spaces that aren’t available. How about affordable housing? How about just getting a profitable business inside?'
+
 - property: vesta-knitting-imperial-knife
   person: 'Pete Kelley' 
   date: '2016-02-16' 
