@@ -50,6 +50,11 @@ images:
   - url: phenix-jh-2004-07-11.jpg
   - url: phenix-jh-2004-07-12.jpg
   - url: phenix-jh-2004-07-13.jpg
+  - url: phenix-jh-2021-09-01.jpg
+  - url: phenix-jh-2021-09-02.jpg
+  - url: phenix-jh-2021-09-03.jpg
+
+mostrecentimage: 2021-09-01
 
 imagescredit: 'Contribution by Rick Greenwood for the National Register Form'
 
