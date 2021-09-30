@@ -39,17 +39,24 @@ images:
   - url: imp-knife-jh-2006-03-04.jpg
   - url: imp-knife-jh-2006-03-05.jpg
   - url: imp-knife-jh-2006-03-06.jpg
-    caption: 'The bubble window painting, lost and painted over. Notice, too, how all the architectural detail on this one-story addition is painted on. This building is now flat painted cinder block.'
+    caption: 'The bubble window painting, lost and painted over. Notice, too, how all the architectural detail on this one-story addition are painted on. This building is now flat painted cinder block (see newer photos).'
   - url: imp-knife-jh-2006-03-07.jpg
   - url: imp-knife-jh-2006-03-08.jpg
   - url: imp-knife-jh-2006-03-09.jpg
   - url: imp-knife-jh-2006-03-10.jpg
   - url: imp-knife-jh-2006-03-11.jpg
-  - url: imp-knife-jh-2007-07-01.jpg
+  - url: imp-knife-jh-2021-09-01.jpg
+  - url: imp-knife-jh-2021-09-02.jpg
+  - url: imp-knife-jh-2021-09-03.jpg
+  - url: imp-knife-jh-2021-09-04.jpg
+  - url: imp-knife-jh-2021-09-05.jpg
+  - url: imp-knife-jh-2021-09-06.jpg
+  - url: imp-knife-jh-2021-09-07.jpg
+    caption: 'The same one-story addition shown in a photo from 2006, now without the trompe l’œil bubble window or corbelling'
 
 imagescredit:
 
-mostrecentimage: 2007-07-01
+mostrecentimage: 2021-09-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
