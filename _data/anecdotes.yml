@@ -12,6 +12,17 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: central-diner
+  person: 'Claire Uziel'
+  date: '2018-04-17'
+  content: 'The diner was open as the Elmwood Diner from 2014-2017.'
+
+- property: central-diner
+  person: 'Carol DeFeciani (aka Kip McCloud)'
+  content: 'Would just like you to know, I received a Women Business Enterprise loan through the SBA and renovated the place myself with my sweat-equity partner Diane Horstmyer (aka Tinker Taylor) on a shoestring budget and a TON of blood, sweat and tears for 13 months before we opened this past August 18, 2008.
+
+
+(**A.I.R.**: This was an anecdote from the owner of the Liberty Diner incarnation of this Worcester Lunch Car Company Diner #806)'
 
 - property: pilgrim-congregational-church
   person: 'Claire'

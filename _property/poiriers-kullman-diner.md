@@ -90,7 +90,7 @@ _Did you know?_ While the Poirier Diner was sitting in his parking lot, Richard 
 
 _From the National Register nomination form, prepared by Kim Smith, 2002_
 
-Poirier's Diner is a prefabricated dining car, manufactured in 1947 by the Kullman Dining Car Company of Harrison, New Jersey. The diner is Art Deco in character, with its characteristic smooth-edged design and its industrial materials, including porcelain enamel, stainless steel, Formica, ceramic tile, and glass block. […]
+Poirier’s Diner is a prefabricated dining car, manufactured in 1947 by the Kullman Dining Car Company of Harrison, New Jersey. The diner is Art Deco in character, with its characteristic smooth-edged design and its industrial materials, including porcelain enamel, stainless steel, Formica, ceramic tile, and glass block. […]
 
 The diner has a steel and wood frame. A combination of steel H- and I- beams, channels, and two tie rods with turnbuckles provide support beneath the walls and roof, which are made up of steel channel and angles connected to the base of the diner. Structurally, the components are in good condition, with the exception of the channel at the former location of the front steps, which is corroded due to prolonged water infiltration.
 
@@ -112,4 +112,4 @@ Joseph A. Poirier, Jr., opened Poirier’s Diner in 1947, on a formerly resident
 
 ***
 
-For more diner-specific history and happenings, be sure to browse [Larry Cultrera’s Diner Hotline](//dinerhotline.wordpress.com){:target="_blank"}.
+For more diner-specific history and happenings, be sure to browse [Larry Cultrera’s Diner Hotline](//dinerhotline.wordpress.com){:target="_blank"}. And check out our [detailed history of the lunch wagon turned diner car]({% link supplements/history-of-diner-cars-lunch-wagons.md %}) which got its start in Rhode Island. 

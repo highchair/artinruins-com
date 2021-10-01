@@ -16,7 +16,8 @@ town: [ 'Pawtucket, RI' ]
 designers: []
 people: []
 lists: [ 'HABS HAER', 'National Register of Historic Places' ]
-tags: [ 'Historic Diner Cars', 'Mid-century Modern', 'Restaurants and Bars' ]
+tags: [ 'Historic Diner Cars', 'Mid-century Modern', 'Restaurants and Bars', 'The Superlatives' ]
+superlative: 'The nation’s first diner to be nominated to the National Register of Historic Places'
 
 NRHP-ref-number: '78000002 (individual)'
 added-to-NRHP: 'October 1978'
@@ -112,6 +113,9 @@ For food reviews and directions, visit [Quahog.org](//www.quahog.org/cuisine/){:
 
 
 ### History
+
++ [A detailed history of the lunch wagon turned diner car]({% link supplements/history-of-diner-cars-lunch-wagons.md %}) which got its start in Rhode Island. 
+
 
 _From the National Register Nomination form, 1978, prepared by David Chase_
 
