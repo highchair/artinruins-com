@@ -45,10 +45,16 @@ images:
   - url: pilgrim-church-jh-2007-06-06.jpg
   - url: pilgrim-church-jh-2007-06-07.jpg
   - url: pilgrim-church-jh-2007-06-08.jpg
+  - url: pilgrim-church-jh-2013-05-01.jpg
+  - url: pilgrim-church-jh-2013-05-02.jpg
+  - url: pilgrim-church-jh-2013-05-03.jpg
+  - url: pilgrim-church-jh-2013-05-04.jpg
+  - url: pilgrim-church-jh-2013-05-05.jpg
+  - url: pilgrim-church-jh-2013-05-06.jpg
 
 imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%3A10252" target="_blank">Rhode Island Photograph Collection</a> at the Providence Public Library'
 
-mostrecentimage: 2007-06-01
+mostrecentimage: 2013-05-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
