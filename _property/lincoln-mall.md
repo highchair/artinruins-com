@@ -16,7 +16,7 @@ town: [ 'Lincoln, RI' ]
 designers: []
 people: []
 lists: []
-tags: []
+tags: [ 'Malls' ]
 
 NRHP-ref-number:
 added-to-NRHP:
