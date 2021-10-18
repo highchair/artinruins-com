@@ -1,9 +1,9 @@
 # Use regular expressions
 # Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: lincoln-mall\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
+# Replace: - property: narragansett-race-track\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
 
 # Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: fort-adams\n  person: '\1'\n  content: '\2'\n
+# Replace: - property: narragansett-race-track\n  person: '\1'\n  content: '\2'\n
 
 # &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
 # One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
@@ -11,6 +11,50 @@
 # (**A.I.R.**: blah blah)
 
 # Check validity with http://www.yamllint.com/
+
+- property: narragansett-race-track
+  person: 'Carlton Vose' 
+  date: '2018-09-26' 
+  content: 'I grew up in Pawtucket, during the era that came after horse racing but before Building 19. During the 80’s it was a huge flea market every weekend. That was the age of nunchucks, Chinese throwing stars, Rambo knives, heavy metal tapestries, Army-Navy surplus, that place had it all. We spent every weekend in there, scouring through thousands of baseball cards, cassettes, etc. My dad was a beer can collector back then. We would go into the old horse stables and pull the planks off the wall, because the jockeys would throw their beer cans up over the top plank, and they’d fall down in between the walls. There were all kinds of vintage Narragansett cans in those walls, and thousands of hypodermic needles. Great memories in that place.'
+
+- property: narragansett-race-track
+  person: 'Carol Thomas' 
+  date: '2018-08-26' 
+  content: 'I lived in a neighborhood that was walking distance from this place, and it was a big deal back in the day. A lot of traffic when horse racing was going on. In the late 70’s the owners were renting it out for music concerts and to the Jehovah’s Witnesses, who used it for their yearly conventions for a few years. When the concerts were going on, you could hear them from my house, and people would park all along our street, I suppose to avoid having to pay for parking. After the race track went out of business, it was a great flea market for a few years, until the mid 80’s, when Building 19 went in. I missed the flea market, but I liked that store. Their ads were a hoot! I wasn’t living in that neighborhood by that time, but I still shopped there often, until about 2010 or so. I was sorry to hear that they went out of business.'
+
+- property: narragansett-race-track
+  person: 'gus gesualdo' 
+  date: '2017-08-24' 
+  content: 'I rode at Gansett in the 60’s and 70’s sad to see it go like that, all i have left is pictures and lot’s of memories, most everyone i rode with is gone now. it’s nice to see someone write about the old track, lot’s of racing history there.'
+
+- property: narragansett-race-track
+  person: 'Zack' 
+  date: '2016-01-24' 
+  content: 'Ain’t in use anymore. I went here all of once, and I’ll never forget it. I’m only 19, so it was Building 19 by then.'
+
+- property: narragansett-race-track
+  person: 'Diane Anderson' 
+  date: '2014-06-13' 
+  content: 'A horse I owned, Mighty Bee, won his 1st race in Oct 1961 here. I would love a picture of this win photo. The horse meant everything to me. He only won 4 races but this was his 1st.'
+
+- property: narragansett-race-track
+  person: 'Ron Giorgio' 
+  date: '2013-11-15' 
+  content: 'As of November 10, 2013, the Building 19 chain has closed. That means all stores, including this one, will close. Now we’re just gonna have to see how much longer until this building is added to the R.I.P list. Too bad the building will be out of use, hopefully they can do something nice with it. I’ll try to keep up on it, but who knows…'
+
+- property: narragansett-race-track
+  person: 'michael j.dupuy' 
+  date: '2012-11-04' 
+  content: 'My dad was a jockey in the middle thirty’s. His name was John Dupuy. He also was a trainer there He was from New Orleans la.'
+
+- property: narragansett-race-track
+  person: 'Patricia McGowan' 
+  date: '2012-08-31' 
+  content: 'My grand-uncle, Henry Daniel McGowan (13 May 1886-1948) was the Betting Sign Painter at the Track. He lived with his family at 129 School Street, the former home of his father, Michael Henry McGowan. We still have family living in RI that can verify this.'
+
+- property: narragansett-race-track
+  person: 'Richard C Parker'
+  content: 'My Granddad owner of EB Parker trucking of Amesbury MA delivered frieght to J B Judkins in the 1930ies and 40ies and as a boy and teenager I was there with him many times. Fond memories.'
 
 - property: ri-mall
   person: 'Norm' 
