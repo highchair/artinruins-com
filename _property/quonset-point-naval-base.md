@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade: '1940-1949'
 date-added: '2021'
-categories: [ '#ArchivesRI' ]
+categories: [ '#ArchiveRI' ]
 neighborhoods: []
 town: [ 'North Kingstown, RI' ]
 designers: [ 'Albert Kahn' ]
