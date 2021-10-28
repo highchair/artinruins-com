@@ -9,7 +9,7 @@ demolition: '2003–2005'
 redeveloped: 
 decade: '1900-1909'
 date-added: '2004'
-categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'East Providence, RI' ]
 designers: [ 'Designer Unknown' ]

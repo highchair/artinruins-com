@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2021-10-20
+
+Fixed
++ A small description fix on the Photos by Date page and to a property. The #ArchiveRI category is singular, not plural.
+
 ## 2021-09-15
 
 Added

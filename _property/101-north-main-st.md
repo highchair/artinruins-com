@@ -9,7 +9,7 @@ demolition:
 redeveloped: '1998'
 decade: '1900-1909'
 date-added: '2010'
-categories: [ '#WhatAreTheyBuilding', '#NotInRuins' ]
+categories: [ '#NotInRuins' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Armory Revival Company', 'KITE Architects' ]
