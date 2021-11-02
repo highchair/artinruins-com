@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: sylvester-r-jackson
+  person: 'Rick Mandile'
+  date: '2020-12-26'
+  content: 'I am the new owner of 301 Friendship which in 2021 will be the new home of SAGE Environmental which began operations in RI in 1995.'
+
 - property: narragansett-race-track
   person: 'Carlton Vose' 
   date: '2018-09-26' 
