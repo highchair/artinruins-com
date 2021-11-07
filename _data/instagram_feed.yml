@@ -2,9 +2,17 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: damiano-brothers
+  date: '2021-11-07'
+  insta_link: https://www.instagram.com/p/CV-xP5fLspW/
+
+- post: ashburton-fire-station
+  date: '2021-11-06'
+  insta_link: https://www.instagram.com/p/CV84uGUPd5r/
+
 - post: narragansett-race-track
   date: '2021-10-16'
-  insta_link: 
+  insta_link: https://www.instagram.com/p/CVHAvwTM4jq/
 
 - post: vesta-knitting-imperial-knife
   date: '2021-09-29'

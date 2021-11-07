@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2021-11-06
+
+Fixed
++ Added a missing closing div tag on the Instagram feed page
+
 ## 2021-10-20
 
 Fixed
