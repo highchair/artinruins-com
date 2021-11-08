@@ -8,7 +8,7 @@ built: 'c. 1775 et seq.'
 demolition: 
 redeveloped: 
 units:
-decade: '1770-1779'
+decade: 'before 1799'
 date-added: '2004'
 categories: [ '#NotInRuins' ]
 neighborhoods: []

@@ -8,7 +8,7 @@ built: '1793 et. seq., 1847'
 demolition: 
 redeveloped: 
 units:
-decade: '1790-1799'
+decade: 'before 1799'
 date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'College Hill' ]
