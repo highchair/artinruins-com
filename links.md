@@ -17,6 +17,13 @@ When ArtInRuins started there were not quite as many home-grown historians, inte
 
 ## Similar Projects (RI)
 
+### Abandoned from Above
+
++ **YouTube:** [youtube.com/c/JasonAllard](//www.youtube.com/c/JasonAllard){:target="_blank"}
++ **Instagram:** [@uncomsense](//www.instagram.com/uncomsense/){:target="_blank"}
+
+Drone footage and abandoned properties with some history thrown in for good measure. Videography project by Jason Allard. 
+
 ### Greater City Providence
 
 + **Web:** [GCpvd.org](//www.gcpvd.org){:target="_blank"}
@@ -56,6 +63,12 @@ A teacher-led and student-built guide of Providence places, past and present. Th
 + **Web:** [pvdsigns.com](//pvdsigns.com){:target="_blank"}
 
 A collection of mostly hand-painted professional, amateur, and decaying signs in and around Providence — including some neon or three-dimensional signs as well. A great visual pastiche of the typographic character of the city’s businesses. 
+
+### PVD Now & Then
+
++ **Instagram:** [@pvdnowandthen](//www.instagram.com/pvdnowandthen/){:target="_blank"}
+
+A collection of now and before photos diving into the photographic history of our city. Run by Mike Ferguson. 
 
 ### Rhode Island Armories
 

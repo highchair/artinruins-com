@@ -78,6 +78,10 @@ When FELDCO was in the process of redeveloping [Eagle Square]({% link _property/
 
 New owner Jon Özbek took years to put together financing from many sources but in December, 2011, the diner was moved from off its blocks and down and across the street to a permanent concrete slab. After an extensive restoration and upgrade with modern restaurant appliances, an entire back dining area, and new bathrooms, the diner opened to patrons in September of 2013. 
 
+The restoration garnered S. Jon Özbek a Rhody Project Award in 2014.[^1]
+
+[^1]: “Rhody Awards | Projects, people win preservation awards,” Bill Van Siclen, Providence Journal, September 18, 2014.
+
 
 ### Current Events
 
