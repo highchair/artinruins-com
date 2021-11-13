@@ -12,6 +12,21 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: fort-adams
+  person: 'Marlane McInnis'
+  date: '2021-05-29'
+  content: 'Lived on Adams Ave. then Jefferson Ave. in the mid-fifties. One of the most fun times (three years) of my life. Firemen froze over an empty lot in winter for us to skate on… tiny little PX near the point. Deep snow! Blizzards! Playing in the fort! Bats! Petting the horses at Hammersmith! Would live to go back and see it again… even though the housing is gone.'
+
+- property: l-vaughn-company
+  person: 'Lesa Booth'
+  date: '2021-03-08'
+  content: 'I have a receipt dated February 1891 from the company. My Great great grandfather was building a house in Apponaug. It has a photo of the building. It states the address is 585 and 587 High Street In providence. Lorenzo and William P Vaughn also William O King names are printed on the receipt.'
+
+- property: captain-tillinghast
+  person: 'Robin'
+  date: '2015-06-14'
+  content: 'It is now (since c. 2013) Tir Na Nog Spa.'
+
 - property: sylvester-r-jackson
   person: 'Rick Mandile'
   date: '2020-12-26'
