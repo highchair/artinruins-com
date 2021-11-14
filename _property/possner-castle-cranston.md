@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'Cranston, RI' ]
 designers: [ 'Thomas J. Gould', 'Frederick Law Olmsted, Jr.' ]
 lists: []
-tags: [ 'Demolition by Progress' ]
+tags: [ 'Demolition by Progress', 'House' ]
 
 NRHP-ref-number:
 added-to-NRHP:

@@ -1,20 +1,20 @@
 ---
 title: "Two Thomas Street"
 slug: two-thomas-st
-aka: 
+aka: 'Providence Watercolor Society'
 date-modified: 2020-10-16 17:00
 
 built: '1850, 1999'
 demolition: 
-redeveloped: 
+redeveloped: '1999'
 decade: '1990-1999'
 date-added: '2006'
-categories: [ '#WhatAreTheyBuilding', '#NotInRuins' ]
+categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Armory Revival Company' ]
 lists: []
-tags: []
+tags: [ 'House' ]
 
 address: '2 Thomas Street, Providence RI'
 latitude: '41.8276962'

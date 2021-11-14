@@ -14,7 +14,7 @@ neighborhoods: [ 'Federal Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'PPS Ten Most Endangered' ]
-tags: [ 'Demolition by Progress', 'Demolition by Speculation' ]
+tags: [ 'Demolition by Progress', 'Demolition by Speculation', 'House' ]
 
 NRHP-ref-number:
 added-to-NRHP:

@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'PPS Ten Most Endangered' ]
-tags: [ 'Demolition by Neglect' ]
+tags: [ 'Demolition by Neglect', 'House' ]
 
 NRHP-ref-number:
 added-to-NRHP:

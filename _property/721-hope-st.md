@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: []
-tags: []
+tags: [ 'House' ]
 
 NRHP-ref-number:
 added-to-NRHP:

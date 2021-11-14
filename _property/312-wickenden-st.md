@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: []
-tags: [ 'Demolition by Progress' ]
+tags: [ 'Demolition by Progress', 'House' ]
 update: 'A quick demolition took the neighborhood by surprise.'
 
 NRHP-ref-number:
