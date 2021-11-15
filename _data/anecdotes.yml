@@ -12,6 +12,19 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: boy-scouts-headquarters
+  person: 'Nichole'
+  date: '2017-06-19'
+  content: 'It’s a Planned Parenthood now. Which makes sense since the homeless shelter is right across the street.
+
+
+(**A.I.R.**: We’re not sure how this “makes sense” but yes, it is across the street from Crossroads.)'
+
+- property: boy-scouts-headquarters
+  person: 'Don'
+  date: '2009-05-11'
+  content: 'I worked there the last few years the building was occupied. The office needed significant overhauling, and the council had outgrown it’s small size. There were literally offices in hallways and storage rooms there. It was still a neat building though. It’s only been unoccupied for about 5 years.'
+
 - property: fort-adams
   person: 'Marlane McInnis'
   date: '2021-05-29'
