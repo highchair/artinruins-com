@@ -12,6 +12,16 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: darius-goff-house
+  person: 'Peter Gailitis'
+  date: '2015-08-17'
+  content: 'This is more of a question than an anecdote. in the beginning of the article it is stated that the Tiffany window was for sale at a local antique shop. then the appended comment states that it sold at Christies nyc for 960k. as Christies is not in pawtucket, did the dealer consign it to the auction house? or was it snapped up from the church inexpensively and then sold on for a major windfall for the new owner? I would hope the church was the consignor at least, but the part about “local antique shop” makes me wonder. There has to be way more to this story. This should have made the papers.'
+
+- property: darius-goff-house
+  person: 'Anonymous'
+  date: '2011-01-17'
+  content: 'This Tiffany window was sold at a Christies Dec. 15th, 2010 at auction, lot #252, Tiffany “Peony” leaded glass window, and sold for $962,500… having an antique dealer appraise the items and issue a value… I’m sure they were able to identify the incredible value of this piece of art… and as a result of the sale of this one item… the money could have been used to finance and continue The Weeden Manor… were Reverend Peters or the Pawtucket Congregational Church not made aware of the true value of these precious items??? And if so why wasn’t the money used appropriately to maintain the manor?? Even if the window sold for a fraction of its value that still would have paid for 101 new windows plus… if keeping the Weeden Manor afloat was a problem why didn’t some of these items get deacquisitioned over time… considering that Rev. Peters concern was “that his ultimate goal is to do what is best for the financial future of the Pawtucket Congregational Church.” I have to believe nearly a million dollars would have paid for all repairs and operational costs for some time. Was the sale of these items handled with prudence… did the money from the sale of this window go to the Church or in a private antique dealers pocket??? Am I missing something here??'
+
 - property: boy-scouts-headquarters
   person: 'Nichole'
   date: '2017-06-19'
