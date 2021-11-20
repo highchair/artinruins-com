@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: primo-art-co
+  person: 'Jill Tyler'
+  date: '2021-11-17'
+  content: 'Walked by it today to get a closer look after noticing yesterday that work is being done on it. Hope they are planning to keep the historic look. It looks like they are repairing the windows and bricks.'
+
 - property: darius-goff-house
   person: 'Peter Gailitis'
   date: '2015-08-17'
