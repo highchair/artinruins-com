@@ -18,8 +18,8 @@ people: [ 'Darius Goff' ]
 lists: [ 'Quality Hill Historic District', National Register of Historic Places' ]
 tags: [ 'House' ]
 
-NRHP-ref-number:
-added-to-NRHP:
+NRHP-ref-number: '84002041 (contributing)'
+added-to-NRHP: 'April 1984'
 
 address: '11 Walnust St, Pawtucket RI'
 latitude: '41.878074'

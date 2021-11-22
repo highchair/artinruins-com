@@ -13,7 +13,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: []
-lists: [ 'National Register of Historic Places', 'Did You Know?' ]
+lists: [ 'Rhody Awards', 'National Register of Historic Places', 'Did You Know?' ]
 tags: [ 'Historic Diner Cars' ]
 
 NRHP-ref-number: '03000657 (individual)'
