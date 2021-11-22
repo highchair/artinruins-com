@@ -12,6 +12,26 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: milk-can
+  person: 'Roland Bouchard'
+  date: '2021-11-21'
+  content: 'Another website about The Milk Can https://www.facebook.com/MilkCanRI'
+
+- property: to-kalon-club
+  person: 'Sharlene Boulay'
+  date: '2019-05-24'
+  content: 'My father James Fitzgerald started to work at the TK Club in 1929 and continued until 1965. He was the manager of the TK club for 25 years. My brother Jay worked there as a pin boy. My sisters and I felt quite privileged to be the only girls allowed in the club aside from Eileen my fathers secretary and Julia the house keeper, we not only knew Charlie and Chris the the TK’S top chiefs but where lucky enough to have Charlie’s unbelievable apple fritters with claret sauce, and there pies that I have never again come across a pie or have I ever seen a duplication of a crust like theirs. My brother, sisters and I knew the workers and many of the members it made for both an interesting and wonderful childhood.'
+
+- property: to-kalon-club
+  person: 'Marty C. Marran, Esq.'
+  date: '2017-05-17'
+  content: 'In the 1980s the Pawtucket Bar Association used to meet monthly and enjoyed the facilities and a fine meal. The women members of Pawtucket Bar understandably felt anger over the Club’s “no women” policy. We found alternate accommodations, but I still have fond memories of my dad, Joe Marran, Ben Chester (a member of TK) and Gerry Oster playing gin rummy. Those guys were irascible, arriving 3 hours before the meeting just to play cards. The facility is beautiful, and I hope that somehow it could be put to some practical use.'
+
+- property: to-kalon-club
+  person: 'JWFARRANDS'
+  date: '2013-03-03'
+  content: 'WHY EVEN SAVE IT. THEY NEVER WANTED ANY ONE OTHER THAN THE RICH SNOBS TO JOIN.'
+
 - property: primo-art-co
   person: 'Jill Tyler'
   date: '2021-11-17'
