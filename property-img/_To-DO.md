@@ -32,13 +32,25 @@ caption: 'Providence Historical Aerial Viewer 1972'
 ## Classes
 {:.o__tldr} – Yellow background infobox
 {:.o__pull-quote} — Orange Senator font with slashes background
-
+{: .o__drop-cap } — First letter drop cap
 
 #### Sources
 
 caption: 'Sanborn Insurance Map, 1899-1900, volume 1 sheet 15 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library. '
 
 _“Riverboat Ride: Crescent Park, Riverside, RI”_, George Malone for Laff in the Dark, captured August 15, 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
+
+
+#### In copy Images
+
+<figure class="u__img u__img--right" aria-hidden="true">
+  <a href="#photo-amerscrew-habs-1970-03">
+    <img src="{{ site.propimg_path }}{{ page.slug }}/amerscrew-habs-1970-03.jpg" alt="" />
+  </a>
+  <figcaption>
+    Photo by Laurence Tilley for HABS/HAER and the National Register
+  </figcaption>
+</figure>
 
 
 #### HTML5 accordion

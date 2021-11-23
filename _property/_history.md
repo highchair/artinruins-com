@@ -190,7 +190,7 @@ RIP
 + JG Goffs
 + Merchants Cold Storage
 + Phenix Mill
-++ Quonset Point Davisville
++ Quonset Point Davisville
 + Rialto Furniture
 
 Urban Decay
@@ -254,26 +254,26 @@ Historic
 
 Still in Use
 + Eddy Estate Carriage House
-++ Imperial Place
++ Imperial Place
 + Regal Plating
 
 Redeveloped
 + 130 Vinton / Vinton Street Garage
 + 340 Broadway (Seven Stars)
-++ Lawton Family Storage / Pilgrim Congregational Church
-++ Liberty Elm Diner
++ Pilgrim Congregational Church / Lawton Family Storage
++ Liberty Elm Diner
 
 RIP
 + Decatur Lounge
-++ Pontiac Mills
+++ Pontiac Mills (NEED to find our photos from 2006!)
 + Sears Automotive (1st appeared 2003 now standalone)
-++ Talk of the Town
+++ Talk of the Town — Need photos from Jamie Lowe
 
 Urban Decay
 + Anderson Little (1st appeared 2003 now standalone)
 + Ethan Allen (1st appeared 2003 now standalone)
 + Rialto Theatre
-++ RI Mall
++ RI Mall
 + Slater Cotton Company
 + Union Wadding
 
@@ -284,7 +284,7 @@ Historic
 + Downtown Chinese Restaurants
 
 Redeveloped
-++ Dye House, Weybossett Mills
++ Dye House, Weybossett Mills
 
 Urban Decay
 + Enchanted Forest
@@ -303,16 +303,16 @@ Historical
 + A Before/After Project: photos from 1976 meet present day Providence
 
 Redeveloped
-++ 53-65 Ashburton St
++ 53-65 Ashburton St
 ++ Freeway Laundry (135 Broadway)
-++ Halstead at Slatersville Mill
++ Halstead at Slatersville Mill
 
 Still In Use
-++ 301 Friendship Street
-++ Narragansett Race Track
++ 301 Friendship Street
++ Narragansett Race Track
 
 Urban Decay
-++ 175 Broad Street (former Boy Scouts, now Planned Parenthood)
++ 175 Broad Street (former Boy Scouts, now Planned Parenthood)
 ++ The Arcade (?)
 + Beswick Building, Pawtucket (?)
 + Down Under Duckpin
@@ -332,10 +332,10 @@ Historic
 Redeveloped
 + 101 North Main Street
 ++ AT Wall Co.
-++ Capt. Tillinghast House
-++ Davis Lofts (407pinest)
++ Capt. Tillinghast House
++ Davis Lofts (407pinest)
 ++ Dunkin Donuts Center
-++ M Residential
++ Kennedy/Staffod Mill now M Residential
 + McDevitt Building
 ++ Mile Squared
 ++ Park Cinema
@@ -349,18 +349,17 @@ RIP
 + Smith Swim Center
 
 Still In Use (Some of these were added 2010)
-++ American Textile Mill
-++ Collette Travel & Blackstone Landing
-++ Grants Mill
++ American Textile Mill
++ Collette Travel & Blackstone Landing
 ++ Market House
 ++ Shepard Fairey attacks Providence
 + Teste Block
-++ To Kalon Club
++ To Kalon Club
 
 Urban Decay
-+ 398 Hope Street / Clark's Flowers
++ 398 Hope Street / Clark’s Flowers
 + Feldman Furniture
-++ Weeden Manor
++ Weeden Manor
 ++ Weybosset St Facade
 
 
@@ -373,7 +372,7 @@ Construction (20)
 Historical (18)
 
 Redeveloped (67)
-++ Burgess/O’Gorman building
++ Burgess/O’Gorman building
 ++ Little Nemo, Brown Medical School
 ++ Sealtest Ice Cream
 
@@ -410,7 +409,7 @@ RIP (48)
 Still In Use (41)
 
 Urban Decay (41)
-++ 216 Dean Street (facade)
++ 216 Dean Street (facade)
 
 
 ## 2013
