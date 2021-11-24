@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: silk-works-power-company
+  person: 'Roland Lavallee'
+  date: '2009-09-18'
+  content: 'OMG! I never thought I’d see a story about American Broadloom. When I was a kid during the 60s, I’d work my grandfather’s rubbish removal business located in Central Falls. We would take out the trash from American Broadloom and I’ll never forget those giant tables holding the rugs being sewn by the ladies. There would be cardboard barrels with the weave and these ladies would sit behind the very industrial sewing machines and spinning the rug while the edge the weave together. Oh, how I can see the movie in my mind playing that clip!'
+
 - property: milk-can
   person: 'Roland Bouchard'
   date: '2021-11-21'
