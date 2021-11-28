@@ -12,6 +12,24 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: fuller-iron-works
+  person: 'john'
+  date: '2016-05-24'
+  content: 'I know the location of a huge bell with following stamped on it. Providence Rhode Island F. Fuller 1778 was there an earlier time line for Rhode Island iron works?
+
+
+(**A.I.R.**: Possibly. We know that Frederick Fuller started the company in 1840 at the Pike Street factory location.)'
+
+- property: fuller-iron-works
+  person: 'Dimitri Viveiros'
+  date: '2012-03-08'
+  content: 'It was indeed sold and the new owner who razed the property. I knew the location as Bevo Nightclub an abandoned building with too many creepy small rooms in its basement.'
+
+- property: fuller-iron-works
+  person: 'chuck A'
+  date: '2012-02-15'
+  content: 'Had no idea that is building was ~120 years old. It looked so modern — thought it was post WW2! It held up pretty well! Let’s hope that if anything takes its place it is equally well-built.'
+
 - property: silk-works-power-company
   person: 'Roland Lavallee'
   date: '2009-09-18'
