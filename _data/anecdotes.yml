@@ -12,6 +12,21 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: arcade
+  person: 'ElJiffy'
+  date: '2015-09-16'
+  content: 'Just to reiterate: it’s a crying shame that Providence can’t figure out a way to make the Arcade viable. Making it over into micro-lofts is a violence to its original design, which was meant to be open to the public, not closed-off and private. In its early 19th century capitalist glory, the Arcade was a temple to mercantile, Jacksonian democracy, where all — well, not all — but certain Americans were considered equal to any others. Personally I think it would be an excellent repository of the state and local archives, almost 4OO years of colony/state and local archives probably mouldering away in official attics and basements. MA built itself a new site for its state archives, but RI has none. Certainly nothing modern. If this is the only way the Arcade survives (until its next crisis) well and good: look what happened to Providence National Bank. Maybe (hopefully) it survives this latest metamorphosis, into a future that appreciates it.'
+
+- property: arcade
+  person: 'Dean'
+  date: '2013-01-12'
+  content: 'I hear the Arcade is going to reopen with the 2nd and 3rd floors being studio apartments and the 1st floor being businesses. I love that building, great memories growing up.'
+
+- property: arcade
+  person: 'Jeff'
+  date: '2011-05-06'
+  CONTENT: 'I think it’s an outrage that one of the most historically significant buildings in Providence has been shuttered. Who owns it now? What do they intend to do with it? It’s a shame that no matter who takes it over the Arcade is always in a precarious state; if only someone with staying power and deep pockets could take it over for the long haul. Meanwhile, those of us who care about this beautiful, unique structure should keep a close eye on its fate.'
+
 - property: fuller-iron-works
   person: 'john'
   date: '2016-05-24'
