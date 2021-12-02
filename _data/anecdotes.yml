@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: general-ice-cream-corp
+  person: 'john hollis'
+  date: '2013-11-14'
+  content: 'Sam Dolbey was my grandfather on my mothers side. Would like to have anything you can send. thank you.'
+
 - property: arcade
   person: 'ElJiffy'
   date: '2015-09-16'
