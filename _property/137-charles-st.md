@@ -2,12 +2,13 @@
 title: "Hope Cycle & Auto Supply"
 slug: 137-charles-st
 aka: 
-date-modified: 2020-08-26 17:00
+date-modified: 2021-12-03-17:00
+update: 'Added a <a href="/property/137-charles-st#hope-cycle-smolski-1971-01">new color image from Chet Smolski</a>, Rhode Island College Collection'
 
-built: 
+built: 'between 1900 and 1920'
 demolition: 
 redeveloped: 
-decade:
+decade: '1900-1909'
 date-added: '2020'
 categories: [ '#ArchiveRI', '#UsedToBeThere' ]
 neighborhoods: [ 'Charles' ]
@@ -34,12 +35,14 @@ images:
     caption: 'Detail of the photo by Laurence Tilley for HABS/HAER and the National Register Nomination for American Screw Company, 1970'
   - url: hope-cycle-habs-1971-01.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER and the National Register Nomination for Moshassuck Square, 1971'
+  - url: hope-cycle-smolski-1971-01.jpg
+    caption: 'Smolski, Chester, “Randal Square Mills After Fire (1971)”, object 116. Rhode Island College Digital Collections, James P. Adams Library Digital Commons.'
   - url: hope-cycle-goog-2018-08-01.jpg
     caption: 'Google Streetview, September 2019, with the 1970 HABS/HAER photo overlay'
   - url: hope-cycle-goog-2018-08-02.jpg
     caption: 'Google Streetview, September 2019'
 
-imagescredit: 'Contributions by Laurence Tilley and Jack Boucher for HABS/HAER and Google Streetview'
+imagescredit: 'Contributions by Laurence Tilley and Jack Boucher for HABS/HAER; <a href="//digitalcommons.ric.edu/smolski_images/116" target="_blank">Chet Smolski</a>, Rhode Island College Digital Collections; and Google Streetview'
 ---
 
 ### The Mystery
@@ -50,4 +53,11 @@ The façade of the building has much writing on it, including: **OIL PARTS TIRES
 
 The original Canal House building at 125 Charles Street is the only portion of these photos from the early 1970s still standing. A massive fire in the later 70s took out the old Bay State Mill to the left and most of the old Eagle Mills to the right. A burned out hull of one of the mills was left standing for a little while before that was removed as well. 
 
+### History
+
 Google searches for this business and this address did not turn up too much. [A thread about this building on Facebook](//www.facebook.com/artinruinsweb/posts/3315507691805083) has not revealed much detail yet. Do you know more about this business or building, or both? 
+
++ The [1899–1900 Sanborn Insurance Map, Volume 2, Plate 144](//www.loc.gov/resource/g3774pm.g3774pm_g08099190002/){:target="_blank"}, does not show this property
++ The [1920–1921 Sanborn Insurance Map, Volume 2, Plate 56](//www.loc.gov/resource/g3774pm.g3774pm_g08099192102/){:target="_blank"}, labels this property lightly as “Vulcanizing” (having to so with rubber tires) with a 1000 gallon buried gasoline tank
++ The [1937 G.M. Hopkins insurance map, Plate 22](http://www.historicmapworks.com/Map/US/895479/Plate+022/Providence+1937/Rhode+Island/){:target="_blank"}, does not label this property specifically but it is shown 
++ The [1920–1950 Sanborn Insurance Map, Volume 2, Plate 56](//www.loc.gov/resource/g3774pm.g3774pm_g08099195102/){:target="_blank"} does not label this property specifically but it is shown
