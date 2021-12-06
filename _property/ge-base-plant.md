@@ -35,7 +35,7 @@ thumbnail: ge-base-jh-2011-03-04.jpg
 images:
   - url: ge-sanborn-1920-01.jpg
     caption: 'Sanborn Insurance Map, 1920–21, Volume 4, Plate 6 — Library of Congress, Geography and Map Division'
-    alt: ''
+    alt: 'Largely a single or two story red brick structure with a tall first floor that was once full of machinery. Simple decoration and fenestration with a corbel across the roofline. Fuller description in the history section. '
   - url: ge-base-jh-2011-03-01.jpg
   - url: ge-base-jh-2011-03-02.jpg
   - url: ge-base-jh-2011-03-03.jpg
@@ -91,6 +91,17 @@ The land on which the base plant once stood is now a greenhouse for [Gotham Gree
 
 
 ### History
+
+_From the Rhode Island Historical Preservation and Heritage Commission staff to Mr. Michael Marino, Chairman, Providence Historic District Commission, April 2014_
+
+#### Historical Significance Assessment
+
+[…] In a commemorative history of the Base Works issued in 1953 it was reported that this Providence plant became the largest producer of bases in the world. The operation participated in establishing plants worldwide and sent base making machinery to China, Japan, Europe and South America. In 1952, the plant’s shipment increased to more than one billion bases. At the company’s peak, it employed 500 people. Production here finally ceased in 2000. 
+
+The Base Works had its origins in the **Providence Gas Burner Company**, established in Providence in 1853. By the 1880s, the company had begun producing bases for the newly developed light bulbs as well, acquiring others’ patents and developing their own. In 1902 Providence Gas Burner was acquired by the **National Electric Lamp Company** of Cleveland, which was affiliated with the Electric Lamp Combination, a national alliance of light bulb producers associated with General Electric. In 1911, following an anti-trust suit brought by the US government against General Electric concerning their manufacturing practices, GE bought the company and renamed it the Providence Base Works. In 1916, they commenced building a new factory at Harris and Atwells Avenue. Completed in 1918, the same plant stands today with very little alteration to the steel and timber-framed, pier-and-spandrel brick buildings. Although the plant has been emptied of machinery, the interior retains the layout of production rooms, laboratory and office spaces that it did during its active manufacturing use.
+
+As demonstrated by the historical record, the Providence Base Works possesses National Register of Historic Places-level significance for its associations with Providence’s industrial history and the origins and growth of the electric light industry. The establishment of the GE Base Works to manufacture the newest electric lighting technology in the early 20th century is a reflection of Providence’s national manufacturing leadership. Industrial know-how, entrepreneurial capital and the ability to lead innovative technology made Providence the right location for this new national industry. […]
+
 
 _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
 
