@@ -15,7 +15,7 @@ neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'Rhody Awards', 'HABS HAER' ]
+lists: [ 'Rhody Awards', 'HABS HAER', 'College Hill Historic District' ]
 tags: [ 'House' ]
 
 NRHP-ref-number:
