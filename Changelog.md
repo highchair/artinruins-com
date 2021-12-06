@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2021-12-03
+
+Changed
++ Added the ability for an update message for an individual property to get published on the home page
+
 ## 2021-11-06
 
 Fixed

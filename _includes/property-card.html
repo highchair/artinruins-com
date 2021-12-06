@@ -33,7 +33,7 @@
           {% if home == "Yes" %}<span class="js-humanize-date"><i>Updated {{ item.date-modified | date: "%e %B, %Y" }}:</i></span> {% endif %}
           {%- if page.type == 'tags' and page.category == "The Superlatives" -%}
             {{ item.superlative }}
-          {%- elsif categories contains '#DemolitionAlert' -%}
+          {%- elsif categories contains '#DemolitionAlert' or home == "Yes" -%}
             {{ item.update }}
           {%- else -%}
             {{ item.excerpt }}
