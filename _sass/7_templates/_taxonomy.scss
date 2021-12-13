@@ -46,6 +46,8 @@
   }
   
   &__list {
+    max-width: 75rem;
+    
     li {
       border: 0.5px solid $color__borders;
       margin-bottom: 0.5rem;

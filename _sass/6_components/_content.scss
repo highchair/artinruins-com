@@ -10,4 +10,16 @@
     line-height: $line-height__tight;
     margin-bottom: $vertical-rhythm;
   }
+  
+  p,
+  li,
+  dt,
+  dd {
+    max-width: 92ch;
+  }
+  
+  // Reset other elements in content
+  ul[role="list"] li {
+    max-width: unset;
+  }
 }

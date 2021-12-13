@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2021-12-09
+
+Changed
++ Added a max-width to paragraphs (and li, dt, dd) of 92 characters. Added a max-width to taxonomy list ULs. In both cases, for wide screens, things were looking a bit too wide. 
+
 ## 2021-12-03
 
 Changed
