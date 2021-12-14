@@ -12,6 +12,30 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: talk-of-the-town
+  person: 'Ann'
+  date: '2019-07-07'
+  content: 'Talk of the Town was a place my friends and I would stop into when bar-hopping in the city. It was one of several great bars in downtown Providence, pre that awful term “Downcity” and the destruction of anything interesting in what had been a place full of character with mysterious little corners to it. All gone now.'
+
+- property: talk-of-the-town
+  person: 'Jeffrey Allcock'
+  date: '2015-09-16'
+  content: 'I remember the first Cuban Revolution and Talk of The Town in this building. I never went into the latter, which I regret now because it was such a landmark downtown. And I’ll always remember New Japan as the place where me and my actor-boyfriend at the time had the best bowl ever of fish soup, after one of his performances at Trinity. I never understood why this building with thriving businesses was demolished. Today it’s a parking lot. Truly a lost Providence. Nothing but greed could have motivated demolishing this building for the parking lot of a boutique hotel — which used to be a strip joint/hotel. Providence has been scrubbed of everything that was edgy and interesting. Today it’s mummified.'
+
+- property: talk-of-the-town
+  person: 'gregory banks'
+  date: '2008-04-17'
+  content: 'i can going in to the bar in the late ’80 and early ’90 when was a kid. i used to shoeshine downtown. i walk down to the bars to make money. Some people today remember someone going in there to shine shoes. i remember going to shine St patty’s day and always busy on tha day'
+
+- property: talk-of-the-town
+  person: 'Erik'
+  content: 'George and Nancy (the owners) were great people and were always on hand for a laugh and a good time. Place had an eclectic crowd as there could be. Bums drinking the $1.25 drafts during the day, then the working class crowd that came through from 5-7 PM and then the evening crowd that came by afterward that could be anyone and everyone from PC alum to Briuns fans to the local crowd having a few pops before the clubs got rocking. Me, I think I fell into almost every one of those crowds from time to time and enjoyed the place immensely. The charm of Providence was (and I use the term “was” purposely) these little friendly places, and not the sanitized corporate operations where the bar tender is usually older than you are and he doesn’t speak to you unless he’s checking your ID, asking you to leave, or telling you how much your drink order was.'
+
+- property: lincoln-mall
+  person: 'Name withheld please'
+  date: '2021-12-06'
+  content: 'We were teenagers in Smithfield when this mall first opened and spent a lot of time there! The funniest thing I remember though is learning how to drive there on a Sunday (back when blue laws closed stores on Sunday’s) along with all my siblings. Later I also learned how to drive a stick shift there as well. Nobody mentioned it but Thom McCann shoes were very popular and I know we saw either David Cassidy or The Osmond’s appear outside the record store. There was also a Singer Sewing  machine store and another trinket store next to it that had those clip on animals like koala bears! It was next to the organ store at the Caldor end. Great place to hang out!'
+
 - property: general-ice-cream-corp
   person: 'john hollis'
   date: '2013-11-14'
