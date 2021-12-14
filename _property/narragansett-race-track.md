@@ -2,7 +2,8 @@
 title: "Narragansett Race Track"
 slug: narragansett-race-track
 aka: 'Building 19 (& one ninth)'
-date-modified: 2021-10-16 12:00
+date-modified: 2021-12-12 17:00
+update: 'Added two more photos from 2014 that we found in our collection'
 
 opened: '1934'
 closed: '1978'
@@ -54,6 +55,8 @@ images:
     caption: 'The former escalator that ran from beneath the grandstands to the seats above'
   - url: narr-race-jh-2009-03-08.jpg
     caption: 'A pretty cool old bullhorn announcement system'
+  - url: narr-race-jh-2014-09-01.jpg
+  - url: narr-race-jh-2014-09-02.jpg
   - url: narr-race-aerial-1939.jpg
     caption: '1939 aerial: Notice the rail spur to the north of the track. To the north and east of that is parking, and to the south of the oval track are the horse stables — Providence Historic Aerial Viewer'
   - url: narr-race-aerial-1981.jpg
@@ -65,7 +68,7 @@ images:
 
 imagescredit: 'Contributions from the Providence Historic Aerial Viewer and the Rhode Island Photograph Collection, Providence Public Library (<a href="//provlibdigital.org/islandora/object/islandora%3A26436" target="_blank">aerial,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A18595" target="_blank">postcard,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12970" target="_blank">photo 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12984" target="_blank">photo 2,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A13040" target="_blank">photo 3</a>)'
 
-mostrecentimage: 2021-07-01
+mostrecentimage: 2014-09-01
 
 external:
   - source: 'Gallery: Horse Racing in Rhode Island — ProvidenceJournal.com'
