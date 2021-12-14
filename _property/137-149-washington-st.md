@@ -4,9 +4,9 @@ slug: 137-149-washington-st
 aka:
 date-modified: 2020-05-02 14:56
 
-built: 
+built: 'between 1920 and 1939'
 demolition: 2008
-decade: 
+decade: '1920–1929'
 date-added: 2005
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
@@ -73,4 +73,12 @@ In 2007, this came as a surprise to almost everyone. Plans for a downtown hotel 
 
 Meanwhile, in the years after the failed hotel development, AS220 purchased and renovated the Dreyfus Hotel and the adjoining Mercantile Block from 121 Washington Street through 135. The upper floors of both buildings are residential artist studios and workshops. The ground floor of both are stores and bars — Clark the Locksmith, The Stable, Mexico Restaurant, and the former Local 121 restaurant. 
 
-Personally I had only been to Cuban Revolution once or twice. The Cuban pulled pork sandwiches were pretty good. I had never been to New Japan. [Talk of the Town]({% link _property/talk-of-the-town.md %}) was a later discovery of mine, but I was able to go there a bunch before it was shut down. I remember most its small size, the bar staff who later moved on to be seen at many other local joints, and the HUGE beautiful oak and glass and mirror wall behind the bar — it was gorgeous. 
+Personally we had only been to Cuban Revolution once or twice. The Cuban pulled pork sandwiches were pretty good. I had never been to New Japan. [Talk of the Town]({% link _property/talk-of-the-town.md %}) was a later discovery of ours, but we were able to go there a bunch before it was shut down. We remember its small size the most, the bar staff who later moved on to be seen at many other local joints, and the HUGE beautiful oak and glass and mirror wall behind the bar — it was gorgeous. 
+
+
+### History
+
++ [1904 Sanborn Insurance Map](//www.loc.gov/resource/g3774pm.g3774pm_g080991904){:target="_blank"} — In this map, the location is a 3-story wood frame structure, adjacent to the existing 4-story mercantile building. Yellow indicates wood structures, while pink indicates brick. 
++ [1920 Sanborn Insurance Map](//www.loc.gov/resource/g3774pm.g3774pm_g08099192001){:target="_blank"} — In 1920 the same buildings appear. The 3 story wood frame building at 147 is labelled “Chine Laundry.”
++ [1939 G.M. Hopkins Maps](http://www.historicmapworks.com/Map/US/895458/Plate+001/Providence+1937/Rhode+Island/){:target="_blank"} — The building as we knew it was in existence. 
++ [1920–1951 Sanborn Insurance Map](//www.loc.gov/resource/g3774pm.g3774pm_g08099195101){:target="_blank"} — Where the 1920 map was updated with new drawings pasted over the old ones. The building in brick exists at this location. 
