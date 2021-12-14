@@ -30,7 +30,11 @@
           <![CDATA[
             <p>
               <img src="{{ site.url }}/property-img/r/480/{{ prop_img }}" alt="{{ prop.images.first.alt | xml_escape }}" />
+              {% if prop.update %}
+              {{ prop.update | xml_escape }}
+              {% else %}
               {{ prop.excerpt | xml_escape }}
+              {% endif %}
             </p>
           ]]>
         </description>

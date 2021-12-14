@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2021-12-12
+
+Changed
++ Update the feed.xml file to also display an update message when present.
+
 ## 2021-12-09
 
 Changed
