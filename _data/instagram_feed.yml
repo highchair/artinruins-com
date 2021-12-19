@@ -2,6 +2,10 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: primo-art-co
+  date: '2021-12-07'
+  insta_link: https://www.instagram.com/p/CXMTI6HrqaK/
+
 - post: 137-charles-st
   date: '2021-12-03'
   insta_link: https://www.instagram.com/p/CXB5tWcFJl8/
