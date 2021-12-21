@@ -12,6 +12,10 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: soule-mill-weave-shed
+  person: 'Marshall Fonseca'
+  date: '2013-05-13'
+  content: 'I worked at this ropeworks in the late 1970s. I worked for Mr. Ruggles. I was a machine operator there for 7 years. I am 67 yeas old now and retired. The name olf the place was New Bedford Textile when I worked there. We made rope for The Fire Dept, The Navy. The Army, Moutain Climbing Rope. In those days the machinery was very loud so we had to wear ear plug. I am glad you share my experince.'
 
 - property: fairhaven-mills-new-bedford
   person: 'Mike P'
