@@ -73,6 +73,8 @@ mostrecentimage: 2014-09-01
 external:
   - source: 'Gallery: Horse Racing in Rhode Island — ProvidenceJournal.com'
     url: https://www.providencejournal.com/photogallery/pj/20180504/news/504009997/PH/1
+  - source: 'Crowd at Narragansett, October 1934, photographer Leslie Jones'
+    url: https://www.digitalcommonwealth.org/search/commonwealth:3t946880v
 ---
 
 ### History
