@@ -38,7 +38,7 @@ sitemap:
       {% if categories contains '#DemolitionAlert' %}Yes{% else if %}No{% endif %}
     {%- endcapture -%}
     {%- assign props = props | plus:1 -%}
-    {%- if forloop.index < 20 and is_demo_alert == 'No' -%}
+    {%- if forloop.index <= 16 and is_demo_alert == 'No' -%}
       {% assign home = 'Yes' %}
       {% include property-card.html %}
     {%- endif -%}

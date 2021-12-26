@@ -10,51 +10,20 @@ sitemap:
 ---
 
 {%- assign properties = site.property | sort: "date-modified" | reverse -%}
-{%- assign totalimg = 0 -%}
-{%- for item in properties -%}
-  {%- assign totalimg = totalimg | plus: item.images.size -%}
-{%- endfor -%}
-{%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
-{%- assign tags = site.pages | where: 'layout', 'taxonomy' | sort: "type" -%}
-{%- assign totalpermonth = 0 -%}
-{%- assign totalprops = 0 -%}
-{%- assign totalredirects = 0 -%}
-{%- assign currentmonth = properties.first.date-modified | date: "%B, %Y" -%}
 
+              {%- assign date-added = site.pages | where: 'type', 'date-added' -%}
               <div class="all-tags__wrapper">
-                <h2 class="all-tags__title">Properties</h2>
+                <h2 class="all-tags__title">Properties by Year Added</h2>
                 <ul class="all-tags__list">
-                  <li>New site launched in June, 2020, mostly rehashing old posts. <a href="{% link date-added/2020.html %}" style="display:inline">The list of properties added in 2020</a>.</li>
-                  <li><div class="all-tags__list__group"><span>Total properties (including redirects):</span> <span>{{ properties.size }}</span></div></li>
-              {%- for property in properties -%}
-                {%- if property.date-modified != null -%}
-                  {%- assign thismonth = property.date-modified | date: "%B, %Y" -%}
-                  {% comment %}
-                    This only happens when we have gone through the loop at least twice
-                    We loop through once to set the thismonth date and count at least one property
-                    We loop through again to check thismonth against current month
-                    THEN we output the count we are at BEFORE we count up again
-                  {% endcomment %}
-                  {%- if thismonth != currentmonth -%}
-                  <li><div class="all-tags__list__group"><span>Added in {{ currentmonth }}:</span> <span>{{ totalpermonth }}</span></a></li>
-                    {%- assign currentmonth = thismonth -%}
-                    {%- assign totalpermonth = 0 -%}
-                  {%- endif -%}
-                {%- else if -%}
-                  {% comment %} property-date-modified is null so this is a redirect file {% endcomment %}
-                  {%- assign totalredirects = totalredirects | plus: 1 -%}
-                {%- endif -%}
-                {%- assign totalpermonth = totalpermonth | plus: 1 -%}
-                {%- assign totalprops = totalprops | plus: 1 -%}
-                {%- if forloop.last -%}
-                  <li><div class="all-tags__list__group"><span>Total redirects:</span> <span>{% include humanize-numbers/index.html number=totalredirects %}</span></div></li>
-                {%- endif -%}
-              {%- endfor -%}
-              {%- assign propsworedirect = totalprops | minus: totalredirects -%}
-                  <li><div class="all-tags__list__group"><span><b>Total properties (NOT including redirects):</b></span> <span>{% include humanize-numbers/index.html number=propsworedirect %}</span></div></li>
+                  {%- for thispage in date-added -%}
+                    {%- assign collection = site.property | where: 'date-added', thispage.category -%}
+                    <li><a class="all-tags__list__group" href="{{ '/' | relative_url }}{{ thispage.permalink }}"><span>{{ thispage.category }}</span> <span>{{ collection.size }}</span></a></li>
+                  {%- endfor -%}
+                  <li><div class="all-tags__list__group"><span>Total properties:</span> <span>{% include humanize-numbers/index.html number=properties.size %}</span></div></li>
                 </ul>
               </div>
 
+              {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
               <div class="all-tags__wrapper">
                 <h2 class="all-tags__title">Anecdotes</h2>
                 <ul class="all-tags__list">
@@ -62,6 +31,10 @@ sitemap:
                 </ul>
               </div>
 
+              {%- assign totalimg = 0 -%}
+              {%- for item in properties -%}
+                {%- assign totalimg = totalimg | plus: item.images.size -%}
+              {%- endfor -%}
               <div class="all-tags__wrapper">
                 <h2 class="all-tags__title">Images</h2>
                 <ul class="all-tags__list">
@@ -69,6 +42,7 @@ sitemap:
                 </ul>
               </div>
 
+              {%- assign tags = site.pages | where: 'layout', 'taxonomy' | sort: "type" -%}
               <div class="all-tags__wrapper">
                 <h2 class="all-tags__title">Taxonomy Pages</h2>
                 <ul class="all-tags__list">

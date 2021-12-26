@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2021-12-18
+
+Changed
++ Removed the properties listing in Statistics by month added. This was tracking the changes in during 2020 and 2021 where old properties were being converted over to the new format. Almost all properties have been converted, so, we are moving back to just showing how many have been added per year. 
+
 ## 2021-12-12
 
 Changed
