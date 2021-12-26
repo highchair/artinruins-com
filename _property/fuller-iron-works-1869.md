@@ -41,10 +41,14 @@ images:
   - url: fuller-iron-jh-2020-02-05.jpg
   - url: fuller-iron-jh-2020-02-06.jpg
   - url: fuller-iron-jh-2020-05-01.jpg
+  - url: fuller-iron-sanborn-1889-01.jpg
+    caption: 'Sanborn Insurance Map 1889, Volume 2, Plate 42a — Library of Congress, Geography and Map Division'
+  - url: fuller-iron-sanborn-1899-01.jpg
+    caption: 'Sanborn Insurance Map 1899, Volume 2, Plate 95a — Library of Congress, Geography and Map Division'
 
 mostrecentimage: 2020-05-01
 
-imagescredit:
+imagescredit: 'Contributions from the Library of Congress'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
