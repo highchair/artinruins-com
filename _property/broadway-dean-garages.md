@@ -32,9 +32,10 @@ excerpt: "The façade of this simple commercial building was left open for years
 thumbnail: broadway-garage-jh-2018-08-01.jpg
 
 images:
+  - url: 1914-November-Projo-Ad-Archives.jpg
+    alt: 'An interesting reconstruction of an older, symmetrical building. It is now asymetric and angular, with a recessed storefront and second floor recessed porch. The exterior is covered in orangey-tan laminate with the second floor covered in wood-look boards laid on a horizontal pattern'
   - url: broadway-garage-goog-2007-10.jpg
     caption: 'Google Streetview from 2007'
-    alt: 'An interesting reconstruction of an older, symmetrical building. It is now asymetric and angular, with a recessed storefront and second floor recessed porch. The exterior is covered in orangey-tan laminate with the second floor covered in wood-look boards laid on a horizontal pattern'
   - url: broadway-garage-jh-2011-02-01.jpg
   - url: broadway-garage-jh-2011-02-02.jpg
   - url: broadway-garage-jh-2011-02-03.jpg

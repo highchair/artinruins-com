@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Perez Mason' ]
 people: [ 'Anna Tirocchi and Laura Tirocchi Cella' ]
 lists: [ 'PPS Ten Most Endangered', 'Broadway-Armory Historic District' ]
-tags: []
+tags: [ 'House' ]
 
 NRHP-ref-number:
 added-to-NRHP:
