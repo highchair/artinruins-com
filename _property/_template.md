@@ -2,7 +2,7 @@
 title: ""
 slug:
 aka:
-date-modified: 2021-11-00 12:00
+date-modified: 2021-12-00 12:00
 
 built:
 demolition:
@@ -34,9 +34,9 @@ excerpt: ""
 #images:
 #  - url: hope-st-auto-jh-01.jpg
 
-imagescredit:
-
 mostrecentimage: 2021-07-01
+
+imagescredit:
 
 #external:
 #  - source: 'Providence Journal (permalink)'

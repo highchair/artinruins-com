@@ -162,7 +162,7 @@ Still in Use
 + Chestnuts
 + Coro Building
 + Dryden Lane, for. Allen Printworks
-++ Fairhaven Mills, New Bedford
++ Fairhaven Mills, New Bedford
 + Littlest Building in Providence (Lil Dunk)
 + Machine Shop for the Phenix Iron Foundry
 + Smith Webbing
@@ -267,7 +267,7 @@ RIP
 + Decatur Lounge
 ++ Pontiac Mills (NEED to find our photos from 2006!)
 + Sears Automotive (1st appeared 2003 now standalone)
-++ Talk of the Town — Need photos from Jamie Lowe
++ Talk of the Town — Need photos from Jamie Lowe
 
 Urban Decay
 + Anderson Little (1st appeared 2003 now standalone)
@@ -304,7 +304,7 @@ Historical
 
 Redeveloped
 + 53-65 Ashburton St
-++ Freeway Laundry (135 Broadway)
++ Freeway Laundry (135 Broadway)
 + Halstead at Slatersville Mill
 
 Still In Use
@@ -313,7 +313,7 @@ Still In Use
 
 Urban Decay
 + 175 Broad Street (former Boy Scouts, now Planned Parenthood)
-++ The Arcade (?)
++ The Arcade (?)
 + Beswick Building, Pawtucket (?)
 + Down Under Duckpin
 + Morris Novelty
@@ -337,10 +337,10 @@ Redeveloped
 ++ Dunkin Donuts Center
 + Kennedy/Staffod Mill now M Residential
 + McDevitt Building
-++ Mile Squared
-++ Park Cinema
++ Mile Squared
++ Park Cinema
 ++ Peter Green House
-++ Rope Works
++ Rope Works
 
 RIP
 + 1320 North Main Street
@@ -374,7 +374,7 @@ Historical (18)
 Redeveloped (67)
 + Burgess/O’Gorman building
 ++ Little Nemo, Brown Medical School
-++ Sealtest Ice Cream
++ Sealtest Ice Cream
 
 RIP (47)
 + Edgewood Yacht Club
@@ -384,7 +384,7 @@ Still In Use (41)
 
 Urban Decay (40)
 + The former Poirier Diner moved to its new location, now the Westminster Diner
-+ RISD's Farnum Hall (RIP)
++ RISD’s Farnum Hall (RIP)
 + Sutton Motor Inn
 
 **Sep 13 2011 — 306 properties**
@@ -400,11 +400,11 @@ Historic (18)
 
 Redevelop (69)
 + Butcher Block Mills
-++ Kendrick-Prentice-Tirocchi House
++ Kendrick-Prentice-Tirocchi House
 + Ward Baking
 
 RIP (48)
-++ Fuller Ironworks
++ Fuller Ironworks
 
 Still In Use (41)
 
@@ -462,3 +462,10 @@ Still In Use (46)
 Urban Decay (46)
 
 = 264
+
+Max Pollack building off Atwells is now "Strive Lofts"
+https://www.striveri.com/works/strive-lofts
+
+580 South Water Street new apartment development
+https://nerej.com/churchill-and-banks-completes-69-unit-apartment-complex-at-580-south-water-in-fox-point
+https://z-ds.com/project/south-water-development/
