@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places', 'Brussat’s 10 Best Lost Buildings' ]
-tags: [ 'Yellow brick' ]
+tags: [ 'Yellow brick', 'Theaters, Theatres, & Cinemas' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
