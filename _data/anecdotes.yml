@@ -12,6 +12,26 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: park-cinema-cranston
+  person: 'Dr. James R. Pannozzi AP (Retired)'
+  date: '2014-04-25'
+  content: 'I grew up in a small white cottage, the first house on the right on Sabra St., which leads to Twin Oaks at the end of the Street. I saw several movies over the years at the famous Park Cinema including “This Island Earth” in the mid 1950’s, some Jerry Lewis and Dean Martin comedies in the early 1950’s and “The Longest Day” in 1962. It’s hard for people today to realize how exciting the cinema was in those days, prior to the easy availability of movies at home in a variety of inexpensive formats via cable or DVD. The last time I was there was in the late 1990’s to watch the “English Patient”. I went alone and about half way through the movie decided it was not my cup of tea and left. I moved out of Rhode Island in 2002. That small cinema holds many wonderful memories for a great many Rhode Islanders and I’m pleased that it is being restored.'
+
+- property: park-cinema-cranston
+  person: 'Jim McDonald'
+  date: '2013-12-21'
+  content: 'I saw Lady And The Tramp there in the 50s, the second feature was The Littlest Outlaw'
+
+- property: park-cinema-cranston
+  person: 'kevin smith'
+  date: '2010-04-11'
+  content: 'I had my first date there when I was thirteen'
+
+- property: park-cinema-cranston
+  person: 'Art Handy'
+  date: '2010-03-14'
+  content: 'I was the 2003 sponsor of the bill that allowed them to get the license they needed to open with their new identity (which includes selling alcohol). I excited to be having my fundraiser there this March, 2010.'
+
 - property: soule-mill-weave-shed
   person: 'Marshall Fonseca'
   date: '2013-05-13'
