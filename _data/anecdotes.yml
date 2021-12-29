@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: 137-charles-st
+  person: 'VERNON M SAMOORIAN SR'
+  date: '2021-12-27'
+  content: 'Hope Cycle and Auto Supply was founded in 1903 by my Grandfather… the buildings on Charles Street were purchased around 1933 for an amount, that the state offered in the 1960’s during redevelopment, which was rejected by my father and uncle. My dad and Uncle took over the business upon the death of my grandfather in 1940. In 1971 the business was sold and moved up the street in what is now a brass works building. Eventually redevelopment paid 70,000 for the property which was supposed to be all removed. However in building which still stand became the Girls Scouts of RI. for may years. The cycle in Hope Cycle does NOT stand for motor, but rather for Bycicles. American Flyers, which were made in Mass. were sold for many years. as well as US royal tires… which had a 50 year relationship with our former company… Hope Cycle has many great memories for me.'
+
 - property: park-cinema-cranston
   person: 'Dr. James R. Pannozzi AP (Retired)'
   date: '2014-04-25'

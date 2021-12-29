@@ -3,7 +3,7 @@ title: "Hope Cycle & Auto Supply"
 slug: 137-charles-st
 aka: 
 date-modified: 2021-12-03-17:00
-update: 'Added a <a href="/property/137-charles-st#hope-cycle-smolski-1971-01">new color image from Chet Smolski</a>, Rhode Island College Collection'
+update: 'Added an anecdote from Vernon Samoorian and a few details from the obituary of Harry Samoorian, Jr.'
 
 built: 'between 1900 and 1920'
 demolition: 
@@ -15,7 +15,7 @@ neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
 designers: []
 lists: [ 'Mysteries of the Unknown', 'HABS HAER' ]
-tags: []
+tags: [ 'Chet Smolski image collection' ]
 
 address: '137 Charles Street, Providence RI'
 latitude: '41.8358878'
@@ -47,7 +47,7 @@ imagescredit: 'Contributions by Laurence Tilley and Jack Boucher for HABS/HAER; 
 
 ### The Mystery
 
-Just what was “Hope Cycle and Auto Supply”, how long did it last, and when did the slender triangular building that housed it get removed from Charles Street? Because of the oil (gas?) pumps on the narrowest end of the building, we assume the “Cycle” in “Hope Cycle” meant motorcycle. 
+Just what was “Hope Cycle and Auto Supply”, how long did it last, and when did the slender triangular building that housed it get removed from Charles Street? Because of the oil pumps on the narrowest end of the building, we assumed the “Cycle” in “Hope Cycle” meant motorcycle but an anecdote says it was pedal bicycle. 
 
 The façade of the building has much writing on it, including: **OIL PARTS TIRES TOOLS** with **WHOLESALE RETAIL** under that and in script lettering **Auto Supplies**. We found these photos as part of two different National Register nominations — one for the [American Screw Company]({% link _property/american-screw-co.md %}), and one for the [Moshassuck Square Historic District]({% link list/moshassuck-square-historic-district.html %}) (which included the American Screw Company).
 
@@ -61,3 +61,9 @@ Google searches for this business and this address did not turn up too much. [A 
 + The [1920–1921 Sanborn Insurance Map, Volume 2, Plate 56](//www.loc.gov/resource/g3774pm.g3774pm_g08099192102/){:target="_blank"}, labels this property lightly as “Vulcanizing” (having to so with rubber tires) with a 1000 gallon buried gasoline tank
 + The [1937 G.M. Hopkins insurance map, Plate 22](http://www.historicmapworks.com/Map/US/895479/Plate+022/Providence+1937/Rhode+Island/){:target="_blank"}, does not label this property specifically but it is shown 
 + The [1920–1950 Sanborn Insurance Map, Volume 2, Plate 56](//www.loc.gov/resource/g3774pm.g3774pm_g08099195102/){:target="_blank"} does not label this property specifically but it is shown
+
+The obituary for Harry E. Samoorian Jr.[^1] confirms a few details of the anecdote below — Hope Cycle & Auto Supply was founded in 1903 by Harry’s father, Vahe Samoorian. Vahe worked at Hope Cycle until his retirement in 1972, while Harry retired from the company in 1970. 
+
+The Randall Square area was redeveloped in the 1970s after the massive fire at American Screw. It makes sense that the Providence Redevelopment Authority purchased this property and deemed it unworthy of saving, while Canal House next door was saved and converted to office and residential use. 
+
+[^1]: “Harry E. Samoorian Jr..” Providence Journal (RI), CITY FINAL ed., sec. NEWS, 13 Oct. 1993, pp. D-19. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152523B1E605EEB8. Accessed 27 Dec. 2021.
