@@ -151,3 +151,28 @@ February 23, 2010
 
 To date (2020), no new structure has been built with the existing concrete piers and no new fishing pier has been added.
  
+
+### In the News
+
+#### Thousands turn out to toast new waterfront cafe
+
+_by Providence Journal Staff_  
+**Providence Journal** | June 22, 1990
+
+India Point was awash with cars yesterday as thousands of people attended the opening bash at Shooters Waterfront Cafe.
+
+Lt. Richard Sullivan said the problems developed about 5 p.m. “when everyone tried to get there at the same time.
+
+“I heard they invited 2,000 people and were expecting 5,000,” he said.
+
+Management of Shooters, a restaurant and marina, could not be reached for comment.
+
+“Initially everyone was sort of trying to get to the same parking spot,” Sullivan said. “There’s only so many parking spots there, in the street, and once they were taken, we had to block off a few streets” — at Gano Street at the east entrance to India Point Park and at Tockwotton Street at the west end.
+
+Many people who were on their way to Shooters parked as far away as [Davol Square]({% link _property/davol-rubber-company.md %}) to the west, Gano Street to the east and Wickenden and Sheldon Streets to the north.
+
+While traffic on city streets was jammed, it flowed freely in both directions on Route 195, to which most of the India Point traffic was routed after the open house festivities at Shooters ended at 7:30 p.m.
+
+—
+
+“Thousands turn out to toast new waterfront cafe.” Providence Journal (RI), CITY FINAL ed., sec. NEWS, 22 June 1990, pp. B-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525BB9961F538D8. Accessed 29 Dec. 2021.

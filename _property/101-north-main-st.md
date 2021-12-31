@@ -89,7 +89,13 @@ Local artist Dan Gosch and fellow RISD graduate had a studio in Pilgrim Mills in
 
 #### Blue Point Oyster House
 
-Known for great seafood and wine list, Blue Point was located in a one story addition that was demolished to make way for a new four story addition to Pilgrim Mills. It was a legendary watering hole: Aaron Siskind, Dale Chihuly and other RISD luminaries were regulars. It is where [Bill Warner]({% link designer/william-d-warner.html %}), Fredric St. Florian, and Irving Haynes came up with the concept to move the rivers and create Waterplace Park. The owner of the restaurant, who was paid to vacate, was not happy about the move. The building, however, was falling down around them and business had slowed by the mid-nineties. 
+Known for great seafood and wine list, Blue Point was located in a one story addition that was demolished to make way for a new four story addition to Pilgrim Mills. It was a legendary watering hole: Aaron Siskind, Dale Chihuly and other RISD luminaries were regulars. It is where [Bill Warner]({% link designer/william-d-warner.html %}), Fredric St. Florian, and Irving Haynes came up with the concept to move the rivers and create Waterplace Park. 
+
+> There was the famous evening in April 1981 no one remembers the precise date when several frustrated local architects let their imaginations run intelligently amok over drinks at the old Blue Point Oyster Bar on North Main Street. William Warner and his wife, Peggy, Irving Haynes, and Friedrich St. Florian were sharing drinks and grousing about city planning efforts when the pens and markers came out and a linen napkin became their easel. They started drawing and talking, and before long they had the outlines of a plan, with spilled wine added for color. “It was a collage of a couple of disillusioned architects,” Warner recalled last week. “We were drinking a little bit of wine, and we all said ‘Let’s draw what it could be like.’ It wasn’t really a vision, it was really a fantasy.”[^1]
+
+[^1]: MacKAY, SCOTT. “A napkin, some wine, and imagination led to city’s rebirth.” Providence Journal (RI), All ed., sec. News, 13 Apr. 2002, pp. A-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15250AF06AAF23A8. Accessed 31 Dec. 2021.
+
+The owner of the restaurant, who was paid to vacate, was not happy about the move. The building, however, was falling down around them and business had slowed by the mid-nineties. 
 
 From a March 1994 review of food destinations in Providence, [New York Times](//www.nytimes.com/1994/03/06/travel/whats-doing-in-providence.html){:target="_blank"}:
 

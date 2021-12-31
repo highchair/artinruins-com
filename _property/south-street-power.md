@@ -2,7 +2,8 @@
 title: "South Street Power Station"
 slug: south-street-power
 aka: 'Narragansett Electric Lighting Company, Heritage Harbor, South Street Landing'
-date-modified: 2021-01-16 12:00
+date-modified: 2021-12-29 12:00
+update: 'Added a news story about Robert Freeman who dreamed of South Street becoming a museum as far back as 1984.'
 
 built: '1912–1925'
 demolition: 
@@ -232,3 +233,28 @@ Historical maps and plans from the 1950s depict the South Street Station site at
 Ultimately, <span class="abbr">NELCo</span> phased out the South Street Station in favor of their Manchester Street Power Plant, which was expanded and modernized in 1995. The subsequent decommissioning of the South Street Station resulted in the removal of the 1924-1925 gatehouse, the 1950s 2000lb. House and the oil tanks. The chimney stacks were removed from the roof of the building. […]
 
 </details>
+
+
+### In the News
+
+As early as the 1980s, developers have been thinking about the South Street power station as a museum.
+{:.o__pull-quote}
+
+#### A young man with a big vision Davol Square developer Freeman eyes a waterfront empire
+
+_by Gwynne Morgan_  
+**Providence Journal** | September 16, 1984 (abridged)
+
+[…] EVENTUALLY, Freeman envisions a New England Museum of Technology and Industry in the underused Narragansett Electric building next to [Davol Square]({% link _property/davol-rubber-company.md %}). The museum, as he conceives it, would house technological innovations sparked by Rhode Island-based companies — items like a working Bell Helicopter donated by Textron. 
+
+The museum, teamed with Davol Square and Corliss Landing, “will make this a major drop-off place for tourists on their way to the Cape or Newport,” Freeman predicts. In his vision, Providence and Newport tourists will shuttle back and forth by hydrofoil. […]
+
+With his 40th birthday still seven months away, the baby-faced millionaire has amassed quite a record.
+
+He is owner and president of the Marathon Group of Companies, five diversified companies that provide real estate and investment management, brokerage, development and advisory services for individual and institutional investors representing $50 million in assets. Marathon Development Corp. manages properties, like Davol Square, owned by Marathon Group. Marathon Property leases and/or manages properties owned by others, such as the Turks Head Building and the Providence bus terminal.
+
+He also is a partner in Locke-Ober Co., the prestigous _[sic]_ Boston restaurant, and in Bannister’s Wharf Inc., the entertainment and epicurean hub of the Newport waterfront. […]
+
+—
+
+MORGAN, GWYNNE. “A young man with a big vision Davol Square developer Freeman eyes a waterfront empire.” Providence Journal (RI), ALL ed., sec. BUSINESS, 16 Sept. 1984, pp. F-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C0C25C274A68. Accessed 29 Dec. 2021.

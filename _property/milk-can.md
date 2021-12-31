@@ -2,7 +2,8 @@
 title: "Milk Can"
 slug: milk-can
 aka: "The Milk Jug"
-date-modified: 2020-11-14 17:00
+date-modified: 2020-12-26 17:00
+update: 'Added a link to a video mini-documentary by Jason Allard'
 
 built: '1931'
 demolition: 
@@ -66,6 +67,10 @@ The Milk Bottle or Milk Can idea was a popular novelty shape. The [Hood Milk Bot
 
 
 ### Current Events
+
++ [A well-researched mini-documentary by Jason Allard on YouTube](//www.youtube.com/watch?v=EhIOWXB8EI8){:target="_blank"}.
+
+***
 
 _Research by [Gunnar Johnson](//www.roadsideamerica.com/tip/8599){:target="_blank"} fact-checked and adjusted by A.I.R._
 

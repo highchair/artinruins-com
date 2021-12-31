@@ -65,7 +65,7 @@ imagescredit: 'Contributions by Rick Greenwood'
 
 ### Reason for Demolition
 
-This large building with a non-descript exterior on the edge of India Point directly across Tockwotton Street from interstate 195 was covered in purplish asbestos tile until recently. Underneath was revealed a curtain wall of glass panes 20 feet high. 
+This large building with a non-descript exterior on the edge of India Point directly across Tockwotton Street from interstate 195 was covered in purplish asbestos tile until recently. Underneath was revealed a wood curtain wall of glass panes 20 feet high with standard glazing. 
 
 The building has sat in disrepair for a very long time and was most recently used as a nightclub. The soaring 20 foot ceiling was diminished by a drop ceiling, likely to keep the heat down where the people are. More recently the building seems to have been a hangout for a graffiti crew, or at least one of those places that everyone comes to leave their mark. 
 

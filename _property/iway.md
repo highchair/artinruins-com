@@ -2,7 +2,8 @@
 title: "iWay Bridge, I-195 over the Providence River"
 slug: iway
 aka: 
-date-modified: 2020-10-26 12:00
+date-modified: 2020-12-26 12:00
+update: 'Added a photo found in the Amherst College digital collections'
 
 built: '2006-2007'
 demolition: 
@@ -54,6 +55,10 @@ images:
 mostrecentimage: 2007-10-01
 
 imagescredit: 'Images of the public opening by Frank Mullin'
+
+external:
+  - source: 'IWAY Providence River Bridge travels up the Providence River Conimicut Point, May 12, 2015 — UMass Amherst Collection'
+    url: https://credo.library.umass.edu/view/zoom/muph083-b03-f22-dvd-i167
 ---
 
 ### Proposal

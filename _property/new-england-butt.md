@@ -15,7 +15,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Armory Revival Company', 'DBVW Architects' ]
 people: [ 'Spencer P. Read', 'Frank Gilbreth' ]
-lists: [ 'National Register of Historic Places' ]
+lists: [ 'Providence Industrial Sites 1981', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Apartments for Rent' ]
 
 NRHP-ref-number: '80000001 (individual)'
@@ -86,6 +86,11 @@ About 44,000 sf of the complex — mostly a one story, less historically signifi
 
 ### History
 
+We are intrigued by what looks like [a new podcast coming all about the history of the New England Butt Company](http://www.nebuttco.com){:target="_blank"}.
+{:.o__tldr}
+
+***
+
 _From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 
 Established in 1842 by N.A. Fenner, the New England Butt Company manufactured cast-iron butt hinges. By 1880, however, the introduction of cheaper, stamped-metal butts rendered cast-iron butts obsolete, and the company turned to the manufacture of braiding machinery.
@@ -94,6 +99,7 @@ The oldest building in this complex is the much altered 2-story, monitor roofed,
 
 By 1901 the New England Butt Company employed 200 skilled workers in the manufacture of braiding machines for silk, worsted, and cotton braid as well as telephone, electric light and crinoline wire. The Wanskuck Corporation bought the New England Butt Company in 1955. (As of 1981,) the factory continues to produce braiding machinery and cabling machinery at this site as well as the works of the former Providence Steam Engine Company at 521 South Main Street.
 
+***
 
 _From the National Register Nomination Form, 1980_
 

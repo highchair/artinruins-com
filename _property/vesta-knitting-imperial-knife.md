@@ -16,7 +16,8 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'Providence Industrial Sites 1981' ]
-tags: []
+tags: [ 'Superlatives' ]
+superlative: 'Once the largest manufacturer of cutlery in the world'
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -100,3 +101,33 @@ The Vesta Knitting Mills, one of the few textile companies located in this part 
 With jewelry-manufacturing rental space at a premium in or near the jewelry district, the Vesta Knitting Mills soon invested in a second large factory designed primarily for jewelry manufacturing. The company rented five of the six floors to jewelry manufacturers and occupied one floor of the new structure. This plain brick structure with a flat roof, segmental-arch windows, and granite sills is adjacent to the earlier structure. In 1916 the Vesta Knitting Mills reorganized as the **Vesta Underwear Company** with Ovide de St. Aubin as the president and his brother Percival as the treasurer. By 1930 the Vesta Underwear Company was producing 4000 dozen garments a week. 
 
 In 1941, however, the Vesta Underwear Company closed its plant and sold the buildings to the Imperial Knife Company which already occupied the 1903 structure. The **Imperial Knife Company** founded by Felix Mirando was the first large American manufacturer of jack knives, a product which had previously been imported from Germany and England. By 1929 the company employed 1,000 workers. The Imperial Knife Company, which now manufactures all kinds of cutlery, still occupies these buildings.
+
+
+### In the News
+
+#### Imperial Knife Co. to close, a victim of foreign competition
+
+_by Paul Edward Parker_  
+**Providence Journal** | June 28, 1987 (abridged)
+
+The Imperial Knife Co.’s 150 employees learned by letter yesterday that the company will close its King Street plant in the fall. The letter said the company — once the largest manufacturer of cutlery in the world — was a victim of foreign competition.
+
+Loss of a $15.5-million Army bayonet contract last fall was also a factor in the decision to consolidate the company’s kitchen cutlery operations in its Allenville, N.Y., plant, general manager Michael M. Grove said yesterday.
+
+The plant will shut down at the end of the fall manufacturing season — about the end of October — Grove said. The plant is closed now as part of a normal two-week summer holiday. Grove said he will discuss employees’ futures with them when they return from the break.
+
+“The basic reason for closing down is that the cutlery business has been very severely impacted by the imports,” Grove said. […]
+
+Imperial Knife worker Horst K. Lichtenberger, a tool and die maker from Warwick, took the closing in stride; “I feel bad. I worked in that company for almost 33 years. They treated me well; they paid me well.” As for the future: “I hang in there until the place is going to close and I look for another job.” Lichtenberger said he is not old enough to retire. […]
+
+Imperial lost the bayonet contract to a California firm, Phrobis III Ltd., after making Army bayonets since the beginning of World War II. Imperial fought for the job, claiming Phrobis was illegally helped by a retired Army weapons officer, but the federal General Accounting Office dismissed Imperial’s complaint.
+
+The letter to employees said a foreign nine-knife set retails for $19.95. Imperial’s costs about twice that, Grove said.
+
+Imperial was founded in Olneyville by Felix Mirando, an Italian immigrant, in 1917. In 1944, the company received the Army-Navy “E” for excellence in wartime production. In 1958, when the King Street plant opened, Imperial was the largest manufacturer of cutlery in the world. In 1965, the company had more than a thousand employees.
+
+By 1984, the company began regrouping, merging its Davol Square plant with the King Street operation.
+
+—
+
+PARKER, PAUL EDWARD. “Imperial Knife Co. to close, a victim of foreign competition.” Providence Journal (RI), ALL ed., sec. NEWS, 28 June 1987, pp. A-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15252B4D60CFDB48. Accessed 29 Dec. 2021.
