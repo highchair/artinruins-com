@@ -1,19 +1,23 @@
 ---
-title: "J.G. Goff’s Pub"
+title: "James C. Goff Company Office Building"
 slug: jg-goffs-pub
-aka: 
-date-modified: '2020-06-05 16:00'
+aka: 'J.G. Goff’s Pub'
+date-modified: '2020-12-28 16:00'
+update: 'Added history that was found as part of researching the Davol Rubber Complex'
 
-built: 1820
-demolition: 2005
-decade: '1820-1829'
-date-added: 2004
+built: '1913'
+demolition: '2005'
+decade: '1910-1919'
+date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: []
-tags: [ 'Needs History', 'Demolition by Progress' ]
+lists: [ 'Davol Rubber Company Complex', 'Providence Industrial Sites 1981', 'National Register of Historic Places' ]
+tags: [ 'Demolition by Progress' ]
+
+NRHP-ref-number: '80000093 (individual)'
+added-to-NRHP: 'June 1980'
 
 address: '7 Point Street, Providence RI'
 latitude: '41.817407'
@@ -21,7 +25,7 @@ longitude: '-71.4082377'
 gmap: "https://www.google.com/maps/place/7+Point+St,+Providence,+RI+02903/@41.817407,-71.4082377,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4454020262997:0x231702654f768800!8m2!3d41.817407!4d-71.406049"
 
 meta: ""
-excerpt: "A lovely little pub that we never had to pleasure of visiting. Construction on a 3 mile sewer project damaged the foundations beyond repair."
+excerpt: "A lovely little pub that we never had to pleasure of visiting. Construction on a 3 mile sewer project damaged the foundations beyond repair"
 
 thumbnail: 
 
@@ -42,17 +46,21 @@ images:
 imagescredit: 
 ---
 
+The connection to Davol Rubber is tenuous — see the [History](#history) section for the details.
+{:.o__tldr}
+
+
 ### Reason for Demolition
 
-__From The Supreme Court of RI Archives — The FREE & Clear Company v. The NARRAGANSETT BAY COMMISSION et al.__
+_From The Supreme Court of RI Archives — The FREE & Clear Company v. The NARRAGANSETT BAY COMMISSION et al._
 
-Founded in 1993, the J.G. Goff's Pub (J.G. Goff's or pub) was a small tavern overlooking the Providence River and the Point Street Bridge in Providence. The pub was located in a freestanding historic brick building at the Davol Square Complex. Styling itself as “the neighborhood pub that's not in the neighborhood,” J.G. Goff's was a favorite destination among patrons on the way home from their downtown offices and the nearby hospitals, as well as university students and families.
+Founded in 1993, the J.G. Goff’s Pub (J.G. Goff’s or pub) was a small tavern overlooking the Providence River and the Point Street Bridge in Providence. The pub was located in a freestanding historic brick building at the Davol Square Complex. Styling itself as “the neighborhood pub that's not in the neighborhood,” J.G. Goff's was a favorite destination among patrons on the way home from their downtown offices and the nearby hospitals, as well as university students and families.
 
-J.G. Goff's was formed, owned, and operated by Free & Clear, an “S” corporation1 that originally was held jointly by Robert Freeman, Jr. (Freeman) and Stephen Cleary (Cleary). In addition to his ownership interest in Free & Clear, Cleary owned the real estate management company that managed the Davol Square Complex until the late 1990s. Freeman, who sold Cleary his interest in Free & Clear in 1998, was the son of the then-owner of the Davol Square Jewelry Mart, LLC (Davol Square). The building that housed the pub (Goff Building) was owned by Davol Square.
+J.G. Goff's was formed, owned, and operated by Free & Clear, an “S” corporation that originally was held jointly by Robert Freeman, Jr. (Freeman) and Stephen Cleary (Cleary). In addition to his ownership interest in Free & Clear, Cleary owned the real estate management company that managed the Davol Square Complex until the late 1990s. Freeman, who sold Cleary his interest in Free & Clear in 1998, was the son of the then-owner of the Davol Square Jewelry Mart, LLC (Davol Square). The building that housed the pub (Goff Building) was owned by Davol Square.
 
 The pub did not open for business on December 9, 2003, and it has not served another customer since that date. Two days later, on December 11, the Building Inspector for the City of Providence declared that the building was unsafe for occupancy and use. 
 
-__Excerpted from [Caser Law Archives](//caselaw.findlaw.com/ri-supreme-court/1726055.html){:target="_blank"}__
+_Excerpted from [Case Law Archives](//caselaw.findlaw.com/ri-supreme-court/1726055.html){:target="_blank"}, captured June 4, 2020_
 
 
 ### Current Events
@@ -62,11 +70,19 @@ The area where this building once stood is now home to [River House](//www.myriv
 
 ### History
 
-Haven’t been able to find any. Could this have been a building “study’ for the larger Davol Square (Davol Rubber Company)? Its 1820 build date would say that no, it came before the nearby rubber company by 60 years — the Davol buildings were constructed between 1880 and 1913. 
+Local legend, bar owner, and bartender John “JR” Richard used to tend at J.G. Goff’s. Known more recently as the owner of The Avery in Loungo Square on the West Side and the PTX Lounge in Pawtucket Village, Cranston. 
 
-In 2020, we am no longer sure where the 1820 build date came from. The [Wikipedia page for Davol Square](//en.wikipedia.org/wiki/Davol_Square) cites our page as a resource, so, we guess it must be true. 
+We have not found much info about this building as the Davol Rubber Company nomination form is light on details. A build date in included in the excerpt below, but we question whether or not this building was built by Davol: 
 
-Local legend, bar owner, and bartender John “JR” Richard used to tend at JG Goff’s. Known more recently as the owner of The Avery in Loungo Square, West Side, and the PTX Lounge in Pawtucket Village, Cranston. 
+***
+
+_From the National Register nomination form 1980 for Davol Rubber Company, prepared by Jeffrey Blydenburgh_
+
+Between 1918 and 1926 the [[Davol Rubber Company]({% link _property/davol-rubber-company.md %})] complex as we see it today was finished. The original boat slip was filled, a one-story structure with windows and framing identical to the 1913 addition was added and **the small isolated office building at the southeast corner of the property was built**.
+
+***
+
+While the date of 1913 might be correct, this small brick office building appears on Sanborn Maps between 1900 and 1920 as part of the **James C. Goff Company, Mason Supplies**. It seems that it was not built for the Davol Rubber Company at all, but was part of a purchase they must have made while expanding on the property and filling in the boat slip. Sanborn Maps may be found as part of our history of the [Davol Rubber Company]({% link _property/davol-rubber-company.md %}).
 
 
 ### In the News
