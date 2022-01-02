@@ -2,7 +2,8 @@
 title: "Union Station"
 slug: union-station
 aka: "Union Station No. 2"
-date-modified: 2021-05-06 12:00
+date-modified: 2022-01-01 12:00
+update: 'Added an image from the <a href="/property/union-station/#photo-union-station-cs-1987-04-01">Chet Smolski</a> collection'
 
 built: '1896-98'
 demolition:
@@ -16,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Stone, Carpenter, & Willson' ]
 people: []
 lists: [ 'National Register of Historic Places', 'HABS HAER', 'Downtown Providence National Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'Train Stations' ]
+tags: [ 'Train Stations', 'Chet Smolski image collection' ]
 
 NRHP-ref-number: '75000003 (individual)'
 added-to-NRHP: 'February 1975'
@@ -63,8 +64,12 @@ images:
     caption: 'View of the underpass below the station which buses used to load and unload passengers, but the center lanes allows cars to travel Francis Street towards Gaspee, likely 1950s — Rhode Island Photograph Collection, Providence Public Library'
   - url: union-station-habs-1982-aerial.jpg
     caption: 'Aerial photo by William Barrett for HAER RI-14, 1982, Library of Congress'
+  - url: union-station-cs-1987-04-01.jpg
+    caption: '“Union Station: April 26, 1987 Fire,” Chester Smolski image collection, Rhode Island College'
 
-imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12438" target="_blank">c.1902,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14447" target="_blank">c.1904,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14742" target="_blank">Trolley,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12455" target="_blank">c.1910,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12552" target="_blank">c.1915-20,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12641" target="_blank">c.1920-28,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A11557" target="_blank">fire,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12508" target="_blank">interior,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12656" target="_blank">c.1950,</a>); Edward Ozog Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A17600" target="_blank">postcard 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A16958" target="_blank">1932,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A17235" target="_blank">tracks,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A16113" target="_blank">postcard 2</a>); Avery Lord Aerial Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A58" target="_blank">aerial</a>); Providence Public Library'
+mostrecentimage: 1987-04-01
+
+imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12438" target="_blank">c.1902,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14447" target="_blank">c.1904,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14742" target="_blank">Trolley,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12455" target="_blank">c.1910,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12552" target="_blank">c.1915-20,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12641" target="_blank">c.1920-28,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A11557" target="_blank">fire,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12508" target="_blank">interior,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12656" target="_blank">c.1950,</a>); Edward Ozog Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A17600" target="_blank">postcard 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A16958" target="_blank">1932,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A17235" target="_blank">tracks,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A16113" target="_blank">postcard 2</a>); Avery Lord Aerial Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A58" target="_blank">aerial</a>), Providence Public Library; <a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>'
 
 ---
 

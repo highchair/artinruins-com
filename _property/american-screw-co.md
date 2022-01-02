@@ -2,7 +2,8 @@
 title: "American Screw Company"
 slug: american-screw-co
 aka: 'Eagle Mill, Eagle Screw Company, Bay State Mill'
-date-modified: 2020-08-04 12:00
+date-modified: 2022-01-01 15:00
+update: 'Added an image from <a href="/property/american-screw-co/#photo-amerscrew-cs-1971-08-01">Chet Smolski</a> collection'
 
 built: '1840–1873'
 demolition: '1971'
@@ -14,7 +15,7 @@ neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Alpheus C. Morse', 'Thomas A. Tefft' ]
 lists: [ 'HABS HAER', 'Moshassuck Square Historic District', 'National Register of Historic Places', 'Providence’s Five Industrial Wonders' ]
-tags: [ 'Demolition by Neglect', 'Demolition by Fire', 'The Superlatives' ]
+tags: [ 'Demolition by Neglect', 'Demolition by Fire', 'The Superlatives', 'Chet Smolski image collection' ]
 superlative: 'At the turn of the 20th century, the largest screw manufacturer in the country'
 
 NRHP-ref-number: '709380013 (contributing)'
@@ -74,6 +75,8 @@ images:
     caption: 'East end of southern addition to Building 1, 3rd floor.'
   - url: amerscrew-habs-1970-16.jpg
     caption: 'Framing below skylights in building 6.'
+  - url: amerscrew-cs-1971-08-01.jpg
+    caption: '“Randal Square Mills After Fire (1971)”, Chester Smolski image collection, Rhode Island College'
   - url: amerscrew-rendering-1972.jpg
     caption: 'Architectural renovation rendering by Karen Noel. View is to the south at the intersection of Stevens and Charles streets.'
   - url: amerscrew-aerial-1899-1997.jpg
@@ -83,7 +86,7 @@ images:
   - url: amerscrew-aerial-1970-1997.jpg
     caption: 'Providence Historic Aerial Viewer 1997 with a 1970 schematic of the complex from the National Register nomination'
 
-imagescredit: 'All images from the National Register nomination forms, photos by Laurence Tilley. Architectural drawing by Karen Noel.'
+imagescredit: 'All images from the National Register nomination forms, photos by Laurence Tilley, <a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>, and Architectural drawing by Karen Noel.'
 ---
 
 ### Reason for Demolition

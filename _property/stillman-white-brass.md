@@ -2,7 +2,8 @@
 title: "Stillman White Brass Foundry"
 slug: stillman-white-brass
 aka: 
-date-modified: 2021-03-25 12:00
+date-modified: 2022-01-01 13:00
+update: 'Added an image from the <a href="/property/stillman-white-brass/#photo-stillman-cs-1975-01">Chet Smolski</a> collection'
 
 built: '1871–1876'
 demolition: 
@@ -16,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'Stillman White' ]
 lists: [ 'Moshassuck Square Historic District', 'HABS HAER', 'PPS/AIA Industrial Commercial Buildings Survey', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'Flatiron style' ]
+tags: [ 'Flatiron style', 'Chet Smolski image collection' ]
 
 NRHP-ref-number: '709380013 (contributing)'
 added-to-NRHP: '1970'
@@ -37,6 +38,8 @@ images:
     alt: 'A small, two-story red brick mill in a trapezoidal flatiron style. The replacement windows on the west wall are double pane but inoperable. Lintels and sills are simple rectangular cast cement and the roofline features a simple cornice of decorative brickwork.'
   - url: stillman-habs-1972-01.jpg
     caption: 'Photo for HABS/HAER and the National Register, 1970'
+  - url: stillman-cs-1975-01.jpg
+    caption: '“Moshassuck Square Apartments” 1975, Chester Smolski image collection, Rhode Island College'
   - url: stillman-jh-2005-08-01.jpg
   - url: stillman-jh-2005-08-02.jpg
   - url: stillman-jh-2005-08-03.jpg
@@ -49,7 +52,9 @@ images:
   - url: stillman-jh-2021-04-06.jpg
   - url: stillman-jh-2021-04-07.jpg
 
-imagescredit: 'Contributions from HABS/HAER and National Register Nomination forms'
+imagescredit: 'Contributions from HABS/HAER, National Register Nomination forms, and <a href="//digitalcommons.ric.edu/smolski_images/191" target="_blank">Chet Smolski</a>'
+
+mostrecentimage: 2021-04-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
