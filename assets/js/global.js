@@ -61,6 +61,22 @@ document.addEventListener("DOMContentLoaded", function() {
     cookieBanner.setAttribute("aria-hidden", "false");
   }
 
+  // Reproduce the browser’s :visited function with something native
+  // because :visited limits what we can do with CSS styling
+  // http://joelcalifa.com/blog/revisiting-visited
+  localStorage.setItem('visited-' + window.location.pathname, true);
+  var links = document.getElementsByTagName('a');
+  for ( i=0; i < links.length; i++ ) {   
+    var link = links[i];
+    
+    // link.host == window.location.host makes sure that we are only looking at internal links
+    // localStorage.getItem() goes and finds a match in localStorage. The result is true or null
+    if ( link.host == window.location.host
+      && localStorage.getItem('visited-' + link.pathname) ) {
+      link.setAttribute('data-visited', 'visited');
+    }
+  }
+
   // Check all external anchors and add a title
   const extanchors = document.querySelectorAll('[target="_blank"]');
 	extanchors.forEach(anchor => {

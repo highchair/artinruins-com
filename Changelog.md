@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2021-12-31
+
+Added
++ JS & CSS to support tracking visited link status in local storage so that we can add a data-attribute to visited links and style them with a bit more power than the CSS pseudo class allows us to do
+
 ## 2021-12-18
 
 Changed

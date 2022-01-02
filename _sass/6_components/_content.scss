@@ -18,6 +18,17 @@
     max-width: 92ch;
   }
   
+  // Add visited styles to anchors in content only, not in navigation
+  a[data-visited="visited"] {
+    color: $color__link--visited;
+    text-decoration-style: dashed;
+  }
+  
+  a[href^="#"][data-visited="visited"] {
+    color: $color__link;
+    text-decoration-style: solid;
+  }
+  
   // Reset other elements in content
   ul[role="list"] li {
     max-width: unset;

@@ -83,7 +83,7 @@ a {
     text-decoration: none;
   }
 
-  &:focus {
+  @include focus {
     outline: 2px solid palette('black');
     outline-offset: 2px;
   }
