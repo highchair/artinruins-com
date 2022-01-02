@@ -2,7 +2,8 @@
 title: "GTECH Headquarters"
 slug: gtech-headquarters
 aka: 'IGT Center'
-date-modified: 2020-10-08 12:00
+date-modified: 2022-01-01 14:00
+update: 'Added an image from <a href="/property/gtech-headquarters/#photo-waterplace-park-ppl-1995-01">PPL’s RI Postcard</a> collection'
 
 built: '2005-2006'
 parcel: '9'
@@ -28,8 +29,10 @@ excerpt: "A modern, 13-story glass box reflecting the mall, the Westin, Union St
 thumbnail: gtech-jh-2020-10-03.jpg
 
 images:
-  - url: gtech-jh-2005-05-01.jpg
+  - url: waterplace-park-ppl-1995-01.jpg
+    caption: 'Waterplace Park, 1995 — Rhode Island Postcard Collection, Providence Public Library'
     alt: 'A five-story, glass and steel building with central seven story tower. Each facade is slightly different in shape and the way it meets its surroundings, but all are predominantly glass.'
+  - url: gtech-jh-2005-05-01.jpg
   - url: gtech-jh-2005-05-02.jpg
   - url: gtech-jh-2005-05-03.jpg
   - url: gtech-jh-2005-06-01.jpg
@@ -49,7 +52,7 @@ images:
 
 mostrecentimage: 2020-10-01
 
-imagescredit:
+imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%3A19481" target="_blank">Rhode Island Postcard Collection</a>, Providence Public Library'
 
 ---
 
