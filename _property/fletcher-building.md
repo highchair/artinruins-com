@@ -61,6 +61,10 @@ The Fletcher building still houses graduate student programs and studios. Ground
 
 ### History
 
-_From RIHPHC’s Survey of Downtown Providence, 1984_
+_From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
+
+171-174 Weybosset **Fletcher Building** (ca. 1895; 1903): Geo. Waterman Cady, architect; Clarke & Howe, architects of remodeling. 5-story, brick-sheathed, steel-frame structure with, mid-2Oth-century storefronts; main entrance in quoined pavilion on Union Street; 5-bay facade of pier-and-recessed-spandrel system with Chicago window infill second through fifth stories culminating with panels and cartouches above which are simple rectangular windows and round-headed windows on top floor. Built as an office structure in the 1890s, the Fletcher Building was extensively remodeled in 1903 when the top three stories were added. It continues to function as an office building. 
+
+_From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 
 **Fletcher building** (ca. 1895; 1903) — George Waterman Cady, architect; 5-story, brick-sheathed, steel-frame structure with mid-century storefronts; main entrance in quoined pavilion on Union Street; 5-bay facade of pier and recessed spandrel system with Chicago window infill second through fifth stories culminating with panels and cartouches above which are simple rectangular windows and round headed windows on top floor. Built as an office structure in the late 1890s, the Fletcher building was extensively remodeled in 1903 when the top three stories were added. It continues to function as an office building.

@@ -17,6 +17,9 @@ lists: [ 'Brussat’s 10 Best Lost Buildings', 'Downtown Providence National His
 tags: [ 'Demolition by Fire', 'The Superlatives', 'Churches' ]
 superlative: 'Built as a church, the building later housed the first private normal school in Providence'
 
+NRHP-ref-number: '84001967 (contributing)'
+added-to-NRHP: 'February 10, 1984'
+
 address: '151 Weybosset Street, Providence RI'
 latitude: '41.8225498'
 longitude: '-71.413989'
@@ -75,10 +78,9 @@ _From a Providence Online crossword puzzle, 2012, by John Taraborelli_
 
 [**A.I.R.**: Other accounts mention that the landlord wanted them out so the building could more easily become condos.]
 
-_From Downtown Providence Historic District nomination form, 1980_
+_From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-Second Universalist Church (1847-49): Romanesque Revival, 3 1⁄2-story, brick structure with end-gable roof; 20th-century storefronts; 2nd-story windows infilled, five round head windows with voussoirs and connecting imposts on third story, centered round-head window with tracery flanked by two lunette windows below date stone in attic; simple corbel cornice; irregular fenestration on Eddy Street elevation.
-{:.o__drop-cap}
+151 Weybosset **Second Universalist Church** (1847-49): Romanesque Revival, 3 1⁄2-story, brick structure with end-gable roof; 20th-century storefronts; 2nd-story windows infilled, five round head windows with voussoirs and connecting imposts on third story, centered round-head window with tracery flanked by two lunette windows below date stone in attic; simple corbel cornice; irregular fenestration on Eddy Street elevation.
 
 Built as the Second Universalist Church, the building housed the first private normal school in Providence by 1852, the antecedent of Rhode Island College [**A.I.R.**: A “normal” school trains teachers. This evolved into the Henry Barnard School at RIC]. The structure was converted to commercial use later in the 19th century and continues thus today. Significant both as one of the few remaining buildings designed by Providence’s eminent mid-l9th-century architect, Thomas A. Tefft, and as a reminder of the generally residential nature of this part of the downtown before the Civil War. The Second Universalist Church building, though heavily altered both inside and out, adds architectural variety to the streetscape in a block of vernacular buildings.
 

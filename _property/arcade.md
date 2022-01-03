@@ -170,7 +170,7 @@ Teams of oxen dragged each column five miles from the Bare Ledge Quarry in Johns
 
 ***
 
-_From the National Register nomination form for the Downtown Providence Historic District, 1983, prepared by William McKenzie Woodward_
+_From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
 130 Westminster **The Arcade** (1828, 1980): Russell Warren and James C. Bucklin, architects; Irving B. Haynes & Associates, architects for the re-modeling. 3-story granite structure with gable roof; skylight extending the length of the building. Weybosset facade — six Ionic columns in antis with full entablature and stepped parapet above. Westminster facade — six Ionic columns in antis with full entablature and pediment above. Original interior of three floors of shops with galleries the length of the building at each level. 
 

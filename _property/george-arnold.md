@@ -17,7 +17,7 @@ lists: [ 'Downtown Providence National Historic District', 'National Register of
 tags: []
 
 NRHP-ref-number: '84001967 (contributing)'
-added-to-NRHP: '1984'
+added-to-NRHP: 'February 10, 1984'
 
 address: '100 Washington St, Providence RI'
 latitude: '41.8231342'
@@ -75,7 +75,7 @@ A grand opening was held in 2016. Two ground-floor business occupy the space —
 
 ### History
 
-_From the National Register nomination form for the Downtown Providence Historic District, 1983, prepared by William McKenzie Woodward_
+_From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
 A three-story, brick-sheathed structure with mid-20th-century storefronts; 7-bay pier-and-spandrel system on upper stories with Chicago windows and decorative metal spandrels; decorative boxed copper cornice supported by consoles. Erected by a real-estate developer whose house still stands in Elmwood at 238 Adelaide Avenue, the George C. Arnold Building is a handsome structure typical of the low-rise structures built in the area during the years following the Great War. 
 

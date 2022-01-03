@@ -2,7 +2,8 @@
 title: "Fountain Street, #132, Downtown Providence"
 slug: 132-fountain-st
 aka: "The Downtown McDonald’s"
-date-modified: 2020-05-02 14:55
+date-modified: 2022-01-02 15:00
+update: 'Added a little bit of history that we found in the Downtown Providence Historic District nomination form'
 
 built: 1915
 demolition: 2008
@@ -12,8 +13,11 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: []
-tags: [ 'Demolition by Proposal', 'Needs History' ]
+lists: [ 'Downtown Providence National Historic District' ]
+tags: [ 'Demolition by Proposal' ]
+
+NRHP-ref-number: '84001967 (non-contributing)'
+added-to-NRHP: 'February 10, 1984'
 
 address: '132 Fountain Street, Providence RI'
 latitude: '41.8232623'
@@ -49,3 +53,9 @@ The hotel was never built.
 In the years after the failed new hotel development, AS220 purchased and renovated the Dreyfus Hotel and the adjoining Mercantile Block from 121 Washington Street through 135. The upper floors of both buildings are residential artist studios and workshops. The ground floor of both are stores and bars — Clark the Locksmith, The Stable, Mexico Restaurant, and the former Local 121 restaurant. 
 
 The Dean Hotel, formerly the Sportsman’s Inn, immediately next door to the McDonald's, was renovated starting in 2012 with a grand opening in 2014. The former McDonald’s building is now a parking lot and side entrance to the hotel. 
+
+### History
+
+_From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
+
+132 Washington **Commercial Building**, McDonald’s (ca. 1915): 2-story brick building with late 1970s storefront sheathed in new “antique” brick and fenestration on both stories irregularly placed under segmental arches of varying widths. This retail commercial building was modified to accommodate a McDonald’s fast-food restaurant, and its original storefront was obliterated by inappropriate alterations. (Non-contributing)

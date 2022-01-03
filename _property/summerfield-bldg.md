@@ -66,7 +66,7 @@ The building is still being used by Johnson & Wales University but it now houses
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-**Summerfield Building** (1913): Albert Harkness, architect. 6-story, reinforced-concrete-frame building with glass walls of Chicago-type windows, terra-cotta piers and spandrels; elaborate cornice with egg-and-dart frieze; central decorative cartouche; wide eaves.
+274 Weybosset **Summerfield Building** (1913): Albert Harkness, architect. 6-story, reinforced-concrete-frame building with glass walls of Chicago-type windows, terra-cotta piers and spandrels; elaborate cornice with egg-and-dart frieze; central decorative cartouche; wide eaves.
 
 Built by the Harkness family as an investment property, this building takes its name from the Boston-based Summerfield Furniture Company, which occupied quarters here for many years. The building, having housed a number of smaller concerns in the 1960s and early 1970s, was bought by Johnson & Wales Business College and now houses offices and classrooms.
 

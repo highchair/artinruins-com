@@ -91,9 +91,9 @@ With a combination of old architecture and modern design, the library was named 
 For the history of the banking institution, [RI Currency](//www.ricurrency.com/bank-name/rhode-island-hospital-trust/){:target="_blank"} has a fantastic write up.
 
 
-_From the Downtown Providence Historic District nomination form, William McKenzie Woodward, 1983_
+_From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-Same as the write up below, written only two years earlier.
+Same as the write up below, written only three years earlier.
 
 
 _From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_

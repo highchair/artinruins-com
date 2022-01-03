@@ -4,7 +4,7 @@ slug: lederer-building-pvd
 aka: 'Bell Dormitory, Kent Hotel, Hotel Providence'
 date-modified: 2021-02-06 12:00
 
-built: '1897 | 1911'
+built: '1897, 1911'
 demolition: 
 redeveloped: '2003-2005'
 decade: '1890-1899'
@@ -124,6 +124,8 @@ It is a well designed commercial structure with fine detailing. Taller than the 
 is well integrated with nearby taller structures at Westminster Street, such as the [Lapham Building]({% link _property/lapham-building-pvd.md %}) and the Grace Church steeple.
 
 ***
+
+_From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 
 317-321 Westminster: **Blackstone Hotel**, later Kent Hotel (1911): Clarke,, Howe & Homer, architects. 5-story, red-brick-sheathed building with mid-20th-century storefront; 3-bay facade with tripartite double-hung sash windows with quoin-and-keystone stone surrounds in each bay on second through fifth stories; elaborate stone modillion cornice. 
 

@@ -76,6 +76,6 @@ More photos of the spaces can be found at [@WestminsterLofts on Instagram](//www
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-210-216 **William Wilkinson Building** (ca. 1900): 5-story, brick-sheathed structure with mid-20th-century plate-glass storefront; novelty brick sheathing over second story; 4-bay articulation on upper stories with paired sash windows in three wide bays on third, three windows per bay on fourth; and four windows per bay on fifth story; broad stringcourse above fourth story; corbel cornice.
+210-216 Westminster **William Wilkinson Building** (ca. 1900): 5-story, brick-sheathed structure with mid-20th-century plate-glass storefront; novelty brick sheathing over second story; 4-bay articulation on upper stories with paired sash windows in three wide bays on third, three windows per bay on fourth; and four windows per bay on fifth story; broad stringcourse above fourth story; corbel cornice.
 
 This commercial structure, similar in scale and massing to adjacent contemporary structures, makes fine use of the “base-shaft-capital” building form then popular in American commercial building. It is well-integrated part of the Westminster Street streetscape.

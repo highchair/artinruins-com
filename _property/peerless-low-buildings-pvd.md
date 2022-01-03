@@ -119,7 +119,7 @@ More photos of the spaces can be found at [@WestminsterLofts on Instagram](//www
 + [Downcity: What is Past is Prologue](//web.archive.org/web/20090608132510/http://philipmarshall.net/providence/downcity.htm){:target="_blank"}, Philip C. Marshall, captured from Archive.org
 
 
-_From the RIHPHC’s survey of Downtown Providence (P-P-5)), May 1981_
+_From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 
 The department store, of which Providence had three by 1900, in particular represents an economy of scale and mass marketing that was both made possible by and necessary for the increasingly complex economy. The first, **Callendar, McAuslan and Troop**’s “Boston Store” opened in the early 1870s at the corner of Westminster and Union Streets. The success of Providence’s first department store led not only to its substantial expansion by 1892, but also to the organization of competing firms, Shepard’s and the Outlet.
 

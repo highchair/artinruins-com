@@ -63,6 +63,11 @@ The Center for Integrative Technology provides maker resources and studio space 
 
 ### History
 
-_From RIHPHC’s Survey of Downtown Providence, 1981_ 
+_From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-**Mason Building** (1903) — Stone, Carpenter, & Willson, architect. 6-story, brick and metal sheeted, steel frame structure with late 20th-century storefront; 4-story, 3-bay articulation of upper stories with three Chicago windows on each story, corbel cornice; modern interiors. The structure was built by the John N. Mason Real Estate Company and used as commercial and office space. While more massive than neighboring structures to its east, the Mason building is similar in style to these commercial structures. It is harmonious in style and scale with the [Fletcher building] to its west and the Outlet Company across Weybosset street (since burned).
+165-169 Weybosset Street **Mason Building** (1903): Stone, Carpenter & Willson, architects. 6-story, brick-and-metal-sheathed, steel-frame structure with late 20th-century storefront; 4-story, 3-bay articulation of upper stories with three Chicago windows on each story, corbel cornice; modern interiors. Recently rehabilitated, the structure was built by the John N. Mason Real Estate Company and used as a commercial and office space. While more massive than neighboring structures to its east, the Mason Building is similar in style to these commercial structures. It is harmonious in style and scale with the [Fletcher Building]({% link _property/fletcher-building.md %}) to its west and the Outlet Company across Weybosset Street [burned in 1986].
+
+
+_From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
+
+**Mason Building** (1903) — Stone, Carpenter, & Willson, architect. 6-story, brick and metal sheeted, steel frame structure with late 20th-century storefront; 4-story, 3-bay articulation of upper stories with three Chicago windows on each story, corbel cornice; modern interiors. The structure was built by the John N. Mason Real Estate Company and used as commercial and office space. While more massive than neighboring structures to its east, the Mason building is similar in style to these commercial structures. It is harmonious in style and scale with the [Fletcher building]({% link _property/fletcher-building.md %}) to its west and the Outlet Company across Weybosset street [burned in 1986].

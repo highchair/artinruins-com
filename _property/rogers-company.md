@@ -69,7 +69,7 @@ Johnson & Wales University built a 6-level parking garage with street level offi
 
 ### History
 
-_From the Downtown Providence Historic District, Amendment, National Register nomination form, 2007_
+_From the National Register nomination form for the Downtown Providence Historic District, amendment & expansion, 2007_
 
 Rogers Company Building (ca. 1923-1925): This two-story, flat-roofed, rectangular-plan building has a buff brick veneer façade and rough brick on the east, west, and south elevations where attached buildings have been removed. The building is three bays wide, its center bay wider than the two flanking bays. The storefront is a modem replacement with a recessed center entrance, panels in the east bay, and a multi-pane window in the west. A row of seven modern, fixed sash windows as set at the top edge of the first story, well above the door and window level. The second floor has two large windows flanking a larger center-bay window. These are made up of a large, plate-glass pane with smaller panes above — two each on the flanking bays and three above the center plate glass window. The façade has a decorative metal cornice below a simple parapet, and the piers that flank the windows on the second floor are designed to appear as decorative excised columns with simple, cast stone capitals. Decorative bases on the piers that flank the larger center-bay window are integrated into the cast stone sill band that runs across the three bays. The building is surrounded on three sides by parking lots.
 
