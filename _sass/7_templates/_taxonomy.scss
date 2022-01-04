@@ -65,6 +65,20 @@
           background-size: 100% 100%;
         }
       }
+      
+      // Special LI with a class added to it
+      &.taxonomy__random {
+        display: block;
+        
+        img {
+          padding-bottom: $vertical-rhythm;
+        }
+        
+        .taxonomy__title-wrap,
+        .taxonomy__meta {
+          padding-bottom: ($vertical-rhythm/2);
+        }
+      }
     }
   }
   
@@ -104,7 +118,7 @@
     text-decoration: none;
     
     // https://inclusive-components.design/cards/
-    &::after {
+    &::before {
       content: '';
       position: absolute;
       top: 0;
@@ -112,6 +126,13 @@
       bottom: 0;
       left: 0;
       z-index: 2;
+    }
+    
+    &[data-visited="visited"]::after {
+      content: ' (Seen)';
+      font-size: 0.75em;
+      font-style: italic;
+      letter-spacing: 0.0625em;
     }
   }
   

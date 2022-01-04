@@ -29,7 +29,7 @@ sitemap:
   </ul>
 {%- endif -%}
 
-  <h2 class="o__title--sm v-rhythm">Recently updated Properties</h2>
+  <h2 class="o__title--sm o__title__cta v-rhythm">Recently updated Properties <a href="/feed.xml" target="_blank"><span class="social__rss" aria-hidden="true"></span>Subscribe</a></h2>
   <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
 {%- for item in properties -%}
   {%- if item.title and item.slug and item.date-modified -%}
@@ -41,6 +41,62 @@ sitemap:
     {%- if forloop.index <= 16 and is_demo_alert == 'No' -%}
       {% assign home = 'Yes' %}
       {% include property-card.html %}
+      {%- if forloop.index == 8 -%}
+        {% if jekyll.environment == 'production' -%}
+          {% comment %}
+            Insert a random artful image to break up the list
+            We are breaking on the 8th time around the loop
+            *Remember that when we get randprop, it is an array*
+          {% endcomment %}
+          
+          {% assign random = site.time | date: "%s%N" | modulo: site.data.artful_architecture.size %}
+          {% assign randprop = site.property | where: 'slug', site.data.artful_architecture[random].post %}
+    <li class="taxonomy__random">
+      <img src="/property-img/{{ randprop[0].slug }}/{{ site.data.artful_architecture[random].img }}" alt="" loading="eager" decoding="async">
+      <p class="u__text__sans--bold"><span class="o__title--sm">The Art of Ruins</span> — This week’s artful image</p>
+      <div class="taxonomy__title-wrap">
+        <h3 class="taxonomy__card-title"><a href="/property/{{ randprop[0].slug }}/" class="taxonomy__link">{{ randprop[0].title }}</a></h3>
+      </div>
+          {%- if randprop[0].superlative -%}
+      <p class="taxonomy__excerpt">
+        {{ randprop[0].superlative }}
+      </p>
+          {%- endif -%}
+      <p class="taxonomy__meta">
+          {%- if randprop[0].categories.size > 0 -%}
+            {%- for category in randprop[0].categories -%}
+        <a href="{{ site.baseurl }}category/{{ category | replace: '.', '' | slugify }}/" title="More properties from this category">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+            {%- endfor -%}
+          {%- endif -%}
+        <span class="taxonomy__sep"> | </span>
+          {%- if randprop[0].neighborhoods.size > 0 -%}
+            {%- for neighborhood in randprop[0].neighborhoods -%}
+        <a href="{{ site.baseurl }}neighborhood/{{ neighborhood | replace: '.', '' | slugify }}/" title="More properties from this neighborhood">{{ neighborhood }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+            {%- endfor -%}
+          {%- else if -%}
+            {%- if randprop[0].town.size > 0 -%}
+        <a href="{{ site.baseurl }}town/{{ randprop[0].town | replace: '.', '' | slugify }}/" title="More properties from this town">{{ randprop[0].town }}</a>
+        {%- endif -%}
+          {%- endif -%}
+          {%- if randprop[0].built.size > 0 -%}
+        <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group">{% unless randprop[0].built contains "Proposed" %}<b>Built:</b> {% endunless %}{{ randprop[0].built }}</span>
+          {%- endif -%}
+          {%- if randprop[0].opened.size > 0 -%}
+        <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Opened:</b> {{ randprop[0].opened }}</span>
+          {%- endif -%}
+          {%- if randprop[0].demolition.size > 0 -%}
+        <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Demolition:</b> {{ randprop[0].demolition }}</span>
+          {%- endif -%}
+          {%- if randprop[0].closed.size > 0 -%}
+        <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Closed:</b> {{ randprop[0].closed }}</span>
+          {%- endif -%}
+          {%- if randprop[0].decade.size > 0 -%}
+        <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Decade:</b> <a href="{{ site.baseurl }}decade/{{ randprop[0].decade | replace: '.', '' | slugify }}/" title="More properties from this decade">{{ randprop[0].decade }}</a></span>
+          {%- endif -%}
+      </p>
+    </li>
+        {%- endif -%}
+      {%- endif -%}
     {%- endif -%}
   {%- endif -%}
 {%- endfor -%}
@@ -49,7 +105,7 @@ sitemap:
   <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ props }} properties</span> and <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=totalimg %} images</span>. {% if JEKYLL_ENV == 'production' %}Browse more from our <a href="{% link all-tags.html %}">Categories and Tags</a>.{% endif %}</p>
 </section>
 <section class="home__anec u__vertical__p u__gutter__p">
-  <h2 class="o__title--sm v-rhythm">Anecdotes</h2>
+  <h2 class="o__title--sm o__title__cta v-rhythm">Anecdotes <a href="/anecdotes.xml" target="_blank"><span class="social__rss" aria-hidden="true"></span>Subscribe</a></h2>
   <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=anecdotes.size %} anecdotes</span> from people just like you.</p>
   <ul class="u__list__unstyled anec__list" role="list">
 {%- for quote in anecdotes limit:8 -%}

@@ -10,6 +10,12 @@
       letter-spacing: ($kerning * 2);
       text-transform: uppercase;
     }
+    
+    &__cta {
+      display: flex;
+      align-content: flex-start;
+      justify-content: space-between;
+    }
   }
   
   &__drop-cap:first-letter {

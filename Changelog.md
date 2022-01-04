@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2022-01-01
+
+Added
++ A new data file to track artful images from various properties and display them on the home page halfway through the river of new posts. 
+
 ## 2021-12-31
 
 Added

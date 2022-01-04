@@ -22,6 +22,7 @@ $colors: (
   'brand-yellow': #fedc90,
   'brand-orange': #f9ad53,
   'brand-red': #eb5131,
+  'brand-purple': #55078d
 );
 
 // Color getter
@@ -40,6 +41,7 @@ $color__link__underline: palette('brand-grey');
 $color__link--hover: darken($color__link, 15);
 $color__link--hover__underline: palette('brand-orange');
 $color__link--active: palette('brand-orange');
+$color__link--visited: palette('brand-purple');
 $color__borders: palette(gray-200);
 
 // Specific things
