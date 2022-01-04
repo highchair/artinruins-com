@@ -43,6 +43,8 @@ We have [a list of properties that need updated images](/property/list-by-newest
 
 Thank you, thank you, thank you to the following folks who have contributed in one way or another:
 
++ Osman Cortave, donation December 2021
++ Everett Abitbol, donation August 2021
 + Randall Kirby, photos of Potters Hill Mill, Westerly, January 2021
 + Marian Gray, donation, December 2020
 + Larry Cultrera, Diner Hotline, and his collection of diner photos through the years

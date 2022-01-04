@@ -12,6 +12,16 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: providence-civic-center
+  person: 'Gil'
+  date: '2012-05-11'
+  content: 'I remember going there to see the Cars play in 1986 and had great seats.'
+
+- property: providence-civic-center
+  person: 'Donna'
+  date: '2009-09-01'
+  content: 'Went there when it was the Providence Civic Center to see the Moody Blues. It was about 1975.'
+
 - property: lincoln-park-ma
   person: 'M. HALEY'
   date: '2021-12-29'

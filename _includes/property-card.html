@@ -22,7 +22,11 @@
       {%- endif -%}
       <div class="taxonomy__colwrap">
         <div class="taxonomy__title-wrap">
+        {% if home == "Yes" %}
+          <h3 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}/" class="taxonomy__link">{{ item.title }}</a></h3>
+        {% else %}
           <h2 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}/" class="taxonomy__link">{{ item.title }}</a></h2>
+        {% endif %}
         </div>
         <p class="taxonomy__excerpt">
           {%- if item.lists contains "Capital Center Parcels" -%}
