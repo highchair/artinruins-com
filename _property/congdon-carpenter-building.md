@@ -52,8 +52,9 @@ images:
   - url: steeple-st-jh-2005-07-04.jpg
   - url: steeple-st-jh-2005-07-05.jpg
   - url: steeple-st-jh-2020-10-01.jpg
+  - url: steeple-st-jh-2021-04-01.jpg
 
-mostrecentimage: 2020-10-01
+mostrecentimage: 2021-04-01
 
 imagescredit: 'Contributions by the John Hutchins Cady Research Scrapbooks Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A6184" target="_blank">photo 1</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A5040" target="_blank">photo 2</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A6090" target="_blank">photo 3</a>) and the Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12752" target="_blank">photo 1</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A12401" target="_blank">photo 2</a> from the Providence Public Library, and the HABS/HAER collection of the Library of Congress'
 
