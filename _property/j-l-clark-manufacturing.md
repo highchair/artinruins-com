@@ -2,7 +2,8 @@
 title: "J.L. Clark Manufacturing"
 slug: j-l-clark-manufacturing
 aka: 'National Casket Company'
-date-modified: 2021-08-01 12:00
+date-modified: 2022-01-03 13:00
+update: 'Updated with more recent photos of the redevelopment'
 
 built: '1908 to 1918'
 demolition:
@@ -53,6 +54,12 @@ images:
   - url: national-casket-jh-2021-07-03.jpg
   - url: rendering-2021.jpg
     caption: 'Proposed rendering of the redeveloped 50 Ashburton Street building. Seems like the architecture is keen on keeping the tree growing from the top of the chimney.'
+  - url: national-casket-jh-2021-07-04.jpg
+  - url: national-casket-jh-2021-07-05.jpg
+  - url: national-casket-jh-2021-11-01.jpg
+  - url: national-casket-jh-2021-11-02.jpg
+  - url: national-casket-jh-2021-11-03.jpg
+  - url: national-casket-jh-2021-11-04.jpg
 
 imagescredit: 'Contribution by an unknown architect from <a href="//twitter.com/mikegiuttari/status/1349025138847703040" target="_blank">MG Commercial on Twitter</a>'
 
