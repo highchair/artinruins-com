@@ -48,6 +48,7 @@ images:
   - url: 1107-westminster-jh-2020-11-27-03.jpg
   - url: 1107-westminster-jh-2020-11-27-04.jpg
   - url: 1107-westminster-jh-2020-11-27-05.jpg
+  - url: 1107-westminster-jh-2021-06-01.jpg
 
 imagescredit: 'Contribution from Peter Landry'
 ---

@@ -2,7 +2,8 @@
 title: "L. Vaughn & Company"
 slug: l-vaughn-company
 aka: 'Grimwood & Company Lumber Yard, Stanton & Farnum Marble Works'
-date-modified: 2021-04-17 12:00
+date-modified: 2022-01-03 12:00
+update: 'Added five new photos of some interior spaces'
 
 built: 'circa 1890'
 demolition: 
@@ -62,10 +63,15 @@ images:
   - url: l-vaughn-jh-2006-04-12.jpg
   - url: l-vaughn-jh-2006-04-13.jpg
   - url: l-vaughn-jh-2006-04-14.jpg
+  - url: l-vaughn-jh-2021-06-01.jpg
+  - url: l-vaughn-jh-2021-06-02.jpg
+  - url: l-vaughn-jh-2021-06-03.jpg
+  - url: l-vaughn-jh-2021-06-04.jpg
+  - url: l-vaughn-jh-2021-06-05.jpg
 
 imagescredit: 'Contributions by the Online Digital Sanborn Maps via ProQuest and the Providence Public Library (<a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39392/41280/560502" target="_blank">1889</a>, <a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39393/41282/560653" target="_blank">1899</a>, <a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39395/41286/560982" target="_blank">1920</a>, <a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39396/41292/561610" target="_blank">1951</a>, <a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39398/41300/562264" target="_blank">1956</a>)'
 
-mostrecentimage: 2006-04-01
+mostrecentimage: 2021-06-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
