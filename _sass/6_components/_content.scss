@@ -19,12 +19,24 @@
   }
   
   // Add visited styles to anchors in content only, not in navigation
-  a[data-visited="visited"] {
+  // Support for changes via CSS with the visited pseudo class:
+    // color, background-color, border-color, border-bottom-color, border-left-color, border-right-color, border-top-color, column-rule-color, outline-color, text-decoration-color, and text-emphasis-color.
+
+  // When JS is off
+  .no-js & a:visited {
+    color: $color__link--visited;
+    text-decoration-color: palette('brand-yellow');
+  }
+  
+  // When JS is on
+  .js & a[data-visited="visited"] {
     color: $color__link--visited;
     text-decoration-style: dashed;
   }
   
-  a[href^="#"][data-visited="visited"] {
+  // Anchors are technically visited because the root URL is the same
+  // Remove the styling when the href starts with a #
+  .js & a[href^="#"][data-visited="visited"] {
     color: $color__link;
     text-decoration-style: solid;
   }

@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2022-01-04
+
+Changed
++ Edited and refined the visited styles a little more and added a native CSS contingency for when JS is not loaded.
+
 ## 2022-01-01
 
 Added

@@ -128,11 +128,16 @@
       z-index: 2;
     }
     
+    // Only works if JS is on
     &[data-visited="visited"]::after {
-      content: ' (Seen)';
+      content: '(Seen)';
       font-size: 0.75em;
       font-style: italic;
       letter-spacing: 0.0625em;
+      margin-left: 0.375rem;
+      text-decoration: underline;
+      text-decoration-color: $color__link__underline;
+      text-decoration-style: dashed;
     }
   }
   
