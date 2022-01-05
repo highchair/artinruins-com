@@ -13,7 +13,7 @@ date-added: '2004'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: [ 'Clarke & Howe' ]
 people: [ 'Lyman B. Goff', 'Morris F. Conant' ]
 lists: []
 tags: [ 'The Superlatives' ]
@@ -92,7 +92,9 @@ The property is owned by a group of small real estate companies that also lease 
 
 ### History
 
-Designed by Howe, Prout, & Ekman (known for designing the 1950s addition to the Providence Public Library), this mill was once the largest lace producer in the country. A three-story brick pier building with 4th story penthouse featuring a 5-story elaborately detailed hip roof tower. The tower is a fine period example and can be seen from the surrounding neighborhood, including traffic on Interstate 95. A later addition of a sawtooth weave shed was added around 1920 on the north side. 
+Designed by Clarke, Spaulding & Howe, this mill was once the largest lace producer in the country. A three-story brick pier building with 4th story penthouse featuring a 5-story elaborately detailed hip roof tower. The tower is a fine period example and can be seen from the surrounding neighborhood, including traffic on Interstate 95. A later addition of a sawtooth weave shed was added around 1920 on the north side. 
+
+[^1]: Found as part of the write-up of the firm Clark & Howe. The short-lived trio of Clark & Spauling after adding partner Wallis Howe ended when Spaulding retired months after Howe joined in 1901. It was noted that the American Textile mill was a commission that Howe brought into the partnership. Captured January 2, 2022 from https://en.wikipedia.org/wiki/Clarke_%26_Howe#Clarke.2C_Spaulding_.26_Howe.2C_1901
 
 _From “Pawtucket Past and Present, being a brief account of the beginning and progress of its industries and a resume of the early history of the city,” by the Slater Trust Company, 1917_
 

@@ -12,7 +12,7 @@ date-added: '2004'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Newport Collaborative Architects' ]
+designers: [ 'Clarke, Howe, & Homer', 'Newport Collaborative Architects' ] #M.J. Houlihan
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
 tags: [ 'Former/Current Hotels', 'Yellow brick' ]
@@ -127,6 +127,6 @@ is well integrated with nearby taller structures at Westminster Street, such as 
 
 _From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 
-317-321 Westminster: **Blackstone Hotel**, later Kent Hotel (1911): Clarke,, Howe & Homer, architects. 5-story, red-brick-sheathed building with mid-20th-century storefront; 3-bay facade with tripartite double-hung sash windows with quoin-and-keystone stone surrounds in each bay on second through fifth stories; elaborate stone modillion cornice. 
+317-321 Westminster: **Blackstone Hotel**, later Kent Hotel (1911): Clarke, Howe & Homer, architects. 5-story, red-brick-sheathed building with mid-20th-century storefront; 3-bay facade with tripartite double-hung sash windows with quoin-and-keystone stone surrounds in each bay on second through fifth stories; elaborate stone modillion cornice. 
 
 A modest hotel until 1976, the Blackstone has since been vacant. A handsome structure despite its modern storefront, it is a highlight of the north side of Westminster Street between Mathewson and Moulton Streets.

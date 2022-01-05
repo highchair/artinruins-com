@@ -12,7 +12,7 @@ date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'George Waterman Cady' ]
+designers: [ 'George Waterman Cady', 'Clarke & Howe' ]
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
 tags: [ 'College Properties', 'RISD', 'Yellow brick' ]
 

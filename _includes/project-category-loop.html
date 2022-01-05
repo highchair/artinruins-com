@@ -6,6 +6,16 @@
               {%- if items.size >= 1 -%}
                 <p class="taxonomy__count">{{ items.size }}{% if items.size == 1 %} property{% else %} properties{% endif %}</p>
               {%- endif -%}
+              {%- if page.related.size > 0 -%}
+                <p class="taxonomy__related">
+                  <b>Related designers:</b>
+                  {% for related in page.related %}
+                    {%- assign length = forloop.length -%}
+                    {%- assign secondtolast = length | minus: 1 -%}
+                  <a href="{{ site.baseurl }}designer/{{ related | replace: '.', '' | slugify }}/">{{ related }}</a>{% unless forloop.last %}{% if length > 2 %}, {% endif %}{% endunless %}{% if forloop.index == secondtolast %} and {% endif %}
+                  {% endfor %}
+                </p>
+              {%- endif -%}
               {%- if page.description -%}
                 <p class="taxonomy__description">{{ page.description }}</p>
               {%- endif -%}

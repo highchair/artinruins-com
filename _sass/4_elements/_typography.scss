@@ -19,14 +19,14 @@ h3,
 }
 
 h4,
-.h4,
-table caption {
+.h4 {
   font-size: #{$h4-max * 1rem};
 }
 
 h5,
 .h5,
 blockquote p,
+table caption,
 .o__lead,
 .all-props__link {
   font-size: #{$h5-max * 1rem};
@@ -60,6 +60,7 @@ h4,
 .h4,
 h5,
 .h5,
+table caption,
 blockquote p,
 .o__lead,
 h6,

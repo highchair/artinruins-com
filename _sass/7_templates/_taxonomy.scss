@@ -36,18 +36,21 @@
   
   &__count {
     color: palette('brand-red');
-    padding-top: $vertical-rhythm;
+    padding: $vertical-rhythm 0;
   }
   
-  &__description {
-    @include ff-sans();
-    color: palette('brand-teal');
-    padding-top: $vertical-rhythm;
+  &__description,
+  &__related {
+    
+    b {
+      @include ff-sans();
+      color: palette('brand-teal');
+    }
   }
-  
+
   &__list {
     max-width: 75rem;
-    
+
     li {
       border: 0.5px solid $color__borders;
       margin-bottom: 0.5rem;

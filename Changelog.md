@@ -8,6 +8,11 @@ Tracking design (theme) changes, not content changes
 Changed
 + Edited and refined the visited styles a little more and added a native CSS contingency for when JS is not loaded.
 
+## 2022-01-03
+
+Added
++ Designers can now be directly related to eachother, with a "Related" field that will render as an array of other designers on the Taxonomy page. Technically, any tag could be related to any other but right now the code expects a designer items with the way that the URL is being written. 
+
 ## 2022-01-01
 
 Added

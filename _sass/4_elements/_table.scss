@@ -9,20 +9,25 @@ table {
 
 .table {
   &__bordered {
-    border-top: 1px solid palette(gray-200);
+    border-top: 0.5px solid palette(gray-200);
+    
+    th {
+      // Bold by browser default
+      font-size: 0.9375em;
+    }
     
     th, td {
-      padding: 0.25rem 0.5rem;
+      padding: 0.125rem 0.375rem;
     }
     
     thead th {
-      border-bottom: 2px solid palette(gray-200);
+      border-bottom: 1.5px solid palette(gray-200);
     }
     
     td:not(:last-child),
     tbody th {
-      border-bottom: 1px solid palette(gray-200);
-      border-right: 1px solid palette(gray-200);
+      border-bottom: 0.5px solid palette(gray-200);
+      border-right: 0.5px solid palette(gray-200);
     }
   
     .timeline-span {
