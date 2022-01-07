@@ -9,6 +9,12 @@ HABS/HAER, Photographer Name, Year
 
 ## Snippets to keep consistent
 
+_From the PPS/AIAri Providence Architecture Guide, 2003, by Wm. MacKenzie Woodward_
+
+_From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
+
+_From the National Register nomination form for the Downtown Providence Historic District, amendment & expansion, 2007_
+
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
 _From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
@@ -30,6 +36,7 @@ caption: 'Providence Historical Aerial Viewer 1972'
 [^1]: Content of footnote
 
 ## Classes
+{:.u__text__sans--bold.u__color__primary} — Base bold font in teal
 {:.o__tldr} – Yellow background infobox
 {:.o__pull-quote} — Orange Senator font with slashes background
 {: .o__drop-cap } — First letter drop cap
@@ -65,7 +72,16 @@ content in markdown form
 * Add the ability to browse properties by Map
 * Then and Now template with a horizontal slider thing?
 * Paginate category pages… alphabetical?
+* Add a “random photo” feature to the homepage and start of list of the more artful photographs we have taken over the years
+  * Include a way that someone could refresh the image sort of like a slideshow, but without preloading the images?
 * Do something tag-like with the new "People" set of tags. These people pages deserve more of a description to deliver the biography and significance of a person
+
+
+## Write somewhere about
+* How we tend to romanticize the past, but we hope that AIR represents both the good and the bad
+* We think about how more things were made in America but forget about the child labor, the long hours, and the environmental damage done to our own backyards
+* We think about the value of hard work, the way in which mills were designed to be “cathedrals to work” and yet forget how the early work days were 10 or 12 hours long before unions fought for shorter days and higher pay
+* We think about civic planning and infrastructure and the ways in which the car changed our streetscapes but forget how large projects like the highways disenfranchised mostly communities of color or lined the pockets of those who “knew a guy”
 
 
 ## Tools

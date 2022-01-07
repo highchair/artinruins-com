@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: mcdevitt-pwt
+  person: 'Brophy'
+  date: '2022-01-02'
+  content: 'I am the Grandson of John (Jack) McDevitt. My Mother Janet Greeley McDevitt. OF Horace Greeley lineage, is Jack’s youngest Daughter and the younger sister of the afore mentiond Sally Cunneen. I have Jack’s Original Oil painted Portrait if anyone has interest. Jack was an MIT graduate whose Family had a Shoe makers shop. My mom graduated from Wellesley and her mom, a friend of Rose Kennedy, was Margeurite O’CALLAGHAN Mcdevitt, daughter (I believe) of a Senator.'
+
 - property: providence-civic-center
   person: 'Gil'
   date: '2012-05-11'

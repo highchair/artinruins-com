@@ -42,7 +42,7 @@ Union Station (2) completed 1898.
 
 Central Fire Station opened in 1903, construction began 1900. Demolition in 1938. 
 
-Court House: Completed in 1908 by Clarke & Howe of limestone and steel and has a courtyard in the center. Contractors Horton and Hemenway began construction in 1904. Was originally the “the Providence Post Office, Court House and Custom House”
+Court House: Completed in 1908 by [Clarke & Howe]({% link designer/clark-howe.html %}) of limestone and steel and has a courtyard in the center. Contractors Horton and Hemenway began construction in 1904. Was originally the “the Providence Post Office, Court House and Custom House”
 
 State House: Completed in 1904. The architectural firm of McKim, Mead, and White designed it, and it was constructed from 1895 to 1904.
 

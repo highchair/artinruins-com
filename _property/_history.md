@@ -334,7 +334,7 @@ Redeveloped
 ++ AT Wall Co.
 + Capt. Tillinghast House
 + Davis Lofts (407pinest)
-++ Dunkin Donuts Center
++ Dunkin Donuts Center
 + Kennedy/Staffod Mill now M Residential
 + McDevitt Building
 + Mile Squared
@@ -380,7 +380,7 @@ RIP (47)
 + Edgewood Yacht Club
 
 Still In Use (41)
-++ Davol Square
++ Davol Square
 
 Urban Decay (40)
 + The former Poirier Diner moved to its new location, now the Westminster Diner
