@@ -44,10 +44,12 @@ layout: default
                 {%- if page.aka -%}<p class="h6 item__aka">also known as {{ page.aka }}</p>{%- endif -%}
                 {%- if page.excerpt -%}<p class="item__excerpt">{{ page.excerpt }}</p>{%- endif -%}
                 {%- if page.categories contains '#DemolitionAlert' -%}
+                  {%- if page.update -%}
                 <div class="demolition-alert">
                   <h2 class="o__title--sm">#DemolitionAlert</h2>
                   <p>{{ page.update }}</p>
                 </div>
+                  {%- endif -%}
                 {%- endif -%}
               </div>
             </header>
