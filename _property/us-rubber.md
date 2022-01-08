@@ -476,7 +476,7 @@ Rachel Rafaelian and Erik Bright say the Valley section of Providence holds the 
 <details markdown="1" class="rhythm">
   <summary>Read the full article</summary>
 
-Rachel Rafaelian and Erik Bright say the Valley section of Providence holds the potential for a vibrant arts community. The Monohasset Mill [partially] redeveloped by Bright hosts budding creative businesses and, down the street, The Steel Yard boasts a lively arts organization. Farther east, the American Locomotive Works complex is taking on a new life as offices.
+Rachel Rafaelian and Erik Bright say the Valley section of Providence holds the potential for a vibrant arts community. The [Monohasset Mill]({% link _property/monohasset-mill.md %}) [partially] redeveloped by Bright hosts budding creative businesses and, down the street, The Steel Yard boasts a lively arts organization. Farther east, the American Locomotive Works complex is taking on a new life as offices.
 
 But the area needs a little something more to tip the scales from a niche sideshow to a major magnet for economic activity centered on the arts, Rafaelian and Bright say.
 
