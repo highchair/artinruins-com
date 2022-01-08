@@ -1,8 +1,9 @@
 ---
-title: "Main Street, #1088"
+title: "Lincoln Machine Co."
 slug: 1088-main-st-pwt
 aka: 'Rag and Bone Bindery & Books'
-date-modified: 2021-02-15 17:00
+date-modified: 2022-01-06 12:00
+update: 'Added a Sanborn map we found which labels this property as Lincoln Machine Co.'
 
 built: 'circa 1900'
 demolition: 
@@ -15,7 +16,7 @@ town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: []
-tags: []
+tags: [ 'Flatiron Style' ]
 
 address: '1088 Main Street, Pawtucket'
 latitude: '41.8603023'
@@ -25,7 +26,7 @@ gmap: "https://www.google.com/maps/place/1088+Main+St,+Pawtucket,+RI+02860/@41.8
 meta: ""
 excerpt: "An irregulary shaped two-story former jewelry mill turned into a small-business studio and residence"
 
-thumbnail: rag-n-bone-jh-2003-04-01.jpg
+thumbnail: 1088-main-st-jt-2021-12-01.jpg
 
 images:
   - url: rag-n-bone-jt-2002-08-01.jpg
@@ -55,8 +56,10 @@ images:
     caption: 'Photo of restoration and conversion by Jason Thompson'
   - url: rag-n-bone-jt-2002-10-11.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
+  - url: 1088-main-st-jt-2021-12-01.jpg
+  - url: 1923-sanborn-plate-229.jpg
 
-mostrecentimage: 2003-04-01
+mostrecentimage: 2021-12-01
 
 imagescredit: 'Most photos provided by Jason Thompson'
 
@@ -89,6 +92,6 @@ We now have plans to renovate the second floor of the building as a residential 
 
 ### History
 
-Originally a jewelry production shop, the machinery was run by belts that came off the driveshafts mounted to the ceiling. This was common in jewelry shops — it saved floor space provided continuous power to cutting and grinding machinery. 
+[A 1923 Sanborn Map, Plate 239,](//repository.library.brown.edu/studio/item/bdr:384587/){:target="_blank"} labels this property as “Lincoln Machine Co.” The bulk of the building was a machine shop, probably servicing machinery or creating it for local mills. Sometime after that it was used for jewelry making. 
 
-The building and most of the surrounding buildings appear on the earliest aerial photos we can find from 1939. We have not been able to find earlier insurance maps that could help date the building. 
+As a jewelry production shop, the machinery was run by belts that came off the driveshafts mounted to the ceiling. This was common in jewelry shops — it saved floor space and provided continuous power to cutting and grinding machinery. 
