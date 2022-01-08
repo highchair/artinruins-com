@@ -21,11 +21,13 @@ longitude: '-71.4189217'
 gmap: "https://www.google.com/maps/place/186+Fountain+St,+Providence,+RI+02903/@41.822429,-71.4189217,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445128c512ce1:0x9a848e3228b191c6!8m2!3d41.822429!4d-71.416733"
 
 meta: ""
-excerpt: "This 60 year-old Art Deco structure was vacated in 2000 for new digs across the highway. It say vacant for 6 years until a proposed condo structure took it down."
+excerpt: "This 60 year-old Art Deco structure was vacated in 2000 for new digs across the highway. It stayed vacant for 6 years until a proposed condo structure took it down."
 
 thumbnail: public-safety-jh-2004-04-03.jpg
 
 images:
+  - url: public-safety-jh-2002-01-01.jpg
+    alt: 'A combination fire station and police station. The exterior was clad in gray stone. One side had a Greek-revival inspired entrance with a columnade and pediment. On two sides of the ground floor were multiple garage doors for fire trucks and ambulances.'
   - url: public-safety-jh-2004-04-01.jpg
   - url: public-safety-jh-2004-04-02.jpg
   - url: public-safety-jh-2004-04-03.jpg
@@ -99,6 +101,9 @@ images:
   - url: public-safety-fm-2007-08-05.jpg
     caption: Photo by Frank Mullin
 
+  - url: public-safety-jn-2007-08-01.jpg
+    caption: 'The basement under the demolition equipment collapsed, pulling the backhoe down with it — Photo by Woneffe'
+
   - url: public-safety-jh-2007-08-01.jpg
   - url: public-safety-jh-2007-08-02.jpg
   - url: public-safety-jh-2007-10-01.jpg
@@ -106,7 +111,7 @@ images:
   - url: public-safety-jh-2007-11-02.jpg
   - url: public-safety-jh-2007-11-03.jpg
 
-imagescredit: Contributions by Mike Morgan, Lou Fancy, and Frank Mullin.
+imagescredit: Contributions by Mike Morgan, Lou Fancy, Woneffe, and Frank Mullin.
 ---
 
 ### Reason for Demolition
@@ -126,7 +131,7 @@ The new complex includes separate police officer and firefighter locker and trai
 
 13+ years later, the former building site is still a parking lot. No doubt, along with the small lot where the 
 [Gulf Station]({% link _property/gulf-station-circular.md %}) 
-used to be, it makes really good money when there is an even at the Dunkin’ Center. We don’t know exactly why a project didn’t go forward, but based on the last quote in the news article, it looks like Procaccianti was not in fact _“committed to investing in downtown Providence.”_ 
+used to be, it makes really good money when there is an even at the [Dunkin’ Center]({% link _property/providence-civic-center.md %}). We don’t know exactly why a project didn’t go forward, but based on the last quote in the news article, it looks like Procaccianti was not in fact _“committed to investing in downtown Providence.”_ 
 
 The idea was sound — a location so close to the Dunkin’ Center, the Convention Center, and other venues could easily support another hotel. In fact, in these 13 years (2020), a new hotel was built on the site of the former [Fogarty Memorial Building]({% link _property/fogarty-bldg.md %}). It just seems to be clear that Procaccianti was not the developer to do it. Would love more information about why redevelopment of this parcel has stalled. 
 
