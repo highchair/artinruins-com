@@ -2,7 +2,8 @@
 title: "Primo Art Company"
 slug: primo-art-co
 aka:
-date-modified: 2021-03-26 12:00
+date-modified: 2022-01-08 13:00
+update: 'Added new photos of the undergoing renovation and brick repointing work'
 
 built: '1924–1925'
 demolition:
@@ -54,6 +55,12 @@ images:
     caption: 'Photo taken from the real estate listing'
   - url: primo-crexi-2021-05-04.jpg
     caption: 'Photo taken from the real estate listing'
+  - url: primo-jh-2021-12-01.jpg
+  - url: primo-jh-2021-12-02.jpg
+  - url: primo-jh-2021-12-03.jpg
+    caption: 'Underneath the former building sign, workers discovered a lovely cast stone art-deco-style sign for Primo Art Co.'
+
+mostrecentimage: 2021-12-01
 
 imagescredit: 'Contributions from the ProQuest Online Digital Sanborn Map collection and the real estate listing (2021)'
 
@@ -66,8 +73,8 @@ imagescredit: 'Contributions from the ProQuest Online Digital Sanborn Map collec
 
 This is a C4-zoned industrial 0.13 acre lot with a small, two-story cinder-block building from the early 1930s with 3200 sf of interior space. It is of simple, economical construction with a flat roof and large metal-rail divided windows. The building has been under many owners — or had many tenants — since 2000.
 
-[The former Primo Art Company building is currently for sale](//www.crexi.com/properties/602932/rhode-island-891-n-main-street){:target="_blank"}. And there are some interior photos here as well.
-{:.o__tldr}
+The building was recently purchased and is being renovated for a personal live/work studio. 
+
 
 ### History
 

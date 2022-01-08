@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: primo-art-co
+  person: 'Ed Brown'
+  date: '2022-01-03'
+  content: 'The Primo Art Building’s last tenant was the sculptor Michael E Smith who used it as studio space. He moved in after Pneuhaus around 2018? I worked for Mike and had a space in there for a while. J&W property management were the ones who owned it. Another one of Mike’s studio assistants curated a couple of group pop up shows in there as “891 N Main” which probably have documentation floating around. (From Instagram)'
+
 - property: mcdevitt-pwt
   person: 'Brophy'
   date: '2022-01-02'
