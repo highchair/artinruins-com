@@ -2,7 +2,8 @@
 title: "Chinese Restaurants of the Past"
 slug: chinese-restaurants
 aka: 'Mee Hong’s, Luke’s, and Ming Garden '
-date-modified: 2020-08-23 12:00
+date-modified: 2022-01-07 12:00
+update: 'Added a few new (old) photos of Ming Garden'
 
 built: 'various dates'
 demolition:
@@ -36,12 +37,18 @@ images:
     caption: 'Photo by Jay Boersma, 1975'
   - url: lukes-postcard-undated.jpg
     alt: 'Luke’s restauirant was located on the first floor of a taller commercial office building. A large neon sign took up most of the space above the entrance and retail window.' 
+  - url: lukes-newspaper-ad.jpg
+    caption: 'A newspaper ad for Luke’s Restaurant with a photo of the owner — posted by a Facebook user'
   - url: lukes-location-2019.jpg
     caption: 'A photo of the Luke’s facade superimposed on its former location in the Smith Building. Current streetview photo from Google.'
   - url: ming-garden-1937.jpg
     caption: 'Exchange Place in 1937 — electric trolley buses are in use. Ming’s Garden wouldn’t open for another few years in the building with the AUTO LOANS sign. The nearby Waldorf Cafeteria can be seen along with many mid-century advertising signs. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
   - url: ming-garden-1950c.jpg
     caption: 'Ming Garden building circa mid-1950s (The People’s Bank building was constructed in 1949). John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+  - url: ming-garden-1954.jpg
+    caption: 'Ming Garden on the left and the Industrial Trust building on the right in the aftermath of Hurricane Carol, 1954 — RI Historical Society'
+  - url: ming-garden-provcity-undated.jpg
+    caption: 'Ming Garden building fronting Westminster St (opposite side from Kennedy Plaza) circa 1970s judging by the cars — Providence City Archves on Flickr'
   - url: ming-garden-1977.jpg
     alt: 'The Ming Garden occupied the first two floors of a narrow three story commercial building. A large neon sign occupies most of the third floor, and the building shares a wall with a much taller former bank building.'
   - url: ming-garden-location-2019.jpg
@@ -50,13 +57,15 @@ images:
   - url: port-arthur-gold-coin-dorrance-weybosset.jpg
     caption: 'Many comments mentioned Port Arthur, seen here on the corner of Dorrance and Westminster. Date unknown.'
 
-imagescredit: 'Contributions from John Ballantine, <a href="//www.re-vision.com/photography/providence/" target="_blank">Jay Boersma</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A5578" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, and Google Streetview.'
+imagescredit: 'Contributions from John Ballantine, <a href="//www.re-vision.com/photography/providence/" target="_blank">Jay Boersma</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A5578" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, <a href="//www.flickr.com/photos/cityarchives/15819358009/" target="_blank">Providence City Archves</a>, and Google Streetview.'
 
 external:
   - source: 'Photos: Restaurants in Providence, Providence Journal'
-    url: '//www.providencejournal.com/photogallery/PJ/20190723/NEWS/723009998/PH/1'
-    #url: https://perma.cc/E3JL-Z42K
+    url: https://perma.cc/E3JL-Z42K
 ---
+
+A new-ish project called “[Providence’s Chinatown](//richinesehistory.com){:target="_blank"} has been created to dive deeper into the history of the bustling Chinese American community on Empire Street and on Summer Street between Broad and Pine. 
+{:.o__tldr}
 
 
 ### Current Events
@@ -113,7 +122,7 @@ _From the anecdotes:_
   <a href="#photo-ming-garden-undated">
     <img src="{{ site.propimg_path }}{{ page.slug }}/ming-garden-undated.jpg" alt="" />
   </a>
-  <figcaption>Another exterior view of Ming’s Garden next door to People’s Bank, Kennedy Plaza, date unknown (maybe 1960s)</figcaption>
+  <figcaption>Another exterior view of Ming’s Garden next door to People’s Bank, Kennedy Plaza, date unknown (maybe 1970s)</figcaption>
 </figure>
 
 The longest lived of the Chinese restaurants, the Ming Garden was vital to life in downtown Providence. Open from 1941 to 1986, the restaurant was located at 141-143 Westminster Street, which had entrances on Westminster Street as well as Kennedy Plaza (now #68 Kennedy Plaza). The building was 2 and a half stories tall and dates to the late 19th century. 
