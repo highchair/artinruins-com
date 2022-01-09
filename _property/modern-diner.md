@@ -2,7 +2,8 @@
 title: "Modern Diner"
 slug: modern-diner
 aka:
-date-modified: 2021-07-02 12:00
+date-modified: 2022-01-08 12:00
+update: 'Added a photo we found from the Pawtucket Library of the diner being moved on a flatbed truck'
 
 built: '1941'
 demolition:
@@ -62,6 +63,10 @@ images:
     caption: 'Photo from the Library of Congress, HABS RI-385, taken by the Pawtucket Planning Dept.'
   - url: modern-diner-loc-1984-09.jpg
     caption: 'Photo from the Library of Congress, HABS RI-385, taken by the Pawtucket Planning Dept.'
+  - url: modern-diner-pawtlib-1986-on-a-flatbed.jpg
+    caption: 'The Diner being moved from its Dexter Street location to its new East Avenue location — Photo part of the collection of the Pawtucket Library on Flickr'
+  - url: modern-diner-jh-2009-03-01.jpg
+    caption: 'We don’t usually display photos out of order by date, but this shows the outline of the diner left on the building it butted up against on Dexter Street post-move, 2009'
   - url: modern-diner-loc-1987-11-02.jpg
     caption: 'Photo from the Library of Congress, HABS RI-385, taken by Mike Cassidy'
   - url: modern-diner-loc-1987-11-03.jpg

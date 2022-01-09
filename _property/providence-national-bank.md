@@ -29,6 +29,9 @@ excerpt: "A neo-Georgian building that was home to the original home to the Prov
 thumbnail: prov-nat-bank-jh-2004-10-06.jpg
 
 images:
+  - url: prov-nat-bank-engraving-undated.jpg
+    caption: 'Undated engraving from RICurrency.com'
+    alt: 'A two and a half story, red brick narrow building three bays wide on the Westminster Street side. The first story central entrance and flanking windows have rounded top arches. On the second floor is a double column recessed set of French doors. On the Weybosset Street side, the building is wider and a full three stories with a triangular pediment across the top.'
   - url: prov-nat-bank-jh-2004-10-01.jpg
   - url: prov-nat-bank-jh-2004-10-02.jpg
   - url: prov-nat-bank-jh-2004-10-03.jpg
@@ -48,7 +51,7 @@ images:
   - url: prov-nat-bank-kj-2012-07-01.jpg
     caption: 'Photo by Kevin James, July 2012'
 
-imagescredit: Contributions by Alex Carr and Kevin James.
+imagescredit: 'Contributions by <a href="http://www.ricurrency.com/bank-name/providence-bank/" target="_blank">RICurrencycom</a>, Alex Carr, and Kevin James.'
 ---
 
 ### Reason for Demolition
