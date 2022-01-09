@@ -2,7 +2,8 @@
 title: "Henry F. Arnold Livery Stable"
 slug: arnold-stable-pwt
 aka: 'Feldman Furniture'
-date-modified: 2021-08-12 14:00
+date-modified: 2022-01-06 15:00
+update: 'Added a more recent photo from 2014 with the Nexus Properties banner in place'
 
 built: '1892'
 demolition:
@@ -46,10 +47,11 @@ images:
 - url: feldman-jh-2010-03-03.jpg
 - url: feldman-jh-2010-03-04.jpg
 - url: feldman-jh-2010-03-05.jpg
+- url: feldman-jh-2014-11-01.jpg
 
 imagescredit: 'Contribution from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157673949588005" target="_blank">Pawtucket Library on Flickr</a>'
 
-mostrecentimage: 2021-07-01
+mostrecentimage: 2014-11-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'

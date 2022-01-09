@@ -12,7 +12,7 @@ date-added: '2004'
 categories: [ '#ArchiveRI', '#UrbanDecay' ]
 neighborhoods: [ 'East Side', 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Did You Know?', 'HABS HAER' ]
 tags: [ 'Demolition by Progress' ]
 
@@ -49,6 +49,8 @@ images:
     caption: 'Looking east towards the west entrance of the East Side Train tunnel along the tracks, circa 1954. Personal collection of Leo King'
   - url: es-train-tunnel-lk-1979.jpg
     caption: 'View of an abandoned train engine at the west entrance of the East Side Train tunnel, circa 1979. Personal collection of Leo King'
+  - url: es-train-tunnel-aerial-1972-path.jpg
+    caption: 'Aerial from the Providence Historical Aerial Viewer 1972 with overlay of the probable tunnel path underground. Cadastral Map from G.M. Hopkins, 1937, shows a quick turn under Benefit Street and then a rather straight path. It’s hard to tell, but the lift bridge over the Seekonk river is in a down position in this photo.'
   - url: es-train-tunnel-habs-1983-01.jpg
     caption: 'View out of the west entrance of the tunnel towards Union Station. Library of Congress, HABS/HAER project, William E. Barrett photographer'
   - url: es-train-tunnel-habs-1983-02.jpg
@@ -67,10 +69,10 @@ images:
     caption: 'View of the closed train tunnel entrance and finished parking for 101 North Main Street and 2 Thomas Street, circa 2002. Personal collection of Leo King'
   - url: es-train-tunnel-jh-2004.jpg
     caption: 'View looking east from Canal Street with North Main Street and closed train tunnel entrance in top right, October 2004.'
-  - url: es-train-tunnel-aerial-1972-path.jpg
-    caption: 'Aerial from the Providence Historical Aerial Viewer 1972 with overlay of the probable tunnel path underground. Cadastral Map from G.M. Hopkins, 1937, shows a quick turn under Benefit Street and then a rather straight path. It’s hard to tell, but the lift bridge over the Seekonk river is in a down position in this photo.'
+  - url: es-train-tunnel-jh-2020.jpg
+    caption: 'The Benefit Street entrance, clad in a steel door'
 
-mostrecentimage: 2004-01-01
+mostrecentimage: 2020-10-01
 
 imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A043-03" target="_blank">Providence Public Library Digital Collection</a>, Leo King, and Library of Congress HABS/HAER, photographer William E. Barrett'
 ---

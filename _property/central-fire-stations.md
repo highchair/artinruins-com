@@ -2,7 +2,8 @@
 title: "Central Fire Stations, Providence"
 slug: central-fire-stations
 aka: 
-date-modified: 2020-08-30 12:00
+date-modified: 2022-01-06 14:00
+update: 'Added a new photo from the Providence Public Library showing the Three Ones from the east, with a foundations of pilings driven into the river'
 
 built: '1873 and 1903'
 demolition: '1938'
@@ -32,6 +33,8 @@ images:
   - url: sanborn-map-1889-xxchange-place-plate-1.jpg
     caption: 'Detail of a Sanborn Insurance Map from 1889'
     alt: 'The first fire house located to the southeast of Union Railroad Station. It was a square plan, two-story mansard roof building with a central projecting three-story tower in a simply decorated second empire style.'
+  - url: three-ones-ppl-undated-exchange-place.jpg
+    caption: 'Photo from the east looking west across Exchange Place, showing the Three Ones fire station, Burnside Monument, the old Union Depot, City Hall, and the Cove — Rhode Island Collection, Providence Public Library'
   - url: central-fire-1895c-three-ones.jpg
     caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library, circa 1895'
   #- url: central-fire-1900c-three-ones.jpg
