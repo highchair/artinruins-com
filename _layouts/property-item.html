@@ -152,9 +152,32 @@ layout: default
                   {%- endfor -%}
                 </li>
                 {%- endif -%}
-                {%- assign lists = page.lists -%}
+                  {%- assign lists = page.lists -%}
+                  {%- assign categories = page.categories -%}
+                  {%- assign tags = page.tags -%}
+                <li class="item__cats__item item__cats__cats">
+                  {%- if categories.size > 0 -%}
+                  <p><strong>{%- if categories.size >= 2 -%}Categories{%- else -%}Category{%- endif -%}: </strong> 
+                    {%- for category in categories -%}
+                    <a href="{{ site.baseurl }}category/{{ category | replace: '.', '' | slugify }}/">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+                    {%- endfor -%}
+                  </p>
+                </li>
+                {%- endif -%}
+                {%- if tags.size > 0 -%}
+                <li class="item__cats__item item__cats__tags{% if tags.size >= 3 %} item__cats__wide{% elsif page.superlative.size > 0 %} item__cats__wide{% endif %}">
+                  <p><strong>{%- if tags.size > 1 -%}Tags{%- else -%}Tag{%- endif -%}: </strong> 
+                    {%- for tag in tags -%}
+                    <a href="{{ site.baseurl }}tag/{{ tag | replace: '.', '' | slugify }}/">{{ tag }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+                    {%- endfor -%}
+                    {%- if page.superlative.size > 0 -%}
+                    <br><strong>Superlative: </strong> {{ page.superlative }}
+                    {%- endif -%}
+                  </p>
+                </li>
+                {%- endif -%}
                 {%- if lists.size > 0 -%}
-                <li class="item__cats__item item__cats__lists"><strong>{% if lists.size >= 2 %}Lists{% else %}List{% endif %}: </strong> 
+                <li class="item__cats__item item__cats__lists{% if lists.size >= 3 %} item__cats__wide{% endif %}"><strong>{% if lists.size >= 2 %}Lists{% else %}List{% endif %}: </strong> 
                   {%- for list in lists -%}
                     {%- assign length = forloop.length -%}
                     {%- assign secondtolast = length | minus: 1 -%}
@@ -162,25 +185,16 @@ layout: default
                   {%- endfor -%}
                 </li>
                 {%- endif -%}
-                {%- assign categories = page.categories -%}
-                {%- if categories.size > 0 -%}
-                <li class="item__cats__item item__cats__cats"><strong>{%- if categories.size >= 2 -%}Categories{%- else -%}Category{%- endif -%}: </strong> 
-                  {%- for category in categories -%}
-                  <a href="{{ site.baseurl }}category/{{ category | replace: '.', '' | slugify }}/">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
-                  {%- endfor -%}</li>
-                {%- endif -%}
-                {%- assign tags = page.tags -%}
-                {%- if tags.size > 0 -%}
-                <li class="item__cats__item item__cats__tags"><strong>{%- if tags.size > 1 -%}Tags{%- else -%}Tag{%- endif -%}: </strong> 
-                  {%- for tag in tags -%}
-                  <a href="{{ site.baseurl }}tag/{{ tag | replace: '.', '' | slugify }}/">{{ tag }}</a>{%- unless forloop.last -%}, {%- endunless -%}
-                  {%- endfor -%}
-                  {%- if page.superlative.size > 0 -%}
-                  <br><strong>Superlative: </strong> {{ page.superlative }}
-                  {%- endif -%}
+                <li class="item__cats__item item__cats__citation">
+                  <details class="rhythm">
+                    <summary>Citations & Reference URLs</summary>
+                    <p>Create a permanent reference to today’s version of this page with <a href="//web.archive.org/save/https://artinruins.com/property{{ page.slug }}" title="Archive.org is a foundation that archives the internet" target="_blank" rel="nofollow noreferrer">Archive.org</a>
+                    </p>
+                    <p><label for="cite"><abbr title="Modern Language Association">MLA</abbr>- and <abbr title="Chicago Manual of Style">CMS</abbr>-style Citation:</label> <input id="cite" type="text" readonly class="form__input form__input--text form__input--readonly" value="“{{ page.title }},” ArtInRuins.com, {{ page.date-modified | date: "%B %e, %Y" }}, https://artinruins.com/property/{{ page.slug }}. Accessed {{ 'now' | date: '%B %e, %Y' }}." />
+                      <span class="form__input--help">Select all to cut and paste citation</span>
+                    </p>                
+                  </details>
                 </li>
-                {%- endif -%}
-                <li class="item__cats__item item__cats__perma"><a href="//perma.cc" title="Perma.cc is a service that archives the internet and creates a Permalink that will last forever" target="_blank" rel="nofollow noreferrer">Use Perma.cc to create a link to this article… permanently</a></li>
               </ul>
               <p class="item__mod"><strong class="u__text__small u__text__sans u__text__sans--bold u__text__to-upper">Last Date Modified:</strong> {{ page.date-modified | date: "%B %e, %Y" }}</p>
             </footer>

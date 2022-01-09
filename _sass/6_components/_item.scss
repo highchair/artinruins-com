@@ -212,6 +212,22 @@
       }
     }
 
+    &__citation {
+      
+      summary {
+        margin-bottom: 0;
+      }  
+      
+      abbr[title] {
+        font-size: 100%;
+      }
+      
+      input {
+        @include ff-sans(false);
+        font-size: 87.5%;
+      }
+    }
+
     @include breakpoint-up(large) {
       display: flex;
       align-items: stretch;
@@ -221,6 +237,10 @@
       &__item {
         padding: 0.5em 0.75em;
         flex: 1 0 50%;
+      }
+      
+      &__wide {
+        flex: 1 0 100%;
       }
     }
   }

@@ -15,6 +15,6 @@
     ],
     "theme_color": "#007070",
     "background_color": "#007070",
-    "start_url": "http://artinruins.com",
+    "start_url": "https://artinruins.com",
     "display": "standalone"
 }

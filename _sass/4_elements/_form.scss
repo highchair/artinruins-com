@@ -84,6 +84,22 @@ label {
     padding-bottom: 0.75rem;
   }
   
+  &__input {
+    
+    &--text {}
+    
+    &--area {}
+    
+    &--readonly {
+      background: #f2f2f2;
+    }
+    
+    &--help {
+      font-style: italic;
+      letter-spacing: $kerning;
+    }
+  }
+  
   // Honeypot
   &__pollen {
     @include sr-only;

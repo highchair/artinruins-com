@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2022-01-08
+
+Changed
++ Moved away from Perma.cc links for a URL reference and to the Archive.org service instead. Also changed the way the meta tags lay out when there are different combinations of them, particularly when there are more than 3 lists per property. 
+
 ## 2022-01-04
 
 Changed
