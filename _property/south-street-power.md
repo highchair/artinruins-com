@@ -247,7 +247,7 @@ _by Gwynne Morgan_
 
 […] EVENTUALLY, Freeman envisions a New England Museum of Technology and Industry in the underused Narragansett Electric building next to [Davol Square]({% link _property/davol-rubber-company.md %}). The museum, as he conceives it, would house technological innovations sparked by Rhode Island-based companies — items like a working Bell Helicopter donated by Textron. 
 
-The museum, teamed with Davol Square and Corliss Landing, “will make this a major drop-off place for tourists on their way to the Cape or Newport,” Freeman predicts. In his vision, Providence and Newport tourists will shuttle back and forth by hydrofoil. […]
+The museum, teamed with Davol Square and [Corliss Landing]({% link _property/providence-steam-engine.md %}), “will make this a major drop-off place for tourists on their way to the Cape or Newport,” Freeman predicts. In his vision, Providence and Newport tourists will shuttle back and forth by hydrofoil. […]
 
 With his 40th birthday still seven months away, the baby-faced millionaire has amassed quite a record.
 

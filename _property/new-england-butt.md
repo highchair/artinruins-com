@@ -97,7 +97,7 @@ Established in 1842 by N.A. Fenner, the New England Butt Company manufactured ca
 
 The oldest building in this complex is the much altered 2-story, monitor roofed, frame building in the center of the block on Perkins Street (photo 28), built between 1849 and 1857. The main building, constructed in in 1865 from plans by Spencer R. Read, is a handsome, gable roofed, brick structure with corbeled brick cornices, brick window caps, and arched door surrounds. This building, fronting on Pearl Street, was originally used for machining and assembling. A long, brick two-story wing built at the same time behind the main building was later raised to three stories. Although this building has window caps identical to the main building, it may incorporate an older structure. In 1951 a large, flat one-story glass and brick structure replaced the foundry on Perkins and Rice Streets.
 
-By 1901 the New England Butt Company employed 200 skilled workers in the manufacture of braiding machines for silk, worsted, and cotton braid as well as telephone, electric light and crinoline wire. The Wanskuck Corporation bought the New England Butt Company in 1955. (As of 1981,) the factory continues to produce braiding machinery and cabling machinery at this site as well as the works of the former Providence Steam Engine Company at 521 South Main Street.
+By 1901 the New England Butt Company employed 200 skilled workers in the manufacture of braiding machines for silk, worsted, and cotton braid as well as telephone, electric light and crinoline wire. The Wanskuck Corporation bought the New England Butt Company in 1955. (As of 1981,) the factory continues to produce braiding machinery and cabling machinery at this site as well as the works of the former [Providence Steam Engine Company]({% link _property/providence-steam-engine.md %}) at 521 South Main Street.
 
 ***
 
@@ -118,4 +118,4 @@ In 1901, the company employed 200 skilled workmen in the manufacture of machiner
 
 Between 1910 and 1913, New England Butt became one of the few Rhode Island firms to experiment with “scientific management” In these years, Frank Gilbreth, a noted follower of Frederick Taylor and a specialist in time and motion study, redesigned the firm’s work process. According to the state’s labor press, Gilbreth wished to “eliminate false moves and drive the worker into a stride that would be as mechanical as the machine he tends.” 
 
-New England Butt continues to produce braiding machines here and also occupies the buildings of the former Providence Steam Engine Company. With the exception of a very small number of early 20th-century machine tools, no historic machinery survives.
+New England Butt continues to produce braiding machines here and also occupies the buildings of the former [Providence Steam Engine Company]({% link _property/providence-steam-engine.md %}). With the exception of a very small number of early 20th-century machine tools, no historic machinery survives.
