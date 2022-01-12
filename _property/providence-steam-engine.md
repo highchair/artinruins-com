@@ -37,6 +37,10 @@ images:
     alt: ''
   - url: prov-steam-ppl-aerial-early-60s.jpg
     caption: 'Aerial photo after interstate 195 was complete, guessing early 60s — Rhode Island Photograph Collection, Providence Public Library'
+  - url: corliss-landing-jh-2012-01-01.jpg
+  - url: corliss-landing-jh-2012-01-02.jpg
+  - url: corliss-landing-jh-2012-01-03.jpg
+  - url: corliss-landing-jh-2012-01-04.jpg
   - url: corliss-landing-jh-2020-02-01.jpg
   - url: corliss-landing-jh-2020-02-02.jpg
   - url: corliss-landing-jh-2020-02-03.jpg
