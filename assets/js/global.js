@@ -74,6 +74,7 @@ document.addEventListener("DOMContentLoaded", function() {
     if ( link.host == window.location.host
       && localStorage.getItem('visited-' + link.pathname) ) {
       link.setAttribute('data-visited', 'visited');
+      link.setAttribute('title', 'You have seen the content at this link');
     }
   }
 

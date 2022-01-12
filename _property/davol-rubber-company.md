@@ -71,6 +71,7 @@ images:
   - url: davol-square-jh-2010-11-06.jpg
   - url: davol-square-jh-2010-11-07.jpg
   - url: davol-square-jh-2010-11-08.jpg
+  - url: davol-square-jh-2013-03-01.jpg
   - url: davol-square-jh-2020-05-01.jpg
   - url: davol-square-jh-2021-06-01.jpg
   - url: davol-sanborns-1889-01.jpg
