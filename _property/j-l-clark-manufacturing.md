@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
-tags: []
+tags: [ 'Apartments for Rent' ]
 
 NRHP-ref-number:
 added-to-NRHP:

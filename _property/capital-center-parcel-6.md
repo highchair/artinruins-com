@@ -15,7 +15,7 @@ neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'HDS Architecture' ]
 lists: [ 'Capital Center Parcels' ]
-tags: []
+tags: [ 'Apartments for Rent' ]
 
 address: '1 Park Row West, Providence RI'
 latitude: '41.8292265'

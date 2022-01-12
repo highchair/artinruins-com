@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Kite Architects' ]
 people: []
 lists: [ 'PPS/AIA Industrial Commercial Buildings Survey', 'Broadway-Armory Historic District', 'National Register of Historic Places' ]
-tags: []
+tags: [ 'Apartments for Rent' ]
 
 NRHP-ref-number: '74000047 (contributing)'
 added-to-NRHP: 'May 1, 1974'

@@ -16,7 +16,7 @@ town: [ 'North Smithfield, RI' ]
 designers: [ 'Newport Collaborative Architects' ]
 people: [ 'Samuel Slater' ]
 lists: [ 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'The Superlatives' ]
+tags: [ 'Apartments for Rent', 'The Superlatives' ]
 superlative: [ 'The first decentralized “Mill Village” in the Blackstone Valley' ]
 
 NRHP-ref-number: '73000002 (contributing)'
