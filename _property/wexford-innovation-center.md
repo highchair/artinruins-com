@@ -5,6 +5,7 @@ aka:
 date-modified: 2021-10-25 12:00
 
 built: '2017-2019'
+parcel: '22 lot 1'
 demolition:
 redeveloped:
 units:
@@ -15,7 +16,7 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: []
 people: []
-lists: [ 'I-195 District' ]
+lists: [ 'I-195 District Parcels' ]
 tags: []
 
 NRHP-ref-number:
