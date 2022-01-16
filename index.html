@@ -8,7 +8,6 @@ sitemap:
   priority: 0.9
   changefreq: 'weekly'
 ---
-{%- assign demoalert = site.property | where: "categories", "#DemolitionAlert" | sort: "date-modified" | reverse -%}
 {%- assign properties = site.property | sort: "date-modified" | reverse -%}
 {%- assign props = 0 -%}
 {%- assign totalimg = 0 -%}
@@ -18,8 +17,9 @@ sitemap:
 {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
 
 <section class="home__updates u__gutter__p">
-  <p class="u__vertical__pb">We document the architectural landscape and collect the oral, written, and photographic history of  important places. We hope to be a safe space for storytelling, memory-sharing, and dreaming about the future of the built environment in northern Rhode Island and southeastern Massachusetts. <a href="{% link about.md %}">More about <span class="abbr">A.I.R.</span></a></p>
+  <p class="u__vertical__pb">We document the architectural landscape and collect the oral, written, and photographic history of important places. We hope to be a safe space for storytelling, memory-sharing, and dreaming about the future of the built environment in northern Rhode Island and southeastern Massachusetts. <a href="{% link about.md %}">More about <span class="abbr">A.I.R.</span></a></p>
 
+{%- assign demoalert = site.property | where: "categories", "#DemolitionAlert" | sort: "date-modified" | reverse -%}
 {%- if demoalert.size >= 1 -%}
   <h2 class="o__title--sm v-rhythm">Demolition Alert</h2>
   <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
@@ -35,20 +35,24 @@ sitemap:
   {%- if item.title and item.slug and item.date-modified -%}
     {%- assign categories = item.categories -%}
     {%- capture is_demo_alert -%}
-      {% if categories contains '#DemolitionAlert' %}Yes{% else if %}No{% endif %}
+      {% if categories contains '#DemolitionAlert' %}Yes{% else %}No{% endif %}
+    {%- endcapture -%}
+    {%- capture is_under_construction -%}
+      {% if categories contains '#WhatAreTheyBuilding' %}Yes{% else %}No{% endif %}
     {%- endcapture -%}
     {%- assign props = props | plus:1 -%}
-    {%- if forloop.index <= 16 and is_demo_alert == 'No' -%}
+    {%- if forloop.index <= 12 and is_demo_alert == 'No' and is_under_construction == 'No' -%}
       {% assign home = 'Yes' %}
       {% include property-card.html %}
-      {%- if forloop.index == 8 -%}
+      {%- if forloop.index == 6 -%}
         {% if jekyll.environment == 'production' -%}
           {% comment %}
+          
             Insert a random artful image to break up the list
             We are breaking on the 8th time around the loop
             *Remember that when we get randprop, it is an array*
-          {% endcomment %}
           
+          {% endcomment %}
           {% assign random = site.time | date: "%s%N" | modulo: site.data.artful_architecture.size %}
           {% assign randprop = site.property | where: 'slug', site.data.artful_architecture[random].post %}
     <li class="taxonomy__random">
@@ -100,6 +104,32 @@ sitemap:
     {%- endif -%}
   {%- endif -%}
 {%- endfor -%}
+  </ul>
+{%- comment -%}
+  
+  Get all #WhatAreTheyBuilding properties and spit out a few under construction
+  Challenge: Only output if they are LESS than a month old
+    Epoch time: 30 days in seconds is 60s * 60m * 24h * 30d = 2592000
+  If so, we presume that construction is still underway
+
+{%- endcomment -%}
+{%- assign construction = site.property | where: "categories", "#WhatAreTheyBuilding" | sort: "date-modified" | reverse -%}
+{%- assign lastmonth = "now" | date: '%s' | minus: 2592000 | date: '%Y%m%d' | times:1 -%}
+{%- assign construct_count = 0 -%}
+{%- for item in construction limit:6 -%}
+  {% assign itemdate = item.date-modified | date: '%Y%m%d' | times:1 %}
+  {% if itemdate > lastmonth %}
+    {% assign construct_count = construct_count | plus: 1 %}
+  {% endif %}
+{%- endfor -%}
+  <h2 class="o__title--sm v-rhythm">#WhatAreTheyBuilding: Under Construction</h2>
+  <ul class="taxonomy__list taxonomy__list--vertical taxonomy__list--vertical--{{ construct_count }} u__list__unstyled u__vertical__pb" role="list">
+    {%- for item in construction limit:6 -%}
+      {% assign itemdate = item.date-modified | date: '%Y%m%d' | times:1 %}
+      {% if itemdate > lastmonth %}
+        {% include property-card.html %}
+      {% endif %}
+    {%- endfor -%}
   </ul>
 
   <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ props }} properties</span> and <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=totalimg %} images</span>. {% if JEKYLL_ENV == 'production' %}Browse more from our <a href="{% link all-tags.html %}">Categories and Tags</a>.{% endif %}</p>

@@ -3,10 +3,22 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2022-01-15
+
+Added
++ More detail to the JS AllProps array and functions to support finding nearby properties on an individual property page — JS calculates which properties are within a quarter mile and cycles through them to create a simple property card, then injects those results onto the property page as an enhancement
+
+## 2022-01-09
+
+Added
++ Pulled out #WhatAreTheyBuilding from the main loop and added them to their own loop at the bottom of the river.
+
 ## 2022-01-08
 
 Changed
-+ Moved away from Perma.cc links for a URL reference and to the Archive.org service instead. Also changed the way the meta tags lay out when there are different combinations of them, particularly when there are more than 3 lists per property. 
++ Moved away from Perma.cc links for a URL reference and to the Archive.org service instead. 
++ Added MLA/CMS citations for people to cut and paste if they so chose
++ Also changed the way the meta tags lay out when there are different combinations of them, particularly when there are more than 3 lists per property. 
 
 ## 2022-01-04
 

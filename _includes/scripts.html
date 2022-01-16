@@ -1,3 +1,4 @@
+{% comment %} If cachebusting is needed: ?bust={{ 'now' | date: '%Y%m%d%H%M%S' }} {% endcomment %} 
     <script defer src="{{ '/' | relative_url }}assets/js/global.js"></script>
 {%- if page.layout == 'property-item' -%}
     <script defer src="{{ '/' | relative_url }}assets/js/property.js"></script>

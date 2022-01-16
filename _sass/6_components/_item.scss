@@ -317,4 +317,12 @@
       display: none;
     }
   }
+  
+  &__nearby {
+    
+    .taxonomy__card-title {
+      // Here we use an H3 and an h5 class instead of an H2 so we lose some styles
+      font-family: $font-stack__serif;
+    }
+  }
 }

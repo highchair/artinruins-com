@@ -7,7 +7,7 @@
 //  <ul class="taxonomy__list u__list__unstyled u__vertical__pt u__gutter__p">
 //    <li>
 //      <img class="taxonomy__img" src="/property-img/132-fountain-st/old-mcd-bldg-01.jpg" alt="" loading="lazy">
-//        <div class="taxonomy__colwrap">
+//      <div class="taxonomy__colwrap">
 //        <h2><a href="/property/132-fountain-st/" class="taxonomy__link">132 Fountain Street, Downtown Providence</a>
 //        <p class="taxonomy__excerpt">A simple building located next to the former Sportsman’s Inn (now the Dean Hotel) that was razed for a never-built hotel.</p>
 //        <p class="taxonomy__meta"><strong>Built: </strong> 1915<span class="taxonomy__sep"> | </span><strong>Demolition: </strong> 2008<span class="taxonomy__sep">|</span><strong>Decade: </strong> <a href="/decade/1910-1919">1910-1919</a></p>
@@ -81,6 +81,52 @@
         .taxonomy__meta {
           padding-bottom: ($vertical-rhythm/2);
         }
+      }
+    }
+    
+    // The homepage construction update
+    // AND the nearby properties
+    &--vertical {
+      // Make the UL a grid container
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+      grid-gap: 0;
+      
+      // Hide some elements
+      .taxonomy__meta {
+        display: none;
+      }
+      
+      // Force a single vertical column
+      li {
+        display: block !important;
+      }
+      
+      .taxonomy__img-wrap,
+      .taxonomy__colwrap {
+        flex: 0 1 100%;
+        width: 100%;
+      }
+      
+      .taxonomy__img-wrap {
+        margin: 0 0 0.5rem;
+        padding-bottom: 56.25%;
+        max-width: 480px;
+        min-height: unset;
+        
+        .rwd-img {
+          max-height: 100% !important;
+        }
+      }
+      
+      // When there are only a specific number of them
+      &--1,
+      &--2 {
+        grid-template-columns: repeat(auto-fit, minmax(16rem, 20rem));
+      }
+      
+      &--4 {
+        grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
       }
     }
   }
