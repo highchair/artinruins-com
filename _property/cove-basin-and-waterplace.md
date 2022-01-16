@@ -16,10 +16,10 @@ designers: [ 'Designer Unknown' ]
 lists: [ 'Did You Know?', 'RI Historic Resources Archive' ]
 tags: []
 
-address: ''
-latitude: ''
-longitude: ''
-gmap: ""
+address: 'Memorial Blvd, Providence RI'
+latitude: '41.8274486'
+longitude: '-71.4161301'
+gmap: "https://www.google.com/maps/place/Waterplace+Park/@41.8274486,-71.4161301,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44510e1520037:0x622cd3cfc6974b20!8m2!3d41.8274486!4d-71.4139414"
 
 meta: ""
 excerpt: "A mapping project to trace the origins and evolution of the Cove Basin north of Downtown and south of Smith Hill, from 1823 to present day"

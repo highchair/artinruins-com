@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: wanskuck-mills
+  person: 'Jeannine Aspirinio'
+  date: '2022-01-15'
+  content: 'My grandmother told many stories of her work as a silk inspector.   She made friends with other women on the line.  Her father was a Forman as well. I would love to know what the inside looked like. '
+
 - property: primo-art-co
   person: 'Ed Brown'
   date: '2022-01-03'

@@ -17,10 +17,10 @@ lists: []
 tags: [ 'The Superlatives' ]
 superlative: 'The first permanent, multistory office building in the United States made entirely from shipping containers'
 
-address: '460 Harris Avenue, Providence RI'
-latitude: ''
-longitude: ''
-gmap: ""
+address: '460 Harris Ave, Providence RI'
+latitude: '41.8231165'
+longitude: '-71.438316'
+gmap: "https://www.google.com/maps/place/460+Harris+Ave,+Providence,+RI+02909/@41.8231165,-71.438316,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44598adbeadd3:0x80c9c53288bba62b!8m2!3d41.8231165!4d-71.4361273"
 
 meta: ""
 excerpt: "The first building in Rhode Island made from recycled shipping containers is available for lease as office space"
