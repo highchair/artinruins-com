@@ -95,6 +95,8 @@ The developer of [Davol Square]({% link _property/davol-rubber-company.md %}), R
 
 ### Current Events
 
+These are all privately owned condominiums or commercial spaces. They pop-up on the typical home-search sites when they are available. 
+
 
 ### History
 
