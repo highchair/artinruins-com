@@ -2,7 +2,8 @@
 title: "Wanskuck Mills"
 slug: wanskuck-mills
 aka: 'Wanskuck Mill Lofts'
-date-modified: 2020-12-14 12:00
+date-modified: 2022-01-17 18:00
+update: 'Added a new aerial photo of the mills showing a bit of the mill pond adjacent'
 
 built: '1862–1906'
 demolition: 
@@ -35,6 +36,8 @@ images:
   - url: wanskuck-mill-ppl-1920c.jpg
     caption: 'Photograph of Wanskuck Mills on Branch Avenue from the John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
     alt: 'A wide, five story red brick mill with central stairtower that rises to an octagonal bell tower. A small two story office building sits in front with a wide, double wide stone arch doorway.'
+  - url: wanskuck-mill-ppl-aerial.jpg
+    caption: 'Undated aerial image from T.M.I. Boyle. Notice the large mill pond on the left of the photo — Rhode Island Photograph Collection, Providence Public Library'
   - url: wanskuck-mill-habs-1981.jpg
     caption: 'Charlene Kay Roise for the Rhode Island Historical Preservation Commission, September 1981'
   - url: wanskuck-mill-jh-2004-02-01.jpg
@@ -64,7 +67,9 @@ images:
   - url: wanskuck-mill-jh-2020-08-12.jpg
   - url: wanskuck-mill-jh-2020-09-01.jpg
 
-imagescredit: 'Contributions by <a href="https://provlibdigital.org/islandora/object/islandora%3A4805" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library and the National Register nomination photos for the Wanskuck Historic District.'
+mostrecentimage: 2020-09-01
+
+imagescredit: 'Contributions by <a href="//provlibdigital.org/islandora/object/islandora%3A4805" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> and the <a href="//provlibdigital.org/islandora/object/islandora%3A14096" target="_blank">RI Photograph Collection</a>, Providence Public Library; and the National Register nomination photos for the Wanskuck Historic District.'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

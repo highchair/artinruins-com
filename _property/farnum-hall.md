@@ -63,7 +63,7 @@ The plat where Farnum Hall once stood is green space with an overlook view of pa
 
 ### History
 
-_From the College Hill Historic District nomination form, 1959_
+_From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 
 14-20 Congdon Street. Apartment Building, now Farnum Hall, R.I.S.D. a. 1920. 3 stories; flat brick; Upland with multiple entrances around courtyard; yellow-brown tapestry brick with red brick trim; bracketed; pitched overhang.
 

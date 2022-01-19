@@ -2,7 +2,8 @@
 title: "Wit Building"
 slug: wit-building-pvd
 aka: 'Black Repertory Company, Aurora'
-date-modified: 2021-02-09 12:00
+date-modified: 2022-01-17 19:00
+update: 'Added a photo from the 1970s when the building housed Jean’s Department Store'
 
 built: 'c.1925'
 demolition: 
@@ -32,6 +33,9 @@ excerpt: "Smaller than its neighbors, this 2-story commercial building joined th
 thumbnail: wit-jh-2021-02-01.jpg
 
 images:
+  - url: wit-facebook-1970s-01.jpg
+    caption: 'The Wit Building as “Jean’s” store in the 1970s, when Westminster Street was a pedestrian mall and commercial-building style tended towards flat surfaces with very little ornamentation. Contributed by David Doiron from Facebook'
+    alt: 'A narrow but deep two story commercial building that had a fairly non-descript façade until the architects for the redevelopment conducted deep research to replicate what might have been an obsidian glass tile façade with large commercial window openings'
   - url: wit-jh-2002-06-01.jpg
   - url: wit-jh-2003-10-01.jpg
   - url: wit-jh-2003-10-02.jpg
@@ -53,7 +57,9 @@ images:
   - url: wit-jh-2021-02-03.jpg
     caption: 'The Wit Building and its very close neighbor, the Lapham Building, now joined at the second floor'
 
-imagescredit: 'Contribution from the Aurora Facebook page'
+mostrecentimage: 2021-02-01
+
+imagescredit: 'Contribution from the David Doiron and the Aurora Facebook page'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

@@ -1,8 +1,9 @@
 ---
 title: "Second Universalist Church"
 slug: second-universalist-church
-aka:
-date-modified: 2020-08-25 12:00
+aka: 'Home of the Dafari Lounge'
+date-modified: 2022-01-17 18:15
+update: 'Added a photo we found taken by Betsy von Die circa the 1970s of the peanut vendor on the far corner of Eddy Street'
 
 built: '1847-1849'
 demolition: '2006'
@@ -33,6 +34,8 @@ thumbnail: second-universalist-jh-2004-02-02.jpg
 images:
   - url: second-universalist-ppl-1920c.jpg
     caption: 'Emery’s Congress Alleys were in business at the corner of Eddy and Westminster from about 1910-1935 offering bowling and billiards during the heyday of Weybosset Street in Providence as an entertainment district. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library.'
+  - url: safari-lounge-and-peanuts.jpg
+    caption: 'Photo by Betsy von Die, circa 1970s'
   - url: second-universalist-jh-2004-02-01.jpg
   - url: second-universalist-jh-2004-02-02.jpg
   - url: second-universalist-jh-2004-02-03.jpg
@@ -51,7 +54,7 @@ images:
   - url: second-universalist-goog-2015-01.jpg
     caption: 'Google Streetview from September 2015'
 
-imagescredit: 'Contributions from Google Streetview and <a href="//provlibdigital.org/islandora/object/islandora%3A4813" target="_blank">Providence Public Library</a>.'
+imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%3A4813" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library; <a href="http://www.consumergrouch.com/?p=6191" target="_blank"Betsey von Die</a>, and Google Streetview'
 ---
 
 ### Reason for Demolition
