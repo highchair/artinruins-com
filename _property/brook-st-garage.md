@@ -10,7 +10,7 @@ redeveloped: '1990–91'
 units:
 decade: '1910-1919'
 date-added: '2022'
-categories: [ '#UsedToBeThere', '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -79,7 +79,7 @@ With that parliamentary move, Brown was free to proceed as they pleased with the
 
 ### Current Events
 
-The site of these former buildings will become two new Brown University dorm buildings, designed as “sisters”, one on either side of Brook Street. Visit the [Brown Facilities page about the project](//www.brown.edu/facilities/projects/capital-projects/current/brook-street-residence-halls){:target="_blank"}.
+The site of these former buildings will become two new Brown University dorm buildings, designed as “sisters”, one on either side of Brook Street. Visit [our page about the new construction]({% link _property/brown-brook-st-residence-halls.md %}).
 
 
 ### History
