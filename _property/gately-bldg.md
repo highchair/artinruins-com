@@ -2,7 +2,8 @@
 title: "Gately building"
 slug: gately-bldg
 aka: 'Chamber of Commerce Building, M. J. Gallagher building, Old Colonial Bank'
-date-modified: 2020-12-16 12:00
+date-modified: 2022-01-22 12:00
+update: 'Added a new photo from the Pawtucket Library of the building from 1980'
 
 built: '1914'
 demolition: 
@@ -31,8 +32,10 @@ excerpt: "This 3-story flatiron 1920s commercial building was vacant for more th
 thumbnail: old-colony-bank-jh-2016-04-01.jpg
 
 images:
-  - url: old-colony-bank-jh-2004-05-01.jpg
+  - url: old-colony-bank-pl-1980-01.jpg
+    caption: 'The Gately building from 1980 as work was being done to reroute Main Street. Notice the Old Colony sign and many other tenant signs on the third floor — Pawtucket Library Online Collection'
     alt: 'A three story brick building with a wood trimmed and iron commercial first floor. The building is sited on a irregularly-shaped lot, therefore, it has five sides with one traingular tapering side that come to a pointed edge about 10 feet wide.'
+  - url: old-colony-bank-jh-2004-05-01.jpg
   - url: old-colony-bank-jh-2004-05-02.jpg
   - url: old-colony-bank-jh-2004-05-03.jpg
   - url: old-colony-bank-jh-2004-05-04.jpg
@@ -56,7 +59,7 @@ images:
 
 mostrecentimage: 2016-04-01
 
-imagescredit: 'Contributions from the National Register nomination form by Edward Connors and Associates'
+imagescredit: 'Contributions from the Pawtucket Library collection via Flickr, and the National Register nomination form by Edward Connors and Associates'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

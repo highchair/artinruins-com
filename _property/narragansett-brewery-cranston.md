@@ -4,10 +4,10 @@ slug: narragansett-brewery-cranston
 aka: 
 date-modified: 2020-05-14 18:18
 
-built: 1890
-demolition: 1998
+built: '1890'
+demolition: '1998'
 decade: '1890-1899'
-date-added: 2002
+date-added: '2002'
 categories: [ '#ArchiveRI', '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Cranston, RI' ]
@@ -28,9 +28,12 @@ thumbnail: narrbrew-cranston-thumb.jpg
 
 images:
   - url: narrbrew-cranston-old-1920s.jpg
+    alt: 'We are unsure exactly what the brewery looked like since it was demolished many years ago and there are not many photos of the entire complex. It was multiple buildings, some built as early as 1890'
   - url: narrbrew-cranston-pin-1910c.jpg
   - url: narrbrew-cranston-aerial-1997.jpg
     caption: Aerial from the Providence Historical Aerial Viewer
+  - url: narrbrew-cranston-undated-1980s.jpg
+    caption: 'Photo by Ron Giorgio via Facebook'
   - url: narrbrew-cranston-b-1999-01.jpg
   - url: narrbrew-cranston-b-1999-02.jpg
   - url: narrbrew-cranston-b-1999-03.jpg

@@ -31,36 +31,39 @@ thumbnail: silver-top-eg-1993-01.jpg
 
 images:
   - url: silver-top-jb-1974-01.jpg
-    caption: Oil painting by John Baeder from his book “Road Well Taken”
+    caption: 'Oil painting by John Baeder from his book “Road Well Taken”'
+    alt: 'A metal and enamel-clad pre-manifactured diner car resembling a streamlined train car. The exterior has blue, silver, and red details. A central entrance vestibule is located on the front. The diner is long but not very deep — again, much like a train or subway car. The interior is a mix of built-in-place metal, enamel, and formica booths, countertop, stools, and stainless steel kitchen area with flat-top grill and good-prep station.'
+  - url: silver-top-lc-1983-05-01.jpg
+    caption: 'May 1983, a sign on the roof reads “Joann’s Silver Top” — Photo by Larry Cultrera'
   - url: silver-top-rg-1990-01.jpg
-    caption: Photo by Richard J.S. Gutman
+    caption: 'Photo by Richard J.S. Gutman'
   - url: silver-top-vb-interior-01.jpg
-    caption: Unknown photographer for the Valley Breeze
+    caption: 'Unknown photographer for the Valley Breeze'
   - url: silver-top-eg-1993-01.jpg
-    caption: Photo by Erik Gould
+    caption: 'Photo by Erik Gould'
   - url: silver-top-eg-1993-02.jpg
-    caption: Photo by Erik Gould
+    caption: 'Photo by Erik Gould'
   - url: silver-top-HABS-1998-01.jpg
-    caption: Photo from the Historic American Buildings Survey
+    caption: 'Photo from the Historic American Buildings Survey'
   - url: silver-top-eg-1998-01.jpg
-    caption: Photo by Erik Gould
+    caption: 'Photo by Erik Gould'
   - url: silver-top-eg-1998-02.jpg
-    caption: Photo by Erik Gould
+    caption: 'Photo by Erik Gould'
   - url: silver-top-jb-2001-01.jpg
-    caption: Photo by Jim Boyle
+    caption: 'Photo by Jim Boyle'
   - url: silver-top-pj-2002-01.jpg
-    caption: Unknown photographer for the Providence Journal
+    caption: 'Unknown photographer for the Providence Journal'
   - url: silver-top-pl-2002-01.jpg
-    caption: Photo part of the Pawtucket Library Flickr collection
+    caption: 'Photo part of the Pawtucket Library Flickr collection'
   - url: silver-top-pl-2002-02.jpg
-    caption: Photo part of the Pawtucket Library Flickr collection
+    caption: 'Photo part of the Pawtucket Library Flickr collection'
   - url: silver-top-mp-2002-01.jpg
-    caption: Photo by Michael Pompilli
+    caption: 'Photo by Michael Pompilli'
   - url: silver-top-mp-2002-02.jpg
-    caption: Photo by Michael Pompilli
+    caption: 'Photo by Michael Pompilli'
 
 
-imagescredit: Images from Richard J.S. Gutman, Erik Gould, Jim Boyle, Michael Pompilli, and the Pawtucket Library.
+imagescredit: 'Images from John Baeder, Larry Cultrera, Richard J.S. Gutman, the Valley Breeze, Erik Gould, Jim Boyle, Michael Pompilli, and the Pawtucket Library.'
 ---
 
 ### Links
@@ -128,7 +131,7 @@ _Sources: PPS Architecture Guide, The Valley Breeze, TurnTo10.com, The Society f
 
 #### Court Battles: Pat Brown Vs. The Pawtucket Redevelopment Agency
 
-_By Donna Kenny Kirwan_  for the Pawtucket Times
+_By Donna Kenny Kirwan_ for the **Pawtucket Times** 
 
 The case is a complicated one which dates back to 2007, when the quasi-city Pawtucket Redevelopment Agency (PRA) filed a lawsuit against diner owner Patricia Brown charging that Brown failed to meet the terms of the agreement under which the agency loaned her $100,000 – essentially by failing to get the diner up and running. As such, PRA was seeking to recoup $52,878, plus interest and other costs, that Brown spent (and the PRA provided) to relocate the diner to Pawtucket.
 
