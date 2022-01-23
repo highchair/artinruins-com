@@ -1,7 +1,7 @@
 ---
 title: "Pilgrim Mills"
 slug: 101-north-main-st
-aka: '101 North Main Street'
+aka: 'Blue Point Oyster House, 101 North Main Street'
 date-modified: 2020-10-18 12:00
 
 built: '1900?'

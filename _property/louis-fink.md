@@ -1,7 +1,7 @@
 ---
-title: "Louis Fink building"
+title: "Kotler Building"
 slug: louis-fink
-aka: 'Kotler Building'
+aka: 'Louis Fink building'
 date-modified: 2021-02-17 12:00
 
 built: 'between 1908–1919'

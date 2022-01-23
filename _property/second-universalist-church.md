@@ -1,7 +1,7 @@
 ---
 title: "Second Universalist Church"
 slug: second-universalist-church
-aka: 'Home of the Dafari Lounge'
+aka: 'Home of the Safari Lounge'
 date-modified: 2022-01-17 18:15
 update: 'Added a photo we found taken by Betsy von Die circa the 1970s of the peanut vendor on the far corner of Eddy Street'
 
@@ -54,7 +54,7 @@ images:
   - url: second-universalist-goog-2015-01.jpg
     caption: 'Google Streetview from September 2015'
 
-imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%3A4813" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library; <a href="http://www.consumergrouch.com/?p=6191" target="_blank"Betsey von Die</a>, and Google Streetview'
+imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%3A4813" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library; <a href="http://www.consumergrouch.com/?p=6191" target="_blank">Betsey von Die</a>, and Google Streetview'
 ---
 
 ### Reason for Demolition

@@ -13,7 +13,7 @@ date-added:
 categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: []
+designers: [] # Noah Biklen of Deborah Berke Partners
 people: []
 lists: []
 tags: [ 'Brown University' ]
