@@ -34,6 +34,8 @@ images:
   #  caption: 'From the Providence Journal, captioned: “In 1969, The Apex store’s distinctive pyramidal roof starts to take shape in downtown Pawtucket around 1969 as part of the Slater Renewal Project.” The steel supports for the roof decoration are part of the structure of the building, even though the ziggurat is open to the elements and has a flat rubber roof underneath it.'
   #- url: apex-pj-1970-01.jpg
   #  caption: 'Providence Journal, circa 1970'
+  - url: apex-exterior-undated-newport-creamery.jpg
+    caption: 'Undated photo of the exterior with Newport Creamery signage'
   - url: apex-jh-2003-11-01.jpg
   - url: apex-jh-2003-11-02.jpg
   - url: apex-jh-2003-11-03.jpg

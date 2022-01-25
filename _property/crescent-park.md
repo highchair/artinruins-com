@@ -51,6 +51,8 @@ images:
     caption: 'The Bandstand in front with old Dining Pavilion in the back, before the Shore Dinner Hall was built, circa 1910.'
   - url: crescent-park-mccuskers-c1910.jpg
     caption: 'Exterior view of a portion of the park with the Looff Carousel on the left and McCusker’s Block Island Taffy on the right, circa 1910.'
+  - url: crescent-park-sanborn-1920.jpg
+    caption: 'Sanborn Map Company, “Insurance maps of Providence, Rhode Island V. 6” (1920). Sanborn Maps for the State of Rhode Island. Brown Digital Repository. Brown University Library.'
   - url: crescent-park-amusement-st-c1920.jpg
     caption: '“Amusement Street” with “Rivers of Venice” on the right, circa 1920.'
   - url: crescent-park-bamboo-slide-c1920.jpg
@@ -78,7 +80,7 @@ images:
   - url: crescent-park-photo-studio-c2010.jpg
     caption: 'The old Crescent Park studio has been re-created by Ed Serowik at the still-operating carousel.'
 
-imagescredit: 'Postcards from various auction sites and Google Image Search. Sanborn Map from the Brown University research collection.'
+imagescredit: 'Postcards from various auction sites and Google Image Search. Sanborn Map from the <a href="//repository.library.brown.edu/studio/item/bdr:212193/" target="_blank">Brown University research collection</a>.'
 ---
 
 ### Reason for Demolition

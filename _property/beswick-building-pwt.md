@@ -52,10 +52,12 @@ images:
   - url: beswick-jh-2010-01-08.jpg
   - url: beswick-jh-2010-01-09.jpg
   - url: beswick-jh-2010-01-10.jpg
+  - url: beswick-jh-2010-05-10.jpg
+    caption: 'The interior of the Riverside Diner (closed)'
 
 imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/sets/72157670655157343/with/50088129077/" target="_blank">Pawtucket Library collection on Flickr</a>, Roland Lavallee, and Kathryn J. Cavanaugh for the National Register nomination form'
 
-mostrecentimage: 2010-01-01
+mostrecentimage: 2010-03-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
