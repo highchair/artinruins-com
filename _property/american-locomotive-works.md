@@ -35,9 +35,9 @@ thumbnail: alco-jh-2006-03-14.jpg
 images:
   - url: rilw-ppl-unknown-01.jpg
     caption: 'Rhode Island Photograph Collection, Providence Public Library — the former Rhode Island Locomotive plant, dated probably circa 1900. On the center right is a small blank wall which is the southern face of what is now known as U.S. Rubber Building 61 — the only remaining structure'
+    alt: 'Two main three-story red brick buildings that are long and narrow with simple rectangular window openings consisting of granite sills and steel lintels. A small two-story office building is the oldest on the property. Brick detailing is simple, with a flat modern interpretation of a classic capital design along the roofline. Two impressive two-story connecting bridges span between the two main buildings.'
   - url: alco-ppl-1907-01.jpg
     caption: 'Rhode Island Photograph Collection, Providence Public Library — Photo of Building 51 shortly after construction, likely 1907. Rooftop lettering reads “American Locomotive Motor Car.”'
-    alt: 'Two main three-story red brick buildings that are long and narrow with simple rectangular window openings consisting of granite sills and steel lintels. A small two-story office building is the oldest on the property. Brick detailing is simple, with a flat modern interpretation of a classic capital design along the roofline. Two impressive two-story connecting bridges span between the two main buildings.'
   - url: alco-jh-2006-03-01.jpg
     caption: 'Building 61 built circa 1885 — The only original Rhode Island Locomotive Works building still standing. At the northeastern edge of the property, Building 61’s address veries from 2 Hemlock Street (Google streetview), 36 Hemlock Street (our 2006 photo shows this on the main door), and 321 Iron Horse Way (present label on the Hemlock side of the building)'
   - url: alco-jh-2006-03-02.jpg
@@ -76,8 +76,18 @@ images:
     caption: 'Building 62 built between 1918 and 1926'
   - url: alco-jh-2006-03-19.jpg
     caption: 'Building 87 built between 1937 and 1951, heavily altered, and therefore considered non-contributing to the historic nomination. It was demolished as part of the redevelopment of the property.'
+  - url: alco-jh-2007-04-01.jpg
+    caption: 'Building 51 built 1905 to 1907 with a side view of Building 52 on the far left'
+  - url: alco-jh-2007-04-02.jpg
+    caption: 'Building 52 built 1907'
+  - url: alco-jh-2007-04-03.jpg
+    caption: 'Building 58 on the left with the northern façade of Building 51 on the left'
+  - url: alco-jh-2007-04-04.jpg
+    caption: 'Building 61'
+  - url: alco-jh-2007-04-05.jpg
+    caption: 'The backside of Building 58'
 
-mostrecentimage: 2006-03-01
+mostrecentimage: 2007-04-01
 
 imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A11023" target="_blank">RI Locomotive,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A11438" target="_blank">American Locomotive Motor Car</a>), Providence Public Library'
 
@@ -194,7 +204,7 @@ A 30'-wide automobile test track surrounded the building from 1905 to 1918. This
 
 ##### Building 52, American Locomotive Works Building (1907)
 
-The second <span class="abbr">ALCO</span>  factory building is a single-story, 240' by 112' steel frame, pier and spandrel structure. The foundation is concrete. The cornice is wooden and the roof has two rows of sawtooth windows, now covered over. The function of this building during the <span class="abbr">ALCO</span> period is not known. In 1921 Revere Rubber utilized it as a compound room, calendar room, and tube department. The same pier detail described for Building 51 is found on this building. Much of the north elevation is sheathed in corrugated steel.
+The second <span class="abbr">ALCO</span> factory building is a single-story, 240' by 112' steel frame, pier and spandrel structure. The foundation is concrete. The cornice is wooden and the roof has two rows of sawtooth windows, now covered over. The function of this building during the <span class="abbr">ALCO</span> period is not known. In 1921 Revere Rubber utilized it as a compound room, calendar room, and tube department. The same pier detail described for Building 51 is found on this building. Much of the north elevation is sheathed in corrugated steel.
 
 A ca 1940 concrete and brick addition is found on the north elevation along with a shed of steel sheating and Texture 1-11. A late 20th-century concrete block loading dock extends from the east elevation. […]
 
