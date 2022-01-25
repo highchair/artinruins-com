@@ -2,6 +2,14 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: copley-chambers
+  date: '2022-01-25'
+  insta_link: 
+
+- post: 157-163-gano-st-pvd
+  date: '2022-01-20'
+  insta_link: https://www.instagram.com/p/CY7sk7dMTWM/
+
 - post: brook-st-garage
   date: '2022-01-05'
   insta_link: https://www.instagram.com/p/CYZ_KLqLm8J/
