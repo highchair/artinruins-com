@@ -2,20 +2,21 @@
 title: "Atlantic-Degras / Providence Dyeing, Bleaching, & Calendering Company"
 slug: atlantic-degras
 aka: 'United Way Rhode Island headquarters, Calender Mills'
-date-modified: 2021-08-18 12:00
+date-modified: 2022-01-23 12:00
+update: 'Added more photos from 2006 of the new construction and rehabilitation'
 
 built: '1895–1920'
 demolition:
-redeveloped:
-units:
+redeveloped: '2005-2007'
+units: '39' # 25 + 14
 decade: '1900-1909'
-date-added:
+date-added: '2006'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'SBER', 'Armory Revival Company' ]
 people: [ 'Hercules Whitney', 'Henry Hoppin', 'Christopher Olney' ]
-lists: [ 'National Register of Historic Places', 'Providence Dyeing, Bleaching, & Calendering Co', 'Providence Industrial Sites 1981' ]
+lists: [ 'Providence Dyeing, Bleaching, & Calendering Co', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Apartments for Rent', 'Ghost Signs' ]
 
 NRHP-ref-number: '04000809'
@@ -34,6 +35,7 @@ thumbnail: pdbc-jh-2005-08-01.jpg
 images:
   - url: atlantic-degras-ec-2003-11-09.jpg
     caption: 'Photo by Edward Connors for the National Register Nomination — Building 9, Atlantic-Degras Building (1895-1900, 1908-1920)'
+    alt: 'Detailed descriptions of the architecture of each building in this complex are in the History section of the article'
   - url: pbdc-ec-2003-11-17.jpg
     caption: 'Photo by Edward Connors for the National Register Nomination — Building 14 of the PBDC complex, Office/Storage Building (1908–1918)'
   - url: pbdc-ec-2003-11-18.jpg
@@ -53,6 +55,8 @@ images:
   - url: atlantic-degras-jh-2005-08-06.jpg
     caption: 'Building 9, Atlantic-Degras Building — Interior'
   - url: atlantic-degras-jh-2005-08-07.jpg
+    caption: 'Building 9, Atlantic-Degras Building — Northern side'
+  - url: atlantic-degras-jh-2006-06-01.jpg
     caption: 'Building 9, Atlantic-Degras Building — Northern side'
   - url: pdbc-jh-2005-08-01.jpg
     caption: 'Building 14 of the PBDC complex, Office/Storage Building (1908–1918), eastern façade (view south)'
@@ -80,10 +84,32 @@ images:
     caption: 'Detail of an entrance on northern façade (view south) of Building 14'
   - url: pdbc-jh-2005-08-13.jpg
     caption: 'Northern elevation of Building 14 (view southwest)'
+  - url: pdbc-jh-2006-02-01.jpg
+    caption: 'Building 14 of the PBDC complex, Office/Storage Building (1908–1918), eastern façade (view north)'
+  - url: pdbc-jh-2006-02-02.jpg
+    caption: 'Building 14 of the PBDC complex, southern façade (view northwest)'
+  - url: pdbc-jh-2006-02-03.jpg
+    caption: 'Building 14 of the PBDC complex, southern façade, new door detail'
+  - url: pdbc-jh-2006-02-04.jpg
+    caption: 'Building 15, Chemical Storage Building (1908-1918), eastern façade (view west). Modern cinderblock garage addition has been removed (see previous photo)'
+  - url: pdbc-jh-2006-02-05.jpg
+    caption: 'Western façade of Building 11, Filter House'
+  - url: pdbc-jh-2006-06-01.jpg
+    caption: 'Inside Building 11, which features four townhouse-style apartments'
+  - url: pdbc-jh-2006-06-02.jpg
+  - url: pdbc-jh-2006-06-03.jpg
+  - url: pdbc-jh-2006-06-04.jpg
+  - url: pdbc-jh-2006-06-05.jpg
+  - url: pdbc-jh-2006-09-01.jpg
+    caption: 'Inside one of the units in the front of Building 14'
+  - url: pdbc-jh-2006-09-02.jpg
+  - url: pdbc-jh-2006-09-03.jpg
+  - url: pdbc-jh-2006-09-04.jpg
+  - url: pdbc-jh-2006-09-05.jpg
 
 imagescredit: 'Contributions by Edward Connors from the National Register nomination form'
 
-mostrecentimage: 2005-08-01
+mostrecentimage: 2006-09-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
