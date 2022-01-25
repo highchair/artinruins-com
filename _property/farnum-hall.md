@@ -16,6 +16,9 @@ designers: [ 'Designer Unknown' ]
 lists: []
 tags: [ 'College Properties', 'RISD', 'Yellow brick' ]
 
+NRHP-ref-number: '70000019 (contributing)'
+added-to-NRHP: 'November 10, 1970'
+
 address: '14-20 Congdon Street, Providence RI'
 latitude: '41.8282163'
 longitude: '-71.4091191'

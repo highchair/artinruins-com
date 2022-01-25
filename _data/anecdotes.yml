@@ -12,6 +12,16 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: to-kalon-club
+  person: 'Donna Marie Kagan (Procter)'
+  date: '2012-07-24'
+  content: 'My father Robert Procter, lived and worked at the TK Club from 1962 till he passed away in June of 1976 (he actually had a heart attack while working). He was bar tender, waiter and house man for many of those years. I can’t help but feel nostalgic every time I pass it on 95. I have to admit, he never let me go past the front door or the kitchen door, I never knew what was inside.'
+
+- property: jamestown-bridge
+  person: 'Keith'
+  date: '2022-01-19'
+  content: 'Oh yeah! lived in Newport RI for a brief time back in 89-90. I would make trips back and forth from Maryland. I still remember crossing that bridge a few times on rainy windy nights, driving a Ford escort with balding tires, and I’d hit those grates on top and just knew I was gonna slide into an oncoming car and go off the side. It was scary! but still I was sad to see it was gone when I went back years later. It was like having to fight an old monster at night !'
+
 - property: wanskuck-mills
   person: 'Jeannine Aspirinio'
   date: '2022-01-15'

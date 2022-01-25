@@ -18,8 +18,8 @@ people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
 tags: [ 'Demolition by Progress' ]
 
-NRHP-ref-number: '70000019 (contributing and non)'
-added-to-NRHP: '1976'
+NRHP-ref-number: '70000019 (contributing & non)'
+added-to-NRHP: 'November 10, 1970'
 
 address: '250 Brook St, Providence RI'
 latitude: '41.823517'

@@ -19,7 +19,7 @@ lists: [ 'College Hill Historic District', 'National Register of Historic Places
 tags: [ 'House', 'Brown University' ]
 
 NRHP-ref-number: '70000019 (contributing)'
-added-to-NRHP: '1976'
+added-to-NRHP: 'November 10, 1970'
 
 address: '79 Brown St, Providence RI'
 latitude: '41.828202'

@@ -22,7 +22,7 @@ longitude: '-71.4005603'
 gmap: "https://www.google.com/maps/place/227+Angell+St,+Providence,+RI+02906/@41.8281639,-71.4005603,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44524e9ffccb9:0x2268c6e80555fcd!8m2!3d41.8281639!4d-71.3983716"
 
 meta: ""
-excerpt: "An new addition to a old home along historic Angell Street brings new character and larger space for those that want to practice their zen"
+excerpt: "A new addition to a old home (and the demolition of another) on historic Angell St. brings new character and more space to those that want to find their zen"
 
 thumbnail: vedanta-trac-2012-04-02.jpg
 
