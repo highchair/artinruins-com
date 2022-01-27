@@ -71,6 +71,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - feed.html
   - _property/_history.md
   - _property/_template.md
   - _drafts

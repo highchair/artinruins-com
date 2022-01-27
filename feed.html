@@ -1,0 +1,29 @@
+---
+layout: home
+type: page
+permalink: /feed/
+title: "Most Recent Changes"
+body-class: home
+---
+{%- assign properties = site.property | sort: "date-modified" | reverse -%}
+{%- assign props = 0 -%}
+{%- assign totalimg = 0 -%}
+{%- for item in properties -%}
+  {%- assign totalimg = totalimg | plus: item.images.size -%}
+{%- endfor -%}
+{%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
+
+<section class="home__updates u__gutter__p">
+  <h2 class="o__title--sm o__title__cta v-rhythm">Recently created Properties</h2>
+  <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
+{%- for item in properties -%}
+  {%- if item.title and item.slug and item.date-modified -%}
+    {%- assign props = props | plus:1 -%}
+    {%- if forloop.index <= 30 -%}
+      {% assign home = 'Yes' %}
+      {% include property-card.html %}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+  </ul>
+</section>
