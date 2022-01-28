@@ -161,6 +161,12 @@
     background-repeat: no-repeat;
     display: inline;
     transition: all 750ms ease;
+    
+    &--new {
+      font-size: 0.75em;
+      font-style: italic;
+      margin-right: 0.5rem;
+    }
   }
   
   &__link {

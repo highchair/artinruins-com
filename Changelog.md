@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2022-01-27
+
+Added
++ HTML and styles on the Property Card for the homepage have been added to highlight NEW properties versus properties that have been posted previously but recently updated. Also tweaked the language to switch between “Added” and “Updated” with the date stamp. 
+
 ## 2022-01-15
 
 Added

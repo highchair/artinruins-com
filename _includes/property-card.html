@@ -23,7 +23,7 @@
       <div class="taxonomy__colwrap">
         <div class="taxonomy__title-wrap">
         {% if home == "Yes" %}
-          <h3 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}/" class="taxonomy__link">{{ item.title }}</a></h3>
+          <h3 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}/" class="taxonomy__link">{% if item.update %}{% else %}<span class="taxonomy__card-title--new">NEW</span> {% endif %}{{ item.title }}</a></h3>
         {% else %}
           <h2 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}/" class="taxonomy__link">{{ item.title }}</a></h2>
         {% endif %}
@@ -34,7 +34,7 @@
             <span class="taxonomy__meta__group"><b>Parcel {{ item.parcel }}: </b></span>
             {%- endif -%}
           {%- endif -%}
-          {% if home == "Yes" %}<i>Updated {{ item.date-modified | date: "%e %B, %Y" }}:</i> {% endif %}
+          {% if home == "Yes" %}<i>{% if item.update %}Updated{% else %}Added{% endif %} {{ item.date-modified | date: "%e %B, %Y" }}:</i> {% endif %}
           {%- if page.type == 'tags' and page.category == "The Superlatives" -%}
             {{ item.superlative }}
           {%- elsif categories contains '#DemolitionAlert' and item.update -%}
