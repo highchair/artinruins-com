@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade: '1940-1949'
 date-added:
-categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding', '#NotInRuins' ]
+categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding', '#NotInRuins', '#UrbanDecay' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]

@@ -339,7 +339,7 @@ Redeveloped
 + McDevitt Building
 + Mile Squared
 + Park Cinema
-++ Peter Green House
++ Peter Green House
 + Rope Works
 
 RIP

@@ -12,6 +12,16 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: copley-chambers
+  person: 'Lisa Ann Esser'
+  date: '2022-01-26'
+  content: 'Both my mother (nickname Sugar) and my aunt (nickname Pudgy) worked there as waitresses and switch board operators for the hotel upstairs. Circa mid to late 50’s.'
+
+- property: copley-chambers
+  person: 'harrydante69'
+  date: '2022-01-26'
+  content: 'RIHPHC has given preliminary determination that is eligible for listing on National Register. New owner is applying for historic tax credit as part of rehab into housing.'
+
 - property: to-kalon-club
   person: 'Donna Marie Kagan (Procter)'
   date: '2012-07-24'
