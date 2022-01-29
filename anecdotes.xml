@@ -24,8 +24,8 @@
         <dc:creator>{{ quote.person | xml_escape }}</dc:creator>
         <description>{{ quote.content | xml_escape }}</description>
         <pubDate>{{ quote.date | date_to_rfc822 }}</pubDate>
-        <link>{{ site.url }}/property/{{ prop.first.slug }}</link>
-        <guid isPermaLink="true">{{ site.url }}/property/{{ prop.first.slug }}</guid>
+        <link>{{ site.prod_url }}/property/{{ prop.first.slug }}</link>
+        <guid isPermaLink="true">{{ site.prod_url }}/property/{{ prop.first.slug }}</guid>
       </item>
     {% endfor %}
   </channel>

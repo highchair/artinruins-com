@@ -16,10 +16,13 @@
 
 title: ArtInRuins
 description: Tracking demolition and redevelopment in the City of Providence, RI, and surrounding areas.
+github_username: jhogue
+github_repo: "https://github.com/highchair/artinruins-com"
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 port: 4090
 url: "https://artinruins.com" # the base hostname & protocol for your site, e.g. http://example.com
+prod_url: "https://artinruins.com"
 destination: _prod/
 
 # Build settings
