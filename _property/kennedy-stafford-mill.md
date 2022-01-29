@@ -35,13 +35,19 @@ thumbnail: kennedy-stafford-jh-2008-09-01.jpg
 images:
   - url: kennedy-stafford-habs-1977-01.jpg
     caption: 'Warren Jagger for the National Register nomination form, 1977'
-    alt: ''
+    alt: 'A three and a half story red brick mill with a tall monitor roof that adds a 4th floor of space. A five story stair tower with a flat roof fronts Roosevelt avenue. Three bays wide, it features doors in the middle with crane hoists and a window on either side. Windows are rectangular, six over six, and seem to have stone sills and lintels. '
   - url: kennedy-stafford-jh-2008-09-01.jpg
   - url: kennedy-stafford-jh-2008-09-02.jpg
   - url: kennedy-stafford-jh-2008-09-03.jpg
   - url: kennedy-stafford-jh-2008-09-04.jpg
   - url: kennedy-stafford-jh-2008-09-05.jpg
   - url: kennedy-stafford-jh-2008-09-06.jpg
+  - url: kennedy-stafford-jh-2008-09-07.jpg
+  - url: kennedy-stafford-jh-2008-09-08.jpg
+  - url: kennedy-stafford-jh-2008-09-09.jpg
+  - url: kennedy-stafford-jh-2008-09-10.jpg
+  - url: kennedy-stafford-jh-2008-09-11.jpg
+  - url: kennedy-stafford-jh-2008-09-12.jpg
   - url: 1890-loc-sanborn-01.jpg
     caption: 'When Roosevelt Avenue was simply called “Mill Street” — Sanborn Insurance Maps, 1890, Central Falls RI, Plate 8'
 
