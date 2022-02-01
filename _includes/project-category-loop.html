@@ -12,7 +12,7 @@
                   {% for related in page.related %}
                     {%- assign length = forloop.length -%}
                     {%- assign secondtolast = length | minus: 1 -%}
-                  <a href="{{ site.baseurl }}designer/{{ related | replace: '.', '' | slugify }}/">{{ related }}</a>{% unless forloop.last %}{% if length > 2 %}, {% endif %}{% endunless %}{% if forloop.index == secondtolast %} and {% endif %}
+                  <a href="/designer/{{ related | replace: '.', '' | slugify }}/">{{ related }}</a>{% unless forloop.last %}{% if length > 2 %}, {% endif %}{% endunless %}{% if forloop.index == secondtolast %} and {% endif %}
                   {% endfor %}
                 </p>
               {%- endif -%}

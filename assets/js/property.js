@@ -124,7 +124,7 @@ document.addEventListener("DOMContentLoaded", function() {
   if (surprise !== null && surprise !== '') {
     let a = document.createElement('a');
     a.innerHTML = ('Surprise Me <span aria-hidden="true">!</span>');
-    a.href = "{{ site.baseurl }}property/" + randomItem.slug;
+    a.href = "/property/" + randomItem.slug;
     surprise.appendChild(a);
   }
   

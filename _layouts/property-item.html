@@ -25,8 +25,8 @@ layout: default
               {%- assign next = property -%}
             {%- endif -%}
           {%- endfor -%}
-          {% if prev %}<a class="prev-next__prev" href="{{ site.baseurl }}property/{{ prev.slug }}/" title="{{ prev.title }}"><span aria-hidden="true">&lt;</span><span class="prev-next__text">Previous</span><span class="u__sr-only"> property</span></a>{% endif %}
-          {% if next %}<a class="prev-next__next" href="{{ site.baseurl }}property/{{ next.slug }}/" title="{{ next.title }}"><span class="prev-next__text">Next</span><span class="u__sr-only"> property</span><span aria-hidden="true">&gt;</span></a>{% endif %}
+          {% if prev %}<a class="prev-next__prev" href="/property/{{ prev.slug }}/" title="{{ prev.title }}"><span aria-hidden="true">&lt;</span><span class="prev-next__text">Previous</span><span class="u__sr-only"> property</span></a>{% endif %}
+          {% if next %}<a class="prev-next__next" href="/property/{{ next.slug }}/" title="{{ next.title }}"><span class="prev-next__text">Next</span><span class="u__sr-only"> property</span><span aria-hidden="true">&gt;</span></a>{% endif %}
           <span id="js-random"></span>
         </nav>
 
@@ -108,13 +108,13 @@ layout: default
                 {%- if neighborhoods.size > 0 -%}
                   <strong>{%- if neighborhoods.size >= 2 -%}Neighborhoods{%- else -%}Neighborhood{%- endif -%}: </strong> 
                   {%- for neighborhood in neighborhoods -%}
-                  <a href="{{ site.baseurl }}neighborhood/{{ neighborhood | replace: '.', '' | slugify }}/">{{ neighborhood }}</a>{%- unless forloop.last -%}, {%- endunless -%}<br>
+                  <a href="/neighborhood/{{ neighborhood | replace: '.', '' | slugify }}/">{{ neighborhood }}</a>{%- unless forloop.last -%}, {%- endunless -%}<br>
                   {%- endfor -%}
                 {%- endif -%}
                 {%- if page.town.size > 0 -%}
                   <strong>{%- if page.town.size >= 2 -%}Towns{%- else -%}Town{%- endif -%}: </strong> 
                   {%- for town in page.town -%}
-                  <a href="{{ site.baseurl }}town/{{ town | replace: '.', '' | slugify }}/">{{ town }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+                  <a href="/town/{{ town | replace: '.', '' | slugify }}/">{{ town }}</a>{%- unless forloop.last -%}, {%- endunless -%}
                   {%- endfor -%}
                 {%- endif -%}
                 </li>
@@ -126,10 +126,10 @@ layout: default
                   <strong>Opened: </strong> {{ page.opened }}<br>
                 {%- endif -%}
                 {%- if page.decade.size > 0 -%}
-                  <strong>Decade Built: </strong> <a href="{{ site.baseurl }}decade/{{ page.decade | replace: '.', '' | slugify }}/">{{ page.decade }}</a><br>
+                  <strong>Decade Built: </strong> <a href="/decade/{{ page.decade | replace: '.', '' | slugify }}/">{{ page.decade }}</a><br>
                 {%- endif -%}
                 {%- if page.demolition.size > 0 -%}
-                  <strong>Demolition: </strong> {%- if page.demolition.size <= 8 -%}<a href="{{ site.baseurl }}demolition/{{ page.demolition | replace: '.', '' | slugify }}/">{{ page.demolition }}</a>{%- else -%}{{ page.demolition }}{%- endif -%}<br>
+                  <strong>Demolition: </strong> {%- if page.demolition.size <= 8 -%}<a href="/demolition/{{ page.demolition | replace: '.', '' | slugify }}/">{{ page.demolition }}</a>{%- else -%}{{ page.demolition }}{%- endif -%}<br>
                 {%- endif -%}
                 {%- if page.closed.size > 0 -%}
                   <strong>Closed: </strong> {{ page.closed }}<br>
@@ -138,7 +138,7 @@ layout: default
                   <strong>Redeveloped: </strong> {{ page.redeveloped }}<br>
                 {%- endif -%}
                 {%- if page.date-added.size > 0 -%}
-                  <strong>Date Added: </strong> <a href="{{ site.baseurl }}date-added/{{ page.date-added | replace: '.', '' | slugify }}/">{{ page.date-added }}</a>
+                  <strong>Date Added: </strong> <a href="/date-added/{{ page.date-added | replace: '.', '' | slugify }}/">{{ page.date-added }}</a>
                 {%- endif -%}
                 </li>
                 {%- assign designers = page.designers -%}
@@ -148,7 +148,7 @@ layout: default
                   {%- for designer in designers -%}
                     {%- assign length = forloop.length -%}
                     {%- assign secondtolast = length | minus: 1 -%}
-                  <a href="{{ site.baseurl }}designer/{{ designer | replace: '.', '' | slugify }}/">{{ designer }}</a>{% unless forloop.last %}{% if length > 2 %},{% endif %}{% endunless %}{% if forloop.index == secondtolast %} and{% endif %}
+                  <a href="/designer/{{ designer | replace: '.', '' | slugify }}/">{{ designer }}</a>{% unless forloop.last %}{% if length > 2 %},{% endif %}{% endunless %}{% if forloop.index == secondtolast %} and{% endif %}
                   {%- endfor -%}
                 </li>
                 {%- endif -%}
@@ -159,7 +159,7 @@ layout: default
                   {%- if categories.size > 0 -%}
                   <p><strong>{%- if categories.size >= 2 -%}Categories{%- else -%}Category{%- endif -%}: </strong> 
                     {%- for category in categories -%}
-                    <a href="{{ site.baseurl }}category/{{ category | replace: '.', '' | slugify }}/">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+                    <a href="/category/{{ category | replace: '.', '' | slugify }}/">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
                     {%- endfor -%}
                   </p>
                 </li>
@@ -168,7 +168,7 @@ layout: default
                 <li class="item__cats__item item__cats__tags{% if tags.size >= 3 %} item__cats__wide{% elsif page.superlative.size > 0 %} item__cats__wide{% endif %}">
                   <p><strong>{%- if tags.size > 1 -%}Tags{%- else -%}Tag{%- endif -%}: </strong> 
                     {%- for tag in tags -%}
-                    <a href="{{ site.baseurl }}tag/{{ tag | replace: '.', '' | slugify }}/">{{ tag }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+                    <a href="/tag/{{ tag | replace: '.', '' | slugify }}/">{{ tag }}</a>{%- unless forloop.last -%}, {%- endunless -%}
                     {%- endfor -%}
                     {%- if page.superlative.size > 0 -%}
                     <br><strong>Superlative: </strong> {{ page.superlative }}
@@ -181,7 +181,7 @@ layout: default
                   {%- for list in lists -%}
                     {%- assign length = forloop.length -%}
                     {%- assign secondtolast = length | minus: 1 -%}
-                  <a href="{{ site.baseurl }}list/{{ list | replace: '.', '' | slugify }}/">{{ list }}</a>{% unless forloop.last %}{% if length > 2 %},{% endif %}{% endunless %}{% if forloop.index == secondtolast %} and{% endif %}
+                  <a href="/list/{{ list | replace: '.', '' | slugify }}/">{{ list }}</a>{% unless forloop.last %}{% if length > 2 %},{% endif %}{% endunless %}{% if forloop.index == secondtolast %} and{% endif %}
                   {%- endfor -%}
                 </li>
                 {%- endif -%}

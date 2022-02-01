@@ -23,9 +23,9 @@
       <div class="taxonomy__colwrap">
         <div class="taxonomy__title-wrap">
         {% if home == "Yes" %}
-          <h3 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}/" class="taxonomy__link">{% if item.update %}{% else %}<span class="taxonomy__card-title--new">NEW</span> {% endif %}{{ item.title }}</a></h3>
+          <h3 class="h4 taxonomy__card-title"><a href="/property/{{ item.slug }}/" class="taxonomy__link">{% if item.update %}{% else %}<span class="taxonomy__card-title--new">NEW</span> {% endif %}{{ item.title }}</a></h3>
         {% else %}
-          <h2 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}/" class="taxonomy__link">{{ item.title }}</a></h2>
+          <h2 class="h4 taxonomy__card-title"><a href="/property/{{ item.slug }}/" class="taxonomy__link">{{ item.title }}</a></h2>
         {% endif %}
         </div>
         <p class="taxonomy__excerpt">
@@ -48,18 +48,18 @@
         <p class="taxonomy__meta">
         {%- if categories.size > 0 -%}
           {%- for category in categories -%}
-          <a href="{{ site.baseurl }}category/{{ category | replace: '.', '' | slugify }}/" title="More properties from this category">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+          <a href="/category/{{ category | replace: '.', '' | slugify }}/" title="More properties from this category">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
           {%- endfor -%}
         {%- endif -%}
       {%- if page.type != 'neighborhoods' -%}
           <span class="taxonomy__sep"> | </span>
         {%- if item.neighborhoods.size > 0 -%}
           {%- for neighborhood in item.neighborhoods -%}
-          <a href="{{ site.baseurl }}neighborhood/{{ neighborhood | replace: '.', '' | slugify }}/" title="More properties from this neighborhood">{{ neighborhood }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+          <a href="/neighborhood/{{ neighborhood | replace: '.', '' | slugify }}/" title="More properties from this neighborhood">{{ neighborhood }}</a>{%- unless forloop.last -%}, {%- endunless -%}
           {%- endfor -%}
         {%- else if -%}
           {%- if item.town.size > 0 -%}
-          <a href="{{ site.baseurl }}town/{{ item.town | replace: '.', '' | slugify }}/" title="More properties from this town">{{ item.town }}</a>
+          <a href="/town/{{ item.town | replace: '.', '' | slugify }}/" title="More properties from this town">{{ item.town }}</a>
           {%- endif -%}
         {%- endif -%}
       {%- endif -%}
@@ -82,7 +82,7 @@
           <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Redeveloped:</b> {{ item.redeveloped }}</span>
         {%- endif -%}
         {%- if item.decade.size > 0 -%}
-          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Decade:</b> <a href="{{ site.baseurl }}decade/{{ item.decade | replace: '.', '' | slugify }}/" title="More properties from this decade">{{ item.decade }}</a></span>
+          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Decade:</b> <a href="/decade/{{ item.decade | replace: '.', '' | slugify }}/" title="More properties from this decade">{{ item.decade }}</a></span>
         {%- endif -%}
       {%- if page.type == 'lists' -%}
         {%- if item.added-to-NRHP.size > 0 -%}
