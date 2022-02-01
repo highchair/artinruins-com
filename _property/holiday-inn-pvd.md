@@ -2,7 +2,8 @@
 title: "Holiday Inn"
 slug: holiday-inn-pvd
 aka: 'Hilton Providence'
-date-modified: 2021-08-14 12:00
+date-modified: 2022-01-29 14:00
+update: 'Added more photos to the timeline from Christopher Martin'
 
 built: '1966–1971'
 demolition:
@@ -13,7 +14,7 @@ date-added: '2006'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: []
+designers: [] #Allen O’Hara
 people: []
 lists: []
 tags: [ 'Former/Current Hotels' ]
@@ -29,7 +30,7 @@ gmap: "https://www.google.com/maps/place/21+Atwells+Ave,+Providence,+RI+02903/@4
 meta: ""
 excerpt: "A modest hotel gets a facelift and an upgrade during the city’s development boom time"
 
-thumbnail: hilton-jh-2007-02-01.jpg
+thumbnail: hilton-cm-2007-01-01.jpg
 
 images:
   - url: holiday-inn-1960s-postcard.jpg
@@ -38,20 +39,28 @@ images:
   - url: hilton-jh-2006-01-02.jpg
   - url: hilton-jh-2006-02-01.jpg
   - url: hilton-jh-2006-02-02.jpg
+  - url: hilton-cm-2006-03-01.jpg
+    caption: 'Photo by Christopher Martin'
   - url: hilton-jh-2006-03-01.jpg
   - url: hilton-jh-2006-03-02.jpg
   - url: hilton-jh-2006-04-01.jpg
   - url: hilton-jh-2006-04-02.jpg
   - url: hilton-jh-2006-04-03.jpg
   - url: hilton-jh-2006-04-04.jpg
-  - url: hilton-jh-2006-08-01.jpg
+  #- url: hilton-jh-2006-08-01.jpg
+  - url: hilton-cm-2006-08-01.jpg
+    caption: 'Photo by Christopher Martin'
+  - url: hilton-cm-2007-01-01.jpg
+    caption: 'Photo by Christopher Martin'
   - url: hilton-jh-2007-02-01.jpg
   - url: hilton-jh-2007-06-01.jpg
   - url: hilton-jh-2007-06-02.jpg
+  - url: hilton-cm-2015-06-01.jpg
+    caption: 'Photo by Christopher Martin'
 
-imagescredit:
+imagescredit: 'Contributions from Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>'
 
-mostrecentimage: 2007-06-01
+mostrecentimage: 2015-06-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -60,31 +69,34 @@ mostrecentimage: 2007-06-01
 
 ### Redevelopment
 
-We appreciate the original Holiday Inn more than we did when we wrote the original write up about 15 years ago. The simple roadside architecture was bland, but as [Wm. MacKenzie Woodward states in the historic write up](#history), that was the point — a building as a recognizable logo/brand of its own, independent from the city in which it was placed. 
+We appreciate the original **Holiday Inn** more than we did when we wrote the original write up about 15 years ago. The simple roadside architecture was bland, but as [Wm. MacKenzie Woodward states in the historic write up](#history), that was the point — a building as a recognizable logo/brand of its own, independent from the city in which it was placed. 
 
-As 70s architecture goes, it was simple and nice compared to the nearby Civic Center when it was first built, with its brutalist-inspired jutting elbows and walkway structures. More importantly, the Holiday Inn was the first new hotel in the city since the Biltmore in 1922. The company took a risk on Providence and it was one that paid off. 
+As 70s architecture goes, it was simple and nice compared to the nearby [Civic Center]({% link _property/providence-civic-center.md %}) when it was first built, with its brutalist-inspired jutting elbows and walkway structures. More importantly, the Holiday Inn was the first new hotel in the city since the Biltmore in 1922. The company took a risk on Providence and it was one that paid off. 
 
-The hotel was not failing as we originally thought. Instead, the hotel market was able to bear a higher price and demanded more luxurious accommodations. An upgrade to a nationally respected brand like Hilton made sense, and after this project, more new high-end hotel construction would take place (though not for another 10 years). 
+The hotel was not failing so much as the hotel market was able to bear a higher price and demanded more luxurious accommodations. An upgrade to a nationally respected brand like Hilton made sense, and after this project, more new high-end [hotel construction]({% link tag/former-current-hotels.html %}) would take place (though not for another 10 years). 
 
 The facelift seemed like something that would look good temporarily but start to show age very quickly. Here it is 15 years later, though, and the building still gleams white. The material used (we think it was [Dryvit](//www.google.com/search?q=dry%2Bvit){:target="_blank"}) so far has not been the magnet for road grime that we thought. While the upgrade did shrink the windows, we understand that they are more efficient than the older ones. The eastern side (facing LaSalle Square) was previously blank, but in the upgrade process received windows and a glass atrium housing two restaurants as well as a ballroom.  
 
-The upgrade was part of a long-term Procaccianti Group plan dubbed “[The Power Block]({% link _property/power-block.md %}).” A new condo tower was to be added west of the Hilton, above what is now a parking garage, along with a new hotel/office/commercial property of some sort across the street on the site of the former [Gulf gas station]({% link _property/gulf-station-circular.md %}). A skybridge would have connected the two, so that one could have walked from the new hotel through the Hilton, through the Civic Center, over to the Convention Center, and into the Providence Place Mall without ever stepping foot outside. That plan and the new tower have not come to fruition. 
+The upgrade was part of a long-term Procaccianti Group plan dubbed “[The Power Block]({% link _property/power-block.md %}).” A new condo tower was to be added west of the Hilton, above what is now a parking garage, along with a new hotel/office/commercial property of some sort across the street on the site of the former [Gulf gas station]({% link _property/gulf-station-circular.md %}). A skybridge would have connected the two, so that one could have walked from the new hotel through the Hilton, through the Civic Center, over to the Convention Center, and into the Providence Place Mall without ever stepping foot outside. That plan and the new tower have not come to fruition, but the walkways have come close — you are able to walk from the Civic Center through the Convention Center, Westin, and into the Mall. 
 
 
 ### Current Events
 
-The [Hilton Providence](//www.hilton.com/en/hotels/pvdprhf-hilton-providence/){:target="_blank"} is open as a hotel and conference space, located steps away from the Dunkin’ Center and RI Convention Center.
+The [Hilton Providence](//www.hilton.com/en/hotels/pvdprhf-hilton-providence/){:target="_blank"} is open as a hotel and conference space, located steps away from the [Dunkin’ Center]({% link _property/providence-civic-center.md %}) and RI Convention Center.
 
 
 ### History
 
 The exact construction date is unknown. On a 1962 aerial photo, the highway is under construction and the beginning of Broadway into LaSalle square runs through this parcel. Portions of the highway through Providence would not be complete until 1965. By the 1972 aerial photo, the hotel stands and the Civic Center next door is under construction. That puts construction between approximately 1966 and 1971.
 
+***
+
 _From the RIHPHC’s 1979 Downtown Survey, by Wm. McKenzie Woodward_
 
 **Allen O’Hara, Incorporated, architect.** 13-story, reinforced-concrete structure with pier-and-spandrel articulation of northeast and southwest elevations, blank northwest and southeast elevations, and a porte-cochere entrance (literally, a porch large enough for a carriage to pass through. Nowadays, this means a covered passenger drop-off area). The first hotel erected in Providence after the Biltmore opening in 1922, the Holiday Inn provided modern accommodations in contrast to the increasingly shabby quarters of the Biltmore in the early 1970s. With the decline and closing of the Biltmore and other Downtown hotels, the Holiday Inn, with the Marriott Inn at Randall Square, monopolized the market for tourists, traveling salesmen, and convention-goers during the 1970s.
 
 Sited near the exit ramp of Route I-95 and eminently visible to high-speed automobiles traveling the highway, the 275 room Holiday Inn, with its nationally known neon logo atop this monolithic structure, beckons the weary motorist. It typifies the bland statements made by architectural firms designing for national franchises which depend more on recognizable conformity than on suitability of location or local building traditions.
+
 
 ### In the News
 
@@ -107,6 +119,7 @@ The project is expected to be completed by Fall, 2006.
 
 _Captured August 16, 2021 from https://www.hotel-online.com/News/PR2005_3rd/Aug05_HIProvidence.html_
 
+***
 
 #### More Hotels for a Comeback City
 
