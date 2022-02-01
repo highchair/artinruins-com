@@ -9,10 +9,10 @@ $colors: (
   gray-100: #dae5e5,  // h180 s5  b90
   gray-200: #ccdbdb,  // h180 s7  b86
   gray-400: #8a9999,  // h180 s10 b60
-  gray-500: #778585,  // h180 s10 b52
-  gray-600: #5c6666,  // h180 s10 b40
-  gray-700: #4c5454,  // h180 s10 b32
-  gray-800: #394040,  // h180 s10 b25
+  gray-500: #778585,  // h180 s10 b52, ccr 3.83 with white
+  gray-600: #5c6666,  // h180 s10 b40, ccr 5.92 with white
+  gray-700: #4c5454,  // h180 s10 b32, ccr 7.77 with white
+  gray-800: #394040,  // h180 s10 b25, ccr 10.6 with white
   gray-900: #292e2e,  // h180 s10 b18
   'brand-teal': #007070,       // h180 s100 b50.2
   'brand-teal-dark': #075555,  // h180 s92 b33
@@ -31,7 +31,7 @@ $colors: (
 }
 
 // Generic variables
-$color__body-fg: palette(gray-700);
+$color__body-fg: palette(gray-800);
 // Make the body bg the same as the footer bg.
 // This makes the page seamless when the body is shorter than the viewport height.
 $color__body-bg: palette('brand-dark-brown');

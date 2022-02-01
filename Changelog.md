@@ -3,6 +3,12 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2022-01-29
+
+Changed
++ Changed the body copy to use Alda light (300) so that links could remain Alda regular (400) and stand out a bit more.
++ Edited some URLs set in the head and footer to be universal, and not change from Stage to Production, so that we can possibly leverage incremental builds more efficiently.
+
 ## 2022-01-27
 
 Added

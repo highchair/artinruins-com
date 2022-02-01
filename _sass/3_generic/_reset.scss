@@ -33,11 +33,12 @@ body {
   text-rendering: optimizeSpeed;
   
   // Since we replaced BS4 Reboot, need to declare some things:
+  background-color: $color__body-bg;
+  color: $color__body-fg;
   font-family: $font-stack__serif;
   font-size: 100%;
-  color: $color__body-fg;
+  font-weight: $font-custom__serif__lt-weight;
   text-align: left;
-  background-color: $color__body-bg;
   
   @include breakpoint-up(small) {
     text-rendering: optimizeLegibility;
@@ -65,10 +66,11 @@ img {
 
 // Generic Anchor style
 a {
+  background-color: transparent; // Remove the gray background on active links in IE 10.
   color: $color__link;
+  font-weight: $font-custom__serif__rg-weight;
   text-decoration: underline;
   text-decoration-color: $color__link__underline;
-  background-color: transparent; // Remove the gray background on active links in IE 10.
   text-decoration-skip-ink: auto;
   transition: $transition;
   -webkit-text-decoration-skip: objects; // Remove gaps in links underline in iOS 8+ and Safari 8+.

@@ -96,29 +96,25 @@
       .taxonomy__meta {
         display: none;
       }
-      
+
       // Force a single vertical column
       li {
         display: block !important;
       }
-      
+
       .taxonomy__img-wrap,
       .taxonomy__colwrap {
         flex: 0 1 100%;
         width: 100%;
       }
-      
+
       .taxonomy__img-wrap {
         margin: 0 0 0.5rem;
         padding-bottom: 56.25%;
         max-width: 480px;
         min-height: unset;
-        
-        .rwd-img {
-          max-height: 100% !important;
-        }
       }
-      
+  
       // When there are only a specific number of them
       &--1,
       &--2 {

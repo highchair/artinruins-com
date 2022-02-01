@@ -68,7 +68,6 @@ h6,
 body {
   // Body is a catch all for other block level elements
   font-size: calc(var(--fs__min) * 1rem);
-  font-weight: $font-custom__serif__rg-weight;
 
   @include breakpoint-up('small') {
     font-size: calc(
@@ -93,6 +92,8 @@ h5,
 .h5,
 h6,
 .h6 {
+  color: palette(gray-600);
+  font-weight: $font-custom__serif__rg-weight;
   line-height: $line-height__tight;
 }
 

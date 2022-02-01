@@ -18,6 +18,11 @@
     max-width: 92ch;
   }
   
+  abbr[title],
+  .abbr {
+    color: palette(gray-600);
+  }
+  
   // Add visited styles to anchors in content only, not in navigation
   // Support for changes via CSS with the visited pseudo class:
     // color, background-color, border-color, border-bottom-color, border-left-color, border-right-color, border-top-color, column-rule-color, outline-color, text-decoration-color, and text-emphasis-color.
