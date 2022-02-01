@@ -128,7 +128,7 @@ Architects William Walker and Sons designed most of the armory buildings and Mas
 
 The architectural style is Medieval Gothic, with castellated fortress appearance, slate roof, yellow brick, copper flashing, and granite carvings. The general layout consists of two office towers with a four-story open atrium in each 6-story tower, flanking a large drill hall with 90 foot ceilings. This central Drill hall covers 8,775 sq. ft (about a sixth of a football field). The towers are each 35,100 sq. ft., with a total sq. footage including basement for the building at 165,300 sq. ft.
 
-Before the Providence Civic Center was built downtown, the Armory building functioned as a public space with track meets, dog shows, circuses and gubernatorial inaugural balls. Its distinctive form can be seen from all over Providence and the outlying areas.
+Before the [Providence Civic Center]({% link _property/providence-civic-center.md %}) was built downtown, the Armory building functioned as a public space with track meets, dog shows, circuses and gubernatorial inaugural balls. Its distinctive form can be seen from all over Providence and the outlying areas.
 
 More info on RI Armories: [www.rhodeislandarmories.org](//www.rhodeislandarmories.org){:target="_blank"}
 

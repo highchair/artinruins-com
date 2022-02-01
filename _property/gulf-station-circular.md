@@ -90,7 +90,7 @@ The Procaccianti Group has a clear vision for the $175-million to $200-million d
 
 But development of the lot depends on The Procaccianti Group’s transformation of the aging [Holiday Inn]({% link _property/holiday-inn-pvd.md %}) into an upscale Hilton, Paolino said. The Cranston hotel-development company has moved forward on planning the redesign, but could put the project on hold if it is not authorized to buy the Westin Providence for $95.5 million.
 
-“If [Procaccianti] does not do the Hilton, it’s going to stay the way it is,” said Paolino, referring to the parking lot. “I think a lot of other things have to happen, too. I’m concerned about what’s going to happen with the civic center.”
+“If [Procaccianti] does not do the Hilton, it’s going to stay the way it is,” said Paolino, referring to the parking lot. “I think a lot of other things have to happen, too. I’m concerned about what’s going to happen with the [civic center]({% link _property/providence-civic-center.md %}).”
 
 Despite the uncertainty over the Westin, The Procaccianti Group has had a lot of “preliminary discussions” with the city and has applied for two easements to move forward with renovating the Holiday Inn, said Thomas E. Deller, city director of planning and development. The company needs clearance to build out the hotel’s ballroom over the street that separates the hotel from the Dunkin Donuts Center, said Deller. It also needs clearance from the city to rip up a street to put in a larger base for the Hilton’s new parking garage and condo tower, said Deller.
 

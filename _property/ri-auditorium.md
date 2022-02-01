@@ -46,7 +46,7 @@ external:
 
 ### Reason for Demolition
 
-The old arena was an East Side home to ice hockey, basketball, boxing, and occasional rock concerts. It opened in 1926 and lasted about 50 years before it was replaced by a new civic center in downtown. It hung around for about 10 years, hosting small events and concerts (as “The Main Event”) and even becoming a disco (called “11-11”)/roller skating venue, and then slowly decaying until 1989 when it was torn down. 
+The old arena was an East Side home to ice hockey, basketball, boxing, and occasional rock concerts. It opened in 1926 and lasted about 50 years before it was replaced by a new [Civic Center]({% link _property/providence-civic-center.md %}) in downtown. It hung around for about 10 years, hosting small events and concerts (as “The Main Event”) and even becoming a disco (called “11-11”)/roller skating venue, and then slowly decaying until 1989 when it was torn down. 
 
 
 ### Current Events
@@ -60,7 +60,7 @@ The land that the arena occupied is owned by Miriam hospital and used for parkin
 
 _From [Wikipedia](//en.wikipedia.org/wiki/Rhode_Island_Auditorium){:target="_blank"}_
 
-Rhode Island Auditorium was an indoor arena in Providence, at 1111 North Main Street. The arena held 5,300 people and opened in 1926. It hosted the NBA’s Providence Steamrollers basketball team from 1946 until 1949, and the Providence Reds ice hockey team until the Providence Civic Center (now the Dunkin’ Center) was opened in 1972. It languished for over a decade until it was razed in 1989. 
+Rhode Island Auditorium was an indoor arena in Providence, at 1111 North Main Street. The arena held 5,300 people and opened in 1926. It hosted the NBA’s Providence Steamrollers basketball team from 1946 until 1949, and the Providence Reds ice hockey team until the [Providence Civic Center]({% link _property/providence-civic-center.md %}) (now the Dunkin’ Center) was opened in 1972. It languished for over a decade until it was razed in 1989. 
 
 #### Overview
 

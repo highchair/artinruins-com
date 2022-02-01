@@ -9,8 +9,8 @@ demolition:
 redeveloped: 
 decade: '1900-1909'
 date-added: '2005'
-categories: [ '#ArchiveRI' ]
-neighborhoods: []
+categories: [ '#ThenAndNow' ]
+neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: []
 lists: []
@@ -93,7 +93,7 @@ Here is our list of significant landmarks, from left to right:
 1. **Garrahy Courthouse** (Family Court), on Dorrance St, completed 1981. 
 1. **[Bonanza Bus Station]({% link _property/bonanza-pvd.md %})**, built 1963 and demolished in the mid-to-late 90s to make way for the RI Convention Center and Westin Hotel.
 1. _(not present)_ **15 La Salle Square**, Blue Cross Building, now leased by Hasbro, built 1987
-1. _(unlabelled)_ **Providence Civic Center**, opened November 1972. Source: [Wikipedia](//en.wikipedia.org/wiki/Dunkin%27_Donuts_Center){:target="_blank"}
+1. _(unlabelled)_ **[Providence Civic Center]({% link _property/providence-civic-center.md %})**, opened November 1972. Source: [Wikipedia](//en.wikipedia.org/wiki/Dunkin%27_Donuts_Center){:target="_blank"}
 1. _(unlabeled, not present)_ The **Route 6/10 connector** to I-95 was built in 1988. Source: [Wikipedia](//en.wikipedia.org/wiki/Rhode_Island_Route_10){:target="_blank"}
 
 

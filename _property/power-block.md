@@ -158,7 +158,7 @@ The company owns the Holiday Inn and wants to turn it into a [high-end Hilton]({
 
 The Procaccianti Group would also completely transform the side of the hotel abutting the Dunkin' Donuts Center, with the idea that at some point the two could be connected.
 
-“It will be much more attractive for someone to rehabilitate the Civic Center,” said Procaccianti. “It’s going to be jumping.”
+“It will be much more attractive for someone to rehabilitate the [Civic Center]({% link _property/providence-civic-center.md %}),” said Procaccianti. “It’s going to be jumping.”
 
 On the opposite end of the block, the hotel tower next to the Westin is **another $150-million to $200-million project that is part of Procaccianti’s vision**. It would including parking, shops and luxury condos selling for as much as $1 million.
 
