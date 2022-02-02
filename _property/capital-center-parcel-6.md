@@ -25,11 +25,11 @@ gmap: "https://www.google.com/maps/place/The+Cove-+JWU/@41.8292265,-71.4124586,1
 meta: ""
 excerpt: "A seven story low rise condominium complex along the Blackstone River with 255 units — the first phase of a larger residential center"
 
-thumbnail: parcel-6-jh-2008-05-05.jpg
+thumbnail: parcel-6-jh-2014-06-01.jpg
 
 images:
   - url: parcel-6-jh-2002-06-01.jpg
-    alt: 'A low and wide condominium complex clad in new panel materials with many notches and bump-outs to break up its large mass. Red brick veneer, tan stucco and alumninum panels comprise the bulk of the facades.'
+    alt: 'A five and a half story, low and wide condominium complex clad in new panel materials with many notches and bump-outs to break up its large mass. Red brick veneer, tan stucco and alumninum panels comprise the bulk of the facades.'
   - url: parcel-6-jh-2005-07-01.jpg
   - url: parcel-6-jh-2005-07-02.jpg
   - url: parcel-6-jh-2005-07-03.jpg
@@ -48,6 +48,7 @@ images:
   - url: parcel-6-jh-2008-05-05.jpg
   - url: parcel-6-jh-2008-10-01.jpg
   - url: parcel-6-jh-2008-10-02.jpg
+  - url: parcel-6-jh-2014-06-01.jpg
   - url: parcel-6-jh-2020-10-01.jpg
 
 mostrecentimage: 2020-10-01

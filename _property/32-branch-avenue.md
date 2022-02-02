@@ -62,9 +62,11 @@ The building is the current home of [Nicki’s Liquors](//nikkisliquors.com){:ta
 
 ### History
 
-A [Sanborn Insurance Map from 1889](//repository.library.brown.edu/studio/item/bdr:213551/){:target="_blank"} show the “Frank F. Carpenter Lumber Yard” in this location. In [a 1899 Sanborn Map](//repository.library.brown.edu/studio/item/bdr:213318/){:target="_blank"}, another lumber yard is in this location, named “George D. Lansing & Son.”
+A [Sanborn Insurance Map from 1889](//repository.library.brown.edu/studio/item/bdr:213551/){:target="_blank"} show the “Frank F. Carpenter Lumber Yard” in this location. In [a 1899 Sanborn Map](//repository.library.brown.edu/studio/item/bdr:213318/){:target="_blank"}, another lumber yard is in this location, named “George D. Lansing & Son.” [A 1921 Sanborn Map](//www.loc.gov/resource/g3774pm.g3774pm_g08099192102/?sp=84&r=0.378,0.461,0.654,0.441,0){:target="_blank"} does not show these buildings in place yet — it still shows Lansing lumber yards. 
 
 A [G.M. Hopkins Insurance map from 1937](//www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/){:target="_blank"} shows this building in place and labelled as “Washington Laundry." Next to this, sharing a party wall, in the yellow brick building now known as National Furniture, is labelled “Autocar & Studebaker Trucks.”
+
+An updated [1920-1921 Sanborn map in 1951](//www.loc.gov/resource/g3774pm.g3774pm_g08099195102/?sp=84&r=0.526,0.56,0.585,0.395,0){:target="_blank"} shows a laundry here still with an unnamed car garage to the north. The 1956 update of the same map is unchanged. 
 
 _No official history so far._ 
 
