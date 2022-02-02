@@ -95,7 +95,7 @@ The erosion of the residential College Hill Historic District between Brown and 
 
 ### Current Events
 
-Since demolition, a new private student residence was built called 257 Thayer. In the next block to the north, [seven more late 19th-century homes were demolished]({% link _property/brook-meeting-cushing.md %}) for a parking lot. 
+Since demolition, a new private student residence was built called [257 Thayer]({% link _property/257-thayer-st.md %}). In the next block to the north, [seven more late 19th-century homes were demolished]({% link _property/brook-meeting-cushing.md %}) for a parking lot. 
 
 
 ### History
