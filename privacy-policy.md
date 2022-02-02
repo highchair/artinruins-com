@@ -39,6 +39,10 @@ ArtInRuins does not sell, rent, or lease its visitor lists to third parties.
 
 ArtInRuins may disclose your personal information, without notice, if required by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal processes; (b) act under exigent circumstances to protect the personal safety of users of ArtInRuins or the public. 
 
+### The Use of Adobe Fonts
+
+ArtInRuins leverages the Adobe fonts service ([fonts.adobe.com](//fonts.adobe.com){:target="_blank"}) to host the beautiful fonts that we use. The Adobe web service **does not** collect user-identifiable information like IP address or location. More information about what information Adobe collects and stores can be found at [adobe.com/privacy/policies/adobe-fonts](//www.adobe.com/privacy/policies/adobe-fonts.html){:target="_blank"}.
+
 ## Tracking user behavior
 
 ArtInRuins may keep track of the websites and pages our users visit within ArtInRuins.com in order to determine what properties are the most popular. This data IS NOT used for advertising content or services to our visitors. 
@@ -91,4 +95,4 @@ ArtInRuins welcomes your questions or comments regarding this statement of priva
 
 ***
 
-Effective as of August 21, 2020
+Effective as of August 21, 2020. Updated January 31, 2022.

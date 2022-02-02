@@ -72,6 +72,20 @@ J. Hogue continues to maintain, design, and take photos for the site. Over the y
 
 We are thankful to the individuals that have purchased t-shirts, posters, and made monetary donations to the project. You have our gratitude and we will always try to acknowledge your generosity. We are also thankful to the businesses that have hired [Highchair designhaus](//highchairdesign.com) over the years for design and web development projects. In your own ways, you have been helping to sustain this project.
 
-***
-
 Need to contact someone without using our Anecdote form? Email [info@artinruins.com](mailto:info@artinruins.com) but be warned that we are not always good about returning email right away.
+{:.o__tldr }
+
+## Open Source
+
+ArtInRuins is open source software. The entire photographic collection as presented here, along with the source files for our property information, is housed in a [GitHub repository]({{ site.github_repo }}). ArtInRuins can be forked as a base theme for your own collection of property information. In that way, we’d love to see ArtInRuins or other cities if brave souls are willing to take on the challenge. 
+
+Alternatively, if you have code skills and feel comfortable in GitHub, submit issues, pull requests for information updates, or lend us a hand with improvements.
+
+We decided to use a static site generator ([Jekyll](//jekyllrb.com){:target="_blank"}) for a few reasons:
++ A “static site” means that the <span class="abbr">HTML/CSS/JS</span> is built on a host computer and uploaded to the server fully rendered. It will continue to work as long as the server exists
++ No database connection is required, which means simply hosting and no security holes
++ Because it is all pre-rendered, the site loads incredibly fast
+
+A drawback is the barrier to entry — someone comfortable with some code skills is required to create and upload new properties. But we welcome contributions large and small, and will help those without those skills get their verified information or photographs posted. 
+
+***

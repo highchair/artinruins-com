@@ -17,7 +17,7 @@ sitemap:
 {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
 
 <section class="home__updates u__gutter__p">
-  <p class="u__vertical__pb">We document the architectural landscape and collect the oral, written, and photographic history of important places. We hope to be a safe space for storytelling, memory-sharing, and dreaming about the future of the built environment in northern Rhode Island and southeastern Massachusetts. <a href="{% link about.md %}">More about <span class="abbr">A.I.R.</span></a></p>
+  <p class="u__vertical__pb">We document the architectural landscape and collect the oral, written, and photographic history of important places in Rhode Island. We hope to be a safe space for storytelling, memory-sharing, and dreaming about the future of the built environment. <a href="{% link about.md %}">More about <span class="abbr">A.I.R.</span></a></p>
 
 {%- assign demoalert = site.property | where: "categories", "#DemolitionAlert" | sort: "date-modified" | reverse -%}
 {%- if demoalert.size >= 1 -%}
