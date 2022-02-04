@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Frank S. Perry' ]
 people: []
 lists: [ 'Providence Jewelry Manufacturing Historic District', 'Providence Industrial Sites 1981', 'National Register of Historic Places' ]
-tags: [ 'Yellow brick', 'The Superlatives' ]
+tags: [ 'Yellow brick', 'The Superlatives', 'Art Deco' ]
 superlative: 'The largest manufacturer of costume jewelry in the 1950s and 1960s'
 
 NRHP-ref-number: '85003088 (contributing)'

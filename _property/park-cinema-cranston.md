@@ -16,7 +16,7 @@ town: [ 'Cranston, RI' ]
 designers: [ 'William R. Walker and Son' ]
 people: []
 lists: []
-tags: [ 'Theaters, Theatres, & Cinemas' ]
+tags: [ 'Theaters, Theatres, & Cinemas', 'Art Deco' ]
 
 NRHP-ref-number:
 added-to-NRHP:

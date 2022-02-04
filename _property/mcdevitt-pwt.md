@@ -16,7 +16,7 @@ town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'National Register of Historic Places', 'Downtown Pawtucket Historic District' ]
-tags: [ 'Flatiron style' ]
+tags: [ 'Flatiron style', 'Art Deco' ]
 
 NRHP-ref-number: '06001227 (contributing)'
 added-to-NRHP: 'November 2006'

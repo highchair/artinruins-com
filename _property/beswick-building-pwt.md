@@ -16,7 +16,7 @@ town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'Did You Know?', 'National Register of Historic Places', 'Downtown Pawtucket Historic District' ]
-tags: []
+tags: [ 'Art Deco' ]
 
 NRHP-ref-number: '06001227 (contributing)'
 added-to-NRHP: 'November 2006'

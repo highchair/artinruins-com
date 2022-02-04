@@ -13,7 +13,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Gas Station & Auto Repair', 'Needs History', 'Demolition by Progress' ]
+tags: [ 'Gas Station & Auto Repair', 'Art Deco', 'Needs History', 'Demolition by Progress' ]
 
 address: '783 Hope Street, Providence RI'
 latitude: '41.8481787'
@@ -21,7 +21,7 @@ longitude: '-71.3954661'
 gmap: "//www.google.com/maps/place/783+Hope+St,+Providence,+RI+02906/@41.8481787,-71.3954661,19z"
 
 meta: ""
-excerpt: "A sweet little post-Art Deco brick gas station in the middle of the Hope Street commercial district. Probably contaminated and hard to subdivide, so it came down."
+excerpt: "A sweet little simple Art Deco brick gas station in the middle of the Hope Street commercial district. Probably contaminated and hard to subdivide, so it came down."
 
 thumbnail: hope-st-auto-jh-07.jpg
 
