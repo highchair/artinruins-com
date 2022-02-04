@@ -6,25 +6,29 @@ Ongoing Notes
 
 HABS/HAER, Photographer Name, Year
 
+Contributions from Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>
+
 
 ## Snippets to keep consistent
 
-_From the PPS/AIAri Providence Architecture Guide, 2003, by Wm. MacKenzie Woodward_
-
-_From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
+_by Gregory Smith_  
+**Providence Journal** | December 4, 2003 (abridged)
 
 _From the National Register nomination form for the Downtown Providence Historic District, amendment & expansion, 2007_
+
+_From the PPS/AIAri Providence Architecture Guide, 2003, by Wm. MacKenzie Woodward_
+
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+
+_From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
 _From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
-
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
-_by Gregory Smith_  
-**Providence Journal** | December 4, 2003 (abridged)
+_From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 
 caption: 'Photo by Robert Brewster, HABS/HAER, 1981'
 caption: 'Rhode Island Photograph Collection, Providence Public Library'

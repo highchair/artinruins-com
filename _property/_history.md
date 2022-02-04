@@ -331,7 +331,7 @@ Historic
 
 Redeveloped
 + 101 North Main Street
-++ AT Wall Co.
+-??- AT Wall Co.
 + Capt. Tillinghast House
 + Davis Lofts (407pinest)
 + Dunkin Donuts Center
@@ -352,7 +352,7 @@ Still In Use (Some of these were added 2010)
 + American Textile Mill
 + Collette Travel & Blackstone Landing
 ++ Market House
-++ Shepard Fairey attacks Providence
++ Shepard Fairey attacks Providence
 + Teste Block
 + To Kalon Club
 
@@ -373,7 +373,7 @@ Historical (18)
 
 Redeveloped (67)
 + Burgess/O’Gorman building
-++ Little Nemo, Brown Medical School
++ Little Nemo, Brown Medical School
 + Sealtest Ice Cream
 
 RIP (47)
