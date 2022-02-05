@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: []
-tags: [ 'Needs History' ]
+tags: [ 'Art Deco', 'Needs History' ]
 
 NRHP-ref-number:
 added-to-NRHP:

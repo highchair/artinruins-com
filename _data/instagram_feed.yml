@@ -2,6 +2,10 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: chase-brass-copper
+  date: '2022-02-03'
+  insta_link: https://www.instagram.com/p/CZhoipzFNMq/
+
 - post: copley-chambers
   date: '2022-01-25'
   insta_link: https://www.instagram.com/p/CZMurI5rs7o/

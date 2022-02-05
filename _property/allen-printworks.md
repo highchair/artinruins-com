@@ -1,7 +1,7 @@
 ---
 title: "Allen Printworks"
 slug: allen-printworks
-aka: 'Woonsocket Company Print Works, Providence Picture Frame'
+aka: 'Woonsocket Company Print Works, Narragansett Business Forms, Providence Picture Frame'
 date-modified: 2021-04-25 12:00
 
 built: '1830 et seq.'
