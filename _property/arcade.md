@@ -13,7 +13,7 @@ date-added: '2009'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'James C. Bucklin' ]
+designers: [ 'James C. Bucklin', 'Russell Warren' ]
 people: [ 'Cyrus Butler' ]
 lists: [ 'Rhody Awards', 'Downtown Providence National Historic District', 'National Register of Historic Places', 'HABS HAER' ]
 tags: [ 'The Superlatives', 'Malls' ]

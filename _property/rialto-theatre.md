@@ -13,7 +13,7 @@ date-added: '2007'
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'William R. Walker and Son' ]
+designers: [ 'William R. Walker and Son', 'James C. Bucklin', 'Russell Warren' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places', 'Brussat’s 10 Best Lost Buildings' ]
 tags: [ 'Yellow brick', 'Theaters, Theatres, & Cinemas' ]
@@ -32,9 +32,11 @@ excerpt: "A sliver of an 1829 structure survives under this turn-of-the-20th-cen
 thumbnail: rialto-jh-2007-02-01.jpg
   
 images:
-  - url: rialto-ppl-date-unknown.jpg
-    caption: 'The original structure, now much altered. The peak of the original pediment can be seen in our last photo. From the Rhode Island Photograph Collection, Providence Public Library'
+  - url: westminster-congregational-litho.jpg
+    caption: 'Early lithograph, undated, uncredited, of the Westminster Congregational Church, 119 Mathewson Street — Library of Congress Survey HABS RI-290'
     alt: 'A two-story, five-bay yellow brick building with central entrance and parapet. Green cornice brackets and window sashes add color, while small cast-stone medallions of musical instruments adorn spaces between large, round-topped windows on the second floor'
+  - url: rialto-ppl-date-unknown.jpg
+    caption: 'The original structure, now much altered. The peak of the original pediment can be seen in our last photo — From the Rhode Island Photograph Collection, Providence Public Library'
   - url: rialto-jh-2007-02-01.jpg
   - url: rialto-jh-2007-02-02.jpg
   - url: rialto-jh-2007-02-03.jpg
@@ -50,7 +52,7 @@ images:
   - url: rialto-jh-2019-06-02.jpg
   - url: rialto-jh-2021-02-01.jpg
 
-imagescredit: 'Contribution by the <a href="//provlibdigital.org/islandora/object/islandora%3A10372" target="_blank">Rhode Island Photo Collection</a>, Providence Public Library'
+imagescredit: 'Contributions from the Library of Congress <a href="//www.loc.gov/item/ri0346/" target="_blank">HABS RI-290</a>; and <a href="//provlibdigital.org/islandora/object/islandora%3A10372" target="_blank">Rhode Island Photo Collection</a>, Providence Public Library'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -79,6 +81,13 @@ _From the National Register nomination form for the Downtown Providence Historic
 
 The Westminster Congregational Society was formed in 1828, and construction of their meetinghouse began almost immediately. The stuccoed-stone octastyle Ionic temple was a fully realized academic treatment of the Greek order. The congregation moved to Adelaide Avenue in 1902. At that time, the portico was removed, a new facade was added, and the structure was converted into a movie theatre. Later changes include the conversion of this theatre into a commercial block and the demolition of the rear part of the building, leaving essentially an early 20th-century building. As an early 20th-century presence on the street, this building is similar in scale and detailing with adjacent structures. 
 
+***
+
+_From Survey HABS RI-290, prepared in 1975_
+
+119 Mathewson St. Stuccoed stone walls, Greek Revival temple form, one story, gable roof carried forward as pediment of portico, prostyle portico with eight Ionic columns of wood. Built 1892; James Bucklin and Russell Warren, architects. Portico demolished and building totally altered after 1902. Photocopy of an early lithograph of ext. (n.d.).
+
+***
 
 _From [CinemaTreasures.org](http://cinematreasures.org/theater/12009/){:target="_blank"}_
 

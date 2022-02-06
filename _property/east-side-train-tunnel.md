@@ -19,10 +19,10 @@ tags: [ 'Demolition by Progress' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: ''
-latitude: ''
-longitude: ''
-gmap: ""
+address: '184 benefit St (west entrance), Providence RI'
+latitude: '41.8278722'
+longitude: '-71.4081401'
+gmap: "https://www.google.com/maps/place/184+Benefit+St,+Providence,+RI+02903/@41.8278722,-71.4081401,157m/data=!3m1!1e3!4m5!3m4!1s0x89e445178e5e4901:0x42c4f2b5c8afb09c!8m2!3d41.8281164!4d-71.4081423"
 
 meta: ""
 excerpt: "In use for almost 70 years, the East Side Train tunnel burrows beneath College Hill and once connected Union Station to East Providence"
@@ -45,6 +45,8 @@ images:
     caption: 'Postcard view of a train leaving the east entrance to the East Side tunnel, looking towards Gano Street. Edward Ozog Photograph Collection, Providence Public Library'
   - url: es-train-tunnel-benefit-st-05.jpg
     caption: 'Photograph of the west entrance under Benefit Street, date unknown. Edward Ozog Photograph Collection, Providence Public Library'
+  - url: es-train-tunnel-ppl-aerial-1950.jpg
+    caption: 'Aerial view looking east from above Exchange Place/Kennedy Plaza. The soldiers and sailors monument in “Suicide Circle” can be seen and the Providence Washington Insurance company building (1949) seems to be nearing completion — Avery Lord Aerial Photograph Collection, Providence Public Library'
   - url: es-train-tunnel-lk-1954.jpg
     caption: 'Looking east towards the west entrance of the East Side Train tunnel along the tracks, circa 1954. Personal collection of Leo King'
   - url: es-train-tunnel-lk-1979.jpg
@@ -68,13 +70,13 @@ images:
   - url: es-train-tunnel-lk-2002.jpg
     caption: 'View of the closed train tunnel entrance and finished parking for 101 North Main Street and 2 Thomas Street, circa 2002. Personal collection of Leo King'
   - url: es-train-tunnel-jh-2004.jpg
-    caption: 'View looking east from Canal Street with North Main Street and closed train tunnel entrance in top right, October 2004.'
+    caption: 'View looking east from Canal Street with North Main Street and closed train tunnel entrance in top right, October 2004'
   - url: es-train-tunnel-jh-2020.jpg
-    caption: 'The Benefit Street entrance, clad in a steel door'
+    caption: 'The Benefit Street (west) entrance, clad in a steel door'
 
 mostrecentimage: 2020-10-01
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A043-03" target="_blank">Providence Public Library Digital Collection</a>, Leo King, and Library of Congress HABS/HAER, photographer William E. Barrett'
+imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A043-03" target="_blank">Providence Public Library Digital Collection</a> (<a href="https://provlibdigital.org/islandora/object/islandora%3A46" target="_blank">Avery Lord aerial</a>), Leo King, Providence Historical Aerial Viewer, and <a href="https://www.loc.gov/pictures/item/ri0396/" target="_blank">Library of Congress</a> HABS/HAER photographer William E. Barrett'
 ---
 
 ### Reason for Closure

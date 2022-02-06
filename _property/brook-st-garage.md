@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
-tags: [ 'Demolition by Progress' ]
+tags: [ 'Brown University', 'Demolition by Progress' ]
 
 NRHP-ref-number: '70000019 (contributing & non)'
 added-to-NRHP: 'November 10, 1970'

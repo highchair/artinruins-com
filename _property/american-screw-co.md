@@ -40,8 +40,10 @@ images:
   - url: John-Gannon-via-Facebook.jpg
     caption: 'Cover of a large box of assorted screws from John Gannon'
   - url: 'amerscrew-ppl-1930c.jpg'
-    caption: 'Rhode Island Mills and Mill Villages Photograph Collection, Providence Library Digital'
-  - url: 'amerscrew-ppl-1965c-01.jpg'
+    caption: 'Rhode Island Mills and Mill Villages Photograph Collection, Providence Public Library'
+  - url: amerscrew-ppl-1955c.jpg
+    caption: 'A closeup of an aerial photo taken during the redevelopment of West River Street, circa 1955 — Rhode Island Photograph Collection, Providence Public Library'
+  - url: amerscrew-ppl-1965c-01.jpg
     caption: 'Newspaper clipping from the John Hutchins Cady Research Scrapbooks Collection at Providence Public Library, circa 1965. Notice the “American Screw Company” sign, which is why we date the photo pre-1970 — signage is not present in the Library of Congress photos'
   - url: amerscrew-habs-1970-01.jpg
     caption: 'Complex looking east, Bay State building on left. Building 1 in middle, roof line and tower of building 2 visible to right, building 2 boiler house on extreme right. “Canal House” commercial/residential building (not part of American Screw complex) in foreground at 125-127 Charles Street alongside “Hope Cycle and Auto Supply” at 137 Charles Street.'
@@ -86,7 +88,7 @@ images:
   - url: amerscrew-aerial-1970-1997.jpg
     caption: 'Providence Historic Aerial Viewer 1997 with a 1970 schematic of the complex from the National Register nomination'
 
-imagescredit: 'All images from the National Register nomination forms, photos by Laurence Tilley, <a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>, and Architectural drawing by Karen Noel.'
+imagescredit: 'Contributions from the National Register nomination forms, photos by Laurence Tilley; <a href="//provlibdigital.org/islandora/object/islandora%3A26598" target="_blank">Aerial</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A276" target="_blank">Mill Photo</a>, and <a href="//provlibdigital.org/islandora/object/islandora%3A5298" target="_blank">John Hutchins Cady</a>, from Providence Public Library; <a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>; and Architectural drawing by Karen Noel.'
 ---
 
 ### Reason for Demolition
