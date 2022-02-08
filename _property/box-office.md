@@ -2,7 +2,8 @@
 title: "Box Office"
 slug: box-office
 aka: 
-date-modified: 2020-10-25 14:00
+date-modified: 2022-02-07 14:00
+update: 'Added photos from Christopher Martin during construction and at an open house'
 
 built: '2009-2010'
 demolition: 
@@ -35,18 +36,38 @@ images:
     caption: 'Construction photos by Peter Case, November 2009'
   - url: box-office-pc-2009-11-02.jpg
     caption: 'Construction photos by Peter Case, November 2009'
+  - url: box-office-cm-2010-04-01.jpg
+    caption: 'Photo by Christopher Martin'
+  - url: box-office-cm-2010-04-02.jpg
+    caption: 'Photo by Christopher Martin'
+  - url: box-office-cm-2010-04-03.jpg
+    caption: 'Photo by Christopher Martin'
+  - url: box-office-cm-2010-04-04.jpg
+    caption: 'Photo by Christopher Martin'
+  - url: box-office-cm-2010-04-05.jpg
+    caption: 'Photo by Christopher Martin'
   - url: box-office-jh-2010-09-01.jpg
   - url: box-office-jh-2010-09-02.jpg
   - url: box-office-jh-2010-09-03.jpg
   - url: box-office-jh-2010-10-01.jpg
   - url: box-office-promo-01.jpg
-    caption: 'Promotional photo from leasing website'
-  - url: box-office-promo-02.jpg
-    caption: 'Promotional photo from leasing website'
+    caption: 'At night promotional photo from leasing website'
+  #- url: box-office-promo-02.jpg
+  #  caption: 'Promotional photo from leasing website'
+  - url: box-office-cm-2017-09-02.jpg
+    caption: 'Photo by Christopher Martin'
+  - url: box-office-cm-2017-09-03.jpg
+    caption: 'Photo by Christopher Martin'
+  - url: box-office-cm-2017-09-04.jpg
+    caption: 'Photo by Christopher Martin'
+  - url: box-office-cm-2017-09-05.jpg
+    caption: 'Photo by Christopher Martin'
+  - url: box-office-cm-2017-09-01.jpg
+    caption: 'Photo by Christopher Martin'
 
-mostrecentimage: 2010-09-01
+mostrecentimage: 2017-09-01
 
-imagescredit: 'Construction photos from Peter Case'
+imagescredit: 'Construction photos from Peter Case, additional photos by Christopher Martin, <a href="//www.quahog.org" target="_blank">Quahog.org</a>'
 ---
 
 ### Proposal & Construction

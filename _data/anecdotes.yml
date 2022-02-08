@@ -12,6 +12,11 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: davol-rubber-company
+  person: 'Mark Sawtelle'
+  date: '2022-02-06'
+  content: 'It was the hot place to shop for urbanophiles, for those early years. Complicated and insufficient parking helped do it in. (via Facebook)'
+
 - property: copley-chambers
   person: 'Lisa Ann Esser'
   date: '2022-01-26'
