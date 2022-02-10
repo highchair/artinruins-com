@@ -40,6 +40,14 @@ sitemap:
     {%- capture is_under_construction -%}
       {% if categories contains '#WhatAreTheyBuilding' %}Yes{% else %}No{% endif %}
     {%- endcapture -%}
+    {% if is_under_construction == 'Yes' %}
+      {% comment %}
+        If this item is WhatAreTheyBuilding, BUT there is an update, show it in the main river
+      {% endcomment %}
+      {%- capture is_under_construction -%}
+        {% if item.update %}No{% else %}Yes{% endif %}
+      {%- endcapture -%}
+    {% endif %}
     {%- assign props = props | plus:1 -%}
     {%- if forloop.index <= 12 and is_demo_alert == 'No' and is_under_construction == 'No' -%}
       {% assign home = 'Yes' %}
@@ -111,25 +119,31 @@ sitemap:
   Challenge: Only output if they are LESS than a month old
     Epoch time: 30 days in seconds is 60s * 60m * 24h * 30d = 2592000
   If so, we presume that construction is still underway
+  
+  If there have an update, don’t show them here. Show them in the river above.
+  So, we are filtering on DATE as well as whether or not item.update is present
 
 {%- endcomment -%}
 {%- assign construction = site.property | where: "categories", "#WhatAreTheyBuilding" | sort: "date-modified" | reverse -%}
 {%- assign lastmonth = "now" | date: '%s' | minus: 2592000 | date: '%Y%m%d' | times:1 -%}
 {%- assign construct_count = 0 -%}
-{%- for item in construction limit:6 -%}
+{%- assign construct_html = '' -%}
+{%- for item in construction -%}
   {% assign itemdate = item.date-modified | date: '%Y%m%d' | times:1 %}
   {% if itemdate > lastmonth %}
-    {% assign construct_count = construct_count | plus: 1 %}
+    {% if item.update %}
+    {% else %}
+      {% capture construct_html %}
+        {{ construct_html }}
+        {% include property-card.html %}
+      {% endcapture %}
+      {% assign construct_count = construct_count | plus: 1 %}
+    {% endif %}
   {% endif %}
 {%- endfor -%}
   <h2 class="o__title--sm v-rhythm">#WhatAreTheyBuilding: Under Construction</h2>
   <ul class="taxonomy__list taxonomy__list--vertical taxonomy__list--vertical--{{ construct_count }} u__list__unstyled u__vertical__pb" role="list">
-    {%- for item in construction limit:6 -%}
-      {% assign itemdate = item.date-modified | date: '%Y%m%d' | times:1 %}
-      {% if itemdate > lastmonth %}
-        {% include property-card.html %}
-      {% endif %}
-    {%- endfor -%}
+    {{ construct_html }}
   </ul>
 
   <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ props }} properties</span> and <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=totalimg %} images</span>. {% if JEKYLL_ENV == 'production' %}Browse more from our <a href="{% link all-tags.html %}">Categories and Tags</a>.{% endif %}</p>
