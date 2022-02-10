@@ -115,7 +115,7 @@ images:
   - url: loutit-aerial-2011.jpg
     caption: Providence Historical Aerial Viewer 2011
 
-imagescredit: Contributions by Chris Martin (Quahog.org), Rick Greenwood (RIHPHC), Frederick C. Stachura, Lou Fancy, Stump, and aerials from the Providence Historical Aerial Viewer
+imagescredit: Contributions by Christopher Martin, <a href="//quahog.org" target="_blank">Quahog.org</a>; Rick Greenwood (RIHPHC); Frederick C. Stachura; Lou Fancy; Stump; and aerials from the Providence Historical Aerial Viewer
 ---
 
 ### Reason for Demolition

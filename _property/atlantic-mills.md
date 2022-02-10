@@ -91,7 +91,7 @@ images:
 
 mostrecentimage: 2020-12-01
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A26982" target="_blank">Rhode Island Photograph Collection</a> and the <a href="//provlibdigital.org/islandora/object/islandora%3A263" target="_blank">Rhode Island Mills and Mill Villages Photograph Collection</a>, Providence Public Library; Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>; Google Earth; and the Library of Congress'
+imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A26982" target="_blank">Rhode Island Photograph Collection</a> and the <a href="//provlibdigital.org/islandora/object/islandora%3A263" target="_blank">Rhode Island Mills and Mill Villages Photograph Collection</a>, Providence Public Library; Christopher Martin, <a href="https://quahog.org" target="_blank">Quahog.org</a>; Google Earth; and the Library of Congress'
 ---
 
 ### Current Events

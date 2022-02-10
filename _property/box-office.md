@@ -67,7 +67,7 @@ images:
 
 mostrecentimage: 2017-09-01
 
-imagescredit: 'Construction photos from Peter Case, additional photos by Christopher Martin, <a href="//www.quahog.org" target="_blank">Quahog.org</a>'
+imagescredit: 'Construction photos from Peter Case, additional photos by Christopher Martin, <a href="//quahog.org" target="_blank">Quahog.org</a>'
 ---
 
 ### Proposal & Construction
