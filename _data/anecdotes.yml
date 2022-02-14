@@ -12,6 +12,16 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: m-n-cartier
+  person: 'Joe Ledoux'
+  date: '2022-02-09'
+  content: 'In the 80’s when I was about 12, my dad rented a building in the back of the plat behind this building. There he had a white metal casting company named Westminster Buckle. One day at lunch time I made my way over to this building named Hawk’s thinking I could grab some lunch. I opened the front door and it seemed like the music stopped as I witnessed a girl naked on the pole in front of me on stage. Immediately turned around and walked out… Always remember this building and memory. Over the years we ended up purchasing the 2 story building behind it. We ended up selling after 20 years to the dog daycare company that is there now I believe. Nice site, just wanted to throw my 2 cents in to it!'
+
+- property: bonanza-pvd
+  person: 'Jack Howley'
+  date: '2022-02-08'
+  content: 'The Bonanza Bus station’s waiting room had rows of chairs with individual pay TV’s!'
+
 - property: davol-rubber-company
   person: 'Mark Sawtelle'
   date: '2022-02-06'
