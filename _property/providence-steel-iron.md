@@ -11,7 +11,7 @@ units:
 decade: '1900-1909'
 date-added: '2005'
 categories: [ '#NotInRuins' ]
-neighborhoods: []
+neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Dwight Seabury Company' ]
 people: [ 'Houlihan and Maguire' ]
@@ -32,13 +32,9 @@ excerpt: "A 100-year-old ornamental steel and iron manufacturer gets a new life 
 thumbnail: steel-yard-jh-2005-06-05.jpg
 
 images:
-  - url: prov-steel-iron-map-1920.jpg
-    caption: 'Sanborn Insurance Map, Providence Volume 1, 1920-1921 Sheet 15 — ProQuest Digital Sanborn Maps, Providence Public Library'
+  - url: builders-iron-ppl-undated.jpg
+    caption: 'The structural iron building, northeast corner of Sims and Kinsley, built 1902, labeled “Builder’s Iron Foundry, Structural Department”, undated photo but likely before 1910 — Rhode Island Photograph Collection, Providence Public Library'
     alt: 'A collection of smaller buildings on a three acre lot used for steel assembly and manufacture. Buildings are a mix of brick with simple or no ornamentation and metal clad steel buildings with cement floors. A simple two-story red brick office building occupies the site as well.'
-  - url: prov-steel-iron-map-1937.jpg
-    caption: 'G.M. Hopkins Insurance Map, Providence 1937, Plate 33 — Historic Map Works'
-  - url: prov-steel-iron-map-1951.jpg
-    caption: 'Sanborn Insurance Map, Providence Volume 1, 1920-1951 Sheet 15 (Changes to the 1920 were updated and pasted on by hand) — ProQuest Digital Sanborn Maps, Providence Public Library'
   - url: prov-steel-iron-ec-2005-01-01.jpg
     caption: 'Structural Steel Building, view southwest — Edward Connors, January 2005'
   - url: prov-steel-iron-ec-2005-01-02.jpg
@@ -93,9 +89,12 @@ In 2008, funds from the Environmental Protection Agency (<span class="abbr">EPA<
 
 _From the National Register Nomination Form, written by Edward Connors_
 
-Providence Steel and Iron Company (<span class="abbr">PS&I</span>) was created as a subsidiary of Builders Iron Foundry (<span class="abbr">BIF</span>), a Providence company established in 1822. Over an 80-year period, <span class="abbr">BIF</span> manufactured precision iron castings, water meters, and architectural iron work in its downtown Codding Street shop. Significant work during these years included iron and marble stairs for the Library of Congress.
+Providence Steel and Iron Company (<span class="abbr">PS&I</span>) was created as a subsidiary of [Builders Iron Foundry]({% link _property/builders-iron-foundry.md %}) (<span class="abbr">BIF</span>), a Providence company established in 1822. Over an 80-year period, <span class="abbr">BIF</span> manufactured precision iron castings, water meters, and architectural iron work in its downtown Codding Street shop. Significant work during these years included iron and marble stairs for the Library of Congress.
 
 As a result of a federal government assessment of coastal defense in the 1880s, <span class="abbr">BIF</span> secured extensive government contracts in the following decade for the manufacture of 12" breech loading rifle mortars. During this same period <span class="abbr">BIF</span> oversaw the management of the Rice and Sargent Steam Engine Company and the [Providence Steam Engine Company]({% link _property/providence-steam-engine.md %}). In 1899, Diamond Machine Company left its Atwells Avenue factory and moved into <span class="abbr">BIF</span>’s Codding Street plant. This expansion likely caused serious space problems. In 1902 <span class="abbr">BIF</span> purchased about 20,000 sq. ft. of land at the corner of Sims and Kinsley Avenues across the street from the Norcross Brothers Stone Cutting, a Worcester-based company providing the marble used for the construction of the Rhode Island State House.
+
+For detailed maps from 1899 to 1956, visit our page about [Builder’s Iron Foundry]({% link _property/builders-iron-foundry.md %})
+{:.o__tldr}
 
 
 #### Architecture
