@@ -19,7 +19,7 @@
         	<label for="name">Anecdote:</label>
         	<textarea name="message" id="message" class="form__input--area" placeholder="Tell us your anecdote" rows="5" required></textarea>
         </div>
-        <input type="hidden" id="timestamp" name="timestamp" value="<?php echo date( 'Ymdhis' ) ?>">
+        <input type="hidden" id="timestamp" name="timestamp" value="<?php echo date( 'YmdHis' ) ?>">
       </fieldset>
     	
     	<div class="form__submit__group">

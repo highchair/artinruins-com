@@ -14,7 +14,7 @@ if ( count($_POST) ) {
   $anecdote = $_POST['message'];
   $property = $_POST['property'];
   $timeofinput = $_POST['timestamp'];
-  $now = date( 'Ymdhis' );
+  $now = date( 'YmdHis' );
   
   // Anti-spam techniques from https://webaim.org/blog/spam_free_accessible_forms/
   $spam = false;
@@ -46,10 +46,9 @@ if ( count($_POST) ) {
   }
   // If a certain amount of time has NOT elapsed, this is a robot
   // The form itself loads only after 15 seconds
-  // If a submission comes in under 15 seconds, this is a bot trying to hit the
-  // mailer.php script externally
+  // If a submission comes in under 15 seconds, this is a bot trying to hit the mailer.php script externally
   if ( ($now - $timeofinput) < 15 ) {
-    error_log('Mailer.php — The time between then and now was more than 15 seconds: Now=' . $now . ' and Then=' . $timeofinput);
+    error_log('Mailer.php — The time between then and now was less than 15 seconds: Now=' . $now . ' and Then=' . $timeofinput);
     $spam = true;
   }
 
