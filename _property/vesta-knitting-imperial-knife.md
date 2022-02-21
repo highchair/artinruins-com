@@ -15,12 +15,12 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'Providence Industrial Sites 1981' ]
+lists: [ 'Providence Jewelry Manufacturing Historic District', 'Providence Industrial Sites 1981' ]
 tags: [ 'Superlatives' ]
 superlative: 'Once the largest manufacturer of cutlery in the world'
 
-NRHP-ref-number:
-added-to-NRHP:
+NRHP-ref-number: '85003088 (contributing)'
+added-to-NRHP: 'December 1985'
 
 address: '14–18 Imperial Place, Providence RI'
 latitude: '41.8173689'
@@ -91,6 +91,13 @@ Condominium units become available from time to time and are listed with all the
 
 Similar information available in the [PPS Online Architecture Guide](//guide.ppsri.org/property/vesta-knitting-mills-later-imperial-knife-company){:target="_blank"}
 
+***
+
+_From the National Register nomination form for the Providence Jewelry Manufacturing Historic District, 1985_
+
+2 Imperial Place **Vesta Knitting Mills**, now known as **Imperial Knife Company** (1893, 1903): The 1893 factory is a 6-story, flat-roof brick building with rounded corners, segmental-arched windows and a corbeled cornice, that runs east along Bassett Street from the intersection of Imperial Place and Bassett. The 1903 factory is a plainer, L-shaped,6-story, flat-roof brick building with segmental-arched windows with granite sills, that extends south along Imperial Place and east along Elm Street. Between the north and south wings formed by these two buildings there is a complex of smaller brick buildings, including a two-story, gable-roof, brick building with segmental-arched windows that dates from c.1888. There are two brick and one concrete-block, single-story flat-roofed outbuildings attached to the east side of the complex that were added in the 1950s and 1960s.
+
+***
 
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 

@@ -1,7 +1,7 @@
 ---
 title: "Builder’s Iron Foundry Office"
 slug: builders-iron-foundry-office
-aka: 'Providene Traffic Tribunal, Traffic Court'
+aka: 'Providence Traffic Tribunal, Traffic Court'
 date-modified: 2022-02-08 12:00
 
 built: '1949–50'
