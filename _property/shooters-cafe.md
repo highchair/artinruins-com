@@ -13,8 +13,8 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: []
-tags: [ 'Demolition by Neglect', 'Concrete', 'I-195 Relocation Project' ]
+lists: [ 'I-195 Relocation Project' ]
+tags: [ 'Demolition by Neglect', 'Concrete' ]
 
 NRHP-ref-number:
 added-to-NRHP:
