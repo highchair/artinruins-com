@@ -47,7 +47,7 @@ function loadAnecdoteForm() {
   xhr.open('GET', '/assets/partials/anecdote-form.php');
   xhr.send();
 }
-// Load the form only after 10 seconds have past
+// Load the form only after 15 seconds have past
 var executeLoadAnecdoteForm = setTimeout(loadAnecdoteForm, 15000);
 
 // If JS is loaded, change the body class
