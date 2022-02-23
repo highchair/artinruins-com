@@ -28,7 +28,7 @@ Have photos to contribute? <a href="mailto:info@artinruins.com?subject=Photo sub
 Need to contact someone without using our Anecdote form? Email [info@artinruins.com](mailto:info@artinruins.com) but be warned that we are not always good about returning email right away. 
 
 
-### Attribution
+## Attribution
 
 Wondering if you can use our photos in a blog post or book or newspaper article of your own? Permission is usually granted on the following conditions: 
 

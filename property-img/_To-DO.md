@@ -43,7 +43,7 @@ caption: 'Providence Historical Aerial Viewer 1972'
 {:.u__text__sans--bold.u__color__primary} — Base bold font in teal
 {:.o__tldr} – Yellow background infobox
 {:.o__pull-quote} — Orange Senator font with slashes background
-{: .o__drop-cap } — First letter drop cap
+{:.o__drop-cap} — First letter drop cap
 
 #### Sources
 
