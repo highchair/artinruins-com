@@ -83,7 +83,7 @@ As part of the redevelopment of the main Davol complex, the original plan called
 
 [^2]: SEAVOR, JIM. “Developers are betting millions that old Davol Square has future.” Providence Journal (RI), NORTH-WEST ed., sec. NEWS, 30 July 1982, pp. C-03. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C389097036C8. Accessed 28 Dec. 2021.
 
-Because of that lawsuit, the Simmons Building became a rental property instead, hosting a wide variety of business over the years. Some that we could find in old news reports include the **Wickendon Gate Theater**[^3], **Harbour Point Financial Group**[^4], **DeVille’s Cafe**[^5] (about 1993–1995), and **SBI**[^6], a photography equipment retailer. 
+Because of that lawsuit, the Simmons Building became a rental property instead, hosting a wide variety of business over the years. Some that we could find in old news reports include the **Wickenden Gate Theater**[^3], **Harbour Point Financial Group**[^4], **DeVille’s Cafe**[^5] (about 1993–1995), and **SBI**[^6], a photography equipment retailer. 
 
 [^3]: SEAVOR, JIM. “‘Talking With…’ is warm and winning.” Providence Journal (RI), ALL ed., sec. ARTS, 22 Sept. 1987, pp. A-12. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525298C6B8A3998. Accessed 26 Dec. 2021.
 

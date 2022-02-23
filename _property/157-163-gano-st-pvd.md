@@ -87,7 +87,7 @@ Not much official history yet. We’ve explored maps and the Assessor’s databa
 
 **157 Gano Street**, a former 5800 sf, single story, cinder-block multi-purpose hall owned by the Holy Rosary Band Society. The building does not appear in 1962 aerial photos but it is there by 1972. It was rather non-descript with a side entrance to the north and no windows on the street-facing west façade. It has a flat roof and was painted a light gray. 
 
-The [Holy Rosary Band](//www.hrbband.com){:target="_blank"} is a community philharmonic founded in 1968. The hall was their performance space and would also get rented out to community groups for parties and gatherings. They have since moved to a building in East Providence at 328 Taunton Avenue. They were affiliated with the Holy Rosary parish off Wickendon Street and perform there often as part of their annual Santo Cristo festival. 
+The [Holy Rosary Band](//www.hrbband.com){:target="_blank"} is a community philharmonic founded in 1968. The hall was their performance space and would also get rented out to community groups for parties and gatherings. They have since moved to a building in East Providence at 328 Taunton Avenue. They were affiliated with the Holy Rosary parish off Wickenden Street and perform there often as part of their annual Santo Cristo festival. 
 
 
 ### In the News

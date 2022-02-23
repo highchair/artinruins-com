@@ -19,7 +19,7 @@ tags: []
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '455 Wickendon Street, Providence RI (part of the Vartian Gregorian public elementary school)'
+address: '455 Wickenden Street, Providence RI (part of the Vartian Gregorian public elementary school)'
 latitude: '41.8195184'
 longitude: '-71.3954345'
 gmap: "https://www.google.com/maps/place/455+Wickenden+St,+Providence,+RI+02903/@41.8195184,-71.3954345,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445376fbacfeb:0xc102f17491942ba3!8m2!3d41.8195184!4d-71.3932458"

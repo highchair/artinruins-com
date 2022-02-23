@@ -90,7 +90,7 @@ The other smart marketing move he made with his art early on was to make it avai
 
 #### 2002–2002
 
-The closest we got to Shepard was attending a print show at the Bush Gallery on Wickendon Street, run by local artist Mike Bryce (in the same space as the former Gallery Agniel [^3]). It was a two-person show with [Peter Cardoso](//www.ghosttownstudio.com){:target="_blank"}. We purchased a few signed prints for $50 that could fetch a few thousand now if we wanted to part with them — which we don’t. 
+The closest we got to Shepard was attending a print show at the Bush Gallery on Wickenden Street, run by local artist Mike Bryce (in the same space as the former Gallery Agniel [^3]). It was a two-person show with [Peter Cardoso](//www.ghosttownstudio.com){:target="_blank"}. We purchased a few signed prints for $50 that could fetch a few thousand now if we wanted to part with them — which we don’t. 
 
 [^3]: GRAY, CHANNING. “Bush Gallery to fill void left by Gallery Agniel.” Providence Journal (RI), All ed., sec. Lifebeat/MOVIES, 9 Mar. 2001, pp. E-07. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152510E84BB5D938. Accessed 30 Jan. 2022.
 
