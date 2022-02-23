@@ -1,6 +1,5 @@
 {%- assign meta_title = site.title -%}
 {%- assign meta_title_trailer = site.title | prepend: ' | ' -%}
-{%- assign meta_title_truncate = 60 | minus: meta_title_trailer.size -%}
 {%- assign meta_description = site.description -%}
 {%- assign meta_image = "artinruins-social-card.jpg" | prepend: site.image_path | prepend: site.baseurl -%}
 {%- comment -%}
@@ -13,11 +12,11 @@
 
 {%- endcomment -%}
 {%- if page.path contains '_property' -%}
-  {%- assign meta_title = page.title | truncate: meta_title_truncate | append: meta_title_trailer -%}
+  {%- assign meta_title = page.title | append: meta_title_trailer -%}
 {%- else if page.title -%}
   {%- assign meta_title = page.title -%}
   {%- if page.layout == 'taxonomy' -%}
-    {%- assign meta_title = page.title | truncate: meta_title_truncate | append: meta_title_trailer -%}
+    {%- assign meta_title = page.title | append: meta_title_trailer -%}
   {%- endif -%}
 {%- endif -%}
 {%- if page.meta-title -%}
@@ -42,7 +41,7 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-817925-2"></script>
     <link rel="dns-prefetch" href="https://use.typekit.net">
     <link rel="dns-prefetch" href="https://webmention.io">
-    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css?bust={{ 'now' | date: '%Y%m%d%H%M%S' }}">
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
