@@ -2,7 +2,8 @@
 title: "McDevitt Building"
 slug: mcdevitt-pwt
 aka: 'Kinyon’s Block, Adam’s Block'
-date-modified: 2021-08-24 12:00
+date-modified: 2022-02-23 12:00
+update: 'Added a few more recent photos from Christopher Martin'
 
 built: '1888'
 demolition:
@@ -43,6 +44,12 @@ images:
     caption: 'Collection of the Pawtucket Library — The McDevitt’s Building as it appeared in 1989, showing signs of wear and under-utilization'
   - url: mcdevitt-jh-2006-02-01.jpg
   - url: mcdevitt-jh-2009-03-01.jpg
+  - url: mcdevitt-cm-2009-03-01.jpg
+    caption: 'An 1970s/80s inset steel storefront entrance with sidelight, transom, and tile work reading “McDevitt’s” — Photo by Christopher Martin'
+  - url: mcdevitt-cm-2009-03-02.jpg
+    caption: 'Storefronts along Broad St. show vinyl siding along with 70s era commercial stone around the plate glass windows — Photo by Christopher Martin'
+  - url: mcdevitt-cm-2009-03-03.jpg
+    caption: 'A recessed double steel-door entrance to the upper floors of the building clad in granite panels with raised steel lettering above a transom window with the number 23 painted on it — Photo by Christopher Martin'
   - url: mcdevitt-jh-2009-09-01.jpg
   - url: mcdevitt-jh-2009-09-02.jpg
   - url: mcdevitt-jh-2009-09-03.jpg
@@ -55,10 +62,14 @@ images:
   - url: mcdevitt-jh-2010-01-02.jpg
   - url: mcdevitt-jh-2010-01-03.jpg
   - url: mcdevitt-jh-2010-01-04.jpg
+  - url: mcdevitt-cm-2019-05-01.jpg
+    caption: 'Detail of the McDevitt’s tile work — Photo by Christopher Martin'
+  - url: mcdevitt-cm-2019-05-02.jpg
+    caption: 'The pointed end of the flatiron shape in 2019, showing “Bake my Day” as the tenant — Photo by Christopher Martin'
 
-imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157673016057110" target="_blank">Pawtucket Library collection on Flickr</a>'
+imagescredit: 'Contributions from Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a> and the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157673016057110" target="_blank">Pawtucket Library collection on Flickr</a>'
 
-mostrecentimage: 2010-01-04
+mostrecentimage: 2019-05-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'

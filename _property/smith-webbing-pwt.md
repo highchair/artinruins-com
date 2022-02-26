@@ -35,6 +35,8 @@ images:
   - url: smith-webbing-sanborn-1902-01.jpg
     caption: '1902 Sanborn Insurance Map plate 33 — the main block along Main Street is present, but the addition that ends in a rounded flatiron shape to the east of the main block has not been built yet.'
     alt: 'The main body of the mill is a twenty-five-bay long by five bay deep rectangular red brick structure with regularly-spaced window openings. To the east is a later addition with rounded end detail in a flat-iron style, smokestack, and engine room with new ground-floor entrance.'
+  - url: smith-webbing-pawtlib-undated-01.jpg
+    caption: 'Pawtucket Library Collection'
   - url: smith-webbing-jh-2004-02-01.jpg
   - url: smith-webbing-jh-2004-02-02.jpg
   - url: smith-webbing-jh-2004-02-03.jpg
@@ -55,7 +57,7 @@ images:
   - url: smith-webbing-jh-2021-01-08.jpg
   - url: smith-webbing-jh-2021-01-09.jpg
 
-imagescredit: 'Contribution from a Library of Congress (<a href="//www.loc.gov/resource/g3774pm.g3774pm_g080961902/" target="_blank">Sanborn Map</a>)'
+imagescredit: 'Contribution from the Library of Congress (<a href="//www.loc.gov/resource/g3774pm.g3774pm_g080961902/" target="_blank">Sanborn Map</a>) and the <a href="//www.flickr.com/photos/pawtucketlibrary/50379605526" target="_blank">Pawtucket Library Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

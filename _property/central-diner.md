@@ -2,7 +2,8 @@
 title: "Central Diner"
 slug: central-diner
 aka: 'Paula’s Kitchen, The Elmwood Diner, Liberty Elm Diner, Worcester Lunch Car Company Diner #806'
-date-modified: 2021-09-25 12:00
+date-modified: 2022-02-23 13:00
+update: 'Added a few more recent photos from Christopher Martin'
 
 built: '1947'
 demolition:
@@ -34,7 +35,7 @@ thumbnail: liberty-elm-jh-2007-11-01.jpg
 images:
   - url: elmwood-diner-unknown-1970c.jpg
     caption: 'The Elmwood Diner circa 1970s from an unknown source'
-    alt: ''
+    alt: 'A prefabricated steel frame diner car with interior bench seating along one side and a long counter with fixed stools on the other side. Extensive description in the history section.'
   - url: liberty-elm-jh-2007-11-01.jpg
   - url: liberty-elm-djrb-2010-03-01.jpg
     caption: 'Exterior looking southwest — Photo by Denise J.R. Bass for the National Register Nomination form'
@@ -48,10 +49,16 @@ images:
   - url: liberty-elm-jh-2011-05-04.jpg
   - url: liberty-elm-jh-2011-05-05.jpg
   - url: liberty-elm-jh-2011-05-06.jpg
+  - url: liberty-elm-cm-2014-05-01.jpg
+    caption: 'Photo by Christopher Martin'
+  - url: liberty-elm-cm-2014-11-01.jpg
+    caption: 'Photo by Christopher Martin'
+  - url: liberty-elm-cm-2014-11-02.jpg
+    caption: 'Photo by Christopher Martin'
 
-imagescredit: 'Photos by Denise J.R. Bass for the National Register nomination form'
+imagescredit: 'Photos by Denise J.R. Bass for the National Register nomination form and Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>'
 
-mostrecentimage: 2011-05-01
+mostrecentimage: 2014-11-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -60,9 +67,9 @@ mostrecentimage: 2011-05-01
 
 ### Redevelopment
 
-Worcester Lunch Car Company Diner #806 (henceforth simply called #806) has been known by many names and two locations. As diners go, they are not as mobile as a trailer but they can be moved, and as busniesses come and go, so do names. #806 is no different. 
+Worcester Lunch Car Company Diner #806 (henceforth simply called #806) has been known by many names and two locations. As diners go, they are not as mobile as a trailer but they can be moved, and as businesses come and go, so do names. #806 is no different. 
 
-In 1947, Ralph “Truck” Narducci of Providence ordered the custom-built diner — completely furnished and stocked — and opened it for business at the corner of West Exchange and Gaspee streets in Downtown Providence as the **Central Diner**. 27 West Exchange Street (where the Westin Hotel stands today) was in thick of the city’s central business district, steps away from Union Station, City Hall, hotels, theatres, factories, offices, shops, warehouses, residences, and garages. 
+In 1947, Ralph “Truck” Narducci of Providence ordered the custom-built diner — completely furnished and stocked — and opened it for business at the corner of West Exchange and Gaspee streets in Downtown Providence as the **Central Diner**. 27 West Exchange Street (where the Westin Hotel stands today) was in thick of the city’s central business district, steps away from Union Station, City Hall, hotels, theaters, factories, offices, shops, warehouses, residences, and garages. 
 
 Mr. Narducci relocated the #806 six years later 2.75 miles south to 777 Elmwood Avenue and built a new concrete block kitchen. Elmwood Avenue was a thriving commercial corridor, with the Elmwood Theatre and numerous other businesses in the immediate neighborhood. Business was moving away from central downtown locations and spreading into the suburbs due to the exploding prevalence of automobiles. 
 
@@ -70,12 +77,12 @@ Mr. Narducci relocated the #806 six years later 2.75 miles south to 777 Elmwood 
 
 In 2006, Elmwood resident Carol “Kip” DeFeciani purchased the property and initiated another overhaul, restoring the diner to its historic appearance and opening for business as **The Liberty Elm**. This update signaled the owner’s pledge to direct one percent of profits to purchase new disease-resistant American Liberty Elm trees for Elmwood Avenue. The food and the vibe were strong enough to receive national attention — the restaurant was featured on [Diners, Drive-Ins, and Dives (Season 8, Ep. 8)](//www.foodnetwork.com/shows/diners-drive-ins-and-dives/episodes/comfort-food-classics){:target="_blank"} in February, 2010. 
 
-The business lasted until about 2013, when it was again available for sale. A new family purchased #806 in January of 2014, changed the name back to the Elwood Diner, but lasted until 2017. Another owner gave it a go as **Paula’s Kitchen**, opening at a partuclary precarious time during the COVID-19 pandemic in 2020. 
+The business lasted until about 2013, when it was again available for sale. A new family purchased #806 in January of 2014, changed the name back to the Elwood Diner, but lasted until 2017. Another owner gave it a go as **Paula’s Kitchen**, opening at a particularly precarious time during the COVID-19 pandemic in 2020. 
 
 
 ### Current Events
 
-Most recently (March 2021), the former Elwood Diner was listed for sale[^1]. We are unsure if it has sold to a new entreprenuer yet. 
+Most recently (March 2021), the former Elwood Diner was listed for sale[^1]. We are unsure if it has sold to a new entrepreneur yet. 
 
 [^1]: “Do You Want to Buy a Diner?,” GoLocalProv.com, March 19, 2021 captured September 16, 2021 from https://www.golocalprov.com/food/Do-You-Want-to-Buy-a-Diner. 
 
@@ -90,7 +97,7 @@ Most recently (March 2021), the former Elwood Diner was listed for sale[^1]. We 
 
 _Excerpted from the National Register Nomination Form, prepared by Sarah Zurier and Kim A. Smith_
 
-Central Diner — Worcester Lunch Car Company Diner #806 — is an excellent example of the classic barrel-roofeddinerthatwaswidelyproducedbythecompanythroughoutthetwentiethcentury. It is a one-story, steel-framed prefabricated structure, measuring ten feet six inches in width by forty feet in length with three-foot projecting roof overhangs on each end. The present front vestibule and concrete block kitchen and dining room extension at the rear are later additions.
+Central Diner — Worcester Lunch Car Company Diner #806 — is an excellent example of the classic barrel-roofed diner that was widely produced by the company throughout the twentieth century. It is a one-story, steel-framed prefabricated structure, measuring ten feet six inches in width by forty feet in length with three-foot projecting roof overhangs on each end. The present front vestibule and concrete block kitchen and dining room extension at the rear are later additions.
 
 A flat-roofed, projecting stainless steel-clad entry vestibule projects from the front (east) elevation. Its form and massing are compatible with the diner’s historic façade. Lining the front wall on each side of the entrance are red porcelain enamel panels set beneath one-over-one aluminum windows. The panels are secured by red porcelain enamel battens. The windows have an operable lower sash which raises a screen that is recessed within the front wall, and windows are separated by a pale yellow vertical porcelain panel. A black porcelain enamel window sill, underscored by a bright yellow horizontal batten, delineates the upper and lower halves of the diner. […]
 
