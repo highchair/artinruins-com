@@ -96,7 +96,7 @@ It also does not hurt that the building reused material that would otherwise be 
 + Developer: [Truth Box Architects](//www.truthbox.com){:target="_blank"}
 + Architect: Distill Studio (Joe Haskett, principal, now with Union Studio)
 + Builder: [Stack Design Build](//stackac.com){:target="_blank"}
-+ Development Consultant: [Durham Polak](//www.durhampolak.com){:target="_blank"}
++ Development Consultant: [Durham Polak](http://www.durhampolak.com){:target="_blank"}
 
 
 ### In the News

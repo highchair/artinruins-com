@@ -8,7 +8,7 @@ built: '2008-2009'
 parcel: '2c'
 demolition: 
 redeveloped: 
-decade: '2000-2010'
+decade: '2000-2009'
 date-added: '2009'
 categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'Smith Hill' ]

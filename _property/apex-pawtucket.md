@@ -71,8 +71,7 @@ imagescredit: 'Contributions by Jake Gorst, C.F., the Providence Historical Aeri
 
 external:
   - source: 'ThrowBackThursday: Celebrating Pawtucket, Providence Journal'
-    url: '//www.providencejournal.com/photogallery/PJ/20180920/NEWS/920009999/PH/1'
-    #url: https://perma.cc/D2JV-Y8YE
+    url: https://perma.cc/D2JV-Y8YE
   - source: 'Billy Turbitt Facebook page share, original source Providence Journal'
     url: 'https://www.facebook.com/photo?fbid=3614448851922515&set=gm.3408004512591193
     https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/119973316_3614448855255848_6138480143601186102_n.jpg?_nc_cat=100&_nc_sid=ca434c&_nc_ohc=BDo4idu6TBEAX8FHUTE&_nc_ht=scontent-bos3-1.xx&oh=640564ca2d779d34c835875340d7fe4d&oe=5F92A85B&dl=1'

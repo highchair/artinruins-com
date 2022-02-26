@@ -11,7 +11,7 @@ units:
 decade: '1920-1929'
 date-added: '2022'
 categories: [ '#ArchiveRI' ]
-neighborhoods: [ 'Fox Point' ]
+neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [] #Alfred Johnston
 people: [ 'Tony Mastronardi' ]

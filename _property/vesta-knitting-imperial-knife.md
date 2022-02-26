@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'Providence Jewelry Manufacturing Historic District', 'Providence Industrial Sites 1981' ]
-tags: [ 'Superlatives' ]
+tags: [ 'The Superlatives' ]
 superlative: 'Once the largest manufacturer of cutlery in the world'
 
 NRHP-ref-number: '85003088 (contributing)'

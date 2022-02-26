@@ -34,7 +34,7 @@ images:
     alt: 'A series of steel-reinforced concrete columns, retaining walls, ramps, and overhead roadways that used to cut through downtown Providence and the Fox Point neighborhood'
   - url: i-195-over-wickenden-jh-2010-03-01.jpg
     caption: 'View looking north-northwest at the northern overpass wall'
-  - url: i-195-over-Wickenden-jh-2010-03-02.jpg
+  - url: i-195-over-wickenden-jh-2010-03-02.jpg
     caption: 'Detail of the Van Gogh portrait'
   - url: i-195-over-wickenden-jh-2010-03-03.jpg
     caption: 'View north from South Water Street'
