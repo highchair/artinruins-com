@@ -1,4 +1,4 @@
- 
+<?php date_default_timezone_set('America/New_York'); ?>
       <fieldset> 
         <legend class="u__sr-only">Send us your anecdote</legend>
         <div class="form__group__wrapper">
@@ -13,7 +13,7 @@
         </div>
         <div class="form__group form__pollen">
         	<label for="website">Website:</label>
-        	<input id="website" name="website" type="url" class="form__url form__input--url" placeholder="http://www.domain.com" tabindex="0">
+        	<input id="website" name="website" type="url" class="form__url form__input--url" placeholder="http://www.domain.com" tabindex="-1">
         </div>
         <div class="form__group">
         	<label for="name">Anecdote:</label>

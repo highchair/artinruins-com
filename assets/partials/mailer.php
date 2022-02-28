@@ -45,12 +45,14 @@ if ( count($_POST) ) {
     $spam = true;
   }
   // If a certain amount of time has NOT elapsed, this is a robot
-  // The form itself loads only after 15 seconds
-  // If a submission comes in under 15 seconds, this is a bot trying to hit the mailer.php script externally
-  if ( ($now - $timeofinput) < 15 ) {
-    error_log('Mailer.php — The time between then and now was less than 15 seconds: Now=' . $now . ' and Then=' . $timeofinput);
+  // The form itself loads only after 10 seconds
+  // If a submission comes in under 10 seconds, this is a bot trying to hit the mailer.php script externally
+  if ( ($now - $timeofinput) < 10 ) {
+    error_log('Mailer.php — The time between then and now was less than 10 seconds: Now=' . $now . ' and Then=' . $timeofinput . ' and ($now - $timeofinput) = ' . ($now - $timeofinput) );
     $spam = true;
   }
+//now  2022 02 26 121447
+//then 2022 02 26 171002
 
   $property = htmlspecialchars($property);
   $theirname = htmlspecialchars($theirname);
@@ -62,11 +64,15 @@ if ( count($_POST) ) {
     $to = 'info@artinruins.com';
     $subject = "Anecdote about ". $property;
     
-    $bodyofmessage .= "From: ".$theiremail."\n\n";
-    $bodyofmessage = "- property: ".$property."\n";
+    $bodyofmessage = "From: ".$theiremail."\n\n";
+    $bodyofmessage .= "- property: ".$property."\n";
     $bodyofmessage .= "  person: '".$theirname."'\n";
     $bodyofmessage .= "  date: '".date('Y-m-d')."'\n";
     $bodyofmessage .= "  content: '".$anecdote."'\n";
+    $bodyofmessage .= "\n" . "Antispam checks: \n";
+    $bodyofmessage .= "Time of post process = ".$now."\n";
+    $bodyofmessage .= "Time of input = ".$timeofinput."\n";
+    $bodyofmessage .= "Now minus then = ".($now - $timeofinput);
     
     $headers = "From: ". $theiremail . "\r\n" . "Reply-To: " . $theiremail . "\r\n" . "X-Mailer: PHP/" . phpversion();
     
@@ -82,7 +88,7 @@ if ( count($_POST) ) {
   } else {
     // This message is likely spam — Treat it with a generic success message
     error_log('Mailer.php — This message was likely spam so a fake Thank You message was provided');
-    echo '<!doctype HTML><html lang="en"><head><title>No post | ArtInRuins</title><meta charset="utf-8"><meta http-equiv="refresh" content="15;url=/property/'.$property.'"><link rel="stylesheet" type="text/css" href="/assets/css/main.css"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"></head><body class="content rhythm u__vertical__p u__gutter__p"><h1>Thank you</h1><p>Your message has been sent.</p></body></html>';
+    echo '<!doctype HTML><html lang="en"><head><title>Thanks | ArtInRuins</title><meta charset="utf-8"><meta http-equiv="refresh" content="15;url=/property/'.$property.'"><link rel="stylesheet" type="text/css" href="/assets/css/main.css"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"></head><body class="content rhythm u__vertical__p u__gutter__p"><h1>Thank you</h1><p>Your message has been sent.</p></body></html>';
   } 		
 } else {
   // No post found

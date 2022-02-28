@@ -116,6 +116,9 @@ document.addEventListener("DOMContentLoaded", function() {
     anecdoteButton.addEventListener('click', function(j) {
       loadAnecdoteForm();
     });
+    // Load the form only after 10 seconds have past
+    // BUT not if someone has clicked the button to load it manually (see function above)
+    var executeLoadAnecdoteForm = setTimeout(loadAnecdoteForm, 10000);
   }
   
   // Randomly assign a "Surprise Me" link one of our properties

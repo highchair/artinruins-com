@@ -31,15 +31,20 @@ function loadAnecdoteForm() {
     // Return early if the request is not complete
     if (this.readyState !== 4) return;
     // Process our return data
-    var targetElement = document.getElementById('js__insert-form');
-    if (targetElement !== null && targetElement !== '') {
-      if (this.status >= 200 && this.status < 300) {
-        //console.log('success!', this);
-        targetElement.innerHTML = this.responseText;
-      } else {
-        //console.log('Whoops, the request failed!');
-        if (this.status == 404) {
-          targetElement.innerHTML = "External Page not found.";
+    // Get the load button. If it still exists, the form has not yet been loaded
+    var anecdoteButton = document.getElementById('js__load-form');
+    if (anecdoteButton !== null && anecdoteButton !== '') {
+      // Now get the form and replace its contents
+      var targetElement = document.getElementById('js__insert-form');
+      if (targetElement !== null && targetElement !== '') {
+        if (this.status >= 200 && this.status < 300) {
+          //console.log('success!', this);
+          targetElement.innerHTML = this.responseText;
+        } else {
+          //console.log('Whoops, the request failed!');
+          if (this.status == 404) {
+            targetElement.innerHTML = "External Page not found.";
+          }
         }
       }
     }
@@ -47,8 +52,6 @@ function loadAnecdoteForm() {
   xhr.open('GET', '/assets/partials/anecdote-form.php');
   xhr.send();
 }
-// Load the form only after 15 seconds have past
-var executeLoadAnecdoteForm = setTimeout(loadAnecdoteForm, 15000);
 
 // If JS is loaded, change the body class
 document.addEventListener("DOMContentLoaded", function() {
