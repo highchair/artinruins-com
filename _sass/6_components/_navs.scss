@@ -18,7 +18,7 @@
 //      </li>
 //      <li><a href="#">About</a></li>
 
-$nav-v-padding: 1rem;
+$nav-v-padding: 0.375rem;
 $nav-h-padding: 1rem;
 $nav-bg-color: palette('brand-teal-dark');
 $nav-max-width: rem(288);
@@ -28,7 +28,7 @@ $text-logo-height: 50px;
 
 .brand {
   flex: 0 1 56px;
-  padding: $nav-v-padding $nav-h-padding;
+  padding: 1rem $nav-h-padding;
   
   &__logo {
     display: block;
@@ -91,7 +91,7 @@ $text-logo-height: 50px;
   }
   
   @include breakpoint-up(x-large) {
-    padding-top: ($nav-v-padding * 2);
+    padding-top: 2rem;
     
     &__logo {
       margin: 0 auto;
@@ -147,7 +147,7 @@ header {
       
       a {
         color: palette('brand-orange');
-        padding: $nav-v-padding ($nav-h-padding/2) 0;
+        padding: $nav-v-padding ($nav-h-padding/2);
         white-space: nowrap;
         
         @include hover-focus {
@@ -190,7 +190,7 @@ header {
       margin: 0 auto;
       
       & > ul {
-        padding: 0;
+        padding: 0.75rem 0 0;
         margin-left: - ($nav-h-padding/2);
       }
     }
@@ -219,7 +219,7 @@ header {
     border-right: 1px solid rgba(#000, .25);
     border-left: 1px solid rgba(#fff, .25);
     color: palette('brand-yellow');
-    padding: ($nav-v-padding/2) $nav-h-padding;
+    padding: $nav-v-padding $nav-h-padding;
     text-align: center;
     white-space: nowrap;
     

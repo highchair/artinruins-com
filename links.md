@@ -178,7 +178,7 @@ Rhode Island’s only [statewide non-profit preservation organization](//www.pre
 
 ### Rhode Island Historical Society
 
-Founded in 1822, the [Rhode Island Historical Society](//wwwrihs.org){:target="_blank"} is a privately endowed, membership organization dedicated to collecting, preserving, and sharing Rhode Islands history.
+Founded in 1822, the [Rhode Island Historical Society](//www.rihs.org){:target="_blank"} is a privately endowed, membership organization dedicated to collecting, preserving, and sharing Rhode Islands history.
 
 ### Summit Neighborhood Association
 

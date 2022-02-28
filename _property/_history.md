@@ -331,7 +331,6 @@ Historic
 
 Redeveloped
 + 101 North Main Street
--??- AT Wall Co.
 + Capt. Tillinghast House
 + Davis Lofts (407pinest)
 + Dunkin Donuts Center

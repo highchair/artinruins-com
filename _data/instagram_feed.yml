@@ -2,6 +2,10 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: builders-iron-foundry-office
+  date: '2022-02-21'
+  insta_link: https://www.instagram.com/p/CaN3VzlLOlL/
+
 - post: ri-braiding-machine
   date: '2022-02-09'
   insta_link: https://www.instagram.com/p/CZxmi1TLyxJ/
