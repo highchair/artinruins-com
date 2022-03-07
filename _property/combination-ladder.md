@@ -2,7 +2,8 @@
 title: "Combination Ladder Company"
 slug: combination-ladder
 aka: 'Salvadore Tool & Findings, Waterman Stables, West Fountain Lofts'
-date-modified: 2021-09-03 12:00
+date-modified: 2022-02-26 12:00
+update: 'Added three more photos we found from 2014'
 
 built: '1905'
 demolition:
@@ -34,7 +35,7 @@ thumbnail: combo-ladder-jh-2020-12-01.jpg
 images:
   - url: combo-ladder-unknown-1951-05-01.jpg
     caption: 'Photo found on Facebook the person posting it says it was dated May 1951. The building behind seems to be the 383 West Fountain Street building at the corner of Cargill St. Notice the rough hewn granite window lintels.'
-    alt: ''
+    alt: 'A group of low and wide two-story red brick buildings joined by a one story portion. Spaces were industrial in use and converted to office space in the 70s and 80s, but recently have been converted to mixed-use residential with restaurant and commercial space as well.'
   - url: combo-ladder-jh-2006-04-01.jpg
     caption: 'View looking east of 393-391 West Fountain street (foreground left) with the one story mid-century buildings in center and the 383-381 West Fountain building far right'
   - url: combo-ladder-jh-2006-04-02.jpg
@@ -59,6 +60,9 @@ images:
     caption: 'Photos from P.C.I.S. (Providence Commerical Indistrial Space), Erik Bright and Lisa Carnevale, circe 2007 — 383 West Fountain 1st floor west'
   - url: pcis-385-393-01.jpg
     caption: 'Photos from P.C.I.S. (Providence Commerical Indistrial Space), Erik Bright and Lisa Carnevale, circe 2007 — 393-391 West Fountain 1st and 2nd floors'
+  - url: combo-ladder-jh-2014-04-01.jpg
+  - url: combo-ladder-jh-2014-08-01.jpg
+  - url: combo-ladder-jh-2014-08-02.jpg
   - url: combo-ladder-jh-2020-12-01.jpg
   - url: combo-ladder-jh-2020-12-02.jpg
   - url: combo-ladder-jh-2020-12-03.jpg
