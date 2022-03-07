@@ -12,6 +12,14 @@
 
 # Check validity with http://www.yamllint.com/
 
+- property: ashburton-fire-station
+  person: 'Harry Cohoon'
+  date: '2022-03-02'
+  content: 'As a Fire Service history and especially Providence Fire History enthusiast, I can emphatically state this was NOT a fire house at anytime. The architecture is from the 1880s and even if it had a Fire Service history and was used during the horse drawn years (which ended in the 1920s), horses and apparatus would have been stored on the first floor. Their human counterparts lived on the second floor of fire houses as they still do.
+
+
+I do enjoy this website and greatly appreciate the efforts of interested parties in the preservation of sites through photography — The greatest invention in the history of mankind.'
+
 - property: m-n-cartier
   person: 'Joe Ledoux'
   date: '2022-02-09'

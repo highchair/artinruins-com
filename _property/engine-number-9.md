@@ -2,7 +2,8 @@
 title: "Engine No. 9"
 slug: engine-number-9
 aka: 
-date-modified: 2020-12-30 12:00
+date-modified: 2022-03-06 12:00
+update: 'Added history submitted by Harry Cohoon from “Fire and Firefighters in Providence”'
 
 built: '1856'
 demolition: 
@@ -65,6 +66,18 @@ _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS a
 It is a two-story, end-gable, brick building with a round-arch central entrance on the façade set below a fanlight with tracery. A sign reading: “Engine Station 9” spans the central entrance. The building is embellished by a symmetrical façade, center entry, corbelled cornice, and arched Italianate-style windows. A pedestrian entrance is located in a brick ell on the side elevation that houses a stairway. The entrance is set below a blocked transom. Fenestration is comprised of round-arch openings with 12/9 and 9/9 sash with stone sills. Lozenge-shaped tie rods extend along the side elevation between the first and second stories. A two-story, gable-roof ell projects from the building’s rear elevation.
 
 Built ca. 1856, the gable-roofed fire station on Pallas Street housed a school for delinquent boys in the early twentieth century. The building also served as home to the Veteran’s Club of Rhode Island and in 1980 it was used for jewelry manufacturing (Woodward 1986:208; RIHPHC data sheet).
+
+***
+
+_From “Fires and Firefighters in Providence,” Patrick Conley and Paul Campbell, 1985_
+
+In January 1838 Providence Fire Engine Company No. 9 (Gaspee Company) was incorporated, having commenced duty in 1837 on Carpenter Street in the Smith Hill area, then the extreme northwest section of Providence. Eventually the Gaspee station moved to nearby Pallas Street. This unit originally manned a second-hand Smith engine, but in 1849 it acquired a machine from William Jeffers of Pawtucket, who was beginning his career as one of the nation’s highly regarded fire engine manufacturers. This piece of apparatus later became famous its appearances at regional firefighting musters and exhibitions. It disappeared mysteriously in 1956 after a fire prevention parade in Providence, and the whereabouts of the valuable and legendary “Gaspee No. 9” is still unknown.
+
+In 1886 Engine 9 was moved to new and incredibly beautiful quarters at the [corner of Atwells and America](//provlibdigital.org/islandora/object/islandora%3A5645){:target="_blank"}. It was demolished in the 1950s for parking and remains so today. 
+
+_— Submitted by Harry Cohoon_
+
+***
 
 _From the “Broadway-Armory Historic District” National Register nomination form, 1974_
 

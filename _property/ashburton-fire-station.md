@@ -2,13 +2,14 @@
 title: "Ashburton Fire Station"
 slug: ashburton-fire-station
 aka: 'Antiques & Interiors'
-date-modified: 2021-11-05 12:00
+date-modified: 2022-03-03 12:00
+update: "Modified the build date to an older one and added some context for this change"
 
-built: '1936-1937'
+built: '1900'
 demolition:
 redeveloped:
 units:
-decade: '1930-1939'
+decade: '1900-1909'
 date-added: '2009'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'North End', 'Charles' ]
@@ -52,7 +53,7 @@ mostrecentimage: 2021-11-01
 
 During 2006 to 2018 or so, owner Maria Bernal was a bit of a pioneer. As far as we can tell, this business owner also lived above her ground floor antiques store in a former firehouse. Before Snookers took over the neighboring [Damiano Brothers]({% link _property/damiano-brothers.md %}) building, and way before the former [J.L. Clark Manufacturing]({% link _property/j-l-clark-manufacturing.md %}) started to be converted into residential spaces. She survived as a boutique destination purveyor of mid-century antiques amongst a liquor store, an adult store, some light manufacturing, a gas station, and the post office. 
 
-Not much is known or can be found about the building itself. We place its construction at 1936 to 1937. It was originally constructed as a fire station housing engines on the first floor and horses on the second. Later it was a boiler manufacturer and then an evangelical church. 
+Not much is known or can be found about the building itself. We place its construction at 1936 to 1937. If it was originally constructed as a fire station, it would have housed engines and horses on the first floor and firemen on the second. Later it was labelled as a boiler manufacturer and then an evangelical church. 
 
 
 ### Current Events
@@ -62,13 +63,16 @@ Google lists the former business located here as “Permanently Closed.”
 
 ### History
 
-Listed on the Northeast Firenews website as a retired station built in 1940.[^1] This building shows up on a G.M. Hopkins cadastral map from 1937[^2] labelled as “D.F. McCarthy, Est.” In aerial photos, this building is present starting in the 1939 photo.[^3]
+Listed on the Northeast Firenews website as a retired station built in 1940.[^1] This building shows up on a G.M. Hopkins cadastral map from 1937[^2] labelled as “D.F. McCarthy, Est.” In aerial photos, this building is present starting in the earliest 1939 photo.[^3]
 
 [^1]: Captured November 2, 2021 from http://www.firenews.org/ri/p/providence/providenceri.html
 
 [^2]: Captured November 4, 2021 from Plate 30 at http://www.historicmapworks.com/Map/US/895487/Plate+030/Providence+1937/Rhode+Island/ 
 
 [^3]: Seen in results from the Providence Historic Aerial Viewer. Captured November 4, 2021 from https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e 
+
+An anecdote from Fire History enthusiast Harry Cohoon (below) rejects that this was a fire station and thinks that the building is likely older than 1930s as we previously noted. He is probably correct. [An 1920-1921 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){target="_blank"} shows a brick building of a similar footprint at this location of 63-65 Ashburton. And again, [as early as an 1899 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002){target="_blank"}, this building seems to be in place but smaller and labelled as “Livery.” We have since changed the likely build date to 1900, but the building could be even older than that. 
+
 
 #### Architecture
 

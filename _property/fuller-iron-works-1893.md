@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'Providence Industrial Sites 1981' ]
-tags: [ 'Demolition by Progress', 'The Superlatives' ]
+tags: [ 'Berlin Bridge Company', 'Demolition by Progress', 'The Superlatives' ]
 superlative: [ 'The first all glass and steel industrial building built in Providence' ]
 
 NRHP-ref-number:
