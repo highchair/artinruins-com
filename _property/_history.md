@@ -90,7 +90,7 @@ Redeveloped
 + Alice Building
 + American Woolen / Riverside Mills
 + Trinity Rep Extension, Citizens Bank
-++ Dunlop Tire / Providence Teaming Co.
++ Dunlop Tire / Providence Teaming Co. / Conley Wharf
 + East Side Tunnel Reopened?
 + Hotel Providence / Lederer building and Bell dormitory
 + Lerner / Wilkinson bldg

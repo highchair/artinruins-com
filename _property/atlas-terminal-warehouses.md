@@ -78,11 +78,13 @@ On August 22, 2011, Cumberland Farms received permission from the Providence His
 
 The giant warehouses were solid structures and had managed to survive 15 years of neglect with damage to the windows and some vandalism. Given their size and the sheer bulk of their mass, however, they were still structurally sound. The problem was more that they were huge, posed an insurance risk, and would have been hard to convert into something more desirable. Even though they were located along the waterfront, they were along the _working_ waterfront, which is not a desirable location for most commercial or residential use. 
 
-During Vincent “Buddy” Cianci’s administration, it was proposed to redevelop the waterfront with a plan called “New Cities”. New Cities would create “Narragansett Landing”, a 200-acre development on land that is currently occupied by oil and gas storage facilities, as well as the Promenade (behind the mall) and Westminster Crossings (over the highway I-95). The idea of New Cities stuck around during the Cicilline’s administration, although nothing moved forward with it (Patrick Conley moved forward with his own version, called “Providence Piers” alongside the former [Dunlop Tire]({% link _property/dunlop-tire.md %}) building, but nothing materialized except a boat dock).
+During Vincent “Buddy” Cianci’s administration, it was proposed to redevelop the waterfront with a plan called “New Cities”. New Cities would create “Narragansett Landing”, a 200-acre development on land that is currently occupied by oil and gas storage facilities, as well as the Promenade (behind the mall) and Westminster Crossings (over the highway I-95). The idea of New Cities stuck around during the Cicilline’s administration, although nothing moved forward with it (Patrick Conley moved forward with his own version, called “Providence Piers” alongside the former [Dunlop Tire]({% link _property/providence-gas-purifier-house.md %}) building, but nothing materialized except a boat dock).
+
 
 ### Current Events
 
 The land currently is used as waterfront storage by nearby businesses. 
+
 
 ### History
 
@@ -91,6 +93,8 @@ _Excerpts from Rhode Island Historical Resources Archive (RIHRA PROV-0001)_
 The Atlas and Shepherd buildings are two large, five-story warehouses intended as the two ends of a gargantuan warehouse at the Port of Providence, however, the middle sections were never constructed. The buildings were used for the storage of freight from the State Pier and were considered burglarproof and fireproof when constructed. 
 
 The current owner, Cumberland Farms, Inc. (CFI) relocated their Canton, Massachusetts headquarters in 1984, at which time it began using Shepherd, Atlas and the out buildings for a variety of storage and repair shop uses. According to CFI’s Construction Purchasing Supervisor, Jose Moreira, who started at CFI in 1986, three floors of the Shepherd Building were used to store fixtures and equipment from their retail outlets, and with the 1987 merger with Gulf Oil, extra signage. The Atlas Building was used from 1987 to 1992 for sheet metal repairs for their retail storefront and canopy components. The single story outbuildings contained material for construction, HVAC systems, gas pumps and new equipment until September 16, 2007. The garage in front continues in use to service and repair Gulf Oil tanker trucks.
+
+***
 
 _From Providence Preservation Society’s “2010 Most Endangered Properties List”_
 
