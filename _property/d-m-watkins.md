@@ -15,7 +15,7 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS Preservation Awards', 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: [ 'College Properties', 'Johnson & Wales University' ]
 
 NRHP-ref-number:

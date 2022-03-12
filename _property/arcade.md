@@ -15,7 +15,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'James C. Bucklin', 'Russell Warren' ]
 people: [ 'Cyrus Butler' ]
-lists: [ 'Rhody Awards', 'Downtown Providence National Historic District', 'National Register of Historic Places', 'HABS HAER' ]
+lists: [ 'PPS Preservation Awards', 'Rhody Awards', 'Downtown Providence National Historic District', 'National Register of Historic Places', 'HABS HAER' ]
 tags: [ 'The Superlatives', 'Malls' ]
 superlative: 'The first indoor shopping facility and finest Greek Revival monuments in this country'
 
