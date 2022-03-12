@@ -15,25 +15,25 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'DBVW Architects' ] #Samuel Lerner
 people: []
-lists: []
+lists: [ 'PPS Preservation Awards' ]
 tags: [ 'Johnson & Wales University' ]
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: ''
-latitude: ''
-longitude: ''
-gmap: ""
+address: '35 Claverick St, Providence RI'
+latitude: '41.8178734'
+longitude: '-71.4148935'
+gmap: "https://www.google.com/maps/place/35+Claverick+St,+Providence,+RI+02903/@41.8178734,-71.4148935,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456c85309b33:0x295b69cbb7cac43e!8m2!3d41.8178734!4d-71.4127048"
 
 meta: ""
-excerpt: ""
+excerpt: "A mid-century brick indistrial building on the edge of the Jewelry District is given new life as part of Johnson & Wales University"
 
 thumbnail: claverick-jh-2020-03-03.jpg
 
 images:
   - url: claverick-jh-2011-08-01.jpg
-    alt: ''
+    alt: 'A two-story red brick industrial building on a raised basement with a cement beltcourse above each row of windows and a flat roof. The original recessed entrance is located on the southern side, two stories high and wide as a double door. A new entrance addition was added to the northwest corner. Windows are rectangular and laid edge to edge to form a continuous band around two of the building’s corners.'
   - url: claverick-jh-2011-08-02.jpg
   - url: claverick-jh-2013-03-01.jpg
   - url: claverick-jh-2013-03-02.jpg
@@ -56,19 +56,22 @@ imagescredit:
 
 ### Redevelopment
 
+This 17,000 square foot nondescript and unnamed building on the edge of the Jewelry District got a makeover and a 1,800 square foot addition as it transformed from industrial/office to space for classrooms, labs, lecture hall, library, and administrative offices. The concrete and glass addition added new circulation space to the building with a dramatic main entrance. The building has received <a class="abbr" href="//www.usgbc.org/help/what-does-leed-stand" target="_blank">LEED</a> Gold Certification for its efficiency.[^1]
 
-This 17,000-square-foot renovation and 1,800 square feet of newly constructed space transforms a historic jewelry manufacturing facility into a vibrant, high-tech Center for Physician Assistant Studies for Johnson and Wales University. The addition features a new main entrance, learning common spaces with floor-to-ceiling glass, and a prominent glass-enclosed stairway. The building also includes a gross anatomy lab, a clinical skills practice lab, a 60 person lecture hall, an active learning classroom for 48 students, a library, and administration space. The building has received LEED Gold Certification.
-https://dbvw.com/projects/jwu-center-for-physician-assistant-studies/
+[^1]: Information gleaned from the architect’s portfolio entry for this property. Captured March 6, 2022 from https://dbvw.com/projects/jwu-center-for-physician-assistant-studies/ 
 
-2014 Design Awards
-https://aia-ri.org/design-award/johnson-wales-center-for-physician-assistant-studies/
+In addition to its environmental certification, the project also received a 2014 Design Award from the <span class="abbr">AIA</span> RI chapter[^2], a 2014 Preservation Award from the Providence Preservation Society[^3], and a 2015 GrowSmart RI Award[^4].
 
-2015 GrowSmart RI Award
-https://www.youtube.com/watch?v=A61fXtD-kPk&t=19s
+[^2]: Captured March 6, 2022 from https://aia-ri.org/design-award/johnson-wales-center-for-physician-assistant-studies/
+
+[^3]: Captured March 6, 2022 from https://web.archive.org/web/20150324220348/http://ppsri.org/preservation-awards/johnson-wales-university-s-center-for-physician-assistant-studies-rehabilitation-award_
+
+[^4]: Captured March 6, 2022 from https://www.youtube.com/watch?v=A61fXtD-kPk&t=19s
 
 
 ### Current Events
 
+The building is now home to Johnson & Wales’ training program for Physician Assistants. 
 
 
 ### History
@@ -83,7 +86,7 @@ The project team paid special attention to the character-defining windows, fabri
 
 The project team would like to thank Michael Viveiros from Durkee, Brown, Viveiros & Werenfels Architects; Chris Maury, Justin Bernard, David Presbrey, and Aimee Kingston from Shawmut Design and Construction; and the City of Providence Department of Planning and Development.
 
-_— Captured on March 6, 2022 from an Archive.org capture at https://web.archive.org/web/20150324220348/http://ppsri.org/preservation-awards/johnson-wales-university-s-center-for-physician-assistant-studies-rehabilitation-award_
+_— Captured on March 6, 2022 from an Archive.org snapshot at https://web.archive.org/web/20150324220348/http://ppsri.org/preservation-awards/johnson-wales-university-s-center-for-physician-assistant-studies-rehabilitation-award_
 
 
 ### In the News
@@ -121,5 +124,4 @@ JWU has submitted documents seeking provisional accreditation from the Accredita
 
 The training program, which runs year round, will be “pretty intense,” said Bottomley, with the first year devoted to classroom instruction and the second year to clinical rotations. Graduates, he said, are most likely to stay to practice in Rhode Island. Starting salaries vary by specialty and location. In primary care, pay starts “somewhere in the mid-70s to mid-80s,” Bottomley said. The national median salary for a currently practicing PA is $93,000, he said.
 
-— FREYER, FELICE J.. “EDUCATION | J&W planning program for physician aides.” Providence Journal (RI), 1 ed., sec. News, 17 Dec. 2012, p. MAIN_01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524219D80FE8FF8. Accessed 6 Mar. 2022.
-
+— Freyer, Felice J.. “EDUCATION \| J&W planning program for physician aides.” Providence Journal (RI), 1 ed., sec. News, 17 Dec. 2012, p. MAIN_01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524219D80FE8FF8. Accessed 6 Mar. 2022.
