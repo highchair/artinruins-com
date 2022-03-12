@@ -1,16 +1,15 @@
-# Use regular expressions
-# Search: <p><span class="person">(.*?)</span>(.*?)<span class="date">(.*?)</span>(.*?)</p>
-# Replace: - property: narragansett-race-track\n  person: '\1' \n  date: '\3' \n  content: '\4'\n
-
-# Search: <p><span class="person">(.*?)</span>(.*?)</p>
-# Replace: - property: narragansett-race-track\n  person: '\1'\n  content: '\2'\n
-
-# &ldquo; &rdquo; &lsquo; &rsquo; &hellip; &ndash; &#8211; (—)
-# One HTML anchor link left: <a href="/arch/?id=decay&amp;pr=seekonkbridge"
-
-# (**A.I.R.**: blah blah)
-
 # Check validity with http://www.yamllint.com/
+# Our two cents: (**A.I.R.**: blah blah)
+
+- property: ri-mall
+  person: 'Donna '
+  date: '2022-03-11'
+  content: 'One of my favorite childhood memories is of my mother taking my sister and me to the Singer Sewing Machine Store in the Midland Mall in/around 1967. Does anyone know what year Singer left the mall? I’d love to see some photos of the store if there are any somewhere. Thanks so much!'
+
+- property: fort-adams
+  person: 'Kimberly Cliff Swartz'
+  date: '2022-03-10'
+  content: 'My father attended the Naval War College 1970-1971. Our family lived on 4B Jackson Road. As I remember, our  pink, L-shaped house, a combination of two quarters, was located across from a field that was in front of one side of the fort. I think the house is gone now because I can’t find a house that shape anywhere in Google Earth. We used to love to go exploring the fort. Some of the walls had pieces of old wallpaper. We had no idea what the rooms were used for so it was fun to speculate what went on there. My neighbor and I would go over to the fort early in the morning to run the wide open space. It was fun to go through the fort to see the sailboats. I will submit a few photos I found of the fort. I wish I had more!'
 
 - property: ashburton-fire-station
   person: 'Harry Cohoon'
@@ -8837,7 +8836,7 @@ I’ve spent some time on Federal Hill – a good friend of mine used to live th
 
 - property: blue-coal
   person: 'bob renell'
-  content: 'Having grown up in rhode island in the 60’s and 70’s and now living in the mid west, its sad to see money, and greed, destroying the things that built the blue collar towns that supported the state for so many years. What next, <a href="/arch/?id=decay&amp;pr=seekonkbridge">the raised railroad bridge</a>?? Why not, they destroyed phillipsdale landing.'
+  content: 'Having grown up in rhode island in the 60’s and 70’s and now living in the mid west, its sad to see money, and greed, destroying the things that built the blue collar towns that supported the state for so many years. What next, <a href="/property/crook-point-bascule/">the raised railroad bridge</a>?? Why not, they destroyed phillipsdale landing.'
 
 - property: blue-coal
   person: 'Adam Waring'
