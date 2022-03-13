@@ -171,6 +171,12 @@ small,
   h6 + p, .h6 + p {
     margin-top: 0;
   }
+  
+  strong,
+  b {
+    // Slightly lighter than the body color
+    color: palette(gray-700);
+  }
 }
 
 
@@ -300,8 +306,6 @@ dd {
 //}
 
 // Inline typography elements
-//strong,
-//b,
 em,
 i,
 cite,
