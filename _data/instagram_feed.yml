@@ -2,8 +2,12 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+- post: niagara-station-17
+  date: '2020-03-12'
+  insta_link: 
+
 - post: prince-hall-masonic
-  date: '2020-12-29'
+  date: '2022-03-05'
   insta_link: https://www.instagram.com/p/CaurH1lLzRy/
 
 - post: builders-iron-foundry-office

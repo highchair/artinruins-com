@@ -1,7 +1,7 @@
 ---
 title: "Good Will Engine Company"
 slug: good-will-engine-co
-aka: 'Firehouse 13'
+aka: 'Retired Station 13, Firehouse 13'
 date-modified: 2021-02-21 12:00
 
 built: '1856'
