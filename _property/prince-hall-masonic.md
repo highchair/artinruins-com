@@ -2,8 +2,8 @@
 title: "Prince Hall Masonic Lodge"
 slug: prince-hall-masonic
 aka: 
-date-modified: 2020-12-28 12:00
-#update: 'A fire on Christmas morning gutted the building, but the Masonic Lodge members plan to rebuild, <a href="https://charity.gofundme.com/phglfa" target="_blank">and you can help</a>.'
+date-modified: 2022-03-16 12:00
+update: 'Added a photo from March 2022 of the property finally boarded up and the roof covered'
 
 built: 'circa 1890'
 demolition:
@@ -44,6 +44,7 @@ images:
   - url: prince-hall-jh-2020-12-05.jpg
   - url: prince-hall-jh-2020-12-06.jpg
   - url: prince-hall-jh-2020-12-07.jpg
+  - url: prince-hall-jh-2022-03-01.jpg
   - url: 1895-sanborn-map.jpg
     caption: 'A portion of an 1895 Sanborn Insurance Map showing only the label “School” where Prince Hall is located now. The building outline is the same, leading us to believe it is the same structure.'
 
@@ -61,6 +62,8 @@ A fire that started in the basement ravaged the building on Christmas morning. T
 The [Most Worshipful Prince Hall Grand Lodge of Rhode Island](//princehallmasonsglri.org/){:target="_blank"} are owners of the building and have been since 1966. Various activities take place and the Hall has been the center of a community for many members and non-members in the neighborhood. The basement level was home to the [Acacia Club](//princehallmasonsglri.org/acacia-club/){:target="_blank"}, which would showcase local and touring musicians. 
 
 Because of the significance of the structure and its history, the Providence Preservation Society added the building to its [Ten Most Endangered List of 2021](//ppsri.org/advocacy/mep/2021mep/){:target="_blank"} to call additional attention to efforts to save the structure and rebuild. 
+
+In March of 2022, after more than a year open and exposed to the elements, the building envelope was secured with plywood and plastic sheeting. 
 
 
 ### History
