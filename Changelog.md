@@ -3,6 +3,19 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2022-03-16
+
+Added
++ An SVG favicon file with dark mode alternate colors built in. Modernized the favicon mata tags. 
+
+## 2022-02-22
+
+Removed
++ The `_prod` environment folder and references to the environment. The `_stage` environment is now the production folder for rendered assets
++ The Production command will still be used for final builds, which should only change the way the JS is rendered
++ The `property-img/` folder is now ignored by the Production build
++ Incremental builds are now recommended for Stage
+
 ## 2022-01-29
 
 Changed

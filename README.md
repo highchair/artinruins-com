@@ -28,9 +28,6 @@ Builds into the Stage folder: `_stage`.
 
 In a browser, open [http://127.0.0.1:4090/](http://127.0.0.1:4090/)
 
-**NOTE:** Certain files are not built during local development to keep build times 
-speedy. Check the `_config.yml` file for a list of the pages that are excluded.
-
 
 ## Build the Site for Production
 
@@ -41,19 +38,19 @@ Optionally, add the future flag to publish posts that have a future timestamp.
 $ JEKYLL_ENV=production jekyll build --config _config_prod.yml --I
 ```
 
-Builds into the Production folder: `_prod`. Used so that we may conduct incremental 
-builds and only upload what has changed. 
+Builds into the Production folder: `_stage`. Used so that we may conduct incremental 
+builds and only upload what has changed. The `property-img` folder is ignored with this command,
+but incremental changes should be caught by Nova’s Publish difference engine.
 
 ### Supporting incremental builds
 
-In order to build these 200+ property pages quickly, we insert development-only changes
-via Javascript. The 1/assets/js/global.js` file has front matter in it to become part 
+In order to build these 300+ property pages quickly, we insert development-only changes
+via Javascript. The `/assets/js/global.js` file has front matter in it to become part 
 of the build process. If development, certain new scripts are added that change the 
-main navigation. 
+main navigation. **DO NOT upload this JS file to the Production site or you may put 
+development-only JS in place!** 
 
 The Google Global Tag is also added via JS as part of the cookie policy acceptance.
-Still, builds are not as incremental as we would like. If anyone has ways in which they
-see additional efficiencies, [please let us know](mailto:info@artinruins.com). 
 
 
 ## Custom post types (Collections)
