@@ -225,21 +225,32 @@ blockquote {
 
 hr {
   border: none;
-  border-top: 1px dotted palette('brand-teal');
-  height: 0;
+  height: 2em;
   line-height: 1;
   position: relative;
   width: 100%;
 
-  &:after {
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+  }
+  
+  &::before {
     color: palette('brand-teal');
     content: '* * *';
     font-size: 200%;
-    position: absolute;
-    top: -.375em;
-    left: 50%;
-    transform: translateX(-50%);
     line-height: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -0.44em);
+  }
+  
+  &::after {
+    border-top: 1px dotted palette('brand-teal');
+    top: 50%;
+    left: 0;
+    right: 0;
   }
 }
 
