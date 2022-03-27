@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Jenks and Ballou Architects', 'DBVW Architects' ]
 people: [ 'Edward Goff', 'Marsden J. Perry' ]
 lists: [ 'National Register of Historic Places', 'PPS Ten Most Endangered' ]
-tags: [ 'The Superlatives' ]
+tags: [ 'The Superlatives', 'LEED in RI' ]
 superlative: 'This power plant once boasted the largest steam engine in the world, weighing more than 500 tons'
 
 NRHP-ref-number: '06000553 (individual)'
@@ -146,7 +146,7 @@ April 2014
 : The <span class="abbr">HHM</span> organization agrees to sell an easement on the power station and tax credits attached to its potential redevelopment to CV Properties LLC — a Boston company led by Brown University graduate Richard Galvin. The museum corporation received $4.5 million from CV Properties in exchange for approximately $2.3 million in historic building tax credits and relinquishment of the easement. The museum also relinquished a $6-million second mortgage that came with an earlier transfer of the building to Struever Bros. The museum used about $500,000 to pay off a loan from the Providence Economic Development Partnership, which it used to buy those tax credits.[^9]
 
 December 2015
-: Developers break ground on the new project to be called **South Street Landing**. The building will achieve LEED Silver Certification and receives $49M in historic state and federal tax credits to finance its redevelopment in a private-pubic partnership.
+: Developers break ground on the new project to be called **South Street Landing**. The building will achieve <span class="abbr">LEED</span> Silver Certification and receives $49M in historic state and federal tax credits to finance its redevelopment in a private-pubic partnership.
 
 January 2016
 : Ground breaks on a 744-space concrete parking structure to the north of South Street Landing, designed by [Spagnolo Gisness & Associates]({% link designer/spagnolo-gisness-associates.html %}) (SGA).

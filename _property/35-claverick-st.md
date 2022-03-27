@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'DBVW Architects' ] #Samuel Lerner
 people: []
 lists: [ 'PPS Preservation Awards' ]
-tags: [ 'Johnson & Wales University' ]
+tags: [ 'Johnson & Wales University', 'LEED in RI' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -56,7 +56,7 @@ imagescredit:
 
 ### Redevelopment
 
-This 17,000 square foot nondescript and unnamed building on the edge of the Jewelry District got a makeover and a 1,800 square foot addition as it transformed from industrial/office to space for classrooms, labs, lecture hall, library, and administrative offices. The concrete and glass addition added new circulation space to the building with a dramatic main entrance. The building has received <a class="abbr" href="//www.usgbc.org/help/what-does-leed-stand" target="_blank">LEED</a> Gold Certification for its efficiency.[^1]
+This 17,000 square foot nondescript and unnamed building on the edge of the Jewelry District got a makeover and a 1,800 square foot addition as it transformed from industrial/office to space for classrooms, labs, lecture hall, library, and administrative offices. The concrete and glass addition added new circulation space to the building with a dramatic main entrance. The building has received <span class="abbr">LEED</span> Gold Certification for its efficiency.[^1]
 
 [^1]: Information gleaned from the architect’s portfolio entry for this property. Captured March 6, 2022 from https://dbvw.com/projects/jwu-center-for-physician-assistant-studies/ 
 

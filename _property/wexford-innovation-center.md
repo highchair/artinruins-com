@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: []
 people: []
 lists: [ 'I-195 District Parcels' ]
-tags: []
+tags: [ 'LEED in RI' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -85,7 +85,7 @@ The building was constructed on [land opened up by the I-195 redevelopment proje
 
 ### Design Reception
 
-Unlike some of the construction projects during the boom of 2000 to 2008, the aesthetics of this property did not meet with much pushback. With the open land in the Jewelry District, many residents and advocates for smart development were in favor of a modern, LEED-certified building like this one to provide contrast as one moves from the historic downtown and into the historic Jewelry District. 
+Unlike some of the construction projects during the boom of 2000 to 2008, the aesthetics of this property did not meet with much pushback. With the open land in the Jewelry District, many residents and advocates for smart development were in favor of a modern, <span class="abbr">LEED</span>-certified building like this one to provide contrast as one moves from the historic downtown and into the historic Jewelry District. 
 
 We think the design is pleasing enough, modern in a classic, simple way, and not gaudy or overly shiny. The bend in the middle provides some visual interest, while each façade has a slightly different window pattern — all glass with very little obstruction on the river-facing east, a gradually diminishing pattern on the north, a regularly spaced pattern on the south with a floating corner effect on one side, and a regularly spaced pattern on the west. It is subtle but it gives each side a little bit of variety. For interior users of the space, views towards the river and residential hills on the east are highlighted by having the most glass on that side. 
 

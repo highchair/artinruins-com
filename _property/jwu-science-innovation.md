@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [] # Edward Rowse Architects, Inc., Architectural Resources Cambridge, Inc.
 people: []
 lists: [ 'I-195 District Parcels' ]
-tags: [ 'Johnson & Wales University' ]
+tags: [ 'Johnson & Wales University', 'LEED in RI' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -77,11 +77,11 @@ We couldn’t find any opinions from the usual suspects about this building (we 
 
 _From SchoolDesigns.com_
 
-**Design team:** Edward Rowse Architects, Inc., Dimeo Construction (Construction Manager), Odeh Engineers (Structural Engineering), Thorton Tomasetti (LEED Consultant), Woodard & Curran (Civil Engineering), BR+A (M/E/P/FP Engineering), Birchwood Design Group (Landscape Architect)
+**Design team:** Edward Rowse Architects, Inc., Dimeo Construction (Construction Manager), Odeh Engineers (Structural Engineering), Thorton Tomasetti (<span class="abbr">LEED</span> Consultant), Woodard & Curran (Civil Engineering), BR+A (M/E/P/FP Engineering), Birchwood Design Group (Landscape Architect)
 
 […] The space consists of four science labs; 19 classrooms including technology and computer labs; presentation space; faculty offices; and a café. They all combine to create a collaborative and interdisciplinary learning environment. The lobby is used as a gallery to display project work and host events. At street level is an Innovation Laboratory / Maker’s Space featuring wide windows with display areas that enable pedestrians to see in; it is an active engineering lab. 
 
-[…] The design creates a central hub on campus where students and faculty come together and benefit from a variety of spaces to meet, collaborate on projects, and use the technology resources for hands-on learning. The building aims to achieve LEED Silver certification and comply with National Grid’s Advanced Buildings Program for increased energy efficiency.[^4]
+[…] The design creates a central hub on campus where students and faculty come together and benefit from a variety of spaces to meet, collaborate on projects, and use the technology resources for hands-on learning. The building aims to achieve <span class="abbr">LEED</span> Silver certification and comply with National Grid’s Advanced Buildings Program for increased energy efficiency.[^4]
 
 [^4]: “John J. Bowen Center For Science And Innovation.” SchoolDesigns.com, captured February 19, 2022 from https://schooldesigns.com/Projects/johnson-wales-university-john-j-bowen-center-for-science-and-innovation/
 

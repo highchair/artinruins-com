@@ -15,7 +15,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Truth Box Architects' ]
 lists: []
-tags: [ 'The Superlatives' ]
+tags: [ 'The Superlatives', 'LEED in RI' ]
 superlative: 'The first permanent, multistory office building in the United States made entirely from shipping containers'
 
 address: '460 Harris Ave, Providence RI'
@@ -76,7 +76,7 @@ _From the website of Durham Polak, development consultants_
 
 Fabricated from 35 recycled shipping containers, The Box Office transformed a vacant and abandoned Brownfield site at the urban periphery into a collaborative office and incubator space targeted to small companies […]. 
 
-The project consists of approximately 12,000 SF of newly constructed office space at the site of the [former Harris Lumber]({% link _property/546-harris-ave.md %}) warehouse on Providence’s west side. The building uses approximately 50% less energy than a typical new construction office building (22 kBTU/SF/yr) and less than most LEED platinum buildings; energy use is further reduced by a rooftop PV solar array. The Box Office has been a magnet for small companies, and has been near capacity throughout an economic recession. 
+The project consists of approximately 12,000 SF of newly constructed office space at the site of the [former Harris Lumber]({% link _property/546-harris-ave.md %}) warehouse on Providence’s west side. The building uses approximately 50% less energy than a typical new construction office building (22 kBTU/SF/yr) and less than most <span class="abbr">LEED</span> platinum buildings; energy use is further reduced by a rooftop PV solar array. The Box Office has been a magnet for small companies, and has been near capacity throughout an economic recession. 
 
 _From Peter Case, on the construction process_
 
@@ -87,7 +87,7 @@ The whole thing was erected in one week. The 35 containers were in Cranston in a
 
 We love the design of this building and the way it fits in while also adding to an industrial area with industrial materials. The way the stacked Lego-like containers jut out and cantilever gives the structure some drama, and the colors make it playful instead of harsh and metallic. We actually had the pleasure of working in this building on the 3rd floor for two years. We liked it, though the metal could make it very cold in the winter at times. We especially love that many of the original tenants still occupy offices in the 12 available spaces. 
 
-It also does not hurt that the building reused material that would otherwise be sold to China for scrap. The building was constructed for about half the cost that new construction would cost at a difficult time after the 2008-2009 economic and housing market crash, as the news story below details. We love that the building is also greener than most LEED platinum buildings. To us, its all around brilliant. 
+It also does not hurt that the building reused material that would otherwise be sold to China for scrap. The building was constructed for about half the cost that new construction would cost at a difficult time after the 2008-2009 economic and housing market crash, as the news story below details. We love that the building is also greener than most <span class="abbr">LEED</span> platinum buildings. To us, its all around brilliant. 
 
 
 ### Project Credits & Links
