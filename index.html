@@ -53,16 +53,15 @@ sitemap:
       {% assign home = 'Yes' %}
       {% include property-card.html %}
       {%- if forloop.index == 6 -%}
-        {% if jekyll.environment == 'production' -%}
-          {% comment %}
-          
-            Insert a random artful image to break up the list
-            We are breaking on the 8th time around the loop
-            *Remember that when we get randprop, it is an array*
-          
-          {% endcomment %}
-          {% assign random = site.time | date: "%s%N" | modulo: site.data.artful_architecture.size %}
-          {% assign randprop = site.property | where: 'slug', site.data.artful_architecture[random].post %}
+        {% comment %}
+        
+          Insert a random artful image to break up the list
+          We are breaking on the 8th time around the loop
+          *Remember that when we get randprop, it is an array*
+        
+        {% endcomment %}
+        {% assign random = site.time | date: "%s%N" | modulo: site.data.artful_architecture.size %}
+        {% assign randprop = site.property | where: 'slug', site.data.artful_architecture[random].post %}
     <li class="taxonomy__random">
       <img src="/property-img/{{ randprop[0].slug }}/{{ site.data.artful_architecture[random].img }}" alt="" loading="eager" decoding="async">
       <p class="u__text__sans--bold"><span class="o__title--sm">The Art of Ruins</span> — This week’s artful image</p>
@@ -107,7 +106,6 @@ sitemap:
           {%- endif -%}
       </p>
     </li>
-        {%- endif -%}
       {%- endif -%}
     {%- endif -%}
   {%- endif -%}
