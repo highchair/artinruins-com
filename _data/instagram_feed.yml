@@ -2,6 +2,12 @@
 #
 # Create a new page with properties relevant to recent Instagram posts
 
+# https://www.instagram.com/p/CbiFpWgL6NK/ Miriam hospital detail
+
+- post: 35-claverick-st
+  date: '2022-03-27'
+  insta_link: https://www.instagram.com/p/Cbn1Sp5rYXg/
+
 - post: hp-hood-sons-pvd
   date: '2022-03-23'
   insta_link: https://www.instagram.com/p/Cbcv0terRSt/
