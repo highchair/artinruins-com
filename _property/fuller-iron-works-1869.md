@@ -2,7 +2,8 @@
 title: "Fuller Iron Works (1869)"
 slug: fuller-iron-works-1869
 aka: 'Bevo Martini Bar'
-date-modified: 2021-11-24 12:00
+date-modified: 2022-04-02 12:00
+update: 'Added recent photos while photographing the surrounding properties under construction'
 
 built: '1869'
 demolition:
@@ -41,12 +42,19 @@ images:
   - url: fuller-iron-jh-2020-02-05.jpg
   - url: fuller-iron-jh-2020-02-06.jpg
   - url: fuller-iron-jh-2020-05-01.jpg
+  - url: fuller-iron-jh-2022-03-01.jpg
+    caption: 'View southeast with the new 580 South Water street in the background'
+  - url: fuller-iron-jh-2022-03-02.jpg
+  - url: fuller-iron-jh-2022-03-03.jpg
+    caption: 'View north northwest with the under construction parcel 6 of the I-195 land redevelopment'
+  - url: fuller-iron-jh-2022-03-04.jpg
+    caption: 'View southwest with the Manchester Street Generating Station in the background'
   - url: fuller-iron-sanborn-1889-01.jpg
     caption: 'Sanborn Insurance Map 1889, Volume 2, Plate 42a — Library of Congress, Geography and Map Division'
   - url: fuller-iron-sanborn-1899-01.jpg
     caption: 'Sanborn Insurance Map 1899, Volume 2, Plate 95a — Library of Congress, Geography and Map Division'
 
-mostrecentimage: 2020-05-01
+mostrecentimage: 2022-03-01
 
 imagescredit: 'Contributions from the Library of Congress'
 
@@ -66,7 +74,7 @@ This building, though, since the 1960s it seems, has always been occupied and us
 
 ### Current Events
 
-The building was recently (2017) sold at auction, along with the land nearby. A new residential development is being built next door — called [580 South Water](//www.580southwater.com){:target="_blank"} — and we think this building will be integrated into that development. 
+The building was recently (2017) sold at auction, along with the land nearby. A new residential development was built next door called [580 South Water]({% link _property/580-water-street-pvd.md %}). The building is very close but not attached to this one. 
 
 
 ### History
@@ -75,6 +83,7 @@ The land on which this building sits is part of the College Hill Historic Distri
 
 It’s address is officially 566 South Main Street (even though the street is now called South Water Street) but it is also referred to by 39 Pike Street. Interestingly, 566 South Main Street and 566 South Water Street are the same address (in Google), while any other South Main Street address is a block away. During the relocation of I-195, [the I-Way construction]({% link _property/iway.md %}) rerouted streets and changed street names — what is now Bridge Street (where the Hot Club is) used to be South Water Street; present South Water Street was South Main; and South Main was Benefit Street. 
 
+***
 
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
@@ -82,6 +91,7 @@ Fuller Iron Works (1869, 1893): The Fuller Iron Works, established by Frederick 
 
 Upon Frederick Fuller’s death in 1867, his sons, Frederick and George, took over the business and erected the 3-story brick building with a low, pitched-gable roof and segmental-arch windows with granite sills on the southeast corner on south Main and Pike Streets. In 1893, the Fuller Iron Works built [the glass and steel machine shop]({% link _property/fuller-iron-works-1893.md %}) (which is now covered by modern siding) located to the south of the earlier structure. It was the first steel-frame and glass machine shop in Providence. The Fuller Iron Works, which continued to be controlled by the Fuller family, ceased operations in 1937 when R. Clinton Fuller shifted entirely to the field of real estate, having founded several years earlier the Fuller Real Estate Company. For quite a few years the 1869 machine shop was used by a social-service organization. In the 1960s, the building was converted to office use and the tall central window on the north elevation was installed.
 
+***
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
@@ -105,6 +115,11 @@ Keel Partners LLC, which sells premium light vodka, announced Wednesday that its
 
 “Keel is a great addition to the South Main Street and India Point waterfront scene, set to expand with increased housing and businesses as the 195 land is developed,” said Richard P. Baccari II, president and CEO of Churchill & Banks. Baccari is the manager of the Tockwotten Group.
 
+—
+
+Dunn, Christine. “Former Benrus building in Providence sold for $1.9M.” Providence Journal: Web Edition Articles (RI), sec. News, 12 July 2017. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/165A1C452633E458. Accessed 24 Nov. 2021.
+
+***
 
 #### Private land near old Rte. 195 site for sale at auction
 
@@ -118,6 +133,10 @@ The properties are 566 South Main St., [the former Fuller Iron Works building]({
 The glass-and-steel portion of the South Main Street building is now covered in asbestos shingles, according to documents consulted by Thomas E. Deller, city director of planning and development. The front portion of the building is a three-story brick addition that housed, until a few years ago, the martini bar Bevo. […]
 
 (**A.I.R.**: Correction to the above. The older building is the 3-story brick mill still standing, it is not a “three-story brick addition.”)
+
+—
+
+Katebramson. “Private land near old Rte. 195 site for sale at auction.” Providence Journal (RI), All ed., sec. breaking_news, 1 Nov. 2010. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152423601C6EC730. Accessed 24 Nov. 2021.
 
 ***
 
