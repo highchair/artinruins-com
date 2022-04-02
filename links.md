@@ -94,7 +94,6 @@ The Online Review of Rhode Island History. Put together by some pretty serious a
 ### Decay Devils
 
 [The Decay Devils](//www.decaydevils.org){:target="_blank"} spearhead historic building preservation, restoration, and appreciation in Northwest Indiana and beyond. It is our goal to bring new life and restore beauty, safety, and activity in the places we once looked past or cringed at. Art interventions as well as typical restoration efforts. 
-
 ### Fabulous Ruins of Detroit
 
 In many ways, the precursor to ArtInRuins, set in [Detroit, Michigan](//detroityes.com){:target="_blank"}. Many, many fabulous ruins located here.
@@ -112,7 +111,7 @@ Exactly what it sounds like — [a country-wide list of all the octagon plan ho
 The personal portfolio and project [site of Philip Beuhler](//modern-ruins.com){:target="_blank"}
 
 
-## Research & Resources
+## Museums, Research, & Resources
 
 ### Dead Malls
 
@@ -126,18 +125,25 @@ The Historic American Buildings Survey (HABS) and the Historic American Engineer
 
 After a distinguished career of 42 years in politics, Rhode Island Senator John O. Pastore retired from politics and donated his political papers to Providence College. Included among his papers was a [photograph album of late 19th and early 20th century images](//library.providence.edu/spcol/pas_scrbk/pas_scrapb.html){:target="_blank"}. Many of the locations and buildings depicted in these images are now unrecognizable. 
 
+### Ladd School Historical Society
+
+[The Ladd School Historical Society](http://theladdschool.com){:target="_blank"} is a private organization dedicated to researching and preserving the history of the Dr. Joseph H. Ladd Center, a residential and custodial institution for youth and adults with intellectual and developmental disabilities in Exeter, Rhode Island.
+
 ### National Register of Historic Places 
 
 [A List of National Register places in RI](//www.nationalregisterofhistoricplaces.com/ri/state.html){:target="_blank"}. The National Register is the official list of cultural resources worthy of preservation, part of a national program to coordinate and support public and private efforts to identify, evaluate, and protect our historic and archeological resources. Properties listed in the Register include districts, sites, buildings, structures, and objects that are significant in American history, architecture, archeology, engineering, and culture. The National Register is administered by the National Park Service, which is part of the U.S. Department of the Interior.
+
+### New England Wireless & Steam Museum
+
+Opened October 3, 1964, [NEWSM](//newsm.org){:target="_blank"} was founded by Robert W. Merriam of East Greenwich. This crew of dedicated volunteers house hundreds of examples of machinery that were once commonplace in New England, including [one of the only running Corliss Steam Engines](//newsm.org/history/restoring-the-corliss-engine/){:target="_blank"}.
 
 ### Old Breweries in Rhode Island
 
 [A list of the breweries that were founded in Rhode Island](//www.oldbreweries.com/breweries-by-state/rhode-island/){:target="_blank"} from OldBreweries.com.
 
-### Providence Historic al Aerial Viewer
+### Providence Historical Aerial Viewer
 
 [The PHAV](//pvdgis.maps.arcgis.com/apps/webappviewer/index.html) is a great resource and compendium of aerial surveys from as early as 1939 — though don’t expect the same level of zoom quality as modern satellite imagery. Some great before and after aerials can be found here. 
-
 
 ### The Rhode Island Historical Preservation & Heritage Commission
 
