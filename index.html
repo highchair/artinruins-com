@@ -49,10 +49,10 @@ sitemap:
       {%- endcapture -%}
     {% endif %}
     {%- assign props = props | plus:1 -%}
-    {%- if forloop.index <= 12 and is_demo_alert == 'No' and is_under_construction == 'No' -%}
+    {%- if forloop.index <= 15 and is_demo_alert == 'No' and is_under_construction == 'No' -%}
       {% assign home = 'Yes' %}
       {% include property-card.html %}
-      {%- if forloop.index == 6 -%}
+      {%- if forloop.index == 8 -%}
         {% comment %}
         
           Insert a random artful image to break up the list
