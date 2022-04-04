@@ -37,6 +37,10 @@ images:
   - url: wbna-jh-2003-03-02.jpg
   - url: wbna-website-01.jpg
   - url: wbna-website-02.jpg
+  - url: wbna-jh-2022-03-01.jpg
+  - url: wbna-jh-2022-03-02.jpg
+
+mostrecentimage: 2022-03-01
 
 imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora:5012/datastream/OBJ/view" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library and the WBNA website'
 
