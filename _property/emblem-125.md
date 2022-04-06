@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'ZDS Architecture & Interiors' ] # Torti Gallas + Partners, ZDS
 people: []
 lists: [ 'I-195 District Parcels' ]
-tags: [ 'Apartments for Rent' ]
+tags: [ 'Apartments for Rent', 'Contemporary' ]
 
 NRHP-ref-number:
 added-to-NRHP:

@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'DBVW Architects' ]
 people: []
 lists: []
-tags: [ 'Apartments for Rent' ]
+tags: [ 'Apartments for Rent', 'Contemporary' ]
 
 address: '169 Canal St, Providence RI'
 latitude: '41.8278226'

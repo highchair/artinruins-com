@@ -16,7 +16,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Spagnolo Gisness & Associates', 'William D. Warner' ]
 lists: [ 'Did You Know?', 'Capital Center Parcels' ]
-tags: []
+tags: [ 'Contemporary' ]
 
 address: '10 Memorial Boulevard, Providence RI'
 latitude: '41.8266012'

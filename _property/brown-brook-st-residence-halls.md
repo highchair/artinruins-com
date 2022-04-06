@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [] # Noah Biklen of Deborah Berke Partners
 people: []
 lists: []
-tags: [ 'Brown University' ]
+tags: [ 'Brown University', 'Contemporary' ]
 
 NRHP-ref-number:
 added-to-NRHP:

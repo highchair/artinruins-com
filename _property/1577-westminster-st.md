@@ -14,7 +14,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'KITE Architects' ]
 lists: []
-tags: [ 'Apartments for Rent' ]
+tags: [ 'Apartments for Rent', 'Contemporary' ]
 
 address: '1577 Westminster Street, Providence RI'
 latitude: '41.8162221'

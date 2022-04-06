@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Gilbane Development Company', 'Union Studio Architecture' ]
 people: []
 lists: []
-tags: []
+tags: [ 'Contemporary' ]
 
 address: '257 Thayer St, Providence RI'
 latitude: '41.8288489'

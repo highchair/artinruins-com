@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'Robinson Green Beretta' ]
 lists: []
-tags: [ 'College Properties', 'The Superlatives', 'LEED in RI' ]
+tags: [ 'College Properties', 'The Superlatives', 'LEED in RI', 'Contemporary' ]
 superlative: 'The first LEED-certified college residence hall in the state'
 
 address: '600 Mt Pleasant Ave, Providence RI'

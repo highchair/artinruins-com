@@ -14,7 +14,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'DBVW Architects' ]
 lists: []
-tags: [ 'Apartments for Rent' ]
+tags: [ 'Apartments for Rent', 'Contemporary' ]
 
 NRHP-ref-number:
 added-to-NRHP:

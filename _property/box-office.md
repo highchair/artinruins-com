@@ -15,7 +15,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Truth Box Architects' ]
 lists: []
-tags: [ 'The Superlatives', 'LEED in RI' ]
+tags: [ 'The Superlatives', 'LEED in RI', 'Contemporary' ]
 superlative: 'The first permanent, multistory office building in the United States made entirely from shipping containers'
 
 address: '460 Harris Ave, Providence RI'

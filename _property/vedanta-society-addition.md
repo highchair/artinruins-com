@@ -14,7 +14,7 @@ neighborhoods: [ 'East Side', 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'KITE Architects', 'TRAC Builders' ]
 lists: []
-tags: []
+tags: [ 'Contemporary' ]
 
 address: '227 Angell Street, Providence RI'
 latitude: '41.8281639'

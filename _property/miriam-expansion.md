@@ -14,7 +14,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'HOK' ]
 lists: []
-tags: []
+tags: [ 'Contemporary' ]
 
 address: '164 Summit Avenue, Providence RI'
 latitude: '41.8520568'

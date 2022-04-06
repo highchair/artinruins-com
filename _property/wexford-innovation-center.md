@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: []
 people: []
 lists: [ 'I-195 District Parcels' ]
-tags: [ 'LEED in RI' ]
+tags: [ 'LEED in RI', 'Contemporary' ]
 
 NRHP-ref-number:
 added-to-NRHP:

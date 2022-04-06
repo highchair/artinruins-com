@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [] # Elkus Manfredi Architects
 people: []
 lists: [ 'I-195 District Parcels' ]
-tags: [ 'Former/Current Hotels' ]
+tags: [ 'Former/Current Hotels', 'Contemporary' ]
 
 address: '191 Dorrance St, Providence RI'
 latitude: '41.8215679'

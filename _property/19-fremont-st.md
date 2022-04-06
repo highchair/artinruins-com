@@ -14,7 +14,7 @@ neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [ 'James Barnes' ]
 lists: []
-tags: [ 'House' ]
+tags: [ 'House', 'Contemporary' ]
 
 address: '19 Fremont Street, Providence RI'
 latitude: '41.8221421'

@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [] # Edward Rowse Architects, Inc., Architectural Resources Cambridge, Inc.
 people: []
 lists: [ 'I-195 District Parcels' ]
-tags: [ 'Johnson & Wales University', 'LEED in RI' ]
+tags: [ 'Johnson & Wales University', 'LEED in RI', 'Contemporary' ]
 
 NRHP-ref-number:
 added-to-NRHP:

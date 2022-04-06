@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [] # William Rawn Associates Architects, Inc.
 people: []
 lists: []
-tags: [ 'Brown University', 'LEED in RI' ]
+tags: [ 'Brown University', 'LEED in RI', 'Contemporary' ]
 
 address: '450 Brook St, Providence RI'
 latitude: '41.8299955'

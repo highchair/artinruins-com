@@ -15,7 +15,7 @@ neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Symmes Maini & McKee Associates' ]
 lists: [ 'Capital Center Parcels' ]
-tags: []
+tags: [ 'Contemporary' ]
 
 address: '500 Exchange Street, Providence RI'
 latitude: '41.827721'

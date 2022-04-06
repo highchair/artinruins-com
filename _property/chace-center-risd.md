@@ -14,7 +14,7 @@ neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Jose Rafael Moneo', 'Perry Dean Rogers' ]
 lists: []
-tags: [ 'College Properties', 'RISD' ]
+tags: [ 'College Properties', 'RISD', 'Contemporary' ]
 
 address: '20 North Main St, Providence RI'
 latitude: '41.8256264'

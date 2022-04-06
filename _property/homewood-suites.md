@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'ZDS Architecture & Interiors' ]
 people: []
 lists: [ 'Capital Center Parcels' ]
-tags: [ 'Former/Current Hotels' ]
+tags: [ 'Former/Current Hotels', 'Contemporary' ]
 
 NRHP-ref-number:
 added-to-NRHP:

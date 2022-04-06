@@ -15,7 +15,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'ADD Inc.' ]
 lists: [ 'Capital Center Parcels' ]
-tags: []
+tags: [ 'Contemporary' ]
 
 address: '200 Exchange Terrace, Providence RI'
 latitude: '41.8274302'
