@@ -2,7 +2,8 @@
 title: "Pilgrim Congregational Church"
 slug: pilgrim-congregational-church
 aka: 'Lawton Family Storage, Pilgrim Lofts'
-date-modified: 2021-09-21 12:00
+date-modified: 2022-04-03 17:00
+update: 'Added another photo that was found in a Massachusetts collection but unlabelled'
 
 built: '1873'
 demolition:
@@ -37,6 +38,8 @@ images:
     alt: 'A three story former church building with former offset steple now just a stump. Red brick with granite and brownstone quoins around arched windows.'
   - url: pilgrim-church-ppl-1900c-01.jpg
     caption: 'Rhode Island Collection, Providence Public Library, undated but likely early 1900s due to the single horse and buggy on the street'
+  - url: pilgrim-church-photo-date-unknown.jpg
+    caption: 'Digital Commonwealth Massachusetts, date unknown'
   - url: pilgrim-church-jh-2007-06-01.jpg
   - url: pilgrim-church-jh-2007-06-02.jpg
   - url: pilgrim-church-jh-2007-06-03.jpg
@@ -52,7 +55,7 @@ images:
   - url: pilgrim-church-jh-2013-05-05.jpg
   - url: pilgrim-church-jh-2013-05-06.jpg
 
-imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%3A10252" target="_blank">Rhode Island Photograph Collection</a> at the Providence Public Library'
+imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A10252" target="_blank">Rhode Island Photograph Collection</a> at the Providence Public Library and from <a href="http://gusn.us/283390" target="_blank">Digital Commonwealth Massachusetts</a>'
 
 mostrecentimage: 2013-05-01
 
