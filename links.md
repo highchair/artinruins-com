@@ -30,9 +30,16 @@ Drone footage and abandoned properties with some history thrown in for good meas
 
 GCPVD is a great resource for current news and proposals in pedestrian, streetscapes, and architecture that go in front of the City council or the Downcity Architectural Review board. Whenever I want to know “what are they building over there” GCPVD usually knows. 
 
+### I {heart} Rhody
+
++ **Web:** [iheartrhody.com](//www.iheartrhody.com){:target="_blank"}
++ **Instagram:** [@iheartrhody](//www.instagram.com/iheartrhody/){:target="_blank"}
+
+Erika Smith has been blogging about people and locations in Rhode Island for over 10 years. Her interests move from the historical and the odd to the local artisans who practice their craft all over the state. 
+
 ### Lots in Limbo
 
-* **Web:** [lotsinlimbo.wordpress.com](//lotsinlimbo.wordpress.com){:target="_blank"}
++ **Web:** [lotsinlimbo.wordpress.com](//lotsinlimbo.wordpress.com){:target="_blank"}
 
 There are fifty vacant lots in Downtown Providence. Those include in-transition places like [110 Westminster]({% link _property/one-ten-westminster.md %}) and 143 Washington Street/132 Fountain Street and the area’s forty-eight pay and private parking lots. The city’s urban fabric has a few holes. Hear the interviews, get information on how you can take action to make use of public land, and contribute your thoughts about what you’d like to see Providence become.
 
