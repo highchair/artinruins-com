@@ -30,6 +30,8 @@ _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites
 
 _From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 
+_From the “Broadway-Armory Historic District” National Register nomination form, 1974_
+
 caption: 'Photo by Robert Brewster, HABS/HAER, 1981'
 caption: 'Rhode Island Photograph Collection, Providence Public Library'
 Aerials from the Providence Historical Aerial Viewer
