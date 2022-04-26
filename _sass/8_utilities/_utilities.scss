@@ -11,6 +11,14 @@
     @include sr-only-focusable;
   }
   
+  // Max width
+  &__max-width {
+    &--text {
+      margin: 0 auto;
+      max-width: $max-width__text;
+    }
+  }
+  
   // Lists
   &__list {
     &__unstyled {
@@ -24,7 +32,7 @@
     display: inline !important;
   }
   
-  // Text
+   // Text
   &__text {
     &__small {
       font-size: calc(var(--fs__sm) * 1rem);
@@ -87,11 +95,19 @@
     }
   }
   
-  // Max width
-  &__max-width {
-    &--text {
-      margin: 0 auto;
-      max-width: $max-width__text;
+  // Background colors
+  &__bg__light {
+    background-color: rgba(palette('brand-yellow'), .5);
+  }
+  
+  // Columns
+  &__text-columns {
+    column-width: 280px;
+    column-gap: 1rem;
+    padding: 1rem;
+    
+    p + p {
+      margin-top: 1rem;
     }
   }
   
