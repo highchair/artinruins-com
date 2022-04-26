@@ -26,8 +26,20 @@ excerpt: "The one that started a revolution. A 13 acre site, bounded by Atwells 
 thumbnail: eagle-square-jh-02.jpg
 
 images:
-  - url: eagle-square-jh-01.jpg
+  - url: eagle-square-smpro-01.jpg
+    caption: Photo by Stephen Mattos
     alt: 'A collection of red brick mill buildings of varying sizes and heights. Some buildings have been demolished to make room for modern brick-fasced replacements, while others have been saved and redeveloped into commercial space or residential.'
+  - url: eagle-square-smpro-02.jpg
+    caption: Photo by Stephen Mattos
+  - url: eagle-square-smpro-03.jpg
+    caption: Photo by Stephen Mattos
+  - url: eagle-square-smpro-04.jpg
+    caption: Photo by Stephen Mattos
+  - url: eagle-square-smpro-05.jpg
+    caption: Photo by Stephen Mattos
+  - url: eagle-square-smpro-06.jpg
+    caption: Photo by Stephen Mattos
+  - url: eagle-square-jh-01.jpg
   - url: eagle-square-jh-02.jpg
   - url: eagle-square-jh-03.jpg
   - url: eagle-square-jh-04.jpg
@@ -76,18 +88,6 @@ images:
     caption: Photo by Sarah Clover
   - url: eagle-square-philipmarshall-poster.jpg
     caption: Photo from Philip Marshall
-  - url: eagle-square/eagle-square-smpro-01.jpg
-    caption: Photo by Stephen Mattos
-  - url: eagle-square/eagle-square-smpro-02.jpg
-    caption: Photo by Stephen Mattos
-  - url: eagle-square/eagle-square-smpro-03.jpg
-    caption: Photo by Stephen Mattos
-  - url: eagle-square/eagle-square-smpro-04.jpg
-    caption: Photo by Stephen Mattos
-  - url: eagle-square/eagle-square-smpro-05.jpg
-    caption: Photo by Stephen Mattos
-  - url: eagle-square/eagle-square-smpro-06.jpg
-    caption: Photo by Stephen Mattos
   - url: eagle-square-jh-2005.jpg
 
 imagescredit: 'Contributed photos from Sarah Clover, Philip Marshall, and Stephen Mattos.'

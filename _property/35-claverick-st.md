@@ -78,7 +78,9 @@ The building is now home to Johnson & Wales’ training program for Physician As
 
 _From Providence Preservation Society’s 2014 Preservation Awards_
 
-Immediately following World War II, a new type of steel frame industrial building began to appear in the Jewelry District in Providence, featuring brick veneers and long, horizontal ribbon windows. Designed by Samuel Lerner in 1948 to house jewelry manufacturers, the Claverick Building was an early example of this type. Built with continuous bands of steel framed sash wrapping around the two story brick building, the Claverick Building continued to serve jewelry-related tenants well into the 2000s.
+Immediately following World War II, a new type of steel frame industrial building began to appear in the Jewelry District in Providence, featuring brick veneers and long, horizontal ribbon windows. Designed by Samuel Lerner[^5] in 1948 to house jewelry manufacturers, the Claverick Building was an early example of this type. Built with continuous bands of steel framed sash wrapping around the two story brick building, the Claverick Building continued to serve jewelry-related tenants well into the 2000s.
+
+[^5]: Samuel Lerner would later be founder and partner of [Lerner Ladds Bartels Architecture](//llbarch.com){:target="_blank"}, still operating, now in Pawtucket RI.
 
 Located adjacent to Johnson & Wales University’s Downtown Providence campus, the building was the perfect location for a new Physician Assistant Studies program. The University engaged [Durkee, Brown, Viveiros & Werenfels Architects]({% link designer/dbvw-architects.html %}) to transform the historic building into an open, vibrant, and high-tech facility that includes a gross anatomy lab; a clinical skills practice lab; a 60 person lecture hall; an active learning classroom for 48 students; a library; and administration space.
 
