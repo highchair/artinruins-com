@@ -3,10 +3,15 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2022-04-27
+
+Added
++ G4 Analytics tag to also capture for the new tag while the older UA tag is being sunsetted for July 2023
+
 ## 2022-03-16
 
 Added
-+ An SVG favicon file with dark mode alternate colors built in. Modernized the favicon mata tags. 
++ An SVG favicon file with dark mode alternate colors built in. Modernized the favicon meta tags. 
 
 ## 2022-02-22
 
