@@ -30,12 +30,12 @@ gmap: "https://www.google.com/maps/place/Bridge+Mill+Power+Plant/@41.8761115,-71
 meta: ""
 excerpt: "A fine example of turn-of-the-19th-century hydroelectric power generation situated below Pawtucket Falls along the Blackstone River"
 
-thumbnail: bridge-power-jh-2010-03-08.jpg
+thumbnail: bridge-power-jh-2010-03-01.jpg
 
 images:
   - url: bridge-power-pawtlib-1912-01.jpg
     caption: '1912 exterior, Pawtucket Library Collection on Flickr'
-    alt: ''
+    alt: 'A rectangular red brick, two-story mill housing hydroelectric machinery to capture power from the nearby Blackstone River at the falls under Main Street, Pawtucket. MOst existing window openings are half round arch topped and a row of former windows along the southern side are the same style but bricked in. The interior is now used for a water power museum, with many old pieces of equipment inside. '
   - url: bridge-power-pawtlib-1912-02.jpg
     caption: '1912 exterior, Pawtucket Library Collection on Flickr'
   - url: bridge-power-habs-1981-02.jpg
