@@ -69,17 +69,17 @@ exclude:
   - .git/
   - .gitignore
   - .htaccess
-  - .jekyll-cache/
   - .nova/
-  - _drafts
   - _property/_history.md
   - _property/_template.md
   - Changelog.md
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
-  - property-img/_To-DO.md
+  - property-img/
+
+# As of Jekyll 4, we may exclude a parent folder but include a child:
+include:
+  - property-img/r/
 
 # https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:
