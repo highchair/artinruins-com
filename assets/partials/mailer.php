@@ -57,7 +57,7 @@ if ( count($_POST) ) {
   $property = htmlspecialchars($property);
   $theirname = htmlspecialchars($theirname);
   $theiremail = htmlspecialchars($theiremail);
-  $anecdote = htmlspecialchars($anecdote);
+  $anecdote = htmlspecialchars($anecdote, ENT_QUOTES, 'UTF-8');
 
   if ( $spam === false && $postaction == 'Submit Anecdote' ) {
     // Now that all checks have passed, send the message

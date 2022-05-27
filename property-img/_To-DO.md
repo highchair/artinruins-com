@@ -22,7 +22,7 @@ _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS a
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-_From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
+_From the RIHPHC survey of Providence Industrial Sites, July 1981_
 
 _From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 
