@@ -98,6 +98,11 @@ Consideration of these choices led <span class="abbr">RIDOT</span> to choose the
 _Captured and excerpted on February 16, 2022 from https://en.wikipedia.org/wiki/Interstate_195\_(Rhode_Island–Massachusetts)_
 
 
+### Current Events
+
+The land cleared on the southern side of Wickendon Street, known as [Parcel 6, is now being built upon]({% link _property/parcel-6-india-point.md %}). 
+
+
 ### In the News
 
 #### ART SPOTLIGHT Bachelder takes art to the wall and beyond
