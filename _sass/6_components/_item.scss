@@ -261,6 +261,12 @@
       hanging-punctuation: first;
     }
 
+    strong,
+    b {
+      // We use the serif font here, so, reset the font-weight for bold
+      font-weight: $font-custom__serif__bd-weight;
+    }
+
     blockquote p {
       hanging-punctuation: none;
     }
