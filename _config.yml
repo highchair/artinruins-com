@@ -22,7 +22,7 @@ github_repo: "https://github.com/highchair/artinruins-com"
 baseurl: "" # the subpath of your site, e.g. /blog
 port: 4090
 url: "http://127.0.0.1:4090" # the base hostname & protocol for your site, e.g. http://example.com
-prod_url: "https://artinruins.com/"
+prod_url: "https://artinruins.com"
 destination: _stage/
 
 # Build settings
