@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: east-avenue-auto
+  person: 'Joanne'
+  date: '2022-06-04'
+  content: 'Gibby was one of my dad’s best friends. He was a great guy! My dad, Bill Lomax, used to work nights at Gibbys Service Station when his station was on Pawtucket Avenue and then he moved his business to this location on East Avenue and my dad continued working there nights… My dad pumped the gas on both on Pawtucket Avenue & East Avenue… I also believe Gibby may have been on West Avenue before Pawtucket Avenue but don’t remember for sure. I do remember that the big gas companies made it next to impossible for the little guy to continue being able to purchase gas from them… because they were trying to put the mom and pops out of business and the laws were also changed/updated where the underground tanks had to be removed and replaced something the average Joe couldn’t financially afford to do… Gibby and his crew were the best — if you were stuck with you car anyplace all you had to do was call them and one of them would be out to help you in no time. I was in my late 20s before I learned to pump gas because my dad said we had to help the little guy stay in business… unfortunately they won as probably 99% of gas pumps are self service now… But Gibby, Ray Jr, Chickey  Carroll, Jimmy Ryan my dad and my younger brother Bob all made it worth it to be one of their customers because they truly cared about the customers! Unfortunately, Gibby did pass away too early in his life.'
+
 - property: engine-number-9
   person: 'Harry Cohoon'
   date: '2022-05-26'
