@@ -113,6 +113,7 @@ GEM
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (1.8.0)
+    webrick (1.7.0)
     zeitwerk (2.5.1)
 
 PLATFORMS
@@ -133,6 +134,7 @@ DEPENDENCIES
   rake (>= 10.0.0)
   sassc (>= 2.4.0)
   uglifier (>= 4.1.0)
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.3.8

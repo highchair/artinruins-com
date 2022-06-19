@@ -16,7 +16,9 @@ gem "sassc",">=2.4.0"
 gem "uglifier",">=4.1.0"
 gem "nokogiri", ">= 1.13.4"
 gem "activesupport", ">=6.0.3.1"
+gem "webrick", "~> 1.7"
 
 #group :jekyll_plugins do
 #  gem 'name-of-local-file'
 #end
+
