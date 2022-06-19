@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: holiday-inn-pvd
+  person: 'Denise Bienvenue'
+  date: '2022-06-17'
+  content: 'I worked there for 30yrs I was a lobby maid. I worked under Allen an ohara.an then for the procachantues. Iloved working there, I met a lot of famous people even president Clinton. Then we moved to Florida an that was that.'
+
 - property: east-avenue-auto
   person: 'Joanne'
   date: '2022-06-04'
