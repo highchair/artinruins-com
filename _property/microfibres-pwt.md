@@ -2,7 +2,7 @@
 title: "Microfibres, Inc."
 slug: microfibres-pwt
 aka: 'Weil Barnefield Corpin, Woodlawn Finishing Co.'
-date-modified: 2022-05-09 12:00
+date-modified: 2022-07-07 12:00
 
 built: 'circa 1900, 1940, 1950s'
 demolition:
@@ -74,6 +74,12 @@ images:
     caption: 'Detail of the southeasternmost building. The paint on those doors and windows such deteriorated since Google Streetvioew in 2016'
   - url: microfibres-jh-2022-05-04.jpg
     caption: 'A barn-like steel-clad structure on the southwestern edge of the property'
+  - url: microfibres-jh-2022-06-01.jpg
+    caption: 'Demolition began in June of 2022'
+  - url: microfibres-jh-2022-06-02.jpg
+  - url: microfibres-jh-2022-06-03.jpg
+  - url: microfibres-jh-2022-06-04.jpg
+  - url: microfibres-jh-2022-06-05.jpg
   - url: microfibres-sanborn-1923.jpg
     caption: 'Sanborn Map Company, “Insurance maps of Pawtucket: including Central Falls, Rhode Island V. 2a” (1923)'
   - url: microfibres-aerial-1939.jpg
