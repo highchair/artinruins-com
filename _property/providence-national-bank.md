@@ -2,7 +2,8 @@
 title: "Providence National Bank"
 slug: providence-national-bank
 aka:
-date-modified: 2020-05-02 21:47
+date-modified: 2022-06-29 21:47
+update: 'Added a old photo, likely from the 1940s, of the Weybosset Street facade'
 
 built: 1929, 1950s
 demolition: 2005
@@ -11,7 +12,7 @@ date-added: 2004
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Howe & Church' ]
+designers: [ 'Howe & Church' ] #Howe, Prout, & Ekman
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places', 'Brussat’s 10 Best Lost Buildings' ]
 tags: [ 'Former Banks', 'Demolition by Proposal', 'Needs History' ]
 
@@ -32,6 +33,8 @@ images:
   - url: prov-nat-bank-engraving-undated.jpg
     caption: 'Undated engraving from RICurrency.com'
     alt: 'A two and a half story, red brick narrow building three bays wide on the Westminster Street side. The first story central entrance and flanking windows have rounded top arches. On the second floor is a double column recessed set of French doors. On the Weybosset Street side, the building is wider and a full three stories with a triangular pediment across the top.'
+  - url: prov-nat-bank-ppl-west-facade-undated.jpg
+    caption: 'Undated photo from Providence Public Library. Street view of the Weybosset Street facade, labeled “Industrial National Bank,” designed by Howe, Prout, & Eckman who were active between 1946 and 1959. The original design was actually credited to Howe & Church, active between 1928 and 1938.'
   - url: prov-nat-bank-jh-2004-10-01.jpg
   - url: prov-nat-bank-jh-2004-10-02.jpg
   - url: prov-nat-bank-jh-2004-10-03.jpg
@@ -51,11 +54,12 @@ images:
   - url: prov-nat-bank-kj-2012-07-01.jpg
     caption: 'Photo by Kevin James, July 2012'
 
-imagescredit: 'Contributions by <a href="http://www.ricurrency.com/bank-name/providence-bank/" target="_blank">RICurrencycom</a>, Alex Carr, and Kevin James.'
+imagescredit: 'Contributions by <a href="http://www.ricurrency.com/bank-name/providence-bank/" target="_blank">RICurrencycom</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A14465" target="_blank">RI Photograph Collection</a> Providence Public Library, Alex Carr, and Kevin James.'
 ---
 
 ### Reason for Demolition
 A proposed new 32-story condo tower proposal called the [One Ten Westminster]({% link _property/one-ten-westminster.md %}) was proposed for this site and caused quite a hub-bub. The full news story is below.
+
 
 ### Current Events
 The condo tower was never built. Fifteen years later (in 2020), a parking lot is the only thing at this location aside from the stabilized (but deteriorating) facade of the 1940s bank extension at 50 Weybosset Street.
