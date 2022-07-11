@@ -16,7 +16,7 @@ town: [ 'North Kingstown, RI' ]
 designers: [ 'Albert Kahn' ]
 people: []
 lists: [ 'HABS HAER' ]
-tags: []
+tags: [ 'Former Military' ]
 
 NRHP-ref-number:
 added-to-NRHP:
