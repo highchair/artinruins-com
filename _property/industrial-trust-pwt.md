@@ -75,9 +75,9 @@ imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucket
 
 ### Last Tenant
 
-Honestly, we have no idea who the last real tenant of this building was. It might have been the Sacco’s department store, and we are unsure of what they sold. Around 2007, when a business partner and I purchased the [W.T. Grant building]({% link _property/wt-grant-pwt.md %}) up the street, there was an out-of-state owner who used this building for antique furniture storage and would occasionally open to the public. 
+Honestly, we have no idea who the last real tenant of this building was. It might have been the Sacco’s department store, and we are unsure of what they sold. Around 2007, when we and a business partner purchased the [W.T. Grant building]({% link _property/wt-grant-pwt.md %}) up the street, there was an out-of-state owner who used this building for antique furniture storage and would occasionally open to the public. 
 
-In the early- to mid-2000s, Louis Yip owned most of south-western Main Street from the corner of East Avenue to the former <abbr title="Department of Motor Vehicles">DMV</abbr> now school district building at Park Place and Main. This building seems to have changed in and out of his hands as new potential owners tried to do something with the space. Tax records show that E-O Inc is the current owner, which was a Louis Yip incorporation. 
+In the early- to mid-2000s, Louis Yip owned most of south-western Main Street from the corner of East Avenue to the former <abbr title="Department of Motor Vehicles">DMV</abbr> now school district building at Park Place and Main. This building seems to have changed in and out of his hands as new potential owners tried to do something with the space. Tax records show that E-O Inc is the current owner, which is a Louis Yip incorporation. 
 
 
 #### Architecture
