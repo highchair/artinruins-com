@@ -2,7 +2,7 @@
 title: "Gano Street, #s 157, 159, & 163"
 slug: 157-163-gano-st-pvd
 aka: 'Holy Rosary Society, Karezz Personal Care Salon'
-date-modified: 2022-01-00 12:00
+date-modified: 2022-01-01 12:00
 
 built: '1929, c.1950, c.1972'
 demolition: '2022'

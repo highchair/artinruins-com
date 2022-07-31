@@ -9,40 +9,40 @@ sitemap:
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for prop in site.property -%}
-  {% if prop.title and prop.slug and prop.date-modified %}
+  {%- if prop.title and prop.slug and prop.date-modified -%}
   <url>
-    <loc>{{ site.url }}{{ prop.url }}</loc>
+    <loc>{{ site.prod_url }}{{ prop.url }}</loc>
     <lastmod>{{ prop.date-modified | date: "%Y-%m-%d" }}</lastmod>
     <changefreq>monthly</changefreq>
-  {%- if prop.sitemap.priority -%}
+  {% if prop.sitemap.priority %}
     <priority>{{ prop.sitemap.priority }}</priority>
-  {%- else -%}
+  {% else %}
     <priority>0.5</priority>
-  {%- endif -%}
-  </url>
   {% endif %}
+  </url>
+  {%- endif -%}
 {%- endfor -%}
 {%- for post in site.posts -%}
   {% unless post.published == false %}
   <url>
-    <loc>{{ site.url }}{{ post.url }}</loc>
-    {%- if post.sitemap.lastmod -%}
+    <loc>{{ site.prod_url }}{{ post.url }}</loc>
+    {% if post.sitemap.lastmod %}
       <lastmod>{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-    {%- elsif post.date -%}
+    {% elsif post.date %}
       <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-    {%- else -%}
+    {% else -%}
       <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-    {%- endif -%}
-    {%- if post.sitemap.changefreq -%}
+    {% endif %}
+    {% if post.sitemap.changefreq %}
       <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-    {%- else -%}
+    {% else %}
       <changefreq>monthly</changefreq>
-    {%- endif -%}
-    {%- if post.sitemap.priority -%}
+    {% endif %}
+    {% if post.sitemap.priority %}
       <priority>{{ post.sitemap.priority }}</priority>
-    {%- else -%}
+    {% else %}
       <priority>0.5</priority>
-    {%- endif -%}
+    {% endif %}
   </url>
   {% endunless %}
 {%- endfor -%}
@@ -50,27 +50,27 @@ sitemap:
 {% assign exclude = "/assets/js/property.js,/assets/css/main.css,/assets/css/main.css.map" | split: ',' %}
 
 {%- for page in site.pages -%}
-  {% unless page.sitemap.exclude == "yes" or exclude contains page.url %}
+  {%- unless page.sitemap.exclude == "yes" or exclude contains page.url -%}
   <url>
-    <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-    {%- if page.sitemap.lastmod -%}
+    <loc>{{ site.prod_url }}{{ page.url | remove: "index.html" }}</loc>
+    {% if page.sitemap.lastmod %}
       <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-    {%- elsif page.date -%}
+    {% elsif page.date %}
       <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-    {%- else -%}
+    {% else %}
       <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-    {%- endif -%}
-    {%- if page.sitemap.changefreq -%}
+    {% endif %}
+    {% if page.sitemap.changefreq -%}
       <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-    {%- else -%}
+    {% else %}
       <changefreq>monthly</changefreq>
-    {%- endif -%}
-    {%- if page.sitemap.priority -%}
+    {% endif %}
+    {% if page.sitemap.priority -%}
       <priority>{{ page.sitemap.priority }}</priority>
-    {%- else -%}
+    {% else %}
       <priority>0.3</priority>
-    {%- endif -%}
+    {% endif %}
   </url>
-  {% endunless %}
+  {%- endunless -%}
 {%- endfor -%}
 </urlset>
