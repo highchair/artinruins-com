@@ -61,6 +61,9 @@ The plant suffered a long, drawn out death, succumbing to vandalism, property da
 
 In the summer of 2005, right as the reclaimed [Narragansett Beer](//www.narragansettbeer.com) brand came under new ownership and started its local comeback, the last remaining building of the original brewery came down – the [Cranston Street Trolley Barn]({% link _property/united-traction-trolley-barn.md %}). The site of the Trolley Barn – as of summer 2020 – is still unoccupied.
 
+**WATCH** the Narragansett Brewery documentary “Hi-Neighbor! The Story of the Narragansett Brewing Company” on demand at [RIPBS.org]( //watch.ripbs.org/show/hi-neighbor-story-narragansett-brewing-company/){:target="_blank"} (released May, 2022).
+{:.o__tldr}
+
 ### Current Events
 
 This location houses the Cranston Police Department and the Cranston Municipal Court. A Katharine Gibbs was in an adjacent parking lot for a short time but it is now Achievement First Elementary School. 
