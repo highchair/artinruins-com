@@ -235,7 +235,7 @@ hr {
     content: '';
     position: absolute;
   }
-  
+
   &::before {
     color: palette('brand-teal');
     content: '* * *';
@@ -245,7 +245,7 @@ hr {
     left: 50%;
     transform: translate(-50%, -0.44em);
   }
-  
+
   &::after {
     border-top: 1px dotted palette('brand-teal');
     top: 50%;
@@ -271,7 +271,7 @@ ol ol ol ol { list-style: lower-alpha; }
 ol ol ol ol ol { list-style: lower-roman; }
 
 dl {
-  border-top: 1px solid $color__borders;
+  border-bottom: 1px solid $color__borders;
   margin-botom: $vertical-rhythm;
 }
 
@@ -283,12 +283,12 @@ dd {
 }
 
 dt {
-  border-bottom: 1px dotted $color__borders;
+  border-top: 2px solid $color__borders;
   font-weight: $font-weight__bold;
 }
 
 dd {
-  border-bottom: 2px solid $color__borders;
+  border-top: 1px dotted $color__borders;
 }
 
 //figure {}

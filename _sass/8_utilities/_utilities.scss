@@ -87,19 +87,25 @@
       }
     }
   }
-  
+
   // Colors
   &__color {
     &__primary {
       color: palette('brand-teal');
     }
   }
-  
+
+  &__color {
+    &__violator {
+      color: palette('brand-red');
+    }
+  }
+
   // Background colors
   &__bg__light {
     background-color: rgba(palette('brand-yellow'), .5);
   }
-  
+
   // Columns
   &__text-columns {
     column-width: 280px;
