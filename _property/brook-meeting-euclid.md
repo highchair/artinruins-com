@@ -1,7 +1,7 @@
 ---
 title: "Block bounded by Brook St., Meeting St., and Euclid Ave."
 slug: brook-meeting-euclid
-aka: "the site of “275 Thayer” student residences"
+aka: "the site of “257 Thayer” student residences"
 date-modified: 2022-01-24 12:00
 
 built: '1875–1900'
@@ -95,7 +95,7 @@ The erosion of the residential College Hill Historic District between Brown and 
 
 ### Current Events
 
-Since demolition, a new private student residence was built called [257 Thayer]({% link _property/257-thayer-st.md %}). In the next block to the north, [seven more late 19th-century homes were demolished]({% link _property/brook-meeting-cushing.md %}) for a parking lot. 
+Since demolition, a new private student residence was built called [257 Thayer]({% link _property/257-thayer-st.md %}). In the next block to the north, [seven more late 19th-century homes were demolished]({% link _property/brook-meeting-cushing.md %}) for a temporary parking lot that later became the [Brown Student Wellness Center]({% link _property/wellness-center-residence-hall.md %}).
 
 
 ### History

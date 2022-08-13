@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade: '1900-1909'
 date-added: '2022'
-categories: [ '#DemolitionAlert', '#UrbanDecay' ]
+categories: [ '#UrbanDecay' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
