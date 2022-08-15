@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade:
 date-added: '2004'
-categories: [ '#NotInRuins' ]
+categories: [ '#ThenAndNow' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: []
