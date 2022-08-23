@@ -2,8 +2,8 @@
 title: "Wit Building"
 slug: wit-building-pvd
 aka: 'Black Repertory Company, Aurora'
-date-modified: 2022-01-17 19:00
-update: 'Added a photo from the 1970s when the building housed Jean’s Department Store'
+date-modified: 2022-08-23 12:00
+update: 'Added a 1940s photo from the Library of Congress while the storefront was Jean’s Department Store'
 
 built: 'c.1925'
 demolition: 
@@ -33,9 +33,11 @@ excerpt: "Smaller than its neighbors, this 2-story commercial building joined th
 thumbnail: wit-jh-2021-02-01.jpg
 
 images:
+  - url: wit-libcong-1940-facade.jpg
+    caption: 'No doubt, one of the few source photos that gave a clue to the renovation architects about what the building might have looked like beneath the mid-century veneer that destroyed the original façade. “Hanging Christmas decorations in Providence, Rhode Island,” December 1940, Jack Delano, photographer. Farm Security Administration - Office of War Information Photograph Collection (Library of Congress).'
+    alt: 'A narrow but deep two story commercial building that had a fairly non-descript façade until the architects for the redevelopment conducted deep research to replicate what might have been an obsidian glass tile façade with large commercial window openings'
   - url: wit-facebook-1970s-01.jpg
     caption: 'The Wit Building as “Jean’s” store in the 1970s, when Westminster Street was a pedestrian mall and commercial-building style tended towards flat surfaces with very little ornamentation. Contributed by David Doiron from Facebook'
-    alt: 'A narrow but deep two story commercial building that had a fairly non-descript façade until the architects for the redevelopment conducted deep research to replicate what might have been an obsidian glass tile façade with large commercial window openings'
   - url: wit-jh-2002-06-01.jpg
   - url: wit-jh-2003-10-01.jpg
   - url: wit-jh-2003-10-02.jpg
@@ -59,7 +61,7 @@ images:
 
 mostrecentimage: 2021-02-01
 
-imagescredit: 'Contribution from the David Doiron and the Aurora Facebook page'
+imagescredit: 'Contribution from the <a href="//hdl.loc.gov/loc.pnp/fsa.8a34929" target="_blank">Library of Congress</a> and the David Doiron and Aurora Facebook pages'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
