@@ -13,7 +13,7 @@
     <sy:updatePeriod>{{ site.feed_update_period | default: "weekly" | xml_escape }}</sy:updatePeriod>
     <sy:updateFrequency>{{ site.feed_update_frequency | default: 1 | xml_escape }}</sy:updateFrequency>
     <link>{{ site.url }}</link>
-    <atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
+    <atom:link href="{{ site.prod_url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
     {% for prop in properties limit: 12 %}
       {%- if forloop.first -%}
     <lastBuildDate>{{ prop.date-modified | date_to_rfc822 }}</lastBuildDate>
@@ -29,7 +29,7 @@
         <description>
           <![CDATA[
             <p>
-              <img src="{{ site.url }}/property-img/r/480/{{ prop_img }}" alt="{{ prop.images.first.alt | xml_escape }}" />
+              <img src="{{ site.prod_url }}/property-img/r/480/{{ prop_img }}" alt="{{ prop.images.first.alt | xml_escape }}" />
               {% if prop.update %}
               {{ prop.update | xml_escape }}
               {% else %}
