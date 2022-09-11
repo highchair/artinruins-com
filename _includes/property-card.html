@@ -1,9 +1,13 @@
 {%- assign categories = item.categories -%}
     <li{% if categories contains '#DemolitionAlert' %} class="demolition-alert"{% endif %}>
-      {%- if item.thumbnail -%}
-        {%- assign item_image = item.thumbnail -%}
+      {%- if item.update-image and home == 'Yes' -%}
+        {%- assign item_image = item.update-image -%}
       {%- else -%}
-        {%- assign item_image = item.images.first.url -%}
+        {%- if item.thumbnail -%}
+          {%- assign item_image = item.thumbnail -%}
+        {%- else -%}
+          {%- assign item_image = item.images.first.url -%}
+        {%- endif -%}
       {%- endif -%}
       {%- if item_image.size > 0 -%}
       <div class="taxonomy__img-wrap">
