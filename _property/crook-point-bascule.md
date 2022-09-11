@@ -2,7 +2,9 @@
 title: "Crook Point Bascule Bridge"
 slug: crook-point-bascule
 aka: "Seekonk River drawbridge S.S. K-315, Standing Bridge, the “Stuck-up Bridge”"
-date-modified: 2020-11-25 12:00
+date-modified: 2022-09-04 12:00
+update: 'Added a new photo of the bridge in a down position, scanned by Facebook user Larry Depetrillo'
+update-image: seekonk-bridge-fb-photo-scan-unknown.jpg
 
 built: '1907'
 demolition: 
@@ -33,6 +35,8 @@ images:
   - url: seekonk-bridge-ppl-postcard.jpg
     caption: "Postcard from the Edward Ozog Photograph Collection, Providence Public Library"
     alt: "A steel and iron truss lift bridge that is two railroad ties wide and ever since 1976, stuck in the up position to allow boats to pass underneath and they travel up and down the Seekonk river"
+  - url: seekonk-bridge-fb-photo-scan-unknown.jpg
+    caption: 'From the collection of Facebook user Larry Depetrillo, scanned from RI Annual Reports; date unknown'
   - url: seekonk-bridge-leo-king-1954.jpg
     caption: 'Photo by Leo King, circa 1954'
   - url: seekonk-bridge-jh-2008-08-01.jpg
@@ -54,7 +58,7 @@ images:
 
 mostrecentimage: 2008-08-01
 
-imagescredit: 'Postcard from the <a href="//provlibdigital.org/islandora/object/islandora%3A18026?solr_nav%5Bid%5D=98be77496b1046ab0dfe&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=3" target="_blank">Providence Public Library Digital Collection</a> and a photo by <a href="http://photos.nerail.org/showpic/?photo=2004051712391620075.jpg&amp;order=byyear&amp;page=8&amp;key=1954" target="_blank">Leo King</a>.'
+imagescredit: 'Postcard from the <a href="//provlibdigital.org/islandora/object/islandora%3A18026?solr_nav%5Bid%5D=98be77496b1046ab0dfe&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=3" target="_blank">Providence Public Library Digital Collection</a>, photo scan from Larry Depetrillo, and a photo by <a href="http://photos.nerail.org/showpic/?photo=2004051712391620075.jpg&amp;order=byyear&amp;page=8&amp;key=1954" target="_blank">Leo King</a>.'
 
 external:
   - source: 'R.I. puts Providence’s distinctive drawbridge down for demolition, Providence Journal'
