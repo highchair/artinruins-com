@@ -1,8 +1,10 @@
 ---
 title: "Downtown Bonanza Bus Terminal"
 slug: bonanza-pvd
-aka: 
-date-modified: 2020-07-18 22:00
+aka: 'Shortline Bus Terminal'
+date-modified: 2022-09-04 13:00
+update: 'Added a postcard photo of the “Shortline Bus Terminal” found by Facebook user Traci Picard'
+update-image: bonanza-fb-postcard-undated.jpg
 
 built: '1963'
 demolition: 'circa 1992'
@@ -30,6 +32,8 @@ images:
   - url: bonanza-sanborn-1956.jpg
     alt: 'A space-age designed single story brick and concrete bus terminal comprised of circular and pill-shaped buildings as well as a triangular pick-up and drop-off platform.'
   - url: bonanza-master-plan-1961.jpg  
+  - url: bonanza-fb-postcard-undated.jpg
+    caption: 'Postcard of the “Shortline Bus Terminal” found by Facebook user Traci Picard; undated'
   - url: bonanza-rihphc-1970-01.jpg
     caption: 'Rhode Island Historic Preservation and Heritage Commission survey, 1970'
   - url: bonanza-rihphc-1970-02.jpg
@@ -46,7 +50,7 @@ images:
   - url: bonanza-aerial-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997'
 
-imagescredit: Contributions by the RIHPHC, HABS/HAER, and aerials from the Providence Historical Aerial Viewer.
+imagescredit: Contributions by the RIHPHC, HABS/HAER, Traci Picard, and aerials from the Providence Historical Aerial Viewer.
 ---
 
 ### Reason for Demolition
