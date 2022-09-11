@@ -2,15 +2,16 @@
 title: "Microfibres, Inc."
 slug: microfibres-pwt
 aka: 'Weil Barnefield Corpin, Woodlawn Finishing Co.'
-date-modified: 2022-07-07 12:00
+date-modified: 2022-09-02 12:00
+update: 'Added new photos of the demolition currently in progress'
 
 built: 'circa 1900, 1940, 1950s'
-demolition:
+demolition: '2022'
 redeveloped:
 units:
 decade: '1900-1909'
 date-added: '2022'
-categories: [ '#UrbanDecay' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -80,6 +81,14 @@ images:
   - url: microfibres-jh-2022-06-03.jpg
   - url: microfibres-jh-2022-06-04.jpg
   - url: microfibres-jh-2022-06-05.jpg
+  - url: microfibres-jh-2022-08-01.jpg
+  - url: microfibres-jh-2022-08-02.jpg
+  - url: microfibres-jh-2022-08-03.jpg
+  - url: microfibres-jh-2022-08-04.jpg
+  - url: microfibres-jh-2022-08-05.jpg
+  - url: microfibres-jh-2022-08-06.jpg
+  - url: microfibres-jh-2022-08-07.jpg
+  - url: microfibres-jh-2022-08-08.jpg
   - url: microfibres-sanborn-1923.jpg
     caption: 'Sanborn Map Company, “Insurance maps of Pawtucket: including Central Falls, Rhode Island V. 2a” (1923)'
   - url: microfibres-aerial-1939.jpg
@@ -93,9 +102,9 @@ images:
   - url: microfibres-aerial-2008.jpg
     caption: 'Providence Historical Aerial Viewer 2008'
 
-mostrecentimage: 2022-05-01
+mostrecentimage: 2022-08-01
 
-imagescredit: 'Constributions from Google Streetview; Showcase.com; Sanborm Map from Brown Digital Repository, Brown University Library; and Aerials from the Providence Historical Aerial Viewer'
+imagescredit: 'Contributions from Google Streetview; Showcase.com; Sanborm Map from Brown Digital Repository, Brown University Library; and Aerials from the Providence Historical Aerial Viewer'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -134,7 +143,7 @@ According to the article, 37 dock doors, 28 trailer stalls, and 100 auto stalls 
 
 No formal written history about this complex of buildings from the usual places. We made our own history based on aerial photographs and Sanborn maps. 
 
-1923, [Sanborn Map](#photo-microfibres-aerial-1923)
+1923, [Sanborn Map](#photo-microfibres-sanborn-1923)
 : Two buildings appear in the 1923 Sanborn Map[^3], the earliest record we have been able to find so far. 
 
 + **Weil Barnefield Corpin, Mfg. Silk & Cotton Novelties** on the northeast corner of Main Street and Moshassuck. A 2-story brick building used for winding and weaving. A smaller wood frame storage building was set to the west. This building also featured a sawtooth roof. 
