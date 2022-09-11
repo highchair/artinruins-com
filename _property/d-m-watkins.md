@@ -2,7 +2,9 @@
 title: "D.M. Watkins Company"
 slug: d-m-watkins
 aka: 'Rolo Jewelry, Johnson & Wales University Student Services Center'
-date-modified: 2021-06-26 12:00
+date-modified: 2022-09-02 15:00
+update: 'Added a scanned photo from a publication, date unknown'
+update-image: dm-watkins-unknown-01.jpg
 
 built: '1920'
 demolition:
@@ -32,6 +34,8 @@ excerpt: "A low slung jewelry manufacturing building on the edge of the Jewelry 
 thumbnail: jwu-jh-2020-03-01.jpg
 
 images:
+  - url: dm-watkins-unknown-01.jpg
+    caption: 'Photo (scan of a print) from Facebook user James Taylor, unknown date'
   - url: rolo-jh-2006-07-01.jpg
     alt: 'A two-story, red brick pier and spandrel manufacturing building from the 1920s with typical ornamentation and large commercial windows. Two sides of the building have a higher degreee of ornamentation in the form of projecting brick corbels and flat columns along with a restored sandstone transom spelling out “WATKINS” above the main entrance.'
   - url: rolo-jh-2006-07-02.jpg
@@ -63,7 +67,7 @@ images:
 
 mostrecentimage: 2010-01-01
 
-imagescredit: 'Contributions by Paul Shelasky'
+imagescredit: 'Contributions by James Taylor and Paul Shelasky'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
