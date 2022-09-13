@@ -1,6 +1,16 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: lincoln-mall
+  person: 'Candie Vermeulen'
+  date: '2022-09-09'
+  content: 'I can remember in the 1980s Lincoln Mall was the place to be I remember the pet store the fountain with the Penny’s the dream machine the music store Spencer’s roast house Newport creamery I had so much childhood memories there it’s sad to see it’s not really a mall anymore thres no more restaurants in the mall just a nail place cinemaworld and cw lanes and games a bowling alley and a very small game room I miss those days'
+
+- property: parcel-6-india-point
+  person: 'Mark'
+  date: '2022-09-01'
+  content: 'I’m not sure Will Morgan actually knows what “urban design” is. Parcel 6, with its small scale retail, human scaled street levels, breaks in massing, canceled parking, etc., is textbook thoughtful urban design, regardless of what one feels about the architecture. Also, an official architecture critic should not be reviewing buildings based on renderings before they are complete and open… Providence deserves a real architecture critic, not someone who treats criticism like it’s a yelp review.'
+
 - property: l-vaughn-company
   person: 'Ralph DeMarco Jr.'
   date: '2022-08-11'
@@ -314,6 +324,11 @@ I do enjoy this website and greatly appreciate the efforts of interested parties
   person: 'Jack Howley'
   date: '2022-02-08'
   content: 'The Bonanza Bus station’s waiting room had rows of chairs with individual pay TV’s!'
+
+- property: bonanza-pvd
+  person: 'Jon Kletzien'
+  date: '2021-04-21'
+  content: 'It was what a station should be. The street side was very much of the city, solid/opaque, and the drum(s) would guide you in under the low roof, then boom, the ceiling was higher, you’re in the station with huge windows looking out to the buses, highway and statehouse and could imagine all the places you could travel too. (via Facebook)'
 
 - property: davol-rubber-company
   person: 'Mark Sawtelle'
