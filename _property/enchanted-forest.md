@@ -27,6 +27,8 @@ excerpt: "A kid-friendly family theme park with storybook characters and amuseme
 thumbnail: enchanted-forest-kap-2009-06-01.jpg
 
 images:
+  - url: enchanted-forest-fb-undated-01.jpg
+    caption: 'Photo from Facebook user Keith Elliott; undated'
   - url: enchanted-forest-lf-2005-09-01.jpg
     caption: 'Photos by Lou Fancy'
   - url: enchanted-forest-lf-2005-09-02.jpg
@@ -74,7 +76,6 @@ imagescredit: Contributions by Lou Fancy, Jim Brueckner, Kerri-Ann Pontifice, an
 The Enchanted Forest was a kiddie-land amusement park on Route 3 in Hope Valley, Hopkinton RI. As most kids in RI, I went to it as a child. They had a “StoryBook Land” where plastic (ceramic?) sculptures of Fairy Tale stories came to life. They had the House that Jack Built (all lopsided) and Humpty Dumpty on a wall, and a bunch of other stuff I can barely remember… the 3 Little Pig House, Goldie Locks and the Three Bears, the Old Lady who lived in a Shoe’s house was a slide, etc…
 
 The park wasn’t demolished as much as it was left to rot and allow nature to overcome it. The sign that was once in the parking lot is gone. Most of the rides were sold when the park was closed in 2005, and anything left became part of the forest once again. 
-
 The property is PRIVATE and therefore we strongly recommend that no one explore here anymore. 
 
 

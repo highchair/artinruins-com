@@ -2,7 +2,9 @@
 title: "John E. Fogarty Memorial Building"
 slug: fogarty-bldg
 aka: 'State Welfare Services, Department of Human Services'
-date-modified: 2020-09-24 17:00
+date-modified: 2022-09-02 13:00
+update: 'Added a photo of the foundation being poured'
+update-image: 'fogarty-pvd-1967-00.jpg'
 
 built: '1967'
 demolition: '2017'
@@ -27,11 +29,13 @@ excerpt: "A love it or hate it concrete structure in the Brutalist style — it
 thumbnail: fogarty-jh-2007-11-01.jpg
 
 images:
+  - url: fogarty-pvd-1967-00.jpg
+    caption: 'Fogarty building foundation being prepped. Providence City Archives, 1967'
   - url: fogarty-pvd-1967-01.jpg
-    caption: 'Fogarty building under construction. Pre-poured sections of the exterior walls were lifted into place. Providence City Archives'
+    caption: 'Fogarty building under construction. Pre-poured sections of the exterior walls were lifted into place. Providence City Archives, 1967'
     alt: 'A three story concrete building that is basically square in floor plan. The first floor presents an open portico under a second-floor overhang. The pre-cast exterior presents a rhythm of vertical windows separated by a jutting angular design.'
   - url: fogarty-pvd-1967-02.jpg
-    caption: 'Fogarty building shortly after construction, Providence City Archives'
+    caption: 'Fogarty building shortly after construction. Providence City Archives, 1967'
   - url: fogarty-jh-2002-01-01.jpg
   - url: fogarty-jh-2005-05-01.jpg
   - url: fogarty-jh-2005-05-02.jpg

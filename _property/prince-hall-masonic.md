@@ -1,7 +1,7 @@
 ---
 title: "Prince Hall Masonic Lodge"
 slug: prince-hall-masonic
-aka: 
+aka: 'Eddy Street School"'
 date-modified: 2022-03-16 12:00
 update: 'Added a photo from March 2022 of the property finally boarded up and the roof covered'
 
@@ -68,7 +68,9 @@ In March of 2022, after more than a year open and exposed to the elements, the b
 
 ### History
 
-Not much about the building itself, yet. A quick survey of [Sanborn Maps](#photo-1895-sanborn-map) reveal that the building was a former school of some kind. We are working on finding more sources to verify when the building was built and what its original purpose was. The Masons became owners in 1966. 
+Not much about the building itself, yet. A quick survey of [Sanborn Maps](#photo-1895-sanborn-map) reveal that the building was a former neighborhood school called “Eddy Street Public School.” We are working on finding more sources to verify when the building was built and what its original purpose was. The Masons became owners in 1966. 
+
+A private copy of a 1908 L.J. Richards map verifies a school at this location (plate 18). A [1900 Sanborn Map](//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39393/41284/560847?accountid=37573){:target="_blank"} (PPL card required) and the [publicly available Sanborn Map from 1920-21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192105){:target="_blank"} (Volume 5, plate 33) shows the “Eddy Street School” at this location. 
 
 #### Prince Hall
 

@@ -2,7 +2,9 @@
 title: "Fuller Iron Works (1893)"
 slug: fuller-iron-works-1893
 aka:
-date-modified: 2021-11-23 12:00
+date-modified: 2022-09-02 14:00
+update: 'Added a scanned photo from a publication, date unknown'
+update-image: fuller-iron-unknown-01.jpg
 
 built: '1893'
 demolition: '2012'
@@ -36,6 +38,8 @@ images:
   - url: fuller-iron-interior-undated.jpg
     caption: 'A machine shop of similar build and similar time period, but NOT the Fuller Iron Works — 1901, Grainger Corporation'
     alt: 'A large, rectangular building 20 feet high by 90 feet wide, and 216 feet long. It was constructed of steel and iron trusses with a wooden plank roof and glass curtain wall.'
+  - url: fuller-iron-unknown-01.jpg
+    caption: 'Undated photo from a publication from Facebook user James Taylor. View east from the corner of South Main and Tockwotton Streets'
   - url: fuller-iron-jh-2012-01-01.jpg
   - url: fuller-iron-jh-2012-01-02.jpg
   - url: fuller-iron-jh-2012-01-03.jpg
@@ -56,7 +60,7 @@ images:
   - url: fuller-iron-rg-2012-01-04.jpg
     caption: 'Photo by Rick Greenwood, January 2012'
 
-imagescredit: 'Contributions by Rick Greenwood'
+imagescredit: 'Contributions by James Taylor and Rick Greenwood'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
