@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: chinese-restaurants
+  person: 'Kimberly Roy'
+  date: '2022-09-13'
+  content: 'I remember going to Mee Hong with my parents. I always had veal and brown gravy, it came with a little dish of french fries and a little dish of pickled beets! It was delicious 😋'
+
 - property: lincoln-mall
   person: 'Candie Vermeulen'
   date: '2022-09-09'

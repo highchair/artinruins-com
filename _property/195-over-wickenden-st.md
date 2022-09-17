@@ -26,11 +26,11 @@ gmap: "https://www.google.com/maps/place/41°49'07.9%22N+71°24'05.0%22W/@41.818
 meta: ""
 excerpt: "The roadway system of on and off ramps and causeway over Wickenden Street and the murals that adorned it"
 
-#thumbnail:
+thumbnail: i-195-over-wickenden-cm-2010-01.jpg
 
 images:
   - url: i-195-expressway-c1965-01.jpg
-    caption: 'Undated and uncredited photo of the expressway east towards the harbor. Corliss Landing is on the left, with South Street Power station in the center distance. Likely taken shortly after the highway was completed in the mid 60s.'
+    caption: 'Undated photo of the expressway east towards the harbor. Corliss Landing is on the left, with South Street Power station in the center distance. Likely taken shortly after the highway was completed in the mid 60s. Providence Public Library collection.'
     alt: 'A series of steel-reinforced concrete columns, retaining walls, ramps, and overhead roadways that used to cut through downtown Providence and the Fox Point neighborhood'
   - url: i-195-over-wickenden-cm-2010-01.jpg
     caption: 'The mural on the Wickenden Street overpass concrete walls, taken 2010 by Christopher Martin'
@@ -67,7 +67,7 @@ images:
   - url: i-195-over-wickenden-jh-2011-01-01.jpg
   - url: i-195-over-wickenden-jh-2011-01-02.jpg
 
-imagescredit: 'Contribution from Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>'
+imagescredit: 'Contribution from Providence Public Library <a href="//provlibdigital.org/islandora/object/islandora%3A10271" target="_blank">Rhode Island Photograph Collection</a> and Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
