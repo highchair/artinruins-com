@@ -36,6 +36,10 @@ images:
     caption: 'View east down Chestnut Street'
   - url: 155-chestnut-st-03.jpg
     caption: 'View from across Chestnut street looking south southeast'
+  - url: 155-chestnut-st-existing-01.jpg
+    caption: 'The existing 1941 Pilgrim Manufacturing Co. Building at 155 Chestnut Street. The new tower would have demolished this building and occupied the parking lot currently in view, abutting the house in the background left (southern side), and demolishing the loading dock structure to the far right.'
+  - url: 155-chestnut-st-existing-02.jpg
+    caption: 'The 1825 Arthur B. and Laura Weeks House would have remained, but would have abutted the new building on its western side. Presumably the greenhouse addition would have been demolished as well.'
 
 mostrecentimage: 2019-09-01
 
