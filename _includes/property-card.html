@@ -1,7 +1,9 @@
+{%- assign item_update = 'No' -%}
 {%- assign categories = item.categories -%}
     <li{% if categories contains '#DemolitionAlert' %} class="demolition-alert"{% endif %}>
       {%- if item.update-image and home == 'Yes' -%}
         {%- assign item_image = item.update-image -%}
+        {%- assign item_update = 'Yes' -%}
       {%- else -%}
         {%- if item.thumbnail -%}
           {%- assign item_image = item.thumbnail -%}
@@ -15,13 +17,18 @@
         <div class="snipe snipe--demolition">Demolition Alert</div>
         {%- endif -%}
         {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
-        {%- assign size = '800' -%}
-        {% responsive_image_block %}
-          path: {{ image_path }}
-          image: {{ item_image }}
-          size: {{ size }}
-          cache: true
-        {% endresponsive_image_block %}
+        {%- if item_update == 'Yes' -%}
+          <img src="{{ site.prod_url }}/{{ image_path }}" class="rwd-img" alt="" loading="lazy" decoding="async" />
+        {%- else -%}
+          {%- comment -%} Output the largest size but do not output the full size. Limit bandwidth to delivering only the 480 and 800 versions {%- endcomment -%}
+          {%- assign size = '800' -%}
+          {% responsive_image_block %}
+            path: {{ image_path }}
+            image: {{ item_image }}
+            size: {{ size }}
+            cache: true
+          {% endresponsive_image_block %}
+        {%- endif -%}
       </div>
       {%- endif -%}
       <div class="taxonomy__colwrap">

@@ -19,6 +19,8 @@ sitemap:
 <section class="home__updates u__gutter__p">
   <p class="u__vertical__pb">We document the architectural landscape and collect the oral, written, and photographic history of important places in Rhode Island. We hope to be a safe space for storytelling, memory-sharing, and dreaming about the future of the built environment. <a href="{% link about.md %}">More about <span class="abbr">A.I.R.</span></a></p>
 
+  <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ properties.size }} properties</span> and <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=totalimg %} images</span>. Browse more from our <a href="{% link all-tags.html %}">Categories and Tags</a>.</p>
+
 {%- assign demoalert = site.property | where: "categories", "#DemolitionAlert" | sort: "date-modified" | reverse -%}
 {%- if demoalert.size >= 1 -%}
   <h2 class="o__title--sm v-rhythm">Demolition Alert</h2>
@@ -37,19 +39,9 @@ sitemap:
     {%- capture is_demo_alert -%}
       {% if categories contains '#DemolitionAlert' %}Yes{% else %}No{% endif %}
     {%- endcapture -%}
-  {% comment %}
-    {% if is_demo_alert == 'Yes' %}
-    <!-- is_demo_alert = Yes | item slug = {{ item.slug }} -->
-    {% endif %}
-  {% endcomment %}
     {%- capture is_under_construction -%}
       {% if categories contains '#WhatAreTheyBuilding' %}Yes{% else %}No{% endif %}
     {%- endcapture -%}
-  {% comment %}
-    {% if is_under_construction == 'Yes' %}
-    <!-- is_under_construction = Yes | item slug = {{ item.slug }} -->
-    {% endif %}
-  {% endcomment %}
     {% if is_under_construction == 'Yes' %}
       {% comment %}
         If this item is WhatAreTheyBuilding, BUT there is an update, show it in the main river
@@ -57,11 +49,6 @@ sitemap:
       {%- capture is_under_construction -%}
         {% if item.update %}No{% else %}Yes{% endif %}
       {%- endcapture -%}
-    {% comment %}
-      {% if is_under_construction == 'Yes' %}
-      <!-- is_under_construction = Yes AND there is no update |item slug = {{ item.slug }} -->
-      {% endif %}
-    {% endcomment %}
     {% endif %}
     {%- assign props = props | plus:1 -%}
       
@@ -177,8 +164,8 @@ sitemap:
     {{ construct_html }}
   </ul>
 {%- endif -%}
-  <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ props }} properties</span> and <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=totalimg %} images</span>. {% if JEKYLL_ENV == 'production' %}Browse more from our <a href="{% link all-tags.html %}">Categories and Tags</a>.{% endif %}</p>
 </section>
+
 <section class="home__anec u__vertical__p u__gutter__p">
   <h2 class="o__title--sm o__title__cta v-rhythm">Anecdotes <a href="/anecdotes.xml" target="_blank"><span class="social__rss" aria-hidden="true"></span>Subscribe</a></h2>
   <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=anecdotes.size %} anecdotes</span> from people just like you.</p>

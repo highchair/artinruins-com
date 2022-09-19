@@ -22,6 +22,7 @@ $mobile-header-height: rem(57);
       
       @include layout-columns(down) {
         display: flex;
+        align-items: center;
       }
       
       // Vertical media query
