@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: crescent-park
+  person: 'Amy Brassard'
+  date: '2022-09-22'
+  content: 'It was the late 1960’s when our family of 8 moved into one of the few remaining beach cottages in Barrington.  I was the 2nd youngest of 6 kids! For those who remember the sign, “You must be as tall as me to ride the Western Ho!” Oh the joy, when I finally met the height requirement and was able to climb behind the wheel! I felt so grown up driving that car around the path. Too many other great memories to mention in detail. Oh, the rides and the midway! The Flying Tigers, Skee Ball, The Turbo, The Flying Fish! So many more!'
+
 - property: chinese-restaurants
   person: 'Kimberly Roy'
   date: '2022-09-13'

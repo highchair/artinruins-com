@@ -27,7 +27,7 @@ longitude: '-71.4026271'
 gmap: "https://www.google.com/maps/place/7+Mt+Hope+Ave,+Providence,+RI+02906/@41.8407687,-71.4026271,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444def291bdc9:0x7886b1f52a3b6d1c!8m2!3d41.8407687!4d-71.4026271"
 
 meta: ""
-excerpt: "A former cathoilic school has been converted into 24 two-bedroom residential units on the East Side"
+excerpt: "A former catholic school has been converted into 24 two-bedroom residential units on the East Side"
 
 thumbnail: holy-name-jh-2020-07-01.jpg
 
