@@ -71,7 +71,7 @@ Listed on the Northeast Firenews website as a retired station built in 1940.[^1]
 
 [^3]: Seen in results from the Providence Historic Aerial Viewer. Captured November 4, 2021 from https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e 
 
-An anecdote from Fire History enthusiast Harry Cohoon (below) rejects that this was a fire station and thinks that the building is likely older than 1930s as we previously noted. He is probably correct. [An 1920-1921 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){target="_blank"} shows a brick building of a similar footprint at this location of 63-65 Ashburton. And again, [as early as an 1899 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002){target="_blank"}, this building seems to be in place but smaller and labelled as “Livery.” We have since changed the likely build date to 1900, but the building could be even older than that. 
+An anecdote from Fire History enthusiast Harry Cohoon (below) rejects that this was a fire station and thinks that the building is likely older than 1930s as we previously noted. He is probably correct. [An 1920-1921 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} shows a brick building of a similar footprint at this location of 63-65 Ashburton. And again, [as early as an 1899 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002){:target="_blank"}, this building seems to be in place but smaller and labelled as “Livery.” We have since changed the likely build date to 1900, but the building could be even older than that. 
 
 
 #### Architecture

@@ -2,7 +2,8 @@
 title: "Park Cinema"
 slug: park-cinema-cranston
 aka: 'Park Theater'
-date-modified: 2021-12-24 12:00
+date-modified: 2022-10-06 12:00
+update: 'Added a new image of the front entrance from 2022.'
 
 built: '1924'
 demolition:
@@ -55,10 +56,11 @@ images:
   - url: park-fm-2008-02-05.jpg
   - url: park-fm-2008-02-06.jpg
   - url: park-fm-2008-02-07.jpg
+  - url: park-jh-2022-09-01.jpg
 
-mostrecentimage: 2008-02-01
+mostrecentimage: 2022-09-01
 
-imagescredit: 'All photos by Frank Murphy'
+imagescredit: 'Most photos by Frank Murphy.'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -71,7 +73,7 @@ In 1985, the Park Theatre was a second-run movie theatre, playing popular films 
 
 [^1]: HARPE, JACKLEEN deLa. “The second time around ‘Suburban’ theaters give movie fans what they want - for a lot less.” Providence Journal (RI), WEST BAY ed., sec. WEST BAY, 28 Mar. 1985, pp. W-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525BF8A8574E960. Accessed 24 Dec. 2021.
 
-In 1999, Piyush Patel purchased the Park. He owned 36 companies in New England and New Jersey at the time — including a few hotels, a textile plant, and a watertreatment facility. He also restored two other theaters, the Narragansett Pier Cinema and Wakefield’s Campus Cinema and put first-run movies into both historic houses. He had planned to do the same with the Park, putting it in direct competition with the 15-screen Showcase in Warwick and the 16-screen Hoyt’s at Providence Place Mall.[^2]
+In 1999, Piyush Patel purchased the Park. He owned 36 companies in New England and New Jersey at the time — including a few hotels, a textile plant, and a water treatment facility. He also restored two other theaters, the Narragansett Pier Cinema and Wakefield’s Campus Cinema and put first-run movies into both historic houses. He had planned to do the same with the Park, putting it in direct competition with the 15-screen Showcase in Warwick and the 16-screen Hoyt’s at Providence Place Mall.[^2]
 
 [^2]: Gesualdo, Nicole. “FAREWELL TO THE CHEAP SEATS… When it reopens: First-class, first-run.” Providence Journal (RI), West Bay ed., sec. News, 1 Mar. 2001, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152510C8C54388C0. Accessed 24 Dec. 2021.
 
@@ -135,7 +137,7 @@ _by Paul Edward Parker_
 
 It appears that the Park Theatre, closed for more than a year because of COVID, may have a buyer who plans to revive the theater.
 
-Edward Brady, who resigned from the City Council a month ago to return to the private sector, was before the state Ethics Commission on Tuesday morning, seeking permission for him and a business partner to ask the council to transfer the theater's liquor license to them.
+Edward Brady, who resigned from the City Council a month ago to return to the private sector, was before the state Ethics Commission on Tuesday morning, seeking permission for him and a business partner to ask the council to transfer the theater’s liquor license to them.
 
 Ethics regulations require officials to wait a year before appearing before the boards for which they served. The regulations allow for a hardship exception.
 
@@ -143,4 +145,4 @@ Brady told the commission that his purchase of the theater is contingent on the 
 
 The commission granted the hardship exception on the conditions that the partner represent the business before the City Council and that Hardy not communicate with any members of the council.
 
-The theater's owner, Piyush Patel, has been trying to sell the property at auction since the spring, but could not find a suitable buyer, who would continue to run the landmark venue across from City Hall as a center for the performing arts. […]
+The theater’s owner, Piyush Patel, has been trying to sell the property at auction since the spring, but could not find a suitable buyer, who would continue to run the landmark venue across from City Hall as a center for the performing arts. […]

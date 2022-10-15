@@ -1,7 +1,7 @@
 ---
 title: "Beef Barn no.1"
 slug: beef-barn-no1
-aka: 'Homestead Gardens (new location)'
+aka: 'the former Homestead Gardens'
 date-modified: 2021-08-23 12:00
 
 built: '1969'
