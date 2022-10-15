@@ -14,6 +14,11 @@ sitemap:
 When ArtInRuins started there were not quite as many home-grown historians, internet sleuths, or blogs dedicated to tracking change in the architectural landscape as there are now. These are the ones that we know of and support, as well as links to some tools and resources that we find helpful when researching a property. 
 {: .o__drop-cap }
 
++ [Similar Projects (RI)](#similar-project-ri)
++ [Similar Project (beyond RI)](#similar-projects-beyond-ri)
++ [Museums, Research, & Resources](#museums-research-resources)
++ [Organizations](#organizations)
+
 
 ## Similar Projects (RI)
 
@@ -24,11 +29,13 @@ When ArtInRuins started there were not quite as many home-grown historians, inte
 
 Drone footage and abandoned properties with some history thrown in for good measure. Videography project by Jason Allard. 
 
+{% comment %}
 ### Greater City Providence
 
 + **Web:** [GCpvd.org](//www.gcpvd.org){:target="_blank"}
 
 GCPVD is a great resource for current news and proposals in pedestrian, streetscapes, and architecture that go in front of the City council or the Downcity Architectural Review board. Whenever I want to know “what are they building over there” GCPVD usually knows. 
+{% endcomment %}
 
 ### I {heart} Rhody
 
@@ -88,6 +95,14 @@ A web compendium of ornate armories throughout the state.
 + **Web:** [rhodetour.org](//rhodetour.org){:target="_blank"}
 
 Captivating places, intriguing people, and exciting events fill Rhode Island’s history. Rhode Tour offers a new way to interact with these untold tales of the state’s past. Using stories, sounds, and images, history comes alive. A project by the [John Nicholas Brown Center for Public Humanities and Cultural Heritage](//www.brown.edu/academics/public-humanities/){:target="_blank"}, the [Rhode Island Historical Society](//www.rihs.org/){:target="_blank"} and the [Rhode Island Council for the Humanities](//rihumanities.org/){:target="_blank"}. 
+
+### Steve Dunwell & Run of the Mill
+
++ **Instagram** [@steve_dunwell_boston/](//www.instagram.com/steve_dunwell_boston/){:target="_blank"}
++ **Personal Portfolio** [stevedunwell.com](//stevedunwell.com){:target="_blank"}
++ **Stock Collection** [stevedunwell.photoshelter.com](//stevedunwell.photoshelter.com/gallery/Mills/G0000dxEbA0wVtUk/C0000IBg4HzxYzoo){:target="_blank"}
+
+A collection of photographs of New England Mills from 1973-2021. People, Structures, Hydro, and “The Run of the Mill” book (1978) featuring an in-depth look at ,ill architecture and work culture in New England after America’s bicentennial and almost 100 years after the start of the Industrial Revolution. His stock collection is a searchable listing of over 400 images. 
 
 ### Small State Big History
 
@@ -163,7 +178,7 @@ The RIHPHC operates its own [National Register property search for RI](//www.ri.
 [Brown University’s Library](//repository.library.brown.edu/studio/collections/id_578/){:target="_blank"} has an impressive collection of Sanborn Insurance Maps. With these, the build environment can be seen in detail and will change over time as neighborhoods are built and filled in. Presently their collection goes back to 1884. 
 
 
-## Resources
+## Organizations
 
 ### College Hill Neighborhood Association
 

@@ -1,6 +1,21 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: beef-barn-no1
+  person: 'Ronald Herzog'
+  date: '2022-10-05'
+  content: 'I worked at Home stead gardens since the start. I would like to receive pictures from when I worked there showing the Christmas 🎄lights please 📸 lol. Thankfully Ronald Herzog'
+
+- property: ri-malleable-iron
+  person: 'Bill York '
+  date: '2022-10-04'
+  content: 'I worked there the summer of 1958, I believe the owners name was Roy and he had a horse farm and he’s Greenwich.'
+
+- property: narragansett-race-track
+  person: 'Danielle Desmaris Hudon'
+  date: '2022-10-01'
+  content: 'My dad & family worked here ! Desmarais family my Dad Dennis passed away to covid! Miss you Dad, Danielle. Grow up in pawtucket! Proud of it !'
+
 - property: crescent-park
   person: 'Amy Brassard'
   date: '2022-09-22'
