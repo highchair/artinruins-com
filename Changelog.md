@@ -3,6 +3,39 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2022-09-19
+
+Changed
++ Index: Remove comments, move the property count
++ Property card: Allow update images to bypass the Responsive image render
++ Responsive image template: allow srcset on a single size output. If 800 were specified, than the 480 would never get used even if the screen size would have allowed it
+
+## 2022-08-23
+
+Changed
++ More updated needed to the feed.xml and sitemap.xml files
+
+## 2022-07-20
+
+Changed
++ Added the absolute URL path to the sitemap file as well
+
+## 2022-06-19
+
+Added
++ Added Webrick as a dependency. The new Mac OSX system with new Ruby installed via Homebrew needs the Webrick gem to make Ruby 3 compatible with Jekyll
+
+## 2022-06-04
+
+Changed
++ Added a production URL to photo absolute paths in the property_item.html layout and index.html. This will allow us to ignore the property-img folder in one Nova project, but use it in another, and concentrate only on uploading new images. Ignoring the property-img folder keep the build time very low
++ The absolute URL also makes images work locally as they actually fetch from the remote server
+
+## 2022-05-09
+
+Changed
++ Updated the config file to remove excludes that Jekyll already adds by default
+
 ## 2022-04-27
 
 Added
