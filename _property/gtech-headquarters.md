@@ -102,7 +102,7 @@ Italy-based GTECH purchased Las Vegas-based slot machine maker <abbr title="Inte
 
 ### Did you Know?
 
-This site figured prominently in the 1999 Gravity Games held in Providence as the main competition area for street-style BMX and Skateboarding. Street Luge and Downhill were held on the streets of College Hill, while Freestyle Motorcross was held in a dirt track where Waterplace Towers and the Blue Cross building are, and a halfpipe and concession area occupied the corner of Francis and Gaspee Streets. 
+This site figured prominently in the 1999 Gravity Games held in Providence as the main competition area for street-style BMX and Skateboarding. Street Luge and Downhill were held on the streets of College Hill, while Freestyle Motorcross was held in a dirt track where [Waterplace Towers]({% link _property/waterplace-towers.md %}) and the [Blue Cross building]({% link _property/blue-cross-tower.md %}) are, and a halfpipe and concession area occupied the corner of Francis and Gaspee Streets. 
 
 
 ### In the News
