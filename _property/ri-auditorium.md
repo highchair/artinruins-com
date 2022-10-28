@@ -36,7 +36,7 @@ images:
   - url: ri-auditorium-2004-04-01.jpg
     caption: "On this spot stood the Rhode Island Auditorium, home of the Rhode Island Reds hockey team, December 3, 1926 to April 11, 1972. 1111 North Main Street, Providence, Rhode Island. Dedicated on Saturday, July 31, 2010, by the Rhode Island Reds Heritage Society"
 
-imagescredit: Images from Tucker and Wikimedia.
+imagescredit: 'Contributions from <a href="https://rittmann-art.com/giclee.htm" target="_blank">Karl Rittman</a> (painting), Tucker Terzian, and <a href="https://en.wikipedia.org/wiki/Rhode_Island_Auditorium#/media/File:Former_Site_of_Rhode_Island_Auditorium.jpg" target="_blank">Wikimedia</a>.'
 
 external:
   - source: 'Time Lapse: R.I. Auditorium was center stage for big events, Providence Journal'
