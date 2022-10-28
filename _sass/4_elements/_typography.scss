@@ -414,16 +414,19 @@ mark {
 //s {
 //  //color: palette(mono, 25);
 //}
-//
-//del {
-//  //color: $color-error;
-//}
-//
-//ins {
-//  //background-color: palette(mono, 25);
-//  text-decoration: none;
-//}
-//
+
+del {
+  color: palette('brand-red');
+  font-style: italic;
+  text-decoration: line-through;
+}
+
+ins {
+  color: palette('brand-brown');
+  font-weight: $font-custom__serif__bd-weight;
+  text-decoration: none;
+}
+
 //// These should change depending on the language
 //[lang="en-US"] {
 //
