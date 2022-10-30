@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: purple-cat-restaurant
+  person: 'Dorothy E. Parkhurst'
+  date: '2022-10-30'
+  content: 'I was married to Ken LaVoie, Jr., the eldest son of Rose and Skip LaVoie, and am the mom of Kenneth Frederick LaVoie, III.  We’re up in Maine now, since 1970. We met at the Spring Grove Pond, where I and my sister and brother spent a lot of our summers  visiting our Aunt and Uncle, Dorothy and Irvin Morin, who lived on Rainbow Rd, off Spring Grove Rd. Kevin and Keith LaVoie were my little brothers-in-law, and Rose and Skip were the best in-laws ever. They always made me feel like family, even after KFL, Jr. and I parted ways. I still have my old wooden Purple Cat magnet on my fridge!'
+
 - property: 283-279-thayer-st
   person: 'Ghoolie'
   date: '2022-10-21'
