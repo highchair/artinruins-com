@@ -32,8 +32,7 @@ excerpt: "One the last remaining historic homes on the Thayer to Brook Street bl
 thumbnail: 235-meeting-goog-2019-08-01.jpg
 
 images:
-  - url: 235-meeting-goog-2019-08-01.jpg
-    caption: 'Google Streetview capture from August 2019'
+  - url: 235-meeting-jh-2020-02-01.jpg
     alt: 'A two and a half story wooden clapboard home with pitched gable roof. Not many original details remain of the 100-year old structure since the ground floor ha been heavily modified to contain many restaurant businesses over the years. A pitched roof entrance off the front still featured a carved crest medallion with the date 1896 inscribed.'
   - url: 235-meeting-jh-2022-08-01.jpg
   - url: 235-meeting-jh-2022-08-02.jpg
@@ -61,7 +60,7 @@ images:
 
 mostrecentimage: 2022-08-01
 
-imagescredit: 'Contribution from Google Streetview and aerials photos from the <a href="//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e" target="_blank">Providence Historical Aerial Viewer</a>'
+imagescredit: 'Contribution of aerials photos from the <a href="//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e" target="_blank">Providence Historical Aerial Viewer</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -79,7 +78,7 @@ But the removal of nine houses from the district in 2013 created a very slippery
 Illustrations of these changes: 
 + Aerial photos of the two blocks bounded by Thayer, Cushing, Brook, and Euclid in [2011](#photo-Thayer-Cushing-Brook-Euclid-2011), [2018](#photo-Thayer-Cushing-Brook-Euclid-2018), [2020](#photo-Thayer-Cushing-Brook-Euclid-2020), and [2022](#photo-Thayer-Cushing-Brook-Euclid-2022). 
 
-Since then, around 2018, on the other side of Euclid, two more houses were razed for a new building on the corner of Brook Street. The former Stereo Discount Center on Angell Street was partially demolished and turned into apartments around the same time. More houses on Angell Street were renovated beyond recognition in 2020. 
+Since then, around 2018, on the other side of Euclid, [two more houses were razed]({% link _property/21-euclid-ave.md %}) for a new building on the corner of Brook Street. The former Stereo Discount Center on Angell Street was partially demolished and turned into apartments around the same time. More houses on Angell Street were renovated beyond recognition in 2020. 
 
 Illustrations of these changes: 
 + Aerial photos of the two blocks bounded by Thayer, Euclid, Brook, and Waterman in [2014](#photo-Thayer-Euclid-Brook-Waterman-2014), [2018](#photo-Thayer-Euclid-Brook-Waterman-2018), [2020](#photo-Thayer-Euclid-Brook-Waterman-2020), and [2022](#photo-Thayer-Euclid-Brook-Waterman-2022). 
