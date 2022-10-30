@@ -34,6 +34,7 @@ thumbnail: 283-279-thayer-jh-2022-10-02.jpg
 images:
   - url: 283-279-thayer-jh-2004-12-01.jpg
     caption: 'Numbers 283, 281, and 279 as captured in 2004. Businesses include Sushi Express, Tom’s Tracks, Shades Plus, and the Army Navy Store.'
+    alt: 'Two wood-frame two and one half story houses with gable roofs and dormers as well as one low cement block commercial structure and one narrow infill building.'
   - url: nava-vintage-undated.jpg
     caption: 'A period after Tom’s Tracks moved out of 281 and NAVA Vintage moved in. Shades Plus was in the process of closing. Found via Google Image search.'
   - url: thayer-techs-2017.jpg
@@ -78,7 +79,7 @@ It’s easy to propose and be granted a demolition permit now that this importan
 
 + 2013: [Nine houses dating from 1875 to 1900 are demolished]({% link _property/brook-meeting-euclid.md %}) to build the [new student apartment building at 257 Thayer]({% link _property/257-thayer-st.md %}), bounded by Thayer, Meeting, Brook, and Euclid Streets
 + 2016: [Seven more houses are lost]({% link _property/brook-meeting-cushing.md %}) for a parking lot until Brown University decided to construct its [new student wellness center and dorms]({% link _property/wellness-center-residence-hall.md %}) in 2020, bounded by Thayer, Cushing, Brook, and Meeting Streets
-+ Circa 2018: Two houses are razed on south side of Euclid for a new building on the corner of Euclid and Brook Streets (what now has Ceremony in the ground floor retail space)
++ Circa 2018: Two houses are razed on south side of Euclid for [a new building on the corner of Euclid and Brook Streets called simply 21 Euclid]({% link _property/21-euclid-st.md %})
 + Also 2018: The former Stereo Discount Center on Angell Street was partially demolished and turned into apartments 
 + 2020: Several houses on the north side of Angell Street were renovated beyond recognition in 2020  
 + 2022: [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}), an 1896 wood-frame 2 1/2 story house, is demolished in favor of a new apartment building. This was the last original house on the block bounded by Thayer, Meeting, Brook, and Euclid 
