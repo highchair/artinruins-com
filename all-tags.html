@@ -14,7 +14,7 @@ sitemap:
 {% comment %}
   Forloop index starts at 1, arrays start at 0 — therefore add a blank spot
 {% endcomment %}
-{% assign pretty_tags = "blank, Categories, Town or State, Providence Neighborhoods, Designers, Lists, Tags, Decade built, Date added, Date of demolition" | split: ', ' %}
+{% assign pretty_tags = "blank, Categories, Town or State, Providence neighborhoods, Designers and Developers, Lists, Tags, Decade built, Date added, Date of demolition" | split: ', ' %}
 
 {% for tag in tags %}
   {%- assign pages = site.pages | where: 'type', tag -%}
