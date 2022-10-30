@@ -11,7 +11,7 @@ units: '102'
 decade: '2010-2019'
 date-added: '2022'
 categories: [ '#WhatAreTheyBuilding' ]
-neighborhoods: [ 'East Side' ]
+neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Gilbane Development Company', 'Union Studio Architecture' ]
 people: []

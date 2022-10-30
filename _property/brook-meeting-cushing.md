@@ -11,7 +11,7 @@ units:
 decade: '1890-1899'
 date-added: '2022'
 categories: [ '#UsedToBeThere' ]
-neighborhoods: [ 'East Side' ]
+neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: []
 people: []

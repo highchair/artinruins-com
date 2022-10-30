@@ -11,7 +11,7 @@ units:
 decade: '2020-2029'
 date-added: '2022'
 categories: [ '#WhatAreTheyBuilding' ]
-neighborhoods: [ 'East Side' ]
+neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [] # William Rawn Associates Architects, Inc.
 people: []

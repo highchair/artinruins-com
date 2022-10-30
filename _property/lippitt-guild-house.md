@@ -11,7 +11,7 @@ units:
 decade: '1860-1869'
 date-added: '2010'
 categories: [ '#NotInRuins' ]
-neighborhoods: [ 'East Side' ]
+neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [] # Lerner | Ladds + Bartels Architects
 people: []
