@@ -21,7 +21,7 @@ const allProps = [
         {% if categories contains '#UsedToBeThere' %}<b>#UsedToBeThere</b> — {% else %}{% endif %}
       {%- endcapture -%}
   {
-    slug: '{{ property.slug }}', title: '{{ property.title }}', 
+    slug: '{{ property.slug }}', title: '{{ property.title }}',
     {%- if item_image.size > 0 -%}
     imgpath: '<img src="{{ site.propimg_path }}r/480/{{ item_image }}" class="rwd-img" alt="" loading="lazy" decoding="async" />',
     excerpt: '{{ is_notthere }}{{ property.excerpt | escape_once }}'
@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function() {
       }
     });
   }
-  
+
   // Property pages
   // If anything inside of the jump menu is clicked, close the menu
   const links_within = document.querySelectorAll('.jumper__link');
@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", function() {
       });
     });
   }
-  
+
   // Property pages
   // Clone the jump menu and move the copy
   const jumpList = document.querySelector('#jump-list');
@@ -108,7 +108,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let gallery = document.querySelector('#gallery');
     gallery.after(divWrapper);
   }
-  
+
   // Property pages
   // Load the anecdote form immediately if someone clicks the loader button
   const anecdoteButton = document.getElementById('js__load-form');
@@ -120,7 +120,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // BUT not if someone has clicked the button to load it manually (see function above)
     var executeLoadAnecdoteForm = setTimeout(loadAnecdoteForm, 10000);
   }
-  
+
   // Randomly assign a "Surprise Me" link one of our properties
   // <a class="prev-next__surprise" href="#">Surprise Me <span aria-hidden="true">!</span></a>
   const surprise = document.getElementById('js-random');
@@ -130,12 +130,12 @@ document.addEventListener("DOMContentLoaded", function() {
     a.href = "/property/" + randomItem.slug;
     surprise.appendChild(a);
   }
-  
+
   // The Property Gallery is initialized by HTML on the page, i.e. "data-fslightbox"
   fsLightboxInstances['air-lightbox'].props.slideshowTime = 6000;
   fsLightboxInstances['air-lightbox'].props.zoomIncrement = 1.0;
-  
-  
+
+
   // Find nearest locations to a current property
   const nearby = document.getElementById('js-nearby');
   if (nearby !== null && nearby !== '') {
@@ -144,7 +144,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let html = '';
     let found = false;
     var nearprops = [];
-    
+
     for (let i = 0; i < allProps.length; i++) {
       // if this location is within 0.25m of the user, add it to the list
       let thisprop = allProps[i];
@@ -174,7 +174,7 @@ document.addEventListener("DOMContentLoaded", function() {
       let count = (Object.keys(byDistance).length > limit) ? limit : Object.keys(byDistance).length;
       html += '<h2 class="o__title--sm v-rhythm">' + count + ' Properties Nearby (within 1/4 mile)</h2><ul class="taxonomy__list taxonomy__list--vertical taxonomy__list--vertical--' + count + ' u__list__unstyled u__vertical__pb" role="list">';
       let max = 0;
-      
+
       for (let key in byDistance) {
         if (max < limit) {
           html += '<li><div class="taxonomy__img-wrap">' + byDistance[key].imgpath + '</div><div class="taxonomy__colwrap"><div class="taxonomy__title-wrap"><h3 class="h5 taxonomy__card-title"><a href="/property/' + byDistance[key].slug + '" class="taxonomy__link">' + byDistance[key].title + '</a></h3><p class="taxonomy__excerpt">' + byDistance[key].excerpt + '</p><p><i>' + convertMilesToFeet(byDistance[key].distance) + ' feet away</i></p></div></div></li>';

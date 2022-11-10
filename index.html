@@ -51,16 +51,16 @@ sitemap:
       {%- endcapture -%}
     {% endif %}
     {%- assign props = props | plus:1 -%}
-      
+
     {%- if forloop.index == 9 -%}
       {% comment %}
-      
+
         Insert a random artful image to break up the list
         We are breaking on the 8th time around the loop
         *Remember that when we get randprop, it is an array*
-      
-      
-      
+
+
+
       {% assign random = site.time | date: "%s%N" | modulo: site.data.artful_architecture.size %}
       {% assign date = site.time | date: "%s%N" %}
       <!-- site.time = {{ site.time }} -->
@@ -68,7 +68,7 @@ sitemap:
       <!-- site.data.artful_architecture.size = {{ site.data.artful_architecture.size }} -->
       <!-- random = {{ random }} -->
       {% endcomment %}
-      
+
       {% assign minutes= site.time | date: "%H" | plus:100 %}
       <!-- minutes = {{ minutes }} -->
       {% assign random = site.time | plus: minutes | modulo: site.data.artful_architecture.size %}
@@ -131,12 +131,12 @@ sitemap:
 {%- endfor -%}
   </ul>
 {%- comment -%}
-  
+
   Get all #WhatAreTheyBuilding properties and spit out a few under construction
   Challenge: Only output if they are LESS than a month old
     Epoch time: 30 days in seconds is 60s * 60m * 24h * 30d = 2592000
   If so, we presume that construction is still underway
-  
+
   If there have an update, don’t show them here. Show them in the river above.
   So, we are filtering on DATE as well as whether or not item.update is present
 

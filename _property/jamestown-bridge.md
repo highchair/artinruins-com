@@ -1,12 +1,12 @@
 ---
 title: "Jamestown Verrazzano Bridge (the old one)"
 slug: jamestown-bridge
-aka: 
+aka:
 date-modified: 2020-08-28 16:00
 
 built: '1940'
 demolition: '2006'
-redeveloped: 
+redeveloped:
 decade: '1940-1949'
 date-added: '2004'
 categories: [ '#UsedToBeThere' ]
@@ -71,11 +71,11 @@ imagescredit: 'Contributions by Erik Gould, Matt Kierstead, and RI Aerials'
 
 ### Reason for Demolition
 
-The last cars crossed the Old Jamestown Bridge in 1992, when the new Jamestown Verrazzano Bridge was completed. For over 10 years, the problem of what to do with the decommissioned structure sat in the hands of the Department of Transportation and the United States Coast Guard. 
+The last cars crossed the Old Jamestown Bridge in 1992, when the new Jamestown Verrazzano Bridge was completed. For over 10 years, the problem of what to do with the decommissioned structure sat in the hands of the Department of Transportation and the United States Coast Guard.
 
 Plans for a pedestrian only bridge and/or bike path were floated by the Sierra Club. When the structure was determined to be past the point of repair, a fishing pier off the North Kingstown side was explored. In the end, neither of those ideas were viable because of the condition of the concrete piers. The Coast Guard had long-determined that the bridge was a navigational hazard and it seems as though they were correct. Concrete has fallen off the columns to the point where the reinforcing steel is visible, the deck was beginning to crumble and some of the steel was starting to deteriorate.
 
-On April 18, 2006, RDX explosives imploded the steel truss work, which were floated away for recycling. The concrete pilings and supports were exploded in a series of less spectacular displays with TNT. The concrete pieces were used to create artificial reefs below the mouth of Narragansett Bay. 
+On April 18, 2006, RDX explosives imploded the steel truss work, which were floated away for recycling. The concrete pilings and supports were exploded in a series of less spectacular displays with TNT. The concrete pieces were used to create artificial reefs below the mouth of Narragansett Bay.
 
 
 ### History
@@ -86,7 +86,7 @@ _Some information excerpted from the Rhode Island Historic Resource Archive Docu
 
 Before the bridge, North Kingstown and Conanicut island were linked by a system of Ferries from the late seventeenth century up until the late nineteenth. In 1873 a steam-powered ferry was established between Jamestown and Newport, followed in 1888 by a steam ferry from Jamestown to Saunderstown in North Kingstown.
 
-Planning for a bridge at this location began as early as 1920 and was spurred by the financial woes of the Newport Ferry Company. The noted bridge engineering firm Parsons, Klapp, Brinckerhoff and Douglass, which also designed the Cape Cod Canal Railroad Lift Bridge, won the engineering contract along with Waddell and Hardesty. The bridge was completed in 18 months on an accelerated schedule. In 1940 the bridge cost $3,002,218, almost $118,000 under budget. The bridge was important during World War II as a link between area military bases including the U.S. Naval Training Station in Newport and the Quonset Naval Air Station in North Kingstown, as well as several coastal defense batteries. At 6,892 ft long it is Rhode Islands second longest bridge. It incorporates 69 spans of varying design including a massive continuous cantilever Warren truss with a 600 ft wide center span 135 ft above the water. 
+Planning for a bridge at this location began as early as 1920 and was spurred by the financial woes of the Newport Ferry Company. The noted bridge engineering firm Parsons, Klapp, Brinckerhoff and Douglass, which also designed the Cape Cod Canal Railroad Lift Bridge, won the engineering contract along with Waddell and Hardesty. The bridge was completed in 18 months on an accelerated schedule. In 1940 the bridge cost $3,002,218, almost $118,000 under budget. The bridge was important during World War II as a link between area military bases including the U.S. Naval Training Station in Newport and the Quonset Naval Air Station in North Kingstown, as well as several coastal defense batteries. At 6,892 ft long it is Rhode Islands second longest bridge. It incorporates 69 spans of varying design including a massive continuous cantilever Warren truss with a 600 ft wide center span 135 ft above the water.
 
 At 12:00 on June 28, 1969, the last toll was collected on the bridge. The previous 30 years of collections had paid for the bridge, and the Jamestown Bridge Commision was dissolved. On the same day, the Newport bridge, the longest in RI, opened on the east side of the island. The bridge remained under the governance of the Rhode Island Department of Transportation (<span class="abbr">RIDOT</span>) from 1969 until 1992, when construction on the new bridge 400 feet to the north was complete. The new bridge started being built in 1985 and was completed in October 1992. Maintenance on the old bridge ceased when the new bridge went into use.
 

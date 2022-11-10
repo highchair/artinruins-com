@@ -9,7 +9,7 @@
 >
   <channel>
     <title>{{ site.title | xml_escape }} Anecdotes</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
+    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
     <sy:updatePeriod>{{ site.feed_update_period | default: "weekly" | xml_escape }}</sy:updatePeriod>
     <sy:updateFrequency>{{ site.feed_update_frequency | default: 1 | xml_escape }}</sy:updateFrequency>
     <link>{{ site.url }}</link>
