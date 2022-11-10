@@ -49,20 +49,22 @@ While Eagle Square was a failure in some ways — artists were forced to move o
 
 We have been documenting the region since 2002 and collecting the histories that make Rhode Island special in the hopes that we may learn from, and preserve, our past.
 
-## Press
+## Press & Contributions
 
-+ _“RIGOR MORTAR: In Conversation With J Hogue,”_ The College Hill Independent, Ben Berke, December 4, 2015. [www.theindy.org/753](//www.theindy.org/753){:target="_blank"}
-+ Article: _Designers Come Together in Renovated mini-Arcade_, Natalie Myers, Providence Business News, January 2007
-+ Article: _Redeveloping Memories_, Vikki Warner, Providence Monthly, June 2009
-+ Article: Owner and designer of ArtInRuins, owner of Highchair designhaus, Providence Business News, Providence RI, July 2006
-+ Article: Owner and designer of ArtInRuins, Pawtucket Times’ Special Section, _Momentum_, Pawtucket RI, May 2006
++ Article: _Architectural Excavation_, **Hey Rhody**, November 2022, p11
++ Article: _Architectural Excavation_, Abbie Lahmers, **Hey Rhody**, October 2022, p14
++ _“RIGOR MORTAR: In Conversation With J Hogue,”_ Ben Berke, **The College Hill Independent**, December 4, 2015. [www.theindy.org/753](//www.theindy.org/753){:target="_blank"}
++ Article: _Designers Come Together in Renovated mini-Arcade_, Natalie Myers, **Providence Business News**, January 2007
++ Article: _Redeveloping Memories_, Vikki Warner, **Providence Monthly**, June 2009
++ Article: Owner and designer of ArtInRuins, owner of Highchair designhaus, **Providence Business News**, Providence RI, July 2006
++ Article: Owner and designer of ArtInRuins, Pawtucket Times’ Special Section, **Momentum**, Pawtucket RI, May 2006
 + Author for Exhibition Catalog: _Scott Lapham Bearing Witness_, photography solo show, October 2005
-+ Interview: _Urban Revival_, Lauren Rosati, Providence Monthly, April 2005
-+ Contributing author: _How to keep the Arts from Dying of Old Age_, AS220 Newsletter, March 2005
-+ Interview: _The Apex of Potential_, Tim Lehnert, Providence Phoenix, December 2004
-+ Interview: _Change in Scenery_ (subject: curator for the “Transformation” art show), Alison Fields, Providence Monthly, May 2004
++ Interview: _Urban Revival_, Lauren Rosati, **Providence Monthly**, April 2005
++ Contributing author: _How to keep the Arts from Dying of Old Age_, **AS220 Newsletter**, March 2005
++ Interview: _The Apex of Potential_, Tim Lehnert, **Providence Phoenix**, December 2004
++ Interview: _Change in Scenery_ (subject: curator for the “Transformation” art show), Alison Fields, **Providence Monthly**, May 2004
 + Curator: _Transformation (The Inevitability of Change: An exploration of urbanism, memory, and romanticism through photography, art, and architecture)_, AS220 Project Space gallery at Union Station, April 2-May 21, 2004
-+ Interview: _Focus on Downcity_, Laura Kline, Providence Monthly, March 2004
++ Interview: _Focus on Downcity_, Laura Kline, **Providence Monthly**, March 2004
 
 ## Our People
 
@@ -77,9 +79,9 @@ Need to contact someone without using our Anecdote form? Email [info@artinruins.
 
 ## Open Source
 
-ArtInRuins is open source software. The entire photographic collection as presented here, along with the source files for our property information, is housed in a [GitHub repository]({{ site.github_repo }}). ArtInRuins can be forked as a base theme for your own collection of property information. In that way, we’d love to see ArtInRuins in other cities if brave souls are willing to take on the challenge. 
+ArtInRuins is open source software. The entire photographic collection as presented here, along with the source files for our property information, is housed in a [GitHub repository]({{ site.github_repo }}). ArtInRuins can be forked as a base theme for your own collection of property information. In that way, we’d love to see ArtInRuins in other cities if brave souls are willing to take on the challenge.
 
-Alternatively, if you have code skills and feel comfortable in GitHub, you are welcome to submit issues, submit pull requests for updates, and/or lend us a hand with improvements. 
+Alternatively, if you have code skills and feel comfortable in GitHub, you are welcome to submit issues, submit pull requests for updates, and/or lend us a hand with improvements.
 
 We decided to use a static site generator, [Jekyll](//jekyllrb.com){:target="_blank"}, for a few reasons:
 + A “static site” means that the <span class="abbr">HTML/CSS/JS</span> is built on a host computer and uploaded to the server fully rendered. It will continue to work as long as the server exists
@@ -87,6 +89,6 @@ We decided to use a static site generator, [Jekyll](//jekyllrb.com){:target="_bl
 + Because there is no database, there are no security issues or access holes
 + Because it is all pre-rendered, the site loads incredibly fast
 
-A drawback is the barrier to entry — someone comfortable with some code skills is required to create and upload new properties. But we welcome contributions large and small, and will help those without those skills get their verified information or photographs posted. 
+A drawback is the barrier to entry — someone comfortable with some code skills is required to create and upload new properties. But we welcome contributions large and small, and will help those without those skills get their verified information or photographs posted.
 
 ***
