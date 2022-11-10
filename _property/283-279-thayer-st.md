@@ -75,43 +75,43 @@ imagescredit: 'Contributions from the Library of Congress and the Providence His
 
 ### Reason for Demolition
 
-It’s easy to propose and be granted a demolition permit now that this important commercial corridor in the College Hill Historic District has been gutted. In 10 years, four blocks along Thayer Street, Cushing to Angell, have seen the loss or conversion beyond recognition of twenty-five structures. We have written previously about the many demolitions in this neighborhood, and to recap: 
+It’s easy to propose and be granted a demolition permit now that this important commercial corridor in the College Hill Historic District has been gutted. In 10 years, four blocks along Thayer Street, Cushing to Angell, have seen the loss or conversion beyond recognition of twenty-five structures. We have written previously about the many demolitions in this neighborhood, and to recap:
 
 + 2013: [Nine houses dating from 1875 to 1900 are demolished]({% link _property/brook-meeting-euclid.md %}) to build the [new student apartment building at 257 Thayer]({% link _property/257-thayer-st.md %}), bounded by Thayer, Meeting, Brook, and Euclid Streets
 + 2016: [Seven more houses are lost]({% link _property/brook-meeting-cushing.md %}) for a parking lot until Brown University decided to construct its [new student wellness center and dorms]({% link _property/wellness-center-residence-hall.md %}) in 2020, bounded by Thayer, Cushing, Brook, and Meeting Streets
-+ Circa 2018: Two houses are razed on south side of Euclid for [a new building on the corner of Euclid and Brook Streets called simply 21 Euclid]({% link _property/21-euclid-st.md %})
-+ Also 2018: The former Stereo Discount Center on Angell Street was partially demolished and turned into apartments 
-+ 2020: Several houses on the north side of Angell Street were renovated beyond recognition in 2020  
-+ 2022: [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}), an 1896 wood-frame 2 1/2 story house, is demolished in favor of a new apartment building. This was the last original house on the block bounded by Thayer, Meeting, Brook, and Euclid 
++ Circa 2018: Two houses are razed on south side of Euclid for [a new building on the corner of Euclid and Brook Streets called simply 21 Euclid]({% link _property/21-euclid-ave.md %})
++ Also 2018: The former Stereo Discount Center on Angell Street was partially demolished and turned into apartments
++ 2020: Several houses on the north side of Angell Street were renovated beyond recognition in 2020
++ 2022: [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}), an 1896 wood-frame 2 1/2 story house, is demolished in favor of a new apartment building. This was the last original house on the block bounded by Thayer, Meeting, Brook, and Euclid
 
-Our recent essay about the demise of 235 Meeting Street goes into more detail about the erosion of this section of College Hill, titled [Meeting Street, #235 — The Quick Demise of Four Blocks within a Historic District]({% link _property/235-meeting-st-pvd.md %}). 
+Our recent essay about the demise of 235 Meeting Street goes into more detail about the erosion of this section of College Hill, titled [Meeting Street, #235 — The Quick Demise of Four Blocks within a Historic District]({% link _property/235-meeting-st-pvd.md %}).
 
-But let’s address the current heartache, and the demise of one of the few remaining wood-frame houses on this commercial section of Thayer Street, and some of the oldest. 281 Thayer Street, known best as the home of **Tom’s Tracks** and **Shades Plus** amongst a certain generation, was built as early as 1875. It and its neighbor to the rear of the plat have been part of the streetscape for the last 120 years. 
+But let’s address the current heartache, and the demise of one of the few remaining wood-frame houses on this commercial section of Thayer Street, and some of the oldest. 281 Thayer Street, known best as the home of **Tom’s Tracks** and **Shades Plus** amongst a certain generation, was built as early as 1875. It and its neighbor to the rear of the plat have been part of the streetscape for the last 120 years.
 
-The former Army Navy building at 279 was built between 1920 and 1951, while the tiny Sushi Express building at 283 was squeezed between its neighbors sometime in the 1970s (we think). The building at 279 was also known as **The Garage** for some time before the Army Navy Store moved in. 
+The former Army Navy building at 279 was built between 1920 and 1951, while the tiny Sushi Express building at 283 was squeezed between its neighbors sometime in the 1970s (we think). The building at 279 was also known as **The Garage** for some time before the Army Navy Store moved in.
 
-The demolition of so many other properties in this section of the district made it much easier to propose and be granted a demolition permit for these remaining structures. That they were probably in a state of deferred maintenance made it even easier. 
+The demolition of so many other properties in this section of the district made it much easier to propose and be granted a demolition permit for these remaining structures. That they were probably in a state of deferred maintenance made it even easier.
 
 
 ### Current Events
 
-A proposal by Michael Boutros and his development company Two Cousins came before the Providence City Plan Commission in May of 2022. Mr. Boutros is also owner of the adjacent commercial block with current tenants Chinatown and Mighty Mike’s Pizza.[^1] The proposal included a [new four story apartment building with ground floor retail (PDF plans)](//www.providenceri.gov/wp-content/uploads/2022/04/22-023MA-279-Thayer-St.pdf){:target="_blank"} on the site, using all of the available land. After a few rounds of design review changes, the plan was approved. As far as we know, while the meetings were public, there was little neighborhood input on the plans. 
+A proposal by Michael Boutros and his development company Two Cousins came before the Providence City Plan Commission in May of 2022. Mr. Boutros is also owner of the adjacent commercial block with current tenants Chinatown and Mighty Mike’s Pizza.[^1] The proposal included a [new four story apartment building with ground floor retail (PDF plans)](//www.providenceri.gov/wp-content/uploads/2022/04/22-023MA-279-Thayer-St.pdf){:target="_blank"} on the site, using all of the available land. After a few rounds of design review changes, the plan was approved. As far as we know, while the meetings were public, there was little neighborhood input on the plans.
 
 [^1]: Rasquinha, Rhea. “Turnover on Thayer: many closures, some new developments.” Brown Daily Herald, September 8, 2022. Accessed October 25, 2022 from https://www.browndailyherald.com/article/2022/09/turnover-on-thayer-many-closures-some-new-developments
 
-Paul Boutros (the other cousin, presumably) and Two Cousins is the developer for the building to replace [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}), also a four-story apartment building with ground-floor retail. 
+Paul Boutros (the other cousin, presumably) and Two Cousins is the developer for the building to replace [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}), also a four-story apartment building with ground-floor retail.
 
 
 ### History
 
-These two houses were some of the oldest surviving structures on this commercial portion of the street (the oldest being [223 Thayer]({% link _property/thayer-street.md %}#233-thayer)). The house at the street front and a similar 2-1/2 story house at the rear of the property is present on a 1908 map. They remain in the same configuration on all Sanborn maps from 1920 to 1956 that we have access to. 
+These two houses were some of the oldest surviving structures on this commercial portion of the street (the oldest being [307 Thayer]({% link _property/thayer-street.md %}#307-thayer) and [223 Thayer]({% link _property/thayer-street.md %}#233-thayer)). The house at the street front and a similar 2-1/2 story house at the rear of the property is present on a 1908 map. They remain in the same configuration on all Sanborn maps from 1920 to 1956 that we have access to.
 
 + [1908 L.J. Richards map, plate 7 — private collection](#photo-1908-lj-richards-p7-01) — Both houses are in place on the street and unlabelled as to their height
-+ [1921 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (Page 20) — Both houses are present and labelled 2 1/2 stories. The house at the back of the lot is labelled postal address 279. The commercial block has not been constructed 
-+ [1921–1951 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (Page 20) — Both houses are present and labelled 2 1/2 stories. The house at the back of the lot is now labelled 279 1/2, and a small structure on the lot is labelled 283 1/2. The commercial block has been constructed 
++ [1921 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (Page 20) — Both houses are present and labelled 2 1/2 stories. The house at the back of the lot is labelled postal address 279. The commercial block has not been constructed
++ [1921–1951 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (Page 20) — Both houses are present and labelled 2 1/2 stories. The house at the back of the lot is now labelled 279 1/2, and a small structure on the lot is labelled 283 1/2. The commercial block has been constructed
 + [1921–1956 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602){:target="_blank"} (Page 14) — No changes
 
-The commercial block was constructed between 1921 and 1951. What became **“The Garage”** and then the **Army Navy Store** is an independent structure with an independent party wall, labelled with postal address 279. The house behind was labelled 279 1/2 after its construction.  
+The commercial block was constructed between 1921 and 1951. What became **“The Garage”** and then the **Army Navy Store** is an independent structure with an independent party wall, labelled with postal address 279. The house behind was labelled 279 1/2 after its construction.
 
 ***
 
