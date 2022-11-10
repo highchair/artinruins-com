@@ -1,6 +1,21 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: crescent-park
+  person: 'Bob Cary'
+  date: '2022-11-07'
+  content: 'Not very much if anything is said about the big bands that played the Alhambra Ballroom. I know because I was in most of them. I played the trumpet and also worked at the Colonnade right next too the ballroom.'
+
+- property: jamestown-bridge
+  person: 'Timothy Thurber'
+  date: '2022-11-05'
+  content: 'I grew up in R.I am my life and still here. I remember weekend trips to Newport with Nana & Grandpa in the’re old Ford Crown Victoria. They had 2 of those cars over the years, a dark brown one and an Ocean State grey one, with an AMC Concorde in between. I would love going over that bridge when I was a kid in the safety behind my grandfather. When you first drove up to it it looked like a straight upwards narrow black road with the yellow lines. I remember the steel framework of it being a brownish-red. When you hit those grates on the top it would literally move the car slightly left slightly right back and forth following the pattern of the grates teeth. I went over it a hundred times ⚓'
+
+- property: jamestown-bridge
+  person: 'Jan Smith'
+  date: '2022-11-02'
+  content: 'Wow! I can’t believe my sister and I used to ride our bikes over this tall, narrow bridge with hardly any sidewalk. We loved to stop and the top and look all around and down at the water, too. That was back in the late 60s.'
+
 - property: purple-cat-restaurant
   person: 'Dorothy E. Parkhurst'
   date: '2022-10-30'
@@ -77,8 +92,8 @@
 “The image’s first mass market incarnation was a slightly oversize post card. I had shown my opus to Patucci, the proprietress of The Front Porch, a Thayer street shop that specialized in exotic soaps and lotions, vintage clothing, utensils and other useful items from the past. It was her idea to sell the image on a post card.”'
 
 - property: thayer-street
-  person: 'Bobby' 
-  date: '2009-07-08' 
+  person: 'Bobby'
+  date: '2009-07-08'
   content: 'I went to Thayer Street for the first time in 1993. My big thing at that time was buying Jethro Tull vinyl albums at Tom’s Tracks, In Your Ear, and Goldy’s Records, which used to be upstairs. I would go with my best friends and make a whole day out of it. I remember never knowing how to get there so friends would always have to navigate me. 16 years later there are no more record stores, but a lot of other stuff looks the same, which I find comforting. Me and my brother and Dad would eat at Kabob ’n Curry. My girlfriend would eat ice cream at Ben and Jerry’s. She used to work in the bookstore. It was one of a few places I could go and not feel like I stood out like a sore thumb, having had long hair and rose colored glasses at the time. I bought Orgasmatron by Motorhead there, as well as so many Jethro Tull live albums and videos. This was before E-Bay, You Tube, Facebook and Craig’s List. People actually bought records and listened to them for the first time after they were released, not before like now. I wish someone would put up some photos of what it used to look like back in the day.'
 
 - property: thayer-street
@@ -90,7 +105,7 @@
 Goldy’s, In Your Ear and Tom’s were THE places to get serious vinyl, I spent Saturday afternoons and evening there. Stromboli’s, the old McDonald’s, the Wendy’s and the Taco Maker were awesome. Even Ben and Jerry’s and d’Angelo’s had their own special appeal being on Thayer St.
 
 
-I had a good friend who used to work at Peaberry’s. I am absolutely floored and sad the the College Hill Bookstore closed. 
+I had a good friend who used to work at Peaberry’s. I am absolutely floored and sad the the College Hill Bookstore closed.
 
 
 Of course, when I reached drinking age, Thayer St took on whole new life. Spat’s was my go-to place. I can’t count how many night I spent there. Montana’s was also a fave of mine — nice place for burgers or ribs and some beers... Laguna’s was slightly more upscale. But I remember one time in 90/91 that I drank 7 Pearl Harbors and a friends Manhattan for happy hours for $8.00...
@@ -99,13 +114,13 @@ Of course, when I reached drinking age, Thayer St took on whole new life. Spat�
 I also used to work at that Subway in the little plaza with the laundrymat near that new (at the time) parking garage past some of the Brown dorms. And if Anjanue Ellis ever reads this — you were too hot, wish I got to know you better! And please return my Prince tapes. You can keep the Cameo one.'
 
 - property: thayer-street
-  person: 'Keven Blanchette' 
-  date: '2009-05-05' 
+  person: 'Keven Blanchette'
+  date: '2009-05-05'
   content: 'Hey All I submitted a post a while back when my friends and I opened our Artist Collaborative (The Spot On Thayer) back in 2007. (What is the upstairs of 278) The longer I have been there the more I have heard about this cool place “the Rubicon Coffee House” circa 1960s. We have sort of inadvertently recreated a great art/music scene for local artists that already existed prior to us. I am hoping to put together as much information as i can on it to display at the Spot. I am hoping someone on here can help with the info. Thanks! Feel free to email me kb [at] TheSpotOnThayer [dot] com'
 
 - property: thayer-street
-  person: 'camille' 
-  date: '2009-01-19' 
+  person: 'camille'
+  date: '2009-01-19'
   content: 'I’m not from Providence. I’m from Austin, TX, and this story could be about my home town. We used to have a street called The Drag… a long stretch of record shops, cafes, bars and bookstores, with an open-air crafts market. Punks, crusties, weirdos, artists, homeless people, students and professors all mingled on the broad sidewalk. In the 70s, it was the cosmic cowboy scene, and in the 60s, hippies and rock and roll. The Drag was the place where it all happened. There is not one thing left on it now to suggest that history to the transient student population, and it’s really sad. They know no better than “Which Wich Sandwiches” and “Chipotle” and Urban Outfitters. I have dreamed for years of doing a historical project about The Drag and love what you have done here.
 
 
@@ -118,33 +133,33 @@ In Austin, groups of independent businesses (book and record stores, mostly) in 
 Maybe a public information campaign in Providence could make things a bit rougher for the soul-sucking chains and could keep things friendlier to the little businesses? Maybe I’m dreaming? A series of before and after posters? T shirt/bumper sticker campaign? Boycotts?'
 
 - property: thayer-street
-  person: 'Joseph Francis' 
-  date: '2008-08-09' 
+  person: 'Joseph Francis'
+  date: '2008-08-09'
   content: 'In 1984, when this building (Kebab & Curry) housed Penguins Restaurant, the transparent enclosure did not exist and that area was a place for outdoor seating. Customers used to nurse a fifty cent cup of coffee forever. Not great for tips. Upstairs at that time was a “new wave” clothing store called Screamin’ Mimi’s (unrelated to the New York one) and it was run by a woman named Elaine, if memory serves.'
 
 - property: thayer-street
-  person: 'NADIM E KAYALEH' 
-  date: '2008-08-01' 
+  person: 'NADIM E KAYALEH'
+  date: '2008-08-01'
   content: 'I used to love East Side pockets in 1999-2000. Is it still as packed as usual? What about that dive that sold the best hot dogs?? There is alos used to be a very expensive arts/craft store. Can’t remember the name…'
 
 - property: thayer-street
-  person: 'Chris' 
-  date: '2008-06-25' 
+  person: 'Chris'
+  date: '2008-06-25'
   content: 'I remember when my friend Todd introduced me to Thayer street in 1985. Steve’s Ice Cream (now Tealuxe) was our destination, but I enjoyed the experience of exploring a whole new world. A few years later I introduced my twin brother to Thayer street. As he stepped out of my car a trio of young women approached us and handed us a red balloon. He couldn’t have been more exhilerated! A few years later I found a job at BeDazzled (upstairs from Berks). It was my ticket in to the “in crowd”… I would hang out on Thayer street after work and meet up with the boys I would meet at the No Name bar. Then, in 1991 when I was an “adult” I was walking Thayer street with my (then) BF, and saw my brother and his (then) GF drive by. At that very moment we were the coolest people on earth! Thanks for the memories!'
 
 - property: thayer-street
-  person: 'Joseph Francis' 
-  date: '2008-05-19' 
+  person: 'Joseph Francis'
+  date: '2008-05-19'
   content: 'Janeane Garofalo used to come into Penguins. I met my wife while working at Penguins in 1984. She went to RISD and I was a townie. We are happily married today. After the Blizzard of ’78, when the roads were snow covered and still, I walked through the bus tunnel from Thayer St to downtown.'
 
 - property: thayer-street
-  person: 'Martini' 
-  date: '2008-04-07' 
+  person: 'Martini'
+  date: '2008-04-07'
   content: 'Ahhhh Thayer Street, I’ve been hanging there since the early 90s… Alot has changed… I shopped at Cinderella’s Closet (where urban outfitters is now) Ate at taco maker, sat in the back of Dunkin Donuts and used the Public Restooms, Been to Wendys’ where Via Via 2 is now on Benefit St, Use to sit on the steps where Appropos use to be even though we never new the name of the place. We are also missing pics of the Garment Distrisct (RIP) Bedlams (next to TeaLux) Antonio’s use to be Cafe Lemaire and before that Cafe LeFrance, How about where Nice Slice and Rock Star is now use to be Crash Anime (a comic book store) I could go on and on with this, I’ll check out my archives and see what I can come up with for early 90s pictures.'
 
 - property: thayer-street
-  person: 'Alice Gruber-Phinizy' 
-  date: '2008-03-10' 
+  person: 'Alice Gruber-Phinizy'
+  date: '2008-03-10'
   content: 'Thayer definitely brings back great memories. I grew up on the East Side during the 90s and spent pretty much all of my waking hours on Thayer. I would skip class at Moses Brown to hang out there, even if it was just to wander around. The first time I ever had Thai food was at Siam Garden — I forget which sidestreet it was on the corner of. I also remember a building with a huge triangle roof (like the roof went all the way down to the ground). I think it was a block or so away from Apropos? I can’t for the life of me remember what was housed in it. It has been great reading everyone’s memories.  I too remember the store that used to be near Ben & Jerry’s old location. I remember eating lunch at Ronzio’s all the time. Ah memories… I wish I had more to share!'
 
 - property: thayer-street
@@ -233,7 +248,7 @@ Thank you for preserving those changes here on this site. Thayer Street in the 9
 
 - property: thayer-street
   person: 'feather marle'
-  content: 'to me, it will always remind me of 1998… the year i changed from a shy school grrl to a wyld wytche who roamed thayer at all hours and where i realized i was a lesbian… my then g/f and i were known as the “crate girls” cuz we would grab a milk crate from Store 17 (which is only actually open 17 hrs) and wick up or purchase random things along the street… 
+  content: 'to me, it will always remind me of 1998… the year i changed from a shy school grrl to a wyld wytche who roamed thayer at all hours and where i realized i was a lesbian… my then g/f and i were known as the “crate girls” cuz we would grab a milk crate from Store 17 (which is only actually open 17 hrs) and wick up or purchase random things along the street…
 
 
 we also conducted a “study” to see if it was true that if people see someone looking they will look to and to see how strong the power of suggestion really is… we stood outside near Berk’s and stared across the street at the flat roofs and whispered and pointed to one another. 117 people stopped to look in 20 minutes. Of those, 93 asked what we were looking at… we replied that there was a naked man running around the roofs… of the 93, 74 claimed to see him and when we left the area, 14 people remained still “watching” the naked man on the roofs!
@@ -497,41 +512,41 @@ My anecdote circa 1974-1978 — Our family trip would be for the 4th of July Fir
   content: 'It looks like we just might have saved this mill. The MA Inspector General is investigating the whole process and Channel 10 just did a news story about it. <a href="http://www.chuckdade.com/fairhavenmills/" target="_blank">A link to all articles in regards to this is here</a>. Some of this info might be helpful to others fighting the battle to save mills. Thanks for your help.'
 
 - property: kendrick-prentice-tirocchi-house
-  person: 'Kathleen Tucker Pavlakis' 
-  date: '2017-02-23' 
+  person: 'Kathleen Tucker Pavlakis'
+  date: '2017-02-23'
   content: 'My Irish and french grandparents worked there, as seamstresses and cleaners… my mother, now passed way, told me a doctor lived there and she worked for him as well when she was a teenager. as well. She liked him very much.
 
 
 (**A.I.R.**: We believe that was Dr. Louis J. Cella, Laura Tirocchi’s husband.)'
 
 - property: kendrick-prentice-tirocchi-house
-  person: 'Annette Angeli' 
-  date: '2016-11-08' 
+  person: 'Annette Angeli'
+  date: '2016-11-08'
   content: 'Dr. Louis Cella was the brother of my grandmother, Luisa Chiellini. I remember visiting Dr. Cella, as a child, at his home office. I remember how beautiful the house was and hope it will be saved and renovated.'
 
 - property: kendrick-prentice-tirocchi-house
-  person: 'Daniel' 
-  date: '2016-09-05' 
+  person: 'Daniel'
+  date: '2016-09-05'
   content: 'Long time fan of this home. Anyone know what it’s up to these days?'
 
 - property: kendrick-prentice-tirocchi-house
-  person: 'Lori Lovett' 
-  date: '2015-03-08' 
+  person: 'Lori Lovett'
+  date: '2015-03-08'
   content: 'My husband and I had the pleasure of living in one of this estate’s adjoining properties for ten years. Beatrice Cella was our landlord until her passing, when her brother, Louis took over. We had many fond memories on Tobey Street. Beatrice was a shy and reclusive woman. We saw the interior of that home when the estate auction happened after her passing. Treasures were sold on that day. RISD also benefited from the treasures there. A moment frozen in time.'
 
 - property: kendrick-prentice-tirocchi-house
-  person: 'Andrea Tirocchi' 
+  person: 'Andrea Tirocchi'
   date: '2014-07-23'
   content: 'The Tirocchi sisters are my great, great, great, aunts on my grandfathers side of the family, Angelo Tirocchi. My sister and I have always waned to tour the home, she and I are far from dress makers! But both are skilled in fine arts my grandmother however, Filomena Tirocchi is a seamstress by trade and continues to work out of her home. I am interested in seeing any other photos you have of our family’s home. Thank you for your time.'
 
 - property: kendrick-prentice-tirocchi-house
-  person: 'Elsie Collins' 
-  date: '2013-03-31' 
+  person: 'Elsie Collins'
+  date: '2013-03-31'
   content: 'My grandparents lived on Federal Hill, and i’ve always love this house!! I am a dressmaker and milliner, and have often dreamed of having my studio in this building, bringing back the art of dressmaking to it!! If anyone has any information on the avaialability of space in it please email me.'
 
 - property: kendrick-prentice-tirocchi-house
-  person: 'lisa' 
-  date: '2012-02-28' 
+  person: 'lisa'
+  date: '2012-02-28'
   content: 'I grew up in providence:) this house was and still is my favorite. It is gorgeous! How can I get information about possibly living there?
 
 
@@ -673,43 +688,43 @@ My anecdote circa 1974-1978 — Our family trip would be for the 4th of July Fir
   content: 'I am the new owner of 301 Friendship which in 2021 will be the new home of SAGE Environmental which began operations in RI in 1995.'
 
 - property: narragansett-race-track
-  person: 'Carlton Vose' 
-  date: '2018-09-26' 
+  person: 'Carlton Vose'
+  date: '2018-09-26'
   content: 'I grew up in Pawtucket, during the era that came after horse racing but before Building 19. During the 80’s it was a huge flea market every weekend. That was the age of nunchucks, Chinese throwing stars, Rambo knives, heavy metal tapestries, Army-Navy surplus, that place had it all. We spent every weekend in there, scouring through thousands of baseball cards, cassettes, etc. My dad was a beer can collector back then. We would go into the old horse stables and pull the planks off the wall, because the jockeys would throw their beer cans up over the top plank, and they’d fall down in between the walls. There were all kinds of vintage Narragansett cans in those walls, and thousands of hypodermic needles. Great memories in that place.'
 
 - property: narragansett-race-track
-  person: 'Carol Thomas' 
-  date: '2018-08-26' 
+  person: 'Carol Thomas'
+  date: '2018-08-26'
   content: 'I lived in a neighborhood that was walking distance from this place, and it was a big deal back in the day. A lot of traffic when horse racing was going on. In the late 70’s the owners were renting it out for music concerts and to the Jehovah’s Witnesses, who used it for their yearly conventions for a few years. When the concerts were going on, you could hear them from my house, and people would park all along our street, I suppose to avoid having to pay for parking. After the race track went out of business, it was a great flea market for a few years, until the mid 80’s, when Building 19 went in. I missed the flea market, but I liked that store. Their ads were a hoot! I wasn’t living in that neighborhood by that time, but I still shopped there often, until about 2010 or so. I was sorry to hear that they went out of business.'
 
 - property: narragansett-race-track
-  person: 'gus gesualdo' 
-  date: '2017-08-24' 
+  person: 'gus gesualdo'
+  date: '2017-08-24'
   content: 'I rode at Gansett in the 60’s and 70’s sad to see it go like that, all i have left is pictures and lot’s of memories, most everyone i rode with is gone now. it’s nice to see someone write about the old track, lot’s of racing history there.'
 
 - property: narragansett-race-track
-  person: 'Zack' 
-  date: '2016-01-24' 
+  person: 'Zack'
+  date: '2016-01-24'
   content: 'Ain’t in use anymore. I went here all of once, and I’ll never forget it. I’m only 19, so it was Building 19 by then.'
 
 - property: narragansett-race-track
-  person: 'Diane Anderson' 
-  date: '2014-06-13' 
+  person: 'Diane Anderson'
+  date: '2014-06-13'
   content: 'A horse I owned, Mighty Bee, won his 1st race in Oct 1961 here. I would love a picture of this win photo. The horse meant everything to me. He only won 4 races but this was his 1st.'
 
 - property: narragansett-race-track
-  person: 'Ron Giorgio' 
-  date: '2013-11-15' 
+  person: 'Ron Giorgio'
+  date: '2013-11-15'
   content: 'As of November 10, 2013, the Building 19 chain has closed. That means all stores, including this one, will close. Now we’re just gonna have to see how much longer until this building is added to the R.I.P list. Too bad the building will be out of use, hopefully they can do something nice with it. I’ll try to keep up on it, but who knows…'
 
 - property: narragansett-race-track
-  person: 'michael j.dupuy' 
-  date: '2012-11-04' 
+  person: 'michael j.dupuy'
+  date: '2012-11-04'
   content: 'My dad was a jockey in the middle thirty’s. His name was John Dupuy. He also was a trainer there He was from New Orleans la.'
 
 - property: narragansett-race-track
-  person: 'Patricia McGowan' 
-  date: '2012-08-31' 
+  person: 'Patricia McGowan'
+  date: '2012-08-31'
   content: 'My grand-uncle, Henry Daniel McGowan (13 May 1886-1948) was the Betting Sign Painter at the Track. He lived with his family at 129 School Street, the former home of his father, Michael Henry McGowan. We still have family living in RI that can verify this.'
 
 - property: narragansett-race-track
@@ -717,76 +732,76 @@ My anecdote circa 1974-1978 — Our family trip would be for the 4th of July Fir
   content: 'My Granddad owner of EB Parker trucking of Amesbury MA delivered frieght to J B Judkins in the 1930ies and 40ies and as a boy and teenager I was there with him many times. Fond memories.'
 
 - property: ri-mall
-  person: 'Norm' 
-  date: '2014-03-17' 
+  person: 'Norm'
+  date: '2014-03-17'
   content: 'Ok… I worked at the Mall from 1980-1983 at Orange Julius. Here are some of the other stores — Swiss Colony, the Pipe Den, Midland records, Papa Ginos, The Barnsider, 16 plus, Kinderphoto, Underground Camera, Radio shack, Flagg Brothers, Newport Creamery, Spencer’s gifts, Safari House, Alladins Castle, Dr Pet, Thom McCann, The Athletes Foot (Attic), Stuarts… I think a small CVS…'
 
 - property: ri-mall
-  person: 'Miss J' 
-  date: '2014-01-31' 
+  person: 'Miss J'
+  date: '2014-01-31'
   content: 'Does anyone remember a maintenance guy who worked there in the early to mid 70s. I think his name was Mark. Thanks.'
 
 - property: ri-mall
-  person: 'Andrew M' 
-  date: '2012-12-26' 
+  person: 'Andrew M'
+  date: '2012-12-26'
   content: 'Heard it was sold to developers recently. Not sure if this means redevelopment or a severing of the empty vein between Sears and Walmart/Kohls. Would be nice to see something happen with it though.'
 
 - property: ri-mall
-  person: 'Joe' 
-  date: '2011-03-19' 
+  person: 'Joe'
+  date: '2011-03-19'
   content: 'March 2011 update: The Mall faces another loss: The **Toy Vault** ended up opening up another location in the Warwick mall (where Tilt used to be until the flooding last year). In a similar fashion to Filenes they ended up closing the Rhode Island Mall branch last month (leaving the stores remaining at five). Of the five, two of the store have locations at the Warwick mall (Lenscrafters, and GNC), the other three; Sears, H&R Block, and First Place sports. In addition Sears put up a partition wall within the last couple of days, preventing people from directly entering the mall. Asking an associate about it, she was mentioning that the wall was put up for fire protection. further talking about the mall, she noted that the reason why there is no new tenets is due to the cost of modernizing the building to comply with new fire code regulations. Not sure if its the truth, but with the walls on both sides of the mall, the main hall is now in grave condition.'
 
 - property: ri-mall
-  person: 'Eric M.' 
-  date: '2009-09-01' 
+  person: 'Eric M.'
+  date: '2009-09-01'
   content: 'I just talked with the owner of 1st place sports today who was a very nice, down to earth guy about the current state of the R.I. Mall. Apparently Stop and Shop currently has a 20 year lease with the mall owners in which Stop and Shop pays the mall owners rent for every single retail space there. (Surprised? I’m not. Stop and Shop is evil.)
 
 
 Incredulous, I said “But that doesn’t make any sense!” Apparently 10 years ago, the Wal-Mart that is currently there was supposed to be a Super Wal-Mart like the one located in Coventry. The owners of Stop and Shop declared that a Super Wal-Mart would severely hamper their business. Thus the owners of Stop and Shop decided it would be cheaper to just make a 20 year lease of every store space in that damned mall to keep Wal-Mart from being huge and *Gasp* hurting Stop and Shop and their overpriced rubbish. He also told me Stop and Shop is looking to break the lease soon which will allow stores to move back in there so there is hope very soon for this mall.'
 
 - property: ri-mall
-  person: 'Donna' 
-  date: '2009-09-01' 
+  person: 'Donna'
+  date: '2009-09-01'
   content: 'In my day it was the Midland Mall. During the 70s, it was a place to hang out. I had a boyfriend that worked in a shoe store; the kids use to cruise the mall and flirt, and we shopped for fuzzy posters and black lights at Spencers. My high school chorus would put on Christmas performances on the steps across from the escaltors. Fond memories.'
 
 - property: ri-mall
-  person: 'James R' 
-  date: '2008-12-22' 
+  person: 'James R'
+  date: '2008-12-22'
   content: 'I love this mall, I still go here from time to time to hit up gamestop and toyvault. I remember when we had the ol’ movie store and spencer’s. From time to time me and my buddies ride up the elevators and put our asses on the glass and moon all the dmv people. I once took a dump in the piercing pagoda and no one knew where the stench was coming from. ah, good times.'
 
 - property: ri-mall
-  person: 'Stephen Mattos' 
-  date: '2008-12-11' 
+  person: 'Stephen Mattos'
+  date: '2008-12-11'
   content: 'I suggest they let it rot and film a zombie movie here. I honestly can’t wait til all these strip malls become ghost towns. They will be much more beautiful when that finally happens.'
 
 - property: ri-mall
-  person: 'sissy769' 
-  date: '2008-11-22' 
+  person: 'sissy769'
+  date: '2008-11-22'
   content: 'i remember when midland mall was the place to be! i loved it when it was in it’s heyday. my family went there a lot when i was a kid. i am in my late 40s and but spent the 80s in mass. when i relocated to ri by the 90s warwick mall had stolen a lot of the business away from the midland mall. now its a mere shell of what it used to be. i walk there and i find it very sad.'
 
 - property: ri-mall
-  person: 'Johnny Boy' 
-  date: '2008-07-19' 
+  person: 'Johnny Boy'
+  date: '2008-07-19'
   content: 'Seriously people. I keep reading how sad it is to see this mall close. Are you serious?  I am guessing you are all under 25 and remember mommy bringing you here to buy school clothes. People… there are no memories of this concrete hell hole worth saving. If you’re best memories are of a mall of this caliber then your childhood must have been spent at Cathedral Camp running from the pedophile priests.'
 
 - property: ri-mall
-  person: 'TA' 
-  date: '2008-05-16' 
+  person: 'TA'
+  date: '2008-05-16'
   content: 'this is my favorite mall in the world. Because of the Toy Vault. Its the best toy and comic store ever, esp if you love old toys and Anime figures. Good selection and stuff, and the Game store is quite good, no stupid crowds to wade through when you buy your stuff.'
 
 - property: ri-mall
-  person: 'Karen Rose' 
-  date: '2008-05-13' 
+  person: 'Karen Rose'
+  date: '2008-05-13'
   content: 'Everyone seems to be lamenting the fact that Rhode Island/Midland Mall is dying and that it’s “Such a shame”. However, I don’t see any one of you trying to do something about it! It’s always someone else’s problem isn’t it? Why not find a way to contact management, see about leasing space? If Stop & Shop and Ahold companies are leasing the empty stores… how about subleasing from them, Writing to them? Or writing the mayor and city planner? What about having it declared a historic site? I can tell you from experience that the remaining store owners are hoping against hope and praying for a miracle that something will change. Rhode Island mall has given so much to the community over the years. Can’t we preserve this place of deep and fond memories? Yes, Rhode Island mall is “dying”, but it isn’t dead yet!! It’s amazing what can happen when caring people of the community get together and do something!! Are you those people, or is this just something to write about to pass the time during a slow night at home? React… think… and ACT'
 
 - property: ri-mall
-  person: 'annie' 
-  date: '2008-05-07' 
+  person: 'annie'
+  date: '2008-05-07'
   content: 'I worked at the Kay Jewelry store in the early 90’s – horrible mall – horrible people – one less thing to pass that makes my stomach hurt when visiting my family in New Engaland.'
 
 - property: ri-mall
-  person: 'Jess' 
-  date: '2008-03-05' 
+  person: 'Jess'
+  date: '2008-03-05'
   content: 'I remember when the Rhode Island Mall was the better of the two malls when compared to the Warwick Mall. Prom dress shopping at Gantos, the Gap, Spencers, G Fox. I used to sing with my high school Chorus on the stairs in the middle of the mall. It is so sad that it is a wasteland now. Not to say that I do not enjoy all of the new things we have now, it is just too bad that the old is forgotton.'
 
 - property: ri-mall
@@ -866,18 +881,18 @@ I worked in that haven to Alfred Dunner sportswear for just under a year in 1997
   content: 'that building would be useful, for many other things than more condos that aren’t and needed parking spaces that aren’t available. How about affordable housing? How about just getting a profitable business inside?'
 
 - property: vesta-knitting-imperial-knife
-  person: 'Pete Kelley' 
-  date: '2016-02-16' 
+  person: 'Pete Kelley'
+  date: '2016-02-16'
   content: 'Since my last anecdote two years ago My "Imperial Key Knife" collection has grown to Include a Robeson Knife and a Colonial Knife. If any of the other contributors Have any information about these knives with car keys, I would appreciate hear from you. you may use my email. I’m going to be 80 this year so I don’t have too much time left. bethpete5 [at] gmail [dot] com'
 
 - property: vesta-knitting-imperial-knife
-  person: 'Pete Kelley' 
-  date: '2014-11-13' 
+  person: 'Pete Kelley'
+  date: '2014-11-13'
   content: 'I have a story about the Imperial Pocket Knife that had a car key blank as a second blade. I saw one of these when I was a young boy back in the early 1940s. An older guy had a 1937 Chevrolet and he had one of these knives in the ignition switch. At first we (my friends and I) thought he had stolen the car and jimmied the ignition with a pen knife. He told us the car dealer gave him the knife when he bought the car new. I never saw or heard of these knives again until 2004 when I started restoring a 1950 Chevrolet. The previous owner told me he had no keys for the car. When I started to remove sections of the body for the restoration project, I found an Imperial pen knife with a Chevrolet logo and a cut key blank. The key fit the locks in the car. I finally finished the car in 2009. During the time of working on the car I accumulated several more knives. I also learned that Curtis Industries of Cleveland made the blanks for these knives. I don’t go to many car shows with my car, but when I do, the big attraction is the Key Knife in the ignition. Not many of the folks have seen these knives.'
 
 - property: vesta-knitting-imperial-knife
-  person: 'Norm Farnum' 
-  date: '2012-11-12' 
+  person: 'Norm Farnum'
+  date: '2012-11-12'
   content: 'My wife was cleaning out a kitchen drawer this evening and came across the Imperial Pocket Knife that I’ve had ever since I was a boy. It’s been in the family for a long time. It’s a four-blade model - actually two blades (one little one and the big one stamped with the "Imperial Prov, R.I." at the base). The smaller blade is paired with the "CanOpener - Pat. Pend." The large blade is paired with a combination bottle opener/flat bladed screw-driver. The knife measures about 3 3/4" in its closed position, with a stiff wire for attaching to a clip or fob. If you’re interested in a photo, please email. norm[at]farnumfamily[dot]org'
 
 - property: vesta-knitting-imperial-knife
@@ -889,18 +904,18 @@ I worked in that haven to Alfred Dunner sportswear for just under a year in 1997
 They also had a cutlery plant and a plating co. Cutlery was in Olneyville I think Plating probably was to but my memory of where slips by me. Mr. and Mrs. Mirando’s boys also worked for the Co. Robert managed the plating Co and Felix Jr. worked out of and office in New York City, sale and promotion I guess , not sure :)  Daughter,s all who were just like rest of family’s were very nice people. Names escape me now. I,m now 72. I will and have always remembered them with great love and respect.'
 
 - property: vesta-knitting-imperial-knife
-  person: 'nancy thornlimb' 
-  date: '2012-03-08' 
+  person: 'nancy thornlimb'
+  date: '2012-03-08'
   content: 'Mr. Fazzano bought his Chryslers at Hurd & Goldberg in Cranston where I was employed. The story was that the street was originally called Blount St. and that he had the name changed because the name wasn’t fitting for a knife co.'
 
 - property: vesta-knitting-imperial-knife
-  person: 'Alyce de St. Aubin Phillips' 
-  date: '2010-04-29' 
+  person: 'Alyce de St. Aubin Phillips'
+  date: '2010-04-29'
   content: 'My Great Grandfather bought the Vesta Underwear company in 1916 with his son, not brother, Percival. Do you have any more information about Percival de St. Aubin?'
 
 - property: vesta-knitting-imperial-knife
-  person: 'Jeanne Rasmussen' 
-  date: '2010-01-06' 
+  person: 'Jeanne Rasmussen'
+  date: '2010-01-06'
   content: 'From 1946 - 1948 My father managed the cafeteria for Imperial Knife Co. I was 9 or 10 at the time and he would come home and talk about his job and how much he liked everyone. Every so often he would bring my mother and me a piece of jewelry, which was out of this world. The jewelry and knives he collected while we lived in Providence was lost in a home fire in 1954.'
 
 - property: vesta-knitting-imperial-knife
@@ -909,8 +924,8 @@ They also had a cutlery plant and a plating co. Cutlery was in Olneyville I thin
   content: 'One of my great aunts use to work there. She always had knives and spoons and kitchen utensils for us.'
 
 - property: vesta-knitting-imperial-knife
-  person: 'patricia taylor' 
-  date: '2008-08-13' 
+  person: 'patricia taylor'
+  date: '2008-08-13'
   content: 'i need inf. on a imperial pocket knife made in the usa. it has 2 blades a brass lookin finish with a picture of a steam engin with 7 cars behind it. facing differint directions on eaaach side. it is 3 in. long. i would just like a history on that knife. if you could help it would be very appreciated. i would like to give this to my grandson but i would like a history to go along with it also it was made by imperial knife co. in the usa. i have  had it for 30 years. thank you. liftrepair [at] bellsouth [dot] net'
 
 - property: d-andreas-pharmacy
@@ -932,73 +947,73 @@ They also had a cutlery plant and a plating co. Cutlery was in Olneyville I thin
   content: 'That used to be D’Andreas Pharmacy back in the day. I remember it had a soda fountain in it, too. They had gone out of business years ago.'
 
 - property: lincoln-mall
-  person: 'Carol Thomas' 
-  date: '2018-02-01' 
+  person: 'Carol Thomas'
+  date: '2018-02-01'
   content: 'Granted, it’s not the mall used to be, but it still survives as a group of stores and offices, and that’s better than being abandoned/demolished like old malls in other parts of the country.'
 
 - property: lincoln-mall
-  person: 'Ryan Passarelli' 
-  date: '2017-12-14' 
+  person: 'Ryan Passarelli'
+  date: '2017-12-14'
   content: 'When I first went to Lincoln Mall, we had Kmart and Stop and Shop as anchors. I lived in one of the next towns over from the mall and I still do as of today. Three times a week until the Kmart closes in 2003 (I first went to KM in around 2000 or 2001 with this store). I would go into the store’s Little Caesars Pizza Station three times a week to have their delicious pizza and buy some items. Back then, my favorite store in the mall was no other than the Kmart and I wouldn’t budge to go anywhere else (I got to go more Kmart’s sometime after that). I was sad to see Kmart leave the mall because that’s my favourite store at the time. I did go to Target after Kmart’s demolition in 2005. Also in 1992, Kmart actually demolished the Ames for a shiny new store (Kmart would build a rather shiny and attractive store in the former Zayre {Ames} space).'
 
 - property: lincoln-mall
-  person: 'Karen Tibbetts' 
-  date: '2015-11-23' 
+  person: 'Karen Tibbetts'
+  date: '2015-11-23'
   content: 'In the 1970-1980 I remember my mom taking me to a mall. It was Lincoln or Midland Mall to see the Talking tree. Does anyone remember this?'
 
 - property: lincoln-mall
-  person: 'Andrew H' 
-  date: '2010-02-12' 
+  person: 'Andrew H'
+  date: '2010-02-12'
   content: 'I grew up in Lincoln in the 80’s and 90’s and I loved the Lincoln Mall. The days of Caldor and Zayre. It was the saddest day when Zayre closed, but was then replaced by Ames. I still have a replacement needle for my record player with the Zayre price tag on it. Until K-Mart took over, I remember they had the kiddie arcade and rides in the empty Ames store. I remember the inside of Almacs like it was yesterday. We always liked the Lincoln Almacs store… not the one on Mendon Road in Cumberland. We got countless goldfish from the Rumford Pet Center to feed a pet shrimp we had growing up… and we got a couple hampsters from them as well (free plug for the Rumford Pet Center in East Providence that caught fire in 1992). I loved those stores. Anyway, back to the Lincoln Mall… I taught my sister how to drive a car with a manual transmission in the back parking lot. When a cop “pulled us over” in the parking lot, he asked what we were doing and then added “can you teach me?” As a kid, I used to get cheap ornaments from the Thing’s Remembered kiosk to give as Christmas presesnts. Of course, who can forget the Dream Machine… I could probably retire on what I used to spend there. But I always remember when my Mom would take us to the movies, we’d go to Caldor first to get drinks and snacks because it was cheaper. Bought several remote controlled cars from Radio Shack, and of course, KB Toys. Randy the talking reindeer and throwing change into the fountain… when it was working. I know there’s plenty more memories… but that’s all I have for now. Oh yeah, one more… remember the kiosk near the fountain that had the 3-D pictures? You had to hold it to your face, focus your eyes, then pull the picture away to see the image? It took me forever to see the image…'
 
 - property: lincoln-mall
-  person: 'Debbie English Wright' 
-  date: '2009-09-08' 
+  person: 'Debbie English Wright'
+  date: '2009-09-08'
   content: 'I, too, have fond memories of Lincoln Mall! I lived in Smithfield and really enjoyed the drive and “warmth” of the mall. During the 1970s and later, as a stay-at-home Mom, I worked part-time at Peerless and at the Things Remembered Kiosk. Christmas was crazy! I took my kids to see Randy the talking Reindeer, and of course, to see Santa Claus. My friends and I used to go walking EVERY MORNING before the stores opened to exercise and window shop! I remember Roast House, Fanny Farmer Chocolates, and Dunkin’ Donuts. My kiddos loved Papa Gino’s. We’d take in a movie (recalling Honey I Shrunk the Kids) and get a bite to eat afterward. There was something for everyone. It felt manageable… far better than the huuuuuge malls we have now a-days. I moved from Rhode Island in 1996, but that was a great place to go with a family!'
 
 - property: lincoln-mall
-  person: 'WaldenBooks' 
-  date: '2009-05-22' 
+  person: 'WaldenBooks'
+  date: '2009-05-22'
   content: 'Come on people. Don’t forget abut the pennies in the fountain! The General Cinema/Dream Machine combo was the best. Papa Gino’s? Still the best pizza i’ve ever had. MCD on the way out? Some white patent leather shoes from Donnelly’s? Yup! I’m not completely sure but I think I saw Star Wars at that theater. Hey now! Spencer Gifts – flipping through the posters anyone? God I haven’t thought about that mall in a long time but after flipping through these pages i’m remembering and looking back it’s amazing how special that place really was.'
 
 - property: lincoln-mall
-  person: 'paull' 
-  date: '2009-03-04' 
+  person: 'paull'
+  date: '2009-03-04'
   content: 'I was the guy playing the organ all day at Lowrey Organ Center. Hey it got me through college. The mall was a great place to be during the late 70s and early 80s. It was so packed on a saturday night it was wall to wall people. I would love to have anyone who worked at the organ center to e mail me at kmsc04 [at] aol [dot] com,, thanks for this web site, its great…'
 
 - property: lincoln-mall
-  person: 'RC' 
-  date: '2009-02-21' 
+  person: 'RC'
+  date: '2009-02-21'
   content: 'I spent a good amount of time there walking back and forth as a teenager checking out the girls. Dream Machine was always the first stop. My girlfriend worked at Papa Gino’s. Music and… still sold albums! I can even remember going there as a little kid with my parents. Where Caldor was there was a different store there, that had a food court/restaurant in the back of the store right near the mall hallway entrance. Good memories of a better time.'
 
 - property: lincoln-mall
-  person: 'ton' 
-  date: '2009-02-07' 
+  person: 'ton'
+  date: '2009-02-07'
   content: 'The anchors were The Outlet and Woolco. I remember when the Gap only sold Levi’s.'
 
 - property: lincoln-mall
-  person: 'JS' 
-  date: '2009-02-04' 
+  person: 'JS'
+  date: '2009-02-04'
   content: 'That was our family’s go-to Santa Claus. There was also a talking Christmas tree in Peerless that mystified me as a kid. It was basically a tree with a woman’s voice that would ask you what you wanted for Christmas. Other stores not mentioned: Rave, a Hallmark shop, Ups n Downs, Pants Place, Don Dee Shoes, Moto Photo, Spectrum India, the Silver Dragon…'
 
 - property: lincoln-mall
-  person: 'gs' 
-  date: '2008-12-24' 
+  person: 'gs'
+  date: '2008-12-24'
   content: 'I too grew up hanging at this mall, I mostly remember the record store, I think it was called “Music And…”, which also sold some kick ass spiked bracelets and jean jacket patches and that kind of stuff. Dream Machine was also great fun — I remember playing Punch Out a lot later on and really enjoying the Spy Hunter game, because you got to sit down in the machine. And of course the skeeball and whac-a-mole were the standbys. I think I still have some tickets hidden away someplace. What was really cool about the Lincoln Mall was when the local National Guard would come and set up a howitzer inside near the staging area.'
 
 - property: lincoln-mall
-  person: 'Roland' 
-  date: '2008-09-13' 
+  person: 'Roland'
+  date: '2008-09-13'
   content: 'I spent an awful lot of time at the Dream Machine. I mean, I think I actually funded the lighting for the whole place! I recall that when you walk in, there were some shoot ’em up type machines on the left, a ramp that went up to a second landing where there were pinball machines. On the lower lever towards the far right corner was an air hockey table. Just behind and to the right was a basketball free throw machine. I also spent quite a few dollars at the theater across the way. Just up from the theater was India Optical and at the very end of that entry hall was the piano and organ store. I’d let my girlfriend go do her shopping while I listened to the customers and salespeople play those pianos and organs. In picture 1 of the photos, there was a stage setup that featured a traveling Beatles tribute band called Beatlemania. They played around four shows over a weekend. I saw their tour back around 1977. Just a side note here, but the remnant members of the Beatlemania show were the first band to play at the United Kingdom pavilion at Walt Disneyworld. Of course, none of the original cast still play there. I recall the fantastic baseball card store. I really, really miss Lincoln Mall back in its glory days. Emerald Mall does absolutely nothing for me.'
 
 - property: lincoln-mall
-  person: 'M' 
-  date: '2008-08-24' 
+  person: 'M'
+  date: '2008-08-24'
   content: 'Worked at Cherry &amp; Webb at the Lincoln Mall – hired in 1976 or 77 as temporary Christmas help and then kept on afterwards. Horrible “S.O.S” Clearance sales which we all knew stood for “Same Old Sh*t”. I hated Shoes and Childrens, the best was Accessories next to the Mall entrance – you could look out and see who was walking around. Highlights were when the Patriots were in training at Bryant College and we would squeal at the sight of tall, sun burnt, thick-necked rookies strutting by. Grilled cheese sandwiches at th Newport Creamery at lunchtime, trying to catch the eye of the cute-guy server, hanging out at the record store (what was it’s name?) while they played David Bowie and the B-52’s.'
 
 - property: lincoln-mall
-  person: 'Leon Letendre' 
-  date: '2008-05-10' 
+  person: 'Leon Letendre'
+  date: '2008-05-10'
   content: 'The Lincoln Mall was great!! Living in Woonsocket, I was able to take the bus before I drove and spend saturday’s at the mall. My mom took me to see Jaws at the General Cinema. As i got older and had money and my own car (that I got working at the McDonald’s on site) I was able to buy great clothes at The Proving Ground, The Outlet, Chess King only the best for me!!!!. I as well as other’s got our parted in the middle and feathered hair cuts at the salon across from the Magic Menu. Oh, Magic Menu had frozen yogurt served in a cut up pineapple with fruit, how fashionable!! And Papa Gino’s, the line to get in there was out of sight. I went crazy when I found a Papa Gino’s in West Palm Beach Florida, it was a taste of home and a big serving of memories. And the gap sold corduroys in the best colors. I still to this day have hidden deep in my dresser, skinny early 80’s  bow ties that were all the rage that I bought at the Lincoln Mall. I soon forgot about the Lincoln Mall when I moved to Florida, the first mall I walked into then had an ice rink, imagine the mall level I felt I jumped to!! But stumbling on this web page has brought back a lot of good memories of my life near that mall. The cocktails at Johnny Shadows across from the mall, my mom working at A.T. Cross down the street from there. The wild parties in the motel rooms of the Clover Leaf Motel. Working at McDonald’s on a Saturday before Christmas (crazy). My brother working at Anderson-Little. I was one of the first to not wear a Jacket and tie in my Quiver photo, Oh, a trend setter I was... LOL (the Quiver is the Woonsocket High School year book). Great page great stories.'
 
 - property: lincoln-mall
@@ -1036,8 +1051,8 @@ Looking at it now, it is just a joke. It is now the 8-track player or beta max m
   content: 'Hanging at the Lincolm Mall… what else was a teenager in nearby North Smithfield to do? A birthday party at the Papa Gino’s one year and friends’ birthdays at the Dream Machine the next (I always wanted one of my own). I remember the cars that would be parked in the mall (why?). I remember my high school band playing in the central atrium, and looking at the pets in the window at the pet store after a movie with a high school girlfriend. Interesting how the mall has sort of imploded. Makes me wonder what will happen to the Emerald Mall in ten years, or Providence Place in fifteen. '
 
 - property: fort-adams
-  person: 'Catherine Smith-DuGay' 
-  date: '2018-11-03' 
+  person: 'Catherine Smith-DuGay'
+  date: '2018-11-03'
   content: 'In 1970, I lived in Brenton Village, the Navy housing between Ft. Adams and Auchincloss Farm. Ft. Adams was off-limits, behind locked chain-link fences. It didn’t keep some couples from sneaking in after dark when we had dances at the teen canteen. I didn’t dare go in. My dad, however, couldn’t resist all that unused land. He wondered if cantaloupe or watermelon might grow in there. So one Saturday he snuck us kids in to find a viable garden plot. The MPs found us and put us all in his pick-up truck and carted us out. Dad, who outranked the MP, just laughed it all off.'
 
 - property: fort-adams
@@ -1050,23 +1065,23 @@ There are a few things that I thought were really cool. Well the whole place is 
 
 
 I remember the remnants of a draw bridge over the dry moat at the entrance to the Redoubt. We used a long 2x12 as a bridge to get across. Inside there was a crumbling stone spiral staircase going up to a small platform. We assumed that was some kind of lookout post. Maybe the most interesting thing we found was in the eastern face of one of the earthen berms. There was a steel door leading into an underground hallway with a number of rooms on either side. One of the rooms was “The Map Room”. There was a long sheet of iron hanging on the wall with a hand painted map of the Narragansett Bay area complete with old English lettering and names of locations that were still recognizable. It was probably at least 20 feet long by 8 feet high. Very cool.
-  
+
 
 We used to have soccer practice in the field close to the Redoubt. Our coach would start every practice with a run around the fort and then down to the anchors at the entrance to the park area and then back. We were there when the tall ships came to Newport as part of the USA bicentennial celebration. We were also there during the America’s Cup yacht races and used to watch them sail out every day to go race. Awesome memories.'
 
 - property: fort-adams
-  person: 'Lynne Vaughan' 
-  date: '2009-11-15' 
+  person: 'Lynne Vaughan'
+  date: '2009-11-15'
   content: 'I lived with my parents (father was Naval Officer) in the Officers Quarters on Fort Adams in 1955. Would love to hear from anyone who might have been there at same time… AND anyone who has pictures of those quarters.'
 
 - property: fort-adams
-  person: 'Sam Brutcher' 
-  date: '2009-03-30' 
+  person: 'Sam Brutcher'
+  date: '2009-03-30'
   content: 'I spent part of 1979 living in the Navy housing at Ft. Adams. I really enjoyed roaming around the old works, especially the windy, grassy areas high above the bay. The tunnels were fun, too – though creepy as others have said. I’m glad to hear someone’s still trying to take care of the place. It’s a unique part of Newport’s history.'
 
 - property: fort-adams
-  person: 'Dave Dewhurst' 
-  date: '2008-02-22' 
+  person: 'Dave Dewhurst'
+  date: '2008-02-22'
   content: 'To answer Clipper Tefft, yes the Forts Fire Station’s building is still there, however I must regret it is no longer active. I grew up outside the fort, not a Navy brat but a local, that lived close by who’s friends changed every year as there fathers came in and out of the War College. I knew the Fort better than most people. I was employed by the state at slave labor rates the first year construction of the parking lots was started. My fondest memories are of the tunnels also. They are laid out very simple, in fact I could run, in the dark, without a flashlight and “cut off” any one in front of me proceeding at too slow a pace. Which is what I did on my first day of work as the “restoration expert” was showing them to us interns. The look on his face when his flashlight lit me up in front of him… he slammed his head in the ceiling… and I wondered why we had kinda a testy relationship that summer. The tunnels had two “traps” occasionally the ceiling dropped to about 4’ from 5’ the best I can tell is if you didn’t know they were there you smashed your skull into them. The other was a circular stair that had a step missing 1/2 way up. You learned to count steps, and it was no problem running in the dark if you knew about them. The tunnels are whistle clean once you got in a 100’ or so… What I never found was the tunnel to the redoubt, but I know its there, and I had a old blueprint that I got from a friend at the navy public works building that showed it.'
 
 - property: fort-adams
@@ -1149,7 +1164,7 @@ You may wish to know that the New England Butt Company was one of the first clie
   content: 'Why did they go through all the trouble of putting up what appears to be EIFS? Rather than just cleaning the original brick which would have been cheaper, faster, and better looking.
 
 
-(**A.I.R.**: We hear that. Same question.)'  
+(**A.I.R.**: We hear that. Same question.)'
 
 - property: vinton-st-garage
   person: 'mj'
@@ -1161,46 +1176,46 @@ You may wish to know that the New England Butt Company was one of the first clie
   content: 'I live right down the street from this and am so disappointed to see what’s being done to the building (my father even more so than me). It all looks kind of cheap too; the windows have a wierd plastic wavy-ness to them. Sadly the lot is becoming parking. They’ve already begun work on it. I had never seen the inside of the building until one night the front was open and you could see bands playing inside, along with a rock-em-sock-em robots tournament that was going on.'
 
 - property: barnaby-carriage-house
-  person: 'Kevin Novell' 
-  date: '2019-11-15' 
+  person: 'Kevin Novell'
+  date: '2019-11-15'
   content: 'As of 2019, there’s still a manual lift in the ceiling and I’m told it still works.'
 
 - property: barnaby-carriage-house
-  person: 'ELIZABETH GEABER' 
-  date: '2017-03-08' 
+  person: 'ELIZABETH GEABER'
+  date: '2017-03-08'
   content: 'My uncle worked in the house many many years ago. He told me there was a lift (elevator) for the carriages so they could be stored on the second floor. It was run manually… I don’t think it is there anymore because no one has made mention to it.'
 
 - property: barnaby-carriage-house
-  person: 'Kaitlyn A. Frolich' 
-  date: '2016-03-23' 
+  person: 'Kaitlyn A. Frolich'
+  date: '2016-03-23'
   content: 'Hi there! I am currently a resident of Barnaby Castle and working with the owner on its restoration. The name of the estate is Barnaby Castle and Carriage House, not Eddy Estate. There are new owners of the carriage house that have some awesome plans for its future! I am so lucky to be a part of this project. Dream come true. Stay tuned for amazing things to come! Also, to piggy back on what Bianca said, we are looking for any pics or other facts of the house. Please send our way :-)'
 
 - property: barnaby-carriage-house
-  person: 'bianca maiello' 
-  date: '2014-06-05' 
+  person: 'bianca maiello'
+  date: '2014-06-05'
   content: 'My Grandfather Luigi Maiello MD bought the Barnaby Castle from Charles Eddy — I lived in this beautiful house as a child. The present owner of the house is restoring it to its original condition. We area asking anyone who has any pictures and any knowledge of who does have pictures to contact me so that we can get more info on the outside of inside. We have several pics already but could use more help in our endeavor. thanks'
 
 - property: barnaby-carriage-house
-  person: 'JCK' 
-  date: '2012-12-03 2012' 
+  person: 'JCK'
+  date: '2012-12-03 2012'
   content: 'Imagine my shock when while researching my genealogy I found a descendent residing at 299 Broadway, employed by Charles Eddy, his wife Louise and son Charles. Another story that Grandma isn’t around to tell! I sure would love to be able to see the inside of that home.'
 
 - property: barnaby-carriage-house
-  person: 'Jay T' 
-  date: '2012-08-11' 
+  person: 'Jay T'
+  date: '2012-08-11'
   content: 'Why is this listed as the Eddy Estate Carriage House? This is the carriage house of the Barnaby mansion at 299 Broadway.
 
 
 (**A.I.R.**: One of the RIHPHC reports uses the name Eddy Estate. After J.B. Barnaby, Charles Eddy owned 299 Broadway and presumably this carriage house)'
 
 - property: barnaby-carriage-house
-  person: 'Alex Zima' 
-  date: '2009-01-08' 
+  person: 'Alex Zima'
+  date: '2009-01-08'
   content: 'I lived on the West Side for 7 years and always thought it was an old church. Stunning!'
 
 - property: barnaby-carriage-house
-  person: 'Please do not use my name' 
-  date: '2008-08-06' 
+  person: 'Please do not use my name'
+  date: '2008-08-06'
   content: 'The J.B.Barnaby’s Castle’s carriage house was completed in 1875, designed by Stone, Carpenter and Wilson, a prominent and prestigious architectural firm in Providence. In the same theme of elaborate and exuberant design as the main mansion it belonged to, the Carriage house had many exceptional details added to its functional purpose as the stable for J.B. Barnaby’s horses and carriages. Some of the details include the 10 foot rosette window in the center location of the second floor. This is surrounded by colorful Italian tiles that give it a Moorish look to the building. The building is made of brick and granite. The tack room, originally simply the area that the tack for the horses and carriages were kept, had floor to ceiling mahogany walls with alternating shades of light and dark mahogany. There is a high shelf below the ceiling to this room which is also made of mahogany with intricate carvings and the initials of JB Barnaby over the entrance door carved in large “old English” lettering. The floor of the tack room is made of porcelian tiles which were very popular at the time and has an intricate, colorful, and fanciful mosiac pattern. Each floor of the carriage house is 4000 sq feet and all the wood of the walls are mahogany and the floor on the second floor is the original yellow pine.
 
 
@@ -1276,33 +1291,33 @@ My husband and I loved that carriage house and felt very lucky to be able to liv
 (**A.I.R.**: It’s cool dude, we’re cool… Relax. We’ll admit, this was one of our more sarcastic reviews at the time we wrote it. Yes, when your anecdote came in there were plans for a new building across the street and a skybridge to connect it all to the Dunkin Center, but it all went by the wayside by 2008.)'
 
 - property: arnold-stable-pwt
-  person: 'Deb Feldman' 
-  date: '2020-06-19' 
+  person: 'Deb Feldman'
+  date: '2020-06-19'
   content: 'This was my grandfather’s furniture store. The saying on the side that says “how do the beasts groan” was already there when it became a furniture store. Before it was a furniture store it was a horse stable, and they left that saying on the building. Sadly, I was born after the furniture store closed but I remember going by to visit it and seeing it from the outside many times growing up. It’s very sad to see that the infamous sign has been taken down. This building will always hold a special place in my family’s history especially with the passing of my grandfather last year.'
 
 - property: arnold-stable-pwt
-  person: 'Edward kelley' 
-  date: '2018-10-11' 
+  person: 'Edward kelley'
+  date: '2018-10-11'
   content: 'I was walking by this building today and saw the sign that says how do the beasts groan and it made me curious so I started looking up things concerning this building I am extremely interested in what that saying means and why it was put there on this building it seems out of place, something you would find on Hogwarts or another mystical building I remember buying furniture in Feldman’s with my mom and grandma when I was just a little boy if anyone can shed any light on this saying and it’s origin please let me know'
 
 - property: arnold-stable-pwt
-  person: 'Nicholas D’Agnillo' 
-  date: '2015-12-11' 
+  person: 'Nicholas D’Agnillo'
+  date: '2015-12-11'
   content: '“How to the beats groan” is untouched and will be remaining'
 
 - property: arnold-stable-pwt
-  person: 'Carrie Perez' 
-  date: '2015-09-26' 
+  person: 'Carrie Perez'
+  date: '2015-09-26'
   content: 'A shame, it seems they took down the sign that says: “How do the beasts groan.”'
 
 - property: arnold-stable-pwt
-  person: 'Nicholas D’Agnillo' 
-  date: '2014-05-07' 
+  person: 'Nicholas D’Agnillo'
+  date: '2014-05-07'
   content: 'It won’t be empty for much longer. It will soon be the headquarters for Nexus Property Management with luxury apartments above.'
 
 - property: arnold-stable-pwt
-  person: 'Michael Viveiros' 
-  date: '2011-01-07' 
+  person: 'Michael Viveiros'
+  date: '2011-01-07'
   content: 'I pass by this building all the time while doing parkour in Downtown Pawtucket. I had been talking to an older security guard at the library and he says the building is still empty. Yet when I pass by the inside looks somewhat modernized, and there may be lights on. I too have never seen any one go in or out of the building but I was hoping to get inside to take some pictures, anyone know how I could contact the owner?'
 
 - property: rispca
@@ -1326,23 +1341,23 @@ My husband and I loved that carriage house and felt very lucky to be able to liv
   content: 'The Wilbury Group theatre company did 3 shows at the Butcher Block space around 2013 — “Bloody Bloody Andrew Jackson,” “Lungs,” and then “The Elaborate Entrance of Chad Deity.” Then a pipe burst in the building, the fire department came to check it out and put a stop to us using it as a performance space. It was a beautiful space, the floors and the restoration work that Erik had done were gorgeous. Even had a great roof deck. The heat was totally inadequate though, so during Chad Deity it was freezing. And that’s why the pipe burst I guess.'
 
 - property: j-l-clark-manufacturing
-  person: 'Lynn Berry Jr' 
-  date: '2020-05-10' 
+  person: 'Lynn Berry Jr'
+  date: '2020-05-10'
   content: 'I went with my 1964 class of Dallas Institute of Mortuary Science to the National Casket Company for a tour. When I graduated in 1964 I went to Illinois to work with my father, the third generation of the oldest single family funeral homes in Illinois beginning in Palmyra, Illinois 1853 and ending in 1990. I was the fourth and final generation of Berry Funeral Homes, Ltd.,Girard, Virden and Auburn, Illinois. I purchased two National Silver Plated Copper Deposit Caskets between 1964 and 1971.  I still have the #21200 casket, the casket Elvis was buried in with the blue velvet interior, in storage purchased in 1971. I sold the business in 1990 and retired. I would like to sell the casket.'
 
 - property: j-l-clark-manufacturing
-  person: 'Jessica Mancini' 
-  date: '2019-06-14' 
+  person: 'Jessica Mancini'
+  date: '2019-06-14'
   content: 'I have a sales photo or a reproduction painting of a casket from your granddad company. It’s a picture of a "National Seamless Solid Copper Deposit Casket". There are no dates but it is from your company. It’s 24" by 18" without frame but frame is included. Please email me if interested and let’s talk: jessis_way [at] yahoo [dot] com'
 
 - property: j-l-clark-manufacturing
-  person: 'Nancy Tourjee Mauro' 
-  date: '2019-03-09' 
+  person: 'Nancy Tourjee Mauro'
+  date: '2019-03-09'
   content: 'John Lathrop Clark (1814-1914) was my G-Grandfather. I have the Clark Manufacturing Co. Casket Book. I have a picture of all the employees soon after it was incorporated. John L. had 9 child. almost all worked in the company. I descend from the 3rd marriage. I have many of John L’s possessions. His last child was my Grandfather & he had 8 child. and as children all worked in the Co. in the summer. John L. imported wood from all over to make the caskets. He was quite a man.'
 
 - property: j-l-clark-manufacturing
-  person: 'Robert Silver' 
-  date: '2010-10-07' 
+  person: 'Robert Silver'
+  date: '2010-10-07'
   content: 'I have a National casket company casket key in the box. Fun item.'
 
 - property: american-textile-pwt
