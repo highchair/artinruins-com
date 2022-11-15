@@ -1,0 +1,75 @@
+---
+layout: page
+type: page
+permalink: proposals/
+title: "New Building Proposals"
+meta-title: "New Building Proposals | ArtInRuins"
+body-class: proposals
+sitemap:
+  lastmod: 2022-11-12
+  priority: 0.6
+  changefreq: 'monthly'
+---
+
+Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Zoom link](https://opengov.sos.ri.gov/Common/DownloadMeetingFiles?FilePath=%5CNotices%5C4752%5C2022%5C443253.pdf){:target="_blank"}
+{:.o__tldr}
+
+
+## Providence Comprehensive Plan
+
+**Update Nov 12, 2022**
+
+The Providence Department of Planning & Development has launched their once-a-decade update of the City’s [Comprehensive Plan](https://www.providenceri.gov/planning/comp-plan/){:target="_blank"}. The “Comp Plan” outlines goals and strategies in a range of topic areas to guide Providence’s growth and development over the next twenty years. We encourage you to participate in and learn about this process by visiting the informational website and taking [the community survey](https://www.surveymonkey.com/r/PVDCompPlan){:target="_blank"} (in English or Spanish). They have also set up an email address, [comp-plan@providenceri.gov](mailto:comp-plan@providenceri.gov), where you can send any questions, comments, or suggestions to their team.
+
+
+## 230 Waterman St
+
+**Update Nov 12, 2022**
+
+Myles Standish Associates on behalf of Capstone Properties is proposing the demolition of an existing 1892 building at 230 Waterman Street in Wayland Square ([Google Streetview](https://www.google.com/maps/place/230+Waterman+St,+Providence,+RI+02906/@41.8286426,-71.388386,3a,75y,64.28h,88.18t/data=!3m6!1e1!3m4!1sz3lPv_NCnYbzbhfnO3KScw!2e0!7i16384!8i8192!4m5!3m4!1s0x89e4452c1f544363:0x26886ae3553ca810!8m2!3d41.8288451!4d-71.3879823){:target="_blank"})— the former Monahan Drabble Sherman Funeral Home and location of McBride’s Pub.
+
+The [existing preliminary plans](https://www.providenceri.gov/wp-content/uploads/2021/11/230Waterman-CPCMasterPlanPresentation.pdf){:target="_blank"} have been posted for public review. Outright demolition of the property seems unneccesary, and a more imaginative design could incorporate it. The current design is a bland and basic-looking four story condo that looks more like a cheap hotel. At least [77 South Angell Street (Google Streetview)](https://www.google.com/maps/place/77+S+Angell+St,+Providence,+RI+02906/@41.8294811,-71.3850204,3a,75y,244.06h,93.02t/data=!3m6!1e1!3m4!1stf3Mic6W7AKZcf5P0WQsWQ!2e0!7i16384!8i8192!4m5!3m4!1s0x89e4452c7efaa567:0xe7a709966bd27b8a!8m2!3d41.8294102!4d-71.3856086){:target="_blank"}, just outside Wayland Square, is a more intersting condo building with real brick and stone exterior finishes.
+
+
+## SMART Hotel Proposal is back
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/smart-hotel-render-2021-11-01.jpg" alt="">
+  <figcaption>Rendering by ZDS Architects from the proposal submitted to the City Planning Commission</figcaption>
+</figure>
+
+**Update Nov 12, 2022**
+
+SMART Princeton Hotel Group and Angell Investments are petitioning for a Zone Change for 209-217 Angell Street from a Residential Professional (RP) District to a General Commercial (C2) District, which would allow a new hotel to be built at the site of three older homes. This petition was originally considered in 2019-2020 by the City Planning Commission.
+
+The [former plan from 2020](https://www.providenceri.gov/wp-content/uploads/2020/06/20-010UDR-209-217AngellStreetMaster-Plan-SR-Plans-ExpertTestimony.pdf){:target="_blank"} has not changed and would require the demolition of three 3-story homes for a L-shaped, 6-story hotel with circular driveway on Angell Street. It seems as though the Mansard-roof design from November 2019 is still the design that [ZDS Architects]({% link designer/zds-architecture-interiors.html %}) and the developer are proposing.
+
+This petition is on the agenda at the City Council’s Committee of Ordinances on November 16, 2022, at 5 pm.
+
+The proposed demolitions are for three houses, all listed in the College Hill Historic District ([a district that has undergone much erosion in the past ten years]({% link _property/thayer-street.md %})):
+
++ 209 Angell St. — House, 1857-75. Second Empire; 2-1/2 stories; mansard roof; siding; shallow L plan; side-hall entrance under Doric portico; bay window flanking entrance; gabled dormers retain detail; other detail stripped.
++ 211 Angell St. — **Bullock-Harris House**, c. 1850. Italianate; 2-1/2 stories; hip roof; clapboard; asymmetrical villa-type plan with projecting front wing flanking entrance porch with paired columns; quoin trim; single, paired, and triple windows with molded caps; deep bracketed eaves; prominent gabled dormers. One of the earliest and best designed villa type houses in Providence. Built for William P. Bullock, later owned by Sarah P. Harris and for many years by her descendants.
++ 217 Angell St. — House, 1892. Colonial Revival; 2-1/2 stories; massive end-gambrel roof; clapboard; fine large-scale, compact dwelling; off-center entrance covered by central porch with paired Tuscan columns; bay window over porch contains stucco relief panel with foliate ornament and date; entablature trim between floors and 1st-story corner pilasters; bracketed side overhangs over 1st story and end overhangs over 2nd; side bays and dormers; chimney projects through dormer on west.
+
+**Note:** Listing in a historic district DOES NOT offer ANY protection if the Council votes to approve based on the merit of the new design and the overall benefits to the neighborhood and city. It often only means that the loss of historic structures is a factor that needs to be weighed against the benefits of a new building.
+
+
+## 311 Knight Street
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/311-knight-st-2021-07-01.jpg" alt="">
+  <figcaption>Rendering by ZDS Architects from the proposal submitted to the City Planning Commission</figcaption>
+</figure>
+
+**Update Nov 12, 2022**
+
+[A five-story, 41-unit apartment building will be coming to Providence’s West End](https://www.providencejournal.com/story/news/local/2022/10/13/providence-approves-west-end-apartments-westminster-knight-street/10476194002/){:target="_blank"} reads the headline from the Providence Journal. This building is another design from [ZDS Architects]({% link designer/zds-architecture-interiors.html %}).
+
+Construction is supposed to start in late 2022. The three lots of this location were the former [M.N. Cartier & Sons]({% link _property/m-n-cartier.md %}) and a car lot on the corner next door. [Older renderings are available](https://www.providenceri.gov/wp-content/uploads/2021/07/19-051MA-311-Knight.pdf){:target="_blank"} as presented to the City Plan Commission in July of 2021.
+
+
+***
+
+
+More advocacy news at the [Providence Preservation Society](//www.ppsri.org/advocacy/){:target="_blank"}.

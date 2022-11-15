@@ -3,6 +3,14 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2022-11-12
+
+Added
++ Created a new page to discuss and track proposed projects that are moving through the City Planning and Review boards
+
+Edited
++ Added links in the property card to demolition years
+
 ## 2022-09-19
 
 Changed
@@ -44,7 +52,7 @@ Added
 ## 2022-03-16
 
 Added
-+ An SVG favicon file with dark mode alternate colors built in. Modernized the favicon meta tags. 
++ An SVG favicon file with dark mode alternate colors built in. Modernized the favicon meta tags.
 
 ## 2022-02-22
 
@@ -63,7 +71,7 @@ Changed
 ## 2022-01-27
 
 Added
-+ HTML and styles on the Property Card for the homepage have been added to highlight NEW properties versus properties that have been posted previously but recently updated. Also tweaked the language to switch between “Added” and “Updated” with the date stamp. 
++ HTML and styles on the Property Card for the homepage have been added to highlight NEW properties versus properties that have been posted previously but recently updated. Also tweaked the language to switch between “Added” and “Updated” with the date stamp.
 
 ## 2022-01-15
 
@@ -78,9 +86,9 @@ Added
 ## 2022-01-08
 
 Changed
-+ Moved away from Perma.cc links for a URL reference and to the Archive.org service instead. 
++ Moved away from Perma.cc links for a URL reference and to the Archive.org service instead.
 + Added MLA/CMS citations for people to cut and paste if they so chose
-+ Also changed the way the meta tags lay out when there are different combinations of them, particularly when there are more than 3 lists per property. 
++ Also changed the way the meta tags lay out when there are different combinations of them, particularly when there are more than 3 lists per property.
 
 ## 2022-01-04
 
@@ -90,12 +98,12 @@ Changed
 ## 2022-01-03
 
 Added
-+ Designers can now be directly related to eachother, with a "Related" field that will render as an array of other designers on the Taxonomy page. Technically, any tag could be related to any other but right now the code expects a designer items with the way that the URL is being written. 
++ Designers can now be directly related to eachother, with a "Related" field that will render as an array of other designers on the Taxonomy page. Technically, any tag could be related to any other but right now the code expects a designer items with the way that the URL is being written.
 
 ## 2022-01-01
 
 Added
-+ A new data file to track artful images from various properties and display them on the home page halfway through the river of new posts. 
++ A new data file to track artful images from various properties and display them on the home page halfway through the river of new posts.
 
 ## 2021-12-31
 
@@ -105,7 +113,7 @@ Added
 ## 2021-12-18
 
 Changed
-+ Removed the properties listing in Statistics by month added. This was tracking the changes in during 2020 and 2021 where old properties were being converted over to the new format. Almost all properties have been converted, so, we are moving back to just showing how many have been added per year. 
++ Removed the properties listing in Statistics by month added. This was tracking the changes in during 2020 and 2021 where old properties were being converted over to the new format. Almost all properties have been converted, so, we are moving back to just showing how many have been added per year.
 
 ## 2021-12-12
 
@@ -115,7 +123,7 @@ Changed
 ## 2021-12-09
 
 Changed
-+ Added a max-width to paragraphs (and li, dt, dd) of 92 characters. Added a max-width to taxonomy list ULs. In both cases, for wide screens, things were looking a bit too wide. 
++ Added a max-width to paragraphs (and li, dt, dd) of 92 characters. Added a max-width to taxonomy list ULs. In both cases, for wide screens, things were looking a bit too wide.
 
 ## 2021-12-03
 
@@ -222,7 +230,7 @@ Fixed
 ## 2021-04-13
 
 Changed
-+ Added the first meta tag to support Webmentions 
++ Added the first meta tag to support Webmentions
 
 ## 2021-03-21
 
