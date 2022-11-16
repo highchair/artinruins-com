@@ -55,18 +55,18 @@ imagescredit:
 
 ### Proposal
 
-The 1.5 acre Parcel 6 opened up once the [elevated interstate 195 was removed in 2011]({% link _property/195-over-wickenden-st.md %}). The I-195 District Commission [approved plans in late 2019](//www.195district.com/projects/parcel-6/){:target="_blank"} by [D+P Real Estate](http://www.durhampolak.com/parcel-6.html){:target="_blank"} and Truth Box, Inc. to build out 62 residential units, a 13,000 sf grocery store, and approximately 10,000 sf of additional commercial/retail space. 
+The 1.5 acre Parcel 6 opened up once the [elevated interstate 195 was removed in 2011]({% link _property/195-over-wickenden-st.md %}). The I-195 District Commission [approved plans in late 2019](//www.195district.com/projects/parcel-6/){:target="_blank"} by [D+P Real Estate](http://www.durhampolak.com/parcel-6.html){:target="_blank"} and Truth Box, Inc. to build out 62 residential units, a 13,000 sf grocery store, and approximately 10,000 sf of additional commercial/retail space.
 
-The development is three buildings and is infilled with a two-level parking deck. The construction style is the currently popular “[5 over 1](//en.wikipedia.org/wiki/5-over-1){:target="_blank"},” also known as a one-plus-five, or a podium building. It is a type of multi-family residential building consisting of ground-floor concrete piers and deck suitable for parking or commercial space, topped by two to four floors of wooden residential construction. These plans are very economical and ensure that the streetscape is activated by commercial tenants while the residential above can be slightly removed from the bustle of the street. 
+The development is three buildings and is infilled with a two-level parking deck. The construction style is the currently popular “[5 over 1](//en.wikipedia.org/wiki/5-over-1){:target="_blank"},” also known as a one-plus-five, or a podium building. It is a type of multi-family residential building consisting of ground-floor concrete piers and deck suitable for parking or commercial space, topped by two to four floors of wooden residential construction. These plans are very economical and ensure that the streetscape is activated by commercial tenants while the residential above can be slightly removed from the bustle of the street.
 
-It has been advertised that about 50% of the units will be rented below market rates to provide much needed housing for the city’s workforce. The development plan is anchored by a national grocery store which will occupy a free standing 13,000 SF store. The prevailing rumor is that the tenant will be **Trader Joe’s**, only the second location in the state. 
+It has been advertised that about 50% of the units will be rented below market rates to provide much needed housing for the city’s workforce. The development plan is anchored by a national grocery store which will occupy a free standing 13,000 SF store. The prevailing rumor is that the tenant will be **Trader Joe’s**, only the second location in the state.
 
 
 ### Design Reception
 
-New architecture in our city meets with opposition — usually for good reason. While we are not a fan of most new architecture, we are holding out hope that once this development is complete, it will be a strong and welcome contrast to the historic nature of its surroundings. We generally like what Peter Case and Truth Box Architects have done, but we are unimpressed with the work of ZDS. Hopefully, this will have a heavier Truth Box influence to it. 
+New architecture in our city meets with opposition — usually for good reason. While we are not a fan of most new architecture, we are holding out hope that once this development is complete, it will be a strong and welcome contrast to the historic nature of its surroundings. We generally like what [Peter Case and Truth Box Architects]({% link designer/truth-box-architects.html %}) have done, but we are unimpressed with [the work of ZDS]({% link _property/580-water-street-pvd.md %}). Hopefully, this will have a heavier Truth Box influence to it.
 
-The nearby [Providence Steam Engine]({% link _property/providence-steam-engine.md %}) building, now called Corliss Landing, provides a historic brick counterpoint to the boxy, flat-roof style of Truthbox. The former [Fuller Iron Company]({% link _property/fuller-iron-works-1869.md %}) building also provides contrast, while the oddly shaped [580 Water Street]({% link _property/580-water-street-pvd.md %}) is another contemporary building that provides much needed housing but also contrasts in a not so interesting way. 
+The nearby [Providence Steam Engine]({% link _property/providence-steam-engine.md %}) building, now called Corliss Landing, provides a historic brick counterpoint to the boxy, flat-roof style of Truth Box. The former [Fuller Iron Company]({% link _property/fuller-iron-works-1869.md %}) building also provides contrast, while the oddly shaped [580 Water Street]({% link _property/580-water-street-pvd.md %}) is another contemporary building that provides much needed housing but also contrasts in a not so interesting way.
 
 ***
 
@@ -83,7 +83,7 @@ Remind me again, other than providing work for builders, why the development of 
 
 #### Sale of Parcel 6 in I-195 Redevelopment District closes for $100K
 
-_by Chris Bergenheim_  
+_by Chris Bergenheim_
 **PBN (Providence Business News)** | November 18, 2020
 
 The sale of Parcel 6 in the I-195 Redevelopment District has been completed to Link Street LLC, the commission overseeing the district announced on Wednesday.
@@ -112,7 +112,7 @@ _Captured November 19, 2020 from The Providence Business News (link now behind p
 
 #### Apartment surge
 
-_by Paul Edward Parker_  
+_by Paul Edward Parker_
 **Providence Journal** | June 26, 2019 (abridged)
 
 The I-195 Redevelopment District Commission gave preliminary approval Wednesday night to a plan to build a grocery store and 49 apartments on a parcel of former highway land south of Wickenden Street and east of the Providence River. […]

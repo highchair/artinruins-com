@@ -1,12 +1,12 @@
 ---
 title: "Apex Department Store"
 slug: apex-pawtucket
-aka: 
+aka:
 date-modified: 2020-11-13 12:00
 
 built: '1969'
-demolition: 
-redeveloped: 
+demolition:
+redeveloped:
 decade: '1960-1969'
 date-added: '2004'
 categories: [ '#UrbanDecay' ]
@@ -79,20 +79,20 @@ external:
 
 ### Current Tenant
 
-The Apex company still occupies the building with a threadbare retail business. It has been the focus of much recent discussion of redevelopment ever since the Pawtucket Red Sox pressured City officials for a new stadium. They eventually made the decision to move to Massachusetts, but redevelopment in Pawtucket in order to replace the lost attraction has been a hot button topic ever since. 
+The Apex company still occupies the building with a threadbare retail business. It has been the focus of much recent discussion of redevelopment ever since the Pawtucket Red Sox pressured City officials for a new stadium. They eventually made the decision to move to Massachusetts, but redevelopment in Pawtucket in order to replace the lost attraction has been a hot button topic ever since.
 
 #### Architecture
 
-The building was constructed in the late 60s, 51 years ago from 2020. It only became eligible for inclusion on the National Register in the past year or so. The building and its ziggurat “hat” are a local icon and one of the first recognizable structures that a driver encounters as they head south on 95 from Massachusetts. 
+The building was constructed in the late 60s, 51 years ago from 2020. It only became eligible for inclusion on the National Register in the past year or so. The building and its ziggurat “hat” are a local icon and one of the first recognizable structures that a driver encounters as they head south on 95 from Massachusetts.
 
-It is also hated by most. A 2018 poll by Business Insider, _[The ugliest building in every US state, according to people who live there](//www.businessinsider.in/the-ugliest-building-in-every-us-state-according-to-people-who-live-there/articleshow/62511676.cms){:target="_blank"}_, used a photo of the Apex as its cover. Local architecture critic David Brussat thinks [the building should the first in Pawtucket to be razed](//architecturehereandthere.com/2018/08/02/apex-aint-pawtuckets-soul){:target="_blank"} before any other building, while another historian William Morgan penned that the _[Apex is the Soul of Pawtucket](//www.providencejournal.com/opinion/20180801/my-turn-william-morgan-apex-is-soul-of-pawtucket){:target="_blank"}_ ([Full story archived](#apex-soul)). Loved by some, hated by most, it is a building that everyone seems to have an opinion about. 
+It is also hated by most. A 2018 poll by Business Insider, _[The ugliest building in every US state, according to people who live there](//www.businessinsider.in/the-ugliest-building-in-every-us-state-according-to-people-who-live-there/articleshow/62511676.cms){:target="_blank"}_, used a photo of the Apex as its cover. Local architecture critic David Brussat thinks [the building should the first in Pawtucket to be razed](//architecturehereandthere.com/2018/08/02/apex-aint-pawtuckets-soul){:target="_blank"} before any other building, while another historian William Morgan penned that the _[Apex is the Soul of Pawtucket](//www.providencejournal.com/opinion/20180801/my-turn-william-morgan-apex-is-soul-of-pawtucket){:target="_blank"}_ ([Full story archived](#apex-soul)). Loved by some, hated by most, it is a building that everyone seems to have an opinion about.
 
 
 ### Current Events
 
-As evidenced by the [news article below](#in-the-news) from 2004, the future of the Apex site has been ruminated upon for almost 20 years. A redevelopment report from 2002 started the ideas of centering redevelopment along the river, while the Apex building turns its back to the riverfront. 
+As evidenced by the [news article below](#in-the-news) from 2004, the future of the Apex site has been ruminated upon for almost 20 years. A redevelopment report from 2002 started the ideas of centering redevelopment along the river, while the Apex building turns its back to the riverfront.
 
-The Division of Motor Vehicles, Pawtucket branch, moved into half of the Apex space in 2004 after a flood damaged its previous location on Main Street. They remained a long-term “temporary” tenant for several years, with the location retaining many of the store fixtures in plain view. They moved out in 2010. 
+The Division of Motor Vehicles, Pawtucket branch, moved into half of the Apex space in 2004 after a flood damaged its previous location on Main Street. They remained a long-term “temporary” tenant for several years, with the location retaining many of the store fixtures in plain view. They moved out in 2010.
 
 Soon after, then CEO Andrew Gates announced plans for redevelopment at the site in the form of “Riverfront Commons.” A restaurant tenant would be found for the failed Mad House Cafe space, commercial space would be opened up, and riverfront areas would be “attractively landscaped.”[^1] While a new restaurant tenant did move in, Cresta Bar & Ristorante, the project never gained momentum and the store remained underutilized. Cresta opened around 2011 and closed around 2015.[^2]
 
@@ -100,7 +100,7 @@ Soon after, then CEO Andrew Gates announced plans for redevelopment at the site 
 
 [^2]: Based on the dates of Yelp reviews, captured November 14, 2020 from https://www.yelp.com/biz/cresta-bar-and-ristorante-pawtucket-2?sort_by=date_desc
 
-In 2018, as the Triple A Pawtucket Red Sox were deciding between staying in Rhode Island, provided a new stadium was built for them, or moving to Worcester, MA, the Apex site was one of the proposed locations along with a piece of the waterfront in Providence. There was a public outcry around publicly funding an expensive new ballpark for a private entity, and more and more, political pressure moved the legislation from state funding to local city and private funding, which made the deal undesirable to team management. Ultimately, the PawSox decided to move to Worcester and become the WooSox.[^3] A chance to reinvent Pawtucket was lost. 
+In 2018, as the Triple A Pawtucket Red Sox were deciding between staying in Rhode Island, provided a new stadium was built for them, or moving to Worcester, MA, the Apex site was one of the proposed locations along with a piece of the waterfront in Providence. There was a public outcry around publicly funding an expensive new ballpark for a private entity, and more and more, political pressure moved the legislation from state funding to local city and private funding, which made the deal undesirable to team management. Ultimately, the PawSox decided to move to Worcester and become the WooSox.[^3] A chance to reinvent Pawtucket was lost.
 
 [^3]: _“2018 in review: PAWSOX SAGA”_, Brendan McGair, Pawtucket Times, December 29, 2018. Captured November 14, 2020 from https://www.pawtuckettimes.com/news/2018-in-review-pawsox-saga/article_932b9aac-0be5-11e9-9051-871d66a212bf.html
 
@@ -108,24 +108,24 @@ More recently, in an effort to pressure the owners of Apex to sell, the City of 
 
 [^4]: _“Council to talk Apex land, speed cameras”_, Jonathan Bissonnette, Pawtucket Times, February 20, 2019. Captured November 14, 2020 from https://www.pawtuckettimes.com/news/council-to-talk-apex-land-speed-cameras/article_b806044e-3588-11e9-bb3d-d7015d54cdc9.html
 
-The site has been a major part of potential redevelopment centered around a new soccer stadium and residential units along the waterfront. The stadium would be located down river and across the highway from Apex on a vacant site. The Apex site, meanwhile, would be home to a large event center.[^5] 
+The site has been a major part of potential redevelopment centered around a new soccer stadium and residential units along the waterfront. The stadium would be located down river and across the highway from Apex on a vacant site. The Apex site, meanwhile, would be home to a large event center.[^5]
 
 [^5]: _“Officials: $400 million plan for stadium, mixed-use development will transform Pawtucket waterfront”_, Jonathan Bissonnette, Pawtucket Times, December 2, 2019. Captured November 14, 2020 from https://www.pawtuckettimes.com/officials-400-million-plan-for-stadium-mixed-use-development-will-transform-pawtucket-waterfront/article_03fc56b2-1528-11ea-94ab-1f464c56494b.html
 
-Our photos from August 2018 still had the lights in the parking lot. The atomic-looking light poles — a single column base with four antenna-like lilting curves ending in sphere-enclosed lights — had been removed from the parking lot by our photo from November 2018, which is such a pity. 
+Our photos from August 2018 still had the lights in the parking lot. The atomic-looking light poles — a single column base with four antenna-like lilting curves ending in sphere-enclosed lights — had been removed from the parking lot by our photo from November 2018, which is such a pity.
 
 
 ### History
 
 This unique department store was designed by Andrew Geller as a side project while he worked at the architectural offices of Raymond Loewy, the acclaimed “father of industrial design”. Mr Geller retired in 1974, and did a series of freelance projects for such clients as the World Trade Center restaurants and the North Shore Animal League. This structure was one of his earlier freelance projects.
 
-So which came first – the unique Ziggurat design, or the name? Actually, according to someone who worked there for twenty years, the first two letters of Apex are the founder’s initials, Albert Pilavin. And the ziggurat structure was a clever way to create an icon and emblazon the Apex name on the building itself, skirting regulations about signage. 
+So which came first – the unique Ziggurat design, or the name? Actually, according to someone who worked there for twenty years, the first two letters of Apex are the founder’s initials, Albert Pilavin. And the ziggurat structure was a clever way to create an icon and emblazon the Apex name on the building itself, skirting regulations about signage.
 
-Before the Apex property was developed in the late 60s, the land was crossed by four public streets and divided into six city blocks. The waterfront site was comprised of mills, houses, churches, a fire station, and a bakery. After the completion of Interstate 95 in 1963, the Pawtucket Redevelopment Authority purchased the mostly derelict tract and cleared it to be sold for redevelopment. 
+Before the Apex property was developed in the late 60s, the land was crossed by four public streets and divided into six city blocks. The waterfront site was comprised of mills, houses, churches, a fire station, and a bakery. After the completion of Interstate 95 in 1963, the Pawtucket Redevelopment Authority purchased the mostly derelict tract and cleared it to be sold for redevelopment.
 
-The redevelopment here followed the same thinking as “urban renewal” ideas of the mid-1950s. We now look back at those ideas as short-sighted, demolishing buildings that we now would have found charming and rich with history for the sake of newer and lessor quality retail buildings. Easy highway access and plentiful parking created unfriendly pedestrian cityscapes and increased reliance on cars. As a small downtown like Pawtucket tries to reinvent itself as a walkable urban center, the mistakes of the past have come back to haunt it. 
+The redevelopment here followed the same thinking as “urban renewal” ideas of the mid-1950s. We now look back at those ideas as short-sighted, demolishing buildings that we now would have found charming and rich with history for the sake of newer and lessor quality retail buildings. Easy highway access and plentiful parking created unfriendly pedestrian cityscapes and increased reliance on cars. As a small downtown like Pawtucket tries to reinvent itself as a walkable urban center, the mistakes of the past have come back to haunt it.
 
-We hold out hope that the $400 million investment in a sports complex, housing, and event center with retail will be something that the City can continue to be proud of in 20-30 years, rather than a thorn in the side of continued progress. 
+We hold out hope that the $400 million investment in a sports complex, housing, and event center with retail will be something that the City can continue to be proud of in 20-30 years, rather than a thorn in the side of continued progress.
 
 #### More Photos
 
@@ -139,7 +139,7 @@ We hold out hope that the $400 million investment in a sports complex, housing, 
 There’s more than meets the eye to Pawtucket’s familiar roadside ziggurat – and it’s well worth preserving
 {:.o__pull-quote}
 
-_By Tim Lehnert_  
+_By Tim Lehnert_
 **Providence Phoenix** | December 17, 2004
 
 DEPENDING ON WHOM you ask, the Apex building next to Interstate 95 in downtown Pawtucket is a sickly eyesore, or a true landmark and an outstanding piece of roadside architecture. The structure is a standard low-slung department store box, upon which six white blocks have been stacked, each one smaller than the one below. The result is a pyramid with an upright trapezoid placed on top, displaying the name “Apex” in red. Constructed in 1969, the Apex building is an example of what Providence designer J Hogue terms “divisive architecture. Some people hate it vehemently,” he says, “while others love it.”
@@ -162,7 +162,7 @@ The future of the Apex building lies in the hands of Andrew Gates, president of 
 
 <details markdown="1">
   <summary>Read the full article</summary>
-  
+
 ALTHOUGH APEX and the DMV are under the same roof at the Pawtucket building, one can’t pass from one to the other without going outside and reentering. The DMV side of the structure retains a number of Apex fixtures, shelves, and signs, suggesting that this arrangement – launched when the state leased the space after a flood at the previous DMV location in January 2004 – may be short term.
 {:.o__drop-cap}
 
@@ -202,7 +202,7 @@ From the standpoint of preservationists, the next best choice after a museum wou
 Although Gates attended the Pawtucket Foundation’s 2002 workshop on the future of the Pawtucket waterfront, he has otherwise demonstrated little interest in redevelopment initiatives. Davis, the foundation’s executive director, says Gates “has a high regard for the building itself.” Still, in the absence of comment from Gates, it’s difficult to know what this means in practice.
 
 Perhaps it’s worth considering the thoughts of Apex designer Andrew Geller, who, not surprisingly, expresses dismay about how regional department stores are anachronisms and shopping is increasingly done from home-based computers. Told how the Apex now shares space with the DMV, he asks, “That’s progress?” Geller remains impressed by Apex’s possibilities, however, and suggests that “marketing and merchandising types” could engineer a restoration or revival of this once-important name in Rhode Island retailing. While such an unexpected twist seems as improbable as turning the Apex building into an industrial design museum, it beats at least some of the alternatives.
-  
+
 </details>
 
 ***
@@ -210,8 +210,8 @@ Perhaps it’s worth considering the thoughts of Apex designer Andrew Geller, wh
 #### My Turn: William Morgan: Apex is the soul of Pawtucket
 {:#apex-soul}
 
-_by William Morgan_  
-**Providence Journal** | August 1, 2018 
+_by William Morgan_
+**Providence Journal** | August 1, 2018
 
 The Apex department store that once anchored hopes of urban revival in the birthplace of the American industrial revolution is apparently just an expendable piece of our heritage. Yet this Rhode Island institution was a spectacular, even magical place when it opened nearly half a century ago — a potent reflection of the optimism of the post-war Eisenhower years.
 
