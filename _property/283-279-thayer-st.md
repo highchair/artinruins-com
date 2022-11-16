@@ -2,7 +2,9 @@
 title: "Thayer Street, #283, 281, 279, & 279 1/2"
 slug: 283-279-thayer-st
 aka: 'Sushi Express, Hole in the Wall Sandwich Shop, Tom’s Tracks, Shades Plus, Army Navy Store'
-date-modified: 2022-10-23 12:00
+date-modified: 2022-11-13 12:00
+update: 'More photos added after the complete demolition of the properties'
+update-image: '283-281-thayer-jh-2022-11-01.jpg'
 
 built: '1875–1895'
 demolition: '2022'
@@ -57,6 +59,20 @@ images:
     caption: 'Demolition underway of 279, overview of the four properties again.'
   - url: 281-279-thayer-jh-2022-10-03.jpg
     caption: 'Demolition of 279 is nearing completion. In the far right one can see an underground connection the basements of 279 and the house behind it.'
+  - url: 283-281-thayer-jh-2022-10-01.jpg
+    caption: 'A portrait view of 283 and 281 Thayer before demolition, windows mostly removed, with a bit of 281 and a half in the background to the right.'
+  - url: 283-281-thayer-jh-2022-10-02.jpg
+    caption: 'A clear view of te remaining properties after the removal of 279.'
+  - url: 283-281-thayer-jh-2022-11-01.jpg
+    caption: 'The partial demolition of 281, with its second and third floors cut off.'
+  - url: 283-281-thayer-jh-2022-11-02.jpg
+    caption: 'And then there was only one… the last house, 283 and a half, remains while the remnants of 283 and 281 are visible.'
+  - url: 281-1-2-jh-2022-11-01.jpg
+    caption: '281 and a half’s northern façade, now easily visible, shortly before demolition.'
+  - url: 281-1-2-jh-2022-11-02.jpg
+    caption: 'Looking across the rubble of 281 from the rear of the lot, Thayer Street in the distance.'
+  - url: 281-1-2-jh-2022-11-03.jpg
+    caption: 'Workers remove the top floors of 281 and a half.'
   - url: 1908-lj-richards-p7-01.jpg
     caption: '1908 L.J. Richards map, plate 7 — private collection'
   - url: 1921-sanborn-vol2-p13-01.jpg
