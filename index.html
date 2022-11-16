@@ -141,6 +141,7 @@ sitemap:
   So, we are filtering on DATE as well as whether or not item.update is present
 
 {%- endcomment -%}
+<h2 class="o__title--sm v-rhythm">#WhatAreTheyBuilding: Under Construction</h2>
 {%- assign construction = site.property | where: "categories", "#WhatAreTheyBuilding" | sort: "date-modified" | reverse -%}
 {%- assign lastmonth = "now" | date: '%s' | minus: 3888000 | date: '%Y%m%d' | times:1 -%}
 {%- assign construct_count = 0 -%}
@@ -159,10 +160,11 @@ sitemap:
   {% endif %}
 {%- endfor -%}
 {%- if construct_html.size > 0 -%}
-  <h2 class="o__title--sm v-rhythm">#WhatAreTheyBuilding: Under Construction</h2>
   <ul class="taxonomy__list taxonomy__list--vertical taxonomy__list--vertical--{{ construct_count }} u__list__unstyled u__vertical__pb" role="list">
     {{ construct_html }}
   </ul>
+{%- else -%}
+  <p><a href-"{% link proposals.md %}">View our list of new building proposals</a> that we are keeping an eye on.</p>
 {%- endif -%}
 </section>
 
