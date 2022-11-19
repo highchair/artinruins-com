@@ -2,9 +2,9 @@
 title: "Thayer Street, #283, 281, 279, & 279 1/2"
 slug: 283-279-thayer-st
 aka: 'Sushi Express, Hole in the Wall Sandwich Shop, Tom’s Tracks, Shades Plus, Army Navy Store'
-date-modified: 2022-11-13 12:00
-update: 'More photos added after the complete demolition of the properties'
-update-image: '283-281-thayer-jh-2022-11-01.jpg'
+date-modified: 2022-11-19 12:00
+update: 'Added the last photo of the complete demolition of these properties'
+update-image: '283-279-thayer-jh-2022-11-03.jpg'
 
 built: '1875–1895'
 demolition: '2022'
@@ -73,6 +73,8 @@ images:
     caption: 'Looking across the rubble of 281 from the rear of the lot, Thayer Street in the distance.'
   - url: 281-1-2-jh-2022-11-03.jpg
     caption: 'Workers remove the top floors of 281 and a half.'
+  - url: 283-279-thayer-jh-2022-11-03.jpg
+    caption: 'The hole where these properties used to be.'
   - url: 1908-lj-richards-p7-01.jpg
     caption: '1908 L.J. Richards map, plate 7 — private collection'
   - url: 1921-sanborn-vol2-p13-01.jpg
