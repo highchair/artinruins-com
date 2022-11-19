@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: crescent-park
+  person: 'Deb Cabana'
+  date: '2022-11-16'
+  content: 'I’m so glad I found this. I thought I was imagining that I actually saw The Three Stooges at the park! We went often as we lived in nearby RI. Many happy memories.'
+
 - property: atlantic-mills
   person: 'Ken Barthelette'
   date: '2022-11-12'

@@ -30,12 +30,12 @@ sitemap:
     <li class="all-props__item">
       <a class="all-props__link" href="{{ item.url }}">{{ item.title }}</a>
         {%- if item.aka -%}<span class="all-props__aka"><b>aka: </b>{{ item.aka }}</span>{%- endif -%}
-      <p><span class="all-props__cats"><b>Status: </b> 
+      <p><span class="all-props__cats"><b>Status: </b>
         {%- for cat in item.categories -%}
           {{ cat }}{% unless forloop.last %}, {%- endunless -%}
         {%- endfor -%}
       </span></p>
-      <p class="difference">Newest image: 
+      <p class="difference">Newest image:
         {%- if difference >= 15 -%}
         <span style="background-color: crimson; color: white">
         {%- elsif difference >= 10 -%}
