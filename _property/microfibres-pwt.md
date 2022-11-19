@@ -2,8 +2,9 @@
 title: "Microfibres, Inc."
 slug: microfibres-pwt
 aka: 'Weil Barnefield Corpin, Woodlawn Finishing Co.'
-date-modified: 2022-09-02 12:00
+date-modified: 2022-11-18 12:00
 update: 'Added new photos of the demolition currently in progress'
+update-image: microfibres-jh-2022-11-01.jpg
 
 built: 'circa 1900, 1940, 1950s'
 demolition: '2022'
@@ -89,6 +90,12 @@ images:
   - url: microfibres-jh-2022-08-06.jpg
   - url: microfibres-jh-2022-08-07.jpg
   - url: microfibres-jh-2022-08-08.jpg
+  - url: microfibres-jh-2022-11-01.jpg
+  - url: microfibres-jh-2022-11-02.jpg
+  - url: microfibres-jh-2022-11-03.jpg
+  - url: microfibres-jh-2022-11-04.jpg
+  - url: microfibres-jh-2022-11-05.jpg
+  - url: microfibres-jh-2022-11-06.jpg
   - url: microfibres-sanborn-1923.jpg
     caption: 'Sanborn Map Company, “Insurance maps of Pawtucket: including Central Falls, Rhode Island V. 2a” (1923)'
   - url: microfibres-aerial-1939.jpg
@@ -113,17 +120,17 @@ imagescredit: 'Contributions from Google Streetview; Showcase.com; Sanborm Map f
 
 ### Last Tenant
 
-Microfibres occupied a 10.2 acre complex that had built up between about 1940 and 1960. Two of the oldest buildings on the property likely predate our 1923 Sanborn Map by 20 years. 275,000 of floor space is contained in four inter-connected buildings. The complex is bounded by Main Street to the east, Moshassuck Street to the north, a baseball field to the west, and Greenville Street to the south. As city blocks go, this is a large one. 
+Microfibres occupied a 10.2 acre complex that had built up between about 1940 and 1960. Two of the oldest buildings on the property likely predate our 1923 Sanborn Map by 20 years. 275,000 of floor space is contained in four inter-connected buildings. The complex is bounded by Main Street to the east, Moshassuck Street to the north, a baseball field to the west, and Greenville Street to the south. As city blocks go, this is a large one.
 
 The area is surrounded by additional mills and industrial/commercial land, not far from the Ocean State Job Lot shopping center that once housed a Drive-In Theater and the [Providence Cyclodrome]({% link _property/cyclodrome.md %}) before that. Residential conversion might have been on the table for these buildings, but it was a far stretch due to the likelihood of industrial contaminants, including dust, gases, and bio-aerosols that contributed to employees contracting “unspecific interstitial pneumonia” (See [News](#in-the-news)).
 
-Sadly, it looks as though a portion, if not the entire block, will be razed for a new warehouse distribution center. 
+Sadly, it looks as though a portion, if not the entire block, will be razed for a new warehouse distribution center.
 
 #### Architecture
 
-The buildings are all slightly different, having been constructed at different times. They range from two-story red brick mills with arched window transoms and stone lintels, with slightly pitched roofs, to brick-fronted cinder-block structures with flat roofs and rectangular window openings to a steel-clad warehouse, steel-clad barn, and wood frame out buildings. The circa 1900 buildings on the far western and eastern sides of the plot are the nicest buildings, though simple in presentation with no excess ornamentation. 
+The buildings are all slightly different, having been constructed at different times. They range from two-story red brick mills with arched window transoms and stone lintels, with slightly pitched roofs, to brick-fronted cinder-block structures with flat roofs and rectangular window openings to a steel-clad warehouse, steel-clad barn, and wood frame out buildings. The circa 1900 buildings on the far western and eastern sides of the plot are the nicest buildings, though simple in presentation with no excess ornamentation.
 
-The whole lot slopes down from Main Street towards the river and Interstate 95. Some lower buildings on the southern side appear to be built into this slope. 
+The whole lot slopes down from Main Street towards the river and Interstate 95. Some lower buildings on the southern side appear to be built into this slope.
 
 
 ### Current Events
@@ -141,31 +148,31 @@ According to the article, 37 dock doors, 28 trailer stalls, and 100 auto stalls 
 
 ### History
 
-No formal written history about this complex of buildings from the usual places. We made our own history based on aerial photographs and Sanborn maps. 
+No formal written history about this complex of buildings from the usual places. We made our own history based on aerial photographs and Sanborn maps.
 
 1923, [Sanborn Map](#photo-microfibres-sanborn-1923)
-: Two buildings appear in the 1923 Sanborn Map[^3], the earliest record we have been able to find so far. 
+: Two buildings appear in the 1923 Sanborn Map[^3], the earliest record we have been able to find so far.
 
-+ **Weil Barnefield Corpin, Mfg. Silk & Cotton Novelties** on the northeast corner of Main Street and Moshassuck. A 2-story brick building used for winding and weaving. A smaller wood frame storage building was set to the west. This building also featured a sawtooth roof. 
-+ **Woodlawn Finishing Co., Finishing Yarn** on the northwest corner of Moshassuck and Esten Ave. A one and two story brick mill consisting of four buildings; Dye House, Bleach House, Finishing & Winding, and Shipping Winding and Quilling. 
++ **Weil Barnefield Corpin, Mfg. Silk & Cotton Novelties** on the northeast corner of Main Street and Moshassuck. A 2-story brick building used for winding and weaving. A smaller wood frame storage building was set to the west. This building also featured a sawtooth roof.
++ **Woodlawn Finishing Co., Finishing Yarn** on the northwest corner of Moshassuck and Esten Ave. A one and two story brick mill consisting of four buildings; Dye House, Bleach House, Finishing & Winding, and Shipping Winding and Quilling.
 
 1939, [aerial photo](#photo-microfibres-aerial-1939)
-: It looks like a few more houses were constructed on the lots along Greenville Street and a building to the north of those houses along Main Street. 
+: It looks like a few more houses were constructed on the lots along Greenville Street and a building to the north of those houses along Main Street.
 
 1951-1952, aerial photo (not shown)
-: A small outbuilding surrounds the western and southern sides of the Weil Barnefield Corpin building. It is narrow on the west side and deeper on the southern side, we are guessing one story. What looks to be eight skylights punctuate the new structure. The low building in between the row of houses and this building from the 1939 is now gone. A construction date of 1940 shown on the commercial sales listing might be referencing this configuration of buildings. 
+: A small outbuilding surrounds the western and southern sides of the Weil Barnefield Corpin building. It is narrow on the west side and deeper on the southern side, we are guessing one story. What looks to be eight skylights punctuate the new structure. The low building in between the row of houses and this building from the 1939 is now gone. A construction date of 1940 shown on the commercial sales listing might be referencing this configuration of buildings.
 
 1962, [aerial photo](#photo-microfibres-aerial-1962)
-: A significant expansion of the complex has taken place. Our guess is that Microfibres occupies the buildings along Main Street on the eastern side of the property and have expanded westward towards the Woodlawn Finishing Co. buildings. The houses on the southern edge are gone, and floor space has doubled if not tripled with the new structure in the middle of this plot and along the southern edge. A small parking area is along this southern side, behind the mid-century plate glass ten brick building on the southeast corner of Greenville and Main. The western portion of Esten Street that ran through this property seems to begin to be abandoned at this time.  
+: A significant expansion of the complex has taken place. Our guess is that Microfibres occupies the buildings along Main Street on the eastern side of the property and have expanded westward towards the Woodlawn Finishing Co. buildings. The houses on the southern edge are gone, and floor space has doubled if not tripled with the new structure in the middle of this plot and along the southern edge. A small parking area is along this southern side, behind the mid-century plate glass ten brick building on the southeast corner of Greenville and Main. The western portion of Esten Street that ran through this property seems to begin to be abandoned at this time.
 
 1972, aerial photo (not shown)
-: It is hard to decipher because the aerial photo displays a seam here, but the central area that once separated the two buildings on the western and eastern edges has now been filled in with the steel-clad warehouse structure. The Woodlawn Finishing Co. now appears to be part of the complex. A parking lot to its left (west) now occupies the former portion of Esten Street that used to run through to Greenville St. 
+: It is hard to decipher because the aerial photo displays a seam here, but the central area that once separated the two buildings on the western and eastern edges has now been filled in with the steel-clad warehouse structure. The Woodlawn Finishing Co. now appears to be part of the complex. A parking lot to its left (west) now occupies the former portion of Esten Street that used to run through to Greenville St.
 
 1981, [aerial photo](#photo-microfibres-aerial-1981)
-: A better view of the state shown in the previous 1972 photo with much unchanged. The southwestern portion shows the barn-like structures present today. 
+: A better view of the state shown in the previous 1972 photo with much unchanged. The southwestern portion shows the barn-like structures present today.
 
 1997, [aerial photo](#photo-microfibres-aerial-1997)
-: Not much changed aside from new roofs. It looks like a parking area on the southern side is filled with a building by 2008, but we can confirm that this is just the resurfacing of an existing parking lot. 
+: Not much changed aside from new roofs. It looks like a parking area on the southern side is filled with a building by 2008, but we can confirm that this is just the resurfacing of an existing parking lot.
 
 2008, [aerial photo](#photo-microfibres-aerial-2008)
 : Building configuration is now the same as present day.
@@ -177,7 +184,7 @@ No formal written history about this complex of buildings from the usual places.
 
 #### Pawtucket manufacturer to file bankruptcy, closes shop after 90 years in business
 
-_by Patricia Resende_  
+_by Patricia Resende_
 **NBC/WJAR Channel 10** | January 28, 2016
 
 After more 90 years in business, **Microfibres Inc.** in Pawtucket is closing doors its doors in the United States and possibly in other nations, NBC 10 News has learned.
