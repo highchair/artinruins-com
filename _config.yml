@@ -29,7 +29,7 @@ destination: _stage/
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  input: GFM 
+  input: GFM
   syntax_highlighter: rouge
 
 
@@ -60,6 +60,7 @@ sass:
 plugins:
 - jekyll-autoprefixer
 - jekyll-responsive-image
+- jekyll-image-size
 
 
 # Exclude from processing.
