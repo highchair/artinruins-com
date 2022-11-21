@@ -1,0 +1,21 @@
+---
+layout: page
+permalink: image-sizes/
+title: "Image Sizes"
+meta-title: "Calculate Image Sizes | ArtInRuins"
+---
+
+{%- assign propslug = 'watson-institute' -%}
+{%- assign property = site.property | where: 'slug', propslug -%}
+{% comment %}
+{{ property | jsonify }}
+{% endcomment %}
+
+{%- for item in property -%}
+<pre>{% for image in item.images %}
+{%- assign imagesrc = site.prod_url | append: site.propimg_path | append: propslug | append: '/' | append: image.url -%}- url: {{ image.url }}{%- if image.alt -%}
+<br>  alt: '{{ image.alt }}'{%- endif -%}{%- if image.caption -%}
+<br>  caption: '{{ image.caption }}'{%- endif -%}
+<br>  sizes: '{% imagesize imagesrc:list %}'
+{% endfor %}</pre>
+{% endfor %}
