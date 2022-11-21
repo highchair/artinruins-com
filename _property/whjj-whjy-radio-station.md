@@ -6,7 +6,7 @@ date-modified: 2020-08-03 17:00
 
 built: 'circa 1970'
 demolition: 2019
-redeveloped: 
+redeveloped:
 decade: '1970-1979'
 date-added: '2020'
 categories: [ '#UsedToBeThere' ]
@@ -31,20 +31,29 @@ thumbnail: whjj-east-prov-jh-2019-10-01.jpg
 
 images:
   - url: whjj-east-prov-jh-2019-10-02.jpg
+    alt: 'A square, unadorned, two story wood frame building clad in diagonal tongue-in-groove siding'
+    sizes: '1440, 900'
   - url: whjj-east-prov-jh-2019-10-01.jpg
+    sizes: '1440, 900'
   - url: whjj-east-prov-jh-2019-10-03.jpg
+    sizes: '1440, 900'
   - url: whjj-east-prov-jh-2019-10-04.jpg
+    sizes: '1440, 1024'
   - url: whjj-east-prov-jh-2019-10-05.jpg
+    sizes: '1440, 900'
   - url: whjj-east-prov-jh-2019-10-06.jpg
+    sizes: '1440, 900'
   - url: whjj-east-prov-jh-2019-10-07.jpg
+    sizes: '1440, 900'
   - url: whjj-east-prov-jh-2019-10-08.jpg
+    sizes: '1440, 900'
 
-imagescredit: 
+imagescredit:
 ---
 
 ### Reason for Demolition
 
-The broadcast center on Eastern Avenue in East Providence was closed in 2002 and the radio station offices — owned by Clear Channel — moved to Oxford Street in Providence. The wooden structure was left to deteriorate. Vandalism and decay let the elements make quick work of the structure. After 18 years, which was too long without maintenance, the building was flattened. 
+The broadcast center on Eastern Avenue in East Providence was closed in 2002 and the radio station offices — owned by Clear Channel — moved to Oxford Street in Providence. The wooden structure was left to deteriorate. Vandalism and decay let the elements make quick work of the structure. After 18 years, which was too long without maintenance, the building was flattened.
 
 
 #### Links
@@ -55,7 +64,7 @@ The broadcast center on Eastern Avenue in East Providence was closed in 2002 and
 
 ### Current Events
 
-Signal towers still exist at this site, but no building remains. The towers broadcast the 94.1 signal of WHJY as well as the 95.5 signal of the former WBRU. 
+Signal towers still exist at this site, but no building remains. The towers broadcast the 94.1 signal of WHJY as well as the 95.5 signal of the former WBRU.
 
 
 ### History
@@ -70,14 +79,14 @@ DJ s and personalities that worked at this location at one point or another:
 * Vincent “Buddy“ Cianci
 * Arlene Violet
 
-Not much on formal history of the building itself. From aerial photos we put its date of construction shortly after or at the same time as the nearby Henderson Expressway in 1969. 
+Not much on formal history of the building itself. From aerial photos we put its date of construction shortly after or at the same time as the nearby Henderson Expressway in 1969.
 
 
 ### In the News
 
 _[A very lengthy story from Billboard.com](//www.billboard.com/articles/business/8464105/abandoned-radio-memories-dido-david-coverdale-incredible-hulk){:target="_blank"}, republished without permission_
 
-_by Gary Trust_  
+_by Gary Trust_
 **Billboard.com** | July 6, 2018
 
 #### Eerie Waves: Memories of an Abandoned Radio Home, From Dido to Whitesnake's David Coverdale (& the Incredible Hulk)

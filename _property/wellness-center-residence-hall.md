@@ -31,21 +31,37 @@ thumbnail: wellness-jh-2022-03-07.jpg
 images:
   - url: wellness-jh-2020-02-01.jpg
     alt: 'A mass of glass and brown tan panels with a ground-floor and basement of dark brown and muddy red bricks. Much of the building’s east-face fronting Pembroke Field is glass, showing open interior meeting areas and circulation space. The other three sides are more wall than glass as they face other residential structures. The building is five to four stories tall, and organized into three main masses connected by first and second floor glass walkways and open spaces.'
+    sizes: '1440, 900'
   - url: wellness-jh-2020-02-02.jpg
+    sizes: '1440, 900'
   - url: wellness-jh-2020-02-03.jpg
+    sizes: '1440, 900'
   - url: wellness-jh-2020-02-04.jpg
+    sizes: '1440, 900'
   - url: wellness-jh-2020-02-05.jpg
+    sizes: '1440, 900'
   - url: wellness-jh-2020-02-06.jpg
+    sizes: '1440, 900'
   - url: wellness-jh-2020-03-01.jpg
+    sizes: '1440, 900'
   - url: wellness-jh-2020-05-01.jpg
+    sizes: '1440, 900'
   - url: wellness-jh-2020-06-01.jpg
+    sizes: '1440, 900'
   - url: wellness-jh-2022-03-01.jpg
+    sizes: '1440, 900'
   - url: wellness-jh-2022-03-02.jpg
+    sizes: '1200, 900'
   - url: wellness-jh-2022-03-03.jpg
+    sizes: '1440, 900'
   - url: wellness-jh-2022-03-04.jpg
+    sizes: '1200, 900'
   - url: wellness-jh-2022-03-05.jpg
+    sizes: '1440, 900'
   - url: wellness-jh-2022-03-06.jpg
+    sizes: '1440, 900'
   - url: wellness-jh-2022-03-07.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2022-03-01
 
@@ -58,17 +74,17 @@ imagescredit:
 
 ### Proposal
 
-In 2015, Brown University acquired the land bounded Brook, Meeting, and Cushing streets where [seven houses once stood]({% link _property/brook-meeting-cushing.md %}). The university argued that the private developer did not maintain the properties and therefore they presented a blight and should be torn down. They proposed putting a parking lot in place instead, one which would “serve the needs of the Thayer Street commercial district.”[^1] They won approval for demolition. 
+In 2015, Brown University acquired the land bounded Brook, Meeting, and Cushing streets where [seven houses once stood]({% link _property/brook-meeting-cushing.md %}). The university argued that the private developer did not maintain the properties and therefore they presented a blight and should be torn down. They proposed putting a parking lot in place instead, one which would “serve the needs of the Thayer Street commercial district.”[^1] They won approval for demolition.
 
 [^1]: See [News Story from our property page on the seven houses that were demolished](/property/brook-meeting-cushing/#in-the-news).
 
-Also, from the same news story, Brown had said they hoped “to redevelop the property for academic or residential use, but has no specific plans to do so”. Only a few years later, and ground breaks on a new student wellness center and residence hall. 
+Also, from the same news story, Brown had said they hoped “to redevelop the property for academic or residential use, but has no specific plans to do so”. Only a few years later, and ground breaks on a new student wellness center and residence hall.
 
 The center brings together physical health services, mental and emotional health services, and wellness education and programming that were previously spread out across the campus. The co-location of housing and wellness center was intentional, putting students together who want to develop healthier lifestyles and want to study holistic approaches to wellness.[^2]
 
 [^2]: Internal Brown website page about the project, captured March 23, 2022 from https://www.brown.edu/facilities/projects/capital-projects/completed/wellness-center-residence-hall
 
-This is first new student housing building on Brown’s campus, built by Brown, in 30 years but comes shortly before [another housing project further down Brook street]({% link _property/brown-brook-st-residence-halls.md %}). It is 96,000 square feet of meeting space, exam rooms, labs, student-run EMT space, common areas, and 162 beds in pod-style arrangements. The building was designed to <abbr title="Leadership in Energy and Environmental Design (LEED)">LEED</abbr> v4 Silver standards as well as newer standards for healthy buildings.[^3] 
+This is first new student housing building on Brown’s campus, built by Brown, in 30 years but comes shortly before [another housing project further down Brook street]({% link _property/brown-brook-st-residence-halls.md %}). It is 96,000 square feet of meeting space, exam rooms, labs, student-run EMT space, common areas, and 162 beds in pod-style arrangements. The building was designed to <abbr title="Leadership in Energy and Environmental Design (LEED)">LEED</abbr> v4 Silver standards as well as newer standards for healthy buildings.[^3]
 
 [^3]: The architect’s website portfolio page about the project, captured March 23, 2022 from https://rawnarch.com/brownwellnessreshall
 
@@ -76,16 +92,16 @@ This is first new student housing building on Brown’s campus, built by Brown, 
 
 ### Design Reception
 
-If our opinion matters, we are unsure about this building. It seems shiny and new now, with a certain kind of modernism that does not immediately scream bland pre-manufactured and off-the-shelf sameness. The variation in mass and punctuations make it less of one large blob and more like a series of interconnected buildings with the same visual theme. It is a stark contrast to its surroundings, and we are not sure if that is good or bad. The new-ish privately-developed dormitory at [257 Thayer Street]({% link _property/257-thayer-st.md %}) was forced by design review to blend in more with its surroundings by using brick and more traditional massing shapes, like the gable-roof-style dormers. It looks now like it is a theme-park version of what “traditional” architecture looks like when compared with this far-more stark and modern Wellness Center. 
+If our opinion matters, we are unsure about this building. It seems shiny and new now, with a certain kind of modernism that does not immediately scream bland pre-manufactured and off-the-shelf sameness. The variation in mass and punctuations make it less of one large blob and more like a series of interconnected buildings with the same visual theme. It is a stark contrast to its surroundings, and we are not sure if that is good or bad. The new-ish privately-developed dormitory at [257 Thayer Street]({% link _property/257-thayer-st.md %}) was forced by design review to blend in more with its surroundings by using brick and more traditional massing shapes, like the gable-roof-style dormers. It looks now like it is a theme-park version of what “traditional” architecture looks like when compared with this far-more stark and modern Wellness Center.
 
-What we have seen, though, since the Gilbane project in 2010 is an erosion of this neighborhood — bounded by Brook, Meeting, and Angel Street further to the south. Several new but bland structures have taken up space on Angel Street now. The demolitions of historic homes in this area have opened the floodgates to student-housing developers and because of the precedent, we think the city has few tools left to encourage responsible development. Compared with some of these newer buildings that have opened up around the Wellness center, we like the Wellness center more — but that may not be saying much. 
+What we have seen, though, since the Gilbane project in 2010 is an erosion of this neighborhood — bounded by Brook, Meeting, and Angel Street further to the south. Several new but bland structures have taken up space on Angel Street now. The demolitions of historic homes in this area have opened the floodgates to student-housing developers and because of the precedent, we think the city has few tools left to encourage responsible development. Compared with some of these newer buildings that have opened up around the Wellness center, we like the Wellness center more — but that may not be saying much.
 
 
 ### In the News
 
 #### Providence OKs Brown’s new performing arts center and dorm with wellness facilities
 
-_by Christine Dunn_  
+_by Christine Dunn_
 **Providence Journal** | April 2, 2018 (abridged)
 
 The City Plan Commission voted unanimously Monday night in favor of amendments to Brown University’s master plan that would add two new buildings at the College Hill campus: a performing arts center and a student wellness center and residence hall. […]

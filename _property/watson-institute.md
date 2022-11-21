@@ -1,12 +1,12 @@
 ---
 title: "Watson Institute for International and Public Affairs"
 slug: watson-institute
-aka: 
+aka:
 date-modified: 2020-11-10 12:00
 
 built: '2001-2002'
-demolition: 
-redeveloped: 
+demolition:
+redeveloped:
 decade: '2000-2009'
 date-added: '2005'
 categories: [ '#WhatAreTheyBuilding' ]
@@ -28,14 +28,22 @@ thumbnail: watson-jh-2005-03-02.jpg
 
 images:
   - url: watson-jh-2005-03-01.jpg
+    alt: 'A modernist, oblong, three story brick clad building with rectangular forms and protruding awning-style windows across most of the faces. A central glass atrium and circulation area can be seen from the tall ribbon windows on either end. '
+    sizes: '1440, 900'
   - url: watson-jh-2005-03-02.jpg
+    sizes: '1200, 900'
   - url: watson-jh-2005-03-03.jpg
+    sizes: '1200, 900'
   - url: watson-jh-2005-03-04.jpg
+    sizes: '768, 924'
   - url: watson-jh-2005-03-05.jpg
+    sizes: '1440, 900'
   - url: watson-jh-2005-03-06.jpg
+    sizes: '1440, 900'
   - url: watson-jh-2005-03-07.jpg
+    sizes: '1200, 900'
 
-imagescredit: 
+imagescredit:
 ---
 
 ### Proposal
@@ -63,6 +71,6 @@ The design seeks to maximize interaction among researchers mainly by organizing 
 
 ### Design Reception
 
-We think this kind of blocky, odd-looking modernism is what most people look down upon. The brick does nothing to soften the austere edges and cube-like shapes. The pushed out awning-type windows are another odd feature that makes the building distinct but which can attract the ire of onlookers. 
+We think this kind of blocky, odd-looking modernism is what most people look down upon. The brick does nothing to soften the austere edges and cube-like shapes. The pushed out awning-type windows are another odd feature that makes the building distinct but which can attract the ire of onlookers.
 
-While it is hard to be honest about how your opinion about the building was formed — do we love it for being so odd or hate it for not blending in a little more? Is tht our own bias or something else? — as an outside observer, we are more interested in what it is like to work in the space day to day. What do the researchers think of their office space? Does the atrium that cuts through the block-length structure create its own interior Main Street? Were the concepts of the building successful? That should determine whether or not it is a great building. 
+While it is hard to be honest about how your opinion about the building was formed — do we love it for being so odd or hate it for not blending in a little more? Is tht our own bias or something else? — as an outside observer, we are more interested in what it is like to work in the space day to day. What do the researchers think of their office space? Does the atrium that cuts through the block-length structure create its own interior Main Street? Were the concepts of the building successful? That should determine whether or not it is a great building.

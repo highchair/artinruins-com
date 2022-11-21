@@ -12,7 +12,7 @@ redeveloped:
 units:
 decade: '1880-1889'
 date-added: '2022'
-categories: [ '#UsedToBeThere', '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: []
@@ -35,60 +35,84 @@ thumbnail: 283-279-thayer-jh-2022-10-02.jpg
 
 images:
   - url: 283-279-thayer-jh-2004-12-01.jpg
-    caption: 'Numbers 283, 281, and 279 as captured in 2004. Businesses include Sushi Express, Tom’s Tracks, Shades Plus, and the Army Navy Store.'
     alt: 'Two wood-frame two and one half story houses with gable roofs and dormers as well as one low cement block commercial structure and one narrow infill building.'
+    caption: 'Numbers 283, 281, and 279 as captured in 2004. Businesses include Sushi Express, Tom’s Tracks, Shades Plus, and the Army Navy Store.'
+    sizes: '1024, 768'
   - url: nava-vintage-undated.jpg
     caption: 'A period after Tom’s Tracks moved out of 281 and NAVA Vintage moved in. Shades Plus was in the process of closing. Found via Google Image search.'
+    sizes: '1065, 600'
   - url: thayer-techs-2017.jpg
     caption: 'A period before Dojo Smoke Shop moved in at 281 and Thayer Techs was in place. The basement space was already occupied by Mighty Sharp Barbers. Found via Google Image search.'
+    sizes: '1600, 900'
   - url: 283-281-thayer-jh-2020-02-01.jpg
     caption: 'Photo from 2020 with Dojo Smoke Sharp in place at 281.'
+    sizes: '740, 1036'
   - url: 283-thayer-jh-2020-02-01.jpg
     caption: 'A 2020 photo of Sushi Express at 283 after they closed during COVID.'
+    sizes: '740, 1036'
   - url: 281-thayer-jh-2020-02-01.jpg
     caption: 'A 2020 photo of 281'
+    sizes: '1200, 900'
   - url: 279-thayer-jh-2020-02-01.jpg
     caption: 'A 2020 photo of 279 with the Army Navy store still in place. Notice the house behind as well.'
+    sizes: '1200, 900'
   - url: 283-279-thayer-jh-2022-10-01.jpg
     caption: 'A 2022 photo of 283, 281, and 279 as demolition begins.'
+    sizes: '768, 924'
   - url: 281-279-thayer-jh-2022-10-01.jpg
     caption: 'A 2022 photo of 281 and 279 straddling a narrow alleyway leading to the house at 279 1/2.'
+    sizes: '768, 924'
   - url: 283-279-thayer-jh-2022-10-02.jpg
     caption: 'A 2022 photo of the entire parcel with its four properties preparing for demolition.'
+    sizes: '1440, 900'
   - url: 283-279-thayer-jh-2022-10-03.jpg
     caption: 'Demolition underway of 279, overview of the four properties again.'
+    sizes: '1440, 900'
   - url: 281-279-thayer-jh-2022-10-03.jpg
     caption: 'Demolition of 279 is nearing completion. In the far right one can see an underground connection the basements of 279 and the house behind it.'
+    sizes: '1200, 900'
   - url: 283-281-thayer-jh-2022-10-01.jpg
     caption: 'A portrait view of 283 and 281 Thayer before demolition, windows mostly removed, with a bit of 281 and a half in the background to the right.'
+    sizes: '768, 924'
   - url: 283-281-thayer-jh-2022-10-02.jpg
     caption: 'A clear view of te remaining properties after the removal of 279.'
+    sizes: '1440, 900'
   - url: 283-281-thayer-jh-2022-11-01.jpg
     caption: 'The partial demolition of 281, with its second and third floors cut off.'
+    sizes: '1440, 900'
   - url: 283-281-thayer-jh-2022-11-02.jpg
-    caption: 'And then there was only one… the last house, 283 and a half, remains while the remnants of 283 and 281 are visible.'
+    caption: 'And then there was only one… the last house, 283 and a half, remains while the remnants of 283 and 281 are visible.'
+    sizes: '1200, 900'
   - url: 281-1-2-jh-2022-11-01.jpg
     caption: '281 and a half’s northern façade, now easily visible, shortly before demolition.'
+    sizes: '768, 924'
   - url: 281-1-2-jh-2022-11-02.jpg
     caption: 'Looking across the rubble of 281 from the rear of the lot, Thayer Street in the distance.'
+    sizes: '768, 924'
   - url: 281-1-2-jh-2022-11-03.jpg
     caption: 'Workers remove the top floors of 281 and a half.'
+    sizes: '1440, 900'
   - url: 283-279-thayer-jh-2022-11-03.jpg
     caption: 'The hole where these properties used to be.'
+    sizes: '1440, 900'
   - url: 1908-lj-richards-p7-01.jpg
     caption: '1908 L.J. Richards map, plate 7 — private collection'
+    sizes: '1440, 900'
   - url: 1921-sanborn-vol2-p13-01.jpg
-    caption: '1921 Sanborn Map, Volume 2, Plate 13 — Library of Congress, Maps Division'
+    caption: '1921 Sanborn Map, Volume 2, Plate 13 — Library of Congress, Maps Division'
+    sizes: '1440, 900'
   - url: 1951-sanborn-vol2-p13-01.jpg
-    caption: '1921–1951 Sanborn Map, Volume 2, Plate 13 — Library of Congress, Maps Division'
+    caption: '1921–1951 Sanborn Map, Volume 2, Plate 13 — Library of Congress, Maps Division'
+    sizes: '1440, 900'
   - url: 2014-prov-aerial-viewer-01.jpg
-    caption: '2014 satellite photo — Providence Historical Aerial Viewer'
+    caption: '2014 satellite photo — Providence Historical Aerial Viewer'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the Library of Congress and the Providence Historical Aerial Viewer'
 
-#external:
-#  - source: 'Providence Journal (permalink)'
-#    url: https://perma.cc/MQ4Z-Z9K4
+external:
+  - source: 'Interior photo circa 2019 by Victorr Delgado via Instagram'
+    url: https://www.instagram.com/p/Bio8L_AHqMQ/
 ---
 
 ### Reason for Demolition

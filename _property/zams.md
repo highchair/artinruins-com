@@ -1,7 +1,7 @@
 ---
 title: "Zam’s Service Station"
 slug: zams
-aka: 
+aka:
 date-modified: 2020-05-23 17:00
 
 built: 1940?
@@ -30,17 +30,21 @@ thumbnail: zams-g-thumb.jpg
 
 images:
   - url: zams-g-1985-01.jpg
-    caption: Photo by Gemma, 1985
+    caption: 'Photo by Gemma, 1985'
+    alt: 'A diminutive, wedge-shaped concrete building with trapezoidal office inside and tso gas pumps outside with no overhead canopy'
+    sizes: '775, 512'
   - url: zams-g-1985-03.jpg
-    caption: Photo by Gemma, 1985
+    caption: 'Photo by Gemma, 1985'
+    sizes: '512, 775'
   - url: zams-g-1985-02.jpg
-    caption: Photo by Gemma, 1985
+    caption: 'Photo by Gemma, 1985'
+    sizes: '512, 775'
 
-imagescredit: All photos by Gemma.
+imagescredit: 'All photos by Gemma.'
 ---
 
 ### History
 
-Not much is known or has been found about this property. A city directory of industrial businesses listed Zam’s at the corner of Rhodes and Eddy Streets in South Providence. An obituary for Guido C. Zampini names him the owner of this station that was in operation for 40 years. He was 92 in 2007 when he died, which puts the station in operation under his ownership from about 1945 to 1985, when he was 70. 
+Not much is known or has been found about this property. A city directory of industrial businesses listed Zam’s at the corner of Rhodes and Eddy Streets in South Providence. An obituary for Guido C. Zampini names him the owner of this station that was in operation for 40 years. He was 92 in 2007 when he died, which puts the station in operation under his ownership from about 1945 to 1985, when he was 70.
 
-The Providence Historical Aerial Viewer doesn’t give us much information. Both aerials from 1985 and 1988 are too blurry to decipher. In 1997 the Dunkin’ Donuts storefront occupies this address and stayed there until about 2010. This location must be correct because in the background of the first photo can be seen the medical office building that still stands at 758 Eddy St. 
+The Providence Historical Aerial Viewer doesn’t give us much information. Both aerials from 1985 and 1988 are too blurry to decipher. In 1997 the Dunkin’ Donuts storefront occupies this address and stayed there until about 2010. This location must be correct because in the background of the first photo can be seen the medical office building that still stands at 758 Eddy St.

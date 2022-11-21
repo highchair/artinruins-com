@@ -5,7 +5,7 @@ aka: 'Lerner Department Store'
 date-modified: 2021-01-31 12:00
 
 built: 'c.1900'
-demolition: 
+demolition:
 redeveloped: '2003-2004'
 units: '12'
 decade: '1900-1909'
@@ -33,15 +33,21 @@ thumbnail: wilkinson-cornish-2015-01.jpg
 
 images:
   - url: wilkinson-ppl-1900-01.jpg
-    caption: 'Photograph of the William Wilkinson Building from the corner of Westminster Street and Eddy Street. The storefront is for Edward C. Almy & Co., advertising Ladies & Children’s Cloaks & Suits.'
     alt: 'A five-story, four-bay wide commercial building of red brick and stone. Ground-floor windows are large plate glass with steel columns and a central entrance on Westminster Street. Bay windows located on the front-right corner extended from the second story to the forth but have since been removed.'
+    caption: 'Photograph of the William Wilkinson Building from the corner of Westminster Street and Eddy Street. The storefront is for Edward C. Almy & Co., advertising Ladies & Children’s Cloaks & Suits.'
+    sizes: '868, 1024'
   - url: wilkinson-jh-2002-04-01.jpg
     caption: 'A small, early photo from 2002 of the decorative stone sheating that covered half of the first and all of the second stories.'
+    sizes: '575, 610'
   - url: wilkinson-jh-2003-10-01.jpg
+    sizes: '480, 640'
   - url: wilkinson-jh-2003-10-02.jpg
     caption: 'A crude attempt to tile the whole building together back when digital cameras were a thing and phones with features that auto-stitched photos together didn’t exist'
+    sizes: '1053, 900'
   - url: wilkinson-jh-2004-06-01.jpg
+    sizes: '1200, 900'
   - url: wilkinson-cornish-2015-01.jpg
+    sizes: '1200, 938'
 
 imagescredit: 'Contribution by the <a href="//provlibdigital.org/islandora/object/islandora%3A10592" target="_blank">Rhode Island Photo Collection</a>, Providence Public Library, and Cornish Associates'
 
@@ -52,9 +58,9 @@ imagescredit: 'Contribution by the <a href="//provlibdigital.org/islandora/objec
 
 ### Redevelopment
 
-The former Lerner Department store was renovated around the same time as the larger [Peerless Department store]({% link _property/peerless-low-buildings-pvd.md %}) up and across the street. It was converted into 12 residential units and 3200 square feet of commercial space by the end of 2004. 
+The former Lerner Department store was renovated around the same time as the larger [Peerless Department store]({% link _property/peerless-low-buildings-pvd.md %}) up and across the street. It was converted into 12 residential units and 3200 square feet of commercial space by the end of 2004.
 
-The stone and stucco covering of the upper first and entire second floor was a byproduct of the 1970s and 1980s when the architectural fashion favored smoother, sleeker details instead of the more intricate and ornamental styles of these turn-of-the-century buildings. Most of the buildings along this commercial corridor from the blocks of Dorrance to Mathewson were redesigned in this manner, including an unfortunate covering of the ornate Providence Journal building. The building was also painted gray but has since been sandblasted back to its natural red brick. 
+The stone and stucco covering of the upper first and entire second floor was a byproduct of the 1970s and 1980s when the architectural fashion favored smoother, sleeker details instead of the more intricate and ornamental styles of these turn-of-the-century buildings. Most of the buildings along this commercial corridor from the blocks of Dorrance to Mathewson were redesigned in this manner, including an unfortunate covering of the ornate Providence Journal building. The building was also painted gray but has since been sandblasted back to its natural red brick.
 
 Each of the 4 residential floors of the building has the same layout with three loft-style units of varying sizes. The 01 unit is 1,065 square feet, the 02 unit is 1,281 square feet, and the 03 unit is 1,369 square feet. Rents range in price depending on the unit size and location within the building.
 

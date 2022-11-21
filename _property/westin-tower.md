@@ -5,8 +5,8 @@ aka: 'Omni Providence Hotel'
 date-modified: 2020-10-10 12:00
 
 built: '2005-2007'
-demolition: 
-redeveloped: 
+demolition:
+redeveloped:
 decade: '2000-2009'
 date-added: '2005'
 categories: [ '#WhatAreTheyBuilding' ]
@@ -28,28 +28,47 @@ thumbnail: westin-tower-jh-2020-10-01.jpg
 
 images:
   - url: westin-tower-jh-2005-10-01.jpg
+    alt: 'A tall tower with a square base clad in brick veneer on the corners and off-white cast stone-like panels and trim runnings up the center of each face. The building is topped with a cross gable roof with central square area to hold cooling units.'
+    sizes: '1200, 900'
   - url: westin-tower-jh-2005-12-01.jpg
+    sizes: '1200, 900'
   - url: westin-tower-jh-2005-12-02.jpg
+    sizes: '800, 1067'
   - url: westin-tower-jh-2005-12-03.jpg
+    sizes: '1200, 900'
   - url: westin-tower-jh-2006-02-01.jpg
+    sizes: '800, 1067'
   - url: westin-tower-jh-2006-04-01.jpg
+    sizes: '800, 1067'
   - url: westin-tower-jh-2006-04-02.jpg
+    sizes: '800, 1067'
   - url: westin-tower-jh-2006-08-01.jpg
+    sizes: '800, 1067'
   - url: westin-tower-jh-2007-01-01.jpg
+    sizes: '1200, 900'
   - url: westin-tower-jh-2007-01-02.jpg
+    sizes: '800, 1067'
   - url: westin-tower-jh-2007-02-01.jpg
+    sizes: '800, 1067'
   - url: westin-tower-jh-2007-02-02.jpg
+    sizes: '600, 1067'
   - url: westin-tower-jh-2007-02-03.jpg
+    sizes: '1200, 900'
   - url: westin-tower-jh-2007-02-04.jpg
+    sizes: '1200, 900'
   - url: westin-tower-jh-2020-10-01.jpg
+    sizes: '1440, 900'
   - url: westin-tower-jh-2020-10-02.jpg
+    sizes: '800, 1067'
   - url: westin-tower-jh-2020-10-03.jpg
+    sizes: '1440, 900'
   - url: westin-tower-jh-2020-10-04.jpg
+    sizes: '800, 1067'
 
 imagescredit:
 ---
 
-### Proposal 
+### Proposal
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-4">
@@ -74,11 +93,11 @@ The Authority and [The Procaccianti Group](//www.procaccianti.com) entered into 
 
 [^4]: _“Cranston firm picked to negotiate to buy Westin Providence”_, Jack Perry for the Providence Journal, December 22, 2004. Captured December 22, 2004 on UrbanPlanet.org. https://www.urbanplanet.org/forums/topic/5847-in-progress-the-residences-at-the-westin, /http://www.projo.com/digitalbulletin/content/projo-20041222-westin.350a1c9a.html
 
-Before the sale was finalized, there was a controversy surrounding Procaccianti’s default on a $3-million loan in 1991 for a 250-acre property in Hopkinton. When the state foreclosed on the loan, the land was sold at auction in 1993 for only $145,000. The buyer turned out to be Kuehn Road Associates LLC, also owned by James Procaccianti. Since the land was sold for less than the loan, the state was left with a $2.9-million debt. The state sued the Procaccianti Group for $2.9 million 10 years ago in Superior Court while Procaccianti fought the suit, arguing that the land is worth about $2 million — and that the state should have sold the land for more money to pay down the loan. The Procaccianti Group originally borrowed the $3 million from Marquette Credit Union for a building project. But when the credit union was shut down during the banking crisis in 1991, the company was unable to finish the project, suffered financial losses and stopped paying on the loan. In late 2004, the Town of Hopkinton had the land assessed at $911,700.[^5] 
+Before the sale was finalized, there was a controversy surrounding Procaccianti’s default on a $3-million loan in 1991 for a 250-acre property in Hopkinton. When the state foreclosed on the loan, the land was sold at auction in 1993 for only $145,000. The buyer turned out to be Kuehn Road Associates LLC, also owned by James Procaccianti. Since the land was sold for less than the loan, the state was left with a $2.9-million debt. The state sued the Procaccianti Group for $2.9 million 10 years ago in Superior Court while Procaccianti fought the suit, arguing that the land is worth about $2 million — and that the state should have sold the land for more money to pay down the loan. The Procaccianti Group originally borrowed the $3 million from Marquette Credit Union for a building project. But when the credit union was shut down during the banking crisis in 1991, the company was unable to finish the project, suffered financial losses and stopped paying on the loan. In late 2004, the Town of Hopkinton had the land assessed at $911,700.[^5]
 
 [^5]: _“Westin suitor regained land lost in loan default”_, Andrea L. Stape for the Providence Journal, January 7, 2005. Captured January 7, 2005 on UrbanPlanet.org. https://www.urbanplanet.org/forums/topic/5847-in-progress-the-residences-at-the-westin, http://www.projo.com/metro/content/projo_20050107_proc07.1ab1b9.html
 
-Eventually, Procaccianti agreed to pay $6.53 million, which amounted to the original $2.9 million plus interest. Governor Carcieri came out against their bid for the Westin but it did not stop the sale from being approved in February, 2005. 
+Eventually, Procaccianti agreed to pay $6.53 million, which amounted to the original $2.9 million plus interest. Governor Carcieri came out against their bid for the Westin but it did not stop the sale from being approved in February, 2005.
 
 
 ### Design Reception
@@ -90,7 +109,7 @@ The original Westin towers are fine. This hotel always makes us think of Monopol
 
 #### Procaccianti Group Unveils Its Design
 
-_by Andrea Stape_  
+_by Andrea Stape_
 **Providence Journal** | April 13, 2005
 
 At 356 feet tall, or about 31 stories, the proposed hotel tower next to The Westin Providence is being designed to make a statement. The hotel and condo tower The Procaccianti Group is planning to attach to the Westin will include 105 condominiums, 200 hotel rooms, a parking garage for residents and an arcade filled with restaurants and shops on the first floor, according to a presentation by the Cranston company’s architectural firm yesterday.

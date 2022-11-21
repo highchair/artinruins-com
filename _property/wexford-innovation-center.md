@@ -35,35 +35,60 @@ thumbnail: wexford-jh-2018-09-10.jpg
 images:
   - url: wexford-jh-2017-10-01.jpg
     alt: 'A modern steel and glass long box with an angular kink in the middle. It is seven stories high with a large coverered entrance and a punctuation for a roof deck on the east-facing façade. The modern building is effecient up to a LEED Gold rating. '
+    sizes: '1440, 900'
   - url: wexford-jh-2017-10-02.jpg
+    sizes: '1440, 900'
   - url: wexford-jh-2017-11-01.jpg
+    sizes: '1200, 900'
   - url: wexford-jh-2017-11-02.jpg
+    sizes: '1200, 900'
   - url: wexford-jh-2017-12-01.jpg
+    sizes: '1440, 900'
   - url: wexford-jh-2018-01-01.jpg
+    sizes: '1200, 900'
   - url: wexford-jh-2018-03-01.jpg
+    sizes: '1200, 900'
   - url: wexford-jh-2018-03-02.jpg
     caption: 'Interestingly, this is a view that can no longer be had because a new project occupies the greenspace in the foreground'
+    sizes: '1440, 900'
   - url: wexford-jh-2018-03-03.jpg
+    sizes: '1200, 900'
   - url: wexford-jh-2018-03-04.jpg
     caption: 'The “Topping off” ceremony on March 27, 2018, where a signed piece of iron went into place to signify that last bit of the top-most structure is in place'
+    sizes: '1200, 900'
   - url: wexford-jh-2018-04-01.jpg
+    sizes: '1200, 900'
   - url: wexford-jh-2018-05-01.jpg
+    sizes: '1440, 900'
   - url: wexford-jh-2018-07-01.jpg
+    sizes: '1440, 900'
   - url: wexford-jh-2018-09-01.jpg
+    sizes: '1200, 900'
   - url: wexford-jh-2018-09-02.jpg
+    sizes: '1440, 900'
   - url: wexford-jh-2018-09-03.jpg
+    sizes: '1200, 900'
   - url: wexford-jh-2018-09-04.jpg
     caption: 'Progress on the Pedestrian bridge as seen from the sixth floor of the Wexford building'
+    sizes: '1440, 900'
   - url: wexford-jh-2018-09-05.jpg
+    sizes: '1440, 900'
   - url: wexford-jh-2018-09-06.jpg
+    sizes: '1440, 900'
   - url: wexford-jh-2018-09-07.jpg
     caption: 'Looking down and north from the fifth floor towards 72 Clifford Street (left) and Nabsys at 60 Cliffird Street (center right) with foundation construction on the Garrahy Judicial Complex Parking Garage underway'
+    sizes: '1200, 900'
   - url: wexford-jh-2018-09-08.jpg
     caption: 'Looking down and south from the fifth floor with Dune Brothers right below'
+    sizes: '1200, 900'
   - url: wexford-jh-2018-09-09.jpg
+    sizes: '1440, 900'
   - url: wexford-jh-2018-09-10.jpg
+    sizes: '1200, 900'
   - url: wexford-jh-2019-03-01.jpg
+    sizes: '1440, 900'
   - url: wexford-jh-2020-02-01.jpg
+    sizes: '1200, 900'
 
 imagescredit:
 
@@ -76,25 +101,25 @@ mostrecentimage: 2020-02-01
 
 ### Proposal
 
-The Wexford Science & Innovation Center is the first foray into Rhode Island for the technology-focused Wexford development company. The company has spearheaded over 50 properties in their 15 years in business (2021) to create what they call “knowledge communities.” The company was formed to meet the specialized real estate needs of universities and research institutions, so they partnered with Brown University and interested private business partners to create and plan the building. 
+The Wexford Science & Innovation Center is the first foray into Rhode Island for the technology-focused Wexford development company. The company has spearheaded over 50 properties in their 15 years in business (2021) to create what they call “knowledge communities.” The company was formed to meet the specialized real estate needs of universities and research institutions, so they partnered with Brown University and interested private business partners to create and plan the building.
 
-[Ayers Saint Gross Architects](//ayerssaintgross.com/portfolio/providence-innovation-center/){:target="_blank"} were hired to design the $88 million project featuring seven stories, 196k square feet, 31,000 square foot floor plates with 13 foot ceiling clearance, and a Gold <abbr title="Leadership in Energy and Environmental Design (LEED)">LEED</abbr> rating. Shawmut Construction built it in less than two years, with a groundbreaking in October of 2017, a topping off in March of 2018, and a ribbon-cutting in July of 2019. The building’s design has won an award from the American Institute of Architects (<span class="abbr">AIA</span>), Maryland chapter, and the Providence Preservation Society’s Award for Leadership In New Construction. 
+[Ayers Saint Gross Architects](//ayerssaintgross.com/portfolio/providence-innovation-center/){:target="_blank"} were hired to design the $88 million project featuring seven stories, 196k square feet, 31,000 square foot floor plates with 13 foot ceiling clearance, and a Gold <abbr title="Leadership in Energy and Environmental Design (LEED)">LEED</abbr> rating. Shawmut Construction built it in less than two years, with a groundbreaking in October of 2017, a topping off in March of 2018, and a ribbon-cutting in July of 2019. The building’s design has won an award from the American Institute of Architects (<span class="abbr">AIA</span>), Maryland chapter, and the Providence Preservation Society’s Award for Leadership In New Construction.
 
-The building was constructed on [land opened up by the I-195 redevelopment project](//www.195district.com/about/district-land/){:target="_blank"}, as the former highway was removed where it once cut through the Jewelry District. The Wexford Center was one of the first parcels to break ground in this new District, after winning approval by the I-195 Redevelopment District Commission in late 2016. Both Parcels 22 and 25 are owned and developed by Wexford Science & Technology of Baltimore, Maryland, and CV Properties LLC, of Boston and Southport, Connecticut. Parcel 25 is currently parking, Parcel 22 lot 1 is Point225, and Parcel 2 lot 2 is being developed into the Aloft Hotel. Wexford Properties has developed Point225, [South Street Landing]({% link _property/south-street-power.md %}), and 2/3 [Davol Square]({% link _property/davol-rubber-company.md %}) [source](//wexfordscitech.com/community/providence-innovation-design-district/){:target="_blank"} in collaboration with its anchor tenants. It also has a controlling interest in River House which houses many students who work and learn at these locations. 
+The building was constructed on [land opened up by the I-195 redevelopment project](//www.195district.com/about/district-land/){:target="_blank"}, as the former highway was removed where it once cut through the Jewelry District. The Wexford Center was one of the first parcels to break ground in this new District, after winning approval by the I-195 Redevelopment District Commission in late 2016. Both Parcels 22 and 25 are owned and developed by Wexford Science & Technology of Baltimore, Maryland, and CV Properties LLC, of Boston and Southport, Connecticut. Parcel 25 is currently parking, Parcel 22 lot 1 is Point225, and Parcel 2 lot 2 is being developed into the Aloft Hotel. Wexford Properties has developed Point225, [South Street Landing]({% link _property/south-street-power.md %}), and 2/3 [Davol Square]({% link _property/davol-rubber-company.md %}) [source](//wexfordscitech.com/community/providence-innovation-design-district/){:target="_blank"} in collaboration with its anchor tenants. It also has a controlling interest in River House which houses many students who work and learn at these locations.
 
 
 ### Design Reception
 
-Unlike some of the construction projects during the boom of 2000 to 2008, the aesthetics of this property did not meet with much pushback. With the open land in the Jewelry District, many residents and advocates for smart development were in favor of a modern, <span class="abbr">LEED</span>-certified building like this one to provide contrast as one moves from the historic downtown and into the historic Jewelry District. 
+Unlike some of the construction projects during the boom of 2000 to 2008, the aesthetics of this property did not meet with much pushback. With the open land in the Jewelry District, many residents and advocates for smart development were in favor of a modern, <span class="abbr">LEED</span>-certified building like this one to provide contrast as one moves from the historic downtown and into the historic Jewelry District.
 
-We think the design is pleasing enough, modern in a classic, simple way, and not gaudy or overly shiny. The bend in the middle provides some visual interest, while each façade has a slightly different window pattern — all glass with very little obstruction on the river-facing east, a gradually diminishing pattern on the north, a regularly spaced pattern on the south with a floating corner effect on one side, and a regularly spaced pattern on the west. It is subtle but it gives each side a little bit of variety. For interior users of the space, views towards the river and residential hills on the east are highlighted by having the most glass on that side. 
+We think the design is pleasing enough, modern in a classic, simple way, and not gaudy or overly shiny. The bend in the middle provides some visual interest, while each façade has a slightly different window pattern — all glass with very little obstruction on the river-facing east, a gradually diminishing pattern on the north, a regularly spaced pattern on the south with a floating corner effect on one side, and a regularly spaced pattern on the west. It is subtle but it gives each side a little bit of variety. For interior users of the space, views towards the river and residential hills on the east are highlighted by having the most glass on that side.
 
 
 ### In the News
 
 #### Innovation Center, future home of Brown’s School of Professional Studies, breaks ground
 
-_by O'rya Hyde-Keller_  
+_by O'rya Hyde-Keller_
 **Brown.edu** | September 25, 2017 (abridged)
 
 To celebrate the groundbreaking for a new Innovation Center on former Interstate 195 land in the heart of Providence’s Jewelry District, Brown University President Christina Paxson joined Rhode Island Governor Gina Raimondo, the state’s entire congressional delegation and a packed lineup of government and business leaders on Monday, Sept. 25.

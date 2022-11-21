@@ -34,25 +34,41 @@ thumbnail: second-universalist-jh-2004-02-02.jpg
 images:
   - url: second-universalist-ppl-1920c.jpg
     caption: 'Emery’s Congress Alleys were in business at the corner of Eddy and Westminster from about 1910-1935 offering bowling and billiards during the heyday of Weybosset Street in Providence as an entertainment district. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library.'
+    sizes: '1600, 900'
   - url: safari-lounge-and-peanuts.jpg
     caption: 'Photo by Betsy von Die, circa 1970s'
+    sizes: '502, 691'
   - url: second-universalist-jh-2004-02-01.jpg
+    sizes: '1200, 900'
   - url: second-universalist-jh-2004-02-02.jpg
+    sizes: '1200, 900'
   - url: second-universalist-jh-2004-02-03.jpg
+    sizes: '1200, 900'
   - url: second-universalist-jh-2006-05-01.jpg
+    sizes: '1200, 900'
   - url: second-universalist-jh-2006-05-02.jpg
+    sizes: '1200, 900'
   - url: second-universalist-jh-2006-05-03.jpg
+    sizes: '1200, 900'
   - url: second-universalist-jh-2006-05-04.jpg
+    sizes: '1200, 900'
   - url: second-universalist-jn-2006-05-01.jpg
     caption: 'Photo by Jef Nickerson, May 2006'
+    sizes: '853, 639'
   - url: second-universalist-jh-2006-05-05.jpg
+    sizes: '800, 1067'
   - url: second-universalist-jh-2006-05-06.jpg
+    sizes: '800, 1067'
   - url: second-universalist-jh-2006-05-07.jpg
+    sizes: '1200, 900'
   - url: safari-lounge-sign.jpg
     caption: 'Flickr user Van'
+    sizes: '288, 500'
   - url: second-universalist-jh-2007-01-01.jpg
+    sizes: '1200, 900'
   - url: second-universalist-goog-2015-01.jpg
     caption: 'Google Streetview from September 2015'
+    sizes: '1024, 640'
 
 imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%3A4813" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library; <a href="http://www.consumergrouch.com/?p=6191" target="_blank">Betsey von Die</a>, and Google Streetview'
 ---

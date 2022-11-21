@@ -33,30 +33,52 @@ thumbnail: grant-jh-2010-10-01.jpg
 
 images:
   - url: grant-pawtlib-1983-01.jpg
-    caption: 'Collection of the Pawtucket Library — Photo circa 1983, as Main Street was redesigned as a pedestrain mall with a covered sidewalk'
-    alt: 'A two story commercial building faced in wood panels and yello brick with a crenellated roofline. Ground floor commercial steel-frame windows and doors open into a 9000 square foot commercial space divided into a dozen or so spaces with central skylit atrium. Wide steel-frame, concrete stairs with iron-railings lead down to a similar floor plan in a basement.'
+    alt: 'A two story commercial building faced in wood panels and yellow brick with a crenellated roofline. Ground floor commercial steel-frame windows and doors open into a 9000 square foot commercial space divided into a dozen or so offices with central skylit atrium. Wide steel-frame, concrete stairs with iron-railings lead down to a similar basement floor plan.'
+    caption: 'Collection of the Pawtucket Library — Photo circa 1983, as Main Street was redesigned as a pedestrain mall with a covered sidewalk'
+    sizes: '1440, 900'
   - url: grant-pawtlib-1983-02.jpg
-    caption: 'Collection of the Pawtucket Library — Photo circa 1983, interior of the Mill River Arcade'
+    caption: 'Collection of the Pawtucket Library — Photo circa 1983, interior of the Mill River Arcade'
+    sizes: '1200, 900'
   - url: grant-jh-2005-11-01.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2005-11-02.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2005-11-03.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2005-11-04.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2005-11-05.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2005-11-06.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2005-11-07.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2005-12-01.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2005-12-02.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2005-12-03.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2005-12-04.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2006-04-01.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2006-04-02.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2007-04-01.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2007-04-02.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2007-04-03.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2007-04-04.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2007-04-05.jpg
+    sizes: '1200, 900'
   - url: grant-jh-2007-05-01.jpg
+    sizes: '1440, 900'
   - url: grant-jh-2010-10-01.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/sets/72157674227599495/" target="_blank">Pawtucket Library collection on Flickr</a>'
 
@@ -69,28 +91,28 @@ mostrecentimage: 2010-10-01
 
 ### Redevelopment
 
-This 60 foot wide and 160 foot deep commercial building has the bones to be a perfect reflection of its time. At its birth, it was one of many department stores in Downtown Pawtucket, a retail mecca steps away from the hardest working river in New England. By the 1970s, downtown had lost its luster for mid-size single tenant retail in favor of larger stores like the new [Apex]({% link _property/apex-pawtucket.md %}) and Peerless up the street. 
+This 60 foot wide and 160 foot deep commercial building has the bones to be a perfect reflection of its time. At its birth, it was one of many department stores in Downtown Pawtucket, a retail mecca steps away from the hardest working river in New England. By the 1970s, downtown had lost its luster for mid-size single tenant retail in favor of larger stores like the new [Apex]({% link _property/apex-pawtucket.md %}) and Peerless up the street.
 
-Since the late 70s the building has been subdivided into smaller units and has been used for retail, office, studio, and restaurant space. The building has also benefitted from a “theme” — something that tenants can gather around and fit to a purpose, and something that can be a destination for visitors in its own right. In the early 2000s it was hip-hop themed. In the late 2000s and up until 2018 it was centered around creative businesses. And now, since 2019, it is part of a larger revitalization of downtown as small business incubator and community-led endeavors. 
+Since the late 70s the building has been subdivided into smaller units and has been used for retail, office, studio, and restaurant space. The building has also benefitted from a “theme” — something that tenants can gather around and fit to a purpose, and something that can be a destination for visitors in its own right. In the early 2000s it was hip-hop themed. In the late 2000s and up until 2018 it was centered around creative businesses. And now, since 2019, it is part of a larger revitalization of downtown as small business incubator and community-led endeavors.
 
 
 ### Current Events
 
-“[Stil on Main](//www.stillonmain.shop){:target="_blank"}” is open most days with a variety of tenants. Still on Main is named for [William Grant Still](//en.wikipedia.org/wiki/William_Grant_Still){:target="_blank"}, 1896–1978, a musician and composer of nearly 200 works who was known as the “Dean of Afro-American Composers.” 
+“[Stil on Main](//www.stillonmain.shop){:target="_blank"}” is open most days with a variety of tenants. Still on Main is named for [William Grant Still](//en.wikipedia.org/wiki/William_Grant_Still){:target="_blank"}, 1896–1978, a musician and composer of nearly 200 works who was known as the “Dean of Afro-American Composers.”
 
 
 ### History
 
 _From J. and Michael Lozano, former owners_
 
-The title records for the property go back to 1934, when it was a WT Grant department store. The WT Grant Company occupied it until the mid seventies, but even as a WT Grant department store, the title listed multiple tenants for the property. This continued into the eighties and nineties, when the building was known as the Mill River Arcade (<span class="abbr">MRA</span>). [In 1980 the portion of Main Street in front of WT Grant’s was turned into a pedestrian mall](//www.flickr.com/photos/pawtucketlibrary/28901786014/in/album-72157667646354770/){:target="_blank"}, much like [Westminster St in downtown Providence 20 years earlier](//provlibdigital.org/islandora/object/islandora%3A22693){:target="_blank"}. It was a failure, and in the late 80s it was opened to vehicular traffic and by 1992 all remnants of the canopy were removed. 
+The title records for the property go back to 1934, when it was a WT Grant department store. The WT Grant Company occupied it until the mid seventies, but even as a WT Grant department store, the title listed multiple tenants for the property. This continued into the eighties and nineties, when the building was known as the Mill River Arcade (<span class="abbr">MRA</span>). [In 1980 the portion of Main Street in front of WT Grant’s was turned into a pedestrian mall](//www.flickr.com/photos/pawtucketlibrary/28901786014/in/album-72157667646354770/){:target="_blank"}, much like [Westminster St in downtown Providence 20 years earlier](//provlibdigital.org/islandora/object/islandora%3A22693){:target="_blank"}. It was a failure, and in the late 80s it was opened to vehicular traffic and by 1992 all remnants of the canopy were removed.
 
-A young man by the name of Paris master-leased the building from Louis Yip and created POAMlands (Prospectors and then Preachers on a Mission, a Christian Hip-Hop theme) during the early ought’s. It was full of hip-hop culture-related businesses — a record shop, recording studio, women’s and men’s fashion, and a barber. In the basement would be late night DJ sets. In late 2004 a pipe burst on the unoccupied second floor, flooding the 9000 sq ft basement with up to two feet of water. This was around the same time that the former DMV next door suffered from a burst pipe and the DMV was forced to move to the Apex building. A barber shop on the first floor was the last business to leave POAM in late 2005. 
+A young man by the name of Paris master-leased the building from Louis Yip and created POAMlands (Prospectors and then Preachers on a Mission, a Christian Hip-Hop theme) during the early ought’s. It was full of hip-hop culture-related businesses — a record shop, recording studio, women’s and men’s fashion, and a barber. In the basement would be late night DJ sets. In late 2004 a pipe burst on the unoccupied second floor, flooding the 9000 sq ft basement with up to two feet of water. This was around the same time that the former DMV next door suffered from a burst pipe and the DMV was forced to move to the Apex building. A barber shop on the first floor was the last business to leave POAM in late 2005.
 
 
 _From the National Register nomination for the Downtown Pawtucket Historic District, Kathy Cavanaugh, 2006_
 
-250-254 Main Street — **W.T. Grant Building**, now POAMLANDS MALL (1934; altered mid-late 20th century). A 2-story, flat-roof, 5-bay, yellow brick and terra cotta commercial building, with 2 storefronts (altered). The 1st floor level is clad in terra cotta, and all the trim is terra cotta as well: the storefront and rooftop cornices, the upper floor window surrounds, and the ornamentation on the stepped brick parapet, including a sign band with carved lettering reading “W.T. Grant Building” at the cornice line. The storefronts likely date from the renovation of this building from a department store to a shopping mall (by 1984), but most of their elements (bulkheads, pilasters, columns, and doors) are wood; the metal-framed storefront windows angle back from the plane of the façade to a recessed center entrance of double doors behind two freestanding columns. A large terra cotta band containing a wooden signboard is mounted above the storefronts. Windows on the 2nd floor are 9/9 double hung wood sash organized in alternating groups of threes and twos. The building’s interior (seen through the main entrance) has tin ceilings, metal columns, wood floors, and a basement stairway with a decorative metal railing, all of which are likely original; the subdivision of the interior space was done sometime in the 3rd quarter of the 20th century. 
+250-254 Main Street — **W.T. Grant Building**, now POAMLANDS MALL (1934; altered mid-late 20th century). A 2-story, flat-roof, 5-bay, yellow brick and terra cotta commercial building, with 2 storefronts (altered). The 1st floor level is clad in terra cotta, and all the trim is terra cotta as well: the storefront and rooftop cornices, the upper floor window surrounds, and the ornamentation on the stepped brick parapet, including a sign band with carved lettering reading “W.T. Grant Building” at the cornice line. The storefronts likely date from the renovation of this building from a department store to a shopping mall (by 1984), but most of their elements (bulkheads, pilasters, columns, and doors) are wood; the metal-framed storefront windows angle back from the plane of the façade to a recessed center entrance of double doors behind two freestanding columns. A large terra cotta band containing a wooden signboard is mounted above the storefronts. Windows on the 2nd floor are 9/9 double hung wood sash organized in alternating groups of threes and twos. The building’s interior (seen through the main entrance) has tin ceilings, metal columns, wood floors, and a basement stairway with a decorative metal railing, all of which are likely original; the subdivision of the interior space was done sometime in the 3rd quarter of the 20th century.
 
 The Grant Building replaced an earlier commercial building known as the Cohen Block — home to, among other businesses, Adolph Cohen boots and shoes — which appears on maps and in directories at this location from 1890 to 1933. The W.T. Grant Company department store is first listed at this address in 1934, and remained in business until 1974, one of several major department stores on Main Street in the early-mid 20th century. By 1984 the **Mill River Arcade** shopping center, with 22 tenants, was here. The building has recently been sold and is slated for occupancy by restaurants and design businesses. […]
 
@@ -120,7 +142,7 @@ The building opens officially for business in January of 2007.
 
 #### Downtown’s Still on Main opens to the public
 
-_by Ethan Shorey_  
+_by Ethan Shorey_
 **Valley Breeze** | July 16, 2019 (abridged)
 
 The foundation for a successful downtown mall is now here, with a great location, staff and entrepreneurs in place, said owner Leslie Moore at Monday’s ribbon-cutting ceremony at Still on Main, 250 Main St.
