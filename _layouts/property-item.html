@@ -15,7 +15,6 @@ layout: default
           {%- endfor -%}
           {%- assign prev_index = item_index | minus: 1 -%}
           {%- assign next_index = item_index | plus: 1 -%}
-          
           {%- comment -%} Loop again, this time, find the items with the prev and next indices {%- endcomment -%}
           {%- for property in properties -%}
             {%- if forloop.index == prev_index -%}
@@ -25,8 +24,8 @@ layout: default
               {%- assign next = property -%}
             {%- endif -%}
           {%- endfor -%}
-          {% if prev %}<a class="prev-next__prev" href="/property/{{ prev.slug }}/" title="{{ prev.title }}"><span aria-hidden="true">&lt;</span><span class="prev-next__text">Previous</span><span class="u__sr-only"> property</span></a>{% endif %}
-          {% if next %}<a class="prev-next__next" href="/property/{{ next.slug }}/" title="{{ next.title }}"><span class="prev-next__text">Next</span><span class="u__sr-only"> property</span><span aria-hidden="true">&gt;</span></a>{% endif %}
+          {% if prev %}<a id="gtm-prev-trigger" class="prev-next__prev" href="/property/{{ prev.slug }}/" title="{{ prev.title }}"><span aria-hidden="true">&lt;</span><span class="prev-next__text">Previous</span><span class="u__sr-only"> property</span></a>{% endif %}
+          {% if next %}<a id="gtm-next-trigger" class="prev-next__next" href="/property/{{ next.slug }}/" title="{{ next.title }}"><span class="prev-next__text">Next</span><span class="u__sr-only"> property</span><span aria-hidden="true">&gt;</span></a>{% endif %}
           <span id="js-random"></span>
         </nav>
 
@@ -41,8 +40,8 @@ layout: default
                 <h1 class="content__title item__title u__mb--0">{{ page.title }}</h1>
               </div>
               <div class="u__vertical__pb u__gutter__p">
-                {%- if page.aka -%}<p class="h6 item__aka">also known as {{ page.aka }}</p>{%- endif -%}
-                {%- if page.excerpt -%}<p class="item__excerpt">{{ page.excerpt }}</p>{%- endif -%}
+                {% if page.aka %}<p class="h6 item__aka">also known as {{ page.aka }}</p>{% endif %}
+                {% if page.excerpt %}<p class="item__excerpt">{{ page.excerpt }}</p>{% endif %}
                 {%- if page.categories contains '#DemolitionAlert' -%}
                   {%- if page.update -%}
                 <div class="demolition-alert">
@@ -57,13 +56,17 @@ layout: default
               <h2 class="o__title--sm item__gallery__title u__sr-only">Images of this Property</h2>
             {%- for image in page.images -%}
               {%- if forloop.first -%}
-              <ul class="u__list__unstyled u__vertical__p u__gutter__p item__gallery__wrap">
+              <ul class="u__list__unstyled u__vertical__p u__gutter__p item__gallery__wrap js-scrolling-panel">
               {%- endif -%}
               {%- assign imageslug = image.url | split: '.' -%}
+              {%- assign imagesrc = site.prod_url | append: site.propimg_path | append: page.slug | append: '/' | append: image.url -%}
+              {%- if image.sizes -%}
+                {%- assign imagessizes = image.sizes | split: ',' -%}
+              {%- endif -%}
                 <li id="photo-{{ imageslug[0] }}">
                   <figure class="item__gallery__figure">
-                    <a data-fslightbox="air-lightbox" data-type="image" {%- if image.caption -%}data-caption="{{ image.caption }}"{%- endif -%} href="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/{{ image.url }}" role="button" aria-label="Link opens image in a larger pop-over">
-                      <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/{{ image.url }}" alt="{%- if image.alt -%}{{ image.alt }}{%- endif -%}" loading="{% if forloop.first == true %}eager{% else %}lazy{% endif %}" decoding="async" />
+                    <a data-fslightbox="air-lightbox" data-type="image" {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} href="{{ imagesrc }}" role="button" aria-label="Link opens image in a larger pop-over">
+                      <img class="js-lazy" {% if forloop.index > 4 %}data-{% endif %}src="{{ imagesrc }}" alt="{% if image.alt %}{{ image.alt }}{% endif %}" {% if image.sizes %}width="{{ imagessizes[0] | strip }}" height="{{ imagessizes[1] | strip }}"{% else %}{% imagesize imagesrc:props %}{% endif %} />
                     </a>
                     {%- if image.caption -%}
                     <figcaption class="item__gallery__caption">
@@ -77,11 +80,11 @@ layout: default
               <div class="u__vertical__pb u__gutter__p item__gallery__credits">
                 <p><b>{{ forloop.length }} images:</b> <small>Press to view larger or scroll sideways to see more. {{ page.imagescredit }}</small></p>
             {%- if page.external.size > 0 -%}
-                <p class="item__external"><small>Copyright prevents the display of these images:</small> 
-                {% for external in page.external %}
-                  {% unless forloop.first %}, {%- endunless %}
+                <p class="item__external"><small>Copyright prevents the display of these images:</small>
+                {%- for external in page.external -%}
+                  {%- unless forloop.first %}, {%- endunless -%}
                   <a href="{{ external.url }}" target="_blank">{{ external.source }}</a>
-                {% endfor %}
+                {%- endfor -%}
                 </p>
           {%- endif -%}
               </div>
@@ -101,20 +104,20 @@ layout: default
               <ul class="item__cats u__list__unstyled">
                 <li class="item__cats__item item__cats__location">
                 {%- if page.address.size > 0 -%}
-                  <strong>Address: </strong> 
-                  {%- if page.gmap.size > 0 -%}<a href="{{ page.gmap }}" target="_blank" rel="nofollow" title="Open Google Maps in a new window">{%- endif -%}{{ page.address }}{%- if page.gmap.size > 0 -%}</a>{%- endif -%}<br>
+                  <strong>Address: </strong>
+                  {% if page.gmap.size > 0 %}<a href="{{ page.gmap }}" target="_blank" rel="nofollow" title="Open Google Maps in a new window">{% endif %}{{ page.address }}{% if page.gmap.size > 0 %}</a>{% endif %}<br>
                 {%- endif -%}
                 {%- assign neighborhoods = page.neighborhoods -%}
                 {%- if neighborhoods.size > 0 -%}
-                  <strong>{%- if neighborhoods.size >= 2 -%}Neighborhoods{%- else -%}Neighborhood{%- endif -%}: </strong> 
+                  <strong>Neighborhood{% if neighborhoods.size >= 2 %}s{% endif %}: </strong>
                   {%- for neighborhood in neighborhoods -%}
-                  <a href="/neighborhood/{{ neighborhood | replace: '.', '' | slugify }}/">{{ neighborhood }}</a>{%- unless forloop.last -%}, {%- endunless -%}<br>
+                  <a href="/neighborhood/{{ neighborhood | replace: '.', '' | slugify }}/">{{ neighborhood }}</a>{% unless forloop.last %}, {% endunless %}<br>
                   {%- endfor -%}
                 {%- endif -%}
                 {%- if page.town.size > 0 -%}
-                  <strong>{%- if page.town.size >= 2 -%}Towns{%- else -%}Town{%- endif -%}: </strong> 
+                  <strong>Town{% if page.town.size >= 2 %}s{% endif %}: </strong>
                   {%- for town in page.town -%}
-                  <a href="/town/{{ town | replace: '.', '' | slugify }}/">{{ town }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+                  <a href="/town/{{ town | replace: '.', '' | slugify }}/">{{ town }}</a>{% unless forloop.last %}, {%- endunless -%}
                   {%- endfor -%}
                 {%- endif -%}
                 </li>
@@ -129,7 +132,7 @@ layout: default
                   <strong>Decade Built: </strong> <a href="/decade/{{ page.decade | replace: '.', '' | slugify }}/">{{ page.decade }}</a><br>
                 {%- endif -%}
                 {%- if page.demolition.size > 0 -%}
-                  <strong>Demolition: </strong> {%- if page.demolition.size <= 8 -%}<a href="/demolition/{{ page.demolition | replace: '.', '' | slugify }}/">{{ page.demolition }}</a>{%- else -%}{{ page.demolition }}{%- endif -%}<br>
+                  <strong>Demolition: </strong> {% if page.demolition.size <= 8 %}<a href="/demolition/{{ page.demolition | replace: '.', '' | slugify }}/">{{ page.demolition }}</a>{% else %}{{ page.demolition }}{% endif %}<br>
                 {%- endif -%}
                 {%- if page.closed.size > 0 -%}
                   <strong>Closed: </strong> {{ page.closed }}<br>
@@ -144,7 +147,7 @@ layout: default
                 {%- assign designers = page.designers -%}
                 {%- if designers.size > 0 -%}
                 <li class="item__cats__item item__cats__designers">
-                  <strong>{%- if designers.size >= 2 -%}Designers{%- else -%}Designer{%- endif -%}: </strong> 
+                  <strong>Designer{% if designers.size >= 2 %}s{% endif %}: </strong>
                   {%- for designer in designers -%}
                     {%- assign length = forloop.length -%}
                     {%- assign secondtolast = length | minus: 1 -%}
@@ -157,18 +160,18 @@ layout: default
                   {%- assign tags = page.tags -%}
                 <li class="item__cats__item item__cats__cats">
                   {%- if categories.size > 0 -%}
-                  <p><strong>{%- if categories.size >= 2 -%}Categories{%- else -%}Category{%- endif -%}: </strong> 
+                  <p><strong>{% if categories.size >= 2 %}Categories{% else %}Category{% endif %}: </strong>
                     {%- for category in categories -%}
-                    <a href="/category/{{ category | replace: '.', '' | slugify }}/">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+                    <a href="/category/{{ category | replace: '.', '' | slugify }}/">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
                     {%- endfor -%}
                   </p>
                 </li>
                 {%- endif -%}
                 {%- if tags.size > 0 -%}
                 <li class="item__cats__item item__cats__tags{% if tags.size >= 3 %} item__cats__wide{% elsif page.superlative.size > 0 %} item__cats__wide{% endif %}">
-                  <p><strong>{%- if tags.size > 1 -%}Tags{%- else -%}Tag{%- endif -%}: </strong> 
+                  <p><strong>Tag{% if tags.size > 1 %}s{% endif %}: </strong>
                     {%- for tag in tags -%}
-                    <a href="/tag/{{ tag | replace: '.', '' | slugify }}/">{{ tag }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+                    <a href="/tag/{{ tag | replace: '.', '' | slugify }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
                     {%- endfor -%}
                     {%- if page.superlative.size > 0 -%}
                     <br><strong>Superlative: </strong> {{ page.superlative }}
@@ -177,7 +180,7 @@ layout: default
                 </li>
                 {%- endif -%}
                 {%- if lists.size > 0 -%}
-                <li class="item__cats__item item__cats__lists{% if lists.size >= 3 %} item__cats__wide{% endif %}"><strong>{% if lists.size >= 2 %}Lists{% else %}List{% endif %}: </strong> 
+                <li class="item__cats__item item__cats__lists{% if lists.size >= 3 %} item__cats__wide{% endif %}"><strong>List{% if lists.size >= 2 %}s{% endif %}: </strong>
                   {%- for list in lists -%}
                     {%- assign length = forloop.length -%}
                     {%- assign secondtolast = length | minus: 1 -%}
@@ -192,7 +195,7 @@ layout: default
                     </p>
                     <p><label for="cite"><abbr title="Modern Language Association">MLA</abbr>- and <abbr title="Chicago Manual of Style">CMS</abbr>-style Citation:</label> <input id="cite" type="text" readonly class="form__input form__input--text form__input--readonly" value="ArtInRuins & public sources. “Property: {{ page.title }},” ArtInRuins.com, updated {{ page.date-modified | date: "%B %e, %Y" }}, https://artinruins.com/property/{{ page.slug }}/. Accessed {{ 'now' | date: '%B %e, %Y' }}." />
                       <span class="form__input--help">Select all to cut and paste citation</span>
-                    </p>                
+                    </p>
                   </details>
                 </li>
               </ul>
@@ -200,15 +203,15 @@ layout: default
             </footer>
             <div id="description" class="item__content rhythm u__vertical__pb u__gutter__p">
               <h2 class="o__title--sm item__content__title">About <span class="u__sr-only">this Property</span></h2>
-              {%- include property-item/content-anchors.html 
-                html=page.content 
-                beforeHeading=true 
-                anchorTitle="Press to bookmark this heading" 
+              {%- include property-item/content-anchors.html
+                html=page.content
+                beforeHeading=true
+                anchorTitle="Press to bookmark this heading"
                 anchorBody="<span>#</span>"
                 h_min=3
                 h_max=3
               -%}
-              
+
             </div>
           </article>
         </main>
@@ -218,12 +221,8 @@ layout: default
 
         <aside id="anecdotes" class="anec">
           {%- if anecdotes.size > 0 -%}
-            {%- assign anecdotes_text = 'Anecdote' -%}
-            {%- if anecdotes.size > 1 -%}
-              {%- assign anecdotes_text = 'Anecdotes' -%}
-            {%- endif -%}
           <div class="u__vertical__p u__gutter__p">
-            <h2 class="o__title--sm anec__title"><span role="text">{{ anecdotes.size }} {{ anecdotes_text }} <span class="u__sr-only">from people like you</span></span></h2>
+            <h2 class="o__title--sm anec__title"><span role="text">{{ anecdotes.size }} Anecdote{% if anecdotes.size > 1 %}s{% endif %} <span class="u__sr-only">from people like you</span></span></h2>
             <ul class="u__list__unstyled anec__list" role="list">
             {%- for anecdote in anecdotes -%}
               <li id="{{ anecdote.date | date: "%Y-%m-%d" }}" class="anec__list__item">
@@ -240,7 +239,7 @@ layout: default
             </ul>
           </div>
           {%- endif -%}
-          
+
           <section id="add-your-anecdote" class="u__vertical__p u__gutter__p rhythm anec__form__wrapper">
             <h2 class="o__title--sm anec__form__title">Leave an Anecdote</h2>
             <p>The information about each building grows as visitors let us know about their experiences. Did you or a member of your family work here? Did you grow up near it as a child? Let us know. All entries will be moderated and may be posted in an edited form. We will use your name unless you tell us otherwise. <i>We will not make your email public</i>.</p>

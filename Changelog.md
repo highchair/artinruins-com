@@ -3,6 +3,13 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2022-11-19
+
+Added
++ Javascript helper library to lazy load images in side-scrolling galleries on Property pages. It seems that native browser lazy load does not work on horizontal scrolling containers, which is why AIR bandwidth usage is so high
++ Jekyll plugin `jekyll-image-size` to calculate the size of images into the image tags for the galleries. The downside to this plugin is that now rebuilds of all property files is super slow (17+ minutes!) — but granted, with incremental builds, we rarely have to rebuild the entire 300+ property files
++ To avoid the long build times, the property Liquid files will now track image sizes. A file names `property-img-sizes.html` can help calculate the image sizes and output the correct Liquid array for urls, captions, alt tags, and sizes.
+
 ## 2022-11-12
 
 Added

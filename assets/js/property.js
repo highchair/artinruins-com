@@ -126,6 +126,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const surprise = document.getElementById('js-random');
   if (surprise !== null && surprise !== '') {
     let a = document.createElement('a');
+    a.id = '#gtm-surprise-trigger';
     a.innerHTML = ('Surprise Me <span aria-hidden="true">!</span>');
     a.href = "/property/" + randomItem.slug;
     surprise.appendChild(a);
@@ -135,6 +136,11 @@ document.addEventListener("DOMContentLoaded", function() {
   fsLightboxInstances['air-lightbox'].props.slideshowTime = 6000;
   fsLightboxInstances['air-lightbox'].props.zoomIncrement = 1.0;
 
+  // Initialize lazy load on Property pages
+  const lazyLoadInstance = new LazyLoad({
+    container: document.querySelector(".js-scrolling-panel"),
+    elements_selector: "#gallery .js-lazy"
+  });
 
   // Find nearest locations to a current property
   const nearby = document.getElementById('js-nearby');

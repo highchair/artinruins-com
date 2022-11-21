@@ -79,14 +79,15 @@
     &::-webkit-scrollbar {
       background: palette('brand-dark-brown');
     }
-    
+
     &::-webkit-scrollbar-thumb {
       background: palette('brand-orange');
     }
 
     img {
-      max-height: 50vmin;
+      max-height: 66vmin;
       max-width: none;
+      width: auto;
     }
 
     /*ul*/&__wrap {
@@ -213,15 +214,15 @@
     }
 
     &__citation {
-      
+
       summary {
         margin-bottom: 0;
-      }  
-      
+      }
+
       abbr[title] {
         font-size: 100%;
       }
-      
+
       input {
         @include ff-sans(false);
         font-size: 87.5%;
@@ -238,7 +239,7 @@
         padding: 0.5em 0.75em;
         flex: 1 0 50%;
       }
-      
+
       &__wide {
         flex: 1 0 100%;
       }
@@ -323,9 +324,9 @@
       display: none;
     }
   }
-  
+
   &__nearby {
-    
+
     .taxonomy__card-title {
       // Here we use an H3 and an h5 class instead of an H2 so we lose some styles
       font-family: $font-stack__serif;
