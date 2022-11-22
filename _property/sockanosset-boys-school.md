@@ -2,13 +2,15 @@
 title: "Sockanosset Boys Training School"
 slug: sockanosset-boys-school
 aka: "Chapel View"
-date-modified: 2020-06-09 22:00
+date-modified: 2020-11-22 15:00
+update: 'Added three vintage photos from a Facebook post by Larry DePetrillo'
+update-image: sockanosset-undated-shop.jpg
 
 built: 1881-1891
 demolition:
-redeveloped: 2004
+redeveloped: '2004'
 decade: '1880-1889'
-date-added: 2002
+date-added: '2002'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Cranston, RI' ]
@@ -30,47 +32,84 @@ excerpt: "A collection of Victorian Gothic cottages and a stone chapel turned in
 thumbnail: sockanosset-jh-2002-03-07.jpg
 
 images:
+  - url: sockanosset-undated-gates.jpg
+    caption: 'Vintage photo posted by Larry DePetrillo to Facebook'
+    sizes: '1272, 795'
+  - url: sockanosset-undated-exercises.jpg
+    caption: 'Vintage photo posted by Larry DePetrillo to Facebook'
+    sizes: '1200, 750'
+  - url: sockanosset-undated-shop.jpg
+    caption: 'Vintage photo posted by Larry DePetrillo to Facebook'
+    sizes: '1200, 803'
   - url: sockanosset-mp-2000-01.jpg
-    caption: Photo by Michael Pompilli. 
+    caption: 'Photo by Michael Pompilli'
+    sizes: '980, 735'
   - url: sockanosset-mp-2000-02.jpg
-    caption: Photo by Michael Pompilli. 
+    caption: 'Photo by Michael Pompilli'
+    sizes: '980, 735'
   - url: sockanosset-mp-2000-03.jpg
-    caption: Photo by Michael Pompilli. 
+    caption: 'Photo by Michael Pompilli'
+    sizes: '980, 735'
   - url: sockanosset-mp-2000-04.jpg
-    caption: Photo by Michael Pompilli. 
+    caption: 'Photo by Michael Pompilli'
+    sizes: '980, 735'
   - url: sockanosset-mp-2000-05.jpg
-    caption: Photo by Michael Pompilli. 
+    caption: 'Photo by Michael Pompilli'
+    sizes: '980, 735'
   - url: sockanosset-mp-2000-06.jpg
-    caption: Photo by Michael Pompilli. 
+    caption: 'Photo by Michael Pompilli'
+    sizes: '980, 735'
   - url: sockanosset-mp-2000-07.jpg
-    caption: Photo by Michael Pompilli. 
-  - url: sockanosset-mp-2000-08.jpg. “Sockanosset School Industrial Building, Erected by the Boys, 1912–1914
-    caption: Photo by Michael Pompilli. 
+    caption: 'Photo by Michael Pompilli'
+    sizes: '980, 735'
+  - url: sockanosset-mp-2000-08.jpg
+    caption: 'Photo by Michael Pompilli. Sockanosset School Industrial Building, Erected by the Boys, 1912–1914'
+    sizes: '980, 735'
   - url: sockanosset-mp-2000-09.jpg
-    caption: Photo by Michael Pompilli. 
+    caption: 'Photo by Michael Pompilli'
+    sizes: '980, 735'
   - url: sockanosset-mp-2000-10.jpg
-    caption: Photo by Michael Pompilli. Judge Angelo J. Rossi Memorial building
+    caption: 'Photo by Michael Pompilli. Judge Angelo J. Rossi Memorial building'
+    sizes: '980, 735'
   - url: sockanosset-mp-2000-11.jpg
-    caption: Photo by Michael Pompilli. Judge Angelo J. Rossi Memorial building
+    caption: 'Photo by Michael Pompilli. Judge Angelo J. Rossi Memorial building'
+    sizes: '980, 735'
   - url: sockanosset-jh-2002-03-01.jpg
+    sizes: '1440, 900'
   - url: sockanosset-jh-2002-03-02.jpg
+    sizes: '1440, 900'
   - url: sockanosset-jh-2002-03-03.jpg
+    sizes: '1440, 900'
   - url: sockanosset-jh-2002-03-04.jpg
+    sizes: '1440, 900'
   - url: sockanosset-jh-2002-03-05.jpg
+    sizes: '1440, 900'
   - url: sockanosset-jh-2002-03-06.jpg
+    sizes: '1440, 900'
   - url: sockanosset-jh-2002-03-07.jpg
+    sizes: '1440, 900'
   - url: sockanosset-jh-2002-03-08.jpg
+    sizes: '675, 900'
   - url: sockanosset-jh-2002-03-09.jpg
+    sizes: '1440, 900'
   - url: sockanosset-jh-2002-03-10.jpg
+    sizes: '675, 900'
   - url: sockanosset-jh-2002-03-11.jpg
+    sizes: '1440, 900'
   - url: sockanosset-jh-2002-03-12.jpg
+    sizes: '675, 900'
   - url: sockanosset-sc-2002-08-01.jpg
+    sizes: '480, 640'
   - url: sockanosset-sc-2002-08-02.jpg
+    sizes: '480, 640'
   - url: sockanosset-sc-2002-08-03.jpg
+    sizes: '480, 640'
   - url: sockanosset-sc-2002-08-04.jpg
+    sizes: '480, 640'
   - url: sockanosset-sc-2002-08-05.jpg
+    sizes: '480, 640'
 
-imagescredit: Contributions by Sarah Clover and Michael Pompilli.
+imagescredit: 'Contributions by Larry DePetrillo, Sarah Clover, and Michael Pompilli'
 ---
 
 ### Redevelopment
