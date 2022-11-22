@@ -2,7 +2,9 @@
 title: "Engine Co. #5, Hook and Ladder #7"
 slug: engine-number-5-pvd
 aka: "Tortilla Flats"
-date-modified: 2022-10-07 15:00
+date-modified: 2022-11-21 11:00
+update: 'Added an image via Facebook of Hope Drug from maybe the 1950s'
+update-image: hope-drugstore-undated.jpg
 
 built: '1892'
 demolition:
@@ -33,20 +35,32 @@ thumbnail: engine-5-jh-2020-09-02.jpg
 
 images:
   - url: engine-5-ppl-undated-01.jpg
-    caption: 'Date unknown — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
     alt: 'A wide, low two-story red brick former fire station with interesting details. A stepped triangular portion on one side features a stepped gable end, while other views showcase protruding parapet gables with double doors, and the cornice has a nice brick pattern.'
+    caption: 'Date unknown — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    sizes: '1440, 900'
+  - url: hope-drugstore-undated.jpg
+    caption: 'Date unknown — Photo of Hope Drug, perhaps from the 1950s, supplied via Facebook by Joanne Vincent'
+    sizes: '0, 0'
   - url: engine-5-jh-2020-09-01.jpg
+    sizes: '1440, 900'
   - url: engine-5-jh-2020-09-02.jpg
+    sizes: '1440, 900'
   - url: engine-5-jh-2020-09-03.jpg
+    sizes: '1200, 900'
   - url: engine-5-jh-2020-09-04.jpg
+    sizes: '1440, 900'
   - url: engine-5-jh-2020-09-05.jpg
+    sizes: '1440, 900'
   - url: engine-5-jh-2020-09-06.jpg
+    sizes: '1200, 900'
   - url: engine-5-jh-2020-09-07.jpg
+    sizes: '1200, 900'
   - url: engine-5-jh-2020-09-08.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2020-09-01
 
-imagescredit: 'Contribution from <a href="//provlibdigital.org/islandora/object/islandora%3A5366" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library'
+imagescredit: 'Contribution from <a href="//provlibdigital.org/islandora/object/islandora%3A5366" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library, and Joanne Vincent'
 
 external:
   - source: 'Providence Journal — Historic Photos: The Providence Fire Department'
