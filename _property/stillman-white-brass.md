@@ -34,23 +34,37 @@ thumbnail: stillman-jh-2005-08-02.jpg
 
 images:
   - url: stillman-habs-1971-01.jpg
-    caption: 'Thomas Shola was the Peace and Freedom party candidate for mayor in 1970. He fell 35,000 votes shy of beating Dooley, who won his third term — Photo by Jack Boucher for HABS/HAER and the National Register, 1972'
     alt: 'A small, two-story red brick mill in a trapezoidal flatiron style. The replacement windows on the west wall are double pane but inoperable. Lintels and sills are simple rectangular cast cement and the roofline features a simple cornice of decorative brickwork.'
+    caption: 'Thomas Shola was the Peace and Freedom party candidate for mayor in 1970. He fell 35,000 votes shy of beating Dooley, who won his third term — Photo by Jack Boucher for HABS/HAER and the National Register, 1972'
+    sizes: '1200, 900'
   - url: stillman-habs-1972-01.jpg
     caption: 'Photo for HABS/HAER and the National Register, 1970'
+    sizes: '1200, 900'
   - url: stillman-cs-1975-01.jpg
     caption: '“Moshassuck Square Apartments” 1975, Chester Smolski image collection, Rhode Island College'
+    sizes: '1200, 900'
   - url: stillman-jh-2005-08-01.jpg
+    sizes: '1200, 900'
   - url: stillman-jh-2005-08-02.jpg
+    sizes: '1200, 900'
   - url: stillman-jh-2005-08-03.jpg
+    sizes: '1200, 900'
   - url: stillman-jh-2005-08-04.jpg
+    sizes: '1200, 900'
   - url: stillman-jh-2021-04-01.jpg
+    sizes: '1200, 900'
   - url: stillman-jh-2021-04-02.jpg
+    sizes: '1440, 900'
   - url: stillman-jh-2021-04-03.jpg
+    sizes: '1200, 900'
   - url: stillman-jh-2021-04-04.jpg
+    sizes: '1440, 900'
   - url: stillman-jh-2021-04-05.jpg
+    sizes: '1200, 900'
   - url: stillman-jh-2021-04-06.jpg
+    sizes: '1200, 900'
   - url: stillman-jh-2021-04-07.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions from HABS/HAER, National Register Nomination forms, and <a href="//digitalcommons.ric.edu/smolski_images/191" target="_blank">Chet Smolski</a>'
 
@@ -80,6 +94,7 @@ Set on the east side of Charles Street, just east of the Moshassuck River. It is
 
 This is the foundry complex in which Providence industrialist Stillman White manufactured an anti-friction metal used to line machine bearings. His product was renowned throughout New England during the Industrial Revolution. The Stillman White Brass Foundry continued to operate at this site until 1949. By the early 1970s the building was abandoned. Later in the decade it was rehabilitated for office use (Kulik 1978; RIHPHC 1981:46; RIHPHC data sheet). Along with the [Fletcher Office Building and Warehouse]({% link _property/fletcher-manufacturing.md %}) at 2 Charles Street, it is one of the few remaining nineteenth-century industrial buildings in the once heavily industrialized [Moshassuck Square]({% link list/moshassuck-square-historic-district.html %}) area.
 
+***
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
@@ -87,6 +102,7 @@ One of the oldest brass foundries in Rhode Island, the **Stillman White Foundry*
 
 In 1896, six furnaces, a melting kettle, and a core oven, which could produce 1,500 pounds of finished metal product per day, were in operation. The remaining building, a small, 1-and 2-story brick structure, was built between 1871 and 1876. The structure provided offices for the **Research and Design Institute** (REDE), the group responsible for the building’s adaptive reuse. REDE was originally set up as a non-profit research institute focusing on energy conservation. The foundry was refitted to conserve energy and, in the process, exterior alterations, such as the installation of new thermal windows, and the replacement of granite lintels with cement, were made.
 
+***
 
 _From the National Registration form for Moshassuck Square Historic District, 1972_
 

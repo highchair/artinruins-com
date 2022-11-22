@@ -35,8 +35,11 @@ images:
   - url: station-3-jh-2022-05-01.jpg
     alt: 'A two story, three bay wide red brick building with cast stone accents. Second floor windows are rectangular and in a triple group in the center of the second floor, flanked by single windows above the other two door openings. Opening were originally garage doors and are now sixteen light commercial-style aluminum and steel windows.'
     caption: 'The top-most stone band contains the text “Station No. 3” while the band of stone across the middle reads “East Providence Fire Department”'
+    sizes: '1200, 900'
   - url: station-3-jh-2022-05-02.jpg
+    sizes: '1440, 900'
   - url: station-3-jh-2022-05-03.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2022-05-01
 

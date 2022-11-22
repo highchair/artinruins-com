@@ -28,27 +28,50 @@ thumbnail:
 
 images:
   - url: sutton-motor-neo-2009-06-01.jpg
+    alt: 'A twin screen drive in movie theatre in a state of decay. Two large wooden-clad steel frame screens are on opposite sides of a large parking lot with a central projection booth. A stone entrance flanks a rotting marquee sign with metal letters on top spelling out Sutton Motor In (one letter N)'
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-01.jpg
+    sizes: '768, 1024'
   - url: sutton-motor-kap-2009-08-02.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-03.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-04.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-05.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-06.jpg
+    sizes: '768, 1024'
   - url: sutton-motor-kap-2009-08-07.jpg
+    sizes: '768, 1024'
   - url: sutton-motor-kap-2009-08-08.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-09.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-10.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-11.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-12.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-13.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-14.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-15.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-16.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-17.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-18.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-19.jpg
+    sizes: '1024, 768'
   - url: sutton-motor-kap-2009-08-20.jpg
+    sizes: '768, 1024'
   - url: sutton-motor-kap-2009-08-21.jpg
+    sizes: '768, 1024'
 
 imagescredit: 'Contributions by <a href="//www.flickr.com/photos/newenglandoddities/" target="_blank">New England Oddities</a> and Kerri Ann Pontifice'
 ---

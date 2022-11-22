@@ -33,18 +33,27 @@ thumbnail: swed-work-assoc-jh-2005-08-01.jpg
 
 images:
   - url: swed-work-assoc-sanborn-1889-01.jpg
-    caption: 'Sanborn Insurance Map, 1889, volume 2 sheet 60 — Courtesy Brown University Digital Repository'
     alt: 'A three story, square plan golden brick building with entrances on opposite corners as well as a ground-floor chamfered retail entrance under an overhang. The windows have been replaced with commericial-grade non-operable three-over-three pane designs. Slight sandstone details adorn the cornice and the seperation of the first floor from the upper floors.'
+    caption: 'Sanborn Insurance Map, 1889, volume 2 sheet 60 — Courtesy Brown University Digital Repository'
+    sizes: '1200, 900'
   - url: swed-work-assoc-sanborn-1899-01.jpg
-    caption: 'Sanborn Insurance Map, 1899, volume 1 sheet 11-12 — Courtesy Brown University Digital Repository'
+    caption: 'Sanborn Insurance Map, 1899, volume 1 sheet 11-12 — Courtesy Brown University Digital Repository'
+    sizes: '1200, 900'
   - url: swed-work-assoc-sanborn-1920-01.jpg
-    caption: 'Sanborn Insurance Map, 1956, sheet 11 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library'
+    caption: 'Sanborn Insurance Map, 1956, sheet 11 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library'
+    sizes: '1200, 900'
   - url: swed-work-assoc-jh-2005-08-01.jpg
+    sizes: '1440, 900'
   - url: swed-work-assoc-jh-2005-08-02.jpg
+    sizes: '768, 924'
   - url: swed-work-assoc-jh-2005-08-03.jpg
+    sizes: '1200, 900'
   - url: swed-work-assoc-jh-2005-08-04.jpg
+    sizes: '1200, 900'
   - url: swed-work-assoc-jh-2005-08-05.jpg
+    sizes: '768, 924'
   - url: swed-work-assoc-jh-2005-08-06.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Brown University Digital Repository (<a href="//repository.library.brown.edu/studio/item/bdr:213558/" target="_blank">1889</a> and <a href="//repository.library.brown.edu/studio/item/bdr:213597/" target="_blank">1899</a>), and the Online Digital Sanborn Maps via ProQuest and the Providence Public Library'
 

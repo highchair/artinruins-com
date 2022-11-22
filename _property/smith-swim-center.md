@@ -4,38 +4,39 @@ slug: smith-swim-center
 aka: 
 date-modified: 2020-07-23 17:00
 
-built: 1973
-demolition: 2008
+built: '1973'
+demolition: '2008'
 redeveloped: 
 decade: '1970-1979'
-date-added: 2010
+date-added: '2010'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Daniel F. Tully' ]
 lists: []
-tags: [ 'Sports Entertainment', 'Brown University', 'College Properties' ]
+tags: [ 'Brown University', 'College Properties', 'Sports Entertainment' ]
 
-address: '230 Hope Street, Providence RI'
-latitude: ''
-longitude: ''
-gmap: ""
+address: '230 Hope St, Providence RI'
+latitude: '41.830004'
+longitude: '-71.398585'
+gmap: "https://www.google.com/maps/place/230+Hope+St,+Providence,+RI+02906/@41.830004,-71.398585,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445244270359d:0x53ca372af88e85d5!8m2!3d41.830004!4d-71.398585"
 
 meta: ""
-excerpt: "An innovative early 70s hyperbolic paraboloid roof structure design that allowed a 130' x 325' uninterrupted interior space for the Brown University pool"
+excerpt: "An innovative early 70s hyperbolic paraboloid roof structure design that allowed a 130' x 325' uninterrupted interior space"
 
 thumbnail: smith-swim-apavlo-2007-08-01.jpg
 
 images:
   - url: smith-swim-brown-1973-2006.jpg
-    credit: 'Photos from Brown University 1973 and 2006'
+    sizes: '798, 640'
   - url: smith-swim-foraste-1977-01.jpg
-    credit: 'Art photo by John Forasté circa 1977'
+    sizes: '500, 360'
   - url: smith-swim-teto-2004-01.jpg
-    credit: 'Art photo by Donald Teto circa 2004'
+    sizes: '908, 629'
   - url: smith-swim-apavlo-2007-08-01.jpg
-    credit: 'Photo contributed by user Apavlo for Wikimedia'
+    sizes: '1440, 900'
   - url: smith-swim-aerials-2007.jpg
+    sizes: '1440, 900'
 
 imagescredit: Contributions by Donald Teto, Apavlo (Wikimedia), <a href="//www.foraste.com/htmls/editorial.br.diver.html" target="_blank" title="Opens a new window">John Forasté</a>, Brown University archives
 ---

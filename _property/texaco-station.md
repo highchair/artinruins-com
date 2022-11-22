@@ -31,14 +31,21 @@ thumbnail: wbna-website-02.jpg
 
 images:
   - url: texaco-station-habs-1973.jpg
-    caption: 'Photo from the National Register nomination form for the Broadway-Armory Historic District, circa 1973. Photographer unknown.'
     alt: 'A trapezoidal-shaped former gas station with enamel panelled exterior in white and green. Two garage doors are on the widest side, with an angled facade holding an entrance door. Red plastic letters spell out WBNA across the diagonal side'
+    caption: 'Photo from the National Register nomination form for the Broadway-Armory Historic District, circa 1973. Photographer unknown.'
+    sizes: '1200, 900'
   - url: wbna-jh-2003-03-01.jpg
+    sizes: '1440, 900'
   - url: wbna-jh-2003-03-02.jpg
+    sizes: '1440, 900'
   - url: wbna-website-01.jpg
+    sizes: '1000, 630'
   - url: wbna-website-02.jpg
+    sizes: '1000, 593'
   - url: wbna-jh-2022-03-01.jpg
+    sizes: '1440, 900'
   - url: wbna-jh-2022-03-02.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2022-03-01
 
@@ -69,17 +76,18 @@ Non-profit owned and restored, this former neighborhood gas station is an office
 
 The Texaco company enlisted [Walter Dorwin Teague]({% link designer/walter-dorwin-teague.html %}) to design the template for their gas stations. While he probably did not design this station specifically, it follows the corporate architecture guidelines that he created. He was one of several versatile industrial design consultants in the United States, designing cameras for Eastman Kodak, glassware for Steuben and gas stations for Texaco, among other things. 
 
+***
+
 _Excerpted from “Walter Dorwin Teague: Designer of the 1930s: Gas Stations,” Jeanne Willette_
 
 As the book _The Gas Station in America_ by John A. Jakle and Keith A. Sculle explains, the expansion of an ordinary building from a place to buy gas to a specialized structure for a variety of related services was a phenomenon of the Depression. The Depression marks the beginnings of the modern consumer culture as businesses used advertising and branding to identify themselves in an effort to urge the customer to buy. Because gas was not selling as much during the hard times of the Depression, gas station design changed to include related services — tires, batteries, accessories, and repair services. The design themselves became more “modern” in appearance — large expanses of plate glass, stark exterior decoration, terra cotta or porcelain facing, and branded colors.
 
-While gasoline station design followed loosely the edicts of the new “International” style championed by the Bauhaus school in Germany, they had more correctly introduced “Depression architecture” — a stripped-down, functional aesthetic that put a new optimistic face on hard economic times. Walter Teague, hired by Texaco in 1934, created a new look for the company: white streamlined boxes that were thought to give the impression of speed, modernity, and progress. Some 10,000 of these stations were ultimately constructed.
+While gasoline station design followed loosely the edicts of the new “International” style championed by the Bauhaus school in Germany, they had more correctly introduced “Depression architecture” — a stripped-down, functional aesthetic that put a new optimistic face on hard economic times. Walter Teague, hired by Texaco in 1934, created a new look for the company: white streamlined boxes that were thought to give the impression of speed, modernity, and progress. Some 10,000 of these stations were ultimately constructed.[^1]
+
+[^1]: Willette, Jeanne. “Walter Dorwin Teague: Designer of the 1930s: Gas Stations,” ArtHistory Unstuffed, 2018 February 23. Accessed December 31, 2020 from https://arthistoryunstuffed.com/walter-dorwin-teague-designer-of-the-1930s/
+
+***
 
 _From the “Broadway-Armory Historic District” National Register nomination form, 1974_
 
 1560 Westminster Street **Gas Station** (ca 1930): 1-story; flat; enameled metal commercial building with car and office bays.
-
-
-#### Source
-
-+ _“Walter Dorwin Teague: Designer of the 1930s: Gas Stations,”_ ArtHistory Unstuffed, Jeanne Willette, February 23, 2018. Captured December 31, 2020 from https://arthistoryunstuffed.com/walter-dorwin-teague-designer-of-the-1930s/

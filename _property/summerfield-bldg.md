@@ -34,12 +34,19 @@ excerpt: "This reinforced concrete frame building was the first modern-style, la
 images:
   - url: summerfield-jh-2005-07-01.jpg
     alt: 'An early modern-style six-story building with minimum structure and maximum windows. The structure is ornamented with yellow-toned terra cotta friezes with a deep-set but simple cornice.'
+    sizes: '1200, 900'
   - url: summerfield-jh-2005-07-02.jpg
+    sizes: '1200, 900'
   - url: summerfield-jh-2005-07-03.jpg
+    sizes: '1200, 900'
   - url: summerfield-jh-2005-07-04.jpg
+    sizes: '1200, 900'
   - url: summerfield-jh-2005-07-05.jpg
+    sizes: '768, 924'
   - url: summerfield-jh-2005-07-06.jpg
+    sizes: '768, 924'
   - url: summerfield-jh-2005-07-07.jpg
+    sizes: '1200, 900'
 
 imagescredit:
 

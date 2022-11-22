@@ -33,39 +33,57 @@ excerpt: "An early 19th-century complex with two granite stone mills in the firs
 thumbnail: slatersville-mill-jh-2008-03-03.jpg
 
 images:
-  - url: slatersville-mill-smhs-1940-01.jpg
-    caption: 'Aerial view of the complex, with 1806 wooden Office in the lower left, 1894 Weave Shed above and to the left, Boiler House in the upper right, 1843 Number 3 mill below and center, and 1826 Center Mill in the lower center — image from “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978 credited to “SMHS”'
-    alt: 'A collection of three main mills, two of unsurfaced stone. The oldest main central mill is four stories high with a central cupola-topped stair tower. The next oldest mill towards the rear of the property is similar in build but three stories without a cupola. Finally, a two story red brick mill is also on site, plain in articulation.'
-  - url: slatersville-mill-marc-2005-06-01.jpg
-    caption: 'Photo from Marcphoto from Flickr, June 2005'
-  - url: slatersville-mill-jh-2008-03-01.jpg
-    caption: 'View from the hill below the junction of Railroad Street and Main Street of the 1893 Weave Shed (red brick mill) and the 1826 Center Mill at the rear'
-  - url: slatersville-mill-jh-2008-03-02.jpg
-    caption: 'View from the stone bridge over the Branch River with 1806 Office Building in the foreground and 1826 granite stone mill in the rear'
-  - url: slatersville-mill-jh-2008-03-03.jpg
-    caption: 'The four-story granite Center Mill with cupola overlooking the Branch River as it runs through the property'
-  - url: slatersville-mill-jh-2008-03-04.jpg
-    caption: 'Looking across the front of the Center Mill towards the Weave Shed and overhead passageway'
-  - url: slatersville-mill-jh-2008-03-05.jpg
-  - url: slatersville-mill-jh-2008-03-06.jpg
-    caption: '1894 Weave Shed'
-  - url: slatersville-mill-jh-2008-03-07.jpg
-    caption: 'Looking across the Branch River again towards the front of the L-shaped 1843 granite mill Number 3'
-  - url: slatersville-mill-jh-2008-03-08.jpg
-    caption: 'Another view of the Center Mill façade'
-  - url: slatersville-mill-jh-2008-03-09.jpg
-  - url: slatersville-mill-jh-2008-03-10.jpg
-    caption: 'Facing the 1843 Number 3 mill to the right with an empty stone foundation in the center'
-  - url: slatersville-mill-jh-2008-03-11.jpg
-    caption: 'The short end of the L-shaped Number 3 mill'
-  - url: slatersville-mill-jh-2008-03-12.jpg
-    caption: 'The retaining wall of the power canal and foundation of the Number 3 mill'
-  - url: slatersville-mill-jh-2008-03-13.jpg
-    caption: 'The significant Boiler House, not mentioned in any architectural desriptions'
-  - url: slatersville-mill-jh-2008-03-14.jpg
-  - url: slatersville-mill-jh-2008-03-15.jpg
-    caption: 'Existing dams and raceways on the property'
-  - url: slatersville-mill-jh-2008-03-16.jpg
+   - url: slatersville-mill-smhs-1940-01.jpg
+     alt: 'A collection of three main mills, two of unsurfaced stone. The oldest main central mill is four stories high with a central cupola-topped stair tower. The next oldest mill towards the rear of the property is similar in build but three stories without a cupola. Finally, a two story red brick mill is also on site, plain in articulation.'
+     caption: 'Aerial view of the complex, with 1806 wooden Office in the lower left, 1894 Weave Shed above and to the left, Boiler House in the upper right, 1843 Number 3 mill below and center, and 1826 Center Mill in the lower center — image from “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978 credited to “SMHS”'
+     sizes: '1200, 900'
+   - url: slatersville-mill-marc-2005-06-01.jpg
+     caption: 'Photo from Marcphoto from Flickr, June 2005'
+     sizes: '1024, 768'
+   - url: slatersville-mill-jh-2008-03-01.jpg
+     caption: 'View from the hill below the junction of Railroad Street and Main Street of the 1893 Weave Shed (red brick mill) and the 1826 Center Mill at the rear'
+     sizes: '1440, 900'
+   - url: slatersville-mill-jh-2008-03-02.jpg
+     caption: 'View from the stone bridge over the Branch River with 1806 Office Building in the foreground and 1826 granite stone mill in the rear'
+     sizes: '1440, 900'
+   - url: slatersville-mill-jh-2008-03-03.jpg
+     caption: 'The four-story granite Center Mill with cupola overlooking the Branch River as it runs through the property'
+     sizes: '1440, 900'
+   - url: slatersville-mill-jh-2008-03-04.jpg
+     caption: 'Looking across the front of the Center Mill towards the Weave Shed and overhead passageway'
+     sizes: '1200, 900'
+   - url: slatersville-mill-jh-2008-03-05.jpg
+     sizes: '1200, 900'
+   - url: slatersville-mill-jh-2008-03-06.jpg
+     caption: '1894 Weave Shed'
+     sizes: '1440, 900'
+   - url: slatersville-mill-jh-2008-03-07.jpg
+     caption: 'Looking across the Branch River again towards the front of the L-shaped 1843 granite mill Number 3'
+     sizes: '768, 924'
+   - url: slatersville-mill-jh-2008-03-08.jpg
+     caption: 'Another view of the Center Mill façade'
+     sizes: '1440, 900'
+   - url: slatersville-mill-jh-2008-03-09.jpg
+     sizes: '1200, 900'
+   - url: slatersville-mill-jh-2008-03-10.jpg
+     caption: 'Facing the 1843 Number 3 mill to the right with an empty stone foundation in the center'
+     sizes: '1440, 900'
+   - url: slatersville-mill-jh-2008-03-11.jpg
+     caption: 'The short end of the L-shaped Number 3 mill'
+     sizes: '1200, 900'
+   - url: slatersville-mill-jh-2008-03-12.jpg
+     caption: 'The retaining wall of the power canal and foundation of the Number 3 mill'
+     sizes: '1200, 900'
+   - url: slatersville-mill-jh-2008-03-13.jpg
+     caption: 'The significant Boiler House, not mentioned in any architectural desriptions'
+     sizes: '768, 924'
+   - url: slatersville-mill-jh-2008-03-14.jpg
+     sizes: '768, 924'
+   - url: slatersville-mill-jh-2008-03-15.jpg
+     caption: 'Existing dams and raceways on the property'
+     sizes: '768, 924'
+   - url: slatersville-mill-jh-2008-03-16.jpg
+     sizes: '768, 924'
 
 imagescredit: 'Contribution from Marcphoto from Flickr'
 

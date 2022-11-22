@@ -33,16 +33,17 @@ thumbnail: victoria-newsclip-1983.jpg
 
 images:
   - url: victoria-aerial-1981.jpg
-    caption: '1981 waterfront south of the Point Street bridge, north of the Hurrican Barrier, showing two large boats in the harbor. One of them is the S.S. Victoria — Providence Historic Aerial Viewer'
     alt: ''
+    caption: '1981 waterfront south of the Point Street bridge, north of the Hurrican Barrier, showing two large boats in the harbor. One of them is the S.S. Victoria — Providence Historic Aerial Viewer'
+    sizes: '1440, 900'
   - url: victoria-newsclip-1983.jpg
-    caption: 'Lee, Donna. “Yes, Victoria — There is a home in N.J.” Providence Journal, 17 August 1983'
-
-# Aug 17, 1983 news article image "Yes Vistoria…"
+    alt: ''
+    caption: 'Lee, Donna. “Yes, Victoria — There is a home in N.J.” Providence Journal, 17 August 1983'
+    sizes: '825, 669'
 
 mostrecentimage: 2021-07-01
 
-imagescredit: 'Contributions from the Providence Historic Aerial Viewer and a news clipping from the Providence Journal, sent in my a reader with access to Rhode Island University archives.'
+imagescredit: 'Contributions from the Providence Historic Aerial Viewer and a news clipping from the Providence Journal, sent in by a reader with access to Rhode Island University archives.'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

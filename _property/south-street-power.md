@@ -34,59 +34,88 @@ thumbnail: south-street-jh-2010-11-03.jpg
 
 images:
   - url: south-street-hist-1925-05-01.jpg
-    caption: 'Cover of a promotional brochure announcing the completion of the “400 lb House” in 1925, a one million dollar 110 by 100 foot cube addition which contained four massive 1,850 hp Babcock & Wilcox boilers'
     alt: 'A huge 80 and 100 foot tall former power generating station built at the turn of the century. Red brick and limestone and granite with giant windows featuring half circle arches, some 30 feet tall. The interior space is wide open, with only a basement and main floor. While in use it housed huge coal- and oil-fired boilers and turbines and was topped by tall 200 foot tall steel smokestacks.'
+    caption: 'Cover of a promotional brochure announcing the completion of the “400 lb House” in 1925, a one million dollar 110 by 100 foot cube addition which contained four massive 1,850 hp Babcock & Wilcox boilers'
+    sizes: '768, 924'
   - url: south-street-ppl-1956c-01.jpg
     caption: 'Rhode Island Photographs Collection, Providence Public Library. Undated, our guess is circa 1956 — the new Interstate 195 bridge over Providence River is under construction (1955–1958) with piers across the river in place.'
+    sizes: '1200, 900'
   - url: south-street-ppl-1964c-01.jpg
     caption: 'Rhode Island Photographs Collection, Providence Public Library. Undated, our guess is circa 1964 — the new Interstate 195 bridge over Providence River is complete (1955–1958) and the Hurricane Barrier looks to be under construction (1960–1966)'
+    sizes: '1173, 880'
   - url: south-street-ppl-1964c-02.jpg
+    sizes: '1200, 900'
   - url: south-street-unknown-1970c-01.jpg
     caption: 'Found on Pinterest, original author and date unknown. Our guess is 1970s. This structure was built in the 1950s and contained two steam generators.'
+    sizes: '768, 924'
   - url: south-street-habs-1992-04-01.jpg
-    caption: 'Conveyor belt running from the South Street Power plant’s coal crusher over Point Street and feeding the Manchester St Power Station, built 1950 — Robert Guiliani, April 1992'
+    caption: 'Conveyor belt running from the South Street Power plant’s coal crusher over Point Street and feeding the Manchester St Power Station, built 1950 — Robert Guiliani, April 1992'
+    sizes: '1125, 900'
   - url: south-street-jh-2002-03-01.jpg
-    caption: 'South Street Power Station in 2002 — the cube of the 400lb house (built 1925) in front'
+    caption: 'South Street Power Station in 2002 — the cube of the 400lb house (built 1925) in front'
+    sizes: '1440, 900'
   - url: south-street-jh-2002-03-02.jpg
-    caption: 'South Street Power Station in 2002 — Looking at the substation in center back (built 1919–1952) and Turbine Hall (built 1912–1925) to the right'
+    caption: 'South Street Power Station in 2002 — Looking at the substation in center back (built 1919–1952) and Turbine Hall (built 1912–1925) to the right'
+    sizes: '1440, 900'
   - url: south-street-jh-2002-03-03.jpg
-    caption: 'South Street Power Station in 2002 — An in-place Whiting 25 ton ceiling crane'
+    caption: 'South Street Power Station in 2002 — An in-place Whiting 25 ton ceiling crane'
+    sizes: '1200, 900'
   - url: south-street-jh-2002-03-04.jpg
-    caption: 'South Street Power Station in 2002 — Looking at a giant opening between two of the  houses'
+    caption: 'South Street Power Station in 2002 — Looking at a giant opening between two of the  houses'
+    sizes: '1200, 900'
   - url: south-street-jh-2002-03-05.jpg
-    caption: 'South Street Power Station in 2002 — The caverous space of the 400lb house'
+    caption: 'South Street Power Station in 2002 — The caverous space of the 400lb house'
+    sizes: '1200, 900'
   - url: south-street-jh-2002-03-06.jpg
-    caption: 'South Street Power Station in 2002 — The long interior of Turbine Hall with mezzanine and wrought iron railings'
+    caption: 'South Street Power Station in 2002 — The long interior of Turbine Hall with mezzanine and wrought iron railings'
+    sizes: '1200, 900'
   - url: south-street-jh-2002-03-07.jpg
-    caption: 'South Street Power Station in 2002 — Turbine Hall again, looking into a two story section and imagining the giant turbine that occupied this space'
+    caption: 'South Street Power Station in 2002 — Turbine Hall again, looking into a two story section and imagining the giant turbine that occupied this space'
+    sizes: '1200, 900'
   - url: south-street-jh-2002-03-08.jpg
-    caption: 'South Street Power Station in 2002 — Another view into the abyss of the pits in Turbine Hall'
+    caption: 'South Street Power Station in 2002 — Another view into the abyss of the pits in Turbine Hall'
+    sizes: '1200, 900'
   - url: south-street-jh-2002-03-09.jpg
-    caption: 'South Street Power Station in 2002 — An ornate bracket supporting an interior exit sign pole with peeling paint'
+    caption: 'South Street Power Station in 2002 — An ornate bracket supporting an interior exit sign pole with peeling paint'
+    sizes: '1200, 900'
   - url: south-street-jh-2002-03-10.jpg
-    caption: 'South Street Power Station in 2002 — Painted ghosts'
+    caption: 'South Street Power Station in 2002 — Painted ghosts'
+    sizes: '1200, 900'
   - url: south-street-jh-2002-03-11.jpg
-    caption: 'South Street Power Station in 2002 — A 30-ton Morgan ceiling crane in the 200 lb House'
+    caption: 'South Street Power Station in 2002 — A 30-ton Morgan ceiling crane in the 200 lb House'
+    sizes: '1200, 900'
   - url: south-street-habs-2005-08-13.jpg
     caption: 'Photo by Matthew Kierstead for the National Register nomination — Interior view of Substation third floor control room looking west, August 2005'
+    sizes: '1200, 900'
   - url: south-street-jh-2007-07-01.jpg
     caption: 'A scale model of the proposed redevelopment into the “Dynamo House.” In what seems like a very Streuver Brothers idea, decorative smokestacks would have been added back to the roof'
+    sizes: '1200, 900'
   - url: south-street-aerial-2009-01.jpg
     caption: 'Aerial from Microsoft Virtual Earth, 2009. The roof has been removed and we can see into the building from above'
+    sizes: '998, 622'
   - url: south-street-jh-2010-11-01.jpg
-    caption: 'South Street Power Station in 2010 — The 400 lb House with all of its windows removed (since 2008), ready for new windows that wouldn’t come for another eight years'
+    caption: 'South Street Power Station in 2010 — The 400 lb House with all of its windows removed (since 2008), ready for new windows that wouldn’t come for another eight years'
+    sizes: '1200, 900'
   - url: south-street-jh-2010-11-02.jpg
-    caption: 'South Street Power Station in 2010 — The 200 lb House (built 1912–1925) in that liminal space between urban decay and redevelopment'
+    caption: 'South Street Power Station in 2010 — The 200 lb House (built 1912–1925) in that liminal space between urban decay and redevelopment'
+    sizes: '1440, 900'
   - url: south-street-jh-2010-11-03.jpg
-    caption: 'South Street Power Station in 2010 — Another view of the 400 lb House'
+    caption: 'South Street Power Station in 2010 — Another view of the 400 lb House'
+    sizes: '1200, 900'
   - url: south-street-jh-2015-10-01.jpg
-    caption: 'South Street Power Station in 2015 — Work begins on the new phase of the power station for real this time'
+    caption: 'South Street Power Station in 2015 — Work begins on the new phase of the power station for real this time'
+    sizes: '1440, 900'
   - url: south-street-jh-2019-05-01.jpg
     caption: 'South Street Power Station in 2019'
+    sizes: '1200, 900'
   - url: south-street-jh-2019-05-02.jpg
+    sizes: '768, 924'
   - url: south-street-jh-2019-05-03.jpg
+    sizes: '1200, 900'
   - url: south-street-jh-2019-05-04.jpg
+    sizes: '1200, 900'
   - url: south-street-jh-2019-05-05.jpg
+    sizes: '768, 924'
 
 imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12111" target="_blank">circa 1956</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10776" target="_blank">circa 1962-1</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10452" target="_blank">circa 1962-2</a>) at the Providence Public Library, Robert Guiliani and Matthew Kierstead for National Register nomination forms'
 

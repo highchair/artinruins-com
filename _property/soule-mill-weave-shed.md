@@ -33,18 +33,29 @@ thumbnail: sawtooth-jh-2005-06-02.jpg
 
 images:
   - url: sawtooth-jh-2005-06-01.jpg
-    alt: 'An almost square one story building with a sawtooh roof, which is a series of small, triangular irregular gable roofs — six in all on this building — with a shigle roof on the north side and a row of windows on the south sid, facing north for an immense amount of natural light'
+    alt: 'An almost square one story building with a sawtooh roof, which is a series of small, triangular irregular gable roofs — six in all on this building — with a shigle roof on the north side and a row of windows on the south sid, facing north for an immense amount of natural light'
+    sizes: '2095, 900'
   - url: sawtooth-jh-2005-06-02.jpg
+    sizes: '1440, 900'
   - url: sawtooth-jh-2005-06-03.jpg
+    sizes: '1200, 900'
   - url: sawtooth-jh-2005-06-04.jpg
+    sizes: '1200, 900'
   - url: sawtooth-jh-2005-06-05.jpg
+    sizes: '1200, 900'
   - url: sawtooth-jh-2005-06-06.jpg
+    sizes: '1200, 900'
   - url: sawtooth-jh-2005-06-07.jpg
+    sizes: '1200, 900'
   - url: sawtooth-jh-2005-06-08.jpg
+    sizes: '1440, 900'
   - url: sawtooth-jh-2005-06-09.jpg
+    sizes: '1200, 900'
   - url: sawtooth-jh-2005-06-10.jpg
+    sizes: '1200, 900'
   - url: sawtooth-google-2020-10.jpg
     caption: 'Google Maps satellite capture circa 2020'
+    sizes: '1440, 900'
 
 mostrecentimage: 2005-06-01
 

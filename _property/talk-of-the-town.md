@@ -34,38 +34,53 @@ thumbnail: tott-thumbnail.jpg
 images:
   - url: tott-jaimelowe-2017-01.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-02.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-03.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-04.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-05.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-06.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-07.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-08.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-09.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-10.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-11.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-12.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-13.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-14.jpg
     caption: 'Photo by Jaime Lowe'
+    sizes: '800, 532'
   - url: tott-jaimelowe-2017-15.jpg
-    caption: 'Nancy Langlais in the doorway — Photo by Jaime Lowe'
+    caption: 'Nancy Langlais in the doorway — Photo by Jaime Lowe'
+    sizes: '532, 800'
 
 mostrecentimage: 2021-07-01
 
-imagescredit: 'All photos by <a href="https://www.jaimelowe.com" target="_blank">Jaime Lowe</a>, October 29 ,2017'
+imagescredit: 'All photos by <a href="//www.jaimelowe.com" target="_blank">Jaime Lowe</a>, October 29, 2017'
 
 ---
 

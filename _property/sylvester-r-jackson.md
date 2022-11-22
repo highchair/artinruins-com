@@ -34,22 +34,39 @@ thumbnail: sylvester-r-jackson-thumbnail.jpg
 images:
   - url: sylvester-r-jackson-1984-01.jpg
     alt: 'A two and a half story, red brick, gable-roofed mill building 3 bays wide and ten bays deep. A short decorative brick cornice pattern runs all along under the roofline. Windows are 8 over 8 paired double hung with granite sills. '
+    sizes: '690, 846'
   - url: sylvester-r-jackson-1984-02.jpg
+    sizes: '690, 846'
   - url: sylvester-r-jackson-1984-03.jpg
+    sizes: '693, 846'
   - url: sylvester-r-jackson-1984-04.jpg
+    sizes: '719, 846'
   - url: sylvester-r-jackson-1984-05.jpg
+    sizes: '682, 846'
   - url: sylvester-r-jackson-1984-06.jpg
+    sizes: '716, 846'
   - url: sylvester-r-jackson-1984-07.jpg
+    sizes: '953, 640'
   - url: sylvester-r-jackson-1984-08.jpg
+    sizes: '1002, 640'
   - url: sylvester-r-jackson-1984-09.jpg
+    sizes: '525, 800'
   - url: sylvester-r-jackson-1984-10.jpg
+    sizes: '986, 640'
   - url: sylvester-r-jackson-1984-11.jpg
+    sizes: '966, 640'
   - url: sylvester-r-jackson-1984-12.jpg
+    sizes: '523, 800'
   - url: sylvester-r-jackson-1984-13.jpg
+    sizes: '543, 800'
   - url: sylvester-r-jackson-1984-14.jpg
+    sizes: '532, 800'
   - url: sylvester-r-jackson-1984-15.jpg
+    sizes: '526, 800'
   - url: sylvester-r-jackson-1984-16.jpg
+    sizes: '959, 640'
   - url: sylvester-r-jackson-1984-17.jpg
+    sizes: '938, 640'
 
 imagescredit: 'Images from 1984 by David Presbrey'
 

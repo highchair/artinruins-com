@@ -33,29 +33,50 @@ thumbnail: smith-webbing-jh-2021-01-01.jpg
 
 images:
   - url: smith-webbing-sanborn-1902-01.jpg
-    caption: '1902 Sanborn Insurance Map plate 33 — the main block along Main Street is present, but the addition that ends in a rounded flatiron shape to the east of the main block has not been built yet.'
     alt: 'The main body of the mill is a twenty-five-bay long by five bay deep rectangular red brick structure with regularly-spaced window openings. To the east is a later addition with rounded end detail in a flat-iron style, smokestack, and engine room with new ground-floor entrance.'
+    caption: '1902 Sanborn Insurance Map plate 33 — the main block along Main Street is present, but the addition that ends in a rounded flatiron shape to the east of the main block has not been built yet.'
+    sizes: '1440, 900'
   - url: smith-webbing-pawtlib-undated-01.jpg
     caption: 'Pawtucket Library Collection'
+    sizes: '1440, 900'
   - url: smith-webbing-jh-2004-02-01.jpg
+    sizes: '1440, 900'
   - url: smith-webbing-jh-2004-02-02.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2004-02-03.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2004-02-04.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2004-02-05.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2004-02-06.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2004-02-07.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2004-02-08.jpg
+    sizes: '1440, 900'
   - url: smith-webbing-jh-2004-02-09.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2004-02-10.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2021-01-01.jpg
+    sizes: '1440, 900'
   - url: smith-webbing-jh-2021-01-02.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2021-01-03.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2021-01-04.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2021-01-05.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2021-01-06.jpg
+    sizes: '768, 924'
   - url: smith-webbing-jh-2021-01-07.jpg
+    sizes: '1440, 900'
   - url: smith-webbing-jh-2021-01-08.jpg
+    sizes: '1200, 900'
   - url: smith-webbing-jh-2021-01-09.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contribution from the Library of Congress (<a href="//www.loc.gov/resource/g3774pm.g3774pm_g080961902/" target="_blank">Sanborn Map</a>) and the <a href="//www.flickr.com/photos/pawtucketlibrary/50379605526" target="_blank">Pawtucket Library Collection</a>'
 

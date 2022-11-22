@@ -33,18 +33,27 @@ thumbnail: teste-block-jh-2013-10-01.jpg
 
 images:
   - url: teste-block-ppl-1890-01.jpg
-    caption: 'Rhode Island Photograph Collection, Providence Public Library — Corner of Dorrance and Weybosset with Teste Block in the right foreground, labelled 1890'
     alt: 'A narrow red brick, four-story commercial building on a busy street corner with arched windows, stone string courses, and a prominent metal cornice along the roofline'
+    caption: 'Rhode Island Photograph Collection, Providence Public Library — Corner of Dorrance and Weybosset with Teste Block in the right foreground, labelled 1890'
+    sizes: '1596, 1000'
   - url: teste-block-ppl-1895-01.jpg
-    caption: 'Rhode Island Photograph Collection, Providence Public Library — Corner of Dorrance and Weybosset with Teste Block in the right foreground, labelled 1895'
+    caption: 'Rhode Island Photograph Collection, Providence Public Library — Corner of Dorrance and Weybosset with Teste Block in the right foreground, labelled 1895'
+    sizes: '1540, 1140'
   - url: teste-block-jh-2004-10-01.jpg
+    sizes: '1200, 900'
   - url: teste-block-jh-2004-10-02.jpg
+    sizes: '1200, 900'
   - url: teste-block-jh-2004-10-03.jpg
+    sizes: '768, 1024'
   - url: teste-block-meja-2012-01.jpg
     caption: 'Architectural drawing of the northwestern façade from Studio Meja for the expansion of the first floor with additional second floor mezzanine, 2012'
+    sizes: '1200, 839'
   - url: teste-block-jh-2013-10-01.jpg
+    sizes: '1440, 900'
   - url: teste-block-jh-2013-10-02.jpg
+    sizes: '768, 1024'
   - url: teste-block-jh-2013-10-03.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions from the Rhode Island Collection of the Providence Public Library'
 
@@ -70,7 +79,7 @@ Along with the [George C. Arnold]({% link _property/george-arnold.md %}) buildin
 
 ### Current Events
 
-The ground-floor commercial space is currently occupied by [Sarto Providence](//www.sartoprovidence.com){:target="_blank"}, and Italian-inspired bistro (closed to indoor dining during COVID, check website for updates). We believe the apartments above are for rent through the Providence G, but have not been able to confirm this. 
+The ground-floor commercial space n 2020 was occupied by [Sarto Providence](//www.sartoprovidence.com){:target="_blank"}, and Italian-inspired bistro (closed to indoor dining during COVID, check website for updates). We believe the apartments above are for rent through the Providence G, but have not been able to confirm this. 
 
 
 ### History

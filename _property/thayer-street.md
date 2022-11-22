@@ -28,115 +28,167 @@ longitude: '-71.4010553'
 gmap: "https://www.google.com/maps/place/Thayer+St,+Providence,+RI/@41.8297896,-71.4010553,19z"
 
 meta: ""
-excerpt: "The ever changing face of Thayer Street captured whenever we can"
+excerpt: "The ever changing face of Thayer Street captured whenever we can (mostly from 2004 and 2020)"
 
 thumbnail: 292-thayer-jh-2020-05-02.jpg
 
 images:
   - url: 311-315-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 311–315 Thayer Street, The Cushing Apartments, built 1902. View looking south southeast.'
+    sizes: '1200, 900'
   - url: 307-thayer-goog-2014-10-01.jpg
     caption: 'Photo 2014. 307 Thayer Street, home built circa 1857, looking east.'
+    sizes: '768, 924'
   - url: 307-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 307 Thayer Street, home built circa 1857, looking southeast.'
+    sizes: '1200, 900'
   - url: 300-306-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 300–308 Thayer Street, Pembroke Dormitories, built 1974-75. View looking north northwest.'
+    sizes: '1024, 768'
   - url: 300-306-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 300–308 Thayer Street. View looking south southwest.'
+    sizes: '1440, 900'
   - url: 297-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. View looking east.'
+    sizes: '1440, 900'
   - url: 297-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 297 Thayer Street, built circa 1989(?). Oop previously and Only in RI at the time. View looking north.'
+    sizes: '1024, 768'
   - url: 297-thayer-jh-2020-05-02.jpg
     caption: 'Photo 2020. A Supercuts on the second floor and Impact Everything on the first. View looking southeast.'
+    sizes: '1440, 900'
   - url: 291-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 291 Thayer Street, built after 1895. Been a CVS for a long time. View south southeast.'
+    sizes: '1024, 768'
   - url: 291-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 291 Thayer Street. View south southeast.'
+    sizes: '1440, 900'
   - url: 292-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 292 Thayer Street. View south southwest.'
+    sizes: '1440, 900'
   - url: 292-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2020. 290–86 Thayer Street. View southwest. Storefronts from left to right: Zuzu’s Petals, Bagel Gourmet, J & J’s Candy Bar, Beadworks.'
+    sizes: '1024, 768'
   - url: 292-thayer-jh-2020-05-02.jpg
     caption: 'Photo 2020. 290–86 Thayer Street. View southwest. Storefronts from left to right: CBD store, Bagel Gourmet, Mike’s Calzones, Sneaker Junkies.'
+    sizes: '1440, 900'
   - url: 285-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 285 Thayer Street. View east. Urban Outfitters.'
+    sizes: '1024, 768'
   - url: 283-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. The tiny 283 Thayer Street. View east. Storefront for Sushi Express, previously Hole in the Wall and others.'
+    sizes: '768, 924'
   - url: 283-281-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 281–283 Thayer Street, built 1875–1989. View east. Storefronts for Sushi Express, Tom’s Tracks, and Shades Plus below street level, with Army Navy Surplus on the far right.'
+    sizes: '1024, 768'
   - url: 283-281-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 281–283 Thayer Street, built 1875–1895. View east. Storefronts for Sushi Express (closed), Dojo Smoke Shop, and Mighty Sharp Barbershop.'
+    sizes: '768, 924'
   - url: 278-284-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 278–284 Thayer Street, built between 1921 and 1951. View west. Storefronts for East Side Pockets and Phillipe’s, later Kartabar'
+    sizes: '1024, 768'
   - url: 278-284-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 278–284 Thayer Street, built between 1921 and 1951. View southwest. Storefronts for East Side Pockets and the Shaking Crab on the first floor, with Ritual Sweat Society and Base Station VR Lounge on the second.'
+    sizes: '1440, 900'
   - url: 273-277-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 273–279 Thayer Street, built between 1921 and 1951. View northeast. Storefronts for the Army Navy Store, Dunkin Donuts, Details, and Spike’s Junkyard Dogs.'
+    sizes: '1024, 768'
   - url: 273-277-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 277–279 Thayer Street. View east. Storefronts for the Army Navy Store and Chinatown. Notice the house behind the Army Navy store, built circa 1875.'
+    sizes: '1440, 900'
   - url: 273-277-thayer-jh-2020-05-02.jpg
     caption: 'Photo 2020. 273–275 Thayer Street. View east southeast. Storefronts for the former Durk’s BBQ and Baja’s Tex Mex. On the far right is 271 Thayer.'
+    sizes: '1440, 900'
   - url: 272-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 272 Thayer Street, built 1976-1980. View west. Storefronts for Berk’s Shoes and Shanghai, second floor.'
+    sizes: '1024, 768'
   - url: 272-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 272 Thayer Street. View southwest at the Berk’s sign and the stairs up to Rev’d, a cycling bar.'
+    sizes: '1440, 900'
   - url: 271-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 271 Thayer Street. View north northeast. A Gap store at the time.'
+    sizes: '1024, 768'
   - url: 269-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 269 Thayer Street, built 2001. View east. Johnny Rockets at the time.'
+    sizes: '1024, 768'
   - url: 269-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 269 Thayer Street. Still Johnny Rockets who were to close by 2021.'
+    sizes: '1440, 900'
   - url: 268-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 268 Thayer Street. View southeast. Long-time location of Andréa’s Restaurant. The Brown University Biomedical building is being constructed behind it.'
+    sizes: '1024, 768'
   - url: 268-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 268 Thayer Street. View south southeast.'
+    sizes: '1440, 900'
   - url: 261-267-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 267 Thayer Street (left) and 261 (right). View east. 261 has changed businesses many times but 267 has been Kebab’n Curry since a 2004 we have.'
+    sizes: '1440, 900'
   - url: 1951-sanborn-detail-meeting-euclid.jpg
     caption: 'A bit of a mystery. This 1951 Sanborn map shows 263 (now 267) and 257 but not 261 which is Kebab’n Curry’s address. At some point between 1970 and 1990 (from aerial photos) we think 261 was constructed.'
+    sizes: '1000, 660'
   - url: 257-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 257 Thayer Street, detail of east side of building. Esta’s was the name of the business.'
+    sizes: '1024, 768'
   - url: 257-thayer-jh-2007-google.jpg
     caption: 'Google Streetview 2007 of 257 Thayer Street'
+    sizes: '1024, 768'
   - url: 257-thayer-jh-2011-google.jpg
     caption: 'Google Streetview 2011 of 257 Thayer Street'
+    sizes: '1024, 768'
   - url: 260-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 260 Thayer and the 268 building, with Spectrum India at the 262 location. View west.'
+    sizes: '1024, 768'
   - url: 260-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 260 Thayer Street, built 1915. View southwest. Originally called “The Toy Theater.”'
+    sizes: '1200, 900'
   - url: 252-thayer-jh-2004-12-02.jpg
     caption: 'Photo 2004. 252 Thayer Street, built 1930s. View west. Former home of the College Hill Bookstore.'
+    sizes: '1024, 768'
   - url: 252-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 252 Thayer Street. View north. Spectrum India was in the process of moving in, relocating from 262.'
+    sizes: '1024, 768'
   - url: 249-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 249 Thayer Street. View south. The former Store 24, now demolished.'
+    sizes: '1024, 768'
   - url: 249-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 249 Thayer and 1 Euclid Street. View east. The home of the Nelson Center for Entrepreneurship at Brown University (upper floors) and Shake Shack (ground floor).'
+    sizes: '1200, 900'
   - url: 244-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 244 Thayer Street, built 1968. View southeast. Brown University Bookstore.'
+    sizes: '1024, 768'
   - url: 244-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 244 Thayer Street, renovated between 2017 and 2019. View southeast.'
+    sizes: '1200, 900'
   - url: 235-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 235 Thayer Street, built 1895. View east. Close up of the home to Smoothie King.'
+    sizes: '1024, 768'
   - url: 235-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 235 Thayer Street. View north northeast. Home to Chipotle in 2020.'
+    sizes: '1440, 900'
   - url: 234-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 234 Thayer Street, built between 1908 and 1921. View south.'
+    sizes: '1440, 900'
   - url: 234-thayer-jh-2020-05-02.jpg
     caption: 'Photo 2020. 234 Thayer Street. View west northwest.'
+    sizes: '1440, 900'
   - url: 231-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 231 Thayer Street, built circa 1940. View south southeast. The home of Tealuxe for about 15 years.'
+    sizes: '1024, 768'
   - url: 231-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 231 Thayer Street. View south southeast. The short-lived home of Ceremony, a different tea place.'
+    sizes: '1440, 900'
   - url: 223-225-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 235 Thayer, which is part of the 225–231 building, and 223 Thayer Street to the right, built 1857–1875. View east.'
+    sizes: '1440, 900'
   - url: 215-221-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 215–221 Thayer Street, built between 1956 and 1962. View south southeast.'
+    sizes: '1440, 900'
   - url: 218-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 214-218 Thayer Street, built 1938. View south southwest.'
+    sizes: '1440, 900'
   - url: 82-fones-jh-2020-05-01.jpg
     caption: 'Photo 2020. 82 Fones Alley. View north. The Creperie since 1999.'
+    sizes: '1200, 900'
 
 mostrecentimage: 2020-05-01
 
@@ -190,7 +242,7 @@ Cadastral maps used for reference:
 292–6 <figure class="u__img u__img--right" aria-hidden="true"><a href="#photo-292-thayer-jh-2020-05-01"><img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/292-thayer-jh-2020-05-01.jpg" alt="" /></a></figure>
 : <span class="u__text__sans--bold u__color__violator">CHHD</span> After 1895. 1-2 stories; flat; brick and glass; multiple storefronts under shaped parapet; slightly set back 2nd floor added above end store.
 
-: Currently **Sneaker Junkies**, previously **Beadworks**, **Skate-Away** before that, and **Black Wolf** became **Savage Brothers** in the rear space off “not a public way.”. Other storefronts were **J & J’s Candy Bar** (formerly **Supercuts**), and **Bagel Gourmet** (formerly **Ronzios**).
+: Currently **Sneaker Junkies**, previously **Beadworks**, **Skate-Away** before that and **Clark’s Flower Shop** before that, and **Black Wolf** became **Savage Brothers** in the rear space off “not a public way.”. Other storefronts were **J & J’s Candy Bar** (formerly **Supercuts**), and **Bagel Gourmet** (formerly **Ronzios**).
 
 : In a 1908 L.J. Richards map there is a single wooden structure with a different shape than the two that come later. On the 1920-21 Sanborn Map 294, 292, and 290 are there but 288 is not present. On the 1920-1951 map the same wooden structures now have brick facing and 288 and 288 1/2 are brick buildings now on site.
 
