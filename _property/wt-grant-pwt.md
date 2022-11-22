@@ -142,7 +142,7 @@ The building opens officially for business in January of 2007.
 
 #### Downtown’s Still on Main opens to the public
 
-_by Ethan Shorey_
+_by Ethan Shorey_  
 **Valley Breeze** | July 16, 2019 (abridged)
 
 The foundation for a successful downtown mall is now here, with a great location, staff and entrepreneurs in place, said owner Leslie Moore at Monday’s ribbon-cutting ceremony at Still on Main, 250 Main St.

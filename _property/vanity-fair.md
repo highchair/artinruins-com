@@ -32,24 +32,34 @@ thumbnail: vanity-fair-overview-1907.jpg
 images:
   - url: vanity-fair-overview-1907.jpg
     caption: 'Black and white overview of the park from 1907. Item was a sign or poster of some sort.'
+    sizes: '1174, 793'
   - url: vanity-fair-bw-chutes.jpg
     caption: 'A grand illustration of the main attraction, the Shoot the Chutes ride. Grander than the real thing turned out to be.'
+    sizes: '1385, 900'
   - url: vanity-fair-administration.jpg
     caption: 'Administration building. Colored photographic postcard.'
+    sizes: '1421, 900'
   - url: vanity-fair-chutes-overview.jpg
     caption: 'Overview of the Shoot the Chutes ride, with free circus stage in the foreground. Colored photographic postcard.'
+    sizes: '1241, 800'
   - url: vanity-fair-chutes-bridge.jpg
     caption: 'A postcard view of the same ride, Shoot the Chutes. Colored photographic postcard.'
+    sizes: '1408, 900'
   - url: vanity-fair-down-chute.jpg
     caption: 'Looking down the chute rail tracks from the top. Colored photographic postcard.'
+    sizes: '821, 523'
   - url: vanity-fair-ballroom-1907.jpg
     caption: 'A postcard photograph of the Ball room in the center, with “…Flames” visible on the bottom left and “One Cent Vaudeville”, 1907'
+    sizes: '1450, 900'
   - url: vanity-fair-dance-hall.jpg
     caption: 'Interior of the Dance Hall. Colored photographic postcard.'
+    sizes: '1409, 900'
   - url: vanity-fair-south-walk.jpg
     caption: 'View of the South Walk. Notice the sign for the “Infant Incubators” in the bottom right. Colored photographic postcard.'
+    sizes: '1280, 798'
   - url: vanity-fair-fighting-flames.jpg
     caption: 'Street scene of the “Fighting the Flames” attraction. Colored photographic postcard.'
+    sizes: '1436, 900'
 
 imagescredit: 'Postcards from various auction sites and Google Image Search.'
 ---

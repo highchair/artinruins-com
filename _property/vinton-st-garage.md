@@ -34,22 +34,36 @@ thumbnail: vinton-garage-thumb.jpg
 images:
   - url: vinton-garage-jh-2007-06-01.jpg
     alt: 'A one story, three bay wide with central garage door, tan stucco covered former car garage. The building was once faced in yellow tan glazed brick but has since been covered over.'
+    sizes: '1200, 900'
   - url: vinton-garage-jh-2007-06-02.jpg
+    sizes: '1200, 900'
   - url: vinton-garage-jh-2007-06-03.jpg
+    sizes: '1200, 900'
   - url: vinton-garage-jh-2007-06-04.jpg
+    sizes: '1200, 900'
   - url: vinton-garage-jh-2007-06-05.jpg
+    sizes: '1200, 900'
   - url: vinton-garage-jh-2007-06-06.jpg
+    sizes: '1200, 900'
   - url: vinton-garage-jh-2007-07-01.jpg
+    sizes: '1200, 900'
   - url: vinton-garage-jh-2007-08-01.jpg
+    sizes: '1200, 900'
   - url: vinton-garage-jh-2007-10-01.jpg
+    sizes: '1200, 900'
   - url: vinton-garage-jh-2007-10-02.jpg
+    sizes: '1200, 900'
   - url: vinton-garage-jh-2007-10-03.jpg
+    sizes: '1200, 900'
   - url: vinton-garage-sanborn-1899.jpg
-    caption: 'Sanborn Map 1899, Volume 1, plate 37, courtesy the Library of Congress — The garage has not been built yet. There is a three-story home on the corner of Broadway and Vinton, and one can see the shape of Barnaby’s Castle on the corner of Broadway and Sutton, with the Carriage House behind.'
+    caption: 'Sanborn Map 1899, Volume 1, plate 37, courtesy the Library of Congress — The garage has not been built yet. There is a three-story home on the corner of Broadway and Vinton, and one can see the shape of Barnaby’s Castle on the corner of Broadway and Sutton, with the Carriage House behind.'
+    sizes: '1200, 900'
   - url: vinton-garage-sanborn-1920.jpg
-    caption: 'Sanborn Map 1920, Volume 1, plate 37, courtesy the Library of Congress — The garage appears as “Vinton St. Garage, capacity 20 cars, concrete floor…” The nearby Barnaby Castle Carriage house is listed as an Ice Cream Factory.'
+    caption: 'Sanborn Map 1920, Volume 1, plate 37, courtesy the Library of Congress — The garage appears as “Vinton St. Garage, capacity 20 cars, concrete floor…” The nearby Barnaby Castle Carriage house is listed as an Ice Cream Factory.'
+    sizes: '1200, 900'
   - url: vinton-garage-sanborn-1951.jpg
-    caption: 'Sanborn Map 1920 republished 1951, Volume 1, plate 37, courtesy the Library of Congress — The garage is now listed as a Beer Warehouse, the three story house is gone, and a gas station with small annex building have appeared between where the 3-story house used to be and Barnaby’s Castle.'
+    caption: 'Sanborn Map 1920 republished 1951, Volume 1, plate 37, courtesy the Library of Congress — The garage is now listed as a Beer Warehouse, the three story house is gone, and a gas station with small annex building have appeared between where the 3-story house used to be and Barnaby’s Castle.'
+    sizes: '1200, 900'
 
 imagescredit: 'Sanborn Maps from the Library of Congress'
 

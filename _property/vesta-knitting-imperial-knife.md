@@ -35,25 +35,43 @@ thumbnail: imp-knife-jh-2006-03-06.jpg
 images:
   - url: imp-knife-jh-2006-03-01.jpg
     alt: 'The main building is a six story, flat-roofed, red brick mill with tall windows, copper corbelled cornice, and a rounded corner along the entrance to a interior courtyard. Three story, gable-roofed building also occupy the parcel, along with an early twentieth century slightly shorter but still six story, flat-roofed, rectangular, red brick mill.'
+    sizes: '1200, 900'
   - url: imp-knife-jh-2006-03-02.jpg
+    sizes: '1200, 900'
   - url: imp-knife-jh-2006-03-03.jpg
+    sizes: '1200, 900'
   - url: imp-knife-jh-2006-03-04.jpg
+    sizes: '1200, 900'
   - url: imp-knife-jh-2006-03-05.jpg
+    sizes: '1200, 900'
   - url: imp-knife-jh-2006-03-06.jpg
-    caption: 'The bubble window painting, lost and painted over. Notice, too, how all the architectural detail on this one-story addition are painted on. This building is now flat painted cinder block (see newer photos).'
+    caption: 'The bubble window painting, lost and painted over. Notice, too, how all the architectural detail on this one-story addition are painted on. This building is now flat painted cinder block (see newer photos).'
+    sizes: '1200, 900'
   - url: imp-knife-jh-2006-03-07.jpg
+    sizes: '1200, 900'
   - url: imp-knife-jh-2006-03-08.jpg
+    sizes: '1200, 900'
   - url: imp-knife-jh-2006-03-09.jpg
+    sizes: '1200, 900'
   - url: imp-knife-jh-2006-03-10.jpg
+    sizes: '1200, 900'
   - url: imp-knife-jh-2006-03-11.jpg
+    sizes: '1200, 900'
   - url: imp-knife-jh-2021-09-01.jpg
+    sizes: '1440, 900'
   - url: imp-knife-jh-2021-09-02.jpg
+    sizes: '768, 924'
   - url: imp-knife-jh-2021-09-03.jpg
+    sizes: '1200, 900'
   - url: imp-knife-jh-2021-09-04.jpg
+    sizes: '1200, 900'
   - url: imp-knife-jh-2021-09-05.jpg
+    sizes: '1440, 900'
   - url: imp-knife-jh-2021-09-06.jpg
+    sizes: '768, 924'
   - url: imp-knife-jh-2021-09-07.jpg
     caption: 'The same one-story addition shown in a photo from 2006, now without the trompe l’œil bubble window or corbelling'
+    sizes: '1440, 900'
 
 imagescredit:
 

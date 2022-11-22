@@ -31,20 +31,32 @@ thumbnail: wanskuck-hall-jh-2020-08-02.jpg
 
 images:
   - url: wanskuck-hall-habs-1982-01.jpg
-    caption: 'Robert O. Jones for the Rhode Island Historical Preservation Commission, October 1982'
     alt: 'A red brick almost square plan structure with a central entrance atop granite steps. The brickwork is ornamental, with colored bricks adding a repeating pattern along the building. Decorative brackets support a deep roof eave, and cut out stars adorn the woodwork at the rafter ends. '
+    caption: 'Robert O. Jones for the Rhode Island Historical Preservation Commission, October 1982'
+    sizes: '1440, 900'
   - url: wanskuck-hall-jh-2004-02-01.jpg
+    sizes: '1200, 900'
   - url: wanskuck-hall-jh-2004-02-02.jpg
+    sizes: '1200, 900'
   - url: wanskuck-hall-jh-2004-02-03.jpg
+    sizes: '1200, 900'
   - url: wanskuck-hall-jh-2004-02-04.jpg
+    sizes: '1200, 900'
   - url: wanskuck-hall-jh-2004-02-05.jpg
     caption: 'The Wanskuck Company Warehouse was built circa 1880. This 2-story brick struc- ture replaced an earlier wooden storehouse on this site. A plain cinder block constructued addition connects the warehouse to Wanskuck Hall'
+    sizes: '1200, 900'
   - url: wanskuck-hall-jh-2004-02-06.jpg
+    sizes: '1200, 900'
   - url: wanskuck-hall-jh-2020-08-01.jpg
+    sizes: '1200, 900'
   - url: wanskuck-hall-jh-2020-08-02.jpg
+    sizes: '1200, 900'
   - url: wanskuck-hall-jh-2020-08-03.jpg
+    sizes: '1200, 900'
   - url: wanskuck-hall-jh-2020-08-04.jpg
+    sizes: '768, 924'
   - url: wanskuck-hall-jh-2020-08-05.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions by National Register nomination photos for the Wanskuck Historic District'
 

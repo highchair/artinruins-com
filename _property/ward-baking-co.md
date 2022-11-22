@@ -29,38 +29,68 @@ thumbnail: 'ward-baking-pps-2011-02-01.jpg'
 
 images:
   - url: ward-baking-pps-2011-02-01.jpg
+    alt: 'A collection of one and two story red brick mill buildings with a decorative flatiron-style office building in yellow brick'
     caption: 'Photo provided by the Providence Preservation Society'
+    sizes: '1440, 900'
   - url: ward-baking-pps-2011-02-02.jpg
     caption: 'Photo provided by the Providence Preservation Society'
+    sizes: '1440, 900'
   - url: ward-baking-pps-2011-02-03.jpg
     caption: 'Photo provided by the Providence Preservation Society'
+    sizes: '800, 1067'
   - url: ward-baking-jh-2012-01-01.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-02.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-03.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-04.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-05.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-06.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-07.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-08.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-09.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-10.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-11.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-12.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-13.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-01-14.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-04-01.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-04-02.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2012-04-03.jpg
+    sizes: '1440, 900'
   - url: ward-baking-aerial-2008.jpg
     caption: 'Providence Historical Aerial Viewer 2008'
+    sizes: '1440, 900'
   - url: ward-baking-jh-2017-10-01.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2017-10-02.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2017-10-03.jpg
+    sizes: '3120, 800'
   - url: ward-baking-jh-2021-02-01.jpg
+    sizes: '1440, 900'
   - url: ward-baking-jh-2021-02-02.jpg
+    sizes: '1200, 900'
   - url: ward-baking-jh-2021-02-03.jpg
+    sizes: '1200, 900'
   - url: ward-baking-jh-2021-02-04.jpg
+    sizes: '1200, 900'
   - url: ward-baking-jh-2021-02-05.jpg
+    sizes: '1200, 900'
   
 imagescredit: 'Contributions by the Providence Preservation Society and the Providence Historical Aerial Viewer.'
 ---

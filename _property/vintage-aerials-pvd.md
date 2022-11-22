@@ -28,14 +28,20 @@ thumbnail: vintage-view-pvd-thumb.jpg
 
 images:
   - url: pvd-1903-unlabelled.jpg
-    caption: 'Photo by L. Baker 1903'
     alt: 'A wide panoramic black and white photo taken from a high vantage point looking north across the city of Providence at the turn of the 20th century. A dense Jewelry District is in the foreground, with the Providence River harbor on the right and the base of College Hill.'
+    caption: 'Photo by L. Baker 1903'
+    sizes: '3600, 1400'
   - url: pvd-1903-labelled.jpg
     caption: 'Photo by L. Baker 1903, with landmarks labelled'
+    sizes: '3600, 1400'
   - url: pvd-1983-unlabelled.jpg
+    sizes: '2560, 1600'
   - url: pvd-1983-labelled.jpg
+    sizes: '2560, 1600'
   - url: pvd-1995-downtown.jpg
+    sizes: '1475, 1013'
   - url: pvd-1995-hurricane-barrier.jpg
+    sizes: '1473, 1021'
 
 imagescredit: 'L. Baker, 1903; Unknown circa 1981'
 ---

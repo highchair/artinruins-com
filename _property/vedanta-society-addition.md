@@ -28,15 +28,26 @@ thumbnail: vedanta-trac-2012-04-02.jpg
 
 images:
   - url: vedanta-jh-2010-07-01.jpg
+    alt: 'A two-story, rectangular modern addition to a turn-of-the-centory Queen Anne style three-story house. Windows are mostly only on the second floor with a large open interior worship space.'
+    sizes: '1490, 800'
   - url: vedanta-trac-2010-12-01.jpg
+    sizes: '1200, 900'
   - url: vedanta-trac-2010-12-02.jpg
+    sizes: '1200, 900'
   - url: vedanta-trac-2012-04-01.jpg
+    sizes: '1600, 900'
   - url: vedanta-trac-2012-04-02.jpg
+    sizes: '1600, 900'
   - url: vedanta-trac-2012-04-03.jpg
+    sizes: '1600, 900'
   - url: vedanta-trac-2012-04-04.jpg
+    sizes: '1440, 900'
   - url: vedanta-trac-2012-04-05.jpg
+    sizes: '1200, 900'
   - url: vedanta-trac-2012-04-06.jpg
+    sizes: '1200, 900'
   - url: vedanta-trac-2012-04-07.jpg
+    sizes: '768, 924'
 
 imagescredit: 'Contributions from TRAC Builders and Warren Jagger'
 ---

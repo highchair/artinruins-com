@@ -31,27 +31,64 @@ excerpt: "A former steel and wire manufacturing facilty along the waterfront in 
 thumbnail: washburn-wire-pips-2003-11-03.jpg
 
 images:
-  #- url: washburn-wire-pj-unknown-01.jpg
-  #  caption: 'Image from the Providene Journal, date unknown. Likely before 1985'
   - url: washburn-wire-pips-2003-11-01.jpg
+    alt: 'A sprawling complex of large industrial buildings with wide open interior spaces capable of containing steel pouring and steel forming operations'
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2003-11-02.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2003-11-03.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2003-11-04.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2003-11-05.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '768, 924'
   - url: washburn-wire-pips-2003-11-06.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '768, 924'
   - url: washburn-wire-pips-2003-11-07.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2004-02-01.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2004-02-02.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2004-02-03.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2004-02-04.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2004-02-05.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2004-02-06.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '768, 924'
   - url: washburn-wire-pips-2004-03-01.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2004-03-02.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2004-03-03.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '768, 924'
   - url: washburn-wire-pips-2004-03-04.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '768, 924'
   - url: washburn-wire-pips-2004-03-05.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
   - url: washburn-wire-pips-2004-03-06.jpg
+    caption: 'Photo by PIPs works'
+    sizes: '1440, 900'
 
 imagescredit: 'All photos provided by PIPS Works — Providence Initiative for Psychogeographic Studies'
 

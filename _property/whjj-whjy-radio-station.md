@@ -86,7 +86,7 @@ Not much on formal history of the building itself. From aerial photos we put its
 
 _[A very lengthy story from Billboard.com](//www.billboard.com/articles/business/8464105/abandoned-radio-memories-dido-david-coverdale-incredible-hulk){:target="_blank"}, republished without permission_
 
-_by Gary Trust_
+_by Gary Trust_  
 **Billboard.com** | July 6, 2018
 
 #### Eerie Waves: Memories of an Abandoned Radio Home, From Dido to Whitesnake's David Coverdale (& the Incredible Hulk)

@@ -29,23 +29,42 @@ thumbnail: waterplace-towers-jh-2020-10-04.jpg
 
 images:
   - url: waterplace-towers-jh-2006-04-01.jpg
+    alt: 'A set of towers, one sixteen stories and one nineteen stories, in a modern style with one face of steel and glass and balconies and other sides of beige and tan panels with punctuations of smaller, rectangular windows.'
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2006-04-02.jpg
+    sizes: '800, 1067'
   - url: waterplace-towers-jh-2006-04-03.jpg
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2006-04-04.jpg
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2006-07-01.jpg
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2006-07-02.jpg
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2006-07-03.jpg
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2007-01-01.jpg
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2007-01-02.jpg
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2007-01-03.jpg
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2007-01-04.jpg
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2020-10-01.jpg
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2020-10-02.jpg
+    sizes: '1440, 900'
   - url: waterplace-towers-jh-2020-10-03.jpg
+    sizes: '1440, 900'
   - url: waterplace-towers-jh-2020-10-04.jpg
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2020-10-05.jpg
+    sizes: '1440, 900'
   - url: waterplace-towers-jh-2020-10-06.jpg
+    sizes: '1200, 900'
   - url: waterplace-towers-jh-2020-10-07.jpg
+    sizes: '1200, 900'
 
 imagescredit:
 ---

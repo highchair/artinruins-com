@@ -101,7 +101,7 @@ What we have seen, though, since the Gilbane project in 2010 is an erosion of th
 
 #### Providence OKs Brown’s new performing arts center and dorm with wellness facilities
 
-_by Christine Dunn_
+_by Christine Dunn_  
 **Providence Journal** | April 2, 2018 (abridged)
 
 The City Plan Commission voted unanimously Monday night in favor of amendments to Brown University’s master plan that would add two new buildings at the College Hill campus: a performing arts center and a student wellness center and residence hall. […]

@@ -109,7 +109,7 @@ The original Westin towers are fine. This hotel always makes us think of Monopol
 
 #### Procaccianti Group Unveils Its Design
 
-_by Andrea Stape_
+_by Andrea Stape_  
 **Providence Journal** | April 13, 2005
 
 At 356 feet tall, or about 31 stories, the proposed hotel tower next to The Westin Providence is being designed to make a statement. The hotel and condo tower The Procaccianti Group is planning to attach to the Westin will include 105 condominiums, 200 hotel rooms, a parking garage for residents and an arcade filled with restaurants and shops on the first floor, according to a presentation by the Cranston company’s architectural firm yesterday.

@@ -34,38 +34,67 @@ thumbnail: wanskuck-mill-jh-2004-02-01.jpg
 
 images:
   - url: wanskuck-mill-ppl-1920c.jpg
-    caption: 'Photograph of Wanskuck Mills on Branch Avenue from the John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
     alt: 'A wide, five story red brick mill with central stairtower that rises to an octagonal bell tower. A small two story office building sits in front with a wide, double wide stone arch doorway.'
+    caption: 'Photograph of Wanskuck Mills on Branch Avenue from the John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    sizes: '1440, 900'
   - url: wanskuck-mill-ppl-aerial.jpg
-    caption: 'Undated aerial image from T.M.I. Boyle. Notice the large mill pond on the left of the photo — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'Undated aerial image from T.M.I. Boyle. Notice the large mill pond on the left of the photo — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1566, 1200'
   - url: wanskuck-mill-habs-1981.jpg
     caption: 'Charlene Kay Roise for the Rhode Island Historical Preservation Commission, September 1981'
+    sizes: '1440, 900'
   - url: wanskuck-mill-jh-2004-02-01.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2004-02-02.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2004-02-03.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2004-02-04.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2004-02-05.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2004-02-06.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2019-07-01.jpg
+    sizes: '1440, 900'
   - url: wanskuck-mill-jh-2020-03-01.jpg
+    sizes: '1440, 900'
   - url: wanskuck-mill-jh-2020-03-02.jpg
+    sizes: '1440, 900'
   - url: wanskuck-mill-jh-2020-03-03.jpg
+    sizes: '1440, 900'
   - url: wanskuck-mill-jh-2020-03-04.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2020-03-05.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2020-03-06.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2020-08-01.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2020-08-02.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2020-08-03.jpg
+    sizes: '1440, 900'
   - url: wanskuck-mill-jh-2020-08-04.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2020-08-05.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2020-08-06.jpg
+    sizes: '1440, 900'
   - url: wanskuck-mill-jh-2020-08-07.jpg
+    sizes: '1440, 900'
   - url: wanskuck-mill-jh-2020-08-08.jpg
+    sizes: '1440, 900'
   - url: wanskuck-mill-jh-2020-08-09.jpg
+    sizes: '1440, 900'
   - url: wanskuck-mill-jh-2020-08-10.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2020-08-11.jpg
+    sizes: '1440, 900'
   - url: wanskuck-mill-jh-2020-08-12.jpg
+    sizes: '1200, 900'
   - url: wanskuck-mill-jh-2020-09-01.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2020-09-01
 

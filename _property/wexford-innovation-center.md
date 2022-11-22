@@ -119,7 +119,7 @@ We think the design is pleasing enough, modern in a classic, simple way, and not
 
 #### Innovation Center, future home of Brown’s School of Professional Studies, breaks ground
 
-_by O'rya Hyde-Keller_
+_by O'rya Hyde-Keller_  
 **Brown.edu** | September 25, 2017 (abridged)
 
 To celebrate the groundbreaking for a new Innovation Center on former Interstate 195 land in the heart of Providence’s Jewelry District, Brown University President Christina Paxson joined Rhode Island Governor Gina Raimondo, the state’s entire congressional delegation and a packed lineup of government and business leaders on Monday, Sept. 25.
