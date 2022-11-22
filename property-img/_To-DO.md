@@ -8,6 +8,7 @@ HABS/HAER, Photographer Name, Year
 
 Contributions from Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>
 
+<a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>
 
 ## Snippets to keep consistent
 

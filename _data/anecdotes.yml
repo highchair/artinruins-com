@@ -1,6 +1,16 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: bonanza-pvd
+  person: 'Heather Jean Toupin'
+  date: '2022-11-19'
+  content: '(via Facebook) the photo booth! This was the common hub to and from Providence hardcore shows in the 80s, I still have pics of me and Cindy Holt from that photo booth!'
+
+- property: bonanza-pvd
+  person: 'Karen McAninch'
+  date: '2022-11-19'
+  content: 'They had a photo booth there and we have photos we took there after our wedding that we used to get a Hostel pass for our honeymoon in Europe (1981).'
+
 - property: crescent-park
   person: 'Deb Cabana'
   date: '2022-11-16'
