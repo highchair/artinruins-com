@@ -29,12 +29,20 @@ thumbnail: two-thomas-resideprop-01.jpg
 images:
   - url: two-thomas-wh-1990-08-01.jpg
     caption: 'View of 2 Thomas Street from the roof of One Financial Plaza, August 20, 2990, by Will Hart'
+    alt: 'A modern but designed-to-look-old four story condomunium building with a rounded turret feature on the busy street corner.'
+    sizes: '1024, 640'
   - url: two-thomas-ARC-1997c-02.jpg
+    sizes: '720, 450'
   - url: two-thomas-ARC-1997c-01.jpg
+    sizes: '720, 450'
   - url: two-thomas-resideprop-01.jpg
+    sizes: '1440, 900'
   - url: two-thomas-jh-2020-10-01.jpg
+    sizes: '1200, 900'
   - url: two-thomas-jh-2020-10-02.jpg
+    sizes: '1200, 900'
   - url: two-thomas-jh-2020-10-03.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions by <a href="//www.flickr.com/photos/cthulhuwho1" target="_blank">Will Hart</a>, the Armory Revival Company, and real estate agencies'
 ---

@@ -33,25 +33,41 @@ thumbnail: trayne-jh-2019-07-01.jpg
 
 images:
   - url: trayne-ppl-postcard-01.jpg
+    alt: 'A five story downtown highrise building articulated with a ground-floor commercial space and a second story clad in brick with limestone-style accents. The third to fifth floors are clad in light tan beige brick with even lighter details and cornice. The windows on the front façade are set in two-story high vertical bands, with the two central bands topped with half-round windows.'
     caption: 'Rhode Island Postcard collection, Providence Public Library'
-    alt: ''
+    sizes: '740, 1036'
   - url: trayne-ppl-1954-01.jpg
     caption: 'Circa 1954 during the first & second floor renovations — Rhode Island Postcard collection, Providence Public Library'
+    sizes: '740, 1036'
   - url: trayne-jh-2003-10-01.jpg
+    sizes: '590, 826'
   - url: trayne-jh-2018-12-01.jpg
+    sizes: '740, 1036'
   - url: trayne-jh-2018-12-02.jpg
+    sizes: '1200, 900'
   - url: trayne-jh-2019-04-01.jpg
+    sizes: '1440, 900'
   - url: trayne-wit-lapham-jh-2019-04-01.jpg
-    caption: 'The new addition to the Trayne Building on the far right — on the far left is the Lapham building with the shorter Wit Building in the middle.'
+    caption: 'The new addition to the Trayne Building on the far right — on the far left is the Lapham building with the shorter Wit Building in the middle.'
+    sizes: '1440, 900'
   - url: trayne-jh-2019-04-02.jpg
+    sizes: '1440, 900'
   - url: trayne-jh-2019-04-03.jpg
+    sizes: '740, 1036'
   - url: trayne-jh-2019-04-04.jpg
+    sizes: '1200, 900'
   - url: trayne-jh-2019-05-01.jpg
+    sizes: '1440, 900'
   - url: trayne-jh-2019-05-02.jpg
+    sizes: '740, 1036'
   - url: trayne-jh-2019-07-01.jpg
+    sizes: '1440, 900'
   - url: trayne-jh-2021-02-01.jpg
+    sizes: '740, 1036'
   - url: trayne-jh-2021-02-02.jpg
+    sizes: '740, 1036'
   - url: trayne-jh-2021-02-03.jpg
+    sizes: '740, 1036'
 
 imagescredit: 'Contributions by the <a href="//provlibdigital.org/islandora/object/islandora%3A21482" target="_blank">Rhode Island Postcard collection</a> and the <a href="//provlibdigital.org/islandora/object/islandora%3A10171" target="_blank">Rhode Island Photo collection</a> at the Providence Public Library'
 
@@ -82,6 +98,7 @@ The renovation of the Trayne Building will include an addition to the east side 
 
 — _Captured February 12, 2020 from http://cornishlp.com/tag/lapham-building_
 
+***
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 

@@ -32,62 +32,105 @@ thumbnail: union-wad-jh-2007-04-03.jpg
 
 images:
   - url: union-wad-j-p-fisk-the-fire.jpg
-    caption: 'Painting of the 1870 fire dated 1872, oil on canvas, by American artist J.P. Fisk'
     alt: 'A complex of nineteen red brick mill buildings dating from 1870, mostly in a Classic revival style with simple adornments and details. Some buildings are simpler and more industrial in their structure. A tall, round smokestack is at the bottom center of the mill off of a boiler house that supplied the power to equipment throughout the mills.'
+    caption: 'Painting of the 1870 fire dated 1872, oil on canvas, by American artist J.P. Fisk'
+    sizes: '317, 470'
   - url: union-wad-jh-2007-04-01.jpg
+    sizes: '768, 924'
   - url: union-wad-jh-2007-04-02.jpg
+    sizes: '1440, 900'
   - url: union-wad-jh-2007-04-03.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2007-04-04.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2007-04-05.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2007-04-06.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2007-04-07.jpg
+    sizes: '1440, 900'
   - url: union-wad-jh-2007-04-08.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2007-04-09.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2007-04-10.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2007-04-11.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2007-04-12.jpg
+    sizes: '1440, 900'
   - url: union-wad-jh-2007-04-13.jpg
+    sizes: '768, 924'
   - url: union-wad-jh-2007-04-14.jpg
+    sizes: '768, 924'
   - url: union-wad-jh-2007-04-15.jpg
+    sizes: '768, 924'
   - url: union-wad-jh-2007-04-16.jpg
+    sizes: '768, 924'
   - url: union-wad-jh-2007-11-01.jpg
+    sizes: '1440, 900'
   - url: union-wad-jh-2007-11-02.jpg
+    sizes: '1440, 900'
   - url: union-wad-jh-2007-11-03.jpg
+    sizes: '768, 924'
   - url: union-wad-ra-2010-10-01.jpg
     caption: 'Photo by Ryan Ademan'
+    sizes: '356, 480'
   - url: union-wad-ra-2010-10-02.jpg
     caption: 'Photo by Ryan Ademan'
+    sizes: '640, 480'
   - url: union-wad-ra-2010-10-03.jpg
     caption: 'Photo by Ryan Ademan'
+    sizes: '640, 475'
   - url: union-wad-jh-2010-10-01.jpg
+    sizes: '1440, 900'
   - url: union-wad-jh-2010-10-02.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2010-10-03.jpg
+    sizes: '1440, 900'
   - url: union-wad-jh-2010-10-04.jpg
+    sizes: '1440, 900'
   - url: union-wad-jh-2010-10-05.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2010-10-06.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2010-10-07.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2010-10-08.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2010-10-09.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2010-10-10.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2012-05-01.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2012-05-02.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2012-05-03.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2012-05-04.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2012-05-05.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2012-05-06.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2012-05-07.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2012-05-08.jpg
+    sizes: '1200, 900'
   - url: union-wad-jh-2012-05-09.jpg
+    sizes: '768, 924'
   - url: union-wad-jh-2012-05-10.jpg
+    sizes: '1440, 900'
   - url: union-wad-goog-earth-2010.jpg
     caption: 'Google Earth, April 2010'
+    sizes: '1440, 900'
   - url: union-wad-goog-earth-2016.jpg
     caption: 'Google Earth, August 2016'
+    sizes: '1440, 900'
 
 imagescredit: '<a href="//www.artnet.com/artists/j-p-fisk/the-union-wadding-co-fire-pawtucket-rhode-island-BAHoxQKQnCjur6X8Sxytgw2" target="_blank">Painting by J.P. Fisk</a>, photos contributions by Ryan Ademan and Google Earth'
   
-#'Contributions from the National Register nomination form by Edward Connors and Associates'
-
 #external:
 #  - source: 'Providence Journal (permalink)'
 #    url: https://perma.cc/MQ4Z-Z9K4

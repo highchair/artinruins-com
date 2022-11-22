@@ -33,24 +33,37 @@ thumbnail: to-kalon-jh-2020-03-01.jpg
 
 images:
   - url: to-kalon-pawtlib-postcard-undated.jpg
-    caption: 'Undated postcard — Pawtucket Library Collection on Flickr'
     alt: 'A two-story Georgian-revival brick manor with hipped roof punctuated by four dormers on each side and a central cross-gable pediment over a protriding entrance of columns and a dentilled cornice'
+    caption: 'Undated postcard — Pawtucket Library Collection on Flickr'
+    sizes: '1200, 764'
   - url: to-kalon-pawtlib-1961-01.jpg
-    caption: 'Across the I-95 “S” curve, August, 1961 — Pawtucket Library Collection on Flickr'
+    caption: 'Across the I-95 “S” curve, August, 1961 — Pawtucket Library Collection on Flickr'
+    sizes: '1200, 750'
   - url: to-kalon-pawtlib-1967-01.jpg
-    caption: 'From 100th Anniversary Program, 1967 — Pawtucket Library Collection on Flickr'
+    caption: 'From 100th Anniversary Program, 1967 — Pawtucket Library Collection on Flickr'
+    sizes: '1200, 802'
   - url: to-kalon-pawtlib-1967-02.jpg
-    caption: 'Bowling Alley, from 100th Anniversary Program, 1967 — Pawtucket Library Collection on Flickr'
+    caption: 'Bowling Alley, from 100th Anniversary Program, 1967 — Pawtucket Library Collection on Flickr'
+    sizes: '1200, 802'
   - url: to-kalon-pawtlib-1967-03.jpg
-    caption: 'Billiard Room, from 100th Anniversary Program, 1967 — Pawtucket Library Collection on Flickr'
+    caption: 'Billiard Room, from 100th Anniversary Program, 1967 — Pawtucket Library Collection on Flickr'
+    sizes: '1200, 802'
   - url: to-kalon-jh-2020-03-01.jpg
+    sizes: '1440, 900'
   - url: to-kalon-jh-2020-03-02.jpg
+    sizes: '1200, 900'
   - url: to-kalon-jh-2020-03-03.jpg
+    sizes: '1440, 900'
   - url: to-kalon-jh-2020-03-04.jpg
+    sizes: '1440, 900'
   - url: to-kalon-jh-2020-03-05.jpg
+    sizes: '1200, 900'
   - url: to-kalon-jh-2020-03-06.jpg
+    sizes: '1200, 900'
   - url: to-kalon-jh-2020-03-07.jpg
+    sizes: '768, 924'
   - url: to-kalon-jh-2020-03-08.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the Pawucket Library collection on Flickr'
 

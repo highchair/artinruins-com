@@ -34,43 +34,62 @@ thumbnail: union-station-ppl-1950-tunnel.jpg
 
 images:
   - url: union-station-ppl-1902-exterior.jpg
-    caption: 'Exterior high-vantage view point (guessing from the first Industrial Trust building) with street trolleys and horse carts. The park, then called City Park, and Bajnotti’s fountain was in place by 1902, but Burnside’s monument will not be placed until 1906 — Rhode Island Photograph Collection, Providence Public Library'
     alt: 'A wide, low multi-building complex designed at the end of the 19th-century for multi-modal transportation. Trains would come and go by the array of tracks in the rear elevated above a syste mof roadways for trolleys, buses, or cars. Steel supported with yellow brick facing, granite foundations, and brown sandstone embellishments'
+    caption: 'Exterior high-vantage view point (guessing from the first Industrial Trust building) with street trolleys and horse carts. The park, then called City Park, and Bajnotti’s fountain was in place by 1902, but Burnside’s monument will not be placed until 1906 — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1600, 1000'
   - url: union-station-ppl-1904-exterior.jpg
-    caption: 'Front elevation view with the newly finished State House gleaming in the background. The State Normal School is also behind, which finished construction in 1898. Looks like landscaping was not completed around the State House, so we date the photo 1904, right after its completion — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'Front elevation view with the newly finished State House gleaming in the background. The State Normal School is also behind, which finished construction in 1898. Looks like landscaping was not completed around the State House, so we date the photo 1904, right after its completion — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1600, 1000'
   - url: union-station-ppl-1906-trolley.jpg
-    caption: 'An electric trolley car makes it approach (or departure?) under the covered walkway in front of Union Station — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'An electric trolley car makes it approach (or departure?) under the covered walkway in front of Union Station — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1280, 894'
   - url: union-station-ppl-1910-exterior.jpg
-    caption: 'Similar high-vantage view to the previous featuring City Park, but dated later because General Burnside’s monument was moved to the new park in 1906. A Model T Ford (1908) is not anywhere to be seen yet, so guessing the date is circa 1910 — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'Similar high-vantage view to the previous featuring City Park, but dated later because General Burnside’s monument was moved to the new park in 1906. A Model T Ford (1908) is not anywhere to be seen yet, so guessing the date is circa 1910 — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1600, 1168'
   - url: union-station-ppl-postcard-01.jpg
-    caption: 'Post 1903 (Central Fire Station), pre-1920 (Union Trust four bays wide until 1920) hand-colored postcard view of the rail yards behind Union Station — Edward Ozog Photograph Collection, Providence Public Library'
+    caption: 'Post 1903 (Central Fire Station), pre-1920 (Union Trust four bays wide until 1920) hand-colored postcard view of the rail yards behind Union Station — Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1440, 900'
   - url: union-station-ppl-1920-exterior.jpg
-    caption: 'Around 1915 to 1920 probably. A handsome taxi car with white-wall tires in on the scene — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'Around 1915 to 1920 probably. A handsome taxi car with white-wall tires in on the scene — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1200, 900'
   - url: union-station-ppl-1928-exterior.jpg
-    caption: 'Around 1920 to 1928 probably, right before the onset of the Great Depression in 1929. Cars are more prevalent but still in the running-board style — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'Around 1920 to 1928 probably, right before the onset of the Great Depression in 1929. Cars are more prevalent but still in the running-board style — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1380, 900'
   - url: union-station-ppl-1932-04-01.jpg
-    caption: 'April 19, 1932, a New Haven Rail Road train stops westbound at Union Station with the Industrial Trust tower in the backround — Edward Ozog Photograph Collection, Providence Public Library'
+    caption: 'April 19, 1932, a New Haven Rail Road train stops westbound at Union Station with the Industrial Trust tower in the backround — Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1600, 1000'
   - url: union-station-ppl-1933-aerial.jpg
-    caption: '1933 aerial view straight down over Capitol Hill and what is now Waterplace Park. Look at all that railroad track and supporting rail yards and depot buildings — Avery Lord Aerial Photograph Collection, Providence Public Library'
+    caption: '1933 aerial view straight down over Capitol Hill and what is now Waterplace Park. Look at all that railroad track and supporting rail yards and depot buildings — Avery Lord Aerial Photograph Collection, Providence Public Library'
+    sizes: '1600, 1200'
   - url: union-station-ppl-1939-tracks.jpg
-    caption: 'A small capture of the literal tons of steel track that comprised the lines leading to and from Union Station — Edward Ozog Photograph Collection, Providence Public Library'
+    caption: 'A small capture of the literal tons of steel track that comprised the lines leading to and from Union Station — Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1333, 1000'
   - url: union-station-ppl-postcard-02.jpg
-    caption: 'Undated, likely 1930–1940 based on the cars. Notice the American Screw Company’s Bay State Mill in the way distant center — Edward Ozog Photograph Collection, Providence Public Library'
+    caption: 'Undated, likely 1930–1940 based on the cars. Notice the American Screw Company’s Bay State Mill in the way distant center — Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1600, 1000'
   - url: union-station-ppl-1941-fire.jpg
-    caption: 'A fire in 1941 damaged the east wing of the station — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'A fire in 1941 damaged the east wing of the station — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1300, 880'
   - url: union-station-ppl-1942-interior.jpg
-    caption: '1942 interior view with passengers and workers — Rhode Island Photograph Collection, Providence Public Library'
+    caption: '1942 interior view with passengers and workers — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1179, 1000'
   - url: union-station-ppl-1950-tunnel.jpg
-    caption: 'View of the underpass below the station which buses used to load and unload passengers, but the center lanes allows cars to travel Francis Street towards Gaspee, likely 1950s — Rhode Island Photograph Collection, Providence Public Library'
+    caption: 'View of the underpass below the station which buses used to load and unload passengers, but the center lanes allows cars to travel Francis Street towards Gaspee, likely 1950s — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1200, 900'
   - url: union-station-habs-1982-aerial.jpg
     caption: 'Aerial photo by William Barrett, 1982-83, Library of Congress'
+    sizes: '1600, 900'
   - url: union-station-habs-1982-rear.jpg
-    caption: 'Looking south from Francis Street towards viaduct — Photo by William Barrett, 1982-83, Library of Congress'
+    caption: 'Looking south from Francis Street towards viaduct — Photo by William Barrett, 1982-83, Library of Congress'
+    sizes: '1440, 900'
   - url: union-station-habs-1982-west.jpg
-    caption: 'West building, north and west sides, from Gaspee St. — Photo by William Barrett, 1982-83, Library of Congress'
+    caption: 'West building, north and west sides, from Gaspee St. — Photo by William Barrett, 1982-83, Library of Congress'
+    sizes: '1440, 900'
   - url: union-station-cs-1987-04-01.jpg
     caption: '“Union Station: April 26, 1987 Fire,” Chester Smolski image collection, Rhode Island College'
+    sizes: '1440, 900'
   - url: union-station-jh-2013-11-01.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2013-11-01
 

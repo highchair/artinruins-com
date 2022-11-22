@@ -4,10 +4,10 @@ slug: thurston-manufacturing
 aka: "Thurston Saw/Atlantic Rayon"
 date-modified: 2020-05-02 21:42
 
-built: 1873
-demolition: 2004
+built: '1873'
+demolition: '2004'
 decade: '1870-1879'
-date-added: 2003
+date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
@@ -27,46 +27,88 @@ thumbnail: thurston-saw-jh-2003-03-01.jpg
 
 images:
   - url: thurston-saw-jh-2002-12-01.jpg
+    alt: 'A collection of large, red brick, interconnected one, three, four, and five story mill buildings with typical mill constriction of heavy timbers and mostly flat roofs. The oldest portion of the complex is likely a four story gable roofed building that was built up around and almost consumed by the newer buildings.'
+    sizes: '1440, 900'
   - url: thurston-saw-jh-2002-12-02.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2002-12-03.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2002-12-04.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2002-12-05.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-01.jpg
+    sizes: '1440, 900'
   - url: thurston-saw-jh-2003-03-02.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-03.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-04.jpg
+    sizes: '1440, 900'
   - url: thurston-saw-jh-2003-03-05.jpg
+    sizes: '1440, 900'
   - url: thurston-saw-jh-2003-03-06.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-07.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-08.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-09.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-10.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-11.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-12.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-13.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-14.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-15.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2003-03-16.jpg
+    sizes: '1440, 900'
   - url: thurston-saw-rt-2004-01.jpg
+    sizes: '1106, 830'
   - url: thurston-saw-rt-2004-02.jpg
+    sizes: '1106, 830'
   - url: thurston-saw-rt-2004-03.jpg
+    sizes: '1106, 830'
   - url: thurston-saw-rt-2004-04.jpg
+    sizes: '1106, 830'
   - url: thurston-saw-jh-2004-04-01.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2004-04-02.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2004-05-01.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2004-05-02.jpg
+    sizes: '1440, 900'
   - url: thurston-saw-jh-2004-05-03.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2004-05-04.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2004-05-05.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2004-05-06.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2004-05-07.jpg
+    sizes: '1440, 900'
   - url: thurston-saw-jh-2004-05-08.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-jh-2004-06-01.jpg
+    sizes: '1440, 900'
   - url: thurston-saw-jh-2004-06-02.jpg
+    sizes: '1440, 900'
   - url: thurston-saw-jh-2004-06-03.jpg
+    sizes: '1200, 900'
   - url: thurston-saw-aerial-2003.jpg
+    sizes: '1440, 900'
   - url: thurston-saw-aerial-2008.jpg
+    sizes: '1440, 900'
   - url: thurston-saw-aerial-2011.jpg
+    sizes: '1440, 900'
 
 imagescredit: Contributions by Rich Townley. Aerials from the Providence Historical Aerial Viewer.
 ---

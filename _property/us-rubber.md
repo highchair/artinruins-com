@@ -33,49 +33,69 @@ thumbnail: us-rubber-2011-03-03.jpg
 
 images:
   - url: us-rubber-2006-03-01.jpg
-    caption: 'East of Eagle Street, the U.S. Rubber Company Storage Building 24 built 1923'
     alt: 'A collection of 20 buildings, most of red brick with rectangular windows, some with segmental arches, and most with granite sills. Descriptions of each building are available and browsable as Heading Level 6 on this page.'
+    caption: 'East of Eagle Street, the U.S. Rubber Company Storage Building 24 built 1923'
+    sizes: '1600, 900'
   - url: us-rubber-2006-03-02.jpg
     caption: 'Detail of the U.S. Rubber Company Storage Building 24 built 1923'
+    sizes: '1200, 900'
   - url: us-rubber-2006-03-03.jpg
     caption: 'Building 24 on the left with the one-story Building 37 and the face of the U.S. Rubber Company Laboratory on the right. In the middle distance the American Locomotive Automobile Company Building 51 can be seen.'
+    sizes: '1200, 900'
   - url: us-rubber-2006-03-04.jpg
     caption: 'Circa 2006 businesses located in the U.S. Rubber Company Laboratory'
+    sizes: '1200, 900'
   - url: us-rubber-2006-03-05.jpg
     caption: 'U.S. Rubber Company Laboratory Building 25 built 1913'
+    sizes: '1200, 900'
   - url: us-rubber-2006-03-06.jpg
     caption: 'Building 24 in center with Building 37 built between 1937 and 1951 in the foreground right. On the left in the distance is the face of Banigan Rubber Company Carpenter and Last Shop built 1896'
+    sizes: '1440, 900'
   - url: us-rubber-2011-03-01.jpg
     caption: 'West of Eagle Street now, with Banigan Rubber Company Carpenter and Last Shop built 1896 on the left and 160 foot long concrete covered passageway built between 1913 and 1921. Photo taken from Building 11.'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-02.jpg
     caption: 'Combined walkway, bridge, and ground-floor enclosure connecting Buildings 10 and 24 built between 1913 and 1921. Photo taken from Building 11.'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-03.jpg
     caption: 'Concrete passageway leading from Building 10 to Building 24 and over Eagle Street. Photo taken from Building 11.'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-04.jpg
     caption: 'Underneath the concrete passageway, on the west side of Eagle Street, with Building 12 on the left'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-05.jpg
     caption: 'Courtyard between Building 12 and the concrete passageway. The west facade of Building 24 is seen in the center.'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-06.jpg
     caption: 'The label on the wall of U.S. Rubber Company Boiler House Building 12 built between 1918 and 1921'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-07.jpg
-    caption: 'U.S. Rubber Company Building 9 built 1911 — Hard to see through this dirty window photograph, but a panel at the apex of the gable roof reads “RRCo 1911” for Revere Rubber Company.'
+    caption: 'U.S. Rubber Company Building 9 built 1911 — Hard to see through this dirty window photograph, but a panel at the apex of the gable roof reads “RRCo 1911” for Revere Rubber Company.'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-08.jpg
     caption: 'Another view of U.S. Rubber Company Building 9'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-09.jpg
     caption: 'Inside Building 18, likely facing southwest'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-10.jpg
     caption: 'Likely inside Building 11 or 18 still. Could these be the old letters that used to be on top of the Merchants Cold Storage Building that spelled “PROVIDENCE COLD STORAGE”?'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-11.jpg
     caption: 'A view southwest with Buildings 11 and 18 on the left and Buildings 10, 9, and 8 on the right. Overhead are passageways connecting the second floors of Buildings 18 and 10 and 14 and 8, respectively.'
+    sizes: '768, 924'
   - url: us-rubber-2011-03-12.jpg
     caption: 'Detail of the comparatively modern joinery structure between Buildings 18 on the left and 14 on the right.'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-13.jpg
     caption: 'Banigan Rubber Company Building 14 built 1896 on the right, connected to Building 18 in the center rear, connected with a second story passageway to Building 8.'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-14.jpg
     caption: 'U.S Rubber Company Building 8 built between 1911 and 1918. Some of Building 5, oriented perpendicular to Buildings 8, 9, and 10 is seen on the far left. Photo taken from inside the second floor of Building 15 and 16.'
+    sizes: '1200, 900'
   - url: us-rubber-2011-03-15.jpg
     caption: 'U.S. Rubber Company Machine and Carpentry Shop Building 15 built 1911'
-
+    sizes: '1200, 900'
 
 imagescredit:
 

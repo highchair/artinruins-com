@@ -31,59 +31,108 @@ thumbnail: trolley-barn-jh-2004-02-15.jpg
 
 images:
   - url: trolley-barn-sc-2002-08-01.jpg
+    alt: 'A very large, open, airplace-hangar type of space built at the turn of the 20th century. A red brick barn-like gable ended building with central cross gabel and monitor roof. Two levels are contained inside along the outside retaining walls with a very high interior space between.'
+    sizes: '640, 400'
   - url: trolley-barn-sc-2002-08-02.jpg
+    sizes: '640, 480'
   - url: trolley-barn-sc-2002-08-03.jpg
+    sizes: '640, 480'
   - url: trolley-barn-sc-2002-08-04.jpg
+    sizes: '640, 480'
   - url: trolley-barn-sc-2002-08-05.jpg
+    sizes: '480, 640'
   - url: trolley-barn-sc-2002-08-06.jpg
+    sizes: '480, 640'
   - url: trolley-barn-sc-2002-08-07.jpg
+    sizes: '480, 640'
   - url: trolley-barn-sc-2002-08-08.jpg
+    sizes: '640, 480'
   - url: trolley-barn-sc-2002-08-09.jpg
+    sizes: '640, 480'
   - url: trolley-barn-sc-2002-08-10.jpg
+    sizes: '640, 480'
   - url: trolley-barn-sc-2002-08-11.jpg
+    sizes: '640, 480'
   - url: trolley-barn-sc-2002-08-12.jpg
+    sizes: '480, 640'
   - url: trolley-barn-sc-2002-08-13.jpg
+    sizes: '480, 640'
   - url: trolley-barn-sc-2002-08-14.jpg
+    sizes: '480, 640'
   - url: trolley-barn-sc-2002-08-15.jpg
+    sizes: '640, 480'
   - url: trolley-barn-jh-2004-pana-ext.jpg
+    sizes: '1638, 640'
   - url: trolley-barn-jh-2004-pana-cranston-st.jpg
+    sizes: '3200, 489'
   - url: trolley-barn-jh-2004-02-01.jpg
+    sizes: '1024, 640'
   - url: trolley-barn-jh-2004-02-02.jpg
+    sizes: '1024, 640'
   - url: trolley-barn-jh-2004-02-03.jpg
+    sizes: '1024, 640'
   - url: trolley-barn-jh-2004-02-04.jpg
+    sizes: '1024, 640'
   - url: trolley-barn-jh-2004-02-05.jpg
+    sizes: '1024, 640'
   - url: trolley-barn-jh-2004-02-06.jpg
+    sizes: '1024, 640'
   - url: trolley-barn-jh-2004-02-07.jpg
+    sizes: '675, 900'
   - url: trolley-barn-jh-2004-02-08.jpg
+    sizes: '1024, 640'
   - url: trolley-barn-jh-2004-02-09.jpg
+    sizes: '1024, 640'
   - url: trolley-barn-jh-2004-02-10.jpg
+    sizes: '1024, 640'
   - url: trolley-barn-jh-2004-02-11.jpg
+    sizes: '1024, 683'
   - url: trolley-barn-jh-2004-02-12.jpg
+    sizes: '1024, 683'
   - url: trolley-barn-jh-2004-02-13.jpg
+    sizes: '1024, 683'
   - url: trolley-barn-jh-2004-02-14.jpg
+    sizes: '1024, 640'
   - url: trolley-barn-jh-2004-02-15.jpg
+    sizes: '1440, 900'
   - url: trolley-barn-ajm-2004-02-01.jpg
-    caption: "Photo by AJM"
+    caption: 'Photo by AJM'
+    sizes: '1440, 900'
   - url: trolley-barn-ajm-2004-07-01.jpg
-    caption: "Photo by AJM"
+    caption: 'Photo by AJM'
+    sizes: '1440, 900'
   - url: trolley-barn-ajm-2004-07-02.jpg
-    caption: "Photo by AJM"
+    caption: 'Photo by AJM'
+    sizes: '1200, 900'
   - url: trolley-barn-ajm-2004-07-03.jpg
-    caption: "Photo by AJM"
+    caption: 'Photo by AJM'
+    sizes: '1200, 900'
   - url: trolley-barn-jh-2005-06-01.jpg
+    sizes: '1440, 900'
   - url: trolley-barn-jh-2005-06-02.jpg
+    sizes: '1440, 900'
   - url: trolley-barn-jh-2005-06-03.jpg
+    sizes: '1440, 900'
   - url: trolley-barn-jh-2005-06-04.jpg
+    sizes: '1440, 900'
   - url: trolley-barn-jh-2005-06-05.jpg
+    sizes: '900, 900'
   - url: trolley-barn-jh-2005-06-06.jpg
+    sizes: '1200, 900'
   - url: trolley-barn-jh-2005-06-07.jpg
+    sizes: '900, 900'
   - url: trolley-barn-jh-2005-06-08.jpg
+    sizes: '1440, 900'
   - url: trolley-barn-gf-2005-06-01.jpg
-    caption: "Photo by Greg Fortin"
+    caption: 'Photo by Greg Fortin'
+    sizes: '966, 768'
   - url: trolley-barn-gf-2005-06-02.jpg
-    caption: "Photo by Greg Fortin"
+    caption: 'Photo by Greg Fortin'
+    sizes: '1024, 768'
   - url: trolley-barn-jh-2005-06-09.jpg
+    sizes: '1200, 900'
   - url: trolley-barn-jh-2005-06-10.jpg
+    sizes: '1440, 900'
 
 imagescredit: Contributions by Sarah Clover, AJM, & Greg Fortin
 ---

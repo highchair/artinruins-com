@@ -34,17 +34,25 @@ thumbnail: us-rubber-dbvw-01.jpg
 images:
   - url: us-rubber-jh-2006-03-01.jpg
     alt: 'A singular building with expansive interior space. It is a one-story red brick building with large windows and a flat roof. The Valley Street northern side has a shorter roofline, with a main central hall that has the tallest roofline, and a smaller outcrop building on the southern side with a new roofdeck added.'
+    sizes: '1200, 900'
   - url: us-rubber-jh-2006-03-02.jpg
+    sizes: '1200, 900'
   - url: us-rubber-jh-2006-03-03.jpg
+    sizes: '768, 924'
   - url: us-rubber-jh-2006-03-04.jpg
+    sizes: '1200, 900'
   - url: us-rubber-dbvw-01.jpg
     caption: 'Photo by Heidi Gumala for DBVW Architects from the Waterfire.org website'
+    sizes: '1600, 900'
   - url: us-rubber-trac-01.jpg
     caption: 'Photo from the TRAC Builders website'
+    sizes: '1350, 900'
   - url: us-rubber-waterfire-int-01.jpg
     caption: 'Photo from the Waterfire.org website'
+    sizes: '1561, 900'
   - url: us-rubber-dbvw-02.jpg
     caption: 'Photo by Heidi Gumala for DBVW Architects from Russell Morins’ website'
+    sizes: '1350, 900'
 
 imagescredit: 'Contributions by <a href="//waterfire.org/about-the-waterfire-arts-center/our-spaces/" target="_blank">Waterfire.org,</a> <a href="//tracbuilders.com/waterfire-arts-center-2/" target="_blank">TRAC Builders,</a> and <a href="//morins.com/the-waterfire-arts-center" target="_blank">Russell Morins</a>'
 
