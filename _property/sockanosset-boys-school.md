@@ -2,9 +2,9 @@
 title: "Sockanosset Boys Training School"
 slug: sockanosset-boys-school
 aka: "Chapel View"
-date-modified: 2020-11-22 15:00
-update: 'Added three vintage photos from a Facebook post by Larry DePetrillo'
-update-image: sockanosset-undated-shop.jpg
+date-modified: 2022-11-22 15:00
+update: 'Added four vintage photos from a Facebook post by Larry DePetrillo'
+update-image: sockanosset-undated-overview.jpg
 
 built: 1881-1891
 demolition:
@@ -32,6 +32,9 @@ excerpt: "A collection of Victorian Gothic cottages and a stone chapel turned in
 thumbnail: sockanosset-jh-2002-03-07.jpg
 
 images:
+  - url: sockanosset-undated-overview.jpg
+    caption: 'Vintage photo posted by Larry DePetrillo to Facebook'
+    sizes: '1600, 900'
   - url: sockanosset-undated-gates.jpg
     caption: 'Vintage photo posted by Larry DePetrillo to Facebook'
     sizes: '1272, 795'

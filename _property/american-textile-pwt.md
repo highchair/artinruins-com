@@ -2,7 +2,9 @@
 title: "American Textile Mill"
 slug: american-textile-pwt
 aka: 
-date-modified: 2021-02-27 12:00
+date-modified: 2022-06-24 12:00
+update: 'Added a recent photo from June of this year'
+update-image: amertextile-jh-2022-06-01.jpg
 
 built: '1899, circa 1920'
 demolition: 
@@ -34,42 +36,74 @@ thumbnail: amertextile-jh-2003-05-10.jpg
 
 images:
   - url: amertextile-ppl-date-unknown-01.jpg
-    caption: 'Date unknown (likely 1900–1910), before the 1920 weave shed and fourth floor penthouse — Rhode Island Photograph Collection</a>, Providence Public Library'
     alt: 'A four-story, twelve bay wide main red brick building, nine bays deep, with an ornate stair tower on the south east corner featuring a group of three arched windows, topped by brickwork design outlining five square crosses, topped by diamond brick patterns surrounding three circular windows, all topped by a double hip roof.'
+    caption: 'Date unknown (likely 1900–1910), before the 1920 weave shed and fourth floor penthouse — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1440, 900'
   - url: amertextile-pawtlib-date-unknown-01.jpg
-    caption: 'Date unknown, before the 1920 weave shed but after the fourth floor penthouse — Pawtucket Library collection'
+    caption: 'Date unknown, before the 1920 weave shed but after the fourth floor penthouse — Pawtucket Library collection'
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-01.jpg
+    sizes: '1024, 768'
   - url: amertextile-jh-2003-05-02.jpg
+    sizes: '1024, 768'
   - url: amertextile-jh-2003-05-03.jpg
+    sizes: '1024, 768'
   - url: amertextile-jh-2003-05-04.jpg
+    sizes: '1024, 768'
   - url: amertextile-jh-2003-05-05.jpg
+    sizes: '1024, 768'
   - url: amertextile-jh-2003-05-06.jpg
+    sizes: '768, 1024'
   - url: amertextile-jh-2003-05-07.jpg
+    sizes: '1024, 768'
   - url: amertextile-jh-2003-05-08.jpg
+    sizes: '1024, 768'
   - url: amertextile-jh-2003-05-09.jpg
+    sizes: '1024, 768'
   - url: amertextile-jh-2003-05-10.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-11.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-12.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-13.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-14.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-15.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-16.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-17.jpg
+    sizes: '768, 1024'
   - url: amertextile-jh-2003-05-18.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-19.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-20.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-21.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-22.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-23.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-24.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-25.jpg
+    sizes: '1200, 900'
   - url: amertextile-jh-2003-05-26.jpg
+    sizes: '1200, 900'
+  - url: amertextile-jh-2022-06-01.jpg
+    sizes: '1440, 900'
   - url: amertextile-sanborn-1902-01.jpg
     caption: 'Sanborn Insurance Map from 1902, Brown University Digital repository. The weave shed has not yet been built and the 4th floor has not been added (note the “3” in the bottom left corner of the building footprint’s outline)'
+    sizes: '1440, 900'
   - url: amertextile-sanborn-1923-01.jpg
     caption: 'Sanborn Insurance Map from 1923, Brown University Digital repository. The weave shed has been built and the 4th floor has been added (note the “4th” along the yellow lines over the main structure, upside down)'
+    sizes: '1440, 900'
 
-mostrecentimage: 2003-05-01
+mostrecentimage: 2022-06-01
 
 imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A11068" target="_blank">Rhode Island Photograph Collection</a> at the Providence Public Library, <a href="//www.flickr.com/photos/pawtucketlibrary/46946460295/in/photolist-2fQQMqb-25iQTKn-2ewuT4e/" target="_blank">Pawtucket Library Flickr collection</a>, and the <a href="//repository.library.brown.edu/studio/item/bdr:212320/" target=_blank">Brown University Digital Repository</a>.'
 
