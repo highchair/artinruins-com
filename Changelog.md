@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2022-11-23
+
+Changed
++ Realized that the reason why the `jekyll-image-size` build times were so slow was because we are specifying a web URL for the images. Therefore, every time a build occurred the plug-in was going out to the web to get the image and determine its dimensions. Changing a key variable in the `property-item.md` layout speeds up build times significantly
+
 ## 2022-11-19
 
 Added
