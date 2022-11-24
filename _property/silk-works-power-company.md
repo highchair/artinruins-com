@@ -34,18 +34,25 @@ thumbnail: silk-works-jh-2008-08-04.jpg
 images:
   - url: property-description-overview.jpg
     alt: 'A collection of three buildings that have been used together and converted to residential in recent years. All are four stories but or varied construction. More details in the history notes.'
+    sizes: '1200, 800'
   - url: silk-works-jh-2009-09-01.jpg
     caption: 'View from Roosevelt Ave looking south west, Pennsylvania Textile Company Silk Mill in foreground'
+    sizes: '0, 0'
   - url: silk-works-jh-2008-08-02.jpg
     caption: 'View from parking lot looking south east, Pennsylvania Textile Company Silk Mill in foreground, showing difference in original rusticated block construction vs. the newer laminate panels replacing the portion of the building that collapsed (see News stories)'
+    sizes: '1200, 900'
   - url: silk-works-jh-2008-08-03.jpg
     caption: 'View from parking looking south west, Lyon Silk Works in foreground where it adjoins the Pennsylvania Textile Company Silk Mill on the northtern side'
+    sizes: '1200, 900'
   - url: silk-works-jh-2008-08-04.jpg
     caption: 'View from Roosevelt Ave and Clay looking north west, Central Falls Power Company Building in foreground'
+    sizes: '1200, 900'
   - url: silk-works-jh-2009-05-02.jpg
     caption: 'View from Roosevelt Ave and Clay looking north west, Central Falls Power Company Building in foreground and Lyon Silk Works in background'
+    sizes: '1200, 900'
   - url: silk-works-jh-2009-05-03.jpg
     caption: 'View from Clay St. looking north east, Lyon Silk Works in foreground, built into the natural elevation of Clay St.'
+    sizes: '1200, 900'
 
 imagescredit: 'Contribution from Google Maps'
 

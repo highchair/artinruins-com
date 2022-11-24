@@ -34,44 +34,83 @@ thumbnail: royal-mill-jh-2003-05-06.jpg
 images:
   - url: royal-mill-jh-2003-05-01.jpg
     alt: 'A 400 foot long stone walled mill building four stories high with impressive towers on two ends runs along Providence Street at a corner of the road where the Pawtucket River also runs. Across the river, just down from a dam, and connected by a 65 foot long truss bridge at the fourth story level, is a four-story red brick mill of relatively modern construction.'
+    sizes: '1440, 900'
   - url: royal-mill-jh-2003-05-02.jpg
+    sizes: '1200, 900'
   - url: royal-mill-jh-2003-05-03.jpg
+    sizes: '1440, 900'
   - url: royal-mill-jh-2003-05-04.jpg
+    sizes: '1440, 900'
   - url: royal-mill-jh-2003-05-05.jpg
+    sizes: '1440, 900'
   - url: royal-mill-jh-2003-05-06.jpg
+    sizes: '1200, 900'
   - url: royal-mill-jh-2003-05-07.jpg
+    sizes: '1200, 900'
   - url: ace-dyeing-jh-2003-05-01.jpg
+    sizes: '1440, 900'
   - url: ace-dyeing-jh-2003-05-02.jpg
+    sizes: '1440, 900'
   - url: royal-mill-jh-2003-05-08.jpg
+    sizes: '1200, 900'
   - url: ace-dyeing-jh-2003-05-03.jpg
+    sizes: '1200, 900'
   - url: ace-dyeing-jh-2003-05-04.jpg
+    sizes: '1440, 900'
   - url: ace-dyeing-jh-2003-05-05.jpg
+    sizes: '1440, 900'
   - url: ace-dyeing-jh-2003-05-06.jpg
+    sizes: '1200, 900'
   - url: royal-mill-jh-2003-05-09.jpg
+    sizes: '1440, 900'
   - url: ace-dyeing-jh-2003-05-07.jpg
+    sizes: '1200, 900'
   - url: ace-dyeing-jh-2003-05-08.jpg
+    sizes: '1200, 900'
   - url: ace-dyeing-jh-2003-05-09.jpg
+    sizes: '1200, 900'
   - url: ace-dyeing-jh-2003-05-10.jpg
+    sizes: '1200, 900'
   - url: ace-dyeing-jh-2003-05-11.jpg
+    sizes: '1200, 900'
   - url: royal-mill-jh-2003-05-10.jpg
+    sizes: '1440, 900'
   - url: royal-mill-jh-2003-05-11.jpg
+    sizes: '1200, 900'
   - url: royal-mill-jh-2003-05-12.jpg
+    sizes: '1440, 900'
   - url: ace-dyeing-jh-2003-05-12.jpg
+    sizes: '1200, 900'
   - url: ace-dyeing-jh-2003-05-13.jpg
+    sizes: '1200, 900'
   - url: ace-dyeing-jh-2003-05-14.jpg
+    sizes: '1200, 900'
   - url: royal-mill-jh-2003-05-13.jpg
+    sizes: '1440, 900'
   - url: royal-mill-jh-2003-05-14.jpg
+    sizes: '1200, 900'
   - url: ace-dyeing-jh-2003-05-15.jpg
+    sizes: '1200, 900'
   - url: ace-dyeing-jh-2004-06-16.jpg
+    sizes: '1440, 900'
   - url: royal-mill-jh-2003-05-15.jpg
+    sizes: '1440, 900'
   - url: royal-mill-jh-2003-05-16.jpg
+    sizes: '1200, 900'
   - url: royal-mill-jh-2003-05-17.jpg
+    sizes: '768, 924'
   - url: royal-mill-jh-2004-06-18.jpg
+    sizes: '1440, 900'
   - url: royal-mill-jh-2004-06-19.jpg
+    sizes: '1440, 900'
   - url: royal-mill-jh-2004-06-20.jpg
+    sizes: '768, 924'
   - url: royal-mill-jh-2004-06-21.jpg
+    sizes: '768, 924'
   - url: royal-mill-jh-2004-06-22.jpg
+    sizes: '1200, 900'
   - url: royal-mill-jh-2004-06-23.jpg
+    sizes: '1200, 900'
 
 imagescredit: 
 
@@ -111,6 +150,8 @@ In 1836, a second mill was built, probably at the upper privilege on the west ba
 
 Under the Knights, the 1836 and 1844 buildings were joined by a 4-story, stone connector
 which lengthened the mill to 420 feet. The roof was also flattened and two massive towers were built. On 27 January 1919, the mill, then producing cotton sheeting, was destroyed by fire at a loss of $1,200,000. The fire started in a tower and spread quickly throughout the mill — despite the mill’s length, it had no dividing walls to contain the fire. Adding to the danger, one of the massive towers collapsed, destroying part of the sprinkler system, which reduced water pressure in the rest of the system. Only the outer walls survived. The mill was rebuilt between 1919 and 1921, and continues to be used by tenants for light manufacture. The dam and raceway also survive, no longer in use, and worker housing still exists along and adjacent to Providence Street.
+
+***
 
 _From the National Register Nomination form, 2004_
 

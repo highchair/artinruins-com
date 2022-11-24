@@ -32,34 +32,59 @@ thumbnail: slater-cotton-jh-2009-03-01.jpg
 
 images:
   - url: hamlet-lanes-1940c-01.jpg
-    caption: 'Bowling Alley photo and postcard from hallway display. “Hamlet 30 Lanes”, with a postmark from 1957: “One of New England’s largest and finest duckpin bowling centers. Site of 1955 record-breaking National Tournament.”'
     alt: 'A very large 340 foot by 92 foot five story red brick mill building featuring large windows, two handsome towers along one side, a central tower on the other, and a sawtooth-roofed weave shed at the back.'
+    caption: 'Bowling Alley photo and postcard from hallway display. “Hamlet 30 Lanes”, with a postmark from 1957: “One of New England’s largest and finest duckpin bowling centers. Site of 1955 record-breaking National Tournament.”'
+    sizes: '1024, 768'
   - url: hamlet-lanes-1950c-01.jpg
     caption: 'Bowling Alley photo and postcard from hallway display. Hamlet 30 Lanes was apparently a tenant in the building. '
+    sizes: '1024, 768'
   - url: slater-cotton-habs-1982-01.jpg
     caption: 'Photo by Warren Jagger 1982'
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2007-02-01.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2007-02-02.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2007-02-03.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2007-02-04.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2007-02-05.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2007-02-06.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2007-02-07.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2007-02-08.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2007-02-09.jpg
+    sizes: '768, 924'
   - url: slater-cotton-jh-2007-02-10.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2008-05-01.jpg
+    sizes: '1440, 900'
   - url: slater-cotton-jh-2008-05-02.jpg
+    sizes: '1440, 900'
   - url: slater-cotton-jh-2008-05-03.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2008-05-04.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2008-08-01.jpg
+    sizes: '1440, 900'
   - url: slater-cotton-jh-2008-09-01.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2008-09-02.jpg
+    sizes: '768, 924'
   - url: slater-cotton-jh-2008-09-03.jpg
+    sizes: '768, 924'
   - url: slater-cotton-jh-2009-03-01.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2009-03-02.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2009-03-03.jpg
+    sizes: '1200, 900'
   - url: slater-cotton-jh-2009-03-04.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contribution by Warren Jagger for the National Register nomination form, Church Hill Industrial District'
 

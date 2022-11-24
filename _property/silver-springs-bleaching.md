@@ -4,10 +4,10 @@ slug: silver-springs-bleaching
 aka: 'the U.S. Finishing Company'
 date-modified: 2020-05-02 21:43
 
-built: 1850-1880
-demolition: 2001
+built: '1850-1880'
+demolition: '2001'
 decade: '1860-1869'
-date-added: 2002
+date-added: '2002'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
@@ -27,17 +27,30 @@ thumbnail: silver-spring-thumb.jpg
 
 images:
   - url: 01.jpg
+    alt: 'Multiple red brick mills that were two and three story, flat-roofed or slightly pitched roofed structures, some with clerestory monitors and corbeled cornices and large rectangular windows, some with semi-arched transoms'
+    sizes: '480, 360'
   - url: 02.jpg
+    sizes: '480, 360'
   - url: 03.jpg
+    sizes: '480, 360'
   - url: 04.jpg
+    sizes: '480, 360'
   - url: 05.jpg
+    sizes: '480, 360'
   - url: 06.jpg
+    sizes: '480, 360'
   - url: 07.jpg
+    sizes: '480, 360'
   - url: 08.jpg
+    sizes: '480, 360'
   - url: 09.jpg
+    sizes: '480, 360'
   - url: 10.jpg
+    sizes: '480, 360'
   - url: 11.jpg
+    sizes: '480, 360'
   - url: 12.jpg
+    sizes: '510, 383'
 
 imagescredit: 
 ---
@@ -45,10 +58,12 @@ imagescredit:
 ### Reason for Demolition
 This large mill complex was demolished for a new Home Depot shopping center. There were tenants (small businesses, studios, a karate school, a rug store) up until demolition. This project came along right before the [Eagle Square]({% link _property/eagle-square.md %}) fight, which raised a lot of alarms. Unfortunately, it just wasn’t on the radar for most people, so it happened without any fuss. If anyone has more of the story on the developer and the fight to save the building, or more photos, please contact us. 
 
-In June 2004, A.I.R. added an aerial photo from the HABS/HAER ([Historic American Buildings Survey/Historic American Engineering Record](http://memory.loc.gov/ammem/browse/ListSome.php?category=Architecture,+Landscape)) database. Notice the Zayre’s behind it. Zayre’s was a department store, similar to an Ames which came later on. The site of this Ames is now the site of a Wal-Mart (since ~2008).
+In June 2004, A.I.R. added an aerial photo from the HABS/HAER ([Historic American Buildings Survey/Historic American Engineering Record](http://memory.loc.gov/ammem/browse/ListSome.php?category=Architecture,+Landscape)) database. Notice the Zayre’s behind it. Zayre’s was a department store, similar to an Ames which came later on. The site of this Ames is now the site of a Walmart (since ~2008).
+
 
 ### Current Events
-Currently a Home Depot occupies this land (2020). The brick facade and mill-like details were a direct result of community pressure to make the shoping center blend in with the industrial surroundings on Charles Street. 
+Currently a Home Depot occupies this land (2020). The brick facade and mill-like details were a direct result of community pressure to make the shopping center blend in with the industrial surroundings on Charles Street. 
+
 
 ### History
 
@@ -58,11 +73,13 @@ Although incorporated in 1864 as the Silver Spring Bleaching and Dyeing Company,
 
 In 1877, the company engaged in textile printing, turning out 14,000 pieces a week by 1891. Corliss steam engines and electric motors provided 3,300 horsepower for the 51⁄2-acre complex. There were two separate boiler plants, one which remains. It has huge arched windows and buttressed walls, and once contained three mammoth boilers. Only the conveyor belts of the chain-grate stoking system can be observed inside. The complex as a whole has not been changed greatly, though several of the old 1, 2, and 3-story brick structures have been destroyed. Several small firms now occupy the site.
 
+***
+
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
-The Silver Springs Bleaching and Dyeing Co. was formed in 1864 when Henry Lippitt and Charles Merriman bought the buildings, land, and water rights to Frieze and Dow’s bleachery on the west side of Charles Street. Frieze and Dow had gained a reputation for the extraordinary whiteness of their goods which was due to the clear water produced by the spring at the West River which ran through the mill site.
+The **Silver Springs Bleaching and Dyeing Co.** was formed in 1864 when Henry Lippitt and Charles Merriman bought the buildings, land, and water rights to Frieze and Dow’s bleachery on the west side of Charles Street. Frieze and Dow had gained a reputation for the extraordinary whiteness of their goods which was due to the clear water produced by the spring at the West River which ran through the mill site.
 
-Nothing remains today [ed: this was written in 1981] of the original Frieze and Dow mill. In the late 1870’s, the Company began to have problems getting a clean supply of water due to the new mills located up river. A dam and two reservoirs were built in the hopes that the pollutants would settle to the bottom. This did not help, and the company began to get water from driven wells and the city water supply. By 1897 the Company had expanded considerably and employed 575 workers. In 1905 it was bought by a large combine, the US Finishing Company. The Finishing company sold the plant in 1939.
+Nothing remains today [ed: this was written in 1981] of the original Frieze and Dow mill. In the late 1870’s, the Company began to have problems getting a clean supply of water due to the new mills located up river. A dam and two reservoirs were built in the hopes that the pollutants would settle to the bottom. This did not help, and the company began to get water from driven wells and the city water supply. By 1897 the Company had expanded considerably and employed 575 workers. In 1905 it was bought by a large combine, the **US Finishing Company**. The Finishing company sold the plant in 1939.
 
 Many of the original 1864 structures remained before demolition, although much had be altered or added to. The mills were 2- and 3-story brick flat-roofed or slightly pitched roofed structures, some with clerestory monitors and corbeled cornices. Behind the boiler house was a tall brick chimney with the names of both Silver Springs Company and US Finishing painted on it.
 

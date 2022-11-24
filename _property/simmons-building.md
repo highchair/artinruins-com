@@ -33,21 +33,33 @@ thumbnail: ten-davol-jh-2020-12-03.jpg
 
 images:
   - url: simmons-jb-1980-02-01.jpg
-    caption: 'North elevation showing cast iron store fronts and granite belt courses over the windows — February 1980, Jeffrey Blydenburgh for the National Register Nomination form'
     alt: 'A mostly rectagular four-story, red brick building with a newly added stairtower on its south face. Its east side is set on an angle to meet with the angle of Eddy Street. Windows are mostly twelve over twelve with straight transoms and granite lintels. The storefronts along Point St are cast iron. A simple brick cornice runs around the flat roof which has a late 20th-century fifth-floor penthouse.'
+    caption: 'North elevation showing cast iron store fronts and granite belt courses over the windows — February 1980, Jeffrey Blydenburgh for the National Register Nomination form'
+    sizes: '1440, 900'
   - url: simmons-jb-1980-02-02.jpg
     caption: 'East elevation fronting on Eddy Street showing stair tower, elevator shaft, and entry added at a later date — February 1980, Jeffrey Blydenburgh for the National Register Nomination form'
+    sizes: '1300, 900'
   - url: simmons-jb-1980-02-03.jpg
     caption: 'Typical interior showing wood timbers carring joists on 12" centers with floor decking and finish floors with ceiling covered in tongue and groove wood boards — February 1980, Jeffrey Blydenburgh for the National Register Nomination form'
+    sizes: '1300, 900'
   - url: ten-davol-jh-2010-11-01.jpg
+    sizes: '1200, 900'
   - url: ten-davol-jh-2011-08-01.jpg
+    sizes: '1440, 900'
   - url: ten-davol-jh-2019-10-01.jpg
+    sizes: '1440, 900'
   - url: ten-davol-jh-2020-03-01.jpg
+    sizes: '1200, 900'
   - url: ten-davol-jh-2020-12-01.jpg
+    sizes: '1200, 900'
   - url: ten-davol-jh-2020-12-02.jpg
+    sizes: '1440, 900'
   - url: ten-davol-jh-2020-12-03.jpg
+    sizes: '1440, 900'
   - url: ten-davol-jh-2020-12-04.jpg
+    sizes: '1440, 900'
   - url: ten-davol-jh-2020-12-05.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2020-12-01
 

@@ -5,10 +5,10 @@ aka:
 date-modified: 2020-06-26 16:00
 
 built: 'circa 1948'
-demolition: 2014
+demolition: '2014'
 redeveloped: 
 decade: '1940-1949'
-date-added: 2004
+date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
@@ -31,16 +31,27 @@ images:
   #- url: sears-pj-mm-1993-01.jpg
   #- url: sears-pj-mm-1993-02.jpg
   - url: sears-jh-2003-07-01.jpg
+    sizes: '1024, 640'
   - url: sears-jh-2003-07-02.jpg
+    sizes: '1024, 640'
   - url: sears-jh-2003-07-03.jpg
+    sizes: '1024, 640'
   - url: sears-jh-2009-03-01.jpg
+    sizes: '1440, 900'
   - url: sears-jh-2009-03-02.jpg
+    sizes: '1440, 900'
   - url: sears-jh-2009-03-03.jpg
+    sizes: '1440, 900'
   - url: sears-jh-2014-10-01.jpg
+    sizes: '1600, 900'
   - url: sears-jh-2014-11-01.jpg
+    sizes: '1600, 900'
   - url: sears-ril-2014-12-01.jpg
+    sizes: '1440, 900'
   - url: sears-jh-2014-12-01.jpg
+    sizes: '1600, 900'
   - url: sears-jh-2014-12-02.jpg
+    sizes: '1600, 900'
 
 imagescredit: 'Contribution by RI Lurky.'
 

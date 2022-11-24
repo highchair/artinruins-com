@@ -36,57 +36,88 @@ images:
   #  caption: 'Photo from the Providence Journal archive, staff photo, 1990'
   - url: shooters-aerial-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997'
+    sizes: '1440, 900'
   - url: shooters-jh-2003-06-01.jpg
+    alt: 'A wooden frame two story structure built on top of a concrete pier base and flat slab base. Being close to the water, its concrete base protected it from heavy seas. The upper floors were a nightclub and bar, and it once had an exterior pool for patrons.'
+    sizes: '1440, 900'
   - url: shooters-jh-2003-06-02.jpg
+    sizes: '1440, 900'
   - url: shooters-jh-2003-06-03.jpg
+    sizes: '1440, 900'
   - url: shooters-lf-2005-01.jpg
     caption: 'Photo by Lou Fancy 2005'
+    sizes: '700, 525'
   - url: shooters-lf-2005-02.jpg
     caption: 'Photo by Lou Fancy 2005'
+    sizes: '700, 525'
   - url: shooters-lf-2005-03.jpg
     caption: 'Photo by Lou Fancy 2005'
+    sizes: '700, 525'
   - url: shooters-lf-2005-04.jpg
     caption: 'Photo by Lou Fancy 2005'
+    sizes: '700, 525'
   - url: shooters-lf-2005-05.jpg
     caption: 'Photo by Lou Fancy 2005'
+    sizes: '700, 525'
   - url: shooters-lf-2005-06.jpg
     caption: 'Photo by Lou Fancy 2005'
+    sizes: '700, 525'
   - url: shooters-lf-2005-07.jpg
     caption: 'Photo by Lou Fancy 2005'
+    sizes: '700, 525'
   - url: shooters-lf-2005-08.jpg
     caption: 'Photo by Lou Fancy 2005'
+    sizes: '700, 525'
   - url: shooters-lf-2005-09.jpg
     caption: 'Photo by Lou Fancy 2005'
+    sizes: '700, 525'
   - url: shooters-jh-2009-02-01.jpg
+    sizes: '1024, 640'
   - url: shooters-kp-2009-05-01.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 768'
   - url: shooters-kp-2009-05-02.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 768'
   - url: shooters-kp-2009-05-03.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 768'
   - url: shooters-kp-2009-05-04.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 768'
   - url: shooters-kp-2009-05-05.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 768'
   - url: shooters-kp-2009-05-06.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 768'
   - url: shooters-kp-2009-05-07.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 768'
   - url: shooters-kp-2009-05-08.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 768'
   - url: shooters-kp-2009-05-09.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 768'
   - url: shooters-kp-2009-05-10.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 768'
   - url: shooters-kp-2009-05-11.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 768'
   - url: shooters-kp-2009-05-12.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 768'
   - url: shooters-kp-2009-05-13.jpg
     caption: 'Photo by Kerri-Ann Pontifice 2009'
+    sizes: '1024, 716'
   - url: shooters-gsv-2011-05-01.jpg
+    sizes: '1024, 640'
   - url: shooters-jh-2012-03-01.jpg
+    sizes: '1440, 900'
   - url: shooters-jh-2012-03-02.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from Lou Fancy, Kerri-Ann Pontifice, and Google Streetview'
 

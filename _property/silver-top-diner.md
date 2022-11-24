@@ -4,11 +4,11 @@ slug: silver-top-diner
 aka: 
 date-modified: 2020-06-16 19:30
 
-built: 1937
+built: '1937'
 demolition: 
-redeveloped: 2016
+redeveloped: '2016'
 decade: '1930-1939'
-date-added: 2002
+date-added: '2002'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI', 'Pawtucket, RI', 'Cranston, RI' ]
@@ -31,36 +31,51 @@ thumbnail: silver-top-eg-1993-01.jpg
 
 images:
   - url: silver-top-jb-1974-01.jpg
+    alt: 'A metal and enamel-clad pre-manifactured diner car resembling a streamlined train car. The exterior has blue, silver, and red details. A central entrance vestibule is located on the front. The diner is long but not very deep — again, much like a train or subway car. The interior is a mix of built-in-place metal, enamel, and formica booths, countertop, stools, and stainless steel kitchen area with flat-top grill and good-prep station.'
     caption: 'Oil painting by John Baeder from his book “Road Well Taken”'
-    alt: 'A metal and enamel-clad pre-manifactured diner car resembling a streamlined train car. The exterior has blue, silver, and red details. A central entrance vestibule is located on the front. The diner is long but not very deep — again, much like a train or subway car. The interior is a mix of built-in-place metal, enamel, and formica booths, countertop, stools, and stainless steel kitchen area with flat-top grill and good-prep station.'
+    sizes: '1455, 900'
   - url: silver-top-lc-1983-05-01.jpg
-    caption: 'May 1983, a sign on the roof reads “Joann’s Silver Top” — Photo by Larry Cultrera'
+    caption: 'May 1983, a sign on the roof reads “Joann’s Silver Top” — Photo by Larry Cultrera'
+    sizes: '1440, 900'
   - url: silver-top-rg-1990-01.jpg
     caption: 'Photo by Richard J.S. Gutman'
+    sizes: '936, 658'
   - url: silver-top-vb-interior-01.jpg
     caption: 'Unknown photographer for the Valley Breeze'
+    sizes: '480, 321'
   - url: silver-top-eg-1993-01.jpg
     caption: 'Photo by Erik Gould'
+    sizes: '1102, 900'
   - url: silver-top-eg-1993-02.jpg
     caption: 'Photo by Erik Gould'
+    sizes: '1248, 989'
   - url: silver-top-HABS-1998-01.jpg
     caption: 'Photo from the Historic American Buildings Survey'
+    sizes: '1440, 900'
   - url: silver-top-eg-1998-01.jpg
     caption: 'Photo by Erik Gould'
+    sizes: '1341, 900'
   - url: silver-top-eg-1998-02.jpg
     caption: 'Photo by Erik Gould'
+    sizes: '1500, 874'
   - url: silver-top-jb-2001-01.jpg
     caption: 'Photo by Jim Boyle'
+    sizes: '1200, 800'
   - url: silver-top-pj-2002-01.jpg
     caption: 'Unknown photographer for the Providence Journal'
+    sizes: '1320, 861'
   - url: silver-top-pl-2002-01.jpg
     caption: 'Photo part of the Pawtucket Library Flickr collection'
+    sizes: '1200, 684'
   - url: silver-top-pl-2002-02.jpg
     caption: 'Photo part of the Pawtucket Library Flickr collection'
+    sizes: '1200, 679'
   - url: silver-top-mp-2002-01.jpg
     caption: 'Photo by Michael Pompilli'
+    sizes: '902, 600'
   - url: silver-top-mp-2002-02.jpg
     caption: 'Photo by Michael Pompilli'
+    sizes: '902, 600'
 
 
 imagescredit: 'Images from John Baeder, Larry Cultrera, Richard J.S. Gutman, the Valley Breeze, Erik Gould, Jim Boyle, Michael Pompilli, and the Pawtucket Library.'
