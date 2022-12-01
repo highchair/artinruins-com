@@ -29,14 +29,24 @@ thumbnail: RIC-Residence-Hall.jpg
 
 images:
   - url: ric-residence-jh-2007-08-01.jpg
+    alt: 'A five story residence hall set in a horseshoe shape. A main entrance sits in the center, and the first floor is comprised of alternating courses of red brick and tan brick. Upper floors are all tan brick, with sections of white panels to break the façade up into chuncks.'
+    sizes: '1440, 900'
   - url: ric-residence-jh-2007-08-02.jpg
+    sizes: '1200, 900'
   - url: ric-residence-jh-2007-08-03.jpg
+    sizes: '1200, 900'
   - url: ric-residence-jh-2007-08-04.jpg
+    sizes: '1440, 900'
   - url: ric-residence-jh-2007-08-05.jpg
+    sizes: '1440, 900'
   - url: ric-residence-jh-2007-08-06.jpg
+    sizes: '1200, 900'
   - url: ric-residence-jh-2007-08-07.jpg
+    sizes: '1440, 900'
   - url: ric-residence-jh-2007-08-08.jpg
+    sizes: '1440, 900'
   - url: ric-residence-jh-2007-08-09.jpg
+    sizes: '1200, 900'
 
 imagescredit: 
 ---

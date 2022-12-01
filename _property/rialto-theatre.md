@@ -33,24 +33,38 @@ thumbnail: rialto-jh-2007-02-01.jpg
   
 images:
   - url: westminster-congregational-litho.jpg
-    caption: 'Early lithograph, undated, uncredited, of the Westminster Congregational Church, 119 Mathewson Street — Library of Congress Survey HABS RI-290'
     alt: 'A two-story, five-bay yellow brick building with central entrance and parapet. Green cornice brackets and window sashes add color, while small cast-stone medallions of musical instruments adorn spaces between large, round-topped windows on the second floor'
+    caption: 'Early lithograph, undated, uncredited, of the Westminster Congregational Church, 119 Mathewson Street — Library of Congress Survey HABS RI-290'
+    sizes: '1350, 900'
   - url: rialto-ppl-date-unknown.jpg
     caption: 'The original structure, now much altered. The peak of the original pediment can be seen in our last photo — From the Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1200, 960'
   - url: rialto-jh-2007-02-01.jpg
+    sizes: '1440, 900'
   - url: rialto-jh-2007-02-02.jpg
+    sizes: '1200, 900'
   - url: rialto-jh-2007-02-03.jpg
+    sizes: '1200, 900'
   - url: rialto-jh-2007-02-04.jpg
+    sizes: '768, 924'
   - url: rialto-jh-2007-02-05.jpg
+    sizes: '1200, 900'
   - url: rialto-jh-2007-02-06.jpg
+    sizes: '1200, 900'
   - url: rialto-jh-2007-02-07.jpg
     caption: 'Old, faded commercial signs: “Loring Studios” and “Free Parking, only while Shopping, City Hall Store.”'
+    sizes: '1200, 900'
   - url: rialto-jh-2007-02-08.jpg
+    sizes: '768, 924'
   - url: rialto-jh-2007-02-09.jpg
+    sizes: '1200, 900'
   - url: rialto-jh-2019-06-01.jpg
     caption: 'Notice the peak of the old pediment rising above the yellow brick facade. You can now see and understand how the former greek columnade was filled in with the yellow brick addition.'
+    sizes: '768, 924'
   - url: rialto-jh-2019-06-02.jpg
+    sizes: '1440, 900'
   - url: rialto-jh-2021-02-01.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the Library of Congress <a href="//www.loc.gov/item/ri0346/" target="_blank">HABS RI-290</a>; and <a href="//provlibdigital.org/islandora/object/islandora%3A10372" target="_blank">Rhode Island Photo Collection</a>, Providence Public Library'
 

@@ -35,15 +35,25 @@ images:
   - url: rochambeau-ppl-john-hutchins-cady.jpg
     alt: 'A two and one half story tudor-style red brick fire station with wood trim and stick work on the upper half floor. A steep cross gable roof features a dormer on the west wide. A single garage door is located on the south side. Windows are mostly rectangular and small with a few in groups of two and three.'
     caption: 'Undated photo from the Providence Public Library, John Hutchins Cady Research Scrapbooks Collection'
+    sizes: '1440, 900'
   - url: rochambeau-jh-2020-05-01.jpg
+    sizes: '1440, 900'
   - url: rochambeau-jh-2020-05-02.jpg
+    sizes: '1440, 900'
   - url: rochambeau-jh-2020-05-03.jpg
+    sizes: '1440, 900'
   - url: rochambeau-jh-2020-05-04.jpg
+    sizes: '1440, 900'
   - url: rochambeau-jh-2020-05-05.jpg
+    sizes: '1200, 900'
   - url: rochambeau-jh-2020-05-06.jpg
+    sizes: '1200, 900'
   - url: rochambeau-jh-2022-03-01.jpg
+    sizes: '1440, 900'
   - url: rochambeau-jh-2022-03-02.jpg
+    sizes: '1200, 900'
   - url: rochambeau-jh-2022-03-03.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2022-03-01
 

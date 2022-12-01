@@ -34,21 +34,34 @@ thumbnail: ri-mall-jh-2007-04-02.jpg
 
 images:
   - url: ri-mall-jng-1970s-01.jpg
-    caption: 'Photo of a postcard sent to us by John Nestor-Gamez, circa 1970'
     alt: 'A dumb bell style two story mall with plain exterior save for two monolithic concrete, brutalist style entrances. Dumb bell shape means that two large anchor stores are located on each side with an open corridor lined with smaller stores connecting them through the center. The interior that was present during these photos reek of 80s round, chrome, and Palm Beack colors of teal and salmon.'
+    caption: 'Photo of a postcard sent to us by John Nestor-Gamez, circa 1970'
+    sizes: '700, 433'
   - url: ri-mall-jh-2007-04-01.jpg
+    sizes: '1200, 900'
   - url: ri-mall-jh-2007-04-02.jpg
+    sizes: '1200, 900'
   - url: ri-mall-jh-2007-04-03.jpg
+    sizes: '1200, 900'
   - url: ri-mall-jh-2007-04-04.jpg
+    sizes: '1200, 900'
   - url: ri-mall-jh-2007-04-05.jpg
+    sizes: '1200, 900'
   - url: ri-mall-jh-2007-04-06.jpg
+    sizes: '1200, 900'
   - url: ri-mall-jh-2007-04-07.jpg
     caption: 'Yes, that says “Xccessoreez”'
+    sizes: '1200, 900'
   - url: ri-mall-jh-2007-04-08.jpg
+    sizes: '1200, 900'
   - url: ri-mall-jh-2007-04-09.jpg
+    sizes: '1200, 900'
   - url: ri-mall-jh-2007-04-10.jpg
+    sizes: '1200, 900'
   - url: ri-mall-jh-2007-04-11.jpg
+    sizes: '1200, 900'
   - url: ri-mall-jh-2007-04-12.jpg
+    sizes: '1200, 900'
 
 imagescredit: '1970s postcard sent in by John Nestor-Gamez'
 

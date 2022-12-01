@@ -28,32 +28,51 @@ thumbnail: ri-malleable-mk-2002-09-04.jpg
 images:
   - url: ri-malleable-jh-2002-03-02.jpg
     alt: 'Mostly a shell of a building left after a fire and then were later completely demolished. What remains is the main office, a two story square brick building five bays wide with a carved transform over the second floor that reads “Rhode Island Maleable Iron Works”.'
+    sizes: '1200, 900'
   - url: ri-malleable-jh-2002-03-03.jpg
+    sizes: '1200, 900'
   - url: ri-malleable-jh-2002-03-04.jpg
+    sizes: '1200, 900'
   - url: ri-malleable-jh-2002-03-05.jpg
+    sizes: '1200, 900'
   - url: ri-malleable-jh-2002-03-06.jpg
+    sizes: '1200, 900'
   - url: ri-malleable-jh-2002-03-07.jpg
+    sizes: '1200, 900'
   - url: ri-malleable-jh-2002-03-08.jpg
+    sizes: '1200, 900'
   - url: ri-malleable-jh-2002-03-09.jpg
+    sizes: '800, 1067'
   - url: ri-malleable-jh-2002-03-10.jpg
+    sizes: '800, 1067'
   - url: ri-malleable-jh-2002-03-11.jpg
+    sizes: '1200, 900'
   - url: ri-malleable-jh-2002-03-01.jpg
+    sizes: '1440, 900'
   - url: ri-malleable-mk-2002-09-01.jpg
     caption: 'Photo by MK'
+    sizes: '900, 678'
   - url: ri-malleable-mk-2002-09-02.jpg
     caption: 'Photo by MK'
+    sizes: '1114, 749'
   - url: ri-malleable-mk-2002-09-03.jpg
     caption: 'Photo by MK'
+    sizes: '1114, 749'
   - url: ri-malleable-mk-2002-09-04.jpg
     caption: 'Photo by MK'
+    sizes: '1114, 749'
   - url: ri-malleable-mk-2002-09-05.jpg
     caption: 'Photo by MK'
+    sizes: '1114, 749'
   - url: ri-malleable-mk-2002-09-06.jpg
     caption: 'Photo by MK'
+    sizes: '1044, 749'
   - url: ri-malleable-mk-2002-09-07.jpg
     caption: 'Photo by MK'
+    sizes: '1112, 749'
   - url: Google-Streetview-Nov-2019.jpg
     caption: 'Google Streetview from November 2019'
+    sizes: '1041, 651'
 
 imagescredit: Contribution by M.K.
 ---

@@ -27,12 +27,20 @@ thumbnail:
 
 images:
   - url: rialto-furn-jh-2005-09-01.jpg
+    alt: 'A low, wide, and not very deep single story commercial storefront building. By the looks of it, one might think it was built in the 1950s — its low slung mass above wide plate glass windows. Which might mean that it was heavily alterated around that time after its construction and any sign of 1920s vernacular architecture was gone. '
+    sizes: '1440, 900'
   - url: rialto-furn-jh-2005-09-02.jpg
+    sizes: '1440, 900'
   - url: rialto-furn-jh-2005-09-03.jpg
+    sizes: '1440, 900'
   - url: rialto-furn-jh-2005-09-04.jpg
+    sizes: '1440, 900'
   - url: rialto-furn-jh-2005-09-05.jpg
+    sizes: '1440, 900'
   - url: rialto-furn-jh-2005-09-06.jpg
+    sizes: '1440, 900'
   - url: rialto-furn-jh-2005-09-07.jpg
+    sizes: '1440, 900'
 
 imagescredit:  
 ---

@@ -34,17 +34,25 @@ thumbnail: rispca-jh-2006-07-02.jpg
 
 images:
   - url: rispca-historic-undated-01.jpg
-    caption: 'Photo from the collection of Clark Schoettle'
     alt: 'An ornate, symmetrical two-story red brick facade with cast concrete quoins and decorative elements. The roofline has a central contrete panel with the numbers “1925” featured. A shallow decorative roof supported by large decorative wooden brackets is tiled in the spanish style. A central garage door is located on the first floor, now turned into a heavy french door.'
+    caption: 'Photo from the collection of Clark Schoettle'
+    sizes: '1440, 900'
   - url: rispca-historic-1941-01.jpg
     caption: 'Photo from the collection of Clark Schoettle'
+    sizes: '896, 678'
   - url: rispca-historic-undated-02.jpg
     caption: 'Photo from the collection of Clark Schoettle'
+    sizes: '1280, 900'
   - url: rispca-jh-2006-07-01.jpg
+    sizes: '1200, 900'
   - url: rispca-jh-2006-07-02.jpg
+    sizes: '1200, 900'
   - url: rispca-jh-2006-07-03.jpg
+    sizes: '1200, 900'
   - url: rispca-jh-2006-07-04.jpg
+    sizes: '1200, 900'
   - url: rispca-jh-2007-11-01.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions from Clark Schoettle'
 

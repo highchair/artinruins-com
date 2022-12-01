@@ -32,46 +32,79 @@ thumbnail: ri-tool-jh-2003-06-02.jpg
 
 images:
   - url: ri-tool-sanborn-1899-01.jpg
-    caption: 'Sanborn Company Fire Insurance Map, 1899'
     alt: 'A complex of mill buildings with the main building being a two story red brick mill with central four story bell tower. Windows are granite sills with plain straight lintels, but brickwork on the main mill uses a decorative “drip” dentil motif which is quite charming.'
+    caption: 'Sanborn Company Fire Insurance Map, 1899'
+    sizes: '1200, 750'
   - url: ri-tool-jh-2003-06-01.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2003-06-02.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2003-06-03.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2003-06-04.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2003-06-05.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2003-06-06.jpg
+    sizes: '1200, 900'
   - url: ri-tool-jh-2003-06-07.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2003-06-08.jpg
+    sizes: '1200, 900'
   - url: ri-tool-jh-2003-06-09.jpg
+    sizes: '1200, 900'
   - url: ri-tool-jh-2003-06-10.jpg
+    sizes: '1200, 900'
   - url: ri-tool-jh-2003-06-11.jpg
+    sizes: '1200, 900'
   - url: ri-tool-jh-2003-06-12.jpg
+    sizes: '1200, 900'
   - url: ri-tool-jh-2003-06-13.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2003-06-14.jpg
+    sizes: '1200, 900'
   - url: ri-tool-jh-2003-06-15.jpg
+    sizes: '1200, 900'
   - url: ri-tool-jh-2003-06-16.jpg
+    sizes: '1200, 900'
   - url: ri-tool-habs-2003-12-01.jpg
     caption: 'Photo by Matthew A. Kierstead, May 2002, for the National Register nomination form'
+    sizes: '1440, 900'
   - url: ri-tool-habs-2003-12-05.jpg
     caption: 'Photo by Matthew A. Kierstead, May 2002, for the National Register nomination form'
+    sizes: '1440, 900'
   - url: ri-tool-habs-2003-12-07.jpg
     caption: 'Photo by Matthew A. Kierstead, May 2002, for the National Register nomination form'
+    sizes: '1440, 900'
   - url: ri-tool-habs-2003-12-08.jpg
     caption: 'Photo by Matthew A. Kierstead, May 2002, for the National Register nomination form'
+    sizes: '1440, 900'
   - url: ri-tool-habs-2003-12-10.jpg
     caption: 'Photo by Matthew A. Kierstead, May 2002, for the National Register nomination form'
+    sizes: '1440, 900'
   - url: ri-tool-habs-2003-12-12.jpg
     caption: 'Photo by Matthew A. Kierstead, May 2002, for the National Register nomination form'
+    sizes: '1440, 900'
   - url: ri-tool-jh-2021-01-01.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2021-01-02.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2021-01-03.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2021-01-04.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2021-01-05.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2021-01-06.jpg
+    sizes: '768, 924'
   - url: ri-tool-jh-2021-01-07.jpg
+    sizes: '1200, 900'
   - url: ri-tool-jh-2021-01-08.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2021-01-09.jpg
+    sizes: '1440, 900'
   - url: ri-tool-jh-2021-01-10.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions by Matthew A. Kierstead for the National Register Nomination form'
 

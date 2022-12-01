@@ -31,28 +31,39 @@ thumbnail: mirabar-gsv-2011-01.jpg
 
 images:
   - url: mirabar-bm-2003-01.jpg
-    caption: 'Photo from Bob Meyers circa 2003'
     alt: 'A 2-story, 3-bay wide small commercial building with central entrance. One while side of the building is brick with no windows, while the opposite side has only three small windows on the top floor.'
+    caption: 'Photo from Bob Meyers circa 2003'
+    sizes: '800, 577'
   - url: mirabar-bm-2003-02.jpg
     caption: 'Photo from Bob Meyers circa 2003'
+    sizes: '600, 800'
   - url: mirabar-bm-2003-03.jpg
     caption: 'Photo from Bob Meyers circa 2003'
+    sizes: '800, 577'
   - url: rogers-co-je-2007-01.jpg
     caption: 'Photo by Jeffrey Emidy, July 2007, from the expansion of the Providence Downtown Historic Histrict nomination form'
+    sizes: '768, 924'
   - url: mirabar-gsv-2011-01.jpg
     caption: 'Photo from Google Streetview circa 2011'
+    sizes: '1024, 768'
   - url: mirabar-gsv-2011-02.jpg
     caption: 'Photo from Google Streetview circa 2011'
+    sizes: '1024, 768'
   - url: mirabar-gsv-2011-03.jpg
     caption: 'Photo from Google Streetview circa 2011'
+    sizes: '1024, 768'
   - url: mirabar-jn-2012-12-01.jpg
     caption: 'Photo from Jef Nickerson, December 2012'
+    sizes: '1440, 900'
   - url: mirabar-jn-2012-12-02.jpg
     caption: 'Photo from Jef Nickerson, December 2012'
+    sizes: '1440, 900'
   - url: mirabar-jn-2012-12-03.jpg
     caption: 'Photo from Jef Nickerson, December 2012'
+    sizes: '1440, 900'
   - url: mirabar-jn-2012-12-04.jpg
     caption: 'Photo from Jef Nickerson, December 2012'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from Bob Meyers, Google Streetview, and Jef Nickerson'
 ---
@@ -73,4 +84,4 @@ _From the National Register nomination form for the Downtown Providence Historic
 
 Rogers Company Building (ca. 1923-1925): This two-story, flat-roofed, rectangular-plan building has a buff brick veneer façade and rough brick on the east, west, and south elevations where attached buildings have been removed. The building is three bays wide, its center bay wider than the two flanking bays. The storefront is a modem replacement with a recessed center entrance, panels in the east bay, and a multi-pane window in the west. A row of seven modern, fixed sash windows as set at the top edge of the first story, well above the door and window level. The second floor has two large windows flanking a larger center-bay window. These are made up of a large, plate-glass pane with smaller panes above — two each on the flanking bays and three above the center plate glass window. The façade has a decorative metal cornice below a simple parapet, and the piers that flank the windows on the second floor are designed to appear as decorative excised columns with simple, cast stone capitals. Decorative bases on the piers that flank the larger center-bay window are integrated into the cast stone sill band that runs across the three bays. The building is surrounded on three sides by parking lots.
 
-The extant building was constructed on the site of a smaller, one-and-one-half-story building. In 1921, this earlier building housed a tailor and a barber shop. The extant brick building was built ca. 1923-1925 and appears in the 1926 Providence Atlas Book as _Rogers Company, Inc._ This clothing company was first listed in the 1925 City Directory at 37 Richmond Street. This building was most likely built by Samuel Neuberger, who purchased the lot in 1923, two years before the Rogers Company occupied the building. In 1933, Neuberger sold the building to the Rogers Company. The building shared a party wall to the east with a branch of the Providence Public Library, which was a part of the Sherwood Block (demolished) at the comer of Pine and Richmond Streets. The building at 35 Richmond Street is currently occupied by a bar.
+The extant building was constructed on the site of a smaller, one-and-one-half-story building. In 1921, this earlier building housed a tailor and a barber shop. The extant brick building was built ca. 1923-1925 and appears in the 1926 Providence Atlas Book as **Rogers Company, Inc.** This clothing company was first listed in the 1925 City Directory at 37 Richmond Street. This building was most likely built by Samuel Neuberger, who purchased the lot in 1923, two years before the Rogers Company occupied the building. In 1933, Neuberger sold the building to the Rogers Company. The building shared a party wall to the east with a branch of the Providence Public Library, which was a part of the Sherwood Block (demolished) at the comer of Pine and Richmond Streets. The building at 35 Richmond Street is currently occupied by a bar.

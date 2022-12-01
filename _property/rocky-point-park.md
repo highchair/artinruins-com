@@ -27,122 +27,180 @@ thumbnail: rocky-point-g-1996-gate.jpg
 
 images:
   - url: rocky-point-jb-bumper-1954.jpg
+    alt: 'A medium-sized amusement park in a seaside location featuring ferris wheels and other spinning rides, roller coasters, a water flume, as well as a large long dining hall.'
     caption: 'Photo of the bumper cars, collection of John Barchi, 1954'
-    alt: ''
+    sizes: '1200, 750'
   - url: rocky-point-jb-skee-ball-2-1954.jpg
     caption: 'Photo of the skee ball arcade, collection of John Barchi, 1954'
+    sizes: '676, 526'
   - url: rocky-point-jb-skee-ball-1954.jpg
     caption: 'Photo of skee ball, collection of John Barchi, 1954'
+    sizes: '1196, 800'
   - url: rocky-point-jb-skooter-1954.jpg
     caption: 'Photo of the Skooter ride, collection of John Barchi, 1954'
+    sizes: '701, 900'
   - url: rocky-point-jb-spitfire-1954.jpg
     caption: 'Photo of the Spitfire ride, collection of John Barchi, 1954'
+    sizes: '800, 800'
   - url: rocky-point-1950s-salt-pool.jpg
     caption: 'Aerial view of the salt water pool, guessing late 1950s'
+    sizes: '1024, 1280'
   - url: rocky-point-1960s-shore-hall.jpg
     caption: 'Interior view of the shore dinner hall, guessing late 1960s'
+    sizes: '784, 533'
   - url: rocky-point-jh-1982-kiddie-land-01.jpg
     caption: 'Kids on the Kiddie Land rides, 1982'
+    sizes: '1200, 900'
   - url: rocky-point-jh-1982-kiddie-land-02.jpg
     caption: 'Kids on the Kiddie Land rides, 1982'
+    sizes: '1200, 900'
   - url: rocky-point-jh-1982-kiddie-land-03.jpg
     caption: 'Kids on the Kiddie Land rides, 1982'
+    sizes: '1200, 900'
   - url: rocky-point-jh-1982-kiddie-land-04.jpg
     caption: 'Kids on the Kiddie Land rides, 1982'
+    sizes: '1200, 900'
   - url: rocky-point-g-1996-gate.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-booths.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-permission.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-save-rp.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-chowder.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-ticket-books.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-shore-dinner.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '667, 1000'
   - url: rocky-point-g-1996-birthday.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-carousel.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-caterpiller.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-clamcakes.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-clown-can.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-enterprise.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-ferris.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-freefall.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-giftshop.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-haunted-car.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-haunted.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-haunted-car-2.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-horrors-sign.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-horrors.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-horse-race.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-horses-v.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '667, 1000'
   - url: rocky-point-g-1996-horses.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-kiddie-car.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-krazy-kurve.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-lights.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-music-xpress.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-rocknroll.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-scores.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-shooting.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-skeeball-badge.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '667, 1000'
   - url: rocky-point-g-1996-skeeball.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-skydiver-2.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-skydiver.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-stay-on.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-tiltawhirl.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-train.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-turnstile.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '1000, 667'
   - url: rocky-point-g-1996-yoyo.jpg
     caption: 'Photo by Gemma, 1996'
+    sizes: '667, 936'
   - url: rocky-point-aerial-1939.jpg
     caption: 'Providence Historical Aerial Viewer 1939'
+    sizes: '1440, 900'
   - url: rocky-point-aerial-1962.jpg
     caption: 'Providence Historical Aerial Viewer 1962'
+    sizes: '1440, 900'
   - url: rocky-point-aerial-1981.jpg
     caption: 'Providence Historical Aerial Viewer 1981'
+    sizes: '1440, 900'
   - url: rocky-point-aerial-1988.jpg
     caption: 'Providence Historical Aerial Viewer 1988'
+    sizes: '1440, 900'
   - url: rocky-point-aerial-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997'
+    sizes: '1440, 900'
   - url: rocky-point-aerial-2008.jpg
     caption: 'Providence Historical Aerial Viewer 2008'
+    sizes: '1440, 900'
   - url: rocky-point-aerial-2016.jpg
     caption: 'Providence Historical Aerial Viewer 2016'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions by John Barchi, Denise Hogue, and Gemma.' 
 ---
