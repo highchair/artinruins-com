@@ -29,12 +29,19 @@ thumbnail: ri-auditorium-tucker-1989-01.jpg
 images:
   #- url: Projo-TimeLapse-1966-RI-Auditorium.jpg
   - url: riaud-painting.jpg
+    alt: 'A large gable-roof-style red brick building that housed a stadium inside with large floor available for hockey or basketball games as well as a stage for performances'
+    sizes: '823, 499'
   - url: ri-auditorium-ephemera.jpg
+    sizes: '1600, 900'
   - url: former-site-plaque-close-up.jpg
+    sizes: '1339, 900'
   - url: former-site-plaque-on-gate.jpg
+    sizes: '1200, 900'
   - url: ri-auditorium-tucker-1989-01.jpg
+    sizes: '822, 653'
   - url: ri-auditorium-2004-04-01.jpg
-    caption: "On this spot stood the Rhode Island Auditorium, home of the Rhode Island Reds hockey team, December 3, 1926 to April 11, 1972. 1111 North Main Street, Providence, Rhode Island. Dedicated on Saturday, July 31, 2010, by the Rhode Island Reds Heritage Society"
+    caption: 'On this spot stood the Rhode Island Auditorium, home of the Rhode Island Reds hockey team, December 3, 1926 to April 11, 1972. 1111 North Main Street, Providence, Rhode Island. Dedicated on Saturday, July 31, 2010, by the Rhode Island Reds Heritage Society'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from <a href="https://rittmann-art.com/giclee.htm" target="_blank">Karl Rittman</a> (painting), Tucker Terzian, and <a href="https://en.wikipedia.org/wiki/Rhode_Island_Auditorium#/media/File:Former_Site_of_Rhode_Island_Auditorium.jpg" target="_blank">Wikimedia</a>.'
 

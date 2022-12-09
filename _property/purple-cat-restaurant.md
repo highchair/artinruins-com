@@ -33,52 +33,75 @@ thumbnail: purple-cat-cm-2022-02-01.jpg
 
 images:
   - url: purple-cat-diner-01.jpg
-    caption: 'Photo circa 1930s of the diner cars. The rounded foundations are the right hand side are still visible in later photos'
     alt: 'A wood frame one story structure with cedar shingle exterior and hip roof. This structure was built around two diner cars which were revealed when the building was being demolished.'
+    caption: 'Photo circa 1930s of the diner cars. The rounded foundations are the right hand side are still visible in later photos'
+    sizes: '1396, 810'
   - url: purple-cat-AD-1973-08-09-the-observer-p18.jpg
     caption: 'Ad from “The Observer,” page 18, 1973'
+    sizes: '815, 640'
   - url: purple-cat-cm-matchbooks-01.jpg
     caption: 'Vintage matchbooks, collection of Christopher Martin'
+    sizes: '1200, 900'
   - url: purple-cat-cm-2002-08-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1280, 800'
   - url: purple-cat-cm-2002-08-02.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1280, 800'
   - url: purple-cat-cm-2015-04-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1280, 800'
   - url: purple-cat-cm-2015-04-02.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1280, 800'
   - url: purple-cat-cm-2015-04-03.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1280, 800'
   - url: purple-cat-cm-2015-04-04.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1280, 800'
   - url: purple-cat-cm-2022-02-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: purple-cat-cm-2022-02-02.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: purple-cat-cm-2022-02-03.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: purple-cat-cm-2022-02-04.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: purple-cat-cm-2022-03-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: purple-cat-cm-2022-03-02.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: purple-cat-cm-2022-03-03.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: purple-cat-cm-2022-03-04.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
   - url: purple-cat-cm-2022-03-05.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
   - url: purple-cat-cm-2022-03-06.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: purple-cat-cm-2022-03-07.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: purple-cat-cm-2022-03-08.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: purple-cat-cm-2022-03-09.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: purple-cat-cm-2022-03-10.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
 
 mostrecentimage: 2022-03-01
 

@@ -5,9 +5,9 @@ aka:
 date-modified: 2020-07-06 16:34
 
 built: 1940s
-demolition: 2007
+demolition: '2007'
 decade: '1940-1949'
-date-added: 2004
+date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
@@ -28,90 +28,138 @@ thumbnail: public-safety-jh-2004-04-03.jpg
 images:
   - url: public-safety-jh-2002-01-01.jpg
     alt: 'A combination fire station and police station. The exterior was clad in gray stone. One side had a Greek-revival inspired entrance with a columnade and pediment. On two sides of the ground floor were multiple garage doors for fire trucks and ambulances.'
+    sizes: '1200, 900'
   - url: public-safety-jh-2004-04-01.jpg
+    sizes: '1200, 900'
   - url: public-safety-jh-2004-04-02.jpg
+    sizes: '800, 1067'
   - url: public-safety-jh-2004-04-03.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2004-04-04.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2004-04-05.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2004-04-06.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2004-04-07.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2004-04-08.jpg
+    sizes: '1200, 900'
   - url: public-safety-jh-2004-04-09.jpg
+    sizes: '1200, 900'
   - url: public-safety-jh-2004-04-10.jpg
+    sizes: '1200, 900'
   - url: public-safety-jh-2004-04-11.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2004-04-12.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2004-04-13.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2004-04-14.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2004-04-15.jpg
+    sizes: '800, 1067'
   - url: public-safety-jh-2004-04-16.jpg
+    sizes: '1200, 900'
   - url: public-safety-jh-2004-04-17.jpg
+    sizes: '1200, 900'
   - url: public-safety-jh-2004-04-18.jpg
+    sizes: '1200, 900'
   - url: public-safety-jh-2004-04-19.jpg
+    sizes: '1200, 900'
   - url: public-safety-jh-2004-04-20.jpg
+    sizes: '1200, 900'
   - url: public-safety-jh-2004-04-21.jpg
-  
+    sizes: '1200, 900'
   - url: public-safety-mm-2004-01-01.jpg
-    caption: Photo by Mike Morgan
+    caption: 'Photo by Mike Morgan'
+    sizes: '550, 827'
   - url: public-safety-mm-2004-01-02.jpg
-    caption: Photo by Mike Morgan
+    caption: 'Photo by Mike Morgan'
+    sizes: '550, 827'
   - url: public-safety-mm-2004-01-03.jpg
-    caption: Photo by Mike Morgan
+    caption: 'Photo by Mike Morgan'
+    sizes: '550, 827'
   - url: public-safety-mm-2004-01-04.jpg
-    caption: Photo by Mike Morgan
+    caption: 'Photo by Mike Morgan'
+    sizes: '550, 827'
   - url: public-safety-mm-2004-01-05.jpg
-    caption: Photo by Mike Morgan
+    caption: 'Photo by Mike Morgan'
+    sizes: '550, 827'
   - url: public-safety-mm-2004-01-06.jpg
-    caption: Photo by Mike Morgan
+    caption: 'Photo by Mike Morgan'
+    sizes: '550, 827'
   - url: public-safety-mm-2004-01-07.jpg
-    caption: Photo by Mike Morgan
-  
+    caption: 'Photo by Mike Morgan'
+    sizes: '550, 827'
   - url: public-safety-lf-2006-01-01.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: public-safety-lf-2006-01-02.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: public-safety-lf-2006-01-03.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '393, 525'
   - url: public-safety-lf-2006-01-04.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: public-safety-lf-2006-01-05.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: public-safety-lf-2006-01-06.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: public-safety-lf-2006-01-07.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: public-safety-lf-2006-01-08.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: public-safety-lf-2006-01-09.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: public-safety-lf-2006-01-10.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: public-safety-lf-2006-01-11.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: public-safety-lf-2006-01-12.jpg
-    caption: Photo by Lou Fancy
-
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: public-safety-fm-2007-08-01.jpg
-    caption: Photo by Frank Mullin
+    caption: 'Photo by Frank Mullin'
+    sizes: '936, 622'
   - url: public-safety-fm-2007-08-02.jpg
-    caption: Photo by Frank Mullin
+    caption: 'Photo by Frank Mullin'
+    sizes: '1322, 648'
   - url: public-safety-fm-2007-08-03.jpg
-    caption: Photo by Frank Mullin
+    caption: 'Photo by Frank Mullin'
+    sizes: '936, 606'
   - url: public-safety-fm-2007-08-04.jpg
-    caption: Photo by Frank Mullin
+    caption: 'Photo by Frank Mullin'
+    sizes: '966, 722'
   - url: public-safety-fm-2007-08-05.jpg
-    caption: Photo by Frank Mullin
-
+    caption: 'Photo by Frank Mullin'
+    sizes: '936, 622'
   - url: public-safety-jn-2007-08-01.jpg
     caption: 'The basement under the demolition equipment collapsed, pulling the backhoe down with it — Photo by Woneffe'
-
+    sizes: '934, 700'
   - url: public-safety-jh-2007-08-01.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2007-08-02.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2007-10-01.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2007-11-01.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2007-11-02.jpg
+    sizes: '1440, 900'
   - url: public-safety-jh-2007-11-03.jpg
+    sizes: '1440, 900'
 
-imagescredit: Contributions by Mike Morgan, Lou Fancy, Woneffe, and Frank Mullin.
+imagescredit: 'Contributions by Mike Morgan, Lou Fancy, Woneffe, and Frank Mullin.'
 ---
 
 ### Reason for Demolition

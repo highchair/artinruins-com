@@ -33,39 +33,59 @@ thumbnail: cj-fox-jh-2013-04-03.jpg
 
 images:
   - url: ri-braiding-ppl-undated.jpg
-    caption: 'Retouched vintage photograph of the original R.I. Braiding Machine buildings. “Rhode Island Braiding Machine” is painted across the top of the buildings. On the north east corner is a small sign for “Fred W. Cady Stair Builder.” Across the top of the front façade — the northern face — is an actual building sign reading “R.I. Braiding Machine Co.”, lightly visible, painted on the wooden-frame structure. The wooden structure was demolished by 1960 — Rhode Island Collection, Providence Public Library'
     alt: 'A four-story, red brick, 24-bay deep by 6-bay wide industrial building with a flat roof and rectangular window openings. A main entrance on the 6-bay wide side is set within a rounded arch opening on the northeast corner. A more detailed description in the history section.'
+    caption: 'Retouched vintage photograph of the original R.I. Braiding Machine buildings. “Rhode Island Braiding Machine” is painted across the top of the buildings. On the north east corner is a small sign for “Fred W. Cady Stair Builder.” Across the top of the front façade — the northern face — is an actual building sign reading “R.I. Braiding Machine Co.”, lightly visible, painted on the wooden-frame structure. The wooden structure was demolished by 1960 — Rhode Island Collection, Providence Public Library'
+    sizes: '1600, 900'
   - url: cj-fox-jh-2013-04-01.jpg
     caption: 'View of the front of R.I. Braiding Machine from Fox Place, looking south-southwest'
+    sizes: '1440, 900'
   - url: cj-fox-jh-2013-04-02.jpg
+    sizes: '1440, 900'
   - url: cj-fox-jh-2013-04-03.jpg
+    sizes: '1440, 900'
   - url: cj-fox-jh-2013-04-04.jpg
+    sizes: '1440, 900'
   - url: cj-fox-jh-2013-04-05.jpg
+    sizes: '1440, 900'
   - url: cj-fox-jh-2013-04-06.jpg
     caption: 'The alley way between the James Hanley Building (left) and the former Crahan Engraving Company (right)'
+    sizes: '1440, 900'
   - url: cj-fox-jh-2013-04-07.jpg
+    sizes: '1200, 900'
   - url: cj-fox-jh-2013-05-01.jpg
     caption: 'A view of the rear of the building built into the hill, looking north'
+    sizes: '1440, 900'
   - url: cj-fox-jh-2013-05-02.jpg
+    sizes: '1440, 900'
   - url: cj-fox-jh-2013-05-03.jpg
     caption: 'A view from the Atwells Avenue offramp, speeding by the bright yellow fox in 2013'
+    sizes: '1440, 900'
   - url: cj-fox-jh-2013-05-04.jpg
     caption: 'Demolition of the older structures underway'
+    sizes: '1440, 900'
   - url: cj-fox-jh-2013-05-05.jpg
     caption: 'Demolition of the older structures underway'
+    sizes: '1440, 900'
   - url: cj-fox-jh-2013-05-06.jpg
     caption: 'Demolition of the older structures underway'
+    sizes: '1600, 900'
   - url: cj-fox-jh-2013-05-07.jpg
     caption: 'Layers of history amongst the demolition, looking west towards the eastern side'
+    sizes: '1200, 900'
   - url: cj-fox-jh-2013-05-08.jpg
     caption: 'Demolition underway of some of the oldest structures on the site. The double-hip roof to the left is a building that was kept, while the buildings to the right of the gash were demolished.'
+    sizes: '1200, 900'
   - url: cj-fox-jh-2013-06-01.jpg
     caption: 'View of the western façade, looking towards the east'
+    sizes: '1600, 900'
   - url: cj-fox-jh-2013-06-02.jpg
+    sizes: '1600, 900'
   - url: 1908-LJRichards-Plate-4-01.jpg
     caption: '1908 L.J. Richards maps shows the main structures in place. Missing are the now demolished Crahan Engraving Company and “Manufacturer of Bed Springs” to the west. Main structures are labelled “JAS HANLEY” and “R.I. BRAIDING MACH. CO.”'
+    sizes: '1440, 900'
   - url: 2011-aerial-marked-01.jpg
     caption: '2011 Aerial photo marked in red where demolitions occured and in green with what remains — Courtesy the Providence Historical Aerial Viewer'
+    sizes: '1440, 900'
 
 mostrecentimage: 2013-06-01
 

@@ -32,10 +32,16 @@ thumbnail: ri-credit-jh-2004-08-01.jpg
 
 images:
   - url: ri-credit-jh-2004-03-01.jpg
+    alt: 'A one-story grey stone clad building with a high ceiling and central dome-like detail. Modern commercial glass panels are interspersed between classical Greek-inspired columns on two sides of the building.'
+    sizes: '1440, 900'
   - url: ri-credit-jh-2004-03-02.jpg
+    sizes: '1440, 900'
   - url: ri-credit-jh-2004-03-03.jpg
+    sizes: '1200, 900'
   - url: ri-credit-jh-2004-03-04.jpg
+    sizes: '1440, 900'
   - url: ri-credit-jh-2004-08-01.jpg
+    sizes: '1440, 900'
 
 imagescredit: 
 ---

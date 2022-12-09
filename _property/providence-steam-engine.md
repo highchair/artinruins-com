@@ -33,30 +33,48 @@ thumbnail: corliss-landing-jh-2020-02-01.jpg
 
 images:
   - url: prov-steam-ppl-aerial-late-50s.jpg
+    alt: 'A former red brick industrial mill building designed in an enclosed rectangle with central courtyard space accessible through a ground-floor bridghe opening through the western side. Most of the building is two stories with a hip roof. More architectural visual descriptions in the History section.'
     caption: 'Aerial photo while interstate 195 was under construction, guessing late 50s (the bridge over the Providence River was finished in 1958) — Rhode Island Photograph Collection, Providence Public Library'
-    alt: ''
+    sizes: '1440, 900'
   - url: prov-steam-ppl-aerial-early-60s.jpg
     caption: 'Aerial photo after interstate 195 was complete, guessing early 60s — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1440, 900'
   - url: corliss-landing-jh-2012-01-01.jpg
+    sizes: '1440, 900'
   - url: corliss-landing-jh-2012-01-02.jpg
+    sizes: '1440, 900'
   - url: corliss-landing-jh-2012-01-03.jpg
+    sizes: '1440, 900'
   - url: corliss-landing-jh-2012-01-04.jpg
+    sizes: '1200, 900'
   - url: corliss-landing-jh-2020-02-01.jpg
+    sizes: '1440, 900'
   - url: corliss-landing-jh-2020-02-02.jpg
+    sizes: '1200, 900'
   - url: corliss-landing-jh-2020-02-03.jpg
+    sizes: '1440, 900'
   - url: corliss-landing-jh-2020-02-04.jpg
+    sizes: '1440, 900'
   - url: corliss-landing-jh-2020-02-05.jpg
+    sizes: '1200, 900'
   - url: corliss-landing-jh-2020-02-06.jpg
+    sizes: '1200, 900'
   - url: corliss-landing-jh-2020-02-07.jpg
+    sizes: '1200, 900'
   - url: corliss-landing-jh-2020-02-08.jpg
+    sizes: '1200, 900'
   - url: 1908-lj-richards-plate8.jpg
     caption: 'L.J. Richards cadastral map, 1908, Plate 8 — Courtesy WardMapGifts.com'
+    sizes: '1440, 900'
   - url: 1920-sanborn-vol2-plate2.jpg
     caption: 'Sanborn Insurance Map, 1920–1921, Volume 2, Plate 2 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 1951-sanborn-vol2-plate2.jpg
     caption: 'Sanborn Insurance Map, 1920–1951, Volume 2, Plate 2 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 1956-sanborn-vol2-plate2.jpg
     caption: 'Sanborn Insurance Map, 1920–1956, Volume 2, Plate 2 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
 
 mostrecentimage: 2020-02-01
 

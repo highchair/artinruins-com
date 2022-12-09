@@ -30,36 +30,54 @@ thumbnail: ri-hospital-jh-2011-07-01.jpg
 
 images:
   - url: ri-hospital-ppl-postcard-1907.jpg
-    caption: 'Dated 1907 — Rhode Island Postcard Collection, Providence Public Library'
     alt: 'A four and a half story, double hip gable-roofed red brick and stone buidling in the High Victorian Gothic style with about 48,000 square feet of interior space. The roof was slate, windows were either segmental arch or round-arched with decorative keystones, and a large four-sided tower protruded from the southwestern side.'
+    caption: 'Dated 1907 — Rhode Island Postcard Collection, Providence Public Library'
+    sizes: '1400, 900'
   - url: ri-hospital-ppl-photo-c1900.jpg
     caption: 'circa 1900 — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1440, 900'
   - url: ri-hospital-ppl-aerial-c1928-38-01.jpg
     caption: 'Between 1928–1938, view from southwest — Avery Lord Aerial Photograph Collection, Providence Public Library'
+    sizes: '1441, 900'
   - url: ri-hospital-ppl-aerial-c1928-38-02.jpg
     caption: 'Detail of aerial, focusing on the Southwest Pavillion, center foreground'
+    sizes: '1440, 900'
   - url: ri-hospital-ppl-aerial-1956.jpg
     caption: 'Aerial looking southeast after the construction of the new 10-story pavillion and after the demolition of the old main building — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1440, 900'
   - url: ri-hospital-jh-2011-07-01.jpg
+    sizes: '1200, 900'
   - url: ri-hospital-jh-2011-07-02.jpg
+    sizes: '1200, 900'
   - url: ri-hospital-jh-2015-11-01.jpg
+    sizes: '1200, 900'
   - url: ri-hospital-jh-2015-11-02.jpg
+    sizes: '1200, 900'
   - url: ri-hospital-jh-2015-11-03.jpg
+    sizes: '1200, 900'
   - url: ri-hospital-jh-2015-11-04.jpg
+    sizes: '1440, 900'
   - url: ri-hospital-goog-2021-01.jpg
     caption: '2021 Google satellite view, looking north'
+    sizes: '1200, 900'
   - url: 1899-ri-hospital-sanborn-vol1-p55.jpg
-    caption: 'A timeline of how RI Hospital was built up over time, southwest pavillion circled in red. 1899 Sanborn Insurance Map, Volume 1, Plate 55 — Library of Congress, Geography and Map Division'
+    caption: 'A timeline of how RI Hospital was built up over time, southwest pavillion circled in red. 1899 Sanborn Insurance Map, Volume 1, Plate 55 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 1908-ri-hospital-lj-richards-p2.jpg
     caption: '1908 L.J. Richards Insurance Map, Plate 2 — WardMapsGifts.com'
+    sizes: '1440, 900'
   - url: 1920-ri-hospital-sanborn-vol1-p55.jpg
-    caption: '1920–1921 Sanborn Insurance Map, Volume 1, Plate 55 — Library of Congress, Geography and Map Division'
+    caption: '1920–1921 Sanborn Insurance Map, Volume 1, Plate 55 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 1939-ri-hospital-gm-hopkins-p6.jpg
-    caption: '1939 G.M. Hopkins Insurance Map, Plate 6 — HistoricMapWorks.com'
+    caption: '1939 G.M. Hopkins Insurance Map, Plate 6 — HistoricMapWorks.com'
+    sizes: '1440, 900'
   - url: 1951-ri-hospital-sanborn-vol1-p55.jpg
-    caption: '1920–1951 Sanborn Insurance Map, Volume 1, Plate 55 — Library of Congress, Geography and Map Division'
+    caption: '1920–1951 Sanborn Insurance Map, Volume 1, Plate 55 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 1956-ri-hospital-sanborn-vol1-p55.jpg
-    caption: '1920–1956 Sanborn Insurance Map, Volume 1, Plate 55 — Library of Congress, Geography and Map Division'
+    caption: '1920–1956 Sanborn Insurance Map, Volume 1, Plate 55 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A10690" target="_blank">c.1900</a>), <a href="//provlibdigital.org/islandora/object/islandora%3A24145" target="_blank">Rhode Island Postcard Collection</a>, and <a href="//provlibdigital.org/islandora/object/islandora%3A23" target="_blank">Avery Lord Aerial Photograph Collection</a>, Providence Public Library; <a href="//wardmapsgifts.com" target="_blank">WardMapsGifts.com</a>; <a href="http://www.historicmapworks.com" target="_blank">HistoricMapWorks.com</a>; the Library of Congress; and Google Satellite'
 

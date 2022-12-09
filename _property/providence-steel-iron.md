@@ -33,34 +33,54 @@ thumbnail: steel-yard-jh-2005-06-05.jpg
 
 images:
   - url: builders-iron-ppl-undated.jpg
-    caption: 'The structural iron building, northeast corner of Sims and Kinsley, built 1902, labeled “Builder’s Iron Foundry, Structural Department”, undated photo but likely before 1910 — Rhode Island Photograph Collection, Providence Public Library'
     alt: 'A collection of smaller buildings on a three acre lot used for steel assembly and manufacture. Buildings are a mix of brick with simple or no ornamentation and metal clad steel buildings with cement floors. A simple two-story red brick office building occupies the site as well.'
+    caption: 'The structural iron building, northeast corner of Sims and Kinsley, built 1902, labeled “Builder’s Iron Foundry, Structural Department”, undated photo but likely before 1910 — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1440, 900'
   - url: prov-steel-iron-ec-2005-01-01.jpg
     caption: 'Structural Steel Building, view southwest — Edward Connors, January 2005'
+    sizes: '1201, 900'
   - url: prov-steel-iron-ec-2005-01-02.jpg
     caption: 'Interior, Structural Steel Building, view south — Edward Connors, January 2005'
+    sizes: '1201, 900'
   - url: prov-steel-iron-ec-2005-01-03.jpg
     caption: 'Office Building, view southwest — Edward Connors, January 2005'
+    sizes: '1201, 900'
   - url: prov-steel-iron-ec-2005-01-04.jpg
     caption: 'Ornamental Iron Building, view southwest — Edward Connors, January 2005'
+    sizes: '1201, 900'
   - url: prov-steel-iron-ec-2005-01-05.jpg
     caption: 'First extension of Ornamental Iron Building, view west — Edward Connors, January 2005'
+    sizes: '1201, 900'
   - url: prov-steel-iron-ec-2005-01-06.jpg
     caption: 'Second extension of Ornamental Iron Building, view northwest — Edward Connors, January 2005'
+    sizes: '1201, 900'
   - url: prov-steel-iron-ec-2005-01-07.jpg
     caption: 'Gantry and movable crane, view southeast to rear of Office Building — Edward Connors, January 2005'
+    sizes: '1201, 900'
   - url: steel-yard-jh-2005-06-01.jpg
+    sizes: '1200, 900'
   - url: steel-yard-jh-2005-06-02.jpg
+    sizes: '1200, 900'
   - url: steel-yard-jh-2005-06-03.jpg
+    sizes: '1200, 900'
   - url: steel-yard-jh-2005-06-04.jpg
+    sizes: '1200, 900'
   - url: steel-yard-jh-2005-06-05.jpg
+    sizes: '1200, 900'
   - url: steel-yard-jh-2005-06-06.jpg
+    sizes: '768, 924'
   - url: steel-yard-jh-2005-06-07.jpg
+    sizes: '1200, 900'
   - url: steel-yard-jh-2005-06-08.jpg
+    sizes: '1200, 900'
   - url: steel-yard-jh-2005-06-09.jpg
+    sizes: '1200, 900'
   - url: steel-yard-jh-2005-06-10.jpg
+    sizes: '1200, 900'
   - url: steel-yard-jh-2005-06-11.jpg
+    sizes: '1200, 900'
   - url: steel-yard-jh-2005-06-12.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'ProQuest Digital Sanborn Maps, Providence Public Library; G.M. Hopkins Insurance Maps, Historic Map Works; Edward Connors, January 2005 for the National Register Nomination Form'
 

@@ -28,23 +28,39 @@ thumbnail: regal-plating-jh-2006-03-02.jpg
 
 images:
   - url: regal-plating-jh-2006-03-01.jpg
+    alt: 'A low, wide one story red brick industrial building on a streetcorner in a former jewelry manufacturing section of the city'
+    sizes: '1200, 900'
   - url: regal-plating-jh-2006-03-02.jpg
+    sizes: '1200, 900'
   - url: regal-plating-jh-2006-06-04.jpg
+    sizes: '1200, 900'
   - url: regal-plating-jh-2006-06-01.jpg
+    sizes: '1200, 900'
   - url: regal-plating-jh-2006-06-03.jpg
+    sizes: '1200, 900'
   - url: regal-plating-jh-2006-06-02.jpg
+    sizes: '1200, 900'
   - url: regal-plating-jh-2006-06-05.jpg
+    sizes: '1200, 900'
   - url: regal-plating-jh-2006-06-06.jpg
+    sizes: '1200, 900'
   - url: regal-plating-jh-2006-06-07.jpg
+    sizes: '1200, 900'
   - url: regal-plating-jh-2006-06-08.jpg
+    sizes: '1200, 900'
   - url: regal-plating-jh-2006-06-09.jpg
+    sizes: '675, 900'
   - url: regal-plating-jh-2006-06-10.jpg
+    sizes: '1200, 900'
   - url: regal-plating-jn-2011-03-01.jpg
     caption: 'Photo by Jef Nickerson'
+    sizes: '1440, 900'
   - url: regal-plating-jn-2011-03-02.jpg
     caption: 'Photo by Jef Nickerson'
+    sizes: '1440, 900'
   - url: regal-plating-jn-2011-03-03.jpg
     caption: 'Photo by Jef Nickerson'
+    sizes: '1440, 900'
 
 imagescredit: 'Demolition photos by Jef Nickerson.'
 ---
