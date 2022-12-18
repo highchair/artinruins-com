@@ -2,7 +2,8 @@
 title: "Vinton Street Garage"
 slug: vinton-st-garage
 aka:
-date-modified: 2021-09-02 12:00
+date-modified: 2022-12-18 12:41
+update: 'Added new photos submitted by Chloé Hurley'
 
 built: 'circa 1919'
 demolition:
@@ -29,7 +30,7 @@ gmap: "https://www.google.com/maps/place/132+Vinton+St,+Providence,+RI+02909/@41
 meta: ""
 excerpt: "A relatively low-slung and simple early 20th century former car repair garage in a residential portion off Broadway"
 
-thumbnail: vinton-garage-thumb.jpg
+thumbnail: vinton-garage-ch-2022-12-01.jpg
 
 images:
   - url: vinton-garage-jh-2007-06-01.jpg
@@ -64,10 +65,22 @@ images:
   - url: vinton-garage-sanborn-1951.jpg
     caption: 'Sanborn Map 1920 republished 1951, Volume 1, plate 37, courtesy the Library of Congress — The garage is now listed as a Beer Warehouse, the three story house is gone, and a gas station with small annex building have appeared between where the 3-story house used to be and Barnaby’s Castle.'
     sizes: '1200, 900'
+  - url: vinton-garage-ch-2022-12-01.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '1440, 900'
+  - url: vinton-garage-ch-2022-12-02.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '768, 924'
+  - url: vinton-garage-ch-2022-12-03.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '1440, 900'
+  - url: vinton-garage-ch-2022-12-04.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '1200, 900'
 
-imagescredit: 'Sanborn Maps from the Library of Congress'
+imagescredit: 'Contributions from the Library of Congress and Chloé Hurley'
 
-mostrecentimage: 2007-10-01
+mostrecentimage: 2022-12-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
