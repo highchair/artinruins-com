@@ -2,7 +2,9 @@
 title: "Good Will Engine Company"
 slug: good-will-engine-co
 aka: 'Retired Station 13, Firehouse 13'
-date-modified: 2021-02-21 12:00
+date-modified: 2022-12-18 12:59
+update: 'Added new photos submitted by Chloé Hurley'
+update-image: good-will-ch-2022-12-02.jpg
 
 built: '1856'
 demolition:
@@ -33,23 +35,50 @@ thumbnail: good-will-jh-2006-08-05.jpg
 
 images:
   - url: good-will-postcard-1900c-01.jpg
-    caption: 'Postcard depicting the Good Will Engine Company circa 1900-1910. The nearby Jones Warehouse was built in 1895 and horse-drawn fire equipment started to be less common after 1910 (until about 1920 in some cities)'
     alt: 'A three-story former fire house. The first story has alternating courses of red brick and granite with a central doorway for older fire apparatus to come and go. The redevelopment cleaned up the brick and added red-painted framed windows with decorative grates featuring flame patterns.'
+    caption: 'Postcard depicting the Good Will Engine Company circa 1900-1910. The nearby Jones Warehouse was built in 1895 and horse-drawn fire equipment started to be less common after 1910 (until about 1920 in some cities)'
+    sizes: '1280, 795'
   - url: good-will-jh-2002-06-01.jpg
+    sizes: '1200, 900'
   - url: good-will-jh-2006-04-01.jpg
+    sizes: '1200, 900'
   - url: good-will-jh-2006-04-02.jpg
+    sizes: '1200, 900'
   - url: good-will-jh-2006-04-03.jpg
+    sizes: '1200, 900'
   - url: good-will-jh-2006-04-04.jpg
+    sizes: '1200, 900'
   - url: good-will-jh-2006-04-05.jpg
+    sizes: '1200, 900'
   - url: good-will-jh-2006-08-01.jpg
+    sizes: '1200, 900'
   - url: good-will-jh-2006-08-02.jpg
+    sizes: '768, 924'
   - url: good-will-jh-2006-08-03.jpg
+    sizes: '768, 924'
   - url: good-will-jh-2006-08-04.jpg
+    sizes: '1200, 900'
   - url: good-will-jh-2006-08-05.jpg
+    sizes: '1200, 900'
+  - url: good-will-ch-2022-12-01.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '768, 924'
+  - url: good-will-ch-2022-12-02.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '1440, 900'
+  - url: good-will-ch-2022-12-03.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '768, 924'
+  - url: good-will-ch-2022-12-04.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '1440, 900'
+  - url: good-will-ch-2022-12-05.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '768, 924'
 
 mostrecentimage: 2006-08-01
 
-imagescredit: 'Postcard taken from Ebay'
+imagescredit: 'Contributions from a user on Ebay (for the postcard) and Chloé Hurley'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
