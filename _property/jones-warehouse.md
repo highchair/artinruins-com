@@ -2,7 +2,9 @@
 title: "Orrin E. Jones Storage Warehouse"
 slug: jones-warehouse
 aka:
-date-modified: 2021-08-03 12:00
+date-modified: 2022-12-16 12:00
+update: 'Added new photos submitted by Chloé Hurley'
+update-image: jones-ch-2022-12-02.jpg
 
 built: '1896–1900'
 demolition:
@@ -34,26 +36,48 @@ thumbnail:
 images:
   - url: jones-jh-2002-06-01.jpg
     alt: 'A blocky, thickly built, red brick storage warehouse with short, small windows with granite sills. Two thirds of the building is five stories tall, while the remaining third is seven stories tall. Windows along the top are round arched and in groups. A decorative cornice is on both portions, with a more ornate cornice that is reminiscent of an armory building on the taller setion.'
+    sizes: '1200, 900'
   - url: jones-sc-2004-09-01.jpg
     caption: 'Photo by Sarah Clover. The Good Will Engine Company can be seen in the center as well. Notice how the old painted side on the upper side of the Warehouse is faded and layered with several “Orrin Jones Storage Warehoueses”'
+    sizes: '1200, 900'
   - url: jones-jh-2006-04-01.jpg
+    sizes: '1200, 900'
   - url: jones-jh-2006-04-02.jpg
+    sizes: '1200, 900'
   - url: jones-jh-2006-04-03.jpg
+    sizes: '1200, 900'
   - url: jones-jh-2006-04-04.jpg
+    sizes: '1200, 900'
   - url: jones-jh-2006-04-05.jpg
+    sizes: '1200, 900'
   - url: jones-jh-2006-04-06.jpg
+    sizes: '1200, 900'
   - url: jones-jh-2006-04-07.jpg
+    sizes: '1200, 900'
   - url: jones-jh-2006-04-08.jpg
+    sizes: '768, 924'
   - url: jones-jh-2006-04-09.jpg
+    sizes: '768, 924'
   - url: jones-jh-2006-04-10.jpg
+    sizes: '1200, 900'
   - url: jones-jh-2006-04-11.jpg
+    sizes: '1200, 900'
   - url: jones-jh-2006-04-12.jpg
+    sizes: '1200, 900'
   - url: jones-jh-2006-04-13.jpg
+    sizes: '1200, 900'
   - url: jones-jh-2006-04-14.jpg
+    sizes: '1200, 900'
+  - url: jones-ch-2022-12-01.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '900, 900'
+  - url: jones-ch-2022-12-02.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '1200, 900'
 
-imagescredit: 'Contribution from Sarah Clover'
+imagescredit: 'Contributions from Sarah Clover and Chloé Hurley'
 
-mostrecentimage: 2006-04-01
+mostrecentimage: 2022-12-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
