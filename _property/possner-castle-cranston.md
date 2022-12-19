@@ -31,18 +31,23 @@ thumbnail: possner-bpb-undated-02.jpg
 
 images:
   - url: possner-bpb-undated-01.jpg
-    credit: 'From the collection of Brenda B.Possner Bolster'
+    sizes: '1200, 900'
   - url: possner-bpb-undated-02.jpg
-    credit: 'From the collection of Brenda B.Possner Bolster'
+    sizes: '1200, 900'
   - url: possner-postcard-undated-01.jpg
+    sizes: '1080, 675'
   - url: possner-postcard-undated-02.jpg
     caption: 'Postcard of the Edgewood Yacht Club. Upper left shows how close Possner Castle was to the Club building. '
+    sizes: '500, 319'
   - url: possner-ppl-1942-01.jpg
     caption: 'Clipping from the John Hutchins Cady Research Scrapbooks Collection at the Providence Public Library, circa 1942'
+    sizes: '1200, 900'
   - url: possner-kd-1986-01.jpg
     caption: 'Photo by Kathleen Dunley, 1986'
+    sizes: '853, 640'
   - url: possner-kd-1986-02.jpg
     caption: 'Photo by Kathleen Dunley, 1986'
+    sizes: '853, 640'
 
 imagescredit: 'Contributions from Brenda B.Possner Bolster, John Hutchins Cady Research Scrapbooks Collection at the Providence Public Library, and Kathleen Dunley'
 ---

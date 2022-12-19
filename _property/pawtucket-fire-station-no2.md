@@ -35,13 +35,20 @@ images:
   - url: postcard-pawtlib-undated.jpg
     alt: 'A three story, square red brick fire station with rusticated stone first-floor facing around three large garage doors for fire apparatus. A four and a half story square tower is attached to the east wall and is topped with a four-side pyramid roof.'
     caption: 'Pawtucket Library Digital Collection on Flickr'
+    sizes: '1024, 1024'
   - url: photo-pawtlib-undated.jpg
     caption: 'Pawtucket Library Digital Collection on Flickr'
+    sizes: '1024, 1024'
   - url: pawt-fire-2-jh-2009-11-01.jpg
+    sizes: '819, 1024'
   - url: pawt-fire-2-jh-2009-11-02.jpg
+    sizes: '1200, 900'
   - url: pawt-fire-2-jh-2009-11-03.jpg
+    sizes: '1200, 900'
   - url: pawt-fire-2-jh-2009-11-04.jpg
+    sizes: '1200, 900'
   - url: pawt-fire-2-jh-2009-11-05.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2009-11-01
 

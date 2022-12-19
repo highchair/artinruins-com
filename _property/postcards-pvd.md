@@ -32,38 +32,55 @@ thumbnail: postcard-greetings.jpg
 images:
   - url: adv-Whitmans-Fountain-Pump-c1880.jpg
     caption: '1. Advertisement for Whitman’s Fountain Pump, an apparatus attached to a wooden bucket, guessing 1880s. Josiah A. Whitman, Sole Proprietor and Manufacturer, 128 North Main Street.'
+    sizes: '1407, 890'
   - url: postcard-St-Peter-Paul-c1890.jpg
     caption: '2. Saints Peter’s and Paul’s Cathedral, Westminster Street, circa 1890'
+    sizes: '1021, 1422'
   - url: postcard-St-Peter-Paul-c1900.jpg
     caption: '3. Saints Peter’s and Paul’s Cathedral, colorized'
+    sizes: '684, 1078'
   - url: postcard-Market-Square-c1890.jpg
     caption: '4. Postcard of Market Square from around 1890'
+    sizes: '1600, 1016'
   - url: postcard-old-industrial-trust-banigan-c1900.jpg
     caption: '5. The old Industrial Trust and Banigan buildings circa 1900'
+    sizes: '1007, 1351'
   - url: postcard-RI-Hospital-1906.jpg
     caption: '6. Rhode Island Hospital circa 1906'
+    sizes: '1525, 1002'
   - url: postcard-old-industrial-trust-c1910.jpg
     caption: '7. The old Industrial Trust building circa 1910'
+    sizes: '710, 1100'
   - url: postcard-Union-Trust-pre-1920.jpg
     caption: '8. The Union Trust tower on Dorrance St. circa 1910'
+    sizes: '1024, 1600'
   - url: postcard-First-Church-Scientist-post-1913.jpg
     caption: '9. First Church of Christ, Scientist, on Meeting Street, circa 1913'
+    sizes: '758, 1200'
   - url: postcard-State-Normal-School.jpg
     caption: '10. Campus building of the State Normal School, circa 1915'
+    sizes: '1600, 1013'
   - url: postcard-Turks-Head-c1915.jpg
     caption: '11. Turks Head buildings, then and now, postcard probably 1915'
+    sizes: '1582, 1019'
   - url: postcard-Fruit-Market-Center-c1920.jpg
     caption: '12. The Fruit Market set up on the corners of South Water St and Memorial Blvd., circa 1920'
+    sizes: '1556, 988'
   - url: postcard-City-Hall-and-SS-Kresge-c1922.jpg
     caption: '13. City Hall and the newly constructed Woolworth building, circa 1922'
+    sizes: '1414, 912'
   - url: photo-Westminster-St-pre-1925.jpg
     caption: '14. A view east down Westminster Street before 1925'
+    sizes: '1469, 952'
   - url: postcard-State-Normal-School-RIC.jpg
     caption: '15. Another later postcard of the State Normal School which changed its name to RI College of Education in 1920'
+    sizes: '1600, 990'
   - url: postcard-State-Capitol-Annex-St-Patricks-Church.jpg
     caption: '16. The State Capitol Annex with St. Patrick’s Church in the background, Smith Street, circa 1930'
+    sizes: '1533, 991'
   - url: postcard-Weybosset-St.jpg
     caption: '17. Bustling Weybosset Street in front of the Lowes, now PPAC. From the cars alone we guess 1940s.'
+    sizes: '1014, 641'
 
 imagescredit: 
 ---

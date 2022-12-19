@@ -33,65 +33,113 @@ thumbnail: pdbc-jh-2007-01-02.jpg
 
 images:
   - url: pdbc-engrave-1901-01.jpg
-    caption: 'Engraving of Providence Dyeing, Bleaching & Calendaring (1901), from Biographical History of the Manufacturers and Businessmen of RI'
     alt: 'A four-acre complex of eighteen buildings, an alley, and the Paragon Dam across the Woonasquatucket River. As part of the redevelopment into residential and commercial units, a central courtyard was created by removing the roof and a few party walls. The exposed walls of the courtyard are a mix of brick and older stone work showing how the complex has been built and modified over the years.'
+    caption: 'Engraving of Providence Dyeing, Bleaching & Calendaring (1901), from Biographical History of the Manufacturers and Businessmen of RI'
+    sizes: '1982, 1134'
   - url: pdbc-jh-2002-01-01.jpg
     caption: 'Layers of building — the outline of a stone structural wall has been consumed by the brick wall for a later building'
+    sizes: '1440, 900'
   - url: pdbc-jh-2002-01-02.jpg
     caption: 'Building #1 on the inner part of the complex with a box monitor roof has been surrounded by taller structures. These roofs were eventually removed to create an interior open air courtyard.'
+    sizes: '1200, 900'
   - url: pdbc-habs-2003-11-06.jpg
     caption: 'Building #3 on alley, facing northwest — Photo by Edward Connors for the National Register nomination, November 2003'
+    sizes: '1350, 900'
   - url: pdbc-habs-2003-11-10.jpg
     caption: 'Building #6, facing southeast — Photo by Edward Connors for the National Register nomination, November 2003'
+    sizes: '1350, 900'
   - url: pdbc-habs-2003-11-12.jpg
     caption: 'Building #8, facing northwest — Photo by Edward Connors for the National Register nomination, November 2003'
+    sizes: '1350, 900'
   - url: pdbc-habs-2003-11-16.jpg
     caption: 'Building #13, facing southeast — Photo by Edward Connors for the National Register nomination, November 2003'
+    sizes: '1350, 900'
   - url: pdbc-habs-2003-11-21.jpg
     caption: 'Courtyard between Buildings #6 and 13, facing south — Photo by Edward Connors for the National Register nomination, November 2003'
+    sizes: '1350, 900'
   - url: pdbc-jh-2004-04-01.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-02.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-03.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-04.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-05.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-06.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-07.jpg
+    sizes: '1440, 900'
   - url: pdbc-jh-2004-04-08.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-09.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-10.jpg
+    sizes: '1440, 900'
   - url: pdbc-jh-2004-04-11.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-12.jpg
+    sizes: '768, 924'
   - url: pdbc-jh-2004-04-13.jpg
+    sizes: '768, 924'
   - url: pdbc-jh-2004-04-14.jpg
+    sizes: '768, 924'
   - url: pdbc-jh-2004-04-15.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-16.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-17.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-18.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-19.jpg
+    sizes: '1440, 900'
   - url: pdbc-jh-2004-04-20.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-21.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-22.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-23.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2004-04-24.jpg
+    sizes: '768, 924'
   - url: pdbc-jh-2005-08-01.jpg
     caption: 'Building #8 — Ghost sign visible on this façade facing Valley Street, reading “Providence Dyeing Bleaching & Calendaring Co.” Second line across a lower row of windows is illegible'
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-06-01.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-06-02.jpg
+    sizes: '1440, 900'
   - url: pdbc-jh-2006-06-03.jpg
+    sizes: '1440, 900'
   - url: pdbc-jh-2006-06-04.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-06-05.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-06-06.jpg
+    sizes: '768, 924'
   - url: pdbc-jh-2006-06-07.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-09-01.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-09-02.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2007-01-01.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2007-01-02.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2007-01-03.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2007-01-04.jpg
+    sizes: '1440, 900'
   - url: pdbc-jh-2007-06-01.jpg
     caption: 'View of Gillian Christy’s sculpture “Embrace”, atop the smokestack. Installed in May, 2007'
+    sizes: '1200, 900'
   - url: pdbc-jh-2007-06-02.jpg
     caption: 'View of Gillian Christy’s sculpture “Embrace”, atop the smokestack. Installed in May, 2007'
+    sizes: '768, 924'
 
 imagescredit: 'Contributions by Edward Connors for the National Register nomination form'
 

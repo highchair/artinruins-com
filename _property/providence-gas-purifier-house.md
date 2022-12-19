@@ -34,40 +34,65 @@ thumbnail: prov-gas-ec-2006-09-02.jpg
 images:
   - url: 01.jpg
     alt: 'A four-story red brick industrial building. A detailed description of how the building is constructed is included in the history section.'
+    sizes: '510, 383'
   - url: 02.jpg
+    sizes: '371, 383'
   - url: 03.jpg
+    sizes: '510, 383'
   - url: 04.jpg
+    sizes: '510, 383'
   - url: 05.jpg
+    sizes: '510, 383'
   - url: 06.jpg
+    sizes: '510, 383'
   - url: 07.jpg
+    sizes: '510, 383'
   - url: 08.jpg
+    sizes: '510, 383'
   - url: prov-gas-jh-2005-04-01.jpg
+    sizes: '1200, 900'
   - url: prov-gas-jh-2005-04-02.jpg
+    sizes: '1200, 900'
   - url: prov-gas-jh-2005-04-03.jpg
+    sizes: '1200, 900'
   - url: prov-gas-jh-2005-04-04.jpg
+    sizes: '1440, 900'
   - url: prov-gas-jh-2005-04-05.jpg
     caption: 'Details of some of the custom-built fireplaces on the upper floors'
+    sizes: '1200, 900'
   - url: prov-gas-jh-2005-04-06.jpg
+    sizes: '1200, 900'
   - url: prov-gas-jh-2005-04-07.jpg
+    sizes: '1200, 900'
   - url: prov-gas-jh-2005-04-08.jpg
+    sizes: '1440, 900'
   - url: prov-gas-ec-2006-09-01.jpg
     caption: 'Photo by Edward Connors, 2006, for the National Register'
+    sizes: '1350, 900'
   - url: prov-gas-ec-2006-09-02.jpg
     caption: 'Photo by Edward Connors, 2006, for the National Register'
+    sizes: '1350, 900'
   - url: prov-gas-ec-2006-09-03.jpg
     caption: 'Photo by Edward Connors, 2006, for the National Register'
+    sizes: '1350, 900'
   - url: prov-gas-ec-2006-09-04.jpg
     caption: 'Photo by Edward Connors, 2006, for the National Register'
+    sizes: '800, 1200'
   - url: prov-gas-ec-2006-09-05.jpg
     caption: 'Photo by Edward Connors, 2006, for the National Register'
+    sizes: '1350, 900'
   - url: prov-gas-ec-2006-09-06.jpg
     caption: 'Photo by Edward Connors, 2006, for the National Register'
+    sizes: '1350, 900'
   - url: prov-gas-ec-2006-09-07.jpg
     caption: 'Photo by Edward Connors, 2006, for the National Register'
+    sizes: '1350, 900'
   - url: prov-gas-ec-2006-09-08.jpg
     caption: 'Photo by Edward Connors, 2006, for the National Register'
+    sizes: '1350, 900'
   - url: prov-gas-ec-2006-09-09.jpg
     caption: 'Photo by Edward Connors, 2006, for the National Register'
+    sizes: '800, 1200'
 
 mostrecentimage: 2006-09-01
 

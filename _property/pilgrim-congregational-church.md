@@ -34,26 +34,43 @@ thumbnail: pilgrim-church-jh-2007-06-01.jpg
 
 images:
   - url: pilgrim-church-engraving-date-unknown.jpg
-    caption: 'Early engraving, date and source unknown'
     alt: 'A three story former church building with former offset steple now just a stump. Red brick with granite and brownstone quoins around arched windows.'
+    caption: 'Early engraving, date and source unknown'
+    sizes: '729, 1200'
   - url: pilgrim-church-ppl-1900c-01.jpg
     caption: 'Rhode Island Collection, Providence Public Library, undated but likely early 1900s due to the single horse and buggy on the street'
+    sizes: '910, 1024'
   - url: pilgrim-church-photo-date-unknown.jpg
     caption: 'Digital Commonwealth Massachusetts, date unknown'
+    sizes: '534, 678'
   - url: pilgrim-church-jh-2007-06-01.jpg
+    sizes: '1440, 900'
   - url: pilgrim-church-jh-2007-06-02.jpg
+    sizes: '1200, 900'
   - url: pilgrim-church-jh-2007-06-03.jpg
+    sizes: '1200, 900'
   - url: pilgrim-church-jh-2007-06-04.jpg
+    sizes: '1200, 900'
   - url: pilgrim-church-jh-2007-06-05.jpg
+    sizes: '768, 924'
   - url: pilgrim-church-jh-2007-06-06.jpg
+    sizes: '768, 924'
   - url: pilgrim-church-jh-2007-06-07.jpg
+    sizes: '1200, 900'
   - url: pilgrim-church-jh-2007-06-08.jpg
+    sizes: '1200, 900'
   - url: pilgrim-church-jh-2013-05-01.jpg
+    sizes: '1440, 900'
   - url: pilgrim-church-jh-2013-05-02.jpg
+    sizes: '900, 900'
   - url: pilgrim-church-jh-2013-05-03.jpg
+    sizes: '768, 924'
   - url: pilgrim-church-jh-2013-05-04.jpg
+    sizes: '1440, 900'
   - url: pilgrim-church-jh-2013-05-05.jpg
+    sizes: '1440, 900'
   - url: pilgrim-church-jh-2013-05-06.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A10252" target="_blank">Rhode Island Photograph Collection</a> at the Providence Public Library and from <a href="http://gusn.us/283390" target="_blank">Digital Commonwealth Massachusetts</a>'
 

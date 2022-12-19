@@ -2,11 +2,12 @@
 title: "Providence Machine"
 slug: providence-machine
 aka: "One Allens Ave, Providence Steam Cotton Manufacturing Company, and Franklin Process"
+date-modified:
 
-built: 1846
-demolition: 2001
+built: '1846'
+demolition: '2001'
 decade: '1840-1849'
-date-added: 2003
+date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
@@ -26,48 +27,80 @@ thumbnail: prov-machine-va-1992-01.jpg
 
 images:
   - url: prov-machine-illus-1891.jpg
+    sizes: '1024, 572'
   - url: prov-machine-va-1992-01.jpg
-    caption: Photo by Virginia Adams for RIHPHC, 1992
+    caption: 'Photo by Virginia Adams for RIHPHC, 1992'
+    sizes: '1440, 900'
   - url: prov-machine-va-1992-02.jpg
-    caption: Photo by Virginia Adams for RIHPHC, 1992
+    caption: 'Photo by Virginia Adams for RIHPHC, 1992'
+    sizes: '1440, 900'
   - url: prov-machine-va-1992-03.jpg
-    caption: Photo by Virginia Adams for RIHPHC, 1992
+    caption: 'Photo by Virginia Adams for RIHPHC, 1992'
+    sizes: '1440, 900'
   - url: prov-machine-va-1992-04.jpg
-    caption: Photo by Virginia Adams for RIHPHC, 1992
+    caption: 'Photo by Virginia Adams for RIHPHC, 1992'
+    sizes: '1440, 900'
   - url: prov-machine-mkierstead-01.jpg
-    caption: At a particularly revealing stage of demolition, the 20th century section is gone, revealing the 19th century section, including the rook truss structure of the core 1846 Providence Machine Company section. Boiler settings are visible just left of the stack chimney, and the boilers themselves lie in the foreground. Salvage operations are sorting materials in pieces as they progress. 
+    caption: 'At a particularly revealing stage of demolition, the 20th century section is gone, revealing the 19th century section, including the rook truss structure of the core 1846 Providence Machine Company section. Boiler settings are visible just left of the stack chimney, and the boilers themselves lie in the foreground. Salvage operations are sorting materials in pieces as they progress.'
+    sizes: '1200, 900'
   - url: prov-machine-jh-2002-06-01.jpg
+    sizes: '1440, 900'
   - url: prov-machine-jh-2002-06-02.jpg
+    sizes: '1440, 900'
   - url: prov-machine-jh-2002-06-03.jpg
+    sizes: '1440, 900'
   - url: prov-machine-sc-2002-07-01.jpg
+    sizes: '640, 480'
   - url: prov-machine-sc-2002-07-02.jpg
+    sizes: '640, 480'
   - url: prov-machine-sc-2002-07-03.jpg
+    sizes: '480, 640'
   - url: prov-machine-sc-2002-07-04.jpg
+    sizes: '480, 640'
   - url: prov-machine-sc-2002-07-05.jpg
+    sizes: '480, 640'
   - url: prov-machine-sc-2002-07-06.jpg
+    sizes: '480, 640'
   - url: prov-machine-sc-2002-07-07.jpg
+    sizes: '480, 640'
   - url: prov-machine-sc-2002-07-08.jpg
+    sizes: '640, 480'
   - url: prov-machine-sc-2002-07-09.jpg
+    sizes: '640, 480'
   - url: prov-machine-sc-2002-07-10.jpg
+    sizes: '640, 480'
   - url: prov-machine-sc-2002-07-11.jpg
+    sizes: '640, 480'
   - url: prov-machine-sc-2002-07-12.jpg
+    sizes: '640, 480'
   - url: prov-machine-sc-2002-07-13.jpg
+    sizes: '640, 480'
   - url: prov-machine-sc-2002-07-14.jpg
+    sizes: '640, 480'
   - url: prov-machine-sc-2002-07-15.jpg
+    sizes: '640, 480'
   - url: prov-machine-sc-2002-07-16.jpg
+    sizes: '640, 480'
   - url: prov-machine-sc-2002-07-17.jpg
+    sizes: '640, 480'
   - url: prov-machine-aerial-1952.jpg
-    caption: Providence Historical Aerial Viewer 1952
+    caption: 'Providence Historical Aerial Viewer 1952'
+    sizes: '1440, 900'
   - url: prov-machine-aerial-1972.jpg
-    caption: Providence Historical Aerial Viewer 1972
+    caption: 'Providence Historical Aerial Viewer 1972'
+    sizes: '1440, 900'
   - url: prov-machine-aerial-1997.jpg
-    caption: Providence Historical Aerial Viewer 1997
+    caption: 'Providence Historical Aerial Viewer 1997'
+    sizes: '1440, 900'
   - url: prov-machine-aerial-2004.jpg
-    caption: Providence Historical Aerial Viewer 2004
+    caption: 'Providence Historical Aerial Viewer 2004'
+    sizes: '1440, 900'
   - url: prov-machine-aerial-2008.jpg
-    caption: Providence Historical Aerial Viewer 2008
+    caption: 'Providence Historical Aerial Viewer 2008'
+    sizes: '1440, 900'
   - url: prov-machine-aerial-2011.jpg
-    caption: Providence Historical Aerial Viewer 2011
+    caption: 'Providence Historical Aerial Viewer 2011'
+    sizes: '1440, 900'
 
 imagescredit: Contributions by Virginia Adams, Sarah Clover, and aerials from the Providence Historical Aerial Viewer.
 ---

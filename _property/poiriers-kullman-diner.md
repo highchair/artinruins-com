@@ -31,37 +31,57 @@ thumbnail: poiriers-jh-2013-05-02.jpg
 
 images:
   - url: poiriers-lc-1981-05-01.jpg
-    caption: 'The Sandwich Factory, photo by Larry Cultrera, Diner Hotline, May 1981'
     alt: 'A sleek, mid-century modern dining car made of steel columns, glass block, and a shapely curved roof, this example of pre-fabricated restaurants resembles a train car with its streamlined lines and it long, lozenge shape'
+    caption: 'The Sandwich Factory, photo by Larry Cultrera, Diner Hotline, May 1981'
+    sizes: '1440, 900'
   - url: poiriers-lc-1981-05-02.jpg
     caption: 'The Sandwich Factory, photo by Larry Cultrera, Diner Hotline, May 1981'
+    sizes: '1440, 900'
   - url: poiriers-ms-1982-10-01.jpg
     caption: 'Gary’s Sandwich Factory, photo by Mark Sawtelle, October 1982, from Flickr'
+    sizes: '1024, 670'
   - url: poiriers-lc-1983-05-01.jpg
     caption: 'Gary’s Sandwich Factory, photo by Larry Cultrera, Diner Hotline, May 1983'
+    sizes: '1440, 900'
   - url: poiriers-trr-unknown-01.jpg
     caption: 'The El Faro diner, photo by user “Tomlinson Run Railroad”, O-Guage Railroading'
+    sizes: '1000, 695'
   - url: poiriers-cs-2002-08-01.jpg
     caption: 'Photo by Clark Schoettle, August 2002'
+    sizes: '1440, 900'
   - url: poiriers-cs-2002-08-02.jpg
     caption: 'Photo by Clark Schoettle, August 2002'
+    sizes: '1440, 900'
   - url: poiriers-cs-2002-08-03.jpg
     caption: 'Photo by Clark Schoettle, August 2002'
+    sizes: '1440, 900'
   - url: poiriers-cs-2002-08-05.jpg
     caption: 'Photo by Clark Schoettle, August 2002'
+    sizes: '1440, 900'
   - url: poiriers-cc-2011-12-01.jpg
     caption: 'Moving day, photo by Flickr user Chloe C., December 13, 2011'
+    sizes: '1200, 900'
   - url: poiriers-jh-2011-12-01.jpg
+    sizes: '1440, 900'
   - url: poiriers-jh-2011-12-02.jpg
+    sizes: '1440, 900'
   - url: poiriers-jh-2012-04-01.jpg
+    sizes: '1440, 900'
   - url: poiriers-jh-2012-04-02.jpg
+    sizes: '1440, 900'
   - url: poiriers-jh-2013-05-01.jpg
+    sizes: '1440, 900'
   - url: poiriers-jh-2013-05-02.jpg
+    sizes: '1200, 900'
   - url: poiriers-jh-2013-05-03.jpg
+    sizes: '1440, 900'
   - url: poiriers-jh-2013-05-04.jpg
+    sizes: '1440, 900'
   - url: poiriers-jh-2013-05-05.jpg
+    sizes: '1200, 900'
   - url: poiriers-kz-2020-01.jpg
     caption: 'Photo by Ken Zirkel for Wikimedia'
+    sizes: '1440, 699'
 
 imagescredit: 'Contributions by <a href="//www.flickr.com/photos/mcsawtelle/5795296415/" target="_blank">Mark Sawtelle</a>, <a href="//dinerhotline.wordpress.com/tag/poiriers-diner/" target="_blank">Larry Cultrera</a>, <a href="//ogrforum.ogaugerr.com/topic/trains-trolleys-and-diners-the-real-story" target="_blank">Tomlinson Run Railroad</a>, Clark Schoettle for the National Register nomination, <a href="//www.flickr.com/photos/chloe-and-ivan/6505917507" target="_blank">Chloe C.</a>, and <a href="//commons.wikimedia.org/wiki/File:West_Side_Diner_Providence_Rhode_Island.jpg" target="_blank">Ken Zirkel</a> from Wikimedia'
 

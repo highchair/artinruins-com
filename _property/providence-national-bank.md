@@ -3,12 +3,12 @@ title: "Providence National Bank"
 slug: providence-national-bank
 aka:
 date-modified: 2022-06-29 21:47
-update: 'Added a old photo, likely from the 1940s, of the Weybosset Street facade'
+update: 'Added an old photo, likely from the 1940s, of the Weybosset Street facade'
 
 built: 1929, 1950s
-demolition: 2005
+demolition: '2005'
 decade: '1920-1929'
-date-added: 2004
+date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
@@ -31,28 +31,44 @@ thumbnail: prov-nat-bank-jh-2004-10-06.jpg
 
 images:
   - url: prov-nat-bank-engraving-undated.jpg
-    caption: 'Undated engraving from RICurrency.com'
     alt: 'A two and a half story, red brick narrow building three bays wide on the Westminster Street side. The first story central entrance and flanking windows have rounded top arches. On the second floor is a double column recessed set of French doors. On the Weybosset Street side, the building is wider and a full three stories with a triangular pediment across the top.'
+    caption: 'Undated engraving from RICurrency.com'
+    sizes: '728, 1024'
   - url: prov-nat-bank-ppl-west-facade-undated.jpg
     caption: 'Undated photo from Providence Public Library. Street view of the Weybosset Street facade, labeled “Industrial National Bank,” designed by Howe, Prout, & Eckman who were active between 1946 and 1959. The original design was actually credited to Howe & Church, active between 1928 and 1938.'
+    sizes: '800, 1000'
   - url: prov-nat-bank-jh-2004-10-01.jpg
+    sizes: '800, 1067'
   - url: prov-nat-bank-jh-2004-10-02.jpg
+    sizes: '800, 1067'
   - url: prov-nat-bank-jh-2004-10-03.jpg
+    sizes: '1200, 900'
   - url: prov-nat-bank-jh-2004-10-04.jpg
+    sizes: '1200, 900'
   - url: prov-nat-bank-jh-2004-10-05.jpg
+    sizes: '1200, 900'
   - url: prov-nat-bank-jh-2004-10-06.jpg
+    sizes: '1200, 900'
   - url: prov-nat-bank-jh-2004-11-01.jpg
+    sizes: '1200, 900'
   - url: prov-nat-bank-ac-2005-12-01.jpg
     caption: 'Photo by Alex Carr, December 2005'
+    sizes: '800, 533'
   - url: prov-nat-bank-ac-2005-12-02.jpg
     caption: 'Photo by Alex Carr, December 2005'
+    sizes: '800, 533'
   - url: prov-nat-bank-jh-2006-02-01.jpg
+    sizes: '1200, 900'
   - url: prov-nat-bank-dt-2006-03-01.jpg
     caption: 'Photo by Donald Tetto, March 2006'
+    sizes: '1440, 900'
   - url: prov-nat-bank-jh-2006-04-01.jpg
+    sizes: '1440, 900'
   - url: prov-nat-bank-jh-2007-10-01.jpg
+    sizes: '1200, 900'
   - url: prov-nat-bank-kj-2012-07-01.jpg
     caption: 'Photo by Kevin James, July 2012'
+    sizes: '1400, 933'
 
 imagescredit: 'Contributions by <a href="http://www.ricurrency.com/bank-name/providence-bank/" target="_blank">RICurrencycom</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A14465" target="_blank">RI Photograph Collection</a> Providence Public Library, Alex Carr, and Kevin James.'
 ---

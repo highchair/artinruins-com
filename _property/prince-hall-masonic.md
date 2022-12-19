@@ -33,20 +33,31 @@ thumbnail: prince-hall-jh-2020-12-01.jpg
 
 images:
   - url: prince-hall-jh-2017-05-01.jpg
-    caption: 'A quick snap as we were driving by and siding was being replaced. We were interested in the original siding underneath'
     alt: 'A square plan, white vinyl sided two story building on a raised foundation with a double-hip roof line and the remnants of the base of a former bell or decorative clerstory tower'
+    caption: 'A quick snap as we were driving by and siding was being replaced. We were interested in the original siding underneath'
+    sizes: '900, 900'
   - url: prince-hall-goog-2019-01.jpg
     caption: 'Image from Google Streetview, August 2019'
+    sizes: '1200, 900'
   - url: prince-hall-jh-2020-12-01.jpg
+    sizes: '1200, 900'
   - url: prince-hall-jh-2020-12-02.jpg
+    sizes: '1200, 900'
   - url: prince-hall-jh-2020-12-03.jpg
+    sizes: '1200, 900'
   - url: prince-hall-jh-2020-12-04.jpg
+    sizes: '768, 924'
   - url: prince-hall-jh-2020-12-05.jpg
+    sizes: '1200, 900'
   - url: prince-hall-jh-2020-12-06.jpg
+    sizes: '1200, 900'
   - url: prince-hall-jh-2020-12-07.jpg
+    sizes: '1200, 900'
   - url: prince-hall-jh-2022-03-01.jpg
+    sizes: '1440, 900'
   - url: 1895-sanborn-map.jpg
     caption: 'A portion of an 1895 Sanborn Insurance Map showing only the label “School” where Prince Hall is located now. The building outline is the same, leading us to believe it is the same structure.'
+    sizes: '1440, 900'
 
 imagescredit: 'Contribution from Google Streetview'
 

@@ -33,44 +33,71 @@ thumbnail: rau-fastner-jh-2005-04-02.jpg
 
 images:
   - url: rau-fastner-habs-2003-06-01.jpg
-    caption: 'Photo by Clark Schoettle, June 2003. Rau Fastener (now demolished), Providence Lithograph, and Ada Buildings, Dexter and Sprague Streets, west and south elevations, facing east'
     alt: 'A group of three historic structures, two of which are red brick mills typical of the end of the 19th century — large eight over twelve or twelve over twelve windows with granite sills and thick timber construction — one of three and the other of four stories. The oldest structure is a two story clapboard covered wood frame mill, of which very few survive in Rhode Island.'
+    caption: 'Photo by Clark Schoettle, June 2003. Rau Fastener (now demolished), Providence Lithograph, and Ada Buildings, Dexter and Sprague Streets, west and south elevations, facing east'
+    sizes: '1200, 900'
   - url: rau-fastner-habs-2003-06-04.jpg
     caption: 'Photo by Clark Schoettle, June 2003. Ada Building (foreground) Harrison and Sprague Streets, south and east elevations; Providence Lithograph Building at left (background), facing northwest.'
+    sizes: '1200, 900'
   - url: rau-fastner-habs-2003-06-05.jpg
     caption: 'Photo by Clark Schoettle, June 2003. Ada Building, Harrison Street, east elevation,  facing west.'
+    sizes: '1200, 900'
   - url: rau-fastner-habs-2003-06-06.jpg
     caption: 'Photo by Clark Schoettle, June 2003. Ada Building, entrance detail, Sprague Street, south elevation, facing north.'
+    sizes: '1200, 900'
   - url: rau-fastner-habs-2003-06-07.jpg
     caption: 'Photo by Clark Schoettle, June 2003. Charles Perkins Building (foreground), Harrison Street, east elevation; Ada Building (background) Harrison Street, north elevation,  facing southwest.'
+    sizes: '1200, 900'
   - url: rau-fastner-habs-2003-06-08.jpg
     caption: 'Photo by Clark Schoettle, June 2003. Providence Lithograph Building, Westfield Street, north and east elevations, photographer facing southwest.'
+    sizes: '1200, 900'
   - url: rau-fastner-habs-2003-06-09.jpg
     caption: 'Photo by Clark Schoettle, June 2003. Rau Fastener Building, Westfield Street, north elevation, facing southeast.'
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-04-01.jpg
+    sizes: '1440, 900'
   - url: rau-fastner-jh-2005-04-02.jpg
+    sizes: '1440, 900'
   - url: rau-fastner-jh-2005-04-03.jpg
+    sizes: '1440, 900'
   - url: rau-fastner-jh-2005-04-04.jpg
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-04-05.jpg
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-04-06.jpg
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-04-07.jpg
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-04-08.jpg
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-04-09.jpg
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-04-10.jpg
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-04-11.jpg
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-04-12.jpg
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-04-13.jpg
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-04-14.jpg
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-04-15.jpg
+    sizes: '1200, 900'
   - url: rau-fastner-jh-2005-rendering.jpg
+    sizes: '1440, 900'
   - url: charles-perkins-dbvw.jpg
     caption: 'In progress photos from DBVW Architects'
+    sizes: '1280, 960'
   - url: perkins-bldg-aerial-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997. Notice the 1952 addition to the far left of the lower Ada Building.'
+    sizes: '1440, 900'
   - url: perkins-bldg-aerial-2008.jpg
     caption: 'Providence Historical Aerial Viewer 2008. That 1952 addition is now gone.'
+    sizes: '1440, 900'
   - url: perkins-bldg-aerial-2018.jpg
     caption: 'Providence Historical Aerial Viewer 2018. Infill commercial buildings now occupy the center parcel (to the right of the Perkins buildings)'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from Clark Schoettle for the National Register form and the Providence Aerial Viewer'
 

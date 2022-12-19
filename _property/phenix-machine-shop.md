@@ -33,26 +33,44 @@ thumbnail: phenix-jh-2004-07-01.jpg
 
 images:
   - url: phenix-engrave-1901-01.jpg
-    caption: 'Figure 56: Elm Street Machine Shop (1848); engraving, 1901. Distinctive features are the huge, arched, freight doors; random- ashlar walls; and eyebrow monitor set in a gable roof — From Providence Industrial Sites, Statewide Historical Preservation Report P-P-6, 1981'
     alt: 'A three-story grey stone walled mill building with a gable roof, clerstory monitor along the roof line, and red-brick stair tower on one end. Three huge round-head loading bays are located on each end.'
+    caption: 'Figure 56: Elm Street Machine Shop (1848); engraving, 1901. Distinctive features are the huge, arched, freight doors; random- ashlar walls; and eyebrow monitor set in a gable roof — From Providence Industrial Sites, Statewide Historical Preservation Report P-P-6, 1981'
+    sizes: '1440, 900'
   - url: phenix-habs-1985-01.jpg
     caption: 'Part of the National Register district nomination form, 1985 — Photo by Richard Greenwood'
+    sizes: '1440, 900'
   - url: phenix-jh-2004-07-01.jpg
+    sizes: '1200, 900'
   - url: phenix-jh-2004-07-02.jpg
+    sizes: '768, 924'
   - url: phenix-jh-2004-07-03.jpg
+    sizes: '1200, 900'
   - url: phenix-jh-2004-07-04.jpg
+    sizes: '1200, 900'
   - url: phenix-jh-2004-07-05.jpg
+    sizes: '1200, 900'
   - url: phenix-jh-2004-07-06.jpg
+    sizes: '1200, 900'
   - url: phenix-jh-2004-07-07.jpg
+    sizes: '1200, 900'
   - url: phenix-jh-2004-07-08.jpg
+    sizes: '1200, 900'
   - url: phenix-jh-2004-07-09.jpg
+    sizes: '1200, 900'
   - url: phenix-jh-2004-07-10.jpg
+    sizes: '768, 924'
   - url: phenix-jh-2004-07-11.jpg
+    sizes: '768, 924'
   - url: phenix-jh-2004-07-12.jpg
+    sizes: '1200, 900'
   - url: phenix-jh-2004-07-13.jpg
+    sizes: '768, 924'
   - url: phenix-jh-2021-09-01.jpg
+    sizes: '1440, 900'
   - url: phenix-jh-2021-09-02.jpg
+    sizes: '1200, 900'
   - url: phenix-jh-2021-09-03.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2021-09-01
 

@@ -33,70 +33,102 @@ thumbnail:
 
 images:
   - url: armory-habs-1997-09-01.jpg
-    caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
     alt: 'A castle-like yellow brick armory with central drill hall and two flanking four and a half story head houses featuring central six-story towers. Embellishments include granite, carved sandstone, rounded parapets with fortress-like copper clad crenellations along its rooflines.'
+    caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-02.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-03.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-04.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-05.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-06.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-07.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-08.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-09.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-10.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-11.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-12.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-13.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-14.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-15.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-16.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-17.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-18.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-19.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-20.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-21.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-22.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-23.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-24.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-25.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-26.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-27.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-28.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-29.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-30.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '768, 924'
   - url: armory-habs-1997-09-31.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
   - url: armory-habs-1997-09-32.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions by Jack Boucher for <a href="//www.loc.gov/pictures/collection/hh/item/ri0452/" target="_blank">HABS/HAER RI-407</a>'
 

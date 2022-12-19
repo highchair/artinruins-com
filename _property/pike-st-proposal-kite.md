@@ -31,10 +31,13 @@ thumbnail: pike-st-kite-render-water.jpg
 images:
   - url: pike-st-kite-render-highway.jpg
     caption: 'Rendering from KITE Architects, view from I-195 highway off ramp. Albert Garcia, AIA as Principal-in-charge.'
+    sizes: '1440, 900'
   - url: pike-st-kite-render-twillight.jpg
     caption: 'Rendering from KITE Architects, view from I-195 iWay bridge at dusk, with lighting wall. Albert Garcia, AIA as Principal-in-charge.'
+    sizes: '1200, 900'
   - url: pike-st-kite-render-water.jpg
     caption: 'Rendering from KITE Architects, view from South Water Street at dusk. Albert Garcia, AIA as Principal-in-charge.'
+    sizes: '1600, 900'
 
 mostrecentimage: 2014-07-01
 

@@ -33,27 +33,43 @@ thumbnail: civic-center-jh-2007-11-04.jpg
 
 images:
   - url: civic-center-unknown-1972-01.jpg
-    caption: 'The civic center under construction circa 1972, unknown source'
     alt: 'A brutalist polyagonal concrete and steel structure with jutting elbows along its outer walls showing how the structure is a typical small roofed stadium. A modernization in 2006 encpsulated more exterior space and made a grander entrance of steel and glass.'
+    caption: 'The civic center under construction circa 1972, unknown source'
+    sizes: '960, 600'
   - url: civic-center-unknown-postcard-01.jpg
     caption: 'A postcard for sale on Ebay'
+    sizes: '1024, 725'
   - url: civic-center-unknown-postcard-02.jpg
     caption: 'A postcard for sale on Ebay'
+    sizes: '1200, 725'
   - url: civic-center-unknown-postcard-03.jpg
     caption: 'A postcard for sale on Ebay'
+    sizes: '1160, 725'
   - url: civic-center-program-1975-01.jpg
     caption: 'A 1975 program for sale on Ebay'
+    sizes: '643, 900'
   - url: civic-center-jh-2006-02-01.jpg
+    sizes: '1600, 900'
   - url: civic-center-jh-2006-02-02.jpg
+    sizes: '768, 924'
   - url: civic-center-jh-2006-03-01.jpg
+    sizes: '1440, 900'
   - url: civic-center-jh-2006-06-01.jpg
+    sizes: '1440, 900'
   - url: civic-center-jh-2006-06-02.jpg
+    sizes: '1440, 900'
   - url: civic-center-jh-2007-11-01.jpg
+    sizes: '1440, 900'
   - url: civic-center-jh-2007-11-02.jpg
+    sizes: '1440, 900'
   - url: civic-center-jh-2007-11-03.jpg
+    sizes: '1440, 900'
   - url: civic-center-jh-2007-11-04.jpg
+    sizes: '1440, 900'
   - url: civic-center-jh-2007-11-05.jpg
+    sizes: '768, 924'
   - url: civic-center-jh-2007-11-06.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2007-11-01
 

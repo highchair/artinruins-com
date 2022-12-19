@@ -34,31 +34,50 @@ thumbnail: primo-jh-2018-12-01.jpg
 
 images:
   - url: primo-sanborn-1921-01.jpg
-    caption: 'Sanborn Insurance Map, 1921, from ProQuest Digital Sanborn Maps via the Providence Public Library'
     alt: 'A relatively non-descript two story cinder block structure with large second-story, steel frame windows. No ornamentation aside from a hand-painted sign on the middle of the facade reading “891 North Main Street”. First floor window opening have all been bricked in.'
+    caption: 'Sanborn Insurance Map, 1921, from ProQuest Digital Sanborn Maps via the Providence Public Library'
+    sizes: '1461, 1096'
   - url: primo-jh-2005-03-01.jpg
+    sizes: '1200, 900'
   - url: primo-jh-2005-03-02.jpg
+    sizes: '1200, 900'
   - url: primo-jh-2005-03-03.jpg
+    sizes: '1200, 900'
   - url: primo-jh-2008-07-01.jpg
+    sizes: '1200, 900'
   - url: primo-jh-2008-07-02.jpg
+    sizes: '1200, 900'
   - url: primo-jh-2018-03-01.jpg
+    sizes: '1200, 900'
   - url: primo-jh-2018-11-01.jpg
+    sizes: '1200, 900'
   - url: primo-jh-2018-11-02.jpg
+    sizes: '1200, 900'
   - url: primo-jh-2018-11-03.jpg
+    sizes: '1200, 900'
   - url: primo-jh-2018-12-01.jpg
+    sizes: '1200, 900'
   - url: primo-jh-2021-04-01.jpg
+    sizes: '1440, 900'
   - url: primo-crexi-2021-05-01.jpg
     caption: 'Photo taken from the real estate listing'
+    sizes: '2667, 2000'
   - url: primo-crexi-2021-05-02.jpg
     caption: 'Photo taken from the real estate listing'
+    sizes: '2667, 2000'
   - url: primo-crexi-2021-05-03.jpg
     caption: 'Photo taken from the real estate listing'
+    sizes: '2667, 2000'
   - url: primo-crexi-2021-05-04.jpg
     caption: 'Photo taken from the real estate listing'
+    sizes: '2667, 2000'
   - url: primo-jh-2021-12-01.jpg
+    sizes: '1440, 900'
   - url: primo-jh-2021-12-02.jpg
+    sizes: '1200, 900'
   - url: primo-jh-2021-12-03.jpg
     caption: 'Underneath the former building sign, workers discovered a lovely cast stone art-deco-style sign for Primo Art Co.'
+    sizes: '1200, 900'
 
 mostrecentimage: 2021-12-01
 

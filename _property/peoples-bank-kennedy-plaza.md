@@ -33,14 +33,20 @@ thumbnail: peoples-bank-jh-2004-10-01.jpg
 
 images:
   - url: peoples-bank-jh-2004-10-01.jpg
-    caption: 'The Kennedy Plaza façade'
     alt: 'Tan polished granite panels with pink streaks cover the façade in a plain, flat fashion. Windows run from second to sixth floor in one large vertical expanse. The center panels are wide and are flanked by two narrow bands. Across the top of each tower in large letters are “Peoples Savings Bank”'
+    caption: 'The Kennedy Plaza façade'
+    sizes: '1200, 900'
   - url: peoples-bank-jh-2004-10-02.jpg
+    sizes: '740, 1036'
   - url: peoples-bank-jh-2004-10-03.jpg
+    sizes: '1200, 900'
   - url: peoples-bank-jh-2004-10-04.jpg
+    sizes: '1200, 900'
   - url: peoples-bank-jh-2004-11-01.jpg
     caption: 'The almost identical Westminster Street façade'
+    sizes: '1200, 900'
   - url: peoples-bank-jh-2004-11-02.jpg
+    sizes: '1200, 900'
 
 imagescredit: 
 

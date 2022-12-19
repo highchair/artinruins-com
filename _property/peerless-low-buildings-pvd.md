@@ -34,56 +34,88 @@ thumbnail: cmt-cornish-2010.jpg
 
 images:
   - url: cmt-provreport-1873-artistrender.jpg
-    caption: 'Artist engraving of the original Callendar, McAuslan & Troup building without expansion and the 1892 William Low building to its right side, 1873 — From the RIHPHC’s Downtown Providence report, 1981'
     alt: 'A large, square plan 6-story commercial building in the commercial center of the city. Red stone and brick exterior with variations in window placement, sizes, and shapes by floor. Large plate glass commercial windows on the ground floor house retail shops.'
+    caption: 'Artist engraving of the original Callendar, McAuslan & Troup building without expansion and the 1892 William Low building to its right side, 1873 — From the RIHPHC’s Downtown Providence report, 1981'
+    sizes: '754, 1024'
   - url: cmt-viewsprovidence-1900-artistrender.jpg
     caption: 'Views of Providence (1900) printed by L.H. Nelson Company, Public domain, via Wikimedia Commons'
+    sizes: '1200, 960'
   - url: cmt-low-ppl-postcard-1900c.jpg
     caption: 'Westminster Street shopping district — Low building in foreground on left'
+    sizes: '1200, 773'
   - url: cmt-low-ppl-postcard-1970c.jpg
     caption: 'Westminster Street, from Dorrance to Empire streets, was a pedestrian mall created in 1964 which lasted until 1986. The Low Building has the Woolworth’s sign on it.'
+    sizes: '734, 1024'
   - url: cmt-low-habs-1977-01.jpg
     caption: 'Photo by Eric Hertfelder for the National Register nomination form, summer 1977'
+    sizes: '880, 1200'
   - url: cmt-low-jh-2000-01.jpg
     caption: 'Color film transparency scan from 2000'
+    sizes: '760, 511'
   - url: lupos-heartbreak-hotel-239-westminster-st.jpg
     caption: 'The former Peerless Department store was home to the rock-n-roll music venue “Lupo’s Heartbreak Hotel” run by proprietor’s Rick Lupo and Jack Reich'
+    sizes: '800, 531'
   - url: cmt-low-fm-2004-01.jpg
     caption: 'Photo by Frank Mullin, early 2004'
+    sizes: '1200, 900'
   - url: cmt-low-fm-2004-02.jpg
     caption: 'Photo by Frank Mullin, early 2004'
+    sizes: '1200, 900'
   - url: cmt-low-fm-2004-03.jpg
     caption: 'Photo by Frank Mullin, early 2004 — The former “Met Cafe” sign marked the location of another more intimate music venue that stood here from 1993 to 2003'
+    sizes: '1200, 900'
   - url: cmt-low-jh-2004-06-01.jpg
+    sizes: '1200, 900'
   - url: cmt-low-jh-2004-06-02.jpg
+    sizes: '1200, 900'
   - url: cmt-low-jh-2004-06-03.jpg
+    sizes: '768, 924'
   - url: cmt-low-jh-2004-06-04.jpg
+    sizes: '1200, 900'
   - url: cmt-low-jh-2004-06-05.jpg
+    sizes: '1200, 900'
   - url: cmt-low-jh-2004-06-06.jpg
+    sizes: '1200, 900'
   - url: cmt-low-jh-2004-06-07.jpg
+    sizes: '1200, 900'
   - url: cmt-low-jh-2004-06-08.jpg
+    sizes: '1200, 900'
   - url: cmt-low-jh-2004-06-09.jpg
+    sizes: '1200, 900'
   - url: cmt-low-jh-2004-06-10.jpg
     caption: 'Construction view of a rear entrance and underground parking'
+    sizes: '1200, 900'
   - url: cmt-low-jh-2004-06-11.jpg
     caption: 'Old steel beams meet new supports. Due to the massive square size of the building, the architects decided to create a central atrium that cuts through all five floors'
+    sizes: '1200, 900'
   - url: cmt-low-jh-2004-06-12.jpg
+    sizes: '768, 924'
   - url: cmt-low-jh-2004-06-13.jpg
     caption: 'Under construction view of a unit on the second or third floor'
+    sizes: '768, 924'
   - url: cmt-low-jh-2005-05-01.jpg
+    sizes: '1200, 900'
   - url: cmt-low-jh-2005-05-02.jpg
+    sizes: '1200, 900'
   - url: cmt-low-jh-2005-05-03.jpg
+    sizes: '1200, 900'
   - url: cmt-low-jh-2005-05-04.jpg
+    sizes: '768, 924'
   - url: cmt-low-jh-2005-05-05.jpg
     caption: 'Later photo of a previous view of a unit on the second or third floor'
+    sizes: '1200, 900'
   - url: cmt-low-jh-2005-05-06.jpg
     caption: 'Fifth floor unit'
+    sizes: '1200, 900'
   - url: cmt-low-jh-2005-05-07.jpg
     caption: 'Huge floor to ceiling windows in a fifth floor unit'
+    sizes: '768, 924'
   - url: cmt-low-jh-2005-05-08.jpg
     caption: 'Same unit and window, different view out the windows'
+    sizes: '768, 924'
   - url: cmt-cornish-2010.jpg
     caption: 'Promotional photo of the buildings from Cornish Associates'
+    sizes: '1200, 955'
 
 imagescredit: 'Contributions by Wikimedia, Rhode Island Postcard Collection and Providence Public Library (<a href="//provlibdigital.org/islandora/object/islandora%3A20000" target="_blank">1900</a> and <a href="//provlibdigital.org/islandora/object/islandora%3A22693" target="_blank">1970</a>), Eric Hertfelder for the National Register nomination form, <a href="//consequenceofsound.net/2016/04/the-100-greatest-american-music-venues/2/" target="_blank">ConsequenceOfSound.net</a>, Frank Mullin, and Cornish Associates'
 

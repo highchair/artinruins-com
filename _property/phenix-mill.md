@@ -29,22 +29,35 @@ thumbnail:
 images:
   - url: phenix-mill-ppl-1940c.jpg
     caption: 'Image shows the mill built in 1883 and the rear of housing built circa 1815 in the mill village of Phenix in West Warwick, Rhode Island. Clotheslines of laundry are hanging from windows in the second stories of the houses. Rhode Island Mills and Mill Villages Photograph Collection, Providence Library Digital Collections.'
+    sizes: '1200, 900'
   - url: phenix-mill-jh-2005-04-01.jpg
+    sizes: '1440, 900'
   - url: phenix-mill-jh-2005-04-02.jpg
+    sizes: '1440, 900'
   - url: phenix-mill-jh-2005-04-03.jpg
+    sizes: '1200, 900'
   - url: phenix-mill-jh-2005-04-04.jpg
+    sizes: '1200, 900'
   - url: phenix-mill-jh-2005-04-05.jpg
+    sizes: '1200, 900'
   - url: phenix-mill-jh-2005-04-06.jpg
+    sizes: '1200, 900'
   - url: phenix-mill-jh-2005-04-07.jpg
+    sizes: '1200, 900'
   - url: phenix-mill-jh-2005-04-08.jpg
+    sizes: '1200, 900'
   - url: phenix-mill-aerial-1997.jpg
-    caption: 'Aerial view from 1997. A skybridge still connects the mill to a storage warehouse across Main Street'
+    caption: 'Aerial view from 1997. A skybridge still connects the mill to a storage warehouse across Main Street.'
+    sizes: '1440, 900'
   - url: phenix-mill-aerial-2003.jpg
     caption: 'Aerial view from 2003. Two years before the fire, the mill has been vacated and the skybridge removed.'
+    sizes: '1440, 900'
   - url: phenix-mill-aerial-2008.jpg
     caption: 'Aerial view from 2008. Three years post fire, the remains of the mill have been cleared. Basement structures and the water raceway that once went under the building to provide power is being excavated.'
+    sizes: '1440, 900'
   - url: phenix-mill-aerial-2011.jpg
-    caption: 'Aerial view from 2011. The land where the mill once stood has been cleaned and cleared and the raceway has been filled in. '
+    caption: 'Aerial view from 2011. The land where the mill once stood has been cleaned and cleared and the raceway has been filled in.'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A301" target="_blank" title="Opens in a new window">Providence Library Digital Collection</a> and the Providence Historic Aerial Viewer.'
 ---

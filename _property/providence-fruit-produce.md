@@ -30,92 +30,142 @@ thumbnail: prov-terminal-d-1979-01.jpg
 
 images:
   - url: prov-terminal-archdrawing-1930.jpg
-    Caption: Architectural drawing part of the Providence Preservation Society collection
+    sizes: '2312, 640'
   - url: prov-terminal-d-1979-01.jpg
-    caption: Photo submitted by Davis
+    caption: 'Photo submitted by Davis'
+    sizes: '1200, 900'
   - url: prov-terminal-HABS-1998-01.jpg
-    caption: Photo by Robert Brewster, HABS/HAER
+    caption: 'Photo by Robert Brewster, HABS/HAER'
+    sizes: '2056, 800'
   - url: prov-terminal-HABS-1998-02.jpg
-    caption: Photo by Robert Brewster, HABS/HAER
+    caption: 'Photo by Robert Brewster, HABS/HAER'
+    sizes: '2056, 800'
   - url: prov-terminal-HABS-1998-03.jpg
-    caption: Photo by Robert Brewster, HABS/HAER
+    caption: 'Photo by Robert Brewster, HABS/HAER'
+    sizes: '1600, 900'
   - url: prov-terminal-HABS-1998-04.jpg
-    caption: Photo by Robert Brewster, HABS/HAER
+    caption: 'Photo by Robert Brewster, HABS/HAER'
+    sizes: '1600, 900'
   - url: prov-terminal-HABS-1998-05.jpg
-    caption: Photo by Robert Brewster, HABS/HAER
+    caption: 'Photo by Robert Brewster, HABS/HAER'
+    sizes: '1125, 900'
   - url: prov-terminal-HABS-1998-06.jpg
-    caption: Photo by Robert Brewster, HABS/HAER
+    caption: 'Photo by Robert Brewster, HABS/HAER'
+    sizes: '1440, 900'
   - url: prov-terminal-g-1999-01.jpg
-    caption: Photo by Gemma
+    caption: 'Photo by Gemma'
+    sizes: '900, 575'
   - url: prov-terminal-g-1999-02.jpg
-    caption: Photo by Gemma
+    caption: 'Photo by Gemma'
+    sizes: '900, 575'
   - url: prov-terminal-g-1999-03.jpg
-    caption: Photo by Gemma
+    caption: 'Photo by Gemma'
+    sizes: '900, 575'
   - url: prov-terminal-g-1999-04.jpg
-    caption: Photo by Gemma
+    caption: 'Photo by Gemma'
+    sizes: '900, 575'
   - url: prov-terminal-g-1999-05.jpg
-    caption: Photo by Gemma
+    caption: 'Photo by Gemma'
+    sizes: '500, 800'
   - url: prov-terminal-g-1999-06.jpg
-    caption: Photo by Gemma
+    caption: 'Photo by Gemma'
+    sizes: '500, 800'
   - url: prov-terminal-g-1999-07.jpg
-    caption: Photo by Gemma
+    caption: 'Photo by Gemma'
+    sizes: '500, 800'
   - url: prov-terminal-anon-2001-01.jpg
+    sizes: '578, 765'
   - url: prov-terminal-jh-2001-03-01.jpg
+    sizes: '640, 480'
   - url: prov-terminal-jh-2001-03-02.jpg
+    sizes: '640, 480'
   - url: prov-terminal-jh-2001-03-03.jpg
+    sizes: '640, 480'
   - url: prov-terminal-jh-2001-03-04.jpg
+    sizes: '640, 480'
   - url: prov-terminal-jh-2001-03-05.jpg
+    sizes: '640, 480'
   - url: prov-terminal-jh-2001-03-06.jpg
+    sizes: '640, 480'
   - url: prov-terminal-jh-2001-03-07.jpg
+    sizes: '640, 480'
   - url: prov-terminal-lf-2005-01.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: prov-terminal-lf-2005-02.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: prov-terminal-lf-2005-03.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: prov-terminal-lf-2005-04.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: prov-terminal-lf-2005-05.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: prov-terminal-lf-2005-06.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: prov-terminal-lf-2005-07.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: prov-terminal-lf-2005-08.jpg
-    caption: Photo by Lou Fancy
+    caption: 'Photo by Lou Fancy'
+    sizes: '700, 524'
   - url: prov-terminal-cp-2005-01.jpg
-    caption: Carpionato Properties proposal during the original state bid
+    caption: 'Carpionato Properties proposal during the original state bid'
+    sizes: '1440, 900'
   - url: prov-terminal-cp-2005-02.jpg
-    caption: Carpionato Properties proposal during the original state bid
+    caption: 'Carpionato Properties proposal during the original state bid'
+    sizes: '1440, 900'
   - url: prov-terminal-aerial-1952.jpg
-    caption: Providence Historical Aerial Viewer 1952
+    caption: 'Providence Historical Aerial Viewer 1952'
+    sizes: '1440, 900'
   - url: prov-terminal-aerial-1972.jpg
-    caption: Providence Historical Aerial Viewer 1972
+    caption: 'Providence Historical Aerial Viewer 1972'
+    sizes: '1440, 900'
   - url: prov-terminal-aerial-1988.jpg
-    caption: Providence Historical Aerial Viewer 1988
+    caption: 'Providence Historical Aerial Viewer 1988'
+    sizes: '1440, 900'
   - url: prov-terminal-aerial-1997.jpg
-    caption: Providence Historical Aerial Viewer 1997
+    caption: 'Providence Historical Aerial Viewer 1997'
+    sizes: '1440, 900'
   - url: prov-terminal-aerial-2004.jpg
-    caption: Providence Historical Aerial Viewer 2004
+    caption: 'Providence Historical Aerial Viewer 2004'
+    sizes: '1440, 900'
   - url: prov-terminal-aerial-2008.jpg
-    caption: Providence Historical Aerial Viewer 2008
+    caption: 'Providence Historical Aerial Viewer 2008'
+    sizes: '1440, 900'
   - url: prov-terminal-ew-2008-01-01.jpg
     caption: 'Photo by Emily Walters'
+    sizes: '1440, 900'
   - url: prov-terminal-ew-2008-01-02.jpg
     caption: 'Photo by Emily Walters'
+    sizes: '1440, 900'
   - url: prov-terminal-ew-2008-01-03.jpg
     caption: 'Photo by Emily Walters'
+    sizes: '1440, 900'
   - url: prov-terminal-ew-2008-01-04.jpg
     caption: 'Photo by Emily Walters'
+    sizes: '1440, 900'
   - url: prov-terminal-ew-2008-pana.jpg
     caption: 'Photos and stitch-up by Emily Walters'
+    sizes: '3857, 360'
   - url: prov-terminal-jh-2008-02-01.jpg
+    sizes: '1440, 900'
   - url: prov-terminal-jh-2008-02-02.jpg
+    sizes: '1440, 900'
   - url: prov-terminal-jh-2008-02-03.jpg
+    sizes: '1440, 900'
   - url: prov-terminal-jh-2008-02-04.jpg
+    sizes: '1440, 900'
   - url: prov-terminal-jh-2008-02-05.jpg
+    sizes: '1440, 900'
   - url: prov-terminal-jh-2008-03-01.jpg
+    sizes: '1440, 900'
   - url: prov-terminal-jh-2008-03-02.jpg
+    sizes: '1440, 900'
 
 imagescredit: Contributions by Davis, Gemma, Lou Fancy, Robert Brewster from the National Register Nomination, Emily Walters, and aerials from the Providence Historical Aerial Viewer.
 ---
