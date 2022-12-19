@@ -3,6 +3,8 @@ title: "Claverick Street, #35"
 slug: 35-claverick-st
 aka: 'Johnson & Wales Center for Physician Assistant Studies'
 date-modified: 2022-03-06 17:00
+update: 'Added photos from the Johnson & Wales Facilites Manageent team'
+update-image: claverick-jwu-2012-12-03.jpg
 
 built: '1948'
 demolition:
@@ -32,22 +34,48 @@ excerpt: "A mid-century brick indistrial building on the edge of the Jewelry Dis
 thumbnail: claverick-jh-2020-03-03.jpg
 
 images:
-  - url: claverick-jh-2011-08-01.jpg
+  - url: claverick-jwu-2009-04-01.jpg
+    caption: 'Photo provided by Johnson & Wales Facilities Management'
     alt: 'A two-story red brick industrial building on a raised basement with a cement beltcourse above each row of windows and a flat roof. The original recessed entrance is located on the southern side, two stories high and wide as a double door. A new entrance addition was added to the northwest corner. Windows are rectangular and laid edge to edge to form a continuous band around two of the building’s corners.'
+    size: '1200, 900'
+  - url: claverick-jh-2011-08-01.jpg
+    sizes: '1440, 900'
   - url: claverick-jh-2011-08-02.jpg
+    sizes: '1440, 900'
+  - url: claverick-jwu-2012-12-01.jpg
+    caption: 'Photo provided by Johnson & Wales Facilities Management'
+    size: '1000, 665'
+  - url: claverick-jwu-2012-12-02.jpg
+    caption: 'Photo provided by Johnson & Wales Facilities Management'
+    size: '1000, 665'
+  - url: claverick-jwu-2012-12-03.jpg
+    caption: 'Photo provided by Johnson & Wales Facilities Management'
+    size: '1000, 665'
   - url: claverick-jh-2013-03-01.jpg
+    sizes: '1440, 900'
   - url: claverick-jh-2013-03-02.jpg
+    sizes: '1440, 900'
+  - url: claverick-jwu-2013-12-01.jpg
+    caption: 'Photo provided by Johnson & Wales Facilities Management'
+    sizes: '1000, 750'
   - url: claverick-jh-2014-03-01.jpg
+    sizes: '1440, 900'
   - url: claverick-jh-2014-03-02.jpg
+    sizes: '1440, 900'
   - url: claverick-jh-2020-03-01.jpg
+    sizes: '1440, 900'
   - url: claverick-jh-2020-03-02.jpg
+    sizes: '1200, 900'
   - url: claverick-jh-2020-03-03.jpg
+    sizes: '1440, 900'
   - url: claverick-jh-2020-03-04.jpg
+    sizes: '1200, 900'
   - url: claverick-jh-2020-03-05.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2020-03-01
 
-imagescredit:
+imagescredit: 'Contributions by the Johnson & Wales Facilities Management team'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
