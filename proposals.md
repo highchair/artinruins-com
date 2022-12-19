@@ -40,6 +40,9 @@ On November 9, the I-195 Redevelopment District Commission approved concept plan
   <figcaption>Streetview capture of the former Monahan Drabble Sherman Funeral Home</figcaption>
 </figure>
 
+**Update December 8, 2022**
+: [Added a page for the property in #DemolitionAlert and UsedToBeThere]({% link _property/230-waterman-st-pvd.md %}). 
+
 **Update Nov 22, 2022**
 : On November 15, the City Plan Commission unanimously approved the demolition of 230 Waterman Street, stating that there are no protections for this 1892 funeral home. [In response to PPS’ comments](//ppsri.org/wp-content/uploads/2022/11/2022-11-14-230-Waterman-CPC-letter.pdf){:target="_blank"}, the developer stated that “incorporation of the existing building would be impossible.” PPS was alone in opposing the demolition. The new building will host a ground-floor commercial unit and three floors with 12 residential units. We will continue to watch this developing project.
 

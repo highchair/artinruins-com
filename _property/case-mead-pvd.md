@@ -33,23 +33,36 @@ thumbnail: case-mead-jh-2019-07-03.jpg
 
 images:
   - url: case-mead-csmolski-1974-01.jpg
-    caption: '1974, looking down Weybosset Street towards the east — Photo from the Chet Smolski image collection at Rhode Island College'
     alt: 'A former four-story but now five-story building erected in the middle of the 19th century, 1859. The double-height 3rd floor was converted to two floors in 1906. The articulation of the exterior still looks as though it is four storys, with the once double-height windows split into two windows while still retaining window frames and trim that occupy two full storys.'
+    caption: '1974, looking down Weybosset Street towards the east — Photo from the Chet Smolski image collection at Rhode Island College'
+    sizes: '1440, 900'
+  - url: case-mead-jn-2006-05-01.jpg
+    caption: 'Photo by Jef Nickerson. A fire at the former Second Universalist church is in the background — one of the Case Mead murals is showsn on the right.'
+    sizes: '700, 456'
   - url: case-mead-realtor-undated-01.jpg
     caption: 'Photo from a realty website'
+    sizes: '1024, 768'
   - url: case-mead-jh-2017-06-01.jpg
+    sizes: '1440, 900'
   - url: case-mead-jh-2018-02-01.jpg
+    sizes: '1440, 900'
   - url: case-mead-jh-2019-02-01.jpg
+    sizes: '1440, 900'
   - url: case-mead-jh-2019-07-01.jpg
+    sizes: '740, 1036'
   - url: case-mead-jh-2019-07-02.jpg
+    sizes: '1200, 900'
   - url: case-mead-jh-2019-07-03.jpg
+    sizes: '1440, 900'
   - url: case-mead-jh-2019-07-04.jpg
+    sizes: '1440, 900'
   - url: case-mead-realtor-undated-02.jpg
     caption: 'Photo from a realty website'
+    sizes: '960, 639'
 
 mostrecentimage: 2019-07-01
 
-imagescredit: 'Contributions from <a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a> and realty websites'
+imagescredit: 'Contributions from <a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>, Jef Nickerson, and realty websites'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

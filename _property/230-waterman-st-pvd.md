@@ -10,13 +10,13 @@ redeveloped:
 units:
 decade: '1890-1899'
 date-added: '2022'
-categories: [ 'DemolitionAlert', '#UsedToBeThere']
+categories: [ '#DemolitionAlert', '#UsedToBeThere']
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: []
-tags: [ 'Demolition by Progress' ]
+tags: [ 'Demolition by Progress', 'House', 'Needs History' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -97,3 +97,5 @@ November 14, 2022 ([Source letter](//ppsri.org/wp-content/uploads/2022/11/2022-1
 ***
 
 We looked at our usual sources, and the home is not present in any historic district documentation or <span class="abbr">RIHPHC</span> reports. It shows up in maps, of course, but these maps provide little detail of who owned it and when. The home sits just outside the Wayland Avenue Historic District which comes up to about a block away.  
+
+The best depiction of the property is in the [1951 Sanborn Map, Plate 39](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (page 46). The low brick building that is now McBride’s restaurant has been built, where as in previous maps it was not present. A garage was present instead, set back from Wayland Avenue. The commercial block to the north was built likely around the same time. 
