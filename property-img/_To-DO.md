@@ -6,11 +6,13 @@ Ongoing Notes
 
 HABS/HAER, Photographer Name, Year
 
+## Snippets to keep consistent
+
++ [1920-1921 Sanborn Map, Volume 1, Plate 52](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"}(image 62) — Building is present and simply labelled “Jewelry Supplies.” **Source:** Library of Congress, Geography and Map Division, Sanborn Maps Collection
+
 Contributions from Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>
 
 <a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>
-
-## Snippets to keep consistent
 
 _by Gregory Smith_  
 **Providence Journal** | December 4, 2003 (abridged)
@@ -20,8 +22,6 @@ _From the National Register nomination form for the Downtown Providence Historic
 _From the National Register nomination form for the Downtown Providence Historic District, amendment & expansion, 2007_
 
 _From the PPS/AIAri Providence Architecture Guide, 2003, by Wm. MacKenzie Woodward_
-
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
 
 _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 

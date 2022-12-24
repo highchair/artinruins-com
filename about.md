@@ -18,11 +18,11 @@ To quote from “The Urban Mill Restoration and Tax Exemption Act”, introduced
 + _WHEREAS_, Rhode Island’s mill buildings employed one hundred and forty thousand people, more than half of the state’s workforce, at their peak in 1920, and were among the largest and most productive factories in the world; and
 + _WHEREAS_, Many of these buildings today are suited to new residential, commercial, and institutional uses because of their large floor areas, strong masonry construction, high ceilings, large windows, and ability to support heavy floor loads; and
 + _WHEREAS_, Commercial and fine artists have given new life to old mills by establishing new working and/or living spaces in these buildings; and
-+ _WHEREAS_, Federal, state and municipal restrictions discourage the indiscriminate demolition of many of these mill buildings; and…
++ _WHEREAS_, Federal, state and municipal restrictions discourage the indiscriminate demolition of many of these mill buildings; and
 + _WHEREAS_. Most mill buildings are located in urban neighborhoods that have suffered from lack of new residential, commercial, and industrial investment; and
 + _WHEREAS_, It is the policy of the state to preserve its industrial heritage, and to promote the adaptive reuse of industrial mill buildings… [and] It is the policy of this state to encourage commercial and fine artists to live and work in Rhode Island and in settings that are suitable to their work.
 
-We believe the state said it best in the introduction of their 2002 tax credit bill. ArtInRuins came along in 2002 as well to track the happenings of mill buildings and industrial remnants in the state, as well as the plight of artists who inhabit these spaces.
+We believe the state said it best in the introduction of their 2002 tax credit bill. ArtInRuins started in 2002 to track the happenings of mill buildings and industrial remnants in the state, as well as the plight of artists who inhabit these spaces.
 
 ## Mission
 
@@ -41,17 +41,20 @@ We also want to celebrate the region’s great history. At the end of the 19th c
 
 [^1]: There are a few sources for this claim. Heritage Harbor Foundation mentions it in this page: [heritageharborfoundation.org/heritage-harbor-six-big-ideas/wonders-of-the-world/](//heritageharborfoundation.org/heritage-harbor-six-big-ideas/wonders-of-the-world/){:target="_blank"}: “By late 19th century, Providence is a world leader in production od (sic) cotton, wool, base metals, precious metals and rubber. Corliss, Gorham, Brown & Sharpe, Nicholsen (sic) File and American Screw are dubbed the ‘Five Industrial Wonders of the World’.”
 
+There are [many other superlatives that Rhode Island can boast]({% link tag/the-superlatives.html %}), some of which have not been replaced by other buildings or businesses. 
+
+
 ## Our Roots
 
-In 2001, a development corporation by the name of Feldco approached the city of Providence to raze the a mill complex and put in a shopping center. That mill complex was known as [Eagle Square]({% link _property/eagle-square.md %}) and was home to a collective of artists called *Fort Thunder*. Eagle Square quickly became a rallying cry. Protests ensued. The development went forward but the new plans saved a few of the buildings and converted them to retail use. The replacement buildings were slightly better (than they might have been if the outcry did not happen), with brick facing and massing more similar to their historic counterparts.
+In 2001, a development corporation by the name of Feldco approached the city of Providence to raze a mill complex and put in a shopping center. That mill complex was known as [Eagle Square]({% link _property/eagle-square.md %}) and was home to a collective of artists called *Fort Thunder*. Eagle Square quickly became a rallying cry. Protests ensued. The development went forward but the new plans saved a few of the buildings and converted them to retail use. The replacement buildings were slightly better (than they might have been if the outcry did not happen), with brick facing and massing more similar to their historic counterparts.
 
-While Eagle Square was a failure in some ways — artists were forced to move out and the shopping center went forward, albeit with a more sensitive design — it spawned some important artist organizations, some of which remain today (2020, the year of this writing). Those include [The Steel Yard]({% link _property/providence-steel-iron.md %}), [Monohassett Mills]({% link _property/monohasset-mill.md %}), The Hive Archive, [the Plant]({% link _property/providence-dye-bleach-calendering.md %}) (alas its non-profit real estate developer, Puente, is no longer), and this blog.
+While Eagle Square was a failure in some ways — artists were forced to move out and the shopping center went forward, albeit with a more sensitive design — it spawned some important artist organizations, some of which remain today (2022, the year of this writing). Those include [The Steel Yard]({% link _property/providence-steel-iron.md %}), [Monohassett Mills]({% link _property/monohasset-mill.md %}), [The Hive Archive]({% link _property/kendrick-prentice-tirocchi-house.md %}), [the Plant]({% link _property/providence-dye-bleach-calendering.md %}) (alas its non-profit real estate developer, Puente, is no longer), and this blog.
 
 We have been documenting the region since 2002 and collecting the histories that make Rhode Island special in the hopes that we may learn from, and preserve, our past.
 
 ## Press & Contributions
 
-+ Article: _Architectural Excavation_, **Hey Rhody**, November 2022, p11
++ Article: _Architectural Excavation_, **Providence**, November 2022, p11
 + Article: _Architectural Excavation_, Abbie Lahmers, **Hey Rhody**, October 2022, p14
 + _“RIGOR MORTAR: In Conversation With J Hogue,”_ Ben Berke, **The College Hill Independent**, December 4, 2015. [www.theindy.org/753](//www.theindy.org/753){:target="_blank"}
 + Article: _Designers Come Together in Renovated mini-Arcade_, Natalie Myers, **Providence Business News**, January 2007
@@ -70,7 +73,7 @@ We have been documenting the region since 2002 and collecting the histories that
 
 ArtInRuins was founded by J. Hogue, Sarah Clover, and Kathleen Griffin. Sarah contributed many photos in the early years, and Kathleen contributed writing about the artists that lived in these spaces for sections called “Interviews” and “Stories.” It proved to be too difficult to continue writing and interviewing people, and those stories have been archived. Sarah has moved on to other parts of the country with occasional visits to Providence and Kathleen is an artist living and working in New York. Both Sarah and Kathleen were graduate students at RISD from 1999–2001.
 
-J. Hogue continues to maintain, design, and take photos for the site. Over the years many contributors have helped collect history or photography, and we do our best to credit them on the individual property pages.
+J. Hogue continues to maintain, design, and take photos for the site. Over the years, many contributors have helped collect history or photography, and we do our best to credit them on the individual property pages.
 
 We are thankful to the individuals that have purchased t-shirts, posters, and made monetary donations to the project. You have our gratitude and we will always try to acknowledge your generosity. We are also thankful to the businesses that have hired [Highchair designhaus](//highchairdesign.com) over the years for design and web development projects. In your own ways, you have been helping to sustain this project.
 
@@ -90,5 +93,3 @@ We decided to use a static site generator, [Jekyll](//jekyllrb.com){:target="_bl
 + Because it is all pre-rendered, the site loads incredibly fast
 
 A drawback is the barrier to entry — someone comfortable with some code skills is required to create and upload new properties. But we welcome contributions large and small, and will help those without those skills get their verified information or photographs posted.
-
-***
