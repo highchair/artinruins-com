@@ -34,12 +34,18 @@ thumbnail: brownell-st-jh-2004-02.jpg
 images:
   - url: brownell-st-jh-2002-01.jpg
     alt: 'A three story wood frame house with altered mansard roof, off center porch, and off center tower. Once a private residence, the home was converted to a bed and breakfast for some time.'
+    sizes: '640, 480'
   - url: brownell-st-jh-2002-02.jpg
+    sizes: '640, 480'
   - url: brownell-st-jh-2002-03.jpg
+    sizes: '640, 480'
   - url: brownell-st-pps-undated.jpg
     caption: 'Undated photo from the Gowdey database, Providence Preservation Society'
+    sizes: '405, 600'
   - url: brownell-st-jh-2004-01.jpg
+    sizes: '1024, 768'
   - url: brownell-st-jh-2004-02.jpg
+    sizes: '1024, 768'
 
 imagescredit: 'Image from the Gowdey database, Providence Preservation Society'
 

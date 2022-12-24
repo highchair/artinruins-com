@@ -36,35 +36,54 @@ thumbnail: narr-race-ppl-grandstands-windows.jpg
 images:
   - url: narr-race-ppl-aerial-labelled.jpg
     caption: 'Aerial view showing the track with facilities labelled: 22 stables for 1002 horses, railroad tracks and spur with platform, grandstands, parking, clubhouse, and scoreboard; date unknown — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1600, 1222'
   - url: narr-race-ppl-grandstands.jpg
     caption: 'View towards the grandstands from the straightaway, possibly the start line right inside of turn 4; date unknown — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1200, 800'
   - url: narr-race-ppl-smaller-grandstands.jpg
     caption: 'View from the straightaway before turn 1 in front of the clubhouses; date unknown — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1036, 800'
   - url: narr-race-ppl-postcard.jpg
     caption: 'Color postcard of the track from the race field; date unknown — Rhode Island Postcard Collection, Providence Public Library'
+    sizes: '1200, 800'
   - url: narr-race-ppl-grandstands-windows.jpg
     caption: 'View from the corner of turn number 1 looking towards the grandstands during a later era when they were enclosed by windows; date unknown — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1200, 800'
   - url: narr-race-jh-2009-03-01.jpg
+    sizes: '1440, 900'
   - url: narr-race-jh-2009-03-02.jpg
+    sizes: '1440, 900'
   - url: narr-race-jh-2009-03-03.jpg
+    sizes: '1440, 900'
   - url: narr-race-jh-2009-03-04.jpg
+    sizes: '1440, 900'
   - url: narr-race-jh-2009-03-05.jpg
+    sizes: '1440, 900'
   - url: narr-race-jh-2009-03-06.jpg
     caption: 'Inside Building 19 was a sad museum of the former race track. Here a large box sign hangs from the cieling annoucing the odds for upcoming races'
+    sizes: '1200, 900'
   - url: narr-race-jh-2009-03-07.jpg
     caption: 'The former escalator that ran from beneath the grandstands to the seats above'
+    sizes: '1200, 900'
   - url: narr-race-jh-2009-03-08.jpg
     caption: 'A pretty cool old bullhorn announcement system'
+    sizes: '1200, 900'
   - url: narr-race-jh-2014-09-01.jpg
+    sizes: '1440, 900'
   - url: narr-race-jh-2014-09-02.jpg
+    sizes: '1440, 900'
   - url: narr-race-aerial-1939.jpg
     caption: '1939 aerial: Notice the rail spur to the north of the track. To the north and east of that is parking, and to the south of the oval track are the horse stables — Providence Historic Aerial Viewer'
+    sizes: '1200, 800'
   - url: narr-race-aerial-1981.jpg
     caption: '1981 aerial: The stables have left impressions behind but are no longer in place. The infield has new buildings in place and the roads are starting to be created. Only turn 1 remains in place as a road. — Providence Historic Aerial Viewer'
+    sizes: '1200, 800'
   - url: narr-race-aerial-1997.jpg
     caption: '1997 aerial: This was the configuration since about 1988 (this photo quality is better). The infield and stable area have been consumed by an industrial park with new buildings. — Providence Historic Aerial Viewer'
+    sizes: '1200, 800'
   - url: narr-race-aerial-2018.jpg
     caption: '2018 aerial: Current day conditions. Only a portion of the remaing road along turn 1 and the stretch in front of the former grandstands resemble the former track oval — Providence Historic Aerial Viewer'
+    sizes: '1200, 800'
 
 imagescredit: 'Contributions from the Providence Historic Aerial Viewer and the Rhode Island Photograph Collection, Providence Public Library (<a href="//provlibdigital.org/islandora/object/islandora%3A26436" target="_blank">aerial,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A18595" target="_blank">postcard,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12970" target="_blank">photo 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12984" target="_blank">photo 2,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A13040" target="_blank">photo 3</a>)'
 

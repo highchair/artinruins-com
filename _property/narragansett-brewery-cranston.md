@@ -8,7 +8,7 @@ built: '1890'
 demolition: '1998'
 decade: '1890-1899'
 date-added: '2002'
-categories: [ '#ArchiveRI', '#UsedToBeThere' ]
+categories: [ '#ArchiveRI' ]
 neighborhoods: []
 town: [ 'Cranston, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -29,28 +29,41 @@ thumbnail: narrbrew-cranston-thumb.jpg
 images:
   - url: narrbrew-cranston-old-1920s.jpg
     alt: 'We are unsure exactly what the brewery looked like since it was demolished many years ago and there are not many photos of the entire complex. It was multiple buildings, some built as early as 1890'
+    sizes: '640, 480'
   - url: narrbrew-cranston-pin-1910c.jpg
+    sizes: '750, 627'
   - url: narrbrew-cranston-aerial-1997.jpg
-    caption: Aerial from the Providence Historical Aerial Viewer
+    caption: 'Aerial from the Providence Historical Aerial Viewer'
+    sizes: '1200, 746'
   - url: narrbrew-cranston-undated-1980s.jpg
     caption: 'Photo by Ron Giorgio via Facebook'
+    sizes: '960, 638'
   - url: narrbrew-cranston-b-1999-01.jpg
+    sizes: '510, 383'
   - url: narrbrew-cranston-b-1999-02.jpg
+    sizes: '510, 383'
   - url: narrbrew-cranston-b-1999-03.jpg
+    sizes: '510, 383'
   - url: narrbrew-cranston-tod-1999-01.jpg
-    caption: Photo by Tim O’Donnell
+    caption: 'Photo by Tim O’Donnell'
+    sizes: '488, 327'
   - url: narrbrew-cranston-tod-1999-02.jpg
-    caption: Photo by Tim O’Donnell
+    caption: 'Photo by Tim O’Donnell'
+    sizes: '488, 327'
   - url: narrbrew-cranston-tod-1999-03.jpg
-    caption: Photo by Tim O’Donnell
+    caption: 'Photo by Tim O’Donnell'
+    sizes: '488, 327'
   - url: narrbrew-cranston-g-1999-01.jpg
-    caption: Photo by Gemma
+    caption: 'Photo by Gemma'
+    sizes: '640, 480'
   - url: narrbrew-cranston-g-1999-02.jpg
-    caption: Photo by Gemma
+    caption: 'Photo by Gemma'
+    sizes: '480, 640'
   - url: narrbrew-cranston-g-1999-03.jpg
-    caption: Photo by Gemma
+    caption: 'Photo by Gemma'
+    sizes: '480, 640'
 
-imagescredit: Contributions by Tim O’Donnell, Gemma, and the Providence Historical Aerial Viewer
+imagescredit: 'Contributions by Tim O’Donnell, Gemma, and the Providence Historical Aerial Viewer'
 ---
 
 ### Reason for Demolition

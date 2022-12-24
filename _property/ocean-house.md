@@ -33,60 +33,87 @@ thumbnail: ocean-house-thumbnail-promo.jpg
 
 images:
   - url: ocean-house-cdc-2003-10-01.jpg
+    alt: 'A very large seaside hotel built in a post-colonial wooden clapboard style. It if five stories with a mansard roof and a central tower that rises an additional two stories. The original structure was rebuilt in 2006 in much the same style and design.'
     caption: 'Photo by Cristina di Chiera'
-    alt: ''
+    sizes: '510, 380'
   - url: ocean-house-cdc-2003-10-02.jpg
     caption: 'Photo by Cristina di Chiera'
+    sizes: '510, 380'
   - url: ocean-house-ng-2005-12-01.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '357, 510'
   - url: ocean-house-ng-2005-12-02.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-03.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-04.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-05.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-06.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '383, 510'
   - url: ocean-house-ng-2005-12-07.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-08.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-09.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '383, 510'
   - url: ocean-house-ng-2005-12-10.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '383, 510'
   - url: ocean-house-ng-2005-12-11.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-12.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-13.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-14.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '383, 510'
   - url: ocean-house-ng-2005-12-15.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-16.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-17.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '383, 510'
   - url: ocean-house-ng-2005-12-18.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-19.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-ng-2005-12-20.jpg
     caption: 'Photo by Nicole Gesmondi'
+    sizes: '510, 383'
   - url: ocean-house-aerial-1997-01.jpg
     caption: '1997 aerial from the Providence Historical Aerial Viewer'
+    sizes: '1440, 900'
   - url: ocean-house-aerial-2008-01.jpg
     caption: '2008 aerial from the Providence Historical Aerial Viewer'
+    sizes: '1440, 900'
   - url: ocean-house-aerial-2011-01.jpg
     caption: '2011 aerial from the Providence Historical Aerial Viewer'
+    sizes: '1440, 900'
   - url: ocean-house-aerial-2018-01.jpg
     caption: '2018 aerial from the Providence Historical Aerial Viewer'
+    sizes: '1440, 900'
   - url: ocean-house-SkyviewSurvey-2010-05-16.jpg
     caption: 'Photo by David Margolis at SkyViewSurvey'
+    sizes: '750, 702'
 
 imagescredit: 'Contributions by Cristina di Chiera, Nicole Gesmondi, the Providence Historical Aerial Viewer, and David Margolis at <a href="//skyviewsurvey.com" target="_blank">SkyViewSurvey</a>'
 

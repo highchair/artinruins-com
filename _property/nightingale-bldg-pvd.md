@@ -33,23 +33,33 @@ thumbnail: nightingale-jh-2020-06-01.jpg
 
 images:
   - url: nightingale-bldg-1898.jpg
-    caption: 'The building of Warren, Salisbury & Nightingale, on Fountain Street. Designed by architects Gould, Angell & Swift in 1896. Demolished. Source: The Providence Board of Trade: Thirtieth Year. Providence: Chaffee-McIndoe, 1898.'
     alt: 'A six-story residential building with ground floor retail in the dense downtown core. First floor is clad in gray brick with large commercial window openings. The second through fifth floors are clad in red brick, while the sixth floor clad in gray panels. Windows are mostly single rectangular openings, with groups of three on the outside edges on the Washington Street façade.'
+    caption: 'The building of Warren, Salisbury & Nightingale, on Fountain Street. Designed by architects Gould, Angell & Swift in 1896. Demolished. Source: The Providence Board of Trade: Thirtieth Year. Providence: Chaffee-McIndoe, 1898.'
+    sizes: '750, 558'
   - url: nightingale-jh-2018-11-01.jpg
+    sizes: '1440, 900'
   - url: nightingale-jh-2018-11-02.jpg
+    sizes: '1440, 900'
   - url: nightingale-jh-2019-04-01.jpg
+    sizes: '1440, 900'
   - url: nightingale-jh-2019-05-01.jpg
+    sizes: '1200, 900'
   - url: nightingale-jh-2020-03-01.jpg
+    sizes: '1200, 900'
   - url: nightingale-jh-2020-03-02.jpg
+    sizes: '1200, 900'
   - url: nightingale-jh-2020-06-01.jpg
+    sizes: '1200, 900'
   - url: 1908-lj-richards-mathewson-fountain.jpg
-    caption: '1908 map from L.J. Richards of the Fountain (northwest), Clemence (northeast), Washington (southeast), and Mathewson (southwest) block. The little 66 Fountain street building is in the norteast corner, with the H.R. Nightingale on the northwest corner, wrapping around 66 Fountain. THis entire block is now occupied by the new Nightingale Building.'
+    caption: '1908 map from L.J. Richards of the Fountain (northwest), Clemence (northeast), Washington (southeast), and Mathewson (southwest) block. The little 66 Fountain street building is in the norteast corner, with the H.R. Nightingale on the northwest corner, wrapping around 66 Fountain. This entire block is now occupied by the new Nightingale Building.'
+    sizes: '1440, 900'
   - url: 1920-sanborn-vol1-pl4-detail.jpg
     caption: 'Orientation is the same as previous map but all labels are flipped (upside down). Sanborn Fire Insurance Map from Providence, Providence County, Rhode Island. Sanborn Map Company, to 1921 Vol. 1, 1920. Map. Retrieved from the Library of Congress, www.loc.gov/item/sanborn08099_007/.'
+    sizes: '1440, 900'
 
 mostrecentimage: 2020-06-01
 
-imagescredit: 'Photo from 1898 found via <a href="https://en.wikipedia.org/wiki/File:Warren,_Salisbury_%26_Nightingale,_Providence,_RI.jpg" target="_blank">Wikipedia</a> and 1908 map from L.J. Richards'
+imagescredit: 'Contributions from 1898 found via <a href="https://en.wikipedia.org/wiki/File:Warren,_Salisbury_%26_Nightingale,_Providence,_RI.jpg" target="_blank">Wikipedia</a>, a 1908 map from L.J. Richards, and a 1920 map from the Library of Congress'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

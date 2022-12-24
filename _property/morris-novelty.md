@@ -29,29 +29,51 @@ thumbnail: morris-novel-jh-2008-03-04.jpg
 images:
   - url: morris-novel-goog-2007-10-01.jpg
     alt: 'A three story painted brick building with protruding one-story commercial façade used as a novelty and party supply store for over thirty years'
+    sizes: '1024, 640'
   - url: morris-novel-goog-2007-10-02.jpg
+    sizes: '1024, 640'
   - url: morris-novel-jh-2008-03-01.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2008-03-02.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2008-03-03.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2008-03-04.jpg
+    sizes: '1440, 900'
   - url: morris-novel-jh-2008-03-05.jpg
+    sizes: '800, 1067'
   - url: morris-novel-jh-2008-03-06.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2008-03-07.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2008-03-08.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2008-03-09.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2008-03-10.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2011-08-01.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2011-08-02.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2011-08-03.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2011-08-04.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2011-08-05.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2011-08-06.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2011-08-07.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2011-08-08.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2011-08-09.jpg
+    sizes: '1200, 900'
   - url: morris-novel-jh-2011-11-01.jpg
+    sizes: '1440, 900'
 
-imagescredit: 'Two images from Google Streetview 2007.'
+imagescredit: 'Contributions from Google Streetview 2007.'
 ---
 
 ### Reason for Demolition

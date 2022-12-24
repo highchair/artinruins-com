@@ -1,7 +1,7 @@
 ---
 title: "National Providence and Worsted Mills"
 slug: national-providence-worsted
-aka: "Rising Sun Mills"
+aka: "Donstan Corp., Rising Sun Mills"
 date-modified: 2020-12-29 12:00
 
 built: '1881–1930'
@@ -33,38 +33,65 @@ thumbnail: rising-sun-jh-2005-03-02.jpg
 
 images:
   - url: rising-sun-habs-2003-01-01.jpg
-    caption: 'Photo by Clark Schoettle, January 2003'
     alt: 'A large red brick mill complex with multiple buildings of varying stories, two, three, and four, as well as an ornate, mansard roof office building and boiler house. Large twelve over twelve windows with granite sills puncuate each mill with very little brick in between'
+    caption: 'Photo by Clark Schoettle, January 2003'
+    sizes: '1440, 900'
   - url: rising-sun-habs-2003-01-02.jpg
     caption: 'Photo by Clark Schoettle, January 2003'
+    sizes: '1440, 900'
   - url: rising-sun-habs-2003-01-03.jpg
     caption: 'Photo by Clark Schoettle, January 2003'
+    sizes: '1440, 900'
   - url: rising-sun-jh-2003-03-01.jpg
+    sizes: '1440, 900'
   - url: rising-sun-jh-2003-03-02.jpg
+    sizes: '1440, 900'
   - url: rising-sun-jh-2003-03-03.jpg
+    sizes: '1440, 900'
   - url: rising-sun-jh-2003-03-04.jpg
+    sizes: '1440, 900'
   - url: rising-sun-jh-2003-03-05.jpg
+    sizes: '1440, 900'
   - url: rising-sun-jh-2003-03-06.jpg
+    sizes: '1440, 900'
   - url: rising-sun-jh-2003-03-07.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2003-03-08.jpg
+    sizes: '768, 924'
   - url: rising-sun-jh-2003-03-09.jpg
+    sizes: '768, 924'
   - url: rising-sun-jh-2003-03-10.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2003-03-11.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2003-03-12.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2003-03-13.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2003-03-14.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2003-03-15.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2003-03-16.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2005-03-01.jpg
+    sizes: '768, 924'
   - url: rising-sun-jh-2005-03-02.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2005-03-03.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2005-03-04.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2005-03-05.jpg
+    sizes: '768, 924'
   - url: rising-sun-jh-2005-03-06.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2005-03-07.jpg
+    sizes: '1200, 900'
   - url: rising-sun-jh-2005-03-08.jpg
+    sizes: '1200, 900'
 
-imagescredit: 'Contribution by Clark Schoettle for the National Register nomination form'
+imagescredit: 'Contributions by Clark Schoettle for the National Register nomination form'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

@@ -34,13 +34,21 @@ thumbnail: niagara-jh-2022-03-03.jpg
 images:
   - url: niagara-aj-1988-07-01.jpg
     alt: 'A two-and-a-half story, symmetrical red brick building with brownstone trim and accents. The building is three bays deep in a north-to-south direction and about twice as long from east to west. A slate-tile, double hip mansard roof rises from four sides and has a flat, rubber roof cap. A prominent, square tower rises from the northern side of the building. A one-story, red brick, hip-roofed addition comes off the eastern wall. '
+    sizes: '1350, 900'
   - url: niagara-jh-2022-03-01.jpg
+    sizes: '1200, 900'
   - url: niagara-jh-2022-03-02.jpg
+    sizes: '768, 924'
   - url: niagara-jh-2022-03-03.jpg
+    sizes: '1200, 900'
   - url: niagara-jh-2022-03-04.jpg
+    sizes: '1200, 900'
   - url: niagara-jh-2022-03-05.jpg
+    sizes: '1200, 900'
   - url: niagara-jh-2022-03-06.jpg
+    sizes: '1440, 900'
   - url: niagara-jh-2022-03-07.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2022-03-01
 

@@ -33,35 +33,52 @@ thumbnail: new-england-butt-jh-2006-04-05.jpg
 
 images:
   - url: new-england-butt-provlib.jpg
-    caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
     alt: 'A collection of late nineteenth century red brick mill buildings. The oldest of the bunch is a four story gable with monitor roof structure connected via 2nd story footbridge to a pier and spandrel flat roof building with large rectangular windows'
+    caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    sizes: '1600, 1191'
   - url: new-england-butt-armory-01.jpg
     caption: 'Four early images from the Armory Revival Company, circa 2002'
+    sizes: '1440, 956'
   - url: new-england-butt-armory-02.jpg
     caption: 'Four early images from the Armory Revival Company, circa 2002'
+    sizes: '1440, 956'
   - url: new-england-butt-sc-2004-09-01.jpg
     caption: 'Photo by Sarah Clover'
+    sizes: '768, 924'
   - url: new-england-butt-sc-2004-09-04.jpg
     caption: 'Photo by Sarah Clover'
+    sizes: '768, 924'
   - url: new-england-butt-sc-2004-09-02.jpg
     caption: 'Photo by Sarah Clover'
+    sizes: '1200, 900'
   - url: new-england-butt-sc-2004-09-03.jpg
     caption: 'Photo by Sarah Clover'
+    sizes: '1200, 900'
   - url: new-england-butt-sc-2004-09-05.jpg
     caption: 'Photo by Sarah Clover'
+    sizes: '768, 924'
   - url: new-england-butt-jh-2006-04-01.jpg
+    sizes: '1200, 900'
   - url: new-england-butt-jh-2006-04-02.jpg
+    sizes: '1200, 900'
   - url: new-england-butt-jh-2006-04-03.jpg
+    sizes: '1440, 900'
   - url: new-england-butt-jh-2006-04-04.jpg
+    sizes: '1200, 900'
   - url: new-england-butt-jh-2006-04-05.jpg
+    sizes: '1200, 900'
   - url: new-england-butt-jh-2006-04-06.jpg
+    sizes: '768, 924'
   - url: new-england-butt-jh-2006-04-07.jpg
+    sizes: '1200, 900'
   - url: new-england-butt-jh-2006-04-08.jpg
+    sizes: '1200, 900'
   - url: new-england-butt-jh-2006-04-09.jpg
+    sizes: '1200, 900'
 
-imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%3A5054" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> and Sarah Clover'
+imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A5054" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> and Sarah Clover'
 
-mostrecentimage: 2021-07-01
+mostrecentimage: 2006-04-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -81,7 +98,7 @@ About 44,000 sf of the complex — mostly a one story, less historically signifi
 
 ### Current Events
 
-[Pearl Street Lofts](http://armorymanagement.com/pearl-street-lofts/){:target="_blank"} occasionally has units for sale or for rent and is managed through the Armory Management Company. Sister properties include Rising Sun Mills, AlCo, the Plant, and Calendar Mills, all along Valley STreet.
+[Pearl Street Lofts](http://armorymanagement.com/pearl-street-lofts/){:target="_blank"} occasionally has units for sale or for rent and is managed through the Armory Management Company. Sister properties include Rising Sun Mills, AlCo, the Plant, and Calendar Mills, all along Valley Street.
 
 
 ### History
@@ -97,7 +114,7 @@ Established in 1842 by N.A. Fenner, the New England Butt Company manufactured ca
 
 The oldest building in this complex is the much altered 2-story, monitor roofed, frame building in the center of the block on Perkins Street (photo 28), built between 1849 and 1857. The main building, constructed in in 1865 from plans by Spencer R. Read, is a handsome, gable roofed, brick structure with corbeled brick cornices, brick window caps, and arched door surrounds. This building, fronting on Pearl Street, was originally used for machining and assembling. A long, brick two-story wing built at the same time behind the main building was later raised to three stories. Although this building has window caps identical to the main building, it may incorporate an older structure. In 1951 a large, flat one-story glass and brick structure replaced the foundry on Perkins and Rice Streets.
 
-By 1901 the New England Butt Company employed 200 skilled workers in the manufacture of braiding machines for silk, worsted, and cotton braid as well as telephone, electric light and crinoline wire. The Wanskuck Corporation bought the New England Butt Company in 1955. (As of 1981,) the factory continues to produce braiding machinery and cabling machinery at this site as well as the works of the former [Providence Steam Engine Company]({% link _property/providence-steam-engine.md %}) at 521 South Main Street.
+By 1901 the **New England Butt Company** employed 200 skilled workers in the manufacture of braiding machines for silk, worsted, and cotton braid as well as telephone, electric light and crinoline wire. The [Wanskuck Corporation]({% link _property/wanskuck-mills.md %}) bought the New England Butt Company in 1955. (As of 1981,) the factory continues to produce braiding machinery and cabling machinery at this site as well as the works of the former [Providence Steam Engine Company]({% link _property/providence-steam-engine.md %}) at 521 South Main Street.
 
 ***
 
@@ -107,6 +124,7 @@ The New England Butt Company plant complex is located in the block bounded by Pe
 
 Perhaps the oldest structure in the complex is the much altered, 2 1/2-story, monitor-roofed, frame building in the center of the block on Perkins Street. It was probably in existence in 1865, and may have been constructed between 1849 and 1857. The factory complex also contained a foundry, which was closed in 1948. A large, flat-roofed, glass-brick structure, replacing the foundry and occupying the rest of the block, was erected in 1951. It is intended to nominate all of the complex except for the 1951 structure.
 
+***
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 

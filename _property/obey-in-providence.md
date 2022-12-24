@@ -30,42 +30,60 @@ thumbnail: obey-jh-2019-11-01.jpg
 
 images:
   - url: obey-cianci-from-nice-slice.jpg
-    caption: 'The notorious “Obey Buddy Cianci” billboard, October 1990, on the northeast side of the Congdon & Carpenter Building'
     alt: 'A series of images capturing the work of street artist Sheperd Fairey and his Andre the Giant has a Posse / Obey Giant campaigns'
+    caption: 'The notorious “Obey Buddy Cianci” billboard, October 1990, on the northeast side of the Congdon & Carpenter Building'
+    sizes: '499, 604'
   - url: obey-jh-2009-01-01.jpg
     caption: 'A wheatpaste that popped up when Sheperd was in the area for a Boston ICA exhibition, on the front of the former M.N. Cartier building'
+    sizes: '1200, 900'
   - url: obey-jh-2009-01-02.jpg
     caption: 'A wheatpaste that popped up on the side of the former Shooter’s/Bootlegger’s Cafe'
+    sizes: '1200, 900'
   - url: obey-jh-2009-01-03.jpg
     caption: 'A large wheatpaste mural on the outside of AS220’s new (at the time) Merchantile Building'
+    sizes: '768, 924'
   - url: obey-jh-2009-01-04.jpg
     caption: 'Mural detail'
+    sizes: '1200, 900'
   - url: obey-jh-2009-01-05.jpg
     caption: 'Mural detail'
+    sizes: '1200, 900'
   - url: obey-jh-2009-01-06.jpg
     caption: 'Mural detail'
+    sizes: '1200, 900'
   - url: obey-jh-2009-03-01.jpg
     caption: 'A wheatpaste wall mural that was up in Nice Slice Pizza on Thayer street, now gone'
+    sizes: '768, 924'
   - url: obey-jh-2008-12-01.jpg
     caption: 'Sign on the side of Max’s Formal on North Main Street'
+    sizes: '1200, 900'
   - url: obey-jh-2008-12-02.jpg
     caption: 'Sign on the side of Max’s Formal on North Main Street'
+    sizes: '1200, 900'
   - url: obey-jh-2011-06-01.jpg
     caption: 'A few years later, the billboard sized-sign arrived for Max’s Formal'
+    sizes: '1440, 900'
   - url: obey-jh-2011-06-02.jpg
     caption: 'Billboard detail'
+    sizes: '1440, 900'
   - url: obey-jh-2011-06-03.jpg
     caption: 'View of the mural that AS220 commissioned as part of their inagural “Free Culture Award” given at Foofest, August 14, 2011'
+    sizes: '1440, 900'
   - url: obey-jh-2019-10-01.jpg
     caption: 'An Obey peace fingers mural wheatpasted to Providence Label along Harris Avenue'
+    sizes: '1200, 900'
   - url: obey-jh-2019-10-02.jpg
     caption: 'Obey box of posters on the side of Standardized Wholesale Liquor Co., Harris Avenue'
+    sizes: '1200, 900'
   - url: obey-jh-2019-10-03.jpg
     caption: 'After the demolition of the Harris Ave. Traffic Tribunal, a Misfits-inspired Obey head could be seen'
+    sizes: '1440, 900'
   - url: obey-jh-2019-10-04.jpg
     caption: 'One of the latest painted murals in town on the outside of the Founder’s League building, 91 Clemence Street'
+    sizes: '900, 900'
   - url: obey-jh-2019-11-01.jpg
     caption: 'A wheatpaste cut-out mural on the outside of 19 Bassett Street, the home of DesignXRI and Loft, LLC'
+    sizes: '1200, 900'
 
 imagescredit: 'Contribution from Al Read of <a href="http://niceslice.com" target="_blank">Nice Slice Pizza</a>'
 
