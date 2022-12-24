@@ -9,7 +9,7 @@ demolition: '2020'
 redeveloped: '2020–2021'
 units:
 decade: '1940-1949'
-date-added:
+date-added: '2022'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]

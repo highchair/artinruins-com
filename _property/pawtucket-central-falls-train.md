@@ -8,7 +8,7 @@ built: '1915'
 demolition: 
 redeveloped: 
 decade: '1910-1919'
-date-added:
+date-added: '2007'
 categories: [ '#UrbanDecay' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]

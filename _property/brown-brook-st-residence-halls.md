@@ -9,7 +9,7 @@ demolition:
 redeveloped:
 units:
 decade: '2020-2029'
-date-added:
+date-added: '2022'
 categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]

@@ -9,7 +9,7 @@ demolition:
 redeveloped:
 units: '62'
 decade: '2020-2029'
-date-added:
+date-added: '2022'
 categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
