@@ -33,40 +33,71 @@ thumbnail: pawtarmory-jh-2003-04-01.jpg
 
 images:
   - url: pawtarmory-habs-1981-01.jpg
-    caption: 'Photo by Warren Jagger for the National Register nomination, 1981'
     alt: 'A castle-like red brick and red mortar three and a half story building with sandstone trim and ornament and granite embellishments. The massive front armory has a long, wide drill hall at the back with interior clearspans of 80 feet supported by impressively ornate wrought iron trusses.'
+    caption: 'Photo by Warren Jagger for the National Register nomination, 1981'
+    sizes: '1200, 900'
   - url: pawtarmory-habs-1981-02.jpg
     caption: 'Photo by Warren Jagger for the National Register nomination, 1981'
+    sizes: '1200, 900'
   - url: pawtarmory-habs-1981-03.jpg
     caption: 'Photo by Warren Jagger for the National Register nomination, 1981'
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-01.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-02.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-03.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-04.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-05.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-06.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-07.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-08.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-09.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-10.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-11.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-12.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-13.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-14.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-15.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-16.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-17.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-18.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-19.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-20.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-21.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-22.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-23.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-24.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-25.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-26.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-27.jpg
+    sizes: '1200, 900'
   - url: pawtarmory-jh-2003-04-28.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions by Warren Jagger for the National Register nomination'
 

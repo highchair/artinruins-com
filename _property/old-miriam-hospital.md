@@ -35,35 +35,61 @@ thumbnail: old-miriam-jh-2022-03-03.jpg
 
 images:
   - url: old-miriam-ppl-1920c-jhcsc-01.jpg
-    caption: 'Pre-1925 newspaper clipping from the Providence Public Library, John Hutchins Cady Research Scrapbooks Collection. Notice the three front entrance stairways.'
     alt: 'A four-story connected row house with stone and painted brick exterior. Four full height, four-story bay windows give the façade of the building a nice rhythm. The south eastern corner features a full-height turret with windows around five sides. The renovation adds a volume to the rear of the building (the western side) which adds 3 more apartments and circulation stairs.'
+    caption: 'Pre-1925 newspaper clipping from the Providence Public Library, John Hutchins Cady Research Scrapbooks Collection. Notice the three front entrance stairways.'
+    sizes: '1230, 900'
   - url: old-miriam-ppl-1936-ripc-01.jpg
     caption: '1936 photo from the Providence Public Library, Rhode Island Photograph Collection. Individual apartment stairways are now removed with a central entrance that leads down into the basement level. The southern fourth floor unit already has the large window with skylight.'
+    sizes: '1440, 900'
   - url: old-miriam-render-01.jpg
     caption: 'Renderings by Jack Ryan Architect, provided by The Armory Revival Company'
+    sizes: '1440, 900'
   - url: old-miriam-render-02.jpg
     caption: 'Renderings by Jack Ryan Architect, provided by The Armory Revival Company'
+    sizes: '1440, 900'
   - url: old-miriam-jh-2022-03-01.jpg
+    sizes: '1200, 900'
   - url: old-miriam-jh-2022-03-02.jpg
+    sizes: '1440, 900'
   - url: old-miriam-jh-2022-03-03.jpg
+    sizes: '1440, 900'
   - url: old-miriam-jh-2022-03-04.jpg
+    sizes: '1200, 900'
   - url: old-miriam-jh-2022-03-05.jpg
+    sizes: '1440, 900'
   - url: old-miriam-jh-2022-03-06.jpg
+    sizes: '1200, 900'
   - url: old-miriam-jh-2022-03-07.jpg
+    sizes: '1440, 900'
   - url: old-miriam-jh-2022-03-08.jpg
+    sizes: '768, 924'
   - url: old-miriam-jh-2022-03-09.jpg
+    sizes: '1440, 900'
   - url: old-miriam-jh-2022-03-10.jpg
+    sizes: '1200, 900'
   - url: old-miriam-jh-2022-03-11.jpg
+    sizes: '768, 924'
   - url: old-miriam-jh-2022-03-12.jpg
+    sizes: '1200, 900'
   - url: old-miriam-jh-2022-03-13.jpg
+    sizes: '900, 900'
   - url: old-miriam-jh-2022-03-14.jpg
+    sizes: '1440, 900'
   - url: old-miriam-jh-2022-03-15.jpg
+    sizes: '1440, 900'
   - url: old-miriam-jh-2022-03-16.jpg
+    sizes: '768, 924'
   - url: old-miriam-jh-2022-03-17.jpg
+    sizes: '768, 924'
   - url: old-miriam-jh-2022-03-18.jpg
+    sizes: '1440, 900'
   - url: old-miriam-jh-2022-03-19.jpg
+    sizes: '768, 924'
   - url: old-miriam-jh-2022-03-20.jpg
+    sizes: '1440, 900'
   - url: old-miriam-jh-2022-10-01.jpg
+    sizes: '1200, 900'
+    
 
 mostrecentimage: 2022-10-01
 

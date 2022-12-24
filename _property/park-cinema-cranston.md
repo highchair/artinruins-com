@@ -35,28 +35,51 @@ thumbnail: park-fm-2004-08-09.jpg
 images:
   - url: park-fm-2003-10-01.jpg
     alt: 'An early single-story simplified art deco building on a triangular parcel of land. The rectangular main theater building is flanked by streetfront retail openings. Tall storefront windows and flanked by stucco walls and capped with a stepped parapet detail. The main entrance has a marquee above, crest, and bare-bulb lettered sign.'
+    sizes: '780, 488'
   - url: park-fm-2003-10-02.jpg
+    sizes: '640, 480'
   - url: park-fm-2004-08-01.jpg
+    sizes: '1440, 900'
   - url: park-fm-2004-08-02.jpg
+    sizes: '1440, 900'
   - url: park-fm-2004-08-03.jpg
+    sizes: '1200, 900'
   - url: park-fm-2004-08-04.jpg
+    sizes: '1440, 900'
   - url: park-fm-2004-08-05.jpg
+    sizes: '1440, 900'
   - url: park-fm-2004-08-06.jpg
+    sizes: '1200, 900'
   - url: park-fm-2004-08-07.jpg
+    sizes: '1200, 900'
   - url: park-fm-2004-08-08.jpg
+    sizes: '1440, 900'
   - url: park-fm-2004-08-09.jpg
+    sizes: '1200, 900'
   - url: park-fm-2004-08-10.jpg
+    sizes: '1440, 900'
   - url: park-fm-2007-10-01.jpg
+    sizes: '1200, 900'
   - url: park-fm-2007-10-02.jpg
+    sizes: '1200, 900'
   - url: park-fm-2007-10-03.jpg
+    sizes: '1200, 900'
   - url: park-fm-2008-02-01.jpg
+    sizes: '1440, 900'
   - url: park-fm-2008-02-02.jpg
+    sizes: '1440, 900'
   - url: park-fm-2008-02-03.jpg
+    sizes: '1200, 900'
   - url: park-fm-2008-02-04.jpg
+    sizes: '1200, 900'
   - url: park-fm-2008-02-05.jpg
+    sizes: '1200, 900'
   - url: park-fm-2008-02-06.jpg
+    sizes: '1200, 900'
   - url: park-fm-2008-02-07.jpg
+    sizes: '1200, 900'
   - url: park-jh-2022-09-01.jpg
+    sizes: '768, 924'
 
 mostrecentimage: 2022-09-01
 

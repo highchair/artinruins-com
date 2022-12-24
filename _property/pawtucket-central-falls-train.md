@@ -32,36 +32,60 @@ thumbnail: pwt-cf-train-jh-2003-04-01.jpg
 images:
   - url: pwt-cf-train-postcard-01.jpg
     alt: 'A central plan, decorative and grand structure built from one embankment to another over the train tracks. Stairways once lead down to the platforms between the tracks. Rounded arch windows and a vaulted, 30 foot high space is the main interior. When completed, the building was trimmed with marble and painted murals. Now it is in terrible decay with broken windows, a leaking roof, and covered in grafitti.'
+    sizes: '1426, 914'
   - url: pwt-cf-train-postcard-02.jpg
+    sizes: '1470, 949'
   - url: pwt-cf-train-postcard-03.jpg
     caption: 'The interior of the station — Postcard part of the Edward Ozog Photo Collection, Providence Public Library'
+    sizes: '1422, 900'
   - url: pwt-cf-train-eo-1957-01.jpg
     caption: 'A train passes by the station towards the end of its service, circa 1957 — Photo part of the Edward Ozog Photo Collection, Providence Public Library'
+    sizes: '1260, 900'
   - url: pwt-cf-train-habs-1977-04-01.jpg
     caption: 'Photo by Jack Boucher, April 1977, as part of an aerial review of the Northeast Railroad Corridor'
+    sizes: '1125, 900'
   - url: pwt-cf-train-habs-1977-04-02.jpg
     caption: 'Photo by Jack Boucher, April 1977, as part of an aerial review of the Northeast Railroad Corridor'
+    sizes: '1125, 900'
   - url: pwt-cf-train-jh-2003-04-01.jpg
+    sizes: '1440, 900'
   - url: pwt-cf-train-jh-2003-04-02.jpg
+    sizes: '1200, 900'
   - url: pwt-cf-train-jh-2003-04-03.jpg
+    sizes: '1200, 900'
   - url: pwt-cf-train-jh-2003-04-04.jpg
+    sizes: '1440, 900'
   - url: pwt-cf-train-jh-2003-04-05.jpg
+    sizes: '1200, 900'
   - url: pwt-cf-train-jh-2003-04-06.jpg
+    sizes: '1440, 900'
   - url: pwt-cf-train-jh-2003-04-07.jpg
+    sizes: '1200, 900'
   - url: pwt-cf-train-jh-2003-04-08.jpg
+    sizes: '1200, 900'
   - url: pwt-cf-train-jh-2003-04-09.jpg
+    sizes: '1200, 900'
   - url: pwt-cf-train-jh-2003-04-10.jpg
+    sizes: '1200, 900'
   - url: pwt-cf-train-se-2005-01.jpg
     caption: 'Photos by Stephanie Ewens'
+    sizes: '550, 796'
   - url: pwt-cf-train-se-2005-02.jpg
     caption: 'Photos by Stephanie Ewens'
+    sizes: '702, 550'
   - url: pwt-cf-train-jh-2006-01-01.jpg
+    sizes: '1440, 900'
   - url: pwt-cf-train-jh-2006-01-02.jpg
+    sizes: '1440, 900'
   - url: pwt-cf-train-jh-2006-01-03.jpg
+    sizes: '1440, 900'
   - url: pwt-cf-train-jh-2006-01-04.jpg
+    sizes: '1200, 900'
   - url: pwt-cf-train-jh-2006-01-05.jpg
+    sizes: '1440, 900'
   - url: pwt-cf-train-ms-2006-12-01.jpg
     caption: 'Photo by Maia Small of the demolition as part of the nearby CVS store construction that was halted by the City of Pawtucket with a court order (see CVS news story below)'
+    sizes: '900, 598'
 
 imagescredit: 'Contributions by the Edward Ozog Photo Collection from the Providence Public Library (<a href="//provlibdigital.org/islandora/object/islandora%3A17036" target="_blank">postcard</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A17402" target="_blank">photo</a>), Jack Boucher for the National Register, Stephanie Ewens, and Maia Small'
 

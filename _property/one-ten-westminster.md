@@ -31,13 +31,17 @@ thumbnail: one-ten-thumb.jpg
 
 images:
   - url: one-ten-aerial-render-02.jpg
-    caption: 'A very early rendering where the tower was going to be slightly shorter than the Industrial Trust'
     alt: 'A slender but very tall glassy tower surrounded by older, historic architecture in the financial district of downtown Providence'
+    caption: 'A very early rendering where the tower was going to be slightly shorter than the Industrial Trust'
+    sizes: '700, 484'
   - url: one-ten-aerial-render-01.jpg
+    sizes: '700, 537'
   - url: one-ten-render-01.jpg
     caption: 'Another rendering, this one with a spire. The perspective seems a bit skewed to make it look very tall'
+    sizes: '370, 886'
   - url: one-ten-render-02.jpg
     caption: 'A later rendering at night with dramatic lighting and a taller height'
+    sizes: '360, 898'
 
 imagescredit: 'Renderings from various sources'
 ---

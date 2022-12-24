@@ -32,32 +32,54 @@ thumbnail:
 
 images:
   - url: old-stone-ppl-photo-02.jpg
-    caption: 'Exterior view, labelled 1922 in their database, but likely from 1932 — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
     alt: 'A Greek-inspired temple in plain stone with a heavy cornice topped by a small pediment. On the top left of the cornice is inscribed “1819”, the date of the founding of the Providence Institution for Savings, while the top right of the cornice is insribed “1929”, the date of the building’s construction'
+    caption: 'Exterior view, labelled 1922 in their database, but likely from 1932 — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    sizes: '1526, 900'
   - url: old-stone-ppl-photo-01.jpg
     caption: 'Labelled 1922, this is also probably from 1932, shortly after the building was completed in 1929 — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '590, 900'
   - url: old-stone-ppl-photo-03.jpg
     caption: 'Interior view of the Old Stone Bank branch on Empire Street in Providence, RI. Bank tellers service customers at a large rectangular counter. The room has high ceilings supported by decorative pilasters, has ornate moldings and multiple-story arches line the wall. Nautical paintings hang above the arch ways — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1290, 900'
   - url: old-stone-jh-2003-06-01.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-02.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-03.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-04.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-05.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-06.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-07.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-08.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-09.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-10.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-11.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-12.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-13.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-14.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-15.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2003-06-16.jpg
+    sizes: '1200, 900'
   - url: old-stone-jh-2005-08-01.jpg
+    sizes: '1440, 900'
   - url: old-stone-jh-2005-08-02.jpg
+    sizes: '1200, 900'
   - url: old-stone-dbvw-01.jpg
     caption: 'Photo from the DBVW website'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A14563" target="blank">Exterior</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A14461" target="blank">Interior</a>) and <a href="//provlibdigital.org/islandora/object/islandora%3A5699" target="blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library, and DBVW Architects website'
 

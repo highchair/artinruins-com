@@ -33,21 +33,34 @@ thumbnail: oddfellows-jh-2020-02-04.jpg
 
 images:
   - url: oddfellows-wj-1980-nat-register.jpg
-    caption: 'Photo by Warren Jagger, 1980, for the National Register nomination form'
     alt: 'A three-story wood frame building with ground-level storefronts and a shallow bay window on the second floor facade. More description in the History section.'
+    caption: 'Photo by Warren Jagger, 1980, for the National Register nomination form'
+    sizes: '1200, 900'
   - url: oddfellows-jh-2020-02-01.jpg
+    sizes: '1200, 900'
   - url: oddfellows-jh-2020-02-02.jpg
+    sizes: '1200, 900'
   - url: oddfellows-jh-2020-02-03.jpg
+    sizes: '1200, 900'
   - url: oddfellows-jh-2020-02-04.jpg
+    sizes: '1200, 900'
   - url: oddfellows-jh-2020-02-05.jpg
+    sizes: '1200, 900'
   - url: oddfellows-jh-2020-02-06.jpg
+    sizes: '1200, 900'
   - url: oddfellows-jh-2020-02-07.jpg
+    sizes: '1200, 900'
   - url: oddfellows-jh-2020-02-08.jpg
+    sizes: '1200, 900'
   - url: oddfellows-jh-2020-02-09.jpg
+    sizes: '768, 924'
   - url: oddfellows-jh-2020-02-10.jpg
+    sizes: '1200, 900'
   - url: oddfellows-jh-2020-02-11.jpg
+    sizes: '1200, 900'
   - url: oddfellows-kz-2021-03-01.jpg
-    caption: 'March 2021 Photo by Kenneth C. Zirkel - Own work, CC BY-SA 4.0'
+    caption: 'March 2021 Photo by Kenneth C. Zirkel for Wikimedia'
+    sizes: '1088, 900'
 
 mostrecentimage: 2020-02-01
 

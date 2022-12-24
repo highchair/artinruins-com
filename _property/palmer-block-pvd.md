@@ -34,17 +34,29 @@ thumbnail: palmer-jh-2004-04-06.jpg
 images:
   - url: palmer-jh-2004-04-01.jpg
     alt: 'Yellow and white brick patterns in the facade of this building are geometric and ornamental. The first three stories are a darker yellow brick color than the upper four stories. The decorative designs stop at the top of the third floor and then start again, further indicating that these two sections were built at different times.'
+    sizes: '1440, 900'
   - url: palmer-jh-2004-04-02.jpg
+    sizes: '768, 924'
   - url: palmer-jh-2004-04-03.jpg
+    sizes: '1200, 900'
   - url: palmer-jh-2004-04-04.jpg
+    sizes: '1200, 900'
   - url: palmer-jh-2004-04-05.jpg
+    sizes: '1200, 900'
   - url: palmer-jh-2004-04-06.jpg
+    sizes: '1200, 900'
   - url: palmer-jh-2004-04-07.jpg
+    sizes: '1200, 900'
   - url: palmer-jh-2004-04-08.jpg
+    sizes: '1200, 900'
   - url: palmer-jh-2004-04-09.jpg
+    sizes: '1200, 900'
   - url: palmer-jh-2004-04-10.jpg
+    sizes: '1200, 900'
   - url: palmer-jh-2004-04-11.jpg
+    sizes: '1200, 900'
   - url: palmer-jh-2004-04-12.jpg
+    sizes: '768, 924'
 
 imagescredit:
 

@@ -31,18 +31,28 @@ thumbnail: parcel6-jh-2022-03-02.jpg
 
 images:
   - url: parcel6-jh-2020-02-01.jpg
-    caption: "Corner of South Water Street and Wickendon Street, looking southeast"
     alt: 'An under construction modern four story set of buildings with one level of ground floor retail and three levels of residential apartments on top. Called “mid-rise” instead of high rise, these buildings are flat faced and boxy with rectangular window openings at odd intervals.'
+    caption: 'Corner of South Water Street and Wickendon Street, looking southeast'
+    sizes: '1600, 900'
   - url: parcel6-jh-2021-04-01.jpg
     caption: 'Corner of South Main Street and Wickendon Street, looking northeast, with the Providence Steam Engine Company in the background'
+    sizes: '1600, 900'
   - url: parcel6-jh-2021-05-01.jpg
+    sizes: '1440, 900'
   - url: parcel6-jh-2022-03-01.jpg
+    sizes: '1440, 900'
   - url: parcel6-jh-2022-03-02.jpg
+    sizes: '1440, 900'
   - url: parcel6-jh-2022-03-03.jpg
+    sizes: '1440, 900'
   - url: parcel6-jh-2022-03-04.jpg
+    sizes: '768, 924'
   - url: parcel6-jh-2022-03-05.jpg
+    sizes: '1200, 900'
   - url: parcel6-jh-2022-03-06.jpg
+    sizes: '1200, 900'
   - url: parcel6-jh-2022-03-07.jpg
+    sizes: '1600, 900'
 
 mostrecentimage: 2022-03-01
 

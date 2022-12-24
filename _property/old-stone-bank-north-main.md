@@ -28,13 +28,22 @@ thumbnail: 1320-north-main-jh-2005-02.jpg
 
 images:
   - url: 1320-north-main-jh-2005-01.jpg
+    alt: 'A small, one-story, yellow brick facade building of cinder block construction once used as a banking branch office along a busy commercial strip.'
+    sizes: '1024, 640'
   - url: 1320-north-main-jh-2005-02.jpg
+    sizes: '1024, 640'
   - url: 1320-north-main-jh-2005-03.jpg
+    sizes: '1024, 640'
   - url: 1320-north-main-jh-2005-04.jpg
+    sizes: '1024, 640'
   - url: 1320-north-main-jh-2005-05.jpg
+    sizes: '1024, 640'
   - url: 1320-north-main-jh-2005-06.jpg
+    sizes: '1024, 640'
   - url: 1320-north-main-jh-2009-12-01.jpg
+    sizes: '1440, 900'
   - url: 1320-north-main-jh-2009-12-02.jpg
+    sizes: '1440, 900'
 
 imagescredit: 
 ---
