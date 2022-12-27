@@ -15,7 +15,7 @@ categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS Ten Most Endangered' ]
 tags: [ 'Bridges' ]
 
 NRHP-ref-number:

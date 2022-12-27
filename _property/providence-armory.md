@@ -15,7 +15,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son' ]
 people: [ 'Ebenezer Knight Dexter' ]
-lists: [ 'PPS Ten Most Endangered', 'Broadway-Armory Historic District', 'National Register of Historic Places', 'HABS/HAER' ]
+lists: [ 'Broadway-Armory Historic District', 'HABS/HAER', 'National Register of Historic Places', 'PPS Ten Most Endangered' ]
 tags: [ 'Yellow brick' ]
 
 NRHP-ref-number: '74000047 (contributing)'

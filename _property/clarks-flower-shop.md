@@ -13,7 +13,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: []
+lists: [ 'PPS Ten Most Endangered' ]
 tags: [ 'Demolition by Progress', 'Needs History' ]
 
 address: '398 Hope Street, Providence RI'

@@ -15,7 +15,7 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [] #Gerner Kronick + Valcarcel Architects, DPC
 people: []
-lists: []
+lists: [ 'PPS Ten Most Endangered' ]
 tags: [ 'Never Built', 'Vaporscraper', 'Contemporary' ]
 
 address: '151-155 Chestnut St, Providence RI'
@@ -76,7 +76,7 @@ The developer pulled the plans off the table in July of 2022, citing other reaso
 > PPS does not oppose the design of this modular construction high-rise in the Jewelry District. In fact, it would be a welcome addition and exciting infill. We do find the proposed location, requiring demolition and shoehorning between two rare surviving residential buildings to be wholly inappropriate when the Jewelry District and the neighboring I-195 Redevelopment District are full of available—and vacant—parcels.  
 [Proposed] for demolition are the Pilgrim Manufacturing Co. Building (1941) at 155 Chestnut and a less prominent commercial accessory at 151 Chestnut. What is not visible is the already lost Pardon Clarke House (c.1823), a Federal period side-hall frame dwelling. It was unnecessarily demolished in 2009; today the lot is surface parking.
 
-— From the write-up about the [1825 Arthur B. and Laura Weeks House](//guide.ppsri.org/property/arthur-b-and-laura-weeks-house){:target="_blank"}
+— From the write-up about the [1825 Arthur B. and Laura Weeks House](//guide.ppsri.org/property/arthur-b-and-laura-weeks-house){:target="_blank"} which placed the property on that year’s Ten Most Endangered List
 
 We agree with the above statement. The developer, Pebb Capital, had access to vacant parcels left behind from the removal of I-195. There would be little opposition to such a tower in that location. But here, shoehorned onto a tiny lot surrounded by mostly 2 1/2 story buildings, it makes little sense. Across the street, the brick-mill style Doran building at 8 stories is the largest mass nearby. Perhaps if the renderings tried to include that building for a sense of scale, the design would have won more approval. 
 

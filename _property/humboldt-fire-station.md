@@ -15,7 +15,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [] # E. T. Banning
 people: []
-lists: []
+lists: [ 'PPS Ten Most Endangered' ]
 tags: [ 'Fire Stations' ]
 
 NRHP-ref-number:

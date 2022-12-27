@@ -15,7 +15,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son', 'James C. Bucklin', 'Russell Warren' ]
 people: []
-lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places', 'Brussat’s 10 Best Lost Buildings' ]
+lists: [ 'Brussat’s 10 Best Lost Buildings', 'Downtown Providence National Historic District', 'PPS Ten Most Endangered', 'National Register of Historic Places' ]
 tags: [ 'Yellow brick', 'Theaters, Theatres, & Cinemas' ]
 
 NRHP-ref-number: '84001967 (contributing)'

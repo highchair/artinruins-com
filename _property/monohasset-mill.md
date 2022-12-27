@@ -10,7 +10,7 @@ demolition:
 redeveloped: '2002-2006'
 units: '21'
 decade: '1860-1869'
-date-added:
+date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
