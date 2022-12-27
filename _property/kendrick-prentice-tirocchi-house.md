@@ -2,7 +2,9 @@
 title: "Kendrick-Prentice-Tirocchi House"
 slug: kendrick-prentice-tirocchi-house
 aka: 'Providence’s Wedding Cake House'
-date-modified: 2021-12-12 12:00
+date-modified: 2022-12-26 12:00
+update: 'Added new photos taken by Chloé Hurley'
+update-image: kendrick-ch-2022-12-03.jpg
 
 built: '1867'
 demolition:
@@ -15,7 +17,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Perez Mason' ]
 people: [ 'Anna Tirocchi and Laura Tirocchi Cella' ]
-lists: [ 'PPS Ten Most Endangered', 'Broadway-Armory Historic District' ]
+lists: [ 'Broadway-Armory Historic District', 'PPS Ten Most Endangered' ]
 tags: [ 'House' ]
 
 NRHP-ref-number:
@@ -33,43 +35,86 @@ thumbnail: kendrick-jh-2011-04-03.jpg
 
 images:
   - url: kendrick-ppl-undated-01.jpg
-    caption: 'Undated — John Hutchins Cady Scrapbooks Collection, Providence Public Library'
     alt: 'An elaborate two and a half story home built before the turn of the 20th century. Many facets of decorative gingerbread details adorn the buildings entrances, porches, and balconies. A large four and a half story tower sits on the north eastern corner of the house.'
+    caption: 'Undated — John Hutchins Cady Scrapbooks Collection, Providence Public Library'
+    sizes: '1440, 1029'
   - url: kendrick-jh-2011-04-01.jpg
+    sizes: '768, 924'
   - url: kendrick-jh-2011-04-02.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-03.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-04.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-05.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-06.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-07.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-08.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-09.jpg
+    sizes: '768, 924'
   - url: kendrick-jh-2011-04-10.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-11.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-12.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-13.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-14.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-15.jpg
+    sizes: '768, 924'
   - url: kendrick-jh-2011-04-16.jpg
+    sizes: '768, 924'
   - url: kendrick-jh-2011-04-17.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-18.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-19.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-20.jpg
+    sizes: '768, 924'
   - url: kendrick-jh-2011-04-21.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-22.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-23.jpg
+    sizes: '768, 924'
   - url: kendrick-jh-2011-04-24.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-25.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-26.jpg
+    sizes: '768, 924'
   - url: kendrick-jh-2011-04-27.jpg
+    sizes: '1200, 900'
   - url: kendrick-jh-2011-04-28.jpg
+    sizes: '768, 924'
   - url: kendrick-jh-2011-04-29.jpg
+    sizes: '1200, 900'
   - url: kendrick-instagram-01.jpg
     caption: 'From the WeddingCakeHouse_Renovations Instagram account'
+    sizes: '1080, 1080'
+  - url: kendrick-ch-2022-12-01.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '768, 924'
+  - url: kendrick-ch-2022-12-02.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '1200, 900'
+  - url: kendrick-ch-2022-12-03.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '1200, 900'
+  - url: kendrick-ch-2022-12-04.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '768, 924'
 
-mostrecentimage: 2011-04-01
+mostrecentimage: 2022-12-01
 
-imagescredit: 'Contributions from The Providence Public Library and Wedding Cake House Instagram'
+imagescredit: 'Contributions from The Providence Public Library, Wedding Cake House Instagram, and Chloé Hurley'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

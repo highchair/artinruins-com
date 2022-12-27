@@ -2,7 +2,9 @@
 title: "Barnaby Carriage House"
 slug: barnaby-carriage-house
 aka: 'the Eddy Estate Carriage House'
-date-modified: 2021-09-01 12:00
+date-modified: 2022-12-26 15:00
+update: 'Added new photos taken by Chloé Hurley'
+update-image: barnaby-carriage-ch-2022-12-01.jpg
 
 built: '1875'
 demolition:
@@ -33,18 +35,43 @@ thumbnail: barnaby-carriage-jh-2007-04-02.jpg
 
 images:
   - url: barnaby-carriage-rihphc-1976.jpg
-    caption: 'Photo from the 1976 Statewide Preservation Report, Rhode Island Historical Preservation Commission'
     alt: 'An exuberent two story, red brick and glazed tile façade in the Queen Anne style, with a large central rosette window placed on a short tower, a mansard roof with half-round topped windows, with a central garage door entrance flanked by a triplet window grouping on either side featuring small rosettes at the top of a thin, tall window or door opening.'
+    caption: 'Photo from the 1976 Statewide Preservation Report, Rhode Island Historical Preservation Commission'
+    sizes: '820, 900'
   - url: barnaby-carriage-jh-2007-04-01.jpg
+    sizes: '1200, 900'
   - url: barnaby-carriage-jh-2007-04-02.jpg
+    sizes: '1200, 900'
   - url: barnaby-carriage-jh-2007-04-03.jpg
+    sizes: '1200, 900'
   - url: barnaby-carriage-jh-2007-04-04.jpg
+    sizes: '1200, 900'
   - url: barnaby-carriage-jh-2007-04-05.jpg
+    sizes: '1200, 900'
   - url: barnaby-carriage-jh-2007-04-06.jpg
+    sizes: '1200, 900'
+  - url: barnaby-carriage-ch-2022-12-01.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '1440, 900'
+  - url: barnaby-carriage-ch-2022-12-02.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '768, 924'
+  - url: barnaby-carriage-ch-2022-12-03.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '1200, 900'
+  - url: barnaby-carriage-ch-2022-12-04.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '768, 924'
+  - url: barnaby-carriage-ch-2022-12-05.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '1200, 900'
+  - url: barnaby-carriage-ch-2022-12-06.jpg
+    caption: 'Photo by Chloé Hurley'
+    sizes: '1200, 900'
 
-imagescredit: 'Contribution from a Rhode Island Historical Preservation Commission report'
+imagescredit: 'Contributions from a Rhode Island Historical Preservation Commission report and Chloé Hurley'
 
-mostrecentimage: 2007-04-01
+mostrecentimage: 2021-12-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
