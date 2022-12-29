@@ -32,25 +32,48 @@ thumbnail: milk-can-jh-2006-02.jpg
 
 images:
   - url: milk-can-unknown-1970c.jpg
-    caption: 'Unknown photographer, unknown date. We guess it was 1970, as the business closed in 1968. The sign is still in the window and the house behind is not yet boarded up as it was in the photos from 1983.' 
     alt: 'A vintage ice cream stand featuring a larger than life milk can as the main building, 16 feet in diameter and 32 feet high'
+    caption: 'Unknown photographer, unknown date. We guess it was 1970, as the business closed in 1968. The sign is still in the window and the house behind is not yet boarded up as it was in the photos from 1983.'
+    sizes: '720, 649'
   - url: milk-can-wj-habs-1983-01.jpg
-    caption: 'All black and white photos by Warren Jagger, 1983, for Rhode Island Historical Preservation and Heritage Commission and HABS/HAER'
+    caption: 'Photo by Warren Jagger, 1983, for the Rhode Island Historical Preservation and Heritage Commission and HABS/HAER'
+    sizes: '1200, 900'
   - url: milk-can-wj-habs-1983-02.jpg
+    caption: 'Photo by Warren Jagger, 1983, for the Rhode Island Historical Preservation and Heritage Commission and HABS/HAER'
+    sizes: '768, 924'
   - url: milk-can-wj-habs-1983-03.jpg
+    caption: 'Photo by Warren Jagger, 1983, for the Rhode Island Historical Preservation and Heritage Commission and HABS/HAER'
+    sizes: '1200, 900'
   - url: milk-can-wj-habs-1983-04.jpg
+    caption: 'Photo by Warren Jagger, 1983, for the Rhode Island Historical Preservation and Heritage Commission and HABS/HAER'
+    sizes: '1200, 900'
   - url: milk-can-wj-habs-1983-05.jpg
+    caption: 'Photo by Warren Jagger, 1983, for the Rhode Island Historical Preservation and Heritage Commission and HABS/HAER'
+    sizes: '768, 924'
   - url: milk-can-wj-habs-1983-06.jpg
+    caption: 'Photo by Warren Jagger, 1983, for the Rhode Island Historical Preservation and Heritage Commission and HABS/HAER'
+    sizes: '1200, 900'
   - url: milk-can-wj-habs-1983-07.jpg
+    caption: 'Photo by Warren Jagger, 1983, for the Rhode Island Historical Preservation and Heritage Commission and HABS/HAER'
+    sizes: '1200, 900'
   - url: milk-can-wj-habs-1983-08.jpg
+    caption: 'Photo by Warren Jagger, 1983, for the Rhode Island Historical Preservation and Heritage Commission and HABS/HAER'
+    sizes: '1200, 900'
   - url: milk-can-wj-habs-1983-09.jpg
+    caption: 'Photo by Warren Jagger, 1983, for the Rhode Island Historical Preservation and Heritage Commission and HABS/HAER'
+    sizes: '768, 924'
   - url: milk-can-jh-2006-01.jpg
+    sizes: '1200, 900'
   - url: milk-can-jh-2006-02.jpg
+    sizes: '1200, 900'
   - url: milk-can-jh-2006-03.jpg
+    sizes: '1200, 900'
   - url: milk-can-kz-2011-01.jpg
     caption: 'Flickr user Ken Zirkel, 2011'
+    sizes: '1200, 900'
   - url: milk-can-apg-2017-01.jpg
     caption: 'Flickr user Alan P. Goldstein, 2017'
+    sizes: '1200, 900'
 
 imagescredit: 'Contribututions by Warren Jagger and credited Flickr users'
 ---

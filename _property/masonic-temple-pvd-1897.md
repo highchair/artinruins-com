@@ -33,23 +33,38 @@ thumbnail: masonic-temple-jh-2020-09-04.jpg
 
 images:
   - url: masonic-temple-archive-undated.jpg
-    alt: 'Undated unsourced photo of the Masonic Temple'
+    alt: 'A red brick commercial building with round-arch top windows indicating where a double-height portion of the interior used to hold an auditorium. Other windows are rectangular, starting at the ground floor as very large and wide, tapoering to the third floor as smaller pairs, and ending at the fifth floor as small single double-hung windows. An ornate cornice rims three of the five sides of this oddly-shaped building with half-columns sunken into its façade topping out in a corinthian style.'
+    caption: 'Undated unsourced photo of the Masonic Temple'
+    sizes: '768, 924'
   - url: masonic-temple-jh-2020-09-01.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2020-09-02.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2020-09-03.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2020-09-04.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2020-09-05.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2020-09-06.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2020-09-07.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2020-09-08.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2020-09-09.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2020-09-10.jpg
+    sizes: '1200, 900'
   - url: masonic-sanborn-1920-01.jpg
-    caption: 'Masonic Temple, top center, with an auto garage next door to the southeast. Sanborn Fire Insurance Map from Providence, Providence County, Rhode Island. Sanborn Map Company, to 1921 Vol. 1, 1920. Map. Retrieved from the Library of Congress, <www.loc.gov/item/sanborn08099_007/>.'
+    caption: 'Masonic Temple, top center, with an auto garage next door to the southeast. Sanborn Fire Insurance Map from Providence, Providence County, Rhode Island. Sanborn Map Company, to 1921 Vol. 1, 1920. Map. Retrieved from the Library of Congress, .'
+    sizes: '1440, 900'
   - url: masonic-gmhopkins-1937-01.jpg
     caption: 'Masonic Temple, still with its neighboring one-story garage. G.M. Hopkins Insurance Map, 1937, Plate 1, from Historic Map Works.'
+    sizes: '1440, 900'
   - url: masonic-sanborn-1951-01.jpg
-    caption: 'Masonic Temple, now all alone on the block with a parking lot next door (as it stands today). Sanborn Fire Insurance Map from Providence, Providence County, Rhode Island. Sanborn Map Company, - Mar 1951 Vol. 1, 1951. Map. Retrieved from the Library of Congress, <www.loc.gov/item/sanborn08099_013/>.'
+    caption: 'Masonic Temple, now all alone on the block with a parking lot next door (as it stands today). Sanborn Fire Insurance Map from Providence, Providence County, Rhode Island. Sanborn Map Company, - Mar 1951 Vol. 1, 1951. Map. Retrieved from the Library of Congress, .'
+    sizes: '1440, 900'
 
 mostrecentimage: 2020-09-01
 
@@ -89,6 +104,7 @@ Since then, a few of the condominiums have changed hands. The building’s groun
 + [1937 G.M. Hopkins Plate 1](#photo-masonic-gmhopkins-1937-01): Masonic Temple, still with its neighboring one-story garage.
 + [1920–1951 Sanborn Volume 1 Plate 6](#photo-masonic-sanborn-1951-01): Masonic Temple, now all alone on the block with a parking lot next door (as it stands today).
 
+***
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
@@ -105,19 +121,15 @@ Joseph M. Cerilli, 50, of Thomas Street, North Kingstown, a real estate develope
 
 Born in Providence, a son of the late Benedetto A. and Mary (Mainella) Cerilli, he had been a resident of Providence before moving to Wickford four years ago.
 
-Mr. Cerilli was the founder of Providence Land Company, which successfully restored and rehabilitated many buildings in Providence. An erstwhile member of the Providence Redevelopment Agency, he was one of the initial inductees into the Providence Preservation Society Hall of Fame, and in 1986 received a Preservation Honor Award from the National Trust for Historic Preservation, for restoration of the Old Providence Journal Building. Some of his other restoration projects include the Masonic Temple Building on Dorrance Street, the Hanley Building, and the reconstruction of Sakonnet Harbor. He was also a developer of the former Shooters waterfront cafe at India Point.
+Mr. Cerilli was the founder of Providence Land Company, which successfully restored and rehabilitated many buildings in Providence. An erstwhile member of the Providence Redevelopment Agency, he was one of the initial inductees into the Providence Preservation Society Hall of Fame, and in 1986 received a Preservation Honor Award from the National Trust for Historic Preservation, for restoration of the Old Providence Journal Building. Some of his other restoration projects include the Masonic Temple Building on Dorrance Street, the Hanley Building, and the reconstruction of Sakonnet Harbor. He was also a developer of the former [Shooters waterfront cafe]({% link _property/shooters-cafe.md %}) at India Point.
 
 Cerilli was considered a potential witness in the coming bribery and racketeering trial of former Gov. Edward D. DiPrete and his son, Dennis. According to a 24-count grand jury indictment, the DiPretes accepted a bribe from Cerilli and convicted embezzler Joseph Mollicone Jr. in connection with a state lease of office space in the Old Providence Journal Building in 1985. The charge has not been proven, and the DiPretes have pled innocent to all counts.
 
 Cerilli and Mollicone, who co-owned the old newspaper building at 60 Eddy St., were partners in several high-profile developments in the mid 1980s.
 
-Cerilli was a 1970 graduate of Roger Williams University, later serving on its Board of Trustees.
-
-He was a member of the Sakonnet Golf Club, Sakonnet Yacht Club, Agawam Hunt Club and Turk's Head Club.
+Cerilli was a 1970 graduate of Roger Williams University, later serving on its Board of Trustees. He was a member of the Sakonnet Golf Club, Sakonnet Yacht Club, Agawam Hunt Club and Turk’s Head Club.
 
 Besides his sons and daughter in Providence, he leaves another daughter, Bridget Redding of Denver, Colo.; two brothers, Benedetto A. Cerilli Jr. of Jamestown and Peter J. Cerilli of Barrington; a sister, Barbara Mueller of East Greenwich, and a companion, Kathryn Rappleye.
-
-A memorial service will be held Thursday at 10 a.m. at the Central Congregational Church, 296 Angell St., Providence.
 
 —
 

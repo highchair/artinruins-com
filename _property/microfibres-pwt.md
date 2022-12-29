@@ -12,7 +12,7 @@ redeveloped:
 units:
 decade: '1900-1909'
 date-added: '2022'
-categories: [ '#UsedToBeThere' ]
+categories: [ '#UsedToBeThere', '#DemolitionAlert' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -35,81 +35,127 @@ thumbnail: microfibres-jh-2019-05-01.jpg
 
 images:
   - url: microfibres-goog-2017.jpg
-    caption: 'Google Streetview image of the southeastern corner, showroom building built circa 1960'
     alt: 'A series of inter-connected building forming a near 10 acre complex. Most structures are red brick, one- or two-story with arched windows, granite sills, and slightly pitched roofs. A few of the buildings have sawtooth roofs and skylights. '
+    caption: 'Google Streetview image of the southeastern corner, showroom building built circa 1960'
+    sizes: '1024, 640'
   - url: microfibres-aerial-2016-01.jpg
     caption: 'Looking southwest over the property from the northeast corner. Aerial taken from the Showcase.com real estate listing'
+    sizes: '1200, 750'
   - url: microfibres-aerial-2016-02.jpg
     caption: 'Looking northwest over the property from the southeast corner. Aerial taken from the Showcase.com real estate listing'
+    sizes: '1200, 750'
   - url: microfibres-aerial-2016-03.jpg
     caption: 'Looking northeast over the property from the southwest corner. Aerial taken from the Showcase.com real estate listing'
+    sizes: '1200, 750'
   - url: microfibres-aerial-2016-04.jpg
     caption: 'Looking southeast over the property from the northwest corner. Aerial taken from the Showcase.com real estate listing'
+    sizes: '1200, 750'
   - url: microfibres-jh-2019-05-01.jpg
     caption: 'The former Woodlawn Finishing Co. building, western side of the property, looking east'
+    sizes: '1440, 900'
   - url: microfibres-jh-2019-05-02.jpg
     caption: 'Notice the ghost sign for “Narragansett” on the former Weil Barnefield Corpin building, northeast corner of Moshassuck and Main Streets'
+    sizes: '1440, 900'
   - url: microfibres-jh-2021-11-01.jpg
     caption: 'Looking south at the former Weil Barnefield Corpin building, northeast corner of Moshassuck and Main Streets'
+    sizes: '1600, 900'
   - url: microfibres-jh-2021-11-02.jpg
     caption: 'Looking west down Moshassuck Street from the northeast corner of the property'
+    sizes: '1440, 900'
   - url: microfibres-jh-2021-11-03.jpg
     caption: 'Looking southeast up Moshassuck towards Main St and the Weil Barnefield Corpin building'
+    sizes: '1440, 900'
   - url: microfibres-jh-2021-11-04.jpg
     caption: 'Looking south at a the first gap between buildings, a loading dock towards the top of the hill'
+    sizes: '1440, 900'
   - url: microfibres-jh-2021-11-05.jpg
     caption: 'Looking southwest at the third building along Moshassuck, left (west) of the loading dock previous'
+    sizes: '1440, 900'
   - url: microfibres-jh-2021-11-06.jpg
     caption: 'Looking south from Moshassuck and the second gap between buildings. This is a exhaust stack of some kind, between a brick and cinder block building and a steel clad warehouse'
+    sizes: '1440, 900'
   - url: microfibres-jh-2021-11-07.jpg
     caption: 'Looking south at a steel clad warehouse with diagonal loading bay entrances'
+    sizes: '1440, 900'
   - url: microfibres-jh-2021-11-08.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2021-11-09.jpg
     caption: 'Looking southwest at the eastern and northern side of the last building on the Moshassuck block, the former Woodlawn Finishing Co.'
+    sizes: '1440, 900'
   - url: microfibres-jh-2021-11-10.jpg
     caption: 'Looking southeast at the twin buildings of the former Woodlawn Finishing Co. and the Microfobres main offices'
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-05-01.jpg
     caption: 'The circa 1960s tan-brick public showroom and offices on the southeastern corner of the plot is now a wreck of boarded up and broken windows'
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-05-02.jpg
     caption: 'Looking northeast towards the building on the southeastern side of the property'
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-05-03.jpg
     caption: 'Detail of the southeasternmost building. The paint on those doors and windows such deteriorated since Google Streetvioew in 2016'
+    sizes: '1200, 900'
   - url: microfibres-jh-2022-05-04.jpg
     caption: 'A barn-like steel-clad structure on the southwestern edge of the property'
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-06-01.jpg
     caption: 'Demolition began in June of 2022'
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-06-02.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-06-03.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-06-04.jpg
+    sizes: '740, 1036'
   - url: microfibres-jh-2022-06-05.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-08-01.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-08-02.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-08-03.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-08-04.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-08-05.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-08-06.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-08-07.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-08-08.jpg
+    sizes: '768, 924'
   - url: microfibres-jh-2022-11-01.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-11-02.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-11-03.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-11-04.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-11-05.jpg
+    sizes: '1440, 900'
   - url: microfibres-jh-2022-11-06.jpg
+    sizes: '1440, 900'
   - url: microfibres-sanborn-1923.jpg
     caption: 'Sanborn Map Company, “Insurance maps of Pawtucket: including Central Falls, Rhode Island V. 2a” (1923)'
+    sizes: '1440, 900'
   - url: microfibres-aerial-1939.jpg
     caption: 'Providence Historical Aerial Viewer 1939'
+    sizes: '1440, 900'
   - url: microfibres-aerial-1962.jpg
     caption: 'Providence Historical Aerial Viewer 1962'
+    sizes: '1440, 900'
   - url: microfibres-aerial-1981.jpg
     caption: 'Providence Historical Aerial Viewer 1981'
+    sizes: '1440, 900'
   - url: microfibres-aerial-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997'
+    sizes: '1440, 900'
   - url: microfibres-aerial-2008.jpg
     caption: 'Providence Historical Aerial Viewer 2008'
+    sizes: '1440, 900'
 
-mostrecentimage: 2022-08-01
+mostrecentimage: 2022-11-01
 
 imagescredit: 'Contributions from Google Streetview; Showcase.com; Sanborm Map from Brown Digital Repository, Brown University Library; and Aerials from the Providence Historical Aerial Viewer'
 

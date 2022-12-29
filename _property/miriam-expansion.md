@@ -29,13 +29,21 @@ thumbnail: baxt-bldg-jh-2007-05-02.jpg
 images:
   - url: baxt-bldg-jh-2005-01.jpg
     alt: 'A modern, wide rectangular three story architectural panel and steel trimmed hospital addtion with landscaping that softens the exterior as it meets the surrounding residential neighborhood'
+    sizes: '1440, 900'
   - url: baxt-bldg-jh-2006-01.jpg
+    sizes: '1440, 900'
   - url: baxt-bldg-jh-2007-05-01.jpg
+    sizes: '1440, 900'
   - url: baxt-bldg-jh-2007-05-02.jpg
+    sizes: '1440, 900'
   - url: baxt-bldg-jh-2007-07-01.jpg
+    sizes: '1200, 900'
   - url: baxt-bldg-jh-2007-07-02.jpg
+    sizes: '1440, 900'
   - url: baxt-bldg-jh-2007-07-03.jpg
+    sizes: '1200, 900'
   - url: baxt-bldg-jh-2007-07-04.jpg
+    sizes: '1440, 900'
 
 imagescredit: 
 
@@ -65,6 +73,6 @@ Miriam and the [Summit Neighborhood Association](//www.sna.providence.ri.us){:ta
 
 To the neighborhood, Miriam represents siren noise, inflated housing and rental costs due to the demand from staff and students, high traffic, and an appetite to expand and expand. On the other hand, the jobs are good to have in the area, and access to state-of-the-art facilities is not half bad. 
 
-For this project, the original intent was for Miriam to acquire more property in the neighborhood. The neighbors and the Summit Association fought back, and convinced them to build on the land they already own. We though it was a win at the time, but did not have the full picture of how Miriam could have easily built along North Main Street at the former [Sears Department store]({% link _property/sears-north-main.md %}). 
+For this project, the original intent was for Miriam to acquire more property in the neighborhood. The neighbors and the Summit Association fought back, and convinced them to build on the land they already own. We thought it was a win at the time, but did not have the full picture of how Miriam could have easily built along North Main Street at the former [Sears Department store]({% link _property/sears-north-main.md %}). North Main Street could certainly use some sort of anchor, after all. 
 
 The two will continue to butt heads. Luckily for both, they have a positive working relationship and will (hopefully) continue to work towards being good neighbors to each other. 

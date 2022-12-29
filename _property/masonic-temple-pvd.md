@@ -14,10 +14,10 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Osgood and Osgood', 'Jackson, Robertson, and Adams' ]
-lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places', 'Capital Center Parcels' ]
+lists: [ 'Capital Center Parcels', 'PPS Ten Most Endangered', 'National Register of Historic Places' ]
 tags: [ 'Former/Current Hotels' ]
 
-NRHP-ref-number: '93001181'
+NRHP-ref-number: '93001181 (individual)'
 added-to-NRHP: 'October 5, 1993'
 
 address: '5 Avenue of the Arts, Providence RI'
@@ -32,63 +32,108 @@ thumbnail: masonic-temple-jh-2002-02-01.jpg
 
 images:
   - url: masonic-temple-eg-1992-01.jpg
-    caption: Photo by Erik Gould, 1992
     alt: 'A Greek-revival sandstone and concrete structure complete with ionic columns and symmetrical façades. More detail contained in the architectural description.'
+    caption: 'Photo by Erik Gould, 1992'
+    sizes: '1125, 900'
   - url: masonic-temple-eg-1992-02.jpg
-    caption: Photo by Erik Gould, 1992
+    caption: 'Photo by Erik Gould, 1992'
+    sizes: '1139, 900'
   - url: masonic-temple-eg-1992-03.jpg
-    caption: Photo by Erik Gould, 1992
+    caption: 'Photo by Erik Gould, 1992'
+    sizes: '1139, 900'
   - url: masonic-temple-eg-1992-04.jpg
-    caption: Photo by Erik Gould, 1992
+    caption: 'Photo by Erik Gould, 1992'
+    sizes: '1135, 900'
   - url: masonic-temple-jh-2002-02-01.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-02.jpg
+    sizes: '760, 900'
   - url: masonic-temple-jh-2002-02-03.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-04.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-05.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-06.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-07.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-08.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-09.jpg
+    sizes: '760, 900'
   - url: masonic-temple-jh-2002-02-10.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-11.jpg
+    sizes: '760, 900'
   - url: masonic-temple-jh-2002-02-12.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-13.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-14.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-15.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-16.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-17.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-18.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2002-02-19.jpg
+    sizes: '760, 900'
   - url: masonic-temple-jh-2004-03-01.jpg
-    caption: The “Temple of Junerism” next to two houses that were razed
+    caption: 'The “Temple of Junerism” next to two houses that were razed'
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2004-03-02.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2004-03-03.jpg
-    caption: One of the two houses that were razed for parking
+    caption: 'One of the two houses that were razed for parking'
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2004-03-04.jpg
-    caption: One of the two houses that were razed for parking
+    caption: 'One of the two houses that were razed for parking'
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2004-03-05.jpg
-    caption: One of the two houses that were razed for parking
+    caption: 'One of the two houses that were razed for parking'
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2004-03-06.jpg
-    caption: Both houses that were razed for parking
+    caption: 'Both houses that were razed for parking'
+    sizes: '1440, 900'
   - url: masonic-temple-jh-2004-03-07.jpg
-    caption: Carvings added in 1949-50 as the State planned to renovate the Temple for office space
+    caption: 'Carvings added in 1949-50 as the State planned to renovate the Temple for office space'
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2004-03-08.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2005-05-01.jpg
-    caption: View of the Temple from Prospect Place
+    caption: 'View of the Temple from Prospect Place'
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2005-05-02.jpg
+    sizes: '760, 900'
   - url: masonic-temple-jh-2005-05-03.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2005-05-04.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2005-06-01.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2005-06-02.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2005-06-03.jpg
+    sizes: '760, 900'
   - url: masonic-temple-jh-2005-06-04.jpg
+    sizes: '760, 900'
   - url: masonic-temple-jh-2005-06-05.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2006-03-01.jpg
-    caption: A new steel interior structure is constructed
+    caption: 'A new steel interior structure is constructed'
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2006-04-01.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2006-07-01.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2006-07-02.jpg
+    sizes: '1200, 900'
   - url: masonic-temple-jh-2020-06-01.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from Erik Gould'
 
@@ -187,7 +232,7 @@ The architects for the project were Osgood & Osgood of Grand Rapids, Michigan, a
 #### Derelict For 75 Years, Temple Gets A New Life
 
 _By Bruce Landis_  
-Providence Journal | Friday, July 16, 2004
+**Providence Journal ** | Friday, July 16, 2004
 
 After years of false starts, failed plans and naysaying, the renovation of the historic but tattered Masonic Temple has begun. The project will apparently bring to an end the years of the building’s decay since the Masons walked away from the unfinished Temple in 1929.
 

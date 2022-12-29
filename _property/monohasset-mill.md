@@ -35,32 +35,58 @@ thumbnail: monohasset-jh-2006-04-01.jpg
 images:
   - url: armington-sims-ppl-undated.jpg
     alt: 'A four story red brick mill with a wide stance, monitor roof, and central five story stair tower. An attached two-story red brick structure and associated one story structures surround the main building.'
+    sizes: '1440, 900'
   - url: monohasset-sanborn-1899-01.jpg
     caption: 'Notice how the “former” Armington Sims buildings are labelled as vacant and will be used as storage for the nearby Providence Brewing Company — Sanborn Insurance Map, 1899-1900, volume 1 sheet 15 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library.'
+    sizes: '2880, 1800'
   - url: monohasset-jh-2002-06-01.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-01.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-02.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-03.jpg
+    sizes: '768, 924'
   - url: monohasset-jh-2005-06-04.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-05.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-06.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-07.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-08.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-09.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-10.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-11.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-12.jpg
+    sizes: '768, 924'
   - url: monohasset-jh-2005-06-13.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-14.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-15.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-16.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-17.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-18.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-19.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-20.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2005-06-21.jpg
+    sizes: '768, 924'
   - url: monohasset-jh-2006-04-01.jpg
+    sizes: '1200, 900'
   - url: monohasset-jh-2006-04-02.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A10955" target="_blank">photo</a>) and the ProQuest Online Digital Sanborn Maps, Providence Public Library'
 

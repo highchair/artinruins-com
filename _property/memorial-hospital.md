@@ -33,21 +33,31 @@ thumbnail: memorial-jh-2018-11-05.jpg
 
 images:
   - url: memorial-postcard-1920c.jpg
-    caption: 'Postcard from the collection of the Pawtucket Library, circa 1920'
     alt: 'A seven acre campus comprised of eight buildings that, over time, have filled in spaces between them. A large, seven story brick and concrete building is the most commanding presence and it was designed in a Brutalist style, with narrow, jutting windows and exposed concrete piers. Other buildings vary in style and construction materials. '
+    caption: 'Postcard from the collection of the Pawtucket Library, circa 1920'
+    sizes: '1440, 940'
   - url: memorial-pl-1984-01.jpg
     caption: 'The dome of the orginal Sayles Building can still be seen here, while the rest of the campus has been built up around it — Photo from the collection of the Pawtucket Library, circa 1984'
+    sizes: '1200, 900'
   - url: memorial-jh-2018-11-01.jpg
     caption: 'The Wood and Hodgson buildings, built in two stages in 1965 and 1976'
+    sizes: '1440, 900'
   - url: memorial-jh-2018-11-02.jpg
+    sizes: '1440, 900'
   - url: memorial-jh-2018-11-03.jpg
     caption: 'The MacColl building, built 1931'
+    sizes: '1440, 900'
   - url: memorial-jh-2018-11-04.jpg
+    sizes: '1440, 900'
   - url: memorial-jh-2018-11-05.jpg
+    sizes: '1200, 900'
   - url: memorial-jh-2018-11-06.jpg
+    sizes: '1200, 900'
   - url: memorial-jh-2018-11-07.jpg
+    sizes: '1440, 900'
   - url: memorial-campus-map.jpg
     caption: 'Map of the campus which has been built up since 1918. The bulkiest building is actually two, built at two different times in the expansion of the hospital, 1965 and 1976'
+    sizes: '531, 439'
 
 imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/sets/72157665888425744/" target="_blank">Pawtucket Library Flickr album</a>'
 
@@ -81,8 +91,7 @@ In 1985, phase three of modernization was the $1.7-million **Ambulatory Care Cen
 
 ### Redevelopment
 
-Lockwood Development Partners, a New York City developer
-200 apartments prioritized for senior veterans
+Lockwood Development Partners, a New York City developer is planning 200 apartments prioritized for senior veterans. 
 
 
 ### History
@@ -117,6 +126,7 @@ Grebien’s office said all buildings on the site will be retained and enhanced 
 
 _Captured February 6, 2021 from https://www.bostonglobe.com/2021/01/26/metro/former-memorial-hospital-property-pawtucket-sold-ny-based-developer/_
 
+***
 
 #### Pawtucket’s Memorial Hospital sold for just $250,000
 

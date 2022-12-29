@@ -34,38 +34,61 @@ thumbnail: mcdevitt-jh-2009-03-01.jpg
 
 images:
   - url: enoch-adams-pwtlib-1880c.jpg
-    caption: 'Collection of the Pawtucket Library — The former Enoch Adams house that stood on the same flatiron parcel pre 1888'
     alt: 'A flatiron-style, red brick, three-story commercial block on a triangular parcel coming to a rounded point at the corner of Broad Street, Main Street, and North Unions Streets.'
+    caption: 'Collection of the Pawtucket Library — The former Enoch Adams house that stood on the same flatiron parcel pre 1888'
+    sizes: '900, 900'
   - url: kinyon-block-pwtlib-1920c.jpg
     caption: 'Collection of the Pawtucket Library — Another of the Kinyon Block with signs including “Young Men’s Christian Association”; Signs and Show Cards; “Dr. L.A. Wilbur, Dentist; Gobeille’s Millinery; C.W. Clough; and Misfit Clothing Parlors. Circa 1900–1910 as by 1915, McDevitt’s occupied the first floor.'
+    sizes: '900, 1200'
   - url: kinyon-school-pwtlib-1914.jpg
     caption: 'Collection of the Pawtucket Library — The Kinyon Block as it appeared in 1914, with corner clearstory and cone-shaped tower'
+    sizes: '1200, 900'
   - url: mcdevitt-pwtlib-1989-05-01.jpg
     caption: 'Collection of the Pawtucket Library — The McDevitt’s Building as it appeared in 1989, showing signs of wear and under-utilization'
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2006-02-01.jpg
+    sizes: '1440, 900'
   - url: mcdevitt-jh-2009-03-01.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-cm-2009-03-01.jpg
     caption: 'An 1970s/80s inset steel storefront entrance with sidelight, transom, and tile work reading “McDevitt’s” — Photo by Christopher Martin'
+    sizes: '768, 924'
   - url: mcdevitt-cm-2009-03-02.jpg
     caption: 'Storefronts along Broad St. show vinyl siding along with 70s era commercial stone around the plate glass windows — Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: mcdevitt-cm-2009-03-03.jpg
     caption: 'A recessed double steel-door entrance to the upper floors of the building clad in granite panels with raised steel lettering above a transom window with the number 23 painted on it — Photo by Christopher Martin'
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2009-09-01.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2009-09-02.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2009-09-03.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2009-09-04.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2009-09-05.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2009-09-06.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2009-10-01.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2009-10-02.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2010-01-01.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2010-01-02.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2010-01-03.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-jh-2010-01-04.jpg
+    sizes: '1200, 900'
   - url: mcdevitt-cm-2019-05-01.jpg
     caption: 'Detail of the McDevitt’s tile work — Photo by Christopher Martin'
+    sizes: '1200, 900'
   - url: mcdevitt-cm-2019-05-02.jpg
     caption: 'The pointed end of the flatiron shape in 2019, showing “Bake my Day” as the tenant — Photo by Christopher Martin'
+    sizes: '768, 924'
 
 imagescredit: 'Contributions from Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a> and the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157673016057110" target="_blank">Pawtucket Library collection on Flickr</a>'
 
