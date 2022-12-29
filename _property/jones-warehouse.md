@@ -17,11 +17,12 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Gould, Angell & Swift' ]
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
-tags: [ 'Ghost Signs' ]
+lists: [ 'PPS/AIA Industrial Commercial Buildings Survey', 'National Register of Historic Places' ]
+tags: [ 'Ghost Signs', 'The Superlatives' ]
+superlative: 'The earliest buildings erected specifically for the storage of household goods, at least, in the City, but perhaps anywhere'
 
-NRHP-ref-number:
-added-to-NRHP:
+NRHP-ref-number: '80000099 (individual)'
+added-to-NRHP: 'January 1980'
 
 address: '59 Central Street, Providence RI'
 latitude: '41.8139447'
@@ -31,7 +32,7 @@ gmap: "https://www.google.com/maps/place/Jones+Moving+and+Storage/@41.8139447,-7
 meta: ""
 excerpt: "A late-nineteeth-century warehouse building with thick walls, strong floors, and details reminiscent of an armory building"
 
-thumbnail:
+thumbnail: jones-jh-2002-06-01.jpg
 
 images:
   - url: jones-jh-2002-06-01.jpg
@@ -59,8 +60,6 @@ images:
   - url: jones-jh-2006-04-09.jpg
     sizes: '768, 924'
   - url: jones-jh-2006-04-10.jpg
-    sizes: '1200, 900'
-  - url: jones-jh-2006-04-11.jpg
     sizes: '1200, 900'
   - url: jones-jh-2006-04-12.jpg
     sizes: '1200, 900'
@@ -98,10 +97,26 @@ The [Jones Moving Company](//www.rimover.com){:target="_blank"} has been in stea
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 The Jones Warehouse building is a massive, five- and seven-story, Richardsonian Romanesque-style, flat-roof, brick building embellished with a brownstone-trimmed façade and a corbelled brick cornice. This highly ornate building features crenellation on the seven-story block and narrow, recessed windows. Three sets of pedestrian entrances are located on the southeast elevation (façade) of the five-story block. Fenestration consists of paired and tripled, rectangular 6/6 sash with stone sills. The top floor of the five-story block features two groups of four round-arch windows with brick corbelling below. The top two floors of the seven-story block feature narrow, round-arch windows set in two rows. The side elevations of the building are devoid of architectural embellishments. A sign reading “Warehouse” stands atop the five-story block. A sign painted on the northeast elevation reads “Orrin Jones Storage Warehouse.” A second painted sign is visible on the southwest elevation of the seven-story block.
 
 To the rear stand two outbuildings associated with this property: a two-story, brick, gable-roof building used for storage (identified as the “Annex” on historic maps) and a five-story, concrete, flat-roof structure to the northwest. A paved lot bound by a chain link fence is located to the south.
 
 Built to the designs of the architectural firm of Gould, Angell & Swift, the building has been compared to the [Merchants’ Cold Storage Warehouse]({% link _property/merchants-cold-storage.md %}) (160 Kinsley Avenue) architecturally, which was also built in the 1890s to the design of a major architectural firm. The building has been used by Jones Warehouses, Inc. through to the present day. Begun in 1896 as one of the first modern storage facilities in Providence, a seven-story fireproof addition replaced an earlier three-story structure (RIHPHC 1979; Woodward 1986).
+
+***
+
+_From the National Register Nomination Form, January 1980_
+
+The Jones Warehouses complex consists of five structures of which only four are herein nominated[…]. The warehouses are presently used for the storage of household goods and are located in the West End. The oldest is Building A at 63 Central Street, a 3 1/2-story, end-gable, clapboarded structure, with a clerestory roof. It was erected 1861-65 by Winsor and Brown and was shown in the 1875 city atlas as a “gun manufactory.” It was purchased by Orrin Jones in 1893 and converted for storage use. Although vaults have been installed, the original interior construction remains everywhere visible: all the floors are supported on wooden posts except the top or clerestory, which is suspended from the roof on iron rods. [A.I.R.: This building described no longer stands. It seems to have been demolished by a 1988 aerial photo.]
+
+Behind Building A is Building B, a 2-story, flat-roofed, utilitarian, brick structure. It probably dates from the 1890s. In 1895-96 Building C, flat-roofed, 5-story, 60 x lOO foot brick structure, designed by the Providence architectural firm of Gould, Angel & and Swift, was built beside Building A. By 1900 a 7-story, 40 x 100-foot addition, known as Building D, was made to the 1895-95 section. These two, side-by-side, brick structures, now forming a single block, present a glazed terra cotta brick facade, with brownstone-trimmed, round-headed, top-story windows, the legacy of the slowly dying Richardsonian Romanesque. Building E, a five-story, reinforced concrete structure located on A Street behind Building A, was erected c. 1927, and is not included in this nomination.
+
+The nominated structures have been very little-altered over the years. Each contains tiers of wooden vaults separated by long corridors.
+
+#### Significance
+
+The Jones Warehouses are of local and statewide architectural importance. The plain-trimmed c. 1861-65 factory building with its clerestory roof is one of the oldest and least altered industrial structures in Providence and a very late example of a mill type which was popular inRhode Island in the first half of the nineteenth century [A.I.R.: No longer extant]. Buildings C and D, in addition to the considerable architectural merit of their unified exterior, possess great significance in being among the earliest buildings erected specifically for the storage of household goods in Providence or, so a contemporary account claimed,anywhere. The structures were equipped with such innovations as a (very large) electric elevator and fire doors which closed automatically.
+
+The Jones Warehouses firm was established about 1889 by Orrin E. Jones, a blacksmith. Jones first housed his household-goods storage business in the Lester Hall block nearby on Cranston Street. In 1893, however, he purchased the former gun factory, and in the next few years consolidated the business there and in his other buildings on Central Street. Orrin E. Jones died in 1923. His son, George W. Jones, who had started work with the company in 1907, then took charge and continued to run the business until his death early in 1974. 
