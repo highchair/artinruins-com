@@ -317,6 +317,11 @@ dd {
 //}
 
 // Inline typography elements
+strong,
+b {
+  font-weight: $font-custom__serif__bd-weight;
+}
+
 em,
 i,
 cite,

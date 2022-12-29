@@ -93,9 +93,11 @@
     &__primary {
       color: palette('brand-teal');
     }
-  }
 
-  &__color {
+    &__secondary {
+      color: palette('brand-brown');
+    }
+
     &__violator {
       color: palette('brand-red');
     }
