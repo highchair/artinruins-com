@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade: '1920-1929'
 date-added: '2022'
-categories: [ '#UrbanDecay' ]
+categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [] # Walker & Gillette
@@ -85,6 +85,9 @@ imagescredit: 'Contributions from the Providence Public Library — Rhode Island
 The most iconic building in the capital city, and likely the state, has been vacant for almost ten years. The developer, local leaders, and many politicians have lent their ideas and negotiating powers to try to find a new life, or at least a new tenant, for the structure. Other large companies were wooed — Citizens Bank, Paypal — artist’s reimagined how to use the building, and even demolition was proposed. It looks like, finally, a new deal for a conversion to residential units is close to happening. 
 
 As romantic lovers of turn-of-the-century architecture, we really want to see it saved. Residential makes the most sense, as especially in this post-pandemic world, the need for office space may never recover. Further, we have been in the building and it is still lovely. The unique pyramidal set-backs afford a variety of floor plans and amazing views tha sometimes look into the building itself. The upper floors are breathtaking and the lobby is just grand. Our fingers and toes are crossed that a deal will happen. 
+
+[The Providence Finance Committee approved a tax agreement](//turnto10.com/news/local/superman-building-tax-agreement-providence-rhode-island-apartment-downtown-studio-bedroom-rent-project-affordability-retail-community-grand-banking-hall){:target="_blank"} in October, 2022, that would support the conversion of this building into 285 apartments.
+{:.o__tldr}
 
 
 ### Timeline

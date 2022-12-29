@@ -13,7 +13,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS Ten Most Endangered', 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Neglect', 'The Superlatives' ]
 superlative: 'City directories listed the company as the largest receivers of roofing materials in New England'
 
