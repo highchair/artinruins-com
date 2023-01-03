@@ -178,7 +178,7 @@
       left: 0;
       z-index: 2;
     }
-    
+
     // Only works if JS is on
     &[data-visited="visited"]::after {
       content: '(Seen)';
@@ -191,23 +191,33 @@
       text-decoration-style: dashed;
     }
   }
-  
+
+  &__clamp {
+    display: -webkit-box;
+    line-clamp: 4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: initial;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+  }
+
   &__excerpt {
     padding-top: ($vertical-rhythm/2);
-    padding-bottom: ($vertical-rhythm/2);
   }
-  
+
   &__meta {
     @include ff-sans();
+    padding-top: ($vertical-rhythm/2);
     position: relative;
     z-index: 3;
-    
+
     &__group {}
   }
-  
+
   // Grouped media query
   @include breakpoint-up(medium) {
-    
+
     &__list {
       li {
         display: flex;
@@ -218,7 +228,7 @@
         padding: 1rem;
       }
     }
-    
+
     &__img-wrap {
       flex: 0 1 40%;
       width: 40%;
@@ -226,7 +236,7 @@
       margin: -1rem 2rem -1rem -1rem;
       padding-bottom: 25%;
       min-height: 25%;
-    
+
       .rwd-img {
         min-height: 100%;
         min-width: 100%;
@@ -234,7 +244,7 @@
         max-height: 125%;
       }
     }
-    
+
     &__colwrap {
       flex: 0 1 60%;
       width: 60%;

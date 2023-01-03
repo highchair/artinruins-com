@@ -32,30 +32,32 @@
       </div>
       {%- endif -%}
       <div class="taxonomy__colwrap">
-        <div class="taxonomy__title-wrap">
-        {% if home == "Yes" %}
-          <h3 class="h4 taxonomy__card-title"><a href="/property/{{ item.slug }}/" class="taxonomy__link">{% if item.update %}{% else %}<span class="taxonomy__card-title--new">NEW</span> {% endif %}{{ item.title }}</a></h3>
-        {% else %}
-          <h2 class="h4 taxonomy__card-title"><a href="/property/{{ item.slug }}/" class="taxonomy__link">{{ item.title }}</a></h2>
-        {% endif %}
-        </div>
-        <p class="taxonomy__excerpt">
-          {%- if item.lists contains "Capital Center Parcels" or item.lists contains "I-195 District Parcels" -%}
-            {%- if item.parcel.size > 0 -%}
-            <span class="taxonomy__meta__group"><b>Parcel {{ item.parcel }}: </b></span>
+        <div class="taxonomy__clamp">
+          <div class="taxonomy__title-wrap">
+          {% if home == "Yes" %}
+            <h3 class="h4 taxonomy__card-title"><a href="/property/{{ item.slug }}/" class="taxonomy__link">{% if item.update %}{% else %}<span class="taxonomy__card-title--new">NEW</span> {% endif %}{{ item.title }}</a></h3>
+          {% else %}
+            <h2 class="h4 taxonomy__card-title"><a href="/property/{{ item.slug }}/" class="taxonomy__link">{{ item.title }}</a></h2>
+          {% endif %}
+          </div>
+          <p class="taxonomy__excerpt">
+            {%- if item.lists contains "Capital Center Parcels" or item.lists contains "I-195 District Parcels" -%}
+              {%- if item.parcel.size > 0 -%}
+              <span class="taxonomy__meta__group"><b>Parcel {{ item.parcel }}: </b></span>
+              {%- endif -%}
             {%- endif -%}
-          {%- endif -%}
-          {% if home == "Yes" %}<i>{% if item.update %}Updated{% else %}Added{% endif %} {{ item.date-modified | date: "%e %B, %Y" }}:</i> {% endif %}
-          {%- if page.type == 'tags' and page.category == "The Superlatives" -%}
-            {{ item.superlative }}
-          {%- elsif categories contains '#DemolitionAlert' and item.update -%}
-            {{ item.update }}
-          {%- elsif home == "Yes" and item.update -%}
-            {{ item.update }}
-          {%- else -%}
-            {{ item.excerpt }}
-          {%- endif -%}
-        </p>
+            {% if home == "Yes" %}<i>{% if item.update %}Updated{% else %}Added{% endif %} {{ item.date-modified | date: "%e %B, %Y" }}:</i> {% endif %}
+            {%- if page.type == 'tags' and page.category == "The Superlatives" -%}
+              {{ item.superlative }}
+            {%- elsif categories contains '#DemolitionAlert' and item.update -%}
+              {{ item.update }}
+            {%- elsif home == "Yes" and item.update -%}
+              {{ item.update }}
+            {%- else -%}
+              {{ item.excerpt }}
+            {%- endif -%}
+          </p>
+        </div>
         <p class="taxonomy__meta">
         {%- if categories.size > 0 -%}
           {%- for category in categories -%}
