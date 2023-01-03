@@ -4,12 +4,12 @@ slug: ri-auditorium
 aka: "The Arena"
 date-modified: 2020-07-15 22:00
 
-built: 1925
-demolition: 1989
+built: '1925'
+demolition: '1989'
 redeveloped: 
 decade: '1920-1929'
-date-added: 2006
-categories: [ '#UsedToBeThere', '#ArchiveRI' ]
+date-added: '2006'
+categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -69,6 +69,8 @@ _From [Wikipedia](//en.wikipedia.org/wiki/Rhode_Island_Auditorium){:target="_bla
 
 Rhode Island Auditorium was an indoor arena in Providence, at 1111 North Main Street. The arena held 5,300 people and opened in 1926. It hosted the NBA’s Providence Steamrollers basketball team from 1946 until 1949, and the Providence Reds ice hockey team until the [Providence Civic Center]({% link _property/providence-civic-center.md %}) (now the Dunkin’ Center) was opened in 1972. It languished for over a decade until it was razed in 1989. 
 
+***
+
 #### Overview
 
 _by Michael Delaney_  
@@ -81,6 +83,7 @@ Sports pictures from there now look primitive. The Rhode Island Reds hockey play
 
 The Providence Steamrollers basketball team played there for a few years in the 1940s. Famous boxer Rocky Marciano was actually from Brockton, Mass., but many of his great fights took place there. Not to mention appearances by Peter, Paul and Mary, the Ice Capades, and many others.
 
+***
 
 #### Ice Hockey at the Auditorium
 
@@ -98,11 +101,15 @@ For years, while the big building stood on North Main Street, it was called both
 
 The thousands of fans who flocked there for hockey, basketball, boxing and shows of every description, called it either Rhode Island Auditorium or The Arena. However, dating back to its very earliest years in the 1930s, the front page of every game program called it Rhode Island Auditorium.
 
+***
+
 #### Music at the Auditorium
 
 Adam Ant, Aerosmith, Alex Hors Rock Time Band (1969), Jean Autrey, Beach Boys (1966), Bee Gees (1968), Blood Sweat And Tears (1968), Johnny Cash, Chicago Transit Authority, Cream, The Doors, Fats Domino, Bob Dylan and the Hawks, Aretha Franklin, Grand Funk Railroad (1970), Bill Halley and The Comets, the Jimi Hendrix Experience (1968), Iggy Pop, Rickie Lee Jones, The Mothers of Invention (1968), Buddy Myles, the Plasmatics, The Ramones, Buffalo Springfield, Steppenwolf, Sly and the Family Stone, George Thorogood & the Destroyers, U2, Vanilla Fudge (1968), The Who (1968), and the Young Rascals (1969).
 
 More band info at [RiRocks.net](//www.rirocks.net/Search/RI%20Auditorium.htm){:target="_blank"}
+
+***
 
 #### Basketball at the Auditorium
 

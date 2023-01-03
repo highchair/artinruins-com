@@ -25,7 +25,7 @@ sitemap:
 {%- if demoalert.size >= 1 -%}
   <h2 class="o__title--sm v-rhythm">Demolition Alert</h2>
   <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
-    {%- for item in demoalert limit:2 -%}
+    {%- for item in demoalert limit:1 -%}
       {% include property-card.html %}
     {%- endfor -%}
   </ul>

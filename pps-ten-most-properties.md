@@ -96,7 +96,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 ### [2017](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2017){:target="_blank"}
 
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Atlantic Mills]({% link _property/atlantic-mills.md %}), 100 Manton Avenue, Olneyville (1863)
-+ Barstow Stove Company (known as Tops Electric Company), 120 Point Street, Jewelry District (c. 1849)
++ [Barstow Stove Company]({% link _property/barstow-stove-co.md %}) (known as Tops Electric Company), 120 Point Street, Jewelry District (c. 1849)
 + Bomes Theatre, 1017 Broad Street, Elmwood (1921)
 + Broad Street Synagogue, 688 Broad Street (1910-1911)
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Cranston Street Armory]({% link _property/providence-armory.md %}), 310 Cranston Street, West End (1907)
@@ -115,7 +115,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Cranston Street Armory]({% link _property/providence-armory.md %}), 315 Cranston Street (1907)
 + **Historic Jewelry District Buildings**:  
   As exemplified by:  
-  Barstow Stove Company (known as Tops Electric Company), 120 Point Street (c. 1849)  
+  [Barstow Stove Company]({% link _property/barstow-stove-co.md %}) (known as Tops Electric Company), 120 Point Street (c. 1849)  
   <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Ward Baking Company Administration Building]({% link _property/ward-baking-co.md %}), 145 Globe Street (1908-1956)
 + **Historic Middle School Buildings**:  
   As exemplified by:  

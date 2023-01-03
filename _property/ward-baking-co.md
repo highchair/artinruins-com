@@ -97,7 +97,7 @@ imagescredit: 'Contributions by the Providence Preservation Society and the Prov
 
 ### Reason for Demolition
 
-A long story of proposals and failures haunts this site currently, and its future is very much uncertain. In 2011, JAG Investment Realty sought a demolition permit for the property after it acquired it through receivership. They proposed a research office campus for the site consisting of three structures of 6, 7, and 8 stories to be known as “Victory Square.”
+A long story of proposals and failures haunted this site, and its future was very uncertain for a time. In 2011, JAG Investment Realty sought a demolition permit for the property after it acquired it through receivership. They proposed a research office campus for the site consisting of three structures of 6, 7, and 8 stories to be known as “Victory Square.”
 
 Though the venture received tax stabilization, the development never moved forward. It was put back on the market in 2013.
 

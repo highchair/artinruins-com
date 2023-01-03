@@ -9,7 +9,7 @@ demolition: '1998'
 redeveloped: 
 decade: '1890-1899'
 date-added: '2005'
-categories: [ '#ArchiveRI', '#UsedToBeThere' ]
+categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Frank P. Sheldon & Son' ]
@@ -33,43 +33,80 @@ thumbnail: gorham-wiki-1904-aerial.jpg
 images:
   - url: gorham-illus-1900c.jpg
     alt: 'A large collection of red brick mill buildings on several acres. Many were cavernous spaces with high cielings and equipped to pour molten material into casts, forms, and molds.'
+    sizes: '1440, 900'
   - url: gorham-hist-1890c.jpg
+    sizes: '1350, 900'
   - url: gorham-rihphc-1900c.jpg
+    sizes: '2100, 900'
   - url: gorham-stamps-1900c.jpg
+    sizes: '1200, 900'
   - url: gorham-engine-1900c.jpg
+    sizes: '1200, 900'
   - url: gorham-wiki-1904-aerial.jpg
     caption: 'Photo from WikiCommons, circa 1904'
+    sizes: '1440, 900'
   - url: gorham-eg-1997-01.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-02.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-03.jpg
+    sizes: '703, 900'
   - url: gorham-eg-1997-04.jpg
+    sizes: '703, 900'
   - url: gorham-eg-1997-05.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-06.jpg
+    sizes: '703, 900'
   - url: gorham-eg-1997-07.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-08.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-09.jpg
+    sizes: '703, 900'
   - url: gorham-eg-1997-10.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-11.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-12.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-13.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-14.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-15.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-16.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-17.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-18.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-19.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-20.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-21.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-22.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-23.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-24.jpg
+    sizes: '1153, 900'
   - url: gorham-eg-1997-25.jpg
+    sizes: '1350, 900'
   - url: gorham-eg-1997-26.jpg
+    sizes: '1350, 900'
   - url: gorham-eg-1997-27.jpg
+    sizes: '1350, 900'
   - url: gorham-eg-1997-28.jpg
+    sizes: '1350, 900'
   - url: gorham-eg-1997-29.jpg
+    sizes: '1350, 900'
   - url: gorham-eg-1997-30.jpg
+    sizes: '1350, 900'
   - url: gorham-eg-1997-31.jpg
+    sizes: '1350, 900'
 
 imagescredit: '1904 aerial from WikiCommons. All pre-demolition photos by Erik Gould. Photos and historic illustrations and photos scanned and put online with permission from the authors and the RIHPHC.'
 ---
@@ -82,7 +119,7 @@ If the complex could have stayed standing for a little longer, we might have mix
 
 Granted, the soil under these buildings was heavily contaminated. The pollution in the nearby pond was bad enough that some thought it might never recover. None of these things were insurmountable, but they did stand in the way of a more preservationist vision of the redevelopment of this property. 
 
-The last remnant of the 37-acre, 14-building complex was going to be converted into a Firefighter Museum. It stood for more than 10 years after the main buildings were torn own, but succumbed to a suspicious fire in 2009. 
+The last remnant of the 37-acre, 14-building complex was going to be converted into a Firefighter Museum. It stood for more than 10 years after the main buildings were torn down, but succumbed to a suspicious fire in 2009. 
 
 
 ### Current Events

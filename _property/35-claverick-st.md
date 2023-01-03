@@ -15,7 +15,7 @@ date-added: '2022'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
-designers: [ 'DBVW Architects' ] #Samuel Lerner
+designers: [ 'Samuel Lerner', 'DBVW Architects' ]
 people: []
 lists: [ 'PPS Preservation Awards' ]
 tags: [ 'Johnson & Wales University', 'LEED in RI' ]

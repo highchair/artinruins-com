@@ -30,40 +30,63 @@ images:
   - url: apex-rendering.jpg
     caption: 'Original rendering of proposed Apex building by Andrew Geller, provided by Jake Gorst. Notice that the orientation is different, with a front entrance along the water front and additional parking at the back.'
     alt: 'A low, single story department store with a mid-sixties style. Projecting entrance pavollions are flanked by four-sided columns that are fat at the bottom and taper up in the form of an elongated pyramid. The roof is topped with a six-stepped ziggurat pyramid capped with neon letters spelling the name of the store, Apex.'
+    sizes: '720, 547'
   #- url: apex-pj-1969-01.jpg
   #  caption: 'From the Providence Journal, captioned: “In 1969, The Apex store’s distinctive pyramidal roof starts to take shape in downtown Pawtucket around 1969 as part of the Slater Renewal Project.” The steel supports for the roof decoration are part of the structure of the building, even though the ziggurat is open to the elements and has a flat rubber roof underneath it.'
   #- url: apex-pj-1970-01.jpg
   #  caption: 'Providence Journal, circa 1970'
   - url: apex-exterior-undated-newport-creamery.jpg
     caption: 'Undated photo of the exterior with Newport Creamery signage'
+    sizes: '1891, 924'
   - url: apex-jh-2003-11-01.jpg
+    sizes: '1440, 900'
   - url: apex-jh-2003-11-02.jpg
+    sizes: '1440, 900'
   - url: apex-jh-2003-11-03.jpg
+    sizes: '1200, 900'
   - url: apex-jh-2003-11-04.jpg
+    sizes: '1440, 900'
   - url: apex-jh-2003-11-05.jpg
+    sizes: '1200, 900'
   - url: apex-jh-2003-11-06.jpg
+    sizes: '1200, 900'
   - url: apex-jh-2003-11-07.jpg
+    sizes: '1440, 900'
   - url: apex-jh-2004-03-01.jpg
+    sizes: '1200, 900'
   - url: apex-interior-of-ziggurat.jpg
     caption: 'The interior of the Ziggurat, showing that it is a “hat” on top of the roof structure. The vertical pieces are solid while the tops are open to the elements. Photo provided by C.F.'
+    sizes: '510, 382'
   - url: apex-jh-2018-08-01.jpg
+    sizes: '1440, 900'
   - url: apex-jh-2018-08-02.jpg
+    sizes: '1440, 900'
   - url: apex-jh-2018-08-03.jpg
+    sizes: '1200, 900'
   - url: apex-jh-2018-08-04.jpg
+    sizes: '1440, 900'
   - url: apex-jh-2018-08-05.jpg
+    sizes: '1440, 900'
   - url: apex-jh-2018-08-06.jpg
+    sizes: '1600, 900'
   - url: apex-jh-2018-08-07.jpg
     caption: 'Notice how the bottom bands of the ziggurat were recently painted white, while the upper bands were not yet.'
+    sizes: '1440, 900'
   - url: apex-jh-2018-11-01.jpg
     caption: 'The entire ziggurat is now repainted. This was around the time that the City was considering eminent domain to acquire the property, and the owner apparently did some quick touch-ups to make the building look less derelict. The iconic light poles have also been removed.'
+    sizes: '1440, 900'
   - url: aerial-view-1951.jpg
     caption: 'Aerial view from 1951, showing the Apex area outlined in yellow before the properties were razed and interstate 95 was constructed.'
+    sizes: '1440, 900'
   - url: aerial-view-1972.jpg
     caption: 'Aerial view from 1972 showing the 3-year old Apex on the largest plot of land. An Apex tire store is located in the upper right plot while the lower right plot is overflow parking, intended for employees.'
+    sizes: '1440, 900'
   - url: aerial-view-2008.jpg
     caption: 'Aerial view from 2008. All aerials courtesy the Providence Historic Aerial Viewer.'
+    sizes: '1440, 900'
   - url: aerial-google-3d-2020.jpg
     caption: 'Aerial view of the Blackstone riverfront from Slater Mill on the left to the river basin on the left, after the falls under the Main Street bridge and interstate 95 and Division Street bridges. Apex is center left.'
+    sizes: '1600, 900'
 
 mostrecentimage: 2018-11-01
 
@@ -134,6 +157,79 @@ We hold out hope that the $400 million investment in a sports complex, housing, 
 
 ### In the News
 
+#### Deal: At long last, city buying Apex
+
+_by Ethan Shorey_  
+**Valley Breeze** | December 15, 2021 (abridged)
+
+All went according to plan Tuesday as officials signed off on the deal for the Apex site. 
+
+“I want to thank everyone who has worked to get us to where we are with the Apex settlement yesterday evening, which was approved by the Pawtucket City Council in a unanimous vote following extensive and productive mediation discussions over the past few months,” said Mayor Donald Grebien. I want to thank the council and Redevelopment Agency (<span class="abbr">PRA</span>) for their work to prioritize the redevelopment of our riverfront. With last night’s decision and the settlement we have reached, we are taking the next important step in continuing the redevelopment we have made so far in Pawtucket and I look forward to the opportunities this will bring in the future.” 
+
+<details markdown="1" class="rhythm">
+  <summary>Read the full article</summary>
+
+All five Apex properties were included in the settlement and the total settlement amount for the acquisition by the city is $17,693,500, with a short-term <span class="abbr">BAN</span> with JP Morgan through the Pawtucket Redevelopment Agency and long-term financing through Super <span class="abbr">TIF</span> tool, grants, or sale. 
+
+There are lease-back provisions in the settlement which allow the tire service center and businesses in the main building to phase out.
+
+Bill Fischer, spokesman for Apex, issued the a statement after Tuesday’s votes by the PRA and City Council.
+
+“We appreciate tonight’s vote by the City Council and the <span class="abbr">PRA</span> to bring this transaction to a successful conclusion for all parties. It has been a very long journey to get to this point, but the Apex Development team continued to negotiate and work with the city and the <span class="abbr">PRA</span> in good faith as we knew this was a priority for the city,” he said. […]
+
+[…] Pawtucket officials were targeting a purchase price of $16 million, while Apex owners were seeking somewhere around $18 million.
+
+The City Council last year authorized spending up to $20 million for the acquisition of the property and associated demolition and other costs to make way for a city park and private mixed-use development, and hasn’t authorized any borrowing related to the property since then.
+
+An agenda detailing the joint meeting Tuesday stated that cases between the parties were up for settlement related to the purchase of five Apex properties at 100 Main St., 101 Main St., 46 Main St., 10 School St., and 33 Main St. […]
+
+The acquisition of Apex has long been a point of contention in Pawtucket, and the difficulty of acquiring it proved to be one of the key obstacles in getting a deal done to build a new stadium for the Pawtucket Red Sox at the site.
+
+The long-running standoff between the city and Gates over the acquisition and redevelopment of his property came to a head when the Apex Companies filed suit over numerous accusations, which led to the matter going into mediation talks meant to settle the city’s acquisition.
+
+There are a number of options going forward for the Apex property, located off I-95 between City Hall and the Tidewater Landing soccer stadium project. City officials have long planned to issue a request for proposals similar to the one for McCoy Stadium and the riverfront that landed them the stadium project. A frequently stated goal is that the Apex property will tie in with public amenities along the riverfront, including a planned pedestrian bridge crossing to the stadium site.
+
+—
+
+Shorey, Ethan. “Deal: At long last, city buying Apex.” Valley Breeze, 15 December 2021. Accessed 30 December 2022 from https://www.valleybreeze.com/news/deal-at-long-last-city-buying-apex/article_93cccdbe-5cd2-11ec-8e5f-73b3d3a5424f.html
+
+</details>
+
+***
+
+#### My Turn: William Morgan: Apex is the soul of Pawtucket
+{:#apex-soul}
+
+_by William Morgan_
+**Providence Journal** | August 1, 2018
+
+The Apex department store that once anchored hopes of urban revival in the birthplace of the American industrial revolution is apparently just an expendable piece of our heritage. Yet this Rhode Island institution was a spectacular, even magical place when it opened nearly half a century ago — a potent reflection of the optimism of the post-war Eisenhower years.
+
+<details markdown="1" class="rhythm">
+  <summary>Read the full article</summary>
+
+Pawtucket’s history has taken so many hits, including disastrous highway planning and misguided urban renewal. Now, the city is unwisely pinning its hopes on a sports venture that I find of dubious contribution to the commonweal. In all of the proposals, legislation, and talk about a new ballpark for downtown Pawtucket, has anyone protested the destruction of the significant landmark that stands in the way of a new Triple-A stadium?
+
+Let us consider Apex, that piece of a once proud place’s patrimony. How ironic that as recently as 2004 the architectural guidebook “Buildings of Rhode Island” singled out Apex for its “genuine effort to renew the city through thoughtful development rather than merely to exploit opportunity in the crassest way possible.”
+
+It may be easy to joke about the Apex pyramid, especially given its present state of neglect. Actually a ziggurat — a form as ancient as the Egyptian pharaohs’ tombs — it was designed by an internationally famous designer, Raymond Loewy. Given the city’s pivotal role in the development of manufacturing, it seems appropriate that one of the 20th century’s greatest industrial and graphic artists was commissioned to create a snazzy symbol for Pawtucket.
+
+The Paris-born Loewy (1893-1986) was a true Renaissance man. His career in America was devoted to the creation of all kinds of products, recognizable everyday objects that defined modernity. Loewy was called the “Father of Streamlining” for his sleek locomotives for the Pennsylvania Railroad. He also designed the Greyhound bus and several Studebaker automobiles, including the iconic Avanti.
+
+Loewy’s face appeared on the cover of Time Magazine in 1949, above the headline “He streamlines the sales curve.” Loewy’s visual imprint was everywhere. The Lucky Strike red circle cigarette pack and the Coca Cola fountain dispenser were his packaging ideas. He shaped corporate identities with logos for TWA, Exxon and the Post Office. The John F. Kennedy memorial postage stamp was Loewy’s work, as was the look of Air Force One.
+
+Loewy did not build very many freestanding buildings, so Apex is even more important historically. It may be the only ziggurat-shaped department store anywhere, and is the Pawtucket skyline’s most familiar feature, a dramatic fulcrum in the hairy S curve on I-95. Imagine if Apex were restored, given new life — as a theatre, a research center or even a department store — and venerated as an example of a time when Pawtucket had a grand vision.
+
+American downtowns need culture, commerce and residents, not a razing of their historic hearts to construct limited use, seasonal ball fields (the anti-urban effects of stadiums in Baltimore, Pittsburgh or Cincinnati should be warning enough). Some successful mill conversions have been undertaken, but the key to Pawtucket’s salvation is the further development of its of notable and extensive collection of architectural treasures, along with imaginative residential infill.
+
+Selling a bit of Pawtucket’s soul for a baseball stadium is strictly minor league.
+
+_William Morgan, an occasional contributor, is a Providence-based architecture writer and the author of “Louisville: Architecture and the Urban Environment.”_
+
+</details>
+
+***
+
 #### The Apex Of Potential
 
 There’s more than meets the eye to Pawtucket’s familiar roadside ziggurat – and it’s well worth preserving
@@ -142,9 +238,12 @@ There’s more than meets the eye to Pawtucket’s familiar roadside ziggurat �
 _By Tim Lehnert_
 **Providence Phoenix** | December 17, 2004
 
-DEPENDING ON WHOM you ask, the Apex building next to Interstate 95 in downtown Pawtucket is a sickly eyesore, or a true landmark and an outstanding piece of roadside architecture. The structure is a standard low-slung department store box, upon which six white blocks have been stacked, each one smaller than the one below. The result is a pyramid with an upright trapezoid placed on top, displaying the name “Apex” in red. Constructed in 1969, the Apex building is an example of what Providence designer J Hogue terms “divisive architecture. Some people hate it vehemently,” he says, “while others love it.”
+DEPENDING ON WHOM you ask, the Apex building next to Interstate 95 in downtown Pawtucket is a sickly eyesore, or a true landmark and an outstanding piece of roadside architecture. The structure is a standard low-slung department store box, upon which six white blocks have been stacked, each one smaller than the one below. The result is a pyramid with an upright trapezoid placed on top, displaying the name “Apex” in red. Constructed in 1969, the Apex building is an example of what Providence designer J. Hogue terms “divisive architecture. Some people hate it vehemently,” he says, “while others love it.”
 
 Regardless, the future of the well-known ziggurat is in doubt. Currently, the Apex Department Store, a rump of its former retail self since the small chain downsized three years ago, occupies one half of the space, while the state Division of Motor Vehicles rents the other half. The privately owned [Teknor Apex Company](//theapexcompanies.com){:target="_blank"} has not divulged its plans for the store, or the 10-acre slice of Pawtucket riverfront property upon which it sits.
+
+<details markdown="1" class="rhythm">
+  <summary>Read the full article</summary>
 
 The pyramid-like building’s isolation from the surrounding city emphasizes its novelty, giving it a sense of being marooned. Interstate 95 is on one side, the Blackstone River on the other, and downtown Pawtucket lies across the river. There are several possible futures for Apex: demolition, reconfiguration, or continued use in its current form as the home of a distinctive Rhode Island retailer. Regardless, Apex’s decision will have important implications for the redevelopment of downtown Pawtucket, particularly along its waterfront – and perhaps also for the preservation of local contemporary architecture.
 
@@ -159,9 +258,6 @@ Nowadays, the future of the Apex site in Pawtucket is of interest to private fir
 In terms of Pawtucket redevelopment, Kierstead suggests, “A museum of industrial design across the river from what is considered the birthplace of the American Industrial Revolution [Slater Mill] makes perfect sense.” The site’s vast unbroken interior space, he says, and especially its links to the history of American design in Geller and Loewy make it a perfect fit for a museum. Hogue, who notes the site’s proximity to design communities in Providence, Boston, and New York, echoes this view. Yet even though the case for Apex as an industrial design museum is compelling, supporters admit that such talk is currently nothing more than a pipe dream. Moreover, the stalled progress of the [Heritage Harbor Museum]({% link _property/south-street-power.md %}) near downtown Providence could give pause to anyone thinking of developing such an institution.
 
 The future of the Apex building lies in the hands of Andrew Gates, president of Apex at Home, who did not return calls seeking comment. (Similarly, the DMV did not respond to a request for details about its plans.) Although it might seem unlikely that Apex will continue as a retail operation for much longer, it has persisted since being downsized in 2001. The status quo, therefore, appears to be an option, at least for the short to medium term, with the DMV staying put and Apex maintaining its currently feeble brick and mortar presence, in addition to a Web site. For the DMV, the location works well – it is close to the highway, has ample parking, and the ability to accommodate the agency on one floor.
-
-<details markdown="1">
-  <summary>Read the full article</summary>
 
 ALTHOUGH APEX and the DMV are under the same roof at the Pawtucket building, one can’t pass from one to the other without going outside and reentering. The DMV side of the structure retains a number of Apex fixtures, shelves, and signs, suggesting that this arrangement – launched when the state leased the space after a flood at the previous DMV location in January 2004 – may be short term.
 {:.o__drop-cap}
@@ -207,33 +303,4 @@ Perhaps it’s worth considering the thoughts of Apex designer Andrew Geller, wh
 
 ***
 
-#### My Turn: William Morgan: Apex is the soul of Pawtucket
-{:#apex-soul}
 
-_by William Morgan_
-**Providence Journal** | August 1, 2018
-
-The Apex department store that once anchored hopes of urban revival in the birthplace of the American industrial revolution is apparently just an expendable piece of our heritage. Yet this Rhode Island institution was a spectacular, even magical place when it opened nearly half a century ago — a potent reflection of the optimism of the post-war Eisenhower years.
-
-<details markdown="1">
-  <summary>Read the full article</summary>
-
-Pawtucket’s history has taken so many hits, including disastrous highway planning and misguided urban renewal. Now, the city is unwisely pinning its hopes on a sports venture that I find of dubious contribution to the commonweal. In all of the proposals, legislation, and talk about a new ballpark for downtown Pawtucket, has anyone protested the destruction of the significant landmark that stands in the way of a new Triple-A stadium?
-
-Let us consider Apex, that piece of a once proud place’s patrimony. How ironic that as recently as 2004 the architectural guidebook “Buildings of Rhode Island” singled out Apex for its “genuine effort to renew the city through thoughtful development rather than merely to exploit opportunity in the crassest way possible.”
-
-It may be easy to joke about the Apex pyramid, especially given its present state of neglect. Actually a ziggurat — a form as ancient as the Egyptian pharaohs’ tombs — it was designed by an internationally famous designer, Raymond Loewy. Given the city’s pivotal role in the development of manufacturing, it seems appropriate that one of the 20th century’s greatest industrial and graphic artists was commissioned to create a snazzy symbol for Pawtucket.
-
-The Paris-born Loewy (1893-1986) was a true Renaissance man. His career in America was devoted to the creation of all kinds of products, recognizable everyday objects that defined modernity. Loewy was called the “Father of Streamlining” for his sleek locomotives for the Pennsylvania Railroad. He also designed the Greyhound bus and several Studebaker automobiles, including the iconic Avanti.
-
-Loewy’s face appeared on the cover of Time Magazine in 1949, above the headline “He streamlines the sales curve.” Loewy’s visual imprint was everywhere. The Lucky Strike red circle cigarette pack and the Coca Cola fountain dispenser were his packaging ideas. He shaped corporate identities with logos for TWA, Exxon and the Post Office. The John F. Kennedy memorial postage stamp was Loewy’s work, as was the look of Air Force One.
-
-Loewy did not build very many freestanding buildings, so Apex is even more important historically. It may be the only ziggurat-shaped department store anywhere, and is the Pawtucket skyline’s most familiar feature, a dramatic fulcrum in the hairy S curve on I-95. Imagine if Apex were restored, given new life — as a theatre, a research center or even a department store — and venerated as an example of a time when Pawtucket had a grand vision.
-
-American downtowns need culture, commerce and residents, not a razing of their historic hearts to construct limited use, seasonal ball fields (the anti-urban effects of stadiums in Baltimore, Pittsburgh or Cincinnati should be warning enough). Some successful mill conversions have been undertaken, but the key to Pawtucket’s salvation is the further development of its of notable and extensive collection of architectural treasures, along with imaginative residential infill.
-
-Selling a bit of Pawtucket’s soul for a baseball stadium is strictly minor league.
-
-_William Morgan, an occasional contributor, is a Providence-based architecture writer and the author of “Louisville: Architecture and the Urban Environment.”_
-
-</details>
