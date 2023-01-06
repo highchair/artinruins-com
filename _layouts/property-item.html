@@ -24,8 +24,8 @@ layout: default
               {%- assign next = property -%}
             {%- endif -%}
           {%- endfor -%}
-          {% if prev %}<a id="gtm-prev-trigger" class="prev-next__prev" href="/property/{{ prev.slug }}/" title="{{ prev.title }}"><span aria-hidden="true">&lt;</span><span class="prev-next__text">Previous</span><span class="u__sr-only"> property</span></a>{% endif %}
-          {% if next %}<a id="gtm-next-trigger" class="prev-next__next" href="/property/{{ next.slug }}/" title="{{ next.title }}"><span class="prev-next__text">Next</span><span class="u__sr-only"> property</span><span aria-hidden="true">&gt;</span></a>{% endif %}
+          {% if prev %}<a id="gtm-prev-trigger" class="prev-next__prev" href="{{ prev.url }}" title="{{ prev.title }}"><span aria-hidden="true">&lt;</span><span class="prev-next__text">Previous</span><span class="u__sr-only"> property</span></a>{% endif %}
+          {% if next %}<a id="gtm-next-trigger" class="prev-next__next" href="{{ next.url }}" title="{{ next.title }}"><span class="prev-next__text">Next</span><span class="u__sr-only"> property</span><span aria-hidden="true">&gt;</span></a>{% endif %}
           <span id="js-random"></span>
         </nav>
 
@@ -192,9 +192,9 @@ layout: default
                 <li class="item__cats__item item__cats__citation">
                   <details class="rhythm">
                     <summary>Citations & Reference URLs</summary>
-                    <p>Create a permanent reference to today’s version of this page with <a href="//web.archive.org/save/https://artinruins.com/property{{ page.slug }}" title="Archive.org is a foundation that archives the internet" target="_blank" rel="nofollow noreferrer">Archive.org</a>
+                    <p>Create a permanent reference to today’s version of this page with <a href="//web.archive.org/save/https://artinruins.com{{ page.url }}" title="Archive.org is a foundation that archives the internet" target="_blank" rel="nofollow noreferrer">Archive.org</a>
                     </p>
-                    <p><label for="cite"><abbr title="Modern Language Association">MLA</abbr>- and <abbr title="Chicago Manual of Style">CMS</abbr>-style Citation:</label> <input id="cite" type="text" readonly class="form__input form__input--text form__input--readonly" value="ArtInRuins & public sources. “Property: {{ page.title }},” ArtInRuins.com, updated {{ page.date-modified | date: "%B %e, %Y" }}, https://artinruins.com/property/{{ page.slug }}/. Accessed {{ 'now' | date: '%B %e, %Y' }}." />
+                    <p><label for="cite"><abbr title="Modern Language Association">MLA</abbr>- and <abbr title="Chicago Manual of Style">CMS</abbr>-style Citation:</label> <input id="cite" type="text" readonly class="form__input form__input--text form__input--readonly" value="ArtInRuins & public sources. “Property: {{ page.title }},” ArtInRuins.com, updated {{ page.date-modified | date: "%B %e, %Y" }}, https://artinruins.com{{ page.url }}. Accessed {{ 'now' | date: '%B %e, %Y' }}." />
                       <span class="form__input--help">Select all to cut and paste citation</span>
                     </p>
                   </details>
