@@ -1,5 +1,10 @@
 {% comment %} If cachebusting is needed: ?bust={{ 'now' | date: '%Y%m%d%H%M%S' }} {% endcomment %} 
     <script defer src="/assets/js/global.js"></script>
 {%- if page.layout == 'property-item' -%}
+    <script defer src="/assets/js/all-properties.js"></script>
     <script defer src="/assets/js/property.js"></script>
+{%- endif -%}
+{%- if page.layout == 'then-now-item' -%}
+    <script defer src="/assets/js/all-properties.js"></script>
+    <script defer src="/assets/js/thennow.js"></script>
 {%- endif -%}
