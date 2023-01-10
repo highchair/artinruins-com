@@ -11,7 +11,7 @@
   - If this page has a custom Meta title, use that instead (trumps all)
 
 {%- endcomment -%}
-{%- if page.path contains '_property' -%}
+{%- if page.path contains '_property' or page.path contains '_then-now' -%}
   {%- assign meta_title = page.title | append: meta_title_trailer -%}
 {%- else if page.title -%}
   {%- assign meta_title = page.title -%}

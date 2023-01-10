@@ -1,4 +1,6 @@
-{%- assign items = site.property | where: page.type, page.category | sort_natural: 'title' -%}
+{%- assign props = site.property | where: page.type, page.category -%}
+{%- assign thennows = site.then-now | where: page.type, page.category -%}
+{%- assign items = props | concat: thennows | sort_natural: 'title' -%}
 
             <header class="taxonomy__header">
               <div class="u__vertical__pt u__gutter__p">
