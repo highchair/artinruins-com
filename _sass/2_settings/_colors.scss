@@ -46,3 +46,10 @@ $color__borders: palette(gray-200);
 
 // Specific things
 $anecdote-bg: rgba(palette('brand-teal'), 0.05);
+
+// Output all color variables as CSS Variables
+:root {
+  @each $name, $color in $colors {
+    --color__#{$name}: #{$color};
+  }
+}

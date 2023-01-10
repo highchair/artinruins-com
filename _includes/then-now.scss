@@ -1,0 +1,126 @@
+//<div class="thennow" style="aspect-ratio: 1200, 900">
+//  <div class="thennow__resize" id="js--resize" style="left: 50%"><span></span></div>
+//  <div class="thennow__clip" id="js--clip" style="width: 50%">
+//    <div class="thennow__now" style="background-image: url()">
+//      <div class="thennow__label">2005</div>
+//    </div>
+//  </div>
+//  <div class="thennow__then" style="background-image: url()">
+//    <div class="thennow__label">1940</div>
+//  </div>
+//</div>
+
+$interface-color: #fff;
+$kerning: .03125em;
+$transition: all 250ms ease;
+
+.thennow {
+  // Has an aspect-ratio
+  max-height: 90vh;
+  overflow: hidden;
+  position: relative;
+  
+  &__clip,
+  &__now,
+  &__then {
+    height: 100%;
+    width: 100%;
+  }
+
+  &__now,
+  &__then {
+    background: top left no-repeat transparent;
+    background-size: auto 100%;
+  }
+
+  &__clip,
+  &__then {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  &__clip {
+    z-index: 5;
+  }
+
+  &__then {
+    z-index: 1;
+  }
+
+  &__resize {
+    color: $interface-color;
+    cursor: col-resize;
+    height: 100%;
+    width: 2rem;
+    position: absolute;
+    top: 0;
+    transform: translate(-50%);
+    z-index: 10;
+
+    &::before {
+      border: 2px solid currentColor;
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 50%;
+      bottom: 0;
+      transform: translateX(-50%);
+    }
+
+    span {
+      display: block;
+      overflow: visible;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+
+      &::before,
+      &::after {
+        border-style: solid;
+        content: '';
+        position: absolute;
+        transition: $transition;
+        z-index: 11;
+      }
+
+      &::before {
+        border-width: 0.5em 0.5em 0.5em 0;
+        border-color: transparent currentColor transparent transparent;
+        left: -1em;
+      }
+
+      &::after {
+        border-width: 0.5em 0 0.5em 0.5em;
+        border-color: transparent transparent transparent currentColor;
+        right: -1em;
+      }
+    }
+
+    &:hover span::before,
+    &:focus span::before {
+      transform: translateX(-2px);
+    }
+
+    &:hover span::after,
+    &:focus span::after {
+      transform: translateX(2px);
+    }
+  }
+
+  &__label {
+    background-color: var(--color__gray-900, #292e2e);
+    color: $interface-color;
+    font: 700 1em base-9-sans, 'System Sans', 'Segoe UI', sans-serif;
+    letter-spacing: $kerning;
+    line-height: 1;
+    padding: 0.5em 0.5em 0.375em;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    transform: translateX(-100%);
+    white-space: nowrap;
+  }
+}
