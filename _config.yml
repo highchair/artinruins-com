@@ -38,11 +38,15 @@ permalink: /:categories/:title/
 relative_permalinks: false
 image_path: "assets/img/"
 propimg_path: "/property-img/"
+thennow_path: "/then-now-img/"
 
 collections:
   property:
     output: true
     permalink: /property/:name/
+  then-now:
+    output: true
+    permalink: /then-and-now/:name/
 
 defaults:
   - scope:
