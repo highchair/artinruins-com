@@ -32,31 +32,50 @@ thumbnail: dreyfus-sl-2007-02.jpg
 
 images:
   - url: dreyfus-ppl-date-unknown.jpg
-    caption: 'Photo from the Rhode Island Photograph Collection, Providence Public Library, date unknown'
     alt: 'A lovely four story, yellow brick former hotel with arched windows on the fourth floor, a deep and detailed series of brackets above a yellow, cream, and jade green terra cotta frieze. The ground floor space contains a restaurant, bar, and gallery and features ornate brick work with a running frieze made of a vertical fluted course below a ridge of a curving, waving pattern seperating the first and second stories.'
+    caption: 'Photo from the Rhode Island Photograph Collection, Providence Public Library, date unknown'
+    sizes: '1148, 900'
   - url: dreyfus-jh-2005-04-01.jpg
+    sizes: '1200, 900'
   - url: dreyfus-jh-2005-04-02.jpg
+    sizes: '1200, 900'
   - url: dreyfus-jh-2005-04-03.jpg
+    sizes: '1200, 900'
   - url: dreyfus-jh-2005-04-04.jpg
+    sizes: '1200, 900'
   - url: dreyfus-jh-2005-04-05.jpg
+    sizes: '1200, 900'
   - url: dreyfus-jh-2005-04-06.jpg
+    sizes: '1200, 900'
   - url: dreyfus-jh-2005-04-07.jpg
+    sizes: '1200, 900'
   - url: dreyfus-jh-2005-04-08.jpg
+    sizes: '1200, 900'
   - url: dreyfus-jh-2005-04-09.jpg
+    sizes: '1200, 900'
   - url: dreyfus-jh-2005-04-10.jpg
+    sizes: '1200, 900'
   - url: dreyfus-jh-2005-04-11.jpg
+    sizes: '1200, 900'
   - url: dreyfus-sl-2006-01.jpg
     caption: 'During construction – photo by Scott Lapham'
+    sizes: '1440, 900'
   - url: dreyfus-sl-2006-02.jpg
     caption: 'During construction – photo by Scott Lapham'
+    sizes: '1440, 900'
   - url: dreyfus-sl-2006-03.jpg
     caption: 'During construction – photo by Scott Lapham'
+    sizes: '1440, 900'
   - url: dreyfus-sl-2007-01.jpg
     caption: 'After construction, interior of old bar – photo by Scott Lapham'
+    sizes: '768, 924'
   - url: dreyfus-sl-2007-02.jpg
     caption: 'After construction, exterior – photo by Scott Lapham'
+    sizes: '1200, 900'
   - url: dreyfus-jh-2007-06-01.jpg
+    sizes: '1200, 900'
   - url: dreyfus-jh-2007-06-02.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2007-06-01
 
@@ -66,6 +85,9 @@ imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object
 # - source: ''
 #    url: ''
 ---
+
+There is a Then and Now photo pair for this property! [View the Then & Now photos]({% link _then-now/dreyfus-hotel.md %})
+{:.o__tldr}
 
 ### Redevelopment
 
