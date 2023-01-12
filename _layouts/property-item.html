@@ -13,17 +13,20 @@ layout: default
               {%- break -%}
             {%- endif -%}
           {%- endfor -%}
-          {%- assign prev_index = item_index | minus: 1 -%}
-          {%- assign next_index = item_index | plus: 1 -%}
-          {%- comment -%} Loop again, this time, find the items with the prev and next indices {%- endcomment -%}
-          {%- for property in properties -%}
-            {%- if forloop.index == prev_index -%}
-              {%- assign prev = property -%}
-            {%- endif -%}
-            {%- if forloop.index == next_index -%}
-              {%- assign next = property -%}
-            {%- endif -%}
-          {%- endfor -%}
+          {%- if item_index -%}
+            {%- assign prev_index = item_index | minus: 1 -%}
+            {%- assign next_index = item_index | plus: 1 -%}
+            {%- comment -%} Loop again, this time, find the items with the prev and next indices {%- endcomment -%}
+            {%- comment -%} Can this be done with assign prev = property[prev_index] ?? {%- endcomment -%}
+            {%- for property in properties -%}
+              {%- if forloop.index == prev_index -%}
+                {%- assign prev = property -%}
+              {%- endif -%}
+              {%- if forloop.index == next_index -%}
+                {%- assign next = property -%}
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
           {% if prev %}<a id="gtm-prev-trigger" class="prev-next__prev" href="{{ prev.url }}" title="{{ prev.title }}"><span aria-hidden="true">&lt;</span><span class="prev-next__text">Previous</span><span class="u__sr-only"> property</span></a>{% endif %}
           {% if next %}<a id="gtm-next-trigger" class="prev-next__next" href="{{ next.url }}" title="{{ next.title }}"><span class="prev-next__text">Next</span><span class="u__sr-only"> property</span><span aria-hidden="true">&gt;</span></a>{% endif %}
           <span id="js-random"></span>

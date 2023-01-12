@@ -16,7 +16,11 @@
         {%- if categories contains '#DemolitionAlert' -%}
         <div class="snipe snipe--demolition">Demolition Alert</div>
         {%- endif -%}
-        {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
+        {%- if item.layout == 'then-now-item' -%}
+            {%- assign image_path = site.thennow_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
+        {%- else -%}
+            {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
+        {%- endif -%}
         {%- if item_update == 'Yes' -%}
           <img src="{{ site.prod_url }}/{{ image_path }}" class="rwd-img" alt="" loading="lazy" decoding="async" />
         {%- else -%}
@@ -35,9 +39,9 @@
         <div class="taxonomy__clamp">
           <div class="taxonomy__title-wrap">
           {% if home == "Yes" %}
-            <h3 class="h4 taxonomy__card-title"><a href="/property/{{ item.slug }}/" class="taxonomy__link">{% if item.update %}{% else %}<span class="taxonomy__card-title--new">NEW</span> {% endif %}{{ item.title }}</a></h3>
+            <h3 class="h4 taxonomy__card-title"><a href="{{ item.url }}" class="taxonomy__link">{% if item.update %}{% else %}<span class="taxonomy__card-title--new">NEW</span> {% endif %}{{ item.title }}</a></h3>
           {% else %}
-            <h2 class="h4 taxonomy__card-title"><a href="/property/{{ item.slug }}/" class="taxonomy__link">{{ item.title }}</a></h2>
+            <h2 class="h4 taxonomy__card-title"><a href="{{ item.url }}" class="taxonomy__link">{{ item.title }}</a></h2>
           {% endif %}
           </div>
           <p class="taxonomy__excerpt">
@@ -87,6 +91,12 @@
         {%- endif -%}
         {%- if item.demolition.size > 0 -%}
           <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Demolition:</b> <a href="/demolition/{{ item.demolition }}/" title="More properties demolished this year">{{ item.demolition }}</a></span>
+        {%- endif -%}
+        {%- if item.then_photo.size > 0 -%}
+          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Then:</b> {{ item.then_photo }}</span>
+        {%- endif -%}
+        {%- if item.now_photo.size > 0 -%}
+          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Now:</b> {{ item.now_photo }}</span>
         {%- endif -%}
         {%- if item.closed.size > 0 -%}
           <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Closed:</b> {{ item.closed }}</span>

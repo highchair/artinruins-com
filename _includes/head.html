@@ -32,9 +32,13 @@
   {%- assign meta_description = page.description -%}
 {%- endif -%}
 {%- if page.images -%}
-  {%- assign meta_image = page.images.first.url | prepend: '/' | prepend: page.slug | prepend: site.propimg_path -%}
+  {% assign folder = site.propimg_path %}
+  {% if item.layout == 'then-now-item' %}
+    {% assign folder = site.thennow_path %}
+  {% endif %}
+  {%- assign meta_image = page.images.first.url | prepend: '/' | prepend: page.slug | prepend: folder -%}
   {%- if page.thumbnail -%}
-    {%- assign meta_image = page.thumbnail | prepend: '/' | prepend: page.slug | prepend: site.propimg_path -%}
+    {%- assign meta_image = page.thumbnail | prepend: '/' | prepend: page.slug | prepend: folder -%}
   {%- endif -%}
 {%- endif -%}
   <head>
