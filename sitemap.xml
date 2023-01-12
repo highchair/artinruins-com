@@ -6,9 +6,12 @@ sitemap:
 
 # Sitemap generator from http://www.independent-software.com/generating-a-sitemap-xml-with-jekyll-without-a-plugin.html
 ---
+{%- assign properties = site.property -%}
+{%- assign thennows = site.then-now -%}
+{%- assign items = properties | concat: thennows | sort: 'title' -%}
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for prop in site.property %}
+{% for prop in items %}
   {%- if prop.title and prop.slug and prop.date-modified -%}
   <url>
     <loc>{{ site.prod_url }}{{ prop.url }}</loc>
@@ -46,7 +49,7 @@ sitemap:
   </url>
   {%- endunless -%}
 {% endfor %}
-{%- assign exclude = "/assets/js/property.js,/assets/css/main.css,/assets/css/main.css.map" | split: ',' -%}
+{%- assign exclude = "/assets/js/all-properties.js,/assets/js/global.js,/assets/css/main.css,/assets/css/main.css.map" | split: ',' -%}
 {% for page in site.pages %}
   {%- unless page.sitemap.exclude == "yes" or exclude contains page.url -%}
   <url>

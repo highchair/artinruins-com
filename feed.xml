@@ -1,6 +1,8 @@
 ---
 ---
-{%- assign properties = site.property | sort: "date-modified" | reverse -%}
+{%- assign properties = site.property -%}
+{%- assign thennows = site.then-now -%}
+{%- assign items = properties | concat: thennows | sort: 'date-modified' | reverse -%}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -12,9 +14,9 @@
     <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
     <sy:updatePeriod>{{ site.feed_update_period | default: "weekly" | xml_escape }}</sy:updatePeriod>
     <sy:updateFrequency>{{ site.feed_update_frequency | default: 1 | xml_escape }}</sy:updateFrequency>
-    <link>{{ site.url }}</link>
+    <link>{{ site.prod_url }}</link>
     <atom:link href="{{ site.prod_url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
-    {% for prop in properties limit: 12 %}
+    {% for prop in items limit: 12 %}
       {%- if forloop.first -%}
     <lastBuildDate>{{ prop.date-modified | date_to_rfc822 }}</lastBuildDate>
       {%- endif -%}
