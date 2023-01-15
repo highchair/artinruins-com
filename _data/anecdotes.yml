@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: thurston-manufacturing
+  person: 'William Moore'
+  date: '2023-01-09'
+  content: 'My grandfather, Joeseph M Redinger bought Thurston Manufacturing in the 1930’s, and continued making metal saws and cutters there. Joeseph married my grandmother, Julianna, in 1900, moved to Providence and worked as a janitor for Nickleson File Co. It was noted that he had the natural ability to make improvements on the machinery, and ended up becoming the head experimental mechanical engineer for Mr. Nickleson. Throughout the years that followed, Joseph Redinger held hundreds of US Patents, ideas in machinery improvements and efficiency. He moved over to Thurston, working there full time as President, until his retirement in the early 1950’s. Three of his sons, Joseph Sr., Ira, and Charles took over responsibilities at the plant, and eventually Charles’ sons, Joseph Jr and Charles Jr followed in their path. Thurston Manufacturing was moved to Thurber Blvd., Smithfield, when the highway project took the building.'
+
 - property: narragansett-brewery-cranston
   person: 'James Forsberg'
   date: '2022-12-22'
