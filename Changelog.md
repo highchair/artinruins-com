@@ -3,6 +3,13 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2023-01-12
+
+Added
++ Created a new content type and layout Template for “Then and Nows” — before and after photos, usually separated by years and years. We have posted many on Instagram but there has not been a place for the on the site
++ The template overlays the images with a slider in the middle so visitors can see the old and the new photos and directly compare what has changed
++ All templates have been updated to include this new Collection where appropriate in the queries. Other templates have been updated to take into account any special metadata from ThenNows
+
 ## 2022-11-23
 
 Changed

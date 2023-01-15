@@ -461,10 +461,3 @@ Still In Use (46)
 Urban Decay (46)
 
 = 264
-
-Max Pollack building off Atwells is now "Strive Lofts"
-https://www.striveri.com/works/strive-lofts
-
-580 South Water Street new apartment development
-https://nerej.com/churchill-and-banks-completes-69-unit-apartment-complex-at-580-south-water-in-fox-point
-https://z-ds.com/project/south-water-development/

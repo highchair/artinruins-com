@@ -29,6 +29,8 @@ _From the National Register nomination form for the Downtown Providence Historic
 
 _From the RIHPHC survey of Providence Industrial Sites, July 1981_
 
+_From the RIHPHC’s Historic and Architectural Resources of the East Side, Providence, 1989_
+
 _From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
