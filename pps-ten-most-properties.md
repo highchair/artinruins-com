@@ -48,7 +48,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 
 + Axelrod Music Neon Sign, 251 Weybosset Street, Downtown (c. 1950s)
 + Broad Street Synagogue (aka Temple Beth El), 688 Broad Street, Elmwood (1910)
-+ Citizens Bank and Adjacent Parcels, 870 Westminster Street, West End (1921)
++ Citizens Bank and adjacent parcels, 870 Westminster Street, West End (1921)
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Commercial Building]({% link _property/m-n-cartier.md %}) (M.N. Cartier & Sons), 1107 Westminster Street, West End (c. 1890s)
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Crook Point Bascule Bridge]({% link _property/crook-point-bascule.md %}), spanning Seekonk River (c. 1908)
 + I-195 Redevelopment District Parcels 42 and P4, between Dyer Street and Providence River, Downtown
@@ -81,7 +81,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
   Norwood House (aka Benjamin Stevens House), 82 Waterman Street (1857)  
   86 Waterman Street (1857- 1875)
 + Broad Street Synagogue (aka Temple Beth El), 688 Broad Street, Elmwood (1910)
-+ Earnscliffe Woolen Mill/Paragon Worsted Co., 25 & 39 Manton Avenue, Federal Hill (1898 and later)
++ Earnscliffe Woolen Mill/Paragon Worsted Co. (Cathedral Art Metals), 25 & 39 Manton Avenue, Federal Hill (1898 and later)
 + Gustave F. Mensing House, 216 – 218 Adelaide Avenue, Elmwood (c. 1897)
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}) (aka Superman Building), 111 Westminster Street (1928)
 + Knight Memorial Library, 275 Elmwood Avenue, Elmwood (c.1923)

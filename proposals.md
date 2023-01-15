@@ -16,14 +16,9 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 {:.o__tldr}
 {% endcomment %}
 
-## Providence Comprehensive Plan — Public Input Sought
+## On The Boards
 
-**Update Nov 12, 2022**
-
-The Providence Department of Planning & Development has launched their once-a-decade update of the City’s [Comprehensive Plan](https://www.providenceri.gov/planning/comp-plan/){:target="_blank"}. The “Comp Plan” outlines goals and strategies in a range of topic areas to guide Providence’s growth and development over the next twenty years. We encourage you to participate in and learn about this process by visiting the informational website and taking [the community survey](https://www.surveymonkey.com/r/PVDCompPlan){:target="_blank"} (in English or Spanish). They have also set up an email address, [comp-plan@providenceri.gov](mailto:comp-plan@providenceri.gov), where you can send any questions, comments, or suggestions to their team.
-
-
-## I-195 Redevelopment District Commission — On the Boards
+### I-195 Redevelopment District Commission
 
 <figure class="u__img">
   <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/195-parcel-8-2022-11-22.jpg" alt="">
@@ -33,26 +28,7 @@ The Providence Department of Planning & Development has launched their once-a-de
 On November 9, the I-195 Redevelopment District Commission approved concept plans for three projects: mixed-income housing on [Parcel 9](//www.195district.com/about/district-land/){:target="_blank"}, BankRI’s headquarters and commercial-residential space on [Parcels 8/8a](//www.195district.com/about/district-land/){:target="_blank"}, and a state health lab on [Parcel 25](//www.195district.com/about/district-land/){:target="_blank"}. They will move forward with some conditions to a one-part Final Plan Review. These projects will bring much-needed residential units, STEM jobs, and the first corporate headquarters built in Providence in three decades. You can [review the proposals on the Commission website](//www.195district.com/documents/) under “November 9, 2022.”
 
 
-## 230 Waterman St — Demolition Approved
-
-<figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/280-waterman-ave-2022-11-22.jpg" alt="">
-  <figcaption>Streetview capture of the former Monahan Drabble Sherman Funeral Home</figcaption>
-</figure>
-
-**Update December 8, 2022**
-: [Added a page for the property in #DemolitionAlert and UsedToBeThere]({% link _property/230-waterman-st-pvd.md %}). 
-
-**Update Nov 22, 2022**
-: On November 15, the City Plan Commission unanimously approved the demolition of 230 Waterman Street, stating that there are no protections for this 1892 funeral home. [In response to PPS’ comments](//ppsri.org/wp-content/uploads/2022/11/2022-11-14-230-Waterman-CPC-letter.pdf){:target="_blank"}, the developer stated that “incorporation of the existing building would be impossible.” PPS was alone in opposing the demolition. The new building will host a ground-floor commercial unit and three floors with 12 residential units. We will continue to watch this developing project.
-
-**Update Nov 12, 2022**
-: Myles Standish Associates on behalf of Capstone Properties is proposing the demolition of an existing 1892 building at 230 Waterman Street in Wayland Square ([Google Streetview](https://www.google.com/maps/place/230+Waterman+St,+Providence,+RI+02906/@41.8286426,-71.388386,3a,75y,64.28h,88.18t/data=!3m6!1e1!3m4!1sz3lPv_NCnYbzbhfnO3KScw!2e0!7i16384!8i8192!4m5!3m4!1s0x89e4452c1f544363:0x26886ae3553ca810!8m2!3d41.8288451!4d-71.3879823){:target="_blank"})— the former Monahan Drabble Sherman Funeral Home and location of McBride’s Pub.
-
-: The [existing preliminary plans](https://www.providenceri.gov/wp-content/uploads/2021/11/230Waterman-CPCMasterPlanPresentation.pdf){:target="_blank"} have been posted for public review. Outright demolition of the property seems unneccesary, and a more imaginative design could incorporate it. The current design is a bland and basic-looking four story condo that looks more like a cheap hotel. At least [77 South Angell Street (Google Streetview)](https://www.google.com/maps/place/77+S+Angell+St,+Providence,+RI+02906/@41.8294811,-71.3850204,3a,75y,244.06h,93.02t/data=!3m6!1e1!3m4!1stf3Mic6W7AKZcf5P0WQsWQ!2e0!7i16384!8i8192!4m5!3m4!1s0x89e4452c7efaa567:0xe7a709966bd27b8a!8m2!3d41.8294102!4d-71.3856086){:target="_blank"}, just outside Wayland Square, is a more intersting condo building with real brick and stone exterior finishes.
-
-
-## SMART Hotel Proposal is back — On the Boards
+### SMART Hotel Proposal is back
 
 <figure class="u__img">
   <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/smart-hotel-render-2021-11-01.jpg" alt="">
@@ -76,7 +52,7 @@ On November 9, the I-195 Redevelopment District Commission approved concept plan
 **Note:** Listing in a historic district DOES NOT offer ANY protection if the Council votes to approve based on the merit of the new design and the overall benefits to the neighborhood and city. It often only means that the loss of historic structures is a factor that needs to be weighed against the benefits of a new building.
 
 
-## 311 Knight Street — On the Boards
+### 311 Knight Street
 
 <figure class="u__img">
   <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/311-knight-st-2021-07-01.jpg" alt="">
@@ -88,6 +64,27 @@ On November 9, the I-195 Redevelopment District Commission approved concept plan
 [A five-story, 41-unit apartment building will be coming to Providence’s West End](https://www.providencejournal.com/story/news/local/2022/10/13/providence-approves-west-end-apartments-westminster-knight-street/10476194002/){:target="_blank"} reads the headline from the Providence Journal. This building is another design from [ZDS Architects]({% link designer/zds-architecture-interiors.html %}).
 
 Construction is supposed to start in late 2022. The three lots of this location were the former [M.N. Cartier & Sons]({% link _property/m-n-cartier.md %}) and a car lot on the corner next door. [Older renderings are available](https://www.providenceri.gov/wp-content/uploads/2021/07/19-051MA-311-Knight.pdf){:target="_blank"} as presented to the City Plan Commission in July of 2021.
+
+
+## Demolition Approved
+
+### 230 Waterman St
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/280-waterman-ave-2022-11-22.jpg" alt="">
+  <figcaption>Streetview capture of the former Monahan Drabble Sherman Funeral Home</figcaption>
+</figure>
+
+**Update December 8, 2022**
+: [Added a page for the property in #DemolitionAlert and UsedToBeThere]({% link _property/230-waterman-st-pvd.md %}). 
+
+**Update Nov 22, 2022**
+: On November 15, the City Plan Commission unanimously approved the demolition of 230 Waterman Street, stating that there are no protections for this 1892 funeral home. [In response to PPS’ comments](//ppsri.org/wp-content/uploads/2022/11/2022-11-14-230-Waterman-CPC-letter.pdf){:target="_blank"}, the developer stated that “incorporation of the existing building would be impossible.” PPS was alone in opposing the demolition. The new building will host a ground-floor commercial unit and three floors with 12 residential units. We will continue to watch this developing project.
+
+**Update Nov 12, 2022**
+: Myles Standish Associates on behalf of Capstone Properties is proposing the demolition of an existing 1892 building at 230 Waterman Street in Wayland Square ([Google Streetview](https://www.google.com/maps/place/230+Waterman+St,+Providence,+RI+02906/@41.8286426,-71.388386,3a,75y,64.28h,88.18t/data=!3m6!1e1!3m4!1sz3lPv_NCnYbzbhfnO3KScw!2e0!7i16384!8i8192!4m5!3m4!1s0x89e4452c1f544363:0x26886ae3553ca810!8m2!3d41.8288451!4d-71.3879823){:target="_blank"})— the former Monahan Drabble Sherman Funeral Home and location of McBride’s Pub.
+
+: The [existing preliminary plans](https://www.providenceri.gov/wp-content/uploads/2021/11/230Waterman-CPCMasterPlanPresentation.pdf){:target="_blank"} have been posted for public review. Outright demolition of the property seems unneccesary, and a more imaginative design could incorporate it. The current design is a bland and basic-looking four story condo that looks more like a cheap hotel. At least [77 South Angell Street (Google Streetview)](https://www.google.com/maps/place/77+S+Angell+St,+Providence,+RI+02906/@41.8294811,-71.3850204,3a,75y,244.06h,93.02t/data=!3m6!1e1!3m4!1stf3Mic6W7AKZcf5P0WQsWQ!2e0!7i16384!8i8192!4m5!3m4!1s0x89e4452c7efaa567:0xe7a709966bd27b8a!8m2!3d41.8294102!4d-71.3856086){:target="_blank"}, just outside Wayland Square, is a more intersting condo building with real brick and stone exterior finishes.
 
 
 ***

@@ -2,7 +2,8 @@
 title: "Cranston Street Armory"
 slug: providence-armory
 aka: "Providence Armory, Rhode Island (RI) State Armory"
-date-modified: 2021-03-07 12:00
+date-modified: 2023-01-14 12:00
+update: 'Added recent information about the armory’s potential reuse'
 
 built: '1897–1907'
 demolition: 
@@ -144,12 +145,26 @@ The State of Rhode Island assumed ownership of the Providence Armory in 1996 as 
 In 1998 The National Trust for Historic Preservation added the Armory to its 11 Most Endangered Sites List. It was the second property in the state ever to be listed (the first was the Block Island lighthouse). The [Providence Preservation Society’s Ten Most Endangered Buildings](//guide.ppsri.org/property/dexter-training-ground-cranston-street-armory){:target="_blank"}
 listed the building in 1996 and it continued to stay on the list until 2000, then was listed again in 2003. In 2004, [Ballot Question #6](//ballotpedia.org/Rhode_Island_Question_6,_Cranston_Street_Armory_Bonds_(2004)){:target="_blank"} which would have provided a $12 million bond to restore and reuse the building as the State Archive was rejected. The property was then listed again in 2015, 2016, and 2017. 
 
-In the late 2000s the building hosted car shows, inaugural balls, track meets, and home shows, and housed the office of the state fire marshal along with storage space for other R.I. state agencies. The films Outside Providence (1999) and Underdog (2007) were filmed using the open areas within the Armory for bluescreen work, as well as exterior shots of adjacent areas. It was the site of Jorge Eloza’s inauguration in 2015. 
+In the late 2000s the building hosted car shows, inaugural balls, track meets, and home shows, and housed the office of the state fire marshal along with storage space for other R.I. state agencies. The films Outside Providence (1999) and Underdog (2007) were filmed using the open areas within the Armory for bluescreen work, as well as exterior shots of adjacent areas. It was the site of Jorge Eloza’s inauguration in 2015. In 2021, the armory was again used as a filming location, [this time for Hocus Pocus 2](//www.goprovidence.com/blog/post/spot-the-hocus-pocus-2-rhode-island-filming-locations/). In 2022, it was used as a temporary warming station during a bout of unseasonally cold weather. 
+
+For several years, the State has funded repairs of the roof, flashing, parapets and other masonry. As of February, 2019, the State has continued to work with [a steering committee](//dcamm.ri.gov/initiatives/cranston-street-armory.php){:target="_blank"} of community organizations, members, City representatives and others, to conduct a participatory process to find new users and uses. 
 
 
 ### Current Events
 
-For several years, the State has funded repairs of the roof, flashing, parapets and other masonry. As of February, 2019, the State has continued to work with [a steering committee](//dcamm.ri.gov/initiatives/cranston-street-armory.php){:target="_blank"} of community organizations, members, City representatives and others, to conduct a participatory process to find new users and uses. 
+The latest news involves an out-of-state developer with local roots. Lindsey Scannapieco and Everett Abitbol head Scout Limited, a Philidelphia-based development company. Locally, they purchased and converted the former [Weybossett Mills Dye House]({% link _property/weybosset-mills-dye-house.md %}) in Olneyville. 
+
+According to a recent Providence Journal article: 
+
+> Scout’s Armory mantra is to “use a light-touch approach,” or as Scannapieco describes it: “What is already here and how can we make that work?”[^1]
+
+And they have a track record. Scout was responsible for the redevelopment of a 300,000-square-foot former Philadelphia vocational high school into a “space for makers, nonprofits, small businesses, and artists.”[^2]
+
+[They have prepared a video](//vimeo.com/765012206/562d175077) to showcase the ideas and the community support that is needed to transform this building. 
+
+[^1]: Anderson, Patrick. “What’s future of the Cranston Street Armory? Here's what a consulant thinks.” Providence Journal, 19 December 2022. Accessed 14 January 2023 from https://www.providencejournal.com/story/news/politics/2022/12/19/the-future-of-the-cranston-street-armory/69722338007/
+
+[^2]: Ibid
 
 
 ### History
