@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Samuel Lerner', 'ZDS Architecture & Interiors' ]
 people: []
 lists: [ 'PPS Ten Most Endangered' ]
-tags: [ 'Apartments for Rent', 'Mid-century Modern' ]
+tags: [ 'Apartments for Rent', 'Mid-century Modern', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -32,16 +32,26 @@ excerpt: "A classic mid-century brick and limestone commercial building transfor
 thumbnail: what-cheer-ins-jh-2022-11-03.jpg
 
 images:
+  - url: what-cheer-ins-ppl-1954-01.jpg
+    alt: 'A mid-century modern office building, two stories, made of brick and cast cement with strong geometric shapes and connecting lines across the façades. Windows are almost square, and split into horizontally oriented panes of eight lites.'
+    caption: 'Providence Journal, November 28, 1954 press clipping from the John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    sizes: '1440, 900'
   - url: what-cheer-ins-jh-2022-11-01.jpg
+    sizes: '1440, 900'
   - url: what-cheer-ins-jh-2022-11-02.jpg
+    sizes: '1200, 900'
   - url: what-cheer-ins-jh-2022-11-03.jpg
+    sizes: '1440, 900'
   - url: what-cheer-ins-jh-2022-11-04.jpg
+    sizes: '1440, 900'
   - url: what-cheer-ins-jh-2022-11-05.jpg
+    sizes: '1440, 900'
   - url: what-cheer-ins-jh-2022-11-06.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2022-11-01
 
-imagescredit:
+imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%253A4836" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

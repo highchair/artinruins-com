@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'ZDS Architecture & Interiors' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: [ 'Apartments for Rent', 'Chet Smolski image collection' ]
+tags: [ 'Apartments for Rent', 'Chet Smolski image collection', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
@@ -32,8 +32,11 @@ excerpt: "A four-turned-five-story 19th-century commercial building goes residen
 thumbnail: case-mead-jh-2019-07-03.jpg
 
 images:
-  - url: case-mead-csmolski-1974-01.jpg
+  - url: case-mead-ppl-undated-01.jpg
     alt: 'A former four-story but now five-story building erected in the middle of the 19th century, 1859. The double-height 3rd floor was converted to two floors in 1906. The articulation of the exterior still looks as though it is four storys, with the once double-height windows split into two windows while still retaining window frames and trim that occupy two full storys.'
+    caption: 'Undated — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '900, 900'
+  - url: case-mead-csmolski-1974-01.jpg
     caption: '1974, looking down Weybosset Street towards the east — Photo from the Chet Smolski image collection at Rhode Island College'
     sizes: '1440, 900'
   - url: case-mead-jn-2006-05-01.jpg
@@ -62,7 +65,7 @@ images:
 
 mostrecentimage: 2019-07-01
 
-imagescredit: 'Contributions from <a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>, Jef Nickerson, and realty websites'
+imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%253A15294" target="_blank">Rhode Island Photograph Collection</a>, Providence Public Library; <a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>; Jef Nickerson; and realty websites'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

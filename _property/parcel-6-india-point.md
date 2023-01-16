@@ -53,8 +53,10 @@ images:
     sizes: '1200, 900'
   - url: parcel6-jh-2022-03-07.jpg
     sizes: '1600, 900'
+  - url: parcel6-jh-2022-12-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2022-03-01
+mostrecentimage: 2022-12-01
 
 imagescredit:
 
