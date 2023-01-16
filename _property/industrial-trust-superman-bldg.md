@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [] # Walker & Gillette
 people: [] # Samuel Colt, John and Moses Brown
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: [ 'The Superlatives' ]
+tags: [ 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'The tallest building in Rhode Island as of 2022'
 
 NRHP-ref-number: '84001967 (contributing)'

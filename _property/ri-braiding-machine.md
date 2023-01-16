@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'James Hanley' ]
 lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
-tags: []
+tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:
 added-to-NRHP:

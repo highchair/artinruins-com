@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'Joseph Congdon', 'Francis Wood Carpenter' ]
 lists: [ 'HABS HAER', 'PPS/AIA Industrial Commercial Buildings Survey' ]
-tags: [ 'The Superlatives' ]
+tags: [ 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'The second oldest industrial building in the state of Rhode Island, and the oldest in Providence'
 
 NRHP-ref-number:

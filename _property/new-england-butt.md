@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Armory Revival Company', 'DBVW Architects' ]
 people: [ 'Spencer P. Read', 'Frank Gilbreth' ]
 lists: [ 'Providence Industrial Sites 1981', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'Apartments for Rent' ]
+tags: [ 'Apartments for Rent', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '80000001 (individual)'
 added-to-NRHP: 'January 1980'

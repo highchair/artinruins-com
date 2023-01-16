@@ -14,7 +14,7 @@ neighborhoods: [ 'East Side', 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: []
 lists: [ 'Did You Know?', 'HABS HAER' ]
-tags: [ 'Demolition by Progress' ]
+tags: [ 'Demolition by Progress', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:
 added-to-NRHP:

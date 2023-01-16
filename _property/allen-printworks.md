@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'Phillip Allen', 'Crawford Allen', 'Zachariah Allen' ]
 lists: [ 'Providence Industrial Sites 1981', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: []
+tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:
 added-to-NRHP:

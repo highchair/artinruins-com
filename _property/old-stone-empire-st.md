@@ -15,7 +15,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Howe & Church', 'DBVW Architects' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: [ 'Former Banks' ]
+tags: [ 'Former Banks', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'

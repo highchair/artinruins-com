@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'DBVW Architects', 'SBER', 'Foundry Associates' ]
 people: [ 'General Ambrose Burnside' ]
 lists: [ 'National Register of Historic Places', 'U.S. Rubber Co. Mill Complex' ]
-tags: [ 'The Superlatives' ]
+tags: [ 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'Manufacturers of one of the finest automobiles made in the United States prior to World War I'
 
 NRHP-ref-number: '05000917 (individual)'

@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Stone & Carpenter' ]
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
-tags: [ 'The Superlatives' ]
+tags: [ 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'The second school for training kindergarten teachers in the Froebel method in the United States and the first private kindergarten in Rhode Island'
 
 NRHP-ref-number: '70000019 (contributing)'
@@ -49,8 +49,7 @@ images:
   - url: froebel-jh-2002-09-05.jpg
   - url: froebel-jh-2002-09-06.jpg
   - url: froebel-goog-overview.jpg
-    caption: 'Overview of the completed complex of four structures. Clockwise from left — Froebel Hall, 1878; William Holroyd House, 1798, at
-    106 Angell St.; Samuel Eddy House, 1797, at 100 Angell St.; New construction, 2002-03 along with connecting structures — Satellite imagery from Google Maps'
+    caption: 'Overview of the completed complex of four structures. Clockwise from left — Froebel Hall, 1878; William Holroyd House, 1798, at 106 Angell St.; Samuel Eddy House, 1797, at 100 Angell St.; New construction, 2002-03 along with connecting structures — Satellite imagery from Google Maps'
   - url: froebel-jh-2021-05-01.jpg
     caption: 'Hillel House 2002-03 first-story addition with rooftop pavillion'
   - url: froebel-jh-2021-05-02.jpg

@@ -15,7 +15,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Martin & Hall' ]
 lists: []
-tags: [ 'Demolition by Progress', 'Fire Stations' ]
+tags: [ 'Demolition by Progress', 'Fire Stations', 'Providence Public Library Digital Collections' ]
 
 address: '2 Exchange Terrace, Providence RI'
 latitude: '41.8259541'

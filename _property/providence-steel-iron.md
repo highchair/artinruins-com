@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Dwight Seabury Company' ]
 people: [ 'Houlihan and Maguire' ]
 lists: [ 'National Register of Historic Places' ]
-tags: []
+tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '05000919 (individual)'
 added-to-NRHP: 'August 2005'
@@ -82,7 +82,7 @@ images:
   - url: steel-yard-jh-2005-06-12.jpg
     sizes: '1200, 900'
 
-imagescredit: 'ProQuest Digital Sanborn Maps, Providence Public Library; G.M. Hopkins Insurance Maps, Historic Map Works; Edward Connors, January 2005 for the National Register Nomination Form'
+imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%253A11318" target="_blank">Rhode Island Photograph Collection</a>, Providence Public Library; ProQuest Digital Sanborn Maps, Providence Public Library; G.M. Hopkins Insurance Maps, Historic Map Works; Edward Connors, January 2005 for the National Register Nomination Form'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

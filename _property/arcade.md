@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'James C. Bucklin', 'Russell Warren' ]
 people: [ 'Cyrus Butler' ]
 lists: [ 'PPS Preservation Awards', 'Rhody Awards', 'Downtown Providence National Historic District', 'National Register of Historic Places', 'HABS HAER' ]
-tags: [ 'The Superlatives', 'Malls' ]
+tags: [ 'Malls', 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'The first indoor shopping facility and finest Greek Revival monuments in this country'
 
 NRHP-ref-number: '71000029 (individual)'

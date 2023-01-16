@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [] #Ilkka T. Suvanto for Bergmeyer and Associates Inc., formerly of Scandinavian Design Inc who also designed Richmond Square
 people: [ 'Robert Park Freeman' ]
 lists: [ 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981', 'Inventory of Historic Engineering & Industrial Sites 1978', 'College Hill Historic District' ]
-tags: []
+tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'

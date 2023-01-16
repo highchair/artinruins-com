@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'SignalWorks' ] # Charles P. Hartshorn
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places', 'PPS Ten Most Endangered' ]
-tags: [ 'Apartments for Rent' ]
+tags: [ 'Apartments for Rent', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
@@ -55,7 +55,7 @@ images:
   - url: teste-block-jh-2013-10-03.jpg
     sizes: '1200, 900'
 
-imagescredit: 'Contributions from the Rhode Island Collection of the Providence Public Library'
+imagescredit: 'Contributions from the Rhode Island Collection of the Providence Public Library (<a href="//provlibdigital.org/islandora/object/islandora%253A12749" target="_blank">1895 photo</a>)'
 
 mostrecentimage: 2013-10-01
 

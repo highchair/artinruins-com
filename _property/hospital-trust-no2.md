@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'York and Sawyer' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: [ 'College Properties', 'RISD', 'Former Banks', 'The Superlatives' ]
+tags: [ 'College Properties', 'Former Banks', 'Providence Public Library Digital Collections', 'RISD', 'The Superlatives' ]
 superlative: 'Home to the first trust company in New England, founded to support Rhode Island hospitals'
 
 NRHP-ref-number: '84001967 (contributing)'

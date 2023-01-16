@@ -14,7 +14,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Walter Dorwin Teague' ]
 lists: [ 'Broadway-Armory Historic District', 'National Register of Historic Places' ]
-tags: [ 'Gas Station & Auto Repair' ]
+tags: [ 'Gas Station & Auto Repair', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '74000047 (contributing)'
 added-to-NRHP: 'May 1, 1974'

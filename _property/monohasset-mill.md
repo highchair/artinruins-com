@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'James C. Bucklin' ]
 people: []
 lists: [ 'Providence Industrial Sites 1981' ]
-tags: []
+tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:
 added-to-NRHP:

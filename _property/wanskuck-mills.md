@@ -16,7 +16,7 @@ neighborhoods: [ 'North End' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'Wanskuck Historic District', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'The Superlatives', 'Apartments for Rent' ]
+tags: [ 'Apartments for Rent', 'The Superlatives', 'Providence Public Library Digital Collections' ]
 superlative: 'In 1883 this was the first mill in Rhode Island to be lit by electricity'
 
 NRHP-ref-number: '83003867 (contributing)'

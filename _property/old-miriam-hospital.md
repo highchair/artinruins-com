@@ -18,7 +18,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Jack Ryan Architect' ]
 people: []
 lists: [ 'Broadway-Armory Historic District', 'National Register of Historic Places' ]
-tags: []
+tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '74000047 (contributing)'
 added-to-NRHP: 'May 1, 1974'

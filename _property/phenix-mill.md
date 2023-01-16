@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'Warwick, RI' ]
 designers: []
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'Demolition by Fire' ]
+tags: [ 'Demolition by Fire', 'Providence Public Library Digital Collections' ]
 
 address: '785 Main Street, West Warwick RI'
 latitude: '41.7208157'

@@ -14,7 +14,7 @@ neighborhoods: [ 'Downtown Providence', 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'Did You Know?', 'RI Historic Resources Archive' ]
-tags: []
+tags: [ 'Providence Public Library Digital Collections' ]
 
 address: 'Memorial Blvd, Providence RI'
 latitude: '41.8274486'

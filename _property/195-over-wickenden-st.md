@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: []
 people: []
 lists: [ 'I-195 Relocation Project' ]
-tags: [ 'Demolition by Progress' ]
+tags: [ 'Demolition by Progress', 'Providence Public Library Digital Collections' ]
 
 address: 'Wickenden St and South Main, Providence RI'
 latitude: '41.818855'

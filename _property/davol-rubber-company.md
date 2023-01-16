@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Jeffrey Blydenburgh' ]
 people: [ 'Joseph Davol', 'Robert Park Freeman' ]
 lists: [ 'Davol Rubber Company Complex', 'Providence Industrial Sites 1981', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'Chet Smolski image collection' ]
+tags: [ 'Chet Smolski image collection', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '80000093 (individual)'
 added-to-NRHP: 'June 1980'

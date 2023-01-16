@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Stone, Carpenter, & Willson' ]
 people: []
 lists: [ 'National Register of Historic Places', 'HABS HAER', 'Downtown Providence National Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'Train Stations', 'Chet Smolski image collection' ]
+tags: [ 'Chet Smolski image collection', 'Providence Public Library Digital Collections', 'Train Stations' ]
 
 NRHP-ref-number: '75000003 (individual)'
 added-to-NRHP: 'February 1975'

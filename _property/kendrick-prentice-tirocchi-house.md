@@ -18,7 +18,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Perez Mason' ]
 people: [ 'Anna Tirocchi and Laura Tirocchi Cella' ]
 lists: [ 'Broadway-Armory Historic District', 'PPS Ten Most Endangered' ]
-tags: [ 'House' ]
+tags: [ 'House', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -114,7 +114,7 @@ images:
 
 mostrecentimage: 2022-12-01
 
-imagescredit: 'Contributions from The Providence Public Library, Wedding Cake House Instagram, and Chloé Hurley'
+imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%253A5541" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library; Wedding Cake House Instagram; and Chloé Hurley'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
