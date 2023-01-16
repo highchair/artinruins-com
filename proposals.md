@@ -18,14 +18,20 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 
 ## On The Boards
 
-### I-195 Redevelopment District Commission
+
+### NEW 116 Waterman Street
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/195-parcel-8-2022-11-22.jpg" alt="">
-  <figcaption>Rendering by D+P and Truthbox for parcels 8 and 8a in India Point</figcaption>
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/116-waterman-st-2023-01-16.jpg" alt="">
+  <figcaption>Rendering by Aharonian and Associates, Inc., dated October 2022</figcaption>
 </figure>
 
-On November 9, the I-195 Redevelopment District Commission approved concept plans for three projects: mixed-income housing on [Parcel 9](//www.195district.com/about/district-land/){:target="_blank"}, BankRI’s headquarters and commercial-residential space on [Parcels 8/8a](//www.195district.com/about/district-land/){:target="_blank"}, and a state health lab on [Parcel 25](//www.195district.com/about/district-land/){:target="_blank"}. They will move forward with some conditions to a one-part Final Plan Review. These projects will bring much-needed residential units, STEM jobs, and the first corporate headquarters built in Providence in three decades. You can [review the proposals on the Commission website](//www.195district.com/documents/) under “November 9, 2022.”
+
+Walter Bronhard and Brook Holding LLC as applicants are proposing to demolish two existing buildings to construct a new mixed-use five story building with commercial use on the ground floor and 25 dwelling units. The applicant is seeking preliminary plan approval and requesting a dimensional adjustment to maintain a height of 58’ and five stories where 50’ and four stories are allowed by right in the zone. The applicant is also requesting a design waiver for locating residential development within 20’ of a main street – for action (AP 12 Lots 180 and 260, College Hill)
+
+The two houses, Lot 260 and 180, are located at [116 Waterman Street](//www.google.com/maps/place/116+Waterman+St,+Providence,+RI+02906/@41.8276115,-71.3998322,19.89z/data=!4m5!3m4!1s0x89e44524ae26a263:0x9b511119671d3d1f!8m2!3d41.8275323!4d-71.3995313) and [382 Brook Street](//www.google.com/maps/place/382,+382+Brook+St,+Providence,+RI+02906/@41.8276115,-71.3998322,19.89z/data=!4m5!3m4!1s0x89e44524affe2a29:0xfe8b3be5684b211b!8m2!3d41.8277198!4d-71.3995312). Both are rental residential houses with construction dates of 1857 and 1895 respectively listed in the College Hill Historic district. This development would continue to erode the historic nature of the Brook Waterman Cushing Thayer blocks as discussed in more detail on our recent article concerning the demolition of [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}). 
+
+A PDF document of the [proposed building plans can be found on the Providence RI website, linked here](//www.providenceri.gov/wp-content/uploads/2022/12/22-033MA-116-Waterman-St-Preliminary-submission-Narrative.pdf).
 
 
 ### SMART Hotel Proposal is back
@@ -50,6 +56,16 @@ On November 9, the I-195 Redevelopment District Commission approved concept plan
 + 217 Angell St. — House, 1892. Colonial Revival; 2-1/2 stories; massive end-gambrel roof; clapboard; fine large-scale, compact dwelling; off-center entrance covered by central porch with paired Tuscan columns; bay window over porch contains stucco relief panel with foliate ornament and date; entablature trim between floors and 1st-story corner pilasters; bracketed side overhangs over 1st story and end overhangs over 2nd; side bays and dormers; chimney projects through dormer on west.
 
 **Note:** Listing in a historic district DOES NOT offer ANY protection if the Council votes to approve based on the merit of the new design and the overall benefits to the neighborhood and city. It often only means that the loss of historic structures is a factor that needs to be weighed against the benefits of a new building.
+
+
+### I-195 Redevelopment District Commission
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/195-parcel-8-2022-11-22.jpg" alt="">
+  <figcaption>Rendering by D+P and Truthbox for parcels 8 and 8a in India Point</figcaption>
+</figure>
+
+On November 9, the I-195 Redevelopment District Commission approved concept plans for three projects: mixed-income housing on [Parcel 9](//www.195district.com/about/district-land/){:target="_blank"}, BankRI’s headquarters and commercial-residential space on [Parcels 8/8a](//www.195district.com/about/district-land/){:target="_blank"}, and a state health lab on [Parcel 25](//www.195district.com/about/district-land/){:target="_blank"}. They will move forward with some conditions to a one-part Final Plan Review. These projects will bring much-needed residential units, STEM jobs, and the first corporate headquarters built in Providence in three decades. You can [review the proposals on the Commission website](//www.195district.com/documents/) under “November 9, 2022.”
 
 
 ### 311 Knight Street
