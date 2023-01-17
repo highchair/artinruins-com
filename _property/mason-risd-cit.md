@@ -31,21 +31,29 @@ thumbnail: mason-jh-2004-01.jpg
 
 images:
   - url: mason-jh-2001-01.jpg
-    alt: "A six-story, three bay wide commercial building clad in steel and aluminum with a rectangular set of windows on the first two floors, narrower rectangular windows on the third through fifth, and rounded arched windows across the top floors"
+    alt: 'A six-story, three bay wide commercial building clad in steel and aluminum with a rectangular set of windows on the first two floors, narrower rectangular windows on the third through fifth, and rounded arched windows across the top floors'
+    sizes: '755, 500'
   - url: mason-jh-2001-02.jpg
+    sizes: '500, 755'
   - url: mason-jh-2001-03.jpg
+    sizes: '755, 500'
   - url: mason-jh-2004-01.jpg
+    sizes: '1200, 900'
   - url: mason-jh-2004-02.jpg
+    sizes: '768, 924'
   - url: mason-jh-2004-03.jpg
+    sizes: '768, 924'
   - url: mason-sitespecific-01.jpg
+    sizes: '1000, 648'
   - url: mason-sitespecific-02.jpg
+    sizes: '1000, 667'
   - url: mason-sitespecific-03.jpg
+    sizes: '1000, 668'
 
 imagescredit: 'Interior images from Site Specific, general contractors'
 
 mostrecentimage: 2006-01-01
 ---
-
 
 ### Redevelopment
 
@@ -67,6 +75,7 @@ _From the National Register nomination form for the Downtown Providence Historic
 
 165-169 Weybosset Street **Mason Building** (1903): Stone, Carpenter & Willson, architects. 6-story, brick-and-metal-sheathed, steel-frame structure with late 20th-century storefront; 4-story, 3-bay articulation of upper stories with three Chicago windows on each story, corbel cornice; modern interiors. Recently rehabilitated, the structure was built by the John N. Mason Real Estate Company and used as a commercial and office space. While more massive than neighboring structures to its east, the Mason Building is similar in style to these commercial structures. It is harmonious in style and scale with the [Fletcher Building]({% link _property/fletcher-building.md %}) to its west and the Outlet Company across Weybosset Street [burned in 1986].
 
+***
 
 _From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 

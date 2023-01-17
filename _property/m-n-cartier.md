@@ -30,25 +30,44 @@ thumbnail: 1107-westminster-jh-2020-11-02.jpg
 images:
   - url: 1107-westminster-jh-2006-04-01.jpg
     alt: 'A 2-story red brick, square plan structure with a central entrance. Three bays across of 2 windows each. The center bay is toppped with a triangular pediment ornament in the style of a Greek temple. Three oval windows are grouped below this pediment.'
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2006-04-02.jpg
+    sizes: '1440, 900'
   - url: 1107-westminster-jh-2006-04-03.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2006-04-04.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2006-04-05.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2006-04-06.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2006-04-07.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2006-04-08.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2006-04-09.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2006-04-10.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2020-11-01.jpg
+    sizes: '1440, 900'
   - url: 1107-westminster-jh-2020-11-02.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-pl-2020-11-23.jpg
     caption: 'Photo submitted by Peter Landry, November 23, 2020. A portion of the roof has collapsed from heavy rain and wind.'
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2020-11-27-01.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2020-11-27-02.jpg
+    sizes: '1440, 900'
   - url: 1107-westminster-jh-2020-11-27-03.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2020-11-27-04.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2020-11-27-05.jpg
+    sizes: '1200, 900'
   - url: 1107-westminster-jh-2021-06-01.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contribution from Peter Landry'
 ---

@@ -33,18 +33,28 @@ thumbnail: lilly-jh-2006-03-03.jpg
 
 images:
   - url: lilly-tarc-1999-07-01.jpg
-    caption: 'Photo by the Armory Revival Company, July 1999'
     alt: 'A symetrical facade of red brick on the upper three floors with an ornate glass storefront on the first level of black glass, decorative panels in yellow and white, with deep blue glass trim pieces. A shallow central tower rises from the center of the fourth floor. The building is nine bays wide and sixteen deep, with little to no ornamentation on the other three sides.'
+    caption: 'Photo by the Armory Revival Company, July 1999'
+    sizes: '720, 450'
   - url: lilly-tarc-1999-07-02.jpg
     caption: 'Photo by the Armory Revival Company, July 1999'
+    sizes: '650, 450'
   - url: lilly-jh-2004-02-01.jpg
+    sizes: '1200, 900'
   - url: lilly-jh-2006-03-01.jpg
+    sizes: '1200, 900'
   - url: lilly-jh-2006-03-02.jpg
+    sizes: '1200, 900'
   - url: lilly-jh-2006-03-03.jpg
+    sizes: '1200, 900'
   - url: lilly-jh-2006-03-04.jpg
+    sizes: '768, 924'
   - url: lilly-jh-2006-03-05.jpg
+    sizes: '768, 924'
   - url: lilly-jh-2006-03-06.jpg
+    sizes: '1200, 900'
   - url: lilly-jh-2006-03-07.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions from the Armory Revival Company'
 

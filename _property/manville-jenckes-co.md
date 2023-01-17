@@ -33,17 +33,29 @@ thumbnail:
 images:
   - url: manville-jenckes-jh-2004-02-01.jpg
     alt: 'A series of red brick mill buildings along train tracks with a central, yellow brick smokestack and the words “N. E. Paper Tube Co.” painted in black onto the bricks'
+    sizes: '1440, 900'
   - url: manville-jenckes-jh-2004-02-02.jpg
+    sizes: '1200, 900'
   - url: manville-jenckes-jh-2004-02-03.jpg
+    sizes: '1200, 900'
   - url: manville-jenckes-jh-2004-02-04.jpg
+    sizes: '768, 924'
   - url: manville-jenckes-jh-2004-02-05.jpg
+    sizes: '1200, 900'
   - url: manville-jenckes-jh-2004-02-06.jpg
+    sizes: '1200, 900'
   - url: manville-jenckes-jh-2004-02-07.jpg
+    sizes: '768, 924'
   - url: manville-jenckes-jh-2004-02-08.jpg
+    sizes: '1200, 900'
   - url: manville-jenckes-jh-2004-02-09.jpg
+    sizes: '1440, 900'
   - url: manville-jenckes-jh-2004-02-10.jpg
+    sizes: '1200, 900'
   - url: manville-jenckes-jh-2004-02-11.jpg
+    sizes: '1200, 900'
   - url: manville-jenckes-jh-2004-02-12.jpg
+    sizes: '1200, 900'
 
 imagescredit:
 

@@ -34,22 +34,36 @@ thumbnail: kennedy-stafford-jh-2008-09-01.jpg
 
 images:
   - url: kennedy-stafford-habs-1977-01.jpg
-    caption: 'Warren Jagger for the National Register nomination form, 1977'
     alt: 'A three and a half story red brick mill with a tall monitor roof that adds a 4th floor of space. A five story stair tower with a flat roof fronts Roosevelt avenue. Three bays wide, it features doors in the middle with crane hoists and a window on either side. Windows are rectangular, six over six, and seem to have stone sills and lintels. '
+    caption: 'Warren Jagger for the National Register nomination form, 1977'
+    sizes: '1200, 900'
   - url: kennedy-stafford-jh-2008-09-01.jpg
+    sizes: '1440, 900'
   - url: kennedy-stafford-jh-2008-09-02.jpg
+    sizes: '1440, 900'
   - url: kennedy-stafford-jh-2008-09-03.jpg
+    sizes: '1200, 900'
   - url: kennedy-stafford-jh-2008-09-04.jpg
+    sizes: '1440, 900'
   - url: kennedy-stafford-jh-2008-09-05.jpg
+    sizes: '1200, 900'
   - url: kennedy-stafford-jh-2008-09-06.jpg
+    sizes: '1200, 900'
   - url: kennedy-stafford-jh-2008-09-07.jpg
+    sizes: '768, 924'
   - url: kennedy-stafford-jh-2008-09-08.jpg
+    sizes: '1200, 900'
   - url: kennedy-stafford-jh-2008-09-09.jpg
+    sizes: '1200, 900'
   - url: kennedy-stafford-jh-2008-09-10.jpg
+    sizes: '1440, 900'
   - url: kennedy-stafford-jh-2008-09-11.jpg
+    sizes: '1440, 900'
   - url: kennedy-stafford-jh-2008-09-12.jpg
+    sizes: '1200, 900'
   - url: 1890-loc-sanborn-01.jpg
     caption: 'When Roosevelt Avenue was simply called “Mill Street” — Sanborn Insurance Maps, 1890, Central Falls RI, Plate 8'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the National Register nomination form and the Library of Congress, Geography and Map Division'
 

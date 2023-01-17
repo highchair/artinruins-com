@@ -34,15 +34,26 @@ thumbnail: jwu-science-inno-jh-2017-08-01.jpg
 
 images:
   - url: jwu-science-inno-jh-2015-04-01.jpg
+    alt: 'A new building of mostly white exterior finish with angular and very regular shapes. Windows are rectangular and the plan is an L-shape that wraps around an outdoor space that opens to the sidewalk.'
+    sizes: '1440, 900'
   - url: jwu-science-inno-jh-2015-08-01.jpg
+    sizes: '1440, 900'
   - url: jwu-science-inno-jh-2015-08-02.jpg
+    sizes: '1440, 900'
   - url: jwu-science-inno-jh-2015-10-01.jpg
+    sizes: '1440, 900'
   - url: jwu-science-inno-jh-2015-11-01.jpg
+    sizes: '1440, 900'
   - url: jwu-science-inno-jh-2015-11-02.jpg
+    sizes: '1440, 900'
   - url: jwu-science-inno-jh-2016-01-01.jpg
+    sizes: '1440, 900'
   - url: jwu-science-inno-jh-2016-02-01.jpg
+    sizes: '1440, 900'
   - url: jwu-science-inno-jh-2017-08-01.jpg
+    sizes: '1440, 900'
   - url: jwu-science-inno-jh-2020-03-01.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2020-03-01
 

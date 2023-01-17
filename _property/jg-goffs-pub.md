@@ -27,21 +27,32 @@ gmap: "https://www.google.com/maps/place/7+Point+St,+Providence,+RI+02903/@41.81
 meta: ""
 excerpt: "A lovely little pub that we never had to pleasure of visiting. Construction on a 3 mile sewer project damaged the foundations beyond repair"
 
-thumbnail: 
+#thumbnail: 
 
 images:
   - url: jg-goff-jh-2004-12-01.jpg
     alt: 'A small, cute waterfront red brick one story building that was a local watering hole with waterside deck for the last years of its life.'
+    sizes: '1200, 900'
   - url: jg-goff-jh-2004-12-02.jpg
+    sizes: '1200, 900'
   - url: jg-goff-jh-2004-12-03.jpg
+    sizes: '1200, 900'
   - url: jg-goff-jh-2004-12-04.jpg
+    sizes: '1200, 900'
   - url: jg-goff-jh-2004-12-05.jpg
+    sizes: '1200, 900'
   - url: jg-goff-jh-2004-12-06.jpg
+    sizes: '1200, 900'
   - url: jg-goff-jh-2004-12-07.jpg
+    sizes: '1200, 900'
   - url: jg-goff-jh-2004-12-08.jpg
+    sizes: '1200, 900'
   - url: jg-goff-jh-2004-12-09.jpg
+    sizes: '1200, 900'
   - url: jg-goff-jh-2004-12-10.jpg
+    sizes: '1200, 900'
   - url: jg-goff-jh-2004-12-11.jpg
+    sizes: '1200, 900'
 
 imagescredit: 
 ---

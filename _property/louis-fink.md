@@ -34,10 +34,15 @@ thumbnail:
 images:
   - url: louis-fink-2003-10-01.jpg
     alt: 'A three-story red brick mill in a rectangular configuration with brick corbelling and simple details. Replacement windows are square but set into arch openings. The building is on the edge of town, surrounded by car lots, with a view of the highway.'
+    sizes: '1200, 900'
   - url: louis-fink-2003-10-02.jpg
+    sizes: '768, 924'
   - url: louis-fink-2003-10-03.jpg
+    sizes: '1440, 900'
   - url: louis-fink-2003-10-04.jpg
+    sizes: '1440, 900'
   - url: louis-fink-2008-07-01.jpg
+    sizes: '768, 924'
 
 imagescredit: 
 

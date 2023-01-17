@@ -33,29 +33,43 @@ thumbnail: maine-creamery-v3-2015-01.jpg
 
 images:
   - url: maine-creamery-sanborn-1921-01.jpg
-    caption: 'Providence 1920-1921, Vol. 3, Sheet 49 — ProQuest Digital Sanborn Maps, Providence Public Library'
     alt: 'A square, two-story brick mill office building 4 bays wide by 5 bays deep with 8 over 8 double hung windows and stone sills. Behind this office building is a two-story set of loading docks, bays, storage warehouse, and a concrete block car barn.'
+    caption: 'Providence 1920-1921, Vol. 3, Sheet 49 — ProQuest Digital Sanborn Maps, Providence Public Library'
+    sizes: '1440, 900'
   - url: maine-creamery-gmhopkins-1937-01.jpg
     caption: 'G.M. Hopkins Insurance Map, Providence 1937, Plate 5 — Historic Mapworks'
+    sizes: '1440, 900'
   - url: maine-creamery-jh-2005-07-01.jpg
+    sizes: '1200, 900'
   - url: maine-creamery-jh-2005-07-02.jpg
+    sizes: '1200, 900'
   - url: maine-creamery-jh-2005-07-03.jpg
+    sizes: '768, 924'
   - url: maine-creamery-jh-2005-07-04.jpg
+    sizes: '1200, 900'
   - url: maine-creamery-jh-2005-07-05.jpg
+    sizes: '1200, 900'
   - url: maine-creamery-kap-2009-10-01.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: maine-creamery-kap-2009-10-02.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: maine-creamery-kap-2009-10-03.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: maine-creamery-kap-2009-10-04.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: maine-creamery-kap-2009-10-05.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: maine-creamery-kap-2009-10-06.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: maine-creamery-v3-2015-01.jpg
     caption: 'Photo by Vision 3 Architects'
+    sizes: '1200, 798'
 
 imagescredit: 'Contributions from <a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39395/41288/561188" target="_blank">Proquest Digital Sanborn Maps</a>, Providence Public Library; <a href="//www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/" target="_blank">Historic Mapworks</a>; Kerri-Ann Pontifice; and Vision 3 Architects'
 

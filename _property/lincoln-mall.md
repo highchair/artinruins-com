@@ -29,18 +29,26 @@ gmap: "https://www.google.com/maps/place/622+George+Washington+Hwy,+Lincoln,+RI+
 meta: ""
 excerpt: "A once bustling retail destination and hang out. Now, a dead mall? Not quite yet…"
 
-thumbnail:
+#thumbnail:
 
 images:
   - url: lincoln-mall-jh-2005-12-01.jpg
-    alt: ''
+    alt: 'A fairly typical 1970s mall in the suburban town of Lincoln, RI. Originally built as two wings with an anchor on each end centered around a rotunda-style atrium, the wings have been shortened dramatically as retail anchors have turned their back to the mall and faced the parking lots.'
+    sizes: '1440, 900'
   - url: lincoln-mall-jh-2005-12-02.jpg
+    sizes: '1200, 900'
   - url: lincoln-mall-jh-2005-12-03.jpg
+    sizes: '1200, 900'
   - url: lincoln-mall-jh-2005-12-04.jpg
+    sizes: '1200, 900'
   - url: lincoln-mall-jh-2005-12-05.jpg
+    sizes: '1200, 900'
   - url: lincoln-mall-jh-2005-12-06.jpg
+    sizes: '1440, 900'
   - url: lincoln-mall-jh-2005-12-07.jpg
+    sizes: '1440, 900'
   - url: lincoln-mall-jh-2005-12-08.jpg
+    sizes: '1440, 900'
 
 imagescredit:
 

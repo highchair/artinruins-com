@@ -33,13 +33,19 @@ excerpt: "This former jewelry manufacturing building was converted to office use
 
 images:
   - url: little-nemo-rg-1985-08-01.jpg
-    caption: 'Richard Greenwood, August 1986, for the National Register nomination form'
     alt: 'This is a 3-story, flat-roof,reinforced concrete building. It has curtain walls arranged in piers and spandrels with bands of windows with narrow Roman brick panels underneath. The wall is rounded at the corner of Ship and Richmond Streets. The concrete piers rise up to the roofline, where they are capped with arrow-like ornaments. There are also small corner parapets and a central parapet over the Richmond Street entrance with geometric Art Deco detailing. '
+    caption: 'Richard Greenwood, August 1986, for the National Register nomination form'
+    sizes: '1440, 900'
   - url: little-nemo-jh-2010-10-01.jpg
+    sizes: '1440, 900'
   - url: little-nemo-jh-2010-10-02.jpg
+    sizes: '1200, 900'
   - url: little-nemo-jh-2010-10-03.jpg
+    sizes: '1200, 900'
   - url: little-nemo-jh-2010-10-04.jpg
+    sizes: '1200, 900'
   - url: little-nemo-jh-2010-10-05.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2010-10-01
 

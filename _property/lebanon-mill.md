@@ -32,30 +32,53 @@ thumbnail: lebanon-jh-2009-02-05.jpg
 
 images:
   - url: lebanon-habs-2002-01.jpg
-    caption: 'Photo by Matthew A. Kierstead, May 2002, for the National Register nomination form, Exchange Street Historic District'
     alt: 'A three-story, flat-roof, red brick mill building with an additional two floors below street level overlooking the Blackstone river. The building features granite sills and arched lintels as well as a connecting walkway structure to a red brick storage structure.'
+    caption: 'Photo by Matthew A. Kierstead, May 2002, for the National Register nomination form, Exchange Street Historic District'
+    sizes: '1440, 900'
   - url: lebanon-jh-2003-02-01.jpg
+    sizes: '1440, 900'
   - url: lebanon-jh-2003-02-02.jpg
+    sizes: '1440, 900'
   - url: lebanon-jh-2003-02-03.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2003-02-04.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2004-02-01.jpg
+    sizes: '1440, 900'
   - url: lebanon-jh-2004-02-02.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2004-02-03.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2004-02-04.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2004-02-05.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2004-02-06.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2004-02-07.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2004-02-08.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2009-02-01.jpg
+    sizes: '1440, 900'
   - url: lebanon-jh-2009-02-02.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2009-02-03.jpg
+    sizes: '1440, 900'
   - url: lebanon-jh-2009-02-04.jpg
+    sizes: '768, 924'
   - url: lebanon-jh-2009-02-05.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2009-02-06.jpg
+    sizes: '768, 924'
   - url: lebanon-jh-2009-02-07.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2009-02-08.jpg
+    sizes: '768, 924'
   - url: lebanon-jh-2009-02-09.jpg
+    sizes: '1200, 900'
   - url: lebanon-jh-2009-02-10.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2009-02-01
 

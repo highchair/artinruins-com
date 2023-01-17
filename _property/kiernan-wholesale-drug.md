@@ -32,19 +32,33 @@ thumbnail: jh-electric-jh-2020-09-01.jpg
 images:
   - url: jh-electric-jh-2003-03-01.jpg
     alt: 'A three story red brick medium-sized mill building sitting on a raised concrete basement on a trapezoidal corner lot.'
+    sizes: '1200, 900'
   - url: jh-electric-jh-2003-03-02.jpg
+    sizes: '1200, 900'
   - url: jh-electric-jh-2003-03-03.jpg
+    sizes: '1200, 900'
   - url: jh-electric-jh-2003-03-04.jpg
+    sizes: '1200, 900'
   - url: jh-electric-jh-2003-03-05.jpg
+    sizes: '1200, 900'
   - url: jh-electric-jh-2003-03-06.jpg
+    sizes: '1200, 900'
   - url: jh-electric-jh-2003-03-07.jpg
+    sizes: '1200, 900'
   - url: jh-electric-jh-2003-03-08.jpg
+    sizes: '800, 1067'
   - url: jh-electric-jh-2004-03-01.jpg
+    sizes: '1440, 900'
   - url: jh-electric-jh-2004-03-02.jpg
+    sizes: '1440, 900'
   - url: jh-electric-jh-2011-01-01.jpg
+    sizes: '1200, 900'
   - url: jh-electric-jh-2011-01-02.jpg
+    sizes: '800, 1067'
   - url: jh-electric-jh-2020-09-01.jpg
+    sizes: '1440, 900'
   - url: jh-electric-jh-2020-09-02.jpg
+    sizes: '1200, 900'
 
 imagescredit:
 

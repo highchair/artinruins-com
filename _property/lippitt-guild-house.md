@@ -33,27 +33,38 @@ thumbnail: peter-green-jh-2007-10-01.jpg
 
 images: 
   - url: house-move-01.jpg
-    caption: 'Photo by Frank Mullin'
     alt: 'A three story mansard roof home three bays wide, giving the façade a square appearance. A projecting central entrance sits below a three-sided bay window. Decoration on the details are bold and appropriate for a second empire styled home.'
+    caption: 'Photo by Frank Mullin'
+    sizes: '722, 480'
   - url: house-move-02.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '722, 472'
   - url: house-move-03.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '722, 480'
   - url: house-move-04.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '722, 475'
   - url: house-move-05.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '722, 480'
   - url: house-move-06.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '722, 480'
   - url: house-move-07.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '722, 480'
   - url: house-move-08.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '722, 480'
   - url: house-move-09.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '722, 480'
   - url: house-move-10.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '480, 722'
   - url: peter-green-jh-2007-10-01.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2007-10-01
 

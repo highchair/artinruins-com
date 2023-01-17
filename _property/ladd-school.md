@@ -8,7 +8,7 @@ built: 'various buildings, 1909–1965'
 demolition: 'slowly from 1995 through 2015'
 redeveloped: 
 decade: '1900-1909'
-date-added: 2004
+date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Exeter, RI' ]
@@ -29,37 +29,60 @@ thumbnail: ladd-school-owl-2011-02.jpg
 images:
   - url: ladd-school-cdc-2002-01.jpg
     alt: 'A rural complex of state-run municipal buildings of varying designs to house children and adults ith mental disabilities at a time when these differences were thought to be deficiencies'
+    sizes: '800, 1067'
   - url: ladd-school-cdc-2002-02.jpg
+    sizes: '800, 1067'
   - url: ladd-school-cdc-2002-03.jpg
+    sizes: '800, 1067'
   - url: ladd-school-cdc-2002-04.jpg
+    sizes: '1120, 800'
   - url: ladd-school-cdc-2002-05.jpg
+    sizes: '1120, 800'
   - url: ladd-school-cdc-2002-06.jpg
+    sizes: '1120, 800'
   - url: ladd-school-cdc-2002-07.jpg
+    sizes: '1120, 800'
   - url: ladd-school-cdc-2002-08.jpg
+    sizes: '1120, 800'
   - url: ladd-school-cdc-2002-09.jpg
+    sizes: '1120, 800'
   - url: ladd-school-cdc-2002-10.jpg
+    sizes: '1120, 800'
   - url: ladd-school-cdc-2002-11.jpg
+    sizes: '800, 1067'
   - url: ladd-school-cdc-2002-12.jpg
+    sizes: '800, 1067'
   - url: ladd-school-cdc-2002-13.jpg
+    sizes: '800, 1067'
   - url: ladd-school-cdc-2002-14.jpg
+    sizes: '800, 1067'
   - url: ladd-school-tca-2007-01.jpg
-    caption: "Photo by TomCollinsArc (Flickr) 2007"
+    caption: 'Photo by TomCollinsArc (Flickr) 2007'
+    sizes: '800, 491'
   - url: ladd-school-owl-2011-01.jpg
-    caption: "Photo by OwlingDogArt (Flickr) 2011"
+    caption: 'Photo by OwlingDogArt (Flickr) 2011'
+    sizes: '1060, 796'
   - url: ladd-school-owl-2011-02.jpg
-    caption: "Photo by OwlingDogArt (Flickr) 2011"
+    caption: 'Photo by OwlingDogArt (Flickr) 2011'
+    sizes: '1067, 800'
   - url: ladd-school-aerial-1972.jpg
     caption: 'Providence Historical Aerial Viewer 1972'
+    sizes: '1440, 900'
   - url: ladd-school-aerial-1988.jpg
     caption: 'Providence Historical Aerial Viewer 1988'
+    sizes: '1440, 900'
   - url: ladd-school-aerial-2008.jpg
     caption: 'Providence Historical Aerial Viewer 2008'
+    sizes: '1440, 900'
   - url: ladd-school-aerial-2011.jpg
     caption: 'Providence Historical Aerial Viewer 2011'
+    sizes: '1440, 900'
   - url: ladd-school-aerial-2016.jpg
     caption: 'Providence Historical Aerial Viewer 2016'
+    sizes: '1440, 900'
 
-imagescredit: Contributions by Cristina di Chiera, OwlingDogArt (Flickr), TomCollinsArc (Flickr), and aerials from the Providence Historical Aerial Viewer
+imagescredit: 'Contributions by Cristina di Chiera, OwlingDogArt (Flickr), TomCollinsArc (Flickr), and aerials from the Providence Historical Aerial Viewer'
+
 ---
 
 ### Reason for Demolition

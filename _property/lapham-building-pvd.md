@@ -34,23 +34,41 @@ thumbnail: lapham-jh-2021-02-04.jpg
 images:
   - url: lapham-jh-2003-10-01.jpg
     alt: 'An L-shaped, nine-story building that wraps around another four-story building. The first two floors on both steer-fronts feature decorative pilasters and decorative friezes. The building is five bays wide, with the center three windows together in a grouping and outside windows in their own group. Decorative terra cotta and elaborate cornice work as well.'
+    sizes: '640, 896'
   - url: lapham-jh-2019-04-01.jpg
+    sizes: '768, 924'
   - url: lapham-jh-2019-04-02.jpg
+    sizes: '1200, 900'
   - url: lapham-jh-2019-04-03.jpg
+    sizes: '768, 924'
   - url: lapham-jh-2019-04-04.jpg
+    sizes: '1200, 900'
   - url: lapham-jh-2019-04-05.jpg
+    sizes: '768, 924'
   - url: lapham-jh-2019-04-06.jpg
+    sizes: '768, 924'
   - url: lapham-jh-2019-04-07.jpg
+    sizes: '1200, 900'
   - url: lapham-jh-2019-04-08.jpg
+    sizes: '1200, 900'
   - url: lapham-jh-2019-04-09.jpg
+    sizes: '1200, 900'
   - url: lapham-jh-2019-04-10.jpg
+    sizes: '1200, 900'
   - url: lapham-jh-2019-04-11.jpg
+    sizes: '1200, 900'
   - url: lapham-jh-2019-04-12.jpg
+    sizes: '1200, 900'
   - url: lapham-jh-2020-03-01.jpg
+    sizes: '1200, 900'
   - url: lapham-jh-2021-02-01.jpg
+    sizes: '685, 1024'
   - url: lapham-jh-2021-02-02.jpg
+    sizes: '685, 1024'
   - url: lapham-jh-2021-02-03.jpg
+    sizes: '685, 1024'
   - url: lapham-jh-2021-02-04.jpg
+    sizes: '1200, 900'
 
 imagescredit:
 

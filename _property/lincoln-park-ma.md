@@ -28,60 +28,107 @@ thumbnail: lincoln-park-postcard-01.jpg
 
 images:
   - url: lincoln-park-herald-archive-01.jpg
-    caption: 'Photo from the Herald News archive'
     alt: 'A former amusement park with wooden roller coaster, bumper cars, a ferris wheel, and midway. All buildings and structures in these photos were in disrepair, graffitied, and generally in a state of decay.'
+    caption: 'Photo from the Herald News archive'
+    sizes: '1100, 900'
   - url: lincoln-park-herald-archive-02.jpg
     caption: 'Photo from the Herald News archive'
+    sizes: '1366, 900'
   - url: lincoln-park-herald-archive-03.jpg
     caption: 'Photo from the Herald News archive'
+    sizes: '950, 900'
   - url: lincoln-park-herald-archive-04.jpg
     caption: 'Photo from the Herald News archive'
+    sizes: '1200, 900'
   - url: lincoln-park-postcard-01.jpg
     caption: 'Postcard, date unknown'
+    sizes: '1440, 900'
   - url: lincoln-park-postcard-02.jpg
     caption: 'Postcard, date unknown'
+    sizes: '1440, 900'
   - url: lincoln-park-postcard-03.jpg
     caption: 'Postcard, date unknown'
+    sizes: '1440, 900'
   - url: lincoln-park-jh-2006-03-01.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-02.jpg
+    sizes: '800, 1067'
   - url: lincoln-park-jh-2006-03-03.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-04.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-05.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-06.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-07.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-08.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-09.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-10.jpg
+    sizes: '800, 1067'
   - url: lincoln-park-jh-2006-03-11.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-12.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-13.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-14.jpg
+    sizes: '800, 1067'
   - url: lincoln-park-jh-2006-03-15.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-16.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-17.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-18.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-19.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-20.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-21.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-22.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-23.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-24.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-25.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-26.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-27.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-28.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-29.jpg
+    sizes: '1200, 900'
   - url: lincoln-park-jh-2006-03-30.jpg
+    sizes: '1440, 900'
   - url: lincoln-park-jh-2006-03-31.jpg
+    sizes: '1440, 900'
   - url: lincoln-park-kap-2009-06-01.jpg
+    sizes: '1024, 640'
   - url: lincoln-park-kap-2009-06-02.jpg
+    sizes: '1024, 640'
   - url: lincoln-park-kap-2009-06-03.jpg
+    sizes: '1024, 768'
   - url: lincoln-park-kap-2009-06-04.jpg
+    sizes: '1024, 768'
   - url: lincoln-park-kap-2009-06-05.jpg
+    sizes: '1024, 768'
   - url: lincoln-park-kap-2009-06-06.jpg
+    sizes: '1024, 768'
   - url: lincoln-park-kap-2009-06-07.jpg
+    sizes: '1024, 768'
   - url: lincoln-park-kap-2009-06-08.jpg
+    sizes: '1024, 768'
   - url: lincoln-park-kap-2009-06-09.jpg
+    sizes: '1024, 768'
 
 imagescredit: 'Contributions from The Herald News Fall River, Hippo postcards, and Kerri-Ann Pontifice'
 ---
