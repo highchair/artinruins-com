@@ -51,11 +51,17 @@ images:
     caption: 'A 2020 photo of Sushi Express at 283 after they closed during COVID.'
     sizes: '740, 1036'
   - url: 281-thayer-jh-2020-02-01.jpg
-    caption: 'A 2020 photo of 281'
+    caption: 'A 2020 photo of 281.'
     sizes: '1200, 900'
   - url: 279-thayer-jh-2020-02-01.jpg
     caption: 'A 2020 photo of 279 with the Army Navy store still in place. Notice the house behind as well.'
     sizes: '1200, 900'
+  - url: 283-thayer-jh-2022-03-01.jpg
+    caption: 'A 2022 photo of 283, the facade of Sushi Express.'
+    sizes: '900, 900'
+  - url: 281-1-2-jh-2022-03-01.jpg
+    caption: 'A 2022 photo down the alley between 281 and 279 looking at the facade of 281 and a half.'
+    sizes: '900, 900'
   - url: 283-279-thayer-jh-2022-10-01.jpg
     caption: 'A 2022 photo of 283, 281, and 279 as demolition begins.'
     sizes: '768, 924'

@@ -2,7 +2,9 @@
 title: "Brook Street Residence Halls"
 slug: brown-brook-st-residence-halls
 aka:
-date-modified: 2022-01-18 12:00
+date-modified: 2023-01-22 14:00
+update: 'Added more photos of the construction in progress'
+update-image: residence-halls-jh-2022-08-02.jpg
 
 built: '2022'
 demolition:
@@ -33,13 +35,29 @@ thumbnail: residence-halls-render.jpg
 
 images:
   - url: residence-halls-render.jpg
+    alt: 'Two irregullarly shaped masses five stories tall clad in earth toned brick. Each residence hall is slightly different, but obviously siblings designed with the same ideas and rules. Windows are rectangular, narrow, and very vertical, with some double wide to form more of a square. Rooflines are broken up by changing direction of the pitches.'
+    sizes: '1220, 694'
   - url: residence-halls-jh-2022-01-01.jpg
+    sizes: '1440, 900'
   - url: residence-halls-jh-2022-01-02.jpg
+    sizes: '1440, 900'
   - url: residence-halls-jh-2022-01-03.jpg
+    sizes: '1440, 900'
   - url: residence-halls-jh-2022-01-04.jpg
+    sizes: '1440, 900'
   - url: residence-halls-jh-2022-01-05.jpg
+    sizes: '1440, 900'
+  - url: residence-halls-jh-2022-08-01.jpg
+    caption: 'Looking south at the north face of the east (side of Brook street) residence hall'
+    sizes: '1200, 900'
+  - url: residence-halls-jh-2022-08-02.jpg
+    caption: 'Looking southeast at the north and western faces of the east residence hall'
+    sizes: '1440, 900'
+  - url: residence-halls-jh-2022-08-03.jpg
+    caption: 'Looking north at the southern faces of the west residence hall and the western and southern faces of the east hall, with Brook Street running through the center'
+    sizes: '1440, 900'
 
-mostrecentimage: 2022-01-01
+mostrecentimage: 2023-01-01
 
 imagescredit: 'Architectural rendering from the Brwon University website'
 

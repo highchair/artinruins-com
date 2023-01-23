@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: thayer-street
+  person: 'Amy Champagne'
+  date: '2023-01-15'
+  content: 'Great memories of Thayer Street in the 90’s. Street vendors selling silver jewelry on the sidewalk, shopping at Urban, buying favorite pair of Docs at Berks, getting pierced at Lunasea. Funny how a skate shop did piercing back then. Cool experience nonetheless. Like the 90’s itself, todays version of Thayer will never be as cool. :('
+
 - property: thurston-manufacturing
   person: 'William Moore'
   date: '2023-01-09'
