@@ -2,7 +2,9 @@
 title: "Standardized Wholesale Liquor Co."
 slug: 115-harris-ave
 aka: 'Clubs Monet and Van Gogh'
-date-modified: 2020-08-09 19:00
+date-modified: 2022-01-22 19:00
+update: 'Add two new photos of the crumbling building with blasted windows'
+update-image: 115-harris-jh-2022-12-02.jpg
 
 built: '1937'
 demolition: 
@@ -32,25 +34,47 @@ thumbnail: 115-harris-jh-2019-05-03.jpg
 images:
   - url: 115-harris-jh-2005-11-01.jpg
     alt: 'A three story red brick building with granite edging three-bays wide and four times as deep as it is wide. Built alongside a rail spur, the building bends slightly as it moves back.'
+    sizes: '1440, 900'
   - url: 115-harris-jh-2005-11-02.jpg
+    sizes: '1200, 900'
   - url: 115-harris-jh-2010-10-01.jpg
+    sizes: '1440, 900'
   - url: 115-harris-jh-2010-10-02.jpg
+    sizes: '1200, 900'
   - url: 115-harris-jh-2010-10-03.jpg
+    sizes: '1200, 900'
   - url: 115-harris-jh-2011-04-01.jpg
+    sizes: '1440, 900'
   - url: 115-harris-jh-2011-04-02.jpg
+    sizes: '1440, 900'
   - url: 115-harris-jh-2011-04-03.jpg
+    sizes: '1200, 900'
   - url: 115-harris-jh-2011-04-04.jpg
+    sizes: '1200, 900'
   - url: 115-harris-jh-2011-04-05.jpg
+    sizes: '1200, 900'
   - url: 115-harris-jh-2011-06-01.jpg
+    sizes: '1440, 900'
   - url: 115-harris-jh-2011-06-02.jpg
+    sizes: '1200, 900'
   - url: 115-harris-jh-2011-06-03.jpg
+    sizes: '1200, 900'
   - url: 115-harris-jh-2019-05-01.jpg
+    sizes: '1200, 900'
   - url: 115-harris-jh-2019-05-02.jpg
+    sizes: '1200, 900'
   - url: 115-harris-jh-2019-05-03.jpg
+    sizes: '1200, 900'
   - url: 115-harris-jh-2019-05-04.jpg
+    sizes: '1200, 900'
   - url: 115-harris-jh-2019-05-05.jpg
+    sizes: '1440, 900'
+  - url: 115-harris-jh-2022-12-01.jpg
+    sizes: '1200, 900'
+  - url: 115-harris-jh-2022-12-02.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2019-05-01
+mostrecentimage: 2022-12-01
 
 imagescredit: 
 ---
@@ -62,7 +86,7 @@ This narrow but deep 3-story brick building was home to a few different incarnat
 
 ### Current Events
 
-[Listed for sale on LoopNet](https://www.loopnet.com/Listing/115-Harris-Ave-Providence-RI/19798751/){:target="_blank"} with some interior photos. Slowly succumbing to graffiti and broken windows. 
+[Listed for sale on LoopNet](https://www.loopnet.com/Listing/115-Harris-Ave-Providence-RI/19798751/){:target="_blank"} with some interior photos. Succumbing to graffiti and broken windows and listed on the [2021 Ten Most Endangered List]({% link pps-ten-most-properties.md %}) because of its rapid decay. 
 
 
 ### History

@@ -1,7 +1,7 @@
 ---
 title: "Central Fire Stations, Providence"
 slug: central-fire-stations
-aka: 
+aka: "Hose Co. 1, Hook & Ladder Co. 1, and Protective Co. 1, “Three Ones,” Central Fire Station"
 date-modified: 2022-01-06 14:00
 update: 'Added a new photo from the Providence Public Library showing the Three Ones from the east, with a foundations of pilings driven into the river'
 
@@ -31,7 +31,7 @@ images:
   #- url: central-fire-1886c-three-ones.jpg
   #  caption: 'Providence Journal file photo, circa 1886. The city was celebrating the 250th anniversary of its founding.'
   - url: sanborn-map-1889-xxchange-place-plate-1.jpg
-    caption: 'Detail of a Sanborn Insurance Map from 1889'
+    caption: 'Detail of a Sanborn Insurance Map from 1889. Three Ones in the upper right corner.'
     alt: 'The first fire house located to the southeast of Union Railroad Station. It was a square plan, two-story mansard roof building with a central projecting three-story tower in a simply decorated second empire style.'
   - url: three-ones-ppl-undated-exchange-place.jpg
     caption: 'Photo from the east looking west across Exchange Place, showing the Three Ones fire station, Burnside Monument, the old Union Depot, City Hall, and the Cove — Rhode Island Collection, Providence Public Library'
@@ -40,7 +40,7 @@ images:
   #- url: central-fire-1900c-three-ones.jpg
   #  caption: 'Providence Journal file photo, circa 1900'
   - url: central-fire-1901c-gilbane-construct.jpg
-    caption: 'Part of the Gilbane collection'
+    caption: 'Construction of the Central Fire Station. Part of the Gilbane collection'
   - url: central-fire-1902c-profile.jpg
     alt: 'A large, square plan, three-story firehouse with a central tall tower equal to the height of the lower three stories. The first floor has many double-door, full height openings for fire wagons while the second and third story windows have ornamentation made of alternating courses of granite and brick topped by ornamental granite lintels comprised of alternating quoins.'
   - url: central-fire-1903c-views-of-prov.jpg

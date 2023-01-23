@@ -2,8 +2,9 @@
 title: "South Street Power Station"
 slug: south-street-power
 aka: 'Narragansett Electric Lighting Company, Heritage Harbor, South Street Landing'
-date-modified: 2021-12-29 12:00
-update: 'Added a news story about Robert Freeman who dreamed of South Street becoming a museum as far back as 1984.'
+date-modified: 2023-01-21 12:00
+update: 'Added a new vintage photo of the power plant at night'
+update-image: south-street-unknown-1970c-02.jpg
 
 built: '1912–1925'
 demolition: 
@@ -45,6 +46,9 @@ images:
     sizes: '1173, 880'
   - url: south-street-ppl-1964c-02.jpg
     sizes: '1200, 900'
+  - url: south-street-unknown-1970c-02.jpg
+    caption: 'Undated, the power plant at night in black and white'
+    sizes: '1599, 1256'
   - url: south-street-unknown-1970c-01.jpg
     caption: 'Found on Pinterest, original author and date unknown. Our guess is 1970s. This structure was built in the 1950s and contained two steam generators.'
     sizes: '768, 924'

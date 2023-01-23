@@ -89,6 +89,8 @@ images:
     sizes: '1440, 900'
   - url: wexford-jh-2020-02-01.jpg
     sizes: '1200, 900'
+  - url: wexford-jh-2022-03-01.jpg
+    sizes: '1200, 900'
 
 imagescredit:
 
