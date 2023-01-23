@@ -29,7 +29,7 @@ gmap: "https://www.google.com/maps/place/556+Atwells+Ave,+Providence,+RI+02909/@
 meta: ""
 excerpt: "A large, long, four-story 100 plus year old mill on the corner of Harris and Atwells is revived as apartments and commercial space"
 
-thumbnail: asa-peck-jh-2019-05-01.jpg
+thumbnail: asa-peck-jh-2022-12-02.jpg
 
 images:
   - url: asa-peck-jh-2011-10-01.jpg
@@ -67,6 +67,16 @@ images:
     sizes: '1600, 900'
   - url: asa-peck-jh-2020-12-02.jpg
     sizes: '1200, 900'
+  - url: asa-peck-jh-2022-12-01.jpg
+    sizes: '1440, 900'
+  - url: asa-peck-jh-2022-12-02.jpg
+    sizes: '1440, 900'
+  - url: asa-peck-jh-2022-12-03.jpg
+    sizes: '1200, 900'
+  - url: asa-peck-jh-2022-12-04.jpg
+    sizes: '1440, 900'
+  - url: asa-peck-jh-2022-12-05.jpg
+    sizes: '1440, 900'
   - url: 1908-ljrichards-p14-01.jpg
     caption: '1908 L.J. Richards Map, Plate 14 (private collection)'
     sizes: '1440, 900'
@@ -74,7 +84,7 @@ images:
     caption: '1920-1921 Sanborn Map, Volume 4, Plate 6 — Library of Congress, Geography and Map Division, Sanborn Maps Collection'
     sizes: '1440, 900'
 
-mostrecentimage: 2020-12-01
+mostrecentimage: 2022-12-01
 
 imagescredit: 'Contributions from the Library of Congress'
 

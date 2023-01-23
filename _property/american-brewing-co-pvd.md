@@ -2,7 +2,9 @@
 title: "American Brewing Company"
 slug: american-brewing-co-pvd
 aka: 'Providence Brewing Company, Providence Storage Warehouse, Green Storage Warehouse, Capitol Records'
-date-modified: 2022-12-19 12:00
+date-modified: 2023-01-22 12:00
+update: 'Added nine new photos from the end of 2022 of this monolithic structure.'
+update-image: american-brewing-jh-2022-12-04.jpg
 
 built: '1892'
 demolition:
@@ -34,7 +36,7 @@ thumbnail: american-brewing-wikimedia-2016-03.jpg
 images:
   - url: american-brewing-vintage-1910c.jpg
     alt: 'A large, dense, blocky red brick building painted red. Small rectangular windows with upper story windows featuring round arch tops. Much less window coverage than a typical mill building of the time. The beaux-art detail includes a decorative cornice and round arch moulding details.'
-    caption: 'Undated vintage photo featuring the rooftop sign reading “Providence Brewwing Co.”'
+    caption: 'Undated vintage photo featuring the rooftop sign reading “Providence Brewing Co.”'
     sizes: '900, 960'
   - url: american-brewing-jh-2010-12-01.jpg
     sizes: '1200, 900'
@@ -47,8 +49,29 @@ images:
     sizes: '1200, 900'
   - url: american-brewing-jh-2019-03-03.jpg
     sizes: '1200, 900'
+  - url: american-brewing-jh-2022-12-01.jpg
+    sizes: '1440, 900'
+  - url: american-brewing-jh-2022-12-02.jpg
+    caption: 'Detail of the painted sign reading “CAPITAL RECORDS MANAGEMENT CENTER INC. Records Storage, Certified Destruction, Records Management, Data Storage”'
+    sizes: '1440, 900'
+  - url: american-brewing-jh-2022-12-03.jpg
+    sizes: '1200, 900'
+  - url: american-brewing-jh-2022-12-04.jpg
+    sizes: '1200, 900'
+  - url: american-brewing-jh-2022-12-05.jpg
+    caption: 'Detail of the painted sign reading “CAPITAL RECORDS MANAGEMENT CENTER INC. Records Storage, Records Management, Archival Storage, Certified Destruction, Call (401) 421-1122”'
+    sizes: '1200, 900'
+  - url: american-brewing-jh-2022-12-06.jpg
+    caption: 'Detail of the painted sign below the cornice of the building on the Harris Avenue side. Digitally stretched and straightened which means the proportions may be slightly off.'
+    sizes: '1440, 900'
+  - url: american-brewing-jh-2022-12-07.jpg
+    sizes: '740, 1036'
+  - url: american-brewing-jh-2022-12-08.jpg
+    sizes: '1344, 900'
+  - url: american-brewing-jh-2022-12-09.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2019-03-01
+mostrecentimage: 2022-12-01
 
 imagescredit: 'Contribution from <a href="//en.wikipedia.org/wiki/American_Brewing_Company_Plant#/media/File:American_Brewing_Company_Plant.jpg" target="_blank">Kenneth C. Zirkel</a> for Wikimedia'
 
@@ -72,7 +95,7 @@ Since then, no news has surfaced about the fate of this large, iconic landmark b
 
 ### Current Events
 
-We are unsure what condition the building is in or what the plans are for renovation. 
+We are unsure what condition the building is in or what the plans are for renovation (if any). 
 
 
 ### History
