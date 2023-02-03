@@ -1,6 +1,29 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: providence-armory
+  person: 'James Boucher'
+  date: '2023-02-02'
+  content: 'I visited the armory for the first time in Feb 2023. The site is currently being used to temporarily house the homeless population of Providence and points in between. The building is still majestic… from a distance. The interior is slowly rotting away due to negligence and poor leadership.'
+
+- property: gorham-manufacturing-co
+  person: 'Allen Koenigsberg'
+  date: '2023-02-01'
+  content: 'Although Gorham may be better known in silver-making, I am trying to track down the circumstances in Sep 1910 when the company made a number of miniature bronze (lost-wax) castings of Thomas A. Edison. The artwork was done by Edwin E. Codman, the son of the chief Designer and the figures were distributed at a Electrical Convention (AEIC) held at the Hotel Frontenac (Thousand Islands).
+
+
+Is it possible at this late date to learn how many of these little figures (almost 4" tall) were made? I think Edison is shown holding a battery, and as younger than he was at the time. He personally attended.'
+
+- property: old-miriam-hospital
+  person: 'Elaine Smollin '
+  date: '2023-01-28'
+  content: 'It would be wonderful to know the origins of Jewish refugees and immigrants assisted by the  RI women who created the first Miriam hospital. Did they sponsor Jews who fled the formation and later oppression of Bolshevik USSR, as well as to provide medical care. Did RI citizens help a specific group of Jewish refugees prior to helping them all? Is there a name for the women’s group we can research? Thank you your site!'
+
+- property: lincoln-park-ma
+  person: 'Sean McD'
+  date: '2023-01-27'
+  content: 'twould be a good static reuse for a horror movie… NOT CONDOS.'
+
 - property: thayer-street
   person: 'Amy Champagne'
   date: '2023-01-15'
