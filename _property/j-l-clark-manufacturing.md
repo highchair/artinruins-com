@@ -35,35 +35,60 @@ thumbnail: national-casket-jh-2017-08-04.jpg
 images:
   - url: national-casket-jh-2008-06-01.jpg
     alt: 'A narrow four and a half story red brick mill with arched windows and an opening on every facade. It is four bays wide and fifteen bays long. A basement exposes windows about a quarter tall as the rest of the windows.'
+    sizes: '1200, 900'
   - url: national-casket-jh-2008-06-02.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2008-06-03.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2008-06-04.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2008-06-05.jpg
+    sizes: '1440, 900'
   - url: national-casket-jh-2008-06-06.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2008-06-07.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2008-06-08.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2008-06-09.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2008-06-10.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2008-06-11.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2017-08-01.jpg
+    sizes: '1440, 900'
   - url: national-casket-jh-2017-08-02.jpg
+    sizes: '1440, 900'
   - url: national-casket-jh-2017-08-03.jpg
+    sizes: '1440, 900'
   - url: national-casket-jh-2017-08-04.jpg
+    sizes: '1440, 900'
   - url: national-casket-jh-2021-07-01.jpg
+    sizes: '1440, 900'
   - url: national-casket-jh-2021-07-02.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2021-07-03.jpg
+    sizes: '1200, 900'
   - url: rendering-2021.jpg
     caption: 'Proposed rendering of the redeveloped 50 Ashburton Street building. Seems like the architecture is keen on keeping the tree growing from the top of the chimney.'
+    sizes: '1214, 632'
   - url: national-casket-jh-2021-07-04.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2021-07-05.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2021-11-01.jpg
+    sizes: '1440, 900'
   - url: national-casket-jh-2021-11-02.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2021-11-03.jpg
+    sizes: '1200, 900'
   - url: national-casket-jh-2021-11-04.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contribution by an unknown architect from <a href="//twitter.com/mikegiuttari/status/1349025138847703040" target="_blank">MG Commercial on Twitter</a>'
 
-mostrecentimage: 2021-07-01
+mostrecentimage: 2021-11-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'

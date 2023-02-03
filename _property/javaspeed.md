@@ -29,26 +29,47 @@ thumbnail: javaspeed-jh-2009-10-02.jpg
 images:
   - url: javaspeed-undated.jpg
     alt: 'A local commercial establishment that sold and repaired scooters, which were typically small engine mototcycles. Coffee and snacks were served along with Pinball games and retail in a relaxed, cafe atmosphere'
+    sizes: '900, 900'
   - url: javaspeed-jh-2009-10-01.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-02.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-03.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-04.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-05.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-06.jpg
+    sizes: '768, 924'
   - url: javaspeed-jh-2009-10-07.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-08.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-09.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-10.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-11.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-12.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-13.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-14.jpg
+    sizes: '768, 924'
   - url: javaspeed-jh-2009-10-15.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-16.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-17.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-18.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-19.jpg
+    sizes: '1200, 900'
   - url: javaspeed-jh-2009-10-20.jpg
+    sizes: '1200, 900'
 
 imagescredit: 
 

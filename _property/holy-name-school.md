@@ -34,22 +34,39 @@ thumbnail: holy-name-jh-2020-07-01.jpg
 images:
   - url: holy-name-jh-2015-08-01.jpg
     alt: 'A 2 story grey/tan brick building over a full basement in an M-shaped plan featuring carved soapstone details in classical and religious motifs'
+    sizes: '740, 1036'
   - url: holy-name-jh-2015-08-02.jpg
+    sizes: '1600, 900'
   - url: holy-name-jh-2015-08-03.jpg
+    sizes: '1440, 900'
   - url: holy-name-jh-2015-08-04.jpg
+    sizes: '1440, 900'
   - url: holy-name-jh-2016-09-01.jpg
+    sizes: '1600, 900'
   - url: holy-name-jh-2016-10-01.jpg
+    sizes: '740, 1036'
   - url: holy-name-jh-2016-10-02.jpg
+    sizes: '1600, 900'
   - url: holy-name-jh-2016-11-01.jpg
+    sizes: '1600, 900'
   - url: holy-name-jh-2017-02-01.jpg
+    sizes: '1600, 900'
   - url: holy-name-jh-2017-08-01.jpg
+    sizes: '1200, 900'
   - url: holy-name-jh-2018-09-01.jpg
+    sizes: '1200, 900'
   - url: holy-name-jh-2019-03-01.jpg
+    sizes: '1440, 900'
   - url: holy-name-jh-2019-03-02.jpg
+    sizes: '1440, 900'
   - url: holy-name-jh-2019-07-01.jpg
+    sizes: '1440, 900'
   - url: holy-name-jh-2019-07-02.jpg
+    sizes: '1440, 900'
   - url: holy-name-jh-2020-07-01.jpg
+    sizes: '1440, 900'
   - url: holy-name-jh-2022-05-01.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2022-05-01
 

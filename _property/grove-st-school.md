@@ -30,37 +30,65 @@ thumbnail:
 
 images:
   - url: grove-school-jh-2003-03-01.jpg
-    alt: 'A square plan, red brick, two story former grade school building. Windows were rectangular with granite sils. Two entrances — one for boys, one for girls — are on opposite sides of the building. A cross gable shingled roof with a simple wooden cornice beneath it was on top.'
+    alt: 'A square plan, red brick, two story former grade school building. Windows were rectangular with granite sils. Two entrances — one for boys, one for girls — are on opposite sides of the building. A cross gable shingled roof with a simple wooden cornice beneath it was on top.'
+    sizes: '1440, 900'
   - url: grove-school-jh-2003-03-02.jpg
+    sizes: '1200, 900'
   - url: grove-school-jh-2003-07-01.jpg
+    sizes: '1024, 768'
   - url: grove-school-jh-2003-07-02.jpg
+    sizes: '1024, 768'
   - url: grove-school-jh-2003-07-03.jpg
+    sizes: '1024, 768'
   - url: grove-school-jh-2003-07-04.jpg
+    sizes: '1024, 768'
   - url: grove-school-jh-2003-07-05.jpg
+    sizes: '1024, 768'
   - url: grove-school-jh-2003-07-06.jpg
+    sizes: '1024, 768'
   - url: grove-school-jh-2003-07-07.jpg
+    sizes: '1024, 768'
   - url: grove-school-jh-2003-07-08.jpg
+    sizes: '1024, 768'
   - url: grove-school-jh-2003-07-09.jpg
+    sizes: '1024, 768'
   - url: 18.jpg
+    sizes: '510, 383'
   - url: 19.jpg
+    sizes: '510, 383'
   - url: 20.jpg
+    sizes: '510, 383'
   - url: 21.jpg
+    sizes: '510, 383'
   - url: 22.jpg
+    sizes: '510, 383'
   - url: 23.jpg
+    sizes: '510, 383'
   - url: 24.jpg
+    sizes: '510, 383'
   - url: grove-school-jh-2006-02-01.jpg
+    sizes: '1200, 900'
   - url: grove-school-jh-2006-02-02.jpg
+    sizes: '1200, 900'
   - url: grove-school-jh-2006-02-03.jpg
+    sizes: '1200, 900'
   - url: grove-school-jh-2006-02-04.jpg
+    sizes: '1200, 900'
   - url: grove-school-jh-2006-02-05.jpg
+    sizes: '1200, 900'
   - url: grove-school-jh-2006-02-06.jpg
+    sizes: '1200, 900'
   - url: grove-school-jh-2006-02-07.jpg
+    sizes: '1200, 900'
   - url: grove-school-jh-2006-03-01.jpg
+    sizes: '1200, 900'
   - url: grove-school-jh-2006-04-01.jpg
+    sizes: '1200, 900'
   - url: grove-school-jh-2006-04-02.jpg
+    sizes: '1200, 900'
   
 
-imagescredit: Images contributed by Charles Hagenah Architects
+imagescredit: 'Contributions by Charles Hagenah Architects'
 ---
 
 ### Reason for Demolition
@@ -87,6 +115,7 @@ The Grove Street Elementary School was constructed as a public grammar school du
 
 The [Grove Street school](//guide.ppsri.org/property/grove-street-elementary-school){:target="_blank"} was included on <abbr title="Providence Preservation Society">PPS</abbr>’s Ten Most Endangered Lists in 2002, 2003, 2007, 2008, 2009, 2010, and 2011. 
 
+***
 
 _From the “Broadway-Armory Historic District” National Register nomination form, 1974_
 

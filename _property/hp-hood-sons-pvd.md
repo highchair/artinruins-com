@@ -33,24 +33,41 @@ thumbnail: hp-hood-jh-2019-10-05.jpg
 
 images:
   - url: hp-hood-jh-2011-04-01.jpg
-    alt: ''
+    alt: 'A two-story, rectangular, red brick building as the main structure. On one side is a long loading dock area and a small single story warehouse add-on. On the other side is an angled loading dock set to aling with the curving railroad track spurs nearby. A portion of the first floor was likely the main office and it is set off from the rest of th ebuilding with different brick trim and section of cast concrete containing decorative monograms reading “TCS”.'
+    sizes: '1440, 900'
   - url: hp-hood-jh-2011-04-02.jpg
+    sizes: '1440, 900'
   - url: hp-hood-jh-2011-04-03.jpg
+    sizes: '1440, 900'
   - url: hp-hood-jh-2011-04-04.jpg
     caption: 'Detail of the TCS monogram, standing for Turner Centre Systems, the company that financed the construction of this building'
+    sizes: '768, 924'
   - url: hp-hood-jh-2011-04-05.jpg
+    sizes: '1200, 900'
   - url: hp-hood-jh-2011-04-06.jpg
+    sizes: '1440, 900'
   - url: hp-hood-jh-2011-04-07.jpg
+    sizes: '1200, 900'
   - url: hp-hood-jh-2011-04-08.jpg
+    sizes: '1200, 900'
   - url: hp-hood-jh-2011-04-09.jpg
+    sizes: '1440, 900'
   - url: hp-hood-jh-2019-10-01.jpg
+    sizes: '1440, 900'
   - url: hp-hood-jh-2019-10-02.jpg
+    sizes: '1200, 900'
   - url: hp-hood-jh-2019-10-03.jpg
+    sizes: '1200, 900'
   - url: hp-hood-jh-2019-10-04.jpg
+    sizes: '1440, 900'
   - url: hp-hood-jh-2019-10-05.jpg
+    sizes: '1440, 900'
   - url: hp-hood-jh-2019-10-06.jpg
+    sizes: '1440, 900'
   - url: hp-hood-jh-2019-10-07.jpg
+    sizes: '1200, 900'
   - url: hp-hood-jh-2019-10-08.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2019-10-01
 
@@ -63,7 +80,7 @@ imagescredit:
 
 ### Last Tenant
 
-This building is a bit of an oddity. It is part of the western edge of the Provisions Warehouse District documented by <span class="abbr">HABS/HAER</span> but there were no photos taken. It was not part of the <span class="abbr">RIHPHC</span>’s 1981 Industrial Sites survey, nor was it part of <span class="abbr">PPS/AIAri</span>’s 2002 Industrial Commercial Buildings Survey. Yet there it is still standing today, when [so many in the district have been demolished]({% link list/provisions-warehouse-district.html %}). 
+This building is a bit of an oddity. It is part of the western edge of the Provisions Warehouse District documented by <span class="abbr">HABS/HAER</span> but there were no photos taken. It was not part of the <span class="abbr">RIHPHC</span>’s 1981 Industrial Sites survey, nor was it part of <span class="abbr">PPS/AIAri</span>’s 2002 Industrial Commercial Buildings Survey. Yet there it is, still standing today, when [so many in the district have been demolished]({% link list/provisions-warehouse-district.html %}). 
 
 It is hard to tell if the Providence Journal still actively uses this building. It is a target of graffiti, for sure, and perhaps a target of vandals inside as well. We feel like it is a matter of time before there is a “suspicious fire” inside that leads to its demise. 
 

@@ -5,9 +5,9 @@ aka:
 date-modified: 2020-05-03 21:47
 
 built: 1940s
-demolition: 2002
+demolition: '2002'
 decade: '1940-1949'
-date-added: 2002
+date-added: '2002'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
@@ -28,29 +28,45 @@ thumbnail: hope-st-auto-jh-07.jpg
 images:
   - url: hope-st-auto-jh-01.jpg
     alt: 'A single story, non-decript red brick auto service station with plate glass commercial storefront bay and two garage door bays.'
+    sizes: '1440, 900'
   - url: hope-st-auto-jh-02.jpg
+    sizes: '1440, 900'
   - url: hope-st-auto-jh-03.jpg
+    sizes: '1440, 900'
   - url: hope-st-auto-jh-04.jpg
+    sizes: '1440, 900'
   - url: hope-st-auto-jh-05.jpg
+    sizes: '1440, 900'
   - url: hope-st-auto-jh-06.jpg
+    sizes: '1440, 900'
   - url: hope-st-auto-jh-07.jpg
+    sizes: '1440, 900'
   - url: hope-st-auto-jh-08.jpg
+    sizes: '1440, 900'
   - url: hope-st-auto-jh-09.jpg
+    sizes: '1440, 900'
   - url: hope-st-auto-jh-10.jpg
+    sizes: '1440, 900'
   - url: hope-st-auto-jh-2003-03-01.jpg
+    sizes: '1440, 900'
   - url: hope-st-auto-jh-2003-03-02.jpg
+    sizes: '1440, 900'
   - url: hope-st-auto-jh-2003-05-01.jpg
+    sizes: '1024, 640'
   - url: hope-st-auto-jh-2003-05-02.jpg
+    sizes: '1024, 640'
   - url: google-streetview-aug-2019.jpg
+    sizes: '1440, 900'
 
-imagescredit:  
+imagescredit: 
 ---
 
 ### Reason for Demolition
 
-A sinking feeling entered my gut when I saw the machine. I knew it wouldn’t be long, but I didn’t know it would come down so soon, and so quickly, though, not without its own little fights. Passersby marvelled at the skill of the driver, who picked out peices of metal and separated them as the building came down.
+A sinking feeling entered my gut when I saw the machine. I knew it wouldn’t be long, but I didn’t know it would come down so soon, and so quickly, though, not without its own little fights. Passersby marveled at the skill of the driver, who picked out pieces of metal and separated them as the building came down.
 
 An unassuming little gas station which hasn’t sold gas since what might have been 1992, was up until last year a functioning car repair shop. High rent forced the auto business out, and a “For Sale” sign went up. We called, out of curiosity, because it would have made a great design studio. A price of $350,000 made me think twice. Soon after, a “For Lease” sign appeared with a 617 area code. Some Boston developer, one can assume.
+
 
 ### Current Events
 

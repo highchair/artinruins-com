@@ -35,28 +35,46 @@ thumbnail: hilton-cm-2007-01-01.jpg
 images:
   - url: holiday-inn-1960s-postcard.jpg
     alt: 'A thirteen story, simple rectangular pier and spandrel building with a high glass to coated concrete ratio. The two narrow ends of the building are blank tan brick. A central portico entrance faces Broadway while the back of the hotel is across a small street from the Providence Civic Center.'
+    sizes: '1126, 805'
   - url: hilton-jh-2006-01-01.jpg
+    sizes: '1200, 900'
   - url: hilton-jh-2006-01-02.jpg
+    sizes: '1200, 900'
   - url: hilton-jh-2006-02-01.jpg
+    sizes: '1200, 900'
   - url: hilton-jh-2006-02-02.jpg
+    sizes: '1200, 900'
   - url: hilton-cm-2006-03-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
   - url: hilton-jh-2006-03-01.jpg
+    sizes: '1200, 900'
   - url: hilton-jh-2006-03-02.jpg
+    sizes: '1200, 900'
   - url: hilton-jh-2006-04-01.jpg
+    sizes: '1200, 900'
   - url: hilton-jh-2006-04-02.jpg
+    sizes: '1200, 900'
   - url: hilton-jh-2006-04-03.jpg
+    sizes: '768, 924'
   - url: hilton-jh-2006-04-04.jpg
+    sizes: '768, 924'
   #- url: hilton-jh-2006-08-01.jpg
   - url: hilton-cm-2006-08-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
   - url: hilton-cm-2007-01-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
   - url: hilton-jh-2007-02-01.jpg
+    sizes: '1200, 900'
   - url: hilton-jh-2007-06-01.jpg
+    sizes: '768, 924'
   - url: hilton-jh-2007-06-02.jpg
+    sizes: '768, 924'
   - url: hilton-cm-2015-06-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions from Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>'
 

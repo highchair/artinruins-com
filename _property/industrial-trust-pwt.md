@@ -33,36 +33,57 @@ thumbnail: industrial-trust-jh-2017-09-02.jpg
 
 images:
   - url: industrial-trust-pawtlib-undated-sketch.jpg
-    caption: 'Stylized sketch of the building design, undated and unsigned — Pawtucket Library Digital Collection'
     alt: 'A two story building set edge to edge with surrounding buildings on a dense strip of Main Street considered as quote Downtown Pawtucket end quote. The first floor is a newer commercial steel and glass storefront with recessed entrance. The upper floor is a flat stone veneer with no ornamentation.'
+    caption: 'Stylized sketch of the building design, undated and unsigned — Pawtucket Library Digital Collection'
+    sizes: '900, 900'
   - url: industrial-trust-pawtlib-undated-postcard.jpg
     caption: 'Excerpt from a postcard showing a portion of lower downtown Main St, maybe circa 1905 (Industrial Trust building far right) — Pawtucket Library Digital Collection'
+    sizes: '900, 900'
   - url: main-st-pawtlib-undated-postcard.jpg
     caption: 'Undated postcard of Main Street looking west, Industrial Trust now class in stone veneer with the sign “Clear Weave” — Pawtucket Library Digital Collection'
+    sizes: '1427, 900'
   - url: industrial-trust-pawtlib-undated-photo.jpg
     caption: 'Undated black and white photo of the interior dome — Pawtucket Library Digital Collection'
+    sizes: '1440, 900'
   - url: industrial-trust-pawtlib-1970-10-01.jpg
     caption: 'Industrial Trust as Morton’s department store. October 1970 photo from across the newly emptied lot after the demolition of buildings on the corner of Main and High Streets (including the “old” Peerless department store) — Pawtucket Library Digital Collection'
+    sizes: '1200, 900'
   - url: industrial-trust-pawtlib-1983-01.jpg
     caption: 'Industrial Trust as Sacco’s department store, 1983— Pawtucket Library Digital Collection'
+    sizes: '768, 924'
   - url: industrial-trust-pawtlib-1995-01.jpg
     caption: '1995 photo of the decrepit Sacco’s before being painted over as part of a Main St revitalization effort — Pawtucket Library Digital Collection'
+    sizes: '1200, 900'
   - url: industrial-trust-jh-2005-11-01.jpg
+    sizes: '1200, 900'
   - url: industrial-trust-jh-2008-09-01.jpg
     caption: 'A view of the exterior dome from the neighboring 228 Main Street'
+    sizes: '1200, 900'
   - url: industrial-trust-jh-2010-04-01.jpg
     caption: 'A broader view of the lower portion of Main Street'
+    sizes: '1440, 900'
   - url: industrial-trust-jh-2017-09-01.jpg
+    sizes: '1440, 900'
   - url: industrial-trust-jh-2017-09-02.jpg
+    sizes: '1440, 900'
   - url: industrial-trust-jh-2017-09-03.jpg
+    sizes: '1440, 900'
   - url: industrial-trust-jh-2017-09-04.jpg
+    sizes: '768, 924'
   - url: industrial-trust-jh-2017-09-05.jpg
+    sizes: '768, 924'
   - url: industrial-trust-jh-2017-09-06.jpg
+    sizes: '768, 924'
   - url: industrial-trust-jh-2017-09-07.jpg
+    sizes: '1440, 900'
   - url: industrial-trust-jh-2017-09-08.jpg
+    sizes: '1440, 900'
   - url: industrial-trust-jh-2017-09-09.jpg
+    sizes: '768, 924'
   - url: industrial-trust-jh-2017-09-10.jpg
+    sizes: '1440, 900'
   - url: industrial-trust-jh-2017-09-11.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2017-09-01
 
@@ -77,7 +98,7 @@ imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucket
 
 Honestly, we have no idea who the last real tenant of this building was. It might have been the Sacco’s department store, and we are unsure of what they sold. Around 2007, when we and a business partner purchased the [W.T. Grant building]({% link _property/wt-grant-pwt.md %}) up the street, there was an out-of-state owner who used this building for antique furniture storage and would occasionally open to the public. 
 
-In the early- to mid-2000s, Louis Yip owned most of south-western Main Street from the corner of East Avenue to the former <abbr title="Department of Motor Vehicles">DMV</abbr> now school district building at Park Place and Main. This building seems to have changed in and out of his hands as new potential owners tried to do something with the space. Tax records show that E-O Inc is the current owner, which is a Louis Yip incorporation. 
+In the early- to mid-2000s, Louis Yip owned most of south-western Main Street from the corner of East Avenue to the former <abbr title="Department of Motor Vehicles">DMV</abbr> now school district building at Park Place and Main. This building seems to have changed in and out of his hands as new potential owners tried to do something with the space. Tax records show in 2022 that E-O Inc is the current owner, which is a Louis Yip incorporation. 
 
 
 #### Architecture

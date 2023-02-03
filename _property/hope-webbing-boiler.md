@@ -4,10 +4,10 @@ slug: hope-webbing-boiler
 aka: "School House Candy / American Textile Company"
 date-modified: 2020-06-07 17:00
 
-built: 1901
-demolition: 2004
+built: '1901'
+demolition: '2004'
 decade: '1900-1909'
-date-added: 2003
+date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
@@ -28,47 +28,81 @@ thumbnail: hope-boiler-jh-2003-06-03.jpg
 images:
   - url: hope-boiler-jh-2003-06-01.jpg
     alt: 'A U-shaped, red brick, shallow gable roofed building with tall, slender smokestack on one corner. On the three story section of the building, the hill that it is built into makes a main entrance from road surface at the third floor level. A second story wing protrudes perpendiculary from one end. Windows are all segmental arch with granite sills.'
+    sizes: '1440, 900'
   - url: hope-boiler-jh-2003-06-02.jpg
+    sizes: '1440, 900'
   - url: hope-boiler-jh-2003-06-03.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2003-06-04.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2003-06-05.jpg
+    sizes: '1440, 900'
   - url: hope-boiler-jh-2003-06-06.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2003-06-07.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2003-06-08.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2003-06-09.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2003-06-10.jpg
+    sizes: '720, 900'
   - url: hope-boiler-jh-2003-06-11.jpg
+    sizes: '1440, 900'
   - url: hope-boiler-jh-2003-06-12.jpg
+    sizes: '1440, 900'
   - url: hope-boiler-jh-2003-06-13.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2003-06-14.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2003-06-15.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2003-06-16.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2003-06-17.jpg
+    sizes: '720, 900'
   - url: hope-boiler-mk-2004-07-01.jpg
-    credit: Photo by Michael Knapp
+    sizes: '1440, 900'
   - url: hope-boiler-mk-2004-07-02.jpg
-    credit: Photo by Michael Knapp
+    sizes: '1440, 900'
   - url: hope-boiler-mk-2004-07-03.jpg
-    credit: Photo by Michael Knapp
+    sizes: '1440, 900'
   - url: hope-boiler-mk-2004-07-04.jpg
-    credit: Photo by Michael Knapp
+    sizes: '636, 388'
   - url: hope-boiler-jh-2004-08-01.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2004-08-02.jpg
+    sizes: '1440, 900'
   - url: hope-boiler-jh-2004-08-03.jpg
+    sizes: '1440, 900'
   - url: hope-boiler-jh-2004-08-04.jpg
+    sizes: '1440, 900'
   - url: hope-boiler-jh-2004-08-05.jpg
+    sizes: '1440, 900'
   - url: hope-boiler-jh-2004-11-01.jpg
+    sizes: '1440, 900'
   - url: hope-boiler-jh-2004-11-02.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2004-11-03.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2004-11-04.jpg
+    sizes: '1440, 900'
   - url: hope-boiler-jh-2005-01-01.jpg
+    sizes: '1440, 900'
   - url: hope-boiler-jh-2005-01-02.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2005-01-03.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2005-01-04.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2005-01-05.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2005-01-06.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2005-01-07.jpg
+    sizes: '1200, 900'
   - url: hope-boiler-jh-2005-01-08.jpg
+    sizes: '1200, 900'
 
 imagescredit: Contributions by Michael Knapp
 ---

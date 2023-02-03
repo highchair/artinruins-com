@@ -34,13 +34,21 @@ excerpt: "A wonderful Beaux-Arts fire station on the east side of Providence tha
 images:
   - url: humboldt-21-jh-2021-09-01.jpg
     alt: 'A two story, light grey stone and light grey brick fire house in two symmetrical wings around a central base of two garage door openings. An elaborate copper cornice wraps the roof and featues a few winged details and filagrees.'
+    sizes: '1440, 900'
   - url: humboldt-21-jh-2021-09-02.jpg
+    sizes: '1200, 900'
   - url: humboldt-21-jh-2021-09-03.jpg
+    sizes: '1200, 900'
   - url: humboldt-21-jh-2021-09-04.jpg
+    sizes: '1200, 900'
   - url: humboldt-21-jh-2021-09-05.jpg
+    sizes: '768, 924'
   - url: humboldt-21-jh-2021-09-06.jpg
+    sizes: '768, 924'
   - url: humboldt-21-jh-2021-09-07.jpg
+    sizes: '1200, 900'
   - url: humboldt-21-jh-2021-09-08.jpg
+    sizes: '768, 924'
 
 mostrecentimage: 2021-09-01
 

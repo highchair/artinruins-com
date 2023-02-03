@@ -5,10 +5,10 @@ aka: '2 Whelan Road'
 date-modified: 2020-07-16 12:00
 
 built: '1952'
-demolition: 1989
+demolition: '1989'
 decade: '1950-1959'
 date-added: '2003'
-categories: [ '#UsedToBeThere', '#ArchiveRI' ]
+categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'Silver Lake' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -30,40 +30,56 @@ thumbnail: hartford-ave-tucker-1989-01.jpg
 
 images:
   - url: hartford-apt-aerial-1981.jpg
-    caption: 'Providence Historical Aerial Viewer 1981'
     alt: 'A ten story high rise apartmet building in concrete and with small window openings and alternating floors of recessed bands with small balconies.'
+    caption: 'Providence Historical Aerial Viewer 1981'
+    sizes: '1440, 900'
   - url: hartford-ave-tucker-1989-01.jpg
     caption: 'Photo by Michael “Tucker” Terzian, 1989'
+    sizes: '820, 650'
   - url: hartford-ave-tshirt-1989.jpg
     caption: 'Commemorative tshirt part of the collection of Gary Buttenbaum'
+    sizes: '720, 866'
   - url: hartford-ave-g-1989-01.jpg
     caption: 'Photo by Gemma, 1989'
+    sizes: '775, 512'
   - url: hartford-ave-g-1989-02.jpg
     caption: 'Photo by Gemma, 1989'
+    sizes: '775, 512'
   - url: hartford-ave-g-1989-03.jpg
     caption: 'Photo by Gemma, 1989'
+    sizes: '775, 512'
   - url: hartford-ave-g-1989-04.jpg
     caption: 'Photo by Gemma, 1989'
+    sizes: '775, 512'
   - url: hartford-ave-g-1989-05.jpg
     caption: 'Photo by Gemma, 1989'
+    sizes: '775, 512'
   - url: hartford-ave-g-1989-06.jpg
     caption: 'Photo by Gemma, 1989'
+    sizes: '775, 512'
   - url: hartford-ave-g-1989-07.jpg
     caption: 'Photo by Gemma, 1989'
+    sizes: '775, 512'
   - url: hartford-ave-g-1989-08.jpg
     caption: 'Photo by Gemma, 1989'
+    sizes: '775, 512'
   - url: hartford-ave-g-1989-09.jpg
     caption: 'Photo by Gemma, 1989'
+    sizes: '775, 512'
   - url: hartford-ave-g-1989-10.jpg
     caption: 'Photo by Gemma, 1989'
+    sizes: '775, 512'
   - url: hartford-ave-g-1989-11.jpg
     caption: 'Photo by Gemma, 1989'
+    sizes: '880, 582'
   - url: hartford-ave-g-1989-12.jpg
     caption: 'Photo by Gemma, 1989'
+    sizes: '880, 582'
   - url: hartford-apt-aerial-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997'
+    sizes: '1440, 900'
 
-imagescredit: 'Photos by Tucker, Gary Buttenbaum, Gemma, and aerials from the Providence Historical Aerial Viewer.'
+imagescredit: 'Photos by Tucker, Gary Buttenbaum, Gemma, and aerials from the Providence Historical Aerial Viewer'
 
 ---
 

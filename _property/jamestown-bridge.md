@@ -31,40 +31,57 @@ thumbnail: jamestown-bridge-mk-2003-10-01.jpg
 
 images:
   - url: jamestown-bridge-eg-1995-01.jpg
-    caption: 'Photo by Erik Gould, circa 1995'
     alt: 'A 6,800 foot long steel trussed bridge rising 135 feet above the water connecting North Kingstown and Conanicut island'
+    caption: 'Photo by Erik Gould, circa 1995'
+    sizes: '1176, 920'
   - url: jamestown-bridge-mk-2003-10-01.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '1045, 700'
   - url: jamestown-bridge-mk-2003-10-02.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '1045, 700'
   - url: jamestown-bridge-mk-2003-10-03.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '1045, 700'
   - url: jamestown-bridge-mk-2003-10-04.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '700, 1045'
   - url: jamestown-bridge-mk-2003-10-05.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '700, 1045'
   - url: jamestown-bridge-mk-2003-10-06.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '700, 1045'
   - url: jamestown-bridge-mk-2003-10-07.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '700, 1045'
   - url: jamestown-bridge-mk-2003-10-08.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '700, 1045'
   - url: jamestown-bridge-mk-2003-10-09.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '1045, 700'
   - url: jamestown-bridge-mk-2003-10-10.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '1045, 700'
   - url: jamestown-bridge-mk-2003-10-11.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '1045, 700'
   - url: jamestown-bridge-mk-2003-10-12.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '1045, 700'
   - url: jamestown-bridge-mk-2003-10-13.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '1045, 700'
   - url: jamestown-bridge-mk-2003-10-14.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '700, 1045'
   - url: jamestown-bridge-mk-2003-10-15.jpg
     caption: 'Photo by Matt Kierstead, October 2003'
+    sizes: '700, 1045'
   - url: jamestown-bridge-ra-2006-04-16.jpg
     caption: 'Photo of the demolition explosion by RI Aerials, April 2006'
+    sizes: '510, 383'
 
 imagescredit: 'Contributions by Erik Gould, Matt Kierstead, and RI Aerials'
 ---

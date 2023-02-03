@@ -4,10 +4,10 @@ slug: gulf-station-circular
 aka: 
 date-modified: 2020-05-02 21:48
 
-built: 1968
-demolition: 2003
+built: '1968'
+demolition: '2003'
 decade: '1960-1969'
-date-added: 2003
+date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
@@ -28,27 +28,49 @@ thumbnail: gulf-station-jh-2003-04-06.jpg
 images:
   - url: gulf-station-jh-2003-04-01.jpg
     alt: 'A concrete, circular building with garage doors in some bays and a commercial storefront in another. The flat roof overhung the main column of the building by a few feet, creating a low, flying saucer effect.'
+    sizes: '1440, 900'
   - url: gulf-station-jh-2003-04-02.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-04-03.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-04-04.jpg
+    sizes: '1440, 900'
   - url: gulf-station-jh-2003-04-05.jpg
+    sizes: '1984, 1488'
   - url: gulf-station-jh-2003-04-06.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-04-07.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-04-08.jpg
+    sizes: '1440, 900'
   - url: gulf-station-jh-2003-04-09.jpg
+    sizes: '800, 1067'
   - url: gulf-station-jh-2003-04-10.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-04-11.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-04-12.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-04-13.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-04-14.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-04-15.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-04-16.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-04-17.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-06-01.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-06-02.jpg
+    sizes: '1200, 900'
   - url: gulf-station-jh-2003-06-03.jpg
+    sizes: '1200, 900'
   - url: gulf-station-aerial-2003.jpg
+    sizes: '1440, 900'
   - url: gulf-station-aerial-2008.jpg
+    sizes: '1440, 900'
 
 imagescredit: Aerials from the Providence Historical Aerial Viewer
 ---
@@ -64,15 +86,18 @@ Then, one day, it’s prime location got the best of it. It was hit by a wreckin
 
 It was torn down when the real estate market was hot without a demolition permit by Paolino Properties. The Procaccianti Group’s promise to build something on the site has yet to come to pass, and Paolino’s measley fine for demolishing the structure without permission was paid off long ago by the $10 a car fees they can charge when the Dunk has something going on. 
 
+
 ### Current Events
 
-The site of this former station is still a parking lot, more than 17 years later (2020). 
+The site of this former station is still a parking lot, more than 20 years later (2023). 
+
 
 ### History
 
 _From the RIHPHC’s survey of Downtown Providence, 1981_
 
 Gulf Station (1968): Curtis and Davis, architects. 1-story concrete-block circular structure with brick sheathing, surmounted by a tall metal pole supporting an illuminated globe near the top. This station is inspired more by popular exhibition-and-exhibitionist architecture than by more traditional sources for gas stations, which aim toward establishing a connotative message by their design. It transcends pop trends in roadside architecture to achieve a thin but engaging monumentality adjacent to and visible from the highway. 
+
 
 ### In the News
 
@@ -96,6 +121,8 @@ Despite the uncertainty over the Westin, The Procaccianti Group has had a lot of
 
 A.I.R.: The Holiday Inn got a facelift and is now a Hilton. The Dunkin Donuts Center got an upgrade as well. This former gas station, though, is still a parking lot.
 {: .o__pull-quote }
+
+***
 
 #### The Changing Face Of Historical Preservation
 

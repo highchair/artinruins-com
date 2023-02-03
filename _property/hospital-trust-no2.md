@@ -34,25 +34,40 @@ thumbnail: hosptrust-jh-2021-06-01.jpg
 
 images:
   - url: hosptrust-ppl-drawing.jpg
-    caption: 'Architectural rendering from the John Hutchins Cady Research Scrapbooks — Providence Public Library'
     alt: 'A light gray stone faced, eleven story building with a U shaped section rising above a two story base with double height first floor. Windows are all simple rectangles and ornamentation is reminescent of Greek architecture.'
+    caption: 'Architectural rendering from the John Hutchins Cady Research Scrapbooks — Providence Public Library'
+    sizes: '1200, 1200'
   - url: hosptrust-ppl-1926-01.jpg
     caption: 'Photo labelled taken in 1926 from the John Hutchins Cady Research Scrapbooks — Providence Public Library'
+    sizes: '1200, 1200'
   - url: hosptrust-ppl-c1940-01.jpg
-    caption: 'Photo by William Mills taken from College Hill, out of the Rhode Island Photographs Collection — Providence Public Library'
+    caption: 'Photo by William Mills taken from College Hill, out of the Rhode Island Photographs Collection — Providence Public Library'
+    sizes: '900, 900'
   - url: hosptrust-fm-2004-02-01.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '600, 680'
   - url: hosptrust-jh-2004-06-01.jpg
+    sizes: '1200, 900'
   - url: hosptrust-pdx-2005-03-01.jpg
+    sizes: '922, 691'
   - url: hosptrust-pdx-2005-03-02.jpg
+    sizes: '922, 691'
   - url: hosptrust-woneffe-2005-01.jpg
+    sizes: '1200, 804'
   - url: hosptrust-jh-2021-06-01.jpg
+    sizes: '1200, 900'
   - url: hosptrust-jh-2021-06-02.jpg
+    sizes: '1200, 900'
   - url: hosptrust-jh-2021-06-03.jpg
+    sizes: '1200, 900'
   - url: hosptrust-jh-2021-06-04.jpg
+    sizes: '1200, 900'
   - url: hosptrust-jh-2021-06-05.jpg
+    sizes: '1200, 900'
   - url: hosptrust-jh-2021-06-06.jpg
+    sizes: '1200, 900'
   - url: hosptrust-jh-2021-06-07.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2021-06-01
 

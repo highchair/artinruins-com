@@ -34,45 +34,79 @@ thumbnail: hope-web-jh-2004-07-01.jpg
 
 images:
   - url: hope-web-female-workers-1918.jpg
-    caption: '“Some of the employees. All wear bloomers. Hope Webbing Company.” — Series: American Unofficial Collection of World War I Photographs, 1917–1918, from the National Archives'
     alt: 'A seven-acre series of long two-story red brick mill buildings with typical large windows and flat roofs. The rear elevation of the property is lower than the front, and a five story building runs across it. The Main Street facade features a central archway leading into a court yard with two towers flanking the south and north sides, all of red brick with granite lintels and fenestration.'
+    caption: '“Some of the employees. All wear bloomers. Hope Webbing Company.” — Series: American Unofficial Collection of World War I Photographs, 1917–1918, from the National Archives'
+    sizes: '1280, 819'
   - url: hope-web-sanborn-1902-01.jpg
-    caption: '1902 and earlier, the Hope Webbing Company complex started as two weave sheds and a finishing mill — Sanborn Insurance Map, 1902, from the Brown University Digital Repository'
+    caption: '1902 and earlier, the Hope Webbing Company complex started as two weave sheds and a finishing mill — Sanborn Insurance Map, 1902, from the Brown University Digital Repository'
+    sizes: '1440, 900'
   - url: hope-web-sanborn-1923-01.jpg
     caption: 'By 1923, two more weave sheds were added, one on either side, the finishing mill is expanded, and a boiler plant was built across Esten Street — Sanborn Insurance Map, 1923, from the Brown University Digital Repository'
+    sizes: '1440, 900'
   - url: hope-web-aerial-map.jpg
     caption: 'Aerial map of the Hope Webbing Complex with build dates from the National Register Nomination form'
+    sizes: '1000, 750'
   - url: hope-web-ppl-1950-1960-aerial.jpg
     caption: 'Avery Lord Aerial Photograph Collection, Providence Public Library'
+    sizes: '1960, 1225'
   - url: hope-web-jh-2004-07-01.jpg
+    sizes: '1440, 900'
   - url: hope-web-jh-2004-07-02.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2004-07-03.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2004-07-04.jpg
+    sizes: '768, 924'
   - url: hope-web-jh-2004-07-05.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2004-07-06.jpg
+    sizes: '768, 924'
   - url: hope-web-jh-2004-07-07.jpg
+    sizes: '1440, 900'
   - url: hope-web-jh-2004-07-08.jpg
+    sizes: '768, 924'
   - url: hope-web-jh-2004-07-09.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2004-08-01.jpg
+    sizes: '1440, 900'
   - url: hope-web-jh-2004-11-01.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2004-11-02.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2004-11-03.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2004-11-04.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2004-11-05.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2004-11-06.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2004-11-07.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2005-08-01.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2005-08-02.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2005-08-03.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2005-08-04.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2005-08-05.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2005-08-06.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2005-08-07.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2018-10-01.jpg
+    sizes: '1440, 900'
   - url: hope-web-jh-2018-10-02.jpg
+    sizes: '1440, 900'
   - url: hope-web-jh-2019-04-01.jpg
+    sizes: '1200, 900'
   - url: hope-web-jh-2019-04-02.jpg
+    sizes: '1440, 900'
   - url: hope-web-jh-2019-04-03.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2019-04-01
 
@@ -81,6 +115,7 @@ imagescredit: 'Contributions from the <a href="//repository.library.brown.edu/st
 external:
   - source: 'Library of Congress, “Noon hour, Hope Webbing Co.”, 1903, Silent Film'
     url: https://www.loc.gov/item/00563602/
+
 ---
 
 ### Redevelopment
@@ -91,7 +126,7 @@ The event that really packed the halls was the Fall/Winter Farmer’s Market whi
 
 In 2019, the Farmer’s Market and Farm Fresh RI moved to their own building in the Valley section of Providence, which was a blow to the foot traffic at the mill. Smaller events persisted but then the Pandemic of 2020–2021 lowered foot traffic further. 
 
-By 2020, though, Phase 2 was complete and 149 apartments became available in the former finishing house, later School House Candy. The residential entrance for these new lofts is at 200 Esten Street and has been dubbed _The Village Lofts_. A [news story](#in-the-news) with more information is below. 
+By 2020, though, Phase 2 was complete and 149 apartments became available in the former finishing house, later School House Candy. The residential entrance for these new lofts is at 200 Esten Street and has been dubbed _The Village Lofts_. A [news story](#in-the-news) with more information below. 
 
 
 ### Current Events

@@ -29,28 +29,43 @@ thumbnail: iway-bridge-jh-2006-06-01.jpg
 
 images:
   - url: iway-bridge-2006-08-30.jpg
+    alt: 'A modern arch-type highway bridge over the Providence River just south of the 1940s-constructed Hurricane barrier. Art Deco Moderne decorations flank the bridge as pillars on both land sides. '
     caption: 'Web cam photo downloaded August 30, 2006'
-    alt: ''
+    sizes: '640, 480'
   - url: iway-bridge-2007-04-21.jpg
     caption: 'Web cam photo downloaded April 21, 2007'
+    sizes: '640, 480'
   - url: iway-bridge-2007-10-14.jpg
     caption: 'Web cam photo downloaded October 14, 2007. Notice that the support struts have been removed'
+    sizes: '640, 480'
   - url: iway-bridge-jh-2006-06-01.jpg
+    sizes: '1440, 900'
   - url: iway-bridge-jh-2006-08-01.jpg
+    sizes: '1440, 900'
   - url: iway-bridge-jh-2006-08-02.jpg
+    sizes: '1440, 900'
   - url: 2006-08-27.jpg
+    sizes: '510, 383'
   - url: 2007-06-01.jpg
+    sizes: '510, 383'
   - url: 2007-06-02.jpg
+    sizes: '510, 383'
   - url: 2007-06-03.jpg
+    sizes: '510, 383'
   - url: 2007-09-01.jpg
+    sizes: '510, 383'
   - url: 2007-10-01-fm.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '510, 383'
   - url: 2007-10-02-fm.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '510, 383'
   - url: 2007-10-03-fm.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '510, 383'
   - url: 2007-10-04-fm.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '510, 383'
 
 mostrecentimage: 2007-10-01
 
@@ -72,7 +87,7 @@ At the end of August, 2006, the assembled bridge arrived and stayed on its float
 
 ### Design Reception
 
-The “network arch” design creates a series of diagonals criss-crossing each other from the arch down to the bridge deck it supports. These triangles change shape as one moves across the bridge, giving the passersby a sense of action along with a relatively unobstructed view of downtown Providence and the harbor. We are glad that the city and state took this opportunity to create infrastructure that can also make a design statement. For the traditional architecture purists, Art-Deco-detailed pillars anchor the junctions between roadway and bridge, trimmed in brass and glass panels.  
+The “network arch” design creates a series of diagonals criss-crossing each other from the arch down to the bridge deck it supports. These triangles change shape as one moves across the bridge, giving the passersby a sense of action along with a relatively unobstructed view of downtown Providence and the harbor. We are glad that the city and state took this opportunity to create infrastructure that can also make a design statement. For the traditional architecture purists, Art-Deco-detailed pillars anchor the junctions between roadway and bridge, trimmed in brass and glass panels. 
 
 The public was given an opening day and thousands of people showed up to walk over the bridge for the first time. 
 
@@ -112,6 +127,7 @@ Using steel ramps, the transporters will move the bridge onto the barges crosswi
 
 The barges are the Chesapeake Trader and Atlantic Trader, both 300 feet long and normally used to haul cargo containers. They belong to McAllister Towing and Transportation Co. of New York City.
 
+***
 
 #### Public Invited To Walk Over New Bridge
 

@@ -34,42 +34,62 @@ thumbnail: indy-trust-jh-2012-07-01.jpg
 
 images:
   - url: first-indy-trust-ppl-postcard-01.jpg
-    caption: 'The first Industrial Trust building, which remodelled portions of the Atlantic Buidling, located at 49 Westminster Street, now the site of the c.1970 Hospital Trust tower (One Financial Plaza). Date is likely 1900–1910. View from the junction of Weybosset and Westminster in front of the building previous to the Turk’s Head. Rhode Island Postcard Collection, Providence Public Library'
     alt: 'An art deco style, granite-covered, 26-story office tower built for the Industrial Trust Company. A full description of the architecture can be read in the History section of this page.'
+    caption: 'The first Industrial Trust building, which remodelled portions of the Atlantic Buidling, located at 49 Westminster Street, now the site of the c.1970 Hospital Trust tower (One Financial Plaza). Date is likely 1900–1910. View from the junction of Weybosset and Westminster in front of the building previous to the Turk’s Head. Rhode Island Postcard Collection, Providence Public Library'
+    sizes: '1400, 900'
   - url: first-indy-trust-ppl-postcard-02.jpg
     caption: 'The expanded Industrial Trust after 1910. Rhode Island Postcard Collection, Providence Public Library'
+    sizes: '1395, 900'
   - url: indy-trust-ppl-photo-1928.jpg
     caption: 'The tower under construction, circa 1928. Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1200, 900'
   - url: indy-trust-ppl-photo-tower-1928.jpg
     caption: 'Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '740, 1036'
   - url: indy-trust-ppl-photo-c1930.jpg
     caption: 'The tower shortly after construction. Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1200, 900'
   - url: indy-trust-ppl-postcard-01.jpg
     caption: 'A postcard image of the building shortly after construction. Rhode Island Postcard Collection, Providence Public Library'
+    sizes: '647, 1024'
   - url: indy-trust-ppl-postcard-02.jpg
     caption: 'A postcard image of first floor lobby and public banking area. Rhode Island Postcard Collection, Providence Public Library'
+    sizes: '1410, 900'
   - url: indy-trust-ppl-exchange-place.jpg
     caption: 'Aerial view from Exchange Place. Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '740, 1036'
   - url: indy-trust-jh-2012-07-01.jpg
+    sizes: '1200, 900'
   - url: indy-trust-jh-2012-10-01.jpg
     caption: 'Interior of the lobby during the Providence Preservation Society’s Winter Bash, 2012'
+    sizes: '1440, 900'
   - url: indy-trust-jh-2012-10-02.jpg
+    sizes: '740, 1036'
   - url: indy-trust-jh-2012-10-03.jpg
+    sizes: '740, 1036'
   - url: indy-trust-jh-2012-10-04.jpg
     caption: 'Funky wallpaper in a bathroom near the top floor penthouse'
+    sizes: '1200, 900'
   - url: indy-trust-jh-2012-10-05.jpg
     caption: 'A blurry photo of a butler/bartender pantry near the top floor penthouse'
+    sizes: '740, 1036'
   - url: indy-trust-jh-2012-10-06.jpg
     caption: 'The interior entrance door to a secret gondola car-style meeting room above the penthouse floor'
+    sizes: '740, 1036'
   - url: indy-trust-jh-2012-10-07.jpg
     caption: 'Interior view of the gondola car-style meeting room'
+    sizes: '1200, 900'
   - url: indy-trust-jh-2012-10-08.jpg
     caption: 'Interior view of the gondola car-style meeting room'
+    sizes: '1200, 900'
   - url: indy-trust-jh-2012-10-09.jpg
     caption: 'Inside (!) the lantern housing at the top of the Superman Building'
+    sizes: '740, 1036'
   - url: indy-trust-jh-2012-10-10.jpg
     caption: 'Inside (!) the lantern housing at the top of the Superman Building'
+    sizes: '1200, 900'
   - url: indy-trust-jh-2013-10-01.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2013-10-01
 

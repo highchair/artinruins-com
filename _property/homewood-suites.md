@@ -35,18 +35,31 @@ thumbnail: homewood-jh-2020-10-01.jpg
 images:
   - url: homewood-jh-2018-01-01.jpg
     alt: 'An eight-story trapezoidal U-shaped hotel building clad in tan stucco and red brick. The two ground floors are conference, lobby, and amenity spaces while the upper six floors are extended stay guest rooms with mini kitchens. The architecture is rather bland and box-like which little detail to speak of.'
+    sizes: '1200, 900'
   - url: homewood-jh-2018-03-01.jpg
+    sizes: '768, 924'
   - url: homewood-jh-2018-03-02.jpg
+    sizes: '1440, 900'
   - url: homewood-jh-2018-05-01.jpg
+    sizes: '1440, 900'
   - url: homewood-jh-2018-05-02.jpg
+    sizes: '1440, 900'
   - url: homewood-jh-2018-07-01.jpg
+    sizes: '768, 924'
   - url: homewood-jh-2019-03-01.jpg
+    sizes: '1200, 900'
   - url: homewood-jh-2020-03-01.jpg
+    sizes: '1200, 900'
   - url: homewood-jh-2020-10-01.jpg
+    sizes: '1200, 900'
   - url: homewood-jh-2020-10-02.jpg
+    sizes: '1200, 900'
   - url: homewood-jh-2020-10-03.jpg
+    sizes: '1200, 900'
   - url: homewood-jh-2020-10-04.jpg
+    sizes: '1200, 900'
   - url: homewood-jh-2020-10-05.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2020-10-01
 
