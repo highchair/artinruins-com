@@ -280,7 +280,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 
 + 19th Century Mill Buildings
 + 194 Broadway
-+ Bannister House
++ [Bannister House]({% link _property/bannister-house-pvd.md %})
 + The Dwight House and the Nursery Carriage House
 + Hope High School
 + Manton Avenue School
