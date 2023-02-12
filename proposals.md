@@ -19,7 +19,21 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 ## On The Boards
 
 
-### NEW 116 Waterman Street
+### NEW 122 Power Street
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/122-power-st-2022-09-01.jpg" alt="">
+  <figcaption>Rendering by KITE Architects, dated September 2022</figcaption>
+</figure>
+
+During the planning process for the [Brook Street Residence Halls]({% link _property/brown-brook-st-residence-halls.md %}), [one recommendation from the community](//brookstreet.brown.edu/community-engagement){:target="_blank"} was that Brown build a single-family residential house at the northeast corner of Brook and Power Streets. This is currently an unimproved gravel construction staging area and was previously a parking lot adjacent to a house Brown bought, 126 Power Street. In response to that feedback, Brown committed to the goals of a house that was appropriately situated on the corner, holds the residential edge where neighborhood and campus meet, and sustains the historical fabric of the street. Brown has hired Christine West of Kite Architects to design this proposed new house. 
+
+This proposed new house has received conceptual approval from the Providence Historic District Commission (PHDC) and is slated for consideration by the Providence Zoning Board in February. The City Planning Department has issued a recommendation against the zoning variances needed to build this house. If the Zoning Board denies the University’s requested relief, Brown cannot move forward on this project.
+
+If approved by the City, Brown intends to sell this house to Brown faculty or staff as part of the Brown to Brown Home Ownership Program. To date, Brown has renovated and sold 21 Brown-owned houses to faculty and staff over the past fifteen years, putting millions of dollars of property back on the tax rolls. All of these properties are on College Hill, and allow faculty and staff housing close to campus.
+
+
+### 116 Waterman Street
 
 <figure class="u__img">
   <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/116-waterman-st-2023-01-16.jpg" alt="">
