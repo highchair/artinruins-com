@@ -3,7 +3,7 @@ permalink: assets/js/all-properties.js
 ---
 
 // List out all properties into an array
-{%- assign properties = site.property | sort: "date-added" | reverse -%}
+{%- assign properties = site.property | sort: "title" -%}
 {% if properties.size > 0 %}
 const allProps = [
   {%- for property in properties -%}
