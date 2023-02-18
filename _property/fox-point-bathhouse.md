@@ -31,21 +31,36 @@ thumbnail: bathhouse-jh-2003-11-11.jpg
 
 images:
   - url: bathhouse-jh-2003-11-01.jpg
-    alt: 'A small, red-brick municipal building with two entrances — one for men, one for women — to use as a public bathing center at a time when many local housing units did not have their own indoor plumbing'
+    alt: 'A small, red-brick municipal building with two entrances — one for men, one for women — to use as a public bathing center at a time when many local housing units did not have their own indoor plumbing'
+    sizes: '1200, 900'
   - url: bathhouse-jh-2003-11-02.jpg
+    sizes: '1200, 900'
   - url: bathhouse-jh-2003-11-03.jpg
+    sizes: '1200, 900'
   - url: bathhouse-jh-2003-11-04.jpg
+    sizes: '1200, 900'
   - url: bathhouse-jh-2003-11-05.jpg
+    sizes: '1200, 900'
   - url: bathhouse-jh-2003-11-06.jpg
+    sizes: '1200, 900'
   - url: bathhouse-jh-2003-11-07.jpg
+    sizes: '1200, 900'
   - url: bathhouse-jh-2003-11-08.jpg
+    sizes: '1200, 900'
   - url: bathhouse-jh-2003-11-09.jpg
+    sizes: '1200, 900'
   - url: bathhouse-jh-2003-11-10.jpg
+    sizes: '1200, 900'
   - url: bathhouse-jh-2003-11-11.jpg
+    sizes: '1200, 900'
   - url: bathhouse-gil-unknown-01.jpg
+    sizes: '1200, 900'
   - url: bathhouse-gil-unknown-02.jpg
+    sizes: '1200, 900'
   - url: bathhouse-gil-unknown-03.jpg
+    sizes: '1200, 900'
   - url: bathhouse-gil-unknown-04.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2003-11-01
 

@@ -16,7 +16,7 @@ neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'Providence Industrial Sites 1981', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981' ]
 tags: []
 
 NRHP-ref-number:
@@ -35,24 +35,38 @@ thumbnail: fuller-iron-jh-2020-02-04.jpg
 images:
   - url: fuller-iron-jh-2012-01-01.jpg
     alt: 'A three story, red brick, five bay by ten bay gable-roofed mill building. The first floor windows are twice as tall as the ones on the third. A central full height window opening is located on the gable-end, with a large arched window that was added in the 1960s. A stepped brick cornice follows the roofline all the way around the building. Window sills are granite and window lintels are low-arched brick.'
+    sizes: '1440, 900'
   - url: fuller-iron-jh-2020-02-01.jpg
+    sizes: '1440, 900'
   - url: fuller-iron-jh-2020-02-02.jpg
+    sizes: '1200, 900'
   - url: fuller-iron-jh-2020-02-03.jpg
+    sizes: '768, 924'
   - url: fuller-iron-jh-2020-02-04.jpg
+    sizes: '1440, 900'
   - url: fuller-iron-jh-2020-02-05.jpg
+    sizes: '1200, 900'
   - url: fuller-iron-jh-2020-02-06.jpg
+    sizes: '1440, 900'
   - url: fuller-iron-jh-2020-05-01.jpg
+    sizes: '1200, 900'
   - url: fuller-iron-jh-2022-03-01.jpg
     caption: 'View southeast with the new 580 South Water street in the background'
+    sizes: '1440, 900'
   - url: fuller-iron-jh-2022-03-02.jpg
+    sizes: '1200, 900'
   - url: fuller-iron-jh-2022-03-03.jpg
     caption: 'View north northwest with the under construction parcel 6 of the I-195 land redevelopment'
+    sizes: '1440, 900'
   - url: fuller-iron-jh-2022-03-04.jpg
     caption: 'View southwest with the Manchester Street Generating Station in the background'
+    sizes: '1440, 900'
   - url: fuller-iron-sanborn-1889-01.jpg
     caption: 'Sanborn Insurance Map 1889, Volume 2, Plate 42a — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: fuller-iron-sanborn-1899-01.jpg
     caption: 'Sanborn Insurance Map 1899, Volume 2, Plate 95a — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
 
 mostrecentimage: 2022-03-01
 

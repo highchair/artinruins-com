@@ -32,36 +32,62 @@ thumbnail: fram-sb-2017-07-02.jpg
 images:
   - url: fram-vintage-farm-prov-address.jpg
     caption: 'Vintage ad from Farm Supply Journal. Notice the Providence address.'
+    sizes: '560, 780'
   - url: fram-vintage-motorage-prov-address.jpg
     caption: 'Vintage ad from Motor Age, 1949. Notice the Providence address.'
+    sizes: '792, 1161'
   - url: fram-cm-2012-08-01.jpg
     caption: 'Photo by Camp Miriam, Flickr, August 2012'
+    sizes: '780, 478'
   - url: fram-cm-2012-08-02.jpg
     caption: 'Photo by Camp Miriam, Flickr, August 2012'
+    sizes: '755, 478'
   - url: fram-sb-2017-07-01.jpg
     caption: 'Photo by Sandor Bodo for the Providence Journal, July 2017'
+    sizes: '960, 622'
   - url: fram-sb-2017-07-02.jpg
     caption: 'Photo by Sandor Bodo for the Providence Journal, July 2017'
+    sizes: '960, 572'
   - url: fram-sb-2017-07-03.jpg
     caption: 'Photo by Sandor Bodo for the Providence Journal, July 2017'
+    sizes: '960, 572'
   - url: fram-jh-2018-11-01.jpg
+    sizes: '800, 1067'
   - url: fram-jh-2018-11-02.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-03.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-04.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-05.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-06.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-07.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-08.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-09.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-10.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-11.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-12.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-13.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-14.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-15.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-16.jpg
+    sizes: '1440, 900'
   - url: fram-jh-2018-11-17.jpg
-  - url: fram-jh-2020-08-01.jpg
+    sizes: '1440, 900'
+  - url: fram-sb-2020-08-01.jpg
+    caption: 'Photo by Sandor Bodo for the Providence Journal, August 2020'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from Camp Miriam (Flickr) and Sandor Bodo for the Providence Journal'
 ---

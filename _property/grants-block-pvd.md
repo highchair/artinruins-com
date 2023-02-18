@@ -5,9 +5,9 @@ aka: "the former Traveller’s Aid"
 date-modified: 2020-05-02 21:49
 
 built: 
-demolition: 2005
+demolition: '2005'
 decade: '1890-1899'
-date-added: 2004
+date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
@@ -21,44 +21,69 @@ longitude: '-71.4148588'
 gmap: "https://www.google.com/maps/place/177+Union+St,+Providence,+RI+02903/@41.8223388,-71.4148588,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451383a0df85:0x5b5bcd4911651bfd!8m2!3d41.8223388!4d-71.4126701"
 
 meta: ""
-excerpt: "A conglomeration of possibly six 1-3 story structures bounded by Westminster, Union, and Weybosset Streets razed in 2005 for a proposed parking garage."
+excerpt: "A conglomeration of possibly six 1 to 3 story structures bounded by Westminster, Union, and Weybosset Streets razed in 2005 for a proposed parking garage"
 
 thumbnail: grants-block-jh-2004-03-03.jpg
 
 images:
   - url: grants-block-jh-2004-03-01.jpg
-    alt: 'A small collection of unattractive, multi-story red brick commercial structures. The Westminster Street façade was multi-story but with no windows on the upper floors. A commercial storefront occupied the first floor.'
+    alt: 'A small collection of unattractive, multi-story red brick commercial structures joined together over the years by various projects to connect the interior spaces. The Westminster Street façade was multi-story but with no windows on the upper floors. A commercial storefront occupied the first floor.'
+    sizes: '1200, 900'
   - url: grants-block-jh-2004-03-02.jpg
+    sizes: '1200, 900'
   - url: grants-block-jh-2004-03-03.jpg
+    sizes: '1440, 900'
   - url: grants-block-jh-2004-03-04.jpg
+    sizes: '1200, 900'
   - url: grants-block-jh-2004-03-05.jpg
+    sizes: '1200, 900'
   - url: grants-block-dw-2000-01.jpg
-    caption: Photo by David Westcott
+    caption: 'Photo by David Westcott'
+    sizes: '640, 480'
   - url: grants-block-dw-2000-02.jpg
-    caption: Photo by David Westcott
+    caption: 'Photo by David Westcott'
+    sizes: '480, 640'
   - url: grants-block-dw-2000-03.jpg
-    caption: Photo by David Westcott 
+    caption: 'Photo by David Westcott'
+    sizes: '640, 480'
   - url: grants-block-dw-2000-04.jpg
-    caption: Photo by David Westcott
+    caption: 'Photo by David Westcott'
+    sizes: '480, 640'
   - url: grants-block-dw-2000-05.jpg
-    caption: Photo by David Westcott
+    caption: 'Photo by David Westcott'
+    sizes: '480, 640'
   - url: grants-block-sc-2004-10-01.jpg
+    sizes: '1200, 900'
   - url: grants-block-sc-2004-10-02.jpg
+    sizes: '1200, 900'
   - url: grants-block-sc-2004-10-03.jpg
+    sizes: '800, 1067'
   - url: grants-block-sc-2004-10-04.jpg
+    sizes: '1200, 900'
   - url: grants-block-sc-2004-10-05.jpg
+    sizes: '1200, 900'
   - url: grants-block-sc-2004-10-06.jpg
+    sizes: '1440, 900'
   - url: grants-block-sc-2004-10-07.jpg
+    sizes: '1200, 900'
   - url: grants-block-sc-2004-10-08.jpg
+    sizes: '1200, 900'
   - url: grants-block-sc-2004-10-09.jpg
+    sizes: '1200, 900'
   - url: grants-block-jh-2005-11-01.jpg
+    sizes: '1200, 900'
   - url: grants-block-jh-2005-11-02.jpg
+    sizes: '1200, 900'
   - url: grants-block-jh-2005-11-03.jpg
+    sizes: '1200, 900'
   - url: grants-block-jh-2005-11-04.jpg
+    sizes: '1200, 900'
   - url: grants-block-aerial-map.jpg
+    sizes: '520, 380'
   - url: grants-block-brochure-map.jpg
+    sizes: '940, 820'
 
-imagescredit: Contributed images from Sarah Clover and David Westcott. Map from a Cornish Downcity living brochure. 
+imagescredit: 'Contributed images from Sarah Clover and David Westcott. Map from a Cornish Downcity living brochure.'
 ---
 
 ### Reason for Demolition

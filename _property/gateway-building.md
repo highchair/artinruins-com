@@ -33,14 +33,23 @@ thumbnail: amer-express-jh-2005-10-02.jpg
 images:
   - url: amer-express-jh-2005-10-01.jpg
     alt: 'A four-story off-kilter parallelogram finished in smooth stone with copper trim and highlights. A semi-circular recessed entrance faces the State House while a rather flat and lifeless façade faces the street and railroad station entrance.'
+    sizes: '1440, 900'
   - url: amer-express-jh-2005-10-02.jpg
+    sizes: '1440, 900'
   - url: amer-express-jh-2005-10-03.jpg
+    sizes: '1440, 900'
   - url: amer-express-jh-2005-10-04.jpg
+    sizes: '1440, 900'
   - url: amer-express-jh-2005-10-05.jpg
+    sizes: '1440, 900'
   - url: amer-express-jh-2005-10-06.jpg
+    sizes: '1200, 900'
   - url: amer-express-jh-2005-10-07.jpg
+    sizes: '1200, 900'
   - url: amer-express-jh-2005-10-08.jpg
+    sizes: '1440, 900'
   - url: amer-express-jh-2005-10-09.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2005-10-01
 

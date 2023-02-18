@@ -15,7 +15,7 @@ neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'Thomas Fletcher' ]
-lists: [ 'Moshassuck Square Historic District', 'HABS HAER', 'PPS/AIA Industrial Commercial Buildings Survey', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
+lists: [ 'HABS HAER', 'Inventory of Historic Engineering & Industrial Sites 1978', 'Moshassuck Square Historic District', 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '709380013 (contributing)'
@@ -33,23 +33,36 @@ thumbnail: fletcher-jh-2021-04-06.jpg
 
 images:
   - url: fletcher-gmhopkins-1937-01.jpg
-    caption: 'In the upper right is the International Braid Company, labelled in 1937 on these G.M. Hopkins cadastral map (this is a mash up of Plates 5 and 22). Notice how different the street and railroad pattern is around the site — Charles Street no longer passes by the West of the office building, but rather around the east side and north as Mill Street does.'
     alt: 'A slightly trapezoidal shaped group of three buildings starts narrow in the front, with the oldest building of red brick with rusticated brownstone details and a mansard roof of slate tiles with protruding dormer windows. Ornamental brickwork courses run under a wooden cornice. In the center of the west wall is a browstone cartouche displaying the name of the firm in pro­jected lettering. A similar plaque on the north façade bears the date of construction. A lower, more modest, three-story brick warehouse abuts the south end of the office which comple­ments the main building but is not nearly as ornate. Abutting the south end of that warehouse is a newer 1980s addition which is also complementary in design.'
+    caption: 'In the upper right is the International Braid Company, labelled in 1937 on these G.M. Hopkins cadastral map (this is a mash up of Plates 5 and 22). Notice how different the street and railroad pattern is around the site — Charles Street no longer passes by the West of the office building, but rather around the east side and north as Mill Street does.'
+    sizes: '1440, 900'
   - url: fletcher-aerial-1939-01.jpg
     caption: 'Highlighted in yellow is all that remains today of the once sprawling Fletcher Manufacturing company complex. Aerial from the Providence Historical Aerial Viewer, 1939.'
+    sizes: '1440, 900'
   - url: fletcher-ppl-1940s-01.jpg
     caption: 'One of the earlier mill buildings of the Fletcher Manufacturing company, built 1866, demolished in the late 1960s after a fire. Photo is labelled as taken in the 1940s but we think it is probably older, likely the mid-1930s — Rhode Island Mills and Mill Villages Photograph Collection, Providence Public Library'
+    sizes: '1200, 929'
   - url: fletcher-ppl-1970-09-01.jpg
     caption: 'Photo from the National Register nomination form for the Moshassuck Square Historic District, September 1970, photographer unknown'
+    sizes: '1200, 900'
   - url: fletcher-jh-2021-04-01.jpg
+    sizes: '1800, 751'
   - url: fletcher-jh-2021-04-02.jpg
+    sizes: '1440, 900'
   - url: fletcher-jh-2021-04-03.jpg
+    sizes: '1200, 900'
   - url: fletcher-jh-2021-04-04.jpg
+    sizes: '1200, 900'
   - url: fletcher-jh-2021-04-05.jpg
+    sizes: '1200, 900'
   - url: fletcher-jh-2021-04-06.jpg
+    sizes: '1200, 900'
   - url: fletcher-jh-2021-04-07.jpg
+    sizes: '1440, 900'
   - url: fletcher-jh-2021-04-08.jpg
+    sizes: '1440, 900'
   - url: fletcher-jh-2021-04-09.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2021-04-01
 

@@ -1,7 +1,7 @@
 ---
 title: "Greenville Finishing Company"
 slug: greenville-fin-company
-aka: 'West Greenville Mills'
+aka: 'Elisha Steere Mill, Pooke and Steere’s Mill, Windsor Mill, West Greenville Mills'
 date-modified: 2021-04-24 12:00
 
 built: 'c. 1775 et seq.'
@@ -14,7 +14,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Smithfield, RI' ]
 designers: [ 'Designer Unknown' ]
-people: []
+people: [] # Elisha Steere
 lists: []
 tags: []
 
@@ -34,20 +34,35 @@ excerpt: "This stone mill off of a main road has many modern additions, like vin
 images:
   - url: greenville-sc-2004-04-01.jpg
     alt: 'A three story rubble stone mill partially covered in stucco. The monitor roof has been covered over by wooden clapboard siding as well as the top floor of the four story, square, central stair tower. Newer additions to the mill include a red brick pier and spandrel style mill off the southern side and a expansive one-story red brick addition off the western side towards the main road. A tall, thin yellow brick chimney comes off the back with “Greenville Fin Co.” written onto its length in red brick.'
+    sizes: '1440, 900'
   - url: greenville-sc-2004-04-02.jpg
+    sizes: '1440, 900'
   - url: greenville-sc-2004-04-03.jpg
+    sizes: '1440, 900'
   - url: greenville-sc-2004-04-04.jpg
+    sizes: '1440, 900'
   - url: greenville-sc-2004-04-05.jpg
+    sizes: '1440, 900'
   - url: greenville-sc-2004-04-06.jpg
+    sizes: '768, 924'
   - url: greenville-sc-2004-04-07.jpg
+    sizes: '1200, 900'
   - url: greenville-sc-2004-04-08.jpg
+    sizes: '1200, 900'
   - url: greenville-sc-2004-04-09.jpg
+    sizes: '1200, 900'
   - url: greenville-sc-2004-04-10.jpg
+    sizes: '1440, 900'
   - url: greenville-sc-2004-04-11.jpg
+    sizes: '1440, 900'
   - url: greenville-sc-2004-04-12.jpg
+    sizes: '768, 924'
   - url: greenville-sc-2004-04-13.jpg
+    sizes: '1200, 900'
   - url: greenville-sc-2004-04-14.jpg
+    sizes: '1200, 900'
   - url: greenville-sc-2004-04-15.jpg
+    sizes: '768, 924'
 
 mostrecentimage: 2004-04-01
 
@@ -80,12 +95,13 @@ They had an innovative idea with a roof leaking problem: trying to get things fi
 + [Greenville Finishing Mill](//www.flickr.com/photos/93282315@N05/albums/72157644575919441){:target="_blank"}, collected by the Smith-Appleby House Museum
 + The [Wikipedia page about Greenville, RI](//en.wikipedia.org/wiki/Greenville,_Rhode_Island){:target="_blank"}, has a photo of the Greenville Mill from the turn of the 20th century, but the date was not more specific.
 
+***
 
 _From “Historic and Architectural Resources of Smithfield, Rhode Island,” written by the Rhode Island Historical Preservation Commission, Walter A. Nebiker, 1992, page 64_
 
 711 Putamm Pike, **West Greenville Mills** (c. 1775 et seq.): Along the Stillwater River, just below Waterman Reservoir, and near Putnam Pike, close to one another, are an industrial complex and the site of a mill, both operated as textile mills from the mid-nineteenth century into the twentieth century. 
 
-The mill complex includes an old factory which was known variously as the **Elisha Steere Mill**, **Pooke and Steere’s Mill**, and the **Windsor Mill**. This 3-story, stuccoed stone building, with a trap-door monitor roof and a 4-story, dquare, flat-roofed central tower, is sited along the river. It is back from the road. Along the river is a 17-foot high waterfall and a mill trench leading from the pond to the mill. 
+The mill complex includes an old factory which was known variously as the **Elisha Steere Mill**, **Pooke and Steere’s Mill**, and the **Windsor Mill**. This 3-story, stuccoed stone building, with a trap-door monitor roof and a 4-story, square, flat-roofed central tower, is sited along the river. It is back from the road. Along the river is a 17-foot high waterfall and a mill trench leading from the pond to the mill. 
 
 Before 1775, Andrew Waterman, grandson of Resolved, erected a saw mill at this site. He also started a grist mill here as well as a forge or furnace. Beginning in 1817, Elisha Steere (1783-1849) purchased two Waterman farms bordering the Waterman Reservoir. In 1844, Elisha erected a cotton mill on the site of Waterman’s mills. William Pooke and Anthony Steere purchased the property in 1855. They added a weave shop and enlarged the building which was now operating as a woolen mill. In 1862 Pooke & Steere, who had a mill at Mountaindale, manufactured fancy cassimeres. 
 

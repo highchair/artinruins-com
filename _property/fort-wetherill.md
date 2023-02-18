@@ -33,36 +33,51 @@ thumbnail: fort-wetherill-hsneider-14.jpg
 
 images:
   - url: fort-wetherill-hsneider-01.jpg
-    caption: 'Entrance to battery Varnum. Photo by Howie Sneider'
     alt: 'Various military defense structures consisting mostly of thick reinforced concrete. '
+    caption: 'Entrance to battery Varnum. Photo by Howie Sneider'
+    sizes: '950, 950'
   - url: fort-wetherill-hsneider-02.jpg
     caption: 'Battery Wheaton from the hill. Photo by Howie Sneider'
+    sizes: '950, 950'
   - url: fort-wetherill-hsneider-03.jpg
     caption: 'Machine gun bunker, hill above battery Wheaton. Photo by Howie Sneider'
+    sizes: '950, 950'
   - url: fort-wetherill-hsneider-04.jpg
     caption: 'Battery Varnum Trench and storage. Photo by Howie Sneider'
+    sizes: '950, 950'
   - url: fort-wetherill-hsneider-05.jpg
     caption: 'Gun placement, battery Walbach. Photo by Howie Sneider'
+    sizes: '950, 950'
   - url: fort-wetherill-hsneider-06.jpg
     caption: 'Quonset Hut, Beavertail Naval Weather Station. Photo by Howie Sneider'
+    sizes: '950, 950'
   - url: fort-wetherill-hsneider-07.jpg
     caption: 'Battery Varnum, Ammunition storage for 12‰ guns. Photo by Howie Sneider'
+    sizes: '950, 950'
   - url: fort-wetherill-hsneider-08.jpg
     caption: '12‰ gun placements, battery Wheaton. Photo by Howie Sneider'
+    sizes: '950, 950'
   - url: fort-wetherill-hsneider-09.jpg
     caption: 'Bunker atop a hill between Crittenden and Cooke. Photo by Howie Sneider'
+    sizes: '950, 950'
   - url: fort-wetherill-hsneider-10.jpg
     caption: 'Defensive Battery for sighting tower. Westport, MA. Photo by Howie Sneider'
+    sizes: '950, 950'
   - url: fort-wetherill-hsneider-11.jpg
     caption: 'Sighting tower and defense. Westport, MA. Photo by Howie Sneider'
+    sizes: '950, 950'
   - url: fort-wetherill-hsneider-12.jpg
     caption: 'Sighting tower. Westport, MA. Photo by Howie Sneider'
+    sizes: '950, 950'
   - url: fort-wetherill-hsneider-13.jpg
     caption: 'Machine gun bunker, above battery Dickenson. Photo by Howie Sneider'
+    sizes: '1350, 950'
   - url: fort-wetherill-hsneider-14.jpg
     caption: '10‰ gun placement, battery Walbach. Photo by Howie Sneider'
+    sizes: '1050, 739'
   - url: fort-wetherill-hsneider-15.jpg
     caption: 'Land side view of battery Dickenson. Photo by Howie Sneider'
+    sizes: '1350, 950'
 
 imagescredit: 'All photos by Howie Sneider'
 

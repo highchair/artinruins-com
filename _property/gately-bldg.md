@@ -33,29 +33,47 @@ thumbnail: old-colony-bank-jh-2016-04-01.jpg
 
 images:
   - url: old-colony-bank-pl-1980-01.jpg
-    caption: 'The Gately building from 1980 as work was being done to reroute Main Street. Notice the Old Colony sign and many other tenant signs on the third floor — Pawtucket Library Online Collection'
     alt: 'A three story brick building with a wood trimmed and iron commercial first floor. The building is sited on a irregularly-shaped lot, therefore, it has five sides with one traingular tapering side that come to a pointed edge about 10 feet wide.'
+    caption: 'The Gately building from 1980 as work was being done to reroute Main Street. Notice the Old Colony sign and many other tenant signs on the third floor — Pawtucket Library Online Collection'
+    sizes: '1200, 900'
   - url: old-colony-bank-jh-2004-05-01.jpg
+    sizes: '1200, 900'
   - url: old-colony-bank-jh-2004-05-02.jpg
+    sizes: '1200, 900'
   - url: old-colony-bank-jh-2004-05-03.jpg
+    sizes: '1200, 900'
   - url: old-colony-bank-jh-2004-05-04.jpg
+    sizes: '1200, 900'
   - url: old-colony-bank-jh-2004-05-05.jpg
+    sizes: '1200, 900'
   - url: old-colony-bank-jh-2004-05-06.jpg
+    sizes: '1200, 900'
   - url: old-colony-bank-jh-2004-05-07.jpg
+    sizes: '1200, 900'
   - url: old-colony-bank-jh-2004-05-08.jpg
+    sizes: '1200, 900'
   - url: old-colony-bank-nr-2012-01.jpg
     caption: 'Photo from the National Register nomination form circa 2012'
+    sizes: '1200, 900'
   - url: old-colony-bank-nr-2012-02.jpg
     caption: 'Photo from the National Register nomination form circa 2012'
+    sizes: '1200, 900'
   - url: old-colony-bank-nr-2012-03.jpg
     caption: 'Photo from the National Register nomination form circa 2012'
+    sizes: '1200, 900'
   - url: old-colony-bank-nr-2012-04.jpg
     caption: 'Photo from the National Register nomination form circa 2012'
+    sizes: '1200, 900'
   - url: old-colony-bank-jh-2012-05-01.jpg
+    sizes: '1200, 900'
   - url: old-colony-bank-jh-2012-05-02.jpg
+    sizes: '1200, 900'
   - url: old-colony-bank-jh-2014-10-01.jpg
+    sizes: '1600, 900'
   - url: old-colony-bank-jh-2016-04-01.jpg
+    sizes: '1440, 900'
   - url: old-colony-bank-jh-2016-04-02.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2016-04-01
 

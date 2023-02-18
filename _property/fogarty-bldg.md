@@ -16,7 +16,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Castellucci, Galli & Planka Associates' ]
 lists: []
-tags: [ 'Concrete', 'Mid-century Modern', 'Demolition by Progress' ]
+tags: [ 'Demolition by Progress', 'Concrete', 'Mid-century Modern' ]
 
 address: '111 Fountain Street, Providence RI'
 latitude: '41.823628'
@@ -24,34 +24,53 @@ longitude: '-71.4185207'
 gmap: "https://www.google.com/maps/place/111+Fountain+St,+Providence,+RI+02903/@41.823628,-71.4185207,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451243d90e77:0xd7a9293f4ab36915!8m2!3d41.823628!4d-71.416332"
 
 meta: ""
-excerpt: "A love it or hate it concrete structure in the Brutalist style — its knobby elbows sticking out as decoration."
+excerpt: "A love it or hate it concrete structure in the Brutalist style — its knobby elbows sticking out as decoration"
 
 thumbnail: fogarty-jh-2007-11-01.jpg
 
 images:
   - url: fogarty-pvd-1967-00.jpg
     caption: 'Fogarty building foundation being prepped. Providence City Archives, 1967'
+    sizes: '1439, 900'
   - url: fogarty-pvd-1967-01.jpg
-    caption: 'Fogarty building under construction. Pre-poured sections of the exterior walls were lifted into place. Providence City Archives, 1967'
     alt: 'A three story concrete building that is basically square in floor plan. The first floor presents an open portico under a second-floor overhang. The pre-cast exterior presents a rhythm of vertical windows separated by a jutting angular design.'
+    caption: 'Fogarty building under construction. Pre-poured sections of the exterior walls were lifted into place. Providence City Archives, 1967'
+    sizes: '1024, 640'
   - url: fogarty-pvd-1967-02.jpg
     caption: 'Fogarty building shortly after construction. Providence City Archives, 1967'
+    sizes: '1024, 640'
   - url: fogarty-jh-2002-01-01.jpg
+    sizes: '1200, 900'
   - url: fogarty-jh-2005-05-01.jpg
+    sizes: '1200, 900'
   - url: fogarty-jh-2005-05-02.jpg
+    sizes: '1200, 900'
   - url: fogarty-jh-2005-05-03.jpg
+    sizes: '1200, 900'
   - url: fogarty-jh-2005-05-04.jpg
+    sizes: '1200, 900'
   - url: fogarty-jh-2005-05-05.jpg
+    sizes: '1200, 900'
   - url: fogarty-jh-2005-05-06.jpg
+    sizes: '1200, 900'
   - url: fogarty-jh-2005-05-07.jpg
+    sizes: '1200, 900'
   - url: fogarty-jh-2005-05-08.jpg
+    sizes: '1200, 900'
   - url: fogarty-jh-2005-05-09.jpg
+    sizes: '1200, 900'
   - url: fogarty-jh-2007-11-01.jpg
+    sizes: '1200, 900'
   - url: fogarty-jh-2017-03-01.jpg
+    sizes: '1024, 576'
   - url: fogarty-jh-2017-03-02.jpg
+    sizes: '1024, 576'
   - url: fogarty-jh-2017-03-03.jpg
+    sizes: '1024, 576'
   - url: fogarty-jh-2017-03-04.jpg
+    sizes: '1024, 768'
   - url: fogarty-jh-2017-03-05.jpg
+    sizes: '1024, 576'
 
 imagescredit: 'Contributions from the Providence City Archives'
 ---

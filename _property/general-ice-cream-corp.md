@@ -13,7 +13,7 @@ date-added: '2011'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Silver Lake' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: [ 'Designer Unknown' ] # Elton + Hampton
 people: []
 lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: []
@@ -34,9 +34,13 @@ thumbnail:
 images:
   - url: sam-dolbey-jh-2011-02-01.jpg
     alt: 'A square, golden brick structure that is half two stories and half three. It is four bays deep by five bays wide; each bay consists of window triplets with arched tops with case concrete lintels. More description in the History section.'
+    sizes: '1200, 900'
   - url: sam-dolbey-jh-2011-02-02.jpg
+    sizes: '1200, 900'
   - url: sam-dolbey-jh-2011-02-03.jpg
+    sizes: '1200, 900'
   - url: sam-dolbey-jh-2011-02-04.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2011-02-01
 
@@ -77,7 +81,7 @@ General Ice Cream Corporation continued to occupy the 485 Plainfield Street plan
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 It is a two- and three-story, brick, pier-and-spandrel building with a flat roof located on the north side of Plainfield Street. The two most eastern bays of the structure stand three stories in height while the three western bays are two stories. The building’s primary entrance is offset in the western-most bay of the facade and is comprised of a metal-and-glass door set below a projecting metal hood and reached by a flight of concrete steps with a metal rail. The entrance is set within a round-arch opening with keystone that has since been bricked in. Fenestration consists of segmental-arch openings, the majority of which have been bricked in. Remaining windows feature replacement 1/1 sash; windows on the second floor of the two-story block’s facade are rectangular with fixed and sliding glass. The building is embellished with concrete stringcourses, projecting piers between each bay, and a corbelled cornice. An interior brick chimney rises from the western end of the structure. Attached to the rear of the building is a one-story, shed-roof addition. A chain link fence marks the property’s perimeter.
 

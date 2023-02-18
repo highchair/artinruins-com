@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade: '1940-1949'
 date-added: '2022'
-categories: [ '#DemolitionAlert', '#UsedToBeThere' ]
+categories: [ '#DemolitionAlert', '#UrbanDecay' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: []
@@ -33,12 +33,20 @@ thumbnail: georges-billiards-jh-2018-07-02.jpg
 
 images:
   - url: georges-billiards-jh-2018-07-01.jpg
+    alt: 'A two story, tan brick commercial building with long, uninterrupted ribbon window banks of original steel frame, 10 lite windows arranged 2 over 5 on the back faces of the building. Some windows aliong the street-facing side have been replaced with modern, single lite replacements, or consist of assymetrical window pairs in a repeating pattern. '
+    sizes: '1440, 900'
   - url: georges-billiards-jh-2018-07-02.jpg
+    sizes: '1440, 900'
   - url: georges-billiards-jh-2018-07-03.jpg
+    sizes: '1200, 900'
   - url: georges-billiards-jh-2018-07-04.jpg
+    sizes: '1200, 900'
   - url: georges-billiards-jh-2018-07-05.jpg
+    sizes: '1440, 900'
   - url: georges-billiards-jh-2018-07-06.jpg
+    sizes: '1200, 900'
   - url: georges-billiards-jh-2018-08-01.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2018-07-01
 

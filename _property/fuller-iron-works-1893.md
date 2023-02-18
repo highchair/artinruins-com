@@ -36,29 +36,46 @@ thumbnail: fuller-iron-jh-2012-01-05.jpg
 
 images:
   - url: fuller-iron-interior-undated.jpg
-    caption: 'A machine shop of similar build and similar time period, but NOT the Fuller Iron Works — 1901, Grainger Corporation'
     alt: 'A large, rectangular building 20 feet high by 90 feet wide, and 216 feet long. It was constructed of steel and iron trusses with a wooden plank roof and glass curtain wall.'
+    caption: 'A machine shop of similar build and similar time period, but NOT the Fuller Iron Works — 1901, Grainger Corporation'
+    sizes: '1200, 950'
   - url: fuller-iron-unknown-01.jpg
     caption: 'Undated photo from a publication from Facebook user James Taylor. View east from the corner of South Main and Tockwotton Streets'
+    sizes: '1322, 900'
   - url: fuller-iron-jh-2012-01-01.jpg
+    sizes: '1440, 900'
   - url: fuller-iron-jh-2012-01-02.jpg
+    sizes: '1440, 900'
   - url: fuller-iron-jh-2012-01-03.jpg
+    sizes: '1440, 900'
   - url: fuller-iron-jh-2012-01-04.jpg
+    sizes: '1440, 900'
   - url: fuller-iron-jh-2012-01-05.jpg
+    sizes: '1440, 900'
   - url: fuller-iron-jh-2012-01-06.jpg
+    sizes: '1440, 900'
   - url: fuller-iron-jh-2012-01-07.jpg
+    sizes: '768, 924'
   - url: fuller-iron-jh-2012-01-08.jpg
+    sizes: '1200, 900'
   - url: fuller-iron-jh-2012-01-09.jpg
+    sizes: '1200, 900'
   - url: fuller-iron-jh-2012-01-10.jpg
+    sizes: '768, 924'
   - url: fuller-iron-jh-2012-01-11.jpg
+    sizes: '1200, 900'
   - url: fuller-iron-rg-2012-01-01.jpg
     caption: 'Photo by Rick Greenwood, January 2012'
+    sizes: '1440, 900'
   - url: fuller-iron-rg-2012-01-02.jpg
     caption: 'Photo by Rick Greenwood, January 2012'
+    sizes: '1440, 900'
   - url: fuller-iron-rg-2012-01-03.jpg
     caption: 'Photo by Rick Greenwood, January 2012'
+    sizes: '768, 924'
   - url: fuller-iron-rg-2012-01-04.jpg
     caption: 'Photo by Rick Greenwood, January 2012'
+    sizes: '768, 924'
 
 imagescredit: 'Contributions by James Taylor and Rick Greenwood'
 

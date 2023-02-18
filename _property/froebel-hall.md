@@ -34,40 +34,60 @@ thumbnail: froebel-jh-2021-05-05.jpg
 
 images:
   - url: froebel-ppl-undated-01.jpg
-    caption: 'John Hutchins Cady was an active photographer and collector of photos from 1925-1965. This photo seems to be on the 1925-1930 side and captures two sides of Froebel Hall — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
     alt: 'A wood frame, two story building with craftsman style decorative stickwork and a cross gable shingled roof. The ground floor is red brick and the second floor is moss green wooden siding light cream trim.'
+    caption: 'John Hutchins Cady was an active photographer and collector of photos from 1925-1965. This photo seems to be on the 1925-1930 side and captures two sides of Froebel Hall — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    sizes: '1600, 900'
   - url: froebel-ppl-undated-02.jpg
-    caption: 'John Hutchins Cady was an active photographer and collector of photos from 1925-1965. This photo seems to be on the 1925-1930 side and captures two sides of Froebel Hall — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    caption: 'John Hutchins Cady was an active photographer and collector of photos from 1925-1965. This photo seems to be on the 1925-1930 side and captures two sides of Froebel Hall — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    sizes: '1600, 900'
   - url: froebel-ppl-undated-03.jpg
-    caption: 'This photo accompanied a newspaper clipping from 1945, so we assume the photo is a little later. Notice the trusses projecting through the roofs with steel rods — they were used to support the sagging floor from the cieling — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    caption: 'This photo accompanied a newspaper clipping from 1945, so we assume the photo is a little later. Notice the trusses projecting through the roofs with steel rods — they were used to support the sagging floor from the cieling — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    sizes: '1600, 900'
   - url: froebel-ppl-undated-04.jpg
-    caption: 'Pencil scrawled in the margin of this photo date it at October 16, 1962 — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    caption: 'Pencil scrawled in the margin of this photo date it at October 16, 1962 — John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    sizes: '2100, 900'
   - url: froebel-jh-2002-09-01.jpg
+    sizes: '786, 513'
   - url: froebel-jh-2002-09-02.jpg
+    sizes: '786, 513'
   - url: froebel-jh-2002-09-03.jpg
+    sizes: '786, 513'
   - url: froebel-jh-2002-09-04.jpg
+    sizes: '786, 513'
   - url: froebel-jh-2002-09-05.jpg
+    sizes: '782, 500'
   - url: froebel-jh-2002-09-06.jpg
+    sizes: '782, 500'
   - url: froebel-goog-overview.jpg
-    caption: 'Overview of the completed complex of four structures. Clockwise from left — Froebel Hall, 1878; William Holroyd House, 1798, at 106 Angell St.; Samuel Eddy House, 1797, at 100 Angell St.; New construction, 2002-03 along with connecting structures — Satellite imagery from Google Maps'
+    caption: 'Overview of the completed complex of four structures. Clockwise from left — Froebel Hall, 1878; William Holroyd House, 1798, at 106 Angell St.; Samuel Eddy House, 1797, at 100 Angell St.; New construction, 2002-03 along with connecting structures — Satellite imagery from Google Maps'
+    sizes: '965, 603'
   - url: froebel-jh-2021-05-01.jpg
     caption: 'Hillel House 2002-03 first-story addition with rooftop pavillion'
+    sizes: '1200, 900'
   - url: froebel-jh-2021-05-02.jpg
     caption: 'Hillel House 2002-03 first-story addition with rooftop pavillion'
+    sizes: '1440, 900'
   - url: froebel-jh-2021-05-03.jpg
     caption: 'Froebel Hall after 2002-03 renovation'
+    sizes: '1440, 900'
   - url: froebel-jh-2021-05-04.jpg
     caption: 'Froebel Hall after 2002-03 renovation'
+    sizes: '1200, 900'
   - url: froebel-jh-2021-05-05.jpg
     caption: 'Froebel Hall after 2002-03 renovation'
+    sizes: '1440, 900'
   - url: froebel-jh-2021-05-06.jpg
     caption: 'View east on Angell street of two houses that are now part of the Hillel House complex'
+    sizes: '1200, 900'
   - url: froebel-jh-2021-05-07.jpg
     caption: 'Samuel Eddy House, 1797, 100 Angell Street'
+    sizes: '1200, 900'
   - url: froebel-jh-2021-05-08.jpg
     caption: 'Connecting structure built during the 2002-03 renovation by architects Fred Babcock and Cornelis de Boer'
+    sizes: '1200, 900'
   - url: froebel-jh-2021-05-09.jpg
     caption: 'William Holroyd House, 1798, 106 Angell Street'
+    sizes: '1200, 900'
 
 mostrecentimage: 2021-05-01
 

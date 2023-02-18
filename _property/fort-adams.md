@@ -34,40 +34,70 @@ thumbnail: fort-adams-jh-2006-05-11.jpg
 
 images:
   - url: fort-adams-ppl-unknown-aerial.jpg
-    caption: 'Rhode Island Photograph Collection, Providence Public Library'
     alt: 'A pentagonal-shaped one and two story stone structure built into the coast of Newport and used to defend the entrance to Narragansett Bay. Extensive architectural description in the History section'
+    caption: 'Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '907, 620'
   - url: fort-adams-ppl-unknown-cannonballs.jpg
     caption: 'Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '1400, 900'
   - url: jen-raimondi-jh-2006-05-01.jpg
-    caption: 'A literal interpretation of art inside ruins… sculpture installation by Jen Raimondi, May 2006'
+    caption: 'A literal interpretation of art inside ruins… sculpture installation by Jen Raimondi, May 2006'
+    sizes: '900, 900'
   - url: fort-adams-jh-2006-05-01.jpg
+    sizes: '1440, 900'
   - url: fort-adams-jh-2006-05-02.jpg
+    sizes: '1440, 900'
   - url: fort-adams-jh-2006-05-03.jpg
+    sizes: '1440, 900'
   - url: fort-adams-jh-2006-05-04.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-05.jpg
+    sizes: '768, 924'
   - url: fort-adams-jh-2006-05-06.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-07.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-08.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-09.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-10.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-11.jpg
+    sizes: '1440, 900'
   - url: fort-adams-jh-2006-05-12.jpg
+    sizes: '1440, 900'
   - url: fort-adams-jh-2006-05-13.jpg
     caption: 'The old granite guard house'
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-14.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-15.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-16.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-17.jpg
+    sizes: '768, 924'
   - url: fort-adams-jh-2006-05-18.jpg
+    sizes: '768, 924'
   - url: fort-adams-jh-2006-05-19.jpg
+    sizes: '1440, 900'
   - url: fort-adams-jh-2006-05-20.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-21.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-22.jpg
+    sizes: '768, 924'
   - url: fort-adams-jh-2006-05-23.jpg
+    sizes: '768, 924'
   - url: fort-adams-jh-2006-05-24.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-25.jpg
+    sizes: '1200, 900'
   - url: fort-adams-jh-2006-05-26.jpg
+    sizes: '768, 924'
   - url: fort-adams-jh-2006-05-27.jpg
+    sizes: '768, 924'
 
 imagescredit: 'Contributions from the Rhode Island Photograph Collection, Providence Public Library (<a href="//provlibdigital.org/islandora/object/islandora%3A11590" target="_blank">photo 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A11938" target="_blank">photo 2,</a> <a href="//provlibdigital.org/islandora/search/Fort%20Adams?type=dismax" target="_blank">more</a>)'
 

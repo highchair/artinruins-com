@@ -31,22 +31,39 @@ thumbnail: george-arnold-jh-2016-10-01.jpg
 
 images:
   - url: george-arnold-habs-1997-01.jpg
-    credit: 'Photo by Robert Brewster, Warren Jagger Photography, for the National Register as part of the Downtown Providence Historic District. Notice the building attached at the back which can barely be seen on the far right.'
+    caption: 'Photo by Robert Brewster, 1997, for the National Register and the Historic American Buildings Survey'
     alt: 'A narrow 3-story building made of yellow-grey brick with copper accents. Seven bays wide with a central entrance bay, the facade occupies an entire city block but it only 12 and a half feet deep.'
+    sizes: '1125, 900'
   - url: george-arnold-jw-2004-01.jpg
+    caption: 'Photo bu Jonathan Winslow'
+    sizes: '691, 518'
   - url: george-arnold-jw-2004-02.jpg
+    caption: 'Photo bu Jonathan Winslow'
+    sizes: '518, 691'
   - url: george-arnold-jh-2005-04-01.jpg
+    sizes: '1200, 900'
   - url: george-arnold-jh-2010-04-01.jpg
+    sizes: '1440, 900'
   - url: george-arnold-jh-2010-04-02.jpg
+    sizes: '1598, 800'
   - url: george-arnold-jh-2010-04-03.jpg
+    sizes: '1200, 900'
   - url: george-arnold-jh-2010-04-04.jpg
+    sizes: '1200, 900'
   - url: george-arnold-jh-2010-04-05.jpg
+    sizes: '1200, 900'
   - url: george-arnold-jh-2010-04-06.jpg
+    sizes: '1200, 900'
   - url: george-arnold-jh-2010-04-07.jpg
+    sizes: '1200, 900'
   - url: george-arnold-jh-2010-04-08.jpg
+    sizes: '1200, 900'
   - url: george-arnold-jh-2014-08-01.jpg
+    sizes: '1419, 800'
   - url: george-arnold-jh-2016-10-01.jpg
+    sizes: '1600, 900'
   - url: george-arnold-jh-2016-10-02.jpg
+    sizes: '1600, 900'
 
 mostrecentimage: 2016-10-01
 

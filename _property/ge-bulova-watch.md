@@ -4,17 +4,17 @@ slug: ge-bulova-watch
 aka: "Bulova Watch Company"
 date-modified: 2020-06-10 12:00
 
-built: circa 1970
+built: 'circa 1970'
 demolition: 
-redeveloped: 2010
+redeveloped: '2010'
 decade: '1970-1979'
-date-added: 2002
+date-added: '2002'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Warwick, RI' ]
 designers: [ 'Lloyd A. Baker' ]
 lists: []
-tags: [ 'Needs History', 'Mid-century Modern' ]
+tags: [ 'Mid-century Modern', 'Needs History' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -32,34 +32,55 @@ thumbnail: ge-bulova-jh-2002-03-05.jpg
 images:
   - url: ge-bulova-jh-2002-03-01.jpg
     alt: 'A silver gray brick building in two major parts; one two-story, and another one story. Both feature large commercial plate glass windows and large-radius rounded corners. In general, it looks very space age and mid-century.'
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2002-03-02.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2002-03-02-alt.jpg
-    caption: The reversed sign has been highlighted and flipped to read “General Electric”
+    caption: 'The reversed sign has been highlighted and flipped to read “General Electric”'
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2002-03-03.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2002-03-04.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2002-03-05.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2002-03-06.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2002-03-07.jpg
+    sizes: '1800, 520'
   - url: ge-bulova-jh-2005-03-01.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2005-03-02.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2011-03-01.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2011-03-02.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2011-03-03.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2011-03-04.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2011-03-05.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2011-03-06.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2011-03-07.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-jh-2011-03-08.jpg
+    sizes: '1440, 900'
   - url: ge-bulova-aerial-1962.jpg
-    caption: Providence Historical Aerial Viewer 1962
+    caption: 'Providence Historical Aerial Viewer 1962'
+    sizes: '1440, 900'
   - url: ge-bulova-aerial-1972.jpg
-    caption: Providence Historical Aerial Viewer 1972
+    caption: 'Providence Historical Aerial Viewer 1972'
+    sizes: '1440, 900'
   - url: ge-bulova-aerial-1981.jpg
-    caption: Providence Historical Aerial Viewer 1981
+    caption: 'Providence Historical Aerial Viewer 1981'
+    sizes: '1440, 900'
 
 mostrecentimage: 2011-03-01
 
-imagescredit: Aerials from the Providence Historical Aerial Viewer
+imagescredit: 'Aerials from the Providence Historical Aerial Viewer'
 ---
 
 ### Redevelopment

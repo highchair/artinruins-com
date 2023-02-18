@@ -34,24 +34,36 @@ thumbnail: ge-base-jh-2011-03-04.jpg
 
 images:
   - url: ge-sanborn-1920-01.jpg
-    caption: 'Sanborn Insurance Map, 1920–21, Volume 4, Plate 6 — Library of Congress, Geography and Map Division'
     alt: 'Largely a single or two story red brick structure with a tall first floor that was once full of machinery. Simple decoration and fenestration with a corbel across the roofline. Fuller description in the history section. '
+    caption: 'Sanborn Insurance Map, 1920–21, Volume 4, Plate 6 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: ge-base-jh-2011-03-01.jpg
+    sizes: '1440, 900'
   - url: ge-base-jh-2011-03-02.jpg
+    sizes: '1440, 900'
   - url: ge-base-jh-2011-03-03.jpg
+    sizes: '1440, 900'
   - url: ge-base-jh-2011-03-04.jpg
+    sizes: '1440, 900'
   - url: ge-base-jh-2015-02-01.jpg
+    sizes: '1600, 900'
   - url: ge-base-jh-2015-02-02.jpg
+    sizes: '1600, 900'
   - url: ge-base-goog-3d-west.jpg
     caption: 'Google Maps satellite view of pre-2015 captured in 2018'
+    sizes: '1440, 900'
   - url: ge-base-goog-3d-north.jpg
     caption: 'Google Maps satellite view of pre-2015 captured in 2018'
+    sizes: '1440, 900'
   - url: ge-base-goog-3d-south.jpg
     caption: 'Google Maps satellite view of pre-2015 captured in 2018'
+    sizes: '1440, 900'
   - url: ge-base-goog-3d-east.jpg
     caption: 'Google Maps satellite view of pre-2015 captured in 2018'
+    sizes: '1440, 900'
   - url: ge-base-goog-3d-east-close.jpg
     caption: 'Google Maps satellite view of pre-2015 captured in 2018'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from The Library of Congress and Google Maps'
 

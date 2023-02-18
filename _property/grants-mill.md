@@ -14,7 +14,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'National Register of Historic Places', 'Broadway-Armory Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981' ]
+lists: [ 'Broadway-Armory Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'Providence Industrial Sites 1981' ]
 tags: [ 'Apartments for Rent' ]
 
 NRHP-ref-number: '74000047 (contributing)'
@@ -33,24 +33,43 @@ thumbnail: grants-thumbnail.jpg
 images:
   - url: carpenter-mill-jh-2003-03-01.jpg
     alt: 'A low and long red brick mill with simple rectangular windows, granite lintels, and one side of the property coated in stucco situated in a residential neighborhood of mainly multi-family working class apartment houses with a few single-family homes as well'
+    sizes: '1440, 900'
   - url: carpenter-mill-jh-2003-03-02.jpg
+    sizes: '1440, 900'
   - url: carpenter-mill-jh-2003-03-03.jpg
+    sizes: '1440, 900'
   - url: carpenter-mill-jh-2003-03-04.jpg
+    sizes: '1440, 900'
   - url: carpenter-mill-jh-2003-03-05.jpg
+    sizes: '1200, 900'
   - url: carpenter-mill-jh-2003-03-06.jpg
+    sizes: '1200, 900'
   - url: carpenter-mill-jh-2003-03-07.jpg
+    sizes: '1200, 900'
   - url: carpenter-mill-jh-2003-03-08.jpg
+    sizes: '1440, 900'
   - url: grants-mill-wh-2010-11-01.jpg
+    sizes: '600, 800'
   - url: grants-mill-wh-2010-11-02.jpg
+    sizes: '800, 600'
   - url: grants-mill-wh-2010-11-03.jpg
+    sizes: '800, 600'
   - url: grants-mill-wh-2010-11-04.jpg
+    sizes: '600, 800'
   - url: grants-mill-wh-2010-11-05.jpg
+    sizes: '800, 600'
   - url: grants-mill-wh-2010-11-06.jpg
+    sizes: '600, 800'
   - url: grants-mill-wh-2010-11-07.jpg
+    sizes: '800, 600'
   - url: grants-mill-wh-2010-11-08.jpg
+    sizes: '600, 800'
   - url: grants-mill-wh-2010-11-09.jpg
+    sizes: '800, 600'
   - url: grants-mill-wh-2010-11-10.jpg
+    sizes: '800, 600'
   - url: grants-mill-wh-2010-11-11.jpg
+    sizes: '800, 600'
 
 mostrecentimage: 2010-11-01
 

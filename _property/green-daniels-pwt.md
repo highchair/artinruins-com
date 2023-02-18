@@ -33,25 +33,40 @@ thumbnail: green-daniels-jh-2009-05-06.jpg
 
 images:
   - url: green-daniels-pawtlib-1869-01.jpg
-    caption: 'Looking east with the Central avenue bridge in front left, labelled 1869 — Pawtucket Library collection on Flickr'
     alt: 'A collection of red brick mills, three, four, and five stories in height, some with a mansard roof, all with semi-arched top windows and granite sills, and the main buildings with stairtowers of a few styles. One has a mansard roof and clock faces on all four sides and can be seen from interstate highway 95.'
+    caption: 'Looking east with the Central avenue bridge in front left, labelled 1869 — Pawtucket Library collection on Flickr'
+    sizes: '1440, 900'
   - url: green-daniels-pawtlib-1900-01.jpg
     caption: 'Looking north east from the southern side with Central street running across the front, labelled circa 1900–1905 — Pawtucket Library collection on Flickr'
+    sizes: '1200, 900'
   - url: green-daniels-pawtlib-1988-01.jpg
     caption: 'Under construction for conversion to residential condos, looking south west, labelled 1988 — Pawtucket Library collection on Flickr'
+    sizes: '1440, 900'
   - url: green-daniels-pawtlib-1989-01.jpg
     caption: 'Looking south west from the northern corner of the lot, labelled August 1989 — Pawtucket Library collection on Flickr'
+    sizes: '1440, 900'
   - url: green-daniels-jh-2009-05-01.jpg
+    sizes: '1440, 900'
   - url: green-daniels-jh-2009-05-02.jpg
+    sizes: '1200, 900'
   - url: green-daniels-jh-2009-05-03.jpg
+    sizes: '1200, 900'
   - url: green-daniels-jh-2009-05-04.jpg
+    sizes: '1200, 900'
   - url: green-daniels-jh-2009-05-05.jpg
+    sizes: '1440, 900'
   - url: green-daniels-jh-2009-05-06.jpg
+    sizes: '1440, 900'
   - url: green-daniels-jh-2009-05-07.jpg
+    sizes: '1200, 900'
   - url: green-daniels-jh-2009-05-08.jpg
+    sizes: '1200, 900'
   - url: green-daniels-jh-2009-05-09.jpg
+    sizes: '1200, 900'
   - url: green-daniels-jh-2009-05-10.jpg
+    sizes: '768, 924'
   - url: green-daniels-jh-2009-05-11.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the Pawtucket Library collections on Flickr: <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157716100831568" target="_blank">Blackstone Landing,</a> <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157669597809192" target="_blank">Green & Daniels</a>'
 
@@ -64,7 +79,7 @@ mostrecentimage: 2009-05-01
 
 ### Redevelopment
 
-The redevelopment of this collection of mill buildings started in 1987 but seems to have not been completed until the mid-nineties. A series of unfortunate events made the conversion into condominiums slow, and as a means of saving the project, Collette Vacations purchased one of the mills for its headquarters. Now both mills are in excellent condition and fully occupied. 
+The redevelopment of this collection of mill buildings started in 1987 but seems to have not been completed until the mid-nineties. A series of unfortunate events made the conversion into condominiums slow, and as a means of saving the project, Collette Vacations purchased one of the mills for its headquarters. Now both mills are in excellent condition and fully occupied.
 
 It is a little confusing, though, the way the Providence Journal article mentions that the developers purchases the abandoned mill in 1987, but Collette owned part of the complex since 1966. We’re not sure what the straight story is. 
 
