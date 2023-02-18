@@ -56,6 +56,6 @@ $kerning: .03125em;
 }
 
 @mixin ff-retro() {
-  font-family: $font-custom__retro__family, $font-stack__sans;
+  font-family: $font-custom__retro__family, 'Helvetica Neue Condensed Bold', HelveticaNeueCondensedBold, HelveticaNeueCondBold, 'Arial Narrow', ArialNarrow, sans-serif;
   font-weight: $font-custom__retro__rg-weight;
 }
