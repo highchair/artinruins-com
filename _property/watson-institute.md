@@ -2,7 +2,9 @@
 title: "Watson Institute for International and Public Affairs"
 slug: watson-institute
 aka:
-date-modified: 2020-11-10 12:00
+date-modified: 2023-02-18 12:00
+update: 'Added a recent photo from the updated courtyard opposite the street side of the building'
+update-image: watson-jh-2023-01-01.jpg
 
 built: '2001-2002'
 demolition:
@@ -42,6 +44,8 @@ images:
     sizes: '1440, 900'
   - url: watson-jh-2005-03-07.jpg
     sizes: '1200, 900'
+  - url: watson-jh-2023-01-01.jpg
+    sizes: '1440, 900'
 
 imagescredit:
 ---

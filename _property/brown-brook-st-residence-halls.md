@@ -2,9 +2,9 @@
 title: "Brook Street Residence Halls"
 slug: brown-brook-st-residence-halls
 aka:
-date-modified: 2023-01-22 14:00
-update: 'Added more photos of the construction in progress'
-update-image: residence-halls-jh-2022-08-02.jpg
+date-modified: 2023-02-18 11:00
+update: 'Added another photo of the construction in progress'
+update-image: residence-halls-jh-2022-11-01.jpg
 
 built: '2022'
 demolition:
@@ -56,6 +56,8 @@ images:
   - url: residence-halls-jh-2022-08-03.jpg
     caption: 'Looking north at the southern faces of the west residence hall and the western and southern faces of the east hall, with Brook Street running through the center'
     sizes: '1440, 900'
+  - url: residence-halls-jh-2022-11-01.jpg
+    sizes: '1600, 900'
 
 mostrecentimage: 2023-01-01
 
