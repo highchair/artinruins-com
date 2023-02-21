@@ -1,6 +1,19 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: fletcher-manufacturing
+  person: 'Nancy Plante'
+  date: '2023-02-12'
+  content: 'My great-great grandfather, Reuben Hill, lived on Charles Street and worked at Fletcher Mfg. in the 1850’s and 1860’s. His brother, James Matteson Hill (1816 - 1883), was an inventor of machinery for Fletcher. Some of the patents were held by James Hill and some were held by Fletcher. The patents were for processes for shoestrings and “tags” (aglets), and one was for a japanning oven. My great-grandfather named one of his children after his boss: Thomas Fletcher Hill, in 1853.
+
+
+Someone told me that as late as the 1960’s you could see the ruins of a water wheel behind the Fletcher Building.'
+
+- property: new-england-butt
+  person: 'Frank Comstock'
+  date: '2023-02-06'
+  content: 'Thanks for the information on New England Butt Company. My great-grandfather, Frank Paine Comstock, and his father, Andrew Comstock, before him were both directors of this company and my great-grandfather Frank had an ownership interest in the company for a number of years. I have no idea how they came to be involved because they were meatpackers and wholesalers in meat by trade. They both served as directors of many companies and banks, though. The Gilbreath connection is interesting because my great-great grandfather, Andrew, was one of the people who organized and financed the Buttonwoods neighborhood in Warwick. While living in RI, the Gilbreaths summered in Buttonwoods before making Nantucket their summer place.'
+
 - property: providence-armory
   person: 'James Boucher'
   date: '2023-02-02'
