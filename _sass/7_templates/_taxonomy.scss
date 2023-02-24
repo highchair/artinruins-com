@@ -13,7 +13,7 @@
 //        <p class="taxonomy__meta"><strong>Built: </strong> 1915<span class="taxonomy__sep"> | </span><strong>Demolition: </strong> 2008<span class="taxonomy__sep">|</span><strong>Decade: </strong> <a href="/decade/1910-1919">1910-1919</a></p>
 
 .taxonomy {
-  
+
   &__header {
     background: top right no-repeat url('../img/hashes-yellow-top-right.svg') transparent;
     background-size: ($hashes__width * 0.75) ($hashes__height * 0.75);
@@ -22,26 +22,26 @@
       background-size: $hashes__width $hashes__height;
     }
   }
-  
+
   &__title {
     &--empty {
       @include ff-retro;
       color: palette('brand-red');
     }
-    
+
     em {
       font-size: 0.625em;
     }
   }
-  
+
   &__count {
     color: palette('brand-red');
     padding: $vertical-rhythm 0;
   }
-  
+
   &__description,
   &__related {
-    
+
     b {
       @include ff-sans();
       color: palette('brand-teal');
@@ -49,7 +49,6 @@
   }
 
   &__list {
-    max-width: 75rem;
 
     li {
       border: 0.5px solid $color__borders;
@@ -57,7 +56,7 @@
       padding: 0.5rem;
       position: relative;
       z-index: 1;
-      
+
       &:hover {
         .rwd-img {
           opacity: 0.5;
@@ -68,22 +67,22 @@
           background-size: 100% 100%;
         }
       }
-      
+
       // Special LI with a class added to it
       &.taxonomy__random {
         display: block;
-        
+
         img {
           padding-bottom: $vertical-rhythm;
         }
-        
+
         .taxonomy__title-wrap,
         .taxonomy__meta {
           padding-bottom: ($vertical-rhythm/2);
         }
       }
     }
-    
+
     // The homepage construction update
     // AND the nearby properties
     &--vertical {
@@ -91,7 +90,7 @@
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
       grid-gap: 0;
-      
+  
       // Hide some elements
       .taxonomy__meta {
         display: none;
@@ -114,60 +113,60 @@
         max-width: 480px;
         min-height: unset;
       }
-  
+
       // When there are only a specific number of them
       &--1,
       &--2 {
         grid-template-columns: repeat(auto-fit, minmax(16rem, 20rem));
       }
-      
+
       &--4 {
         grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
       }
     }
   }
-  
+
   &__img-wrap {
     background-color: palette('brand-dark-brown');
     margin: -0.5rem -0.5rem ($vertical-rhythm/2) -0.5rem;
-    
+
     // Make the container a 16:9
     height: 0;
     overflow: hidden;
     padding-bottom: (9/16 * 100%);
     position: relative;
-  
+
     .rwd-img {
       opacity: 1;
       transition: all 250ms ease;
       transform: scale(1.1, 1.1) translate(-50%, -50%);
       transform-origin: top left;
       transition-delay: 250ms;
-      
+
       // position the image to the center
       position: absolute;
       top: 50%;
       left: 50%;
     }
   }
-  
+
   &__card-title {
     background-image: linear-gradient(180deg,transparent 33%,lighten(palette('brand-yellow'), 5%) 0);
     background-size: 0 100%;
     background-repeat: no-repeat;
     display: inline;
     transition: all 750ms ease;
-    
+
     &--new {
       font-size: 0.75em;
       font-style: italic;
       margin-right: 0.5rem;
     }
   }
-  
+
   &__link {
     text-decoration: none;
-    
+
     // https://inclusive-components.design/cards/
     &::before {
       content: '';

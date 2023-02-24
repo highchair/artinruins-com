@@ -25,13 +25,17 @@
             </header>
 
           {%- if items.size >= 1 -%}
-            <ul class="taxonomy__list u__list__unstyled u__vertical__p u__gutter__p" role="list">
-              {%- for item in items -%}
-                {% include property-card.html %}
-              {% endfor %}
-            </ul>
+            <div class="u__vertical__p u__gutter__p ">
+              <ul class="taxonomy__list u__list__unstyled u__max-width--container" role="list">
+                {%- for item in items -%}
+                  {% include property-card.html %}
+                {% endfor %}
+              </ul>
+            </div>
           {%- else -%}
-            <div class="u__vertical__p u__gutter__p">
-              <p class="h2 taxonomy__title--empty">Sorry, no properties were found.</p>
+            <div class="u__vertical__p u__gutter__p ">
+              <div class="u__max-width--container">
+                <p class="h2 taxonomy__title--empty">Sorry, no properties were found.</p>
+              </div>
             </div>
           {%- endif -%}

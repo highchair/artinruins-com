@@ -15,7 +15,8 @@
   li,
   dt,
   dd {
-    max-width: 92ch;
+    // ch units would be great, but Firefox does not calculate them well — 72ch gives us more the effect we want
+    // max-width: 92ch;
   }
   
   abbr[title],

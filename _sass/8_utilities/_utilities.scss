@@ -17,6 +17,9 @@
       margin: 0 auto;
       max-width: $max-width__text;
     }
+    &--container {
+      max-width: $max-width__container;
+    }
   }
   
   // Lists

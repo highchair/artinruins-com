@@ -60,8 +60,10 @@ $max-vw: (bp('x-large') / 16);
 // Maximum widths
 $max-widths: (
   base: 1000,
-  text: 700
+  text: 48rem,
+  container: 64rem
 );
 
 $max-width: #{em(map-get($max-widths, base))};
-$max-width__text: #{em(map-get($max-widths, text))};
+$max-width__text: map-get($max-widths, text);
+$max-width__container: map-get($max-widths, container);
