@@ -2,7 +2,9 @@
 title: "Broadway & Dean St. Garages"
 slug: broadway-dean-garages
 aka: 'V.N. Famiglietti, Ricci Wholesale Carpet'
-date-modified: 2021-11-20 12:00
+date-modified: 2023-02-24 12:00
+update: 'Added a recent photo of the Broadway Garage façade'
+update-image: broadway-garage-jh-2023-01-01.jpg
 
 built: 'circa 1910, 1930'
 demolition: '2011, partial'
@@ -34,46 +36,72 @@ thumbnail: broadway-garage-jh-2018-08-01.jpg
 images:
   - url: 1914-November-Projo-Ad-Archives.jpg
     alt: 'An interesting reconstruction of an older, symmetrical building. It is now asymetric and angular, with a recessed storefront and second floor recessed porch. The exterior is covered in orangey-tan laminate with the second floor covered in wood-look boards laid on a horizontal pattern'
+    sizes: '395, 667'
   - url: broadway-garage-goog-2007-10.jpg
     caption: 'Google Streetview from 2007'
+    sizes: '1440, 900'
   - url: broadway-garage-jh-2011-02-01.jpg
+    sizes: '1440, 900'
   - url: broadway-garage-jh-2011-02-02.jpg
+    sizes: '1200, 900'
   - url: broadway-garage-jh-2011-02-03.jpg
+    sizes: '1440, 900'
   - url: broadway-garage-jh-2011-02-04.jpg
+    sizes: '1200, 900'
   - url: dean-garage-jh-2011-02-01.jpg
     caption: 'Dean Street Garage buildings and infill'
+    sizes: '1440, 900'
   - url: dean-garage-jh-2011-02-02.jpg
     caption: 'Dean Street Garage buildings and infill'
+    sizes: '1440, 900'
   - url: dean-garage-jh-2011-02-03.jpg
     caption: 'Dean Street Garage buildings and infill'
+    sizes: '1440, 900'
   - url: dean-garage-jh-2011-02-04.jpg
     caption: 'A sign reading “A. Ricci, Inc. & Enterprises'
+    sizes: '1200, 900'
   - url: broadway-garage-jh-2012-12-01.jpg
+    sizes: '1200, 900'
   - url: broadway-garage-jh-2016-08-01.jpg
+    sizes: '1600, 900'
   - url: broadway-garage-jh-2017-07-01.jpg
+    sizes: '1600, 900'
   - url: broadway-garage-jh-2018-01-01.jpg
+    sizes: '1440, 900'
   - url: dean-garage-jh-2018-08-01.jpg
     caption: 'Dean Street Garage buildings and infill'
+    sizes: '1440, 900'
   - url: broadway-garage-jh-2018-08-01.jpg
+    sizes: '1440, 900'
   - url: broadway-garage-jh-2018-10-01.jpg
+    sizes: '1200, 900'
+  - url: broadway-garage-jh-2023-01-01.jpg
+    sizes: '1440, 900'
   - url: 1899-sanborn-plate-47.jpg
     caption: 'Sanborn Insurance Maps, 1899, Providence RI, Volume 1, Plate 47'
+    sizes: '1440, 900'
   - url: 1920-sanborn-plate-47.jpg
     caption: 'Sanborn Insurance Maps, 1920-21, Providence RI, Volume 1, Plate 47'
+    sizes: '1440, 900'
   - url: 1937-gm-hopkins-plate-4.jpg
     caption: 'G.M. Hopkins Insurance Maps, 1937, Providence RI, Plate 4'
+    sizes: '1440, 900'
   - url: 1972-aerial-viewer.jpg
     caption: 'Providence Historic Aerial Viewer, 1972'
+    sizes: '1440, 900'
   - url: 1997-aerial-viewer.jpg
     caption: 'Providence Historic Aerial Viewer, 1997'
+    sizes: '1440, 900'
   - url: 2008-aerial-viewer.jpg
     caption: 'Providence Historic Aerial Viewer, 2008'
+    sizes: '1440, 900'
   - url: 2020-aerial-viewer.jpg
     caption: 'Providence Historic Aerial Viewer, 2020'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the Library of Congress, Historic Mapworks, Providence Historic Aerial Viewer, and Google Streetview'
 
-mostrecentimage: 2018-10-01
+mostrecentimage: 2023-01-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'

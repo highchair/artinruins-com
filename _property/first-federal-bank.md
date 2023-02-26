@@ -1,19 +1,19 @@
 ---
 title: "First Federal Bank"
 slug: first-federal-bank
-aka: Downtown “Buck-a-Book”
+aka: 'Downtown “Buck-a-Book”'
 date-modified: 2020-05-02 21:49
 
-built: 1930s, 1950s
-demolition: 2005
+built: '1930s, 1950s'
+demolition: '2005'
 decade: '1930-1939'
-date-added: 2004
+date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Former Banks', 'Demolition by Proposal', 'Needs History' ]
+tags: [ 'Demolition by Proposal', 'Former Banks', 'Needs History' ]
 
 address: '110 Westminster Street, Providence RI'
 latitude: '41.82425'
@@ -21,20 +21,30 @@ longitude: '-71.4126317'
 gmap: "https://www.google.com/maps/place/110+Westminster+St,+Providence,+RI+02903/@41.82425,-71.4126317"
 
 meta: ""
-excerpt: "A non-descript downtown commercial building probably faced with enamel and steel details in the 1950s. Razed in 2005 for a condomuium tower that was never built. "
+excerpt: "A non-descript downtown commercial building probably faced with enamel and steel details in the 1950s. Razed in 2005 for a condomuium tower that was never built"
 
 thumbnail: first-fed-jh-2004-10-01.jpg
 
 images:
   - url: first-fed-jh-2004-10-01.jpg
+    alt: 'A two-story, square façade commercial storefront with floor to ceiling glass panes and green enamel steel panels. Likely a modern conversion in the 1970s over an older brick structure.'
+    sizes: '1200, 900'
   - url: first-fed-jh-2004-10-02.jpg
+    sizes: '1200, 900'
   - url: first-fed-jh-2004-10-03.jpg
+    sizes: '1200, 900'
   - url: first-fed-jh-2004-10-04.jpg
+    sizes: '1200, 900'
   - url: first-fed-jh-2004-10-05.jpg
+    sizes: '1200, 900'
   - url: first-fed-jh-2004-10-06.jpg
+    sizes: '1200, 900'
   - url: first-fed-jh-2005-11-01.jpg
+    sizes: '1200, 900'
   - url: first-fed-jh-2005-11-02.jpg
+    sizes: '1200, 900'
   - url: first-fed-jh-2005-11-03.jpg
+    sizes: '1200, 900'
 
 imagescredit:  
 ---

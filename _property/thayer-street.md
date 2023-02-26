@@ -2,8 +2,9 @@
 title: "Thayer Street (from Bowen to Waterman)"
 slug: thayer-street
 aka:
-date-modified: 2022-11-05 12:00
-update: 'Added a photo of 307 Thayer Street from 2020; a house built between 1857 and 1875.'
+date-modified: 2023-02-24 13:00
+update: 'Added two more photos of 307 Thayer Street from 2022; a house built between 1857 and 1875.'
+update-image: 307-thayer-jh-2022-11-01.jpg
 
 built: 'Various; 1857–2020'
 demolition:
@@ -41,6 +42,12 @@ images:
     sizes: '768, 924'
   - url: 307-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 307 Thayer Street, home built circa 1857, looking southeast.'
+    sizes: '1200, 900'
+  - url: 307-thayer-jh-2022-11-01.jpg
+    caption: 'Photo 2022. 307 Thayer Street looking northeast.'
+    sizes: '1200, 900'
+  - url: 307-thayer-jh-2022-11-02.jpg
+    caption: 'Photo 2022. 307 Thayer Street looking north-northwest.'
     sizes: '1200, 900'
   - url: 300-306-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 300–308 Thayer Street, Pembroke Dormitories, built 1974-75. View looking north northwest.'
