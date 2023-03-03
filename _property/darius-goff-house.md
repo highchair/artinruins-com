@@ -34,11 +34,17 @@ excerpt: "A very large, wood shingle mansion in Quality Hill with attached carri
 images:
   - url: weeden-manor-jh-2010-03-01.jpg
     alt: 'A three story, wood shingle, many faceted home with a reported 12 bedrooms, 5 and a half baths, and a total of 24 rooms sitting on a large urban lot in the Quality Hill neighborhood of Pawtucket'
+    sizes: '1200, 900'
   - url: weeden-manor-jh-2010-03-02.jpg
+    sizes: '1200, 900'
   - url: weeden-manor-jh-2010-03-03.jpg
+    sizes: '1200, 900'
   - url: weeden-manor-jh-2010-03-04.jpg
+    sizes: '1200, 900'
   - url: weeden-manor-jh-2010-03-05.jpg
+    sizes: '1200, 900'
   - url: weeden-manor-jh-2010-03-06.jpg
+    sizes: '1200, 900'
 
 imagescredit:
 

@@ -34,21 +34,37 @@ thumbnail:
 images:
   - url: decatur-jh-2006-03-01.jpg
     alt: 'A new old man bar is one way to describe the former Decatur. Owner Joanne Seddon was enamoured with neighborhood bars in New Orleans and brought some of that sensibility back to Providence. The sign over the front door was a “Decatur” street sign from New Orleans. Inside the walls were covered with beer paraphenalia, polaroids of locals and their dogs, customer drawings, just all sorts of stuff. '
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-02.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-03.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-04.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-05.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-06.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-07.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-08.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-09.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-10.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-11.jpg
+    sizes: '768, 924'
   - url: decatur-jh-2006-03-12.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-13.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-14.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-15.jpg
+    sizes: '1200, 900'
   - url: decatur-jh-2006-03-16.jpg
+    sizes: '1200, 900'
 
 imagescredit:
 

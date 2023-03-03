@@ -33,16 +33,25 @@ thumbnail: ep-high-jh-2021-09-04.jpg
 
 images:
   - url: ep-high-kz-2021-07-01.jpg
-    caption: 'Photo by Kenneth Zirkel for Wikimedia/Wikipedia'
     alt: 'A low slung, wide, two story cinderblock and concrete municipal building consisting of commercial-style plate glass awning style windows topped with a grid of glass block. The building consisted of two main wings meeting at an oblique angle in the center, where the main entrance to the auditorium resided.'
+    caption: 'Photo by Kenneth Zirkel for Wikimedia/Wikipedia'
+    sizes: '1440, 900'
   - url: ep-high-jh-2021-09-01.jpg
+    sizes: '1600, 900'
   - url: ep-high-jh-2021-09-02.jpg
+    sizes: '1200, 900'
   - url: ep-high-jh-2021-09-03.jpg
+    sizes: '1200, 900'
   - url: ep-high-jh-2021-09-04.jpg
+    sizes: '1600, 900'
   - url: ep-high-jh-2021-09-05.jpg
+    sizes: '1600, 900'
   - url: ep-high-jh-2021-09-06.jpg
+    sizes: '1200, 900'
   - url: ep-high-jh-2021-09-07.jpg
+    sizes: '1600, 900'
   - url: ep-high-jh-2021-09-08.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Pre-demolition photo by Kenneth Zirkel for <a href="https://en.wikipedia.org/wiki/East_Providence_High_School#/media/File:East_Providence_High_School_(1952-2021_building)_wide_view.jpg" target="_blank">Wikimedia/Wikipedia</a>'
 

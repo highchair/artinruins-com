@@ -4,11 +4,11 @@ slug: enchanted-forest
 aka: 
 date-modified: 2020-07-26 17:00
 
-built: 1971
-demolition: 2014
+built: '1971'
+demolition: '2014'
 redeveloped: 
 decade: '1970-1979'
-date-added: 2008
+date-added: '2008'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Hopkinton, RI' ]
@@ -29,46 +29,66 @@ thumbnail: enchanted-forest-kap-2009-06-01.jpg
 images:
   - url: enchanted-forest-fb-undated-01.jpg
     caption: 'Photo from Facebook user Keith Elliott; undated'
+    sizes: '966, 644'
   - url: enchanted-forest-lf-2005-09-01.jpg
     caption: 'Photos by Lou Fancy'
+    sizes: '1260, 950'
   - url: enchanted-forest-lf-2005-09-02.jpg
     caption: 'Photos by Lou Fancy'
+    sizes: '1260, 950'
   - url: enchanted-forest-jb-2008-11-01.jpg
     caption: 'Photos by Jim Brueckner'
+    sizes: '682, 500'
   - url: enchanted-forest-jb-2008-11-02.jpg
     caption: 'Photos by Jim Brueckner'
+    sizes: '682, 500'
   - url: enchanted-forest-kap-2009-06-01.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: enchanted-forest-kap-2009-06-02.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: enchanted-forest-kap-2009-06-03.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: enchanted-forest-kap-2009-06-04.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: enchanted-forest-kap-2009-06-05.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: enchanted-forest-kap-2009-06-06.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '768, 1024'
   - url: enchanted-forest-kap-2009-06-07.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: enchanted-forest-kap-2009-06-08.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: enchanted-forest-kap-2009-06-09.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: enchanted-forest-kap-2009-06-10.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: enchanted-forest-kap-2009-06-11.jpg
     caption: 'Photo by Kerri-Ann Pontifice'
+    sizes: '1024, 768'
   - url: enchanted-forest-flickr-2012-09-01.jpg
     caption: 'Photo by Flickr user Down-pointing-finger (☟)'
+    sizes: '1100, 768'
   - url: enchanted-forest-aerial-2003.jpg
     caption: 'Providence Historical Aerial Viewer 2002-2003'
+    sizes: '1440, 900'
   - url: enchanted-forest-aerial-2011.jpg
     caption: 'Providence Historical Aerial Viewer 2011'
+    sizes: '1440, 900'
   - url: enchanted-forest-aerial-2018.jpg
     caption: 'Providence Historical Aerial Viewer 2018'
+    sizes: '1440, 900'
 
-imagescredit: Contributions by Lou Fancy, Jim Brueckner, Kerri-Ann Pontifice, and a Flickr user
+imagescredit: 'Contributions by Lou Fancy, Jim Brueckner, Kerri-Ann Pontifice, and a Flickr user'
 ---
 
 ### Reason for Abandonment
@@ -95,6 +115,8 @@ _Pieced together from a few internet sources_
 
 The Enchanted Forest opened in June 17, 1972 as a fairy tale themed village theme park for kids. The park was created by Marcus Jones and Philip Herlle. There was a small petting zoo with goats, lambs, rabbits, baby cows, peacocks, llamas, ponies you could ride and more. 
 
-Hoping to avoid the roadside tourist-trap image, they built The Enchanted Forest around a pond, with waterfalls at either end. They preserved trees, shrubs and protected mountain laurels. Chariho High School vocational students built the displays and buildings. The rides that came over time included bumper cars, swirling teacups, a Ferris Wheel, The Scrambler, and others. A go-kart track and mini-golf course figured prominently next to the parking lot. 
+Hoping to avoid the roadside tourist-trap image, they built The Enchanted Forest around a pond, with waterfalls at either end. They preserved trees, shrubs and protected mountain laurels. Chariho[^1] High School vocational students built the displays and buildings. The rides that came over time included bumper cars, swirling teacups, a Ferris Wheel, The Scrambler, and others. A go-kart track and mini-golf course figured prominently next to the parking lot. 
+
+[^1]: Chariho is a portmanteau that stands for the three “Charleston Richmond Hopkington” towns in Rhode Island.
 
 Harold Fera, owner of Rockwell Amusements and the last owner-operator of the Forest, decided to close the park in 2005 due to year over year low attendance. Fera said, “It’s very hard for amusement parks to survive with the economy in this region,” particularly short-season parks. 

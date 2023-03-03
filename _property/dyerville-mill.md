@@ -31,24 +31,37 @@ thumbnail: dyerville-jh-2003-02-01.jpg
 
 images:
   - url: dyerville-habs-1978-01.jpg
-    caption: 'Photo by Warren Jagger, 1978'
     alt: 'A three story, stucco covered stone mill in an L-shaped plan with simple granite window adornment and a large, central bell tower. It some ways, it looks very much like a 19th-century church.'
+    caption: 'Photo by Warren Jagger, 1978'
+    sizes: '768, 924'
   - url: dyerville-habs-1978-02.jpg
     caption: 'Photo by Warren Jagger, 1978'
+    sizes: '1200, 900'
   - url: dyerville-habs-1978-03.jpg
     caption: 'Photo by Warren Jagger, 1978'
+    sizes: '1200, 900'
   - url: dyerville-habs-1978-04.jpg
     caption: 'Photo by Warren Jagger, 1978'
+    sizes: '1200, 900'
   - url: dyerville-jh-2003-02-01.jpg
+    sizes: '1200, 900'
   - url: dyerville-jh-2003-02-02.jpg
+    sizes: '1200, 900'
   - url: dyerville-jh-2003-02-03.jpg
+    sizes: '1200, 900'
   - url: dyerville-jh-2003-02-04.jpg
+    sizes: '768, 924'
   - url: dyerville-jh-2003-02-05.jpg
+    sizes: '1200, 900'
   - url: dyerville-jh-2003-02-06.jpg
+    sizes: '1200, 900'
   - url: dyerville-zillow-2019-01.jpg
     caption: 'The former office of the mill bears the number 610 address along Manton Avenue, but has since been parcelled off from the main mill property'
+    sizes: '1024, 768'
   - url: dyerville-jh-2020-12-01.jpg
+    sizes: '1440, 900'
   - url: dyerville-jh-2020-12-02.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions by Warren Jagger for the National Register and Zillow.com'
 

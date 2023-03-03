@@ -34,21 +34,36 @@ thumbnail: easton-machine-jh-2004-03-05.jpg
 images:
   - url: easton-machine-jh-2004-03-01.jpg
     alt: 'A two story L-shaped small complex of red brick mill buildings including a boiler house with large stack. Windows are double-hung, multi-pane style with arched lintels and granite sills. Brickwork has some slight decorative elements along the roof line to accent piers between windows.'
+    sizes: '1440, 900'
   - url: easton-machine-jh-2004-03-02.jpg
+    sizes: '1200, 900'
   - url: easton-machine-jh-2004-03-03.jpg
+    sizes: '1200, 900'
   - url: easton-machine-jh-2004-03-04.jpg
+    sizes: '768, 924'
   - url: easton-machine-jh-2004-03-05.jpg
+    sizes: '1440, 900'
   - url: easton-machine-jh-2004-03-06.jpg
+    sizes: '1440, 900'
   - url: easton-machine-jh-2004-03-07.jpg
+    sizes: '1440, 900'
   - url: easton-machine-jh-2004-03-08.jpg
+    sizes: '1200, 900'
   - url: easton-machine-jh-2004-03-09.jpg
+    sizes: '1200, 900'
   - url: easton-machine-jh-2004-03-10.jpg
+    sizes: '1200, 900'
   - url: easton-machine-jh-2004-03-11.jpg
+    sizes: '1200, 900'
   - url: easton-machine-jh-2004-03-12.jpg
+    sizes: '1200, 900'
   - url: easton-machine-jh-2004-03-13.jpg
+    sizes: '1440, 900'
   - url: easton-machine-jh-2007-03-01.jpg
+    sizes: '1200, 900'
   - url: easton-machine-rd-2007-03-01.jpg
-    caption: 'Mill fire in progress — Rich Dugas for the Pawtucket Times, March 28 2007'
+    caption: 'Mill fire in progress — Rich Dugas for the Pawtucket Times, March 28 2007'
+    sizes: '1636, 900'
 
 imagescredit: 'Contribution by Rich Dugas for the Pawtucket Times'
 

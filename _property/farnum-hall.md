@@ -31,23 +31,32 @@ thumbnail: farnum-hall-dp-2011-05-01.jpg
 
 images:
   - url: farnum-hall-goog-2007-01.jpg
-    caption: 'Google Streetview 2007'
     alt: 'A U-shaped, four- and three-story central plan apartment complex built on College Hill in the 1920s with simple or no ornamentation. When it was purchased by the Rhode Island School of Design, it was named after an American art educator.'
+    caption: 'Google Streetview 2007'
+    sizes: '1200, 900'
   - url: farnum-hall-goog-2007-02.jpg
     caption: 'Google Streetview 2007'
+    sizes: '1200, 900'
   - url: farnum-hall-gg-flickr-2007-01.jpg
     caption: 'Flickr user Glenn Gulley circa 2007'
+    sizes: '676, 900'
   - url: farnum-hall-dp-2011-05-01.jpg
     caption: 'Daniel Penfield for Wikimedia'
+    sizes: '1200, 900'
   - url: farnum-hall-dp-2011-05-02.jpg
     caption: 'Daniel Penfield for Wikimedia'
+    sizes: '1200, 900'
   - url: farnum-hall-dp-2011-05-03.jpg
     caption: 'Daniel Penfield for Wikimedia'
+    sizes: '1200, 900'
   - url: farnum-hall-goog-2011-01.jpg
     caption: 'Google Streetview 2011'
+    sizes: '1200, 900'
   - url: farnum-hall-jh-2011-06-01.jpg
+    sizes: '1200, 900'
   - url: farnum-hall-goog-2017-01.jpg
     caption: 'Google Streetview 2017'
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions from Google Streetview, Daniel Penfield for Wikimedia, and Flickr user Glenn Gulley'
 ---

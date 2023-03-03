@@ -34,22 +34,32 @@ thumbnail: emblem-125-render-02.jpg
 
 images:
   - url: emblem-125-render-01.jpg
-    caption: 'Architectural rendering'
     alt: 'A six story apartment building built up to the sidewalk line without set back and three masses. One mass is distinct in dark late gray and flat tan wall panels while the other masses are a mix of red brick and black granite-like panels. The upper stories have set backs to allow for rooftop green spaces and patios. Window openings are large and modern with mostly double-hung sash windows in double and triple grouped sets.'
+    caption: 'Architectural rendering'
+    sizes: '1601, 900'
   - url: emblem-125-render-02.jpg
     caption: 'Architectural rendering'
+    sizes: '1600, 900'
   - url: emblem-125-jh-2021-03-01.jpg
+    sizes: '1440, 900'
   - url: emblem-125-jh-2021-05-01.jpg
+    sizes: '1440, 900'
   - url: emblem-125-jh-2021-05-02.jpg
+    sizes: '1440, 900'
   - url: emblem-125-jh-2021-05-03.jpg
+    sizes: '1440, 900'
   - url: emblem-125-jh-2021-06-01.jpg
+    sizes: '1440, 900'
   - url: emblem-125-jh-2021-09-01.jpg
+    sizes: '1440, 900'
   - url: emblem-125-jh-2021-09-02.jpg
+    sizes: '1440, 900'
   - url: emblem-125-jh-2021-09-03.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2021-12-01
 
-imagescredit: 'Renderings taken from the Shawmut Construction and 195District websites'
+imagescredit: 'Renderings taken from the Shawmut Construction and 195 District websites'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

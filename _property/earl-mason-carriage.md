@@ -31,29 +31,46 @@ thumbnail: earl-mason-jh-2004-02-01.jpg
 
 images:
   - url: earl-mason-jh-2004-02-01.jpg
-    alt: "A small brick two-story carriage house detached from 296 Benefit Street. Circular “porthole” windows feature above the main garage door entrance, as well as a unique truss system in the attic which makes the ground floor unobstructed by vertical supports"
+    alt: 'A small brick two-story carriage house detached from 296 Benefit Street. Circular “porthole” windows feature above the main garage door entrance, as well as a unique truss system in the attic which makes the ground floor unobstructed by vertical supports'
+    sizes: '1200, 900'
   - url: earl-mason-jh-2004-02-02.jpg
+    sizes: '768, 924'
   - url: earl-mason-jh-2004-02-03.jpg
+    sizes: '768, 924'
   - url: earl-mason-jh-2004-02-04.jpg
+    sizes: '1200, 900'
   - url: earl-mason-jh-2004-02-05.jpg
+    sizes: '1200, 900'
   - url: earl-mason-jh-2004-02-06.jpg
+    sizes: '1200, 900'
   - url: earl-mason-jh-2004-02-07.jpg
+    sizes: '1200, 900'
   - url: earl-mason-jh-2004-02-08.jpg
+    sizes: '1200, 900'
   - url: earl-mason-jh-2004-02-09.jpg
+    sizes: '1200, 900'
   - url: earl-mason-jh-2004-02-10.jpg
+    sizes: '768, 924'
   - url: earl-mason-jh-2004-02-11.jpg
+    sizes: '1200, 900'
   - url: earl-mason-ril-2009-06-01.jpg
-    caption: "Photo by RI Lurky"
+    caption: 'Photo by RI Lurky'
+    sizes: '1200, 900'
   - url: earl-mason-ril-2009-06-02.jpg
-    caption: "Photo by RI Lurky"
+    caption: 'Photo by RI Lurky'
+    sizes: '1200, 900'
   - url: earl-mason-re-2013-04-01.jpg
-    caption: "Photo by Robert Easton"
+    caption: 'Photo by Robert Easton'
+    sizes: '640, 425'
   - url: earl-mason-re-2013-04-02.jpg
-    caption: "Photo by Robert Easton"
+    caption: 'Photo by Robert Easton'
+    sizes: '640, 425'
   - url: earl-mason-re-2013-04-03.jpg
-    caption: "Photo by Robert Easton"
+    caption: 'Photo by Robert Easton'
+    sizes: '640, 425'
   - url: earl-mason-re-2013-04-04.jpg
-    caption: "Photo by Robert Easton"
+    caption: 'Photo by Robert Easton'
+    sizes: '425, 600'
 
 mostrecentimage: 2013-04-01
 

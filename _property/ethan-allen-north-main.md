@@ -28,21 +28,38 @@ thumbnail: ethan-allen-jh-2004-04-02.jpg
 
 images:
   - url: ethan-allen-jh-2003-07-01.jpg
+    alt: 'A non-descript retail building along a road of retail stores and franchises. White wooden clapboard exterior front-piece on a cinder block building. An entrance on the front with a gable roof and double commercial door underneath.'
+    sizes: '1024, 640'
   - url: ethan-allen-jh-2003-07-02.jpg
+    sizes: '1024, 640'
   - url: ethan-allen-jh-2003-07-03.jpg
+    sizes: '1024, 640'
   - url: ethan-allen-jh-2003-07-04.jpg
+    sizes: '1024, 640'
   - url: ethan-allen-jh-2003-07-05.jpg
+    sizes: '1024, 640'
   - url: ethan-allen-jh-2003-07-06.jpg
+    sizes: '1024, 640'
   - url: ethan-allen-jh-2003-07-07.jpg
+    sizes: '1024, 640'
   - url: ethan-allen-jh-2003-07-08.jpg
+    sizes: '1024, 768'
   - url: ethan-allen-jh-2004-04-01.jpg
+    sizes: '1440, 900'
   - url: ethan-allen-jh-2004-04-02.jpg
+    sizes: '1440, 900'
   - url: ethan-allen-jh-2004-04-03.jpg
+    sizes: '1440, 900'
   - url: ethan-allen-jh-2004-04-04.jpg
+    sizes: '1440, 900'
   - url: ethan-allen-jh-2004-04-05.jpg
+    sizes: '1440, 900'
   - url: ethan-allen-jh-2013-01-01.jpg
+    sizes: '1440, 900'
   - url: ethan-allen-jh-2013-01-02.jpg
+    sizes: '1440, 900'
   - url: ethan-allen-jh-2020-06-01.jpg
+    sizes: '1440, 900'
 
 imagescredit: 
 ---

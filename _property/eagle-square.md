@@ -27,68 +27,108 @@ thumbnail: eagle-square-jh-02.jpg
 
 images:
   - url: eagle-square-smpro-01.jpg
-    caption: Photo by Stephen Mattos
     alt: 'A collection of red brick mill buildings of varying sizes and heights. Some buildings have been demolished to make room for modern brick-fasced replacements, while others have been saved and redeveloped into commercial space or residential.'
+    caption: 'Photo by Stephen Mattos'
+    sizes: '839, 524'
   - url: eagle-square-smpro-02.jpg
-    caption: Photo by Stephen Mattos
+    caption: 'Photo by Stephen Mattos'
+    sizes: '839, 524'
   - url: eagle-square-smpro-03.jpg
-    caption: Photo by Stephen Mattos
+    caption: 'Photo by Stephen Mattos'
+    sizes: '839, 524'
   - url: eagle-square-smpro-04.jpg
-    caption: Photo by Stephen Mattos
+    caption: 'Photo by Stephen Mattos'
+    sizes: '839, 524'
   - url: eagle-square-smpro-05.jpg
-    caption: Photo by Stephen Mattos
+    caption: 'Photo by Stephen Mattos'
+    sizes: '839, 524'
   - url: eagle-square-smpro-06.jpg
-    caption: Photo by Stephen Mattos
+    caption: 'Photo by Stephen Mattos'
+    sizes: '839, 524'
   - url: eagle-square-jh-01.jpg
+    sizes: '800, 1067'
   - url: eagle-square-jh-02.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-03.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-04.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-05.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-06.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-07.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-08.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-09.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-10.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-11.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-12.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-13.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-14.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-15.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-16.jpg
+    sizes: '1200, 900'
   - url: eagle-square-jh-17.jpg
+    sizes: '800, 1067'
   - url: eagle-square-sc-01.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-sc-02.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '480, 640'
   - url: eagle-square-sc-03.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-sc-04.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-sc-05.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-sc-06.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-sc-07.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-sc-08.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-sc-09.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-sc-10.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-sc-11.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '480, 640'
   - url: eagle-square-sc-12.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-sc-13.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-sc-14.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-sc-15.jpg
-    caption: Photo by Sarah Clover
+    caption: 'Photo by Sarah Clover'
+    sizes: '640, 480'
   - url: eagle-square-philipmarshall-poster.jpg
-    caption: Photo from Philip Marshall
+    caption: 'Photo from Philip Marshall'
+    sizes: '640, 480'
   - url: eagle-square-jh-2005.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contributed photos from Sarah Clover, Philip Marshall, and Stephen Mattos.'
 

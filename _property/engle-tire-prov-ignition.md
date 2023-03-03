@@ -29,27 +29,49 @@ thumbnail:
 images:
   - url: engle-tire-jh-2005-04-01.jpg
     alt: 'A single story commercial garage structure built of cinder block and yellow brick. The Broadway facing façade was a plate glass and green enamel panel storefront. Much of the Service Road facing side was also garage door bays. The Providence Ignition building was faced with light blue enamel panels and had three garage doors as well as a commercial steel door frame customer entrance. Both buildings had large plastic letters across the top of the Broadway side.'
+    sizes: '1440, 900'
   - url: engle-tire-jh-2005-04-02.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2005-04-03.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2005-04-04.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2005-04-05.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2005-04-06.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2005-04-07.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-05-01.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-06-01.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-07-01.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-07-02.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-07-03.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-07-04.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-07-05.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-07-06.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-07-07.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-07-08.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-07-09.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-07-10.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-07-11.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-07-12.jpg
+    sizes: '1440, 900'
   - url: engle-tire-jh-2012-09-01.jpg
+    sizes: '1440, 900'
 
 imagescredit: 
 ---

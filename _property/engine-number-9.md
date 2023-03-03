@@ -33,10 +33,15 @@ thumbnail: engine-nine-jh-2007-11-01.jpg
 images:
   - url: engine-nine-jh-2003-03-01.jpg
     alt: 'A small rectangular red brick former firehouse with central rounded arch double door entrance flanked by two smaller rounded arch windows. Two rounded arch windows are above with a simple gable roof and decorative brick corbelling along the roof edge'
+    sizes: '1200, 900'
   - url: engine-nine-jh-2003-03-02.jpg
+    sizes: '1200, 900'
   - url: engine-nine-jh-2007-11-01.jpg
+    sizes: '1200, 900'
   - url: engine-nine-jh-2007-11-02.jpg
+    sizes: '1200, 900'
   - url: engine-nine-jh-2007-11-03.jpg
+    sizes: '768, 924'
 
 mostrecentimage: 2007-11-01
 

@@ -31,48 +31,69 @@ thumbnail: es-train-tunnel-habs-1983-01.jpg
 
 images:
   - url: es-train-tunnel-benefit-st-01.jpg
-    caption: 'Postcard view of train tunnel entrance under Benefit St — First Baptist Church can be seen on the far right and the First Church of the Scientist, Meeting Street, center top. Edward Ozog Photograph Collection, Providence Public Library'
     alt: 'The visible entrances to this tunnel are concrete and not very much to look at.'
+    caption: 'Postcard view of train tunnel entrance under Benefit St — First Baptist Church can be seen on the far right and the First Church of the Scientist, Meeting Street, center top. Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1352, 900'
   - url: es-train-tunnel-benefit-st-02.jpg
     caption: 'Postcard view of tunnel towards Benefit Street from the tracks. Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1352, 900'
   - url: es-train-tunnel-benefit-st-03.jpg
     caption: 'Postcard view of passengers waiting to board looking towards the west entrance under Benefit Street. Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1353, 900'
   - url: es-train-tunnel-benefit-st-04.jpg
     caption: 'Postcard view of a lone passenger at the end of the platform waiting to board. Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1352, 900'
   - url: es-train-tunnel-gano-st-01.jpg
     caption: 'Postcard view of east entrance of the train tunnel under Gano Street. Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1352, 900'
   - url: es-train-tunnel-gano-st-02.jpg
     caption: 'Postcard view of a train leaving the east entrance to the East Side tunnel, looking towards Gano Street. Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1352, 900'
   - url: es-train-tunnel-benefit-st-05.jpg
     caption: 'Photograph of the west entrance under Benefit Street, date unknown. Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1352, 900'
   - url: es-train-tunnel-ppl-aerial-1950.jpg
-    caption: 'Aerial view looking east from above Exchange Place/Kennedy Plaza. The soldiers and sailors monument in “Suicide Circle” can be seen and the Providence Washington Insurance company building (1949) seems to be nearing completion — Avery Lord Aerial Photograph Collection, Providence Public Library'
+    caption: 'Aerial view looking east from above Exchange Place/Kennedy Plaza. The soldiers and sailors monument in “Suicide Circle” can be seen and the Providence Washington Insurance company building (1949) seems to be nearing completion — Avery Lord Aerial Photograph Collection, Providence Public Library'
+    sizes: '1200, 1200'
   - url: es-train-tunnel-lk-1954.jpg
     caption: 'Looking east towards the west entrance of the East Side Train tunnel along the tracks, circa 1954. Personal collection of Leo King'
+    sizes: '850, 488'
   - url: es-train-tunnel-lk-1979.jpg
     caption: 'View of an abandoned train engine at the west entrance of the East Side Train tunnel, circa 1979. Personal collection of Leo King'
+    sizes: '546, 700'
   - url: es-train-tunnel-aerial-1972-path.jpg
     caption: 'Aerial from the Providence Historical Aerial Viewer 1972 with overlay of the probable tunnel path underground. Cadastral Map from G.M. Hopkins, 1937, shows a quick turn under Benefit Street and then a rather straight path. It’s hard to tell, but the lift bridge over the Seekonk river is in a down position in this photo.'
+    sizes: '1680, 720'
   - url: es-train-tunnel-habs-1983-01.jpg
     caption: 'View out of the west entrance of the tunnel towards Union Station. Library of Congress, HABS/HAER project, William E. Barrett photographer'
+    sizes: '1200, 960'
   - url: es-train-tunnel-habs-1983-02.jpg
     caption: 'View from the outside of the west entrance looking towards Benefit Street. Library of Congress, HABS/HAER project, William E. Barrett photographer'
+    sizes: '1200, 960'
   - url: es-train-tunnel-habs-1983-03.jpg
     caption: 'View of the East Side Train viaduct running alongside Steeple Street during demolition in 1983. Library of Congress, HABS/HAER project, William E. Barrett photographer'
+    sizes: '1200, 960'
   - url: es-train-tunnel-habs-1983-04.jpg
     caption: 'Detail view of the East Side Train viaduct during demolition in 1983. Library of Congress, HABS/HAER project, William E. Barrett photographer'
+    sizes: '1200, 960'
   - url: es-train-tunnel-habs-1983-05.jpg
     caption: 'View of East Side Train viaduct over Canal Street with the east edge of Downtown Providence behind. Library of Congress, HABS/HAER project, William E. Barrett photographer'
+    sizes: '1200, 960'
   - url: es-train-tunnel-habs-1983-06.jpg
     caption: 'Higher vantage point view of the demolition of concrete piers and steel viaduct for the East Side Train, 1983. Library of Congress, HABS/HAER project, William E. Barrett photographer'
+    sizes: '1200, 960'
   - url: es-train-tunnel-lk-2001.jpg
     caption: 'View of the train tunnel entrance closed up with steel plates and parking for 101 North Main Street being landscaped, circa 2001. Personal collection of Leo King'
+    sizes: '850, 638'
   - url: es-train-tunnel-lk-2002.jpg
     caption: 'View of the closed train tunnel entrance and finished parking for 101 North Main Street and 2 Thomas Street, circa 2002. Personal collection of Leo King'
+    sizes: '850, 638'
   - url: es-train-tunnel-jh-2004.jpg
     caption: 'View looking east from Canal Street with North Main Street and closed train tunnel entrance in top right, October 2004'
+    sizes: '1200, 960'
   - url: es-train-tunnel-jh-2020.jpg
     caption: 'The Benefit Street (west) entrance, clad in a steel door'
+    sizes: '1440, 900'
 
 mostrecentimage: 2020-10-01
 

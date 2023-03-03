@@ -31,19 +31,33 @@ thumbnail: edge-jh-2020-10-01.jpg
 images:
   - url: edge-jh-2017-08-01.jpg
     alt: 'A square, narrow, and tall tower faced in brick with bands of tan concrete every second floow. Ground floor retail is made of expansive glass storefronts. Window openings alternate from floor to floor, with every second floor matching its window patterns. One on corner of the building, above the main entrance on Canal Street, is a vertical section that is entirely glass.'
+    sizes: '1440, 900'
   - url: edge-jh-2017-08-02.jpg
+    sizes: '1440, 900'
   - url: edge-jh-2017-12-01.jpg
+    sizes: '1440, 900'
   - url: edge-jh-2017-12-02.jpg
+    sizes: '1200, 900'
   - url: edge-jh-2018-01-01.jpg
+    sizes: '1200, 900'
   - url: edge-jh-2018-02-01.jpg
+    sizes: '1440, 900'
   - url: edge-jh-2018-03-01.jpg
+    sizes: '1440, 900'
   - url: edge-jh-2018-04-01.jpg
+    sizes: '1440, 900'
   - url: edge-jh-2018-05-01.jpg
+    sizes: '1200, 900'
   - url: edge-jh-2018-08-01.jpg
+    sizes: '768, 924'
   - url: edge-jh-2020-10-01.jpg
+    sizes: '1440, 900'
   - url: edge-jh-2020-10-02.jpg
+    sizes: '768, 924'
   - url: edge-jh-2020-10-03.jpg
+    sizes: '1440, 900'
   - url: edge-jh-2020-10-04.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2020-10-01
 

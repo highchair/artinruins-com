@@ -5,10 +5,10 @@ aka: "Sullivan’s RI Recreation Center and/or Chip’s Bowl-a-Rama"
 date-modified: 2020-06-28 20:00
 
 built: 'circa 1955'
-demolition: 2014
+demolition: '2014'
 redeveloped: 
 decade: '1950-1959'
-date-added: 2009
+date-added: '2009'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
@@ -22,33 +22,51 @@ longitude: '-71.4021659'
 gmap: "https://www.google.com/maps/place/615+Pawtucket+Ave,+Pawtucket,+RI+02860/@41.8570074,-71.4021659,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444b8b44094c5:0xdec07465306f4e80!8m2!3d41.8570034!4d-71.3999719"
 
 meta: ""
-excerpt: "Brilliant — park on top, bowl below. Unfortunately, it just wasn’t hip enough to survive waning interest before bowling made a resurgence."
+excerpt: "Brilliant — park your car on top, bowl below. Unfortunately, it just wasn’t hip enough to survive waning interest before bowling made a resurgence"
 
 thumbnail: down-under-jh-2009-12-01.jpg
 
 images:
   - url: down-under-postcard.jpg
     alt: 'At the level of the parking lot was a small outcrop building that served as the main entrance. In the building was a set of stairs that led down to the bowling alley below the parking lot. The bowling alley was a time capsule of late 70s interior design.'
+    sizes: '1200, 900'
   - url: down-under-em-2008-08-01.jpg
+    sizes: '1024, 640'
   - url: down-under-em-2008-08-02.jpg
+    sizes: '768, 1024'
   - url: down-under-jh-2008-11-01.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2008-11-02.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2008-11-03.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2008-11-04.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2008-11-05.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2008-11-06.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2008-11-07.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2008-11-08.jpg
+    sizes: '800, 1067'
   - url: down-under-jh-2008-11-09.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2008-11-10.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2009-03-01.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2009-03-02.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2009-03-03.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2009-12-01.jpg
+    sizes: '1200, 900'
   - url: down-under-jh-2014-11-01.jpg
-    caption: During construction for LA Fitness. In the foreground is the Down Under retaining wall and new wall to the right. The Anderson Little sign still stands in the background, along with the old Sears Department store.
+    caption: 'During construction for LA Fitness. In the foreground is the Down Under retaining wall and new wall to the right. The Anderson Little sign still stands in the background, along with the old Sears Department store.'
+    sizes: '1600, 900'
 
-imagescredit: Contribution from Emdurs (Flickr)
+imagescredit: 'Contribution from Emdurs (Flickr)'
 ---
 
 ### Reason for Demolition

@@ -31,17 +31,25 @@ thumbnail: edgewood-yc-ps-1987-07-01.jpg
 
 images:
   - url: edgewood-yc-postcard-01.jpg
+    alt: 'A two story wooden structure built over the water on pilings, narrow on two sides and longer on the others. A deep porch runs around both floors and all four sides of the structure. A large cross gable roof is puntuated by three triangular dormers on each long side, and capped with a large two story tower.'
+    sizes: '1280, 960'
   - url: edgewood-yc-postcard-02.jpg
+    sizes: '1440, 900'
   - url: edgewood-yc-ps-1987-07-01.jpg
     caption: 'Patricia Sheehan for the National Register of Historic Places and the RIHPHC, 1987'
+    sizes: '1440, 986'
   - url: edgewood-yc-ps-1987-07-02.jpg
     caption: 'Patricia Sheehan for the National Register of Historic Places and the RIHPHC, 1987'
+    sizes: '1440, 986'
   - url: edgewood-yc-ps-1987-07-03.jpg
     caption: 'Patricia Sheehan for the National Register of Historic Places and the RIHPHC, 1987'
+    sizes: '1440, 986'
   - url: edgewood-yc-kp-2011-01-01.jpg
     caption: 'Photo of the fire on January 12, 2011, by Kathleen Pletcher'
+    sizes: '720, 540'
   - url: edgewood-yc-kp-2011-01-02.jpg
     caption: 'Photo of the fire on January 12, 2011, by Kathleen Pletcher'
+    sizes: '720, 540'
 
 imagescredit: 'Contributions by Patricia Sheehan for the National Register of Historic Places and the RIHPHC, and Kathleen Pletcher'
 ---

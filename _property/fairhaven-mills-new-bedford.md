@@ -34,20 +34,32 @@ thumbnail: fairhaven-mills-jh-2005-06-02.jpg
 images:
   - url: fairhaven-mills-jh-2005-06-01.jpg
     alt: 'A large, four-story red brick collection of mill buildings along Coggeshell Street in New Bedford. The mills were home to many small businesses and most recently an antques dealership before being razed in 2009 after a devastating fire'
+    sizes: '1600, 900'
   - url: fairhaven-mills-jh-2005-06-02.jpg
+    sizes: '1440, 900'
   - url: fairhaven-mills-jh-2005-06-03.jpg
+    sizes: '1440, 900'
   - url: fairhaven-mills-jh-2005-06-04.jpg
+    sizes: '1200, 900'
   - url: fairhaven-mills-jh-2005-06-05.jpg
+    sizes: '1200, 900'
   - url: fairhaven-mills-jh-2005-06-06.jpg
+    sizes: '1440, 900'
   - url: fairhaven-mills-jh-2005-06-07.jpg
+    sizes: '1200, 900'
   - url: fairhaven-mills-jh-2005-06-08.jpg
+    sizes: '1200, 900'
   - url: fairhaven-mills-jh-2005-06-09.jpg
+    sizes: '1200, 900'
   - url: fairhaven-mills-mb-2008-05-01.jpg
     caption: 'Photo by Marc Belanger'
+    sizes: '1440, 925'
   - url: fairhaven-mills-map-1922-01.jpg
-    caption: '1922 insurance map laid over a 2001 aerial photo — DigitalCommonwelath.org'
+    caption: '1922 insurance map laid over a 2001 aerial photo — DigitalCommonwelath.org'
+    sizes: '1440, 900'
   - url: fairhaven-mills-map-2001-01.jpg
     caption: '2001 aerial photo courtesy of Mass GIS. The Soule Mill Weave Shed can be seen along Sawyer Street.'
+    sizes: '1440, 900'
 
 mostrecentimage: 2008-01-01
 

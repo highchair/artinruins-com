@@ -34,10 +34,15 @@ thumbnail: east-ave-auto-jh-2006-01-01.jpg
 images:
   - url: east-ave-auto-jh-2002-06-01.jpg
     alt: 'A simple rectangular box for the main body of this commercial building, but a triangular projecting canopy over the former gas pumps is what makes this station distinctive. An open trellis-like pole suppoorts the tip of the triangle.'
+    sizes: '1440, 900'
   - url: east-ave-auto-jh-2002-06-02.jpg
+    sizes: '1440, 900'
   - url: east-ave-auto-jh-2004-02-01.jpg
+    sizes: '1440, 900'
   - url: east-ave-auto-jh-2004-02-02.jpg
+    sizes: '1440, 900'
   - url: east-ave-auto-jh-2006-01-01.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2006-01-01
 

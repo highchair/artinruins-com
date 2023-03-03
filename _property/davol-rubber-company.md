@@ -33,57 +33,88 @@ thumbnail: davol-square-jh-2021-06-01.jpg
 
 images:
   - url: davol-rubber-engraving-01.jpg
-    caption: 'Engraving of the northern part of the Davol complex — Reprinted in the RIHPHC 1981 Providence Industrial Sites report'
     alt: 'A complex of buildings close together on the western side of property bounded by Point, Eddy, South streets, and the Providence river. A long three story red brick building with a modern penthouse addition fronts Eddy Street featuring granite sills and segmental arch windows. An older building along Point street was built up over time and features rounded arch windows and doorways on the first floor. In between these two buildings is a modern three-story glass atrium. More buildings line the northern side of the property along South street. '
+    caption: 'Engraving of the northern part of the Davol complex — Reprinted in the RIHPHC 1981 Providence Industrial Sites report'
+    sizes: '1440, 900'
   - url: davol-rubber-ppl-1950s-01.jpg
     caption: 'Circa 1956 aerial (no highway runs through downtown but the pilings for the Providence River overpass are under construction) — Avery Lord Aerial Photograph Collection, Providence Public Library'
+    sizes: '1200, 900'
   - url: davol-rubber-ppl-1960s-02.jpg
     caption: 'Circa 1956 aerial (no highway runs through downtown but the pilings for the Providence River overpass are under construction) — Avery Lord Aerial Photograph Collection, Providence Public Library'
+    sizes: '1200, 900'
   - url: davol-rubber-jb-1980-02-01.jpg
     caption: 'View from the southwest corner, From left to right are the Simmons Building, the 1889 addition, the 1926 addition, and the metal storage sheds. Narragansett Electric South Street generating station in the background — February 1980, Jeffrey Blydenburgh for the National Register Nomination form'
+    sizes: '2031, 530'
   - url: davol-rubber-jb-1980-02-02.jpg
     caption: 'South elevation fronting Point Street with west elevation on Eddy Street. The overhead connector is a conveyor between the main complex and the Simmons Building — February 1980, Jeffrey Blydenburgh for the National Register Nomination form'
+    sizes: '1350, 900'
   - url: davol-rubber-jb-1980-02-03.jpg
     caption: 'West elevation of 1913 addition along Eddy, South, & Point Streets. The first steel frame structure built in the complex. Originally featuring double-glazed wood-framed windows — February 1980, Jeffrey Blydenburgh for the National Register Nomination form'
+    sizes: '1350, 900'
   - url: davol-rubber-jb-1980-02-04.jpg
     caption: 'Point Street elevation of original building complex. The left portion of the building (five bays at the street level) was built by Joseph Davol in 1884. The remainder was built in 1889 — February 1980, Jeffrey Blydenburgh for the National Register Nomination form'
+    sizes: '1350, 900'
   - url: davol-rubber-jb-1980-02-05.jpg
     caption: 'East elevation of 1889 addition. The modern glass structure to the right of the photo is the control room for the heating plant — February 1980, Jeffrey Blydenburgh for the National Register Nomination form'
+    sizes: '1350, 900'
   - url: davol-rubber-jb-1980-02-06.jpg
     caption: 'South elevation of the 1926 addition. This building has a steel frame structure, similar to the 1913 building — February 1980, Jeffrey Blydenburgh for the National Register Nomination form'
+    sizes: '1349, 900'
   - url: davol-rubber-jb-1980-02-07.jpg
     caption: 'South elevation of metal -clad storage sheds. Their exact date of construction is unknown, but they are the newest structures in the complex — February 1980, Jeffrey Blydenburgh for the National Register Nomination form'
+    sizes: '1350, 900'
   - url: davol-rubber-jb-1980-02-08.jpg
     caption: 'North elevation of building facing South Street Dates of construction range from 1892 to 1926. The Providence River is at end of South Street — February 1980, Jeffrey Blydenburgh for the National Register Nomination form'
+    sizes: '1350, 900'
   - url: davol-square-cs-1983-01-01.jpg
-    caption: 'A view of the indoor shopping experience in the newly redeveloped Davol Square — Chet Smolski image collection, Rhode Island College'
+    caption: 'A view of the indoor shopping experience in the newly redeveloped Davol Square — Chet Smolski image collection, Rhode Island College'
+    sizes: '1360, 900'
   - url: davol-square-cs-1983-01-02.jpg
     caption: 'Chet Smolski image collection, Rhode Island College'
+    sizes: '1360, 900'
   - url: davol-square-cs-1983-01-03.jpg
     caption: 'Chet Smolski image collection, Rhode Island College'
+    sizes: '1360, 900'
   - url: davol-square-jh-2002-03-01.jpg
     caption: 'View of the northwest façade fronting South street from the parking lot of the South Street power station'
+    sizes: '1200, 900'
   - url: davol-square-jh-2010-11-01.jpg
+    sizes: '1440, 900'
   - url: davol-square-jh-2010-11-02.jpg
+    sizes: '1200, 900'
   - url: davol-square-jh-2010-11-03.jpg
+    sizes: '1200, 900'
   - url: davol-square-jh-2010-11-04.jpg
+    sizes: '1200, 900'
   - url: davol-square-jh-2010-11-05.jpg
+    sizes: '1200, 900'
   - url: davol-square-jh-2010-11-06.jpg
+    sizes: '1200, 900'
   - url: davol-square-jh-2010-11-07.jpg
+    sizes: '1440, 900'
   - url: davol-square-jh-2010-11-08.jpg
+    sizes: '1440, 900'
   - url: davol-square-jh-2013-03-01.jpg
+    sizes: '1440, 900'
   - url: davol-square-jh-2020-05-01.jpg
+    sizes: '1440, 900'
   - url: davol-square-jh-2021-06-01.jpg
+    sizes: '1200, 900'
   - url: davol-sanborns-1889-01.jpg
-    caption: 'Sanborn Insurance Map 1889, Volume 2, Plate 62a — Library of Congress, Geography and Map Division'
+    caption: 'Sanborn Insurance Map 1889, Volume 2, Plate 62a — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: davol-sanborns-1899-01.jpg
-    caption: 'Sanborn Insurance Map 1899, Volume 1, Plate 14 — Library of Congress, Geography and Map Division'
+    caption: 'Sanborn Insurance Map 1899, Volume 1, Plate 14 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: davol-sanborns-1920-01.jpg
-    caption: 'Sanborn Insurance Map 1920, Volume 1, Plate 14 — Library of Congress, Geography and Map Division'
+    caption: 'Sanborn Insurance Map 1920, Volume 1, Plate 14 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: davol-sanborns-1951-01.jpg
-    caption: 'Sanborn Insurance Map 1951, Volume 1, Plate 14 — Library of Congress, Geography and Map Division'
+    caption: 'Sanborn Insurance Map 1951, Volume 1, Plate 14 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: davol-sanborns-1956-01.jpg
-    caption: 'Sanborn Insurance Map 1956, Volume 1, Plate 14 — Library of Congress, Geography and Map Division'
+    caption: 'Sanborn Insurance Map 1956, Volume 1, Plate 14 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
 
 mostrecentimage: 2021-06-01
 
