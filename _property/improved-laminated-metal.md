@@ -3,6 +3,7 @@ title: "Improved Laminated Metals"
 slug: improved-laminated-metal
 aka: 'Handy & Harman Co., Improved Seamless Wire Co.'
 date-modified: 2023-01-03 15:30
+update: 'Edited information for the history and added Sanborn Maps and aerials'
 
 built: 'between 1900 and 1920'
 demolition: '2005'
