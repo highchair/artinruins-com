@@ -24,8 +24,15 @@ sitemap:
 
     <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ propsize }} properties</span> and <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=totalimg %} images</span>. Browse more from our <a href="{% link all-tags.html %}">Categories and Tags</a>.</p>
 
+    <ul class="u__sr-only" role="navigation" aria-label="Skip to sections of this page">
+      <li><a href="#demo" class="u__sr-only u__sr-only--focusable skip-link">Skip to Demolition Alerts</a></li>
+      <li><a href="#recent" class="u__sr-only u__sr-only--focusable skip-link">Skip to Recently updated Properties</a></li>
+      <li><a href="#anec" class="u__sr-only u__sr-only--focusable skip-link">Skip to Recent Anecdotes</a></li>
+    </ul>
+
   {%- assign demoalert = site.property | where: "categories", "#DemolitionAlert" | sort: "date-modified" | reverse -%}
   {%- if demoalert.size >= 1 -%}
+    <span id="demo"></span>
     <h2 class="o__title--sm o__title__cta v-rhythm">Demolition Alert {% if demoalert.size > 1 %}<a href="{% link category/demolitionalert.html %}">More <span class="u__sr-only">Demolition Alerts</span><span aria-hidden="true">#DemolitionAlert</span></a>{% endif %}</h2>
     <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
       {%- for item in demoalert limit:1 -%}
@@ -35,6 +42,7 @@ sitemap:
     </ul>
   {%- endif -%}
 
+    <span id="recent"></span>
     <h2 class="o__title--sm o__title__cta v-rhythm">Recently updated Properties <a href="/feed.xml" target="_blank"><span class="social__rss" aria-hidden="true"></span>Subscribe</a></h2>
     <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
 {%- for item in items -%}
@@ -172,8 +180,8 @@ sitemap:
   </div>
 </section>
 
-<section class="home__anec u__vertical__p u__gutter__p">
-  <h2 class="o__title--sm o__title__cta u__max-width--container v-rhythm">Anecdotes <a href="/anecdotes.xml" target="_blank"><span class="social__rss" aria-hidden="true"></span>Subscribe</a></h2>
+<section id="anec" class="home__anec u__vertical__p u__gutter__p">
+  <h2 class="o__title--sm o__title__cta u__max-width--container v-rhythm">Recent Anecdotes <a href="/anecdotes.xml" target="_blank"><span class="social__rss" aria-hidden="true"></span>Subscribe</a></h2>
   <p class="u__max-width--container u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=anecdotes.size %} anecdotes</span> from people just like you.</p>
   <ul class="u__list__unstyled u__max-width--container anec__list" role="list">
 {%- for quote in anecdotes limit:8 -%}
