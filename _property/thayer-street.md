@@ -2,9 +2,9 @@
 title: "Thayer Street (from Bowen to Waterman)"
 slug: thayer-street
 aka:
-date-modified: 2023-02-24 13:00
-update: 'Added two more photos of 307 Thayer Street from 2022; a house built between 1857 and 1875.'
-update-image: 307-thayer-jh-2022-11-01.jpg
+date-modified: 2023-03-04 17:00
+update: 'Added five photos from August 2022 of five different properties missing recent updates'
+update-image: 223-thayer-jh-2022-08-01.jpg
 
 built: 'Various; 1857–2020'
 demolition:
@@ -82,6 +82,9 @@ images:
   - url: 285-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 285 Thayer Street. View east. Urban Outfitters.'
     sizes: '1024, 768'
+  - url: 285-thayer-jh-2022-08-01.jpg
+    caption: 'Photo 2022. 285 Thayer Street. View east. Urban Outfitters.'
+    sizes: '1200, 900'
   - url: 283-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. The tiny 283 Thayer Street. View east. Storefront for Sushi Express, previously Hole in the Wall and others.'
     sizes: '768, 924'
@@ -91,6 +94,9 @@ images:
   - url: 283-281-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 281–283 Thayer Street, built 1875–1895. View east. Storefronts for Sushi Express (closed), Dojo Smoke Shop, and Mighty Sharp Barbershop.'
     sizes: '768, 924'
+  - url: 279-half-thayer-jh-2022-08-01.jpg
+    caption: 'Photo 2022. View east. In between 281 on the right and 279 on the left is a house with postal address 279 1/2, built circa 1875–1895. '
+    sizes: '1200, 900'
   - url: 278-284-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 278–284 Thayer Street, built between 1921 and 1951. View west. Storefronts for East Side Pockets and Phillipe’s, later Kartabar'
     sizes: '1024, 768'
@@ -154,6 +160,9 @@ images:
   - url: 252-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 252 Thayer Street. View north. Spectrum India was in the process of moving in, relocating from 262.'
     sizes: '1024, 768'
+  - url: 252-thayer-jh-2022-08-01.jpg
+    caption: 'Photo 2022. 252 Thayer Street. View north. Spectrum India.'
+    sizes: '1440, 900'
   - url: 249-thayer-jh-2004-12-01.jpg
     caption: 'Photo 2004. 249 Thayer Street. View south. The former Store 24, now demolished.'
     sizes: '1024, 768'
@@ -172,6 +181,9 @@ images:
   - url: 235-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 235 Thayer Street. View north northeast. Home to Chipotle in 2020.'
     sizes: '1440, 900'
+  - url: 235-thayer-jh-2022-08-01.jpg
+    caption: 'Photo 2022. 235 Thayer Street. View north of the Angell Stret façade.'
+    sizes: '768, 924'
   - url: 234-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 234 Thayer Street, built between 1908 and 1921. View south.'
     sizes: '1440, 900'
@@ -187,6 +199,8 @@ images:
   - url: 223-225-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 235 Thayer, which is part of the 225–231 building, and 223 Thayer Street to the right, built 1857–1875. View east.'
     sizes: '1440, 900'
+  - url: 223-thayer-jh-2022-08-01.jpg
+    caption: 'Photo 2022. 223 Thayer. View northeast. Home to Beatnic, formerly Au Bon Pain.'
   - url: 215-221-thayer-jh-2020-05-01.jpg
     caption: 'Photo 2020. 215–221 Thayer Street, built between 1956 and 1962. View south southeast.'
     sizes: '1440, 900'
