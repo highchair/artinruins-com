@@ -87,16 +87,16 @@ images:
     caption: 'The partial demolition of 281, with its second and third floors cut off.'
     sizes: '1440, 900'
   - url: 283-281-thayer-jh-2022-11-02.jpg
-    caption: 'And then there was only one… the last house, 283 and a half, remains while the remnants of 283 and 281 are visible.'
+    caption: 'And then there was only one… the last house, 279 and a half, remains while the remnants of 283 and 281 are visible.'
     sizes: '1200, 900'
   - url: 281-1-2-jh-2022-11-01.jpg
-    caption: '281 and a half’s northern façade, now easily visible, shortly before demolition.'
+    caption: '279 and a half’s northern façade, now easily visible, shortly before demolition.'
     sizes: '768, 924'
   - url: 281-1-2-jh-2022-11-02.jpg
     caption: 'Looking across the rubble of 281 from the rear of the lot, Thayer Street in the distance.'
     sizes: '768, 924'
   - url: 281-1-2-jh-2022-11-03.jpg
-    caption: 'Workers remove the top floors of 281 and a half.'
+    caption: 'Workers remove the top floors of 279 and a half.'
     sizes: '1440, 900'
   - url: 283-279-thayer-jh-2022-11-03.jpg
     caption: 'The hole where these properties used to be.'

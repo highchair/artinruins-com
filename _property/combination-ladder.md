@@ -2,8 +2,9 @@
 title: "Combination Ladder Company"
 slug: combination-ladder
 aka: 'Salvadore Tool & Findings, Waterman Stables, West Fountain Lofts'
-date-modified: 2022-02-26 12:00
-update: 'Added three more photos we found from 2014'
+date-modified: 2023-03-04 11:00
+update: 'Added a photo from a Facebook user of a metal plate bearing the Combination Ladder name'
+update-image: combo-ladder-fb-medal-2022-01.jpg
 
 built: '1905'
 demolition:
@@ -34,50 +35,77 @@ thumbnail: combo-ladder-jh-2020-12-01.jpg
 
 images:
   - url: combo-ladder-unknown-1951-05-01.jpg
-    caption: 'Photo found on Facebook the person posting it says it was dated May 1951. The building behind seems to be the 383 West Fountain Street building at the corner of Cargill St. Notice the rough hewn granite window lintels.'
     alt: 'A group of low and wide two-story red brick buildings joined by a one story portion. Spaces were industrial in use and converted to office space in the 70s and 80s, but recently have been converted to mixed-use residential with restaurant and commercial space as well.'
+    caption: 'Photo found on Facebook the person posting it says it was dated May 1951. The building behind seems to be the 383 West Fountain Street building at the corner of Cargill St. Notice the rough hewn granite window lintels.'
+    sizes: '918, 684'
   - url: combo-ladder-jh-2006-04-01.jpg
     caption: 'View looking east of 393-391 West Fountain street (foreground left) with the one story mid-century buildings in center and the 383-381 West Fountain building far right'
+    sizes: '1440, 900'
   - url: combo-ladder-jh-2006-04-02.jpg
     caption: 'Detail of 393-391 building façade, with bands of brick creating stripes of altering depth. Notice, too, the original window openings shrunk to fit more modern replacement windows, the stone sills, and the decorative steel lintels.'
+    sizes: '1200, 900'
   - url: combo-ladder-jh-2006-04-03.jpg
     caption: 'Façade of the 383-381 West Fountain Street elevation. The central groiund-floor entrance was a vehicular opening, shown bricked in.'
+    sizes: '1200, 900'
   - url: combo-ladder-jh-2006-04-04.jpg
     caption: 'Opposite view, looking west, with 383-381 in the foreground right and 393-391 in the far left'
+    sizes: '1440, 900'
   - url: combo-ladder-jh-2006-04-05.jpg
     caption: 'View of the rear of 383-381 from Cargill Street, showing how the grade makes the second floor rear elevation almost ground level.'
+    sizes: '1200, 900'
   - url: combo-ladder-jh-2006-07-01.jpg
     caption: 'A view in July of 393-391 showing the West Fountain Street façade. Second floor window openings have clearly been shrunk and the two-story garage door opening has been filled in with sandstone-finished concrete block.'
+    sizes: '1200, 900'
   - url: combo-ladder-jh-2006-07-02.jpg
     caption: 'One story infill buildings at 387 and 385 built after 1956.'
+    sizes: '1440, 900'
   - url: pcis-381-1st-01.jpg
-    caption: 'Photos from P.C.I.S. (Providence Commerical Indistrial Space), Erik Bright and Lisa Carnevale, circe 2007 — 381 West Fountain 1st floor office and back open mill space'
+    caption: 'Photos from P.C.I.S. (Providence Commerical Industrial Space), Erik Bright and Lisa Carnevale, circe 2007 — 381 West Fountain 1st floor office and back open mill space'
+    sizes: '864, 768'
   - url: pcis-381-2nd-01.jpg
-    caption: 'Photos from P.C.I.S. (Providence Commerical Indistrial Space), Erik Bright and Lisa Carnevale, circe 2007 — 381 West Fountain 2nd floor office and open mill spaces'
+    caption: 'Photos from P.C.I.S. (Providence Commerical Industrial Space), Erik Bright and Lisa Carnevale, circe 2007 — 381 West Fountain 2nd floor office and open mill spaces'
+    sizes: '900, 676'
   - url: pcis-383-East-01.jpg
-    caption: 'Photos from P.C.I.S. (Providence Commerical Indistrial Space), Erik Bright and Lisa Carnevale, circe 2007 — 383 West Fountain 1st floor east'
+    caption: 'Photos from P.C.I.S. (Providence Commerical Industrial Space), Erik Bright and Lisa Carnevale, circe 2007 — 383 West Fountain 1st floor east'
+    sizes: '864, 648'
   - url: pcis-383-West-01.jpg
-    caption: 'Photos from P.C.I.S. (Providence Commerical Indistrial Space), Erik Bright and Lisa Carnevale, circe 2007 — 383 West Fountain 1st floor west'
+    caption: 'Photos from P.C.I.S. (Providence Commerical Industrial Space), Erik Bright and Lisa Carnevale, circe 2007 — 383 West Fountain 1st floor west'
+    sizes: '864, 648'
   - url: pcis-385-393-01.jpg
-    caption: 'Photos from P.C.I.S. (Providence Commerical Indistrial Space), Erik Bright and Lisa Carnevale, circe 2007 — 393-391 West Fountain 1st and 2nd floors'
+    caption: 'Photos from P.C.I.S. (Providence Commerical Industrial Space), Erik Bright and Lisa Carnevale, circe 2007 — 393-391 West Fountain 1st and 2nd floors'
+    sizes: '864, 648'
   - url: combo-ladder-jh-2014-04-01.jpg
+    sizes: '1440, 900'
   - url: combo-ladder-jh-2014-08-01.jpg
+    sizes: '1440, 900'
   - url: combo-ladder-jh-2014-08-02.jpg
+    sizes: '1440, 900'
   - url: combo-ladder-jh-2020-12-01.jpg
+    sizes: '1440, 900'
   - url: combo-ladder-jh-2020-12-02.jpg
+    sizes: '1440, 900'
   - url: combo-ladder-jh-2020-12-03.jpg
+    sizes: '1440, 900'
+  - url: combo-ladder-fb-medal-2022-01.jpg
+    caption: 'A great find by a Facebook user, showing a decorative metal plate insignia reading ”Combination Ladder, Builders of Fire Apparatus, Providence RI”'
+    sizes: '1200, 900'
   - url: combo-ladder-sanborn-1899.jpg
-    caption: 'Sanborn Map 1899, Volume 1, plate 47, courtesy the Library of Congress — The area to be developed is highlighted. Combination Ladder is not yet present. Instead, at the south eastern corern of Cargill and West Fountain is the A.S. Waterman and Company Boarding, while to the west is the H.O. Martin Sawing and Planing Mill.'
+    caption: 'Sanborn Map 1899, Volume 1, plate 47, courtesy the Library of Congress — The area to be developed is highlighted. Combination Ladder is not yet present. Instead, at the south eastern corern of Cargill and West Fountain is the A.S. Waterman and Company Boarding, while to the west is the H.O. Martin Sawing and Planing Mill.'
+    sizes: '1200, 900'
   - url: combo-ladder-sanborn-1920.jpg
-    caption: 'Sanborn Map 1920–1921, Volume 1, plate 47, courtesy the Library of Congress — Buildings for the Combination Ladder Company are at this location, including “Storage of Saloon Fixtures” on the corner and “Sawing and Planing 1st, Moulding Room 2nd, Machine Shop 1st, Finishing Room 2nd, Truck Shop, Black smith, and a Print Shop.”'
+    caption: 'Sanborn Map 1920–1921, Volume 1, plate 47, courtesy the Library of Congress — Buildings for the Combination Ladder Company are at this location, including “Storage of Saloon Fixtures” on the corner and “Sawing and Planing 1st, Moulding Room 2nd, Machine Shop 1st, Finishing Room 2nd, Truck Shop, Black smith, and a Print Shop.”'
+    sizes: '1200, 900'
   - url: combo-ladder-sanborn-1951.jpg
-    caption: 'Sanborn Map 1920 repusblished 1951, Volume 1, plate 47, courtesy the Library of Congress — Not shown is a G.M. Hopkins map from 1937 labelling the building on the corner of Cargill and West Fountain as “Providence Malt Company, James Hanley Brewing Company.” In this 1951 map, the building is labelled “Storage of Bottles, Cans, and Wooden Cases.” The other original building is labelled the same, and the name Comnbination Ladder is gone. Only one building is labelled “Ladder Mfg.”'
+    caption: 'Sanborn Map 1920 repusblished 1951, Volume 1, plate 47, courtesy the Library of Congress — Not shown is a G.M. Hopkins map from 1937 labelling the building on the corner of Cargill and West Fountain as “Providence Malt Company, James Hanley Brewing Company.” In this 1951 map, the building is labelled “Storage of Bottles, Cans, and Wooden Cases.” The other original building is labelled the same, and the name Comnbination Ladder is gone. Only one building is labelled “Ladder Mfg.”'
+    sizes: '1200, 900'
   - url: combo-ladder-sanborn-1956.jpg
-    caption: 'Sanborn Map 1920 republished 1956, Volume 1, plate 47, courtesy the Library of Congress — Same building footprints, different uses. The corner of Cargill and West Fountain is labelled “Tool Mfg” while the other opriginal building is labelled “Plumbing 1st, Jewelry Mfg 2nd.” The same central building is still labelled “Ladder Mfg.”'
+    caption: 'Sanborn Map 1920 republished 1956, Volume 1, plate 47, courtesy the Library of Congress — Same building footprints, different uses. The corner of Cargill and West Fountain is labelled “Tool Mfg” while the other opriginal building is labelled “Plumbing 1st, Jewelry Mfg 2nd.” The same central building is still labelled “Ladder Mfg.”'
+    sizes: '1200, 900'
   - url: combo-ladder-google-2021.jpg
     caption: 'Sanborn Map 1956 overlaid with a Google satellite view from 1921, attempting to show which buildings are the oldest and most original to Combination Ladder'
+    sizes: '1200, 900'
 
-imagescredit: 'Contributions from P.C.I.S. (Providence Commerical Indistrial Space), Sanborn Maps from the Library of Congress, Google satellite view from Google Maps 2021'
+imagescredit: 'Contributions from P.C.I.S. (Providence Commerical Industrial Space), Taylor McBurney, Sanborn Maps from the Library of Congress, and Google satellite view from Google Maps 2021'
 
 mostrecentimage: 2020-12-01
 

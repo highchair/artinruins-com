@@ -32,7 +32,7 @@ excerpt: "Twin 1875-era three-story mansard houses are decaying under ownership 
 thumbnail: 287-291-brook-jh-2023-02-01.jpg
 
 images:
-  - url: 291-brook-2022-08-01.jpg
+  - url: 291-brook-jh-2022-08-01.jpg
     alt: 'Two mansard-style, simple Queen Anne houses each three stories tall with an asymmetrical entrance on the first foor and a two-story square bay window running up the front façade'
     caption: '291 Brook Street, corner of Benevolent, looking southeast'
   - url: 287-brook-jh-2022-08-01.jpg

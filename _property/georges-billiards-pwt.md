@@ -2,7 +2,9 @@
 title: "George’s Games & Music"
 slug: georges-billiards-pwt
 aka:
-date-modified: 2022-12-27 12:00
+date-modified: 2023-03-03 12:00
+update: 'Added three 1999 and older images of this building, one photo of a portion under construction'
+update-image: georges-billiards-pawtlib-1968-01.jpg
 
 built: 'Between 1939 and 1951'
 demolition: '2023'
@@ -32,8 +34,17 @@ excerpt: "A tan, brick, two-story commercial building on its own island of land 
 thumbnail: georges-billiards-jh-2018-07-02.jpg
 
 images:
+  - url: georges-billiards-pawtlib-pre1968-01.jpg
+    caption: 'View looking east from the junction of Main and Broadway before 1968. Likely that this portion of the building replaced an older one or added onto it, we are unsure. Part of the Pawtucket Library collection on Flickr'
+    alt: 'A two story, tan brick commercial building with long, uninterrupted ribbon window banks of original steel frame, 10 lite windows arranged 2 over 5 on the back faces of the building. Some windows aliong the street-facing side have been replaced with modern, single lite replacements, or consist of assymetrical window pairs in a repeating pattern'
+    sizes: '1440, 900'
+  - url: georges-billiards-pawtlib-1968-01.jpg
+    caption: 'View looking east from the junction of Main and Broadway circa 1968 to 1970. Part of the Pawtucket Library collection on Flickr'
+    sizes: '1440, 900'
+  - url: georges-billiards-pawtlib-1999-01.jpg
+    caption: 'Photo of the Sawyer School sign on the outside of the lower portion of the building, circa 1999. Part of the Pawtucket Library collection on Flickr'
+    sizes: '1440, 900'
   - url: georges-billiards-jh-2018-07-01.jpg
-    alt: 'A two story, tan brick commercial building with long, uninterrupted ribbon window banks of original steel frame, 10 lite windows arranged 2 over 5 on the back faces of the building. Some windows aliong the street-facing side have been replaced with modern, single lite replacements, or consist of assymetrical window pairs in a repeating pattern. '
     sizes: '1440, 900'
   - url: georges-billiards-jh-2018-07-02.jpg
     sizes: '1440, 900'
@@ -50,7 +61,7 @@ images:
 
 mostrecentimage: 2018-07-01
 
-imagescredit:
+imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157690062762483" target="_blank">Pawtucket Library on Flickr</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -78,6 +89,8 @@ George Thurber sold the property in 2015 after the business had been closed for 
 No formal history has been compiled. The [Providence Historical Aerial Viewer](//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e){:target="_blank"} shows that it was built between the 1939 and 1951 photos, though the 1939 photo may show that part of this building was in place. We have not yet been able to find this building on any cadastral maps.
 
 In a [1902 Sanborn insurance map, Volume 1, Plate 77](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961902){:target="_blank"} (page 82) this triangular parcel has many wooden structures and a few conjoined four-story brick structures, but none in the shape and size of the current building. 
+
+An [undated photo in the collection of the Pawtucket Library](//www.flickr.com/photos/pawtucketlibrary/29097253034/in/album-72157673959040405/){:target="_blank"} labels one of our early images “The Berry Building” and includes what might be an earlier photo of a structure that was in this same location. We’d love to know more if you have any information. 
 
 
 ### In the News
