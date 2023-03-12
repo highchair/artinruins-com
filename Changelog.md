@@ -3,6 +3,12 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2023-03-10
+
+Added
++ Created a new content type and template for Essays
++ Other lists of properties have been updated to include Essays, but they are not treated the same as Properties. The homepage, feed.xml, and sitemap.xml will include them. Only Date Added taxonomy pages will include Essays because essays generally have little taxonomy added to them
+
 ## 2023-01-12
 
 Added

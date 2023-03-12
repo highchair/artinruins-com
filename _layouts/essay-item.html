@@ -1,0 +1,30 @@
+---
+layout: default
+---
+{%- assign essaythumb = '' -%}
+{%- if page.thumbnail -%}
+  {%- assign essaythumb = page.thumbnail | prepend: 'essays/' | prepend: site.propimg_path | prepend: site.prod_url -%}
+{%- endif -%}
+
+<main id="content" class="l__content content">
+  <article class="l__article content__article page essay">
+    <header style="background-image: url('{{ essaythumb }}')">
+      <div class="u__vertical__p u__gutter__p essay__hero">
+        <h1 class="u__mb--0 essay__title">{{ page.title }}</h1>
+      </div>
+    </header>
+
+    <div id="description" class="page__content u__max-width--text u__vertical__p u__gutter__p rhythm">
+      {%- include property-item/content-anchors.html
+        html=page.content
+        beforeHeading=true
+        anchorTitle="Press to bookmark this heading"
+        anchorBody="<span>#</span>"
+        h_min=3
+        h_max=3
+      -%}
+
+    </div>
+    <div class="essay__backtotop"><a href="#content"><span class="u__sr-only">Back to </span> Top</a></div>
+  </article>
+</main>

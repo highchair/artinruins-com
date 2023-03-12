@@ -41,6 +41,9 @@ propimg_path: "/property-img/"
 thennow_path: "/then-now-img/"
 
 collections:
+  essays:
+    output: true
+    permalink: /essay/:name/
   property:
     output: true
     permalink: /property/:name/
@@ -49,6 +52,11 @@ collections:
     permalink: /then-and-now/:name/
 
 defaults:
+  - scope:
+      path: "/essay/"
+      type: "essay"
+    values:
+      layout: page
   - scope:
       path: ""
       type: "property"
@@ -77,14 +85,15 @@ exclude:
   - .nova/
   - _property/_history.md
   - _property/_template.md
+  - _then-now/_template.md
   - Changelog.md
   - LICENSE
   - README.md
   - property-img/
 
 # As of Jekyll 4, we may exclude a parent folder but include a child:
-include:
-  - property-img/r/
+#include:
+#  - property-img/r/
 
 # https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:
