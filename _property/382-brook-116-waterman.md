@@ -33,18 +33,30 @@ thumbnail: 116-waterman-383-brook-jh-2023-02-01.jpg
 
 images:
   - url: 116-waterman-jh-2023-02-01.jpg
-    alt: ''
+    alt: 'Two houses on the corners of Waterman and Brook streets, and on the corner of Brook Street and Fones Alley (between Waterman and Angell Streets). Full architectural descriptions in the History section.'
+    sizes: '1200, 900'
   - url: 116-waterman-jh-2023-02-02.jpg
+    sizes: '1200, 900'
   - url: 116-waterman-jh-2023-02-03.jpg
+    sizes: '1200, 900'
   - url: 116-waterman-jh-2023-02-04.jpg
+    sizes: '1200, 900'
   - url: 116-waterman-jh-2023-02-05.jpg
+    sizes: '1200, 900'
   - url: 116-waterman-jh-2022-08-01.jpg
+    sizes: '1200, 900'
   - url: 382-brook-jh-2023-02-01.jpg
+    sizes: '1200, 900'
   - url: 382-brook-jh-2022-08-01.jpg
+    sizes: '1200, 900'
   - url: 382-brook-jh-2023-02-02.jpg
+    sizes: '1200, 900'
   - url: 116-waterman-383-brook-jh-2023-02-02.jpg
+    sizes: '1440, 900'
   - url: 382-brook-jh-2022-08-02.jpg
+    sizes: '1200, 900'
   - url: 382-brook-jh-2023-02-03.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2021-07-01
 
@@ -72,6 +84,8 @@ Walter Bronhard and Brook Holding, LLC were applicants proposing to demolish the
 
 Few presentations in opposition were heard — the Providence Preservation Society was one of the few [objectors to the variances](//ppsri.org/wp-content/uploads/2023/02/2023-02-116-Waterman-PPS.pdf){:target="_blank"} in a letter addressed to the City Planning Commission.
 
+The loss of these properties is part of [our essay about the erosion of the College Hill Historic District]({% link _essays/erosion-of-college-hill-historic-district.md %}).
+
 
 ### Current Events
 
@@ -82,7 +96,7 @@ We are waiting for construction fencing to go up any day now. The project got de
 
 _From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 
-116 Waterman — 1857-75. 2-1/2 stories; hip; siding; 3 bays with recessed double entrance under Ionic pilastered porch
+116 Waterman Street — 1857-75. 2-1/2 stories; hip; siding; 3 bays with recessed double entrance under Ionic pilastered porch
 with arched opening and central cartouche; cut corners; deep eaves; central dormer.
 
 383 Brook Street — House, after 1895. 2-1/2 stories; hip; shingle; entrance recessed under porch at southeast corner; balustrades missing; 2 story bay window on front; dormers.

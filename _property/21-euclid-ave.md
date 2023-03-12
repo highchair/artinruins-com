@@ -55,7 +55,7 @@ imagescredit:
 
 ### Proposal
 
-This one flew under the radar right before COVID hit. There were some other things happening around Thayer Street at the time that garnered more attention, like [plans for a hotel on the corner of Brook and Angell](//www.golocalprov.com/business/angell-street-hotel-is-anything-but-smart-architecture-critic-will-morgan){:target="_blank"}, not far from this development and the . So this project happened before we were really aware of it. 
+This one flew under the radar right before COVID hit. There were some other things happening around Thayer Street at the time that garnered more attention, like [plans for a hotel on the corner of Brook and Angell](//www.golocalprov.com/business/angell-street-hotel-is-anything-but-smart-architecture-critic-will-morgan){:target="_blank"}, not far from this development. So this project happened before we were really aware of it. 
 
 {% comment %}
 PPS page about the “Smart Hotel”: //web.archive.org/web/20200609102848/http://ppsri.org/advocacy/current-advocacy/smart-hotel-project/

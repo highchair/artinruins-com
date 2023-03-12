@@ -123,16 +123,14 @@ external:
 
 ### Reason for Demolition
 
-It’s easy to propose and be granted a demolition permit now that this important commercial corridor in the College Hill Historic District has been gutted. In 10 years, four blocks along Thayer Street, Cushing to Angell, have seen the loss or conversion beyond recognition of twenty-five structures. We have written previously about the many demolitions in this neighborhood, and to recap:
+It’s easy to propose and be granted a demolition permit now that this important commercial corridor in the College Hill Historic District has been gutted. In 10 years, four blocks along Thayer Street, Cushing to Angell, have seen the loss or conversion beyond recognition of twenty-five structures. [We have written previously about the ongoing demolitions in this neighborhood]({% link _essays/erosion-of-college-hill-historic-district.md %}), and to recap:
 
 + 2013: [Nine houses dating from 1875 to 1900 are demolished]({% link _property/brook-meeting-euclid.md %}) to build the [new student apartment building at 257 Thayer]({% link _property/257-thayer-st.md %}), bounded by Thayer, Meeting, Brook, and Euclid Streets
 + 2016: [Seven more houses are lost]({% link _property/brook-meeting-cushing.md %}) for a parking lot until Brown University decided to construct its [new student wellness center and dorms]({% link _property/wellness-center-residence-hall.md %}) in 2020, bounded by Thayer, Cushing, Brook, and Meeting Streets
 + Circa 2018: Two houses are razed on south side of Euclid for [a new building on the corner of Euclid and Brook Streets called simply 21 Euclid]({% link _property/21-euclid-ave.md %})
-+ Also 2018: The former Stereo Discount Center on Angell Street was partially demolished and turned into apartments
++ Also 2018: The former [Stereo Discount Center on Angell Street]({% link _property/189-angell-st-pvd.md %}) was partially demolished and turned into apartments
 + 2020: Several houses on the north side of Angell Street were renovated beyond recognition in 2020
 + 2022: [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}), an 1896 wood-frame 2 1/2 story house, is demolished in favor of a new apartment building. This was the last original house on the block bounded by Thayer, Meeting, Brook, and Euclid
-
-Our recent essay about the demise of 235 Meeting Street goes into more detail about the erosion of this section of College Hill, titled [Meeting Street, #235 — The Quick Demise of Four Blocks within a Historic District]({% link _property/235-meeting-st-pvd.md %}).
 
 But let’s address the current heartache, and the demise of one of the few remaining wood-frame houses on this commercial section of Thayer Street, and some of the oldest. 281 Thayer Street, known best as the home of **Tom’s Tracks** and **Shades Plus** amongst a certain generation, was built as early as 1875. It and its neighbor to the rear of the plat have been part of the streetscape for the last 120 years.
 

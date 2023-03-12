@@ -2,7 +2,9 @@
 title: "Block bounded by Brook, Meeting, and Cushing Streets"
 slug: brook-meeting-cushing
 aka:
-date-modified: 2022-01-25 12:00
+date-modified: 2023-03-09 12:00
+update: 'Added information about another house that was demolished on this block as part of the new student wellness center construction'
+update-image: 242-meeting-goog-2017-01.jpg
 
 built: '1875–1900'
 demolition: '2016'
@@ -27,7 +29,7 @@ longitude: '-71.4011786'
 gmap: "https://www.google.com/maps/place/436+Brook+St,+Providence,+RI+02906/@41.8291167,-71.4011786,18z/data=!4m5!3m4!1s0x89e445248735ef35:0xfb49152807b54118!8m2!3d41.8294938!4d-71.3998535"
 
 meta: ""
-excerpt: "Seven houses, allowed to decay as student housing and easily demolished because of a lack of visual maintenance"
+excerpt: "Eight houses allowed to decay as student housing and easily demolished because of a lack of visual maintenance"
 
 thumbnail: 442-brook-st-jh-2016-04-06.jpg
 
@@ -39,9 +41,9 @@ images:
   - url: 434-442-brook-st-jh-2016-04-02.jpg
     caption: 'View north west of the corner of Brook and Meeting Street, from 434 Brook St. up to 442'
   - url: 434-brook-st-jh-2016-04-03.jpg
-    caption: '434 Brook Street'
+    caption: '434 Brook Street, facing Euclid Street'
   - url: 434-brook-st-jh-2016-04-04.jpg
-    caption: '434 Brook Street'
+    caption: '434 Brook Street, facing Brook Street'
   - url: 436-brook-st-jh-2016-04-05.jpg
     caption: '436 Brook Street'
   - url: 442-brook-st-jh-2016-04-06.jpg
@@ -59,13 +61,15 @@ images:
   - url: 167-cushing-st-jh-2016-04-12.jpg
     caption: 'Looking past the back of 167 Cushing towards the back of 444 Brook Street'
   - url: 169-cushing-st-jh-2016-04-13.jpg
-    caption: 'Looking between 442 and 444 Brook at 169 Cushing, which was set behind 169'
+    caption: 'Looking between 442 and 444 Brook at 169 Cushing, which was set behind 167'
   - url: 169-cushing-st-jh-2016-04-14.jpg
-    caption: 'Looking past the porch of 167 Cushing towards 167'
+    caption: 'Looking past the porch of 167 Cushing towards 169'
   - url: 169-cushing-st-jh-2016-04-15.jpg
     caption: '169 Cushing Street, view east'
   - url: 169-cushing-st-jh-2016-04-16.jpg
     caption: '169 Cushing Street'
+  - url: 242-meeting-goog-2017-01.jpg
+    caption: 'Between 2018 and 2020, an additional home at 242 Meeting Street was demolished. Google Streetview phot0, facing north northwest'
 
 mostrecentimage: 2016-04-01
 
@@ -78,22 +82,24 @@ imagescredit: 'Sanborn Map from the Library of Congress, Geography and Map Divis
 
 ### Reason for Demolition
 
-In 2013, there was a bit of a ruckus when a developer outside of Brown University wanted to build student housing on the next block which required [the demolition of **nine** late 19th-century houses]({% link _property/brook-meeting-euclid.md %}). The College Hill Neighborhood Association and the Providence Preservation Society among others pressed the City Council to deny the request for demolition. Simply because a land owner stopped maintaining their properties was no reason to tear them down. [Often, that is exactly what they want to do]({% link tag/demolition-by-neglect.html %}). Instead, the owner should be cajoled and convinced to maintain their properties — not rewarded with a demolition permit. 
+In 2013, there was a bit of a ruckus when a private developer wanted to build student housing on the next block which required [the demolition of **nine** late 19th-century houses]({% link _property/brook-meeting-euclid.md %}). The College Hill Neighborhood Association and the Providence Preservation Society, among others, pressed the City Planning Commission to deny the request for demolition. Simply because a land owner stopped maintaining their properties was no reason to tear them down. [Often, that is exactly what they want to do]({% link tag/demolition-by-neglect.html %}). Instead, the owner should be cajoled and convinced to maintain their properties — not rewarded with a demolition permit. 
 
 Alas, the promise of a private developer creating new, shiny student housing that would keep the property on the City’s tax role was enough for the council and demolition was granted. 
 
-Here, two years later, seven more homes that were lightly maintained but basically allowed to decay as students abused them were requesting demolition. A private owner sold the properties to Brown University and the university wanted only to raze them for a parking lot. 
+Here, two years later, the owner of seven more homes that were lightly maintained but basically allowed to decay as students abused them were seeking demolition. This time, a private owner sold the properties to Brown University and the university wanted only to raze them for a parking lot. 
 
 _A parking lot._
 
 A parking lot that would “serve the needs of the Thayer Street commercial district” and not “as a permit parking lot for Brown faculty, staff or students.” How nice of them, how supportive of the community and shoppers of Thayer Street. 
 
-Four years later, they break ground on a new student center that would encompass the entire plot. With this, and with the way their [most recent construction project further down on Brook Street]({% link _property/brown-brook-st-residence-halls.md %}) played out, Brown acts with much impunity in this town. Brown has shown that it can get anything it wants if it tells us first what we want to hear. 
+Four years later, Brown University broke ground on a new student center that would encompass the entire plot. With this, and with the way their [most recent construction project further down on Brook Street]({% link _property/brown-brook-st-residence-halls.md %}) played out, Brown acts with much impunity in this town. Brown has shown that it can get anything it wants if it tells us first what we want to hear. 
+
+The loss of these properties is part of [our essay about the erosion of the College Hill Historic District]({% link _essays/erosion-of-college-hill-historic-district.md %}).
 
 
 ### Current Events
 
-The lot where these houses were cleared was parking for a few years. In 2020 Brown started construction on a new Wellness Center & Residence Hall which opened in 2021. 
+The lot where these houses were cleared was parking for a few years — 242 Meeting Street remained in place. In 2020 Brown started construction on a new [Wellness Center & Residence Hall]({% link _property/wellness-center-residence-hall.md %}) which opened in 2021, demolishing 242 in the process. 
 
 
 ### History
@@ -113,6 +119,8 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 **167 Cushing Street** — c.1900. 2-1/2 stories; hip; clapboard and shingle; square block with entrance under recessed porch; bay on front; dormer.
 
 **169 Cushing Street** — c.1890. 2-1/2 stories; flank gable; shingle; unusual small building set in middle of block; entrance on north end with pergola on east side; sweeping roof with shed dormers breaking through eaves; casement in gable end. 
+
+**242 Meeting Street** — Before 1857. 1-1/2 stories; end gable; siding; cottage with turned post porch across front; projecting cross gable on east. (A.I.R: Very much altered from its historic state in more recent years)
 
 
 ### In the News

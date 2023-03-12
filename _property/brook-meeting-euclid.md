@@ -90,7 +90,7 @@ The density of the project was what won over the City Plan Commission in the end
 
 Rightfully so, residents of College Hill saw yet another example of institutional creep in the neighborhood, even though this project was not directly financed by any college. It used the universities’ student populations as its market and would not have happened without it. 
 
-The erosion of the residential College Hill Historic District between Brown and Thayer and Brook Streets, and from Meeting all the way down to Power Streets is evident. And yet Brown keeps building. And private developers piggy-back as well. And eventually, the north east section of the College Hill District may have very few 100+ year old homes left. 
+[The erosion of the residential College Hill Historic District between Cushing, Brook, Waterman, and Thayer Streets is evident]({% link _essays/erosion-of-college-hill-historic-district.md %}). And yet Brown keeps building. And private developers piggy-back as well. And eventually, the north east section of the College Hill District may have very few 100+ year old homes left. This block of nine homes was the lynch pin that started lubricating the slippery slope in this area. 
 
 
 ### Current Events

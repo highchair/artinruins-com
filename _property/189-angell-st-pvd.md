@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
-tags: [ 'Demolition by Progress', 'House' ]
+tags: [ 'Demolition by Progress', 'Demolition by Neglect', 'House' ]
 
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
@@ -67,6 +67,8 @@ imagescredit:
 
 These two homes are part of the story of the erosion of the [College Hill Historic District]({% link list/college-hill-historic-district.html %}). Only a year earlier, in 2016, [seven houses were lost]({% link _property/brook-meeting-cushing.md %}) to the north on the block bounded by Brook, Meeting, Cushing, and Thayer Streets. Around the same time that these buildings were being razed and redeveloped, [two houses on the corner of Euclid and Brook were razed]({% link _property/21-euclid-ave.md %}) for a new denser, taller structure with retail space on the ground floor. [And the hits keep coming]({% link _property/382-brook-116-waterman.md %}). 
 
+The loss of these properties is part of [our essay about the erosion of the College Hill Historic District]({% link _essays/erosion-of-college-hill-historic-district.md %}).
+
 #### Proposal & Design Reception
 
 These happened at a time when we at ArtInRuins were not keeping up very well with happenings around town. We were lucky to have spotted the partial demolition of 189 Angell but completely missed documenting either property before their demolitions. We were not paying attention to the planning commission meeting notices with any approval of these developments. 
@@ -78,7 +80,7 @@ Is it good, is it bad? Overall we feel the pressure that this section of the dis
 
 ### Current Events
 
-The two houses are now apartment buildings for rent to students of Brown University and <span class="abbr">RISD</span>. 
+The two houses are now privately-owned apartment buildings for rent to students of Brown University and <span class="abbr">RISD</span>. 
 
 
 ### History
