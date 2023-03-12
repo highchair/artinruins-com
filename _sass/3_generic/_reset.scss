@@ -60,8 +60,9 @@ nav ul ul {
 
 // Make images easier to work with
 img {
-  max-width: 100%;
   display: block;
+  height: auto;
+  max-width: 100%;
 }
 
 // Generic Anchor style

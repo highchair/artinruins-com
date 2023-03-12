@@ -191,7 +191,8 @@
     }
   }
 
-  &__clamp {
+  &__clamp,
+  &__clamp--essay {
     display: -webkit-box;
     line-clamp: 4;
     overflow: hidden;
@@ -199,6 +200,11 @@
     white-space: initial;
     -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
+  }
+
+  &__clamp--essay {
+    line-clamp: 6;
+    -webkit-line-clamp: 6;
   }
 
   &__excerpt {

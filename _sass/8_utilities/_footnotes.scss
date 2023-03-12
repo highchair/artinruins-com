@@ -1,0 +1,16 @@
+/*div*/.footnotes {
+  border-top: 1px solid $color__borders;
+  margin-top: ($vertical-rhythm * 2);
+  padding-top: $vertical-rhythm;
+
+  li {
+    font-size: 93.75%;
+  }
+
+  &::before {
+    @extend .o__title--sm;
+    content: 'Footnotes';
+    display: inline-block;
+    padding-bottom: ($vertical-rhythm/2);
+  }
+}

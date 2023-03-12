@@ -1,0 +1,48 @@
+.essay {
+
+  header {
+    background: center center no-repeat url() transparent;
+    background-size: cover;
+  }
+
+  &__hero {
+    background-color: rgba(palette('brand-dark-brown'), 0.65);
+  }
+
+  &__title {
+    color: $white;
+  }
+
+  &__backtotop {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    position: sticky;
+      bottom: 4rem;
+
+    @include layout-columns() {
+      bottom: 1rem;
+    }
+
+    a {
+      @include ff-sans(true);
+      background-color: palette('brand-teal-dark');
+      border-radius: 50%;
+      color: $white !important;
+      display: flex;
+      flex-flow: column;
+      height: 3em;
+      justify-content: center;
+      margin: 0 1rem $vertical-rhythm 0;
+      text-align: center;
+      text-decoration: none;
+      width: 3em;
+
+      &:hover,
+      &:focus {
+        background-color: palette('brand-orange');
+        color: palette('brand-teal-dark') !important;
+      }
+    }
+  }
+}
