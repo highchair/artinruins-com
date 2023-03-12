@@ -2,7 +2,8 @@
 ---
 {%- assign properties = site.property -%}
 {%- assign thennows = site.then-now -%}
-{%- assign items = properties | concat: thennows | sort: 'date-modified' | reverse -%}
+{%- assign essays = site.essays -%}
+{%- assign items = properties | concat: thennows | concat: essays | sort: 'date-modified' | reverse -%}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -26,23 +27,22 @@
         {%- assign prop_img = prop.images.first.url -%}
       {%- endif -%}
       <item>
-        <title>{{ prop.title | xml_escape }}</title>
+        <title>{%- if item.collection == 'essays' -%}Essay: {%- endif -%}{{ prop.title | xml_escape }}</title>
         <dc:creator>ArtInRuins.com</dc:creator>
         <description>
           <![CDATA[
             <p>
-              <img src="{{ site.prod_url }}/property-img/r/480/{{ prop_img }}" alt="{{ prop.images.first.alt | xml_escape }}" />
-              {% if prop.update %}
-              {{ prop.update | xml_escape }}
-              {% else %}
-              {{ prop.excerpt | xml_escape }}
-              {% endif %}
+              <img src="{{ site.prod_url }}/property-img/r/480/{{ prop_img }}" alt="{{ prop.images.first.alt | xml_escape }}" />{%- if prop.update -%}
+                {{ prop.update | xml_escape }}
+              {%- else -%}
+                {{ prop.excerpt | xml_escape }}
+              {%- endif -%}
             </p>
           ]]>
         </description>
         <pubDate>{{ prop.date-modified | date_to_rfc822 }}</pubDate>
-        <link>{{ site.prod_url }}/property/{{ prop.slug }}</link>
-        <guid isPermaLink="true">{{ site.prod_url }}/property/{{ prop.slug }}</guid>
+        <link>{{ site.prod_url }}{{ prop.url }}</link>
+        <guid isPermaLink="true">{{ site.prod_url }}{{ prop.url }}</guid>
       </item>
     {% endfor %}
   </channel>

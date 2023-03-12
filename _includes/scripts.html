@@ -8,3 +8,14 @@
     <script defer src="/assets/js/all-properties.js"></script>
     <script defer src="/assets/js/thennow.js"></script>
 {%- endif -%}
+{%- if page.layout == 'essay-item' -%}
+    <script defer src="/assets/js/property.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        const lazyLoadInstance = new LazyLoad({
+          container: document.querySelector(".l__article"),
+          elements_selector: ".js-lazy"
+        });
+      });
+    </script>
+{%- endif -%}

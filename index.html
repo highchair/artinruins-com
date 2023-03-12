@@ -11,7 +11,8 @@ sitemap:
 {%- assign properties = site.property -%}
 {%- assign propsize = properties.size -%}
 {%- assign thennows = site.then-now -%}
-{%- assign items = properties | concat: thennows | sort: 'date-modified' | reverse -%}
+{%- assign essays = site.essays -%}
+{%- assign items = properties | concat: thennows | concat: essays | sort: 'date-modified' | reverse -%}
 {%- assign totalimg = 0 -%}
 {%- for item in properties -%}
   {%- assign totalimg = totalimg | plus: item.images.size -%}
@@ -46,7 +47,12 @@ sitemap:
     <h2 class="o__title--sm o__title__cta v-rhythm">Recently updated Properties <a href="/feed.xml" target="_blank"><span class="social__rss" aria-hidden="true"></span>Subscribe</a></h2>
     <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
 {%- for item in items -%}
-    <!-- property loop number {{ forloop.index }} -->
+    {% comment %}
+      dump variable contents {{ item | inspect }} or {{ item | jsonify }}
+      Caution: Memory and output intensive!
+
+      property loop number {{ forloop.index }}
+    {% endcomment %}
     {%- assign categories = item.categories -%}
     {%- capture is_demo_alert -%}
       {% if categories contains '#DemolitionAlert' %}Yes{% else %}No{% endif %}
@@ -71,15 +77,7 @@ sitemap:
         We are breaking on the 8th time around the loop
         *Remember that when we get randprop, it is an array*
 
-
-      {% assign random = site.time | date: "%s%N" | modulo: site.data.artful_architecture.size %}
-      {% assign date = site.time | date: "%s%N" %}
-      <!-- site.time = {{ site.time }} -->
-      <!-- site.time | date: "%s%N" = {{ date }} -->
-      <!-- site.data.artful_architecture.size = {{ site.data.artful_architecture.size }} -->
-      <!-- random = {{ random }} -->
       {% endcomment %}
-
       {% assign minutes= site.time | date: "%H" | plus:100 %}
       <!-- minutes = {{ minutes }} -->
       {% assign random = site.time | plus: minutes | modulo: site.data.artful_architecture.size %}

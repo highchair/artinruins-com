@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  {%- if page.layout == 'then-now-item' -%}
+  {%- if page.layout == 'then-now-item' or page.layout == 'essay-item' -%}
     {%- capture style -%}
     {% include then-now.scss %}
     {%- endcapture -%}
