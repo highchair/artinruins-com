@@ -6,11 +6,11 @@ date-modified: 2023-03-03 12:00
 update: 'Added three 1999 and older images of this building, one photo of a portion under construction'
 update-image: georges-billiards-pawtlib-1968-01.jpg
 
-built: 'Between 1939 and 1951'
+built: 'Circa 1950'
 demolition: '2023'
 redeveloped:
 units:
-decade: '1940-1949'
+decade: '1950-1959'
 date-added: '2022'
 categories: [ '#DemolitionAlert', '#UrbanDecay' ]
 neighborhoods: []

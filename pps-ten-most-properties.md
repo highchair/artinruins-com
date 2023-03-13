@@ -17,6 +17,18 @@ Properties attached to the list 'PPS Ten Most Endangered'
 
 ## Providence Preservation Society Ten Most Endangered Lists
 
+### 2023
+
++ Asa Messer Elementary School, 158 Messer Street, West End (ca. 1890)
++ <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}), aka Superman Building (1928) 
++ Humboldt Fire Station, 155 Humboldt Avenue, Wayland (1906)
++ Providence Infrastructure, Citywide (various)
++ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Providence Gas Company Purifier House]({% link _property/providence-gas-purifier-house.md %}) (1899-1900) Allens Ave
++ Providence Public Schools, Citywide (various)
++ RIDOT Headquarters and Garage, 30 Arline Street, Smith Hill (1927)
++ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Standard Wholesale Liquors Co.]({% link _property/115-harris-ave.md %}), 115 Harris Avenue, Smith Hill (1937)
++ Urban League of Rhode Island Site, 246 Prairie Avenue, Upper South Providence (ca. 1970s)
+
 ### 2022
 
 + Broad Street Synagogue, aka Temple Beth El (1910) 
