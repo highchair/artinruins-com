@@ -94,6 +94,12 @@ Plans for a pedestrian only bridge and/or bike path were floated by the Sierra C
 
 On April 18, 2006, RDX explosives imploded the steel truss work, which were floated away for recycling. The concrete pilings and supports were exploded in a series of less spectacular displays with TNT. The concrete pieces were used to create artificial reefs below the mouth of Narragansett Bay.
 
+For a road-trip back in time over the old bridge, enjoy the film that someone took in 1984 and posted on YouTube: 
+
+<div style="padding-bottom:75%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/kII6frrfVLk" style="position:absolute; top:0; left: 0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ### History
 

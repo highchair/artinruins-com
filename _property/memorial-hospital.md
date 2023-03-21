@@ -2,7 +2,8 @@
 title: "Memorial Hospital"
 slug: memorial-hospital
 aka: 
-date-modified: 2021-02-06 17:00
+date-modified: 2023-03-19 16:00
+update: 'Added a recent news clipping about the changes in ownership'
 
 built: '1918, 1931, 1951, 1965, 1976, 1985, 1987'
 demolition: 
@@ -91,7 +92,7 @@ In 1985, phase three of modernization was the $1.7-million **Ambulatory Care Cen
 
 ### Redevelopment
 
-Lockwood Development Partners, a New York City developer is planning 200 apartments prioritized for senior veterans. 
+Entrepreneur Michael Mota and an investment group want to continue to line of thinking that Lockwood Development was proposing before their financing fell through. Their plan would include housing for senior veterans. 
 
 
 ### History
@@ -104,6 +105,29 @@ Memorial Hospital was chartered more than a century ago by the Pawtucket Busines
 
 
 ### In the News
+
+####  Grebien disheartened but still hopeful on Memorial Hospital redevelopment
+
+_by Ethan Shorey_  
+**Valley Breeze** | January 4, 2023 (abridged)
+
+Mayor Donald Grebien says he’s disheartened that the vision for re-imagining the former Memorial Hospital property as housing for veterans has fallen through, but hopeful that a new developer will take the project to completion.
+
+Grebien said he hopes the new developer’s plan is in line with what Pawtucket residents want and need, and he will continue to do everything he can to protect residents in the surrounding neighborhood and their interests.
+
+The administration has not reached any agreements with the prospective new developer, and has also not yet had any discussions on such an agreement, according to the mayor.
+
+As reported by _The Providence Journal_ last week, entrepreneur Michael Mota and an investment group want to get the project back on track, including housing for more than 350 veterans and restoring the homeless shelter run by Amos House that was shut down on Nov. 18 due to broken sprinklers and residents relocated. […]
+
+Mota, who incorporated the Memorial Real Estate Group LLC in November, told The Providence Journal that their investment group is working with the existing owners in a voluntary foreclosure proceeding, and their immediate goal is to get the homeless shelter back up and running within the next month or so. Fixing the sprinklers and other steps to restore the space are happening now.
+
+Lockwood has a number of unpaid debts related to work at the property, and Amos House has not paid its $60,000 in monthly rent for operation of the shelter since the sprinkler burst. […]
+
+_Captured March 19, 2023 from https://www.valleybreeze.com/news/grebien-disheartened-but-still-hopeful-on-memorial-hospital-redevelopment/article_1daa17f2-8861-11ed-8658-27b087c8f4ab.html_
+
+
+<details markdown="1" class="rhythm">
+  <summary>Previous News</summary>
 
 #### Developer buys former Memorial Hospital property in Pawtucket, plans housing for R.I. veterans
 
@@ -150,3 +174,5 @@ That’s much less than the $319,900 statewide median price of a single-family h
 In other details of the transaction, Grebien spokesman Wilder Arboleda said that Lockwood did not buy the entire property, which has an address of 111 Brewster St. He said that Care New England retained 5.72 acres on which it operates its Family Care Center, a primary-care provider.
 
 _Captured February 6, 2021 from https://www.providencejournal.com/story/news/local/2021/01/27/pawtuckets-memorial-hospital-sold-much-house/4278219001/_
+
+</details>

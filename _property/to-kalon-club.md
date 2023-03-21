@@ -98,7 +98,7 @@ The [Pawtucket Archeology Lab (PAL)](//www.palinc.com) operates out of 26 Main S
 
 Established in 1867 as a private dining club, the ancient Greek definition of the name “To Kalon” is “the good, beautiful, hospitality.” When you enter the main foyer, you are immediately transported to an era where architectural details add charm and warmth.[^1]
 
-Anecdotally, it seems that the club could not survive fr a few reasons. Mill owners and businessmen for large institutions moved out of state, retired, or simply died. The club maintained a no women policy that limited the membership it could attract. And younger business people are not interested in a social club like this. 
+Anecdotally, it seems that the club could not survive for a few reasons. Mill owners and businessmen for large institutions moved out of state, retired, or simply died. The club maintained a no women policy that limited the membership it could attract. And younger business people are not interested in a social club like this.
 
 [^1]: Taken from the former To Kalon Club website in 2012 when this post was originally written; tokalonclub.com no longer available or archived
 

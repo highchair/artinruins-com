@@ -55,10 +55,13 @@ images:
     sizes: '768, 924'
   - url: 235-meeting-jh-2022-10-02.jpg
     sizes: '768, 924'
+  - url: 235-meeting-ljrichards-1908-01.jpg
+    caption: 'The block bounded by Meeting (north), Brook (east), Euclid (bottom), and Thayer (west) Streets with 235 Meeting Street circled in red — 1908 L.J. Richards Insurance Map, private collection'
+    sizes: '1440, 900'
 
 mostrecentimage: 2022-08-01
 
-imagescredit:
+imagescredit: 'Contribution from an L.J. Richards Insurance Map'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
