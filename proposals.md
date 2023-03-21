@@ -45,8 +45,12 @@ If approved by the City, Brown intends to sell this house to Brown faculty or st
   <figcaption>Rendering by Aharonian and Associates, Inc., dated October 2022</figcaption>
 </figure>
 
+**Update March 15, 2023**
+
+[These properties are now part of our #UsedToBeThere collection]({% link _property/382-brook-116-waterman.md %}). 
+
 **Update February 24, 2023**
-The proposal for a 5-story mixed-use apartment building at the corner of Waterman and Brook Street was presented at the City Planning Commission on Tuesday, February 21. The master plan was approved last July and will involve the demolition of two National Register-listed residential buildings. Continued from January, the preliminary plan’s waiver requests for an additional floor and residential use within 20 feet of a main street were approved, contingent on the use of noise regulatory devices and 24/7 security for the life of the project. Few presentations in opposition were heard — the Providence Preservation Society was one of the few [objectors to the variances](//ppsri.org/wp-content/uploads/2023/02/2023-02-116-Waterman-PPS.pdf){:target="_blank"}.
+The proposal for a 5-story mixed-use apartment building at the corner of Waterman and Brook Street was presented at the City Planning Commission on Tuesday, February 21. **The master plan was approved** last July and will involve the demolition of two National Register-listed residential buildings. Continued from January, the preliminary plan’s waiver requests for an additional floor and residential use within 20 feet of a main street were approved, contingent on the use of noise regulatory devices and 24/7 security for the life of the project. Few presentations in opposition were heard — the Providence Preservation Society was one of the few [objectors to the variances](//ppsri.org/wp-content/uploads/2023/02/2023-02-116-Waterman-PPS.pdf){:target="_blank"}.
 
 **Update November 22, 2022**
 Walter Bronhard and Brook Holding LLC as applicants are proposing to demolish two existing buildings to construct a new mixed-use five story building with commercial use on the ground floor and 25 dwelling units. The applicant is seeking preliminary plan approval and requesting a dimensional adjustment to maintain a height of 58’ and five stories where 50’ and four stories are allowed by right in the zone. The applicant is also requesting a design waiver for locating residential development within 20’ of a main street – for action (AP 12 Lots 180 and 260, College Hill)

@@ -110,3 +110,57 @@ _From an archived webpage about Brown Association of Cooperative Housing (BACH)_
 Finlandia's cluttered basement is home to the BACH office, which is where all the great work of our organization is processed and clumsily filed. 
 
 _— Captured 03 March, 2023 from https://web.archive.org/web/20050323085223/http://www.brown.edu/Students/BACH/houses/finlandia.html_
+
+
+### In the News
+
+#### City approves 5-story College Hill apartments despite complaints about noisy students
+
+_by Wheeler Cowperthwaite_  
+**Providence Journal** | February 22, 2023 (abridged)
+
+The Providence City Plan Commission has approved a five-story apartment building on College Hill with a storefront on Brook Street on the condition that management or security be on the premises at all times.
+
+That condition, as well as devices that will monitor the sound level and number of cellphones on the roof, on balconies and in common areas of the would-be building at 116 Waterman St., came in response to complaints from the neighborhood association, Ward 2 Councilwoman Helen Anthony and residents that college students will menace the neighborhood with loud parties.
+
+Critics of the 25-apartment proposal asked the Plan Commission to exercise its discretion and deny two elements of the plan − an ”adjustment” to allow the building to go up one story plus eight feet and a design waiver to allow apartments on the first floor along Brook Street.
+
+The Plan Commission granted both, after the developer reduced the amount of residential space along Brook Street by moving one apartment into a cellar and turning the space above it, facing the street, into an 800-square-foot community room or a small business space opening onto Fones Alley.
+
+The city ordinance prohibits residential spaces on the first floor within 20 feet of a ”main road.”
+
+City Planning Director Robert Azar said the project met the intent of the city ordinance, with a storefront on Waterman Street and that Brook Street was added later as a ”main street” after lobbying by the Thayer Street District Management Authority, which wanted to begin increasing storefronts on Brook Street as Thayer Street becomes saturated.
+
+The Plan Commission voted 3-to-1 to approve the preliminary plan with the variances for height and commercial space and delegated final approval to the Planning Department. Commissioner Harrison Bilodeau was the single no vote. He did not give a reason to deny the variances but said he voted against the preliminary plan because he wanted authority over the final plan.
+
+If built, the apartment building would occupy the land where two houses currently sit, at 116 Waterman St. and 382 Brook St.
+
+##### Why were people opposed to the development?
+
+Central to the complaints about the development were a rooftop terrace, which opponents said would become a nuisance as college students party long into the night. Opponents were not assuaged by the commission requiring sound-monitoring devices and security guards always on the premises.
+
+“This business about monitoring the noise is nothing but smoke and mirrors,” Anthony said.
+
+How it’s being addressed:Noisy neighborhoods can be hazardous to Rhode Islanders' health.
+
+She said complaints about owner Walter Bronhard’s other properties have gone unaddressed.
+
+Anthony’s complaints about noise are not new, as she proposed broadening the city’s ban on more than three ”college students” living together to parts of the city where multi-family houses are allowed; that ban now applies only in areas zoned for single-family homes.
+
+Residents also complained about the building being 8 feet taller than the 50 feet allowed by right, although it would be only 300 feet away from the 14-story Brown University Sciences Library.
+
+College Hill Neighborhood Association President Rick Champagne said the commissioners should force the development to scale down and not be ”blinded by the housing crisis.”
+
+In all, seven people spoke against the proposal and two people submitted letters against it.
+
+##### Who was for the project?
+
+In all, four people spoke in favor of the project, while one letter of support was submitted.
+
+Matthew Schaelling said he was for the project and for the adjustments, and that the project would put dense housing where Providence needs it.
+
+”I don’t understand the noise concerns given the location of the development,” he said. ”I’m in this neighborhood every day, and it’s already very noisy, primarily because of heavy trucks and cars, but not from any students in the area.”
+
+Christian Roselund was the only person to speak against the surveillance requirement imposed by the Plan Commission and said the development, and more housing, is in the public’s interest.
+
+_Captured on March 16, 2023 from https://www.providencejournal.com/story/news/local/2023/02/22/providence-approves-5-story-25-apartment-project-on-college-hill/69931601007/_
