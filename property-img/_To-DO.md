@@ -19,8 +19,6 @@ _by Gregory Smith_
 
 _From the National Register nomination form for the Downtown Providence Historic District, amendment & expansion, 2007_
 
-_From the National Register nomination form for the Downtown Providence Historic District, amendment & expansion, 2007_
-
 _From the PPS/AIAri Providence Architecture Guide, 2003, by Wm. MacKenzie Woodward_
 
 _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
