@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'Exeter, RI' ]
 designers: [ 'Donald J. Prout and Associates' ]
 lists: [ 'Did You Know?' ]
-tags: [ 'Demolition by Neglect', 'Former Schools' ]
+tags: [ 'Demolition by Neglect', 'Former/Current Schools' ]
 
 address:
 latitude: '41.555459'

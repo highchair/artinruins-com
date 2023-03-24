@@ -16,7 +16,7 @@ neighborhoods: []
 town: [ 'Cranston, RI' ]
 designers: [ 'Stone, Carpenter, & Willson' ]
 lists: [ 'RI Historic Resources Archive' ]
-tags: [ 'Former Schools' ]
+tags: [ 'Former/Current Schools' ]
 
 NRHP-ref-number:
 added-to-NRHP:

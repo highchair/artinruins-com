@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: []
-tags: [ 'Former Schools' ]
+tags: [ 'Former/Current Schools' ]
 
 NRHP-ref-number:
 added-to-NRHP:

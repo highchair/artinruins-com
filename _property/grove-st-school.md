@@ -13,7 +13,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'PPS Ten Most Endangered', 'Broadway-Armory Historic District', 'National Register of Historic Places' ]
-tags: [ 'Demolition by Neglect', 'Demolition without Permit', 'Former Schools' ]
+tags: [ 'Demolition by Neglect', 'Demolition without Permit', 'Former/Current Schools' ]
 
 NRHP-ref-number: '74000047 (contributing)'
 added-to-NRHP: 'May 1, 1974'

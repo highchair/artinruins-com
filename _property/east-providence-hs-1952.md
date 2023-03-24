@@ -16,7 +16,7 @@ town: [ 'East Providence, RI' ]
 designers: [] # Charles A. Maguire
 people: []
 lists: []
-tags: [ 'Former Schools' ]
+tags: [ 'Former/Current Schools' ]
 
 NRHP-ref-number:
 added-to-NRHP:
