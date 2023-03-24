@@ -1,6 +1,6 @@
 ---
 layout: then-now-item
-title: "Dyer Street looking towards Richmond"
+title: "Dyer Street looking towards Richmond, Then & Now"
 slug: dyer-st-towards-richmond
 property_slug:
 date-modified: 2023-03-04 13:00

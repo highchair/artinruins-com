@@ -31,6 +31,7 @@ $transition: all 250ms ease;
   &__then {
     background: top left no-repeat transparent;
     background-size: auto 100%;
+    pointer-events: none;
   }
 
   &__clip,
@@ -122,5 +123,11 @@ $transition: all 250ms ease;
     left: 100%;
     transform: translateX(-100%);
     white-space: nowrap;
+  }
+
+  &__caption {
+    font-style: italic;
+    padding-top: 0.75rem;
+    padding-bottom: 1.25rem;
   }
 }

@@ -1,6 +1,6 @@
 ---
 layout: then-now-item
-title: "Duncan Ave at North Main Street"
+title: "Duncan Ave at North Main Street, Then & Now"
 slug: duncan-ave-north-main
 date-modified: 2023-01-16 12:00
 
