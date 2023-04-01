@@ -1,6 +1,21 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: fram-company-headquarters
+  person: 'Gail Blain'
+  date: '2023-03-31'
+  content: 'My mom worked their for 32 years. I worked there for 23 years. Never expected for the factory to close. It was devastating. We lived close so mom and I walked to work. She was a cassealer operator and I was a glue pot operator. We made wonderful friends there. I just lost my best friend of 50 years that I met there.'
+
+- property: chinese-restaurants
+  person: 'Gerald DeLuca'
+  date: '2023-03-31'
+  content: 'The Hon Hong Restaurant, across from what is now Trinity Rep, was the first Chinese Restaurant I was ever taken to, by my sister, in the early 1950s. Later I would go on my own. You would always get bread, pickled beets and fries.  What I remember most was their onion rings. They were freshly made, coated with a light tempura-like batter, then deep fried. Beautiful and delicious. Never have I had onion rings that great ever again. And I know I never will.'
+
+- property: sockanosset-boys-school
+  person: 'Caitlyn Bosley'
+  date: '2023-03-19'
+  content: 'My great grandpa (Harry Bloodworth, birth date 1915, Sept 14) was an inmate here. Left by his mother. I want to know what behavior he was evicted of and if it’s possibly to find out his mother and sisters names.'
+
 - property: ri-auditorium
   person: 'Christopher folco'
   date: '2023-03-19'
