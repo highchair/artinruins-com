@@ -31,37 +31,61 @@ thumbnail: bennys-jh-2018-01-06.jpg
 images:
   - url: bennys-jh-2017-09-01.jpg
     alt: 'A low slung, brick and stucco-faced commercial building. The main portion of the building has no windows and no ornamentation except for the sleet-clad entrance. A portion of the building was a split-level, brick-clad cement block building that originated as the Chase Brass & Copper warehouse.'
+    sizes: '1440, 900'
   - url: bennys-jh-2017-09-02.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2017-09-03.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2017-09-04.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2017-09-05.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2018-01-01.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2018-01-02.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2018-01-03.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2018-01-04.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2018-01-05.jpg
+    sizes: '768, 924'
   - url: bennys-jh-2018-01-06.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2020-03-01.jpg
     caption: 'A good view of the former Chase Brass & Copper Company building'
+    sizes: '1440, 900'
   - url: bennys-jh-2020-03-02.jpg
     caption: 'Another view, showing the way the 2-story portion connected to the one-story portion'
+    sizes: '1200, 900'
   - url: bennys-jh-2020-03-03.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2020-03-04.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2020-03-05.jpg
     caption: 'And just like that, the Chase Brass & Copper portion is gone'
+    sizes: '1440, 900'
   - url: bennys-jh-2020-03-06.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2020-03-07.jpg
+    sizes: '1440, 900'
   - url: bennys-jh-2020-06-01.jpg
+    sizes: '1440, 900'
   - url: 1920-sanborn-map-vol2-pl-77.jpg
     caption: '1920-1921 Sanborn Map, Volume 2, Plate 77 — Library of Congress, Geography and Map Division.'
+    sizes: '1440, 900'
   - url: 1939-gm-hopkins-pl-24.jpg
-    caption: '1939 G.M. Hopkins Map, Plate 24 — HistoricMapWorks.com'
+    caption: '1939 G.M. Hopkins Map, Plate 24 — HistoricMapWorks.com'
+    sizes: '1440, 900'
   - url: 1951-sanborn-map-vol2-pl-77.jpg
     caption: '1920-1951 Sanborn Map, Volume 2, Plate 77 — Library of Congress, Geography and Map Division.'
+    sizes: '1440, 900'
   - url: 1956-sanborn-map-vol2-pl-77.jpg
     caption: '1920-1956 Sanborn Map, Volume 2, Plate 77 — Library of Congress, Geography and Map Division.'
+    sizes: '1440, 900'
   - url: 1972-aerial-01.jpg
     caption: '1972 aerial photo from the Providence Historical Aerial Viewer'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the Library of Congress, <a href="http://www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/">Historic Map Works</a>, and the Providence Historical Aerial Viewer'
 

@@ -10,7 +10,7 @@ demolition:
 redeveloped:
 decade:
 date-added: '2008'
-categories: [ '#ArchiveRI', '#UsedToBeThere' ]
+categories: [ '#ArchiveRI' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'Morris Nathanson' ]
@@ -31,31 +31,44 @@ images:
   # url: mee-hong-placesetting-1938.jpg
   #  caption: 'The “Chow Mein, Chicken Wings, and Cheeseburgers” exhibit at the Culinary Arts Museum at Johnson & Wales University featured a 1938 table and setting from Mee Hong restaurant. Providence Journal file photo November 10, 2016.'
   - url: mee-hong-jb-1975.jpg
-    caption: 'Black and white film scan of a photo taken in 1975 by John Ballantine'
     alt: 'Three different Chinese food restaurants. Mee Hong was inside a two story commercial building with an enameled steel facade. Two large picture windows have large rounded outside corners while the central double door entrance has a split circle window down the center of it. A very large neon sign occupies the entire second story of the facade.'
+    caption: 'Black and white film scan of a photo taken in 1975 by John Ballantine'
+    sizes: '650, 900'
   - url: mee-hong-jboersma-1975.jpg
     caption: 'Photo by Jay Boersma, 1975'
+    sizes: '1000, 800'
   - url: lukes-postcard-undated.jpg
-    alt: 'Luke’s restauirant was located on the first floor of a taller commercial office building. A large neon sign took up most of the space above the entrance and retail window.' 
+    alt: 'Luke’s restauirant was located on the first floor of a taller commercial office building. A large neon sign took up most of the space above the entrance and retail window.'
+    sizes: '600, 381'
   - url: lukes-newspaper-ad.jpg
-    caption: 'A newspaper ad for Luke’s Restaurant with a photo of the owner — posted by a Facebook user'
+    caption: 'A newspaper ad for Luke’s Restaurant with a photo of the owner — posted by a Facebook user'
+    sizes: '427, 1200'
   - url: lukes-location-2019.jpg
     caption: 'A photo of the Luke’s facade superimposed on its former location in the Smith Building. Current streetview photo from Google.'
+    sizes: '1440, 900'
   - url: ming-garden-1937.jpg
-    caption: 'Exchange Place in 1937 — electric trolley buses are in use. Ming’s Garden wouldn’t open for another few years in the building with the AUTO LOANS sign. The nearby Waldorf Cafeteria can be seen along with many mid-century advertising signs. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    caption: 'Exchange Place in 1937 — electric trolley buses are in use. Ming’s Garden wouldn’t open for another few years in the building with the AUTO LOANS sign. The nearby Waldorf Cafeteria can be seen along with many mid-century advertising signs. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    sizes: '1281, 1024'
   - url: ming-garden-1950c.jpg
     caption: 'Ming Garden building circa mid-1950s (The People’s Bank building was constructed in 1949). John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    sizes: '721, 1024'
   - url: ming-garden-1954.jpg
-    caption: 'Ming Garden on the left and the Industrial Trust building on the right in the aftermath of Hurricane Carol, 1954 — RI Historical Society'
+    caption: 'Ming Garden on the left and the Industrial Trust building on the right in the aftermath of Hurricane Carol, 1954 — RI Historical Society'
+    sizes: '1132, 1024'
   - url: ming-garden-provcity-undated.jpg
-    caption: 'Ming Garden building fronting Westminster St (opposite side from Kennedy Plaza) circa 1970s judging by the cars — Providence City Archves on Flickr'
+    caption: 'Ming Garden building fronting Westminster St (opposite side from Kennedy Plaza) circa 1970s judging by the cars — Providence City Archves on Flickr'
+    sizes: '490, 320'
   - url: ming-garden-1977.jpg
     alt: 'The Ming Garden occupied the first two floors of a narrow three story commercial building. A large neon sign occupies most of the third floor, and the building shares a wall with a much taller former bank building.'
+    sizes: '725, 1000'
   - url: ming-garden-location-2019.jpg
+    sizes: '1200, 900'
   - url: ming-garden-typewriter.jpg
     caption: 'Lilly Tow’s typewriter used to compose newspaper ads for the Ming Garden Restaurant in Providence. Note card reads: “At this underwood typewriter Lilly Tow wrote the daily specials and advertisements for Ming Garden and other Tow family restaurants. Through her advertisements, Lilly was able to attract new clientele to the Tow restaurants. Her witty poems and catchy slogans were tailored for specific populations in Rhode Island.”'
+    sizes: '874, 882'
   - url: port-arthur-gold-coin-dorrance-weybosset.jpg
     caption: 'Many comments mentioned Port Arthur, seen here on the corner of Dorrance and Westminster. Date unknown.'
+    sizes: '1192, 792'
 
 imagescredit: 'Contributions from John Ballantine, <a href="//www.re-vision.com/photography/providence/" target="_blank">Jay Boersma</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A5578" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, <a href="//www.flickr.com/photos/cityarchives/15819358009/" target="_blank">Providence City Archves</a>, and Google Streetview.'
 

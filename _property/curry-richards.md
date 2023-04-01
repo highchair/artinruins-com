@@ -15,7 +15,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Saccoccio & Associates' ]
 people: []
-lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Pine Street Historic District' ]
+lists: [ 'National Register of Historic Places', 'Pine Street Historic District', 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: []
 
 NRHP-ref-number: '78000005 (contributing)'
@@ -27,27 +27,40 @@ longitude: '-71.4201007'
 gmap: "https://www.google.com/maps/place/407+Pine+St,+Providence,+RI+02903/@41.814561,-71.4201007,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456e202fcc85:0xb3911f0b68e92e0f!8m2!3d41.814561!4d-71.417912"
 
 meta: ""
-excerpt: "A small stature mill building in a residential neighborhood will many varied uses over the years is now residential"
+excerpt: "A small stature mill building in a residential neighborhood with many uses over the years is now residential"
 
 thumbnail: curry-richards-saccoccio-01.jpg
 
 images:
   - url: curry-richards-jh-2006-06-01.jpg
     alt: 'Two four-story, red brick, flat-roofed mill buildings 4 bays wide and 11 bays deep joined in the middle by a three-story elevanted walkway currently clad in corrugated steel'
+    sizes: '768, 924'
   - url: curry-richards-jh-2006-06-02.jpg
+    sizes: '768, 924'
   - url: curry-richards-jh-2006-06-03.jpg
+    sizes: '1200, 900'
   - url: curry-richards-jh-2006-06-04.jpg
+    sizes: '1200, 900'
   - url: curry-richards-jh-2006-06-05.jpg
+    sizes: '1200, 900'
   - url: curry-richards-jh-2006-06-06.jpg
+    sizes: '1200, 900'
   - url: curry-richards-jh-2006-06-07.jpg
+    sizes: '1200, 900'
   - url: curry-richards-jh-2006-06-08.jpg
+    sizes: '1200, 900'
   - url: curry-richards-jh-2006-06-09.jpg
+    sizes: '1200, 900'
   - url: curry-richards-jh-2006-06-10.jpg
+    sizes: '1200, 900'
   - url: curry-richards-jh-2006-06-11.jpg
+    sizes: '1200, 900'
   - url: curry-richards-saccoccio-01.jpg
     caption: 'From the Saccoccio & Associates website, date unknown'
+    sizes: '1000, 750'
   - url: curry-richards-saccoccio-02.jpg
     caption: 'From the Saccoccio & Associates website, date unknown'
+    sizes: '750, 1000'
 
 imagescredit: 'Recent photo contributions from Saccoccio & Associates'
 
@@ -74,7 +87,7 @@ Units come up for sale from time to time. The building continues to be in good r
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 This four-story flat-roof building was constructed ca. 1875 when it first appears on the Hopkins map of that year. The complex itself is comprised of two four-story, rectangular, brick blocks connected by a four-story hyphen. The 4-by-11-bay structures are embellished with a wood cornice and dentils at the cornice line. The building stands on a granite foundation and features segmental-arch window openings with a combination of 12/12, 2/12, 12/2, and replacement 1/1 sash with granite sills. Several windows have been boarded up. A pedestrian entrance is offset on the eastern bay of the facade (south elevation). A paved parking lot bound by chain link fencing is located to the east.
 

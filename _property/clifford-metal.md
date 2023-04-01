@@ -33,24 +33,40 @@ thumbnail: clifford-metal-goog-2014-01.jpg
 
 images:
   - url: clifford-metal-matchbook-1960s-01.jpg
-    caption: ''
+    caption: 'A color matchbook cover with a photo of the building and “Clifford Metals” in big letters, along with the address 200 Corliss Street.'
+    sizes: '598, 859'
   - url: clifford-metal-goog-2014-01.jpg
-    caption: 'Google Streetview from 2014'
     alt: 'A three- to four-story metal clad, steel frame building with a one-story set of brick-clad delivery loading bays to the north. The main building has since been clad in panels with a portion of brick and numerous new window openings.'
+    caption: 'Google Streetview from 2014'
+    sizes: '1200, 900'
   - url: clifford-metal-jh-2018-12-01.jpg
+    sizes: '1440, 900'
   - url: clifford-metal-jh-2018-12-02.jpg
+    sizes: '1440, 900'
   - url: clifford-metal-jh-2018-12-03.jpg
+    sizes: '1200, 900'
   - url: clifford-metal-jh-2018-12-04.jpg
+    sizes: '1440, 900'
   - url: clifford-metal-jh-2018-12-05.jpg
+    sizes: '1440, 900'
   - url: clifford-metal-jh-2018-12-06.jpg
+    sizes: '1200, 900'
   - url: clifford-metal-jh-2018-12-07.jpg
+    sizes: '1200, 900'
   - url: clifford-metal-jh-2019-03-01.jpg
+    sizes: '1440, 900'
   - url: clifford-metal-jh-2019-03-02.jpg
+    sizes: '1600, 900'
   - url: clifford-metal-jh-2019-04-01.jpg
+    sizes: '1440, 900'
   - url: clifford-metal-jh-2019-05-01.jpg
+    sizes: '1440, 900'
   - url: clifford-metal-jh-2019-05-02.jpg
+    sizes: '1440, 900'
   - url: clifford-metal-jh-2019-06-01.jpg
+    sizes: '1440, 900'
   - url: clifford-metal-jh-2019-06-02.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2019-06-01
 

@@ -34,29 +34,43 @@ thumbnail:
 images:
   - url: copley-hotel-jh-2019-09-01.jpg
     alt: 'A four story, grey brick fronted former hotel building. A front portion of the building is wider than the rest and only about 20 feet deep. This is the portion of the building with the most decoration. The description under History gives a complete account of the architectural details.'
+    sizes: '1200, 900'
   - url: copley-hotel-jh-2019-09-02.jpg
+    sizes: '1200, 900'
   - url: copley-hotel-jh-2019-09-03.jpg
     caption: 'To the left is the Marshall Electric building, built circa 1960'
+    sizes: '1440, 900'
   - url: copley-hotel-jh-2019-09-04.jpg
+    sizes: '1200, 900'
   - url: copley-hotel-jh-2019-09-05.jpg
+    sizes: '1200, 900'
   - url: copley-hotel-jh-2019-09-06.jpg
+    sizes: '1200, 900'
   - url: copley-hotel-jh-2019-09-07.jpg
     caption: 'Copley Chambers hotel to the rear of the photo. In the foreground is the former Sawyer School for Business, built circa 1970'
+    sizes: '1440, 900'
   - url: copley-hotel-jh-2019-09-08.jpg
+    sizes: '768, 924'
   - url: copley-hotel-jh-2019-12-01.jpg
     caption: 'Images from a presentation created in February 2021'
+    sizes: '1200, 900'
   - url: copley-hotel-jh-2021-00-01.jpg
     caption: 'Images from a presentation created in February 2021'
+    sizes: '1350, 900'
   - url: copley-hotel-jh-2021-00-02.jpg
     caption: 'Images from a presentation created in February 2021'
+    sizes: '1350, 900'
   - url: copley-hotel-jh-2021-00-03.jpg
     caption: 'Images from a presentation created in February 2021'
+    sizes: '1350, 900'
   - url: copley-hotel-jh-2021-00-04.jpg
     caption: 'Images from a presentation created in February 2021'
+    sizes: '1350, 900'
   - url: copley-hotel-jh-2021-00-05.jpg
     caption: 'Image of an old For Rent sign reading “For Rent; Physicians and Dentist’s Offices; … Room Apartments for Adults; Furnished Rooms with Private Baths for Gentlemen; Equipped with Fire Escapes of any Building … City; Apply to the Superintendent”. Images from a presentation created in February 2021'
+    sizes: '1350, 900'
 
-mostrecentimage: 2019-12-01
+mostrecentimage: 2021-01-01
 
 imagescredit:
 
@@ -79,7 +93,7 @@ There is interest to list the property on the National Register and qualify for 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 This four-story brick building has a flat roof with a slight parapet and a five-bay façade. A four-story, rectangular ell projects from the rear elevation of the main block and features exterior fire escapes at each floor. The building’s first floor features modem storefronts with metal-and-glass doors and fixed sash. The building is embellished with brick corbelling at its top and sides, projecting piers between each bay, and a capped parapet. The building’s primary entrance centrally located and set within a wide recessed opening. Fenestration consists of paired 6/1 sash set within segmental-arch openings on the fa9ade and rectangular openings on the side elevations of the main block. Fenestration on the rear ell consists mostly of boarded up openings.
 

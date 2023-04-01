@@ -33,18 +33,30 @@ thumbnail: damiano-jh-2021-11-03.jpg
 
 images:
   - url: damiano-jh-2004-06-01.jpg
-    alt: ''
+    alt: 'A mix of mid-centiry, cheaply built commercial structures in cinder block and brick. A mix of high-ceiling single story structures with a two-story office building attached.'
+    sizes: '1200, 900'
   - url: damiano-jh-2004-06-02.jpg
+    sizes: '768, 924'
   - url: damiano-jh-2008-07-01.jpg
+    sizes: '1440, 900'
   - url: damiano-jh-2008-07-02.jpg
+    sizes: '1440, 900'
   - url: damiano-jh-2009-06-01.jpg
+    sizes: '1440, 900'
   - url: damiano-jh-2009-06-02.jpg
+    sizes: '1440, 900'
   - url: damiano-jh-2009-06-03.jpg
+    sizes: '1440, 900'
   - url: damiano-jh-2009-06-04.jpg
+    sizes: '1440, 900'
   - url: damiano-jh-2009-06-05.jpg
+    sizes: '1440, 900'
   - url: damiano-jh-2021-11-01.jpg
+    sizes: '1440, 900'
   - url: damiano-jh-2021-11-02.jpg
+    sizes: '1440, 900'
   - url: damiano-jh-2021-11-03.jpg
+    sizes: '1440, 900'
 
 imagescredit:
 

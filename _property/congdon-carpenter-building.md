@@ -34,25 +34,38 @@ thumbnail: steeple-st-jh-2020-10-01.jpg
 
 images:
   - url: steeple-st-ppl-unknown-01.jpg
-    caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library — Undated, likely before 1906 when the East Side Train raised causeway was built.'
     alt: 'A block of three onjoined three- and four-story red brick buildings with granite window sills. The earliest building dates from 1793 and the latest from 1847. The oldest building is a four-story rectangular block with a flat roof; to the south is another older three-story building with a hipped monitor roof; in the middle is a three and a half story building with a clerstory monitor roof; and on the east end is a four-and-a-half story building with another clerstory monitor roof.'
+    caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library — Undated, likely before 1906 when the East Side Train raised causeway was built.'
+    sizes: '1440, 900'
   - url: steeple-st-ppl-unknown-02.jpg
-    caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library — Undated, image of W. Congdon & Sons Hardware Shop on Steeple Street'
+    caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library — Undated, image of W. Congdon & Sons Hardware Shop on Steeple Street'
+    sizes: '1680, 1200'
   - url: steeple-st-ppl-unknown-03.jpg
-    caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library — Undated, likely after 1942 as that seems to be a 1942 Ford Super Deluxe sedan in the left foreground'
+    caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library — Undated, likely after 1942 as that seems to be a 1942 Ford Super Deluxe sedan in the left foreground'
+    sizes: '2212, 1580'
   - url: steeple-st-lt-1958-01.jpg
     caption: 'Laurence E. Tilley, 1958 — Rhode Island Photographs Collection, Providence Public Library. Signs on the building read Crystal Tap, Warren Teaming Co. Trucking – Rigging, Jewell Belting, sells roller bearings, Royesford Hangers, Agents for American Steel Split Pulleys. A “Congon & Carpenter Co.” sign is seen on a building behind where they moved after the Civil War.'
+    sizes: '1285, 880'
   - url: steeple-st-lt-1958-02.jpg
     caption: 'Laurence E. Tilley, 1958 — Rhode Island Photographs Collection, Providence Public Library. The sign on the next section of building reads Atlantic Pump & Supply Co.'
+    sizes: '1280, 880'
   - url: steeple-st-lt-1958-03.jpg
     caption: 'Laurence E. Tilley, 1958 — HABS/HAER Library of Congress. The sign on this next section of building reads Allenson Brothers SHeet Metal Work.'
+    sizes: '720, 900'
   - url: steeple-st-jh-2005-07-01.jpg
+    sizes: '1200, 900'
   - url: steeple-st-jh-2005-07-02.jpg
+    sizes: '1200, 900'
   - url: steeple-st-jh-2005-07-03.jpg
+    sizes: '1200, 900'
   - url: steeple-st-jh-2005-07-04.jpg
+    sizes: '1200, 900'
   - url: steeple-st-jh-2005-07-05.jpg
+    sizes: '1200, 900'
   - url: steeple-st-jh-2020-10-01.jpg
+    sizes: '1440, 900'
   - url: steeple-st-jh-2021-04-01.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2021-04-01
 
@@ -93,7 +106,7 @@ Currently at 7–9 Steeple Street is New Rivers restaurant, which has been in pl
 The east wall of 9 Steeple Street housed a billboard for many years in the 1980s and into the 1990s. This billboard was used for Vincent Cianci’s re-election campaign in 1990 and was [famously defaced by Shepard Fairey](//obeygiant.com/cianci-billboard/){:target="_blank"}. 
 
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 3 Steeple Street is a three-story brick structure with a hipped roof and is the oldest industrial building in Providence, and after Slater Mill in Pawtucket, the oldest industrial building in the state of Rhode Island. The building features stone sills and lintels and brick bracketing at the cornice line. 5 Steeple Street is three-stories high, with dentils under the roof and a recessed entry at the street level. This is the original building that housed the firm that later moved to Promenade Street.
 

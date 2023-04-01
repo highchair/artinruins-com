@@ -18,7 +18,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Armory Revival Company' ]
 people: []
 lists: []
-tags: [ 'Apartments for Rent' , 'Never Built' ]
+tags: [ 'Apartments for Rent', 'Never Built' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -147,8 +147,9 @@ Some paperwork mentions “Waterman Stables” as having been at 381 West Founta
 
 The [1899 Sanborn map](#photo-combo-ladder-sanborn-1899) shows “A.S. Waterman and Company Boarding” but you can also see a structure labelled “manure bin.” This could have been Waterman Stables, but from the footprint of the buildings alone, we do not think any of those structures survived. That said, it could have been that A.S. Waterman demolished the original collection of structures in favor of a larger, singular structure before selling it to Combination Ladder between the maps of 1899 and 1920. 
 
+***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 **Combination Ladder** is comprised of several one- and two-story, brick structures. A large, one- to two-story, flat-roof block stands at the corner of West Fountain Street and Cargill Street. Due to the topographical changes, the building stands one-story in height at the rear and two-stories in height at the West Fountain street end. This block features an altered, centrally-located, vehicular entrance that has been bricked in and has an offset pedestrian entrance comprised of a metal-and-glass door.
 

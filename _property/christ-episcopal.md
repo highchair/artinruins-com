@@ -4,10 +4,10 @@ slug: christ-episcopal
 aka: 'Christ Episcopal'
 date-modified: 2020-05-02 21:50
 
-built: 1888
-demolition: 2006
+built: '1888'
+demolition: '2006'
 decade: '1880-1889'
-date-added: 2003
+date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
@@ -30,59 +30,98 @@ thumbnail: eddy-st-church-02.jpg
 
 images:
   - url: eddy-st-church-NRHP-1976-01.jpg
-    caption: 'Photo by Richard Longstretch for the National Register of Historic Places, 1976'
     alt: 'An asymmetrical church red brick building with dark brown granite ornamentation. A bell tower was offset from the semi-circular nave, while the interior was in poor repair, with exposed stick work and a frescoed ceiling as ornament.'
+    caption: 'Photo by Richard Longstretch for the National Register of Historic Places, 1976'
+    sizes: '823, 1200'
   - url: eddy-st-church-01.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-02.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-03.jpg
+    sizes: '900, 900'
   - url: eddy-st-church-04.jpg
+    sizes: '900, 900'
   - url: eddy-st-church-05.jpg
+    sizes: '800, 1067'
   - url: eddy-st-church-06.jpg
+    sizes: '800, 1067'
   - url: eddy-st-church-07.jpg
+    sizes: '800, 1067'
   - url: eddy-st-church-08.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-09.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-10.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-11.jpg
+    sizes: '800, 1067'
   - url: eddy-st-church-12.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-13.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-14.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-15.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-16.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-17.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-18.jpg
+    sizes: '800, 1067'
   - url: eddy-st-church-19.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-20.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-21.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-22.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-23.jpg
+    sizes: '1200, 900'
   - url: eddy-st-church-24.jpg
+    sizes: '800, 1400'
   - url: eddy-st-church-lf-2005-05.jpg
     caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: eddy-st-church-lf-2005-06.jpg
     caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: eddy-st-church-lf-2005-01.jpg
     caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: eddy-st-church-lf-2005-02.jpg
     caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: eddy-st-church-lf-2005-07.jpg
     caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: eddy-st-church-lf-2005-03.jpg
     caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: eddy-st-church-lf-2005-04.jpg
     caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: eddy-st-church-lf-2005-08.jpg
     caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: eddy-st-church-lf-2005-09.jpg
     caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: eddy-st-church-lf-2005-10.jpg
     caption: 'Photo by Lou Fancy'
+    sizes: '700, 525'
   - url: eddy-st-church-mkh-2006-01.jpg
     caption: 'Photo by Mary Kate Harrington'
+    sizes: '800, 1067'
   - url: eddy-st-church-mkh-2006-02.jpg
     caption: 'Photo by Mary Kate Harrington'
+    sizes: '1200, 900'
   - url: eddy-st-church-mkh-2006-03.jpg
     caption: 'Photo by Mary Kate Harrington'
+    sizes: '800, 1067'
   - url: eddy-st-church-25.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributed photos from Richard Longstretch, Lou Fancy, and Mary Kate Harrington.'
 ---

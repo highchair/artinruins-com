@@ -24,33 +24,47 @@ gmap: "https://www.google.com/maps/place/RISD+Museum/@41.8256264,-71.409978,17z/
 meta: ""
 excerpt: "A hub of student and museum activity for RISD named after the late Happy Chase, an ardent preservationist of properties along Benefit Street"
 
-thumbnail: chace-center-render.jpg
+thumbnail: chace-center-jh-2020-10-05.jpg
 
 images:
   - url: chace-center-fm-2005-01.jpg
-    caption: 'Photo by Frank Mullin'
     alt: 'A modern, glass and bright red brick multi-story building that houses a portion of the Rhode Island School of Design Museum. Its facade is madeof panels of translucent glass and aluminum which reflects or lets light through without flooding the interior museum spaces with natural light that could damage artworks.'
+    caption: 'Photo by Frank Mullin'
+    sizes: '1440, 900'
   - url: chace-center-fm-2005-02.jpg
     caption: 'Photo by Frank Mullin'
+    sizes: '1440, 900'
   - url: chace-center-jn-2006-08-01.jpg
     caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
+    sizes: '700, 525'
   - url: chace-center-jn-2006-08-02.jpg
     caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
+    sizes: '650, 488'
   - url: chace-center-jn-2007-04-01.jpg
     caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
+    sizes: '800, 600'
   - url: chace-center-jn-2007-04-02.jpg
     caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
+    sizes: '800, 600'
   - url: chace-center-jn-2007-05-01.jpg
     caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
+    sizes: '800, 600'
   - url: chace-center-jn-2007-05-02.jpg
     caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
+    sizes: '800, 600'
   - url: chace-center-jn-2008-01-01.jpg
     caption: 'Photo uploaded to UrbanPlanet.org by Jef Nickerson'
+    sizes: '600, 800'
   - url: chace-center-jh-2020-10-01.jpg
+    sizes: '1200, 900'
   - url: chace-center-jh-2020-10-02.jpg
+    sizes: '1200, 900'
   - url: chace-center-jh-2020-10-03.jpg
+    sizes: '800, 1067'
   - url: chace-center-jh-2020-10-04.jpg
+    sizes: '800, 1067'
   - url: chace-center-jh-2020-10-05.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2020-10-01
 

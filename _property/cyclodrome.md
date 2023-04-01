@@ -4,12 +4,12 @@ slug: cyclodrome
 aka:
 date-modified: 2020-06-30 19:00
 
-built: 1925
-demolition: 1937
+built: '1925'
+demolition: '1937'
 redeveloped: 
 decade: '1920-1929'
-date-added: 2007
-categories: [ '#UsedToBeThere', '#ArchiveRI' ]
+date-added: '2007'
+categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: []
@@ -30,20 +30,30 @@ thumbnail:
 images:
   - url: cyclodrome-aerial-1928.jpg
     alt: 'A banked wooden track for bicycle racing. The steep banks allowed riders to go as fast as possible, centrifugal force sticking them to the middle of the wall instead of leaning hard or slowing down to make the corners. A football field fit inside the oval track and artificial lighting was added to allow for night game play.'
+    sizes: '933, 450'
   - url: cyclodrome-playbill.jpg
+    sizes: '594, 900'
   - url: cyclodrome-ephemera.jpg
+    sizes: '1200, 750'
   - url: steamroller-playbill.jpg
+    sizes: '300, 424'
   - url: steamroller-playbill-packers.jpg
+    sizes: '440, 647'
   - url: united-railway-bldg.jpg
-    caption: Rare photo seen on Ebay of United Electric Railway Co., North Main Street
+    caption: 'Rare photo seen on Ebay of United Electric Railway Co., North Main Street'
+    sizes: '749, 516'
   - url: united-railway-bldg-detail.jpg
-    caption: Notice the sign for the Cyclodrome entrance on the side of the building (White Street)
+    caption: 'Notice the sign for the Cyclodrome entrance on the side of the building (White Street)'
+    sizes: '749, 516'
   - url: cyclodrome-1937-map.jpg
-    caption: Map from 1937 shows the Cyclodrome in dashed lines, which we take to mean that it was in the process of being demolished
+    caption: 'Map from 1937 shows the Cyclodrome in dashed lines, which we take to mean that it was in the process of being demolished'
+    sizes: '1440, 900'
   - url: cyclodrome-1937-map-overlay-66.jpg
-    caption: The map is overlaid an aerial photograph from 1939 at 66% opacity
+    caption: 'The map is overlaid an aerial photograph from 1939 at 66% opacity'
+    sizes: '1073, 671'
   - url: cyclodrome-1937-map-overlay-33.jpg
-    caption: The map is overlaid an aerial photograph from 1939 at 33% opacity
+    caption: 'The map is overlaid an aerial photograph from 1939 at 33% opacity'
+    sizes: '1073, 671'
 
 imagescredit: Various sources. Playbill from <a href="//m.antiquesportsshop.com/footballprograms.html" target="_blank">AntiqueSportsShop.com</a>, insurance map from <a href="//www.historicmapworks.com">HistoricMapWorks</a>
 ---

@@ -33,28 +33,47 @@ thumbnail: seekonk-bridge-jh-2008-08-01.jpg
 
 images:
   - url: seekonk-bridge-ppl-postcard.jpg
-    caption: "Postcard from the Edward Ozog Photograph Collection, Providence Public Library"
-    alt: "A steel and iron truss lift bridge that is two railroad ties wide and ever since 1976, stuck in the up position to allow boats to pass underneath and they travel up and down the Seekonk river"
+    alt: 'A steel and iron truss lift bridge that is two railroad ties wide and ever since 1976, stuck in the up position to allow boats to pass underneath and they travel up and down the Seekonk river'
+    caption: 'Postcard from the Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1440, 900'
   - url: seekonk-bridge-fb-photo-scan-unknown.jpg
     caption: 'From the collection of Facebook user Larry Depetrillo, scanned from RI Annual Reports; date unknown'
+    sizes: '1440, 900'
   - url: seekonk-bridge-leo-king-1954.jpg
     caption: 'Photo by Leo King, circa 1954'
+    sizes: '800, 459'
   - url: seekonk-bridge-jh-2008-08-01.jpg
+    sizes: '1440, 900'
   - url: seekonk-bridge-jh-2008-08-02.jpg
+    sizes: '1440, 900'
   - url: seekonk-bridge-jh-2008-08-03.jpg
+    sizes: '768, 924'
   - url: seekonk-bridge-jh-2008-08-04.jpg
+    sizes: '1440, 900'
   - url: seekonk-bridge-jh-2008-08-05.jpg
+    sizes: '1200, 900'
   - url: seekonk-bridge-jh-2008-08-06.jpg
+    sizes: '1200, 900'
   - url: seekonk-bridge-jh-2008-08-07.jpg
+    sizes: '1200, 900'
   - url: seekonk-bridge-jh-2008-08-08.jpg
+    sizes: '1200, 900'
   - url: seekonk-bridge-jh-2008-08-09.jpg
+    sizes: '768, 924'
   - url: seekonk-bridge-jh-2008-08-10.jpg
+    sizes: '1200, 900'
   - url: seekonk-bridge-jh-2008-08-11.jpg
+    sizes: '1200, 900'
   - url: seekonk-bridge-jh-2008-08-12.jpg
+    sizes: '1440, 900'
   - url: seekonk-bridge-jh-2008-08-13.jpg
+    sizes: '1200, 900'
   - url: seekonk-bridge-jh-2008-08-14.jpg
+    sizes: '768, 924'
   - url: seekonk-bridge-jh-2008-08-15.jpg
+    sizes: '1200, 900'
   - url: seekonk-bridge-jh-2008-08-16.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2008-08-01
 

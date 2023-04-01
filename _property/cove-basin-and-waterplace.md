@@ -28,38 +28,54 @@ thumbnail: cove-basin-thumbnail.jpg
 
 images:
   - url: cove-basin-map-1823.jpg
-    caption: 'Based on a map from 1823. Collection of the Providence Public Library, John Hutchins Cady Research Scrapbooks Collection'
     alt: 'Maps showing how the inland body of water known as The Cove became infilled over time to create the area north of Union Station and Kennedy Plaza and south of the State House. The Cove at one period in time was a circular basin ringed by railroad access and a wide walking promenade. The smaller round water feature of the current Waterplace Park mimics some of this history.'
+    caption: 'Based on a map from 1823. Collection of the Providence Public Library, John Hutchins Cady Research Scrapbooks Collection'
+    sizes: '1601, 1200'
   - url: cove-basin-map-1849.jpg
     caption: 'Based on a map from 1849. Harvard Map Collection, Harvard College Library'
+    sizes: '1601, 1200'
   - url: cove-basin-map-1889.jpg
     caption: 'Based on maps of the period (1889), notably Sanborn Insurance Maps, Brown University Library, Brown Digital Repository'
+    sizes: '1254, 940'
   - url: cove-basin-map-1937.jpg
     caption: 'Based on 1937 insurance maps produced by the G.M. Hopkins Company, Historic Map Works collection'
+    sizes: '1601, 1200'
   - url: cove-basin-map-2020.jpg
     caption: 'Traced from several tiled Google Map views in 2020'
+    sizes: '1601, 1200'
   - url: cove-basin-ppl-undated-01.jpg
     caption: 'Rooftop view of Providence from City Hall, looking north over railroad tracks and the west end of the railroad station, Providence Cove, and buildings in the distance. Providence Public Library, Rhode Island Photographs Collection.'
+    sizes: '1344, 900'
   - url: cove-basin-ppl-1880.jpg
     caption: 'Rooftop view of Providence, looking north over railroad tracks, Providence Cove, and buildings in the distance. Providence Public Library, Rhode Island Photographs Collection.'
+    sizes: '1377, 821'
   - url: crawford-st-bridge-ppl-1970c.jpg
     caption: 'Aerial view of the Crawford Street Bridge over the Providence River, at the confluence of the Woonasquatucket and Moshassuck Rivers, considered the world’s widest bridge. Providence Public Library, Rhode Island Photographs Collection.'
+    sizes: '1289, 1024'
   - url: cove-basin-aerial-1939.jpg
     caption: 'Providence Historical Aerial Viewer 1939'
+    sizes: '1440, 900'
   - url: cove-basin-aerial-1952.jpg
     caption: 'Providence Historical Aerial Viewer 1952'
+    sizes: '1440, 900'
   - url: cove-basin-aerial-1972.jpg
     caption: 'Providence Historical Aerial Viewer 1972'
+    sizes: '1440, 900'
   - url: cove-basin-aerial-1981.jpg
     caption: 'Providence Historical Aerial Viewer 1981'
+    sizes: '1440, 900'
   - url: cove-basin-aerial-1988.jpg
     caption: 'Providence Historical Aerial Viewer 1988'
+    sizes: '1440, 900'
   - url: cove-basin-aerial-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997'
+    sizes: '1440, 900'
   - url: cove-basin-aerial-2008.jpg
     caption: 'Providence Historical Aerial Viewer 2008'
+    sizes: '1440, 900'
   - url: cove-basin-aerial-2018.jpg
     caption: 'Providence Historical Aerial Viewer 2018'
+    sizes: '1440, 900'
 
 imagescredit: 'All new maps based on historic sources listed below. Images from the Providence Public Library Digital Collection, Aerials from the Providence Historical Aerial Viewer.'
 ---

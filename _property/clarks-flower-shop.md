@@ -29,17 +29,29 @@ thumbnail: clarks-flowers-jh-2010-09-03.jpg
 images:
   - url: clarks-flowers-jh-2010-09-01.jpg
     alt: 'A single story whitewashed stucco building built right up to the sidewalk with Arabian clay roof tiles over the entrance. A large greenhouse structure protrudes from the right of the building, and a two-bay entrance with large commercial glass displays flank a single door. Glass block infills a few three bay windows.'
+    sizes: '1440, 900'
   - url: clarks-flowers-jh-2010-09-02.jpg
+    sizes: '1440, 900'
   - url: clarks-flowers-jh-2010-09-03.jpg
+    sizes: '1440, 900'
   - url: clarks-flowers-jh-2010-09-04.jpg
+    sizes: '1440, 900'
   - url: clarks-flowers-jh-2010-09-05.jpg
+    sizes: '1440, 900'
   - url: clarks-flowers-jh-2010-09-06.jpg
+    sizes: '1440, 900'
   - url: clarks-flowers-jh-2010-09-07.jpg
+    sizes: '1440, 900'
   - url: clarks-flowers-jh-2010-09-08.jpg
+    sizes: '1440, 900'
   - url: clarks-flowers-jh-2010-09-09.jpg
+    sizes: '1440, 900'
   - url: clarks-flowers-jh-2010-09-10.jpg
+    sizes: '1440, 900'
   - url: clarks-flowers-jh-2014-09-01.jpg
+    sizes: '1440, 900'
   - url: clarks-flowers-jh-2015-11-01.jpg
+    sizes: '1440, 900'
 
 imagescredit: 
 ---

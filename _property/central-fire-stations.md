@@ -28,35 +28,45 @@ excerpt: "The story of two central fire stations located on the perimeter of Exc
 thumbnail: central-fire-1903c-views-of-prov.jpg
 
 images:
-  #- url: central-fire-1886c-three-ones.jpg
-  #  caption: 'Providence Journal file photo, circa 1886. The city was celebrating the 250th anniversary of its founding.'
   - url: sanborn-map-1889-xxchange-place-plate-1.jpg
-    caption: 'Detail of a Sanborn Insurance Map from 1889. Three Ones in the upper right corner.'
     alt: 'The first fire house located to the southeast of Union Railroad Station. It was a square plan, two-story mansard roof building with a central projecting three-story tower in a simply decorated second empire style.'
+    caption: 'Detail of a Sanborn Insurance Map from 1889. Three Ones in the upper right corner.'
+    sizes: '1465, 900'
   - url: three-ones-ppl-undated-exchange-place.jpg
     caption: 'Photo from the east looking west across Exchange Place, showing the Three Ones fire station, Burnside Monument, the old Union Depot, City Hall, and the Cove — Rhode Island Collection, Providence Public Library'
+    sizes: '1440, 922'
   - url: central-fire-1895c-three-ones.jpg
     caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library, circa 1895'
-  #- url: central-fire-1900c-three-ones.jpg
-  #  caption: 'Providence Journal file photo, circa 1900'
+    sizes: '1231, 900'
   - url: central-fire-1901c-gilbane-construct.jpg
     caption: 'Construction of the Central Fire Station. Part of the Gilbane collection'
+    sizes: '448, 278'
   - url: central-fire-1902c-profile.jpg
     alt: 'A large, square plan, three-story firehouse with a central tall tower equal to the height of the lower three stories. The first floor has many double-door, full height openings for fire wagons while the second and third story windows have ornamentation made of alternating courses of granite and brick topped by ornamental granite lintels comprised of alternating quoins.'
+    sizes: '1001, 790'
   - url: central-fire-1903c-views-of-prov.jpg
     caption: 'Detail from a page out of “Views of Providence,” circa 1903'
+    sizes: '950, 900'
   - url: central-fire-1906c-postcard.jpg
     caption: 'Rare photo from a postcard without the Federal Court in place (built 1906-1908)'
+    sizes: '1024, 489'
   - url: central-fire-1908c-with-union.jpg
     caption: 'This postcard labels the current Federal Court House as only a Post Office. This building started as the Providence Post Office, Court House and Custom House until a new post office was constructed.'
+    sizes: '1409, 900'
   - url: central-fire-1910c-and-court-house.jpg
     caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library, circa 1910'
+    sizes: '1425, 900'
   - url: central-fire-1910c-firemen-ppl.jpg
     caption: 'John Hutchins Cady Research Scrapbooks Collection, Providence Public Library, circa 1910'
+    sizes: '1411, 900'
   - url: central-fire-1910c-lib-congress.jpg
     caption: 'Detail from a photo of Exchange Place, Library of Congress, circa 1910'
+    sizes: '1200, 900'
   - url: central-fire-1918c-hospital-trust.jpg
     caption: 'Postcard view circa 1918 with the Hospital Trust new tower in the background (pale yellow)'
+    sizes: '1420, 900'
+  #- url: central-fire-1886c-three-ones.jpg
+  #  caption: 'Providence Journal file photo, circa 1886. The city was celebrating the 250th anniversary of its founding.'
   #- url: central-fire-1924c-demonstration.jpg
   #  caption: 'Providence Journal file photo, circa 1924'
 
@@ -100,6 +110,8 @@ It is tempting to think that the first central fire station, the “Three Ones�
     Sanborn Map, 1889, from <a href="//repository.library.brown.edu/studio/item/bdr:212114/" target="_blank" title="Opens in a new window">the collection of Brown University</a>. Upper left shows City Hall, with the old Union Station and the Cove encroaching into what is now Exchange Place. The “Three Ones” (funnily enough, just under the large “1” in the upper right) is drawn over water in the location of what would become the Federal Court building in 1908. 
   </figcaption>
 </figure>
+
+***
 
 _From Robert O. Jones, Architectural Historian, RIHPHC_
 

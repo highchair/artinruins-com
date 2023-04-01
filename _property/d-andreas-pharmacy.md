@@ -33,21 +33,31 @@ thumbnail: d-andreas-jh-2007-04-01.jpg
 
 images:
   - url: d-andreas-armory-2006-01.jpg
-    caption: 'Photo by the Armory Revival Company'
     alt: 'A one story, yellow brick commercial storefront with large plate glass windows, an exit door on the street-facing side, and a chamfered corner main entrance at the corner of Broadway and Knight streets'
+    caption: 'Photo by the Armory Revival Company'
+    sizes: '1440, 900'
   - url: d-andreas-armory-2006-02.jpg
     caption: 'Photo by the Armory Revival Company'
+    sizes: '1200, 900'
   - url: d-andreas-jh-2007-04-01.jpg
+    sizes: '1440, 900'
   - url: d-andreas-jh-2007-04-02.jpg
+    sizes: '1440, 900'
   - url: d-andreas-jh-2007-04-03.jpg
+    sizes: '1200, 900'
   - url: d-andreas-jh-2007-04-04.jpg
+    sizes: '1200, 900'
   - url: d-andreas-jh-2007-04-05.jpg
+    sizes: '1200, 900'
   - url: d-andreas-armory-2008-04-01.jpg
     caption: 'Photo by the Armory Revival Company'
+    sizes: '1440, 900'
   - url: d-andreas-armory-2008-04-02.jpg
     caption: 'Photo by the Armory Revival Company'
+    sizes: '1200, 900'
   - url: d-andreas-armory-2008-04-03.jpg
-    caption: 'Photo by the Armory Revival Company — Garage (now offices) behind D’Andreas Pharmacy was a drive through for the hearse when 334 used to be a Funeral Home. 340 and 334 had been joined together by an addition which connected the embalming room (in what had been a kitchen in 340-B) with the larger funeral home at 334. Armory Revival closed off the connection and added sprinklers and fire alarm to both buildings. (Explanation provided by Mark van Noppen)'
+    caption: 'Photo by the Armory Revival Company — Garage (now offices) behind D’Andreas Pharmacy was a drive through for the hearse when 334 used to be a Funeral Home. 340 and 334 had been joined together by an addition which connected the embalming room (in what had been a kitchen in 340-B) with the larger funeral home at 334. Armory Revival closed off the connection and added sprinklers and fire alarm to both buildings. (Explanation provided by Mark van Noppen)'
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions by the Armory Revival Company'
 

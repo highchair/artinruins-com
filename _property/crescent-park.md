@@ -1,6 +1,6 @@
 ---
 title: "Crescent Park"
-slug: 'crescent-park'
+slug: crescent-park
 aka:
 date-modified: 2020-09-11 14:52
 
@@ -16,7 +16,7 @@ designers: [ 'George B. Boyden' ]
 lists: [ 'Did You Know?', 'National Register of Historic Places' ]
 tags: [ 'Amusement Park' ]
 
-NRHP-ref-number: 76000045
+NRHP-ref-number: '76000045'
 added-to-NRHP: 'April 21, 1976'
 
 address: '700 Bullocks Point Avenue, Riverside, East Providence, RI'
@@ -31,54 +31,77 @@ thumbnail: crescent-park-studio-c1900.jpg
 
 images:
   - url: crescent-park-sanborn-1899.jpg
-    caption: 'East Providence Plate 194, 1899 Sanborn Insurance Map'
     alt: 'A large amusement park that evolved over time from a mostly wooded park to one with a long midway full of rides, games, food stands, and attractions. A wooden carousel, roller coaster, dance hall, and other rides changed with the tastes and times of the local thrill-seekers.'
+    caption: 'East Providence Plate 194, 1899 Sanborn Insurance Map'
+    sizes: '1031, 1024'
   #- url: crescent-park-pier-walk-c1900-projo.jpg
   #  caption: 'View of people walking down the pier to the ferryboats circa 1900, courtesy the Providence Journal.'
   - url: crescent-park-pier-c1900.jpg
     caption: 'Steamboat landing on the end of the pier, circa 1900.'
+    sizes: '1440, 900'
   - url: crescent-park-steeplechase-c1900.jpg
-    caption: 'Early postcard photograph of crowds on the midway with the Steeplechase building to the left, circa 1900.'
+    caption: 'Early postcard photograph of crowds on the midway with the Steeplechase building to the left, circa 1900.'
+    sizes: '1170, 869'
   - url: crescent-park-studio-c1900.jpg
     caption: 'Crescent Park Studio on the left with Toboggan Races advertised on the right, circa 1900.'
+    sizes: '1415, 900'
   - url: crescent-park-looff-family-1905.jpg
     caption: 'The Looff family pose in front of the Crescent Park carousel, 1905.'
+    sizes: '1441, 900'
   - url: crescent-park-boy-in-boat-c1910.jpg
     caption: 'A boy poses in the Crescent Park boat painting, 1910.'
+    sizes: '1200, 735'
   - url: crescent-park-chutes-c1910.jpg
     caption: 'A postcard photograph of the “Shooting the Chutes” ride, only 5¢ roundtrip, circa 1910. '
+    sizes: '816, 509'
   - url: crescent-park-bandstand-c1910.jpg
     caption: 'The Bandstand in front with old Dining Pavilion in the back, before the Shore Dinner Hall was built, circa 1910.'
+    sizes: '1411, 900'
   - url: crescent-park-mccuskers-c1910.jpg
     caption: 'Exterior view of a portion of the park with the Looff Carousel on the left and McCusker’s Block Island Taffy on the right, circa 1910.'
+    sizes: '1414, 900'
   - url: crescent-park-sanborn-1920.jpg
     caption: 'Sanborn Map Company, “Insurance maps of Providence, Rhode Island V. 6” (1920). Sanborn Maps for the State of Rhode Island. Brown Digital Repository. Brown University Library.'
+    sizes: '1219, 1440'
   - url: crescent-park-amusement-st-c1920.jpg
     caption: '“Amusement Street” with “Rivers of Venice” on the right, circa 1920.'
+    sizes: '1440, 900'
   - url: crescent-park-bamboo-slide-c1920.jpg
     caption: 'The Bamboo Slide ride with newly built Alahambra music hall in back.'
+    sizes: '1403, 900'
   - url: crescent-park-zephyr-c1940.jpg
     caption: 'An exterior view of the Zephyr rollercoaster circa 1940s (?)'
+    sizes: '1440, 900'
   - url: crescent-park-city-hotel-jail-c1950.jpg
     caption: 'View of visitors in from of the “1865” wild-west themed section of the park circa 1950s'
+    sizes: '1440, 900'
   - url: crescent-park-aerial-c1955.jpg
     caption: 'Aerial photo of the park circa 1955 looking towards the coastline. A wooden rollercoaster stands in the lower left.'
+    sizes: '1280, 1024'
   - url: crescent-park-shore-dinner-c1950.jpg
     caption: 'Interior view of the shore dinner hall from the 1950s'
+    sizes: '1131, 900'
   - url: crescent-park-shore-dinner-c1960.jpg
     caption: 'A typical shore dinner meal, with clam cakes, lobster, watermelon, corn on the cob, clams, and other fixings'
+    sizes: '1023, 642'
   - url: crescent-park-midway-c1960.jpg
     caption: 'View of the visitors walking the midway, circa 1960s'
+    sizes: '1034, 684'
   - url: crescent-park-flying-fish-c1960.jpg
     caption: 'Taking down the Flying Fish wooden rollercoaster circa 1960.'
+    sizes: '564, 827'
   - url: crescent-park-alhambra-c1960.jpg
     caption: 'The exterior of the Alhambra ballroom circa 1960.'
+    sizes: '1440, 900'
   - url: crescent-park-aerial-1965.jpg
     caption: 'Aerial view of the park from a 1965-era pamphlet, with the shoreline at the bottom.'
+    sizes: '1647, 1024'
   - url: crescent-park-carousel-c2010.jpg
     caption: 'The still-operational Looff Carousel in its hippodrome-style building enclosure.'
+    sizes: '1358, 900'
   - url: crescent-park-photo-studio-c2010.jpg
     caption: 'The old Crescent Park studio has been re-created by Ed Serowik at the still-operating carousel.'
+    sizes: '1024, 664'
 
 imagescredit: 'Postcards from various auction sites and Google Image Search. Sanborn Map from the <a href="//repository.library.brown.edu/studio/item/bdr:212193/" target="_blank">Brown University research collection</a>.'
 ---

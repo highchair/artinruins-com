@@ -26,30 +26,45 @@ longitude: '-71.3794153'
 gmap: "https://www.google.com/maps/place/100+Roddy+Ave,+Attleboro,+MA+02703/@41.8941807,-71.3794153,17z/data=!3m1!4b1!4m5!3m4!1s0x89e45ccbdd52771d:0x18cd477790cc254!8m2!3d41.8941807!4d-71.3772266"
 
 meta: ""
-excerpt: "A 300ft long, 4-story brick mill off the side of Interstate 95 heading north into Massachusetts"
+excerpt: "A former 300ft long, 4-story brick mill off the side of Interstate 95 heading north into Massachusetts"
 
 thumbnail: cumb-plastics-jh-2015-09-05.jpg
 
 images:
   - url: cumb-plastics-historic-unknown-01.jpg
-    caption: 'Historic engraving of the complex, date unknown'
     alt: 'A long, wide red brick mill located along train tracks consisting of columns and columns of windows with a connected administration building that features a decorative spinerette tower'
+    caption: 'Historic engraving of the complex, date unknown'
+    sizes: '640, 447'
   - url: cumb-plastics-historic-unknown-02.jpg
     caption: 'Historic photo of the complex, date unknown'
+    sizes: '1600, 891'
   - url: cumb-plastics-ppl-postcard-01.jpg
     caption: 'Postcard of the Howard & Bullough American Machine Company building in Attleboro, MA. Railroad tracks run in the foreground of the postcard'
+    sizes: '1440, 900'
   - url: cumb-plastics-jh-2015-08-01.jpg
+    sizes: '1867, 800'
   - url: cumb-plastics-jh-2015-08-02.jpg
+    sizes: '1867, 800'
   - url: cumb-plastics-jh-2015-09-01.jpg
+    sizes: '1600, 900'
   - url: cumb-plastics-jh-2015-09-02.jpg
+    sizes: '1600, 900'
   - url: cumb-plastics-jh-2015-09-03.jpg
+    sizes: '1600, 900'
   - url: cumb-plastics-jh-2015-09-04.jpg
+    sizes: '1600, 900'
   - url: cumb-plastics-jh-2015-09-05.jpg
+    sizes: '1600, 900'
   - url: cumb-plastics-jh-2015-09-06.jpg
+    sizes: '768, 924'
   - url: cumb-plastics-jh-2015-09-07.jpg
+    sizes: '1600, 900'
   - url: cumb-plastics-jh-2015-12-01.jpg
+    sizes: '1600, 900'
   - url: cumb-plastics-jh-2015-12-02.jpg
+    sizes: '1600, 900'
   - url: cumb-plastics-jh-2015-12-03.jpg
+    sizes: '1867, 800'
 
 imagescredit: 'Postcard from the <a href="//provlibdigital.org/islandora/object/islandora%3A16116">Edward Ozog Photograph Collection</a>, Providence Public Library Digital Collection'
 ---

@@ -34,18 +34,28 @@ thumbnail: coro-jh-2004-07-01.jpg
 
 images:
   - url: coro-habs-1985-01.jpg
-    caption: 'Photo by Rick Greenwood, 1985, for the Providence Jewelry Manufacturing Historic District nomination form'
     alt: 'The older portion of the campus is a U-shaped, Art-Deco embellished yellow brick and sandstone trimemd building with large commercial windows. The ornamentation is simple and slight, preferring to highlight the modern construction techniques which allowed the windows to be much larger and the structural surface area of the building much smaller. A similarly-designed but less ornamented wing was built 20 years later to the west and connecting to the main structure.'
+    caption: 'Photo by Rick Greenwood, 1985, for the Providence Jewelry Manufacturing Historic District nomination form'
+    sizes: '1600, 800'
   - url: coro-jh-2004-07-01.jpg
+    sizes: '1200, 900'
   - url: coro-jh-2004-07-02.jpg
+    sizes: '1200, 900'
   - url: coro-jh-2004-07-03.jpg
+    sizes: '1200, 900'
   - url: coro-jh-2004-07-04.jpg
+    sizes: '1200, 900'
   - url: coro-jh-2004-07-05.jpg
+    sizes: '1200, 900'
   - url: coro-jh-2004-07-06.jpg
+    sizes: '1200, 900'
   - url: coro-jh-2004-07-07.jpg
+    sizes: '1200, 900'
   - url: coro-jh-2004-07-08.jpg
+    sizes: '1200, 900'
   - url: coro-goog-2021-01.jpg
     caption: '167 Point Street from a Google satellite capture circa 2021'
+    sizes: '1440, 900'
 
 mostrecentimage: 2004-07-01
 

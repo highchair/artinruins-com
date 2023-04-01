@@ -36,34 +36,55 @@ thumbnail: jwu-jh-2020-03-01.jpg
 images:
   - url: dm-watkins-unknown-01.jpg
     caption: 'Photo (scan of a print) from Facebook user James Taylor, unknown date'
+    sizes: '1368, 818'
   - url: rolo-jh-2006-07-01.jpg
     alt: 'A two-story, red brick pier and spandrel manufacturing building from the 1920s with typical ornamentation and large commercial windows. Two sides of the building have a higher degreee of ornamentation in the form of projecting brick corbels and flat columns along with a restored sandstone transom spelling out “WATKINS” above the main entrance.'
+    sizes: '1200, 900'
   - url: rolo-jh-2006-07-02.jpg
+    sizes: '768, 924'
   - url: rolo-jh-2006-07-03.jpg
+    sizes: '1200, 900'
   - url: rolo-jh-2006-07-04.jpg
+    sizes: '1200, 900'
   - url: rolo-jh-2006-07-05.jpg
+    sizes: '1200, 900'
   - url: rolo-jh-2006-07-06.jpg
+    sizes: '1200, 900'
   - url: rolo-jh-2006-07-07.jpg
+    sizes: '1200, 900'
   - url: rolo-jh-2006-07-08.jpg
+    sizes: '1200, 900'
   - url: rolo-jh-2006-07-09.jpg
+    sizes: '1200, 900'
   - url: rolo-jh-2006-07-10.jpg
+    sizes: '1200, 900'
   - url: jwu-ps-2009-12-01.jpg
     caption: 'Photo by Paul Shelasky, December 2009'
+    sizes: '1200, 843'
   - url: jwu-ps-2009-12-02.jpg
     caption: 'Photo by Paul Shelasky, December 2009'
+    sizes: '720, 1013'
   - url: jwu-ps-2009-12-03.jpg
     caption: 'Photo by Paul Shelasky, December 2009'
+    sizes: '1200, 843'
   - url: jwu-ps-2009-12-04.jpg
     caption: 'Photo by Paul Shelasky, December 2009'
+    sizes: '1200, 843'
   - url: jwu-ps-2009-12-05.jpg
     caption: 'Photo by Paul Shelasky, December 2009'
+    sizes: '720, 1013'
   - url: jwu-ps-2009-12-06.jpg
     caption: 'Photo by Paul Shelasky, December 2009'
+    sizes: '1200, 843'
   - url: jwu-ps-2009-12-07.jpg
     caption: 'Photo by Paul Shelasky, December 2009'
+    sizes: '1200, 843'
   - url: rolo-jh-2010-01-01.jpg
+    sizes: '1200, 900'
   - url: rolo-jh-2010-01-02.jpg
+    sizes: '1200, 900'
   - url: rolo-jh-2010-01-03.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2010-01-01
 
@@ -88,7 +109,7 @@ The spectacular rehabilitation, executed by Walsh Brothers, preserves original w
 This building is not listed as part of the Jewelry Manufacturing Historic District — neither the original nomination nor the district expansion after the interstate 195 was removed. The building sits outside the main district.
 
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 The rectangular two-story, flat-roof, brick building has a nine-bay façade, with an offset entrance recessed and comprised of a glass-and-metal door with sidelights. “Rolo Building” appears above this entrance. Three pedestrian entrances are offset on Foster Street, set below a hoist and pulley system at the second story. The building is embellished with brick corbelling at the cornice, projecting brick piers articulating each bay on the façade, a granite beltcourse and granite sills. Both the Foster and Pine Street elevations are highly ornate while the side elevation is devoid of architectural ornamentation. Fenestration is comprised of single, paired, and tripled rectangular, 4/4 and 6/6 sash with transoms. A chainlink fence surrounds the parking lot.
 
