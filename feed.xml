@@ -17,7 +17,7 @@
     <sy:updateFrequency>{{ site.feed_update_frequency | default: 1 | xml_escape }}</sy:updateFrequency>
     <link>{{ site.prod_url }}</link>
     <atom:link href="{{ site.prod_url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
-    {% for prop in items limit: 12 %}
+    {% for prop in items limit: 20 %}
       {%- if forloop.first -%}
     <lastBuildDate>{{ prop.date-modified | date_to_rfc822 }}</lastBuildDate>
       {%- endif -%}
