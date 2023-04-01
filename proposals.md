@@ -19,7 +19,13 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 ## On The Boards
 
 
-### Fane Tower will not go away
+### Fane Tower is Dead
+
+**Update March, 2023**
+
+After six long years, the fight against Fane Tower is finally over! On March 10, the I-195 District Commission announced that the Fane Tower proposal was scrapped, due to “risk factors outside of [the Fane Organization]’s control.” The proposal was considering a new design and yet another deadline extension in March. This outcome could not have been achieved without the tireless efforts of community organizations, ward representatives, neighborhood associations, and countless community members who came out for hearing after hearing to oppose this outsized and inappropriate proposal.
+
+**Update February, 2023**
 
 On Wednesday, February 15, the Fane Organization presented design adjustments presented to the I-195 Commission in response to neighborhood and commission concerns. These concerns included adverse wind impacts, an unsatisfactory tower design, podium design, and site activation plan. The Fane Tower design team stated that the tower’s design was meant to be a “Tower in the park,” and therefore did not need to align with the abutting neighborhoods’ architectural fabric. They also showcased some minimal design interventions to combat adverse wind impacts and site activation challenges. A decision regarding approval of the new design and whether the Fane Organization will be granted yet another extension will occur at the March 15th Commission meeting. The Providence Preservation Society has released [a letter detailing their objections](//ppsri.org/wp-content/uploads/2023/02/2023-02-22-Fane-Tower-Comments.pdf){:target="_blank"}.
 
