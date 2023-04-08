@@ -2,7 +2,8 @@
 title: "Engine Company No. 21"
 slug: humboldt-fire-station
 aka: 'Humboldt Fire Station'
-date-modified: 2022-03-27 12:00
+date-modified: 2023-04-01 12:00
+update: 'Added a recent photo of the rear of the building taken from Elton Street'
 
 built: '1906'
 demolition:
@@ -49,8 +50,10 @@ images:
     sizes: '1200, 900'
   - url: humboldt-21-jh-2021-09-08.jpg
     sizes: '768, 924'
+  - url: humboldt-21-jh-2023-03-01.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2021-09-01
+mostrecentimage: 2023-03-01
 
 imagescredit:
 

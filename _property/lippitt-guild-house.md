@@ -2,7 +2,9 @@
 title: "Lippitt-Guild House"
 slug: lippitt-guild-house
 aka: 'Peter Green House, Brown University History Department'
-date-modified: 2022-01-18 17:00
+date-modified: 2023-04-01 14:00
+update: 'Added a recent photo of the southern Angell Street façade'
+update-image: peter-green-jh-2023-03-01.jpg
 
 built: '1868'
 demolition:
@@ -29,7 +31,7 @@ gmap: "https://www.google.com/maps/place/Peter+B.Green+House,+79+Brown+St,+Provi
 meta: ""
 excerpt: "This 300-ton house was rotated and moved 450 feet up Olive Street in one piece over the course of three days"
 
-thumbnail: peter-green-jh-2007-10-01.jpg
+thumbnail: peter-green-jh-2023-03-01.jpg
 
 images: 
   - url: house-move-01.jpg
@@ -65,8 +67,10 @@ images:
     sizes: '480, 722'
   - url: peter-green-jh-2007-10-01.jpg
     sizes: '1200, 900'
+  - url: peter-green-jh-2023-03-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2007-10-01
+mostrecentimage: 2023-03-01
 
 imagescredit: 'Most photos contributed by Frank Mullin'
 

@@ -2,7 +2,8 @@
 title: "Holy Name School"
 slug: holy-name-school
 aka: "Chapel Hill East"
-date-modified: 2022-08-29 12:00
+date-modified: 2023-04-01 13:00
+update: 'Added a recent photo of the east façade taken from Mount Hope Avenue'
 
 built: 'between 1920–1937'
 demolition:
@@ -16,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: []
-tags: [ 'Former/Current Schools' ]
+tags: [ 'Former/Current Schools', 'Yellow Brick' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -67,8 +68,10 @@ images:
     sizes: '1440, 900'
   - url: holy-name-jh-2022-05-01.jpg
     sizes: '1440, 900'
+  - url: holy-name-jh-2023-03-01.jpg
+    sizes: '1600, 900'
 
-mostrecentimage: 2022-05-01
+mostrecentimage: 2023-03-01
 
 imagescredit:
 
@@ -141,7 +144,7 @@ The Providence Diocese closed the schools because of low enrollment, continuing 
 
 Holy Name’s enrollment climbed to 150 this year and St. Mary’s had 145 students. […]
 
-At Holy Name, Mezzanotte said 40 percent to 50 percent of the students are signed up to go to other Catholic schools, including St. Mary's in Pawtucket, St. Patrick's and St. Ann's in Providence, and St. Matthew's in Cranston. Linakas said all but 1 of her 18 first graders are enrolling in other Catholic schools. Linakas is headed for Mercymount Country Day School in Cumberland. […]
+At Holy Name, Mezzanotte said 40 percent to 50 percent of the students are signed up to go to other Catholic schools, including St. Mary’s in Pawtucket, St. Patrick’s and St. Ann’s in Providence, and St. Matthew’s in Cranston. Linakas said all but 1 of her 18 first graders are enrolling in other Catholic schools. Linakas is headed for Mercymount Country Day School in Cumberland. […]
 
 Mezzanotte said the children and their families have been understanding.
 
