@@ -2,7 +2,9 @@
 title: "Emblem 125"
 slug: emblem-125
 aka:
-date-modified: 2022-01-10 12:00
+date-modified: 2023-04-12 12:00
+update: 'Added four recent photos from March 2023 of the almost completed structure'
+update-image: emblem-125-jh-2023-03-01.jpg
 
 built: '2020–2022'
 parcel: '28'
@@ -56,8 +58,17 @@ images:
     sizes: '1440, 900'
   - url: emblem-125-jh-2021-09-03.jpg
     sizes: '1200, 900'
+  - url: emblem-125-jh-2023-03-01.jpg
+    sizes: '1440, 900'
+  - url: emblem-125-jh-2023-03-02.jpg
+    sizes: '1600, 900'
+  - url: emblem-125-jh-2023-03-03.jpg
+    sizes: '1440, 900'
+  - url: emblem-125-jh-2023-03-04.jpg
+    sizes: '740, 1036'
+  
 
-mostrecentimage: 2021-12-01
+mostrecentimage: 2023-03-01
 
 imagescredit: 'Renderings taken from the Shawmut Construction and 195 District websites'
 
