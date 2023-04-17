@@ -115,22 +115,25 @@
   &__text-columns {
     column-width: 280px;
     column-gap: 1rem;
-    padding: 1rem;
-    
+
     p + p {
       margin-top: 1rem;
     }
   }
-  
+
   // Spacing
+  // .u__p--0
+  // .u__px--0
   &__p {
+    &--0 { padding: 0; }
     &t--0, &x--0 { padding-top: 0 !important; }
     &b--0, &x--0 { padding-bottom: 0 !important; }
     &l--0, &y--0 { padding-left: 0 !important; }
     &r--0, &y--0 { padding-right: 0 !important; }
   }
-  
+
   &__m {
+    &--0 { margin: 0; }
     &t--0, &x--0 { margin-top: 0 !important; }
     &b--0, &x--0 { margin-bottom: 0 !important; }
     &l--0, &y--0 { margin-left: 0 !important; }

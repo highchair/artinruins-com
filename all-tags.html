@@ -23,7 +23,7 @@ sitemap:
       <h2 class="all-tags__title u__mt--0">{{ pretty_tags[forloop.index] }}</h2>
     {%- for thispage in pages -%}
       {%- assign collection = site.property | where: tag, thispage.category -%}
-      {%- if forloop.first -%}<ul class="u__list__unstyled all-tags__list all-tags__list--{{ tag }}">{%- endif -%}
+      {%- if forloop.first -%}<ul class="u__list__unstyled all-tags__list all-tags__list--{{ tag }} u__text-columns u__p--0">{%- endif -%}
       <li><a class="all-tags__list__group" href="{{ '/' | relative_url }}{{ thispage.permalink }}"><span>{{ thispage.category }}</span> <span>{{ collection.size }}</span></a></li>
       {%- if forloop.last -%}</ul>{%- endif -%}
     {%- endfor -%}

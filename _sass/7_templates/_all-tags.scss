@@ -9,36 +9,40 @@
 //</div>
 
 /*body*/.all-tags {
-  
+
   &__wrapper {
-    
+
     h2 + h3,
     ul + h3 {
       padding-top: $vertical-rhythm;
     }
   }
-  
+
   &__list {
     padding: ($vertical-rhythm/2) 0;
-    
+
     li {
       border-bottom: 2px dotted palette('brand-orange');
       margin-bottom: 0.25rem;
     }
-    
+
     &__group {
       display: flex;
       align-items: flex-start;
       justify-content: space-between;
-      
+
       span {
         background-color: $white;
         display: inline-block;
         margin-bottom: -2px;
         padding: 1px 0.125rem;
+
+        + span {
+          white-space: nowrap;
+        }
       }
     }
-    
+
     // Make few of these lists go to two columns
     &--decade,
     &--date-added,
