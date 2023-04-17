@@ -1,6 +1,16 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: american-screw-co
+  person: 'James Harris'
+  date: '2023-04-15'
+  content: 'My grandfather James M. Harris Sr. Was at one time a prominent figure with the American Screw Company. Can you tell me more??'
+
+- property: quonset-point-naval-base
+  person: 'Marc Jacob'
+  date: '2023-04-08'
+  content: 'Quonset Point NAS was my first duty station when I joined the Navy back in 1972. I was working as a Aircraft  Crash & Rescue Firefighter. I loved the Base and Area in Rhode Island.'
+
 - property: fram-company-headquarters
   person: 'Gail Blain'
   date: '2023-03-31'

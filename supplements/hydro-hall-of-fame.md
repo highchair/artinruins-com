@@ -51,28 +51,28 @@ As fuel costs escalated following the 1973 oil embargo, the utility renewed its 
 
 The rehabilitation project included the installation of two modern 850-<abbr title="kilowatt">kW</abbr> generators. Operation of the plant is now automatic and can be controlled either from control panels in the station or at Blackstone Valley Electric’s Operations Center eight miles away in Lincoln. The dreaded cleaning of the trash racks has been automated, too.
 
-<div class="u__text-columns u__bg__light">
+<div class="u__text-columns o__tldr">
   <p><b>General Information</b><br />
-  <i>Location:</i> On the west side of the Blackstone River in downtown Pawtucket, Rhode Island<br />
-  <i>Owner:</i> Blackstone Valley Electric Company, Lincoln, Rhode Island<br />
-  <i>Capacity:</i> 1.7 MW<br />
-  <i>Head:</i> 16.53 feet<br />
-  <i>Expected Annual Generation:</i> 7,200 megawatt-hours<br />
-  <i>On-Line Date:</i> May 1896</p>
+    <i>Location:</i> On the west side of the Blackstone River in downtown Pawtucket, Rhode Island<br />
+    <i>Owner:</i> Blackstone Valley Electric Company, Lincoln, Rhode Island<br />
+    <i>Capacity:</i> 1.7 MW<br />
+    <i>Head:</i> 16.53 feet<br />
+    <i>Expected Annual Generation:</i> 7,200 megawatt-hours<br />
+    <i>On-Line Date:</i> May 1896</p>
   
   <p><b>Equipment</b><br />
-  <i>Turbines</i> (2 units) Inclined Kaplan-type. Manufactured by Yoest-Alpine<br />
-  200 rpm<br />
-  <i>Generators</i> (2 units) General Electric induction generators<br />
+    <i>Turbines</i> (2 units) Inclined Kaplan-type. Manufactured by Yoest-Alpine<br />
+    200 rpm<br />
+    <i>Generators</i> (2 units) General Electric induction generators<br />
   3-phase, 4160 V</p>
   
   <p><b>Construction</b><br />
-  <i>Intake</i> 17.5-foot-dlameter, brick-lined penstock<br />
-  <i>Draft tube</i> 10-foot-diameter, mild steel tube<br />
-  <i>Powerhouse</i> Brick and granite, 175 feet by 90 feet, virtually unchanged from original construction</p>
-  
+    <i>Intake</i> 17.5-foot-dlameter, brick-lined penstock<br />
+    <i>Draft tube</i> 10-foot-diameter, mild steel tube<br />
+    <i>Powerhouse</i> Brick and granite, 175 feet by 90 feet, virtually unchanged from original construction</p>
+
   <p><b>Transmission</b><br />
-  4, 160-volt lines to distribution feeders in Pawtucket</p>
+    4, 160-volt lines to distribution feeders in Pawtucket</p>
 </div>
 
 Today the plant generates 7,200 megawatt-hours of electricity annually, displacing about 10,000 barrels of oil per year. The plant’s primary role is to provide power at peak hours of electrical demand while contributing to Blackstone Valley Electric’s efforts to diversify its fuel mix.

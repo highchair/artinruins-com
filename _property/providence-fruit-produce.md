@@ -4,10 +4,10 @@ slug: providence-fruit-produce
 aka: "Providence Fruit Warehouse, Tourtellot & Co., Feinberg & Co."
 date-modified: 2020-07-17 16:45
 
-built: 1929
-demolition: 2008
+built: '1929'
+demolition: '2008'
 decade: '1920-1929'
-date-added: 2002
+date-added: '2002'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
@@ -198,14 +198,14 @@ Timeline of the Providence Fruit and Produce Warehouse
 1998, acquired by the State DOT
 : Cost of $14.1 million to acquire the building and surrounding lands. Care was taken to loop the Mall’s off ramp around the building. As state/federal money purchased a National Register Structure, they could not knock it down completely. Instead, a section about 100 feet long was lopped off the end of the structure to make room for the off ramp. “The state bought the building from Amtrak… and evicted the remaining businesses. It held the property for six years while it debated what to do with it — either knock it down or sell it — and the property deteriorated, becoming a haven for the homeless and a draw for graffiti artists." _(Providence Journal, Jan 12)_
 
-2005, Suspicious Fire investigated
-: “Firefighters doused a smoky, smelly and suspicious fire inside the old farmer’s market building on Harris Avenue last evening. Nobody was hurt, which took about 20 minutes to put out, said fire Chief David Costa. The shuttered, state-owned building has no electricity, Costa said. He said it was ‘more than likely’ that somebody had caused the fire. It burned some of the contents of the concrete building, such as old pallets and crates, he said.” _(Providence Journal, April 11)_
-
 2004, Spring
 : State and DOT put the building and the land out for a Public Bid “inviting development proposals so long as they incorporated the existing building into any new design.” _(Providence Journal, Jan 15)_
 
 2004, July 8
 : “Carpionato responded to the request with a $4.5-million bid, and on July 8, 2004, proposed a Quincy Market-style development featuring dozens of small shops. The state agreed in principle to the design, and consented to sell the building to Carpionato for $10 million less than the $14.1-million price it had paid to Amtrak seven years before. The reason, state officials said, was that half of the property had been sliced off to allow for the offramp construction. The other reason was that forcing the buyer to re-use the old building clearly reduced the value of the property.” _(Providence Journal, Jan 12)_
+
+2005, Suspicious Fire investigated
+: “Firefighters doused a smoky, smelly and suspicious fire inside the old farmer’s market building on Harris Avenue last evening. Nobody was hurt, which took about 20 minutes to put out, said fire Chief David Costa. The shuttered, state-owned building has no electricity, Costa said. He said it was ‘more than likely’ that somebody had caused the fire. It burned some of the contents of the concrete building, such as old pallets and crates, he said.” _(Providence Journal, April 11)_
 
 2005, Carpionato purchases building
 : In a $4.5 million dollar bid, the State agreed to sell the structure to a local developer (for a $10 million loss, plus the cost of constructing the new off-ramp and demolishing a portion of the building, while repairing any structural damage that might have caused). The State was under the impression, and the Request for Bids/Proposals specified that the building be reused, not demolished. Carpionato’s plans included parking and a glass canopy off the back of the structure, with a mix of residential and retail. _(Renderings in our image gallery)_

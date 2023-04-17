@@ -149,7 +149,7 @@ The redevelopment of South Street Landing took almost 30 years. We present the h
 : A $1.5 million dollar exterior renovation project was completed to ensure the building was weather tight and ready for interior renovations. 
 
 2004
-: As many as 19 businesses and cultural organizations join a coalition of member groups in developing the proposed Heritage Harbor Museum. It also became one of the first twelve museums in the Smithsonian Affiliates program, which means the museum would have access to the Smithsonian’s 140 million artifacts for temporary exhibitions.[^2] Despite this positivity and enthusiasm, the museum never will not open here. 
+: As many as 19 businesses and cultural organizations join a coalition of member groups in developing the proposed Heritage Harbor Museum. It also became one of the first twelve museums in the Smithsonian Affiliates program, which means the museum would have access to the Smithsonian’s 140 million artifacts for temporary exhibitions.[^2] Despite this positivity and enthusiasm, the museum never opens. 
 
 2005
 : [Struever Bros. Eccles & Rouse]({% link designer/sber.html %}) (<span class="abbr">SBER</span>) was selected to oversee the redevelopment of Heritage Harbor. The plan was to create a mix of office, retail space, and 40 condominium units, as well as exhibition space for <span class="abbr">HHM</span>. The project was estimated to cost about $137 million (it started at $50m and some reporting quoted $150m) with new decorative smokestacks added to the top of the building, rising 128 feet above it. <span class="abbr">HHM</span> gave Struever Brothers title to the property in exchange for “turn-key” development of the museum space.
