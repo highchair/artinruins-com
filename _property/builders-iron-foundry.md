@@ -2,7 +2,9 @@
 title: "Builder’s Iron Foundry"
 slug: builders-iron-foundry
 aka: 'Norcross Brother Stone Cutting, B-I-F Industries, Providence Wire, Eastern Wire'
-date-modified: 2022-02-12 17:00
+date-modified: 2023-04-22 14:00
+update: 'Added a photo submission from Lou Bourque, who found a Builders Iron Foundry machine in Arizona'
+update-image: builders-machine-lb-2023-04-01.jpg
 
 built: 'before 1899'
 demolition: '2015'
@@ -33,33 +35,51 @@ thumbnail: builders-iron-goog-2011-02.jpg
 
 images:
   - url: builders-iron-goog-2011-01.jpg
-    caption: 'Google Streetview, 2011'
     alt: 'One-story, red brick structure made up of built-up adjoining structures over a period of 50 years. Some parts were steel beams and steel posts, while other newer structures were concrete block and brick-faced. In modern times, almost all window openings were bricked in, and so from the street level, it was not possible to see into the buildings. They formed a long, low wall along Sims and Kinsley streets. '
+    caption: 'Google Streetview, 2011'
+    sizes: '1440, 900'
   - url: builders-iron-goog-2011-02.jpg
     caption: 'Google Streetview, 2011'
+    sizes: '1440, 900'
   - url: builders-iron-goog-2011-03.jpg
     caption: 'Google Streetview, 2012'
+    sizes: '1440, 900'
   - url: builders-iron-jh-2016-01-01.jpg
+    sizes: '1600, 900'
   - url: builders-iron-jh-2016-01-02.jpg
+    sizes: '1600, 900'
   - url: builders-iron-jh-2016-01-03.jpg
+    sizes: '1600, 900'
   - url: builders-iron-jh-2016-01-04.jpg
     caption: 'Amazingly, it looks as though steel frame multi-light windows were behind a brick wall that had enclosed the window openings'
+    sizes: '1200, 900'
   - url: builders-iron-jh-2016-01-05.jpg
+    sizes: '1600, 900'
   - url: builders-iron-jh-2016-01-06.jpg
+    sizes: '1600, 900'
   - url: 1899-builders-iron-sanborn.jpg
-    caption: 'Building in the northwest corner of Sims and Kinsley, labelled “Norcross Bros. Marble W’ks, Marble Cutting, Brick Pillars in Frame sides.” Opposite corner (northeast) of Sims and Kinsley labeled “Formerly Armington and Sims Engine Co., Vacant to be used for storage purposes.” 1899 Sanborn Insurance Map, Volume 1, Plate 15 — Library of Congress, Geography and Map Division'
+    caption: 'Building in the northwest corner of Sims and Kinsley, labelled “Norcross Bros. Marble W’ks, Marble Cutting, Brick Pillars in Frame sides.” Opposite corner (northeast) of Sims and Kinsley labeled “Formerly Armington and Sims Engine Co., Vacant to be used for storage purposes.” 1899 Sanborn Insurance Map, Volume 1, Plate 15 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 1908-builders-iron-lj-richards.jpg
     caption: 'Former Armington and Sims building now labeled “Michael J. Houlihan.” Main Builder’s Iron Foundry building labeled “Norcross Bros. Co., Stone Cutting Plant.” 1908 L.J. Richards Insurance Map, Plates 4 & 14 — WardMapsGifts.com'
+    sizes: '1440, 900'
   - url: 1920-builders-iron-sanborn.jpg
-    caption: 'Former Michael Hoilihan building now labeled as part of “Providence Steel & Iron Co.” Builder’s Iron Foundry labeled an Assembling Plant and Machine shop. 1920–1921 Sanborn Insurance Map, Volume 1, Plate 15 — Library of Congress, Geography and Map Division'
+    caption: 'Former Michael Hoilihan building now labeled as part of “Providence Steel & Iron Co.” Builder’s Iron Foundry labeled an Assembling Plant and Machine shop. 1920–1921 Sanborn Insurance Map, Volume 1, Plate 15 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 1939-builders-iron-gm-hopkins.jpg
-    caption: 'An office building is added to the northern side of the Builder’s Iron Foundry. 1939 G.M. Hopkins Insurance Map, Plates 32A and 33 — HistoricMapWorks.com'
+    caption: 'An office building is added to the northern side of the Builder’s Iron Foundry. 1939 G.M. Hopkins Insurance Map, Plates 32A and 33 — HistoricMapWorks.com'
+    sizes: '1440, 900'
   - url: 1951-builders-iron-sanborn.jpg
-    caption: 'A steel beams and post building is added to the eastern side of the Builder’s Iron Foundry. 1920–1951 Sanborn Insurance Map, Volume 1, Plate 15 — Library of Congress, Geography and Map Division'
+    caption: 'A steel beams and post building is added to the eastern side of the Builder’s Iron Foundry. 1920–1951 Sanborn Insurance Map, Volume 1, Plate 15 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 1956-builders-iron-sanborn.jpg
-    caption: '1920–1956 Sanborn Insurance Map, Volume 1, Plate 15 — Library of Congress, Geography and Map Division'
+    caption: '1920–1956 Sanborn Insurance Map, Volume 1, Plate 15 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
+  - url: builders-machine-lb-2023-04-01.jpg
+    caption: 'Builders Iron Foundry machine. Photo submission from Lou Bourque, found in Arizona'
+    sizes: '1200, 900'
 
-imagescredit: 'Contributions from Google and the Library of Congress'
+imagescredit: 'Contributions from Google, the Library of Congress, and Lou Bourque'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

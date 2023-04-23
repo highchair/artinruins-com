@@ -2,8 +2,9 @@
 title: "RI Society for the Prevention of Cruelty to Animals (RISPCA)"
 slug: rispca
 aka: 'Providence Revolving Fund'
-date-modified: 2022-01-23 13:00
-update: 'Added three new photos from Clark Schoettle’s collection'
+date-modified: 2023-04-22 13:00
+update: 'Added two new photos contributed by Chloé Hurley'
+update-image: rispca-ch-2023-02-01.jpg
 
 built: '1925'
 demolition:
@@ -53,10 +54,14 @@ images:
     sizes: '1200, 900'
   - url: rispca-jh-2007-11-01.jpg
     sizes: '1200, 900'
+  - url: rispca-ch-2023-02-01.jpg
+    sizes: '1440, 900'
+  - url: rispca-ch-2023-02-02.jpg
+    sizes: '1440, 900'
 
-imagescredit: 'Contributions from Clark Schoettle'
+imagescredit: 'Contributions from Clark Schoettle and Chloé Hurley'
 
-mostrecentimage: 2007-11-01
+mostrecentimage: 2023-02-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'

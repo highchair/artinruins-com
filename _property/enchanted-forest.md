@@ -28,7 +28,7 @@ thumbnail: enchanted-forest-kap-2009-06-01.jpg
 
 images:
   - url: enchanted-forest-fb-undated-01.jpg
-    caption: 'Photo from Facebook user Keith Elliott; undated'
+    caption: 'Photo from Facebook user Keith Elliott; undated (Possibly of a different Enchanted Forest – see the anecdotes)'
     sizes: '966, 644'
   - url: enchanted-forest-lf-2005-09-01.jpg
     caption: 'Photos by Lou Fancy'

@@ -32,17 +32,24 @@ images:
   - url: 21-euclid-jh-2020-05-01.jpg
     alt: 'A modern, boxy three story building clad in medium gray, dark grey, and red flat panel siding. Windows are modern casements and ground floor retail activates the corner of Brook and Euclid streets. An entrance for the apartments is on Euclid.'
     caption: 'The first phase of the construction went up on the lot of the former 15 Euclid Avenue, butting up against 406–410 Brook Street.'
+    sizes: '1200, 900'
   - url: 21-euclid-jh-2020-09-01.jpg
     caption: 'Steel beams go up after the demolition of 410 Brook Street for phase 2 of the 21 Euclid project.'
+    sizes: '1200, 900'
   - url: 21-euclid-jh-2022-03-01.jpg
     caption: 'Looking north-northeast from Brook Street.'
+    sizes: '1200, 900'
   - url: 21-euclid-jh-2022-03-02.jpg
     caption: 'Looking southwest from the opposite corner of Brook and Euclid.'
+    sizes: '1440, 900'
   - url: 21-euclid-jh-2022-03-03.jpg
+    sizes: '1440, 900'
   - url: 21-euclid-jh-2022-03-04.jpg
     caption: 'Looking west along Euclid Avenue towards Brook Street.'
+    sizes: '1200, 900'
   - url: 21-euclid-jh-2022-03-05.jpg
     caption: 'The apartment entrance along Euclid Avenue and southern façade.'
+    sizes: '1440, 900'
 
 mostrecentimage: 2022-03-01
 
@@ -57,13 +64,17 @@ imagescredit:
 
 This one flew under the radar right before COVID hit. There were some other things happening around Thayer Street at the time that garnered more attention, like [plans for a hotel on the corner of Brook and Angell](//www.golocalprov.com/business/angell-street-hotel-is-anything-but-smart-architecture-critic-will-morgan){:target="_blank"}, not far from this development. So this project happened before we were really aware of it. 
 
+The Providence Preservation Society did put out a notice about it in [their newsletter from January 2020](//myemail.constantcontact.com/January-Advocacy-Alert--Our-Streets-PVD--CPC--Advocacy-Week.html?soid=1102165220207&aid=-AahbwFvxJo){:target="_blank"}:
+
+> By-right demolition is proposed for the 1896 Dewey F. Adams Colonial Revival house at the corner of Brook and Euclid for mixed-use commercial and residential construction. This house contributes to the College Hill National Landmark Historic District, but is not within a local historic district — therefore demolition and design review are not required. The developer, who is seeking several waivers, last year demolished 15 Euclid Avenue. 
+
 {% comment %}
 PPS page about the “Smart Hotel”: //web.archive.org/web/20200609102848/http://ppsri.org/advocacy/current-advocacy/smart-hotel-project/
 {% endcomment %}
 
-[This project replaced two houses with parking in between](//www.google.com/maps/place/21+Euclid+Ave,+Providence,+RI+02906/@41.8287285,-71.399686,3a,90y,211.83h,92.64t/data=!3m7!1e1!3m5!1s5Lga-cIHyvwc38PJd7AxKg!2e0!5s20170901T000000!7i13312!8i6656!4m13!1m7!3m6!1s0x89e445249e6eca93:0x6ceff37cc15832da!2s21+Euclid+Ave,+Providence,+RI+02906!3b1!8m2!3d41.8285627!4d-71.3998545!3m4!1s0x89e445249e6eca93:0x6ceff37cc15832da!8m2!3d41.8285627!4d-71.3998545){:target="_blank"} for more density and no parking. In some ways, it is a win — more density is a good thing and most students don’t have or need cars, so housing without the need to clear more livable area for parking is great. The downside is the continued erosion of a historic district. This project was riding the wave of projects that had come before and set a precedent of demolition. 
+[This project replaced two houses with parking in between](//www.google.com/maps/place/21+Euclid+Ave,+Providence,+RI+02906/@41.8287285,-71.399686,3a,90y,211.83h,92.64t/data=!3m7!1e1!3m5!1s5Lga-cIHyvwc38PJd7AxKg!2e0!5s20170901T000000!7i13312!8i6656!4m13!1m7!3m6!1s0x89e445249e6eca93:0x6ceff37cc15832da!2s21+Euclid+Ave,+Providence,+RI+02906!3b1!8m2!3d41.8285627!4d-71.3998545!3m4!1s0x89e445249e6eca93:0x6ceff37cc15832da!8m2!3d41.8285627!4d-71.3998545){:target="_blank"} for more density and no parking. In some ways, it is a win — more density is a good thing and most students don’t have or need cars, so housing without the need to clear more livable area for parking is great. The downside is the continued [erosion of a historic district]({% link _essays/erosion-of-college-hill-historic-district.md %}). This project was riding the wave of projects that had come before and set a precedent of demolition. 
 
-Details about the project from the Michie Design & Build website: 
+Details about the new project build from the Michie Design & Build website: 
 
 > …the entire interior design of the dormitories was redesigned, giving the students a more familiar and active style. This is vitally important because a considerable number of these students are from the Rhode Island School of Design, so the interior and exterior design of this complex had to be an icon that resonates with and represents them. The result was a contrast of dark tones with a bright red, also changing the color of the window frames to a dark tone and installing black and red aluminum panels instead of the traditional siding, thus giving it a more lively and contemporary finish.[^1]
 
@@ -74,16 +85,16 @@ According to the [College Hill Properties website](//college-hill.com){:target="
 
 ### Design Reception
 
-The design of the building did not raise many eyebrows or turn many heads. It could have been, as we said at the top, that there were too many other distractions in 2018 for the protectors of the City’s historic character to say much. PPS, David Brussat, and William Morgan were silent. That’s not to say they didn’t have an opinion when pressed, and we can probably guess what it was. 
+The design of the building did not raise many eyebrows or turn many heads. It could have been, as we said at the top, that there were too many other distractions in 2018 for the protectors of the City’s historic character to say much. PPS, David Brussat, and William Morgan were silent. That’s not to say they didn’t have an opinion when pressed, and we can probably guess what it was.
 
-Again, if our two cents are worth more than… well, two cents… we think it is pretty bland despite its “bright red” panels meant to attract the cutting-edge art student looking to find an apartment that was an extension of their own fashion choices. Are students that shallow?  
+Again, if our two cents are worth more than… well, two cents… we think it is pretty bland despite its “bright red” panels meant to attract the cutting-edge art student looking to find an apartment that was an extension of their own fashion choices. Are students that shallow?
 
-The project, generally, is a mixed bag. Its lackluster design is balanced by the fact that its added density to the area is welcome — without the need for parking. The new construction is also roomier, more modern in its amenities, and perhaps even easier to maintain compared to the wooden-frame houses it replaced. But all this comes at a cost. That cost is a loss of authentic historic character, a lack of sensitivity to the character of the neighborhood, and apartments without individual charm as well. 
+The project, generally, is a mixed bag. Its lackluster design is balanced by the fact that its added density to the area is welcome — without the need for parking. The new construction is also roomier, more modern in its amenities, and perhaps even easier to maintain compared to the wooden-frame houses it replaced. But all this comes at a cost. That cost is a loss of authentic historic character, a lack of sensitivity to the character of the neighborhood, and apartments without individual charm as well.
 
-All that said, the neighborhood it is a part of is not the historic neighborhood it once was, either. [And this building is part of that erosion]({% link _property/235-meeting-st-pvd.md %}). 
+All that said, the neighborhood it is a part of is not the historic neighborhood it once was, either. [And this building is part of that erosion]({% link _property/235-meeting-st-pvd.md %}).
 
 
-### History of 406–410 Brook Street and 15 Euclid Avenue
+### History of 406–410 Brook Street (also 21 Euclid) and 15 Euclid Avenue
 
 We don’t normally include the history of the buildings that this newer one replaced, but we also have not captured photos of those houses, so we are unlikely to have a separate page about them. 
 
