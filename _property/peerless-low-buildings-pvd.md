@@ -2,7 +2,9 @@
 title: "Callendar, McAuslan & Troup Store and William H. Low Estate Building"
 slug: peerless-low-buildings-pvd
 aka: 'Peerless Department Store (circa 1950–1985), Lupo’s Heartbreak Hotel (1993–2003), Met Cafe (1993—2003), Woolworth’s'
-date-modified: 2021-01-29 12:00
+date-modified: 2023-04-30 12:00
+update: 'Added a photo of the Peerless sign with Lupo’s rock-n-roll legends in the windows'
+update-image: peerless-lupos-undated-01.jpg
 
 built: '1866, 1873, 1892 | 1897'
 demolition: 
@@ -55,6 +57,9 @@ images:
   - url: lupos-heartbreak-hotel-239-westminster-st.jpg
     caption: 'The former Peerless Department store was home to the rock-n-roll music venue “Lupo’s Heartbreak Hotel” run by proprietor’s Rick Lupo and Jack Reich'
     sizes: '800, 531'
+  - url: peerless-lupos-undated-01.jpg
+    caption: 'A view of pedestrians strolling past the former Peerless storefront with Lupo’s rock-n-roll legend paintings in the window. Undated, uncredited'
+    sizes: '900, 590'
   - url: cmt-low-fm-2004-01.jpg
     caption: 'Photo by Frank Mullin, early 2004'
     sizes: '1200, 900'

@@ -124,6 +124,8 @@ Both buildings have various structures off of their rear elevations that were li
 
 #### Maps
 
+Links are to the curated image in our gallery or to original source material.
+
 + [1908 L.J. Richards cadastral map, plate 4](#photo-113-117-broadway-ljrichards-1908) (Private collection) — Neither building seems to be in place when compared with the later 1920 map
 + [1920–1921 Sanborn Insurance Map, Volume 1, Plate 27](#photo-113-117-broadway-sanborn-1920) — Both buildings are in place, though without their later attached outbuildings. 121–117 is a 2-story concrete block building (blue) with a brick face (red line) while 115 is the 113 building today as a 3-story wooden building (yellow). A small concrete block addition is number 113 and attached to a neighboring building which was removed for the highway. Source: [Library of Congress, Geography and Map Division, Sanborn Maps Collection](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101){:target="_blank"} (page 38).
 + [1920–1951 Sanborn Insurance Map, Volume 1, Plate 27](#photo-113-117-broadway-sanborn-1951) — Both buildings are present and 113–115 has been altered. It is yellow inside still but now faced in brick or concrete with two connected buildings in concrete as well as the breezeway to the east. The 117 building looks unaltered and the rear addition has not yet been added. Source: [Library of Congress, Geography and Map Division, Sanborn Maps Collection](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"} (page 38).

@@ -15,7 +15,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'ZDS Architecture & Interiors' ]
 people: []
-lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
+lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places', 'PPS Preservation Awards' ]
 tags: [ 'Apartments for Rent', 'Chet Smolski image collection', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '84001967 (contributing)'
@@ -80,7 +80,7 @@ From the 70s to the 2000s, the building was painted in low contrast colors, with
 
 Its a shame we were not able to capture or find a photo of the mural that adorned the eastern side of the building, overlooking the parking lot. One sees remnants of it in [the photo from 2017](#photo-case-mead-jh-2017-06-01). It was a Providence city skyline on one side above the contact information for Paolino Properties and an older view of Exchange Place (Kennedy Plaza) above contact information for an insurance agency. 
 
-This project utilized State Historic Tax Credits and also applied for [Rebuild Rhode Island Tax Credits](//commerceri.com/incentives/tax-credits-and-financing/rebuild-rhode-island-tax-credit-case-mead-associates/){:target="_blank"} which were approved in February of 2016. Commerce later revisited the need for Rebuild credits after the project received approval for State Historic credits. We are unsure of the outcome. The renovation costs were projected to be $7.7-million as reported in January of 2017.[^1] 
+This project utilized State Historic Tax Credits and also applied for [Rebuild Rhode Island Tax Credits](//commerceri.com/incentives/tax-credits-and-financing/rebuild-rhode-island-tax-credit-case-mead-associates/){:target="_blank"} which were approved in February of 2016. Commerce later revisited the need for Rebuild credits after the project received approval for State Historic credits. We are unsure of the outcome. The renovation costs were projected to be $7.7-million as reported in January of 2017.[^1] The project was a [2019 Providence Preservation Society Preservation Awards Winner](//ppsri.org/2019-preservation-award-winners/){:target="_blank"}. 
 
 [^1]: Bramson, Kate. “Case Mead building.” Providence Journal, 2017 January 13. Accessed November 21, 2022 from https://www.providencejournal.com/story/news/2017/01/13/case-mead-building/21918101007/
 
