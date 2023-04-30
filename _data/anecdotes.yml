@@ -1,6 +1,21 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: brown-marvel-gym
+  person: 'Robert Wallach'
+  date: '2023-04-21'
+  content: 'I went to the Hendrix concert. Everyone was sitting on the floor. There were pills all over the floor. There were maybe 200 people in the audience. Hendrix smashed his guitar at the end and some of the pieces fell on the floor. He did not set in on fire. I had a piece of it for many years. No security guards tried to take it from me.'
+
+- property: 135-broadway
+  person: 'Sean Connor'
+  date: '2023-04-18'
+  content: 'I worked from this building from 1986 until 2000. The company was Advanced Business Machines and ABM Repair Service Inc for Olivetti branded typewriters. Hank Phelan was the owner of the property and one of the officers of both companies. I was told the building was a car dealership at one time (1920s). The front of the building was a business equipment demo room, very dark (black drop ceiling panels and brown walls) with spotlights on the equipment. The rear was the service area (you had to go up a concrete ramp) for offices/parts storage/workshop for repairs. There was also a full basement which was our warehouse to keep old machines to scavenge from. Had a cage also to lock up the new equipment. There was also a small office upstairs which was not really used.'
+
+- property: enchanted-forest
+  person: 'Ward Weathers'
+  date: '2023-04-16'
+  content: 'I am sure that the picture of the Enchanted Forest Theme Park Next Exit sign (credited to Facebook user Keith Elliott) is of the Enchanted Forest in Oregon. Contrast the coniferous trees of the Oregon park with the deciduous trees of the RI park. A web search of “Enchanted Forest Oregon” should convince.'
+
 - property: american-screw-co
   person: 'James Harris'
   date: '2023-04-15'
