@@ -31,19 +31,28 @@ thumbnail: 257-thayer-jh-2020-05-01.jpg
 images:
   - url: gilbane-brown-student-proposal.jpg
     caption: 'The proposed building plan designed by Gilbane, since altered by Union Studio'
+    sizes: '1024, 840'
   - url: 257-thayer-jh-2020-05-01.jpg
     caption: '257 Thayer from the corner of Thayer Street and Euclid Avenue, looking northeast'
     alt: 'A four story, red-brick and stucco, flat-roof building with cross-gable and mansard-like details along the top floor. The building’s mass is punctuated with small setbacks but overall it presents as one giant mass taking up almost an entire city block.'
+    sizes: '1200, 900'
   - url: 257-thayer-jh-2020-02-01.jpg
     caption: 'View from the corner of Euclid and Brook streets, looking northwest'
+    sizes: '1440, 900'
   - url: 257-thayer-jh-2020-02-02.jpg
     caption: 'Detail of one of the two main masses from Brook Street, looking west'
+    sizes: '1200, 900'
   - url: 257-thayer-jh-2020-02-03.jpg
     caption: 'View from the far corner of Brook and Meeting streets, looking southwest'
+    sizes: '1440, 900'
   - url: 257-thayer-jh-2020-02-04.jpg
     caption: 'View down Meeting Street, looking southeast'
+    sizes: '1200, 900'
+  - url: 257-thayer-jh-2022-03-01.jpg
+    caption: 'View of the courtyard from the outside, looking west'
+    sizes: '1440, 900'
 
-mostrecentimage: 2020-05-01
+mostrecentimage: 2022-03-01
 
 imagescredit:
 

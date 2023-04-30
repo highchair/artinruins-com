@@ -2,7 +2,9 @@
 title: "Vesta Knitting Mills"
 slug: vesta-knitting-imperial-knife
 aka: 'Vesta Underwear Company, Imperial Knife, Imperial Place'
-date-modified: 2021-09-20 12:00
+date-modified: 2023-04-26 12:00
+update: 'Added a 1985 photo of the mill from the National Register nomination'
+update-image: imp-knife-rg-1985-01.jpg
 
 built: '1893, 1903'
 demolition:
@@ -33,8 +35,11 @@ excerpt: "A collection of handsome late-19th- and early-20th-century buildings t
 thumbnail: imp-knife-jh-2006-03-06.jpg
 
 images:
-  - url: imp-knife-jh-2006-03-01.jpg
+  - url: imp-knife-rg-1985-01.jpg
     alt: 'The main building is a six story, flat-roofed, red brick mill with tall windows, copper corbelled cornice, and a rounded corner along the entrance to a interior courtyard. Three story, gable-roofed building also occupy the parcel, along with an early twentieth century slightly shorter but still six story, flat-roofed, rectangular, red brick mill.'
+    caption: 'Westerly and southern elevations. Part of the National Register district nomination form, 1985 — Photo by Richard Greenwood'
+    sizes: '1600, 823'
+  - url: imp-knife-jh-2006-03-01.jpg
     sizes: '1200, 900'
   - url: imp-knife-jh-2006-03-02.jpg
     sizes: '1200, 900'
@@ -73,7 +78,7 @@ images:
     caption: 'The same one-story addition shown in a photo from 2006, now without the trompe l’œil bubble window or corbelling'
     sizes: '1440, 900'
 
-imagescredit:
+imagescredit: 'Contribution by Rick Greenwood for the National Register Form'
 
 mostrecentimage: 2021-09-01
 
@@ -114,6 +119,10 @@ Similar information available in the [PPS Online Architecture Guide](//guide.pps
 _From the National Register nomination form for the Providence Jewelry Manufacturing Historic District, 1985_
 
 2 Imperial Place **Vesta Knitting Mills**, now known as **Imperial Knife Company** (1893, 1903): The 1893 factory is a 6-story, flat-roof brick building with rounded corners, segmental-arched windows and a corbeled cornice, that runs east along Bassett Street from the intersection of Imperial Place and Bassett. The 1903 factory is a plainer, L-shaped,6-story, flat-roof brick building with segmental-arched windows with granite sills, that extends south along Imperial Place and east along Elm Street. Between the north and south wings formed by these two buildings there is a complex of smaller brick buildings, including a two-story, gable-roof, brick building with segmental-arched windows that dates from c.1888. There are two brick and one concrete-block, single-story flat-roofed outbuildings attached to the east side of the complex that were added in the 1950s and 1960s.
+
+[…]
+
+The Vesta Knitting Mills built a six-story brick factory on the site of the Elba Mill in 1893 and rented a small amount of space to jewelry manufacturers. The demand for manufacturing space was so great that the company built a second large factory in 1903 and rented out five of the six floors to jewelers. Both buildings were eventually acquired by the Imperial Knife Company, founded by Felix Mirando, which was the first large American manufacturer of jack knives.
 
 ***
 

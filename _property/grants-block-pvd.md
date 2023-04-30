@@ -2,7 +2,8 @@
 title: "Grant’s Block"
 slug: grants-block-pvd
 aka: "the former Traveller’s Aid"
-date-modified: 2020-05-02 21:49
+date-modified: 2023-04-26 13:00
+update: 'Added a vintage photo of the W.T. Grant’s façade from likely the 1950sbundle install'
 
 built: 
 demolition: '2005'
@@ -26,8 +27,11 @@ excerpt: "A conglomeration of possibly six 1 to 3 story structures bounded by We
 thumbnail: grants-block-jh-2004-03-03.jpg
 
 images:
-  - url: grants-block-jh-2004-03-01.jpg
+  - url: grants-block-vintage-undated-01.jpg
+    caption: 'A vintage streetscape photo of Westminster Street, undated. Grants is the first building on the left, the Trayne Building, the Wit Building with “Jean’s” on the façade, and the Lapham Builing at the end of the block.'
     alt: 'A small collection of unattractive, multi-story red brick commercial structures joined together over the years by various projects to connect the interior spaces. The Westminster Street façade was multi-story but with no windows on the upper floors. A commercial storefront occupied the first floor.'
+    sizes: '800, 1000'
+  - url: grants-block-jh-2004-03-01.jpg
     sizes: '1200, 900'
   - url: grants-block-jh-2004-03-02.jpg
     sizes: '1200, 900'

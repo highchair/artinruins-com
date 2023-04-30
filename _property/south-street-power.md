@@ -120,6 +120,10 @@ images:
     sizes: '1200, 900'
   - url: south-street-jh-2019-05-05.jpg
     sizes: '768, 924'
+  - url: south-street-jh-2022-03-01.jpg
+    sizes: '1440, 900'
+
+mostrecentimage: 2022-03-01
 
 imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12111" target="_blank">circa 1956</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10776" target="_blank">circa 1962-1</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10452" target="_blank">circa 1962-2</a>) at the Providence Public Library, Robert Guiliani and Matthew Kierstead for National Register nomination forms'
 

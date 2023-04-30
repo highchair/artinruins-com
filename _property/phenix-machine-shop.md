@@ -37,7 +37,7 @@ images:
     caption: 'Figure 56: Elm Street Machine Shop (1848); engraving, 1901. Distinctive features are the huge, arched, freight doors; random- ashlar walls; and eyebrow monitor set in a gable roof — From Providence Industrial Sites, Statewide Historical Preservation Report P-P-6, 1981'
     sizes: '1440, 900'
   - url: phenix-habs-1985-01.jpg
-    caption: 'Part of the National Register district nomination form, 1985 — Photo by Richard Greenwood'
+    caption: 'Northern and western elevations. Part of the National Register district nomination form, 1985 — Photo by Richard Greenwood'
     sizes: '1440, 900'
   - url: phenix-jh-2004-07-01.jpg
     sizes: '1200, 900'
@@ -94,12 +94,16 @@ _From the National Register nomination form for the Providence Jewelry Manufactu
 
 Elm Street Machine Shop (1848, c. 1863, 1907): This is a 2 1/2-story, end-gable, random ashlar masonry building with a 1-story, end-gable wing of the same stone construction on the northeast. The building has huge round-arched freight doors, graduated in size, in each story of either gable end. Full-length multiple-pane windows with double-hung sashes light the interior, while the top story is lit by long trap-door monitors on either slope of the roof. A 2-story, double-gable-roof, brick addition was built parallel to the main building with its entrance on South Street, 1863. The third addition (1907) is a 4-story, flat-roof, building on the corner of South and Hospital, which has segmental-arched windows, a round-arched doorway and a corbeled cornice. This part of the complex was built by the **Providence Gas Burner Company**. A 4-story, flat-roofed, brick tower, two bays square, with segmental-arched windows and a corbeled cornice was built on the east flank of the original building at the same time. There is also a towering brick chimney that tapers as it rises up to a corbeled cap [**A.I.R.**: Now removed].
 
+***
+
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
 The **Phenix Iron Foundry** was the pioneer establishment in its line in Rhode Island, making both machine-shop and foundry products with specialties in castings for gears and shafts, machinery for dyeing and bleaching, and machinery for print works. By the latter part of the 19th century, “nearly every bleachery in the United States had been fitted up by this company.” George D. Holmes organized the company in 1830, and in 1832 it was incorporated as the Phenix Iron Foundry.
 
 The first building was erected in 1830 on the Eddy and Elm Street site, which later became a two-acre complex. The only remaining building is the 2-story, stone machine shop, constructed in 1848. It has a pitched roof, a trap-door monitor, tall rectangular windows, an ell on Elm Street, and three freight doors with colossal granite sills which are graduated in size one above the other on each end of the building. A keystone inscribed “1848” is set into one of the Elm Street freight door arches. In 1863, the company expanded its facilities to include another machine shop, foundry, wood-working shop, and blacksmith shop. The building is currently owned by a luggage manufacturer.
 
+***
+
 _From an 1878 report_
 
-First started April 1, 1830, and chartered as the Phenix Iron Foundry, June, 1832. The company is engaged in the manufacture of hydraulic presses, dyers, printers, and bleachers’ machinery, castings, shaftings, &c. The company has constantly extended their business since its first inception to the present. The extensive buildings are of stone and brick, and located at the corner of Elm and Eddy streets. They employ some one hundred and seventy-five men, and, notwithstanding the depression of the times, are doing a large and profitable business.
+First started April 1, 1830, and chartered as the **Phenix Iron Foundry**, June, 1832. The company is engaged in the manufacture of hydraulic presses, dyers, printers, and bleachers’ machinery, castings, shaftings, &c. The company has constantly extended their business since its first inception to the present. The extensive buildings are of stone and brick, and located at the corner of Elm and Eddy streets. They employ some one hundred and seventy-five men, and, notwithstanding the depression of the times, are doing a large and profitable business.
