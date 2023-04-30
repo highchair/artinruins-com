@@ -6,7 +6,7 @@ title: "New Building Proposals"
 meta-title: "New Building Proposals | ArtInRuins"
 body-class: proposals
 sitemap:
-  lastmod: 2022-11-12
+  lastmod: 2023-04-22
   priority: 0.6
   changefreq: 'monthly'
 ---
@@ -17,6 +17,25 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 {% endcomment %}
 
 ## On The Boards
+
+### NEW I-195 Land Parcels 14 and 15
+
+**Update April, 2023**
+
+Excerpted from Beth Comery for [the Providence Daily Dose](//providencedailydose.com/2023/04/16/new-proposal-for-i-195-land/){:target="_blank"}:
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/1-195-land-Parcels-14-and-15.jpg" alt="">
+  <figcaption>Rendering by CV Properties</figcaption>
+</figure>
+
+Boston-based <a href="https://cvprop.com/" target="_blank">CV Properties</a> wants to develop an apartment building on the west side of the Providence River, north of the parcel that was recently in the news. My immediate reaction? I don’t hate it. The image featured here shows the first phase; below is an aerial image of the eventual master plan comprising three buildings. From the <a href="https://www.bostonglobe.com/2023/04/13/metro/proposed-project-i-195-land-could-include-housing-restaurant-lab-space/" target="_blank">Boston Globe</a>:
+
+> CV Properties submitted their proposal to the 195 Redevelopment District Commission and company representatives will present their plans during a meeting on April 19. The proposal, which was shared with the Globe on Wednesday, includes plans for a 149-unit residential building to anchor <a href="https://www.195district.com/about/district-land/" target="_blank">Parcels 14 and 15</a> along Dyer Street. The proposal also outlines the firm’s plans for an adjacent parcel of land owned by Brown University.
+
+The public is invited to comment at the next regular meeting of the <a href="https://www.195district.com/" target="_blank" rel="noopener">I-195 Redevelopment District Commission</a> to be held in District Hall on Dyer Street. The public comment session follows opening remarks by Chairperson Crisafulli.
+
+Members of the public should sign-up to speak during the general public comment session via email at questions@195district.com. Comments will be limited to 3 minutes per person. Download the agenda and supplemental materials for the April 19 meeting at <a href="https://www.195district.com/documents/" target="_blank">Commission Meeting Documents</a>.
 
 
 ### Fane Tower is Dead
@@ -42,28 +61,6 @@ During the planning process for the [Brook Street Residence Halls]({% link _prop
 This proposed new house has received conceptual approval from the Providence Historic District Commission (PHDC) and is slated for consideration by the Providence Zoning Board in February. The City Planning Department has issued a recommendation against the zoning variances needed to build this house. If the Zoning Board denies the University’s requested relief, Brown cannot move forward on this project.
 
 If approved by the City, Brown intends to sell this house to Brown faculty or staff as part of the Brown to Brown Home Ownership Program. To date, Brown has renovated and sold 21 Brown-owned houses to faculty and staff over the past fifteen years, putting millions of dollars of property back on the tax rolls. All of these properties are on College Hill, and allow faculty and staff housing close to campus.
-
-
-### NEW 116 Waterman Street
-
-<figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/116-waterman-st-2023-01-16.jpg" alt="">
-  <figcaption>Rendering by Aharonian and Associates, Inc., dated October 2022</figcaption>
-</figure>
-
-**Update March 15, 2023**
-
-[These properties are now part of our #UsedToBeThere collection]({% link _property/382-brook-116-waterman.md %}). 
-
-**Update February 24, 2023**
-The proposal for a 5-story mixed-use apartment building at the corner of Waterman and Brook Street was presented at the City Planning Commission on Tuesday, February 21. **The master plan was approved** last July and will involve the demolition of two National Register-listed residential buildings. Continued from January, the preliminary plan’s waiver requests for an additional floor and residential use within 20 feet of a main street were approved, contingent on the use of noise regulatory devices and 24/7 security for the life of the project. Few presentations in opposition were heard — the Providence Preservation Society was one of the few [objectors to the variances](//ppsri.org/wp-content/uploads/2023/02/2023-02-116-Waterman-PPS.pdf){:target="_blank"}.
-
-**Update November 22, 2022**
-Walter Bronhard and Brook Holding LLC as applicants are proposing to demolish two existing buildings to construct a new mixed-use five story building with commercial use on the ground floor and 25 dwelling units. The applicant is seeking preliminary plan approval and requesting a dimensional adjustment to maintain a height of 58’ and five stories where 50’ and four stories are allowed by right in the zone. The applicant is also requesting a design waiver for locating residential development within 20’ of a main street – for action (AP 12 Lots 180 and 260, College Hill)
-
-The two houses, Lot 260 and 180, are located at [116 Waterman Street](//www.google.com/maps/place/116+Waterman+St,+Providence,+RI+02906/@41.8276115,-71.3998322,19.89z/data=!4m5!3m4!1s0x89e44524ae26a263:0x9b511119671d3d1f!8m2!3d41.8275323!4d-71.3995313) and [382 Brook Street](//www.google.com/maps/place/382,+382+Brook+St,+Providence,+RI+02906/@41.8276115,-71.3998322,19.89z/data=!4m5!3m4!1s0x89e44524affe2a29:0xfe8b3be5684b211b!8m2!3d41.8277198!4d-71.3995312). Both are rental residential houses with construction dates of 1857 and 1895 respectively listed in the College Hill Historic district. This development would continue to erode the historic nature of the Brook Waterman Cushing Thayer blocks as discussed in more detail on our recent article concerning the demolition of [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}). 
-
-A PDF document of the [proposed building plans can be found on the Providence RI website, linked here](//www.providenceri.gov/wp-content/uploads/2022/12/22-033MA-116-Waterman-St-Preliminary-submission-Narrative.pdf).
 
 
 ### SMART Hotel Proposal is back
@@ -115,6 +112,28 @@ Construction is supposed to start in late 2022. The three lots of this location 
 
 
 ## Demolition Approved
+
+### 116 Waterman Street
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/116-waterman-st-2023-01-16.jpg" alt="">
+  <figcaption>Rendering by Aharonian and Associates, Inc., dated October 2022</figcaption>
+</figure>
+
+**Update March 15, 2023**
+
+[These properties are now part of our #UsedToBeThere collection]({% link _property/382-brook-116-waterman.md %}). 
+
+**Update February 24, 2023**
+The proposal for a 5-story mixed-use apartment building at the corner of Waterman and Brook Street was presented at the City Planning Commission on Tuesday, February 21. **The master plan was approved** last July and will involve the demolition of two National Register-listed residential buildings. Continued from January, the preliminary plan’s waiver requests for an additional floor and residential use within 20 feet of a main street were approved, contingent on the use of noise regulatory devices and 24/7 security for the life of the project. Few presentations in opposition were heard — the Providence Preservation Society was one of the few [objectors to the variances](//ppsri.org/wp-content/uploads/2023/02/2023-02-116-Waterman-PPS.pdf){:target="_blank"}.
+
+**Update November 22, 2022**
+Walter Bronhard and Brook Holding LLC as applicants are proposing to demolish two existing buildings to construct a new mixed-use five story building with commercial use on the ground floor and 25 dwelling units. The applicant is seeking preliminary plan approval and requesting a dimensional adjustment to maintain a height of 58’ and five stories where 50’ and four stories are allowed by right in the zone. The applicant is also requesting a design waiver for locating residential development within 20’ of a main street – for action (AP 12 Lots 180 and 260, College Hill)
+
+The two houses, Lot 260 and 180, are located at [116 Waterman Street](//www.google.com/maps/place/116+Waterman+St,+Providence,+RI+02906/@41.8276115,-71.3998322,19.89z/data=!4m5!3m4!1s0x89e44524ae26a263:0x9b511119671d3d1f!8m2!3d41.8275323!4d-71.3995313) and [382 Brook Street](//www.google.com/maps/place/382,+382+Brook+St,+Providence,+RI+02906/@41.8276115,-71.3998322,19.89z/data=!4m5!3m4!1s0x89e44524affe2a29:0xfe8b3be5684b211b!8m2!3d41.8277198!4d-71.3995312). Both are rental residential houses with construction dates of 1857 and 1895 respectively listed in the College Hill Historic district. This development would continue to erode the historic nature of the Brook Waterman Cushing Thayer blocks as discussed in more detail on our recent article concerning the demolition of [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}). 
+
+A PDF document of the [proposed building plans can be found on the Providence RI website, linked here](//www.providenceri.gov/wp-content/uploads/2022/12/22-033MA-116-Waterman-St-Preliminary-submission-Narrative.pdf).
+
 
 ### 230 Waterman St
 
