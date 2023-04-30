@@ -96,6 +96,8 @@ We will be keeping an eye on this complex and what happens to the remaining stru
 
 #### Maps
 
+Links are to the curated image in our gallery or to original source material.
+
 + [1908 L.J. Richards Map](#photo-1908-lj-richards-plate2-01) (private collection) — The complex is large, stretching across a section of Chestnut Street that meets Manchester through the center of the complex. On the top right (northwest) corner there are plats under different ownership, along with the southeast corner. Brick structures are in red and wooden structures are in yellow
 + [1920–1921 Sanborn Insurance Map, Volume 1, Plate 32](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"} (page 43) — The large complex is mostly the same, but the central portion of Chestnut Street has been abandoned and Manchester St renamed to Marengo. The buildings are labelled pattern storage, grinding and polishing, refining, pattern shop, wash room, machine shop, foundry, mounting and packing, flask house, and shipping
 + [1937 G.M. Hopkins Insurance Map, Plate 6](//www.historicmapworks.com/Map/US/895463/Plate+006/Providence+1937/Rhode+Island/){:target="_blank"} — The complex is much the same but now labelled “Barstow Repair Parts Co.” A gas station has come up on the southeast corner

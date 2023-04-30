@@ -104,7 +104,7 @@ Edward Bannister House, before 1857. Probably originally a simple 2-1/2 story, g
 
 #### Maps
 
-The house is older than most maps we have access to. It is present on 1899, 1908, 1920, 1937, 1951, and 1955 maps.
+The house is older than most maps we have access to. It is present on 1899, 1908, 1920, 1937, 1951, and 1955 maps. Links are to source material.
 
 + [1899 Sanborn Insurance Map, Volume 2, plate 119](//repository.library.brown.edu/studio/item/bdr:213306/){:target="_blank"}. — Sanborn-Perris Map Co, “Insurance maps of Providence, Rhode Island V. 2” (1899). Sanborn Maps for the State of Rhode Island. Brown Digital Repository. Brown University Library. For a downloaded and cropped version of this map, see the reference at [89 Benevolent Street]({% link _property/89-benevolent-pvd.md %}#photo-sanborn-vol2-pl119-1899-01)
 + [1920-1921 Sanborn Insurance Map, Volume 2, Plate 21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (page 18) — Present, noted as a two and a half story wooden building (in yellow)

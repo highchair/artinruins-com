@@ -1,10 +1,12 @@
 ---
-title: "Farnum Hall at RISD"
+title: "Congmore Court apartments"
 slug: farnum-hall
-aka:
-date-modified: 2020-08-26 12:00
+aka: 'Farnum Hall at RISD'
+date-modified: 2023-04-30 13:00
+update: 'Changed the name from Farnum Hall to its historic name and added maps'
+update-image: 1951-map-congmore-court-02.jpg
 
-built: 'circa 1920'
+built: 'circa 1929'
 demolition: '2011'
 redeveloped:
 decade: '1920-1929'
@@ -57,8 +59,20 @@ images:
   - url: farnum-hall-goog-2017-01.jpg
     caption: 'Google Streetview 2017'
     sizes: '1200, 900'
+  - url: 1926-map-congmore-court-01.jpg
+    caption: '1926–1927 G.M. Hopkins Insurance map, plate 19, Secretary of State Digital Collections'
+    sizes: '1440, 900'
+  - url: 1937-map-congmore-court-01.jpg
+    caption: '1937 G.M. Hopkins Insurance map, plate 19, Secretary of State Digital Collections'
+    sizes: '1440, 900'
+  - url: 1951-map-congmore-court-01.jpg
+    caption: '1920–1951 Sanborn Insurance map, plate 11, Library of Congress Maps Division'
+    sizes: '1440, 900'
+  - url: 1951-map-congmore-court-02.jpg
+    caption: 'Detail view. 1920–1951 Sanborn Insurance map, plate 11, Library of Congress Maps Division'
+    sizes: '1440, 900'
 
-imagescredit: 'Contributions from Google Streetview, Daniel Penfield for Wikimedia, and Flickr user Glenn Gulley'
+imagescredit: 'Contributions from Google Streetview, Daniel Penfield for Wikimedia, Flickr user Glenn Gulley, Secretary of State Digital Collections, and the Library of Congress'
 ---
 
 ### Reason for Demolition
@@ -79,11 +93,23 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 
 14-20 Congdon Street. Apartment Building, now Farnum Hall, R.I.S.D. a. 1920. 3 stories; flat brick; Upland with multiple entrances around courtyard; yellow-brown tapestry brick with red brick trim; bracketed; pitched overhang.
 
+***
+
 _From [Wikipedia’s page](//en.wikipedia.org/wiki/Royal_B._Farnum){:target="_blank"} on Royal B. Farnum (captured August 2011)_
 
 Royal Bailey Farnum (11 June 1884 – 28 August 1967) was an American art educator who served in administrative roles in various public and private educational institutions in Massachusetts, New York, Ohio, and Rhode Island during the first half of the 20th Century.
 
 […] In 1929, he took a job as Educational Director for the Rhode Island School of Design and was subsequently promoted to Executive Vice President in 1937. He served as president of the National Association for Art Education from 1936-1938, the National Association of Schools of Design from 1925-1936, and the Federal Council on Art Education from 1925-1936. During World War II, he helped the war effort by assisting in the development of color schemes for optimal camouflage. Farnum was bestowed with an honorary Art Degree from Brown University in 1935 and received the Michael Friedsam Medal in 1942. RISD’s Farnum Hall is named after him. He retired from RISD in 1946 and died in Plainfield, Connecticut in 1967.
+
+***
+
+#### Maps
+
+Links are to source material.
+
++ [1926–27 G.M. Hopkins Insurance Map](//sosri.access.preservica.com/uncategorized/IO_c82222b2-d07d-45bf-9526-99a4d742c58b/){:target="_blank"}, Secretary of State Digital Collection — The building is not constructed yet. In its spot is a set of wooden structures labeled “L. Brody and S. Goldberger” as owners.
++ [1937 G.M. Hopkins Insurance Map](//sosri.access.preservica.com/uncategorized/IO_d7d0bc6d-2c3f-4e1e-b9d1-e9b4eb580fa8/){:target="_blank"}, Secretary of State Digital Collection — The building has been constructed and labeled “Congmore Court” with “Hamilton Company” as owners.
++ [1920–1951 Sanborn Insurance Map, Volume 2, Plate 11](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (page 18) — Also present but with more detail in the rendering. Notice the string of garages in the back (west side) of the lot. The apartments were built at the start of automobiles being quite common possessions that needed to be garaged.
 
 
 ### In the News
@@ -95,7 +121,7 @@ _Mathew McNamara_
 
 On Congdon Street stands an abandoned building over eighty years old. Located between RISD’s own Congdon house, local Providence housing and America’s First Black Baptist Church, its garden-style typology and grey worn bricks exude aged charm. All good things, however, must come to an end. For Farnum Hall, that end will come after Graduation week of this year, when it will be demolished.
 
-Farnum Hall was originally constructed during the mid ‘20s to early ‘30s as an apartment building for urban professionals. Built around the time of the Great Depression, Farnum was made with inexpensive materials and a cheap house plan and construction. RISD purchased Farnum in 1961 for student housing, approximately thirty years after it was built. It was used as student residency until 2004, when it was deemed unsafe due to its physical condition.  That same year, [15 West](//www.google.com/maps/place/Fleet+Library+at+Rhode+Island+School+of+Design/@41.8255986,-71.4107871,17z/data=!4m8!1m2!2m1!1sRISD+15+West!3m4!1s0x89e44516f48ec09f:0x3d04c2f47cb12af9!8m2!3d41.8253435!4d-71.40946){:target="_blank"} opened with room for 500 more students, and Farnum Hall was abandoned.
+Farnum Hall was originally constructed during the mid ‘20s to early ‘30s as an apartment building for urban professionals. Built around the time of the Great Depression, Farnum was made with inexpensive materials and a cheap house plan and construction. RISD purchased Farnum in 1961 for student housing, approximately thirty years after it was built. It was used as student residency until 2004, when it was deemed unsafe due to its physical condition.  That same year, [15 West]({% link _property/hospital-trust-no2.md %}){:target="_blank"} opened with room for 500 more students, and Farnum Hall was abandoned.
 
 Within the context of RISD planning, Farnum has long been a topic of review and study. According to facilities directors Jack Silva and Paul Mullen, since the early ‘90s, more than five studies have been implemented to see if it was possible to bring the building up to code through reconstruction and renovation. Every study concluded that the building is simply beyond repair. According to Silva, “It doesn’t make any financial sense to try and repair the building as it is.” Silva explained, “Geotechnical experts [have studied] the condition of the site… when the foundation broke it wracked the building.”
 

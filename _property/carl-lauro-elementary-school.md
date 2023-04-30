@@ -145,5 +145,7 @@ _From the “Broadway-Armory Historic District” National Register nomination f
 
 #### Maps
 
+Links are to source material.
+
 + [1926–27 G.M. Hopkins Insurance Map](//sosri.access.preservica.com/uncategorized/IO_e3a20035-1441-497d-a984-ef8d196caca2/){:target="_blank"}, Secretary of State Digital Collection — The western wing of the school has been built and the house lots on the eastern side look to have been razed, but plot lines are still on the map
 + [1937 G.M. Hopkins Insurance Map](//sosri.access.preservica.com/uncategorized/IO_78f2e646-b748-4f17-b220-a158311d103a/){:target="_blank"}, Secretary of State Digital Collection — The eastern and central portions of the school have been built. Along the western side, notice how what is now called De Pasquale Ave did not continue through to Broadway and it was called “Balbo” street
