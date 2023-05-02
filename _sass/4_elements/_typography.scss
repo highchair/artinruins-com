@@ -97,6 +97,18 @@ h6,
   line-height: $line-height__tight;
 }
 
+// Big elements that could have widow/orphan control
+// NEW CSS feature, Chrome Canary as of May 2, 2023
+h1,
+h2,
+h3,
+h4,
+h5,
+blockquote,
+.item__excerpt {
+  text-wrap: balance;
+}
+
 body,
 input,
 textarea {
