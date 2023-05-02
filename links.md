@@ -188,6 +188,10 @@ The RIHPHC operates its own [National Register property search for RI](//www.ri.
 
 Providing people who live and/or work in Providence with a strong residential voice. [The DNA](//www.dnapvd.com){:target="_blank"} says they can help develop a diverse, safe, and civil environment throughout downtown Providence by collaborating with the Mayor and key decision-makers to heighten the quality-of-life and image of our city.
 
+### East Greenwich Historic Preservation Society
+
+[The EGHPS](//eghps.org){:target="_blank"} was founded to thoughtfully preserve the historic fabric of East Greenwich. It is a community focused local history organization that has provided free monthly speakers, research, exhibits, events and other activities since 1967.
+
 ### Jewelry District Association
 
 [The JDA](//www.jewelrydistrict.org){:target="_blank"} keeps track of current events that effect residents and businesses of the Jewelry District. It also has an extensive history of the area, which has helped us with research of certain properties. They also help make sure new construction or rehab construction conforms to the design standards and guidelines for this Historic District. 

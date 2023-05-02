@@ -24,6 +24,7 @@ To quote from “The Urban Mill Restoration and Tax Exemption Act”, introduced
 
 We believe the state said it best in the introduction of their 2002 tax credit bill. ArtInRuins started in 2002 to track the happenings of mill buildings and industrial remnants in the state, as well as the plight of artists who inhabit these spaces.
 
+
 ## Mission
 
 Document the changing architectural landscape and to collect the oral, written, and photographic history of these important places. Be a safe space for storytelling, memory-sharing, and dreaming about the future of our built environment.
@@ -54,6 +55,7 @@ We have been documenting the region since 2002 and collecting the histories that
 
 ## Press & Contributions
 
++ Presentation: _ArtInRuins: Our History, significant Saves, significant Losses, and the Future_, for the East Greenwich Historic Preservation Society, April 2023. [Archived on YouTube](//www.youtube.com/watch?v=ELvzJEn1dE0){:target="_blank"}
 + Article: _Architectural Excavation_, **Providence**, November 2022, p11
 + Article: _Architectural Excavation_, Abbie Lahmers, **Hey Rhody**, October 2022, p14
 + _“RIGOR MORTAR: In Conversation With J Hogue,”_ Ben Berke, **The College Hill Independent**, December 4, 2015. [www.theindy.org/753](//www.theindy.org/753){:target="_blank"}
@@ -69,6 +71,7 @@ We have been documenting the region since 2002 and collecting the histories that
 + Curator: _Transformation (The Inevitability of Change: An exploration of urbanism, memory, and romanticism through photography, art, and architecture)_, AS220 Project Space gallery at Union Station, April 2-May 21, 2004
 + Interview: _Focus on Downcity_, Laura Kline, **Providence Monthly**, March 2004
 
+
 ## Our People
 
 ArtInRuins was founded by J. Hogue, Sarah Clover, and Kathleen Griffin. Sarah contributed many photos in the early years, and Kathleen contributed writing about the artists that lived in these spaces for sections called “Interviews” and “Stories.” It proved to be too difficult to continue writing and interviewing people, and those stories have been archived. Sarah has moved on to other parts of the country with occasional visits to Providence and Kathleen is an artist living and working in New York. Both Sarah and Kathleen were graduate students at RISD from 1999–2001.
@@ -79,6 +82,7 @@ We are thankful to the individuals that have purchased t-shirts, posters, and ma
 
 Need to contact someone without using our Anecdote form? Email [info@artinruins.com](mailto:info@artinruins.com) but be warned that we are not always good about returning email right away.
 {:.o__tldr }
+
 
 ## Open Source
 
