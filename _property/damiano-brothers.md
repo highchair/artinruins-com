@@ -78,7 +78,7 @@ Damiano Industries closed its doors in 2004 after nearly 60 years in business as
   </figcaption>
 </figure>
 
-For a short time between 2005 and 2009, these buildings were home to Mirabelle/Carlin & Sons Antiques. Manta lists them as having been incorporated in 2007. Snookers purchased and expanded the location in 2009 after moving out of the second floor of 95 Chestnut Street. Some may remember seeing the Snookers neon sign in that building when Interstate 195 still ran through the [Jewelry District]({% link neighborhood/jewelry-district.html %}) and right by that building. 
+For a short time between 2005 and 2009, these buildings were home to Mirabelle/Carlin & Sons Antiques. Manta lists them as having been incorporated in 2007. Snookers purchased and expanded the location in 2009 after moving out of the second floor of [95 Chestnut Street]({% link _property/irons-russell-building.md %}). Some may remember seeing the Snookers neon sign in that building when Interstate 195 still ran through the [Jewelry District]({% link neighborhood/jewelry-district.html %}) and right by that building. 
 
 
 ### Current Events
