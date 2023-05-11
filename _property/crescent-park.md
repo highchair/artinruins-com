@@ -152,11 +152,11 @@ George LaCross of [LaffInTheDark.com](//laffinthedark.com){:target="_blank"} sai
 
 #### Sources
 
-1. Wikipedia, Crescent Park. https://en.wikipedia.org/wiki/Crescent_Park_(defunct_amusement_park)
-1. Wikipedia, Looff Carousel at Crescent Park. https://en.wikipedia.org/wiki/Crescent_Park_Looff_Carousel
-1. _“Rhode Island Amusement Parks”_, Rob Lewis and Ryan Young, pp.41-46. Arcadia Publishing, 1998, (Google Books).
+1. Wikipedia, Crescent Park. Captured 15 August 2020 from https://en.wikipedia.org/wiki/Crescent_Park_(defunct_amusement_park)
+1. Wikipedia, Looff Carousel at Crescent Park. Captured 15 August 2020 from https://en.wikipedia.org/wiki/Crescent_Park_Looff_Carousel
+1. Lewis, Rob and Young, Ryan. _“Rhode Island Amusement Parks”_, pp.41-46. Arcadia Publishing, 1998, (Google Books).
 1. Kathy’s Amusement Park page (Angelfire, now defunct)
-1. _“Riverboat Ride: Crescent Park, Riverside, RI”_, George Malone for Laff in the Dark, captured August 15, 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
-1. _“The Coney Island of the East Coast: Crescent Park, Vanity Fair, Boyden Heights, Hunts Mills”_, Bob Rodericks for Reporter Today, captured August 15, 2020, published August 6, 2013. http://reportertoday.com/stories/The-Coney-Island-of-the-East-Coast,5466
-1. _“Neighborhood of the Week, Boyden Heights was once home to amusement parks”_, Alex Kuffner for Providence Journal, captured August 16, 2020, published Jan 5, 2018. https://www.providencejournal.com/homes/20180105/neighborhood-of-week-boyden-heights-was-once-home-to-amusement-parks
+1. Malone, George. _“Riverboat Ride: Crescent Park, Riverside, RI”_, Laff in the Dark. Captured 15 August 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
+1. Rodericks, Bob. _“The Coney Island of the East Coast: Crescent Park, Vanity Fair, Boyden Heights, Hunts Mills”_, Reporter Today, 06 August 2013. Captured 15 August 2020 from http://reportertoday.com/stories/The-Coney-Island-of-the-East-Coast,5466
+1. Kuffner, Alex._“Neighborhood of the Week, Boyden Heights was once home to amusement parks”_, Providence Journal, 05 January 2018. Captured 16 August 2020 from https://www.providencejournal.com/homes/20180105/neighborhood-of-week-boyden-heights-was-once-home-to-amusement-parks
 1. Thanks to people on eBay selling postcards for the scans.

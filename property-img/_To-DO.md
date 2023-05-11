@@ -41,6 +41,8 @@ caption: 'Photo by Robert Brewster, HABS/HAER, 1981'
 caption: 'Rhode Island Photograph Collection, Providence Public Library'
 Aerials from the Providence Historical Aerial Viewer
 caption: 'Providence Historical Aerial Viewer 1972'
+caption: 'Undated. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%3A5102" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>'
 
 ## Footnotes
 [^1]
@@ -56,7 +58,10 @@ caption: 'Providence Historical Aerial Viewer 1972'
 
 caption: 'Sanborn Insurance Map, 1899-1900, volume 1 sheet 15 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library. '
 
-_“Riverboat Ride: Crescent Park, Riverside, RI”_, George Malone for Laff in the Dark, captured August 15, 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
+MLA citation style: 
+Malone, George. _“Riverboat Ride: Crescent Park, Riverside, RI”_, Laff in the Dark, captured 15 August 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
+
++ [1920–1921 Sanborn Insurance Map, Volume 1, Plate 32](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"} (page 43) — The large complex is mostly the same, but the central portion of Chestnut Street has been abandoned and Manchester St renamed to Marengo. The buildings are labelled pattern storage, grinding and polishing, refining, pattern shop, wash room, machine shop, foundry, mounting and packing, flask house, and shipping
 
 
 #### In copy Images

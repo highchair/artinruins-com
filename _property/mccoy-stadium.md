@@ -76,6 +76,11 @@ We can’t say much more than what has already been said, so here are some links
 
 + An interesting dive into the history of a colorful major, [Mayor Thomas P McCoy (the “Price of Providence”) and the Building of McCoy Stadium (“McCoy’s Folly”)](http://smallstatebighistory.com/mayor-thomas-p-mccoy-the-prince-of-pawtucket-and-the-building-of-mccoy-stadium-mccoys-folly/){:target="_blank"}, by Dan Barry, hosted at Small State Big History
 + [The Worcester Red Sox and the Problem of History](//tht.fangraphs.com/baseball-in-the-rustbelt-the-loss-of-the-pawtucket-red-sox/){:target="_blank"}, by Matt Ellis, hosted at The Hardball Times
++ [Abandoned From Above: McCoy Stadium](https://www.youtube.com/watch?v=JSNbH5n_Qj4){:target="_blank"}, by Jason Allard. Video available on YouTube (see below)
+
+<div style="padding-bottom:75%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/JSNbH5n_Qj4" style="position:absolute; top:0; left: 0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 
 ### Current Events
