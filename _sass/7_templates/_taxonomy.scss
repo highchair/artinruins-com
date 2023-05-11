@@ -60,9 +60,9 @@
       &:hover {
         .rwd-img {
           opacity: 0.5;
-          transform: scale(1, 1) translate(-50%, -50%);
+          transform: scale(1.1, 1.1);
         }
-        
+
         .taxonomy__card-title {
           background-size: 100% 100%;
         }
@@ -109,9 +109,11 @@
 
       .taxonomy__img-wrap {
         margin: 0 0 0.5rem;
-        padding-bottom: 56.25%;
         max-width: 480px;
-        min-height: unset;
+
+        .rwd-img {
+          aspect-ratio: 8 / 5;
+        }
       }
 
       // When there are only a specific number of them
@@ -129,24 +131,15 @@
   &__img-wrap {
     background-color: palette('brand-dark-brown');
     margin: -0.5rem -0.5rem ($vertical-rhythm/2) -0.5rem;
-
-    // Make the container a 16:9
-    height: 0;
     overflow: hidden;
-    padding-bottom: (9/16 * 100%);
-    position: relative;
 
+    // For mobile, the images are naturally sized according to their dimensions
     .rwd-img {
       opacity: 1;
       transition: all 250ms ease;
-      transform: scale(1.1, 1.1) translate(-50%, -50%);
-      transform-origin: top left;
+      transform: scale(1,1);
+      transform-origin: center;
       transition-delay: 250ms;
-
-      // position the image to the center
-      position: absolute;
-      top: 50%;
-      left: 50%;
     }
   }
 
@@ -234,29 +227,25 @@
       }
     }
 
+    // For column display, the images are forced to fill their column
     &__img-wrap {
-      flex: 0 1 40%;
-      width: 40%;
-      height: auto;
-      margin: -1rem 2rem -1rem -1rem;
-      padding-bottom: 25%;
-      min-height: 25%;
+      flex: 1 0 40%;
+      margin: -1rem 1rem -1rem -1rem;
 
       .rwd-img {
-        min-height: 100%;
-        min-width: 100%;
+        height: 100%;
+        width: 100%;
         max-width: unset;
-        max-height: 125%;
+        object-fit: cover;
       }
     }
 
     &__colwrap {
-      flex: 0 1 60%;
-      width: 60%;
+      flex: 1 0 60%;
       display: flex;
       flex-flow: column;
     }
-    
+
     &__meta {
       margin-top: auto;
 
