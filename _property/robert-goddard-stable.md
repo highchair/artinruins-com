@@ -44,6 +44,9 @@ images:
     sizes: '1200, 900'
   - url: rg-stable-jh-2023-01-04.jpg
     sizes: '1200, 900'
+  - url: 1900-sanborn-v2-pl-119-01.jpg
+    caption: 'Sanborn Insurance Map 1900, Volume 2, Plate 119 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 1921-sanborn-v2-pl-21-01.jpg
     caption: 'Sanborn Insurance Map 1920-1921, Volume 2, Plate 21 — Library of Congress, Geography and Map Division'
     sizes: '1440, 900'
@@ -112,7 +115,8 @@ _Caption on the John Hutchins Cady Research Scrapbooks Collection photo_
 
 #### Maps
 
-+ [1920–1921 Sanborn Insurance Map, Volume 2, Plate 21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (page 28) — The stable is labeled as a 2 1/2 story brick (pink) building with a few small wooden (yellow) outbuildings. The large Hopeton House occupies the northeastern corner of George and Hope Streets while the southeastern corner of Hope and Benevolent is empty.
++ [1900 Sanborn Insurance Map, Volume 2, Plate 119](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002){:target="_blank"} (page 32) — The stable is labeled as a 2 1/2 story brick (pink) building with a few small wooden (yellow) outbuildings. The large Hopeton House occupies the northeastern corner of George and Hope Streets while the southeastern corner of Hope and Benevolent is empty.
++ [1920–1921 Sanborn Insurance Map, Volume 2, Plate 21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (page 28) — Much the same as the 1900 map but with slightly different labels.
 + [1926–1927 G.M. Hopkins Insurance Map, Plate 19](https://sosri.access.preservica.com/uncategorized/IO_c82222b2-d07d-45bf-9526-99a4d742c58b/){:target="_blank"} — Much the same as the 1921 map but for the newer homes to the north and east of the stable (circled in red).
 + [1937 G.M. Hopkins Insurance Map, Plate 19](https://sosri.access.preservica.com/uncategorized/IO_d7d0bc6d-2c3f-4e1e-b9d1-e9b4eb580fa8/){:target="_blank"} — While the stable remains the same, the shape of the Hopeton House in the northeast corner of the block has changed enough that we think this is a newer home. This would place the demolition of the Hopeton House between 1927 and 1937.
 + [1920–1951 Sanborn Insurance Map, Volume 2, Plate 21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (page 28) — The stable is now labelled “Club Ho.” for club house and says “Fr. Gables” (fr. for “former”) under that. The large Hopeton House is gone and a new brick dwelling is in its place. Another new dwelling is in place on the southwestern corner.
