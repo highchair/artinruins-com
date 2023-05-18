@@ -2,11 +2,11 @@
 title: "Brook Street Residence Halls"
 slug: brown-brook-st-residence-halls
 aka:
-date-modified: 2023-02-18 11:00
-update: 'Added another photo of the construction in progress'
-update-image: residence-halls-jh-2022-11-01.jpg
+date-modified: 2023-05-15 11:00
+update: 'Added two photos of the construction in progress'
+update-image: residence-halls-jh-2023-05-01.jpg
 
-built: '2022'
+built: '2022-2023'
 demolition:
 redeveloped:
 units:
@@ -58,10 +58,14 @@ images:
     sizes: '1440, 900'
   - url: residence-halls-jh-2022-11-01.jpg
     sizes: '1600, 900'
+  - url: residence-halls-jh-2023-05-01.jpg
+    sizes: '1440, 900'
+  - url: residence-halls-jh-2023-05-02.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2023-01-01
+mostrecentimage: 2023-05-01
 
-imagescredit: 'Architectural rendering from the Brwon University website'
+imagescredit: 'Architectural rendering from the Brown University website'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
