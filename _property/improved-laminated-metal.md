@@ -1,20 +1,20 @@
 ---
-title: "Improved Laminated Metals"
+title: "Improved Seamless Wire Co."
 slug: improved-laminated-metal
-aka: 'Handy & Harman Co., Improved Seamless Wire Co.'
+aka: 'Handy & Harman Co., Improved Laminated Metals'
 date-modified: 2023-01-03 15:30
 update: 'Edited information for the history and added Sanborn Maps and aerials'
 
-built: 'between 1900 and 1920'
+built: 'ca. 1908'
 demolition: '2005'
-decade: '1910-1919'
+decade: '1900-1909'
 date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: []
-tags: [ 'Demoliion by Neglect', 'Needs History' ]
+lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
+tags: [ 'Demoliion by Neglect' ]
 
 address: '775 Eddy Street, Providence RI'
 latitude: '41.806659'
@@ -92,6 +92,11 @@ Improved Laminated Metals manufactured precious metal wire, sheet and speciality
 As far as contributing to the character of the area, it made Eddy Street look even more dismal at the time, being not far from the [Eddy Street Church of Jesus]({% link _property/christ-episcopal.md %}) and other smaller derelict sites. 
 
 
+### Current Events
+
+The area is now a parking lot for the Hospitals owned by Lifespan. 
+
+
 ### History 
 
 _From Sanborn Insurance Maps_
@@ -113,7 +118,12 @@ _From Google Books_
 
 Kris Vaithinathan, Improved Laminated Metals, Rhode Island. An article titled, “Conventional Bonding Techniques for Precious Metal Clad.”
 
+***
 
-### Current Events
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
-The area is now a parking lot for the Hospitals owned by Lifespan. 
+The structure is comprised of three interconnected main blocks with numerous one-story ells. The main block is a large, two-story, L-shaped structure that faces Eddy Street. A pedestrian entrance is offset on the 15-bay wide façade (east elevation) and features a metal and glass door flanked by glass block sidelights. A large vehicular entrance is located in the northern-most bay of the façade. The building is embellished with projecting brick piers articulating each bay, corbelled cornice, and granite window sills. Fenestration is comprised of segmental-arch openings with 15/15 and 15/2 sash. Window openings on the north elevation are filled in with glass blocks; those on the rear have been boarded up. A brick chimney projects from the north end of the building. A one-story, flat-roof, concrete block ell extends along the south elevation of the main block. A square, one-story, brick structure (built between 1937 and 1956) stands to the rear (west) of the main block. Historic maps show that this block was used for storage. Attached to the north end of this block are two small, one-story, brick ells constructed between 1937 and 1956 (these blocks are not visible from the street).
+
+A brick passage extends from the west elevation of the main L-shaped block and connects the block to a two-story, brick, flat-roof structure. This block was constructed later in the twentieth century and is lacking the architectural embellishments of the main block. Fenestration consists of rectangular openings with multi-light metal sash windows. A paved parking lot is located to the north. The property is bound by a chain link fence; overgrown shrubs and brush stand to the east of the building.
+
+The **Improved Seamless Wire Company** was established and incorporated in the year 1896. The company was originally run by a Mr. Myron H. Fuller and located at 95 Pine Street. The business grew quickly in the first four years of its existence. This prompted the company to develop another location for the purposes of laminating metals and manufacturing sheet and wire tubing. They remained at their 95 Pine Street location until about 1908 when they purchased land on 775 Eddy Street for the purpose of expansion. By 1936, the company had a capitalization of $75,000 while under the leadership of George F. Sawyer. By 1952, the company is listed as a division of **Laminated Metals, Inc.** Nine years later the property was transferred to Laminated Metals, Inc. Directories from the 1970s, 80s, and 90s list the Improved Laminated Metals Co., manufacturers of wire and sheet metal. The building is currently for sale.

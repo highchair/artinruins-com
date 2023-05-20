@@ -1,7 +1,7 @@
 ---
 title: "New England Butt Company"
 slug: new-england-butt
-aka: 'Wanskuck Company, Pearl Street Lofts'
+aka: 'Wanskuck Company, Louttit Laundry Company, Pearl Street Lofts'
 date-modified: 2021-09-05 12:00
 
 built: '1865'
@@ -15,7 +15,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Armory Revival Company', 'DBVW Architects' ]
 people: [ 'Spencer P. Read', 'Frank Gilbreth' ]
-lists: [ 'Providence Industrial Sites 1981', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981', 'National Register of Historic Places' ]
 tags: [ 'Apartments for Rent', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '80000001 (individual)'
@@ -105,6 +105,18 @@ About 44,000 sf of the complex — mostly a one story, less historically signifi
 
 We are intrigued by what looks like [a new podcast coming all about the history of the New England Butt Company](http://www.nebuttco.com){:target="_blank"}.
 {:.o__tldr}
+
+***
+
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+
+It is a complex of two- and three-story, brick structures with flat roofs. The northern block (at Pearl Street) is a three-story block notable for its four-story, flat-roof elevator tower at the corner of Pearl and Central streets. A vehicular entrance with metal roll top door is offset on the façade (Central Street elevation) and a recessed pedestrian entrance is centrally located on this elevation. Window openings have been bricked in and boarded up. Modern signage reading **“Harold’s Furniture”** is located at the second-story level of the façade. The building’s rear (Rice Street) elevation consists of multiple vehicular entrances along the first story. Window openings on this elevation are segmental arch. The southern end of this block is lower than the remainder. A covered walkway connects this block to a three-and-one-half-story, gable-roof building on the north side of Pearl Street.
+
+A two-story, flat-roof, concrete block ell connects to the west of the three-story block on Central Street. Attached to the west is a two-story brick building with rows of segmental-arch openings (filled in) on the fa9ade and segmental-arch window openings above.
+
+On June 14, 1896, an English immigrant named William E. Louttit formed a small laundry business, then known as “**Louttit’s Home Hand Laundry**,” in a simple frame building located at Warren Street and Elmgrove Avenue in Providence. City directories from the early twentieth century list Louttit’s Home Hand Laundry at 307 Broad Street. The company is listed as having locations on Broad, Pearl and Central streets in the 1910s and 1920s. The 1919 map identifies the southern portions of the complex as Louttit’s Laundry while the northern half was occupied by **Payton & Kelley Jewelry Factory**.
+
+During this same period, the company expanded and purchased the former home of the Hathaway Brothers’ **What Cheer Steam Laundry** [at Burgess and Cranston streets]({% link _property/louttit-laundry.md %}) in 1918. Louttit Laundry eventually grew to be the largest laundry business in Rhode Island, with approximately 150 employees at the Burgess Street plant and sixteen outlets throughout the state. Louttit continued to own the Central Street plant until 1975 when Contenti Properties acquired the site.
 
 ***
 

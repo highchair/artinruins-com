@@ -15,7 +15,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'North End' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Wanskuck Historic District', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Wanskuck Historic District' ]
 tags: [ 'Apartments for Rent', 'The Superlatives', 'Providence Public Library Digital Collections' ]
 superlative: 'In 1883 this was the first mill in Rhode Island to be lit by electricity'
 
@@ -107,19 +107,29 @@ imagescredit: 'Contributions by <a href="//provlibdigital.org/islandora/object/i
 
 ### Redevelopment
 
-The large complex of brick structures has been underutilized for some time. Business have come and gone in the spaces and some with questionable neighborhood contributions as one of our photos show. Still, other businesses were on the up and up and the space was plentiful and affordable. 
+The large complex of brick structures has been underutilized for some time. Business have come and gone in the spaces and some with questionable neighborhood contributions as one of our photos show. Still, other businesses were on the up and up and the space was plentiful and affordable.
 
-In August 2015 federal, state and city investigators discovered more than 1,400 marijuana plants growing in at least seven converted apartments. In 2017, the former owner of the complex was jailed for the cannibis and the body of a former nightclub owner was found during construction. The former owner had ties to organized crime and the body was later part of another open mob case. All in all, it was a grizzly end to his ownership of the complex. 
+In August 2015 federal, state and city investigators discovered more than 1,400 marijuana plants growing in at least seven converted apartments. In 2017, the former owner of the complex was jailed for the cannibis and the body of a former nightclub owner was found during construction. The former owner had ties to organized crime and the body was later part of another open mob case. All in all, it was a grizzly end to his ownership of the complex.
 
-Since then, a new group has assumed ownership and is converting the 300,000sf building into mostly residential space. The one-story bump-out along Branch Avenue has been removed, new windows have been added throughout, and improvements have been made to landscaping and parking. The charming smaller buildings in front of the larger mill complex have also been cleaned, reinforced, and renovated. 
+Since then, a new group has assumed ownership and is converting the 300,000sf building into mostly residential space. The one-story bump-out along Branch Avenue has been removed, new windows have been added throughout, and improvements have been made to landscaping and parking. The charming smaller buildings in front of the larger mill complex have also been cleaned, reinforced, and renovated.
 
 
 ### Current Events
 
-The mill is being renovated and converted into 225 apartment units — a mix of studios, 1- and 2-bedrooms. Spaces are available for rent now with more coming online in the spring of 2021. 
+The mill is being renovated and converted into 225 apartment units — a mix of studios, 1- and 2-bedrooms. Spaces are available for rent now with more coming online in the spring of 2021.
 
 
 ### History
+
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+
+The structure that dominates this mill complex’s landscape is a five-story brick textile mill with a tall, square, central stair-and-freight that tapers to an octagonal opening lantern capped by a low, copper-clad, ogee dome. There was a four-story addition made to the west of the main building between 1874 and 1875. An office was added to the southwest part of the main building in the 1880s. This office was later supplanted by a two-story, brick, Romanesque office. North of the main building in the mill yard are numerous outbuildings including: blacksmith shops, picker, engine, and boiler houses, and a circular, brick gasometer).
+
+The Wanskuck Company was founded in 1862 by Jesse Metcalf, Henry J. Steere, and Stephen J. Olney to manufacture woolens and worsted clothes. This mill was built partly because of the scarcity of cotton cloth in the North during the Civil War. Because of the mills’ rapid success, expansions were made by Henry Steere on Wild Street in 1884 and on Douglas Avenue by the company in 1893. They were named Steere Mills and Geneva Mills. The company expanded its operations outside of Providence, building both Mohegan and Oakland Mills.
+
+Mill workers' housing was also constructed by the company to house its many employees. [A social hall (Wanskuck Hall)]({% link _property/wanskuck-hall.md %}) was also built on 754 Branch Avenue for the workers enjoyment. The Metcalf family eventually came to dominate the company. Like so many other mills the company closed during the 1950s (Woodward 1986:150; RlHPHC data sheets; National Register nomination). Now the buildings hold a number of manufacturing companies.
+
+***
 
 _From the National Register nomination form prepared in 1981_
 
@@ -128,7 +138,7 @@ The 5-story brick mill stretches for about 400 feet along the north side of Bran
 In 1883 about $20,000 was spent on electric lighting, making Wanskuck the first mill in Rhode Island to boast this modern convenience.
 {:.o__pull-quote}
 
-The chronology of construction of the Wanskuck Woolen Mill is complex, beginning with demolition in 1862 of a 3-story, stone, gambrel-roofed cotton mill that had been on the site since about 1811. Between 1862 and 1864 William H. Salisbury, the mill's first superintendent, directed construction of the 4-story, gable-roofed brick mill that measured 300 by 500 feet with a 134 by 40-foot ell. (Within a few decades the gable roof was removed and a fifth story and flat roof were added). Built at the same time were a gas house, a round gasometer, a blacksmith shop, boiler house, engine house, and office (replaced in the late 19th century by the structure now on Branch Avenue). The gasworks provided gas lighting for the mill. Operations were powered by Corliss engines, and water from the West River was reserved for washing wool. In 1869 the company was one of the first in the United States to experiment with worsted production, and to house this expanding operation a 4-story, 348 by 71-foot extension to the west was completed in 1874 as well as a new dye house and power plant. A 3-story, 100 by 50-foot picker house and dyehouse had been added in the previous year. Machinery was constantly being upgraded and much of it, particularly that related to worsted production, was imported from England. In 1883 about $20,000 was spent on electric lighting, making Wanskuck the first mill in Rhode Island to boast this modern convenience. By 1895 the mill also had a telephone connection. The 3-story, 306 by 72-foot eastern extension was added in 1906, as was a 1-story engine room and adjacent boiler room. There were few other changes after that time. The mill was closed in 1957, and the space has since been divided and rented to a number of small firms. 
+The chronology of construction of the Wanskuck Woolen Mill is complex, beginning with demolition in 1862 of a 3-story, stone, gambrel-roofed cotton mill that had been on the site since about 1811. Between 1862 and 1864 William H. Salisbury, the mill's first superintendent, directed construction of the 4-story, gable-roofed brick mill that measured 300 by 500 feet with a 134 by 40-foot ell. (Within a few decades the gable roof was removed and a fifth story and flat roof were added). Built at the same time were a gas house, a round gasometer, a blacksmith shop, boiler house, engine house, and office (replaced in the late 19th century by the structure now on Branch Avenue). The gasworks provided gas lighting for the mill. Operations were powered by Corliss engines, and water from the West River was reserved for washing wool. In 1869 the company was one of the first in the United States to experiment with worsted production, and to house this expanding operation a 4-story, 348 by 71-foot extension to the west was completed in 1874 as well as a new dye house and power plant. A 3-story, 100 by 50-foot picker house and dyehouse had been added in the previous year. Machinery was constantly being upgraded and much of it, particularly that related to worsted production, was imported from England. In 1883 about $20,000 was spent on electric lighting, making Wanskuck the first mill in Rhode Island to boast this modern convenience. By 1895 the mill also had a telephone connection. The 3-story, 306 by 72-foot eastern extension was added in 1906, as was a 1-story engine room and adjacent boiler room. There were few other changes after that time. The mill was closed in 1957, and the space has since been divided and rented to a number of small firms.
 
 _Did you know?_ The North End of Providence became part of North Providence in 1765. As it grew, it was later “returned” to Providence in 1874. Also, the large pond (Wanskuck Mill pond) adjacent to the north flank of the mill was full until the late 1950s, when it allowed to drain and created the marsh that is present now. 
 {:.o__tldr}

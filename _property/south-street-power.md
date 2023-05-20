@@ -16,7 +16,7 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Jenks and Ballou Architects', 'DBVW Architects' ]
 people: [ 'Edward Goff', 'Marsden J. Perry' ]
-lists: [ 'National Register of Historic Places', 'PPS Ten Most Endangered' ]
+lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
 tags: [ 'The Superlatives', 'Former/Current Power Plant', 'LEED in RI', 'Providence Public Library Digital Collections' ]
 superlative: 'This power plant once boasted the largest steam engine in the world, weighing more than 500 tons'
 

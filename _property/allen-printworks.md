@@ -15,7 +15,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'Phillip Allen', 'Crawford Allen', 'Zachariah Allen' ]
-lists: [ 'Providence Industrial Sites 1981', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:
@@ -135,6 +135,20 @@ More about Zachariah Allen at [Small State, Big History](//smallstatebighistory.
 
 ***
 
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+
+A complex near the Moshassuck River that includes a three-story brick mill with a central tower topped by a jerkinhead-gable roof. The southern section of the gambrel roofed mill was built in 1871 and the northern part in 1874. The three-story structure is comprised of several three-story blocks with a five-story, hip-roof tower on its east elevation. Also part of the complex to the east is a two-story stone and brick structure with a monitor roof. It is believed that this building may
+date from 1812 when it was owned by the **Rhode Island Woolen Company**.
+
+R.l. Governor and Senator Phillip Allen founded the company in 1830. An innovator in the textile industry, he introduced machines for the printing of textiles. Previously, printing patterns on textiles had been done by hand, a slow and laborious process.
+
+Through the nineteenth century, the Allen Printworks continued to be managed by the Allen family, most notably by Zachariah Allen, who was a key figure in the New England Industrial Revolution, known for his inventions of textile machinery. The company’s shareholders eventually took charge of the firm and in 1901 it was sold to **Roger Williams Finishing Company**, which continued to use the plant for cloth printing into the 1920s. By the 1930s, the complex housed several smaller industries (Kulik 1978; Woodward 1986; RIHPHC 1981). The 1983 map identifies the structure as Barmal Realty Corp. Lot Buildings. Today the large 1870s mill is home to Providence Picture Frame and Dryden Galleries, Ltd. and the small stone building is used as office space.
+
+***
+
+<details markdown="1" class="rhythm">
+  <summary>Older Descriptions</summary>
+
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
 The **Allen Printworks**, more than any other printing establishment in Providence, was a vital force in the textile and cloth-printing industry. Founded in 1830 by Phillip Allen — an engineer, inventor, and governor and state senator — the Phillip Allen & Sons Company originally printed cloth by hand with carved blocks, but as early as 1835 Allen introduced printing machines to his establishment which greatly increased the speed of calico production. By 1846 Phillip Allen & Sons had five printing machines and employed 250 workers who turned out 130,000 yards of calico cloth a week. By 1849 the printworks had one main mill and six ancillary structures surrounding it.
@@ -154,3 +168,5 @@ Phillip Allen & Sons established a print works on this site in 1830–1831. Craw
 The main brick mill on the site stands three to four stories high. The section north of the 5-story central tower was built in 1874 and measures 115' x 51' – 54'. The section south of the tower, 54æ x 79' – 62', was built three years earlier. The back of the north section is largely stone, suggesting that an older structure was incorporated into the 1874 wing. A jerkinhead roof covers both the 1871 and 1874 wings. A small, 2-story, stone and brick structure, with a trap-door monitor roof, stands to the east of the main mill. Perhaps the oldest building on the site, it may very well be the original 1830 mill. 
 
 Other than two steam pumps, no old machinery remains. The buildings are now tenanted. 
+
+</details>

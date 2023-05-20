@@ -15,7 +15,7 @@ neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'DBVW Architects' ]
 lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey' ]
-tags: [ 'The Superlatives', 'Apartments for Rent' ]
+tags: [ 'Apartments for Rent', 'The Superlatives' ]
 suprlative: 'The older building in this complex is one of only a handful of wood-framed mill buildings in the state'
 
 NRHP-ref-number: '03001521 (individual)'
@@ -182,7 +182,7 @@ In 1975 the Rau division of U.S. Industries was sold to Premier Metal; ten years
 <details markdown="1" class="rhythm">
   <summary>More history</summary>
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 A large complex on the east side of Dexter Street at the corner of Dexter and Sprague streets. The complex consists of three parts: a three-story brick building facing Westfield Street (1890), a two-story brick factory building facing Dexter Street, and a four-story building (Ada Building) to the east. The Dexter Street factory building (1952) stands behind a paved lot on the east side of Dexter Street. It is a large, two-story, brick, rectangular structure with a flat roof. Several loading bays are located on the first floor level of the west elevation. Fenestration is comprised of rows of rectangular, fixed and awning windows. To the east is the three-story, brick block set perpendicular to the street. The building features segmental-arch window openings with a combination of multi-light sash and brick and wood infill with stone sills. A tall, brick smokestack with brick corbelling stands as a prominent feature of the complex. To the east is the four-story, gable-roof, L-shaped Loft building, which stands parallel to Sprague Street. This block features similar fenestration to the three-story block and features a one-story boiler room on its northwest side. A two-story, wood-frame building clad in metal sheathing stands on the north side of Westfield Street.
 

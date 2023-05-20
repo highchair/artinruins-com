@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'PPS Ten Most Endangered', 'Broadway-Armory Historic District', 'National Register of Historic Places' ]
+lists: [ 'Broadway-Armory Historic District', 'National Register of Historic Places', 'PPS Ten Most Endangered', 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Neglect', 'Demolition without Permit', 'Former/Current Schools' ]
 
 NRHP-ref-number: '74000047 (contributing)'
@@ -109,11 +109,16 @@ The lot where the building once stood is still an empty lot, not officially pave
 
 ### History
 
-Built at the turn of the twentieth century, the schoolhouse rises two stories and is topped by a hipped roof and a massive brick chimney. The T-shaped structure is articulated by brick quoins on the corners and modillion blocks at the cornice. Pedestrian entrances are housed within recessed, arched openings located in two-story, hip-roof wings flanking the central block. The arched openings feature brick corbeling and keystones. The building stands on a granite foundation and features a watertable at the raised basement level. Fenestration consists of rectangular window openings with several round-arch openings with granite sills; windows have been boarded up. The property is surrounded by a chain link fence with a small paved parking area.
+The [Grove Street school](//guide.ppsri.org/property/grove-street-elementary-school){:target="_blank"} was included on <abbr title="Providence Preservation Society">PPS</abbr>’s Ten Most Endangered Lists in 2002, 2003, 2007, 2008, 2009, 2010, and 2011.
 
-The Grove Street Elementary School was constructed as a public grammar school during a period of massive immigration. The building first appears on the 1908 Sanborn map and is identified as a “school.” Subsequent maps show that the building has retained its original size and shape over its 100-year existence. 
+***
 
-The [Grove Street school](//guide.ppsri.org/property/grove-street-elementary-school){:target="_blank"} was included on <abbr title="Providence Preservation Society">PPS</abbr>’s Ten Most Endangered Lists in 2002, 2003, 2007, 2008, 2009, 2010, and 2011. 
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+
+Built at the turn of the twentieth century, the schoolhouse rises two stories and is topped by a hipped roof and a massive brick chimney. The T-shaped structure is articulated by brick quoins on the comers and modillion blocks at the cornice. Pedestrian entrances are housed within recessed, arched openings located in two-story, hip-roof wings flanking the central block. The arched openings feature brick corbeling and keystones. The building stands on a granite foundation and features a watertable at the raised basement level. Fenestration consists of rectangular window openings with several round-arch openings with granite sills; windows have been boarded up. The property is surrounded by a chain link fence with a small paved parking
+area.
+
+Built in 1901, the Grove Street Elementary School was constructed as a public grammar school during a period of massive immigration. The building first appears on the 1908 Sanborn map and is identified as a “school.” Subsequent maps show that the building has retained its original size and shape over its 100-year existence. The building is currently privately owned.
 
 ***
 

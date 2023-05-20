@@ -1,7 +1,7 @@
 ---
-title: "Louttit Laundry"
+title: "What Cheer Steam Laundry"
 slug: louttit-laundry
-aka: "What Cheer Steam Laundry"
+aka: "Louttit Laundry"
 date-modified: 2020-07-06 16:53
 
 built: '1906'
@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered', 'Providence Industrial Sites 1981' ]
 tags: [ 'Demolition by Neglect', 'Demolition by Fire', 'The Superlatives' ]
 superlative: 'After 1925, the largest laundry business in RI with 150 employees and 16 outlets throughout the state'
 
@@ -177,11 +177,11 @@ imagescredit: Contributions by Christopher Martin, <a href="//quahog.org" target
 
 ### Reason for Demolition
 
-The Louttit Laundry Building had been vacant since 1987 and had appeared on [PPS’s Ten Most Endagered List](//guide.ppsri.org/property/what-cheer-stream-laundry) seven times. In 1999, following a number of failed attempts to renovate the former dry cleaning plant, the City foreclosed on the property.
+The What Cheer Laundry Building had been vacant since 1987 and had appeared on [PPS’s Ten Most Endagered List](//guide.ppsri.org/property/what-cheer-stream-laundry) seven times. In 1999, following a number of failed attempts to renovate the former dry cleaning plant, the City foreclosed on the property.
 
-In December 1999, the RIDEM performed a base line survey followed by a Phase II site assessment that found extensive tetrachloroethylene (TCE) and oil contamination at the site. Remediation and redevelopment for the site was expected to cost at least $1.5 million.
+In December 1999, the <span class="abbr">RIDEM</span> performed a base line survey followed by a Phase II site assessment that found extensive tetrachloroethylene (<span class="abbr">TCE</span>) and oil contamination at the site. Remediation and redevelopment for the site was expected to cost at least $1.5 million.
 
-On May 13, 2001, the rear half of What Cheer suffered a three alarm fire. The part that caught fire is the oldest part of what was Louttit Laundry. The front part which was still standing afterwards was added to the structure later in its life. The fire-torn half of the building was demolished as it was damaged beyond repair.
+On May 13, 2001, the rear half of What Cheer suffered a three alarm fire. The rear part that caught fire was the oldest portion. The front part which was still standing afterwards was added to the structure later in its life. The fire-torn half of the building was demolished as it was damaged beyond repair.
 
 The building then stood vacant and derelict for many years. Starting in December of 2008, what remained of the building came down. Asbestos removal and clean out of the basement started first. At the time, the land had no redevelopment proposals on it but the extensive Brownfield clean up required had put off any plans for a number of years. As it went, it took nearly ten years for new buildings to be constructed at this site. 
 
@@ -212,6 +212,7 @@ The Louttit Laundry Building (1925) is a large, long, 2-story, flat-roof, brick 
 The office block faces Cranston Street and is three bays wide on the first floor, five on the second, with a slightly projecting gabled center bay. The building is trimmed with cast concrete window sills and splayed lintels, quoins and entryway in the central bay, a heavy cornice molding, and panels in the parapet simulating a balustrade. A tile medallion is under the pediment; it depicts Roger Williams's landing in Providence and the motto "What Cheer Brings Good Cheer." A Palladian window is located above the entry; a large triple window is set on each side of the doorway. The double-hung window sash (8-over-8) is mostly missing, but operable transoms remain in some openings. The decorative elements of the office block are carried around the corners of the building for one bay. A small single-story wing on the east end of the office block covers a loading dock. It has a flat roof and blind panels worked in the brick. On the interior the office block has a center stair and a room on each side of the stair. The offices have paneled wainscots, cornice moldings, and built-in shelving. The offices on the west side on both floors have simple Colonial Revival corner fireplaces.
 
 The laundry block is thirteen bays long and also two stories. Its grade is about three feet higher than the office block, a short run of steps leads from the interior of one to another. Identical double windows are set on a continuous sill of cast concrete. There is a shallow cornice worked in the brick. The window sash is mostly missing, but there are sufficient remnants to show 8-over-8 double-hung sash with movable transoms. There is a squat square stair tower with a glass pyramidal roof set at the southeast corner of the building. The rear (north) elevation of the building was, until recently, joined to an earlier section of the Louttit Laundry. When fire destroyed the earlier building it was razed, and this rear elevation now shows the openings that originally connected the two structures. The interior of the laundry block is open industrial space divided only by two rows of iron columns. 
+
 
 #### Significance
 

@@ -17,7 +17,7 @@ neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981', 'Pine Street Historic District' ]
+lists: [ 'National Register of Historic Places', 'Pine Street Historic District', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: []
 
 NRHP-ref-number: '78000005 (contributing)'
@@ -119,13 +119,13 @@ Since then, Thames and Kosmos has moved to Ship Street in the Jewelry District a
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 The building is a two-and-one-half-story, brick, gable-roof building set on the west side of Friendship Street. The building features brick corbelling at the cornice line, cornice returns, and a central entrance on its facade. The entrance is reached by a set of stairs with a simple iron rail and is set below a stone lintel and second-story entrance with paired doors. A secondary entrance is located at the rear of the south elevation. A two-story, hip-roof ell projects from the rear of the building and houses a vehicular entrance on its east elevation. Fenestration is comprised of rectangular and segmental-arch openings with 8/8 and 6/6 sash windows with granite sills and lintels. A small paved parking area stands to the south.
 
-Sylvester R. Jackson founded his soap and candle manufacturing firm in 1841 on Bridgham Street. Jackson purchased the property at 301 Friendship Street and built a factory there ten years later. Jackson & Company manufactured soap at this site up until 1866. The property was then sold to Phettleplace and Bartlett Company, soap manufacturers; and again to Woodley & Leonard for the same purpose of soap and candle manufacturing. It would serve this function until 1903.
+Sylvester R. Jackson founded his soap and candle manufacturing firm in 1841 on Bridgham Street. Jackson purchased the property at 301 Friendship Street and built a factory there ten years later. **Jackson & Company** manufactured soap at this site up until 1866. The property was then sold to **Phettleplace and Bartlett Company**, soap manufacturers; and again to **Woodley & Leonard** for the same purpose of soap and candle manufacturing. It would serve this function until 1903.
 
-The property was then purchased by Samuel Moore & Company who used the building for the manufacture of jewelry. It was then purchased by Fulford Realty Co. in 1960. The Citywide Survey (Woodward 1986) reports that Samuel Moore and Company continued to operate out of this site through to at least 1986 (RIHPHC data sheet; RIHPHC 1981:512; Woodward 1986).
+The property was then purchased by **Samuel Moore & Company** who used the building for the manufacture of jewelry. It was then purchased by Fulford Realty Co. in 1960. The Citywide Survey (Woodward 1986) reports that Samuel Moore and Company continued to operate out of this site through to at least 1986 (RIHPHC data sheet; RIHPHC 1981:512; Woodward 1986).
 
 ***
 

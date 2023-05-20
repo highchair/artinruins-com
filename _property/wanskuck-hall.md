@@ -4,7 +4,7 @@ slug: wanskuck-hall
 aka:
 date-modified: 2020-12-15 12:00
 
-built: '1884'
+built: '1881–82'
 demolition: 
 redeveloped:
 decade: '1880-1889'
@@ -13,7 +13,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'North End' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Wanskuck Historic District', 'National Register of Historic Places' ]
+lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Wanskuck Historic District' ]
 tags: []
 
 NRHP-ref-number: '83003867 (contributing)'
@@ -79,6 +79,14 @@ When the mill closed in the late 1950s, the hall was converted to office spaces.
 
 
 ### History
+
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+
+Wanskuck Hall is a two-story, red, brick building with a low-hipped roof and a wide projecting ornamental fa9ade supported on attenuated brackets. This highly embellished building features decorative cornice, decorative brickwork bands, stone trim, segmental-arch window openings, and limited brick corbelling. A gable-roof projection extends from the front elevation and bears the words “Wanskuck Hall.” The building's primary entrance is offset on the façade within a recessed segmental-arch opening with a simple door flanked by single-light sidelights and set below a single-light transom. Fenestration is comprised of 2/2 and 1/1 sash windows; windows on the first floor façade are set below arched openings with decorative carved wood panels embellished with a floral motif. A one-story addition extends from the rear elevation of the building.
+
+This building was constructed as part of the Wanskuck Mill Village by the Wanskuck Company to provide a facility for social gatherings and cultural activities for the mill workers. The building was also used as a Sunday School for the Roger Williams Baptist Church until 1897 (refer to National Register nomination for additional information).
+
+***
 
 _From the National Register nomination form prepared in 1981_
 

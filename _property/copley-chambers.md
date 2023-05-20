@@ -15,7 +15,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: []
+lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: []
 
 NRHP-ref-number:

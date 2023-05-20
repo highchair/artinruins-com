@@ -15,7 +15,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: []
 people: []
-lists: [ 'National Register of Historic Places', 'U.S. Rubber Co. Mill Complex', 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'U.S. Rubber Co. Mill Complex' ]
 tags: [ 'Apartments for Rent' ]
 
 NRHP-ref-number: '05000917 (individual)'
@@ -148,6 +148,8 @@ For leasing information, visit [the Brady Sullivan website](//bradysullivan.com/
 	+ After 1931, U.S. Rubber’s plant in Eau Claire, Wisconsin, was one of the world’s largest supplier of original equipment tires
 + Around 2008, Scott Molloy published [a book about Joseph Banigan called “Irish Titan, Irish Toilers”](//www.uri.edu/news/2008/07/uri-professors-book-explores-life-of-joseph-banigan-new-england-labor/){:target="_blank"}
 
+***
+
 _From the National Register Nomination form for the United States Rubber Company Mill Complex, Edward Connors, 2005_
 
 The United States Rubber Company Mill Complex is a large factory complex that evolved from the late-nineteenth to the mid-twentieth century, consisting, for the most part, of large, long, gable-roofed, red brick buildings, one to five stories tall, on an expansive site along Valley Street, on the banks of the Woonasquatucket River. […]
@@ -172,7 +174,6 @@ U.S. Rubber secured extensive military contracts during WW2, reaching an all-tim
 
 [_Unlike the National Register nomination report, we have placed the buildings in order by build date. Headings for building groupings have been added by A.I.R._]
 
-
 ##### Buildings 3 and 5 represent the Saxon Worsted Company as built between 1890 and 1896
 
 ###### Granite water level marker (after 1875)
@@ -185,7 +186,6 @@ A brick, four-story, roughly 125' by 50', trapezoidal plan, timber frame, buildi
 
 A rear 3-story, brick tower connects this building to Building 5, Building 7 (<abbr title="quod vide">q.v.</abbr>) and provides passage between this building and Building 5.
 
-
 ###### Building 5, Saxon Worsted/Banigan Rubber Company Main Manufacturing Building (c. 1890, 1896)
 
 A four-story, 325' by 50', brick building resting on a granite foundation, built by Saxon Worsted about 1890. Joseph Banigan acquired this building in 1896 and hired Gilbane Brothers to build a 7-story tower. This building served as the main manufacturing plant of Banigan Rubber Company. Iron columns are round-section; floor and truss framing is timber. The 1896 off-center, seven-story tower with segmental arch windows and ornate Victorian detailing has been altered significantly. These tower alterations include the removal of two stories above the brick corbelling as well as removal of the original paired segmental arch windows on the three remaining floors. These arched openings were partially bricked-in the early 20th century to create the rectangular openings visible today.
@@ -197,7 +197,6 @@ The building has a gable roof with exposed rafter ends. A 20th-century brick tra
 Original windows, many of which are found on the rear elevation are segmental arch, wood-frame windows with a wooden sill. These consist of an 8-light transom fitted to the arch and lower 12- and 8-light sashes. The remaining windows are of various 20th-century designs or brick-filled.
 
 The main entrance to this building is an altered 20th-century doorway at the base of the tower. A partial east tower connects this building with Building 6.
-
 
 ##### Buildings 1, 2, 3, 5, 10, and 14 represent the Joseph Banigan Rubber Company plant as it existed from 1896 until  1910
 
@@ -212,7 +211,6 @@ Windows in the 1896 portion are segmental arch, consisting of upper, paired, 4-l
 ###### Building 2, Banigan Rubber Company Boiler House (1896)
 
 A brick, deep single story, roughly 30' by 50', timber-frame, shallow gable-roofed boiler house connected to Building 1. Although the foundation is not visible, the construction date of this building would indicate that it is granite. The cornice is wooden with rafter ends exposed. Single story, brick infill built between 1918 and 1921 occupies the space between this building and Building 5.
-
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-us-rubber-2011-03-01">
@@ -231,7 +229,6 @@ Although several are brick-filled, upper floor windows are typically segmented a
 
 In 1921 this building housed a thread cutting operation (1st floor), steam curing (2nd floor), and golf ball manufacture (3rd floor). […]
 
-
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-us-rubber-2011-03-13">
     <img src="{{ site.propimg_path }}{{ page.slug }}/us-rubber-2011-03-13.jpg" alt="" />
@@ -245,11 +242,9 @@ A brick, 62' by 18', single-story, gable-roofed building on the north bank of th
 
 The function of this building in the original Banigan plant is unknown. In 1921, it served as a cement house and churn house. […]
 
-
 ##### Joseph Banigan Rubber Company acquired by U.S. Rubber 1910
 
 Buildings 4, 6, 8, 9, 11, 12, 15, 18, 33, and 34 represent an expansion of the banigan Rubber Company plant after its acquisition by the U.S. Rubber Company in 1910. Most of these buildings were constructed by Cruise and Smiley, of Pawtucket, Rhode Island.
-
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-us-rubber-2011-03-07">
@@ -263,7 +258,6 @@ Buildings 4, 6, 8, 9, 11, 12, 15, 18, 33, and 34 represent an expansion of the b
 A two-story, 162' by 56', brick, rectangular plan, steel frame, gable roofed building. At the ground level two original segmental arch openings are altered: one is brick filled; the other has been altered to accept a modern door. Upper story windows are rectangular metal frame. An oculus facing the alley is now filled with plywood. Above this oculus is a panel reading _RRCO 1911_ (Revere Rubber Company).
 
 In 1921 this building was used for rubber storage (1st floor) and tire curing (2nd floor).
-
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-us-rubber-2011-03-15">
@@ -280,16 +274,13 @@ An altered segmental arch door opens to the courtyard defined by Buildings 5 and
 
 In 1921 this building housed a machine shop (1st floor) and a carpenter shop (2nd floor). It also housed the company printshop. […]
 
-
 ###### Building 4, U.S. Rubber Company Building (between 1911 and 1918)
 
 A single-story, brick, trapezoidal plan infill building, roughly 130' by 44', built int he space defined by Valley Street and the rear elevation of Building 5. This shallow-pitched gable roof building is attached to Building 3, 5, and 6. It has a concrete foundation, steel beam roof structure, and half-round ceramic coping at the roofline. Windows are loosely-spaced, segmental arch, metal-frame, 12-light, with a brick sill. The entrance to this building is at the east end of neighboring Building 3. In 1921 it served as a rubber thread room.
 
-
 ###### Building 18, U.S. Rubber Company Dip Goods Building (1911)
 
 A two-story, brick, 115' by 32' building sited at the edge of the Woonasquatucket. This steel frame, pier and spandrel building has a concrete foundation and a flat roof with a half-round ceramic coping defining the roofline. Brickwork above the 2nd-floor windows is corbelled in four courses to meet the surface of the adjoining piers. Surviving original windows are 20-light metal frame set in a rectangular opening with a brick sill. A six-light casement pivots open. Some original windows, especially those on the first floor, have been replaced with late 20th-century replacement type. Two overhead walkways span the alley to permit passage to Buildings 8 and 10. There are three segmented arch openings on the first floor; two are brick-filled. The remaining arched entrance has an original transom and a late 20th-century metal door. A partial, shingled gable roof was added over the existing roof sometime ca 1970.
-
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-us-rubber-2006-03-05">
@@ -302,7 +293,6 @@ A two-story, brick, 115' by 32' building sited at the edge of the Woonasquatucke
 
 A 3-story, 100' by 37', flat-roofed, reinforced concrete building with brick walls. Altered modern entrances are located on the east and north elevations. No original windows survive.
 
-
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-us-rubber-2011-03-02">
     <img src="{{ site.propimg_path }}{{ page.slug }}/us-rubber-2011-03-02.jpg" alt="" />
@@ -314,11 +304,9 @@ A 3-story, 100' by 37', flat-roofed, reinforced concrete building with brick wal
 
 A reinforced concrete frame and stuccoed brick structure that comprises a ground-level enclosed room. This structure is 160' by 12' and is supported by four concrete piers and the walls of the ground floor enclosure. A low parapet, partly brick and partly concrete is defined by ceramic coping. Windows are rectangular, 24-light, metal frame with a concrete sill. […]
 
-
 ###### Building 11, U.S. Rubber Company Dip Goods Building (between 1918 and 1921)
 
 This 100' by 32' building is an extension of Building 18, duplicating its design. It extends from the east wall of Building 18 to Eagle Street. Unlike Building 18, there are no street level segmental arch entrances. Two modern garage doorways have ben cut in along the alley. […] The south foundations of Buildings 11 and 18 are integral with the Woonasquatucket river wall.
-
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-us-rubber-2011-03-05">
@@ -333,11 +321,9 @@ An irregular plan, brick, roughly 100' by 50', two-story boiler house. The roof 
 
 In 1921 this building was subdivided for three separate industrial functions. The eastern section served as the boiler house; the middle section was a pump room drawing fuel from nearby tanks; and the rear section housed refrigeration machinery.
 
-
 ###### Building 34, U.S. Rubber Company building (between 1918 and 1921)
 
 A roughly 50' by 70', trapezoidal plan extension of Building 6 occupying the corner of Valley and Eagle Streets. All Eagle Street segmental arch openings have been bricked-in. The upper-story oculus windows on this elevation are also fitted with ventilation fans.
-
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-us-rubber-2011-03-03">
@@ -354,16 +340,13 @@ Original windows are metal frame, 14-light with two 4-light hoppers. A row of or
 
 An elevated, enclosed bridge spans Eagle Street and connects this building to Building 10.
 
-
 ###### Building 33, U.S. Rubber Company Connector Building (between 1926 and 1937)
 
 A four-story connector building between Buildings 5 and 8. This reinforced concrete frame structure is similar in design to Buildings 14 and 15 (1913). The concrete loading dock along the elevation of Building 5 likely dates to this period. A ground-level, corrugated steel enclosure has been built on this dock at the base of the building. Within this enclosure, original first floor segmental arch window openings are concrete block filled.
 
-
 ###### Building 35, U.S. Rubber building (1929)
 
 A single-story, 112' by 340', brick, flat-roofed building designed by Lockwood Greene and built by Cruise Construction (Pawtucket). This irregularly massed building has two different roof heights along Valley Street: a 4-bay section at the east end and a 10-bay section at the west end are 25' in height. The 20-bay section that forms the middle is 19' in height. The floor is concrete. An elevator tower is located on the Eagle Street elevation. An elevated garage door opens onto Eagle Street. A series of single-story additions built between 1951 and 1960 are found on the east elevation. Typical windows are paired, rectangular, metal-frame, 18-light with concrete sill.
-
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-us-rubber-2006-03-06">
@@ -379,7 +362,6 @@ A single-story, 100' by 75', steel-frame, gable-roofed, utilitarian building res
 ###### Building 85, U.S. Rubber Company building (between 1937 and 1951)
 
 [_For a description and photographs of Building 85, now construction dated at 1929, see our property listing for [U.S. Rubber Company building 85]({% link _property/us-rubber-building-85.md %})._]
-
 
 ##### Acquisition of the American Locomotive Automobile Company buildings in 1918
 
@@ -417,7 +399,7 @@ In August, the EPA said it would seek a $139,171 penalty from two Brady Sullivan
 
 Knowing about the problems at Mill West, he said, means “you become more interested in making sure things are on the up and up.” But he added that many large real-estate developers have experienced similar problems at one time or another. “It happens to the best of them,” he said.
 
-In 2005, another out-of-town developer, Baltimore-based Struever Bros., Eccles & Rouse announced plans for a $333-million mixed-use development of the 23-acre U.S. Rubber complex. Struever’s grand plan called for 650 residences, 450,000 square feet of commercial space and a 180-room hotel. But the company faltered in the wake of the economic crisis of 2008, and a section of the site was slated for a foreclosure auction in 2011. […]
+In 2005, another out-of-town developer, Baltimore-based [Struever Bros., Eccles & Rouse]({% link designer/sber.html %}) announced plans for a $333-million mixed-use development of the 23-acre U.S. Rubber complex. Struever’s grand plan called for 650 residences, 450,000 square feet of commercial space and a 180-room hotel. But the company faltered in the wake of the economic crisis of 2008, and a section of the site was slated for a foreclosure auction in 2011. […]
 
 **Brady Sullivan-Starr Development mill-to-apartment projects in R.I.**
 
@@ -428,9 +410,9 @@ In 2005, another out-of-town developer, Baltimore-based Struever Bros., Eccles &
 5. Harris Mill Lofts, 618 Main St., Coventry, 156 units
 6. Lofts at Anthony Mill, 624 Washington St., Coventry, 122 units
 7. American Tourister, Main Street, Warren, 290 units
-8. U.S. Rubber, Eagle and Valley streets, Providence, 302 units
+8. **U.S. Rubber**, Eagle and Valley streets, Providence, 302 units
 
-_Captured July 21, 2021 from https://www.providencejournal.com/news/20160909/providences-us-rubber-complex-bouncing-back-as-lofts_
+— _Captured July 21, 2021 from https://www.providencejournal.com/news/20160909/providences-us-rubber-complex-bouncing-back-as-lofts_
 
 </details>
 
@@ -480,7 +462,7 @@ Connors said residential development is key to the revitalization of the Eagle S
 
 “This is great news for the city,” said James Bennett, director of the city’s Department of Economic Development. “A well-established developer with a demonstrated track record recognizes the opportunities that exist in Providence, and will be breathing new life into both the building and Olneyville.”
 
-_Captured July 15, 2021 from https://www.providencejournal.com/article/20140124/News/301249990_
+— _Captured July 15, 2021 from https://www.providencejournal.com/article/20140124/News/301249990_
 
 </details>
 
@@ -510,6 +492,6 @@ Rafaelian and Bright plan to create 25 spaces and rent them to artists at $5 to 
 
 Renovation work along the way includes repairing the roofs, the hardwood floors and the windows. The two are taking particular pains to preserve the mill’s historic character, drawing doors, light fixtures and flooring from old mills in the area. And to keep the historic views, workers plan to replace some 2,500 individual panes of glass in the industrial-size windows. Bright said he’s budgeted $600,000 for the project, which he expects to wrap up by early next year.
 
-_Captured July 31, 2021 from an Archive.org copy at https://web.archive.org/web/20101129133806/http://pbn.com/Valley-project-boosts-arts-community,54046 Only page 1 was archived._
+— _Captured July 31, 2021 from an Archive.org copy at https://web.archive.org/web/20101129133806/http://pbn.com/Valley-project-boosts-arts-community,54046 Only page 1 was archived._
 
 </details>
