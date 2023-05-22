@@ -136,6 +136,10 @@ images:
     sizes: '1440, 900'
   - url: microfibres-jh-2022-11-06.jpg
     sizes: '1440, 900'
+  - url: microfibres-jh-2023-05-01.jpg
+    sizes: '1440, 900'
+  - url: microfibres-jh-2023-05-02.jpg
+    sizes: '1440, 900'
   - url: microfibres-sanborn-1923.jpg
     caption: 'Sanborn Map Company, “Insurance maps of Pawtucket: including Central Falls, Rhode Island V. 2a” (1923)'
     sizes: '1440, 900'
@@ -155,7 +159,7 @@ images:
     caption: 'Providence Historical Aerial Viewer 2008'
     sizes: '1440, 900'
 
-mostrecentimage: 2022-11-01
+mostrecentimage: 2023-05-01
 
 imagescredit: 'Contributions from Google Streetview; Showcase.com; Sanborm Map from Brown Digital Repository, Brown University Library; and Aerials from the Providence Historical Aerial Viewer'
 

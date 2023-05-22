@@ -34,24 +34,36 @@ thumbnail: dye-house-2006-06-04.jpg
 images:
   - url: dye-house-2006-06-01.jpg
     alt: 'A narrow one and a half story, stone and brick structure with flattened gable roof and large garage door openings. A monitor roof runs along its significant length and at the back the buiding is attached to a larger mill complex.'
+    caption: 'Photo 2006. Facing south southwest looking at a part of the eastern face and the full northern face of the Dye House'
     sizes: '1440, 900'
   - url: dye-house-2006-06-02.jpg
+    caption: 'Photo 2006. Detail of the door reading “46 Dyke Street” on the eastern side of the northern façade'
     sizes: '1200, 900'
   - url: dye-house-2006-06-03.jpg
+    caption: 'Photo 2006. Facing south looking at the northern façade straight on'
     sizes: '1440, 900'
   - url: dye-house-2006-06-04.jpg
+    caption: 'Photo 2006. Looking south slightly east to catch a view of the northern façade and the western face along Troy Street'
     sizes: '1440, 900'
   - url: dye-house-2006-06-05.jpg
+    caption: 'Photo 2006. Detail of the painted brick vs. the unpainted brick'
     sizes: '1200, 900'
   - url: dye-house-2006-06-06.jpg
+    caption: 'Photo 2006. Looking northeast along the western face on Troy Street'
     sizes: '1200, 900'
-  - url: dye-house-website.jpg
-    caption: 'Recent photo taken from the Dye House website'
-    sizes: '2500, 1677'
+  - url: dye-house-jh-2023-05-01.jpg
+    caption: 'Photo 2023. Facing south southwest looking at a part of the eastern face and the full northern face of the Dye House'
+    sizes: '1440, 900'
+  - url: dye-house-jh-2023-05-02.jpg
+    caption: 'Photo 2023. Looking south slightly east to catch a view of the northern façade and the western face along Troy Street'
+    sizes: '1440, 900'
+  - url: dye-house-jh-2023-05-03.jpg
+    caption: 'Photo 2023. Looking northeast along the western face on Troy Street'
+    sizes: '1440, 900'
 
-imagescredit: 'Contribution from the Dye House hotel website.'
+imagescredit:
 
-mostrecentimage: 2006-06-01
+mostrecentimage: 2023-05-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -88,7 +100,6 @@ The American Woolen Company continued full production at all of the Providence M
 
 From 1931 to 1934, the American Woolen Company slowly sold off the Weybosset Mill buildings and American Woolen-owned land parcels. […] The occupants of the Weybosset Mill buildings slowly made small alterations, including the demolition of the overhead passageways between the mills […]. The factory was originally located one block south of its current location but the factory was displaced by the construction of Route 6 through that block.
 
-
 #### Architecture
 
 Dye House (circa 1880/1900) — The Dye House is a north-south oriented building that extends from [Weybosset] Mill No. 2, north along Troy Street to Dike Street. It consists of a long circa 1880 production shed building with a circa 1900 one-story addition on the north elevation. The Dye House is a one and one-half story by 16-bay-by-two-bay rectangular building. It has a flat roof with metal flashing and brick walls. The first story fenestration consists of short, wide segmental arched window openings with three-course brick lintels and granite sills. Most of these window openings contain fixed 12-pane windows covered by metal grilles. The second story was created from a long box monitor, altered to extend to the east and west sides of the building. The south end of the east elevation contains four bays of paired, nine-pane, wood sash, casement windows that extend to the soffit line. In the remaining bays, these windows continue as a window band. Except for one window, the northern six bays of the window band are covered over with asphalt shingle. On the west elevation, only the four southern bays and one center bay are exposed at the second floor. The north elevation contains one typical first-story window in the western bay.
@@ -101,10 +112,17 @@ Four modern personnel doors and two modern garage doors are located in the build
 
 ***
 
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+
+[…] 46 Dike Street appears on the 1919 map as a Dye House for use by the **American Woolen Company** - Weybosset Plant. The long, rectangular building is attached to a three-story structure to the rear […]. Owners of the lot on which 46 Dike Street stands included Thomas Sawyer (1864-1905); the Church of the Messiah (1905-1914), Albert G. Winward (1934-1954), and the Winward Trucking Co., Inc. (1954-1955). A sign on the building identifies the current occupants as Modern Trucking, Inc. 217 and 239 Oak Street was owned by members of the Waterman family through to 1922 when the property was acquired by Archibald Silverman and Benjamin Hyman.
+
+***
+
 _From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 
 […] Early 1870s structures include a small brick mill (mill number two) on the northeast corner of Troy and Oak Streets, a large stone ell on the eastern side of the earlier structure, and a small addition to the rear extension of the mill. These structures were used for scouring, picking, and dyeing the wool. […]
 
+***
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
