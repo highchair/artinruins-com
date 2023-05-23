@@ -132,6 +132,7 @@
     background-color: palette('brand-dark-brown');
     margin: -0.5rem -0.5rem ($vertical-rhythm/2) -0.5rem;
     overflow: hidden;
+    position: relative;
 
     // For mobile, the images are naturally sized according to their dimensions
     .rwd-img {
