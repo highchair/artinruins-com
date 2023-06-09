@@ -15,7 +15,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'National Register of Historic Places', 'Providence Industrial Sites 1981', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
+lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: []
 
 NRHP-ref-number: '07001381 (individual)'
