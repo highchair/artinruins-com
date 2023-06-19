@@ -16,7 +16,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Kite Architects' ]
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey', 'Broadway-Armory Historic District', 'National Register of Historic Places' ]
+lists: [ 'Broadway-Armory Historic District', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: [ 'Apartments for Rent', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '74000047 (contributing)'
@@ -99,12 +99,13 @@ Unit availability and details about the amenities can be found at [PilgrimLofts.
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 It is a large, brick, Late Victorian church building notable for its elaborate decoration, including brick corbelling, engaged columns, round-arch openings, projecting brick piers, and brownstone trim. The building was originally constructed for a church and was later used as a furniture warehouse. Entrances are located within recessed openings at both the north and south bays of the façade (east). The southern entrance features paired, paneled wood doors set within a recessed, round-arch opening articulated with brick corbelling, delicate, engaged columns, and stone trim. The northern entrance features the same articulation but has been altered for use by vehicles; it now contains a large, roll-top vehicular door. Fenestration consists of narrow, round-arch openings now filled in with brick or concrete block; original trim remains. Two, one-story, flat-roof, concrete block additions project from the building’s rear elevation.
 
 According to an RIHPHC data sheet for the property, the Pilgrim Congregational Church was constructed in 1866. Maps from 1875, 1882, 1895, and 1918 identify the structure as Pilgrim Congregational Church. According to assessor’s records, ownership of the building was transferred to James A. Foster in 1918. Historic maps show that two additions were made to the rear and Powhattan Street sides of the building during this time. The property was acquired by Herbert Schofield in 1936. Schofield is identified on the 1937 map as the building’s occupant. By 1949 the property was occupied by Furne, a furniture store, and Harrison Furniture. Around 1956 another addition was made to the Powhattan Street side of the building. The building currently houses the Lawton Moving and Storage Company.
 
+***
 
 _From the “Broadway-Armory Historic District” National Register nomination form, 1974_
 

@@ -15,7 +15,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'DBVW Architects', 'SBER', 'Foundry Associates' ]
 people: [ 'General Ambrose Burnside' ]
-lists: [ 'National Register of Historic Places', 'U.S. Rubber Co. Mill Complex' ]
+lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'U.S. Rubber Co. Mill Complex' ]
 tags: [ 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'Manufacturers of one of the finest automobiles made in the United States prior to World War I'
 
@@ -34,58 +34,84 @@ thumbnail: alco-jh-2006-03-14.jpg
 
 images:
   - url: rilw-ppl-unknown-01.jpg
-    caption: 'Rhode Island Photograph Collection, Providence Public Library — the former Rhode Island Locomotive plant, dated probably circa 1900. On the center right is a small blank wall which is the southern face of what is now known as U.S. Rubber Building 61 — the only remaining structure'
     alt: 'Two main three-story red brick buildings that are long and narrow with simple rectangular window openings consisting of granite sills and steel lintels. A small two-story office building is the oldest on the property. Brick detailing is simple, with a flat modern interpretation of a classic capital design along the roofline. Two impressive two-story connecting bridges span between the two main buildings.'
+    caption: 'Rhode Island Photograph Collection, Providence Public Library — the former Rhode Island Locomotive plant, dated probably circa 1900. On the center right is a small blank wall which is the southern face of what is now known as U.S. Rubber Building 61 — the only remaining structure'
+    sizes: '1404, 900'
   - url: alco-ppl-1907-01.jpg
-    caption: 'Rhode Island Photograph Collection, Providence Public Library — Photo of Building 51 shortly after construction, likely 1907. Rooftop lettering reads “American Locomotive Motor Car.”'
+    caption: 'Rhode Island Photograph Collection, Providence Public Library — Photo of Building 51 shortly after construction, likely 1907. Rooftop lettering reads “American Locomotive Motor Car.”'
+    sizes: '1440, 547'
   - url: alco-jh-2006-03-01.jpg
-    caption: 'Building 61 built circa 1885 — The only original Rhode Island Locomotive Works building still standing. At the northeastern edge of the property, Building 61’s address veries from 2 Hemlock Street (Google streetview), 36 Hemlock Street (our 2006 photo shows this on the main door), and 321 Iron Horse Way (present label on the Hemlock side of the building)'
+    caption: 'Building 61 built circa 1885 — The only original Rhode Island Locomotive Works building still standing. At the northeastern edge of the property, Building 61’s address veries from 2 Hemlock Street (Google streetview), 36 Hemlock Street (our 2006 photo shows this on the main door), and 321 Iron Horse Way (present label on the Hemlock side of the building)'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-02.jpg
-    caption: 'Building 61 built circa 1885 — Detail of the window framing and corbeled cornice at the roofline'
+    caption: 'Building 61 built circa 1885 — Detail of the window framing and corbeled cornice at the roofline'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-03.jpg
     caption: 'Building 51 built 1905 to 1907 — Facing the western facade, the brick stairtower (center above a purple awning) was added by the Revere Rubber company in 1918. The 30 foot wide infill building from circa 1920 can be seen labelled with a “53.” The one story building number 52, built 1907, is seen on the left/north with a sawtooth roofline.'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-04.jpg
     caption: 'Building 51 built 1905 to 1907 — Western wall (left) and southern facade along the Woonasquatucket river'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-05.jpg
     caption: 'Building 51 built 1905 to 1907'
+    sizes: '768, 924'
   - url: alco-jh-2006-03-06.jpg
     caption: 'Building 51 built 1905 to 1907'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-07.jpg
     caption: 'Building 51 built 1905 to 1907'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-08.jpg
     caption: 'Building 51 built 1905 to 1907'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-09.jpg
     caption: 'Eastern face of Building 51 built 1905 to 1907 on the left, with the southern two story covered walkway leading to Building 58'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-10.jpg
     caption: 'Western face of Building 58 built between 1908 and 1918 with the southern two story covered walkway leading to Building 51'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-11.jpg
     caption: 'Steel through-girder railroad bridge over the Woonasquatucket river built between 1918 and 1926'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-12.jpg
     caption: 'Steel through-girder railroad bridge over the Woonasquatucket river built between 1918 and 1926'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-13.jpg
     caption: 'Building 58 built between 1908 and 1918 — Eastern facade'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-14.jpg
     caption: 'Building 58 built between 1908 and 1918 — Northern and western facades'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-15.jpg
     caption: 'Building 58 built between 1908 and 1918 — Western facade with shipping bays and the northern facade of Building 51 to the right'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-16.jpg
     caption: 'Building 51 built 1905 to 1907 — Northern facade with walkway leading to Building 58 on the far left and bits of Building 52 on the far right'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-17.jpg
     caption: 'Building 52 built 1907 in the foreground with large garage doors'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-18.jpg
     caption: 'Building 62 built between 1918 and 1926'
+    sizes: '1200, 900'
   - url: alco-jh-2006-03-19.jpg
     caption: 'Building 87 built between 1937 and 1951, heavily altered, and therefore considered non-contributing to the historic nomination. It was demolished as part of the redevelopment of the property.'
+    sizes: '1200, 900'
   - url: alco-jh-2007-04-01.jpg
     caption: 'Building 51 built 1905 to 1907 with a side view of Building 52 on the far left'
+    sizes: '1440, 900'
   - url: alco-jh-2007-04-02.jpg
     caption: 'Building 52 built 1907'
+    sizes: '1440, 900'
   - url: alco-jh-2007-04-03.jpg
     caption: 'Building 58 on the left with the northern façade of Building 51 on the left'
+    sizes: '1440, 900'
   - url: alco-jh-2007-04-04.jpg
     caption: 'Building 61'
+    sizes: '1200, 900'
   - url: alco-jh-2007-04-05.jpg
     caption: 'The backside of Building 58'
+    sizes: '1440, 900'
 
 mostrecentimage: 2007-04-01
 
@@ -144,6 +170,7 @@ For more information about the history of the automobile in Rhode Island, the [R
 — J. Stanley Lemon, _“RI History Volume 52 Number 4”_, August 1994, Rhode Island Historical Society
 {:.citation}
 
+***
 
 #### National Register Nomination form
 

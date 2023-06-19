@@ -15,7 +15,7 @@ categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Provisions Warehouse District', 'PPS Ten Most Endangered', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [ 'Provisions Warehouse District', 'PPS Ten Most Endangered', 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: []
 
 NRHP-ref-number:
@@ -86,14 +86,16 @@ This narrow but deep 3-story brick building was home to a few different incarnat
 
 ### Current Events
 
-[Listed for sale on LoopNet](https://www.loopnet.com/Listing/115-Harris-Ave-Providence-RI/19798751/){:target="_blank"} with some interior photos. Succumbing to graffiti and broken windows and listed on the [2021 Ten Most Endangered List]({% link pps-ten-most-properties.md %}) because of its rapid decay. 
+[Listed for sale on LoopNet](https://www.loopnet.com/Listing/115-Harris-Ave-Providence-RI/19798751/){:target="_blank"} with some interior photos. Succumbing to graffiti and broken windows and listed on the [2021 and 2023 Ten Most Endangered Lists]({% link pps-ten-most-properties.md %}) because of its rapid decay. 
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
-Attached to the east is a large, rectangular, three-story, brick block (113 Harris Avenue; 1920s) with a concrete foundation notable for its chamfered corner on Harris Avenue. The building is embellished with concrete bands outlining floors and the chamfered corner. An oversized, recessed opening features wood stairs and ramps. The building’s main entrance is comprised of a metal-and-glass door flanked by single-light sidelights and set below a single-light transom. Fenestration is comprised of rectangular openings with multi-light metal sash windows. The building’s easternmost side is contoured to the railroad tracks. These buildings are extant remnants of the eastern Promenade District's history as a railroad hub.
+(Documented as part of [119 Harris Avenue]({% link _property/brownell-field-co.md %})) Attached to the east is a large, rectangular, three-story, brick block (113 Harris Avenue; 1920s) with a concrete foundation notable for its chamfered corner on Harris Avenue. The building is embellished with concrete bands outlining floors and the chamfered corner. An oversized, recessed opening features wood stairs and ramps. The building’s main entrance is comprised of a metal-and-glass door flanked by single-light sidelights and set below a single-light transom. Fenestration is comprised of rectangular openings with multi-light metal sash windows. The building’s easternmost side is contoured to the railroad tracks. These buildings are extant remnants of the eastern Promenade District’s history as a railroad hub.
+
+***
 
 _From the Provisions Warehouse Historic District nomination form, 1994_
 
