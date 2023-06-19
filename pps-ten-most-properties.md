@@ -21,7 +21,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 
 + Asa Messer Elementary School, 158 Messer Street, West End (ca. 1890)
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}), aka Superman Building (1928) 
-+ Humboldt Fire Station, 155 Humboldt Avenue, Wayland (1906)
++ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Humboldt Fire Station]({% link _property/humboldt-fire-station.md %}), 155 Humboldt Avenue, Wayland (1906)
 + Providence Infrastructure, Citywide (various)
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Providence Gas Company Purifier House]({% link _property/providence-gas-purifier-house.md %}) (1899-1900) Allens Ave
 + Providence Public Schools, Citywide (various)

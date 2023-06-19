@@ -18,6 +18,11 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 
 ## On The Boards
 
+### Parcel 2
+
+On Wednesday, May 17, Urbanica Inc. presented their [new concept proposal for Parcel 2](//www.195district.com/projects/parcel-2/). This design now features two buildings, scaled at 3, 4, and 5 stories with the 3-story portions facing South Main Street and the height increasing towards the south and the waterfront. The Providence Preservation Society commends the collaboration with the State Historic Preservation Office and Urbanica to create a more balanced proposal for the parcel.
+
+
 ### NEW I-195 Land Parcels 14 and 15
 
 **Update April, 2023**
