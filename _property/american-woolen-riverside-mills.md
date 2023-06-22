@@ -14,7 +14,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Lewis Downe' ]
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981' ]
-tags: [ 'Demolition by Fire' ]
+tags: [ 'American Woolen Company', 'Demolition by Fire' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -31,30 +31,46 @@ thumbnail: amer-woolen-jh-2003-03-02.jpg
 
 images:
   - url: amer-woolen-ppl-1880c-01.jpg
+    alt: 'A small, square, two-story red brick building with slightly arched lintels and granite sills. Two wide granite blocks on either side of the building have raised lettering spelling out “American Woolen Co.” and “Riverside Mills” on them. This was the last remaining building in a very large complex of mill structures.'
     caption: 'View from on a hill of American Woolen Company at Riverside Mills and surrounding buildings. Rhode Island Photograph Collection, Providence Public Library'
-    alt: 'A small, square, two-story red brick building with slightly arched lintels and granite sills. Two wide granite blocks on either side of the building have raised lettering spelling out “American Woolen Co.” and “Riverside Mills” on them. This was the last remaining building in a very large complex of mill structures.'
+    sizes: '1600, 900'
   - url: amer-woolen-jh-2003-03-01.jpg
+    sizes: '1440, 900'
   - url: amer-woolen-jh-2003-03-02.jpg
+    sizes: '1440, 900'
   - url: amer-woolen-jh-2003-03-03.jpg
+    sizes: '1200, 900'
   - url: amer-woolen-jh-2003-03-04.jpg
+    sizes: '1200, 900'
   - url: amer-woolen-jh-2003-03-05.jpg
+    sizes: '1440, 900'
   - url: amer-woolen-jh-2009-11-01.jpg
+    sizes: '1200, 900'
   - url: amer-woolen-jh-2009-11-02.jpg
+    sizes: '1200, 900'
   - url: amer-woolen-jh-2009-11-03.jpg
+    sizes: '1200, 900'
   - url: amer-woolen-jh-2009-11-04.jpg
     alt: 'Trash car enclosure with steel stamped lettering which reads “At the turn of the 20th century, eight thousand people, mostly immigrants, were employed by the five mills in Olneyville. For years the neighborhood had a reputation for labor radicalism. Striking workers won improved conditions and the highest manufacturing wages in the area.”'
+    sizes: '800, 1067'
   - url: amer-woolen-jh-2020-12-01.jpg
     caption: 'All that remains of the Riverside Mills and the American Woolen Company office building are the granite slabs bearing the lettering of these two place and a cannonball style safe that was found in the basement'
+    sizes: '1440, 900'
   - url: amer-woolen-aerial-1939.jpg
     caption: 'Providence Historical Aerial Viewer 1939'
+    sizes: '1440, 900'
   - url: amer-woolen-aerial-1972.jpg
     caption: 'Providence Historical Aerial Viewer 1972'
+    sizes: '1440, 900'
   - url: amer-woolen-aerial-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997'
+    sizes: '1440, 900'
   - url: amer-woolen-aerial-2008.jpg
     caption: 'Providence Historical Aerial Viewer 2008'
+    sizes: '1440, 900'
   - url: amer-woolen-aerial-2018.jpg
     caption: 'Providence Historical Aerial Viewer 2018'
+    sizes: '1440, 900'
 
 imagescredit: 'Contribution by <a href="//provlibdigital.org/islandora/object/islandora%3A10971" target="_blank">Providence Public Library Digital Collection</a> and the Providence Historical Aerial Viewer'
 ---
