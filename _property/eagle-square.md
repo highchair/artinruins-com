@@ -13,7 +13,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'A.I.R.’s Lead Brick List', 'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'Demolition by Progress' ]
+tags: [ 'American Woolen Company', 'Demolition by Progress' ]
 
 address: '589 Atwells Ave, Providence RI'
 latitude: '41.825194'
