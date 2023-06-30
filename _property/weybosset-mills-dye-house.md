@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981', 'Weybosset Mills Complex' ]
-tags: []
+tags: [ 'American Woolen Company' ]
 
 NRHP-ref-number: '07001381 (individual)'
 added-to-NRHP: 'January 2008'

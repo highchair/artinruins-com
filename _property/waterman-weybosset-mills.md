@@ -40,7 +40,7 @@ images:
     caption: 'View south of the northern side of the former Mill Number 1 Boiler House — Google Streetview, June 2011.'
     sizes: '1200, 640'
   - url: 38-dike-st-jh-2023-05-01.jpg
-    caption: 'View southeast of the northern side of 38 Dike Street, Wes’s Rib House'
+    caption: 'View southeast of the northern side of 38 Dike Street, Wes’s Rib House. The building to the left is new construction.'
     sizes: '1440, 900'
   - url: 38-dike-st-jh-2023-05-02.jpg
     caption: 'View south of the northern side of 38 Dike Street.'
@@ -129,6 +129,8 @@ imagescredit: 'Contributions from Google Streetview; the Library of Congress, Ma
 This large complex is comprised of seven distinct buildings and a few more addresses. The complex lost some of its original structures during a demolition between 1988 and 1997. A circa 1836 Boiler House remains and is known as the home of Wes’s Rib House. Remaining structures date from as early as 1866 and as late as 1937.
 
 There is much history in these buildings. Most have been used for industrial and manufacturing purposes since their construction, from cotton production to worsted wool, and from a brewery to a paper cup manufacturer. With recent changes in ownership we are hoping to see small businesses and artistic endeavors thrive in these spaces.
+
+Of note, Hungry Ghost Press ([on Instagram](//www.instagram.com/p/Cqq35m-uKKh/){:target="_blank"}) looks to be [holding a fundraiser](//gofund.me/37da473f){:target="_blank"} to renovate and repair portions of 239 Oak Street, former Mill Number 2 built circa 1866.
 
 
 ### Current Events
@@ -237,7 +239,7 @@ The current Office appears on historic maps between 1900 and 1921. During this t
 
 #### Mill No. 3 (ca 1880)
 
-See independent entry to come for the Roger Williams Brewing Company.
+See independent entry for the [Roger Williams Brewing Company]({% link _property/roger-williams-brewing.md %}).
 
 
 #### Mill No. 4 with attached Storage Building and Boiler Room (ca 1900, ca 1885, ca 1937)
