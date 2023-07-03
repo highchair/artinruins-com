@@ -105,6 +105,7 @@ Currently at 7–9 Steeple Street is New Rivers restaurant, which has been in pl
 
 The east wall of 9 Steeple Street housed a billboard for many years in the 1980s and into the 1990s. This billboard was used for Vincent Cianci’s re-election campaign in 1990 and was [famously defaced by Shepard Fairey](//obeygiant.com/cianci-billboard/){:target="_blank"}. 
 
+***
 
 _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
@@ -120,7 +121,7 @@ After the Civil War, more space was needed so Congdon & Carpenter moved one bloc
 
 Francis Wood Carpenter (1831 – 1922) was a prominent businessman and steel merchant in Providence, Rhode Island and from 1892 until his death, he was the president of Congdon & Carpenter Company, an iron and steel company which was founded in 1792, and operated in Providence into the 1980s. He was also the president of the Rhode Island Perkins Horse Shoe Company, the Quidnick Manufacturing Company, the Boston District Messenger Company, the Postal District Messenger Company of Providence, and the American National Bank. He was a director of the Peoples Savings Bank in Providence, the Corliss Safe and Vault Door Company, the Providence Washington Insurance Company, and the Union Mutual Insurance Company. He was a President of the Providence Commercial Club and of the Providence YMCA.
 
-_Captured April 11, 2021 from https://en.wikipedia.org/wiki/Francis_W._Carpenter_
+— _Captured April 11, 2021 from https://en.wikipedia.org/wiki/Francis_W._Carpenter_
 
 ***
 
@@ -128,4 +129,4 @@ The block at numbers 3 through 9 Steeple Street are actually different structure
 
 9 Steeple Street, **George & Smith Owen Building**, erected 1847. A 20' wide (south front) x 40' deep three- and-a-half story brick building with foundation of granite ashlar and a party wall on the west side with 6 Steeple Street. Original open shop front on ground floor, four bays, with granite posts and granite lintel supporting brick wall above; granite posts now removed. Double-hung windows, six-light sash, plain granite lintels and sills. Pitched roof with high monitor across the full width. 
 
-_History prepared by Osmund R. Overby Yale University, May 1963, Library of Congress_
+— _History prepared by Osmund R. Overby Yale University, May 1963, Library of Congress_

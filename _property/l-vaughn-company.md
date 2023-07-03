@@ -122,7 +122,7 @@ The larger mill building is currently home to studios and an internet data cente
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 A large, two- and three-story, brick, flat-roof building set on the north side of Westminster Street. The block set closest to the street is a two-story, flat-roof, brick structure with a modern façade featuring an applied plywood band between the two stories and modern, fixed windows and an offset entrance comprised of a metal-and-glass door. Side elevations of this block show original windows to the north. This block is identified as office space on Sanborn maps. Although this front block has been highly altered, the remainder of the complex retains it architectural integrity.
 

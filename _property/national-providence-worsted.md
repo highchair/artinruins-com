@@ -14,7 +14,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'SBER', 'Armory Revival Company' ]
-lists: [ 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places',  'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'American Woolen Company', 'The Superlatives', 'Apartments for Rent' ]
 superlative: 'At one time, the largest consumer of wool in the United States'
 

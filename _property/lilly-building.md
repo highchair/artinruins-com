@@ -1,7 +1,7 @@
 ---
 title: "Lilly Building"
 slug: lilly-building
-aka: 'RI Supply Company, Herman’s Furniture'
+aka: 'Rhode Island Supply Company, Herman’s Furniture'
 date-modified: 2021-06-26 17:00
 
 built: '1899'
@@ -67,7 +67,7 @@ mostrecentimage: 2006-03-01
 
 ### Redevelopment
 
-A gorgeous 1930s Art Deco storefront was restored to its glorious detail as part of this early 2000s renovation project undertaken by the Armory Revival Company. A furniture store since shortly after its construction, the street level storefronts now have three floors of 12 apartments in total. Michael Viveiros, partner in Durkee, Brown, Viveiros & Werenfels, was the architect in charge of the renovations.
+A gorgeous 1930s Art Deco storefront was restored to its glorious detail as part of this early 2000s renovation project undertaken by the [Armory Revival Company]({% link designer/armory-revival-company.html %}). A furniture store since shortly after its construction, the street level storefronts now have three floors of 12 apartments in total. Michael Viveiros, partner in [Durkee, Brown, Viveiros & Werenfels]({% link designer/dbvw-architects.html %}), was the architect in charge of the renovations.
 
 The previously painted brick on the upper floors has been blasted off and a new main entrance to the apartments has been added to the rear of the building off of the parking lot. The building shares a party wall with the Burrows Block to its east and a narrow courtyard to its west along what was once a public way called “Normal Court.”
 
@@ -93,3 +93,13 @@ An Art Deco style storefront was added to the building in the late 1930s, and in
 The **Lilly Building**, at 747-753 Westminster Street, was constructed in 1899, for Charles Allen. Prior to the construction of this building, the site was occupied by the State Normal School on the floor above a dry goods store, and was owned by A.C. Barstow. In 1905, the building housed **Henry Cram & Co.**, a furniture company that sold new and second-hand furniture. Allen and his heirs owned the building until 1920, when it was sold to the **Rhode Island Supply Company**, a furniture store. In that year, the building had a hall on the fourth floor, and the furniture store below. The building remained a furniture store, though under many different owners, for the next 80 years.
 
 The Rhode Island Supply Company owned it until 1946, when it was purchased by Lloyd E. and Maynard M. Bliss, and James F. Armstrong, who sold it to Woodrow’s Realty in December 1959. Julian B. Savage purchased the building in 1983. In 1985, the building was occupied by the **Herman Myron Company** previously at 705 Westminster. From 1990 to 1998, the building was the home of **Herman’s Furniture Galleries**. In 1999, the building was sold at a tax sale to Saul and Company, who held it for two months before selling to the Armory Revival Company. In 2001, 775 Lofts LLC took control of the building.
+
+***
+
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+
+It is a four-story, brick, low-hip-roof structure with a small, square, central turret projecting above the roofline with the building’s name and date in relief. The first floor of the building’s façade features storefronts, remodeled in the 1920s with carrara, purple glass, and metal trim. The building is further embellished with an overhanging cornice supported by simple brackets, simple lintels and sills, and Art Deco-style detailing on the storefronts. Fenestration is comprised of regularly-spaced, rectangular 1/1 replacement sash windows. The building is attached to the Burrows block at 735 Westminster Street and is currently being renovated for residential use.
+
+Charles Allen built the building as an investment in 1899. Allen acquired the property in 1896 and is listed on the 1908 map as the owner. The 1908 map shows a large wood-frame structure to the rear of the building, which by 1918 had been removed. This wood-frame structure was part of the **Burrow & Kenyon Lumber Company** (see separate entry for Burrows Block). The 1918 map identifies the structure as Charles Allen Hrs. — Lily Building. By 1918 a smaller, brick structure had been added to replace the earlier wood-frame ell at the rear of the lot.
+
+The building remained under the ownership of Charles Allen Heirs until 1920 when it was purchased by the **Rhode lsland Supply Company, Inc**. The 1900 city directory lists the company as bill distributors located at 163 Hudson Street. Subsequent directories identify the company as furniture dealers. In the 1920s the Art Deco storefront of carrara, purple glass, and metal trim was added to the building (Woodward 1986). The 1926 map identifies the structure as the Rhode Island Supply Company. Subsequent owners of the building included Lloyd E. Bliss, Maynard M. Bliss, and James F. Armstrong (1946). Maurice Bliss was the president of Bliss Furniture Co., Inc., which operated out of the building. The building remained under Bliss family ownership through to 1959 when it was transferred to Woodrow’s Realty, Inc. City directories list Woodrow’s Modern Age Inc., furniture, at this location. In 1983 the property changed hands once again and was occupied by Herman’s Furniture, Julian B. Savage, owner and company president. The Armory Revival Company acquired the property in 1999 and is currently rehabbing the building for residential use.

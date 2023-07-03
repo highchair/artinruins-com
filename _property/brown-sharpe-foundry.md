@@ -15,7 +15,7 @@ neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Frederick Howe', 'Foundry Associates' ]
 people: [ 'Joseph R. Brown', 'Lucian Sharpe', 'Thomas McFarlane', 'Richmond Viall' ]
-lists: [ 'PPS Preservation Awards', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981', 'Providence’s Five Industrial Wonders' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places',  'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Preservation Awards', 'Providence Industrial Sites 1981', 'Providence’s Five Industrial Wonders' ]
 tags: [ 'Apartments for Rent', 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'During the 19th and 20th centuries, Brown & Sharpe was one of the best-known and most influential machine tool builders and was a leading manufacturer of instruments for machinists'
 
@@ -34,117 +34,183 @@ thumbnail: brown-sharpe-jh-2004-04-07.jpg
 
 images:
   - url: brown-sharpe-ppl-undated-bldg1.jpg
-    caption: 'Rhode Island Photographs Collection, Providence Public Library, undated'
     alt: 'A series of red brick mill buildings with a public street running through them of varying heights and window styles. A three-story skybridge clad in copper floats over the street, connecting two of the larger buidings.'
+    caption: 'Rhode Island Photographs Collection, Providence Public Library, undated'
+    sizes: '1405, 601'
   - url: brown-sharpe-ppl-undated-postcard1.jpg
     caption: 'Rhode Island Postcard Collection, Providence Public Library, undated'
+    sizes: '1400, 900'
   - url: brown-sharpe-ppl-undated-postcard2.jpg
     caption: 'Rhode Island Postcard Collection, Providence Public Library, undated'
+    sizes: '1400, 720'
   - url: brown-sharpe-jh-2001-wide.jpg
+    sizes: '865, 370'
   - url: brown-sharpe-jh-2001-01.jpg
+    sizes: '480, 640'
   - url: brown-sharpe-jh-2001-02.jpg
+    sizes: '640, 480'
   - url: brown-sharpe-habs-2002-04-map.jpg
     caption: 'Map of the buildings in the Brown & Sharpe complex, numbered in order of which they were built'
+    sizes: '1024, 900'
   - url: brown-sharpe-habs-2002-04-01.jpg
     caption: 'Edward Connors, April 2002 — Building No. 1 (1872-1916), facing northeast'
+    sizes: '1200, 900'
   - url: brown-sharpe-habs-2002-04-02.jpg
     caption: 'Edward Connors, April 2002 — Building No. 2 (1896), facing north'
+    sizes: '1200, 900'
   - url: brown-sharpe-habs-2002-04-04.jpg
     caption: 'Edward Connors, April 2002 — General view of wall, arches (Building No. 2 in background), facing northeast'
+    sizes: '1200, 900'
   - url: brown-sharpe-habs-2002-04-05.jpg
     caption: 'Edward Connors, April 2002 — Connector from Building No. 4 (1896-1917) to Building No. 5 (ca. 1905, 1919), facing north'
+    sizes: '1200, 900'
   - url: brown-sharpe-habs-2002-04-06.jpg
     caption: 'Edward Connors, April 2002 — Building No. 3 (1891, 1903), facing west'
+    sizes: '1200, 900'
   - url: brown-sharpe-habs-2002-04-07.jpg
     caption: 'Edward Connors, April 2002 — Building No. 4 (1896 to 1917), facing southeast'
+    sizes: '1200, 900'
   - url: brown-sharpe-habs-2002-04-09.jpg
     caption: 'Edward Connors, April 2002 — Building No. 7 (ca. 1911, remodeled 1916), facing northeast'
+    sizes: '900, 900'
   - url: brown-sharpe-habs-2002-04-10.jpg
     caption: 'Edward Connors, April 2002 — Building No. 8 (1916), facing southeast'
+    sizes: '1440, 900'
   - url: brown-sharpe-habs-2002-04-11.jpg
     caption: 'Edward Connors, April 2002 — Building No. 9 (ca. 1919), facing northwest'
+    sizes: '1200, 900'
   - url: brown-sharpe-habs-2002-04-12.jpg
     caption: 'Edward Connors, April 2002 — Storage Bins from Heavy Foundry, facing northeast'
+    sizes: '1440, 900'
   - url: brown-sharpe-habs-2002-04-13.jpg
     caption: 'Edward Connors, April 2002 — Building No. 11 (1940), (and Shed 30), facing north'
+    sizes: '1440, 900'
   - url: brown-sharpe-habs-2002-04-14.jpg
     caption: 'Edward Connors, April 2002 — Building No. 12 (ca. 1908, 1912, 1918), Powerhouse, facing south'
+    sizes: '1200, 900'
   - url: brown-sharpe-habs-2002-04-15.jpg
     caption: 'Edward Connors, April 2002 — West elevation and rear of Powerhouse (ca. 1908, 1912, 1918), facing northeast'
+    sizes: '900, 900'
   - url: brown-sharpe-habs-2002-04-16.jpg
     caption: 'Edward Connors, April 2002 — Building No. 34 (1941), facing northwest'
+    sizes: '1440, 900'
   - url: brown-sharpe-fm-2003-01.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-02.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-03.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-04.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-05.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-06.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-07.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-08.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-09.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-10.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-11.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '768, 924'
   - url: brown-sharpe-fm-2003-12.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-13.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-14.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-15.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '768, 924'
   - url: brown-sharpe-fm-2003-16.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-17.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '768, 924'
   - url: brown-sharpe-fm-2003-18.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-19.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '768, 924'
   - url: brown-sharpe-fm-2003-20.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-21.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: brown-sharpe-fm-2003-22.jpg
     caption: 'Photo by Frank Mullin circa 2003'
+    sizes: '1350, 900'
   - url: machine-jh-2003-05-01.jpg
     caption: 'A old Brown and Sharpe machine (milling?) found in the American Textile Mill, Pawtucket'
+    sizes: '768, 924'
   - url: machine-jh-2003-05-02.jpg
+    sizes: '1200, 900'
   - url: machine-jh-2003-05-03.jpg
+    sizes: '768, 1024'
   - url: machine-jh-2003-05-04.jpg
+    sizes: '1200, 900'
   - url: machine-jh-2003-05-05.jpg
+    sizes: '1200, 900'
   - url: brown-sharpe-jh-2004-04-01.jpg
+    sizes: '1200, 900'
   - url: brown-sharpe-jh-2004-04-02.jpg
+    sizes: '1200, 900'
   - url: brown-sharpe-jh-2004-04-03.jpg
+    sizes: '1200, 900'
   - url: brown-sharpe-jh-2004-04-04.jpg
+    sizes: '1200, 900'
   - url: brown-sharpe-jh-2004-04-05.jpg
+    sizes: '1200, 900'
   - url: brown-sharpe-jh-2004-04-06.jpg
+    sizes: '1200, 900'
   - url: brown-sharpe-jh-2004-04-07.jpg
+    sizes: '1200, 900'
   - url: brown-sharpe-jh-2004-04-08.jpg
+    sizes: '1200, 900'
   - url: brown-sharpe-jh-2004-04-09.jpg
+    sizes: '1200, 900'
   - url: brown-sharpe-jh-2004-04-10.jpg
+    sizes: '1200, 900'
   - url: brown-sharpe-jh-2004-04-11.jpg
+    sizes: '1440, 900'
   - url: brown-sharpe-jh-2004-04-12.jpg
+    sizes: '1440, 900'
   - url: brown-sharpe-jh-2004-04-13.jpg
+    sizes: '768, 924'
   - url: brown-sharpe-jh-2005-05-01.jpg
+    sizes: '1440, 900'
   - url: brown-sharpe-jh-2005-05-02.jpg
+    sizes: '1440, 900'
   - url: brown-sharpe-jh-2005-05-03.jpg
+    sizes: '1440, 900'
   - url: brown-sharpe-jh-2005-07-01.jpg
+    sizes: '1200, 900'
   - url: brown-sharpe-jh-2005-07-02.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2005-07-01
 
-imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A11078" target="_blank">Photo</a>) and Rhode Island Postcards Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A22843" target="_blank">From River</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A19915" target="_blank">Aerial</a>) at the Providence Public Library and Edward Connors for the National Register nomination form'
+imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A11078" target="_blank">Photo</a>) and Rhode Island Postcards Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A22843" target="_blank">From River</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A19915" target="_blank">Aerial</a>) at the Providence Public Library, Edward Connors for the National Register nomination form, and Frank Mullin'
 
 external:
   - source: '1896 engraving of buildings and schematic, WikiMedia'
@@ -174,7 +240,9 @@ At its height, **Brown & Sharpe** revolutionized the way machine parts were engi
 
 ### History
 
-Absent from the formal history below is the fact that the original music venue, the Living Room, was located in part of the lessor used portion of this complex. The famous “bubble window” was here. Would love some photos, send ‘em if you got ‘em. [This remembrance of Randy Hien](//www.ripopmusic.org/musical-artists/producers/randy-hien-the-living-room/){:target="_blank"} has a good photo of the Living Room at that time. 
+Absent from the formal history below is the fact that the original location of the music venue **The Living Room** was located in part of the lessor used portion of this complex. The famous “bubble window” was here. Would love some photos, send ‘em if you got ‘em. [This remembrance of Randy Hien](//www.ripopmusic.org/musical-artists/producers/randy-hien-the-living-room/){:target="_blank"} has a good photo of the Living Room at that time.
+
+***
 
 _From the National Register nomination form, 2002, prepared by Edward Connors and Associates_
 

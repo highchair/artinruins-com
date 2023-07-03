@@ -95,6 +95,8 @@ The original owners of the property were Curry & Richards, who used the building
 
 Some of the tenants throughout the structure’s history include the Burton Shoe Company (1907), American Hand Laundry (1911), Eastern Jewelry Company (1927), and the Providence Felt Slipper Company (1927). In the mid-1980s the building contained a loft apartment on the fourth floor, a musician’s loft on the third, a photo studio on the second floor, and an architect’s office on the first.
 
+***
+
 _From the Pine Street Historic District nomination form, 1978_
 
 407 Pine Street, **Factory**, c. 1875. A 4-story, flat-roofed, brick building with regularly spaced segmental windows and a corbel cornice, used for jewelry manufacturing.

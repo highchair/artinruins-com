@@ -1,7 +1,7 @@
 ---
 title: "Niagara (Volunteer) Engine Company #5"
 slug: niagara-station-17
-aka: 'Retired Station 17, Miko’s, Jerry’s Artarama'
+aka: 'Providence Fire Department Hose # 17, Steam Engine Co. 5, Miko’s, Jerry’s Artarama'
 date-modified: 2022-03-10 12:00
 
 built: '1866'
@@ -15,7 +15,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places' ]
+lists: [ 'National Register of Historic Places',  'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
 tags: [ 'Fire Stations' ]
 
 NRHP-ref-number: '90000104 (contributing)'
@@ -96,6 +96,14 @@ _From firefighter historian Henry Cahoon_
 Members of this company became involved in fisticuffs with other companies and a civilian in 1853 whilst the Arnold Block burned. Behavior like this was not uncommon, but this finally led to the city taking control of the fire companies and forming the country’s second paid fire department. 
 
 [FireNews](http://www.firenews.org/ri/p/providence/providenceri.html){:target="_blank"} lists this retired station as #17. 
+
+***
+
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+
+This highly articulated, two-story, brick and stone building has a tall campanile with a corbelled top, dichromatic radiating voussoirs on the arched windows (including a Palladian window on the front), and a bracketed cornice below the slate hipped roof. To the north is a three-story hose drying tower. According to the National Register nomination, the first story was partially rebuilt in the 1960s with a modern storefront in place of an earlier one. The storefront, set off from the upper story by a cast iron lintel, has a central entrance recess and large vertical mullioned display windows to each side. A one-story, brick, gable-roof ell projects from the rear of the building.
+
+The building is one of the earliest structures built during the city's post-Civil War municipal improvements campaign and was one of four new engine houses built to accommodate the change from hand-engines to steam power (Doyle Avenue NR). As a firehouse it was home to **Steam Engine Company 5**. John W. Briggs did the masonry work, and the carpenter for the project was Freeborn Johnson. Underneath the building was a water cistern with a 50,000-gallon capacity. The building’s use as a firehouse ceased in 1950 (Woodward 1986; RIHPHC data sheet). The Providence Fire Department erected a series of modern fire stations across the city in the 1950s, vacating this building around this time. Engine Company No. 5 was acquired by restaurant designer **Morris Nathanson** from the Providence Redevelopment Agency in 1973. The building was rehabilitated in 1973 by Morris Nathanson, whose design and architecture offices occupied the second story. Today it serves as a commercial building and is home to Miko Exoticwear.
 
 ***
 

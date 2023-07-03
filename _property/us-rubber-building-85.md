@@ -15,7 +15,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'DBVW Architects', 'TRAC Builders' ]
 people: []
-lists: [ 'National Register of Historic Places', 'U.S. Rubber Co. Mill Complex' ]
+lists: [ 'National Register of Historic Places',  'PPS/AIA Industrial Commercial Buildings Survey', 'U.S. Rubber Co. Mill Complex' ]
 tags: []
 
 NRHP-ref-number: '05000917 (individual)'
@@ -86,8 +86,18 @@ A calendar of upcoming events as well as information on renting the various room
 
 **A note on the date of construction:** The National Register nomination lists a range from 1937 to 1951. The Waterfire Arts Center uses the date 1929, presumably after further research or proof found while the building was being restored. Therefore we have used the date of 1929 for our listing.
 
+***
+
 _From the National Register Nomination form for the United States Rubber Company Mill Complex, Edward Connors, 2005_
 
 **Building 85, U.S. Rubber Company Building** (between 1937 and 1951): A two-story, steel-frame, 200' by 112', brick, pier and spandrel building. There are two roof configurations: the rear section of the building has a shallow pitched gable roof; the front section along Valley Street is flat-roofed and 6' lower than that of the rear. All windows along the Valley Street facade are filled and stuccoes. Some of the surviving original windows are grouped in threes: a 20-light sash flanked by two 16-light sashes. Others consist of three 16-light sashes. A large garage door and a commercial entrance are on the east elevation. This building exhibits the same brick corbelling pattern found on Buildings 11, 18, and 35. [Brickwork above the 2nd-floor windows is corbelled in four courses to meet the surface of the adjoining piers.]
 
 In 1951 this building was utilized for the manufacture of roll covering. […]
+
+***
+
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+
+Located on the south side of Valley Street stands a two-story, flat-roof, brick structure identified on maps as the roll covering building. The structure features slightly projecting brick piers between each bay and large, rectangular window openings with rows of multi-light metal sash windows; many openings have been filled in. Two oversized vehicular entrances with metal roll top doors are located on the building’s east elevation. The Valley Street elevation is devoid of entrances and all window openings have been filled in. A small, one-story, flat-roof, brick ell projects from the south elevation of the building.
+
+The building appears on the 1937 map and is identified as part of the [United States Rubber Company]({% link _property/us-rubber.md %}) complex. […]

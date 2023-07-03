@@ -15,7 +15,7 @@ neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [] #Ilkka T. Suvanto for Bergmeyer and Associates Inc., formerly of Scandinavian Design Inc who also designed Richmond Square
 people: [ 'Robert Park Freeman' ]
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981', 'Inventory of Historic Engineering & Industrial Sites 1978', 'College Hill Historic District' ]
+lists: [ 'College Hill Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978',  'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '70000019 (contributing)'
@@ -118,7 +118,7 @@ These are all privately owned condominiums or commercial spaces. They pop-up on 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 555 South Water Street **Providence Steam Engine Company** 1845, NR - College Hill Historic District. […] The majority of window openings are segmental arch with 6/6 double-hung sash windows with granite sills; remaining fenestration includes rectangular window openings with 8/8 sash and granite lintels and sills. Pedestrian entrances are located along both South Main and South Water Street elevations. Two oversized, round-arch entrances are located on the South Main Street elevation and provide access to the interior courtyard. The structure is notable for its “clipped” comer at the intersection of Wickenden and South Main Street. […]
 

@@ -1,7 +1,7 @@
 ---
-title: "Waterman Weybosset Mills; Mill Number 4"
+title: "Welsh Manufacturing"
 slug: weybosset-mills-number-4
-aka: 'American Woolen Mills, Welsh Manufacturing Company'
+aka: 'American Woolen Mills, Waterman Weybosset Mills Mill Number 4'
 date-modified: 2023-07-01 12:00
 
 built: 'ca 1885, ca 1900, ca 1937'
@@ -109,3 +109,11 @@ From 1931 to 1934, the American Woolen Company slowly sold off the Weybosset Mil
 The **Welsh Manufacturing Company** was the only long-term tenant in the former Weybosset Mills after 1930. Welsh Manufacturing bought Mill No. 4 and its secondary buildings from the American Woolen Company in 1931. In May 1931, the company commented “the newly acquired plant will furnish double the space now provided, and will provide for future growth” (Providence Evening Bulletin 1931). After purchasing the property, Welsh Manufacturing occupied the top floor of Mill No.4 and rented the rest of the building. Welsh Manufacturing sold the property in 1970.
 
 James W. Welsh, of Providence, started the Welsh Manufacturing Company to produce pencils, pen sets, and eyeglasses. He began his career working at Stevens and Company, an optical goods manufacturer in Providence, then worked for Bausch and Lomb after that company bought Stevens and Company. In 1931, Welsh still owned the Welsh Manufacturing Company and worked as its vice president and general manager. Ellis W. MacAllister served as president of the company. […]
+
+***
+
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+
+It is a three-story, flat-roof, rectangular, brick building set on the corner of Troy and Oak streets. The building features recessed pedestrian entrances on Oak Street and a single recessed entrance on Troy Street. The building features a monitor roof extending along its length. Fenestration is comprised of segmental-arch and rectangular openings with replacement sash.
+
+The property is identified as the American Woolen Company — Weybosset Plant on the 1919 Sanborn map. Covered passageways connected this building to the Waterman-Weybosset property across Oak Street and to the [Roger Williams Brewing Company]({% link _property/roger-williams-brewing.md %}) plant across Troy Street. All three properties are identified as part of the [American Woolen Company-Weybosset Plant]({% link _property/waterman-weybosset-mills.md %}). The building is identified as Mill No. 4 and was used for storage (1st floor), shipping (2nd floor), and sewing (3rd floor). American Woolen manufactured Cassimere Suitings at their plant. Modem signage identifies the current occupants as **B & P Polishing**, **Karoway Polishing Inc.**, and the **Holy Order of Cherubim & Seraphim Church**.

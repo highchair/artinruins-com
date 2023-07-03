@@ -13,7 +13,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'National Register of Historic Places', 'Providence Industrial Sites 1981', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'The Superlatives' ]
 superlative: 'During the mid-1870s it was the largest single employer in Providence and an important American rifle manufacturer'
 
@@ -159,6 +159,16 @@ Between 1850 and 1860 the number of metalworking firms in Providence grew from 2
 
 <details markdown="1" class="rhythm">
   <summary>More history</summary>
+
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+
+The Providence Tool complex consists of a two-story brick structure facing West River Street. This part of the complex, which dates to the Civil War, is characterized by intricate brick corbelling and a striking Italianate tower with arch windows. Other parts of the complex include a large three-story brick addition to the west and a number of small brick structures with monitor and gable roofs, as well as several post-World War II prefabricated metal sheds. The two-story block features rectangular window openings with a combination of 6/6 sash, 6/6 sash set below fixed, 6-light sash, and openings filled in with glass block; all with simple lintels and sills. The three-story tower features brick corbelling, a bracketed cornice and round-arch window openings. The three-story ell features segmental-arch window openings with a combination of multi-light sash and partially filled in openings with small replacement windows. A paved parking area is located to the east.
+
+The **Providence Tool Company** manufactured rifles for the Union Anny during the Civil War at this site. At another facility on Wickenden Street (since demolished) it also produced sewing machines. In 1883, the company was split in two: the **Household Sewing Machine Company** and the **Rhode Island Tool Company**, the latter of which continued to operate in the West River Street building. Later in the company’s history, it turned from producing rifles to making machine bolts and forgings (RJHPHC data sheet; Woodward 1986: Kulik 1978; RIHPHC 1981).
+
+R.I. Tool Company still uses the building as a factory today. J. Vingi and Son, Inc., a wholesale produce company, occupies part of the complex. The-ProvidenceTool complex is now one of the few surviving historic mill sites in the southern West River are'1⁄2which was once home to the Corliss Steam Engine Company (146 West River Street) and the Silver Spring Bleaching and DyeingCompany(387CharlesStreet- notextant).
+
+***
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 

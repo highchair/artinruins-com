@@ -15,7 +15,7 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Jeffrey Blydenburgh' ]
 people: [ 'Joseph Davol', 'Robert Park Freeman' ]
-lists: [ 'Davol Rubber Company Complex', 'Providence Industrial Sites 1981', 'National Register of Historic Places', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
+lists: [ 'Davol Rubber Company Complex', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: [ 'Chet Smolski image collection', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '80000093 (individual)'

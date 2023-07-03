@@ -90,9 +90,7 @@ The <span class="abbr">RISPCA</span> built this structure in 1925 and occupied i
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
-
-**Rhode Island Society for Prevention of Cruelty to Animals**, 372 West Fountain Street, 1925.
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 It is a two-story, five-bay-wide, flat-roof, brick building set on the south side of West Fountain Street. The building is embellished with an arched-parapet, decorative brick work, a heavy cornice with Spanish tile roof and large, decorative brackets. A concrete panel bearing the date 1925 is centrally located along the roof line. Pedestrian entrances are located on the two end bays of the façade and feature replacement doors set below transoms. A vehicular entrance is centrally located on the façade, within a segmental-arch opening with keystone. Fenestration is comprised of rectangular, multi-light/1 sash windows set below 4-light transoms. A small, one-story, flat-roof ell (late 20th century) projects from the west side of the building. A concrete block ell projects from the southwest comer.
 

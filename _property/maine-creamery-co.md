@@ -15,13 +15,13 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Vision 3 Architects' ]
 people: []
-lists: []
+lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: []
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '395 Promendade Street, Providence RI'
+address: '395 Promenade St, Providence RI'
 latitude: '41.8300327'
 longitude: '-71.4266519'
 gmap: "https://www.google.com/maps/place/395+Promenade+St,+Providence,+RI+02908/@41.8300327,-71.4266519,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44508c9a98fd3:0xbffdd6d943f9a0fc!8m2!3d41.8300287!4d-71.4244632"
@@ -103,7 +103,7 @@ This building is now part of the Rhode Island Blood Center as its main laborator
 
 Google Book results shows the following related passages:
 
-> The Main Creamery Co., manufacturer of ice cream, has purchased the plant of the Regealed Ice Co. on Promenade street, just west of the Brown & Sharpe plant, and will immediately alter and refit the plant for the manufacture of ice cream. The building is of brick and has 12,000 square feet of floor space.[^1]
+> The Maine Creamery Co., manufacturer of ice cream, has purchased the plant of the Regealed Ice Co. on Promenade street, just west of the Brown & Sharpe plant, and will immediately alter and refit the plant for the manufacture of ice cream. The building is of brick and has 12,000 square feet of floor space.[^1]
 
 > In Board of Alderman, May 1, 1919. […] From the Inspector of Buildings is received the application of the Maine Creamery Company for permission to locate and operate a steam boiler of about 75 horse power in the building at 395 Promenade street and upon his recommendation, said application is granted. [^2]
 
@@ -117,7 +117,7 @@ Google Book results shows the following related passages:
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 The primary structure is a two-story, 4-by-5-bay, flat-roof structure with a corbelled cornice and stone trim. According to historic maps, this block was used for office space and storage. Fenestration consists of segmental-arch openings with replacement 1/1 sash on the upper story and glass block infill with fixed sash below. All windows on this block have stone sills. Attached to the rear (north) elevation of this block is a wider, two-story brick block with loading bays along its east elevation. This block has several infilled window openings and replacement sash. According to historic maps and the current assessor’s card for the property, further north are a one-story, concrete block ell and a large greenhouse. (Due to limited access of the site, these ells were not field checked.) A long, one-story flat-roof, concrete block garage stands to the rear of the site, at the northern-most end of the property. According to Sanborn maps, the garage was constructed in 1919.
 

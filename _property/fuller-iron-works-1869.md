@@ -16,7 +16,7 @@ neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978',  'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: []
 
 NRHP-ref-number:
@@ -96,6 +96,16 @@ The building was recently (2017) sold at auction, along with the land nearby. A 
 The land on which this building sits is part of the College Hill Historic District, though the building itself is not listed as a contributing or non-contributing structure. 
 
 It’s address is officially 566 South Main Street (even though the street is now called South Water Street) but it is also referred to by 39 Pike Street. Interestingly, 566 South Main Street and 566 South Water Street are the same address (in Google), while any other South Main Street address is a block away. During the relocation of I-195, [the I-Way construction]({% link _property/iway.md %}) rerouted streets and changed street names — what is now Bridge Street (where the Hot Club is) used to be South Water Street; present South Water Street was South Main; and South Main was Benefit Street. 
+
+***
+
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+
+This three-story brick building with a low pitched-gable roof and segmental arch windows with granite sills was built in 1869 by Frederick and George Fuller. The building’s primary entrance is centered on the façade within a recessed opening. A secondary entrance is located on the side elevation set within a one-story, single-bay projection. Fenestration is comprised of segmental- arch openings with 1/1 replacement sash on the top story, 12/8 sash on the second story, and 12/8 sash set above fixed 8- and 12-light sash on the first story. The building is embellished with brick corbelling at the cornice line and stone sills at the window openings. A [large, rectangular, end-gable structure]({% link _property/fuller-iron-works-1893.md %}) clad in a variety of siding materials projects from the rear of the main block. The southern additions are early steel-frame structures with original glass walls now sided with slate and wood shingle.
+
+Frederick and George Fuller constructed this building in 1869. These were the sons of Frederick Fuller, who originally established Fuller Iron Works at the Fox Point Foundry in 1839. In 1893 a glass and steel machine shop was added to the south side of the earlier structure. It was the first steel frame and glass machine shop in Providence. Most of the glass curtain walls were covered with shingles by 1978 (Kulik 1978:186). The 1901 steel and glass foundry, though greatly altered, is located on the east side of the brick building.
+
+The Fuller Iron Works discontinued its operations in 1937 when R. Clinton Fuller shifted the family business to real estate. For quite a few years after that the building was used as a social service organization. In the 1960s the building was converted to office use and the tall central window on the north elevation was added (Kulik 1978:186).
 
 ***
 

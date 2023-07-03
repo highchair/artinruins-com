@@ -17,7 +17,7 @@ neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'Providence Industrial Sites 1981' ]
+lists: [  'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Berlin Bridge Company', 'Demolition by Progress', 'The Superlatives' ]
 superlative: [ 'The first all glass and steel industrial building built in Providence' ]
 
@@ -102,7 +102,7 @@ The land on which the iron works once stood has a new residential building const
 
 ### History
 
-Anecdotally, one of the first steel-framed buildings in RI and almost certainly the first steel-framed and glass curtain-walled structure in the state. It was built by the **Berlin Iron Bridge Company** in 1893 as an extension of the older iron works at 25 (now 39) Pike Street. Steel framing was being adopted in numerous places at the time – most notably Chicago — so it’s not as though this building was setting the national trend, but it was part of the initial wave on the East Coast.
+Anecdotally, this was one of the first steel-framed buildings in RI and almost certainly the first steel-framed and glass curtain-walled structure in the state. It was built by the **Berlin Iron Bridge Company** in 1893 as an extension of the older iron works at 25 (now 39) Pike Street. Steel framing was being adopted in numerous places at the time – most notably Chicago — so it’s not as though this building was setting the national trend, but it was part of the initial wave on the East Coast.
 
 ***
 
@@ -137,14 +137,6 @@ Making a natural progression from bridge trusses to roof trusses, the company be
 The earliest of the Berlin Company’s Providence buildings is the 1893 machine shop of the **Fuller Iron Works**. Built on the end of a brick mill building from 1869, the building is 90' wide and 216' long, with its steel posts 8' on center. But it is certainly most remarkable for its original exterior cladding – essentially a window wall with banks of wood-framed sash containing heavy ribbed glass that diffused the immense amount of light the interior received. The interior features a main bay open to the roof rafters, flanked by a side aisle with an upper gallery level. Unfortunately, the Fuller shop interior is currently inaccessible and the dramatic window walls are mostly obscured by asbestos shingles. […]
 
 The character of the Fuller’s interior is better understood by studying a very similar machine shop erected for the Granger Foundry and Machine Company machine shop in 1895. The Granger Foundry were manufacturers of textile finishing equipment. 80' x 205'; 37' high, crane with 35' span and 275' travel length, 40’-wide side aisle with gallery. Sadly this structure was demolished in the 1970s without receiving any notice for its importance. ([photo #1](#photo-fuller-iron-interior-undated))
-
-***
-
-_From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
-
-Fuller Iron Works (1869, 1893): The Fuller Iron Works, established by Frederick Fuller in 1839, first occupied the old wooden buildings of the Fox Point Foundry on the northeastern corner of South Main Street (then called Fox Point Street) and Pike Street. By 1850 the Providence Directory noted that “the Fuller’s Foundry and Machine Shop is an extensive establishment and is in very flourishing condition.” The Fuller Iron Works produced heavy-machine castings, water pipes, steam engines, and other heavy-metal products. 
-
-Upon Frederick Fuller’s death in 1867, his sons, Frederick and George, took over the business and erected the [3-story brick building]({% link _property/fuller-iron-works-1869.md %}) with a low, pitched-gable roof and segmental-arch windows with granite sills on the southeast corner on south Main and Pike Streets. In 1893, the Fuller Iron Works built the glass and steel machine shop (which is now covered by modern siding) located to the south of the earlier structure. It was the first steel-frame and glass machine shop in Providence. The Fuller Iron Works, which continued to be controlled by the Fuller family, ceased operations in 1937 when R. Clinton Fuller shifted entirely to the field of real estate, having founded several years earlier the Fuller Real Estate Company. For quite a few years the 1869 machine shop was used by a social-service organization. In the 1960s, the building was converted to office use and the tall central window on the north elevation was installed.
 
 
 ### In the News

@@ -1,7 +1,7 @@
 ---
 title: "Engine No. 9"
 slug: engine-number-9
-aka: 
+aka:  'Providence Fire Department Engine #7'
 date-modified: 2022-03-06 12:00
 update: 'Added history submitted by Harry Cohoon from “Fire and Firefighters in Providence”'
 
@@ -14,7 +14,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey',  'Broadway-Armory Historic District', 'National Register of Historic Places', ]
+lists: [ 'Broadway-Armory Historic District', 'PPS/AIA Industrial Commercial Buildings Survey', 'National Register of Historic Places' ]
 tags: [ 'Fire Stations' ]
 
 NRHP-ref-number: '74000047 (contributing)'
@@ -66,9 +66,9 @@ This former fire station sold was listed for sale in 2020 and interior photos ar
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
-It is a two-story, end-gable, brick building with a round-arch central entrance on the façade set below a fanlight with tracery. A sign reading: “Engine Station 9” spans the central entrance. The building is embellished by a symmetrical façade, center entry, corbelled cornice, and arched Italianate-style windows. A pedestrian entrance is located in a brick ell on the side elevation that houses a stairway. The entrance is set below a blocked transom. Fenestration is comprised of round-arch openings with 12/9 and 9/9 sash with stone sills. Lozenge-shaped tie rods extend along the side elevation between the first and second stories. A two-story, gable-roof ell projects from the building’s rear elevation.
+[Labelled as “Providence Fire Department Engine 7.”] It is a two-story, end-gable, brick building with a round-arch central entrance on the façade set below a fanlight with tracery. A sign reading: “Engine Station 9” spans the central entrance. The building is embellished by a symmetrical façade, center entry, corbelled cornice, and arched Italianate-style windows. A pedestrian entrance is located in a brick ell on the side elevation that houses a stairway. The entrance is set below a blocked transom. Fenestration is comprised of round-arch openings with 12/9 and 9/9 sash with stone sills. Lozenge-shaped tie rods extend along the side elevation between the first and second stories. A two-story, gable-roof ell projects from the building’s rear elevation.
 
 Built ca. 1856, the gable-roofed fire station on Pallas Street housed a school for delinquent boys in the early twentieth century. The building also served as home to the Veteran’s Club of Rhode Island and in 1980 it was used for jewelry manufacturing (Woodward 1986:208; RIHPHC data sheet).
 

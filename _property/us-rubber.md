@@ -134,7 +134,7 @@ For leasing information, visit [the Brady Sullivan website](//bradysullivan.com/
 
 ### History
 
-**Note:** This property has been split in our archive into three parts: U.S. Rubber Company Mill Complex, [U.S. Rubber Company building 85]({% link _property/us-rubber-building-85.md %}), and the [American Locomotive Automobile Company buildings]({% link _property/american-locomotive-works.md %}).
+**Note:** This property has been split in our archive into three parts: U.S. Rubber Company Mill Complex, [U.S. Rubber Company building 85]({% link _property/us-rubber-building-85.md %}) (now the Waterfire Arts Center), and the [American Locomotive Automobile Company buildings]({% link _property/american-locomotive-works.md %}).
 {:.o__tldr}
 
 #### More Links
@@ -361,7 +361,7 @@ A single-story, 100' by 75', steel-frame, gable-roofed, utilitarian building res
 
 ###### Building 85, U.S. Rubber Company building (between 1937 and 1951)
 
-[_For a description and photographs of Building 85, now construction dated at 1929, see our property listing for [U.S. Rubber Company building 85]({% link _property/us-rubber-building-85.md %})._]
+[_For a description and photographs of Building 85, new construction dated at 1929, see our property listing for [U.S. Rubber Company building 85]({% link _property/us-rubber-building-85.md %})._]
 
 ##### Acquisition of the American Locomotive Automobile Company buildings in 1918
 

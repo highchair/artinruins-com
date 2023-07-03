@@ -17,7 +17,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: []
+lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Fire' ]
 
 NRHP-ref-number:
@@ -106,7 +106,7 @@ According to _“RHODE ISLAND: An Inventory of Historic Engineering and Industri
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
 A large complex of one- and two-story, rectangular, brick blocks set at the corner of Kinsley and Sims avenues. The building is embellished with brick corbelling at the cornice. The majority of window openings have been bricked in; those remaining include small, rectangular, awning sash along Kinsley. The two northernmost blocks in the complex are flat-roofed while the two central blocks feature end-gable shallow pitched roofs. The southernmost block is constructed of concrete block with a brick face on the Sims Avenue elevation. According to Sanborn maps, this block was constructed in 1968. A centrally-located vehicular entrance remains on the west elevation of the 1968 block.
 
@@ -114,6 +114,7 @@ The first large-scale industrial use of this property was **Norcross Brother Sto
 
 The company operated under this name for 100 years until changing its name to **B-I-F Industries, Inc.** in 1953. The foundry manufactured architectural iron work as well as precise castings and in 1948, adopted a new method to insure the production of uniform castings. [A new office building was opened in 1950]({% link _property/builders-iron-foundry-office.md %}) on the company’s 130th anniversary. The long building along Kinsley Avenue is identified in a 1956 map as an assembling plant. The building is currently occupied by **Eastern Wire**. The building is also associated with the [Providence Iron & Steel Company]({% link _property/providence-steel-iron.md %}) building at 27 Sims Avenue.
 
+***
 
 #### Map Sources
 
