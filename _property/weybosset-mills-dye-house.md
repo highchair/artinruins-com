@@ -90,11 +90,14 @@ The Dye House is currently a [small boutique hotel](//www.dyehouseri.com){:targe
 
 ### History
 
+This property is part of the larger [Weybosset Mills complex]({% link list/weybosset-mills-complex.html %}). A full report is available [at the entry for the main complex]({% link _property/waterman-weybosset-mills.md %}).
+{:.o__tldr}
+
 _From the National Register Form for the Weybosset Mills complex, 2008, by Jenny R. Fields and Alyssa L. Wood, PAL_
 
 In 1864, woolen manufacturers Royal Chapin Taft and William B. Weeden purchased the Waterman Mills east of Troy Street and immediately began preparing the mills for woolen and cassimere production. […] In 1866, Royal C. Taft, James W. Taft, and William B. Weeden incorporated the Weybosset Corporation. […] Production at the Weybosset Mills grew steadily, necessitating the enlargement and improvement [of structures including] the one-story Dye House […] before 1882. The Weybosset Corporation continued new construction through the 1880s and 1890s and expanded its products to include worsted cloth. […]
 
-William M. Wood of Lawrence, MA and Charles Fletcher, owner of the [National and Providence Worsted Mill]({% link _property/national-providence-worsted.md %}) headed the formation of the [American Woolen Company]({% link _property/american-woolen-riverside-mills.md %}), which incorporated in February 1899. The original merger included [mills in Massachusetts, New York, and Rhode Island and went on to incoporate another 20 companies by June of 1899]. […] The American Woolen Company used the Weybosset Mills to produce worsted and cassimere products, including piece-dyed goods and cloth for overcoats and cloaks. […]
+William M. Wood of Lawrence, MA and Charles Fletcher, owner of the [National and Providence Worsted Mill]({% link _property/national-providence-worsted.md %}) headed the formation of the [American Woolen Company]({% link tag/american-woolen-company.html %}), which incorporated in February 1899. The original merger included [mills in Massachusetts, New York, and Rhode Island and went on to incorporate another 20 companies by June of 1899]. […] The American Woolen Company used the Weybosset Mills to produce worsted and cassimere products, including piece-dyed goods and cloth for overcoats and cloaks. […]
 
 The American Woolen Company continued full production at all of the Providence Mills until the late 1920s. In 1924, American Woolen still owned 60 woolen and worsted mills in New England, but shortly after, the decrease in wool demand caused the reorganization of the Providence and other mills. In April 1928, American Woolen completed plans for the abandonment of the Weybosset and Valley mills. […]
 

@@ -1,10 +1,10 @@
 ---
 title: "Waterman Weybosset Mills"
 slug: waterman-weybosset-mills
-aka: 'Eagle Steam Mill, American Woolen Company, Providence Wool Combing, Welsh Manufacturing Company'
+aka: 'Eagle Steam Mill, American Woolen Company, Providence Wool Combing'
 date-modified: 2023-06-19 12:00
 
-built: '1836–1881'
+built: '1836–1937'
 demolition: 'partial circa 1992'
 redeveloped:
 units:
@@ -38,7 +38,10 @@ images:
     sizes: '1440, 900'
   - url: 38-dike-st-goog-2011-06-01.jpg
     caption: 'View south of the northern side of the former Mill Number 1 Boiler House — Google Streetview, June 2011.'
-    sizes: '1200, 640'
+    sizes: '1140, 640'
+  - url: 38-dike-st-jh-2023-07-01.jpg
+    caption: 'View south of the northern side of the former Mill Number 1 Boiler House. Photo from 2023, showing the new addition added recently.'
+    sizes: '1140, 640'
   - url: 38-dike-st-jh-2023-05-01.jpg
     caption: 'View southeast of the northern side of 38 Dike Street, Wes’s Rib House. The building to the left is new construction.'
     sizes: '1440, 900'
@@ -75,44 +78,26 @@ images:
   - url: 239-oak-st-jh-2023-05-03.jpg
     caption: 'View northeast of the eastern and southern faces of 239 Oak Street.'
     sizes: '1440, 900'
-  - url: 52-troy-st-jh-2023-05-01.jpg
-    caption: 'View southeast of the western and northern elevations of 222 Oak and 52 Troy Streets, known as Mill Number 4. The steel bands on the second floor corner once supported elevated walkways that connected this building to Mill Number 2.'
+  - url: 239-oak-st-jh-2023-07-01.jpg
+    caption: 'View west southwest at the rear of 239 Oak Street and the Boiler House.'
+    sizes: '1200, 900'
+  - url: 217-oak-st-jh-2023-07-01.jpg
+    caption: 'View southeast of the rear of 217 Oak Street, the former Weaving Room, built circa 1890.'
     sizes: '1440, 900'
-  - url: 52-troy-st-jh-2023-05-02.jpg
-    caption: 'View northeast of the western and southern elevations of 222 Oak and 52 Troy Streets. Note the knee wall at the roofline, indicating that the west (left) portion of this building was an independent structure, a circa 1885 storage building.'
+  - url: 217-oak-st-jh-2023-07-02.jpg
+    caption: 'View northeast of the Oak Street facing side of the Weaving Room.'
     sizes: '1440, 900'
-  - url: 52-troy-st-jh-2023-05-03.jpg
-    caption: 'View north-northeast of the southern face of 222 Oak and 53 Troy Streets.'
+  - url: 217-oak-st-jh-2023-07-03.jpg
+    caption: 'View north of the Weaving Room.'
     sizes: '1440, 900'
-  - url: 52-troy-st-jh-2023-05-04.jpg
-    caption: 'View north of the southern elevation of 222 Oak and 53 Troy Streets showing the stairtower and wooden clerestory monitor roof on the circa 1900 Mill Number 4.'
-    sizes: '1440, 900'
-  - url: 64-troy-st-jh-2023-05-01.jpg
-    caption: 'View northeast of the Boiler Room and ell for Mill Number 4, 64 Troy and 1 Magnolia Street, circa 1937'
-    sizes: '1440, 900'
-  - url: 64-troy-st-jh-2023-05-02.jpg
-    caption: 'View east of the western face of the Boiler Room'
-    sizes: '1440, 900'
-  - url: 1889-dike-oak-troy-olneyville-maps-01.jpg
+  - url: 1889-dike-agnes-magnolia-olneyville-01.jpg
     caption: '1889 Sanborn Insurance Map, Volume 1, Plate 27a — Library of Congress, Maps Division'
     sizes: '1440, 900'
-  - url: 1900-dike-oak-troy-olneyville-maps-01.jpg
+  - url: 1900-dike-agnes-magnolia-olneyville-01.jpg
     caption: '1900 Sanborn Insurance Map, Volume 3, Plate 264 — Library of Congress, Maps Division'
     sizes: '1440, 900'
-  - url: 1951-dike-oak-troy-olneyville-maps-01.jpg
+  - url: 1951-dike-agnes-magnolia-olneyville-01.jpg
     caption: '1951 Sanborn Insurance Map, Volume 4, Plate 14 — Library of Congress, Maps Division'
-    sizes: '1440, 900'
-  - url: 1972-dike-oak-troy-olneyville-aerial-01.jpg
-    caption: '1972 aerial photo, Providence Historical Aerial Viewer'
-    sizes: '1440, 900'
-  - url: 1997-dike-oak-troy-olneyville-aerial-01.jpg
-    caption: '1997 aerial photo, Providence Historical Aerial Viewer'
-    sizes: '1440, 900'
-  - url: 2008-dike-oak-troy-olneyville-aerial-01.jpg
-    caption: '2008 aerial photo, Providence Historical Aerial Viewer'
-    sizes: '1440, 900'
-  - url: 2020-dike-oak-troy-olneyville-aerial-01.jpg
-    caption: '2020 aerial photo, Providence Historical Aerial Viewer'
     sizes: '1440, 900'
 
 mostrecentimage: 2023-05-01
@@ -126,7 +111,7 @@ imagescredit: 'Contributions from Google Streetview; the Library of Congress, Ma
 
 ### Redevelopment
 
-This large complex is comprised of seven distinct buildings and a few more addresses. The complex lost some of its original structures during a demolition between 1988 and 1997. A circa 1836 Boiler House remains and is known as the home of Wes’s Rib House. Remaining structures date from as early as 1866 and as late as 1937.
+This large complex is comprised of seven distinct buildings and a few more addresses. The complex lost some of its original structures during a demolition between 1988 and 1997. A circa 1836 Boiler House remains and is known as the home of **Wes’s Rib House**. Remaining structures date from as early as 1866 and as late as 1937.
 
 There is much history in these buildings. Most have been used for industrial and manufacturing purposes since their construction, from cotton production to worsted wool, and from a brewery to a paper cup manufacturer. With recent changes in ownership we are hoping to see small businesses and artistic endeavors thrive in these spaces.
 
@@ -144,20 +129,19 @@ Of note, Hungry Ghost Press ([on Instagram](//www.instagram.com/p/Cqq35m-uKKh/){
 
 Maps shown in our gallery concentrate on the central complex bounded by Dike Street to the north, Troy Street to the west, and Oak Street to the south.
 
-+ [1889 Sanborn Insurance Map, Volume 1, Plate 27a](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901){:target="_blank"} (page 55) — Labelled as the Weybosset Woolen Mills. Starting on the northern edge along Dike Street, there is a 1-story office building located near where a newer, 2 story office was later built. On the western side of the block, a shorter brick building exists which was later expanded to become the dyeing house at 46 Dike Street. The center, blue (indicating concrete or stone construction), 4-story “F”-shaped mill (rotated 90°) consists of Mill Number 1 along the northern side, a “wing” on the eastern side, and an “L” building protruding from the center of Mill Number 1. Four smokestacks are located in a brick building to the west of Mill Number 1 and north of Mill Number 2. There is an open section in the blue “F” shape with a small stone building and 1-story red brick addition. Mill Number 2 is on the southwestern corner of the block at Oak and Troy. Elevated walkways exist connecting to a store house across Oak Street and then connecting again to Mill Number 3 (see next map) across Troy.
-+ [1900 Sanborn Insurance Map, Volume 3, Plate 264](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190003){:target="_blank"} (page 54) — Labelled as the American Woolen Company Weybosset Plant. The previously open “F” shape mill has been infilled with the 1-story Weaving Room. The dyeing house is still shorter than it is presently and the smoekstack configuration has changed.
++ [1889 Sanborn Insurance Map, Volume 1, Plate 27a](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901){:target="_blank"} (page 55) — Labelled as the Weybosset Woolen Mills. Starting on the northern edge along Dike Street, there is a 1-story office building located near where a newer, 2 story office was later built. On the western side of the block, a shorter brick building exists which was later expanded to become the dyeing house at 46 Dike Street. The center, blue (indicating concrete or stone construction), 4-story “F”-shaped mill (rotated 90°) consists of Mill Number 1 along the northern side, a “wing” on the eastern side, and an “L” building protruding from the center of Mill Number 1. Four smokestacks are located in the Boiler House building to the west of Mill Number 1 and north of Mill Number 2. There is an open section in the blue “F” shape with a small stone building and 1-story red brick addition. Mill Number 2 is on the southwestern corner of the block at Oak and Troy. Elevated walkways exist connecting to a store house across Oak Street and then connecting again to Mill Number 3 (see next map) across Troy.
++ [1900 Sanborn Insurance Map, Volume 3, Plate 264](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190003){:target="_blank"} (page 54) — Labelled as the American Woolen Company Weybosset Plant. The previously open “F” shape mill has been infilled with the 1-story Weaving Room. The dyeing house is still shorter than it is presently and the smokestack configuration has changed. Detail of Mill Number 3 is present and what will become Mill Number 4 is only a one-story “Cotton and Wool Storage” building.
 + [1920 Sanborn Insurance Map, Volume 4, Plate 14](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192104){:target="_blank"} (page 15) — The dye house building has increased in size and the 1-story office on the north of the block has had a 2-story office built to the east. Mill Number 4 has been added on the block south on Oak Street and remains connected to Mills Number 2 to the north and 4 to the west. Elevated walkways also exist between the new Mill Number 4 and the “L” portion of Mill Number 1.
 + [1951 Sanborn Insurance Map, Volume 4, Plate 14](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195004){:target="_blank"} (page 15) — Maps in between did not note any major changes. This map looks very much like the earlier maps except for a few notes: the elevated walkways have been removed and the presence of clerestories has been noted in the drawings.
-+ [1972, Providence Historical Aerial Viewer](#photo-1972-dike-oak-troy-olneyville-aerial-01) — The complex looks much the same as it does in the 1956 map. Much of the block is infilled by buildings. The signature sawtoth roof of the Weaving Room is visible.
-+ [1997, Providence Historical Aerial Viewer](#photo-1997-dike-oak-troy-olneyville-aerial-01) — Demolition has occured on the northern and eastern sides of the complex, losing the Number 1 Main Mill and the Number 1 Wing. The “L” building in between the Number 2 Mill and the Weaving Room has been removed, creating an exposed alley between buildings down the center of the complex. This demolition occured somewhere between the 1988 aerial and this 1997 photo.
-+ [2008, Providence Historical Aerial Viewer](#photo-2008-dike-oak-troy-olneyville-aerial-01) — The demolition that occurred circa 1994 can be seen more clearly in this newer satellite photo.
-+ [2020, Providence Historical Aerial Viewer](#photo-2020-dike-oak-troy-olneyville-aerial-01) — Between a 2011 and a 2014 photo, a new building was added in the center of the complex, to the north of 239 Oak Street and to the west of the former Weave Shed at 217 Oak Street. The configuration since this photo has not changed significantly.
++ 1972, [Providence Historical Aerial Viewer](//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e){:target="_blank"} — The complex looks much the same as it does in the 1956 map. Much of the block is infilled by buildings. The signature sawtooth roof of the Weaving Room is visible.
++ 1997, Providence Historical Aerial Viewer — Demolition has occurred on the northern and eastern sides of the complex, losing the Number 1 Main Mill and the Number 1 Wing. The “L” building in between the Number 2 Mill and the Weaving Room has been removed, creating an exposed alley between buildings down the center of the complex. This demolition occurred somewhere between the 1988 aerial and this 1997 photo.
++ 2008, Providence Historical Aerial Viewer — Between a 2011 and a 2014 photo, a new building was added in the center of the complex, to the north of 239 Oak Street and to the west of the former Weave Shed at 217 Oak Street. The configuration since this photo has not changed significantly.
 
 ***
 
 _From the National Register Form for the Weybosset Mills complex, 2008, by Jenny R. Fields and Alyssa L. Wood, PAL_
 
-[The entire report](//npgallery.nps.gov/NRHP/AssetDetail/dd4e8025-7fb7-42c4-b5ba-f18ad09471ec){:target="_blank"} can be found from the National Parks Service website.
+[The entire report](//npgallery.nps.gov/NRHP/AssetDetail/dd4e8025-7fb7-42c4-b5ba-f18ad09471ec){:target="_blank"} can be found from the National Parks Service website. This main entry for the mill complex focuses on the block bounded by Dike Street to the north, Troy to the west, and Oak Street to the south. The block bounded by Oak to the north, Agnes to the west, Magnolia to the south, and Troy to the east is Mill Number 3, aka the [Roger Williams Brewing Company]({% link _property/roger-williams-brewing.md %}). The block bounded by Oak to the north, Troy to the west, and Magnolia to the south is [Mill Number 4]({% link _property/weybosset-mills-number-4.md %}). 
 
 #### Significance
 
@@ -204,7 +188,7 @@ The flat-roofed, one-by-one-bay stair tower is located on the east elevation of 
 
 #### Dye House (ca 1880, ca 1900)
 
-<figure class="u__img u__img--right" aria-hidden="true">
+<figure class="u__img" aria-hidden="true">
   <img src="{{ site.prod_url }}{{ site.propimg_path }}weybosset-mills-dye-house/dye-house-jh-2023-05-01.jpg" alt="" />
   <figcaption>The former Weybosset Mills Dye House, 46 Dike Street</figcaption>
 </figure>
@@ -212,6 +196,11 @@ The flat-roofed, one-by-one-bay stair tower is located on the east elevation of 
 [See independent entry]({% link _property/weybosset-mills-dye-house.md %})
 
 #### Weaving Room (ca 1890)
+
+<figure class="u__img u__img--right" aria-hidden="true">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}weybosset-mills-dye-house/217-oak-st-jh-2023-07-03.jpg" alt="" />
+  <figcaption>The former Weybosset Mills Weaving Room, 217 Oak Street</figcaption>
+</figure>
 
 The Weaving Room is located east of Mill No. 2 on Oak Street and was originally attached to Mill No. 1 on three sides. The Weaving Room is a one-story, wide rectangular building with a saw-tooth weave shed roof and concrete block and brick walls. The roof includes five 30-60-90 degree saw-tooth monitors covered with asphalt shingle. The sides of the monitors are clad in painted, vertical wood siding. The south elevation, which was originally the only exposed side of the building, contains the only fenestration and access. Four bays of glass block with modem double-hung windows comprise the west half of the south elevation. One additional glass block bay and two small square windows, one of which is covered with plywood, are located in the east half of the south elevation. A high, paneled metal garage roll door with its own asphalt shed roof extending from the weave shed roof defines the center of the building. A ruined section of the brick, south wall of the Mill No. 1 East Ell is still attached to the north elevation of the Weaving Room. Vegetation and a chain-link fence restrict access to the north and east sides of the building.
 
@@ -239,41 +228,22 @@ The current Office appears on historic maps between 1900 and 1921. During this t
 
 #### Mill No. 3 (ca 1880)
 
+<figure class="u__img" aria-hidden="true">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}roger-williams-brewing/rw-brewing-mill3-jh-2023-05-01.jpg" alt="" />
+  <figcaption>Mill Number 3, now 244 Oak Street</figcaption>
+</figure>
+
 See independent entry for the [Roger Williams Brewing Company]({% link _property/roger-williams-brewing.md %}).
 
 
 #### Mill No. 4 with attached Storage Building and Boiler Room (ca 1900, ca 1885, ca 1937)
 
-<figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-52-troy-st-jh-2023-05-04">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/52-troy-st-jh-2023-05-04.jpg" alt="" />
-  </a>
+<figure class="u__img" aria-hidden="true">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}weybosset-mills-number-4/52-troy-st-jh-2023-05-04.jpg" alt="" />
   <figcaption>Mill Number 4, now 222 Oak and 52 Troy Street</figcaption>
 </figure>
 
-Mill No. 4 is located in the southeast block, east of Mill No. 3 and south of Mill No. 2. It consists of a ca 1900 three-story loft, a ca 1885 Storage House, two one-story rear additions, and a two-story ca l937 Boiler House. The main section of Mill No. 4 is a tall three-story, nineteen-by-seven-bay rectangular loft, with a central exterior stair tower on the south elevation. It has a flat built-up roof and brick walls. A three-bay box monitor, with molded wood brackets and plywood infill over the window openings, extends over most of the length of the building. The fenestration consists of rectangular segmental arch openings with brick lintels and granite sills. The window openings increase in height from the first floor upward to the second and third stories. Original double casement windows with plywood infill above are located at the third floor of the east elevation. A variety of 1950s to modern awning and replacement windows are located on the remainder of the building, in window openings that are partially filled with plywood.
-
-[…] The fourth bay from the east at the third floor contains a modern metal door to a fire escape. This fire escape leads to the sixth bay from the east on the second floor. Two overhead passageways to the West Ell of Mill No. 1 originally connected to Mill No. 4 in the vicinity of the fire escape. The first floor of the south elevation is obstructed by modern additions. On the east elevation, two exhaust pipes extend from the first floor window to the roof, at the third bay from the south. The interior construction of the building includes wood posts. In the early twentieth century, Mill No. 4 housed storage space on the first floor, shipping and storage on the second, and sewing on the third.
-
-<figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-52-troy-st-jh-2023-05-03">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/52-troy-st-jh-2023-05-03.jpg" alt="" />
-  </a>
-  <figcaption>Mill Number 4 as seen from the corner of Oak and Troy</figcaption>
-</figure>
-
-The west elevation of Mill No. 4 is attached to a ca 1885 Storage Building. When Mill No. 4 was constructed on the site of a second 1880s storage building, the Storage Building and Mill No. 4 functioned as a single building. The Storage Building is currently six bays long, north-south, by three bays wide, east-west. It has brick walls and a flat built-up roof with a four-bay box monitor in the center, which was altered from the original gable roof. The window openings are rectangular with flat brick lintels and single-course brick sills, and all contain plywood infill with modern replacement windows. […]
-
-Two steel beams, connected by two vertical steel members, wrap around the west end of the north elevation to the north end of the west elevation at the second floor and likely supported the overhead passageways. An approximately 3-foot high north-south knee wall extends through the roof between the Storage House and Mill No. 4. The south elevation of the Storage House is bare, and contains the outline of a two-story waste storage building that was formerly connected to it. […]
-
-<figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-64-troy-st-jh-2023-05-01">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/64-troy-st-jh-2023-05-01.jpg" alt="" />
-  </a>
-  <figcaption>Mill Number 4’s Boiler House, now 64 Troy and 1 Magnolia Street</figcaption>
-</figure>
-
-A one-story, ca 1937 brick storage house addition covers the four bays to the east of the tower and extends perpendicular to Mill No. 4, south to Magnolia Street. All fenestration and loading dock openings in this building are bricked up. One metal personnel door with a metal awning is located on the south, Magnolia Street elevation. The interior construction of the building includes iron posts and a concrete floor. This building is attached to a ca 1937, one-by-three-bay, two-story brick Boiler/Engine House addition at the south end of the west elevation. Fenestration includes tall, rectangular, multi- pane fixed windows at the second story. The first-story windows are covered. Two personnel doors with single-course brick lintels are located on the south elevation at Magnolia Street.
+See independent entry for [Mill Number 4]({% link _property/weybosset-mills-number-4.md %})
 
 ***
 

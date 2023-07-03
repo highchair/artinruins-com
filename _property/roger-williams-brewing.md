@@ -16,7 +16,8 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Weybosset Mills Complex' ]
-tags: [ 'American Woolen Company' ]
+tags: [ 'American Woolen Company', 'The Superlatives' ]
+superlative: 'The oldest surviving intact mill building in Olneyville, dating from 1880'
 
 NRHP-ref-number: '07001381 (individual)'
 added-to-NRHP: 'January 2008'
@@ -51,8 +52,14 @@ images:
   - url: rw-brewing-mill3-jh-2023-05-02.jpg
     caption: 'View north northeast of the southern face of Mill Number 3.'
     sizes: '1200, 900'
+  - url: rw-brewing-mill3-jh-2023-07-02.jpg
+    caption: 'Detail of the exposed rubblestone walls beneath modern parging, south face of Mill Number 3.'
+    sizes: '1200, 900'
   - url: rw-brewing-mill3-jh-2023-05-03.jpg
     caption: 'Detail view of the connections between the Boiler House (left) and Mill Number 3 (right).'
+    sizes: '1200, 900'
+  - url: rw-brewing-mill3-jh-2023-07-01.jpg
+    caption: 'Detail view of the courtyard between buildings, with original Boiler House in the rear of the photo.'
     sizes: '1200, 900'
   - url: rw-brewing-mill3-jh-2023-05-04.jpg
     caption: 'View north northwest of the southern face of the Boiler/Engine/Turbine House.'
@@ -78,10 +85,13 @@ images:
   - url: rw-brewing-mill3-jh-2023-05-11.jpg
     caption: 'View south southwest of the northern face of Mill Number 3.'
     sizes: '1440, 900'
+  - url: 1937-gm-hopkins-plate-36-01.jpg
+    caption: 'Building labelled as Roger Williams Brewing Company. 1937 G.M. Hopkins map, Plate 36 — Rhode Island Secretary of State Collection Digital Collections'
+    sizes: '1440, 900'
 
 mostrecentimage: 2023-05-01
 
-imagescredit:
+imagescredit: 'Contribution from the RI Secretary of State Collection Digital Collections'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -114,7 +124,7 @@ There is [an active corporation by the name of Roger Williams Brewery](https://o
 
 ### History
 
-This property is part of the larger [Weybosset Mills complex]({% link list/weybosset-mills-complex.html %}). A fuller report is available [at the main complex]({% link _property/waterman-weybosset-mills.md %}).
+This property is part of the larger [Weybosset Mills complex]({% link list/weybosset-mills-complex.html %}). A full report is available [at the entry for the main complex]({% link _property/waterman-weybosset-mills.md %}).
 {:.o__tldr}
 
 _From the National Register Form for the Weybosset Mills complex, 2008, by Jenny R. Fields and Alyssa L. Wood, PAL_
