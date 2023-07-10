@@ -186,7 +186,7 @@ This is the oldest surviving mill in the Olneyville area.
 
 Roger Williams Brewing Company was formerly known as Weybosset Mills. The first structure for this company was erected in 1836; it was originally used for cotton weaving. The mill was shut down during the Civil War but reopened by Royal C. Taft who began to manufacture cassimere there after removing the cotton machines. A second mill building was built around 1865. In 1872 both mills were enlarged and improved. A third mill used as an auxiliary was built in 1880 (where Roger Williams Brewing company was later housed). By 1899 Weybosset Mi1ls merged with American Woolen Company (Woodward 1986).
 
-There was a transfer of ownership to Crown Worsted in 1931. Then additional businesses were housed there in 1946. They consisted of two trucking companies, a wool dealer, a jewelry manufacturer, and an additional manufacturing company. By 1975 the building became mostly vacant and was primarily used by Eastern Wire and I-V Rigging. This is the oldest surviving mill in the Olneyville area.
+There was a transfer of ownership to [Crown Worsted]({% link _property/crown-worsted-pvd.md %}) in 1931. Then additional businesses were housed there in 1946. They consisted of two trucking companies, a wool dealer, a jewelry manufacturer, and an additional manufacturing company. By 1975 the building became mostly vacant and was primarily used by Eastern Wire and I-V Rigging. This is the oldest surviving mill in the Olneyville area.
 
 
 ### In the News
