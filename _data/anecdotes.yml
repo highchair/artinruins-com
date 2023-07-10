@@ -1,6 +1,26 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: weybosset-mills-number-4
+  person: 'Robert Mansour'
+  date: '2023-07-03'
+  content: 'The One Magnolia Street location is now owned by Magnolia Properties, LLC. Owned by Robert Mansour.'
+
+- property: roger-williams-brewing
+  person: 'Daniel Macks'
+  date: '2023-07-03'
+  content: 'According to RI records, the current “Roger Williams Brewery LLC” was formed in 2011. It identifies itself as a residential property management company and is affiliated with Burbank Construction, who, according to their website, is involved with “renovating the mills in and around Providence, Rhode Island, transforming them into ‘Mixed Use’ facilities.”'
+
+- property: box-office
+  person: 'Nicole Burns'
+  date: '2023-07-02'
+  content: 'Hello with the housing crisis we’re experiencing. I would love to live in one as a studio or 1 bedroom. I’m impressed by there appearance as drive by on rt 10. How much would you consider renting 1 for?'
+
+- property: gorham-manufacturing-co
+  person: 'John Gordon'
+  date: '2023-07-02'
+  content: 'My dad was with “Gorhams” during the war and was GM until he moved to Towle in 1958. The Gorham Bronze art I remember is the USMC statue at Arlington National Cemetery and a large wall piece just inside the main entrance, of, as I recall, an angel with a naked breast highly polished from being touched by many hands (according to my mother)'
+
 - property: soule-mill-weave-shed
   person: 'Frani Keeley '
   date: '2023-06-26'
