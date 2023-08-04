@@ -2,7 +2,9 @@
 title: "Colonial Knife"
 slug: colonial-knife
 aka: 'Snowdon Worsted Mills'
-date-modified: 2023-05-20 12:00
+date-modified: 2023-07-30 12:00
+update: 'Added two more photos of the demolition status as of July 1, 2023'
+update-image: colonial-knife-jh-2023-07-01.jpg
 
 built: 'before 1908'
 demolition: '2023'
@@ -81,6 +83,12 @@ images:
     sizes: '1440, 900'
   - url: colonial-knife-jh-2023-05-10.jpg
     caption: 'Photo 2023. Looking east across the demolition with some of the original buildings still standing'
+    sizes: '1440, 900'
+  - url: colonial-knife-jh-2023-07-01.jpg
+    caption: 'Photo 2023. Looking west across the demolition with all above-ground structures removed'
+    sizes: '1440, 900'
+  - url: colonial-knife-jh-2023-07-01.jpg
+    caption: 'Photo 2023. Looking northwest at the flat concrete pads left behind; all buildings razed'
     sizes: '1440, 900'
   - url: 1900-sanborn-dike-agnes-magnolia-01.jpg
     caption: '1900 Sanborn Insurance Map, Volume 3, plate 263. Library of Congress, Maps Division'
