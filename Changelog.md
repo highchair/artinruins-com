@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2023-08-14
+
+Added
++ Markup and CSS class structure to handle responsive side-scrolling tables
+
 ## 2023-03-10
 
 Added

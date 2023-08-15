@@ -4,35 +4,66 @@ table {
     color: palette('brand-teal');
     padding-top: $vertical-rhythm;
     padding-bottom: $vertical-rhythm;
+    text-align: left;
   }
 }
 
 .table {
   &__bordered {
     border-top: 0.5px solid palette(gray-200);
-    
+
     th {
       // Bold by browser default
       font-size: 0.9375em;
+      white-space: nowrap;
     }
-    
+
     th, td {
       padding: 0.125rem 0.375rem;
     }
-    
+
     thead th {
       border-bottom: 1.5px solid palette(gray-200);
     }
-    
+
     td:not(:last-child),
     tbody th {
       border-bottom: 0.5px solid palette(gray-200);
       border-right: 0.5px solid palette(gray-200);
     }
-  
+
     .timeline-span {
       background-color: palette(gray-100);
       color: palette(gray-900);
     }
   }
+}
+
+// Adding scrollability if the markup is correct
+// Props to Adrian Roselli for the guidance: https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html
+// <div role="region" aria-labelledby="table_caption" tabindex="0">
+//   <table class="table__bordered">
+//     etc.
+[role="region"][aria-labelledby][tabindex] {
+  overflow: auto;
+  
+  // Add an overscroll visual cue from Lea Verou
+  background: linear-gradient(to right, #fff 30%, rgba(255, 255, 255, 0)),
+    linear-gradient(to right, rgba(255, 255, 255, 0), #fff 70%) 0 100%,
+    radial-gradient(
+      farthest-side at 0% 50%,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0)
+    ),
+    radial-gradient(
+        farthest-side at 100% 50%,
+        rgba(0, 0, 0, 0.2),
+        rgba(0, 0, 0, 0)
+      )
+      0 100%;
+  background-repeat: no-repeat;
+  //background-color: #fff;
+  background-size: 2.5em 100%, 2.5em 100%, 0.875em 100%, 0.875em 100%;
+  background-position: 0 0, 100%, 0 0, 100%;
+  background-attachment: local, local, scroll, scroll;
 }
