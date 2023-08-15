@@ -18,6 +18,32 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 
 ## On The Boards
 
+### 251-269 Wickenden Street
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-08.jpg" alt="">
+  <figcaption>Rendering for Fox Point Capital LLC</figcaption>
+</figure>
+
+August 15 was the Major Land Development proposal for 269 Wickenden Street presented to the City Plan Commission (CPC). This proposal would construct a [five-story, mixed-use building with 62 residential units](https://www.providenceri.gov/wp-content/uploads/2023/04/23-012MA-269-Wickenden-St-master-submission.pdf){:target="_blank"}. The applicant seeks an adjustment to allow for the fifth-story, along with a design waiver for the window sills. If approved, two 1980s buildings will be demolished (the former Hairspray Salon building that is currently for sale). The proposal’s massing and design are not appropriate for Wickenden Street. The time for public comments has passed but the matter will continue to be reviewed by the CPC.
+
+
+### 108–110 Waterman Street
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/110-waterman-street-streetview.jpg" alt="">
+  <figcaption>Streetview of 110 Waterman Street from Google</figcaption>
+</figure>
+
+The demolition of yet another contributing house to the College Hill Historic District is being proposed. The replacement is another bland dark box with 26 units and 56 bedrooms. The developer and architect are the same ones who demolished [two former homes on the corner of Brook and Waterman]({% link _property/382-brook-116-waterman.md %}). The architecture style would be the same as well, which would start to create a pattern along that street that would make it difficult to tell one building from another. Further, we think it would not be long for the one remaining house in between these two behemoths to be replaced by the same architecture. 
+
+The design of the [new 26 unit building](https://www.providenceri.gov/wp-content/uploads/2023/07/23-030MA-108-110-Waterman-Street-master-plan-submission.pdf){:target="_blank"} can be downloaded as a PDF from the City website. We encourage citizens to speak out against this wall of sameness along an important commercial and historic corridor.
+
+The existing building is the Rufus Waterman House, built 1877. It is a very handsome double-house with a Second Empire mansard roof, gothic details, and ground-cloor retail. Unlike some houses that have been torn down in the are recently, we don’t think you can claim that this house is “blighted.”
+
+[According to the staff notes on the hearing, they are not opposed to demolition](https://www.providenceri.gov/wp-content/uploads/2023/07/22-030MA-108-110-Waterman-Street-master-plan-report.pdf){:target="_blank"} in this section of the city [as we have seen so many times in the past]({% link _essays/erosion-of-college-hill-historic-district.md %}).
+
+
 ### Parcel 2
 
 On Wednesday, May 17, Urbanica Inc. presented their [new concept proposal for Parcel 2](//www.195district.com/projects/parcel-2/). This design now features two buildings, scaled at 3, 4, and 5 stories with the 3-story portions facing South Main Street and the height increasing towards the south and the waterfront. The Providence Preservation Society commends the collaboration with the State Historic Preservation Office and Urbanica to create a more balanced proposal for the parcel.
@@ -41,17 +67,6 @@ Boston-based <a href="https://cvprop.com/" target="_blank">CV Properties</a> wan
 The public is invited to comment at the next regular meeting of the <a href="https://www.195district.com/" target="_blank" rel="noopener">I-195 Redevelopment District Commission</a> to be held in District Hall on Dyer Street. The public comment session follows opening remarks by Chairperson Crisafulli.
 
 Members of the public should sign-up to speak during the general public comment session via email at questions@195district.com. Comments will be limited to 3 minutes per person. Download the agenda and supplemental materials for the April 19 meeting at <a href="https://www.195district.com/documents/" target="_blank">Commission Meeting Documents</a>.
-
-
-### Fane Tower is Dead
-
-**Update March, 2023**
-
-After six long years, the fight against Fane Tower is finally over! On March 10, the I-195 District Commission announced that the Fane Tower proposal was scrapped, due to “risk factors outside of [the Fane Organization]’s control.” The proposal was considering a new design and yet another deadline extension in March. This outcome could not have been achieved without the tireless efforts of community organizations, ward representatives, neighborhood associations, and countless community members who came out for hearing after hearing to oppose this outsized and inappropriate proposal.
-
-**Update February, 2023**
-
-On Wednesday, February 15, the Fane Organization presented design adjustments presented to the I-195 Commission in response to neighborhood and commission concerns. These concerns included adverse wind impacts, an unsatisfactory tower design, podium design, and site activation plan. The Fane Tower design team stated that the tower’s design was meant to be a “Tower in the park,” and therefore did not need to align with the abutting neighborhoods’ architectural fabric. They also showcased some minimal design interventions to combat adverse wind impacts and site activation challenges. A decision regarding approval of the new design and whether the Fane Organization will be granted yet another extension will occur at the March 15th Commission meeting. The Providence Preservation Society has released [a letter detailing their objections](//ppsri.org/wp-content/uploads/2023/02/2023-02-22-Fane-Tower-Comments.pdf){:target="_blank"}.
 
 
 ### NEW 122 Power Street
