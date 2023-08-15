@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#UrbanDecay' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: [ 'W. G. Sheldon' ]
 people: []
 lists: [ 'National Register of Historic Places', 'Quality Hill Historic District' ]
 tags: [ 'House' ]
@@ -121,6 +121,12 @@ The house is currently within a six-month waiting period to see if it can saved 
 _From the National Register nomination form for the Quality Hill Historic District_
 
 **Read-Ott House** (1842; 1914-15): A 2 1/2-story, five-bay, Greek/Italianate house of the mid-nineteenth century given a full third story and a wealth of Georgian Revival details in the early twentieth century (W.G. Sheldon, architect for remodeling). Chief among these later details is the two-story, balustraded front portico. It was originally built for John B.Read, a hardware merchant and was remodeled for Joseph Ott, founder of the Royal Weaving Company.
+
+***
+
+_From the RIHPHC Statewide Historical Preservation Report, Pawtucket RI, 1978_
+
+(Page 58) **Read-Ott House** 1842, 1914-1915; W. G. Sheldon, architect for remodeling, A 2 1⁄2-story, 5-bay, Greek Revival-Italianate house given a full third story and a wealth of Georgian Revival details in the early 20th century. Built for John B. Read, a hardware merchant: remodeled for Joseph Ott, founder of the Royal Weaving Company.
 
 ***
 
