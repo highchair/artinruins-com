@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'DBVW Architects' ]
 lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: [ 'Apartments for Rent', 'The Superlatives' ]
-suprlative: 'The older building in this complex is one of only a handful of wood-framed mill buildings in the state'
+superlative: 'The older building in this complex is one of only a handful of wood-framed mill buildings in the state'
 
 NRHP-ref-number: '03001521 (individual)'
 added-to-NRHP: 'January 30, 2004'
