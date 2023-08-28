@@ -121,6 +121,10 @@ https://www.providencejournal.com/article/20140327/OPINION/303279890
 # Click tracking
 + Use GA to track the clicks on Surprise Me. I'd be interested to know if people use it.
 
+# A story about the fire at Harborside Inn and it history
+
+https://www.bostonglobe.com/2023/08/28/metro/forgotten-history-block-islands-harborside-inn
+
 # 101 North Main St and Two Thomas Street
 + Add links to those properties from the East Side Train Tunnel property page
 

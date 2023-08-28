@@ -2,8 +2,8 @@
 layout: page
 type: page
 permalink: proposals/
-title: "New Building Proposals"
-meta-title: "New Building Proposals | ArtInRuins"
+title: "New Building & Demolition Proposals"
+meta-title: "New Buildings & Demolitions | ArtInRuins"
 body-class: proposals
 sitemap:
   lastmod: 2023-04-22
@@ -25,6 +25,18 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
   <figcaption>Rendering for Fox Point Capital LLC</figcaption>
 </figure>
 
+**Update August 22, 2023**
+
+[William Morgan weighs in with this GoLocal recent article](//www.golocalprov.com/business/Goodbye-Fox-Point-William-Morgan-Architecture-Critic){:target="_blank"}.
+
+**Update August 16, 2023**
+
+The City Plan Commission approved the plan for this new building after the developer made slight modifications to the design. Even though most of the 60 citizens who packed the meeting opposed the development, the <span class="abbr">CPC</span> has a history of agreeing with developers who are making an investment in the city. They push back some, but not enough most of the time, and do not always consider public opinion. Granted, some of that opinion might be NIMBY, but many people presented salient points about the design, the increase in density, and the historic and relatively untouched nature of the neighborhood.
+
+[Synopsis of the meeting at the Public Radio](//thepublicsradio.org/article/after-heated-public-hearing-providence-plan-commission-votes-to-go-ahead-with-fox-point-development?fbclid=IwAR13KrybY6zy8M8dPbbBqT6TcDu7unoAD_F5SXi-hszTAwmnxdqUBP3CKjs){:target="_blank"}
+
+**August 15, Original post**
+
 August 15 was the Major Land Development proposal for 269 Wickenden Street presented to the City Plan Commission (CPC). This proposal would construct a [five-story, mixed-use building with 62 residential units](https://www.providenceri.gov/wp-content/uploads/2023/04/23-012MA-269-Wickenden-St-master-submission.pdf){:target="_blank"}. The applicant seeks an adjustment to allow for the fifth-story, along with a design waiver for the window sills. If approved, two 1980s buildings will be demolished (the former Hairspray Salon building that is currently for sale). The proposal’s massing and design are not appropriate for Wickenden Street. The time for public comments has passed but the matter will continue to be reviewed by the CPC.
 
 
@@ -44,12 +56,25 @@ The existing building is the Rufus Waterman House, built 1877. It is a very hand
 [According to the staff notes on the hearing, they are not opposed to demolition](https://www.providenceri.gov/wp-content/uploads/2023/07/22-030MA-108-110-Waterman-Street-master-plan-report.pdf){:target="_blank"} in this section of the city [as we have seen so many times in the past]({% link _essays/erosion-of-college-hill-historic-district.md %}).
 
 
+### Proposed demolition of Mount Pleasant High School
+
+The Providence Public School Department is considering whether to knock down Mount Pleasant High School in favor of constructing a cheaper alternative. The district has been under state control since 2019, and touched on three proposals for the school during a community hearing.
+
+The first proposal recommends renovating the existing building, while the second suggests knocking it down and building a new one in its place. The final proposal is a combination of the first two, with a portion of the school being torn down to make room for a new build. Saving the building and upgrading it would create a $80 million budget shortfall, while new construction is more cost-effective.
+
+The details of the proposals were scant, with no mention of the interior design or classroom models of each proposal. It was also unclear if the budgetary shortfall was created because of the costs associated with maintenance vs. the temporary savings of not having large maintenance projects associated with a new building for a few years.
+
+A portion of this decision to demolish seems self-inflicted, in our opinion. RIDE and the school takeover administration cut repair funding from $26.5M to $3.6M which likely created a demolition by neglect scenario. 
+
+[Story from WPRI News](//www.wpri.com/news/local-news/providence/district-considers-demolishing-mount-pleasant-high-school/){:target="_blank"}
+
+
 ### Parcel 2
 
 On Wednesday, May 17, Urbanica Inc. presented their [new concept proposal for Parcel 2](//www.195district.com/projects/parcel-2/). This design now features two buildings, scaled at 3, 4, and 5 stories with the 3-story portions facing South Main Street and the height increasing towards the south and the waterfront. The Providence Preservation Society commends the collaboration with the State Historic Preservation Office and Urbanica to create a more balanced proposal for the parcel.
 
 
-### NEW I-195 Land Parcels 14 and 15
+### I-195 Land Parcels 14 and 15
 
 **Update April, 2023**
 
@@ -69,7 +94,7 @@ The public is invited to comment at the next regular meeting of the <a href="htt
 Members of the public should sign-up to speak during the general public comment session via email at questions@195district.com. Comments will be limited to 3 minutes per person. Download the agenda and supplemental materials for the April 19 meeting at <a href="https://www.195district.com/documents/" target="_blank">Commission Meeting Documents</a>.
 
 
-### NEW 122 Power Street
+### 122 Power Street
 
 <figure class="u__img">
   <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/122-power-st-2022-09-01.jpg" alt="">

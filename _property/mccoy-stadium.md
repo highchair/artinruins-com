@@ -2,7 +2,8 @@
 title: "McCoy Stadium"
 slug: mccoy-stadium
 aka: "Pawtucket Stadium, Home of the PawSox"
-date-modified: 2023-02-20 12:00
+date-modified: 2023-08-28 12:00
+update: 'Added links about the small chance that a private owner may save the stadium'
 
 built: '1938-1940'
 demolition:
@@ -86,6 +87,14 @@ We can’t say much more than what has already been said, so here are some links
 ### Current Events
 
 The stadium has been without a team since 2019. The last season for the Pawtucket Red Sox was supposed to be 2020, but the COVID-19 pandemic cut it short. The stadium has hosted a few concerts and events since the Paw Sox left, but few and far between. The infield grass, which requires much care and upkeep, has largely gone to seed or burned away from the dry summer. The adjacent soccer field and track get more use than this baseball diamond. 
+
+**Update August 2023**
+
+There are efforts to save the stadium, though the effort seems like a long-shot. A billionaire investor is interested in the stadium, though again, the long-term feasibility of this is unclear.
+
++ [A search on Change.org brings up three or more different petitions about the issue](//www.change.org/search?q=McCoy%20Stadium&offset=0){:target="_blank"}
++ [Save McCoy Stadium Facebook group](//www.facebook.com/profile.php?id=100095712815483){:target="_blank"}
++ [An article about the recent moves of an individual billionaire to save the stadium](//thetouchback.com/a-billionaire-wants-to-save-this-minor-league-baseball-stadium-the-city-wont-let-him){:target="_blank"}
 
 
 ### History
