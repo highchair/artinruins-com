@@ -6,7 +6,7 @@ title: "Similar Projects"
 meta-title: "Similar Projects | ArtInRuins"
 body-class: links
 sitemap:
-  lastmod: 2020-07-25
+  lastmod: 2023-08-31
   priority: 0.6
   changefreq: 'monthly'
 ---
@@ -162,6 +162,10 @@ Opened October 3, 1964, [NEWSM](//newsm.org){:target="_blank"} was founded by Ro
 ### Old Breweries in Rhode Island
 
 [A list of the breweries that were founded in Rhode Island](//www.oldbreweries.com/breweries-by-state/rhode-island/){:target="_blank"} from OldBreweries.com.
+
+### Providence Archives
+
+[The Providence City Archives are hosted on Preservica](//t93c12bb2a2098924.starter1ua.preservica.com){:target="_blank"}. Of note are maps that are in the sweet spot of years that are not easily found in other public sources, as well as a collection of House Directories from 1895 through 1935 organized by Street name.
 
 ### Providence Historical Aerial Viewer
 

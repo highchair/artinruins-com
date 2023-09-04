@@ -36,15 +36,24 @@ The history we collect here is typically cut-and-pasted from work other people h
 
 Help us grow ArtInRuins and our collection of buildings. Contribute your expertise about a building, or, [contact us]({% link contact.md %}) for a to do list of properties that we’d like more info on before we build a page for it.
 
+<div class="o__tldr rhythm" markdown="1">
+
+#### To Do Items
+
 We have [a list of properties that need updated images](/property/list-by-newest-image/)! Tackle the ones towards the top of the list first so we don’t have any property still standing with images more than 10 years old, and thanks! 
-{:o__tldr}
+
+We also have a [**To Do list** of items to research or update]({% link to-do-list.md %}).
+
+</div>
 
 ## People who have helped
 
 Thank you, thank you, thank you to the following folks who have contributed in one way or another:
 
++ Amy Brassard & Katherine Porter, donations September 2022
++ Valerie Abitbol, donation July 2022
 + Osman Cortave, donation December 2021
-+ Everett Abitbol, donation August 2021
++ Everett Abitbol, donation August 2021 and July 2023
 + Randall Kirby, photos of Potters Hill Mill, Westerly, January 2021
 + Marian Gray, donation, December 2020
 + Larry Cultrera, Diner Hotline, and his collection of diner photos through the years

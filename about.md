@@ -6,7 +6,7 @@ title: "About ArtInRuins"
 meta-title: "About A.I.R. | ArtInRuins"
 body-class: about
 sitemap:
-  lastmod: 2021-02-02
+  lastmod: 2023-08-31
   priority: 0.6
   changefreq: 'monthly'
 ---
@@ -53,8 +53,10 @@ While Eagle Square was a failure in some ways — artists were forced to move o
 
 We have been documenting the region since 2002 and collecting the histories that make Rhode Island special in the hopes that we may learn from, and preserve, our past.
 
-## Press & Contributions
 
+## Press, Contributions, & Awards
+
++ Award: _Antoinette F. Downing Volunteer Award_ Rhody Awards for Historic Preservation, 2023
 + Presentation: _ArtInRuins: Our History, significant Saves, significant Losses, and the Future_, for the East Greenwich Historic Preservation Society, April 2023. [Archived on YouTube](//www.youtube.com/watch?v=ELvzJEn1dE0){:target="_blank"}
 + Article: _Architectural Excavation_, **Providence**, November 2022, p11
 + Article: _Architectural Excavation_, Abbie Lahmers, **Hey Rhody**, October 2022, p14
@@ -64,6 +66,7 @@ We have been documenting the region since 2002 and collecting the histories that
 + Article: Owner and designer of ArtInRuins, owner of Highchair designhaus, **Providence Business News**, Providence RI, July 2006
 + Article: Owner and designer of ArtInRuins, Pawtucket Times’ Special Section, **Momentum**, Pawtucket RI, May 2006
 + Author for Exhibition Catalog: _Scott Lapham Bearing Witness_, photography solo show, October 2005
++ Award: _Volunteer of the Year_ Providence Preservation Society, 2005
 + Interview: _Urban Revival_, Lauren Rosati, **Providence Monthly**, April 2005
 + Contributing author: _How to keep the Arts from Dying of Old Age_, **AS220 Newsletter**, March 2005
 + Interview: _The Apex of Potential_, Tim Lehnert, **Providence Phoenix**, December 2004
