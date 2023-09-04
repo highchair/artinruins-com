@@ -2,7 +2,9 @@
 title: "East Side Train Tunnel"
 slug: east-side-train-tunnel
 aka: 
-date-modified: 2020-09-23 12:00
+date-modified: 2023-09-01 12:00
+update: 'Added a photo of the Fox Point Trolley Station with a transcription of the inscription'
+update-image: es-train-tunnel-ppl-fox-point-station.jpg
 
 built: '1906–1908'
 demolition: '1983'
@@ -52,6 +54,9 @@ images:
   - url: es-train-tunnel-benefit-st-05.jpg
     caption: 'Photograph of the west entrance under Benefit Street, date unknown. Edward Ozog Photograph Collection, Providence Public Library'
     sizes: '1352, 900'
+  - url: es-train-tunnel-ppl-fox-point-station.jpg
+    caption: 'Photograph of the Fox Point Trolley Station, 1928. Edward Ozog Photograph Collection, Providence Public Library'
+    sizes: '1440, 900'
   - url: es-train-tunnel-ppl-aerial-1950.jpg
     caption: 'Aerial view looking east from above Exchange Place/Kennedy Plaza. The soldiers and sailors monument in “Suicide Circle” can be seen and the Providence Washington Insurance company building (1949) seems to be nearing completion — Avery Lord Aerial Photograph Collection, Providence Public Library'
     sizes: '1200, 1200'
@@ -97,7 +102,7 @@ images:
 
 mostrecentimage: 2020-10-01
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A043-03" target="_blank">Providence Public Library Digital Collection</a> (<a href="https://provlibdigital.org/islandora/object/islandora%3A46" target="_blank">Avery Lord aerial</a>), Leo King, Providence Historical Aerial Viewer, and <a href="https://www.loc.gov/pictures/item/ri0396/" target="_blank">Library of Congress</a> HABS/HAER photographer William E. Barrett'
+imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A043-03" target="_blank">Providence Public Library Digital Collection</a> (<a href="https://provlibdigital.org/islandora/object/islandora%3A46" target="_blank">Avery Lord aerial</a>, Edward Ozog Photograph Collection), Leo King, Providence Historical Aerial Viewer, and <a href="https://www.loc.gov/pictures/item/ri0396/" target="_blank">Library of Congress</a> HABS/HAER photographer William E. Barrett'
 ---
 
 ### Reason for Closure
@@ -106,7 +111,7 @@ The tunnel and viaduct connected all rail traffic from Fall River, Massachusetts
 
 Rail service dwindled as highways took over day-to-day transportation. In the 1950s, the second track was removed as freight service also dwindled. The continuation into Bristol was abandoned in 1976, and by 1981 the last train traversed the tracks. The ownership of the tunnel transferred from the Providence and Worcester Railroad to the State of Rhode Island in 1981, and the tunnel was closed as part of the Northeast Corridor Improvement Project shortly after. 
 
-When construction began in 2000 to renovate 101 North Main Street and construct a new building at 2 Thomas Street, the steel doors covering the tunnel entrance under Benefit Street were painted and the old track area in front of it was cleaned up and made into a surface parking lot.
+When construction began in 2000 to renovate [101 North Main Street]({% link _property/101-north-main-st.md %}) and construct a new building at [Two Thomas Street]({% link _property/two-thomas-st.md %}), the steel doors covering the tunnel entrance under Benefit Street were painted and the old track area in front of it was cleaned up and made into a surface parking lot.
 
 #### Related Links & Stories
 
@@ -117,7 +122,7 @@ When construction began in 2000 to renovate 101 North Main Street and construct 
 
 ### Current Events
 
-In 2003, Brown University and the Mayor of East Providence, Rolland Grant, and Robert Manchester (a Brown Alum) considered putting trains back into the tunnel and linking East Providence and the East Side and Downtown once again, with proposed underground stops at Thayer Street and Benefit Street. This proposal was fun to think about but clearly went nowhere. 
+In 2003, Brown University and the Mayor of East Providence, Rolland Grant, and Robert Manchester (a Brown alumni) considered putting trains back into the tunnel and linking East Providence and the East Side and Downtown once again, with proposed underground stops at Thayer Street and Benefit Street. This proposal was fun to think about but clearly went nowhere. 
 
 In 2020 the tunnel still sits under College Hill, largely forgotten. Both entrances are shut with welded steel doors. 
 
@@ -126,13 +131,22 @@ In 2020 the tunnel still sits under College Hill, largely forgotten. Both entran
 
 _Compiled from various sources_
 
-This tunnel was conceptualized in 1903 as a means of giving easy rail access to Union Station in the center of Providence. The tunnel connects the Seekonk and the Providence rivers, or Downtown Providence and the East Providence waterfront industrial district. The “Scherzer Rolling Lift Bridge” crossed over the Seekonk River to continue the railroad tracks into East Providence. Before Waterplace park changed downtown, a large concrete pier supporting a steel viaduct took trains out of the west entrance through what is now the Citizens bank headquarters building and behind Union Station. Many of the stones from this viaduct and embankment, once it was demolished, were reused as pavers in Waterplace Park.
+This tunnel was conceptualized in 1903 as a means of giving easy rail access to Union Station in the center of Providence. The tunnel connects the Seekonk and the Providence rivers, or Downtown Providence and the East Providence waterfront industrial district. The “[Scherzer Rolling Lift Bridge]({% link _property/crook-point-bascule.md %})” crossed over the Seekonk River to continue the railroad tracks into East Providence. Before Waterplace park changed downtown, a large concrete pier supporting a steel viaduct took trains out of the west entrance through what is now the Citizens bank headquarters building and behind [Union Station]({% link _property/union-station.md %}). Many of the stones from this viaduct and embankment, once it was demolished, were reused as pavers in Waterplace Park.
 
 The East Side Railroad tunnel — not to be confused with the East Side _Trolley_ Tunnel, which was built in 1913 and is used now as a bus route from South Main street to Thayer street — was begun in 1906. Crews working east from Benefit St. and west from Gano St. met below Cooke St. on April 7, 1908, a day earlier than expected. The tunnel officially opened on November 15, 1908.
 
-It is 22 feet high, 31 feet wide, 5080 feet long, and the reinforced concrete roof is a set of “three-centered arches varying from two feet at the crown to four feet at the skewbacks.” 200,000 yards of material was excavated, and the cost of the project, which included the bridge over the Seekonk river and the approach to Union station was two million dollars. No casualties were reported during construction. The Benefit St. Armory was moved to its present location to make way for the tunnel. At its most shallow, the top of the tunnel is 30 feet below ground, while at its deepest under Prospect Street it is 110 feet below. 
+It is 22 feet high, 31 feet wide, 5080 feet long, and the reinforced concrete roof is a set of “three-centered arches varying from two feet at the crown to four feet at the skewbacks.” 200,000 yards of material was excavated, and the cost of the project, which included the bridge over the Seekonk river and the approach to Union station was two million dollars. No casualties were reported during construction. The Benefit St. Armory was moved to its present location to make way for the tunnel. At its most shallow, the top of the tunnel is 30 feet below ground, while at its deepest under Prospect Street it is 110 feet below.
 
-A somber ceremony marked the closing of the Fox Point railroad station, in which a procession followed the last “transfer car” downtown. The Fox Point station had served the city for 73 years but had been made obsolete by this new tunnel that brought trains directly in to the newer Union Station on Exchange Terrace. 
+A somber ceremony marked the closing of the Fox Point railroad station, in which a procession followed the last “transfer car” downtown. [The Fox Point station](#photo-es-train-tunnel-ppl-fox-point-station) had served the city for 73 years but had been made obsolete by this new tunnel that brought trains directly in to the newer Union Station on Exchange Terrace. 
+
+<figure class="u__img">
+  <a href="#photo-es-train-tunnel-ppl-fox-point-station">
+    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/es-train-tunnel-ppl-fox-point-station.jpg" alt="" />
+  </a>
+  <figcaption>
+    Notes from Edward Ozog are on the back of the Fox Point trolley station photo, and they read: “At this time, trains from Fall River, Warren. and Bristol were using the tunnel and not this terminal. The depot building was in use at this time as a freight office for the wharf business from Fox Point to India Point.”
+  </figcaption>
+</figure>
 
 Originally the tunnel had two tracks, one of which was electrified, as the line to Bristol and Fall River was served by electric interurban cars until 1934. The tunnel also provided a route to Boston for trains that did not need to stop at Pawtucket. Traffic patterns changed, the second track was removed in the 1950’s and the tunnel became a route for freight trains only. The line to Bristol was abandoned in 1976. In 1981 ownership of the tunnel itself was transferred to the State of Rhode Island and the last train travelled through it shortly after that.
 
@@ -141,7 +155,9 @@ In 1982 and ‘83, as part of the Northeast Corridor Improvement Project, the vi
 #### Sources
 
 + _“East Side Railroad Tunnel, Benefit Street to Seekonk River, Providence, Providence County, RI”_, Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey, captured September 23, 2020. https://www.loc.gov/pictures/item/ri0396/
++ _Fox Point Depot, Providence RI_ Edward Ozog Photo Collection, Providence Public Library, captured September 1, 2023 from https://provlibdigital.org/islandora/object/islandora%3A17051?solr_nav%5Bid%5D=24a0f16be549769ffd06&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=1
 
+***
 
 ### Urban Legend
 

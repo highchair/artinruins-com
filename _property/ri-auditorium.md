@@ -53,12 +53,12 @@ external:
 
 ### Reason for Demolition
 
-The old arena was an East Side home to ice hockey, basketball, boxing, and occasional rock concerts. It opened in 1926 and lasted about 50 years before it was replaced by a new [Civic Center]({% link _property/providence-civic-center.md %}) in downtown. It hung around for about 10 years, hosting small events and concerts (as “The Main Event”) and even becoming a disco (called “11-11”)/roller skating venue, and then slowly decaying until 1989 when it was torn down. 
+The old arena was an East Side home to ice hockey, basketball, boxing, and occasional rock concerts. It opened in 1926 and lasted about 50 years before it was replaced by a new [Civic Center]({% link _property/providence-civic-center.md %}) in downtown. It hung around for about 10 years, hosting small events and concerts (as “The Main Event”) and even becoming a disco (called “11-11”)/roller skating venue, and then slowly decaying until 1989 when it was torn down.
 
 
 ### Current Events
 
-The land that the arena occupied is owned by Miriam hospital and used for parking. In 2009 the RI Reds Heritage Society placed a plaque at the location to commemorate the arena and the hockey team. 
+The land that the arena occupied is owned by Miriam hospital and used for parking. In 2009 the RI Reds Heritage Society placed a plaque at the location to commemorate the arena and the hockey team.
 
 
 ### History
@@ -67,7 +67,7 @@ The land that the arena occupied is owned by Miriam hospital and used for parkin
 
 _From [Wikipedia](//en.wikipedia.org/wiki/Rhode_Island_Auditorium){:target="_blank"}_
 
-Rhode Island Auditorium was an indoor arena in Providence, at 1111 North Main Street. The arena held 5,300 people and opened in 1926. It hosted the NBA’s Providence Steamrollers basketball team from 1946 until 1949, and the Providence Reds ice hockey team until the [Providence Civic Center]({% link _property/providence-civic-center.md %}) (now the Dunkin’ Center) was opened in 1972. It languished for over a decade until it was razed in 1989. 
+Rhode Island Auditorium was an indoor arena in Providence, at 1111 North Main Street. The arena held 5,300 people and opened in 1926. It hosted the NBA’s Providence Steamrollers basketball team from 1946 until 1949, and the Providence Reds ice hockey team until the [Providence Civic Center]({% link _property/providence-civic-center.md %}) (now the Dunkin’ Center) was opened in 1972. It languished for over a decade until it was razed in 1989.
 
 ***
 
@@ -93,7 +93,7 @@ Rhode Island Auditorium was built in 1925 by a group of investors headed by Rhod
 
 Surprisingly, when the Auditorium made its debut, it was not for a hockey game. Instead, an overflow crowd of 6,000 spectators jammed the new building to enjoy an ice skating show.
 
-The next fall, the Providence Reds joined the Canadian-American Hockey League composed of the Philadelphia Arrows, Quebec Beavers, New Haven Eagles and Boston Bruin Cubs. [Judge James E. Dooley](//en.wikipedia.org/wiki/James_Dooley_(judge)){:target="_blank"}, a leading sports figure at the famed Narragansett Racetrack on the Pawtucket-East Providence line, was founder of the first Reds team. (Mr. Dooley also was part owner of the [Providence Steamroller]({% link _property/cyclodrome.md %}), short-lived NFL Football team )
+The next fall, the Providence Reds joined the Canadian-American Hockey League composed of the Philadelphia Arrows, Quebec Beavers, New Haven Eagles and Boston Bruin Cubs. [Judge James E. Dooley](//en.wikipedia.org/wiki/James_Dooley_(judge)){:target="_blank"}, a leading sports figure at the famed [Narragansett Racetrack]({% link _property/narragansett-race-track.md %}) on the Pawtucket-East Providence line, was founder of the first Reds team. (Mr. Dooley also was part owner of the [Providence Steamroller]({% link _property/cyclodrome.md %}), short-lived NFL Football team.)
 
 [Louis A. R. Pieri](//en.wikipedia.org/wiki/Louis_Pieri){:target="_blank"}, a Brown University graduate, basketball and football player, became manager of the Auditorium in 1929. Then in 1938, he and his wife Mildred, daughter Lucille and son Louis took ownership of both the building and the Reds hockey team. Pieri later became one of the most important sports figures in the United States.
 

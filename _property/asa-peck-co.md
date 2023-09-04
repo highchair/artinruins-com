@@ -32,6 +32,8 @@ excerpt: "A large, long, four-story 100 plus year old mill on the corner of Harr
 thumbnail: asa-peck-jh-2022-12-02.jpg
 
 images:
+  - url: asa-peck-sc-2002-02-01.jpg
+    caption: '2002 photos by Sarah Clover, shot in 640 x 480px panels'
   - url: asa-peck-jh-2011-10-01.jpg
     alt: 'A four story red brick mill with low sloped gable roof. Rectangular windows openings are large and prominantly featured along each wall. A series of additions project from the main building. More architectural description in the history section.'
     sizes: '1600, 900'

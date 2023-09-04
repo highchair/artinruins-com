@@ -2,7 +2,8 @@
 title: "General Electric Base Plant"
 slug: ge-base-plant
 aka:
-date-modified: 2021-11-29 12:00
+date-modified: 2023-09-03 13:00
+update: 'Added a panaramic photo we found from our archives shot in 2002 by Sarah Clover'
 
 built: '1916–1918'
 demolition: '2015'
@@ -33,10 +34,10 @@ excerpt: "A quietly operational General Electric light bulb plant for over 70 ye
 thumbnail: ge-base-jh-2011-03-04.jpg
 
 images:
-  - url: ge-sanborn-1920-01.jpg
-    alt: 'Largely a single or two story red brick structure with a tall first floor that was once full of machinery. Simple decoration and fenestration with a corbel across the roofline. Fuller description in the history section. '
-    caption: 'Sanborn Insurance Map, 1920–21, Volume 4, Plate 6 — Library of Congress, Geography and Map Division'
-    sizes: '1440, 900'
+  - url: ge-base-sc-2002-02-01.jpg
+    caption: '2002 photos by Sarah Clover, shot in 640 x 480px panels'
+    alt: 'Largely a single or two story red brick structure with a tall first floor that was once full of machinery. Simple decoration and fenestration with a corbel across the roofline. Fuller description in the history section.'
+    sizes: '2000, 400'
   - url: ge-base-jh-2011-03-01.jpg
     sizes: '1440, 900'
   - url: ge-base-jh-2011-03-02.jpg
@@ -49,6 +50,9 @@ images:
     sizes: '1600, 900'
   - url: ge-base-jh-2015-02-02.jpg
     sizes: '1600, 900'
+  - url: ge-sanborn-1920-01.jpg
+    caption: 'Sanborn Insurance Map, 1920–21, Volume 4, Plate 6 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: ge-base-goog-3d-west.jpg
     caption: 'Google Maps satellite view of pre-2015 captured in 2018'
     sizes: '1440, 900'
