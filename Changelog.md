@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2023-09-05
+
+Added
++ Custom 404 page
+
 ## 2023-08-14
 
 Added
