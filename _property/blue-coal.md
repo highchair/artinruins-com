@@ -4,10 +4,10 @@ slug: blue-coal
 aka:
 date-modified: 2020-05-02 21:51
 
-built: 1915
-demolition: 2002
+built: '1915'
+demolition: '2002'
 decade: '1890-1899'
-date-added: 2002
+date-added: '2002'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Silver Lake' ]
 town: [ 'Providence, RI' ]
@@ -28,26 +28,39 @@ thumbnail: blue-coal-mkierstead-01.jpg
 
 images:
   - url: blue-coal-egould-01.jpg
-    caption: Photo by Erik Gould circa 1993
     alt: 'Seven tall cylinders of concrete with an eighth cylinder used as an elevator to help fill the other seven. These structures are joined together by a conveyor belt along the top which was used to distribute coal into one of the seven chambers.'
+    caption: 'Photo by Erik Gould circa 1993'
+    sizes: '1500, 1030'
   - url: blue-coal-egould-02.jpg
-    caption: Photo by Erik Gould circa 1993
+    caption: 'Photo by Erik Gould circa 1993'
+    sizes: '1500, 1204'
   - url: blue-coal-sclover-04.jpg
+    sizes: '380, 588'
   - url: blue-coal-sclover-05.jpg
+    sizes: '380, 588'
   - url: blue-coal-sclover-06.jpg
+    sizes: '380, 588'
   - url: blue-coal-sclover-01.jpg
+    sizes: '588, 380'
   - url: blue-coal-sclover-02.jpg
+    sizes: '588, 380'
   - url: blue-coal-sclover-03.jpg
+    sizes: '588, 380'
   - url: blue-coal-mkierstead-01.jpg
-    caption: Photo by Matt Kierstead
+    caption: 'Photo by Matt Kierstead'
+    sizes: '1440, 900'
   - url: blue-coal-mkierstead-02.jpg
-    caption: Photo by Matt Kierstead
+    caption: 'Photo by Matt Kierstead'
+    sizes: '1440, 900'
   - url: blue-coal-mkierstead-03.jpg
-    caption: Photo by Matt Kierstead
+    caption: 'Photo by Matt Kierstead'
+    sizes: '643, 900'
   - url: blue-coal-mkierstead-04.jpg
-    caption: Photo by Matt Kierstead
+    caption: 'Photo by Matt Kierstead'
+    sizes: '643, 900'
   - url: google-earth-april-2002.jpg
-    caption: Google Earth, April 2002
+    caption: 'Google Earth, April 2002'
+    sizes: '1780, 1200'
 
 imagescredit: Photos by Sarah Clover, Matt Kierstead, and Erik Gould. 
 ---

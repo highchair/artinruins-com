@@ -29,36 +29,53 @@ thumbnail: bcbs-tower-jh-2020-10-01.jpg
 
 images:
   - url: bcbs-tower-jn-2008-05-01.jpg
-    caption: 'Photo by Jef Nickeron, May 2008'
     alt: 'A modern 13-story tower covered in glass and steel or alumninum panels. Each facade is slightly different – one rises straight up while others curve in a subtle wave-like fashion.'
+    caption: 'Photo by Jef Nickeron, May 2008'
+    sizes: '800, 614'
   - url: bcbs-tower-jn-2008-05-02.jpg
     caption: 'Photo by Jef Nickeron, May 2008'
+    sizes: '800, 614'
   - url: bcbs-tower-jn-2008-05-03.jpg
     caption: 'Photo by Jef Nickeron, May 2008'
+    sizes: '800, 614'
   - url: bcbs-tower-jn-2008-05-04.jpg
     caption: 'Photo by Jef Nickeron, May 2008'
+    sizes: '800, 614'
   - url: bcbs-tower-jn-2008-05-05.jpg
     caption: 'Photo by Jef Nickeron, May 2008'
+    sizes: '800, 614'
   - url: bcbs-tower-jh-2008-05-01.jpg
+    sizes: '1200, 900'
   - url: bcbs-tower-jh-2008-05-02.jpg
+    sizes: '1200, 900'
   - url: bcbs-tower-jh-2008-08-01.jpg
+    sizes: '1440, 900'
   - url: bcbs-tower-km-2008-09-01.jpg
     caption: 'Photo by Kinematix, September 2008'
+    sizes: '800, 600'
   - url: bcbs-tower-jn-2008-11-01.jpg
     caption: 'Photo by Jef Nickeron, November 2008'
+    sizes: '800, 600'
   - url: bcbs-tower-jn-2008-11-02.jpg
     caption: 'Photo by Jef Nickeron, November 2008'
+    sizes: '800, 600'
   - url: bcbs-tower-jn-2008-11-03.jpg
     caption: 'Photo by Jef Nickeron, November 2008'
+    sizes: '800, 600'
   - url: bcbs-tower-jh-2020-10-01.jpg
+    sizes: '1200, 900'
   - url: bcbs-tower-pshelasky-01.jpg
     caption: 'Photo by Paul Shelasky'
+    sizes: '657, 960'
   - url: bcbs-tower-pshelasky-02.jpg
     caption: 'Photo by Paul Shelasky'
+    sizes: '652, 960'
   - url: bcbs-tower-pshelasky-03.jpg
     caption: 'Photo by Paul Shelasky'
+    sizes: '657, 960'
   - url: bcbs-tower-pshelasky-04.jpg
     caption: 'Photo by Paul Shelasky'
+    sizes: '657, 960'
 
 mostrecentimage: 2020-10-01
 

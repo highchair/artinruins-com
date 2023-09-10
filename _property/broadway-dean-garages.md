@@ -110,22 +110,22 @@ mostrecentimage: 2023-01-01
 
 ### Redevelopment
 
-This property listing is actually two different properties that share a party wall or are simply built right up against one another. 215 Dean Street is the former Broadway Garage and is a little over 9,000 square feet with a small footprint but two floors. 225 Dean is almost 16,000 square feet but is a single-story set of buildings that have grown over time. The original building in the middle of some infill buildings was the Dean Street Garage. 
+This property listing is actually two different properties that share a party wall or are simply built right up against one another. 215 Dean Street is the former Broadway Garage and is a little over 9,000 square feet with a small footprint but two floors. 225 Dean is almost 16,000 square feet but is a single-story set of buildings that have grown over time. The original building in the middle of some infill buildings was the Dean Street Garage.
 
-In early 2011, the second floor facade of 215 Dean was removed — but we are unsure why. Restoration, perhaps, as the early photos show a lopsidedness on the first floor, particularly in [this photo](#photo-broadway-garage-jh-2011-02-02). 
+In early 2011, the second floor facade of 215 Dean was removed — but we are unsure why. Restoration, perhaps, as the early photos show a lopsidedness on the first floor, particularly in [this photo](#photo-broadway-garage-jh-2011-02-02).
 
-The original building (seen in a [Google Streetview image from 2007](#photo-broadway-garage-goog-2007-10)) was a typical turn of the century commercial building with a stepped roofline, symmetrical façade, and a central commercial doorway flanked by two garage door entrances. Transoms above the garage door openings seems to have been stone while the sills of the three upper floor windows looks to have been cast concrete. The center window pair had an arched top with a cast concrete keystone detail. 
+The original building (seen in a [Google Streetview image from 2007](#photo-broadway-garage-goog-2007-10)) was a typical turn of the century commercial building with a stepped roofline, symmetrical façade, and a central commercial doorway flanked by two garage door entrances. Transoms above the garage door openings seems to have been stone while the sills of the three upper floor windows looks to have been cast concrete. The center window pair had an arched top with a cast concrete keystone detail.
 
-The work that happened slowly from 2011 to 2018 altered the entrance and façade to support a second story recessed deck. The ground floor level was heavily altered to support two smaller commercial entrances on either side of a wider commercial glass recessed storefront under the overhang of the second story deck. The former brick surfaces have been covered with laminated panels and wood-look boards. 
+The work that happened slowly from 2011 to 2018 altered the entrance and façade to support a second story recessed deck. The ground floor level was heavily altered to support two smaller commercial entrances on either side of a wider commercial glass recessed storefront under the overhang of the second story deck. The former brick surfaces have been covered with laminated panels and wood-look boards.
 
-Shortly after we noticed the second story of the façade ripped off the building, we confirmed that the owner was seeking a demolition permit for the structure from the city. We were, however, unsure whether or not this included both lots at 215 and 225 Dean Street. The second floor remained open to the elements for a few years and occasionally covered over with a large blue tarp that weathered poorly over time. 
+Shortly after we noticed the second story of the façade ripped off the building, we confirmed that the owner was seeking a demolition permit for the structure from the city. We were, however, unsure whether or not this included both lots at 215 and 225 Dean Street. The second floor remained open to the elements for a few years and occasionally covered over with a large blue tarp that weathered poorly over time.
 
-Through the Housing Court process, the City and the owner reached an agreement to save the structure and reuse it. As of 2016 these spaces were available through Loopnet for lease. 
+Through the Housing Court process, the City and the owner reached an agreement to save the structure and reuse it. As of 2016 these spaces were available through Loopnet for lease.
 
 
 ### Current Events
 
-We are unsure who or what os located in these spaces, but as far as we can tell they are available for commercial lease. 
+We are unsure who or what is located in these spaces, but as far as we can tell they are available for commercial lease.
 
 
 ### History

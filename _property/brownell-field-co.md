@@ -4,7 +4,7 @@ slug: brownell-field-co
 aka: 'Autocrat Coffee'
 date-modified: 2020-08-09 18:00
 
-built: '1907'
+built: '1895-1908'
 demolition: '2011'
 redeveloped: 
 decade: '1900-1909'
@@ -31,50 +31,90 @@ thumbnail: brownell-field-jh-2005-11-03.jpg
 
 images:
   - url: brownell-field-autocrat-1950.jpg
-    caption: 'Photo from the Autocrat, Inc. Archives'
     alt: 'A three story, eleven bay wide brick structure with semi-arched lintels, granite sills, and a central arched main entrance. The shape of the building from the air is trapezoidal, owing to the train spurs that approach on either side of it and along the back.'
+    caption: 'Photo from the Autocrat, Inc. Archives'
+    sizes: '1024, 900'
   - url: brownell-field-jh-2005-11-01.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2005-11-02.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2005-11-03.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2005-11-04.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2010-10-01.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2010-10-02.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2010-10-03.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-04-01.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-04-02.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-04-03.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-04-04.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-04-05.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-04-06.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-04-07.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-04-08.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-04-09.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-04-10.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-04-11.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-04-12.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-04-13.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-05-01.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-05-02.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-05-03.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-05-04.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-06-01.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-06-02.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-06-03.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-06-04.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-06-05.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-06-06.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-06-07.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-06-08.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-06-09.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-06-10.jpg
+    sizes: '1200, 900'
   - url: brownell-field-jh-2011-06-11.jpg
+    sizes: '1440, 900'
   - url: brownell-field-jh-2011-06-12.jpg
+    sizes: '1440, 900'
   - url: provisions-warehouse-district-1939.jpg
     caption: 'Providence Historical Aerial Viewer 1939'
+    sizes: '1440, 900'
   - url: provisions-warehouse-district-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997'
+    sizes: '1440, 900'
   - url: provisions-warehouse-district-2004.jpg
     caption: 'Providence Historical Aerial Viewer 2004'
+    sizes: '1440, 900'
 
 imagescredit: 'Historic photo from the Autocrat Archives. Aerials from the Providence Historical Aerial Viewer'
 ---
@@ -92,7 +132,7 @@ On October 8, 2010, an unanimous ruling by the Historic District Commission appr
 
 ### Current Events
 
-As of summer 2020, the area where this building stood is a parking area for delivery vehicles. The former [Standardized Liquor Company]({% link _property/115-harris-ave.md %}) at 115 Harris Avenue is still standing.  
+As of summer 2020, the area where this building stood is a parking area for delivery vehicles. The former [Standardized Liquor Company]({% link _property/115-harris-ave.md %}) at 115 Harris Avenue is still standing.
 
 
 ### History
@@ -103,23 +143,26 @@ _From Autocrat.com_
 
 > In 1895, when Autocrat was incorporated as the Brownell & Field Company, our founder, Frank O. Field, was planning the introduction of “the most delicious coffee you ever tasted.” While reading a series of essays in The Atlantic Monthly titled “The Autocrat of the Breakfast Table,” his attention was drawn to the word Autocrat, one who rules with undisputed sway. It was then that our flagship product, Autocrat Coffee, got its name.
 
-Wholesale provisions companies constructed buildings in what was known as the [Provisions Warehouse Historic District]({% link list/provisions-warehouse-district.html %}) between 1894 and 1947. The Brownell and Field Company was a wholesale grocer who dealt in canned goods as well as coffee and tea. The company and the building were established in 1907. 
+Wholesale provisions companies constructed buildings in what was known as the [Provisions Warehouse Historic District]({% link list/provisions-warehouse-district.html %}) between 1894 and 1947. The Brownell and Field Company was a wholesale grocer who dealt in canned goods as well as coffee and tea. The company and the building were established in 1907.
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
-
-The Brownell & Field Building was constructed between 1895 and 1908 when it appears on the map of that year. The building is identified as Brownell & Field on early twentieth century maps, with shipping and receiving on the first floor, storage and canning on the second, and storage and coffee roasting occurring on the third floor of the original block. The 1919 Sanborn map shows only the trapezoidal, westernmost block. The property was acquired by the Field Land Company in 1908, possibly when the building was constructed. The 1950 directory lists Brownell & Field, wholesale grocers, and Carter Rice & Co., paper dealers, at this address. The property remained under the ownership of the Field Land Company until 1981 when it was purchased by Autocrat, Inc.
-
-
-#### Architecture
-
-If seen from the air, many of the buildings in this district — including this one — were built on an angle plan instead of a straight box plan — hence the “lozenge-shape” description. This was due to the way that rail lines curved off of Harris Avenue in “spurs” for loading and unloading. Rail lines could not make a sharp corner to meet a building at a 90° angle easily, so the building were built to meet the rail lines. The [aerial from 1939](#photo-provisions-warehouse-district-1939) makes this more apparent than it might be today, as ghosts of some of the newly removed rail lines can still be seen. It was because of some of these removals that the adjacent building at [115 Harris Avenue]({% link _property/115-harris-ave.md %}) was built. 
+***
 
 _From the Provisions Warehouse Historic District nomination form, 1994_
 
-The Brownell & Field Company Building (1907) at 119 Harris Avenue, was the first building added to the [Provisions Warehouse District that was built] in the twentieth century. It is a three-story brown brick building with a stone foundation. The Harris Avenue facade is symmetrical with a central arched entrance accentuated by decorative brickwork. Five granite stairs lead to the entrance door. The window openings are topped by segmental-arch lintels partially covered by modern awnings at the first and second stories. Small, paired, I-over-I sash define the third story, and an overhanging cornice tops the roof line. The west wall rises a few feet above the roofs height. Some machinery for the storage and processing of coffee and tea and for filtering exhaust from the facility are located on the roof. A single rail spur ran along the rear elevation, with a recessed platform for pick-up of goods on the west elevation. 
+The Brownell & Field Company Building (1907) at 119 Harris Avenue, was the first building added to the [Provisions Warehouse District that was built] in the twentieth century. It is a three-story brown brick building with a stone foundation. The Harris Avenue facade is symmetrical with a central arched entrance accentuated by decorative brickwork. Five granite stairs lead to the entrance door. The window openings are topped by segmental-arch lintels partially covered by modern awnings at the first and second stories. Small, paired, I-over-I sash define the third story, and an overhanging cornice tops the roof line. The west wall rises a few feet above the roofs height. Some machinery for the storage and processing of coffee and tea and for filtering exhaust from the facility are located on the roof. A single rail spur ran along the rear elevation, with a recessed platform for pick-up of goods on the west elevation.
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+***
 
-It is three-story, flat-roof, lozenge-shaped, brick industrial building with close proximity to the railroad tracks. The western half of the building was constructed first and features a centrally located pedestrian entrance on the façade (south) set within a recessed, round-arch opening; this entrance has been blocked in. A secondary pedestrian entrance is offset on the façade, within a segmental-arch, recessed opening. A wide vehicular entrance is located on the west elevation. Brick piers articulate each bay of the building. Fenestration consists of segmental-arch openings with paired 1/1 and 4/4 sash set below fixed transoms and granite sills. Metal louvered shades have been added to the windows. 
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
 
-An historic view of the building shows that windows were 4/4 sash and a sign reading: “Brownell & Field Co. Wholesale Grocers Tea and Coffee” spanned the cornice line. A smaller sign reading: “Brownell & Field Co. Office and Showroom” spanned the front entrance. A large metal smokestack and two brick chimneys rise from the east end of the building.
+It is three-story, flat-roof, lozenge-shaped, brick industrial building with close proximity to the railroad tracks. The western half of the building was constructed first and features a centrally located pedestrian entrance on the façade (south) set within a recessed, round-arch opening; this entrance has been blocked in. A secondary pedestrian entrance is offset on the façade, within a segmental-arch, recessed opening. A wide vehicular entrance is located on the west elevation. Brick piers articulate each bay of the building. Fenestration consists of segmental-arch openings with paired 1/1 and 4/4 sash set below fixed transoms and granite sills. Metal louvered shades have been added to the windows. An historic view of the building shows that windows were 4/4 sash and a sign reading: “Brownell & Field Co. Wholesale Grocers Tea and Coffee” spanned the cornice line. A smaller sign reading: “Brownell & Field Co. Office and Showroom” spanned the front entrance. A large metal smokestack and two brick chimneys rise from-the east end of the building.
+
+Attached to the east is a large, rectangular, three-story, brick block ([113 Harris Avenue]({% link _property/115-harris-ave.md %}); 1920s) with a concrete foundation notable for its chamfered corner on Harris Avenue. The building is embellished with concrete bands outlining floors and the chamfered comer. An oversized, recessed opening features wood stairs and ramps. The building’s main entrance is comprised of a metal-and-glass door flanked by single-light sidelights and set below a single-light transom. Fenestration is comprised of rectangular openings with multi-light metal sash windows. The building’s easternmost side is contoured to the railroad tracks. These buildings are extant remnants of the eastern Promenade District’s history as a railroad hub.
+
+The Brownell & Field Building was constructed between 1895 and 1908 when it appears on the map of that year. The building is identified as Brownell & Field on early twentieth century maps, with shipping and receiving on the first floor, storage and canning on the second, and storage and coffee roasting occurring on the third floor of the original block. The 1919 Sanborn map shows only the trapezoidal, westernmost block. The property was acquired by the **Field Land Company** in 1908, possibly when the building was constructed. The 1950 directory lists Brownell & Field, wholesale grocers, and **Carter Rice & Co.**, paper dealers, at this address. The property remained under the ownership of the Field Land Company until 1981 when it was purchased by **Autocrat, Inc**.
+
+***
+
+#### Architecture
+
+If seen from the air, many of the buildings in this district — including this one — were built on an angle plan instead of a straight box plan — hence the “lozenge-shape” description. This was due to the way that rail lines curved off of Harris Avenue in “spurs” for loading and unloading. Rail lines could not make a sharp corner to meet a building at a 90° angle easily, so the building were built to meet the rail lines. The [aerial from 1939](#photo-provisions-warehouse-district-1939) makes this more apparent than it might be today, as ghosts of some of the newly removed rail lines can still be seen. It was because of some of these removals that the adjacent building at [113-115 Harris Avenue]({% link _property/115-harris-ave.md %}) was built. 

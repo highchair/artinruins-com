@@ -30,17 +30,28 @@ thumbnail: traffic-court-jh-2015-07-03.jpg
 
 images:
   - url: traffic-court-jh-2015-07-01.jpg
+    sizes: '1440, 900'
   - url: traffic-court-jh-2015-07-02.jpg
+    sizes: '1440, 900'
   - url: traffic-court-jh-2015-07-03.jpg
+    sizes: '1440, 900'
   - url: traffic-court-jh-2015-07-04.jpg
+    sizes: '1440, 900'
   - url: traffic-court-jh-2015-07-05.jpg
+    sizes: '1440, 900'
   - url: traffic-court-jh-2015-07-06.jpg
+    sizes: '1440, 900'
   - url: traffic-court-jh-2016-01-01.jpg
+    sizes: '1600, 900'
   - url: traffic-court-jh-2016-01-02.jpg
+    sizes: '1440, 900'
   - url: traffic-court-jh-2016-01-03.jpg
+    sizes: '1440, 900'
   - url: traffic-court-jh-2016-01-04.jpg
+    sizes: '1600, 900'
   - url: 1951-sanborn-vol1-p15-01.jpg
     caption: 'Office building circled in red on this map. 1920–1951 Sanborn Map, Volume 1, Plate 15 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
 
 imagescredit: 'Contribution from the <a href="http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101" target="_blank">Library of Congress</a>'
 

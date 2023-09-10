@@ -31,11 +31,13 @@ thumbnail: capital-center-thumbnail.jpg
 images:
   - url: capital-center-1982.jpg
     caption: 'Photographer Wm. Edmund Barrett, 1982–1983, part of HABS no. RI-388, Providence Union Station'
+    sizes: '2174, 900'
   - url: capital-center-2005.jpg
+    sizes: '2174, 900'
 
 mostrecentimage: 2021-07-01
 
-imagescredit: '1982 image from the Library of Congress, <a href="  https://www.loc.gov/pictures/item/ri0377.photos.145737p/" target="_blank">Historic American Building Survey/Historical American Engineering Record of Union Station</a>'
+imagescredit: '1982 image from the Library of Congress, <a href="https://www.loc.gov/pictures/item/ri0377.photos.145737p/" target="_blank">Historic American Building Survey/Historical American Engineering Record of Union Station</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

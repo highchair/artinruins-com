@@ -4,10 +4,10 @@ slug: brown-marvel-gym
 aka: "Marvel Gym"
 date-modified: 2020-05-10 22:27
 
-built: 1927
-demolition: 2001
+built: '1927'
+demolition: '2001'
 decade: '1920-1929'
-date-added: 2002
+date-added: '2002'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
@@ -28,66 +28,113 @@ thumbnail: marvel-gym-jh-2001-03-05.jpg
 images:
   - url: marvel-gym-jh-2001-03-01.jpg
     alt: 'A large, greek-revival or neo-classical brick and concrete building with a three-bay facade under a triangular pediment roof, flanked by two buttress-like outcroppings, set in front of a larger, wider hip-roofed structure crested with a clock-tower and small dome supported by four classical columns. Most windows had arched lintels and the concrete was used to form decorative trim work and a crest-like shape over the entrance. '
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-03-02.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-03-03.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-03-04.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-03-05.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-03-06.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-06-01.jpg
+    sizes: '640, 480'
   - url: marvel-gym-jh-2001-06-02.jpg
+    sizes: '640, 480'
   - url: marvel-gym-jh-2001-06-03.jpg
+    sizes: '640, 480'
   - url: marvel-gym-jh-2001-06-04.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-06-05.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-06-06.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-07-01.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-07-02.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-07-03.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-07-04.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-07-05.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-07-06.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-07-07.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-07-08.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-07-09.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-07-10.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-07-11.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-08-01.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-08-02.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-08-03.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-09-01.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-09-02.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-09-03.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-09-04.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-10-01.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-10-02.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-10-03.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-10-04.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-10-05.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-10-06.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-10-07.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-11-01.jpg
+    sizes: '800, 1067'
   - url: marvel-gym-jh-2001-11-02.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-11-03.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-11-04.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-11-05.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2001-12-01.jpg
+    sizes: '1200, 900'
   - url: marvel-gym-jh-2020-06-01.jpg
+    sizes: '900, 900'
 
-imagescredit:  
+imagescredit:
+
 ---
 
 ### Reason for Demolition
 
-The site was needed for a full-size rugby field and soccer fields for Brown. They stopped using the gym in the late eighties, and the building’s upkeep fell beyond to the point of no return. I lived over the hill from it, and so I got to see it slowly come down for the period of two months. The site went through asbestos abatement, and had many of its windows removed and sold to antique dealers. The slate roof was also removed, tile by tile, and sold. The University put the cupola (tower) in storage for future use on top of a new gym on the East Side closer to the rest of campus. You have to admit, they did a nice job reclaiming what could be reclaimed. 
+The site was needed for a full-size rugby field and soccer fields for Brown. They stopped using the gym in the late eighties, and the building’s upkeep fell beyond to the point of no return. I lived over the hill from it, and so I got to see it slowly come down for the period of two months. The site went through asbestos abatement, and had many of its windows removed and sold to antique dealers. The slate roof was also removed, tile by tile, and sold. The University put the cupola (tower) in storage for future use on top of a new gym on the East Side closer to the rest of campus. You have to admit, they did a nice job reclaiming what could be reclaimed.
 
 As reported in Brown University’s Alumni magazine, Clay Rockefeller and David Stem reclaimed the copper-clad interior doors and door jambs (which were painted brown) for use in [Monohasset Mill]({% link _property/monohasset-mill.md %})’s bathroom doors for most of its condo units.
 
+
 ### Current Events
 
-The block has been flattened and is in use as soccer, rugby, and football practice space. 
+The block has been flattened and is in use as soccer, rugby, and football practice space.
+
 
 ### History
 
-_From East Side Monthly, June 2002:_
+_From East Side Monthly, June 2002_
 
 Officially closed in 1989 due to extensive repairs that would be necessary to maintain it, Marvel Gym once housed three basketball courts plus smaller rooms for wrestling, boxing, fencing, courts for squash and handball, and a trophy room. The clock in the tower was designed with the usual numerals replaced by A-L-D-R-I-C-H-F-I-E-L-D.
 

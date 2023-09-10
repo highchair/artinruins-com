@@ -34,27 +34,41 @@ thumbnail: liberty-elm-jh-2007-11-01.jpg
 
 images:
   - url: elmwood-diner-unknown-1970c.jpg
-    caption: 'The Elmwood Diner circa 1970s from an unknown source'
     alt: 'A prefabricated steel frame diner car with interior bench seating along one side and a long counter with fixed stools on the other side. Extensive description in the history section.'
+    caption: 'The Elmwood Diner circa 1970s from an unknown source'
+    sizes: '1440, 900'
   - url: liberty-elm-jh-2007-11-01.jpg
+    sizes: '1440, 900'
   - url: liberty-elm-djrb-2010-03-01.jpg
-    caption: 'Exterior looking southwest — Photo by Denise J.R. Bass for the National Register Nomination form'
+    caption: 'Exterior looking southwest — Photo by Denise J.R. Bass for the National Register Nomination form'
+    sizes: '1440, 900'
   - url: liberty-elm-djrb-2010-03-02.jpg
-    caption: 'Interior looking south — Photo by Denise J.R. Bass for the National Register Nomination form'
+    caption: 'Interior looking south — Photo by Denise J.R. Bass for the National Register Nomination form'
+    sizes: '768, 924'
   - url: liberty-elm-djrb-2010-03-03.jpg
-    caption: 'Interior looking north — Photo by Denise J.R. Bass for the National Register Nomination form'
+    caption: 'Interior looking north — Photo by Denise J.R. Bass for the National Register Nomination form'
+    sizes: '1440, 900'
   - url: liberty-elm-jh-2011-05-01.jpg
+    sizes: '1200, 900'
   - url: liberty-elm-jh-2011-05-02.jpg
+    sizes: '1200, 900'
   - url: liberty-elm-jh-2011-05-03.jpg
+    sizes: '1200, 900'
   - url: liberty-elm-jh-2011-05-04.jpg
+    sizes: '1200, 900'
   - url: liberty-elm-jh-2011-05-05.jpg
+    sizes: '1200, 900'
   - url: liberty-elm-jh-2011-05-06.jpg
+    sizes: '1200, 900'
   - url: liberty-elm-cm-2014-05-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: liberty-elm-cm-2014-11-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
   - url: liberty-elm-cm-2014-11-02.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
 
 imagescredit: 'Photos by Denise J.R. Bass for the National Register nomination form and Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>'
 

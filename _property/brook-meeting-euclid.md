@@ -33,47 +33,68 @@ thumbnail: 237-251-meeting-st-jh-2013-07-09.jpg
 
 images:
   - url: 1920-1956-sanborn-vol2-p13-01.jpg
-    caption: '1920–1956 Sanborn Insurance Map, Volume 2, Plate 13 — Library of Congress, Geography and Map Division'
     alt: 'Nine wood-frame homes of a few different styles. Most are two and a half stories, wood clapboard or wood shingled, and feature large front porches on the ground-floor level.'
+    caption: '1920–1956 Sanborn Insurance Map, Volume 2, Plate 13 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: corner-brook-meeting-jh-2013-07-01.jpg
-    caption: 'Corner of Brook and Meeting Streets, looking south' 
+    caption: 'Corner of Brook and Meeting Streets, looking south'
+    sizes: '1600, 755'
   - url: 251-249-meeting-st-jh-2013-07-02.jpg
     caption: '251 and 249 Meeting Street, also 426 Brook Street'
+    sizes: '1440, 900'
   - url: 251-249-meeting-st-jh-2013-07-03.jpg
     caption: '251 and 249 Meeting Street, also 426 Brook Street'
+    sizes: '1600, 900'
   - url: 251-249-meeting-st-jh-2013-07-04.jpg
     caption: '251 and 249 Meeting Street, also 426 Brook Street'
+    sizes: '1600, 900'
   - url: 245-meeting-st-jh-2013-07-05.jpg
     caption: '245 Meeting Street'
+    sizes: '1200, 900'
   - url: 241-245-meeting-st-jh-2013-07-06.jpg
     caption: '245 and 241 Meeting Street'
+    sizes: '1600, 900'
   - url: 241-meeting-st-jh-2013-07-07.jpg
     caption: '241 Meeting Street'
+    sizes: '1200, 900'
   - url: 237-meeting-st-jh-2013-07-08.jpg
     caption: '237 Meeting Street'
+    sizes: '1200, 900'
   - url: 237-251-meeting-st-jh-2013-07-09.jpg
     caption: 'View down Meeting Street from north side of Meeting Street, looking east'
+    sizes: '1600, 900'
   - url: 237-meeting-10-euclid-jh-2013-07-10.jpg
     caption: 'The back of 237 Meeting Street and west side of 10 Euclid Avenue'
+    sizes: '1600, 900'
   - url: 10-euclid-st-jh-2013-07-11.jpg
     caption: 'West side of 10 Euclid Avenue'
+    sizes: '1440, 900'
   - url: 2-euclid-st-jh-2013-07-12.jpg
     caption: '2 Euclid Avenue, also 257 Thayer Street'
+    sizes: '1200, 900'
   - url: 10-18-euclid-st-jh-2013-07-13.jpg
     caption: '10, 14, and 18 Euclid Avenue'
+    sizes: '1440, 900'
   - url: 14-euclid-st-jh-2013-07-14.jpg
     caption: '14 Euclid Avenue'
+    sizes: '1200, 900'
   - url: 18-euclid-st-jh-2013-07-15.jpg
     caption: '18 Euclid Avenue'
+    sizes: '1200, 900'
   - url: 14-18-euclid-st-jh-2013-07-16.jpg
     caption: '14 and 18 Euclid Avenue'
+    sizes: '1440, 900'
   - url: 410-brook-st-jh-2013-07-17.jpg
     caption: '410 Brook Street, from Euclid Avenue, looking north'
+    sizes: '1200, 900'
   - url: 410-426-brook-st-jh-2013-07-18.jpg
     caption: '410 and 426 Brook Street'
+    sizes: '1440, 900'
   - url: rear-meeting-st-jh-2013-07-19.jpg
     caption: 'The rear of 251 and 249, 245, 241, and 237 Meeting Street'
+    sizes: '1600, 900'
   - url: brook-mtg-euclid-jh-2013-08-03.jpg
+    sizes: '1600, 900'
 
 imagescredit: 'Sanborn Map from the Library of Congress, Geography and Map Division'
 

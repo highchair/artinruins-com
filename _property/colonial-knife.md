@@ -11,7 +11,7 @@ demolition: '2023'
 redeveloped:
 decade: '1900-1909'
 date-added: '2023'
-categories: [ '#UsedToBeThere', '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]

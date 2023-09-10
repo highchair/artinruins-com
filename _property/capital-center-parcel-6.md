@@ -30,26 +30,47 @@ thumbnail: parcel-6-jh-2014-06-01.jpg
 images:
   - url: parcel-6-jh-2002-06-01.jpg
     alt: 'A five and a half story, low and wide condominium complex clad in new panel materials with many notches and bump-outs to break up its large mass. Red brick veneer, tan stucco and alumninum panels comprise the bulk of the facades.'
+    sizes: '640, 480'
   - url: parcel-6-jh-2005-07-01.jpg
+    sizes: '1440, 900'
   - url: parcel-6-jh-2005-07-02.jpg
+    sizes: '1440, 900'
   - url: parcel-6-jh-2005-07-03.jpg
+    sizes: '1440, 900'
   - url: parcel-6-jh-2008-02-01.jpg
+    sizes: '1440, 900'
   - url: parcel-6-jh-2008-02-02.jpg
+    sizes: '768, 924'
   - url: parcel-6-jh-2008-02-03.jpg
+    sizes: '1440, 900'
   - url: parcel-6-jh-2008-02-04.jpg
+    sizes: '1440, 900'
   - url: parcel-6-jh-2008-02-05.jpg
+    sizes: '768, 924'
   - url: parcel-6-jh-2008-02-06.jpg
+    sizes: '1440, 900'
   - url: parcel-6-jh-2008-03-01.jpg
+    sizes: '1440, 900'
   - url: parcel-6-jh-2008-03-02.jpg
+    sizes: '1440, 900'
   - url: parcel-6-jh-2008-05-01.jpg
+    sizes: '1200, 900'
   - url: parcel-6-jh-2008-05-02.jpg
+    sizes: '1200, 900'
   - url: parcel-6-jh-2008-05-03.jpg
+    sizes: '1200, 900'
   - url: parcel-6-jh-2008-05-04.jpg
+    sizes: '1200, 900'
   - url: parcel-6-jh-2008-05-05.jpg
+    sizes: '1200, 900'
   - url: parcel-6-jh-2008-10-01.jpg
+    sizes: '1200, 900'
   - url: parcel-6-jh-2008-10-02.jpg
+    sizes: '1200, 900'
   - url: parcel-6-jh-2014-06-01.jpg
+    sizes: '1440, 900'
   - url: parcel-6-jh-2020-10-01.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2020-10-01
 

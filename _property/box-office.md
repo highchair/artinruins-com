@@ -30,40 +30,56 @@ thumbnail: box-office-promo-02.jpg
 
 images:
   - url: box-office-jh-2009-05-01.jpg
-    caption: 'Ground breaking Ceremony May 25th, 2009'
     alt: 'An admittedly odd-looking structure consisting of Lego-like shipping containers stacked on top of one another and cantilevering out into mid air, brightly painted, with small cut-out windows and an interior breezeway under a steel canopy.'
+    caption: 'Ground breaking Ceremony May 25th, 2009'
+    sizes: '1200, 800'
   - url: box-office-pc-2009-11-01.jpg
     caption: 'Construction photos by Peter Case, November 2009'
+    sizes: '1200, 800'
   - url: box-office-pc-2009-11-02.jpg
     caption: 'Construction photos by Peter Case, November 2009'
+    sizes: '1200, 800'
   - url: box-office-cm-2010-04-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
   - url: box-office-cm-2010-04-02.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '768, 924'
   - url: box-office-cm-2010-04-03.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '768, 924'
   - url: box-office-cm-2010-04-04.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: box-office-cm-2010-04-05.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: box-office-jh-2010-09-01.jpg
+    sizes: '1200, 900'
   - url: box-office-jh-2010-09-02.jpg
+    sizes: '1200, 900'
   - url: box-office-jh-2010-09-03.jpg
+    sizes: '1200, 900'
   - url: box-office-jh-2010-10-01.jpg
+    sizes: '1200, 900'
   - url: box-office-promo-01.jpg
     caption: 'At night promotional photo from leasing website'
-  #- url: box-office-promo-02.jpg
-  #  caption: 'Promotional photo from leasing website'
+    sizes: '1024, 684'
   - url: box-office-cm-2017-09-02.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
   - url: box-office-cm-2017-09-03.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '768, 924'
   - url: box-office-cm-2017-09-04.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
   - url: box-office-cm-2017-09-05.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
   - url: box-office-cm-2017-09-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1200, 900'
 
 mostrecentimage: 2017-09-01
 
@@ -74,7 +90,7 @@ imagescredit: 'Construction photos from Peter Case, additional photos by Christo
 
 _From the website of Durham Polak, development consultants_
 
-Fabricated from 35 recycled shipping containers, The Box Office transformed a vacant and abandoned Brownfield site at the urban periphery into a collaborative office and incubator space targeted to small companies […]. 
+Fabricated from 35 recycled shipping containers, **The Box Office** transformed a vacant and abandoned Brownfield site at the urban periphery into a collaborative office and incubator space targeted to small companies […]. 
 
 The project consists of approximately 12,000 SF of newly constructed office space at the site of the [former Harris Lumber]({% link _property/546-harris-ave.md %}) warehouse on Providence’s west side. The building uses approximately 50% less energy than a typical new construction office building (22 kBTU/SF/yr) and less than most <span class="abbr">LEED</span> platinum buildings; energy use is further reduced by a rooftop PV solar array. The Box Office has been a magnet for small companies, and has been near capacity throughout an economic recession. 
 
@@ -89,8 +105,7 @@ We love the design of this building and the way it fits in while also adding to 
 
 It also does not hurt that the building reused material that would otherwise be sold to China for scrap. The building was constructed for about half the cost that new construction would cost at a difficult time after the 2008-2009 economic and housing market crash, as the news story below details. We love that the building is also greener than most <span class="abbr">LEED</span> platinum buildings. To us, its all around brilliant. 
 
-
-### Project Credits & Links
+## Project Credits & Links
 
 + Leasing website: [boxoffice460.com](//www.boxoffice460.com){:target="_blank"}
 + Developer: [Truth Box Architects](//www.truthbox.com){:target="_blank"}

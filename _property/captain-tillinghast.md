@@ -33,31 +33,51 @@ thumbnail: capt-tillinghast-jh-2020-02-01.jpg
 
 images:
   - url: capt-tillinghast-habs-1936-01.jpg
-    caption: '1936 exterior view, looking northwest — HABS, J. LaBonte, Photographer'
     alt: 'A two story, five bay wide by three bay deep wooden clapboard gable roofed home with a chimney on each end wall. Historic windows and doorways have been replaced with modern replacements that respect the age of the home.'
+    caption: '1936 exterior view, looking northwest — HABS, J. LaBonte, Photographer'
+    sizes: '1350, 900'
   - url: capt-tillinghast-habs-1936-02.jpg
     caption: '1936 exterior view, looking southeast — HABS, J. LaBonte, Photographer'
+    sizes: '1350, 900'
   - url: capt-tillinghast-habs-1937-01.jpg
     caption: '1937 interior view, detail of stairhall, south side — HABS, Arthur W. LeBoeuf, Photographer'
+    sizes: '1350, 900'
   - url: capt-tillinghast-habs-1958-01.jpg
-    caption: '1958 exterior view, looking southwest, east (front) and north elevations — HABS, Laurence E. Tilley, Photographer'
+    caption: '1958 exterior view, looking southwest, east (front) and north elevations — HABS, Laurence E. Tilley, Photographer'
+    sizes: '1350, 900'
   - url: capt-tillinghast-habs-1958-02.jpg
-    caption: '1958 exterior view, looking northeast, west (rear) and south elevations — HABS, Laurence E. Tilley, Photographer'
+    caption: '1958 exterior view, looking northeast, west (rear) and south elevations — HABS, Laurence E. Tilley, Photographer'
+    sizes: '1350, 900'
   - url: capt-tillinghast-jh-2010-03-01.jpg
+    sizes: '1440, 900'
   - url: capt-tillinghast-jh-2010-03-02.jpg
+    sizes: '1440, 900'
   - url: capt-tillinghast-jh-2010-03-03.jpg
+    sizes: '1440, 900'
   - url: capt-tillinghast-jh-2010-03-04.jpg
+    sizes: '1440, 900'
   - url: capt-tillinghast-jh-2010-03-05.jpg
+    sizes: '1200, 900'
   - url: capt-tillinghast-jh-2010-03-06.jpg
+    sizes: '1200, 900'
   - url: capt-tillinghast-jh-2010-03-07.jpg
+    sizes: '768, 924'
   - url: capt-tillinghast-jh-2010-03-08.jpg
+    sizes: '1440, 900'
   - url: capt-tillinghast-jh-2013-03-01.jpg
+    sizes: '1440, 900'
   - url: capt-tillinghast-jh-2013-04-01.jpg
+    sizes: '768, 924'
   - url: capt-tillinghast-jh-2013-04-02.jpg
+    sizes: '768, 924'
   - url: capt-tillinghast-jh-2013-04-03.jpg
+    sizes: '1440, 900'
   - url: capt-tillinghast-jh-2020-02-01.jpg
+    sizes: '1440, 900'
   - url: capt-tillinghast-jh-2020-02-02.jpg
+    sizes: '1440, 900'
   - url: capt-tillinghast-jh-2020-02-03.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Early photos from the <a href="//www.loc.gov/pictures/collection/hh/item/ri0264/" target="_blank">Historic American Building Survey (HABS), Library of Congress</a>'
 

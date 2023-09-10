@@ -34,47 +34,68 @@ thumbnail: bridge-power-jh-2010-03-01.jpg
 
 images:
   - url: bridge-power-pawtlib-1912-01.jpg
-    caption: '1912 exterior, Pawtucket Library Collection on Flickr'
     alt: 'A rectangular red brick, two-story mill housing hydroelectric machinery to capture power from the nearby Blackstone River at the falls under Main Street, Pawtucket. MOst existing window openings are half round arch topped and a row of former windows along the southern side are the same style but bricked in. The interior is now used for a water power museum, with many old pieces of equipment inside. '
+    caption: '1912 exterior, Pawtucket Library Collection on Flickr'
+    sizes: '892, 1024'
   - url: bridge-power-pawtlib-1912-02.jpg
     caption: '1912 exterior, Pawtucket Library Collection on Flickr'
+    sizes: '1298, 900'
   - url: bridge-power-habs-1981-02.jpg
     caption: 'Looking north northeast from Roosevelt Avenue. Photo by Warren Jagger for the National Register Nomination form, 1981'
+    sizes: '1201, 900'
   - url: bridge-power-habs-1981-01.jpg
     caption: 'Looking northwest from the opposite river bank. Photo by Warren Jagger for the National Register Nomination form, 1981'
+    sizes: '1201, 900'
   - url: bridge-power-jh-2010-03-01.jpg
     caption: 'Looking south southeast along Roosevelt Avenue'
+    sizes: '1440, 900'
   - url: bridge-power-jh-2010-03-02.jpg
+    sizes: '768, 924'
   - url: bridge-power-jh-2010-03-03.jpg
     caption: 'Plaque from the Preservation Society of Pawtucket, reading “Bridge Mill Power Plant • Built 1894”'
+    sizes: '768, 924'
   - url: bridge-power-jh-2010-03-04.jpg
     caption: 'View north northeast from Roosevelt Avenue'
+    sizes: '1440, 900'
   - url: bridge-power-jh-2010-03-05.jpg
     caption: 'Detail of the southwestern corner. Notice the bricked in half-round windows along the southern façade (to the right in the photo)'
+    sizes: '1200, 900'
   - url: bridge-power-jh-2010-03-06.jpg
     caption: 'Straight-on view of the southern façade, looking north'
+    sizes: '1440, 900'
   - url: bridge-power-jh-2010-03-07.jpg
     caption: 'Detail view of the waterfall under the Main Street bridge from the backside of the power plant'
+    sizes: '1200, 900'
   - url: bridge-power-jh-2010-03-08.jpg
     caption: 'View looking southwest from the opposite river bank via the Main Street bridge'
+    sizes: '1440, 900'
   - url: bridge-power-jh-2019-09-01.jpg
     caption: 'View of the western façade and entrance. A steel walkway rises over a basement. The wide entrance has sidelights and a lovely half-round window above. Above this, on the second floor, is another smaller half-round window over a rectangular window base.'
+    sizes: '1200, 900'
   - url: bridge-power-jh-2019-09-02.jpg
-    caption: "Peering inside from the entrance door"
+    caption: 'Peering inside from the entrance door'
+    sizes: '1200, 900'
   - url: bridge-power-jh-2019-09-03.jpg
     caption: 'One of the old turbines on display'
+    sizes: '768, 924'
   - url: bridge-power-jh-2019-09-04.jpg
     caption: 'Plaque associated with the previous turbine, reading “Built by the Chase M’f’g. Co. Orange, Mass., Designed by Shedd & Sarle, Worcester, Mass.”'
+    sizes: '1200, 900'
   - url: bridge-power-jh-2019-09-05.jpg
     caption: 'View across the floor towards the entrance of machinery on display'
+    sizes: '1200, 900'
   - url: bridge-power-jh-2019-09-06.jpg
     caption: 'Detail of one of the turbines, labelled “General Electric Company”'
+    sizes: '1200, 900'
   - url: bridge-power-jh-2019-09-07.jpg
     caption: 'View of the Lombard Governor'
+    sizes: '768, 924'
   - url: bridge-power-jh-2019-09-08.jpg
-    caption: 'Plaque associated with the previous governor, reading “The Lombard Governor Co. — Ashland, Mass. U.S.A. — Type C No. 64” with associated dates for patents'
+    caption: 'Plaque associated with the previous governor, reading “The Lombard Governor Co. — Ashland, Mass. U.S.A. — Type C No. 64” with associated dates for patents'
+    sizes: '1200, 900'
   - url: bridge-power-jh-2019-09-09.jpg
     caption: 'A bank of old electric meters'
+    sizes: '1200, 900'
 
 mostrecentimage: 2019-09-01
 
@@ -89,14 +110,14 @@ imagescredit: 'Contributions from the Pawtucket Library Collection on Flickr and
 
 This hydro plant was elected to the “[Hydro Hall of Fame]({% link supplements/hydro-hall-of-fame.md %})” in September of 1996, in only the second year of induction. Decommissioned in 1971, it became cost-effective to spin the plant back up starting with the 1973 oil embargo. In 1980, Blackstone Valley Electric announced plans for an extensive rehabilitation project. They began in 1983 and finished in 1985. The plant now has a capacity of 1.7 MegaWatts and an annual generation of around 7,200 megawatt-hours.[^1]
 
-The Bridge Mill Power Museum opened after its 100th anniversary, in May of 1996. The museum is open rarely these days and was last open during [Doors Open RI](http://www.doorsopenri.org){:target="_blank"} in 2019. 
+The Bridge Mill Power Museum opened after its 100th anniversary, in May of 1996. The museum is open rarely these days and was last open during [Doors Open RI](http://www.doorsopenri.org){:target="_blank"} in 2019.
 
 [^1]: “Hydro Hall of Fame: Honoring the Foundations of Hydropower,” Hydro Review, September 1996. Captured April 16, 2022 from https://images.hydroreview.com/wp-content/uploads/2017/08/Hydrohalloffame.pdf 
 
 
 ### Current Events
 
-Bridge Mill Power Plant was acquired by [Gravity Renewables](//www.gravityrenewables.com/work/pawtucket-no-2-hydro-project/){:target="_blank"} in 2014 and added to its portfolio of hydropower facilities across New England.[^2] Over 600 homes are still powered by the falls today. 
+Bridge Mill Power Plant was acquired by [Gravity Renewables](//www.gravityrenewables.com/work/pawtucket-no-2-hydro-project/){:target="_blank"} in 2014 and added to its portfolio of hydropower facilities across New England.[^2] Over 600 homes are still powered by the falls today.
 
 [^2]: “Gravity Renewables Announces Addition of Rhode Island Hydroelectric Facility,” April 25, 2014. Captured April 16, 2022 from https://www.gravityrenewables.com/gravity-renewables-announces-addition-of-rhode-island-small-hydro-hydroelectric-facility/
 
@@ -113,7 +134,7 @@ _Excerpt from the National Register Nomination form, 1983_
 
 The Bridge Mill Power Plant is one of the earliest surviving electric-power generating plants in Rhode Island, with its hydraulic system in and much of its original equipment intact. Architecturally, the plant is perhaps the finest nineteenth-century example of this building type remaining in Rhode island.
 
-In the mid-1880s, members of the Goff family of Pawtucket began buying up the various small lots and the much-divided water privileges on the western side of Pawtucket Falls. Ownership of a large chunk of property here, both land and water rights, was finally consolidated by the Goffs in 1893 and the development oF the Bridge Mill Power Plant on this site was immediately begun. The electric-generating plant, however, was only one part of a much grander overall development plan. The Goffs’ original intention was to build a new, 700' long street through their newly acquired property, to erect a whole range of new, commercial and light manufacturing buildings along this street, and to construct other larger buildings for heavy manufacturing closer to the riverfront, with power for all of the myriad operations planned for these new buildings to be provided by means of electric motors driven by the Goff’s new power p1ant. That p1ant, however, appears to have been the only portion of this grand scheme to materialize. Shortly after its completion, the Goff-owned Bridge Mill Power Company which had built it, was merged into the Pawtucket Electric Lighting Company (owned by the Pawtucket Gas Company) to form the new Pawtucket Electric Company. The electricity generated by the new water-powered station was then used to augment the production of the Electric Lighting Company’s older, steam-fired plant located a half-mile further south. […]
+In the mid-1880s, members of the Goff family of Pawtucket began buying up the various small lots and the much-divided water privileges on the western side of Pawtucket Falls. Ownership of a large chunk of property here, both land and water rights, was finally consolidated by the Goffs in 1893 and the development oF the Bridge Mill Power Plant on this site was immediately begun. The electric-generating plant, however, was only one part of a much grander overall development plan. The Goffs’ original intention was to build a new, 700' long street through their newly acquired property, to erect a whole range of new, commercial and light manufacturing buildings along this street, and to construct other larger buildings for heavy manufacturing closer to the riverfront, with power for all of the myriad operations planned for these new buildings to be provided by means of electric motors driven by the Goff’s new power p1ant. That p1ant, however, appears to have been the only portion of this grand scheme to materialize. Shortly after its completion, the Goff-owned **Bridge Mill Power Company** which had built it, was merged into the **Pawtucket Electric Lighting Company** (owned by the Pawtucket Gas Company) to form the new **Pawtucket Electric Company**. The electricity generated by the new water-powered station was then used to augment the production of the Electric Lighting Company’s older, steam-fired plant located a half-mile further south. […]
 
 ***
 

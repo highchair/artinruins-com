@@ -33,22 +33,34 @@ thumbnail: bog-jh-2009-11-01.jpg
 
 images:
   - url: bog-provarchive-unknown-01.jpg
-    caption: 'Street level view of the two buildings, O’Gorman building in front, with Burgess Building behind, and the Alice Building behind that. Unknown date, likely 1955-1960 — Courtesy the Providence City Archives on Flickr'
     alt: 'One building, the taller six story O’Gorman building is red brick with white plaster details and ornamental peacocks painted in bright colors adorning the arched transoms over the windows on the top floor. The other, older Burgess building, is less flamboyant except for a protruding semi-circular bay window in the center of the facade which features decorative small window panes and stained glass accents.'
+    caption: 'Street level view of the two buildings, O’Gorman building in front, with Burgess Building behind, and the Alice Building behind that. Unknown date, likely 1955-1960 — Courtesy the Providence City Archives on Flickr'
+    sizes: '800, 1000'
   - url: bog-unknown-2001.jpg
     caption: 'A nice follow-up to the previous photo, circa 2001, photographer unknown'
+    sizes: '748, 1200'
   - url: ogorman-jh-2002-06-01.jpg
+    sizes: '640, 860'
   - url: burgess-jh-2004-06-01.jpg
+    sizes: '768, 924'
   - url: burgess-jh-2004-06-02.jpg
+    sizes: '768, 924'
   - url: ogorman-jh-2004-06-01.jpg
+    sizes: '1200, 900'
   - url: ogorman-jh-2004-06-02.jpg
+    sizes: '1200, 900'
   - url: ogorman-jh-2004-06-03.jpg
     caption: 'Details in the preserved original Otis elevator'
+    sizes: '1200, 900'
   - url: ogorman-jh-2004-06-04.jpg
+    sizes: '1200, 900'
   - url: ogorman-jh-2004-06-05.jpg
+    sizes: '1200, 900'
   - url: bog-jh-2005-12-01.jpg
+    sizes: '1200, 900'
   - url: bog-jh-2009-11-01.jpg
-    caption: 'Three Cornish properties in a row — top left, William Wilinson building; center, O’Gorman building; bottom right, Burgess building'
+    caption: 'Three Cornish properties in a row — top left, William Wilinson building; center, O’Gorman building; bottom right, Burgess building'
+    sizes: '1200, 900'
 
 mostrecentimage: 2009-11-01
 

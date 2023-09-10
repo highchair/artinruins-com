@@ -10,8 +10,8 @@ built: '1963'
 demolition: 'circa 1992'
 redeveloped: 
 decade: '1960-1969'
-date-added: 2010
-categories: [ '#UsedToBeThere', '#ArchiveRI' ]
+date-added: '2010'
+categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Philemon E. Sturges' ]
@@ -31,24 +31,35 @@ thumbnail: bonanza-rihphc-1970-03.jpg
 images:
   - url: bonanza-sanborn-1956.jpg
     alt: 'A space-age designed single story brick and concrete bus terminal comprised of circular and pill-shaped buildings as well as a triangular pick-up and drop-off platform.'
-  - url: bonanza-master-plan-1961.jpg  
+    sizes: '1440, 900'
+  - url: bonanza-master-plan-1961.jpg
+    sizes: '950, 690'
   - url: bonanza-fb-postcard-undated.jpg
     caption: 'Postcard of the “Shortline Bus Terminal” found by Facebook user Traci Picard; undated'
+    sizes: '960, 604'
   - url: bonanza-rihphc-1970-01.jpg
     caption: 'Rhode Island Historic Preservation and Heritage Commission survey, 1970'
+    sizes: '1024, 640'
   - url: bonanza-rihphc-1970-02.jpg
     caption: 'Rhode Island Historic Preservation and Heritage Commission survey, 1970'
+    sizes: '1024, 640'
   - url: bonanza-rihphc-1970-03.jpg
     caption: 'Rhode Island Historic Preservation and Heritage Commission survey, 1970'
+    sizes: '1024, 640'
   - url: bonanza-habs-1977.jpg
     caption: 'Library of Congress HABS/HAER, 1977'
+    sizes: '1024, 640'
   - url: bonanza-rihphc-1980-01.jpg
+    sizes: '1024, 640'
   - url: bonanza-aerial-1962.jpg
     caption: 'Providence Historical Aerial Viewer 1962'
+    sizes: '1440, 900'
   - url: bonanza-aerial-1972.jpg
     caption: 'Providence Historical Aerial Viewer 1972'
+    sizes: '1440, 900'
   - url: bonanza-aerial-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997'
+    sizes: '1440, 900'
 
 imagescredit: Contributions by the RIHPHC, HABS/HAER, Traci Picard, and aerials from the Providence Historical Aerial Viewer.
 ---

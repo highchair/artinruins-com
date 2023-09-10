@@ -35,41 +35,59 @@ thumbnail: 442-brook-st-jh-2016-04-06.jpg
 
 images:
   - url: 1920-1956-sanborn-vol2-p13-01.jpg
-    caption: '1920–1956 Sanborn Insurance Map, Volume 2, Plate 13 — Library of Congress, Geography and Map Division'
+    caption: '1920–1956 Sanborn Insurance Map, Volume 2, Plate 13 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 436-450-brook-st-jh-2016-04-01.jpg
     caption: 'View south west of the corner of Brook and Cushing Street, from 450 Brook St. down to 436'
+    sizes: '1600, 900'
   - url: 434-442-brook-st-jh-2016-04-02.jpg
     caption: 'View north west of the corner of Brook and Meeting Street, from 434 Brook St. up to 442'
+    sizes: '1600, 900'
   - url: 434-brook-st-jh-2016-04-03.jpg
     caption: '434 Brook Street, facing Euclid Street'
+    sizes: '1440, 900'
   - url: 434-brook-st-jh-2016-04-04.jpg
     caption: '434 Brook Street, facing Brook Street'
+    sizes: '1200, 900'
   - url: 436-brook-st-jh-2016-04-05.jpg
     caption: '436 Brook Street'
+    sizes: '1200, 900'
   - url: 442-brook-st-jh-2016-04-06.jpg
     caption: '442 Brook Street'
+    sizes: '1200, 900'
   - url: 444-brook-st-jh-2016-04-07.jpg
     caption: '444 Brook Street'
+    sizes: '1200, 900'
   - url: 450-brook-st-jh-2016-04-08.jpg
     caption: '450 Brook Street'
+    sizes: '1200, 900'
   - url: 167-cushing-st-jh-2016-04-09.jpg
     caption: '167 Cushing Street, view south west'
+    sizes: '1200, 900'
   - url: 167-cushing-st-jh-2016-04-10.jpg
     caption: '167 Cushing Street, view east'
+    sizes: '1440, 900'
   - url: 167-cushing-st-jh-2016-04-11.jpg
     caption: '167 Cushing Street'
+    sizes: '1440, 900'
   - url: 167-cushing-st-jh-2016-04-12.jpg
     caption: 'Looking past the back of 167 Cushing towards the back of 444 Brook Street'
+    sizes: '1440, 900'
   - url: 169-cushing-st-jh-2016-04-13.jpg
     caption: 'Looking between 442 and 444 Brook at 169 Cushing, which was set behind 167'
+    sizes: '1200, 900'
   - url: 169-cushing-st-jh-2016-04-14.jpg
     caption: 'Looking past the porch of 167 Cushing towards 169'
+    sizes: '1200, 900'
   - url: 169-cushing-st-jh-2016-04-15.jpg
     caption: '169 Cushing Street, view east'
+    sizes: '1200, 900'
   - url: 169-cushing-st-jh-2016-04-16.jpg
     caption: '169 Cushing Street'
+    sizes: '1440, 900'
   - url: 242-meeting-goog-2017-01.jpg
     caption: 'Between 2018 and 2020, an additional home at 242 Meeting Street was demolished. Google Streetview phot0, facing north northwest'
+    sizes: '1200, 900'
 
 mostrecentimage: 2016-04-01
 

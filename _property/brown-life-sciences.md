@@ -29,23 +29,38 @@ thumbnail: bio-med-jh-2006-10-01.jpg
 images:
   - url: bio-med-jh-2003-11-01.jpg
     alt: 'A massive 6-story brick structure with sections of more modern glass puncturing its heavy mass. The building wraps around and connects to older structures around it and features a ground-level walkway thrugh the center of it connecting it to the main campus green.'
+    sizes: '1200, 900'
   - url: bio-med-jh-2004-12-01.jpg
+    sizes: '1024, 768'
   - url: bio-med-jh-2004-12-02.jpg
+    sizes: '1024, 768'
   - url: bio-med-jh-2004-12-03.jpg
+    sizes: '1024, 768'
   - url: bio-med-jh-2004-12-04.jpg
+    sizes: '1024, 768'
   - url: bio-med-jh-2004-12-05.jpg
+    sizes: '768, 924'
   - url: bio-med-jh-2004-12-06.jpg
+    sizes: '1024, 768'
   - url: bio-med-jh-2004-12-07.jpg
+    sizes: '1024, 768'
   - url: bio-med-jh-2006-04-01.jpg
+    sizes: '1200, 900'
   - url: bio-med-jh-2006-04-02.jpg
+    sizes: '1200, 900'
   - url: bio-med-jh-2006-10-01.jpg
+    sizes: '1200, 900'
   - url: bio-med-jh-2006-10-02.jpg
+    sizes: '1200, 900'
   - url: bio-med-jh-2006-10-03.jpg
+    sizes: '1200, 900'
   - url: bio-med-jh-2006-10-04.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2006-10-01
 
 imagescredit:
+
 ---
 
 ### Proposal
@@ -86,6 +101,6 @@ Mary H. Parsons House, now Sarah Doyle Women’s Center, Brown University, 1926.
 
 #### The Brown Biomedical Complex
 
-The Biomedical Center (BMC), at 171 Meeting Street, was built in 1969 as a 4-story research space, 2-story (below ground level) teaching and laboratory space, and 5-story animal care facility. In 1990, the Grimshaw-Gudewicz building was added to the complex.[^4] In 2006, the Life Science Building was added. 
+The Biomedical Center (BMC), at 171 Meeting Street, was built in 1969 as a 4-story research space, 2-story (below ground level) teaching and laboratory space, and 5-story animal care facility. In 1990, the Grimshaw-Gudewicz building was added to the complex.[^4] In 2006, the Life Science Building was added.
 
 [^4]: From the Brown University website, captured October 31, 2020. https://www.brown.edu/academics/biomedical-engineering/about/facilities/biomedical-center-171-meeting-street

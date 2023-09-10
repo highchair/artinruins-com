@@ -34,32 +34,48 @@ thumbnail: brook-st-jh-2020-02-01.jpg
 images:
   - url: brook-st-jh-2020-02-01.jpg
     alt: 'A non-descript single story commercial strip mall with the bones of a much older building underneath. Keeping the block commercial and the facade up-to-date with whatever the current fashion is meant that it was not very pretty. Fromn the outside it is one building but inside it functioned like multiple, and at its foundation it was built to be three different spaces.'
+    sizes: '1600, 900'
   - url: brook-st-jh-2020-02-02-wide.jpg
+    sizes: '2100, 900'
   - url: brook-st-jh-2021-11-01.jpg
+    sizes: '1440, 900'
   - url: brook-st-jh-2021-11-02.jpg
+    sizes: '1440, 900'
   - url: brook-st-jh-2021-11-03.jpg
+    sizes: '1440, 900'
   - url: 68-72-charlesfield-jh-2021-11-01.jpg
     caption: '68 and 70-72 Charlesfield Street, built between 1908–1920'
+    sizes: '1200, 900'
   - url: 68-72-charlesfield-jh-2021-11-02.jpg
     caption: '68 and 70-72 Charlesfield Street, built between 1908–1920'
+    sizes: '1200, 900'
   - url: 68-72-charlesfield-jh-2021-11-03.jpg
     caption: '68 and 70-72 Charlesfield Street, built between 1908–1920'
+    sizes: '1200, 900'
   - url: 68-72-charlesfield-jh-2021-11-04.jpg
     caption: '68 and 70-72 Charlesfield Street, built between 1908–1920'
+    sizes: '1200, 900'
   - url: 247-brook-jh-2021-11-01.jpg
     caption: '245-47 Brook Street, built between 1908–1920'
+    sizes: '1440, 900'
   - url: 247-brook-jh-2021-11-02.jpg
     caption: '245-47 Brook Street, built between 1908–1920'
+    sizes: '1440, 900'
   - url: 1908-ljrichards-01.jpg
     caption: '1908 L.J. Richards cadastral map, Plate 7'
+    sizes: '1440, 900'
   - url: 1920-sanborn-loc-01.jpg
-    caption: '1920 Sanborn Insurance Map, Volume 2, Plate 21 — Library of Congress, Geography and Map Division'
+    caption: '1920 Sanborn Insurance Map, Volume 2, Plate 21 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 1951-sanborn-loc-01.jpg
-    caption: '1951 Sanborn Insurance Map, Volume 2, Plate 21 — Library of Congress, Geography and Map Division'
+    caption: '1951 Sanborn Insurance Map, Volume 2, Plate 21 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 1956-sanborn-loc-01.jpg
-    caption: '1956 Sanborn Insurance Map, Volume 2, Plate 21 — Library of Congress, Geography and Map Division'
+    caption: '1956 Sanborn Insurance Map, Volume 2, Plate 21 — Library of Congress, Geography and Map Division'
+    sizes: '1440, 900'
   - url: 2020-google-01.jpg
     caption: '2020 Google satellite aerial'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from WardMaps, Library of Congress, and Google'
 
