@@ -15,7 +15,7 @@ gem "rake", ">=10.0.0"
 gem "sassc",">=2.4.0"
 gem "uglifier",">=4.1.0"
 gem "nokogiri", ">= 1.14.3"
-gem "activesupport", ">=6.0.3.1"
+gem "activesupport", ">=6.1.7.5"
 gem "webrick", "~> 1.7"
 gem "jekyll-image-size", "~> 1.2"
 
