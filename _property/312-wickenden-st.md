@@ -2,11 +2,13 @@
 title: 'Almira P. Allen House'
 slug: 312-wickenden-st
 aka: 'The Blue Elephant, The Duck & Bunny'
-date-modified: 2021-04-03 12:00
+date-modified: 2023-09-21 12:00
+update: 'Added four new olkd photos from the recently released PPS Slides Collection'
+update-image: 312-wickenden-pps-slides-before-1985-01.jpg
 
 built: 'circa 1830, perhaps 1790'
 demolition: '2021'
-redeveloped: 
+redeveloped:
 units:
 decade: '1830-1839'
 date-added: '2021'
@@ -15,11 +17,11 @@ neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: []
+lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
 tags: [ 'Demolition by Progress', 'House' ]
 
-NRHP-ref-number:
-added-to-NRHP:
+NRHP-ref-number: '70000019 (contributing)'
+added-to-NRHP: 'November 10, 1970'
 
 address: '312 Wickenden Street, Providence RI'
 latitude: '41.8196661'
@@ -33,27 +35,51 @@ thumbnail: goog-streetview-2014-10-01.jpg
 
 images:
   - url: wickendon-312-gowdey-undated-01.jpg
-    caption: 'Undated photo from the Gowdey Property Database, Providence Preservation Society'
     alt: 'A two-story, gable-roofed wooden home on a raised basement with central doorway flanked by shallow columns and topped with a two-light transom and flat pediment. The building is five bays wide with a what looks like a symmetrical facade, but upon closer inspection the distances between windows and the central door are not symmetrical.'
+    caption: 'Undated photo from the Gowdey Property Database, Providence Preservation Society'
+    sizes: '917, 650'
+  - url: 312-wickenden-pps-slides-before-1985-01.jpg
+    caption: 'Date unknown, likely 1975–1984; Providence Preservation Society Slides Collection'
+    sizes: '1200, 900'
+  - url: 312-wickenden-pps-slides-before-1985-02.jpg
+    caption: 'Notice the changes from previous photo — new new front steps, skylights, and chimneys. Date unknown, likely 1975–1984; Providence Preservation Society Slides Collection'
+    sizes: '1200, 900'
+  - url: 312-wickenden-pps-slides-before-1985-03.jpg
+    caption: 'Same timeframe as previous photo. Date unknown, likely 1975–1984; Providence Preservation Society Slides Collection'
+    sizes: '1200, 900'
+  - url: 312-wickenden-pps-slides-1985-01.jpg
+    caption: 'Labelled as 1985; Providence Preservation Society Slides Collection'
+    sizes: '1440, 900'
   - url: goog-streetview-2011-06-01.jpg
     caption: 'Google Streetview June 2011'
+    sizes: '1200, 900'
   - url: goog-streetview-2011-06-02.jpg
     caption: 'Google Streetview June 2011'
+    sizes: '1200, 900'
   - url: goog-streetview-2011-09-01.jpg
     caption: 'Google Streetview September 2011'
+    sizes: '1200, 900'
   - url: goog-streetview-2014-10-01.jpg
     caption: 'Google Streetview October 2014'
+    sizes: '1200, 900'
   - url: goog-streetview-2016-10-01.jpg
     caption: 'Google Streetview October 2016'
+    sizes: '1200, 900'
   - url: duck-bunny-mf-2021-04-01.jpg
     caption: 'Photo by Mike Ferguson, April 2, 2021'
+    sizes: '744, 744'
   - url: duck-bunny-jh-2021-04-02.jpg
+    sizes: '1200, 900'
   - url: duck-bunny-jh-2021-04-03.jpg
+    sizes: '768, 924'
   - url: duck-bunny-jh-2021-04-04.jpg
+    sizes: '1200, 900'
   - url: duck-bunny-jh-2021-04-05.jpg
+    sizes: '1200, 900'
   - url: duck-bunny-jh-2021-04-06.jpg
+    sizes: '1200, 900'
 
-imagescredit: 'Contributions from the Gowdey Database, Google Streetview, and Mike Ferguson'
+imagescredit: 'Contributions from the Providence Preservation Society <a href="//gowdey.ppsri.org" target="_blank">Gowdey Database</a> and <a href="//drive.google.com/drive/folders/1Xi-yKUiaB9cl5kZkhoEgv5PGGTCrn1kN?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">Slides Collection</a>, Google Streetview, and Mike Ferguson'
 
 external:
   - source: 'Flickr photo of the Blue Elephant sign, 2009, from user “S-400”'
@@ -76,18 +102,27 @@ A statement from Councilman, Ward 1, John Goncalves:
 
 #### Other Links
 
-+ [After the Duck and Bunny, How Do Ww Save These Old Houses?](//www.rimonthly.com/duck-and-bunny-demolition/){:target="_blank"}, RI Monthly
++ [After the Duck and Bunny, How Do We Save These Old Houses?](//www.rimonthly.com/duck-and-bunny-demolition/){:target="_blank"}, RI Monthly
 + [Former Duck & Bunny building in Providence demolished](//www.wpri.com/business-news/former-duck-bunny-building-in-providence-demolished/){:target="_blank"}, WPRI.com
 
 
 ### Current Events
 
-The building was only recently demolished and we have not been able to confirm what will take its place. Some rumors include a new restaurant for the owners of the Duck and Bunny and locals predict more unaffordable housing. 
+While the news story below says that the owners “intend to rebuild 312 Wickenden as closely as they can manage” is has been more than two years and there has been no activity at the site. In 2023, there is still an unfilled hole and parts of the stairs in place at the site.
 
 
 ### History
 
-The building’s footprint is shown on a [Sanborn Insurance Map from 1900](//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39393/41283/560744?accountid=7136){:target="_blank"} and it is also shown on an [1889 Sanborn](//repository.library.brown.edu/studio/item/bdr:213568/){:target=_blank"} at street number 248. 
+_From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
+
+312 Wickenden — House, before 1857. Federal; 2-1/2 stories; clapboard; gable roof; 5 bay facade with central doorway, overhead light, and cap carried on consoles.
+
+#### Maps
+
++ [Providence 1875 Volume 1, Wards 1, 2, 3; Plate Q](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_0ee59ee0-4b1e-40b0-9326-b6db7d59a113/){:target="_blank"} — Shown above the junction of Thompson Street and Wickenden and labelled as “A.P. Allen” at street number 248.
++ [1889 Sanborn Insurance Map, Volume 2, Plate 41](//repository.library.brown.edu/studio/item/bdr:213568/){:target=_blank"} — Shown at street number 248 as a wood frame structure (yellow) with “2” story markings and a “D” for dwelling. Same footprint as the previous 1875 map.
+
+These maps verify that the building is older than 1900, but we can not yet find proof that it is older than 1875.
 
 
 ### In the News
