@@ -8,9 +8,9 @@ built:
 demolition:
 redeveloped:
 units:
-decade: '1940-1949'
-date-added:
-categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding', '#NotInRuins', '#UrbanDecay' ]
+decade: '1900-1909'
+date-added: '2023'
+categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding', '#NotInRuins', '#UrbanDecay', '#DemolitionAlert' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]

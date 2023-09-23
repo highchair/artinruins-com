@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: fogarty-bldg
+  person: 'Ann Perron'
+  date: '2023-09-20'
+  content: 'For those of us who worked there as caseworkers it was a place like none other and it was the saddest of days when it was razed. Only the fondest of memories. A unique place to have experienced'
+
 - property: narragansett-race-track
   person: 'Joe'
   date: '2023-09-08'

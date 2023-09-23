@@ -64,7 +64,7 @@ Old PVD is run by historian Maureen Taylor. It is a map-based project with layer
 + **Web:** [guide.ppsri.org](//guide.ppsri.org){:target="_blank"}
 + **Instagram:** [@pvdpreservation](//instagram.com/pvdpreservation){:target="_blank"}
 
-The [Providence Preservation Society](//pps.org){:target="_blank"} has been fighting irresponsible and disrespectful redevelopment projects in the City for over 60 years. In addition to helping to preserve the character of Providence’s built environment and championing respectful and thoughtful new development, the Society is a wealth of knowledge about the building stock we already have. Their architecture guide is a compendium of information from historic surveys, their Architecture Guidebook, and years and years of Ten Most Endangered Lists and Festival of Historic Houses programs. 
+The [Providence Preservation Society](//www.ppsri.org){:target="_blank"} has been fighting irresponsible and disrespectful redevelopment projects in the City for over 60 years. In addition to helping to preserve the character of Providence’s built environment and championing respectful and thoughtful new development, the Society is a wealth of knowledge about the building stock we already have. Their architecture guide is a compendium of information from historic surveys, their Architecture Guidebook, and years and years of Ten Most Endangered Lists and Festival of Historic Houses programs. 
 
 ### ProvidenceArchitecture.org
 
@@ -170,6 +170,10 @@ Opened October 3, 1964, [NEWSM](//newsm.org){:target="_blank"} was founded by Ro
 ### Providence Historical Aerial Viewer
 
 [The PHAV](//pvdgis.maps.arcgis.com/apps/webappviewer/index.html) is a great resource and compendium of aerial surveys from as early as 1939 — though don’t expect the same level of zoom quality as modern satellite imagery. Some great before and after aerials can be found here. 
+
+### Providence Preservation Society Slides Collection
+
+From 2018 to 2023, <span class="abbr">PPS</span> underwent a large digitization project that documents Providence architecture from the 1950s-90s and demonstrates how our city developed and changed during the latter half of the 20th century. With the help of many dedicated student interns, and grant support from Historic New England and the Herman H. Rose Fund, they’ve digitized their extensive slide collection. [View the collection housed in a public Google Drive folder](//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw){:target="_blank"}.
 
 ### The Rhode Island Historical Preservation & Heritage Commission
 
