@@ -2,7 +2,8 @@
 title: "Bannister House (93 Benevolent Street)"
 slug: bannister-house-pvd
 aka:
-date-modified: 2023-02-04 12:00
+date-modified: 2023-09-27 13:00
+update: 'Added 2 new (old) images from the PPS Architectural Slide Collection'
 
 built: '1854'
 demolition:
@@ -32,8 +33,14 @@ excerpt: "This narrow, small footprint a hundred fifty year-old house had a prom
 thumbnail: 93-benevolent-jh-2022-08-01.jpg
 
 images:
+  - url: 89-benevolent-pps-unknown-01.jpg
+    alt: 'A narrow, two and a half story gabel roof wooden home. An asymmetrical entrance is on the first floor’s eastern side, with a single window to the west. The second floor features two symetrical rectangle windows, and the third gable end has a half-round fanlight window.'
+    caption: 'Date unknown, “The Vault” is painted on the door — PPS Architectural Slides Collection'
+    sizes: '0, 0'
+  - url: 89-benevolent-pps-unknown-02.jpg
+    caption: 'Date unknown, exterior view facing south — PPS Architectural Slides Collection'
+    sizes: '0, 0'
   - url: 93-benevolent-jh-2011-05-01.jpg
-    alt: 'A narrow, two and a half story gabel roof wooden home. An asymmetrical entrance is on the first floor’s eastern side, with a single window to the west. The second floor features two symetrical rectangle windows, and the third gable end has a half-round fanlight window. '
     sizes: '1200, 900'
   - url: 93-benevolent-jh-2011-05-02.jpg
     sizes: '768, 924'
@@ -46,7 +53,7 @@ images:
 
 mostrecentimage: 2023-02-01
 
-imagescredit: 
+imagescredit: 'Contributions from <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

@@ -2,7 +2,8 @@
 title: "Alexander F. Adie House"
 slug: alexander-f-adie-house
 aka: 'Bella Napoli Hotel'
-date-modified: 2020-10-05 12:00
+date-modified: 2023-09-27 12:00
+update: 'Added a new (old) image found in the PPS Architectural Slide Collection'
 
 built: '1871'
 demolition: '2014'
@@ -25,36 +26,47 @@ longitude: '-71.4231717'
 gmap: "https://www.google.com/maps/place/95+Atwells+Ave,+Providence,+RI+02903/@41.823323,-71.4231717,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450d01c533d9:0x242693235633186b!8m2!3d41.823323!4d-71.420983"
 
 meta: ""
-excerpt: "A lovely split-square dual residence at the beginning of Atwells Avenue, razed in 2014 for a speculative development that has not yet come to pass"
+excerpt: "A lovely split-square dual residence at the beginning of Atwells Avenue, razed in 2014 for a speculative development that has not come to pass"
 
 thumbnail: a-f-adie-house-pps-2013-01.jpg
 
 images:
   - url: a-f-adie-house-ss-1986-01.jpg
-    caption: 'Photo by Shelby Salzberg circa 1986'
     alt: 'A stately square three-story wood framed home with two central ground-level entrances a few steps above street level. The style of the structure is early 20th century Federalist and for most of its late life it was painted white.'
+    caption: 'Photo by Shelby Salzberg circa 1986'
+    sizes: '1440, 900'
+  - url: a-f-adie-house-pps-unknown-01.jpg
+    caption: 'Date unknown, “Pennine and Viti” were running for 13th Ward — PPS Slides Archive'
+    sizes: '1200, 900'
   - url: a-f-adie-house-pps-2013-01.jpg
     caption: 'Photo from the Providence Preservation Society Guide to Providence Architecture, Warren Jagger (unverified)'
+    sizes: '1024, 640'
   - url: a-f-adie-house-jh-2014-01.jpg
+    sizes: '1440, 900'
   - url: a-f-adie-house-jh-2014-02.jpg
+    sizes: '1440, 900'
   - url: a-f-adie-house-jh-2014-03.jpg
+    sizes: '1440, 900'
   - url: a-f-adie-house-jh-2014-04.jpg
+    sizes: '1440, 900'
   - url: a-f-adie-house-jh-2014-05.jpg
+    sizes: '1440, 900'
   - url: a-f-adie-house-jh-2014-06.jpg
+    sizes: '1440, 900'
 
-imagescredit: 'Contributions from Shelby Salzberg and the Providence Preservation Society'
+imagescredit: 'Contributions from Shelby Salzberg, <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>, and the Providence Preservation Society'
 ---
 
 ### Reason for Demolition
 
-Building owner Richard Conti listed this gateway property at the beginning of Atwells Avenue for sale starting in 2012. It was unoccupied or rented lightly for many years previous to this. In 2013-2014, he went forward with plans to build a hotel on the property. While the demolition moved forward, legally, the redevelopment has not taken place. Instead, as usual, we have more surface parking on an important lot that really should be developed into something. There was no National Register Federal Hill Historic District in place that could have stopped this demolition. 
+Building owner Richard Conti listed this gateway property at the beginning of Atwells Avenue for sale starting in 2012. It was unoccupied or rented lightly for many years previous to this. In 2013-2014, he went forward with plans to build a hotel on the property. While the demolition moved forward, legally, the redevelopment has not taken place. Instead, as usual, we have more surface parking on an important lot that really should be developed into something. There was no National Register Federal Hill Historic District in place that could have stopped this demolition.
 
-The demolition crew moved carefully, as the house was very close to its neighbors. We assume as well that the crews were looking to salvage some architectural details for resale. All the decorative exterior window headers looked to have been carefully removed, for example. 
+The demolition crew moved carefully, as the house was very close to its neighbors. We assume as well that the crews were looking to salvage some architectural details for resale. All the decorative exterior window headers looked to have been carefully removed, for example.
 
 
 ### Current Events
 
-As of fall 2020, the lot where the house stood is still empty. 
+As of fall 2023, the lot where the house stood is still empty.
 
 
 ### History
@@ -89,6 +101,7 @@ Adie died in 1890, his daughter Julia Perkins Adie Anthony died in 1907; she and
 
 _From research conducted by Catherine B. Hurst, [Chooosing-Providence](//choosing-providence.blogspot.com/2014/02/alexander-f-adie-house-part-1.html){:target="_blank"}_
 
+***
 
 #### The Bella Napoli Hotel
 

@@ -2,7 +2,8 @@
 title: "Mowry-Nicholson House"
 slug: mowry-nicholson-house
 aka:
-date-modified: 2021-05-29 12:00
+date-modified: 2023-09-27 14:00
+update: 'Added 4 images from 1999 found in the PPS Architectural Slide Collection'
 
 built: '1856, 1864, 1877'
 demolition:
@@ -32,8 +33,20 @@ excerpt: "This ornate former single-family home was built in stages and owned by
 thumbnail: brownell-st-jh-2004-02.jpg
 
 images:
-  - url: brownell-st-jh-2002-01.jpg
+  - url: mowry-nicholson-1999-01.jpg
+    caption: '1999 — PPS Architectural Slides Collection'
     alt: 'A three story wood frame house with altered mansard roof, off center porch, and off center tower. Once a private residence, the home was converted to a bed and breakfast for some time.'
+    sizes: '1024, 1024'
+  - url: mowry-nicholson-1999-02.jpg
+    caption: '1999 — PPS Architectural Slides Collection'
+    sizes: '1024, 1024'
+  - url: mowry-nicholson-1999-03.jpg
+    caption: '1999 — PPS Architectural Slides Collection'
+    sizes: '1024, 1024'
+  - url: mowry-nicholson-1999-04.jpg
+    caption: '1999 — PPS Architectural Slides Collection'
+    sizes: '1024, 1280'
+  - url: brownell-st-jh-2002-01.jpg
     sizes: '640, 480'
   - url: brownell-st-jh-2002-02.jpg
     sizes: '640, 480'
@@ -47,7 +60,8 @@ images:
   - url: brownell-st-jh-2004-02.jpg
     sizes: '1024, 768'
 
-imagescredit: 'Image from the Gowdey database, Providence Preservation Society'
+
+imagescredit: 'Images from the <a href="//gowdey.ppsri.org/" target="_blank">Gowdey database</a> and the <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>'
 
 mostrecentimage: 2004-01-01
 
