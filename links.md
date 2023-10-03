@@ -14,9 +14,9 @@ sitemap:
 When ArtInRuins started there were not quite as many home-grown historians, internet sleuths, or blogs dedicated to tracking change in the architectural landscape as there are now. These are the ones that we know of and support, as well as links to some tools and resources that we find helpful when researching a property. 
 {: .o__drop-cap }
 
-+ [Similar Projects (RI)](#similar-project-ri)
-+ [Similar Project (beyond RI)](#similar-projects-beyond-ri)
-+ [Museums, Research, & Resources](#museums-research-resources)
++ [Similar Projects (RI)](#similar-projects-ri)
++ [Similar Projects (beyond RI)](#similar-projects-beyond-ri)
++ [Museums, Research, & Resources](#museums-research--resources)
 + [Organizations](#organizations)
 
 

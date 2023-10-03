@@ -7,7 +7,7 @@ meta-title: "Properties on the PPS 10 Most List | ArtInRuins"
 body-class:
 sitemap:
   lastmod: 2022-12-24
-  priority: 0.7
+  priority: 0.5
   changefreq: 'yearly'
 ---
 

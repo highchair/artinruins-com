@@ -44,6 +44,10 @@ caption: 'Providence Historical Aerial Viewer 1972'
 caption: 'Undated. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
 'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%3A5102" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>'
 
+Photoshop: PPS Architectural Slide Collection, 1983
+caption: '[Date] — PPS Architectural Slides Collection'
+<a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>
+
 ## Footnotes
 [^1]
 [^1]: Content of footnote

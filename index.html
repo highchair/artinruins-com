@@ -74,7 +74,7 @@ sitemap:
     {%- endcomment -%}
 {% if demoalert_html.size > 0 %}
     <span id="demo"></span>
-    <h2 class="o__title--sm o__title__cta v-rhythm">Demolition Alert {% if demoalert.size > 1 %}<a href="{% link category/demolitionalert.html %}">More <span class="u__sr-only">Demolition Alerts</span><span aria-hidden="true">#DemolitionAlert</span></a>{% endif %}</h2>
+    <h2 class="o__title--sm o__title__cta v-rhythm">Demolition Alert {% if demoalert.size > 1 %}<a href="{% link category/demolitionalert.html %}">{{ demoalert.size }} in <span class="u__sr-only">Demolition Alerts</span><span aria-hidden="true">#DemolitionAlert</span></a>{% endif %}</h2>
     <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
       {{ demoalert_html }}
     </ul>

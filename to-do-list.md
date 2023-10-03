@@ -80,7 +80,6 @@ Each property has a latitude and longitude associated with it as well as a Googl
 
 
 
-
 {% comment %}
 
 # 365 Eddy Street, circa 1900
@@ -105,7 +104,7 @@ https://www.google.com/maps/place/227+Angell+St,+Providence,+RI+02906/@41.828282
 * Find original photos provided by Frank Mullin
 
 # John O. Pastore Photograph Album
-* http://library.providence.edu/spcol/pas_scrbk/pas_scrapb2.html
+* https://pcdc.providence.edu/john-o-pastore-photograph-album
 * LOTS of early photos, turn of the 20th century
 
 # Millrace in Woonsocket
@@ -132,6 +131,7 @@ Could be combined with the more recent images of their new location.
 
 # RI Malleable Iron / Elizabeth Mill
 * First photo is actually another building that was razed sometime between 2012 and 2016
+* An old old book on Internet Archive has a photo on page 1380 https://archive.org/details/cu31924028840011/page/n1379/mode/2up
 * Cranston Herald 2009: http://cranstononline.com/stories/then-and-now-elizabeth-mill-an-important-addition,53209
 * Warwick Beacon 2012: http://warwickonline.com/stories/city-hopeful-of-preserving-mill-as-signature-to-station-district,76125
 * Known as Elizabeth Mill. From PBN, Dec 29 2014: _THE ELIZABETH Mill Building, part of the Leviton complex at 745 Jefferson Blvd. in Warwick, will be razed and some of its architectural elements incorporated into a new building, under a plan that Warwick officials hope will serve as a development catalyst for the City Centre Warwick district surrounding T.F. Green Airport. / COURTESY GOOGLE MAPS_ WARWICK – The historic Elizabeth Mill will be razed and some of its architectural elements incorporated into a new building, under a plan that Warwick officials hope will serve as a development catalyst for the City Centre Warwick district. The plan would create a four-story, 300,000-square-foot building with modern efficiencies, suitable for retail, office and…
