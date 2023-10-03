@@ -7,10 +7,10 @@ date-modified: 2023-03-04 12:00
 built: '1857-75, & 1895'
 demolition: '2023'
 redeveloped:
-units: '25'
+units:
 decade: '1860-1869'
 date-added: '2023'
-categories: [ '#DemolitionAlert', '#UrbanDecay' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -80,7 +80,7 @@ imagescredit:
   </figcaption>
 </figure>
 
-Walter Bronhard and Brook Holding, LLC were applicants proposing to demolish these two existing homes in the College Hill Historic District. They want to construct a new mixed-use five story building with a commercial ground floor and 25 dwelling units. They sought a dimensional adjustment to maintain a height of 58’ and five stories where 50’ and four stories are allowed by right in the zone. They also requested a design waiver for locating residential development within 20’ of a main street, which was approved contingent on the use of noise regulatory devices and 24/7 security for the life of the project.
+Walter Bronhard and Brook Holding, LLC were applicants proposing to demolish these two existing homes in the College Hill Historic District. They want to construct a new mixed-use five story building with a commercial ground floor and 25 dwelling units. They sought a dimensional adjustment to maintain a height of 58' and five stories where 50' and four stories are allowed by right in the zone. They also requested a design waiver for locating residential development within 20' of a main street, which was approved contingent on the use of noise regulatory devices and 24/7 security for the life of the project.
 
 Few presentations in opposition were heard — the Providence Preservation Society was one of the few [objectors to the variances](//ppsri.org/wp-content/uploads/2023/02/2023-02-116-Waterman-PPS.pdf){:target="_blank"} in a letter addressed to the City Planning Commission.
 
@@ -89,7 +89,7 @@ The loss of these properties is part of [our essay about the erosion of the Coll
 
 ### Current Events
 
-We are waiting for construction fencing to go up any day now. The project got design approval, so now it is waiting for additional permitting and construction financing to clear. 
+Construction fencing went up in the summer of 2023 and the houses were quickly down after that. The foundations are currently being laid for the new apartment building (fall of 2023).
 
 
 ### History
