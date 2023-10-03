@@ -18,44 +18,6 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 
 ## On The Boards
 
-### 251-269 Wickenden Street
-
-<figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-08.jpg" alt="">
-  <figcaption>Rendering for Fox Point Capital LLC</figcaption>
-</figure>
-
-**Update August 22, 2023**
-
-[William Morgan weighs in with this GoLocal recent article](//www.golocalprov.com/business/Goodbye-Fox-Point-William-Morgan-Architecture-Critic){:target="_blank"}.
-
-**Update August 16, 2023**
-
-The City Plan Commission approved the plan for this new building after the developer made slight modifications to the design. Even though most of the 60 citizens who packed the meeting opposed the development, the <span class="abbr">CPC</span> has a history of agreeing with developers who are making an investment in the city. They push back some, but not enough most of the time, and do not always consider public opinion. Granted, some of that opinion might be NIMBY, but many people presented salient points about the design, the increase in density, and the historic and relatively untouched nature of the neighborhood.
-
-[Synopsis of the meeting at the Public Radio](//thepublicsradio.org/article/after-heated-public-hearing-providence-plan-commission-votes-to-go-ahead-with-fox-point-development?fbclid=IwAR13KrybY6zy8M8dPbbBqT6TcDu7unoAD_F5SXi-hszTAwmnxdqUBP3CKjs){:target="_blank"}
-
-**August 15, Original post**
-
-August 15 was the Major Land Development proposal for 269 Wickenden Street presented to the City Plan Commission (CPC). This proposal would construct a [five-story, mixed-use building with 62 residential units](https://www.providenceri.gov/wp-content/uploads/2023/04/23-012MA-269-Wickenden-St-master-submission.pdf){:target="_blank"}. The applicant seeks an adjustment to allow for the fifth-story, along with a design waiver for the window sills. If approved, two 1980s buildings will be demolished (the former Hairspray Salon building that is currently for sale). The proposal’s massing and design are not appropriate for Wickenden Street. The time for public comments has passed but the matter will continue to be reviewed by the CPC.
-
-
-### 108–110 Waterman Street
-
-<figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/110-waterman-street-streetview.jpg" alt="">
-  <figcaption>Streetview of 110 Waterman Street from Google</figcaption>
-</figure>
-
-The demolition of yet another contributing house to the College Hill Historic District is being proposed. The replacement is another bland dark box with 26 units and 56 bedrooms. The developer and architect are the same ones who demolished [two former homes on the corner of Brook and Waterman]({% link _property/382-brook-116-waterman.md %}). The architecture style would be the same as well, which would start to create a pattern along that street that would make it difficult to tell one building from another. Further, we think it would not be long for the one remaining house in between these two behemoths to be replaced by the same architecture. 
-
-The design of the [new 26 unit building](https://www.providenceri.gov/wp-content/uploads/2023/07/23-030MA-108-110-Waterman-Street-master-plan-submission.pdf){:target="_blank"} can be downloaded as a PDF from the City website. We encourage citizens to speak out against this wall of sameness along an important commercial and historic corridor.
-
-The existing building is the Rufus Waterman House, built 1877. It is a very handsome double-house with a Second Empire mansard roof, gothic details, and ground-cloor retail. Unlike some houses that have been torn down in the are recently, we don’t think you can claim that this house is “blighted.”
-
-[According to the staff notes on the hearing, they are not opposed to demolition](https://www.providenceri.gov/wp-content/uploads/2023/07/22-030MA-108-110-Waterman-Street-master-plan-report.pdf){:target="_blank"} in this section of the city [as we have seen so many times in the past]({% link _essays/erosion-of-college-hill-historic-district.md %}).
-
-
 ### Proposed demolition of Mount Pleasant High School
 
 The Providence Public School Department is considering whether to knock down Mount Pleasant High School in favor of constructing a cheaper alternative. The district has been under state control since 2019, and touched on three proposals for the school during a community hearing.
@@ -67,6 +29,50 @@ The details of the proposals were scant, with no mention of the interior design 
 A portion of this decision to demolish seems self-inflicted, in our opinion. RIDE and the school takeover administration cut repair funding from $26.5M to $3.6M which likely created a demolition by neglect scenario. 
 
 [Story from WPRI News](//www.wpri.com/news/local-news/providence/district-considers-demolishing-mount-pleasant-high-school/){:target="_blank"}
+
+
+### 108–110 Waterman Street
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/110-waterman-street-streetview.jpg" alt="">
+  <figcaption>Streetview of 110 Waterman Street from Google</figcaption>
+</figure>
+
+**Update September 30, 2023**
+
+We have added this property to our archive: [108–110 Waterman Street]({% link _property/rufus-waterman-house-pvd.md %})
+
+**Update September 27, 2023**
+
+Aa 5-story, 28-unit apartment building proposal received Master Plan Approval on September 19, with the condition of removing the rooftop deck due to noise concerns. It was determined by the Historic District Commission that the structure was not architecturally significant enough to prevent its demolition. Providence’s first National Register District, the College Hill Historic District, continues to be willingly degraded with losses like this.
+
+**Previous Update**
+
+The demolition of yet another contributing house to the College Hill Historic District is being proposed. The replacement is another bland dark box with 26 units and 56 bedrooms. The developer and architect are the same ones who demolished [two former homes on the corner of Brook and Waterman]({% link _property/382-brook-116-waterman.md %}). The architecture style would be the same as well, which would start to create a pattern along that street that would make it difficult to tell one building from another. Further, we think it would not be long for the one remaining house in between these two behemoths to be replaced by the same architecture. 
+
+The design of the [new 26 unit building](https://www.providenceri.gov/wp-content/uploads/2023/07/23-030MA-108-110-Waterman-Street-master-plan-submission.pdf){:target="_blank"} can be downloaded as a PDF from the City website. We encourage citizens to speak out against this wall of sameness along an important commercial and historic corridor.
+
+The existing building is the Rufus Waterman House, built 1877. It is a very handsome double-house with a Second Empire mansard roof, gothic details, and ground-cloor retail. Unlike some houses that have been torn down in the are recently, we don’t think you can claim that this house is “blighted.”
+
+[According to the staff notes on the hearing, they are not opposed to demolition](https://www.providenceri.gov/wp-content/uploads/2023/07/22-030MA-108-110-Waterman-Street-master-plan-report.pdf){:target="_blank"} in this section of the city [as we have seen so many times in the past]({% link _essays/erosion-of-college-hill-historic-district.md %}).
+
+
+### 251-269 Wickenden Street
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-08.jpg" alt="">
+  <figcaption>Rendering for Fox Point Capital LLC</figcaption>
+</figure>
+
+Moved most of this information to a [#DemolitionAlert]({% link category/demolitionalert.html %}) post for [the properties at 249 through 265]({% link _property/249-265-wickenden-st.md %}).
+
+**Update August 22, 2023**
+
+[William Morgan weighs in with this GoLocal recent article](//www.golocalprov.com/business/Goodbye-Fox-Point-William-Morgan-Architecture-Critic){:target="_blank"}.
+
+**Update August 16, 2023**
+
+The City Plan Commission approved the plan for this new building after the developer made slight modifications to the design. Even though most of the 60 citizens who packed the meeting opposed the development, the <span class="abbr">CPC</span> has a history of agreeing with developers who are making an investment in the city. They push back some, but not enough most of the time, and do not always consider public opinion. Granted, some of that opinion might be NIMBY, but many people presented salient points about the design, the increase in density, and the historic and relatively untouched nature of the neighborhood.
 
 
 ### Parcel 2
