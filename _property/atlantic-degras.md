@@ -34,78 +34,118 @@ thumbnail: pdbc-jh-2005-08-01.jpg
 
 images:
   - url: atlantic-degras-ec-2003-11-09.jpg
-    caption: 'Photo by Edward Connors for the National Register Nomination — Building 9, Atlantic-Degras Building (1895-1900, 1908-1920)'
     alt: 'Detailed descriptions of the architecture of each building in this complex are in the History section of the article'
+    caption: 'Photo by Edward Connors for the National Register Nomination — Building 9, Atlantic-Degras Building (1895-1900, 1908-1920)'
+    sizes: '1441, 900'
   - url: pbdc-ec-2003-11-17.jpg
     caption: 'Photo by Edward Connors for the National Register Nomination — Building 14 of the PBDC complex, Office/Storage Building (1908–1918)'
+    sizes: '1441, 900'
   - url: pbdc-ec-2003-11-18.jpg
     caption: 'Photo by Edward Connors for the National Register Nomination — Building 16, Garage (lst floor)/Laboratory and Electrician’s Room (2nd floor) (1918–1920)'
+    sizes: '1441, 900'
   - url: pbdc-ec-2003-11-19.jpg
     caption: 'Photo by Edward Connors for the National Register Nomination — Building 17, Stock Room (1918–1920)'
+    sizes: '1441, 900'
   - url: atlantic-degras-jh-2005-08-01.jpg
     caption: 'Building 9, Atlantic-Degras Building, southern façade'
+    sizes: '1200, 900'
   - url: atlantic-degras-jh-2005-08-02.jpg
-    caption: 'Building 9, Atlantic-Degras Building — Detail of ghost signs underneath a more recent mural'
+    caption: 'Building 9, Atlantic-Degras Building — Detail of ghost signs underneath a more recent mural'
+    sizes: '1200, 900'
   - url: atlantic-degras-jh-2005-08-03.jpg
-    caption: 'Building 9, Atlantic-Degras Building — Detail of mural'
+    caption: 'Building 9, Atlantic-Degras Building — Detail of mural'
+    sizes: '1200, 900'
   - url: atlantic-degras-jh-2005-08-04.jpg
     caption: 'Distressed and weathered Antonelli Plating sign on the ground'
+    sizes: '1200, 900'
   - url: atlantic-degras-jh-2005-08-05.jpg
-    caption: 'Building 9, Atlantic-Degras Building — Interior'
+    caption: 'Building 9, Atlantic-Degras Building — Interior'
+    sizes: '1200, 900'
   - url: atlantic-degras-jh-2005-08-06.jpg
-    caption: 'Building 9, Atlantic-Degras Building — Interior'
+    caption: 'Building 9, Atlantic-Degras Building — Interior'
+    sizes: '1200, 900'
   - url: atlantic-degras-jh-2005-08-07.jpg
-    caption: 'Building 9, Atlantic-Degras Building — Northern side'
+    caption: 'Building 9, Atlantic-Degras Building — Northern side'
+    sizes: '1200, 900'
   - url: atlantic-degras-jh-2006-06-01.jpg
-    caption: 'Building 9, Atlantic-Degras Building — Northern side'
+    caption: 'Building 9, Atlantic-Degras Building — Northern side'
+    sizes: '768, 924'
   - url: pdbc-jh-2005-08-01.jpg
     caption: 'Building 14 of the PBDC complex, Office/Storage Building (1908–1918), eastern façade (view south)'
+    sizes: '1200, 900'
   - url: pdbc-jh-2005-08-02.jpg
     caption: 'Building 14 of the PBDC complex, southern façade (view northeast)'
+    sizes: '1200, 900'
   - url: pdbc-jh-2005-08-03.jpg
     caption: 'Building 14 of the PBDC complex, southern façade (view northeast)'
+    sizes: '1200, 900'
   - url: pdbc-jh-2005-08-04.jpg
     caption: 'Building 15, Chemical Storage Building (1908-1918), eastern façade (view southwest), with modern cinderblock garage addition'
+    sizes: '1200, 900'
   - url: pdbc-jh-2005-08-05.jpg
     caption: 'Left: Rear view (western façade) of Building 11, Filter House (1904-1908). Center: Building 15. Far right: A slight bit visible of the adjoining Building 16.'
+    sizes: '1200, 900'
   - url: pdbc-jh-2005-08-06.jpg
     caption: 'Detail of sign on the western façade of Building 11'
+    sizes: '1200, 900'
   - url: pdbc-jh-2005-08-07.jpg
     caption: 'View southwest. Far left: Building 16, Garage (lst floor)/Laboratory and Electrician’s Room (2nd floor) (1918–1920). Center and right: Building 17, Stock Room (1918–1920)'
+    sizes: '1200, 900'
   - url: pdbc-jh-2005-08-08.jpg
     caption: 'View southwest. Left: Building 17. Center and right: Building 7, Machine/Carpenter Shop (1895 et seq.)'
+    sizes: '1200, 900'
   - url: pdbc-jh-2005-08-09.jpg
     caption: 'View west. Building 7 with overhead passage to Building 10 (far right), the Mangle & Tenter Room (1899 et seq.)'
+    sizes: '1200, 900'
   - url: pdbc-jh-2005-08-10.jpg
     caption: 'Western façade (view southeast) of Buildings 16 and 17'
+    sizes: '1200, 900'
   - url: pbdc-jh-2005-08-11.jpg
     caption: 'View from second floor of Building 17, looking northwest towards Building 7'
+    sizes: '0, 0'
   - url: pdbc-jh-2005-08-12.jpg
     caption: 'Detail of an entrance on northern façade (view south) of Building 14'
+    sizes: '1200, 900'
   - url: pdbc-jh-2005-08-13.jpg
     caption: 'Northern elevation of Building 14 (view southwest)'
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-02-01.jpg
     caption: 'Building 14 of the PBDC complex, Office/Storage Building (1908–1918), eastern façade (view north)'
+    sizes: '1440, 900'
   - url: pdbc-jh-2006-02-02.jpg
     caption: 'Building 14 of the PBDC complex, southern façade (view northwest)'
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-02-03.jpg
     caption: 'Building 14 of the PBDC complex, southern façade, new door detail'
+    sizes: '768, 924'
   - url: pdbc-jh-2006-02-04.jpg
     caption: 'Building 15, Chemical Storage Building (1908-1918), eastern façade (view west). Modern cinderblock garage addition has been removed (see previous photo)'
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-02-05.jpg
     caption: 'Western façade of Building 11, Filter House'
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-06-01.jpg
     caption: 'Inside Building 11, which features four townhouse-style apartments'
+    sizes: '768, 924'
   - url: pdbc-jh-2006-06-02.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-06-03.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-06-04.jpg
+    sizes: '768, 924'
   - url: pdbc-jh-2006-06-05.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-09-01.jpg
     caption: 'Inside one of the units in the front of Building 14'
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-09-02.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-09-03.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-09-04.jpg
+    sizes: '1200, 900'
   - url: pdbc-jh-2006-09-05.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions by Edward Connors from the National Register nomination form'
 

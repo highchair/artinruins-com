@@ -33,13 +33,13 @@ excerpt: "This narrow, small footprint a hundred fifty year-old house had a prom
 thumbnail: 93-benevolent-jh-2022-08-01.jpg
 
 images:
-  - url: 89-benevolent-pps-unknown-01.jpg
+  - url: 93-benevolent-pps-unknown-01.jpg
     alt: 'A narrow, two and a half story gabel roof wooden home. An asymmetrical entrance is on the first floor’s eastern side, with a single window to the west. The second floor features two symetrical rectangle windows, and the third gable end has a half-round fanlight window.'
     caption: 'Date unknown, “The Vault” is painted on the door — PPS Architectural Slides Collection'
-    sizes: '0, 0'
-  - url: 89-benevolent-pps-unknown-02.jpg
+    sizes: '800, 1212'
+  - url: 93-benevolent-pps-unknown-02.jpg
     caption: 'Date unknown, exterior view facing south — PPS Architectural Slides Collection'
-    sizes: '0, 0'
+    sizes: '853, 1024'
   - url: 93-benevolent-jh-2011-05-01.jpg
     sizes: '1200, 900'
   - url: 93-benevolent-jh-2011-05-02.jpg

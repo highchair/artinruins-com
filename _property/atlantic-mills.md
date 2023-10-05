@@ -34,60 +34,100 @@ thumbnail: atlantic-jh-2003-08-05.jpg
 images:
   - url: atlantic-undated-c1920-01.jpg
     caption: 'An old photo (circa 1920 we are guessing) of the portion of the mill along Manton Avenue, showing the now demolished Cotton Mill No. 1 on the far left and the former Boiler House in the middle left. Source unknown.'
+    sizes: '1000, 330'
   - url: atlantic-ppl-c1930-01.jpg
     caption: 'Undated. Rhode Island Photograph Collection, Providence Preservation Society'
+    sizes: '2571, 900'
   - url: atlantic-ppl-c1940-01.jpg
-    caption: 'A view of the front of the former Cottom Mill no. 1, now demolished from 1940. Notice how in the previous photo, there was a gable roof to this mill before the top floor was added. The windows on the top floor are different than those below — Rhode Island Mills and Mill Villages Photograph Collection, Providence Preservation Society'
+    caption: 'A view of the front of the former Cottom Mill no. 1, now demolished from 1940. Notice how in the previous photo, there was a gable roof to this mill before the top floor was added. The windows on the top floor are different than those below — Rhode Island Mills and Mill Villages Photograph Collection, Providence Preservation Society'
+    sizes: '1200, 900'
   - url: ad-housewares-psj.jpg
     caption: 'One of many ads that ran in the Providence Sunday Journal'
+    sizes: '1320, 900'
   - url: atlantic-jh-2003-08-wide-01.jpg
     alt: 'A very large 4-story red brick mill complex known in the area for its sintinct twin circular stair towers topped with onion domes painted with red and white vertical stripes'
+    sizes: '3100, 900'
   - url: atlantic-jh-2003-08-wide-02.jpg
+    sizes: '2836, 800'
   - url: atlantic-jh-2003-08-01.jpg
+    sizes: '1440, 900'
   - url: atlantic-jh-2003-08-02.jpg
+    sizes: '768, 924'
   - url: atlantic-jh-2003-08-03.jpg
+    sizes: '1440, 900'
   - url: atlantic-jh-2003-08-04.jpg
+    sizes: '1440, 900'
   - url: atlantic-jh-2003-08-05.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-06.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-07.jpg
+    sizes: '1440, 900'
   - url: atlantic-jh-2003-08-08.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-10.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-11.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-12.jpg
+    sizes: '768, 924'
   - url: atlantic-jh-2003-08-13.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-14.jpg
+    sizes: '1440, 900'
   - url: atlantic-jh-2003-08-15.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-16.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-17.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-18.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-19.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-20.jpg
+    sizes: '768, 924'
   - url: atlantic-jh-2003-08-21.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-22.jpg
+    sizes: '1200, 900'
   - url: atlantic-jh-2003-08-23.jpg
+    sizes: '768, 924'
   - url: atlantic-cm-2017-09-01.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '768, 924'
   - url: atlantic-cm-2017-09-02.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '768, 924'
   - url: atlantic-cm-2017-09-03.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '768, 924'
   - url: atlantic-cm-2017-09-04.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '768, 924'
   - url: atlantic-cm-2017-09-05.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1440, 900'
   - url: atlantic-cm-2017-09-06.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '768, 924'
   - url: atlantic-cm-2017-09-07.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '768, 924'
   - url: atlantic-cm-2017-09-08.jpg
     caption: 'Photo by Christopher Martin'
+    sizes: '1600, 900'
   - url: atlantic-jh-2020-12-01.jpg
+    sizes: '1440, 900'
   - url: atlantic-goog-wide-01.jpg
     caption: 'Image from Google Earth circa 2019. The building in the top left fronting Hartford Avenue is independent of the mills.'
+    sizes: '1600, 900'
   - url: atlantic-goog-wide-02.jpg
     caption: 'Image from Google Earch circa 2019'
+    sizes: '1600, 900'
   - url: 1889-sanborn-plates-277-278.jpg
-    caption: '1889–1900 Sanborn Insurance Map, Volume 3, Plates 277 and 278 — Library of Congress, Geography and Map Division'
+    caption: '1889–1900 Sanborn Insurance Map, Volume 3, Plates 277 and 278 — Library of Congress, Geography and Map Division'
+    sizes: '1600, 900'
 
 mostrecentimage: 2020-12-01
 

@@ -4,10 +4,10 @@ slug: atlas-terminal-warehouses
 aka: "Shepard’s Department Store Warehouse"
 date-modified: 2020-05-27 22:00
 
-built: 1913
-demolition: 2013
+built: '1913'
+demolition: '2013'
 decade: '1910-1919'
-date-added: 2003
+date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
@@ -31,66 +31,104 @@ thumbnail:
 images:
   - url: atlas-terminal-jh-2002-12-01.jpg
     alt: 'Two large, solidly built five-story warehouses along the Providence harbor waterfront. Red brick construction with small window openings, stone sills, and arched stone lintels on square plans with a few hundred feet between them. The warehouse facing the waterfront had giant white faded letters reading Terminal Warehouse Co.'
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2002-12-02.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2002-12-03.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2002-12-04.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2003-06-01.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2003-06-02.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2003-06-03.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2003-06-04.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2003-06-05.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2003-06-06.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2003-06-07.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2003-06-08.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2003-06-09.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2003-06-10.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2003-06-11.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-05-01.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2013-05-02.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2013-05-03.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-05-04.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2013-05-05.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2013-05-06.jpg
+    sizes: '1440, 900'
   - url: atlas-terminal-jh-2013-05-07.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-05-08.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-05-09.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-05-10.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-05-11.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-05-12.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-05-13.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-05-14.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-05-15.jpg
+    sizes: '1600, 900'
   - url: atlas-terminal-jh-2013-05-16.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-05-17.jpg
+    sizes: '1600, 900'
   - url: atlas-terminal-jh-2013-07-01.jpg
+    sizes: '1600, 900'
   - url: atlas-terminal-jh-2013-07-02.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-07-03.jpg
+    sizes: '1200, 900'
   - url: atlas-terminal-jh-2013-07-04.jpg
+    sizes: '1600, 900'
   - url: atlas-terminal-jh-2013-07-05.jpg
+    sizes: '1600, 900'
   - url: atlas-terminal-jh-2013-07-06.jpg
+    sizes: '1600, 900'
 
 imagescredit: 
 ---
 
 ### Reason for Demolition
 
-On August 22, 2011, Cumberland Farms received permission from the Providence Historic District Commission to raze the two Terminal Warehouse Buildings off Allens Avenue. The convenience store chain had no plans to develop the land after the demolition, according to plans filed with the city’s Department of Planning and Development. At the request of the Providence Historic District Commission, a narrative with graphic scale drawings and photographic documentation were prepared and submitted according to and as a condition to the approval of demolition. The report was submitted to the RI Historic Preservation and Heritage Commission. 
+On August 22, 2011, Cumberland Farms received permission from the Providence Historic District Commission to raze the two Terminal Warehouse Buildings off Allens Avenue. The convenience store chain had no plans to develop the land after the demolition, according to plans filed with the city’s Department of Planning and Development. At the request of the Providence Historic District Commission, a narrative with graphic scale drawings and photographic documentation were prepared and submitted according to and as a condition to the approval of demolition. The report was submitted to the RI Historic Preservation and Heritage Commission.
 
-The giant warehouses were solid structures and had managed to survive 15 years of neglect with damage to the windows and some vandalism. Given their size and the sheer bulk of their mass, however, they were still structurally sound. The problem was more that they were huge, posed an insurance risk, and would have been hard to convert into something more desirable. Even though they were located along the waterfront, they were along the _working_ waterfront, which is not a desirable location for most commercial or residential use. 
+The giant warehouses were solid structures and had managed to survive 15 years of neglect with damage to the windows and some vandalism. Given their size and the sheer bulk of their mass, however, they were still structurally sound. The problem was more that they were huge, posed an insurance risk, and would have been hard to convert into something more desirable. Even though they were located along the waterfront, they were along the _working_ waterfront, which is not a desirable location for most commercial or residential use.
 
 During Vincent “Buddy” Cianci’s administration, it was proposed to redevelop the waterfront with a plan called “New Cities”. New Cities would create “Narragansett Landing”, a 200-acre development on land that is currently occupied by oil and gas storage facilities, as well as the Promenade (behind the mall) and Westminster Crossings (over the highway I-95). The idea of New Cities stuck around during the Cicilline’s administration, although nothing moved forward with it (Patrick Conley moved forward with his own version, called “Providence Piers” alongside the former [Dunlop Tire]({% link _property/providence-gas-purifier-house.md %}) building, but nothing materialized except a boat dock).
 
 
 ### Current Events
 
-The land currently is used as waterfront storage by nearby businesses. 
+The land currently is used as waterfront storage by nearby businesses.
 
 
 ### History
 
 _Excerpts from Rhode Island Historical Resources Archive (RIHRA PROV-0001)_
 
-The Atlas and Shepherd buildings are two large, five-story warehouses intended as the two ends of a gargantuan warehouse at the Port of Providence, however, the middle sections were never constructed. The buildings were used for the storage of freight from the State Pier and were considered burglarproof and fireproof when constructed. 
+The Atlas and Shepherd buildings are two large, five-story warehouses intended as the two ends of a gargantuan warehouse at the Port of Providence, however, the middle sections were never constructed. The buildings were used for the storage of freight from the State Pier and were considered burglarproof and fireproof when constructed.
 
 The current owner, Cumberland Farms, Inc. (CFI) relocated their Canton, Massachusetts headquarters in 1984, at which time it began using Shepherd, Atlas and the out buildings for a variety of storage and repair shop uses. According to CFI’s Construction Purchasing Supervisor, Jose Moreira, who started at CFI in 1986, three floors of the Shepherd Building were used to store fixtures and equipment from their retail outlets, and with the 1987 merger with Gulf Oil, extra signage. The Atlas Building was used from 1987 to 1992 for sheet metal repairs for their retail storefront and canopy components. The single story outbuildings contained material for construction, HVAC systems, gas pumps and new equipment until September 16, 2007. The garage in front continues in use to service and repair Gulf Oil tanker trucks.
 

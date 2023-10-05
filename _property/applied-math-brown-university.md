@@ -33,10 +33,16 @@ thumbnail: 170-hope-jh-2022-01-03.jpg
 
 images:
   - url: 170-hope-jh-2022-01-01.jpg
+    alt: 'A new modern three story building with upper stories set on a slight angle from the ground floor. Lower floors are clad in steel tiles that have rusted in a decorative way. Upper floors are clad in satin finished steel plates. Windows are square with no fenestration.'
+    sizes: '1440, 900'
   - url: 170-hope-jh-2022-01-02.jpg
+    sizes: '1440, 900'
   - url: 170-hope-jh-2022-01-03.jpg
+    sizes: '1440, 900'
   - url: 170-hope-jh-2022-01-04.jpg
+    sizes: '1200, 900'
   - url: 170-hope-jh-2022-01-05.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2021-07-01
 

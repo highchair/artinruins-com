@@ -5,16 +5,16 @@ aka:
 date-modified: 2020-06-24 21:00
 
 built: 'circa 1950'
-demolition: 2009
+demolition: '2009'
 redeveloped: 
 decade: '1950-1959'
-date-added: 2004
+date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'North Main Street Commercial Corridor' ]
-tags: [ 'Needs History', 'Demolition by Neglect' ]
+tags: [ 'Demolition by Neglect', 'Needs History' ]
 
 address: '1320 North Main Street, Providence RI'
 latitude: '41.8560174'
@@ -29,23 +29,41 @@ thumbnail:
 images:
   - url: anderson-little-jh-2003-07-01.jpg
     alt: 'A single story mid-century retail building with natural stone facade and commercial glass entrance vestibule. The rear of the building is painted white concrete block. Large plastic letters emblazon the facade and right side overlooking the parking lot, with very large letters on the back of the building that could be seen from the distant highway.'
+    sizes: '1024, 576'
   - url: anderson-little-jh-2003-07-02.jpg
+    sizes: '1024, 640'
   - url: anderson-little-jh-2003-07-03.jpg
+    sizes: '1024, 640'
   - url: anderson-little-jh-2003-07-04.jpg
+    sizes: '1024, 640'
   - url: anderson-little-jh-2003-07-05.jpg
+    sizes: '1024, 640'
   - url: anderson-little-jh-2003-07-06.jpg
+    sizes: '1024, 683'
   - url: anderson-little-jh-2003-07-07.jpg
+    sizes: '1024, 683'
   - url: anderson-little-jh-2003-07-08.jpg
+    sizes: '1024, 683'
   - url: anderson-little-jh-2003-07-09.jpg
+    sizes: '1024, 683'
   - url: anderson-little-jh-2009-03-01.jpg
+    sizes: '1440, 900'
   - url: anderson-little-jh-2009-03-02.jpg
+    sizes: '1440, 900'
   - url: anderson-little-jh-2009-12-01.jpg
+    sizes: '1440, 900'
   - url: anderson-little-jh-2009-12-02.jpg
+    sizes: '1440, 900'
   - url: anderson-little-jh-2009-12-03.jpg
+    sizes: '1440, 900'
   - url: anderson-little-jh-2009-12-04.jpg
+    sizes: '1440, 900'
   - url: anderson-little-jh-2009-12-05.jpg
+    sizes: '1440, 900'
   - url: anderson-little-jh-2009-12-06.jpg
+    sizes: '1440, 900'
   - url: anderson-little-jh-2009-12-07.jpg
+    sizes: '1440, 900'
 
 imagescredit: 
 ---

@@ -8,7 +8,7 @@ built: 'circa 1965'
 demolition:
 redeveloped: 
 decade: '1960-1969'
-date-added: 2020
+date-added: '2020'
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
@@ -29,12 +29,19 @@ thumbnail: bennys-auto-jh-2020-06-01.jpg
 images:
   - url: bennys-auto-jh-2020-06-01.jpg
     alt: 'A simple, one-story commercial building in an L shape. One side contains the retail store and the other leg of the L contains a garage three bays wide. Small one inch tiles in white and red cover some faces of the building.'
+    sizes: '1440, 900'
   - url: bennys-auto-jh-2020-06-02.jpg
+    sizes: '1440, 900'
   - url: bennys-auto-jh-2020-06-03.jpg
+    sizes: '1440, 900'
   - url: bennys-auto-jh-2020-06-04.jpg
+    sizes: '1440, 900'
   - url: bennys-auto-jh-2020-06-05.jpg
+    sizes: '1440, 900'
   - url: bennys-auto-jh-2020-06-06.jpg
+    sizes: '1440, 900'
   - url: bennys-auto-jh-2020-06-07.jpg
+    sizes: '900, 900'
 
 mostrecentimage: 2020-06-01
 

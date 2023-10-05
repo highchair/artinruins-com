@@ -35,10 +35,15 @@ thumbnail: ashburton-jh-2021-11-02.jpg
 images:
   - url: ashburton-jh-2006-06-01.jpg
     alt: 'A two story red brick mill-looking building with central garage door size openings, one on each floor, flanked by sets of two arched top windows on both floors. On the first floor, an additional door entrance is on the left under the pair of windows on the second floor. Ornamentation is sparse but for a large bracketed wooden cornice along the façade’s roofline. '
+    sizes: '1440, 900'
   - url: ashburton-jh-2007-07-01.jpg
+    sizes: '1440, 900'
   - url: ashburton-jh-2009-06-01.jpg
+    sizes: '1200, 900'
   - url: ashburton-jh-2021-11-01.jpg
+    sizes: '1440, 900'
   - url: ashburton-jh-2021-11-02.jpg
+    sizes: '1200, 900'
 
 imagescredit:
 

@@ -31,25 +31,42 @@ thumbnail: aloft-jh-2022-03-06.jpg
 
 images:
   - url: aloft-render-01.jpg
-    caption: 'Early rendering from CV Properties. The final design is different than this example.'
     alt: 'A modern hotel design on a trapezoidal plot of land. The design is a horseshoe shape, with one wing at 7 stories and another that takes an angle turn at 6 stories. The 6 stories are clad in a red metal vertical material, while the taller wing is silvery grey. Windows are all rectangular. The ground floor is mostly plate glass commercial windows and a penthouse on the taller portion has a large open air section with a roof overhead.'
+    caption: 'Early rendering from CV Properties. The final design is different than this example.'
+    sizes: '782, 489'
   - url: aloft-render-02.jpg
     caption: 'Early rendering from CV Properties. The final design is different than this example.'
+    sizes: '782, 489'
   - url: aloft-jh-2020-03-01.jpg
+    sizes: '1440, 900'
   - url: aloft-jh-2020-03-02.jpg
+    sizes: '1440, 900'
   - url: aloft-jh-2020-06-01.jpg
+    sizes: '1440, 900'
   - url: aloft-jh-2020-07-01.jpg
+    sizes: '1440, 900'
   - url: aloft-jh-2020-09-01.jpg
+    sizes: '1200, 900'
   - url: aloft-jh-2020-10-01.jpg
+    sizes: '1440, 900'
   - url: aloft-jh-2021-03-01.jpg
+    sizes: '1200, 900'
   - url: aloft-jh-2021-05-01.jpg
+    sizes: '1440, 900'
   - url: aloft-jh-2022-03-01.jpg
+    sizes: '1200, 900'
   - url: aloft-jh-2022-03-02.jpg
+    sizes: '1440, 900'
   - url: aloft-jh-2022-03-03.jpg
+    sizes: '1440, 900'
   - url: aloft-jh-2022-03-04.jpg
+    sizes: '1200, 900'
   - url: aloft-jh-2022-03-05.jpg
+    sizes: '1200, 900'
   - url: aloft-jh-2022-03-06.jpg
+    sizes: '1440, 900'
   - url: aloft-jh-2022-03-07.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2022-03-01
 

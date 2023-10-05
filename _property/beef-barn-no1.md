@@ -33,19 +33,26 @@ thumbnail: beef-barn-tw-2021-08-03.jpg
 
 images:
   - url: beef-barn-jh-2019-04-01.jpg
-    caption: 'The old-time newspaper ads that decorated the tables… “Torpid Liver” got us every time'
     alt: 'A rustic wooden single-story barn-style family restaurant. Bare wide plank wooden siding, red painted trim accents, bright red letter sign across the front, and a large painted red silo on the right side.'
+    caption: 'The old-time newspaper ads that decorated the tables… “Torpid Liver” got us every time'
+    sizes: '768, 1024'
   - url: beef-barn-jsp-2019-01.jpg
     caption: 'Photo by Joe St. Pierre for a 2019 story in RI Monthly'
+    sizes: '1200, 800'
   - url: beef-barn-tw-2021-08-01.jpg
     caption: 'Photo by Thomas Wetzel, August 2021'
+    sizes: '768, 1024'
   - url: beef-barn-tw-2021-08-02.jpg
     caption: 'Photo by Thomas Wetzel, August 2021'
+    sizes: '1200, 900'
   - url: beef-barn-tw-2021-08-03.jpg
     caption: 'Photo by Thomas Wetzel, August 2021'
+    sizes: '1200, 900'
   - url: beef-barn-jh-2021-08-01.jpg
     caption: 'A night time shot of the Beef Barn building sans its sign, interior, and silo'
+    sizes: '1440, 900'
   - url: beef-barn-jh-2021-08-02.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from Thomas Wetzel and from Joe St. Pierre for RI Monthly'
 

@@ -33,25 +33,38 @@ thumbnail: alice-bldg-goog-2011-01.jpg
 
 images:
   - url: alice-bldg-provarchive-1955c-01.jpg
-    caption: 'Intersection of Westminster and Union, circa 1955. The then Peerless building is on the left and the Alice building is on the right. Courtesy the Providence City Archives on Flickr'
     alt: 'A large, seven story square commercial building originally built to house floors of indoor shopping pavillions. The first two floors have a commercial streetscape design, with more windows than supporting steel, while the remaining five floors are sheated in tan limestone, granite lintels, and a prominant copper cornice'
+    caption: 'Intersection of Westminster and Union, circa 1955. The then Peerless building is on the left and the Alice building is on the right. Courtesy the Providence City Archives on Flickr'
+    sizes: '1023, 665'
   - url: alice-bldg-jh-2003-10-01.jpg
     caption: 'A crude attempt to tile the whole building together back when digital cameras were a thing and phones with features that auto-stitched photos together didn’t exist'
+    sizes: '1820, 920'
   - url: alice-bldg-jh-2004-06-01.jpg
+    sizes: '1200, 900'
   - url: alice-bldg-jh-2004-06-02.jpg
+    sizes: '1200, 900'
   - url: alice-bldg-jh-2004-06-03.jpg
+    sizes: '1200, 900'
   - url: alice-bldg-jh-2004-06-04.jpg
     caption: 'Interior of one of the upper floors, showing the preserved individual storefront designs and surface finishes'
+    sizes: '1200, 900'
   - url: alice-bldg-jh-2004-06-05.jpg
     caption: 'Another preserved architectural detail over the elevator bank'
+    sizes: '1200, 900'
   - url: alice-bldg-jh-2004-06-06.jpg
+    sizes: '1200, 900'
   - url: alice-bldg-jh-2005-05-01.jpg
+    sizes: '1200, 900'
   - url: alice-bldg-jh-2005-12-01.jpg
+    sizes: '1200, 900'
   - url: alice-bldg-goog-2011-01.jpg
     caption: 'Google Streetview, 2011'
+    sizes: '1024, 768'
   - url: alice-bldg-cornish-2015-01.jpg
     caption: 'Photo from the Westminster Lofts website, Cornish Associates'
+    sizes: '1186, 900'
   - url: alice-bldg-jh-2021-02-01.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2021-02-01
 
@@ -64,11 +77,11 @@ imagescredit: 'Contribution by Google Streetview and Cornish Associates'
 
 ### Redevelopment
 
-The redevelopment of this commercial block was the first for [Cornish Associates]({% link designer/cornish-associates.html %}), early proponents of bringing residents downtown. Arnold “Buff” Chace’s vision was spurred on by a 1994 report called “Downcity Providence: Master plan and implementation plan.” The report was crafted by Andres Duany and Elizabeth Palter-Zyberk, best known for their pioneering work in [New Urbanism](//en.wikipedia.org/wiki/New_Urbanism){:target="_blank"}, over the course of two years of research and observation. 
+The redevelopment of this commercial block was the first for [Cornish Associates]({% link designer/cornish-associates.html %}), early proponents of bringing residents downtown. Arnold “Buff” Chace’s vision was spurred on by a 1994 report called “Downcity Providence: Master plan and implementation plan.” The report was crafted by Andres Duany and Elizabeth Palter-Zyberk, best known for their pioneering work in [New Urbanism](//en.wikipedia.org/wiki/New_Urbanism){:target="_blank"}, over the course of two years of research and observation.
 
-The report led to the development of Westminster Street as a mixed-use commercial and residential corridor, shifting from heavily commercial to heavily residential. It helped the City create the Downcity Arts and Entertainment District which was passed by then-mayor Cianci in 1996. This program was the first of its kind in the country. 
+The report led to the development of Westminster Street as a mixed-use commercial and residential corridor, shifting from heavily commercial to heavily residential. It helped the City create the Downcity Arts and Entertainment District which was passed by then-mayor Cianci in 1996. This program was the first of its kind in the country.
 
-The repurposed Alice Building was converted to house 38 loft-style residential units above first-floor commercial and restaurant spaces. The exterior underwent a major cleaning and repointing of brick and stonework, with care taken to preserve and recreate details that had deteriorated. Each loft apartment features generous windows, high ceilings, and an open floor plan, between 750 and 2,000 square feet. Some of the seventh floor units feature a mezzanine level. Most interesting are the preserved corridor “[streetscapes](#photo-alice-bldg-jh-2004-06-02)” that were created when the building was a collection of small shops on every floor. 
+The repurposed Alice Building was converted to house 38 loft-style residential units above first-floor commercial and restaurant spaces. The exterior underwent a major cleaning and repointing of brick and stonework, with care taken to preserve and recreate details that had deteriorated. Each loft apartment features generous windows, high ceilings, and an open floor plan, between 750 and 2,000 square feet. Some of the seventh floor units feature a mezzanine level. Most interesting are the preserved corridor “[streetscapes](#photo-alice-bldg-jh-2004-06-02)” that were created when the building was a collection of small shops on every floor.
 
 
 ### Current Events
@@ -87,11 +100,11 @@ The Alice building was the home to many business and commercial storefronts, as 
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-236-250 Westminster **Alice Building** (1898): Martin & Hall, architects. 7-story, stone-trimmed, brick building with mid-20th-century storefronts; plate-glass display windows with tripartite transoms on second story; heavy cornice above second story, corner projecting pavilions on third through seventh stories; variety of surface texture on upper stories includes rustication of second and third stories and engaged columns at sixth and seventh stories; interior extensively remodeled on first story; upper stories retain original layout as shopping arcades. 
+236-250 Westminster **Alice Building** (1898): Martin & Hall, architects. 7-story, stone-trimmed, brick building with mid-20th-century storefronts; plate-glass display windows with tripartite transoms on second story; heavy cornice above second story, corner projecting pavilions on third through seventh stories; variety of surface texture on upper stories includes rustication of second and third stories and engaged columns at sixth and seventh stories; interior extensively remodeled on first story; upper stories retain original layout as shopping arcades.
 
-The Alice Building was erected as an investment property by rubber magnate Joseph Banigan and
-named for his daughter, Mrs. James E. Sullivan. While the concept of a large building containing small shops had been realized in the Arcade of 1828, the precedent is without successor Downtown except for the Alice Building and the later Mason Building on Weybosset Street (now altered). A handsome commercial structure and an integral part of the streetscape, the Alice Building is increased in significance by its interior shopping arcade, a use of space completely belied by its standard exterior articulation.
+The Alice Building was erected as an investment property by rubber magnate Joseph Banigan and named for his daughter, Mrs. James E. Sullivan. While the concept of a large building containing small shops had been realized in the Arcade of 1828, the precedent is without successor Downtown except for the Alice Building and the later Mason Building on Weybosset Street (now altered). A handsome commercial structure and an integral part of the streetscape, the Alice Building is increased in significance by its interior shopping arcade, a use of space completely belied by its standard exterior articulation.
 
+***
 
 _From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 

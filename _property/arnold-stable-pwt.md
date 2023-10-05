@@ -33,21 +33,34 @@ excerpt: "An irregulary shaped former horse stable turned furniture showroom tur
 thumbnail: feldman-jh-2010-03-01.jpg
 
 images:
-- url: feldman-pawtlib-1994-01.jpg
-  caption: 'Photo from the Pawtucket Library, dated 1994 — Of particular interest is the other neon sign on the right (what would be the south west corner) which was missing by our photo in 2002'
-  alt: 'An irregularly shaped red brick building with white painted brick first floor commercial storefront. An ornate metal cornice tops its third story as well as a vertically oriented formr neon sign set on a chamfered corner. Ghost signs are on many faces of the building along with a carved sandstone marking at second floor level that says “How Do The Beasts Groan”'
-- url: feldman-jh-2006-02-01.jpg
-- url: feldman-jh-2009-02-01.jpg
-- url: feldman-jh-2009-02-02.jpg
-- url: feldman-jh-2009-02-03.jpg
-- url: feldman-jh-2009-02-04.jpg
-- url: feldman-jh-2009-02-05.jpg
-- url: feldman-jh-2010-03-01.jpg
-- url: feldman-jh-2010-03-02.jpg
-- url: feldman-jh-2010-03-03.jpg
-- url: feldman-jh-2010-03-04.jpg
-- url: feldman-jh-2010-03-05.jpg
-- url: feldman-jh-2014-11-01.jpg
+  - url: feldman-pawtlib-1994-01.jpg
+    alt: 'An irregularly shaped red brick building with white painted brick first floor commercial storefront. An ornate metal cornice tops its third story as well as a vertically oriented formr neon sign set on a chamfered corner. Ghost signs are on many faces of the building along with a carved sandstone marking at second floor level that says “How Do The Beasts Groan”'
+    caption: 'Photo from the Pawtucket Library, dated 1994 — Of particular interest is the other neon sign on the right (what would be the south west corner) which was missing by our photo in 2002'
+    sizes: '1440, 900'
+  - url: feldman-jh-2006-02-01.jpg
+    sizes: '1200, 900'
+  - url: feldman-jh-2009-02-01.jpg
+    sizes: '1200, 900'
+  - url: feldman-jh-2009-02-02.jpg
+    sizes: '1200, 900'
+  - url: feldman-jh-2009-02-03.jpg
+    sizes: '1200, 900'
+  - url: feldman-jh-2009-02-04.jpg
+    sizes: '1200, 900'
+  - url: feldman-jh-2009-02-05.jpg
+    sizes: '1200, 900'
+  - url: feldman-jh-2010-03-01.jpg
+    sizes: '1200, 900'
+  - url: feldman-jh-2010-03-02.jpg
+    sizes: '1200, 900'
+  - url: feldman-jh-2010-03-03.jpg
+    sizes: '1200, 900'
+  - url: feldman-jh-2010-03-04.jpg
+    sizes: '1200, 900'
+  - url: feldman-jh-2010-03-05.jpg
+    sizes: '1200, 900'
+  - url: feldman-jh-2014-11-01.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contribution from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157673949588005" target="_blank">Pawtucket Library on Flickr</a>'
 

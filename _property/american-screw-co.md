@@ -33,60 +33,87 @@ thumbnail: amerscrew-habs-1970-01.jpg
 
 images:
   - url: amerscrew-litho-1886.jpg
-    caption: 'Lithograph reproduction of American Screw Complex, including Eagle Mill, circa 1886'
     alt: 'A collection of three and four story red-brick and stone mill buildings with central stairtowers. The larger mills have pithed roofs, some with clerstory windows, while other have mansard roofs. A street runs through the center of the main mills.'
+    caption: 'Lithograph reproduction of American Screw Complex, including Eagle Mill, circa 1886'
+    sizes: '1181, 900'
   - url: Letterhead-from-Ebay-1883.png
     caption: 'Company letterhead from 1883'
+    sizes: '1196, 1023'
   - url: John-Gannon-via-Facebook.jpg
     caption: 'Cover of a large box of assorted screws from John Gannon'
-  - url: 'amerscrew-ppl-1930c.jpg'
+    sizes: '586, 1124'
+  - url: amerscrew-ppl-1930c.jpg
     caption: 'Rhode Island Mills and Mill Villages Photograph Collection, Providence Public Library'
+    sizes: '1200, 960'
   - url: amerscrew-ppl-1955c.jpg
     caption: 'A closeup of an aerial photo taken during the redevelopment of West River Street, circa 1955 — Rhode Island Photograph Collection, Providence Public Library'
+    sizes: '731, 549'
   - url: amerscrew-ppl-1965c-01.jpg
-    caption: 'Newspaper clipping from the John Hutchins Cady Research Scrapbooks Collection at Providence Public Library, circa 1965. Notice the “American Screw Company” sign, which is why we date the photo pre-1970 — signage is not present in the Library of Congress photos'
+    caption: 'Newspaper clipping from the John Hutchins Cady Research Scrapbooks Collection at Providence Public Library, circa 1965. Notice the “American Screw Company” sign, which is why we date the photo pre-1970 — signage is not present in the Library of Congress photos'
+    sizes: '975, 1024'
   - url: amerscrew-habs-1970-01.jpg
     caption: 'Complex looking east, Bay State building on left. Building 1 in middle, roof line and tower of building 2 visible to right, building 2 boiler house on extreme right. “Canal House” commercial/residential building (not part of American Screw complex) in foreground at 125-127 Charles Street alongside “Hope Cycle and Auto Supply” at 137 Charles Street.'
+    sizes: '1600, 900'
   - url: amerscrew-habs-1970-02.jpg
     caption: 'Complex looking east, Bay State building on left with Stevens Street running through the middle. Building 1 in foreground on left.'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-03.jpg
     caption: 'Bay State Mill, built 1873, Stevens Street.'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-04.jpg
     caption: 'Building 6, 1850, on left (21 Stevens), with Building 1, 1840, (Admiral Radios/Televisions/Refrigerators) on right at the corner of Hewes and Stevens Streets. Notice that bell tower top is gone from Building 1 as compared to the photo circa 1965'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-05.jpg
     caption: 'South east corners of building 1 (foreground) and Bay State building (background).'
+    sizes: '900, 900'
   - url: amerscrew-habs-1970-06.jpg
     caption: 'South east corner of building 1 addition. Bridge to building 6 visible upper right.'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-07.jpg
     caption: 'Addition to building 1 south west corner.'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-08.jpg
     caption: 'Detail of the curve part of the Building 1 south addition.'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-09.jpg
     caption: 'Building 6, east end of building 1 on left, from the roof of the Building 1 southern extension.'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-10.jpg
     caption: 'Roofs of buildings 1, (right) 6 (left) and 2 (background), from the roof of Building 1'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-11.jpg
     caption: 'Building 1, tower of Bay State Mill in background, from the roof of Building 6.'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-12.jpg
     caption: 'Building 1, smokestack, and southern addition (1869) on left.'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-13.jpg
     caption: 'West sides of building 2 & boiler house.'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-14.jpg
     caption: 'Complex from southeast; building 2 to left, buildings 6 and 1 in center, wooden warehouse in right foreground, Bay State building in upper right.'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-15.jpg
     caption: 'East end of southern addition to Building 1, 3rd floor.'
+    sizes: '1260, 900'
   - url: amerscrew-habs-1970-16.jpg
     caption: 'Framing below skylights in building 6.'
+    sizes: '1260, 900'
   - url: amerscrew-cs-1971-08-01.jpg
     caption: '“Randal Square Mills After Fire (1971)”, Chester Smolski image collection, Rhode Island College'
+    sizes: '1440, 900'
   - url: amerscrew-rendering-1972.jpg
     caption: 'Architectural renovation rendering by Karen Noel. View is to the south at the intersection of Stevens and Charles streets.'
+    sizes: '1155, 900'
   - url: amerscrew-aerial-1899-1997.jpg
     caption: 'Providence Historic Aerial Viewer 1997 with a 1899 Sanborn Map overlay'
+    sizes: '1440, 900'
   - url: amerscrew-aerial-1937-1997.jpg
     caption: 'Providence Historic Aerial Viewer 1997 with a 1937 Sanborn Map overlay'
+    sizes: '1440, 900'
   - url: amerscrew-aerial-1970-1997.jpg
     caption: 'Providence Historic Aerial Viewer 1997 with a 1970 schematic of the complex from the National Register nomination'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the National Register nomination forms, photos by Laurence Tilley; <a href="//provlibdigital.org/islandora/object/islandora%3A26598" target="_blank">Aerial</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A276" target="_blank">Mill Photo</a>, and <a href="//provlibdigital.org/islandora/object/islandora%3A5298" target="_blank">John Hutchins Cady</a>, from Providence Public Library; <a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>; and Architectural drawing by Karen Noel.'
 ---

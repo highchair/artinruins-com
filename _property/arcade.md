@@ -34,33 +34,47 @@ thumbnail: arcade-habs-1958-exterior.jpg
 
 images:
   - url: arcade-ppl-jhcrsc-northwest.jpg
-    caption: 'Early illustration of the north west façade — John Hutchins Cady Research Scrapbook collection, Providence Public Library'
     alt: 'A three story granite structure 200 feet long by 90 feet wide with two symmetrical street entrances, one on Westminster Street and one on Weybosset. The interior is a ground floor retail level with two levels of gangways open to a central atrium'
+    caption: 'Early illustration of the north west façade — John Hutchins Cady Research Scrapbook collection, Providence Public Library'
+    sizes: '1440, 900'
   - url: arcade-ppl-jhcrsc-engraving-southeast.jpg
-    caption: 'Early illustration of the south east façade — John Hutchins Cady Research Scrapbook collection, Providence Public Library'
+    caption: 'Early illustration of the south east façade — John Hutchins Cady Research Scrapbook collection, Providence Public Library'
+    sizes: '1440, 900'
   - url: arcade-ppl-postcard-northwest.jpg
-    caption: 'Postcard of the north west façade — Rhode Island Postcard collection, Providence Public Library'
+    caption: 'Postcard of the north west façade — Rhode Island Postcard collection, Providence Public Library'
+    sizes: '1430, 900'
   - url: arcade-ppl-postcard-southeast.jpg
-    caption: 'Postcard of the south east façade — Rhode Island Postcard collection, Providence Public Library'
+    caption: 'Postcard of the south east façade — Rhode Island Postcard collection, Providence Public Library'
+    sizes: '1430, 900'
   - url: arcade-ppl-postcard-interior.jpg
     caption: 'Postcard of the interior dated 1901 — Rhode Island Postcard collection, Providence Public Library'
+    sizes: '1406, 900'
   - url: arcade-ppl-postcard-northwest-street.jpg
-    caption: 'Postcard of the north west façade and down Westminster St towards Dorrance — Rhode Island Postcard collection, Providence Public Library'
+    caption: 'Postcard of the north west façade and down Westminster St towards Dorrance — Rhode Island Postcard collection, Providence Public Library'
+    sizes: '1411, 900'
   - url: arcade-ppl-photo-northwest-01.jpg
-    caption: 'Photo of the north west façade — Rhode Island Photo collection, Providence Public Library'
+    caption: 'Photo of the north west façade — Rhode Island Photo collection, Providence Public Library'
+    sizes: '1152, 900'
   - url: arcade-ppl-photo-southeast-01.jpg
-    caption: 'Photo of the south east façade — Rhode Island Photo collection, Providence Public Library'
+    caption: 'Photo of the south east façade — Rhode Island Photo collection, Providence Public Library'
+    sizes: '1375, 859'
   - url: arcade-natreg-1925-northwest.jpg
     caption: 'North west facade, property of the National Register of Historic Places, 1925'
+    sizes: '1125, 900'
   - url: arcade-natreg-1944-aerial.jpg
     caption: 'Aerial view of skylights property of the National Register of Historic Places, 1944'
+    sizes: '768, 924'
   - url: arcade-habs-1958-exterior.jpg
-    caption: 'Photo of the south east façade from a northern perspective, corner of Hay and Westminster Streets, taken 1958 — Historic American Building Survey/Historic American Engineering Record'
+    caption: 'Photo of the south east façade from a northern perspective, corner of Hay and Westminster Streets, taken 1958 — Historic American Building Survey/Historic American Engineering Record'
+    sizes: '1260, 900'
   - url: arcade-habs-1958-exterior-detail.jpg
     caption: 'Detail of the previous image to show signage. The Arcade at this time was owned by the Rhode Island Association For the Blind'
+    sizes: '1260, 900'
   - url: arcade-habs-1958-interior.jpg
     caption: 'Interior of the arcade, 1958 — Historic American Building Survey/Historic American Engineering Record'
+    sizes: '1260, 900'
   - url: arcade-jh-2003-10-01.jpg
+    sizes: '895, 600'
 
 imagescredit: 'Contributions from the Providence Public Library — John Hutchins Cady Research Scrapbook collection (<a href="//provlibdigital.org/islandora/object/islandora%3A5427" target="_blank">north west,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A5918" target="_blank">south east</a>), Rhode Island Postcard collection (<a href="//provlibdigital.org/islandora/object/islandora%3A20299" target="_blank">interior,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A20266" target="_blank">north west,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A5918" target="_blank">south east</a>), Rhode Island Photo collection (<a href="//provlibdigital.org/islandora/object/islandora%3A15025" target="_blank">north west,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12666" target="_blank">south east</a>); HABS/HAER and the Library of Congress (<a href="//www.loc.gov/item/ri0135/" target="_blank">collection of two images</a>)'
 

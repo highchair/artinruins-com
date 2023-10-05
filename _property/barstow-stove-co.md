@@ -35,41 +35,65 @@ thumbnail: barstow-stove-jh-2020-12-01.jpg
 images:
   - url: barstow-stove-jh-2006-06-01.jpg
     alt: 'A detailed description of these buildings is contained in the historical descriptions, the History section'
+    sizes: '1200, 900'
   - url: barstow-stove-jh-2015-10-01.jpg
+    sizes: '1600, 900'
   - url: barstow-stove-jh-2015-10-02.jpg
+    sizes: '1440, 900'
   - url: barstow-stove-jh-2015-10-03.jpg
+    sizes: '1600, 900'
   - url: barstow-stove-jh-2015-10-04.jpg
+    sizes: '740, 1036'
   - url: barstow-stove-jh-2015-10-05.jpg
+    sizes: '1600, 900'
   - url: barstow-stove-jh-2015-10-06.jpg
+    sizes: '1440, 900'
   - url: barstow-stove-jh-2015-10-07.jpg
+    sizes: '740, 1036'
   - url: barstow-stove-jh-2015-10-08.jpg
+    sizes: '1440, 900'
   - url: barstow-stove-jh-2017-04-01.jpg
+    sizes: '1440, 900'
   - url: barstow-stove-jh-2017-04-02.jpg
+    sizes: '1440, 900'
   - url: barstow-stove-jh-2020-12-01.jpg
+    sizes: '1440, 900'
   - url: barstow-stove-jh-2020-12-02.jpg
+    sizes: '1440, 900'
   - url: barstow-stove-jh-2020-12-03.jpg
+    sizes: '1200, 900'
   - url: barstow-stove-jh-2020-12-04.jpg
     caption: 'Notice the exposed bit of wooden cornice (?) peeking out from under the copper in the inside corner between these two buildings'
+    sizes: '1440, 900'
   - url: barstow-stove-jh-2020-12-05.jpg
+    sizes: '1440, 900'
   - url: barstow-stove-jh-2020-12-06.jpg
+    sizes: '1600, 900'
   - url: 1908-lj-richards-plate2-01.jpg
-    caption: '1908 L.J. Richards map, plate 2 — private collection'
+    caption: '1908 L.J. Richards map, plate 2 — private collection'
+    sizes: '1440, 900'
   - url: 1920-sanborn-v1-p32-01.jpg
-    caption: '1920–1921 Sanborn Insurance Map, Volume 1, Plate 32 — Library of Congress, Geography and Map Division, Sanborn Maps Collection.'
+    caption: '1920–1921 Sanborn Insurance Map, Volume 1, Plate 32 — Library of Congress, Geography and Map Division, Sanborn Maps Collection.'
+    sizes: '1440, 900'
   - url: 1937-gm-hopkins-p6-01.jpg
-    caption: '1937 G.M. Hopkins insurance map — HistoricMapWorks.com'
+    caption: '1937 G.M. Hopkins insurance map — HistoricMapWorks.com'
+    sizes: '1440, 900'
   - url: 1951-sanborn-v1-p32-01.jpg
-    caption: '1920–1951 Sanborn Insurance Map, Volume 1, Plate 32 — Library of Congress, Geography and Map Division, Sanborn Maps Collection.'
+    caption: '1920–1951 Sanborn Insurance Map, Volume 1, Plate 32 — Library of Congress, Geography and Map Division, Sanborn Maps Collection.'
+    sizes: '1440, 900'
   - url: 1956-sanborn-v1-p32-01.jpg
-    caption: '1920–1956 Sanborn Insurance Map, Volume 1, Plate 32 — Library of Congress, Geography and Map Division, Sanborn Maps Collection.'
+    caption: '1920–1956 Sanborn Insurance Map, Volume 1, Plate 32 — Library of Congress, Geography and Map Division, Sanborn Maps Collection.'
+    sizes: '1440, 900'
   - url: 1962-aerial-01.jpg
     caption: '1962 Providence Historical Aerial Viewer'
+    sizes: '1440, 900'
   - url: 1997-aerial-01.jpg
     caption: '1997 Providence Historical Aerial Viewer'
+    sizes: '1440, 900'
 
 mostrecentimage: 2020-12-01
 
-imagescredit:
+imagescredit: 'Contributions from the Library of Congress, Geography and Map Division'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

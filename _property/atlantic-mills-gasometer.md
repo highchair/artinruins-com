@@ -33,27 +33,42 @@ thumbnail: gasometer-adw-2019-01.jpg
 
 images:
   - url: gasometer-jh-2004-09-08.jpg
+    sizes: '768, 924'
   - url: gasometer-jh-2004-09-06.jpg
+    sizes: '1200, 900'
   - url: gasometer-jh-2004-09-07.jpg
+    sizes: '1200, 900'
   - url: gasometer-jh-2004-09-02.jpg
+    sizes: '1200, 900'
   - url: gasometer-jh-2004-09-03.jpg
+    sizes: '1200, 900'
   - url: gasometer-jh-2004-09-04.jpg
+    sizes: '1200, 900'
   - url: gasometer-jh-2004-09-05.jpg
+    sizes: '1200, 900'
   - url: gasometer-jh-2004-09-01.jpg
+    sizes: '1200, 900'
   - url: gasometer-hive-2007-04-02.jpg
     caption: 'Hive Archive, Flickr, April 2007'
+    sizes: '900, 600'
   - url: gasometer-hive-2007-04-01.jpg
     caption: 'Hive Archive, Flickr, April 2007'
+    sizes: '900, 600'
   - url: gasometer-hive-2010-04-03.jpg
     caption: 'Hive Archive, Flickr, April 2010'
+    sizes: '1200, 800'
   - url: gasometer-hive-2010-04-02.jpg
     caption: 'Hive Archive, Flickr, April 2010'
+    sizes: '1200, 800'
   - url: gasometer-hive-2010-04-01.jpg
     caption: 'Hive Archive, Flickr, April 2010'
+    sizes: '1200, 800'
   - url: gasometer-jrr2000-2014-08-01.jpg
     caption: 'User JR2000, Flickr, August 2014'
+    sizes: '1200, 900'
   - url: gasometer-adw-2019-01.jpg
     caption: 'Photo from the Atlantic Designworks website'
+    sizes: '1440, 900'
 
 mostrecentimage: 2019-01-01
 

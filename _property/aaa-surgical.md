@@ -5,9 +5,9 @@ aka:
 date-modified: 2020-05-02 21:52
 
 built: 1950s?
-demolition: 2005
+demolition: '2005'
 decade: '1950-1959'
-date-added: 2004
+date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Federal Hill' ]
 town: [ 'Providence, RI' ]
@@ -26,15 +26,23 @@ excerpt: "A simple art-deco-inspired mid-century storefront in Federal Hill demo
 images:
   - url: aaa-surgical-01.jpg
     alt: 'A two-story red brick building with a glass commercial storefront on the first floor. Floor plan seems basically square with an offset first floor entrance on the right side. The second story windows have been filled with glass block and a few windows in these photos are boarded up.'
+    sizes: '1200, 900'
   - url: aaa-surgical-02.jpg
+    sizes: '1200, 900'
   - url: aaa-surgical-03.jpg
+    sizes: '800, 1067'
   - url: aaa-surgical-04.jpg
+    sizes: '1200, 900'
   - url: aaa-surgical-05.jpg
+    sizes: '1200, 900'
   - url: aaa-surgical-06.jpg
+    sizes: '800, 1067'
   - url: aaa-surgical-07.jpg
+    sizes: '800, 1067'
   - url: aaa-surgical-08.jpg
+    sizes: '1200, 900'
 
-imagescredit:  
+imagescredit:
 ---
 
 ### Reason For Demolition
