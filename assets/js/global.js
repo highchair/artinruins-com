@@ -19,11 +19,6 @@ DOMElement.addEventListener('click',callback);},removeBanner:function(wait){var 
 // Set up the Cookie Consent Banner
 new CookiesEuBanner(function () {
   window.dataLayer = window.dataLayer || [];
-  function gtagUA(){dataLayer.push(arguments);}
-  gtagUA('js', new Date());
-  gtagUA('config', 'UA-817925-2');
-
-  window.dataLayer = window.dataLayer || [];
   function gtag4(){dataLayer.push(arguments);}
   gtag4('js', new Date());
   gtag4('config', 'G-17D4B0M6BN');
