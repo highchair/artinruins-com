@@ -92,7 +92,7 @@ imagescredit: 'Most photos by Frank Murphy.'
 
 ### Redevelopment
 
-In 1985, the Park Theatre was a second-run movie theatre, playing popular films that audiences still craved after the first-run cinemas were done with them. They were in good company with other local second-run theaters like the Meadowbrook Theater in Warwick; the Castle in Providence; and the Kent Theater, Greenwich Theater and the Hilltop Drive-In Theatre in East Greenwich. [^1] Some second-run theaters continued to make enough money to stay open into the early 2000s, if the owner was careful about running films that were popular enough to continue to be a draw weeks after their initial release or showing independent films that the large complexes won’t touch. 
+In 1985, the Park Theatre was a second-run movie theatre, playing popular films that audiences still craved after the first-run cinemas were done with them. They were in good company with other local second-run theaters like the Meadowbrook Theater in Warwick; the Castle in Providence; and the Kent Theater, Greenwich Theater and the Hilltop Drive-In Theatre in East Greenwich.[^1] Some second-run theaters continued to make enough money to stay open into the early 2000s, if the owner was careful about running films that were popular enough to continue to be a draw weeks after their initial release or showing independent films that the large complexes won’t touch.
 
 [^1]: HARPE, JACKLEEN deLa. “The second time around ‘Suburban’ theaters give movie fans what they want - for a lot less.” Providence Journal (RI), WEST BAY ed., sec. WEST BAY, 28 Mar. 1985, pp. W-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525BF8A8574E960. Accessed 24 Dec. 2021.
 
@@ -100,13 +100,13 @@ In 1999, Piyush Patel purchased the Park. He owned 36 companies in New England a
 
 [^2]: Gesualdo, Nicole. “FAREWELL TO THE CHEAP SEATS… When it reopens: First-class, first-run.” Providence Journal (RI), West Bay ed., sec. News, 1 Mar. 2001, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152510C8C54388C0. Accessed 24 Dec. 2021.
 
-By early 2001, the Park underwent an extensive interior renovation. New seating, sound system, and wall-coverings modernized the experience.[^3] He planned to open back up in April or as late as Memorial Day, and the marquee said “See you in the Spring.” well into the Fall. By October, after missing a planned opening in September, Patel put the theater up for sale at a list price of $900,000. Roof and HVAC repairs were added to the list of items that needed attention during what was supposed to be an interior renovation. [^4] 
+By early 2001, the Park underwent an extensive interior renovation. New seating, sound system, and wall-coverings modernized the experience.[^3] He planned to open back up in April or as late as Memorial Day, and the marquee said “See you in the Spring.” well into the Fall. By October, after missing a planned opening in September, Patel put the theater up for sale at a list price of $900,000. Roof and HVAC repairs were added to the list of items that needed attention during what was supposed to be an interior renovation.[^4]
 
 [^3]: Ibid
 
 [^4]: ARSENAULT, MARK. “Storied Cranston movie house up for sale again.” Providence Journal (RI), All ed., sec. News, 13 Oct. 2001, pp. A-03. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15250B7D8A448270. Accessed 24 Dec. 2021.
 
-A few years passed with no buyers, and in May 2003 Patel announced a $1.3 million plan to transform the building’s three-theater interior into two — a dinner theater that seats about 150 patrons and an art-house theater with a capacity of about 600. True to 2003-buzzworthy retail planning, a “Cyber Cafe” was also planned.[^5] 
+A few years passed with no buyers, and in May 2003 Patel announced a $1.3 million plan to transform the building’s three-theater interior into two — a dinner theater that seats about 150 patrons and an art-house theater with a capacity of about 600. True to 2003-buzzworthy retail planning, a “Cyber Cafe” was also planned.[^5]
 
 [^5]: POLICHETTI, BARBARA. “Old theater may yet get a new life.” Providence Journal (RI), West Bay ed., sec. News, 12 May 2003, pp. B-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152509914DA879A8. Accessed 24 Dec. 2021.
 
@@ -133,7 +133,7 @@ The theater now has two floors with a finished basement for cast dressing rooms 
 
 ### Current Events
 
-Citing the impact of COVID-19 on large indoor gatherings, the Park has been closed since 2020 and recently came up for auction in the fall of 2021. See [News Story](#in-the-news).
+Citing the impact of COVID-19 on large indoor gatherings, the Park has been closed since 2020 and recently came up for auction in the fall of 2021. It is currently for sale. See [News Story](#in-the-news).
 
 
 ### History
@@ -152,6 +152,23 @@ By 1963, the owners were seeking permission to raze the building to make way for
 
 
 ### In the News
+
+#### Historic Park Theatre listed for sale
+
+_by Leah Crowley_  
+**Providence Journal** | October 2, 2023
+
+The future of the Park Theatre is uncertain as the historic building is now up for sale.
+
+MG Commercial is listing the Park Avenue property. The sale price is not disclosed in the listing.
+
+The theater is owned by former Cranston City Councilman Ed Brady and restaurateur Jeff Quinlan. Cranston City Councilman Robert Ferri said the pair currently owe the city $35,000 in back taxes and sewer fees.
+
+The city recently considered buying the theater to turn it into a community center, but Mayor Ken Hopkins decided against it.
+
+He said it would be too costly to both buy and renovate the theater, estimating that it would’ve cost roughly $6 million.
+
+***
 
 #### Former Cranston councilman stepping up to save the Park Theatre?
 
