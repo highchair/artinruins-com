@@ -16,10 +16,11 @@ designers: [ 'Armory Revival Company' ]
 lists: []
 tags: [ 'House' ]
 
-address: '2 Thomas Street, Providence RI'
+address: '2 Thomas St, Providence RI'
 latitude: '41.8276962'
 longitude: '-71.41111'
 gmap: "https://www.google.com/maps/place/2+Thomas+St,+Providence,+RI+02903/@41.8276962,-71.41111,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445179efa8db9:0x466e6f4d0b8c16cf!8m2!3d41.8276962!4d-71.4089213"
+street: [ 'North Main St' ]
 
 meta: ""
 excerpt: "4-story new construction marries a 2-story Greek Revival 150 years younger at the base of College Hill"

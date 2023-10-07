@@ -20,6 +20,7 @@ address: '1100 North Main Street, Providence RI'
 latitude: '41.8505237'
 longitude: '-71.4053613'
 gmap: "https://www.google.com/maps/place/1100+N+Main+St,+Providence,+RI+02904/@41.8505237,-71.4053613,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444c24aacfcb3:0xae773d7e5aa9c02d!8m2!3d41.8505237!4d-71.4031726"
+street: [ 'North Main St' ]
 
 meta: ""
 excerpt: "A local-chain tire and automotive parts outlet with four car-wide drive-through bays on a local retail corridor."

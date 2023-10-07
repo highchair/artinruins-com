@@ -25,6 +25,7 @@ address: '653 North Main St, Providence RI'
 latitude: '41.8384905'
 longitude: '-71.4112166'
 gmap: "https://www.google.com/maps/place/653+N+Main+St,+Providence,+RI+02904/@41.8384905,-71.4112166,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451fd5622f11:0xa1a5b5284f51bb02!8m2!3d41.8384905!4d-71.4090279"
+street: [ 'North Main St' ]
 
 meta: ""
 excerpt: "A 19th century former volunteer firehouse turned into commercial space on a busy urban corner"

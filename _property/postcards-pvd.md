@@ -23,7 +23,7 @@ address: ''
 latitude: ''
 longitude: ''
 gmap: ""
-street: [ 'Westminster St' ]
+street: [ 'Westminster St', 'North Main St' ]
 
 meta: ""
 excerpt: "A plethora of pithy postcard images from the turn of the century."

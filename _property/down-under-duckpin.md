@@ -16,10 +16,11 @@ designers: [ 'Designer Unknown' ]
 lists: [ 'North Main Street Commercial Corridor' ]
 tags: [ 'Needs History', 'Demolition by Fire' ]
 
-address: '615 Pawtucket Avenue, Pawtucket RI'
+address: '615 Pawtucket Ave, Pawtucket RI'
 latitude: '41.8570074'
 longitude: '-71.4021659'
 gmap: "https://www.google.com/maps/place/615+Pawtucket+Ave,+Pawtucket,+RI+02860/@41.8570074,-71.4021659,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444b8b44094c5:0xdec07465306f4e80!8m2!3d41.8570034!4d-71.3999719"
+street: [ 'North Main St' ]
 
 meta: ""
 excerpt: "Brilliant — park your car on top, bowl below. Unfortunately, it just wasn’t hip enough to survive waning interest before bowling made a resurgence"

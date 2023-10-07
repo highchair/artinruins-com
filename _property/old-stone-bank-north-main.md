@@ -5,10 +5,10 @@ aka:
 date-modified: 2020-06-24 18:00
 
 built: 
-demolition: 2009
+demolition: '2009'
 redeveloped: 
 decade:
-date-added: 2004
+date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
@@ -20,6 +20,7 @@ address: '1340 North Main Street, Providence RI'
 latitude: '41.8560174'
 longitude: '-71.4026579'
 gmap: "https://www.google.com/maps/place/1340+N+Main+St,+Providence,+RI"
+street: [ 'North Main St' ]
 
 meta: ""
 excerpt: "A rather small commercial storefront that was a branch bank for some time but abandoned for many years before eventual demolition."

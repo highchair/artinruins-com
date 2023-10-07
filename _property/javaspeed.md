@@ -16,10 +16,11 @@ designers: [ 'Designer Unknown' ]
 lists: []
 tags: [ 'Bars, Businesses, & Restaurants', 'Needs History' ]
 
-address: '1284 North Main Street, Providence RI'
+address: '1284 North Main St, Providence RI'
 latitude: '41.855296'
 longitude: '-71.4027172'
 gmap: "https://www.google.com/maps/place/1284+N+Main+St,+Providence,+RI+02904/@41.855296,-71.4027172,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444c0b6a9100f:0xd7e25bbe67d5db92!8m2!3d41.855296!4d-71.4005285"
+street: [ 'North Main St' ]
 
 meta: ""
 excerpt: "A local scooter sales and repair shop with a side of delicious expresso drinks"

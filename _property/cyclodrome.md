@@ -21,6 +21,7 @@ address: '50 Ann Mary Street, Pawtucket RI'
 latitude: '41.85611'
 longitude: '-71.4037581'
 gmap: "https://www.google.com/maps/search/maps.google.com+north+main+street/@41.85611,-71.4037581,17z"
+street: [ 'North Main St' ]
 
 meta: ""
 excerpt: "This property is actually a tale of three things — competitive cycling, a football stadium, and the Providence Steamroller"
