@@ -25,6 +25,7 @@ address: ''
 latitude: ''
 longitude: ''
 gmap: ""
+street: []
 
 meta: ""
 excerpt: ""

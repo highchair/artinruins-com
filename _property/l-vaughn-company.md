@@ -26,6 +26,7 @@ address: '1155 Westminster Street, Providence RI'
 latitude: '41.8174707'
 longitude: '-71.4299336'
 gmap: "https://www.google.com/maps/place/1155+Westminster+St,+Providence,+RI+02909/@41.8174707,-71.4299336,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44575d81058af:0xc2abd35457c734e1!8m2!3d41.8174667!4d-71.4277449"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "This three-story former lumber yard and wood working business has over a hundred years of history"

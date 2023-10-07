@@ -25,6 +25,7 @@ address: '270 Westminster Street, Providence RI'
 latitude: '41.8223735'
 longitude: '-71.4140845'
 gmap: "https://www.google.com/maps/place/270+Westminster+St,+Providence,+RI+02903/@41.8223735,-71.4140845,18z/data=!4m5!3m4!1s0x89e44513834aa24d:0xb374c60a17006c04!8m2!3d41.8223735!4d-71.4129902"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "A late 19th-century investment building used as commercial space for over 100 years recently turned into residential upper floors."

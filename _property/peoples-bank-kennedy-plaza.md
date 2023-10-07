@@ -25,6 +25,7 @@ address: '70 Kennedy Plaza, Providence RI'
 latitude: '41.8244013'
 longitude: '-71.4127296'
 gmap: "https://www.google.com/maps/place/70+Kennedy+Plaza,+Providence,+RI+02903/@41.8244013,-71.4127296,334m/data=!3m1!1e3!4m5!3m4!1s0x89e44516a9f60adf:0xeae3aacf1af388fd!8m2!3d41.8243973!4d-71.411635"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "A six-story early Moderne former bank lobby and upper-floor offices was redeveloped in fits and starts into residential apartments"

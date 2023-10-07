@@ -20,6 +20,7 @@ address: '1577 Westminster Street, Providence RI'
 latitude: '41.8162221'
 longitude: '-71.4380661'
 gmap: "https://www.google.com/maps/place/1577+Westminster+St,+Providence,+RI+02909/@41.8162221,-71.4380661,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459c81d716c9:0x46e8f986cc039027!8m2!3d41.8162221!4d-71.4358774"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "A WBNA project house built on the site of a former auto body business along bustling Westminster Street"

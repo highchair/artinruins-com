@@ -26,6 +26,7 @@ address: '111 Westminster St, Providence RI'
 latitude: '41.8243947'
 longitude: '-71.4108875'
 gmap: "https://www.google.com/maps/place/111+Westminster+St,+Providence,+RI+02903/@41.8243947,-71.4108875,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44516a4aa0dd7:0x7de811455a8a1ff3!8m2!3d41.8243947!4d-71.4108875"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "The iconic “Superman” building, the tallest in the state, might be close to getting a new life as residential apartments"

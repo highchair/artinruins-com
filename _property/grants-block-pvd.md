@@ -20,6 +20,7 @@ address: '177 Union St, Providence RI'
 latitude: '41.8223388'
 longitude: '-71.4148588'
 gmap: "https://www.google.com/maps/place/177+Union+St,+Providence,+RI+02903/@41.8223388,-71.4148588,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451383a0df85:0x5b5bcd4911651bfd!8m2!3d41.8223388!4d-71.4126701"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "A conglomeration of possibly six 1 to 3 story structures bounded by Westminster, Union, and Weybosset Streets razed in 2005 for a proposed parking garage"

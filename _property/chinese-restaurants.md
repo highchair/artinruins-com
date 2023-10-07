@@ -21,6 +21,7 @@ address: 'Various locations'
 latitude: ''
 longitude: ''
 gmap: ""
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "These three restaurants are a gateway to memories of mid-century immigrant restaurants and their impact on our taste buds."

@@ -26,6 +26,7 @@ address: '130 Westminster St, Providence RI (also 65 Weybosset)'
 latitude: '41.8241709'
 longitude: '-71.4112332'
 gmap: "https://www.google.com/maps/place/The+Arcade+Providence/@41.8241709,-71.4112332,167m/data=!3m3!1e3!4b1!5s0x89e44514222cf7a3:0xef84708a8e9f1508!4m5!3m4!1s0x89e445142198f60f:0xac3f2b5e6651f5ea!8m2!3d41.8241705!4d-71.410702"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "This over 190 year old structure survived 170 years as an indoor mall but now is a collection of retail and micro-loft styles residential condos"

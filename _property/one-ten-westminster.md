@@ -23,6 +23,7 @@ address: '110 Westminster Street, Providence RI'
 latitude: '41.824246'
 longitude: '-71.4126317'
 gmap: "https://www.google.com/maps/place/110+Westminster+St,+Providence,+RI+02903/@41.824246,-71.4126317,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445169e4ba73b:0x7331bdbad6cafba7!8m2!3d41.824246!4d-71.410443"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "The OneTen tower would have been the tallest building in Providence, and the tallest residential tower in New England at the time."

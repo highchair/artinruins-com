@@ -10,11 +10,11 @@ sitemap:
   changefreq: 'monthly'
 ---
 
-{% assign tags = "categories, town, neighborhoods, designers, lists, tags, decade, date-added, demolition" | split: ', ' %}
+{% assign tags = "categories, town, neighborhoods, designers, lists, tags, decade, date-added, demolition, street" | split: ', ' %}
 {% comment %}
   Forloop index starts at 1, arrays start at 0 — therefore add a blank spot
 {% endcomment %}
-{% assign pretty_tags = "blank, Categories, Town or State, Providence neighborhoods, Designers and Developers, Lists, Tags, Decade built, Date added, Date of demolition" | split: ', ' %}
+{% assign pretty_tags = "blank, Categories, Town or State, Providence neighborhoods, Designers and Developers, Lists, Tags, Decade built, Date added, Date of demolition, Streets" | split: ', ' %}
 
 {% for tag in tags %}
   {%- assign pages = site.pages | where: 'type', tag -%}

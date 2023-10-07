@@ -23,6 +23,7 @@ address: '1380 Westminster, Providence RI '
 latitude: '41.8163804'
 longitude: '-71.4331312'
 gmap: "https://www.google.com/maps/place/West+Side+Diner/@41.8163804,-71.4331312,17z/data=!4m13!1m7!3m6!1s0x89e4451322501997:0x9d11a390fd1cd09e!2s380+Westminster+St,+Providence,+RI+02903!3b1!8m2!3d41.8211299!4d-71.414581!3m4!1s0x89e4459da5238ba1:0x7be7dfdc812940ec!8m2!3d41.8163338!4d-71.4320272"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "This 70-year-old diner car sat on blocks for 10 years before being restored and reopened as a classic breakfast and lunch diner"

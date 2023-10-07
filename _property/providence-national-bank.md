@@ -23,6 +23,7 @@ address: '90 Westminster Street, Providence RI'
 latitude: '41.8244922'
 longitude: '-71.4125834'
 gmap: "https://www.google.com/maps/place/90+Westminster+St,+Providence,+RI+02903/@41.8244922,-71.4125834,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44516993795f1:0xc88a1d682a2c0568!8m2!3d41.8244922!4d-71.4103947"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "A neo-Georgian building that was home to the original home to the Providence National Bank Company. Razed for a proposed hotel that was never built."

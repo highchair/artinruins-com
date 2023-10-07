@@ -25,6 +25,7 @@ address: '210-216 Westminster St, Providence RI'
 latitude: '41.8231624'
 longitude: '-71.4128164'
 gmap: "https://www.google.com/maps/place/210+Westminster+St,+Providence,+RI+02903/@41.8231624,-71.4128164,18z/data=!4m5!3m4!1s0x89e44514750df80f:0x5c8d837e4b8327d0!8m2!3d41.8231065!4d-71.4120117"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "A small, five-story commercial building that underwent a modern renovation into 12 apartments on a busy downtown street"

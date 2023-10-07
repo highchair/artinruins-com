@@ -24,6 +24,7 @@ address: '139 Mathewson St, Providence RI'
 latitude: '41.8224355'
 longitude: '-71.4151855'
 gmap: "https://www.google.com/maps/place/Hotel+Providence/@41.8224355,-71.4151855,18z/data=!3m1!4b1!4m8!3m7!1s0x89e44513a782eae1:0x42c0f23fa00408e1!5m2!4m1!1i2!8m2!3d41.8224335!4d-71.4140912"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "Two 19th-century commercial buildings come together to create a unique hotel with historic character"

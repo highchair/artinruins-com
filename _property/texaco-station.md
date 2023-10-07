@@ -23,6 +23,7 @@ address: '1560 Westminister St, Providence RI'
 latitude: '41.8158499'
 longitude: '-71.4376214'
 gmap: "https://www.google.com/maps/place/1560+Westminster+St,+Providence,+RI+02909/@41.8158499,-71.4376214,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459c84f2989b:0x935f959c147286eb!8m2!3d41.8158499!4d-71.4354327"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "A present-day example of early car service culture — white enamelled panels with bright green and red accents and an utilitarian design"

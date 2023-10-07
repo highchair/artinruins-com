@@ -23,6 +23,7 @@ address: '1029 Westminster Street, Providence RI'
 latitude: '41.81734'
 longitude: '-71.4277483'
 gmap: "https://www.google.com/maps/place/1029+Westminster+St,+Providence,+RI+02903/@41.81734,-71.4277483,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4457421fa911f:0x3d6d897e7f27fa1e!8m2!3d41.81734!4d-71.4255596"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "Four residential units plus retail in a industrial chic box added density to the West Side in 2007."

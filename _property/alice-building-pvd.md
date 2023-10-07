@@ -25,6 +25,7 @@ address: '236-250 Westminster St, Providence RI'
 latitude: '41.8228045'
 longitude: '-71.4124497'
 gmap: "https://www.google.com/maps/place/The+Alice+Building/@41.8228045,-71.4124497,15z/data=!4m5!3m4!1s0x0:0xa9b1396cf0be82d2!8m2!3d41.8228045!4d-71.4124497"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "A square, seven story commercial building converted to apartments in the early aughts — a frontrunner to the downtown residential boom"

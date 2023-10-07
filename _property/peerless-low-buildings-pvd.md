@@ -28,6 +28,7 @@ address: '150 Union St, Providence RI'
 latitude: '41.8230628'
 longitude: '-71.4151648'
 gmap: "https://www.google.com/maps/place/Peerless+Lofts/@41.8230628,-71.4151648,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44513c74bc97b:0x26965e4f6962a5f9!8m2!3d41.8230628!4d-71.4129761"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "A former department store turned rock club venue turned loft apartments whose conversion contributed to making Downtown Providence bustle again"

@@ -26,6 +26,7 @@ address: '15 Westminster Street, Providence RI'
 latitude: '41.8253435'
 longitude: '-71.4116487'
 gmap: "https://www.google.com/maps/place/15+Westminster+St,+Providence,+RI+02903/@41.8253435,-71.4116487,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44573c411eb4f:0xf50a69928445e0b5!8m2!3d41.8253435!4d-71.40946"
+street: [ 'Westminster St' ]
 
 meta: ""
 excerpt: "A former high-art-style consumer banking lobby and offices becomes a 56,000 sf art library and housing for 500 students"
