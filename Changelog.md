@@ -6,7 +6,8 @@ Tracking design (theme) changes, not content changes
 ## 2023-10-06
 
 Added
-+ Added streets as another category. Will only do major streets with many properties on them.
++ Added streets as another category. Will only do major streets with many properties on them
++ Added jump links to the All Tags page
 
 ## 2023-09-05
 
