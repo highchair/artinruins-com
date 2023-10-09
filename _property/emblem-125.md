@@ -2,8 +2,8 @@
 title: "Emblem 125"
 slug: emblem-125
 aka:
-date-modified: 2023-04-12 12:00
-update: 'Added four recent photos from March 2023 of the almost completed structure'
+date-modified: 2023-10-08 13:00
+update: 'Added a photo from September 2023 of the completed structure looking north'
 update-image: emblem-125-jh-2023-03-01.jpg
 
 built: '2020–2022'
@@ -66,7 +66,8 @@ images:
     sizes: '1440, 900'
   - url: emblem-125-jh-2023-03-04.jpg
     sizes: '740, 1036'
-  
+  - url: emblem-125-jh-2023-09-01.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2023-03-01
 

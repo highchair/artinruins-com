@@ -2,9 +2,9 @@
 title: 'Almira P. Allen House'
 slug: 312-wickenden-st
 aka: 'The Blue Elephant, The Duck & Bunny'
-date-modified: 2023-09-21 12:00
-update: 'Added four new olkd photos from the recently released PPS Slides Collection'
-update-image: 312-wickenden-pps-slides-before-1985-01.jpg
+date-modified: 2023-10-08 12:00
+update: 'Added two new photos of the still empty lot'
+update-image: 312-wickenden-jh-2023-08-02.jpg
 
 built: 'circa 1830, perhaps 1790'
 demolition: '2021'
@@ -78,6 +78,10 @@ images:
     sizes: '1200, 900'
   - url: duck-bunny-jh-2021-04-06.jpg
     sizes: '1200, 900'
+  - url: 312-wickenden-jh-2023-08-01.jpg
+    sizes: '1200, 900'
+  - url: 312-wickenden-jh-2023-08-02.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions from the Providence Preservation Society <a href="//gowdey.ppsri.org" target="_blank">Gowdey Database</a> and <a href="//drive.google.com/drive/folders/1Xi-yKUiaB9cl5kZkhoEgv5PGGTCrn1kN?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">Slides Collection</a>, Google Streetview, and Mike Ferguson'
 
@@ -108,7 +112,7 @@ A statement from Councilman, Ward 1, John Goncalves:
 
 ### Current Events
 
-While the news story below says that the owners “intend to rebuild 312 Wickenden as closely as they can manage” is has been more than two years and there has been no activity at the site. In 2023, there is still an unfilled hole and parts of the stairs in place at the site.
+While the news story below says that the owners “intend to rebuild 312 Wickenden as closely as they can manage” is has been more than two years and there has been no activity at the site. In August 2023, there is still an unfilled hole and parts of the stairs in place at the site.
 
 
 ### History
