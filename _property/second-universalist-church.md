@@ -97,6 +97,8 @@ _From a Providence Online crossword puzzle, 2012, by John Taraborelli_
 
 [**A.I.R.**: Other accounts mention that the landlord wanted them out so the building could more easily become condos.]
 
+***
+
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
 151 Weybosset **Second Universalist Church** (1847-49): Romanesque Revival, 3 1⁄2-story, brick structure with end-gable roof; 20th-century storefronts; 2nd-story windows infilled, five round head windows with voussoirs and connecting imposts on third story, centered round-head window with tracery flanked by two lunette windows below date stone in attic; simple corbel cornice; irregular fenestration on Eddy Street elevation.
