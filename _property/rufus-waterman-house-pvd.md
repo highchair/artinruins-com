@@ -48,8 +48,12 @@ images:
     sizes: '1440, 900'
   - url: 108-110-waterman-jh-2023-08-06.jpg
     sizes: '1200, 900'
+  - url: 108-110-waterman-jh-2023-10-01.jpg
+    sizes: '740, 1036'
+  - url: 108-110-waterman-jh-2023-10-01.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2021-07-01
+mostrecentimage: 2023-10-01
 
 imagescredit: 'Contribution from the <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>'
 
