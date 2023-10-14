@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: []
-tags: [ 'Apartments for Rent', 'Contemporary' ]
+tags: [ 'Apartments for Rent', 'Contemporary', 'Darkitecture' ]
 
 address: '134 Waterman St, Providence RI'
 latitude: '41.827781'

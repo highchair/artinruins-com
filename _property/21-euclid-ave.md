@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [] # Michie Design & Build
 people: []
 lists: []
-tags: [ 'Contemporary' ]
+tags: [ 'Contemporary', 'Darkitecture' ]
 
 address: '21 Euclid Ave, Providence RI'
 latitude: '41.8285627'
