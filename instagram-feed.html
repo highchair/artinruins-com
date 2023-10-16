@@ -43,11 +43,15 @@ sitemap:
     </div>
     <div class="taxonomy__colwrap">
       <div class="taxonomy__title-wrap">
-        <h2 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}property/{{ item.slug }}" class="taxonomy__link">{{ item.title }}</a></h2>
+        <h2 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}/property/{{ item.slug }}" class="taxonomy__link">{{ item.title }}</a></h2>
       </div>
       <p class="taxonomy__excerpt">
       {%- if item.categories contains '#DemolitionAlert' -%}
+        {%- if item.update -%}
         {{ item.update }}
+        {%- else -%}
+        {{ item.excerpt }}
+        {%- endif -%}
       {%- else -%}
         {{ item.excerpt }}
       {%- endif -%}

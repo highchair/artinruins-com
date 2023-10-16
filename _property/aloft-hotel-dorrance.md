@@ -90,7 +90,7 @@ Most interesting to us is the fact that this parcel has been undeveloped since t
 
 As seen in [the News piece by William Morgan](#in-the-news), some architectural critics think this building is a dud while [the nearby Wexford Center]({% link _property/wexford-innovation-center.md %}) is a modern masterpieces. Aesthetics are subjective, of course, but we understand where Mr. Morgan is finding his criticism. 
 
-To us, the original renderings were more interesting. The contrast of materials, the boxiness of the main form, the little pops of color were a more interesting approach than this bland approach to pseudo-industrial design. What was the idea for the red vertical cladding? It's sort of interesting, and admittedly more intersting than many other hotels that are proposed for Providence, but as the only bit of interest on the building it is not strong enough of an idea. 
+To us, the original renderings were more interesting. The contrast of materials, the boxiness of the main form, the little pops of color were a more interesting approach than this bland approach to pseudo-industrial design. What was the idea for the red vertical cladding? It's sort of interesting, and admittedly more interesting than many other hotels that are proposed for Providence, but as the only bit of interest on the building it is not strong enough of an idea. 
 
 What we do agree with, and lament, is Mr. Morgan’s last point: 
 
