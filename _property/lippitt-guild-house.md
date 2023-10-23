@@ -82,9 +82,7 @@ imagescredit: 'Most photos contributed by Frank Mullin'
 
 The Peter Green House at Brown University was moved approximately 450 feet in one piece, from 142 Angell Street to 79 Brown Street, during a three-day moving process that began on Tuesday, July 31, 2007 and ended on August 2, 2007. The 300-ton house was one of the largest undertakings of the University’s 26 home-move projects. The relocation of the Peter Green House creates one of the open green spaces of The Walk, a series of linked open spaces and walking paths between the Pembroke Campus and Lincoln Field.
 
-<div style="padding-bottom:75%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/x3yd9dTPKU4" style="position:absolute; top:0; left: 0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+{% include video-embed.html id='x3yd9dTPKU4' %}
 
 The house move preparations included removal of existing basement mechanical equipment as well as structural modifications to free the structure from the existing foundations. Construction crews supported the existing structures on wood cribbing and steel beams. The house mover placed hydraulic jacks under the beams and raised the house off of its existing foundations and transferred the loads to wheeled dollys. The house was pulled from the existing foundations, into Olive Street, rotated 90 degrees, and dragged up Olive Street to its new location. The structure was lowered onto its new foundation and restoration and renovation work continued until spring 2008.
 

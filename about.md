@@ -11,6 +11,13 @@ sitemap:
   changefreq: 'monthly'
 ---
 
+## 4 minute explainer
+
+{% include video-embed.html id='Gu3k2ZGeNO4' %}
+
+
+## Background
+
 To quote from “The Urban Mill Restoration and Tax Exemption Act”, introduced in February, 2002 by the RI General Assembly:
 {: .o__drop-cap }
 
@@ -56,9 +63,9 @@ We have been documenting the region since 2002 and collecting the histories that
 
 ## Press, Contributions, & Awards
 
-+ Award: _Antoinette F. Downing Volunteer Award_ Rhody Awards for Historic Preservation, 2023
++ Award: _Antoinette F. Downing Volunteer Award_, Rhody Awards for Historic Preservation, 2023
 + Presentation: _ArtInRuins: Our History, significant Saves, significant Losses, and the Future_, for the East Greenwich Historic Preservation Society, April 2023. [Archived on YouTube](//www.youtube.com/watch?v=ELvzJEn1dE0){:target="_blank"}
-+ Article: _Architectural Excavation_, **Providence**, November 2022, p11
++ Article: _Architectural Excavation_, **Providence Monthly**, November 2022, p11
 + Article: _Architectural Excavation_, Abbie Lahmers, **Hey Rhody**, October 2022, p14
 + _“RIGOR MORTAR: In Conversation With J Hogue,”_ Ben Berke, **The College Hill Independent**, December 4, 2015. [www.theindy.org/753](//www.theindy.org/753){:target="_blank"}
 + Article: _Designers Come Together in Renovated mini-Arcade_, Natalie Myers, **Providence Business News**, January 2007

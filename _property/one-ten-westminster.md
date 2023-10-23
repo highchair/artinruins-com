@@ -59,7 +59,7 @@ Lloyd Granoff, of Providence, is chairman of the Providence Public Buildings Aut
 
 With this rendering video, you can just taste the glossy, glassy 2005 goodness:
 
-<div class="embed__video embed__video--aspect-8-5"><iframe width="560" height="350" src="//www.youtube.com/embed/Nvgc9DuTbyM" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope" allowfullscreen></iframe></div>
+{% include video-embed.html id='Nvgc9DuTbyM' aspect='8 / 5' %}
 
 
 ### Reception
