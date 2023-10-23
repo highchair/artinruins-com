@@ -88,4 +88,4 @@ For these views, here is a list of iconic architecture and their build or demoli
 + Barely visible, to the right of the Gateway Building and behind Avalon at Center Place is the Amtrack Station, built 1982–1986
 + Commanding the right center is Avalon at Center Place, a U-shaped residential building, built 1989–1992
 
-Not yet present: [Waterplace Towers]({% link _property/waterplace-towers.md %}) built 2006–2007, the [Blue Cross Blue Shield Tower]({% link _property/blue-cross-tower.md %}) built 2008–2009, and [Homewood Suites]({% link _property/homewood-suites.md %}) built 2017–2019 on the triangular parcel, visible in the far right bottom. 
+Not yet present: [Waterplace Towers]({% link _property/waterplace-towers.md %}) built 2006–2007, the [Blue Cross Blue Shield Tower]({% link _property/blue-cross-tower.md %}) built 2008–2009, [One Park Row West]({% link _property/capital-center-parcel-6.md %}) built 2005–2009, [Homewood Suites]({% link _property/homewood-suites.md %}) built 2017–2019 on the triangular parcel, visible in the far right bottom, and [Station Row Apartments]({% link _property/capital-center-parcel-6b.md %}) built 2016–2018.
