@@ -18,6 +18,33 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 
 ## On The Boards
 
+### 251-269 Wickenden Street
+
+Moved most of this information to a [#DemolitionAlert]({% link category/demolitionalert.html %}) post for [the properties at 249 through 265]({% link _property/249-265-wickenden-st.md %}).
+
+**Update November 4, 2023**
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-11.jpg" alt="">
+  <figcaption>October rendering for Fox Point Capital LLC</figcaption>
+</figure>
+
+On Tuesday, October 17, the City Plan Commission approved an updated Master Plan proposal. This design has substantially changed; the facade has been broken up into three distinct sections and the residential-unit count increased from 62 to 75 while commercial and parking space decreased. The fifth story was hidden as requested by the Commission in order to grant the additional story, with a denied request to encroach on a 20-foot rear setback by 10 feet. The approval came with many conditions, including a request for further details on the transformer’s location; a recommendation that the loading space for parking remains; and requested specifications related to the cellar, landscaping, floor plans, drainage management and signage, all to be presented at the proposal’s next step, Preliminary Planning.
+
+**Update August 22, 2023**
+
+[William Morgan weighs in with this GoLocal recent article](//www.golocalprov.com/business/Goodbye-Fox-Point-William-Morgan-Architecture-Critic){:target="_blank"}.
+
+**Update August 16, 2023**
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-08.jpg" alt="">
+  <figcaption>August rendering for Fox Point Capital LLC</figcaption>
+</figure>
+
+The City Plan Commission approved the plan for this new building after the developer made slight modifications to the design. Even though most of the 60 citizens who packed the meeting opposed the development, the <span class="abbr">CPC</span> has a history of agreeing with developers who are making an investment in the city. They push back some, but not enough most of the time, and do not always consider public opinion. Granted, some of that opinion might be NIMBY, but many people presented salient points about the design, the increase in density, and the historic and relatively untouched nature of the neighborhood.
+
+
 ### Proposed demolition of Mount Pleasant High School
 
 The Providence Public School Department is considering whether to knock down Mount Pleasant High School in favor of constructing a cheaper alternative. The district has been under state control since 2019, and touched on three proposals for the school during a community hearing.
@@ -55,24 +82,6 @@ The design of the [new 26 unit building](https://www.providenceri.gov/wp-content
 The existing building is the Rufus Waterman House, built 1877. It is a very handsome double-house with a Second Empire mansard roof, gothic details, and ground-cloor retail. Unlike some houses that have been torn down in the are recently, we don’t think you can claim that this house is “blighted.”
 
 [According to the staff notes on the hearing, they are not opposed to demolition](https://www.providenceri.gov/wp-content/uploads/2023/07/22-030MA-108-110-Waterman-Street-master-plan-report.pdf){:target="_blank"} in this section of the city [as we have seen so many times in the past]({% link _essays/erosion-of-college-hill-historic-district.md %}).
-
-
-### 251-269 Wickenden Street
-
-<figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-08.jpg" alt="">
-  <figcaption>Rendering for Fox Point Capital LLC</figcaption>
-</figure>
-
-Moved most of this information to a [#DemolitionAlert]({% link category/demolitionalert.html %}) post for [the properties at 249 through 265]({% link _property/249-265-wickenden-st.md %}).
-
-**Update August 22, 2023**
-
-[William Morgan weighs in with this GoLocal recent article](//www.golocalprov.com/business/Goodbye-Fox-Point-William-Morgan-Architecture-Critic){:target="_blank"}.
-
-**Update August 16, 2023**
-
-The City Plan Commission approved the plan for this new building after the developer made slight modifications to the design. Even though most of the 60 citizens who packed the meeting opposed the development, the <span class="abbr">CPC</span> has a history of agreeing with developers who are making an investment in the city. They push back some, but not enough most of the time, and do not always consider public opinion. Granted, some of that opinion might be NIMBY, but many people presented salient points about the design, the increase in density, and the historic and relatively untouched nature of the neighborhood.
 
 
 ### Parcel 2
@@ -114,7 +123,7 @@ This proposed new house has received conceptual approval from the Providence His
 If approved by the City, Brown intends to sell this house to Brown faculty or staff as part of the Brown to Brown Home Ownership Program. To date, Brown has renovated and sold 21 Brown-owned houses to faculty and staff over the past fifteen years, putting millions of dollars of property back on the tax rolls. All of these properties are on College Hill, and allow faculty and staff housing close to campus.
 
 
-### SMART Hotel Proposal is back
+### SMART Hotel Proposal
 
 <figure class="u__img">
   <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/smart-hotel-render-2021-11-01.jpg" alt="">
