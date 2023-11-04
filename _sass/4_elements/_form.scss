@@ -15,6 +15,11 @@ select {
   -webkit-appearance: none;
 }
 
+textarea {
+  // Makes all textareas auto-expand vertically according to how much content there is
+  form-sizing: normal;
+}
+
 button,
 select {
   display: inline-block;

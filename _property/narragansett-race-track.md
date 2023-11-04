@@ -11,7 +11,7 @@ redeveloped: 'early 1980s'
 units:
 decade: '1930-1939'
 date-added: '2009'
-categories: [ '#UsedToBeThere', '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
