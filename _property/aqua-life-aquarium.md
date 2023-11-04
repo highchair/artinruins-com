@@ -58,12 +58,12 @@ imagescredit: 'Contributions from Flickr (<a href="//www.flickr.com/photos/foxpo
 
 We missed documenting this building ourselves, but luckily, there were a few photos to be found. This iconic store was a visual landmark as well as a local landmark in the aquatic pet and hobbyist community. The owner, George Goulart Jr., was proprietor and self-proclaimed “Fish Doctor.” An enthusiast who bred endangered species in his own house’s basement aquariums, his presence on that corner lasted almost 50 years.
 
-The house was razed in 2019 to make way for a new apartment building, also with ground floor retail. This development was one of the first along Wickenden Street to change the historic character with a modern, boxy replacement.
+The house was razed in 2019 to make way for a new apartment building, also with ground floor retail. This development was one of the first along Wickenden Street to change the historic character with a modern, boxy replacement, but it will not be the last.
 
 
 ### Current Events
 
-A new building was constructed on this site starting in 2020.
+[A new building was constructed on this site]({% link _property/387-wickenden-st.md %}) starting in 2020.
 
 
 ### History
