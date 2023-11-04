@@ -27,6 +27,7 @@ address: '312 Wickenden Street, Providence RI'
 latitude: '41.8196661'
 longitude: '-71.3991223'
 gmap: "https://www.google.com/maps/place/The+Duck+and+Bunny/@41.8196661,-71.3991223,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445849344edb9:0x2d477794c0710096!8m2!3d41.8196661!4d-71.3969336"
+street: [ 'Wickenden St' ]
 
 meta: ""
 excerpt: "This turn-of-the-century Federal-style two-story wooden house-turned-resturant was razed quickly on Good Friday in 2021"

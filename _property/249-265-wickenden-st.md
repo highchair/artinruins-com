@@ -25,6 +25,7 @@ address: '249-265 Wickenden St, Providence RI'
 latitude: '41.819397'
 longitude: '-71.3982294'
 gmap: "https://www.google.com/maps/place/261+Wickenden+St,+Providence,+RI+02903/@41.819397,-71.3982294,114m/data=!3m2!1e3!5s0x89e44538fc8aec7d:0x9addda9c9af864f8!4m14!1m7!3m6!1s0x89e44538fc6756cf:0x923789b9fca2a513!2sGregory's+Optical!8m2!3d41.8193794!4d-71.3979208!16s%2Fg%2F1vysxjy9!3m5!1s0x89e44538fc8bd6e1:0x720551a841467f19!8m2!3d41.819437!4d-71.3979499!16s%2Fg%2F11rg67kzxz?entry=ttu"
+street: [ 'Wickenden St' ]
 
 meta: ""
 excerpt: "Two buildings on a prominent corner of Wickenden Street face demolition in favor of a five-story 62 unit apartment building"

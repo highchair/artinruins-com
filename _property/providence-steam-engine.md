@@ -25,6 +25,7 @@ address: '2 Bridge St, Providence RI'
 latitude: '41.8177547'
 longitude: '-71.4023684'
 gmap: "https://www.google.com/maps/place/2+Bridge+St,+Providence,+RI+02903/@41.8177547,-71.4023684,19z/data=!3m1!4b1!4m5!3m4!1s0x89e4453f61c875c7:0x9751de2aa66a9835!8m2!3d41.8177537!4d-71.4018212"
+street: [ 'Wickenden St' ]
 
 meta: ""
 excerpt: "A 1980s conversion from industrial to residential condominiums by the same developer of the Davol Rubber Company"

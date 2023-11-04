@@ -22,6 +22,7 @@ address: 'Wickenden St and South Main, Providence RI'
 latitude: '41.818855'
 longitude: '-71.4035887'
 gmap: "https://www.google.com/maps/place/41°49'07.9%22N+71°24'05.0%22W/@41.818855,-71.4035887,649m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0xdc80b4ccf6709d95!7e2!8m2!3d41.8188549!4d-71.4014001"
+street: [ 'Wickenden St' ]
 
 meta: ""
 excerpt: "The roadway system of on and off ramps and causeway over Wickenden Street and the murals that adorned it"
