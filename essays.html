@@ -1,0 +1,51 @@
+---
+layout: home
+type: page
+permalink: /essays/
+title: "Essays, Articles, and Deeper Dives"
+body-class: essay
+sitemap:
+  priority: 0.6
+  changefreq: 'monthly'
+---
+{%- assign items = site.essays -%}
+
+<div class="u__gutter__p">
+  <div class="u__max-width--container">
+    <p class="u__vertical__pb">Longer-form pieces exploring architecture, romanticism, loss, and history. Open to submissions from students who are recording and reporting on architectural history or the history of interesting Rhode Island personalities.</p>
+
+    <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
+    {%- for item in items -%}
+      {%- assign item_image = item.thumbnail -%}
+      {%- assign image_path = site.propimg_path | replace_first: '/' | append: 'essays/' | append: item.thumbnail -%}
+      {%- assign size = '800' -%}
+      <li>
+        <div class="taxonomy__img-wrap">
+          {% responsive_image_block %}
+            path: {{ image_path }}
+            image: {{ item_image }}
+            size: {{ size }}
+            cache: true
+          {% endresponsive_image_block %}
+        </div>
+        <div class="taxonomy__colwrap">
+          <div class="taxonomy__clamp--essay">
+            <div class="taxonomy__title-wrap">
+              <h2 class="h4 taxonomy__card-title">
+                <a href="{{ item.url }}" class="taxonomy__link">{{ item.title }}</a>
+              </h2>
+            </div>
+            <p class="taxonomy__excerpt">{{ item.excerpt }}</p>
+            <p class="taxonomy__meta">
+              <span class="taxonomy__meta__group"><b>Publish Date</b>: {{ item.date-published | date: "%e %B, %Y"  }}</span>
+            {% if item.date-published != item.date-modified %}
+              | <span class="taxonomy__meta__group"><b>Updated</b>: {{ item.date-modified | date: "%e %B, %Y"  }}</span>
+            {% endif %}
+            </p>
+          </div>
+        </div>
+      </li>
+    {%- endfor -%}
+    </ul>
+  </div>
+</div>

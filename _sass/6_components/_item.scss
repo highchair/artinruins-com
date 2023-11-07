@@ -305,22 +305,6 @@
       }
     }
 
-    // Special treatment for the last paragraph, whatever it might be
-    > p:last-of-type::after {
-      // content: '' / 'The End'; Added recently: support for Alt text
-      content: '';
-      //background: center center no-repeat url('../img/artinruins-monogram.svg') palette('brand-teal-dark');
-      background-color: palette('brand-teal-dark');
-      background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='utf-8'%3F%3E%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' x='0' y='0' viewBox='0 0 55 25' xml:space='preserve'%3E%3Cpath fill='%23ffdf99' d='M13.5 23.3V25h-5V14.9H5v8.4h1.7V25H0v-1.7h1.7V2.5C1.7 1.2 2.8 0 4.2 0h5c1.4 0 2.5 1.2 2.5 2.5v20.8h1.8zM8.4 13.2V1.7H5v11.5h3.4zM20.8 13c0 1.1-.8 1.9-1.9 1.9-1 0-1.9-.8-1.9-1.9 0-1 .8-1.9 1.9-1.9 1.1 0 1.9.9 1.9 1.9zM24.1 23.3h1.7V1.7h-1.7V0h6.7v1.7h-1.7v21.6h1.7V25h-6.7v-1.7zM38.2 13c0 1.1-.8 1.9-1.9 1.9-1 0-1.9-.8-1.9-1.9 0-1 .8-1.9 1.9-1.9 1.1 0 1.9.9 1.9 1.9zM53.3 2.5v6.9c0 2.3-1.9 4.1-4.2 4.2 2.3.1 4.2 1.9 4.2 4.2v5.4H55V25h-5v-8.4c0-1.2-1-2.1-2.1-2.1h-1.3v8.8h1.7V25h-6.7v-1.7h1.7V1.7h-1.7V0h9.3c1.3 0 2.4 1.2 2.4 2.5zm-5.5 10.3c1.2 0 2.1-1 2.1-2.1v-9h-3.4v11.1h1.3z'/%3E%3C/svg%3E");
-      background-position: center center;
-      background-repeat: no-repeat;
-      background-size: 80% 80%;
-      display: inline-block;
-      height: 0.875em;
-      width: 1.5em;
-      margin-left: 0.25em;
-    }
-
     // Unset for some elements
     blockquote p:last-of-type::after {
       background: none;
