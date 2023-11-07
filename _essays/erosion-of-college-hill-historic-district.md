@@ -3,10 +3,12 @@ layout: essay-item
 type: essay
 slug: erosion-of-college-hill-historic-district
 title: "The Erosion of the College Hill Historic District (blocks bounded by Cushman, Brook, Waterman, & Thayer Sts.)"
-excerpt: 'Twenty-eight properties have been demolished in the past 10 years within these four blocks'
+excerpt: 'Twenty-eight properties have been demolished in the past 10 years within these four blocks.'
 thumbnail: erosion-of-college-hill/brown-univ-1908-lj-richards-plate-7.jpg
-date-modified: 2023-03-06
+date-published: 2023-03-06 #This should never change
+date-modified: 2023-03-06 #This can change if an edit or addition was made
 date-added: '2023'
+mentioned: [ '257-thayer-st', '189-angell-st-pvd', 'bannister-house-pvd', 'brook-meeting-cushing', 'brook-meeting-euclid', '382-brook-116-waterman', 'brown-brook-st-residence-halls', 'wellness-center-residence-hall', '21-euclid-ave', '235-meeting-st-pvd', '283-279-thayer-st' ]
 sitemap:
   lastmod: 2023-03-06
   priority: 0.5
@@ -207,20 +209,4 @@ Richard C. Youngken said it best when he warned “the integrity of the National
 
 [^4]: PINA, ALISHA A. “PROVIDENCE — Panel OKs Thayer Street apartments.” Providence Journal (RI), 1 ed., sec. projoRhodeIsland, 17 May 2012, p. A5. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152421E38EAC39C0. Accessed 23 Jan. 2022.
 
-In our opinion, the district has been greatly compromised, losing nearly 3% of its historic structures all within a single four block area. If the historic nature of the district has not yet been greatly compromised, than at least the historic nature of Thayer and Brook Streets certainly has. 
-
-***
-
-## Properties Referenced:
-
-+ [257 Thayer Street]({% link _property/257-thayer-st.md %}) #WhatAreTheyBuilding
-+ [Angell Street, #189 & 185]({% link _property/189-angell-st-pvd.md %}) #UsedToBeThere
-+ [Bannister House (93 Benevolent Street)]({% link _property/bannister-house-pvd.md %}) #NotInRuins
-+ [Block bounded by Brook, Meeting, and Cushing Streets]({% link _property/brook-meeting-cushing.md %}) #UsedToBeThere
-+ [Block bounded by Brook St., Meeting St., and Euclid Ave.]({% link _property/brook-meeting-euclid.md %}) #UsedToBeThere
-+ [Brook Street and Waterman, #382 & 116]({% link _property/382-brook-116-waterman.md %}) #UsedToBeThere
-+ [Brook Street Residence Halls]({% link _property/brown-brook-st-residence-halls.md %}) #WhatAreTheyBuilding
-+ [Brown University Wellness Center & Residence Hall]({% link _property/wellness-center-residence-hall.md %}) #WhatAreTheyBuilding
-+ [Euclid Avenue, #21]({% link _property/21-euclid-ave.md %}) #WhatAreTheyBuilding
-+ [Meeting Street, #235]({% link _property/235-meeting-st-pvd.md %}) #UsedToBeThere
-+ [Thayer Street, #283, 281, 279, & 279 1/2]({% link _property/283-279-thayer-st.md %}) #UsedToBeThere
+In our opinion, the district has been greatly compromised, losing nearly 3% of its historic structures all within a single four block area. If the historic nature of the district has not yet been greatly compromised, than at least the historic nature of Thayer and Brook Streets certainly has.
