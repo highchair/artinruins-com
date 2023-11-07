@@ -82,6 +82,8 @@ This proposal for a 5-story, 28-unit apartment building received Master Plan App
 
 ### History
 
+{% include photo-solicitation.md %}
+
 _From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 
 **Rufus Waterman House**, 1877. Queen Anne; 2-1/2 stories; mansard; clapboard; double house with dormers and paired-gable central pavilion which includes 2-1/2 story bay windows flanking inset first and second story porches; symmetrical façade with some Queen Anne detailing and basement story commercial shops.

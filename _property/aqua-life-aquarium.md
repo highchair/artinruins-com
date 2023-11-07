@@ -46,8 +46,11 @@ images:
   - url: 385-389-wickenden-fpna-01.jpg
     caption: 'Photo by Amy Mendillo from the Fox Point Neighborhood Association archive of the East Side Monthly article'
     sizes: '1639, 1024'
+  - url: 385-389-wickenden-cb-2019-11-01.jpg
+    caption: 'Photo by Chris Bricault, taken 09 November 2019'
+    sizes: '811, 1024'
 
-imagescredit: 'Contributions from Flickr (<a href="//www.flickr.com/photos/foxpoint/7742041002/" target="_blank">Fox Point Photo History</a> and <a href="https://www.flickr.com/photos/kjitty/4884252290" target="_blank">Katharine</a>) and <a href="//www.loopnet.com/Listing/385-389-Wickenden-St-Providence-RI/20006751/" target="_blank">Loopnet</a>'
+imagescredit: 'Contributions from Flickr (<a href="//www.flickr.com/photos/foxpoint/7742041002/" target="_blank">Fox Point Photo History</a>, <a href="https://www.flickr.com/photos/kjitty/4884252290" target="_blank">Katharine</a>) and <a href="//www.loopnet.com/Listing/385-389-Wickenden-St-Providence-RI/20006751/" target="_blank">Loopnet</a>, and Chris Bricault'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -67,6 +70,8 @@ The house was razed in 2019 to make way for a new apartment building, also with 
 
 
 ### History
+
+{% include photo-solicitation.md %}
 
 _From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 

@@ -1,0 +1,2 @@
+We’d love to post your photos! Do you have a photo of this place? Please send to our email address (or get in touch if it is too large to send via email) <a href="mailto:info@artinruins.com">info@artinruins.com</a>. Please include your name and a date if possible, so we can properly credit the submission.
+{:.o__tldr}
