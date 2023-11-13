@@ -62,7 +62,7 @@ We have been documenting the region since 2002 and collecting the histories that
 
 
 ## Press, Contributions, & Awards
-
+{% comment %}Keep an eye out for The Secret Apartment by https://jeremyworkman.com/{% endcomment %}
 + Award: _Antoinette F. Downing Volunteer Award_, Rhody Awards for Historic Preservation, 2023
 + Presentation: _ArtInRuins: Our History, significant Saves, significant Losses, and the Future_, for the East Greenwich Historic Preservation Society, April 2023. [Archived on YouTube](//www.youtube.com/watch?v=ELvzJEn1dE0){:target="_blank"}
 + Article: _Architectural Excavation_, **Providence Monthly**, November 2022, p11
