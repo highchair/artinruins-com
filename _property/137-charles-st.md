@@ -10,7 +10,7 @@ demolition:
 redeveloped: 
 decade: '1900-1909'
 date-added: '2020'
-categories: [ '#ArchiveRI', '#UsedToBeThere' ]
+categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
 designers: []

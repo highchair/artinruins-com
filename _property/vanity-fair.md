@@ -9,7 +9,7 @@ demolition: '1910'
 redeveloped: 
 decade: '1900-1909'
 date-added: '2003'
-categories: [ '#ArchiveRI', '#UsedToBeThere' ]
+categories: [ '#ArchiveRI' ]
 neighborhoods: []
 town: [ 'East Providence, RI' ]
 designers: [ 'Copeland and Dole' ]

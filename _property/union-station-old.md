@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade: '1840-1849'
 date-added: '2021'
-categories: [ '#UsedToBeThere', '#ArchiveRI' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Thomas A. Tefft' ]

@@ -9,7 +9,7 @@ demolition: '1990'
 redeveloped: '1942'
 decade: '1900-1909'
 date-added: '2006'
-categories: [ '#ArchiveRI', '#UsedToBeThere' ]
+categories: [ '#ArchiveRI' ]
 neighborhoods: []
 town: [ 'Cranston, RI' ]
 designers: [ 'Thomas J. Gould', 'Frederick Law Olmsted, Jr.' ]

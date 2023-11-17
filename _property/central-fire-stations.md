@@ -10,7 +10,7 @@ demolition: '1938'
 redeveloped:
 decade: '1900-1909'
 date-added: '2007'
-categories: [ '#ArchiveRI', '#UsedToBeThere' ]
+categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Martin & Hall' ]
