@@ -2,7 +2,7 @@
 title: ""
 slug:
 aka:
-date-modified: 2023-09-01 12:00
+date-modified: 2023-12-01 12:00
 
 built:
 demolition:
@@ -35,7 +35,7 @@ excerpt: ""
 #images:
 #  - url: hope-st-auto-jh-01.jpg
 
-mostrecentimage: 2021-07-01
+mostrecentimage: 2021-01-01
 
 imagescredit:
 
@@ -67,3 +67,6 @@ For What are they Building:
 ### Proposal
 ### Design Reception
 ### In the News
+
+_by Gregory Smith_  
+**Providence Journal** | December 4, 2003 (abridged)

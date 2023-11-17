@@ -18,6 +18,34 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 
 ## On The Boards
 
+### No SMART Hotel but Demolition Anyway?
+
+**Update November 15, 2023**
+
+While the proposal for a hotel on this site was turned down by the City Planning Commission, it seems the developer wants to raze the houses anyway. Councilman John Goncalves worked to issue a stop work notice, declaring that not enough notice was given. With no plans for a new building on this site, the Councilman argues that there was not enough time to review the demolition and its affect on the housing market (loss of apartments with no replacement). [Complete story at WJAR Channel 10](https://turnto10.com/news/local/providence-councilor-fights-to-save-historic-homes-from-demolition-rhode-island-southern-new-england-history-lot-land-november-13-2023){:target="_blank"}
+
+<figure class="u__img">
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/smart-hotel-render-2021-11-01.jpg" alt="">
+  <figcaption>Rendering by ZDS Architects from the proposal submitted to the City Planning Commission</figcaption>
+</figure>
+
+**Update November 22, 2022**
+: On November 16, the City Council heard SMART Princeton Hotel Group, LLC’s petition for a Zoning Change for the properties on 209-217 Angell Street from a Residential-Professional (RP) to a Commercial (C2) District. After initial comments, the Council determined they did not have jurisdiction and the matter was continued indefinitely. 
+
+**Update Nov 12, 2022**
+: SMART Princeton Hotel Group and Angell Investments are petitioning for a Zone Change for 209-217 Angell Street from a Residential Professional (RP) District to a General Commercial (C2) District, which would allow a new hotel to be built at the site of three older homes. This petition was originally considered in 2019-2020 by the City Planning Commission.
+
+: The [former plan from 2020](https://www.providenceri.gov/wp-content/uploads/2020/06/20-010UDR-209-217AngellStreetMaster-Plan-SR-Plans-ExpertTestimony.pdf){:target="_blank"} has not changed and would require the demolition of three 3-story homes for a L-shaped, 6-story hotel with circular driveway on Angell Street. It seems as though the Mansard-roof design from November 2019 is still the design that [ZDS Architects]({% link designer/zds-architecture-interiors.html %}) and the developer are proposing.
+
+: The proposed demolitions are for three houses, all listed in the College Hill Historic District ([a district that has undergone much erosion in the past ten years]({% link _property/thayer-street.md %})):
+
++ 209 Angell St. — House, 1857-75. Second Empire; 2-1/2 stories; mansard roof; siding; shallow L plan; side-hall entrance under Doric portico; bay window flanking entrance; gabled dormers retain detail; other detail stripped.
++ 211 Angell St. — **Bullock-Harris House**, c. 1850. Italianate; 2-1/2 stories; hip roof; clapboard; asymmetrical villa-type plan with projecting front wing flanking entrance porch with paired columns; quoin trim; single, paired, and triple windows with molded caps; deep bracketed eaves; prominent gabled dormers. One of the earliest and best designed villa type houses in Providence. Built for William P. Bullock, later owned by Sarah P. Harris and for many years by her descendants.
++ 217 Angell St. — House, 1892. Colonial Revival; 2-1/2 stories; massive end-gambrel roof; clapboard; fine large-scale, compact dwelling; off-center entrance covered by central porch with paired Tuscan columns; bay window over porch contains stucco relief panel with foliate ornament and date; entablature trim between floors and 1st-story corner pilasters; bracketed side overhangs over 1st story and end overhangs over 2nd; side bays and dormers; chimney projects through dormer on west.
+
+**Note:** Listing in a historic district DOES NOT offer ANY protection if the Council votes to approve based on the merit of the new design and the overall benefits to the neighborhood and city. It often only means that the loss of historic structures is a factor that needs to be weighed against the benefits of a new building.
+
+
 ### 251-269 Wickenden Street
 
 Moved most of this information to a [#DemolitionAlert]({% link category/demolitionalert.html %}) post for [the properties at 249 through 265]({% link _property/249-265-wickenden-st.md %}).
@@ -121,30 +149,6 @@ During the planning process for the [Brook Street Residence Halls]({% link _prop
 This proposed new house has received conceptual approval from the Providence Historic District Commission (PHDC) and is slated for consideration by the Providence Zoning Board in February. The City Planning Department has issued a recommendation against the zoning variances needed to build this house. If the Zoning Board denies the University’s requested relief, Brown cannot move forward on this project.
 
 If approved by the City, Brown intends to sell this house to Brown faculty or staff as part of the Brown to Brown Home Ownership Program. To date, Brown has renovated and sold 21 Brown-owned houses to faculty and staff over the past fifteen years, putting millions of dollars of property back on the tax rolls. All of these properties are on College Hill, and allow faculty and staff housing close to campus.
-
-
-### SMART Hotel Proposal
-
-<figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/smart-hotel-render-2021-11-01.jpg" alt="">
-  <figcaption>Rendering by ZDS Architects from the proposal submitted to the City Planning Commission</figcaption>
-</figure>
-
-**Update November 22, 2022**
-: On November 16, the City Council heard SMART Princeton Hotel Group, LLC’s petition for a Zoning Change for the properties on 209-217 Angell Street from a Residential-Professional (RP) to a Commercial (C2) District. After initial comments, the Council determined they did not have jurisdiction and the matter was continued indefinitely. 
-
-**Update Nov 12, 2022**
-: SMART Princeton Hotel Group and Angell Investments are petitioning for a Zone Change for 209-217 Angell Street from a Residential Professional (RP) District to a General Commercial (C2) District, which would allow a new hotel to be built at the site of three older homes. This petition was originally considered in 2019-2020 by the City Planning Commission.
-
-: The [former plan from 2020](https://www.providenceri.gov/wp-content/uploads/2020/06/20-010UDR-209-217AngellStreetMaster-Plan-SR-Plans-ExpertTestimony.pdf){:target="_blank"} has not changed and would require the demolition of three 3-story homes for a L-shaped, 6-story hotel with circular driveway on Angell Street. It seems as though the Mansard-roof design from November 2019 is still the design that [ZDS Architects]({% link designer/zds-architecture-interiors.html %}) and the developer are proposing.
-
-: The proposed demolitions are for three houses, all listed in the College Hill Historic District ([a district that has undergone much erosion in the past ten years]({% link _property/thayer-street.md %})):
-
-+ 209 Angell St. — House, 1857-75. Second Empire; 2-1/2 stories; mansard roof; siding; shallow L plan; side-hall entrance under Doric portico; bay window flanking entrance; gabled dormers retain detail; other detail stripped.
-+ 211 Angell St. — **Bullock-Harris House**, c. 1850. Italianate; 2-1/2 stories; hip roof; clapboard; asymmetrical villa-type plan with projecting front wing flanking entrance porch with paired columns; quoin trim; single, paired, and triple windows with molded caps; deep bracketed eaves; prominent gabled dormers. One of the earliest and best designed villa type houses in Providence. Built for William P. Bullock, later owned by Sarah P. Harris and for many years by her descendants.
-+ 217 Angell St. — House, 1892. Colonial Revival; 2-1/2 stories; massive end-gambrel roof; clapboard; fine large-scale, compact dwelling; off-center entrance covered by central porch with paired Tuscan columns; bay window over porch contains stucco relief panel with foliate ornament and date; entablature trim between floors and 1st-story corner pilasters; bracketed side overhangs over 1st story and end overhangs over 2nd; side bays and dormers; chimney projects through dormer on west.
-
-**Note:** Listing in a historic district DOES NOT offer ANY protection if the Council votes to approve based on the merit of the new design and the overall benefits to the neighborhood and city. It often only means that the loss of historic structures is a factor that needs to be weighed against the benefits of a new building.
 
 
 ### I-195 Redevelopment District Commission

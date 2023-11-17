@@ -113,9 +113,6 @@ https://www.google.com/maps/place/227+Angell+St,+Providence,+RI+02906/@41.828282
 # Moshassuck Square Historic District 1972
 + Already have American Screw… can add the old boiler building on the corner, former Bark street, as well as Canal House and the Stillman White and Fletcher Manufacturing Company. And that rounded corner building that is still part of the Providence Center.
 
-# Poirier's Diner / El Faro / West Side Diner
-* More photos and some history here: http://61thriftpower.com/back.shtml
-
 # Pop Lofts
 + http://www.truthbox.com/45-poplofts
 
