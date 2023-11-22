@@ -2,14 +2,16 @@
 {%- assign thennows = site.then-now | where: page.type, page.category -%}
 {%- assign essays = site.essays | where: page.type, page.category -%}
 {%- assign items = props | concat: thennows | concat: essays | sort_natural: 'title' -%}
-
+{%- if page.type == 'street' -%}
+  {% assign items = props | sort: 'street-number' %}
+{%- endif -%}
             <header class="taxonomy__header">
               <div class="u__vertical__pt u__gutter__p">
                 <h1 class="content__title taxonomy__title u__mb--0">{{ page.title }}</h1>
-              {%- if items.size >= 1 -%}
+              {% if items.size >= 1 %}
                 <p class="taxonomy__count">{{ items.size }}{% if items.size == 1 %} property{% else %} properties{% endif %}</p>
-              {%- endif -%}
-              {%- if page.related.size > 0 -%}
+              {% endif %}
+              {% if page.related.size > 0 %}
                 <p class="taxonomy__related">
                   <b>Related designers:</b>
                   {% for related in page.related %}
@@ -18,17 +20,19 @@
                   <a href="/designer/{{ related | replace: '.', '' | slugify }}/">{{ related }}</a>{% unless forloop.last %}{% if length > 2 %}, {% endif %}{% endunless %}{% if forloop.index == secondtolast %} and {% endif %}
                   {% endfor %}
                 </p>
-              {%- endif -%}
-              {%- if page.description -%}
+              {% endif %}
+              {% if page.type == 'street' %}
+                <p class="taxonomy__description">Properties without a specific street number are listed first, and then in order of street number.</p>
+              {% endif %}
+              {% if page.description %}
                 <p class="taxonomy__description">{{ page.description }}</p>
-              {%- endif -%}
+              {% endif %}
               </div>
             </header>
-
           {%- if items.size >= 1 -%}
             <div class="u__vertical__p u__gutter__p ">
               <ul class="taxonomy__list u__list__unstyled u__max-width--container" role="list">
-                {%- for item in items -%}
+                {% for item in items %}
                   {% include property-card.html %}
                 {% endfor %}
               </ul>

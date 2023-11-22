@@ -69,6 +69,14 @@
           </p>
         </div>
         <p class="taxonomy__meta">
+        {%- if page.type == 'street' -%}
+          {% if item.street-number %}
+          {{ item.street-number }} {{ item.street }}
+          {% else %}
+          {{ item.address }}
+          {% endif %}
+          <span class="taxonomy__sep"> | </span>
+        {%- endif -%}
         {%- if categories.size > 0 -%}
           {%- for category in categories -%}
           <a href="/category/{{ category | replace: '.', '' | slugify }}/" title="More properties from this category">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
