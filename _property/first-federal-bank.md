@@ -15,11 +15,12 @@ designers: [ 'Designer Unknown' ]
 lists: []
 tags: [ 'Demolition by Proposal', 'Former Banks', 'Needs History' ]
 
-address: '110 Westminster Street, Providence RI'
+address: '110 Westminster St, Providence RI'
 latitude: '41.82425'
 longitude: '-71.4126317'
 gmap: "https://www.google.com/maps/place/110+Westminster+St,+Providence,+RI+02903/@41.82425,-71.4126317"
 street: [ 'Westminster St' ]
+street-number: 110
 
 meta: ""
 excerpt: "A non-descript downtown commercial building probably faced with enamel and steel details in the 1950s. Razed in 2005 for a condomuium tower that was never built"

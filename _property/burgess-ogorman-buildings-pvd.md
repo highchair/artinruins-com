@@ -26,6 +26,7 @@ latitude: '41.823012'
 longitude: '-71.4145367'
 gmap: "https://www.google.com/maps/place/220+Westminster+St,+Providence,+RI+02903/@41.823012,-71.4145367,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445138bd0288f:0x819214761bfbbb33!8m2!3d41.823012!4d-71.412348"
 street: [ 'Westminster St' ]
+street-number: 220
 
 meta: ""
 excerpt: "Two distinctive buildings joined together as downtown residential lofts — both with unique features, design, and spaces"

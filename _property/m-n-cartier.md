@@ -17,11 +17,12 @@ lists: [ 'PPS Ten Most Endangered', 'PPS/AIA Industrial Commercial Buildings Sur
 tags: [ 'Demolition by Neglect', 'The Superlatives' ]
 superlative: 'City directories listed the company as the largest receivers of roofing materials in New England'
 
-address: '1107 Westminster Street, Providence RI'
+address: '1107 Westminster St, Providence RI'
 latitude: '41.8172654'
 longitude: '-71.4291047'
 gmap: "https://www.google.com/maps/place/1107+Westminster+St,+Providence,+RI+02909/@41.8172654,-71.4291047,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445768008e1b1:0x760c6bed5251dc0f!8m2!3d41.8172654!4d-71.426916"
 street: [ 'Westminster St' ]
+street-number: 1107
 
 meta: ""
 excerpt: "A neglected little brick Greek-revival building vacant and boarded up since a fire in the 1990s succumbed to extensive roof damage in 2020"

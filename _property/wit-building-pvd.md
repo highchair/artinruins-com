@@ -22,11 +22,12 @@ tags: []
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '276 Westminster Street, Providence RI'
+address: '276 Westminster St, Providence RI'
 latitude: '41.8222373'
 longitude: '-71.4152878'
 gmap: "https://www.google.com/maps/place/276+Westminster+St,+Providence,+RI+02903/@41.8222373,-71.4152878,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445139d9a5935:0xd4f8ef488e7a81a6!8m2!3d41.8222373!4d-71.4130991"
 street: [ 'Westminster St' ]
+street-number: 276
 
 meta: ""
 excerpt: "Smaller than its neighbors, this 2-story commercial building joined the ranks of its neightbors in the collective called “Westminster Lofts”"

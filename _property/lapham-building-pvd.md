@@ -21,11 +21,12 @@ tags: [ 'Apartments for Rent' ]
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
 
-address: '290 Westminster Street, Providence RI'
+address: '290 Westminster St, Providence RI'
 latitude: '41.822103'
 longitude: '-71.4153457'
 gmap: "https://www.google.com/maps/place/290+Westminster+St,+Providence,+RI+02903/@41.822103,-71.4153457,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451376687d5f:0xd243a7c2361685f6!8m2!3d41.822099!4d-71.413157"
 street: [ 'Westminster St' ]
+street-number: 290
 
 meta: ""
 excerpt: "A nine-story commercial building turned residential and joined the ranks of its neightbors in the collective called “Westminster Lofts”"
