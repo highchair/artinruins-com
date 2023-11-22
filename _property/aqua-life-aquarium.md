@@ -26,6 +26,7 @@ latitude: '41.8196445'
 longitude: '-71.395515'
 gmap: "https://www.google.com/maps/@41.8196445,-71.395515,18z"
 street: [ 'Wickenden St' ]
+street-number: 385
 
 meta: ""
 excerpt: "A commercial space and apartment house best known for its colorful aquatic mural on a busy corner in Fox Point"

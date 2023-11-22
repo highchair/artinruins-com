@@ -23,11 +23,12 @@ tags: [ 'Demolition by Progress', 'House' ]
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
-address: '312 Wickenden Street, Providence RI'
+address: '312 Wickenden St, Providence RI'
 latitude: '41.8196661'
 longitude: '-71.3991223'
 gmap: "https://www.google.com/maps/place/The+Duck+and+Bunny/@41.8196661,-71.3991223,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445849344edb9:0x2d477794c0710096!8m2!3d41.8196661!4d-71.3969336"
 street: [ 'Wickenden St' ]
+street-number: 312
 
 meta: ""
 excerpt: "This turn-of-the-century Federal-style two-story wooden house-turned-resturant was razed quickly on Good Friday in 2021"

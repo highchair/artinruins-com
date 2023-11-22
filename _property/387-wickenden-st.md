@@ -23,6 +23,7 @@ latitude: '41.819679'
 longitude: '-71.3954726'
 gmap: "https://www.google.com/maps/place/387+Wickenden+St,+Providence,+RI+02903/@41.819679,-71.3954726,18z/data=!4m6!3m5!1s0x89e44539c92f831d:0xb6528eb74512ae59!8m2!3d41.819679!4d-71.3954726!16s%2Fg%2F11csl9cmd7?entry=ttu"
 street: [ 'Wickenden St' ]
+street-number: 387
 
 meta: ""
 excerpt: "Additional apartments have been added to a busy street corner but at the cost of a neighborhood institution"

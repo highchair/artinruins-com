@@ -22,6 +22,8 @@ address: '1492 Westminster St, Providence RI'
 latitude: '41.8160092'
 longitude: '-71.4364386'
 gmap: "https://www.google.com/maps/place/1492+Westminster+St,+Providence,+RI+02909/@41.8160092,-71.4364386,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459cf50d01af:0x15a20af66012ec00!8m2!3d41.8160092!4d-71.4342499"
+street: [ 'Westminster St' ]
+street-number: 1492
 
 meta: ""
 excerpt: "A contemporary 3-story in-fill home designed to be the first energy passive multi-family dwelling in Providence"
@@ -30,13 +32,19 @@ thumbnail: 1492-westminster-jh-2022-03-01.jpg
 
 images:
   - url: truthbox-render-01.jpg
-    caption: 'Proposed rendering from Truthbox Architecture'
     alt: 'A three-story contemporary house with a commercial first floor unit. It is flat-roofed with rectangular windows and flat areas of shingle-style and clapboard-style siding. A two-story projecting bay window comes off the front façade. The siding is denim-blue with flat orange panel accents.'
+    caption: 'Proposed rendering from Truthbox Architecture'
+    sizes: '905, 603'
   - url: 1492-westminster-jh-2022-03-01.jpg
+    sizes: '1200, 900'
   - url: 1492-westminster-jh-2022-03-02.jpg
+    sizes: '1200, 900'
   - url: 1492-westminster-jh-2022-03-03.jpg
+    sizes: '1200, 900'
   - url: 1492-westminster-jh-2022-03-04.jpg
+    sizes: '1200, 900'
   - url: 1492-westminster-jh-2022-03-05.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2022-03-01
 
@@ -49,9 +57,9 @@ imagescredit:
 
 ### Proposal
 
-This lot had a house on it until we believe around 1985. A [1921 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"} (Volume 1, Plate 42) shows a 2 1/2 story home at this location. In [the following 1951 map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101){:target="_blank"}, it is labelled “Funeral Home.” 
+This lot had a house on it until we believe around 1985. A [1921 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"} (Volume 1, Plate 42) shows a 2 1/2 story home at this location. In [the following 1951 map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101){:target="_blank"}, it is labelled “Funeral Home.”
 
-The home is still present, though it is difficult to make out, in a 1985 aerial photo. In a 1997 aerial photo this lot looks paved over and part of the adjacent lot. This lot, therefore, has been vacant for about 30 years. There is nothing wrong with some green space, but this was not intentional — it looked very much abandoned and forgotten in a strip of stately homes that meet the street. 
+The home is still present, though it is difficult to make out, in a 1985 aerial photo. In a 1997 aerial photo this lot looks paved over and part of the adjacent lot. This lot, therefore, has been vacant for about 30 years. There is nothing wrong with some green space, but this was not intentional — it looked very much abandoned and forgotten in a strip of stately homes that meet the street.
 
 In June of 2018, the WBNA reviewed a proposal presented by Peter Case of [Truth Box Architects]({% link designer/truth-box-architects.html %}). Case was the designing architect as well as a Project Partner with the design-build firm, [D+P Real Estate](http://www.durhampolak.com){:target="_blank"}.
 
@@ -72,4 +80,4 @@ However, he said, the high level of energy efficiency of these units will help o
 
 ### Current Events
 
-The ground floor retail space is occupied by [Lucky Enough Eat and Drink](//www.luckyenoughpvd.com){:target="_blank"}, a local bar and eatery. 
+The ground floor retail space is occupied by [Lucky Enough Eat and Drink](//www.luckyenoughpvd.com){:target="_blank"}, a local bar and eatery.
