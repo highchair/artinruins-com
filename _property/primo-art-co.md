@@ -27,6 +27,7 @@ latitude: '41.844661'
 longitude: '-71.4081257'
 gmap: "https://www.google.com/maps/place/891+N+Main+St,+Providence,+RI+02904/@41.844661,-71.4081257,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444dd86c3ec23:0xb49a0247e4eefd7a!8m2!3d41.844661!4d-71.405937"
 street: [ 'North Main St' ]
+street-number: 891
 
 meta: ""
 excerpt: "A small but charming red square building in various states of repair and neglect over the years"

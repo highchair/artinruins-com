@@ -16,11 +16,12 @@ designers: [ 'Designer Unknown' ]
 lists: [ 'North Main Street Commercial Corridor' ]
 tags: [ 'Former Banks', 'Demolition by Neglect', 'Needs History', 'Yellow brick' ]
 
-address: '1340 North Main Street, Providence RI'
+address: '1340 North Main St, Providence RI'
 latitude: '41.8560174'
 longitude: '-71.4026579'
 gmap: "https://www.google.com/maps/place/1340+N+Main+St,+Providence,+RI"
 street: [ 'North Main St' ]
+street-number: 1340
 
 meta: ""
 excerpt: "A rather small commercial storefront that was a branch bank for some time but abandoned for many years before eventual demolition."

@@ -16,11 +16,12 @@ designers: [ 'Designer Unknown' ]
 lists: [ 'North Main Street Commercial Corridor' ]
 tags: [ 'Demolition by Neglect', 'Needs History' ]
 
-address: '1320 North Main Street, Providence RI'
+address: '1320 North Main St, Providence RI'
 latitude: '41.8560174'
 longitude: '-71.4026579'
 gmap: "https://www.google.com/maps/place/1320+N+Main+St,+Providence,+RI"
 street: [ 'North Main St' ]
+street-number: 1320
 
 meta: ""
 excerpt: "A former clothing store built off the north side of Sears that stayed empty for years and years before being razed in 2009."

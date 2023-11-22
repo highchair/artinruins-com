@@ -22,6 +22,7 @@ latitude: '41.8515859'
 longitude: '-71.4047582'
 gmap: "https://www.google.com/maps/place/1140+N+Main+St,+Providence,+RI+02904/@41.8515859,-71.4047582,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444c3d7d057ef:0xefedfd745dc3fad2!8m2!3d41.8515859!4d-71.4025695"
 street: [ 'North Main St' ]
+street-number: 1140
 
 meta: ""
 excerpt: "A boarded-up retail space along a retail corridor in need of rethinking"

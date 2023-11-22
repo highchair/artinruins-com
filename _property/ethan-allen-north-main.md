@@ -21,6 +21,7 @@ latitude: '41.8512219'
 longitude: '-71.4049549'
 gmap: "https://www.google.com/maps/place/1118+N+Main+St,+Providence,+RI+02904/@41.8512219,-71.4049549,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444c3cfa62df1:0x7c67a38d7cb3c83b!8m2!3d41.8512179!4d-71.4027609"
 street: [ 'North Main St' ]
+street-number: 1120
 
 meta: ""
 excerpt: "This cinder block building with a residential looking store facade slapped on it stood vacant for many years before demolition. Part of the way commercial retail comes and goes."

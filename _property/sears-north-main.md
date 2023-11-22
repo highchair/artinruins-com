@@ -21,6 +21,7 @@ latitude: '41.855927'
 longitude: '-71.4026967'
 gmap: "https://www.google.com/maps/place/1300+N+Main+St,+Providence,+RI+02904"
 street: [ 'North Main St' ]
+street-number: 1300
 
 meta: ""
 excerpt: "One of the last big box stores on North Main Street, closed since the mid-to-late 90s. Demolished in 2014 to become infill for a parking lot."

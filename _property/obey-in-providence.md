@@ -22,7 +22,7 @@ address: '32 Aborn St, Providence RI'
 latitude: '41.821789'
 longitude: '-71.4161492'
 gmap: "https://www.google.com/maps/place/41°49'18.4%22N+71°24'56.2%22W/@41.821789,-71.4161492,19z/data=!3m1!4b1!4m13!1m6!3m5!1s0x89e445ea94fed671:0xa3ffb9984a60da7d!2sPell+Chafee+Performance+Center!8m2!3d41.8214749!4d-71.4156619!3m5!1s0x0:0x8ebc15d6138a93ad!7e2!8m2!3d41.8217886!4d-71.4156021"
-street: [ 'Westminster St', North Main St' ]
+street: [ 'Westminster St', 'North Main St' ]
 
 meta: ""
 excerpt: "RISD-graduate Sheperd Fairey has pasted and painted his art over many decaying (and not-decaying) Providence buildings"

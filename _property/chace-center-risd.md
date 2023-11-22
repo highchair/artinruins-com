@@ -21,6 +21,7 @@ latitude: '41.8256264'
 longitude: '-71.409978'
 gmap: "https://www.google.com/maps/place/RISD+Museum/@41.8256264,-71.409978,17z/data=!4m13!1m7!3m6!1s0x89e4451647ff1dc3:0x4ad014c2f87eb1a!2s4+S+Main+St,+Providence,+RI+02903!3b1!8m2!3d41.8256264!4d-71.4077893!3m4!1s0x89e445164b5ec617:0x49112556d05817bc!8m2!3d41.8261771!4d-71.4080181"
 street: [ 'North Main St' ]
+street-number: 20
 
 meta: ""
 excerpt: "A hub of student and museum activity for RISD named after the late Happy Chase, an ardent preservationist of properties along Benefit Street"

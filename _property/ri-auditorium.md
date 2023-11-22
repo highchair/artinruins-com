@@ -16,11 +16,12 @@ designers: [ 'Designer Unknown' ]
 lists: [ 'North Main Street Commercial Corridor' ]
 tags: [ 'Demolition by Progress', 'Sports Entertainment' ]
 
-address: '1111 North Main Street, Providence RI'
+address: '1111 North Main St, Providence RI'
 latitude: '41.8505782'
 longitude: '-71.4037438'
 gmap: "https://www.google.com/maps/@41.8505782,-71.4037438,17z"
 street: [ 'North Main St' ]
+street-number: 1111
 
 meta: ""
 excerpt: "A big hulking 5300-person capacity civic auditorium that hosted sports and entertainment for close to 50 years. "
