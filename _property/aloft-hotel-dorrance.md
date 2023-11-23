@@ -25,7 +25,7 @@ longitude: '-71.4117636'
 gmap: "https://www.google.com/maps/place/Aloft+Providence+Downtown/@41.8215679,-71.4117636,16z/data=!4m8!3m7!1s0x0:0x1496cdc9e906b837!5m2!4m1!1i2!8m2!3d41.821456!4d-71.408781"
 
 meta: ""
-excerpt: "A brand new 6 and 5 story boutique-brand hotel on the edge of the Jewelry District with views of the riverfront"
+excerpt: "A new 6 and 5 story boutique-brand hotel on the edge of the Jewelry District with views of the riverfront"
 
 thumbnail: aloft-jh-2022-03-06.jpg
 
@@ -67,8 +67,10 @@ images:
     sizes: '1440, 900'
   - url: aloft-jh-2022-03-07.jpg
     sizes: '1440, 900'
+  - url: aloft-jh-2023-09-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2022-03-01
+mostrecentimage: 2023-09-01
 
 imagescredit:
 
@@ -79,24 +81,24 @@ imagescredit:
 
 ### Proposal
 
-This hotel brand — started as a Starwood product and then purchased as part of the Marriott family — was rumored to land in Providence in 2017. But way before that, say, ever since 2006, officials have been saying that the city needs more and more hotel rooms. And most of us on the periphery of city developments have been saying “Really?” But here we are, walking around only a few months after the hotel has opened, without ground floor retail in place yet, and the hotel has visitors coming in and out. The place is hopping. 
+This hotel brand — started as a Starwood product and then purchased as part of the Marriott family — was rumored to land in Providence in 2017. But way before that, say, ever since 2006, officials have been saying that the city needs more and more hotel rooms. And most of us on the periphery of city developments have been saying “Really?” But here we are, walking around only a few months after the hotel has opened, without ground floor retail in place yet, and the hotel has visitors coming in and out. The place is hopping.
 
-The developers are CV Properties and Boston Andes Capital. The hotel features 175 rooms with a rooftop bar, ground floor restaurant, swimming pool, and fitness center. The project broke ground in January of 2020 and was completed in November of 2021. [Shawmut](//www.shawmut.com/news/aloft-hotel-in-providence-celebrates-topping-off-milestone){:target="_blank"} executed the construction. 
+The developers are CV Properties and Boston Andes Capital. The hotel features 175 rooms with a rooftop bar, ground floor restaurant, swimming pool, and fitness center. The project broke ground in January of 2020 and was completed in November of 2021. [Shawmut](//www.shawmut.com/news/aloft-hotel-in-providence-celebrates-topping-off-milestone){:target="_blank"} executed the construction.
 
-Most interesting to us is the fact that this parcel has been undeveloped since the 1960s, when the then-adjacent highway was built. Previous to that, this particular parcel on the edge of the waterfront, downtown, and the Jewelry district, was densely packed with buildings. From 1960-ish to 2020, this site has been parking or roadway. In this prime location, it is nice to see something new and shiny with great views of the waterfront. 
+Most interesting to us is the fact that this parcel has been undeveloped since the 1960s, when the then-adjacent highway was built. Previous to that, this particular parcel on the edge of the waterfront, downtown, and the Jewelry district, was densely packed with buildings. From 1960-ish to 2020, this site has been parking or roadway. In this prime location, it is nice to see something new and shiny with great views of the waterfront.
 
 
 ### Design Reception
 
-As seen in [the News piece by William Morgan](#in-the-news), some architectural critics think this building is a dud while [the nearby Wexford Center]({% link _property/wexford-innovation-center.md %}) is a modern masterpieces. Aesthetics are subjective, of course, but we understand where Mr. Morgan is finding his criticism. 
+As seen in [the News piece by William Morgan](#in-the-news), some architectural critics think this building is a dud while [the nearby Wexford Center]({% link _property/wexford-innovation-center.md %}) is a modern masterpieces. Aesthetics are subjective, of course, but we understand where Mr. Morgan is finding his criticism.
 
-To us, the original renderings were more interesting. The contrast of materials, the boxiness of the main form, the little pops of color were a more interesting approach than this bland approach to pseudo-industrial design. What was the idea for the red vertical cladding? It's sort of interesting, and admittedly more interesting than many other hotels that are proposed for Providence, but as the only bit of interest on the building it is not strong enough of an idea. 
+To us, the original renderings were more interesting. The contrast of materials, the boxiness of the main form, the little pops of color were a more interesting approach than this bland approach to pseudo-industrial design. What was the idea for the red vertical cladding? It’s sort of interesting, and admittedly more interesting than many other hotels that are proposed for Providence, but as the only bit of interest on the building it is not strong enough of an idea.
 
-What we do agree with, and lament, is Mr. Morgan’s last point: 
+What we do agree with, and lament, is Mr. Morgan’s last point:
 
 > As so often happens with major out-of-town architects, Providence gets the firm’s B-Team. Or worse, we seem unable to demand what we really need or to which we should aspire.
 
-In other words, outside of Providence, developers do not think we have the caché to demand top-list designers and architects. We should, however, demand only the best of anything — our buildings, our cultural institutions, our restaurants, etc… In some cases, we get it because we demand it, but for the most part, we get it because we are lucky. When will big brands like Marriott give us their A-game? When will we feel as though we can demand it? We should demand it and expect it right now, or even retroactively if that were possible. 
+In other words, outside of Providence, developers do not think we have the caché to demand top-list designers and architects. We should, however, demand only the best of anything — our buildings, our cultural institutions, our restaurants, etc… In some cases, we get it because we demand it, but for the most part, we get it because we are lucky. When will big brands like Marriott give us their A-game? When will we feel as though we can demand it? We should demand it and expect it right now, or even retroactively if that were possible.
 
 
 ### In the News
@@ -106,7 +108,7 @@ In other words, outside of Providence, developers do not think we have the cach�
 _by William Morgan_  
 **GoLocal Prov** | March 27, 2021
 
-The new hotel in Providence's ironically named “Innovation & Design District” is a real dud. While we are happy to welcome a new hostelry, as well as another finished piece in the [I-195 Development scheme]({% link list/i-195-district-parcels.html %}), the soon-to-be-completed **Aloft Hotel** on Dyer–Street is a major architectural disappointment.
+The new hotel in Providence’s ironically named “Innovation & Design District” is a real dud. While we are happy to welcome a new hostelry, as well as another finished piece in the [I-195 Development scheme]({% link list/i-195-district-parcels.html %}), the soon-to-be-completed **Aloft Hotel** on Dyer–Street is a major architectural disappointment.
 
 Admittedly, the Aloft will add 175 hotel rooms to the city. It may also add amenities such as restaurants and bars. But what this hotel will not add is anything even approaching architectural excellence, much less the vision of a “vibrant forward-thinking hub” as promised by Kevin Sullivan of Shawmut, the hotel’s builders. Touted as “high end,” the Aloft offers nothing special in the way of design. Sadly, it is little more than any other airport hotel in any other city, but here, plunked down in an urban core.
 
@@ -127,5 +129,7 @@ Aloft in Providence is the work of [Elkus Manfredi Architects](//www.elkus-manfr
 Yet for a primo site in downtown Providence, we got a big ungainly block of stick-a-brick real estate. This is what the patron saint of modern architecture criticism, Ada Louis Huxtable, would have described as “unforgivable, consummate mediocrity.” As so often happens with major out-of-town architects, Providence gets the firm’s B-Team. Or worse, we seem unable to demand what we really need or to which we should aspire.
 
 Governor Raimondo declared in October that, “the Aloft Hotel will help us attract visitors as our economy recovers.” Perhaps. But the clunky, chunky, lowest-common-denominator appearance of the new Aloft Hotel won’t win us any awards for inspiring urban design. What it will become, however, is a symbol of the failure of Providence to embrace a noble overall vision for the I-195 land. Good design costs no more than mediocre design, but the true cost of bad design is cumulatively corrosive.
+
+—
 
 _— Captured on March 31, 2022 from https://www.golocalprov.com/business/aloft-hotel-more-mediocrity-architecture-critic-morgan_

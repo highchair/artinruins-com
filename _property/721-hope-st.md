@@ -46,8 +46,9 @@ images:
   caption: 'Drone photo by Jason Allard, Uncommon Sense Media'
 - url: davis-dairy-ja-2021-06-02.jpg
   caption: 'Drone photo by Jason Allard, Uncommon Sense Media'
+- url: 721-hope-st-jh-2022-06-01.jpg
 
-mostrecentimage: 2021-06-01
+mostrecentimage: 2022-06-01
 
 imagescredit: 'Contribution from <a href="//www.uncomsensemedia.com" target="_blank">Jason Allard, Uncommon Sense Media</a>'
 
@@ -64,23 +65,26 @@ Davis Dairy occupied the ground-floor retail location of this home since we don�
 
 The home is 2 and three-quarter stories (according to the tax records), with a rare double-gable roof line on the south side of the third floor. The north side of the third floor features a large dormer bay. It is wood frame construction with brown-stained wood shingle on the upper stories and concrete block facing on the commercial first floor. A storefront is diagonally placed (kitty-corner) on the northwest wall with a commercial plate glass window on the north and west sides. A large bay window is above the storefront on the second floor.
 
+In April of 2021, the third floor and roof were ripped off and the structure was left open to the elements for about six weeks. At the end of May a new third floor was added, this time, with straight walls to create a full size third floor. 
+
 
 ### Current Events
 
-In April the third floor and roof were ripped off and the structure was left open to the elements for about six weeks. At the end of May a new third floor was added, this time, with straight walls to create a full size third floor. No roof has been added yet.
+The house is now apartments again and the ground floor retail is occupied by Fearless Fish.
 
 
 ### History
 
 Not much found yet. This side of town has not been documented in very early Sanborn Insurance Maps. The earliest map we could find so far with this house on the corner of Hope (early maps label it as East Street/Ave) and Braman was from [1920-1921, Volume 2, Sheet 85](//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39395/41287/561123?accountid=7136){:target="_blank"}.
 
-Zillow and Realtor.com do not list this property for sale, and tax history shows the most recent sale as 2013.
+Zillow and Realtor.com did not list this property for sale, and tax history shows the most recent sale as 2013.
 
 
 ### In the News
 
 An additional remembrance from the [Jewish Rhody online by M. Charles Bakst](//www.jewishrhody.com/stories/davis-deli-gone-but-the-memories-live-on,13041){:target="_blank"}
 
+***
 
 #### Providence's kosher market Davis Dairy closes for good
 
@@ -136,5 +140,7 @@ It was a late-night fire back on May 19 that badly damaged the building at 721 H
 “The fire started in the apartment on the third floor, but we do not know the actual cause,” Glazer said.
 
 What is understood is that it may have closed a business, but it won’t extinguish the memories that remain from decades and decades of fine food and conversation.
+
+— 
 
 _Captured April 9, 2021 from https://www.providencejournal.com/story/entertainment/dining/2021/02/16/providence-kosher-market-davis-dairy-closes-after-114-years/6752062002/_

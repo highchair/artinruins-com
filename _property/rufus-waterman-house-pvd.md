@@ -50,7 +50,7 @@ images:
     sizes: '1200, 900'
   - url: 108-110-waterman-jh-2023-10-01.jpg
     sizes: '740, 1036'
-  - url: 108-110-waterman-jh-2023-10-01.jpg
+  - url: 108-110-waterman-jh-2023-10-02.jpg
     sizes: '1200, 900'
 
 mostrecentimage: 2023-10-01

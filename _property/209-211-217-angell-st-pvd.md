@@ -70,6 +70,12 @@ images:
   - url: 217-angell-jh-2022-11-04.jpg
     caption: 'Rear of 217 Angell Street with garage, looking north northwest'
     sizes: '1200, 900'
+  - url: 217-angell-jh-2022-11-05.jpg
+    caption: 'Stop Work sign posted on the door of 217 Angell Street'
+    sizes: '900, 900'
+  - url: 209-211-217-angell-jh-2023-11-01.jpg
+    caption: '209, 211, and 217 (left to right) along Angell Street, looking southeast'
+    sizes: '1440, 900'
 
 mostrecentimage: 2022-11-01
 

@@ -6,11 +6,11 @@ date-modified: 2022-01-22 17:00
 
 built: '1914'
 demolition:
-redeveloped:
+redeveloped: '2020–2023'
 units:
 decade: '1910-1919'
 date-added: '2022'
-categories: [ '#UrbanDecay' ]
+categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -69,8 +69,10 @@ images:
   - url: copley-hotel-jh-2021-00-05.jpg
     caption: 'Image of an old For Rent sign reading “For Rent; Physicians and Dentist’s Offices; … Room Apartments for Adults; Furnished Rooms with Private Baths for Gentlemen; Equipped with Fire Escapes of any Building … City; Apply to the Superintendent”. Images from a presentation created in February 2021'
     sizes: '1350, 900'
+  - url: copley-chambers-jh-2023-09-05.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2021-01-01
+mostrecentimage: 2023-09-01
 
 imagescredit:
 
