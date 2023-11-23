@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: sutton-motor-in
+  person: 'Tom Rose'
+  date: '2023-11-21'
+  content: 'My grandfather built the marquee. I’m a third generation stone mason.'
+
 - property: lilly-building
   person: 'Leslie Richards'
   date: '2023-10-20'
