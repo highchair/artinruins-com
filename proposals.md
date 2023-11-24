@@ -75,6 +75,14 @@ The City Plan Commission approved the plan for this new building after the devel
 
 ### Proposed demolition of Mount Pleasant High School
 
+**Update November 20, 2023**
+
+The initial September 15 deadline for Mount Pleasant High School was only the first of three steps of the “[Necessity of School Construction](//ride.ri.gov/funding-finance/school-building-authority/necessity-school-construction){:target="_blank"}” application process. The next steps are the Stage II application, due on February 15, 2024, and City Council approval, to occur in May 2024. Once these steps are complete, the plans will enter a Design Review process. While a full renovation is off the table, hybrid options are being considered. PPS will continue to advocate for a Mount Pleasant that retains its facade, as supported by many community members, students and faculty. 
+
+Please share your comments with Superintendent Javier Montanez (<a href="tel:401-456-9100">401-456-9100</a>), Director of School Building Authority Mario Carreno (<a href="mailto:mario.carreno@ride.ri.gov">mario.carreno@ride.ri.gov</a>), and Councilwoman Jo-Ann Ryan (<a href="mailto:ward5@providenceri.gov">ward5@providenceri.gov</a> or <a href="tel:401-521-7477">401-521-7477</a>).
+
+**Previous News**
+
 The Providence Public School Department is considering whether to knock down Mount Pleasant High School in favor of constructing a cheaper alternative. The district has been under state control since 2019, and touched on three proposals for the school during a community hearing.
 
 The first proposal recommends renovating the existing building, while the second suggests knocking it down and building a new one in its place. The final proposal is a combination of the first two, with a portion of the school being torn down to make room for a new build. Saving the building and upgrading it would create a $80 million budget shortfall, while new construction is more cost-effective.
