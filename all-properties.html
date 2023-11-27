@@ -61,6 +61,10 @@ sitemap:
   /* Thanks to https://osvaldas.info/examples/real-time-search-in-javascript/ */
   'use strict';
 
+  const escapeAmps = (unsafe) => {
+    return unsafe.replaceAll('&amp;', '&');
+  }
+
   ;( function ( document, window, index )
   {
     var hasElementClass = function( element, className ){ return element.classList ? element.classList.contains( className ) : new RegExp( '(^| )' + className + '( |$)', 'gi' ).test( element.className ); },
@@ -94,7 +98,7 @@ sitemap:
 
         [].forEach.call( items, function( entry )
         {
-          entry.innerHTML = entry.innerHTML.replace( /<mark>([^<]+)<\/mark>/gi, '$1' );
+          entry.innerHTML = escapeAmps(entry.innerHTML.replace( /<mark>([^<]+)<\/mark>/gi, '$1' ));
         });
 
         var searchVal = input.value.trim().toLowerCase();
