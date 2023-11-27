@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: hope-webbing-boiler
+  person: 'E Niemczura'
+  date: '2023-11-25'
+  content: 'I stopped in to the boiler room in 1998 to try to sell them boiler chemicals. the plant was already winding down and they did not have a need for my product. On the way out, I mis-stepped and hit my head really hard on a low hung pipe and just about had a concussion. My boos and i had gone to this sales call in separate cars, and he let me drive home, even though I was injured and shouldn’t have been driving. I made it home ok, albeit with a headache.'
+
 - property: sutton-motor-in
   person: 'Tom Rose'
   date: '2023-11-21'
