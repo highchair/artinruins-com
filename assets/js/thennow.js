@@ -1,52 +1,64 @@
-// Then / Now image comparison JS
-// Inspiration and code from https://htmldom.dev/create-an-image-comparison-slider/
+// Let's use the 'active' variable to let us know when we're using it
+let active = false;
 
-// Query the element
-const resizer = document.getElementById('js--resize');
-const leftSide = document.getElementById('js--clip');
+// First, set up event listeners for mouse and touch events
+document.querySelector('.thennow__resize').addEventListener('mousedown', function() {
+  active = true;
+});
 
-// The current position of mouse
-let x = 0;
-let y = 0;
+document.querySelector('.thennow__resize').addEventListener('touchstart', function(e) {
+  e.preventDefault(); // Prevent default behavior to avoid unexpected interactions
+  active = true;
+});
 
-// The width of modified element
-let leftWidth = 0;
+// Set up event listeners on the body for mouse and touch events
+document.body.addEventListener('mouseup', function() {
+  active = false;
+});
 
-// Handle the mousedown event
-// that's triggered when user drags the resizer
-const mouseDownHandler = function(e) {
-  // Get the current mouse position
-  x = e.clientX;
-  y = e.clientY;
-  leftWidth = leftSide.getBoundingClientRect().width;
+document.body.addEventListener('mouseleave', function() {
+  active = false;
+});
 
-  // Attach the listeners to `document`
-  document.addEventListener('mousemove', mouseMoveHandler);
-  document.addEventListener('mouseup', mouseUpHandler);
-};
+document.body.addEventListener('touchend', function() {
+  active = false;
+});
 
-const mouseMoveHandler = function(e) {
-  // How far the mouse has been moved
-  const dx = e.clientX - x;
-  const dy = e.clientY - y;
+document.body.addEventListener('touchcancel', function() {
+  active = false;
+});
 
-  let newLeftWidth = ((leftWidth + dx) * 100) / resizer.parentNode.getBoundingClientRect().width;
-  newLeftWidth = Math.max(newLeftWidth, 0);
-  newLeftWidth = Math.min(newLeftWidth, 100);
-
-  // Set the width for modified and resizer elements
-  leftSide.style.width = `${newLeftWidth}%`;
-  resizer.style.left = `${newLeftWidth}%`;
-};
-
-const mouseUpHandler = function(e) {
-  e = e || window.event;
-  e.preventDefault();
-  e.stopPropagation();
-  this.removeEventListener('mousemove', mouseMoveHandler);
+// Function to handle the start of dragging
+function handleDragStart(x) {
+  x -= document.querySelector('.thennow').getBoundingClientRect().left;
+  scrollIt(x);
 }
 
-document.addEventListener("DOMContentLoaded", function() {
-  // Attach the handler
-  resizer.addEventListener('mousedown', mouseDownHandler);
+// Function to handle dragging movement
+function handleDragMove(x) {
+  x -= document.querySelector('.thennow').getBoundingClientRect().left;
+  scrollIt(x);
+}
+
+// Let's figure out where their mouse is at
+document.body.addEventListener('mousemove', function(e) {
+  if (!active) return;
+  // Their mouse is here...
+  let x = e.pageX;
+  // but we want it relative to our wrapper
+  handleDragMove(x);
 });
+
+document.body.addEventListener('touchmove', function(e) {
+  if (!active) return;
+  let x = e.touches[0].clientX;
+  x -= document.querySelector('.thennow').getBoundingClientRect().left;
+  handleDragMove(x);
+});
+
+// Let's use this function
+function scrollIt(x) {
+  let transform = Math.max(0, Math.min(x, document.querySelector('.juxtapose__wrap').offsetWidth));
+  document.querySelector('.thennow__clip').style.width = transform + 'px';
+  document.querySelector('.thennow__resize').style.left = transform + 'px';
+}

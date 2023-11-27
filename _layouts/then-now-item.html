@@ -50,8 +50,8 @@ layout: default
       <figure class="u__list__unstyled u__vertical__p u__gutter__p juxtapose__wrap">
       {%- endif -%}
         <div class="thennow" style="aspect-ratio: {{ image.thennow_pair[0].sizes }}">
-          <div class="thennow__resize" id="js--resize" style="left: 50%"><span></span></div>
-          <div class="thennow__clip" id="js--clip" style="width: 50%">
+          <div class="thennow__resize" style="left: 50%"><span></span></div>
+          <div class="thennow__clip" style="width: 50%">
             <div class="thennow__then" style="background-image: url({{ site.thennow_path | append: page.slug | append: '/' | append: image.thennow_pair[0].url }})">
               <div class="thennow__label">{{ image.thennow_pair[0].year }}</div>
             </div>
