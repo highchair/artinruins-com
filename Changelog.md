@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2023-11-22
+
+Added
++ Added street numbers to the properties with streets so that we can sort by Street number in the Street tag pages. In some properties, there is no street number. In others, where a street is nearby or not the main postal address, no number is supplied either. These properties will be sorted first
+
 ## 2023-10-06
 
 Added
