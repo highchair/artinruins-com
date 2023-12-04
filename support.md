@@ -25,11 +25,6 @@ ArtInRuins is a labor of love. We are not a huge organization, we are not a gian
 _Note:_ AIR is not – nor can we afford to become – a registered 501c3 non-profit. Please remember that your contribution is not tax-deductible, but our love will keep you warm at night. 
 
 
-### Send us a Gift
-
-This is not why we do it… but if you really like ArtInRuins, we have a gift list on Amazon with some local resources, photography-related items, and graphic design things as well. If you are so inclined, something from this list would be fantastic. AND if you can get the same thing while supporting a local bookstore or shop, please do that and we’ll remove the item from [my public wish list](//www.amazon.com/gp/registry/wishlist/2NUTLG5EDL7U8/ref=cm_wl_huc_view){:target="_blank"}.
-
-
 ### Donate Time and/or Expertise
 
 The history we collect here is typically cut-and-pasted from work other people have done – we won’t pretend that it isn’t. And yet, some of it is new and done for the first time. Some of it is current events and it takes keeping our ears on the ground, picking up new info, riding by to see what is going on, or getting tips from fellow <strike>snoops</strike> historians like you.
@@ -50,6 +45,9 @@ We also have a [**To Do list** of items to research or update]({% link to-do-lis
 
 Thank you, thank you, thank you to the following folks who have contributed in one way or another:
 
++ Ian O’Connor, history for Olneyville Tire, 88 Plainfield Street
++ David Lawlor, drone photos of Corning Glass Works
++ Chloé Hurley, photo submissions
 + Amy Brassard & Katherine Porter, donations September 2022
 + Valerie Abitbol, donation July 2022
 + Osman Cortave, donation December 2021
