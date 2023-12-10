@@ -1,6 +1,16 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: us-rubber
+  person: 'Kenneth Tata'
+  date: '2023-12-04'
+  content: 'In the freely-polluting, pre-OSHA days, a drive past the plant was an olfactory sensation!!'
+
+- property: 137-charles-st
+  person: 'Kenneth Tata'
+  date: '2023-12-04'
+  content: 'They definitely sold bicycles! My father bought me a Fisher bicycle (Made in West Germany) there in about 1958 or 1959. My sister’s bicycle came from there a year or two later. Because it was perched on the river bank, I recall board fences at both ends of the building.'
+
 - property: benefit-street-2004
   person: 'Mike Messore'
   date: '2023-09-06'
