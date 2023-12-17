@@ -2,9 +2,9 @@
 title: "George’s Games & Music"
 slug: georges-billiards-pwt
 aka:
-date-modified: 2023-03-03 12:00
-update: 'Added three 1999 and older images of this building, one photo of a portion under construction'
-update-image: georges-billiards-pawtlib-1968-01.jpg
+date-modified: 2023-12-16 12:00
+update: 'Added photos of the demolition-ready structure, windows removed'
+update-image: georges-billiards-jh-2023-12-04.jpg
 
 built: 'Circa 1950'
 demolition: '2023'
@@ -12,7 +12,7 @@ redeveloped:
 units:
 decade: '1950-1959'
 date-added: '2022'
-categories: [ '#DemolitionAlert', '#UrbanDecay' ]
+categories: [ '#DemolitionAlert' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: []
@@ -58,8 +58,28 @@ images:
     sizes: '1200, 900'
   - url: georges-billiards-jh-2018-08-01.jpg
     sizes: '1440, 900'
+  - url: georges-billiards-jh-2023-12-01.jpg
+    sizes: '1440, 900'
+  - url: georges-billiards-jh-2023-12-02.jpg
+    sizes: '1440, 900'
+  - url: georges-billiards-jh-2023-12-03.jpg
+    sizes: '1440, 900'
+  - url: georges-billiards-jh-2023-12-04.jpg
+    sizes: '1440, 900'
+  - url: georges-billiards-jh-2023-12-05.jpg
+    sizes: '1440, 900'
+  - url: georges-billiards-jh-2023-12-06.jpg
+    sizes: '1440, 900'
+  - url: georges-billiards-jh-2023-12-07.jpg
+    sizes: '1200, 900'
+  - url: georges-billiards-jh-2023-12-08.jpg
+    sizes: '1440, 900'
+  - url: georges-billiards-jh-2023-12-09.jpg
+    sizes: '1200, 900'
+  - url: georges-billiards-jh-2023-12-10.jpg
+    sizes: '900, 900'
 
-mostrecentimage: 2018-07-01
+mostrecentimage: 2023-12-01
 
 imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157690062762483" target="_blank">Pawtucket Library on Flickr</a>'
 
