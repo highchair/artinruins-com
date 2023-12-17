@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade: '1850-1859'
 date-added: '2023'
-categories: [ '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
@@ -70,14 +70,26 @@ images:
   - url: 217-angell-jh-2022-11-04.jpg
     caption: 'Rear of 217 Angell Street with garage, looking north northwest'
     sizes: '1200, 900'
-  - url: 217-angell-jh-2022-11-05.jpg
+  - url: 217-angell-jh-2023-11-05.jpg
     caption: 'Stop Work sign posted on the door of 217 Angell Street'
     sizes: '900, 900'
   - url: 209-211-217-angell-jh-2023-11-01.jpg
     caption: '209, 211, and 217 (left to right) along Angell Street, looking southeast'
     sizes: '1440, 900'
+  - url: 217-angell-jh-2023-12-01.jpg
+    caption: '217 under demolition from the rear, looking northeast. It kills us that there still seems to be nice doors left in the building, just hanging there waiting for the claw'
+    sizes: '1200, 900'
+  - url: 217-angell-jh-2023-12-02.jpg
+    caption: '217 under demolition from the rear, looking north'
+    sizes: '1200, 900'
+  - url: 217-angell-jh-2023-12-03.jpg
+    caption: '217 under demolition , chopped in half, looking southeast'
+    sizes: '900, 900'
+  - url: 217-angell-jh-2023-12-04.jpg
+    caption: '217 under demolition , chopped in half, looking southwest'
+    sizes: '900, 900'
 
-mostrecentimage: 2022-11-01
+mostrecentimage: 2023-12-01
 
 imagescredit:
 
