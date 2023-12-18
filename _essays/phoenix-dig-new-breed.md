@@ -4,7 +4,7 @@ type: essay
 slug: phoenix-dig-new-breed
 title: "Dig the New Breed (The Phoenix archives)"
 excerpt: 'Providence got a wake-up call when opponents sounded off against a proposal to turn Eagle Square into a strip mall. A look at the rhetoric and reality of nurturing the arts'
-thumbnail: phoenix-dig-new-breed/Dig-the-New-Breed-Phoenix-2000-Dec-14.jpg
+thumbnail: phoenix/Dig-the-New-Breed-Phoenix-2000-Dec-14.jpg
 date-published: 2000-12-14
 date-modified: 2023-12-02
 date-added: '2023'
