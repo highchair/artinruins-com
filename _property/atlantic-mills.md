@@ -132,6 +132,10 @@ images:
 mostrecentimage: 2020-12-01
 
 imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A26982" target="_blank">Rhode Island Photograph Collection</a> and the <a href="//provlibdigital.org/islandora/object/islandora%3A263" target="_blank">Rhode Island Mills and Mill Villages Photograph Collection</a>, Providence Public Library; Christopher Martin, <a href="https://quahog.org" target="_blank">Quahog.org</a>; Google Earth; and the Library of Congress'
+
+external:
+  - source: 'Steve Dunwell portfolio — Black and white photo of both domed towers with their original lanterns'
+    url: https://stevedunwell.photoshelter.com/gallery-image/Mills/G0000dxEbA0wVtUk/I0000eK4d.65McIk/C0000IBg4HzxYzoo
 ---
 
 ### Current Events
