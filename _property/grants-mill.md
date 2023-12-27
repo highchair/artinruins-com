@@ -48,6 +48,9 @@ images:
     sizes: '1200, 900'
   - url: carpenter-mill-jh-2003-03-08.jpg
     sizes: '1440, 900'
+  - url: carpenter-mill-jn-2005-12-01.jpg
+    caption: 'Photo by Jef Nickerson'
+    sizes: '1440, 900'
   - url: grants-mill-wh-2010-11-01.jpg
     sizes: '600, 800'
   - url: grants-mill-wh-2010-11-02.jpg
@@ -73,7 +76,7 @@ images:
 
 mostrecentimage: 2010-11-01
 
-imagescredit: 'Photo contribution by Will Heublein'
+imagescredit: 'Photo contributions by Jef Nickerson and Will Heublein'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

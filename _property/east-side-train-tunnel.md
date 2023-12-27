@@ -130,6 +130,12 @@ In 2020 the tunnel still sits under College Hill, largely forgotten. Both entran
 
 ### History
 
+A video from SBR Productions featuring archiving footage of riding the rails from the East Side to East Providence.
+
+{% include video-embed.html id='BG3kjnRGwHA' %}
+
+***
+
 _Compiled from various sources_
 
 This tunnel was conceptualized in 1903 as a means of giving easy rail access to Union Station in the center of Providence. The tunnel connects the Seekonk and the Providence rivers, or Downtown Providence and the East Providence waterfront industrial district. The “[Scherzer Rolling Lift Bridge]({% link _property/crook-point-bascule.md %})” crossed over the Seekonk River to continue the railroad tracks into East Providence. Before Waterplace park changed downtown, a large concrete pier supporting a steel viaduct took trains out of the west entrance through what is now the Citizens bank headquarters building and behind [Union Station]({% link _property/union-station.md %}). Many of the stones from this viaduct and embankment, once it was demolished, were reused as pavers in Waterplace Park.

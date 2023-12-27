@@ -10,7 +10,7 @@ redeveloped: '2012, 2014, 2019'
 units:
 decade: '1840-1849'
 date-added: '2023'
-categories: [ '#UrbanDecay' ]
+categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Bristol, RI' ]
 designers: [ 'Russell Warren' ]

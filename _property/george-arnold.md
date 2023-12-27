@@ -42,6 +42,9 @@ images:
     sizes: '518, 691'
   - url: george-arnold-jh-2005-04-01.jpg
     sizes: '1200, 900'
+  - url: george-arnold-jn-2009-09-01.jpg
+    captio0n: 'Photo by Jef Nickerson capturing the aftermath of the fire'
+    sizes: '1440, 900'
   - url: george-arnold-jh-2010-04-01.jpg
     sizes: '1440, 900'
   - url: george-arnold-jh-2010-04-02.jpg
@@ -67,7 +70,7 @@ images:
 
 mostrecentimage: 2016-10-01
 
-imagescredit: 'Contributions from Robert Brewster for the National Register and Jonathan Winslow'
+imagescredit: 'Contributions from Robert Brewster for the National Register, Jef Nickerson, and Jonathan Winslow'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

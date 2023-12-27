@@ -46,10 +46,13 @@ images:
     sizes: '1200, 900'
   - url: little-nemo-jh-2010-10-05.jpg
     sizes: '1200, 900'
+  - url: little-nemo-jn-2011-03-01.jpg
+    caption: 'Photo by Jef Nickerson'
+    sizes: '1440, 900'
 
-mostrecentimage: 2010-10-01
+mostrecentimage: 2011-03-01
 
-imagescredit: 'Contribution from the National Register nomination form'
+imagescredit: 'Contribution from the National Register nomination form and Jef Nickerson'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

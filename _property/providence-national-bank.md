@@ -53,12 +53,24 @@ images:
     sizes: '1200, 900'
   - url: prov-nat-bank-jh-2004-11-01.jpg
     sizes: '1200, 900'
+  - url: prov-nat-bank-jn-2005-11-01.jpg
+    caption: 'Photo by Jef Nickerson'
+    sizes: '800, 582'
   - url: prov-nat-bank-ac-2005-12-01.jpg
     caption: 'Photo by Alex Carr, December 2005'
     sizes: '800, 533'
   - url: prov-nat-bank-ac-2005-12-02.jpg
     caption: 'Photo by Alex Carr, December 2005'
     sizes: '800, 533'
+  - url: prov-nat-bank-jn-2005-12-01.jpg
+    caption: 'Photo by Jef Nickerson'
+    sizes: '800, 582'
+  - url: prov-nat-bank-jn-2005-12-02.jpg
+    caption: 'Photo by Jef Nickerson'
+    sizes: '800, 566'
+  - url: prov-nat-bank-jn-2005-12-03.jpg
+    caption: 'Photo by Jef Nickerson'
+    sizes: '800, 582'
   - url: prov-nat-bank-jh-2006-02-01.jpg
     sizes: '1200, 900'
   - url: prov-nat-bank-dt-2006-03-01.jpg
@@ -72,7 +84,7 @@ images:
     caption: 'Photo by Kevin James, July 2012'
     sizes: '1400, 933'
 
-imagescredit: 'Contributions by <a href="http://www.ricurrency.com/bank-name/providence-bank/" target="_blank">RICurrencycom</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A14465" target="_blank">RI Photograph Collection</a> Providence Public Library, Alex Carr, and Kevin James.'
+imagescredit: 'Contributions by <a href="http://www.ricurrency.com/bank-name/providence-bank/" target="_blank">RICurrencycom</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A14465" target="_blank">RI Photograph Collection</a> Providence Public Library, Jef Nickerson, Alex Carr, and Kevin James.'
 ---
 
 ### Reason for Demolition
