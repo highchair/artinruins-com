@@ -197,7 +197,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + Jerothmul B. Barnaby House (“Barnaby’s Castle”)
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Narragansett Electric Lightning]({% link _property/south-street-power.md %}) (“Dynamo House”)
 + **Neighborhood Theaters**: Bomes, Castle, and Columbus
-+ Outlet Parking Garage
++ <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Outlet Parking Garage]({% link _property/outlet-parking-garage.md %})
 + **Providence National Register District**: Benjamin Dyer Block, [George C. Arnold Building]({% link _property/george-arnold.md %}), [Providence National Bank]({% link _property/providence-national-bank.md %}) façade, [Teste Block]({% link _property/teste-block.md %})
 + **Providence Public Schools**: Asa Messer School & Annex, Vartan Gregorian, West Broadway Elementary
 
