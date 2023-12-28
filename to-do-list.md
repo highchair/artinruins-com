@@ -35,7 +35,7 @@ The other is more interesting as it was the original home of the Sarah Doyle Wom
 https://www.providencejournal.com/article/20140327/OPINION/303279890
 {% endcomment %}
 
-Mr. Brussat was the Providene Journal’s architecture critic for decades and [he still maintains a blog](//architecturehereandthere.com/){:target="_blank"}. We have [a list page of Mr. Brussat’s 10 Best Lost buildings]({% link list/brussat-s-10-best-lost-buildings.html %}) but would need help completing the missing properties. The missing properties are: 
+Mr. Brussat was the Providence Journal’s architecture critic for decades and [he still maintains a blog](//architecturehereandthere.com/){:target="_blank"}. We have [a list page of Mr. Brussat’s 10 Best Lost buildings]({% link list/brussat-s-10-best-lost-buildings.html %}) but would need help completing the missing properties. The missing properties are: 
 
 + The Butler Exchange
 + The Outlet Company
@@ -43,6 +43,8 @@ Mr. Brussat was the Providene Journal’s architecture critic for decades and [h
 + The Narragansett Hotel
 + The Hoppin Homestead building (1875, James Bucklin)
 + The Benjamin Hoppin House (1816, razed in 1875 for the Hoppin Homestead)
+
+We'll be working on adding some of these to the archives, as there are photo sources at the library. But if anyone knows of non-PPL sources for imagery, please let us know.
 
 ### Corliss Steam Engine Company
 
@@ -77,7 +79,6 @@ The site uses a GA4 tracking code for analytics. Visitors opt out when they reje
 ### Interactive Map
 
 Each property has a latitude and longitude associated with it as well as a Google Maps link. We currently do not use the lat and long for anything, but the idea was to eventually host our own maps. We’d like to use Open Street Maps instead of Google but that requires a map tile rendering engine service. If anyone has expertise in setting these things up, that’d be a great project top contribute.
-
 
 
 {% comment %}
