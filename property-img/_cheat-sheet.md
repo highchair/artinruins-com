@@ -17,6 +17,8 @@ Contributions from Christopher Martin of <a href="https://quahog.org" target="_b
 _by Gregory Smith_  
 **Providence Journal** | December 4, 2003 (abridged)
 
+_From the Providence Preservation Society Online Architecture Guide_
+
 _From the National Register nomination form for the Downtown Providence Historic District, amendment & expansion, 2007_
 
 _From the PPS/AIAri Providence Architecture Guide, 2003, by Wm. MacKenzie Woodward_
