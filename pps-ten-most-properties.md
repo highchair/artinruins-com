@@ -253,7 +253,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + George J. West Elementary School
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Grove Street Elementary School]({% link _property/grove-st-school.md %})
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Louttit Laundry/What Cheer Laundry]({% link _property/louttit-laundry.md %})
-+ Mt. Pleasant High School
++ <span class="u__text__sans--bold u__color__violator">#DemolitionAlert</span> [Mt. Pleasant High School]({% link _property/mt-pleasant-high-school.md %})
 + Nathan Bishop Middle School
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> former [Police and Fire Headquarters]({% link _property/public-safety-lasalle-square.md %})
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Providence Produce Warehouse]({% link _property/providence-fruit-produce.md %})
