@@ -11,7 +11,7 @@ redeveloped: '1998, 1999'
 units:
 decade: '1930-1939'
 date-added: '2023'
-categories: [ '#UrbanDecay', '#DemolitionAlert' ]
+categories: [ '#DemolitionAlert' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]

@@ -11,7 +11,7 @@ redeveloped:
 units:
 decade: '1890-1899'
 date-added: '2005'
-categories: [ '#NotInRuins', '#ArchiveRI' ]
+categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Stone, Carpenter, & Willson' ]

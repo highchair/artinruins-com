@@ -34,43 +34,64 @@ thumbnail: william-haskell-jh-2008-03-01.jpg
 
 images:
   - url: william-haskell-pawlib-1905-01.jpg
-    caption: 'An engraving circa 1905 showing some of the buildings still standing, including the 1860 mansard roof portion. Collection of the Pawtucket Library'
     alt: 'A collection of 19th- and 20th-century red brick industrial mill buildings originally used for the manufacture of screws and fasteners.'
+    caption: 'An engraving circa 1905 showing some of the buildings still standing, including the 1860 mansard roof portion. Collection of the Pawtucket Library'
+    sizes: '2000, 838'
   - url: william-haskell-wj-1982-03-01.jpg
     caption: 'Looking north from Main Street at the two-story concrete 1920s warehouse. Photo by Warren Jagger for the National Register'
+    sizes: '1440, 900'
   - url: william-haskell-wj-1982-03-02.jpg
     caption: 'Looking northwest at the three-story mansard roof 1860s mill. Photo by Warren Jagger for the National Register'
+    sizes: '1440, 900'
   - url: william-haskell-wj-1982-03-03.jpg
     caption: 'Looking northwest at the one-story remnant of the James Brown Mill (c. 1845). Photo by Warren Jagger for the National Register'
+    sizes: '1200, 900'
   - url: william-haskell-wj-1982-03-04.jpg
     caption: 'Looking north at the 1885 Haskell Manufacturing Company Mill, showing the long, Commerce Street facade. Photo by Warren Jagger for the National Register'
+    sizes: '1440, 900'
   - url: william-haskell-jh-2008-03-01.jpg
     caption: 'Looking north from Main Street at the two-story concrete 1920s warehouse.'
+    sizes: '1440, 900'
   - url: william-haskell-jh-2009-11-02.jpg
     caption: 'The southwest corner of the 1920s warehouse'
+    sizes: '1200, 900'
   - url: william-haskell-jh-2009-11-03.jpg
     caption: 'Detail of the brass lettering embedded in the concrete façade of the 1920s warehouse'
+    sizes: '1200, 900'
   - url: william-haskell-jh-2009-11-04.jpg
+    sizes: '1200, 900'
   - url: william-haskell-jh-2009-11-05.jpg
+    sizes: '1200, 900'
   - url: william-haskell-jh-2009-11-06.jpg
+    sizes: '1200, 900'
   - url: william-haskell-jh-2009-11-07.jpg
     caption: 'Looking west across the central parking lot at the 1860 portion of the mill'
+    sizes: '1440, 900'
   - url: william-haskell-jh-2009-11-08.jpg
     caption: 'Looking west northwest at the one-story remnant of the 1845 James Brown Mill'
+    sizes: '1440, 900'
   - url: william-haskell-jh-2009-11-09.jpg
     caption: 'Looking southeast at a one-story gable roof building in the complex'
+    sizes: '1200, 900'
   - url: william-haskell-jh-2009-11-10.jpg
+    sizes: '1200, 900'
   - url: william-haskell-jh-2009-11-11.jpg
+    sizes: '1200, 900'
   - url: william-haskell-jh-2009-11-12.jpg
     caption: 'Brick cornice detail on the gable-end annex'
+    sizes: '1200, 900'
   - url: william-haskell-jh-2009-11-13.jpg
     caption: 'Looking east northeast along Bayley Street at the rear of the complex'
+    sizes: '1440, 900'
   - url: william-haskell-jh-2009-11-14.jpg
     caption: 'Looking southeast at the building on the corner of Baylet and Commerce'
+    sizes: '1200, 900'
   - url: william-haskell-jh-2009-11-15.jpg
     caption: 'A capture of the Kellaway Warehouse Services Incorporated sign'
+    sizes: '1200, 900'
   - url: william-haskell-jh-2016-10-01.jpg
     caption: 'The Guild brewery under construction in 2016'
+    sizes: '1440, 900'
 
 mostrecentimage: 2016-10-01
 

@@ -11,7 +11,7 @@ redeveloped: '2021'
 units:
 decade: '1910-1919'
 date-added: '2008'
-categories: [ '#UrbanDecay' ]
+categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]

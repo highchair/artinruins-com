@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade: '1970-1979'
 date-added: '2006'
-categories: [ '#NotInRuins', '#UrbanDecay' ]
+categories: [ '#UrbanDecay' ]
 neighborhoods: []
 town: [ 'Lincoln, RI' ]
 designers: []

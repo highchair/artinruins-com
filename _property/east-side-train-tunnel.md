@@ -11,7 +11,7 @@ demolition: '1983'
 redeveloped: 
 decade: '1900-1909'
 date-added: '2004'
-categories: [ '#ArchiveRI', '#UrbanDecay' ]
+categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'East Side', 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: []

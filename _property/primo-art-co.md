@@ -11,7 +11,7 @@ redeveloped:
 units:
 decade: '1920-1929'
 date-added: '2005'
-categories: [ '#NotInRuins', '#UrbanDecay' ]
+categories: [ '#NotInRuins' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]

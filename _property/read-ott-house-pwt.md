@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade: '1840-1849'
 date-added: '2023'
-categories: [ '#UrbanDecay' ]
+categories: [ '#DemolitionAlert' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'W. G. Sheldon' ]

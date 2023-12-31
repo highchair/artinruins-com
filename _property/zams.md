@@ -4,11 +4,11 @@ slug: zams
 aka:
 date-modified: 2020-05-23 17:00
 
-built: 1940?
-demolition: 1985
+built: '1940?'
+demolition: '1985'
 decade: '1940-1949'
-date-added: 2003
-categories: [ '#ArchiveRI', '#UsedToBeThere' ]
+date-added: '2003'
+categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]

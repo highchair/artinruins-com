@@ -12,7 +12,7 @@ redeveloped: '2011–2018'
 units:
 decade: '1940-1949'
 date-added: '2012'
-categories: [ '#NotInRuins', '#UrbanDecay' ]
+categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
