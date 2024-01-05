@@ -9,7 +9,6 @@ sitemap:
   changefreq: 'weekly'
 ---
 {%- assign properties = site.property -%}
-{%- assign propsize = properties.size -%}
 {%- assign thennows = site.then-now -%}
 {%- assign essays = site.essays -%}
 {%- assign items = properties | concat: thennows | concat: essays | sort: 'date-modified' | reverse -%}
@@ -65,9 +64,9 @@ sitemap:
       <li><a href="#anec" class="u__sr-only u__sr-only--focusable skip-link">Skip to Recent Anecdotes</a></li>
     </ul>
 
-    <p class="u__vertical__pb">We document the architectural landscape and collect the oral, written, and photographic history of important places in Rhode Island. We hope to be a safe space for storytelling, memory-sharing, and dreaming about the future of the built environment. <a href="{% link about.md %}">More about <span class="abbr">A.I.R.</span></a></p>
-    
-    <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ propsize }} properties</span> and <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=totalimg %} images</span>. Browse more from our <a href="{% link all-tags.html %}">Categories and Tags</a>.</p>
+    <p class="v-rhythm">We document the architectural landscape and collect the oral, written, and photographic history of important places in Rhode Island. We hope to be a safe space for storytelling, memory-sharing, and dreaming about the future of the built environment. <a href="{% link about.md %}">More about <span class="abbr">A.I.R.</span></a></p>
+
+    <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ properties.size }} properties</span> and <a href="{% link essays.html %}">{{ essays.size }} Essays</a> with <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=totalimg %} images</span>. Browse more from our <a href="{% link all-tags.html %}">Categories and Tags</a>.</p>
 
     {%- comment -%}
       Output Demolition Alerts — Should be less than a month old and limited to 1
