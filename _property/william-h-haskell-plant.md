@@ -14,9 +14,10 @@ categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
-people: []
+people: [] #Stephen Jenks 
 lists: [ 'Church Hill Industrial District', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places' ]
-tags: []
+tags: [ 'The Superlatives' ]
+superlative: 'Called “one of the most important operating industrial sites in the state”'
 
 NRHP-ref-number: '82000135 (contributing)'
 added-to-NRHP: '1982'
@@ -144,9 +145,15 @@ The William H. Haskell Manufacturing Plant is a red brick industrial complex con
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
-JAMES S. BROWN MACHINE SHOP 1847-1848 Pawtucket — 483 Main Street
+WILLIAM HASKELL MANUFACTURING COMPANY Pawtucket
 
-The first building in this complex, the foundry, was constructed in 1847 on property now owned by the **Haskell Manufacturing Company**. It has since been dismantled except for a small 1-story, pitched roof section. The 2-story, brick machine shop, with a pitched roof and a basement half its length, was built 400’ X 60’ in 1848. Its south facade has been sharply altered. A stepped gable has been added and much of the original brickwork has been covered over. James S. Brown, the son of Sylvanus Brown — skilled millwright and pattern maker who worked for both Samuel Slater and David Wilkinson — was the original owner. A skilled machinist and inventor, James Brown invented a lathe slide rest in 1820 capable of adjusting the height of the cutting tool while the lathe was in motion. In 1832, he patented a machine for cutting bevel gearing; in 1838, a machine-for boring the tubes of speeder flyers; and in 1842, a lathe for irregular forms. The new machine shop saw the invention of a machine for grinding spindles 1874, a machine for drilling rollers for spinning frames 1875-1876, and an improvement in spinning mules 1876. By 1876 the shop was powered by a steam engine of 56-horsepower and employed 300 men. The building now houses a jewelry manufacturer. No historic machinery survives. 
+Main and Commerce Streets c. 1860 ‘19.301700.4638660 Pawtucket Providence
+
+The Haskell Manufacturing Company, the oldest continually operating bolt and cold-punched nut-plant in the United developed from a small shop started by Stephen Jenks at Pawtucket Falls. Jenks began making bolts about 1820 and was the first artisan in Pawtucket to introduce cold-punching from bar iron. In 1835, Tinkham, Haskell, and Company bought the business and sold it one year later to W. H. Haskell. Haskell moved to the current site about 1860, at approximately the same time that James Brown was building his adjoining machine shop. A 2-story, brick building, 162’. X 40’, survives from that period. The mansard roof over the South-end was added later. The building now ‘contains patternS for bolt and nut machinery of Haskell’s own manufacture.
+
+The large 2-story, brick building extending along Commerce and Bayley Streets was built in 1885 and continues to be used for production. Operating machinery includes a row of c. 1912 double-tool-post shavers; built by the Pawtucket Manufacturing Company; a 15-inch universal shaper 1916, built by Potter Johnson of Pawtucket; and a 1⁄2-inch-lag screw, gimlet pointer 1918, built by National Machine of Tiffin, Ohio. The forge room, located on the Bayley Street side of the building, contains a 7/8-inch hammer-heading forging machine 1917, built by the Pawtucket Manufacturing Company. The company also has a battery of Brown Sharpe screw machines.
+
+Other machinery, from the 1930s, includes Landis threading machines; stamping presses and shearing presses built by Haskell; and Waterbury-Farrel single die, double stroke, cold headers. The latest machines are located in a 1920 concrete and brick building on the southwest edge of the site. With its long and distinguished history, and its continued use of early 20th-century machinery, the Haskell Manufacturing Company is one of the most important operating industrial sites in the state.
 
 ***
 
