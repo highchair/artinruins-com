@@ -1,7 +1,7 @@
 ---
 title: "William H. Haskell Manufacturing Plant"
 slug: william-h-haskell-plant
-aka: 'James Brown Machine Shop, the Kellaway Center, The Guild'
+aka: 'The Kellaway Center, The Guild'
 date-modified: 2023-12-26 12:00
 
 built: '1845, 1860, 1885, 1920'
@@ -34,8 +34,11 @@ excerpt: "A former screw and fastener manufacturer that has been revitalized as 
 thumbnail: william-haskell-jh-2008-03-01.jpg
 
 images:
-  - url: william-haskell-pawlib-1905-01.jpg
+  - url: catalog-engraving-by-1898-01.jpg
     alt: 'A collection of 19th- and 20th-century red brick industrial mill buildings originally used for the manufacture of screws and fasteners.'
+    caption: 'Engraving from a product catalog dated 1898, building configuration likely from early 1890s'
+    sizes: '1993, 900'
+  - url: william-haskell-pawlib-1905-01.jpg
     caption: 'An engraving circa 1905 showing some of the buildings still standing, including the 1860 mansard roof portion. Collection of the Pawtucket Library'
     sizes: '2000, 838'
   - url: william-haskell-wj-1982-03-01.jpg
@@ -125,7 +128,8 @@ The concept is a brilliant one. It is expensive for small craft brewers to produ
 
 ### History
 
-[Photos from the Pawtucket Library Collection on Flickr](//www.flickr.com/photos/pawtucketlibrary/albums/72157708802608028/){:target="_blank"}.
++ [Photos from the Pawtucket Library Collection on Flickr](//www.flickr.com/photos/pawtucketlibrary/albums/72157708802608028/){:target="_blank"}
++ [1898 Catalog for the Wm. H. Haskell Company](//archive.org/details/Wm.H.HaskellCompany/page/n7/mode/2up){:target="_blank"} care of the Internet Archive and the Building Technology Heritage Library
 
 ***
 

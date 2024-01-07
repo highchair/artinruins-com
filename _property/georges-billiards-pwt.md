@@ -2,9 +2,9 @@
 title: "George’s Games & Music"
 slug: georges-billiards-pwt
 aka:
-date-modified: 2023-12-16 12:00
-update: 'Added photos of the demolition-ready structure, windows removed'
-update-image: georges-billiards-jh-2023-12-04.jpg
+date-modified: 2024-01-06 13:00
+update: 'Added a photo of the demolition from Marc Doughty'
+update-image: georges-billiards-md-2024-01-01.jpg
 
 built: 'Circa 1950'
 demolition: '2023'
@@ -12,7 +12,7 @@ redeveloped:
 units:
 decade: '1950-1959'
 date-added: '2022'
-categories: [ '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: []
@@ -78,10 +78,13 @@ images:
     sizes: '1200, 900'
   - url: georges-billiards-jh-2023-12-10.jpg
     sizes: '900, 900'
+  - url: georges-billiards-md-2024-01-01.jpg
+    caption: 'Photo from Marc Doughty'
+    sizes: '1440, 900'
 
 mostrecentimage: 2023-12-01
 
-imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157690062762483" target="_blank">Pawtucket Library on Flickr</a>'
+imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157690062762483" target="_blank">Pawtucket Library on Flickr</a> and Marc Doughty'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

@@ -2,7 +2,8 @@
 title: "Angell Street, #209, 211, and 217"
 slug: 209-211-217-angell-st-pvd
 aka:
-date-modified: 2023-11-18 12:00
+date-modified: 2024-01-06 12:00
+update: 'Added images of the complete demolition'
 
 built: '1854–1895'
 demolition:
@@ -88,8 +89,15 @@ images:
   - url: 217-angell-jh-2023-12-04.jpg
     caption: '217 under demolition , chopped in half, looking southwest'
     sizes: '900, 900'
-
-mostrecentimage: 2023-12-01
+  - url: 211-angell-jh-2023-12-01.jpg
+    caption: '211 demolished quickly in about a day'
+    sizes: '1440, 900'
+  - url: 209-angell-jh-2024-01-01.jpg
+    caption: '209 Angell is the last to go. Demolition started Jan 2 and ended the next day.'
+    sizes: '1440, 900'
+  - url: 209-angell-jh-2024-01-02.jpg
+    caption: 'And 209 is a pile of splinters, plaster, shingles, and brick.'
+    sizes: '1440, 900'
 
 imagescredit:
 
@@ -101,6 +109,8 @@ imagescredit:
 ### Reason for Demolition
 
 While the [news story below](#in-the-news) says “no one knows why” demolition was requested, we know why — Money is always the answer. There is money to be made in new development, and some, but not as much, to be made owning and maintaining old houses for rent.
+
+We feel that a future developer will have an easier time constructing new apartments or bringing the hotel proposal back now that the houses are gone. The demolition of historic homes — though under no legal protections — might have been one of the reasons why the hotel was rejected. Or at least the developers might think so. Easier to take them down now and get permission for new construction later.
 
 Let us also say that developers in this area have been given a pass to do whatever they want. It bears repeating that [in 10 years, the four blocks bounded by Angell, Brook, Cushing, and Thayer Streets saw the loss of almost 30 late-19th century houses]({% link _essays/erosion-of-college-hill-historic-district.md %}) and the conversion of 3 more away from historic status. At this point, demolishing another three homes continues the trend of loss and a pivot away from a historic neighborhood.
 
@@ -119,7 +129,7 @@ Right on, Nina. We’re with you. This is a wasted opportunity from someone with
 
 ### Current Events
 
-The houses stand as of November, 2023, but they may not stand for much longer.
+The houses are completely gone and the parcels are being cleared of debris as of January 4, 2024.
 
 
 ### History
@@ -131,6 +141,8 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 211 – House, after 1895. Colonial Revival; 2-1/2 stories; hip roof; siding; entrance in enclosed porch on east; bay window above entrance; large front dormer with pedimented gable; detail stripped.
 
 217 – House, 1892. Colonial Revival; 2-1/2 stories; massive end-gambrel roof; clapboard; fine large-scale, compact dwelling; off-center entrance covered by central porch with paired Tuscan columns; bay window over porch contains stucco relief panel with foliate ornament and date; entablature trim between floors and 1st-story corner pilasters; bracketed side overhangs over 1st story and end overhangs over 2nd; side bays and dormers; chimney projects through dormer on west.
+
+**NOTE:** Though the houses were included in the nomination form, they were not officially part of the district. A homeowner has the ability to abstain from being included in the district, or the commission could have decided — based on various factors — that the houses did not deserve inclusion. Even if the houses were part of the National Register district, they would not be prevented from demolition if the owners chose to do so. At best, a delay for review would have occurred.
 
 
 ### In the News
