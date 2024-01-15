@@ -10,7 +10,7 @@ redeveloped:
 decade: '1900-1909'
 date-added: '2003'
 categories: [ '#ArchiveRI' ]
-neighborhoods: []
+neighborhoods: [ 'Riverside' ]
 town: [ 'East Providence, RI' ]
 designers: [ 'Copeland and Dole' ]
 lists: [ 'Did You Know?' ]

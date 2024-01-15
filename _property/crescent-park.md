@@ -10,7 +10,7 @@ redeveloped:
 decade: '1880-1889'
 date-added: '2004'
 categories: [ '#ArchiveRI', '#UsedToBeThere' ]
-neighborhoods: []
+neighborhoods: [ 'Riverside' ]
 town: [ 'East Providence, RI' ]
 designers: [ 'George B. Boyden' ]
 lists: [ 'Did You Know?', 'National Register of Historic Places' ]
