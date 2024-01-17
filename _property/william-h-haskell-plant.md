@@ -2,7 +2,9 @@
 title: "William H. Haskell Manufacturing Plant"
 slug: william-h-haskell-plant
 aka: 'The Kellaway Center, The Guild'
-date-modified: 2023-12-26 12:00
+date-modified: 2024-01-17 12:00
+update: 'Added thirteen new recent photos of the property'
+update-image: 'william-haskell-jh-2024-01-01.jpg'
 
 built: '1845, 1860, 1885, 1920'
 demolition:
@@ -96,8 +98,35 @@ images:
   - url: william-haskell-jh-2016-10-01.jpg
     caption: 'The Guild brewery under construction in 2016'
     sizes: '1440, 900'
+  - url: william-haskell-jh-2024-01-01.jpg
+    sizes: '1440, 900'
+  - url: william-haskell-jh-2024-01-02.jpg
+    sizes: '1440, 900'
+  - url: william-haskell-jh-2024-01-03.jpg
+    sizes: '1200, 900'
+  - url: william-haskell-jh-2024-01-04.jpg
+    sizes: '1200, 900'
+  - url: william-haskell-jh-2024-01-05.jpg
+    caption: 'The former on-story gable roof building is now gone — once the oldest part of the complex, built 1845'
+    sizes: '1440, 900'
+  - url: william-haskell-jh-2024-01-06.jpg
+    sizes: '1440, 900'
+  - url: william-haskell-jh-2024-01-07.jpg
+    sizes: '1440, 900'
+  - url: william-haskell-jh-2024-01-08.jpg
+    sizes: '1440, 900'
+  - url: william-haskell-jh-2024-01-09.jpg
+    sizes: '1200, 900'
+  - url: william-haskell-jh-2024-01-10.jpg
+    sizes: '1200, 900'
+  - url: william-haskell-jh-2024-01-11.jpg
+    sizes: '1440, 900'
+  - url: william-haskell-jh-2024-01-12.jpg
+    sizes: '1440, 900'
+  - url: william-haskell-jh-2024-01-13.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2016-10-01
+mostrecentimage: 2024-01-01
 
 imagescredit: 'Contributions from the Pawtucket Library on Flickr and Warren Jagger for the National Register nomination form'
 
