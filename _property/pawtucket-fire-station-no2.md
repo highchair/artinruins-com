@@ -2,7 +2,9 @@
 title: "Pawtucket Fire Station no. 2"
 slug: pawtucket-fire-station-no2
 aka: 'Leon Mathieu Senior Center'
-date-modified: 2022-03-26 12:00
+date-modified: 2024-01-01 12:00
+update: 'Added two new recent images'
+update-image: pawt-fire-2-jh-2024-01-01.jpg
 
 built: '1905–1906'
 demolition:
@@ -17,9 +19,6 @@ designers: [] # Albert H. Humes
 people: []
 lists: []
 tags: [ 'Fire Stations' ]
-
-NRHP-ref-number:
-added-to-NRHP:
 
 address: '420 Main St, Pawtucket RI'
 latitude: '41.8766032'
@@ -49,8 +48,12 @@ images:
     sizes: '1200, 900'
   - url: pawt-fire-2-jh-2009-11-05.jpg
     sizes: '1200, 900'
+  - url: pawt-fire-2-jh-2024-01-01.jpg
+    sizes: '1200, 900'
+  - url: pawt-fire-2-jh-2024-01-02.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2009-11-01
+mostrecentimage: 2024-01-01
 
 imagescredit: 'Contributions from the Pawtucket Library Digital Collection on Flickr (<a href="//www.flickr.com/photos/pawtucketlibrary/27780367792" target="_blank">postcard,</a> <a href="//www.flickr.com/photos/pawtucketlibrary/46856289314" target="_blank">photo</a>)'
 
