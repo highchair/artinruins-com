@@ -33,6 +33,7 @@ thumbnail: gasometer-adw-2019-01.jpg
 
 images:
   - url: gasometer-jh-2004-09-08.jpg
+    alt: 'A one and a half story circular red brick building with attached triangular office space. The curcular part of the building was used to store off-gas for fuel.'
     sizes: '768, 924'
   - url: gasometer-jh-2004-09-06.jpg
     sizes: '1200, 900'
@@ -81,9 +82,9 @@ imagescredit: 'Contributions from <a href="//www.flickr.com/photos/hivearchive/"
 
 ### Redevelopment
 
-As the [history from SignalWorks Architects documents]({% link supplements/atlantic-mill-gasometer-history.md %}), the building was used as a gasometer by the Atlantic Mills until the turn of the century, when the dome was replaced by a flat, wood timbered roof. From about 1900 to 1940 they continued to use it as storage until leasing it to Arpin Van Lines until 1980. A jewerly manufacturer used it for another 20 years until it was vacated in 2000.
+As the [history from SignalWorks Architects documents]({% link supplements/atlantic-mill-gasometer-history.md %}), the building was used as a gasometer by the Atlantic Mills until the turn of the century, when the dome was replaced by a flat, wood timbered roof. From about 1900 to 1940 they continued to use it as storage until leasing it to Arpin Van Lines until 1980. A jewelry manufacturer used it for another 20 years until it was vacated in 2000.
 
-From about 2003 up until 2014, the art collection **Hive Archive** made the rotunda their home base. They got a grant and fundraised to strip the building down to the studs, support the rotunda ceiling with new steel trusses, repoint and repair the brick, upgrade some of the windows, were in the process of turning the building into studio, performance, and community spaces.
+From about 2003 up until 2014, the art collection **Hive Archive** made the rotunda their home base. They got a grant and fundraised to strip the building down to the studs, support the rotunda ceiling with new steel trusses, repoint and repair the brick, upgrade some of the windows, and were in the process of turning the building into studio, performance, and community spaces.
 
 The work was never fully completed. Unfortunately, the Hive Archive dissolved as an organization in 2014[^1] and the building was once again underutilized and vacant.
 
@@ -106,6 +107,7 @@ A brick or stone structure, usually round, built to contain flammable gas. A dom
 
 [A thorough history]({% link supplements/atlantic-mill-gasometer-history.md %}) was compiled by the architect and designers **Studio Meja**, now [SignalWorks](//www.signalworksarchitecture.com){:target="_blank"}, of the Atlantic Designworks project.
 
+***
 
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 

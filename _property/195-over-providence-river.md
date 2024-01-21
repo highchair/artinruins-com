@@ -31,6 +31,7 @@ thumbnail: i-195-river-jh-2010-11-10.jpg
 images:
   - url: i-195-river-jh-2010-11-01.jpg
     caption: 'View north from the western shore of the Providence River'
+    alt: 'A series of steel-reinforced concrete columns, retaining walls, ramps, and overhead roadways that used to cut through downtown Providence and the Fox Point neighborhood'
   - url: i-195-river-jh-2010-11-02.jpg
     caption: 'View north from the western shore of the Providence River'
   - url: i-195-river-jh-2010-11-03.jpg

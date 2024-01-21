@@ -156,14 +156,15 @@ The real silver lining might be the smarter developments and stronger collective
 + [Monohasset Mill]({% link _property/monohasset-mill.md %}),
 + [the Steel Yard]({% link _property/providence-steel-iron.md %}),
 + [the Plant]({% link _property/providence-dye-bleach-calendering.md %}),
-+ [(the forer) Firehouse 13]({% link _property/good-will-engine-co.md %})
++ the Hive Archive’s initial investment in the [Atlantic Mills Gasometer]({% link _property/atlantic-mills-gasometer.md %}),
++ [(the former) Firehouse 13]({% link _property/good-will-engine-co.md %}), now Good Will Engine Company.
 
 And to a lessor degree, the Streuver Brothers investments in the City:
 + [Rising Sun Mills]({% link _property/national-providence-worsted.md %}),
 + [Calender Mills]({% link _property/atlantic-degras.md %}), and
-+ [ALCo]({% link _property/american-locomotive-works.md %})
++ [ALCo]({% link _property/american-locomotive-works.md %}).
 
-The first four were artist-inspired or artist-run and managed. These represent a “line in the sand” for those that decided to own something and take control, rather than rely on altruistic investors to do the right thing. The [SBER]({% link designer/sber.html %}) projects were investments in the sought-after mill spaces. Ones which, though mixed-blessings in their own right, have proven to be valuable options for people wanting to live in the city. They provide a range of housing that a diverse place like Providence needs. All of these projects benefitted from the Eagle Square conversation, and **“Not another Eagle Square”** became a personal and public mantra for people in the field.
+The first five were artist-inspired or artist-run and managed. These represent a “line in the sand” for those that decided to own something and take control, rather than rely on altruistic investors to do the right thing. The [SBER]({% link designer/sber.html %}) projects were investments in the sought-after mill spaces. Ones which, though mixed-blessings in their own right, have proven to be valuable options for people wanting to live in the city. They provide a range of housing that a diverse place like Providence needs. All of these projects benefitted from the Eagle Square conversation, and **“Not another Eagle Square”** became a personal and public mantra for people in the field.
 
 It even gave rise to this little blog project.
 
@@ -187,7 +188,7 @@ Today the two main brick buildings, which originally were three and one-half sto
 
 ### In The News
 
-For the [complete “Dig the New Breed” article]({% link _essays/phoenix-dig-the-new-breed.md %}), see our archived Essay.
+For the [complete “Dig the New Breed” article]({% link _essays/phoenix-dig-new-breed.md %}), see our archived Essay.
 {:.o__tldr}
 
 #### Dig the New Breed: Eagle Square part I

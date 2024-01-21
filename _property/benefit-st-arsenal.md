@@ -27,6 +27,7 @@ latitude: '41.8284648'
 longitude: '-71.4110382'
 gmap: "https://www.google.com/maps/place/176+Benefit+St,+Providence,+RI+02903/@41.8284648,-71.4110382,17z/data=!3m1!4b1!4m6!3m5!1s0x89e445178880f35b:0x79c6e2d366094bb4!8m2!3d41.8284608!4d-71.4084633!16s%2Fg%2F11c1cn0w6q"
 street: [ 'Benefit St' ]
+street-number: 176
 
 meta: ""
 excerpt: "An almost two-century old building which has been in constant use for military-related purposes"

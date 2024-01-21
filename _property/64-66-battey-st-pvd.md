@@ -30,6 +30,7 @@ excerpt: "A narrow, modern duplex building on a narrow, hard to build lot introd
 
 images:
   - url: battey-st-jh-2013-01-01.jpg
+    alt: 'A two story, two family home or apartment building. All angles are rectangular to fit a narrow lot. The structure has a flat roof and therefore looks like a stack of cardboard boxes.'
   - url: battey-st-jh-2020-11-01.jpg
   - url: battey-st-jh-2020-11-02.jpg
   - url: battey-st-jh-2021-03-01.jpg
