@@ -3,6 +3,12 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2024-01-21
+
+Changed
++ Added more direct and targeted screen reader text support in major templates, namely more aria-labels for landmarks and more context for links in the Property Details list
++ Corrected the markup for anchor links within headers to be hidden from screen readers. The previous markup allowed links to have nothing but the # (hash) character to be the content, and other arrangements we tried duplicated content and made the headers more confusing
+
 ## 2023-11-22
 
 Added

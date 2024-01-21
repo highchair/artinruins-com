@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
       for (let key in byDistance) {
         if (max < limit) {
-          html += '<li><div class="taxonomy__img-wrap">' + byDistance[key].imgpath + '</div><div class="taxonomy__colwrap"><div class="taxonomy__title-wrap"><h3 class="h5 taxonomy__card-title"><a href="/property/' + byDistance[key].slug + '" class="taxonomy__link">' + byDistance[key].title + '</a></h3><p class="taxonomy__excerpt">' + byDistance[key].excerpt + '</p><p><i>' + convertMilesToFeet(byDistance[key].distance) + ' feet away</i></p></div></div></li>';
+          html += '<li><div class="taxonomy__img-wrap">' + byDistance[key].imgpath + '</div><div class="taxonomy__colwrap"><article class="taxonomy__title-wrap"><h3 class="h5 taxonomy__card-title"><a href="/property/' + byDistance[key].slug + '" class="taxonomy__link"><span class="u__sr-only">Nearby property </span>' + byDistance[key].title + '</a></h3><p class="taxonomy__excerpt">' + byDistance[key].excerpt + '</p><p><i>' + convertMilesToFeet(byDistance[key].distance) + ' feet away</i></p></article></div></li>';
           max++;
         } else {
           break;

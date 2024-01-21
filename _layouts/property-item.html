@@ -36,8 +36,8 @@ layout: default
           {% include property-item/jump-menu.html %}
         </nav>
 
-        <main id="content" class="l__content content item">
-          <article class="l__article item__grid">
+        <main id="content" class="l__content content item" aria-label="Content">
+          <article class="l__article item__grid" aria-label="Primary Property">
             <header>
               <div class="item__title__wrap u__vertical__pt u__gutter__p">
                 <h1 class="content__title item__title u__mb--0">{{ page.title }}</h1>
@@ -56,7 +56,7 @@ layout: default
               </div>
             </header>
             <div id="gallery" class="item__gallery">
-              <h2 class="o__title--sm item__gallery__title u__sr-only">Images of this Property</h2>
+              <h2 class="o__title--sm item__gallery__title u__sr-only">{{ forloop.length }} images of this Property</h2>
             {%- for image in page.images -%}
               {%- if forloop.first -%}
               <ul class="u__list__unstyled u__vertical__p u__gutter__p item__gallery__wrap js-scrolling-panel">
@@ -69,7 +69,7 @@ layout: default
               {%- endif -%}
                 <li id="photo-{{ imageslug[0] }}">
                   <figure class="item__gallery__figure">
-                    <a data-fslightbox="air-lightbox" data-type="image" {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} href="{{ imagesrc }}" role="button" aria-label="Link opens image in a larger pop-over">
+                    <a data-fslightbox="air-lightbox" data-type="image" {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} href="{{ imagesrc }}" role="button" aria-label="Larger view of image">
                       <img class="js-lazy" {% if forloop.index > 4 %}data-{% endif %}src="{{ imagesrc }}" alt="{% if image.alt %}{{ image.alt }}{% endif %}" {% if image.sizes %}width="{{ imagessizes[0] | strip }}" height="{{ imagessizes[1] | strip }}"{% else %}{% imagesize imagesrclocal:props %}{% endif %} />
                     </a>
                     {%- if image.caption -%}
@@ -108,20 +108,20 @@ layout: default
               <ul class="item__cats u__list__unstyled">
                 <li class="item__cats__item item__cats__location">
                 {%- if page.address.size > 0 -%}
-                  <strong>Address: </strong>
-                  {% if page.gmap.size > 0 %}<a href="{{ page.gmap }}" target="_blank" rel="nofollow" title="Open Google Maps in a new window">{% endif %}{{ page.address }}{% if page.gmap.size > 0 %}</a>{% endif %}<br>
+                  <strong>Address:</strong> 
+                  {% if page.gmap.size > 0 %}<a href="{{ page.gmap }}" target="_blank" rel="nofollow" title="Open Google Maps in a new window"><span class="u__sr-only">Open a Google map of </span>{% endif %}{{ page.address }}{% if page.gmap.size > 0 %}</a>{% endif %}<br>
                 {%- endif -%}
                 {%- assign neighborhoods = page.neighborhoods -%}
                 {%- if neighborhoods.size > 0 -%}
                   <strong>Neighborhood{% if neighborhoods.size >= 2 %}s{% endif %}: </strong>
                   {%- for neighborhood in neighborhoods -%}
-                  <a href="/neighborhood/{{ neighborhood | replace: '.', '' | slugify }}/">{{ neighborhood }}</a>{% unless forloop.last %}, {% endunless %}<br>
+                  <a href="/neighborhood/{{ neighborhood | replace: '.', '' | slugify }}/"><span class="u__sr-only">Neighborhood of </span>{{ neighborhood }}</a>{% unless forloop.last %}, {% endunless %}<br>
                   {%- endfor -%}
                 {%- endif -%}
                 {%- if page.town.size > 0 -%}
                   <strong>Town{% if page.town.size >= 2 %}s{% endif %}: </strong>
                   {%- for town in page.town -%}
-                  <a href="/town/{{ town | replace: '.', '' | slugify }}/">{{ town }}</a>{% unless forloop.last %}, {%- endunless -%}
+                  <a href="/town/{{ town | replace: '.', '' | slugify }}/"><span class="u__sr-only">Town of </span>{{ town }}</a>{% unless forloop.last %}, {%- endunless -%}
                   {%- endfor -%}
                 {%- endif -%}
                 </li>
@@ -133,10 +133,10 @@ layout: default
                   <strong>Opened: </strong> {{ page.opened }}<br>
                 {%- endif -%}
                 {%- if page.decade.size > 0 -%}
-                  <strong>Decade Built: </strong> <a href="/decade/{{ page.decade | replace: '.', '' | slugify }}/">{{ page.decade }}</a><br>
+                  <strong>Decade Built: </strong> <a href="/decade/{{ page.decade | replace: '.', '' | slugify }}/"><span class="u__sr-only">Built between </span>{{ page.decade }}</a><br>
                 {%- endif -%}
                 {%- if page.demolition.size > 0 -%}
-                  <strong>Demolition: </strong> {% if page.demolition.size <= 8 %}<a href="/demolition/{{ page.demolition | replace: '.', '' | slugify }}/">{{ page.demolition }}</a>{% else %}{{ page.demolition }}{% endif %}<br>
+                  <strong>Demolition: </strong> {% if page.demolition.size <= 8 %}<a href="/demolition/{{ page.demolition | replace: '.', '' | slugify }}/"><span class="u__sr-only">Demolished in </span>{{ page.demolition }}</a>{% else %}{{ page.demolition }}{% endif %}<br>
                 {%- endif -%}
                 {%- if page.closed.size > 0 -%}
                   <strong>Closed: </strong> {{ page.closed }}<br>
@@ -145,7 +145,7 @@ layout: default
                   <strong>Redeveloped: </strong> {{ page.redeveloped }}<br>
                 {%- endif -%}
                 {%- if page.date-added.size > 0 -%}
-                  <strong>Date Added: </strong> <a href="/date-added/{{ page.date-added | replace: '.', '' | slugify }}/">{{ page.date-added }}</a>
+                  <strong>Date Added: </strong> <a href="/date-added/{{ page.date-added | replace: '.', '' | slugify }}/"><span class="u__sr-only">Added in </span>{{ page.date-added }}</a>
                 {%- endif -%}
                 </li>
                 {%- assign designers = page.designers -%}
@@ -155,7 +155,7 @@ layout: default
                   {%- for designer in designers -%}
                     {%- assign length = forloop.length -%}
                     {%- assign secondtolast = length | minus: 1 -%}
-                  <a href="/designer/{{ designer | replace: '.', '' | slugify }}/">{{ designer }}</a>{% unless forloop.last %}{% if length > 2 %},{% endif %}{% endunless %}{% if forloop.index == secondtolast %} and{% endif %}
+                  <a href="/designer/{{ designer | replace: '.', '' | slugify }}/"><span class="u__sr-only">Designer </span>{{ designer }}</a>{% unless forloop.last %}{% if length > 2 %},{% endif %}{% endunless %}{% if forloop.index == secondtolast %} and{% endif %}
                   {%- endfor -%}
                 </li>
                 {%- endif -%}
@@ -166,7 +166,7 @@ layout: default
                   {%- if categories.size > 0 -%}
                   <p><strong>{% if categories.size >= 2 %}Categories{% else %}Category{% endif %}: </strong>
                     {%- for category in categories -%}
-                    <a href="/category/{{ category | replace: '.', '' | slugify }}/">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+                    <a href="/category/{{ category | replace: '.', '' | slugify }}/"><span class="u__sr-only">Category </span>{{ category }}</a>{% unless forloop.last %}, {% endunless %}
                     {%- endfor -%}
                   </p>
                 </li>
@@ -175,7 +175,7 @@ layout: default
                 <li class="item__cats__item item__cats__tags{% if tags.size >= 3 %} item__cats__wide{% elsif page.superlative.size > 0 %} item__cats__wide{% endif %}">
                   <p><strong>Tag{% if tags.size > 1 %}s{% endif %}: </strong>
                     {%- for tag in tags -%}
-                    <a href="/tag/{{ tag | replace: '.', '' | slugify }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+                    <a href="/tag/{{ tag | replace: '.', '' | slugify }}/"><span class="u__sr-only">Tag </span>{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
                     {%- endfor -%}
                     {%- if page.superlative.size > 0 -%}
                     <br><strong>Superlative: </strong> {{ page.superlative }}
@@ -188,17 +188,17 @@ layout: default
                   {%- for list in lists -%}
                     {%- assign length = forloop.length -%}
                     {%- assign secondtolast = length | minus: 1 -%}
-                  <a href="/list/{{ list | replace: '.', '' | slugify }}/">{{ list }}</a>{% unless forloop.last %}{% if length > 2 %},{% endif %}{% endunless %}{% if forloop.index == secondtolast %} and{% endif %}
+                  <a href="/list/{{ list | replace: '.', '' | slugify }}/"><span class="u__sr-only">List </span>{{ list }}</a>{% unless forloop.last %}{% if length > 2 %},{% endif %}{% endunless %}{% if forloop.index == secondtolast %} and{% endif %}
                   {%- endfor -%}
                 </li>
                 {%- endif -%}
                 <li class="item__cats__item item__cats__citation">
                   <details class="rhythm">
                     <summary>Citations & Reference URLs</summary>
-                    <p>Create a permanent reference to today’s version of this page with <a href="//web.archive.org/save/https://artinruins.com{{ page.url }}" title="Archive.org is a foundation that archives the internet" target="_blank" rel="nofollow noreferrer">Archive.org</a>
+                    <p><a href="//web.archive.org/save/https://artinruins.com{{ page.url }}" target="_blank" rel="nofollow noreferrer">Create a reference to this current page version with Archive.org</a>
                     </p>
                     <p><label for="cite"><abbr title="Modern Language Association">MLA</abbr>- and <abbr title="Chicago Manual of Style">CMS</abbr>-style Citation:</label> <input id="cite" type="text" readonly class="form__input form__input--text form__input--readonly" value="ArtInRuins & public sources. “Property: {{ page.title }},” ArtInRuins.com, updated {{ page.date-modified | date: "%B %e, %Y" }}, https://artinruins.com{{ page.url }}. Accessed {{ 'now' | date: '%B %e, %Y' }}." />
-                      <span class="form__input--help">Select all to cut and paste citation</span>
+                      <span class="form__input--help">Select all and copy citation</span>
                     </p>
                   </details>
                 </li>
@@ -210,8 +210,8 @@ layout: default
               {%- include property-item/content-anchors.html
                 html=page.content
                 beforeHeading=true
-                anchorTitle="Press to bookmark this heading"
-                anchorBody="<span>#</span>"
+                anchorAttrs='aria-hidden="true"'
+                anchorBody='<span>#</span>'
                 h_min=3
                 h_max=3
               -%}
@@ -220,10 +220,10 @@ layout: default
           </article>
         </main>
 
-        <aside id="js-nearby" class="content item__nearby u__gutter__p" data-latitude="{{ page.latitude }}" data-longitude="{{ page.longitude }}">
+        <aside id="js-nearby" class="content item__nearby u__gutter__p" data-latitude="{{ page.latitude }}" data-longitude="{{ page.longitude }}" aria-label="Nearby Properties">
         </aside>
 
-        <aside id="anecdotes" class="anec">
+        <aside id="anecdotes" class="anec" aria-label="Anecdotes">
           {%- if anecdotes.size > 0 -%}
           <div class="u__vertical__p u__gutter__p">
             <h2 class="o__title--sm anec__title"><span role="text">{{ anecdotes.size }} Anecdote{% if anecdotes.size > 1 %}s{% endif %} <span class="u__sr-only">from people like you</span></span></h2>
