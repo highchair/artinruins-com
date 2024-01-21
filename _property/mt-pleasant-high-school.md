@@ -96,7 +96,7 @@ imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/obj
 
 Providence schools have many problems, and the buildings are one of them. From Rhode Island Department of Education’s (<span class="abbr">RIDE</span>) own data, only 5% of school buildings can be considered “high-quality learning spaces”[^1]. This is why they plan to invest over $600M on new facilities in the coming years.[^2]
 
-[^1] Russo, Amy. “City weighs options for Mt. Pleasant High.” Providence Journal (RI), PFO-Journal ed., sec. News, 26 July 2023, p. A7. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/19303B16F76824A0. Accessed 30 Dec. 2023.
+[^1]: Russo, Amy. “City weighs options for Mt. Pleasant High.” Providence Journal (RI), PFO-Journal ed., sec. News, 26 July 2023, p. A7. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/19303B16F76824A0. Accessed 30 Dec. 2023.
 
 [^2]: Ibid.
 
