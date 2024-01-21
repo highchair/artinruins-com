@@ -62,7 +62,7 @@ caption: '[Date] — PPS Architectural Slides Collection'
 
 #### Sources
 
-caption: 'Sanborn Insurance Map, 1899-1900, volume 1 sheet 15 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library. '
+caption: 'Sanborn Insurance Map, 1899-1900, volume 1 sheet 15 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library.'
 
 MLA citation style: 
 Malone, George. _“Riverboat Ride: Crescent Park, Riverside, RI”_, Laff in the Dark, captured 15 August 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
