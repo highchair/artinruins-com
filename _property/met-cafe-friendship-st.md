@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: []
 people: [] # Josh Miller
 lists: []
-tags: [ 'Bars, Businesses, & Restaurants', 'College Properties', 'Demolition by Progress', 'Johnson & Wales University', 'Restaurants and Bars' ]
+tags: [ 'Bars, Businesses, & Restaurants', 'College Properties', 'Demolition by Progress', 'Johnson & Wales University' ]
 
 address: '165 Friendship St, Providence RI'
 latitude: '41.8194269'
