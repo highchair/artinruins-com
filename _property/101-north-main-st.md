@@ -30,29 +30,43 @@ thumbnail: 101-nmainst-jh-2020-10-02.jpg
 
 images:
   - url: Pilgrim-Mills-Francesca-Woodman.jpg
-    caption: 'Image taken of artist Francesca Woodman by Betsy von Die'
     alt: 'A four-story mill with narrow newer additon serving as a modern elevator and stair tower. The front is a traditional ground-level commercial storefront with wood millwork details, topped with 3 stories of brick and windows with arched lintels. The rear of the building is simple stucco in a more blocky, modern configuration.'
+    caption: 'Image taken of artist Francesca Woodman by Betsy von Die'
+    sizes: '503, 335'
   - url: 101-nmainst-wh-1990-01.jpg
     caption: 'View of 101 North Main Street from the roof of One Financial Plaza, August 20, 1990, by Will Hart'
+    sizes: '1200, 900'
   - url: 101-nmainst-ARC-1998c-04.jpg
     caption: 'Photo provided by the Armory Revival Company'
+    sizes: '800, 1067'
   - url: 101-nmainst-ARC-1998c-01.jpg
     caption: 'Photo provided by the Armory Revival Company'
+    sizes: '720, 502'
   - url: 101-nmainst-ARC-1998c-02.jpg
     caption: 'Photo provided by the Armory Revival Company'
+    sizes: '720, 502'
   - url: 101-nmainst-ARC-1998c-03.jpg
     caption: 'Photo provided by the Armory Revival Company'
+    sizes: '720, 502'
   - url: 101-nmainst-marketing-1997c.jpg
     caption: 'Cover of the marketing brochure provided by the Armory Revival company'
+    sizes: '1440, 900'
   - url: 101-nmainst-jh-2020-10-02.jpg
+    sizes: '1200, 900'
   - url: 101-nmainst-jh-2006-03-01.jpg
+    sizes: '1200, 900'
   - url: 101-nmainst-jh-2020-10-01.jpg
+    sizes: '1200, 900'
   - url: 101-nmainst-pro-01.jpg
+    sizes: '1020, 679'
   - url: 101-nmainst-pro-02.jpg
+    sizes: '1024, 682'
   - url: 101-nmainst-sanborn-1889.jpg
     caption: '1889 Sanborn Map – Providence, Vol. 2 plate 48'
+    sizes: '1440, 900'
   - url: 101-nmainst-gmhopkins-1937.jpg
     caption: '1937 G.M. Hopkins Map, Providence, Plate 19'
+    sizes: '1440, 900'
 
 mostrecentimage: 2020-10-01
 

@@ -35,22 +35,31 @@ images:
   - url: 291-brook-jh-2022-08-01.jpg
     alt: 'Two mansard-style, simple Queen Anne houses each three stories tall with an asymmetrical entrance on the first foor and a two-story square bay window running up the front façade'
     caption: '291 Brook Street, corner of Benevolent, looking southeast'
+    sizes: '1200, 900'
   - url: 287-brook-jh-2022-08-01.jpg
     caption: '287 Brook Street, looking east-southeast'
+    sizes: '1200, 900'
   - url: 287-brook-jh-2022-08-02.jpg
     caption: '287 Brook Street, southern façade, looking northeast'
+    sizes: '1200, 900'
   - url: 287-brook-jh-2022-08-03.jpg
     caption: '287 Brook Street, peeking into one of the windows'
+    sizes: '1200, 900'
   - url: 287-brook-jh-2022-08-04.jpg
     caption: '287 Brook Street, window details on the first floor of the north façade, looking south'
+    sizes: '1200, 900'
   - url: 287-brook-jh-2022-08-05.jpg
     caption: '287 Brook Street, rear three-quarters view, looking southwest'
+    sizes: '1200, 900'
   - url: 291-brook-jh-2022-08-02.jpg
     caption: '291 Brook Street from Benevolent, rear three quarters view, looking southwest. Notice the three electric meters are missing, indicating the houses have been abandoned for some time.'
+    sizes: '1200, 900'
   - url: 287-291-brook-jh-2023-02-01.jpg
     caption: 'Both houses without the trees obscuring their similarities. 291 on the left, 287 in the middle right, looking southeast from across Benevolent Street'
+    sizes: '1440, 900'
   - url: 291-brook-jh-2023-02-02.jpg
     caption: 'Peeking inside the first floor of 291 Brook Street'
+    sizes: '1200, 900'
 
 mostrecentimage: 2023-02-01
 

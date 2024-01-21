@@ -31,42 +31,61 @@ thumbnail: i-195-over-wickenden-cm-2010-01.jpg
 
 images:
   - url: i-195-expressway-c1965-01.jpg
-    caption: 'Undated photo of the expressway east towards the harbor. Corliss Landing is on the left, with South Street Power station in the center distance. Likely taken shortly after the highway was completed in the mid 60s. Providence Public Library collection.'
     alt: 'A series of steel-reinforced concrete columns, retaining walls, ramps, and overhead roadways that used to cut through downtown Providence and the Fox Point neighborhood'
+    caption: 'Undated photo of the expressway east towards the harbor. Corliss Landing is on the left, with South Street Power station in the center distance. Likely taken shortly after the highway was completed in the mid 60s. Providence Public Library collection.'
+    sizes: '1439, 900'
   - url: i-195-over-wickenden-cm-2010-01.jpg
     caption: 'The mural on the Wickenden Street overpass concrete walls, taken 2010 by Christopher Martin'
+    sizes: '1600, 900'
   - url: i-195-over-wickenden-jh-2010-03-01.jpg
     caption: 'View looking north-northwest at the northern overpass wall'
+    sizes: '1600, 900'
   - url: i-195-over-wickenden-jh-2010-03-02.jpg
     caption: 'Detail of the Van Gogh portrait'
+    sizes: '1440, 900'
   - url: i-195-over-wickenden-jh-2010-03-03.jpg
     caption: 'View north from South Water Street'
+    sizes: '1440, 900'
   - url: i-195-over-wickenden-jh-2010-03-04.jpg
     caption: 'View north-northeast looking at the back of the southern retaining wall with exposed bridgework overhead'
+    sizes: '1440, 900'
   - url: i-195-over-wickenden-jh-2010-03-05.jpg
     caption: 'View northeast with a portion of the southern retaining wall and mural visible'
+    sizes: '1440, 900'
   - url: i-195-over-wickenden-jh-2010-03-06.jpg
     caption: 'Detail view of King Tut, Shakespeare, and Bottecelli’s Venus'
+    sizes: '1440, 900'
   - url: i-195-over-wickenden-jh-2010-03-07.jpg
     caption: 'View southeast at the southern retaining wall'
+    sizes: '1440, 900'
   - url: i-195-over-wickenden-jh-2010-03-08.jpg
     caption: 'View south with exposed bridgework overhead'
+    sizes: '1600, 900'
   - url: i-195-over-wickenden-jh-2010-03-09.jpg
     caption: 'View from western-bound Wickenden St. at the base of the I-195 West on ramp'
+    sizes: '1440, 900'
   - url: i-195-over-wickenden-jh-2010-03-10.jpg
     caption: 'Detail of a concrete pillar painted with a sign for Julian’s, 318 Broadway'
+    sizes: '768, 924'
   - url: i-195-over-wickenden-jh-2010-03-11.jpg
     caption: 'View up the I-195 West on ramp'
+    sizes: '1440, 900'
   - url: i-195-over-wickenden-jh-2010-03-12.jpg
     caption: 'View from the corner of Benefit St. facing southwest. Traffic that wanted to go north on Benefit needed to use this left turn to cross over both lanes of Wickenden St.'
+    sizes: '1600, 900'
   - url: i-195-over-wickenden-jh-2010-03-13.jpg
     caption: 'Detail of one of the retaining walls with engraved area reading “Bridge Street Bridge 522”'
+    sizes: '1200, 900'
   - url: i-195-over-wickenden-jh-2010-03-14.jpg
     caption: 'Detail of the Mural Corps credit panel with names of the contributors. Brent Bachelder was the main artist and organizer of the murals.'
+    sizes: '768, 924'
   - url: i-195-over-wickenden-jh-2010-03-15.jpg
     caption: 'View northwest of the base of the east bound off-ramp and South Main street merge'
+    sizes: '1440, 900'
   - url: i-195-over-wickenden-jh-2011-01-01.jpg
+    sizes: '1440, 900'
   - url: i-195-over-wickenden-jh-2011-01-02.jpg
+    sizes: '1440, 900'
 
 imagescredit: 'Contribution from Providence Public Library <a href="//provlibdigital.org/islandora/object/islandora%3A10271" target="_blank">Rhode Island Photograph Collection</a> and Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>'
 

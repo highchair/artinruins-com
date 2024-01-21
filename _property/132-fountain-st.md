@@ -5,10 +5,10 @@ aka: "The Downtown McDonald’s"
 date-modified: 2022-01-02 15:00
 update: 'Added a little bit of history that we found in the Downtown Providence Historic District nomination form'
 
-built: 1915
-demolition: 2008
+built: '1915'
+demolition: '2008'
 decade: '1910-1919'
-date-added: 2020
+date-added: '2020'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
@@ -32,12 +32,19 @@ thumbnail: old-mcd-bldg-02.jpg
 images:
   - url: old-mcd-bldg-01.jpg
     alt: 'A two-story red brick facade with painted concrete block behind. Windows and door openings on the facade have arched lintels. Windows on the ground floor have been closed up with plywood.'
+    sizes: '1440, 900'
   - url: old-mcd-bldg-02.jpg
+    sizes: '1440, 900'
   - url: old-mcd-bldg-03.jpg
+    sizes: '1440, 900'
   - url: old-mcd-bldg-04.jpg
+    sizes: '1440, 900'
   - url: old-mcd-bldg-05.jpg
+    sizes: '1440, 900'
   - url: old-mcd-bldg-06.jpg
+    sizes: '1440, 900'
   - url: old-mcd-bldg-07.jpg
+    sizes: '1440, 900'
 
 imagescredit:  
 ---

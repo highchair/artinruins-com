@@ -29,20 +29,32 @@ thumbnail: harris-shed-jh-2009-05-09.jpg
 images:
   - url: harris-shed-jh-2009-05-01.jpg
     alt: 'A non-descript 2-story shed along the railroad tracks used for shipping and receiving. Most of the structure is covered in corrugated steel panels and grafitti with an exterior steel stair.'
+    sizes: '1440, 900'
   - url: harris-shed-jh-2009-05-02.jpg
+    sizes: '1440, 900'
   - url: harris-shed-jh-2009-05-03.jpg
+    sizes: '1440, 900'
   - url: harris-shed-jh-2009-05-04.jpg
+    sizes: '1440, 900'
   - url: harris-shed-jh-2009-05-05.jpg
+    sizes: '1440, 900'
   - url: harris-shed-jh-2009-05-06.jpg
+    sizes: '800, 1067'
   - url: harris-shed-jh-2009-05-07.jpg
+    sizes: '1440, 900'
   - url: harris-shed-jh-2009-05-08.jpg
+    sizes: '1440, 900'
   - url: harris-shed-jh-2009-05-09.jpg
+    sizes: '1440, 900'
   - url: harris-aerial-1952.jpg
     caption: 'Providence Historical Aerial Viewer 1972'
+    sizes: '1440, 900'
   - url: harris-aerial-1997.jpg
     caption: 'Providence Historical Aerial Viewer 1997'
+    sizes: '1440, 900'
   - url: harris-aerial-2003.jpg
     caption: 'Providence Historical Aerial Viewer 2003'
+    sizes: '1440, 900'
 
 imagescredit: 'Aerials from the Providence Historical Aerial Viewer'
 ---

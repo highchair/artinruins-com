@@ -37,20 +37,20 @@ images:
   - url: claverick-jwu-2009-04-01.jpg
     caption: 'Photo provided by Johnson & Wales Facilities Management'
     alt: 'A two-story red brick industrial building on a raised basement with a cement beltcourse above each row of windows and a flat roof. The original recessed entrance is located on the southern side, two stories high and wide as a double door. A new entrance addition was added to the northwest corner. Windows are rectangular and laid edge to edge to form a continuous band around two of the building’s corners.'
-    size: '1200, 900'
+    sizes: '1200, 900'
   - url: claverick-jh-2011-08-01.jpg
     sizes: '1440, 900'
   - url: claverick-jh-2011-08-02.jpg
     sizes: '1440, 900'
   - url: claverick-jwu-2012-12-01.jpg
     caption: 'Photo provided by Johnson & Wales Facilities Management'
-    size: '1000, 665'
+    sizes: '1000, 665'
   - url: claverick-jwu-2012-12-02.jpg
     caption: 'Photo provided by Johnson & Wales Facilities Management'
-    size: '1000, 665'
+    sizes: '1000, 665'
   - url: claverick-jwu-2012-12-03.jpg
     caption: 'Photo provided by Johnson & Wales Facilities Management'
-    size: '1000, 665'
+    sizes: '1000, 665'
   - url: claverick-jh-2013-03-01.jpg
     sizes: '1440, 900'
   - url: claverick-jh-2013-03-02.jpg

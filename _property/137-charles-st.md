@@ -29,18 +29,24 @@ thumbnail: hope-cycle-habs-1970-02.jpg
 
 images:
   - url: hope-cycle-habs-1970-01.jpg
+    alt: 'A single-story white painted stucco building with many signs on its facade and the look of a mid-century gas station — rounded corners and smooth surfaces. The building narrows on its left side to a triangular point, where small gas pumps are located.'
     caption: 'Photo by Laurence Tilley for HABS/HAER and the National Register Nomination for American Screw Company, 1970'
-    alt: 'A single-story white painted stucco building with many signs on its facade and the look of a mid-century gas station — rounded corners and smooth surfaces. The building narrows on its left side to a triangular point, where small gas pumps are located.'
+    sizes: '1440, 900'
   - url: hope-cycle-habs-1970-02.jpg
     caption: 'Detail of the photo by Laurence Tilley for HABS/HAER and the National Register Nomination for American Screw Company, 1970'
+    sizes: '1440, 900'
   - url: hope-cycle-habs-1971-01.jpg
     caption: 'Photo by Jack Boucher for HABS/HAER and the National Register Nomination for Moshassuck Square, 1971'
+    sizes: '1200, 900'
   - url: hope-cycle-smolski-1971-01.jpg
     caption: 'Smolski, Chester, “Randal Square Mills After Fire (1971)”, object 116. Rhode Island College Digital Collections, James P. Adams Library Digital Commons.'
+    sizes: '1440, 900'
   - url: hope-cycle-goog-2018-08-01.jpg
     caption: 'Google Streetview, September 2019, with the 1970 HABS/HAER photo overlay'
+    sizes: '1440, 900'
   - url: hope-cycle-goog-2018-08-02.jpg
     caption: 'Google Streetview, September 2019'
+    sizes: '1440, 900'
 
 imagescredit: 'Contributions by Laurence Tilley and Jack Boucher for HABS/HAER; <a href="//digitalcommons.ric.edu/smolski_images/116" target="_blank">Chet Smolski</a>, Rhode Island College Digital Collections; and Google Streetview'
 ---

@@ -29,12 +29,19 @@ thumbnail: 139-point-jh-2004-05-03.jpg
 images:
   - url: 139-point-jh-2004-05-01.jpg
     alt: 'A simple modernist upgrade to a former industrial garage. The central feature is a clerstory meeting room with glass curtain wall. To the right of the facade is a bright blue painted cement block structure and to the left is a plywood clad cement block structure that serves as the main entrance off of a parking lot.'
+    sizes: '1440, 900'
   - url: 139-point-jh-2004-05-02.jpg
+    sizes: '1440, 900'
   - url: 139-point-jh-2004-05-03.jpg
+    sizes: '1440, 900'
   - url: 139-point-jh-2004-05-04.jpg
+    sizes: '1440, 900'
   - url: 139-point-jh-2004-05-05.jpg
+    sizes: '1440, 900'
   - url: 139-point-jh-2004-05-06.jpg
+    sizes: '1440, 900'
   - url: 139-point-sanborn-1956.jpg
+    sizes: '1199, 819'
 
 mostrecentimage: 2004-05-01
 

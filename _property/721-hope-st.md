@@ -13,7 +13,7 @@ date-added: '2021'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'House' ]
@@ -29,24 +29,36 @@ gmap: "https://www.google.com/maps/place/721+Hope+St,+Providence,+RI+02906/@41.8
 meta: ""
 excerpt: "Long-time tenants Davis Dairy vacated in spring 2020 after a fire damaaged the upper floors of the house"
 
-#thumbnail:
+thumbnail: 721-hope-st-jh-2022-06-01.jpg
 
 images:
-- url: davis-dairy-jh-2020-05-01.jpg
-  alt: 'A wood frame and brown-stained wood shingle home of considerable mass — the home looks dense from the outside, with an almost full third floor apartment featuring cross-gables on the south side and a large dormer bay window on the north side. The front second story has a bay window as well, while the first floor is finished in a commercial-block style with commercial storefront windows and ribbed concrete block around the perimter.'
-- url: davis-dairy-jh-2020-05-02.jpg
-- url: davis-dairy-jh-2020-05-03.jpg
-- url: davis-dairy-jh-2021-04-01.jpg
-- url: davis-dairy-jh-2021-04-02.jpg
-- url: davis-dairy-jh-2021-04-03.jpg
-- url: davis-dairy-jh-2021-05-01.jpg
-- url: davis-dairy-jh-2021-05-02.jpg
-- url: davis-dairy-jh-2021-05-03.jpg
-- url: davis-dairy-ja-2021-06-01.jpg
-  caption: 'Drone photo by Jason Allard, Uncommon Sense Media'
-- url: davis-dairy-ja-2021-06-02.jpg
-  caption: 'Drone photo by Jason Allard, Uncommon Sense Media'
-- url: 721-hope-st-jh-2022-06-01.jpg
+  - url: davis-dairy-jh-2020-05-01.jpg
+    alt: 'A wood frame and brown-stained wood shingle home of considerable mass — the home looks dense from the outside, with an almost full third floor apartment featuring cross-gables on the south side and a large dormer bay window on the north side. The front second story has a bay window as well, while the first floor is finished in a commercial-block style with commercial storefront windows and ribbed concrete block around the perimter.'
+    sizes: '1440, 900'
+  - url: davis-dairy-jh-2020-05-02.jpg
+    sizes: '1440, 900'
+  - url: davis-dairy-jh-2020-05-03.jpg
+    sizes: '1440, 900'
+  - url: davis-dairy-jh-2021-04-01.jpg
+    sizes: '1440, 900'
+  - url: davis-dairy-jh-2021-04-02.jpg
+    sizes: '1440, 900'
+  - url: davis-dairy-jh-2021-04-03.jpg
+    sizes: '1440, 900'
+  - url: davis-dairy-jh-2021-05-01.jpg
+    sizes: '1200, 900'
+  - url: davis-dairy-jh-2021-05-02.jpg
+    sizes: '1200, 900'
+  - url: davis-dairy-jh-2021-05-03.jpg
+    sizes: '1200, 900'
+  - url: davis-dairy-ja-2021-06-01.jpg
+    caption: 'Drone photo by Jason Allard, Uncommon Sense Media'
+    sizes: '750, 422'
+  - url: davis-dairy-ja-2021-06-02.jpg
+    caption: 'Drone photo by Jason Allard, Uncommon Sense Media'
+    sizes: '750, 422'
+  - url: 721-hope-st-jh-2022-06-01.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2022-06-01
 

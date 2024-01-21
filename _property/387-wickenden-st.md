@@ -33,9 +33,13 @@ thumbnail: 387-wickenden-jh-2023-08-01.jpg
 images:
   - url: 387-wickenden-jh-2020-06-01.jpg
     alt: 'A four-story, flat-roof building with ground-floor retail space. The facade is four bays wide, with window groups of a single, a double, a double, and a single across each floor. Floors two and three have a two-story rectangular bay window detail protruding clad in dark red siding. The rest of the buildiong is clad in light tan siding with white trim.'
+    sizes: '1440, 900'
   - url: 387-wickenden-jh-2023-08-01.jpg
+    sizes: '1440, 900'
   - url: 387-wickenden-jh-2023-08-02.jpg
+    sizes: '1200, 900'
   - url: 387-wickenden-jh-2023-08-03.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2021-07-01
 

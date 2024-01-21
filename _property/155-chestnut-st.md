@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [] #Gerner Kronick + Valcarcel Architects, DPC
 people: []
 lists: [ 'PPS Ten Most Endangered' ]
-tags: [ 'Never Built', 'Vaporscraper', 'Contemporary' ]
+tags: [ 'Contemporary', 'Never Built', 'Vaporscraper' ]
 
 address: '151-155 Chestnut St, Providence RI'
 latitude: '41.8181339'
@@ -32,14 +32,19 @@ images:
   - url: 155-chestnut-st-01.jpg
     alt: 'Vertical columns of steel interspaced with glass panels in a repeating pattern. The ground floor was proposed to have some architectural detail, for mostly the building was raw industrial with exposed painted steel columns.'
     caption: 'View southwest from the corner of Bassett and Chestnut streets; The 1825 Arthur B. and Laura Weeks House is the 2 1/2 story brick building in the foreground.'
+    sizes: '985, 1100'
   - url: 155-chestnut-st-02.jpg
     caption: 'View east down Chestnut Street'
+    sizes: '983, 1100'
   - url: 155-chestnut-st-03.jpg
     caption: 'View from across Chestnut street looking south southeast'
+    sizes: '1813, 900'
   - url: 155-chestnut-st-existing-01.jpg
     caption: 'The existing 1941 Pilgrim Manufacturing Co. Building at 155 Chestnut Street. The new tower would have demolished this building and occupied the parking lot currently in view, abutting the house in the background left (southern side), and demolishing the loading dock structure to the far right.'
+    sizes: '1200, 900'
   - url: 155-chestnut-st-existing-02.jpg
     caption: 'The 1825 Arthur B. and Laura Weeks House would have remained, but would have abutted the new building on its western side. Presumably the greenhouse addition would have been demolished as well.'
+    sizes: '1200, 900'
 
 mostrecentimage: 2019-09-01
 

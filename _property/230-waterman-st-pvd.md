@@ -16,15 +16,17 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: []
-tags: [ 'Demolition by Progress', 'House', 'Needs History' ]
+tags: [ 'Demolition by Progress', 'House', 'Needs History', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: ''
-latitude: ''
-longitude: ''
-gmap: ""
+address: '230 Waterman St, Providence RI'
+latitude: '41.8288491'
+longitude: '-71.3892698'
+gmap: "https://www.google.com/maps/place/230+Waterman+St,+Providence,+RI+02906/@41.8288491,-71.3892698,18z/data=!4m6!3m5!1s0x89e4452c1f544363:0x26886ae3553ca810!8m2!3d41.8288451!4d-71.3879823!16s%2Fg%2F11bw3z22hp?entry=ttu"
+street: [ 'Waterman St' ]
+street-number: 230
 
 meta: ""
 excerpt: "A turn-of-the-20th-century former funeral home will be demolished for a new apartment building on the edge of Wayland Square"

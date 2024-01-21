@@ -34,10 +34,14 @@ thumbnail:
 images:
   - url: 57-federal-jh-2013-04-01.jpg
     alt: 'A small, two story wood frame house five windows wide and two window bays deep with a simple gable roof'
+    sizes: '1440, 900'
   - url: 57-federal-jh-2013-06-01.jpg
+    sizes: '1440, 900'
   - url: 57-federal-jh-2013-06-02.jpg
+    sizes: '1440, 900'
   - url: 57-federal-jh-2014-10-01.jpg
     caption: 'Photo from Providence Preservation Society'
+    sizes: '1440, 900'
 
 imagescredit: 'Contribution from Providence Preservation Society'
 

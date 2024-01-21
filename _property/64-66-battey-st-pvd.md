@@ -16,7 +16,8 @@ town: [ 'Providence, RI' ]
 designers: [ 'Truth Box Architects' ]
 people: []
 lists: []
-tags: [ 'House', 'Contemporary' ]
+tags: [ 'Contemporary', 'House'
+ ]
 
 address: '64-66 Battey St, Providence RI'
 latitude: '41.8188774'
@@ -31,9 +32,13 @@ excerpt: "A narrow, modern duplex building on a narrow, hard to build lot introd
 images:
   - url: battey-st-jh-2013-01-01.jpg
     alt: 'A two story, two family home or apartment building. All angles are rectangular to fit a narrow lot. The structure has a flat roof and therefore looks like a stack of cardboard boxes.'
+    sizes: '1440, 900'
   - url: battey-st-jh-2020-11-01.jpg
+    sizes: '1440, 900'
   - url: battey-st-jh-2020-11-02.jpg
+    sizes: '768, 924'
   - url: battey-st-jh-2021-03-01.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2021-03-01
 

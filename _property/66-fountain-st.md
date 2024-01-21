@@ -28,34 +28,51 @@ thumbnail: little-bldg-jh-2004-04-01.jpg
 
 images:
   - url: little-bldg-jw-c1960.jpg
-    caption: 'Photo from the collection of Jim White'
     alt: 'A small two-story blond-brick building with 4 windows on the front face, an angled corner with door and window, and one more set of windows on the side. Two sides are without windows. The building is flat roofed and only about 10 feet deep.'
+    caption: 'Photo from the collection of Jim White'
+    sizes: '1000, 692'
   - url: little-bldg-jh-2004-04-01.jpg
+    sizes: '1440, 900'
   - url: little-bldg-jh-2004-04-02.jpg
+    sizes: '1200, 900'
   - url: little-bldg-jh-2004-04-03.jpg
+    sizes: '1440, 900'
   - url: little-bldg-jh-2004-04-04.jpg
+    sizes: '1200, 900'
   - url: little-bldg-jh-2004-04-05.jpg
+    sizes: '1200, 900'
   - url: little-bldg-jh-2017-03-01.jpg
+    sizes: '1440, 900'
   - url: little-bldg-jh-2017-03-02.jpg
+    sizes: '1440, 900'
   - url: little-bldg-jh-2017-03-03.jpg
+    sizes: '1200, 900'
   #- url: little-bldg-pj-2018-05-01.jpg
   #  caption: 'Photo by Lisa Newby for Providence Journal, May 2018'
   #- url: little-bldg-pj-2018-10-01.jpg
   #  caption: 'Photo by Sandor Bodo for Providence Journal, October 2018'
   - url: little-bldg-jh-2018-10-01.jpg
+    sizes: '1440, 900'
   - url: little-bldg-jh-2018-10-02.jpg
+    sizes: '1440, 900'
   - url: little-bldg-map-1889.jpg
     caption: 'Sanborn Map from 1889'
+    sizes: '1440, 900'
   - url: little-bldg-map-1904.jpg
     caption: 'Sanborn Map from 1904'
+    sizes: '1440, 900'
   - url: little-bldg-map-1908.jpg
     caption: 'L.J. Richards map from 1908'
+    sizes: '1440, 900'
   - url: little-bldg-map-1937.jpg
     caption: 'G.M. Hopkins map from 1937'
+    sizes: '1440, 900'
   - url: little-bldg-aerial-1952.jpg
     caption: 'Providence Historical Aerial Viewer 1952'
+    sizes: '1440, 900'
   - url: little-bldg-aerial-1972.jpg
     caption: 'Providence Historical Aerial Viewer 1972'
+    sizes: '1440, 900'
 
 imagescredit: 'Aerials from the Providence Historical Aerial Viewer'
 

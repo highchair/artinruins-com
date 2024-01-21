@@ -33,30 +33,42 @@ thumbnail: 157-163-gano-jh-2022-01-01.jpg
 
 images:
   - url: 157-163-gano-jh-2022-01-01.jpg
-    caption: 'Overview of all three properties, looking south from the corner of Preston and Gano Streets'
     alt: 'Three structures. One two and a half story house with a gable roof, wood siding, and porch addition on the streetfront façade. One single story non-descript yellow-brick faced commercial structure, maybe 12 feet wide by 20 feet deep. One single story cinder block commercial structure with a flat roof.'
+    caption: 'Overview of all three properties, looking south from the corner of Preston and Gano Streets'
+    sizes: '1440, 900'
   - url: 163-gano-jh-2022-01-01.jpg
     caption: '163 Gano Street house built circa 1920'
+    sizes: '1200, 900'
   - url: 163-gano-jh-2022-01-02.jpg
     caption: 'Rear view, 163 Gano Street house built circa 1920'
+    sizes: '1200, 900'
   - url: 163-gano-jh-2022-01-03.jpg
     caption: 'Side view, 163 Gano Street house built circa 1920'
+    sizes: '1200, 900'
   - url: 163-gano-jh-2022-01-04.jpg
     caption: 'Porch view, 163 Gano Street house built circa 1920'
+    sizes: '768, 924'
   - url: 157-159-gano-jh-2022-01-01.jpg
     caption: '159 and 157 Gano Street, respectively, looking south'
+    sizes: '1440, 900'
   - url: 159-gano-jh-2022-01-01.jpg
     caption: '159 Gano Street façade, built circa 1950'
+    sizes: '1200, 900'
   - url: 157-159-gano-jh-2022-01-02.jpg
     caption: '159 and 157 Gano Street, respectively, looking east'
+    sizes: '1440, 900'
   - url: 157-gano-jh-2022-01-01.jpg
     caption: '157 Gano Street, built circa 1972, Holy Rosary Society sign'
+    sizes: '1200, 900'
   - url: 157-163-gano-jh-2022-01-02.jpg
     caption: 'All three properties, looking north from the corner of Power and Gano Streets'
+    sizes: '1440, 900'
   - url: 157-gano-jh-2022-01-02.jpg
     caption: '157 Gano Street, panarama of southern façade'
+    sizes: '1600, 900'
   - url: 157-gano-jh-2022-01-03.jpg
     caption: '157 Gano Street, view of rear, looking southwest'
+    sizes: '1200, 900'
 
 imagescredit:
 

@@ -30,42 +30,60 @@ thumbnail: i-195-river-jh-2010-11-10.jpg
 
 images:
   - url: i-195-river-jh-2010-11-01.jpg
-    caption: 'View north from the western shore of the Providence River'
     alt: 'A series of steel-reinforced concrete columns, retaining walls, ramps, and overhead roadways that used to cut through downtown Providence and the Fox Point neighborhood'
+    caption: 'View north from the western shore of the Providence River'
+    sizes: '1600, 900'
   - url: i-195-river-jh-2010-11-02.jpg
     caption: 'View north from the western shore of the Providence River'
+    sizes: '1600, 900'
   - url: i-195-river-jh-2010-11-03.jpg
     caption: 'View north from the western shore of the Providence River'
+    sizes: '1600, 900'
   - url: i-195-river-jh-2010-11-04.jpg
     caption: 'View southeast from the western shore of the Providence River'
+    sizes: '1440, 900'
   - url: i-195-river-jh-2010-11-05.jpg
     caption: 'On ramp to the highway off Dyer Street heading west, looking south'
+    sizes: '1200, 900'
   - url: i-195-river-jh-2010-11-06.jpg
     caption: 'On ramp to the highway off Dyer Street heading east, looking east'
+    sizes: '1200, 900'
   - url: i-195-river-jh-2010-11-07.jpg
     caption: 'Looking across the criss-crossing lanes on eastbound on and off ramps'
+    sizes: '1440, 900'
   - url: i-195-river-jh-2010-11-08.jpg
     caption: 'Looking down at the eastbound off ramp from the eastbound on ramp'
+    sizes: '1200, 900'
   - url: i-195-river-jh-2010-11-09.jpg
     caption: 'Looking east from the merge on the eastbound on ramp'
+    sizes: '1200, 900'
   - url: i-195-river-jh-2010-11-10.jpg
     caption: 'In the middle of the lanes in the middle of the bridge over the Providence River, looking west-northwest'
+    sizes: '1200, 900'
   - url: i-195-river-jh-2010-11-11.jpg
     caption: 'On the western shore looking northeast towards the eastern shore'
+    sizes: '1440, 900'
   - url: i-195-river-jh-2010-11-12.jpg
     caption: 'A curve of the eastbound off ramp travellng under the highway and onto Dyer street'
+    sizes: '1440, 900'
   - url: i-195-river-jh-2010-11-13.jpg
     caption: 'Under the highway lanes'
+    sizes: '1200, 900'
   - url: i-195-river-jh-2010-11-14.jpg
     caption: 'Under the elevated highway from the parking lots off Dyer Street'
+    sizes: '1440, 900'
   - url: i-195-river-jh-2010-11-15.jpg
     caption: 'Under the elevated highway from the parking lots off Dyer Street'
+    sizes: '1440, 900'
   - url: i-195-river-jh-2010-11-16.jpg
     caption: 'The underpass on Dyrer Street looking south'
+    sizes: '1200, 900'
   - url: i-195-river-aerial-1997-01.jpg
     caption: 'Aerial photo from 1997. The old highway portions that were removed are highlighted in yellow — Providence Historical Aerial Viewer'
+    sizes: '1473, 829'
   - url: i-195-river-aerial-2021-01.jpg
     caption: 'Aerial photo from 2021. The new highway portions that were added are highlighted in yellow — Providence Historical Aerial Viewer'
+    sizes: '1473, 829'
 
 imagescredit: 'Aerial photos from the <a href="//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e" target="_blank">Providence Historical Aerial Viewer</a>'
 

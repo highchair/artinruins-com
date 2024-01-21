@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Russell Warren' ]
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
-tags: [ 'Former Military', 'The Superlatives' ]
+tags: [ 'Former Military', 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'The second oldest armory in the state — second to the Armory of the Artillery Company of Newport, 1835'
 
 NRHP-ref-number: '70000003 (individual)'

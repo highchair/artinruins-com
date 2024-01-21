@@ -14,7 +14,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Lewis Downe' ]
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981' ]
-tags: [ 'American Woolen Company', 'Demolition by Fire' ]
+tags: [ 'American Woolen Company', 'Demolition by Fire', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:
 added-to-NRHP:

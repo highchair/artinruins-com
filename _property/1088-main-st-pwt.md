@@ -30,34 +30,50 @@ thumbnail: 1088-main-st-jt-2021-12-01.jpg
 
 images:
   - url: rag-n-bone-jt-2002-08-01.jpg
-    caption: 'Photo of restoration and conversion by Jason Thompson'
     alt: 'A small, two story, red brick, irregularly-shaped mill with a flat roof.'
+    caption: 'Photo of restoration and conversion by Jason Thompson'
+    sizes: '1280, 960'
   - url: rag-n-bone-jh-2003-04-01.jpg
+    sizes: '1440, 900'
   - url: rag-n-bone-jh-2003-04-02.jpg
+    sizes: '1440, 900'
   - url: rag-n-bone-jt-2002-10-01.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
+    sizes: '1024, 768'
   - url: rag-n-bone-jt-2002-10-02.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
+    sizes: '1024, 768'
   - url: rag-n-bone-jt-2002-10-03.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
+    sizes: '1024, 768'
   - url: rag-n-bone-jt-2002-10-04.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
+    sizes: '1024, 768'
   - url: rag-n-bone-jt-2002-10-05.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
+    sizes: '1024, 768'
   - url: rag-n-bone-jt-2002-10-06.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
+    sizes: '1024, 768'
   - url: rag-n-bone-jt-2002-10-07.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
+    sizes: '1024, 768'
   - url: rag-n-bone-jt-2002-10-08.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
+    sizes: '1024, 768'
   - url: rag-n-bone-jt-2002-10-09.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
+    sizes: '1024, 768'
   - url: rag-n-bone-jt-2002-10-10.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
+    sizes: '1024, 768'
   - url: rag-n-bone-jt-2002-10-11.jpg
     caption: 'Photo of restoration and conversion by Jason Thompson'
+    sizes: '675, 900'
   - url: 1088-main-st-jt-2021-12-01.jpg
+    sizes: '1440, 900'
   - url: 1923-sanborn-plate-229.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2021-12-01
 

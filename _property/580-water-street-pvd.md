@@ -31,17 +31,28 @@ thumbnail: 580-s-water-jh-2022-03-05.jpg
 images:
   - url: 580-south-water-render.jpg
     caption: 'An early rendering of the proposed condo building from May, 2018'
+    sizes: '1200, 702'
   - url: 580-s-water-jh-2020-06-01.jpg
     alt: 'A five story residential building with odd shapes and facing materials. Some are red brick, some are white panels, some are gray panels, and a mansard-like roof section with some vertical windows that go down to the ground floor are faced in a dark, almost black steel material. '
+    sizes: '1440, 900'
   - url: 580-s-water-jh-2020-06-02.jpg
+    sizes: '1440, 900'
   - url: 580-s-water-jh-2021-04-01.jpg
+    sizes: '1440, 900'
   - url: 580-s-water-jh-2021-04-02.jpg
+    sizes: '1440, 900'
   - url: 580-s-water-jh-2022-03-01.jpg
+    sizes: '1440, 900'
   - url: 580-s-water-jh-2022-03-02.jpg
+    sizes: '1440, 900'
   - url: 580-s-water-jh-2022-03-03.jpg
+    sizes: '1440, 900'
   - url: 580-s-water-jh-2022-03-04.jpg
+    sizes: '1200, 900'
   - url: 580-s-water-jh-2022-03-05.jpg
+    sizes: '1200, 900'
   - url: 580-s-water-jh-2022-03-06.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2022-03-01
 

@@ -5,9 +5,9 @@ aka:
 date-modified: 2020-05-02 14:56
 
 built: 'between 1920 and 1939'
-demolition: 2008
+demolition: '2008'
 decade: '1920–1929'
-date-added: 2005
+date-added: '2005'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
@@ -28,25 +28,43 @@ thumbnail: 147-washington-st-02.jpg
 images:
   - url: 147-washington-st-01.jpg
     alt: 'A three-story red-brick fronted commercial building seven windows wide. Windows have stone lintels and sills. The ground floor was occupied by three restaurant businesses with a mix of metal, wood, and brick facades.'
+    sizes: '1440, 900'
   - url: 147-washington-st-02.jpg
+    sizes: '1200, 900'
   - url: 147-washington-st-03.jpg
+    sizes: '800, 1067'
   - url: 147-washington-st-04.jpg
+    sizes: '1200, 900'
   - url: 147-washington-st-05.jpg
+    sizes: '1440, 900'
   - url: 147-washington-st-06.jpg
+    sizes: '1200, 900'
   - url: 147-washington-st-jh-2007-11-01.jpg
+    sizes: '1200, 900'
   - url: 147-washington-st-jh-2007-11-02.jpg
+    sizes: '1200, 900'
   - url: 147-washington-st-jh-2007-11-03.jpg
+    sizes: '1200, 900'
   - url: 147-washington-st-jh-2007-11-04.jpg
+    sizes: '800, 1067'
   - url: 147-washington-st-jh-2007-11-05.jpg
+    sizes: '1200, 900'
   - url: 147-washington-st-jh-2007-11-06.jpg
+    sizes: '1200, 900'
   - url: 147-washington-st-mol-2008-02-01.jpg
+    sizes: '640, 480'
   - url: 147-washington-st-mol-2008-02-02.jpg
+    sizes: '640, 480'
   - url: 147-washington-st-mol-2008-02-03.jpg
+    sizes: '640, 480'
   - url: 147-washington-st-mol-2008-02-04.jpg
+    sizes: '640, 480'
   - url: Washington-St-Sierra-Suites-01.jpg
+    sizes: '1215, 1500'
   - url: Washington-St-Sierra-Suites-02.jpg
+    sizes: '510, 383'
 
-imagescredit: Demolition photos submitted by The Men of Letters. Renderings found from news sources. 
+imagescredit: 'Demolition photos submitted by The Men of Letters. Renderings found from news sources.'
 ---
 
 ### Reason for Demolition

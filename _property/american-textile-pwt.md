@@ -18,7 +18,7 @@ town: [ 'Pawtucket, RI' ]
 designers: [ 'Clarke & Howe' ]
 people: [ 'Lyman B. Goff', 'Morris F. Conant' ]
 lists: []
-tags: [ 'Providence Public Library Digital Collections''The Superlatives' ]
+tags: [ 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'This mill was once the largest lace producer in the country'
 
 NRHP-ref-number:
