@@ -2,9 +2,9 @@
 title: "George’s Games & Music"
 slug: georges-billiards-pwt
 aka:
-date-modified: 2024-01-06 13:00
-update: 'Added a photo of the demolition from Marc Doughty'
-update-image: georges-billiards-md-2024-01-01.jpg
+date-modified: 2024-02-03 13:00
+update: 'Added more photos of the demolition'
+update-image: georges-billiards-jh-2024-01-03.jpg
 
 built: 'Circa 1950'
 demolition: '2023'
@@ -81,8 +81,16 @@ images:
   - url: georges-billiards-md-2024-01-01.jpg
     caption: 'Photo from Marc Doughty'
     sizes: '1440, 900'
+  - url: georges-billiards-jh-2024-01-02.jpg
+    sizes: '1600, 900'
+  - url: georges-billiards-jh-2024-01-03.jpg
+    sizes: '1200, 900'
+  - url: georges-billiards-jh-2024-01-04.jpg
+    sizes: '1200, 900'
+  - url: georges-billiards-jh-2024-01-05.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2023-12-01
+mostrecentimage: 2024-01-01
 
 imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157690062762483" target="_blank">Pawtucket Library on Flickr</a> and Marc Doughty'
 
