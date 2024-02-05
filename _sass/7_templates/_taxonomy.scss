@@ -70,6 +70,7 @@
 
       // Special LI with a class added to it
       &.taxonomy__random {
+        background-color: rgba(palette('brand-teal'), .1);
         display: block;
 
         img {
@@ -79,6 +80,17 @@
         .taxonomy__title-wrap,
         .taxonomy__meta {
           padding-bottom: ($vertical-rhythm/2);
+        }
+
+        @include breakpoint-down(medium) {
+          border: none;
+          margin: 1rem -1rem;
+
+          img {
+            margin-left: -0.5rem;
+            margin-right: -0.5rem;
+            max-width: calc(100% + 1rem);
+          }
         }
       }
     }
