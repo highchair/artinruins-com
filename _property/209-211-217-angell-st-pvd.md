@@ -2,8 +2,9 @@
 title: "Angell Street, #209, 211, and 217"
 slug: 209-211-217-angell-st-pvd
 aka:
-date-modified: 2024-01-06 12:00
-update: 'Added images of the complete demolition'
+date-modified: 2024-02-04 18:00
+update: 'Added aerial drone images provided by David Lawlor'
+update-image: 209-211-217-angell-dl-2023-12-02.jpg
 
 built: '1854–1895'
 demolition:
@@ -17,7 +18,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
-tags: [ 'House' ]
+tags: [ 'House', 'David Lawlor' ]
 
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
@@ -89,6 +90,21 @@ images:
   - url: 217-angell-jh-2023-12-04.jpg
     caption: '217 under demolition , chopped in half, looking southwest'
     sizes: '900, 900'
+  - url: 209-211-217-angell-dl-2023-12-01.jpg
+    caption: 'Drone photography by David Lawlor, Run of the Mill'
+    sizes: '1440, 900'
+  - url: 209-211-217-angell-dl-2023-12-02.jpg
+    caption: 'Drone photography by David Lawlor, Run of the Mill'
+    sizes: '1440, 900'
+  - url: 209-211-217-angell-dl-2023-12-03.jpg
+    caption: 'Drone photography by David Lawlor, Run of the Mill'
+    sizes: '1200, 900'
+  - url: 209-211-217-angell-dl-2023-12-04.jpg
+    caption: 'Drone photography by David Lawlor, Run of the Mill'
+    sizes: '1200, 900'
+  - url: 209-211-217-angell-dl-2023-12-05.jpg
+    caption: 'Drone photography by David Lawlor, Run of the Mill'
+    sizes: '1200, 900'
   - url: 211-angell-jh-2023-12-01.jpg
     caption: '211 demolished quickly in about a day'
     sizes: '1440, 900'
@@ -98,8 +114,11 @@ images:
   - url: 209-angell-jh-2024-01-02.jpg
     caption: 'And 209 is a pile of splinters, plaster, shingles, and brick.'
     sizes: '1440, 900'
+  - url: 209-211-217-angell-jh-2024-02-01.jpg
+    caption: 'Looking across the street from Brook, empty now all the way to the Vedanta Society'
+    sizes: '1440, 900'
 
-imagescredit:
+imagescredit: 'Drone photos by David Lawlor, aka <a href="//runofthemill.shop" target="_blank">Run of the Mill</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
