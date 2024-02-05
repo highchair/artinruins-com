@@ -2,7 +2,8 @@
 title: "Rhode Island Auditorium"
 slug: ri-auditorium
 aka: "The Arena"
-date-modified: 2020-07-15 22:00
+date-modified: 2024-02-04 15:00
+update: 'Added photos of the demolition sent by John Wardyga'
 
 built: '1925'
 demolition: '1989'
@@ -35,17 +36,26 @@ images:
     sizes: '823, 499'
   - url: ri-auditorium-ephemera.jpg
     sizes: '1600, 900'
+  - url: ri-auditorium-tucker-1989-01.jpg
+    sizes: '822, 653'
+  - url: ri-auditorium-jw-1989-01.jpg
+    caption: 'Photo by John Wardyga, 1989'
+    sizes: '1280, 951'
+  - url: ri-auditorium-jw-1989-02.jpg
+    caption: 'Photo by John Wardyga, 1989'
+    sizes: '1280, 900'
+  - url: ri-auditorium-jw-1989-03.jpg
+    caption: 'Photo by John Wardyga, 1989'
+    sizes: '880, 1260'
   - url: former-site-plaque-close-up.jpg
     sizes: '1339, 900'
   - url: former-site-plaque-on-gate.jpg
     sizes: '1200, 900'
-  - url: ri-auditorium-tucker-1989-01.jpg
-    sizes: '822, 653'
   - url: ri-auditorium-2004-04-01.jpg
     caption: 'On this spot stood the Rhode Island Auditorium, home of the Rhode Island Reds hockey team, December 3, 1926 to April 11, 1972. 1111 North Main Street, Providence, Rhode Island. Dedicated on Saturday, July 31, 2010, by the Rhode Island Reds Heritage Society'
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from <a href="https://rittmann-art.com/giclee.htm" target="_blank">Karl Rittman</a> (painting), Tucker Terzian, and <a href="https://en.wikipedia.org/wiki/Rhode_Island_Auditorium#/media/File:Former_Site_of_Rhode_Island_Auditorium.jpg" target="_blank">Wikimedia</a>.'
+imagescredit: 'Contributions from <a href="//rittmann-art.com/giclee.htm" target="_blank">Karl Rittman</a> (painting), Tucker Terzian, John Wardyga, and <a href="//en.wikipedia.org/wiki/Rhode_Island_Auditorium#/media/File:Former_Site_of_Rhode_Island_Auditorium.jpg" target="_blank">Wikimedia</a>.'
 
 external:
   - source: 'Time Lapse: R.I. Auditorium was center stage for big events, Providence Journal'
