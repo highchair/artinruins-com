@@ -136,6 +136,14 @@ This building was erected by the members of the organization, but delivered to t
 
 ***
 
+_From Providence’s Benefit Street, [Arcadia Publishing](//www.arcadiapublishing.com/Products/9780738599236)_
+
+> On May 17, 1924, the Benefit Street Arsenal was the site of an illegal meeting of the Ku Klux Klan. Although often associated with the South, the Klan was relatively active in Rhode Island during the 1920s. Klan members arranged a meeting at the State Arsenal that attracted about 200 men. The group had not obtained a permit to meet on state property but had gained access to the building by claiming it was hosting a religious meeting. Later, however, Rhode Island’s Governor William S. Flynn denounced the Klan and subsequently banned the group from using state property for meetings.
+
+A short article from the [Providence Daily Dose](//providencedailydose.com/2021/02/03/it-can-happen-here/) has more information.
+
+***
+
 Transcriptions of the plaques present on the building:
 
 #### Plaque 1
