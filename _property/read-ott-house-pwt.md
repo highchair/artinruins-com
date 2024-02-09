@@ -2,7 +2,8 @@
 title: "Read-Ott House"
 slug: read-ott-house-pwt
 aka:
-date-modified: 2023-03-19 17:00
+date-modified: 2024-02-04 13:00
+update: 'Added a snippet of a news story about the owner’s planning to move forward with demolition'
 
 built: '1842, 1914-15'
 demolition:
@@ -152,6 +153,37 @@ _Captured 19 March 2023 from http://theusgenweb.org/rigenweb/articles/106.html_
 
 ### In the News
 
+#### Pawtucket church turns down offer of financial aid, will demolish mansion
+
+_by Ethan Shorey_  
+**Valley Breeze** | January 31, 2024 (abridged)
+
+Representatives from the Assumption of the Virgin Mary Greek Orthodox Church have turned down city officials’ offer of financial assistance to restore a historic mansion on their Quality Hill property.
+
+The notice from the church to the city appears to be the final nail in the coffin for the Read-Ott House at 97 Walcott St.
+
+According to Peter Microulis, of the church’s property beautification committee, this final conclusion came with “great distress and regret,” but he said having an active and rezoned residential property within a few feet of the church building “would seriously disrupt the church’s core operations.”
+
+“The proximity and central location of the building to all other structures and aspects of the overall property at 97 Walcott could not entertain or afford the inclusion of such third party activity without significantly limiting and impeding the church’s ability to achieve its primary spiritual goals and functions,” he wrote in a Jan. 24 letter.
+
+While the possibility of a city grant to aid renovations was new and unexpected, Microulis said, it did not change the fact that the total cost to make the old mansion truly functional would leave the church with a burden it can’t afford. They’ve reached this conclusion with great distress and regret, he said, but they don’t have a reasonable alternative option.
+
+Microulis acknowledged the delicate nature of this issue, noting that it’s been a sensitive matter within the church body for some time. He also emphasized the church’s own status as a historical fixture in the neighborhood and city for more than a century.
+
+“It lost its first home on Cedar Street in the 1960s to make way for the building of Route 95, and has been holding liturgical and community services on Walcott Street since that time,” he wrote. “We value our existence in Pawtucket. We recognize ourselves as a part of Pawtucket, a part of Quality Hill, and a part of the history and the future of this great city.” […]
+
+The three options presented included demolition, selling the property, or for the city to offer up to $500,000 toward the church’s own restoration of the property. After considering all options, said Microulis, demolition “remains the only option we find to be supportive of the long-term viability of the church, and clearly in its best interest.”
+
+Last Oct. 11 marked the end of a six-month demolition delay for a property that members of the Historic District Commission and Heritage Alliance of Pawtucket have been adamant about seeing saved.
+
+Officials in September detailed a $1.3 million estimated cost for repairing the building, not including renovation or remodeling.
+
+Church leaders have been accused on multiple occasions of demolition by neglect, or allowing the building to become so dilapidated that it becomes too expensive to restore. Church leaders have insisted that they would only be looking to convert the property into open green space, but have been accused of wanting it for parking. […]
+
+— _Captured February 4, 2024 from https://www.valleybreeze.com/news/pawtucket-church-turns-down-offer-of-financial-aid-will-demolish-mansion/article_2f101698-bec2-11ee-a433-4fee435d33ba.html_
+
+***
+
 #### Church applies for demo permit on Read-Ott House
 
 _by Ethan Shorey_  
@@ -163,11 +195,9 @@ Per city ordinance, the owner, the Assumption Greek Orthodox Church, now faces a
 
 City officials have not been active in attempting to save the old mansion, while preservationists have become increasingly pessimistic in recent months about saving it.
 
-The owners have said nothing publicly about their intentions, but are widely believed to want the adjoining property for a new parking lot. They previously told a municipal court judge that they were raising funds to tear it down.
+The owners have said nothing publicly about their intentions, but are widely believed to want the adjoining property for a new parking lot. They previously told a municipal court judge that they were raising funds to tear it down. […]
 
-Listed in the Quality Hill Historic District as the 1842 Read-Ott House, the 6,000-square-foot mansion is a Greek Italianate house that was given a full third story and a wealth of Georgian Revival details in the early 20th century. W.G. Sheldon was the architect on the remodeling at the time, designing the most prominent added detail, the two-story, balustraded front portico.
-
-The structure was originally built for John B. Read, a hardware merchant, and was remodeled for Joseph Ott, founder of the Royal Weaving Company.
+—
 
 _Captured March 19, 2023 from https://www.valleybreeze.com/townnews/architecture/church-applies-for-demo-permit-on-read-ott-house/article_f43590de-b139-11ed-a90d-2f22d333cc83.html_
 

@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: read-ott-house-pwt
+  person: 'Dora'
+  date: '2024-02-07'
+  content: 'I would certainly look into what the Greek Orthodox community is doing to donate to this situation. I remain skeptical about what is being done by this community. Donations are so high and yet where is the money going? Sorry but I have to ask. Something really fishy is going on in that church.'
+
 - property: pontiac-mill-warwick
   person: 'Henry David Floyd'
   date: '2024-01-25'
