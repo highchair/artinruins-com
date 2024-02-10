@@ -15,7 +15,7 @@ neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'PPS Ten Most Endangered' ]
-tags: [ 'The Superlatives' ]
+tags: [ 'Rhode Island Black Heritage', 'The Superlatives' ]
 superlative: 'The African Masonic Lodge was the first institution, other than the Black church, that organized on behalf of African Americans in the United States'
 
 NRHP-ref-number:
