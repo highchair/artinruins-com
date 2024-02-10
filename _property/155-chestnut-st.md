@@ -43,7 +43,7 @@ images:
     caption: 'The existing 1941 Pilgrim Manufacturing Co. Building at 155 Chestnut Street. The new tower would have demolished this building and occupied the parking lot currently in view, abutting the house in the background left (southern side), and demolishing the loading dock structure to the far right.'
     sizes: '1200, 900'
   - url: 155-chestnut-st-existing-02.jpg
-    caption: 'The 1825 Arthur B. and Laura Weeks House would have remained, but would have abutted the new building on its western side. Presumably the greenhouse addition would have been demolished as well.'
+    caption: 'The 1825 Samuel Lewis/Thomas Doyle House would have remained, but would have abutted the new building on its western side. Presumably the greenhouse addition would have been demolished as well.'
     sizes: '1200, 900'
 
 mostrecentimage: 2019-09-01
@@ -69,7 +69,7 @@ The proposal requested the following waivers:
 wall area between the height of one and 12 feet.” We believe the architect’s design required less glazing, but we must admit that we do not entirely understand this rule. 
 + Demolition of existing buildings in a Historic District
 
-The building’s construction required the demolition of the 1941 Campbell Machine Shop currently at 155 Chestnut Street. This building used to abut the 1823 Pardon Clarke House which was demolished in 2009. It would abut the 1825 Arthur B. and Laura Weeks House on the northeastern side. 
+The building’s construction required the demolition of the 1941 Campbell Machine Shop currently at 155 Chestnut Street. This building used to abut the 1823 Pardon Clarke House which was demolished in 2009. It would abut the 1886 Arthur B. and Laura Weeks House on the southwestern side and the [Samuel Lewis House]({% link _property/samuel-lewis-house.md %}) on the northeastern side.
 
 One of the main complaints of the building was its height. We at ArtInRuins see the need for a city to have more density that the current older stock of mill building might allow. While we are not fans of needless demolition, we are fans of smart construction and higher car-free density. The members of the Jewelry District Association and the abutting neighbors did get the <span class="abbr">DDRC</span> to reverse a decision that gave the building a 30% height bonus, knocking it down from the proposed 12 stories to 10. 
 
