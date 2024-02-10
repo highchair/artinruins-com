@@ -27,6 +27,8 @@ address: '235 Meeting St, Providence RI'
 latitude: '41.8290759'
 longitude: '-71.400459'
 gmap: "https://www.google.com/maps/place/235+Meeting+St,+Providence,+RI+02906/@41.8290759,-71.400459,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445236327b6c3:0xd4f8680950bd3d63!8m2!3d41.8290759!4d-71.400459"
+street: [ 'Meeting St' ]
+street-number: '235'
 
 meta: ""
 excerpt: "One the last remaining historic homes on the Thayer to Brook Street block demolished for a new structure"
@@ -79,9 +81,7 @@ This property loss is part of [our essay about the erosion of the College Hill H
 
 ### Current Events
 
-A Thayer Street District Management Authority meeting heard details about the plan to replace 235 Meeting Street in their November 2020 meeting. The developer Paul Boutros plans to construct 4-story building with commercial space for a restaurant on the first and second floors with the third and fourth floors containing four apartments each. <abbr title="Providence Preservation Society">PPS</abbr> objected to a few of the design details and the architect went back and forth on a few plans. The original date of construction was Fall of 2021 but the building did not come down until August 2022. [^2]
-
-[^2]: “Minutes of the Thayer Street District Management Authority Board of Directors Meeting.” November 10, 2020. http://www.thayerstreetdistrict.com/uploads/2/6/4/0/26402738/5-tsdma_board_meeting_minutes_11-10-2020_-_approved.pdf Accessed September 18, 2022.
+A [new four story apartment building]({% link _property/235-meeting-st-pvd-new.md %}) is being constructed on this site.
 
 
 ### History

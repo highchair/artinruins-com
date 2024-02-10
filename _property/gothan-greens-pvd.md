@@ -46,8 +46,12 @@ images:
     sizes: '1200, 900'
   - url: gotham-greens-jh-2019-05-07.jpg
     sizes: '1440, 900'
+  - url: gotham-greens-jh-2024-02-01.jpg
+    sizes: '1440, 900'
+  - url: gotham-greens-jh-2024-02-02.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2019-05-01
+mostrecentimage: 2024-02-01
 
 imagescredit:
 
