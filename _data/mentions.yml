@@ -1,0 +1,65 @@
+# Any verb will have 'this page' appended to it, so make sure the verb makes sense
+
+- property: bridge-power-pwt
+  source: https://millingroundireland.wordpress.com/2023/11/15/from-the-adirondacks-to-pawtucket-the-story-of-margaret-e-maggie-mills/
+  author: 'Burkely Hermann & Milling ‘Round Ireland'
+  date: '2023-11-15'
+  verb: 'linked to'
+
+- property: smith-swim-center
+  source: https://buildingsofnewengland.com/2023/04/07/nelson-fitness-center-brown-university-2012/
+  author: 'Buildings of New England'
+  date: '2023-04-07'
+  verb: 'linked to'
+
+- property: cove-basin-and-waterplace
+  source: https://pvdnowandthen.com/2023/03/28/downtown-parks-a-walking-tour/
+  author: 'PVD Now and Then'
+  date: '2023-03-28'
+  verb: 'mentioned and linked to'
+
+- property: george-arnold
+  source: https://vanessaquery.com/missives/providence-historic-walking-tour-part-1/
+  author: 'Vanessa Query'
+  date: '2023-02-28'
+  verb: 'linked to'
+
+- property: weybosset-mills-dye-house
+  source: https://rhodetripperphotography.com/post/ri-nontraditional-wedding-venues
+  author: 'Rhode Tripper Photography'
+  verb: 'linked to'
+
+- property: narragansett-brewery-cranston
+  source: https://providencedailydose.com/2022/05/23/gansett-brewery-history-on-pbs-weds/
+  author: 'Providence Daily Dose'
+  date: '2022-05-23'
+  verb: 'linked to'
+
+- property: ri-auditorium
+  source: https://trophylives.wordpress.com/2021/11/07/louis-pieri-and-the-providence-steamrollers-how-the-owner-of-one-of-the-worst-nba-teams-in-history-helped-build-a-dynasty/
+  author: 'Trophy Lives in an article titled “Louis Pieri and the Providence Steamrollers: How the Owner of One of the Worst NBA Teams in History Helped Build a Dynasty”'
+  date: '2021-11-07'
+  verb: 'linked to'
+
+- property: shooters-cafe
+  source: https://providencedailydose.com/2021/10/14/shooters-finally-coming-down/
+  author: 'Providence Daily Dose'
+  date: '2021-10-14'
+  verb: 'linked to'
+
+- property: barnaby-carriage-house
+  source: https://providencedailydose.com/2021/10/13/sutton-gallery-opening-reception-friday/
+  author: 'Providence Daily Dose'
+  date: '2021-10-13'
+  verb: 'linked to'
+
+- property: phenix-machine-shop
+  source: https://preservationgreensboro.org/letting-the-pic/
+  author: 'Benjamin Briggs, in an article titled “Letting the Pictures Speak: A New Model For Preservation”'
+  verb: 'linked to'
+
+- property: rocky-point-park
+  source: https://matthewdicks.com/2009-10-strange-days-html/
+  author: 'Matthew Dicks'
+  date: '2009-10-29'
+  verb: 'linked to'

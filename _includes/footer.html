@@ -33,6 +33,11 @@
               <small>Most photos copyright &copy; 2002–{{ 'now' | date: '%Y' }} ArtInRuins unless otherwise noted. 
               Research and news clippings copyright their respective owners. Page last built {{ 'now' | date: "%Y-%m-%d %H:%M" }}.</small>
             </p>
-            <p>A project by J. Hogue and Highchair designhaus. Made with ♥ in Providence, RI. <a href="{% link privacy-policy.md %}">Our privacy policy</a>,</p>
+            {% if page.body-class == 'home' %}
+            <p class="u__text__sans">
+                <small>A Jekyll-powered static site, version 4.2. <a href="//github.com/highchair/artinruins-com">Open source Github repository</a> by user <a href="//github.com/jhogue" rel="me">J. Hogue</a>. All photos and historical information collected is digitally archived and available.</small>
+            </p>
+            {% endif %}
+            <p>A project by J. Hogue and Highchair designhaus. Made with ♥ in Providence, RI. <a href="{% link privacy-policy.md %}">Our privacy policy</a>.</p>
           </div>
         </footer>

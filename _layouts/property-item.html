@@ -3,6 +3,7 @@ layout: default
 ---
 {% assign anecdotes = site.data.anecdotes | where: 'property', page.slug %}
 {% assign anecdotes = anecdotes | orderby: "date" %}
+{% assign mentions = site.data.mentions | where: 'property', page.slug %}
 
         <nav class="prev-next" aria-label="Property">
           {%- comment -%} Store the index of this property out of ALL properties {%- endcomment -%}
@@ -240,6 +241,22 @@ layout: default
                 </figure>
               </li>
             {%- endfor -%}
+            </ul>
+          </div>
+          {%- endif -%}
+
+          {%- if mentions.size > 0 -%}
+          <div class="u__vertical__p u__gutter__p">
+            <h2 class="o__title--sm anec__title">Mentions & reactions from around the web</h2>
+            <ul class="u__list__unstyled mention__list" role="list">
+              {%- for mention in mentions -%}
+              <li class="mention__item">
+                <a class="mention__source" rel="nofollow ugc" href="{{ mention.source }}">
+                  <span class="mention__author">{{ mention.author }}</span>
+                </a> 
+                {{ mention.verb }} this page{% if mention.date %} on <time datetime="{{ mention.date | date: "%Y-%m-%d" }}">{{ mention.date | date: "%e %B, %Y" }}</time>{% endif %}
+              </li>
+              {%- endfor -%}
             </ul>
           </div>
           {%- endif -%}

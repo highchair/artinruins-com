@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2024-02-11
+
+Added
++ Added manual tracking of Webmentions. Occasionally checking at the [Webmentions dashboard](https://webmention.io/dashboard) for links to these properties, and then adding an entry in the mentions.yml file. Did not want to rely on JS and wanted to control spam mentions more tightly.
+
 ## 2024-01-21
 
 Changed
