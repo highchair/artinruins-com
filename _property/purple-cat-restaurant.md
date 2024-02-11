@@ -170,6 +170,31 @@ Rose, president of the Glocester Heritage Society[^3], was instrumental in getti
 
 ### In the News
 
+#### Purple Cat trolley offered to Glocester
+
+_by Jacquelyn Moorehead_  
+**Valley Breeze** | February 8, 2024 (abridged)
+
+The Purple Cat trolley car that once served as the restaurant’s dining area may be on its ninth life as developer Al Constantino offers to donate the historic piece to the town.
+
+Costantino, 76, said the car could take years to restore, and he may not have those years. There is still work to be done at the six-building Purple Cat redevelopment at 4 Stafford Yard, he added.
+
+After fire personnel said he’d have to get the trolley up to code before it could be used as an ice cream parlor, he told the Town Council last Thursday, Feb. 1, he realized he didn’t have the time.
+
+“I’m here before you tonight because we’re not going to be able to do it. By the time we get done with this project (Purple Cat), it (the trolley car) will take a few years to do. I just can’t do it and I don’t want to see it leave the town. There’s a lot of history in that trolley,” Costantino said. […]
+
+Costantino said the trolley and its signage is iconic to Glocester. He suggested pouring a concrete slab near the town’s pavilion, and creating a weather-tight container to preserve it until the town has the funds to restore it.
+
+He offered to let the council come take a look at the trolley before making any decision. He guessed that the work could be done for $50,000.
+
+Costantino said the town could use the second trolley, which is sitting at the back of the old winery property, for parts to restore the donated trolley.
+
+—
+
+_Captured February 10, 2024 from https://www.valleybreeze.com/news/purple-cat-trolley-offered-to-glocester/article_edd9221c-c51c-11ee-a3fb-e7751c5a9ebb.html_
+
+***
+
 #### Purple Cat property purchased, owner eyes mixed-use development
 
 _by Jacquelyn Moorehead_  
