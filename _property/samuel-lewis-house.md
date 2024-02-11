@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [] # Samuel Lewis
 people: []
 lists: [ 'National Register of Historic Places', 'Providence Jewelry Manufacturing Historic District' ]
-tags: [ 'Important RI Women' ]
+tags: [ 'House', 'Important RI Women' ]
 
 NRHP-ref-number: '85003088 (contributing)'
 added-to-NRHP: 'December 1985'
