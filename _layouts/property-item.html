@@ -246,23 +246,21 @@ layout: default
           {%- endif -%}
 
           {%- if mentions.size > 0 -%}
-          <div class="u__vertical__p u__gutter__p">
+          <div class="item__mention u__vertical__pb u__gutter__p">
             <h2 class="o__title--sm anec__title">Mentions & reactions from around the web</h2>
-            <ul class="u__list__unstyled mention__list" role="list">
+            <ol class="item__mention__list" role="list">
               {%- for mention in mentions -%}
-              <li class="mention__item">
-                <a class="mention__source" rel="nofollow ugc" href="{{ mention.source }}">
-                  <span class="mention__author">{{ mention.author }}</span>
-                </a> 
-                {{ mention.verb }} this page{% if mention.date %} on <time datetime="{{ mention.date | date: "%Y-%m-%d" }}">{{ mention.date | date: "%e %B, %Y" }}</time>{% endif %}
+              <li class="item__mention__item">
+                <a class="item__mention__source" rel="nofollow ugc" href="{{ mention.source }}"><span class="item__mention__author">{{ mention.author }}</span></a> 
+                {{ mention.verb }} this property{% if mention.date %} on <time datetime="{{ mention.date | date: "%Y-%m-%d" }}">{{ mention.date | date: "%e %B, %Y" }}</time>{% endif %}
               </li>
               {%- endfor -%}
-            </ul>
+            </ol>
           </div>
           {%- endif -%}
 
           <section id="add-your-anecdote" class="u__vertical__p u__gutter__p rhythm anec__form__wrapper">
-            <h2 class="o__title--sm anec__form__title">Leave an Anecdote</h2>
+            <h2 class="anec__form__title">Leave an Anecdote</h2>
             <p>The information about each building grows as visitors let us know about their experiences. Did you or a member of your family work here? Did you grow up near it as a child? Let us know. All entries will be moderated and may be posted in an edited form. We will use your name unless you tell us otherwise. <i>We will not make your email public</i>.</p>
             <form id="anecdote-form" name="anecform" method="POST" action="/assets/partials/mailer.php" class="form anec__form">
               <input type="hidden" id="property" name="property" value="{{ page.slug }}">

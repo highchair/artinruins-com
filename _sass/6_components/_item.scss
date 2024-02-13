@@ -319,4 +319,23 @@
       font-family: $font-stack__serif;
     }
   }
+
+  &__mention {
+
+    &__list {
+      padding-bottom: $vertical-rhythm;
+    }
+
+    &__item {}
+
+    li + li {
+      border-top: 0.5px solid $color__borders;
+      margin-top: ($vertical-rhythm * 0.5);
+      padding-top: ($vertical-rhythm * 0.5);
+    }
+
+    &__source {}
+
+    &__author {}
+  }
 }

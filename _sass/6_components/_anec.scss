@@ -18,45 +18,45 @@
   // When URLs get too long for the width of the viewport
   // AND overflow-wrap is not supported by the browser
   overflow-y: hidden;
-  
+
   & > div {
     background-color: $anecdote-bg;
   }
-  
+
   &__title {
     padding: 1rem 0;
   }
-  
+
   &__list {
-    
+
     &__item {
-      
+
       &::after {
         content: "";
         display: table;
         clear: both;
       }
-      
+
       a {
         overflow-wrap: break-word;
       }
     }
   }
-  
+
   &__list__item:last-child &__dote {
     border-bottom: 0;
   }
-  
+
   /*figure*/&__dote {
     border-bottom: 0.5px solid $color__borders;
     margin-bottom: ($vertical-rhythm/2);
     padding: 0 0 ($vertical-rhythm/2) 1.5em;
-    
+
     /*blockquote*/&__content {
       @include clearfix;
       position: relative;
       z-index: 2;
-      
+
       &::before {
         @include ff-retro();
         color: palette('brand-red');
@@ -66,42 +66,42 @@
         top: -0.25em;
         left: -0.4em;
       }
-      
+
       // Zero out default blockquote styles
       p {
         font-style: normal;
         padding-left: 0;
-        
+
         &::before,
         &::after {
           content: '' !important;
         }
       }
-      
+
       // Add a visual break when there are multiple <p>s
       p + p {
         text-indent: 1.5rem;
       }
     }
-    
+
     /*figcaption*/&__meta {
       display: flex;
       flex-flow: row wrap;
       align-items: baseline;
       justify-content: space-between;
-      
+
       cite {
         display: inline-block;
         font-style: italic;
         margin-top: 0.5rem;
         text-transform: capitalize;
-        
+
         &::before {
           content: '—';
           margin-right: 0.375rem;
         }
       }
-      
+
       time {
         @extend .o__title--sm;
         color: palette(gray-700);
@@ -110,7 +110,7 @@
   }
 
   //<section id="anecdote-form" class="anec__form__wrapper">
-  //  <h2 class="o__title--sm anec__form__title">Leave an Anecdote</h2>
+  //  <h2 class="anec__form__title">Leave an Anecdote</h2>
   //  <p>The information about each building … </p>
   //  <form name="anecform" method="post" class="anec__form">
   //    <div class="form__group__wrapper">
@@ -142,16 +142,18 @@
   //</section>
   &__form {
     padding-bottom: $vertical-rhythm;
-    
+
     &__wrapper {
       background-color: rgba(palette('brand-teal'), 0.1);
-      
+
       p {
         max-width: em(680);
       }
     }
-    
-    &__title {}
+
+    &__title {
+      margin-top: 0 !important;
+    }
   }
 }
 
