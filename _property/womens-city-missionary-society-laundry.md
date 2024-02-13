@@ -30,7 +30,7 @@ street-number: 155
 meta: ""
 excerpt: "A non-descript one story building in the jewelry district was once a job training program for impoverished women"
 
-thumbnail: womens-missionary-1920-sanborn-01.jpg
+thumbnail: womens-missionary-1908-ljrichards-01.jpg
 
 images:
   - url: womens-missionary-1908-ljrichards-01.jpg
