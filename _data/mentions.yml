@@ -1,65 +1,136 @@
-# Any verb will have 'this page' appended to it, so make sure the verb makes sense
+# Any verb will have 'this property' appended to it, so make sure the verb makes sense
 
 - property: bridge-power-pwt
-  source: https://millingroundireland.wordpress.com/2023/11/15/from-the-adirondacks-to-pawtucket-the-story-of-margaret-e-maggie-mills/
+  source: //millingroundireland.wordpress.com/2023/11/15/from-the-adirondacks-to-pawtucket-the-story-of-margaret-e-maggie-mills/
   author: 'Burkely Hermann & Milling ‘Round Ireland'
   date: '2023-11-15'
   verb: 'linked to'
 
 - property: smith-swim-center
-  source: https://buildingsofnewengland.com/2023/04/07/nelson-fitness-center-brown-university-2012/
+  source: //buildingsofnewengland.com/2023/04/07/nelson-fitness-center-brown-university-2012/
   author: 'Buildings of New England'
   date: '2023-04-07'
   verb: 'linked to'
 
 - property: cove-basin-and-waterplace
-  source: https://pvdnowandthen.com/2023/03/28/downtown-parks-a-walking-tour/
+  source: //pvdnowandthen.com/2023/03/28/downtown-parks-a-walking-tour/
   author: 'PVD Now and Then'
   date: '2023-03-28'
   verb: 'mentioned and linked to'
 
 - property: george-arnold
-  source: https://vanessaquery.com/missives/providence-historic-walking-tour-part-1/
+  source: //vanessaquery.com/missives/providence-historic-walking-tour-part-1/
   author: 'Vanessa Query'
   date: '2023-02-28'
   verb: 'linked to'
 
 - property: weybosset-mills-dye-house
-  source: https://rhodetripperphotography.com/post/ri-nontraditional-wedding-venues
+  source: //rhodetripperphotography.com/post/ri-nontraditional-wedding-venues
   author: 'Rhode Tripper Photography'
   verb: 'linked to'
 
+- property: cyclodrome
+  source: //weird-island.simplecast.com/episodes/59-cycledrome-and-the-first-new-england-nfl-champions-GbwjcfYu
+  author: 'Weird Island podcast, episode 59: “Cyclodrome and the first New England NFL Champions”'
+  date: '2022-08-30'
+  verb: 'cited'
+
 - property: narragansett-brewery-cranston
-  source: https://providencedailydose.com/2022/05/23/gansett-brewery-history-on-pbs-weds/
+  source: //providencedailydose.com/2022/05/23/gansett-brewery-history-on-pbs-weds/
   author: 'Providence Daily Dose'
   date: '2022-05-23'
   verb: 'linked to'
 
+- property: farnum-hall
+  source: //quahog.org/index.php/FactsFolklore/Reminiscences/Blizzard_of_78
+  author: 'Quahog dot org, in an article titled “Flogging the Collective Memory: The Blizzard of 1978”'
+  date: '2022-02-09'
+  verb: 'linked to'
+
+- property: crook-point-bascule
+  source: //en.wikipedia.org/wiki/Crook_Point_Bascule_Bridge
+  author: 'Wikipedia, on a page titled “Crook Point Bascule Bridge”'
+  verb: 'cited'
+
+- property: chace-center-risd
+  source: https://en.wikipedia.org/wiki/Rhode_Island_School_of_Design
+  author: 'Wikipedia, on a page titled “Rhode Island School of Design”'
+  date: '2022-02-07'
+  verb: 'cited'
+
 - property: ri-auditorium
-  source: https://trophylives.wordpress.com/2021/11/07/louis-pieri-and-the-providence-steamrollers-how-the-owner-of-one-of-the-worst-nba-teams-in-history-helped-build-a-dynasty/
+  source: //trophylives.wordpress.com/2021/11/07/louis-pieri-and-the-providence-steamrollers-how-the-owner-of-one-of-the-worst-nba-teams-in-history-helped-build-a-dynasty/
   author: 'Trophy Lives in an article titled “Louis Pieri and the Providence Steamrollers: How the Owner of One of the Worst NBA Teams in History Helped Build a Dynasty”'
   date: '2021-11-07'
   verb: 'linked to'
 
 - property: shooters-cafe
-  source: https://providencedailydose.com/2021/10/14/shooters-finally-coming-down/
+  source: //providencedailydose.com/2021/10/14/shooters-finally-coming-down/
   author: 'Providence Daily Dose'
   date: '2021-10-14'
   verb: 'linked to'
 
 - property: barnaby-carriage-house
-  source: https://providencedailydose.com/2021/10/13/sutton-gallery-opening-reception-friday/
+  source: //providencedailydose.com/2021/10/13/sutton-gallery-opening-reception-friday/
   author: 'Providence Daily Dose'
   date: '2021-10-13'
   verb: 'linked to'
 
+- property: rustic-tri-view
+  source: //weird-island.simplecast.com/episodes/19-dirty-drive-in-the-forgotten-history-of-rhode-islands-drive-ins
+  author: 'Weird Island podcast, episode 19: “DIRTY DRIVE-IN: The Forgotten History of Rhode Island’s Drive-Ins”'
+  date: '2021-06-22'
+  verb: 'cited'
+
+- property: east-side-train-tunnel
+  source: //weird-island.simplecast.com/episodes/18-abandoned-the-east-side-train-tunnel
+  author: 'Weird Island podcast, episode 18: “ABANDONED: The East Side Train Tunnel”'
+  date: '2021-06-15'
+  verb: 'cited'
+
+- property: apex-pawtucket
+  source: //weird-island.simplecast.com/episodes/11-the-pyramid-of-pawtucket-apex-department-store
+  author: 'Weird Island podcast, episode 11: “THE PYRAMID OF PAWTUCKET: Apex Department Store”'
+  date: '2021-04-27'
+  verb: 'cited'
+
+- property: 312-wickenden-st
+  source: //sneercampaign.com/the-duck-and-bunny-is-now-my-enemy/
+  author: 'Sneer Campaign, in an article titled “The Duck and Bunny Is Now My Enemy”'
+  date: '2021-04-16'
+  verb: 'linked to'
+
+- property: ladd-school
+  source: //weird-island.simplecast.com/episodes/abandoned-the-ladd-school
+  author: 'Weird Island podcast, episode 3: “ABANDONED: The Ladd School”'
+  date: '2021-03-02'
+  verb: 'cited'
+
 - property: phenix-machine-shop
-  source: https://preservationgreensboro.org/letting-the-pic/
+  source: //preservationgreensboro.org/letting-the-pic/
   author: 'Benjamin Briggs, in an article titled “Letting the Pictures Speak: A New Model For Preservation”'
   verb: 'linked to'
 
+- property: crook-point-bascule
+  source: //www.atlasobscura.com/places/crook-point-bascule-bridge
+  author: 'Atlas Obscura, on a page titled “Crook Point Bascule Bridge”'
+  date: '2015-11-12'
+  verb: 'cited'
+
+- property: cyclodrome
+  source: //en.wikipedia.org/wiki/Multi-purpose_stadium
+  author: 'Wikipedia, on a page titled “Multi-purpose stadium”'
+  date: '2013-01-06'
+  verb: 'cited'
+
+- property: cyclodrome
+  source: //en.wikipedia.org/wiki/Cycledrome
+  author: 'Wikipedia, on a page titled “Cycledrome”'
+  date: '2013-01-06'
+  verb: 'cited'
+
 - property: rocky-point-park
-  source: https://matthewdicks.com/2009-10-strange-days-html/
+  source: //matthewdicks.com/2009-10-strange-days-html/
   author: 'Matthew Dicks'
   date: '2009-10-29'
   verb: 'linked to'

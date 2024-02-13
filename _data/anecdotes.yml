@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: quonset-point-naval-base
+  person: 'Ralph Lobdell'
+  date: '2024-02-10'
+  content: 'I was stationed at Quonset Point in 1959-1961. My rank was AE3 I worked in weight and balance area. After the aircraft was rebuilt we would weigh the aircraft. I had many friends in the civilian work staff. I never realized the base was closed until a few years ago. I look forward to visiting the area this coming fall. I imagine the area has changed thru the years.'
+
 - property: read-ott-house-pwt
   person: 'Dora'
   date: '2024-02-07'
