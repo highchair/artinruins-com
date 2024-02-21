@@ -166,13 +166,21 @@ _From the Church Hill Industrial District nomination form, 1982_
 
 The William H. Haskell Manufacturing Plant is a red brick industrial complex constructed on three-quarters of a city block, roughly in a C-shape surrounding a small millyard on Main Street. A plain iron fence runs along the south side of the complex and closes the yard.
 
-3-1 A tiny, 1-story, gable-roofed brick structure located at the center of the complex and at the northwest corner of the mill yard, this structure is a remnant of the shop **James Brown** operated on this site in the l840s. The windows of the structure are set under segmental arches, but the sash has been replaced in all but the gable window. c. 1845 Photo #5 
+3-1 A tiny, 1-story, gable-roofed brick structure located at the center of the complex and at the northwest corner of the mill yard, this structure is a remnant of the shop **James Brown** operated on this site in the l840s. The windows of the structure are set under segmental arches, but the sash has been replaced in all but the gable window. c. 1845 Photo #5
 
-3-2 A 2 1⁄2-story, brick building, 162 X 40, the first Haskell factory has a gable roof, except at the south end where a mansard with heavy brackets has been added. 1860 Photo #6 
+3-2 A 2 1⁄2-story, brick building, 162 X 40, the first Haskell factory has a gable roof, except at the south end where a mansard with heavy brackets has been added. 1860 Photo #6
 
-3-3 A large, 1- and 2-story brick building, extending the length of Commerce and Bayley Streets, this structure has a gable roof on its Bayley Street side, and a flat roof on its Commerce Street side. The paired windows have double-hung, 6-over-6 sash and are set between brick piers. Large, freight doors open into the mill yard. 1885 Photo #8 
+3-3 A large, 1- and 2-story brick building, extending the length of Commerce and Bayley Streets, this structure has a gable roof on its Bayley Street side, and a flat roof on its Commerce Street side. The paired windows have double-hung, 6-over-6 sash and are set between brick piers. Large, freight doors open into the mill yard. 1885 Photo #8
 
 3-4 A large, 2-story mill, set at the southwest corner of the plant and constructed of reinforced concrete and brick, this factory has a flat roof and a heavy, molded cornice. Most of its standard factory windows are now boarded over.
+
+[…]
+
+Like the [Brown shop]({% link _property/james-brown-machine-shop.md %}), the origins of the Haskell Manufacturing Company reach back to Pawtucket’s industrial beginnings. It is today the nation’s oldest continually operating bolt nd cold-punched but producer. The Haskell Company developed from the small shop started by Stephen Jenks at the Pawtucket Falls; Jenks was making bolts by 1820 and he was the first in Pawtucket to cold-punch from bar iron.
+
+The Jenks shop was acquired in 1835 by Tinkham, Haskell, and Company (Harvey Tinkham had been a partner to Joseph Jenks, Stephen’s son) and in 1836 William H. Haskell purchased the company. In 1860 Haskell moved his operation to Church Hill and began construction on a site purchased from James Brown whose machine shop was located just west of the Haskell plant. From 1860 to present the Haskell Company has continued to manufacture machine parts at the Church Hill site.
+
+From 1860 to 1920 the Haskell Company built the moderate-sized complex located on Main, Commerce, and Bayley Streets. The 1860 mill is a long, 2-story brick building which incorporates on its east side a small, 1-story section of James Brown’s pre-1848 plant [no longer extant]. In a major expansion of the 1880s, Haskell added a large 1- and 2-story section running along Commerce and Bayley Streets.And in 1920, a 2-story structure of reinforced concrete was completed on the southwest corner of the site.
 
 ***
 
