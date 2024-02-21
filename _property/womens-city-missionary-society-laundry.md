@@ -14,7 +14,7 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: []
 people: # Sarah Durfee
-lists: [ 'National Register of Historic Places', 'Providence Jewelry Manufacturing Historic District' ]
+lists: [ 'Mysteries of the Unknown', 'National Register of Historic Places', 'Providence Jewelry Manufacturing Historic District' ]
 tags: [ 'Important RI Women' ]
 
 NRHP-ref-number: '85003088 (contributing)'

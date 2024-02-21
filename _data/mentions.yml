@@ -1,5 +1,11 @@
 # Any verb will have 'this property' appended to it, so make sure the verb makes sense
 
+- property: crook-point-bascule
+  source: //crookpointbrewing.com/about
+  author: 'Crook Point Brewing'
+  date: '2024-01-01'
+  verb: 'linked to'
+
 - property: bridge-power-pwt
   source: //millingroundireland.wordpress.com/2023/11/15/from-the-adirondacks-to-pawtucket-the-story-of-margaret-e-maggie-mills/
   author: 'Burkely Hermann & Milling ‘Round Ireland'
@@ -53,7 +59,7 @@
   verb: 'cited'
 
 - property: chace-center-risd
-  source: https://en.wikipedia.org/wiki/Rhode_Island_School_of_Design
+  source: //en.wikipedia.org/wiki/Rhode_Island_School_of_Design
   author: 'Wikipedia, on a page titled “Rhode Island School of Design”'
   date: '2022-02-07'
   verb: 'cited'
@@ -111,11 +117,28 @@
   author: 'Benjamin Briggs, in an article titled “Letting the Pictures Speak: A New Model For Preservation”'
   verb: 'linked to'
 
+- property: wilkinson-building-pvd
+  source: //www.consumergrouch.com/?p=8884
+  author: 'Consumer Grouch, aka Betsy van Die, on a page titled “Downtown Providence – A Nostalgic Stroll Down Westminster Street”'
+  date: '2020-05-29'
+  verb: 'linked to'
+
+- property: gorham-manufacturing-co
+  source: //en.wikipedia.org/wiki/Gorham_Manufacturing_Company#Providence
+  author: 'Wikipedia, on a page titled “Gorham Manufacturing Company”'
+  date: '2020-03-14'
+  verb: 'cited'
+
 - property: crook-point-bascule
   source: //www.atlasobscura.com/places/crook-point-bascule-bridge
   author: 'Atlas Obscura, on a page titled “Crook Point Bascule Bridge”'
   date: '2015-11-12'
   verb: 'cited'
+
+- property: monohasset-mill
+  source: //digitalcommons.risd.edu/rudybruneraward/1/
+  author: 'Digital Commons at RISD, on a page titled “Rudy Bruner Award | 30 Years of Urban Excellence”'
+  verb: 'linked to'
 
 - property: cyclodrome
   source: //en.wikipedia.org/wiki/Multi-purpose_stadium
