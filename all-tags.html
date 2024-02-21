@@ -10,10 +10,10 @@ sitemap:
   changefreq: 'monthly'
 ---
 
-{% assign tags = "categories, town, neighborhoods, designers, lists, tags, decade, date-added, demolition, street" | split: ', ' %}
 {% comment %}
   Forloop index starts at 1, arrays start at 0 — therefore add a blank spot
 {% endcomment %}
+{% assign tags = "categories, town, neighborhoods, designers, lists, tags, decade, date-added, demolition, street" | split: ', ' %}
 {% assign pretty_tags = "blank, Categories, Town or State, Providence neighborhoods, Designers and Developers, Lists, Tags, Decade built, Date added, Date of demolition, Streets" | split: ', ' %}
 
 {% comment %}
@@ -22,7 +22,8 @@ sitemap:
 <h2 class="o__title--sm o__title__cta v-rhythm">Jump to:</h2>
 <ul class="u__list__unstyled u__text-columns u__vertical__pb">
 {% for tag in tags %}
-  <li><a href="#{{ tags[forloop.index] }}">{{ pretty_tags[forloop.index] }}</a></li>
+  {% assign index_minusone = forloop.index | minus: 1 %}
+  <li><a href="#{{ tags[index_minusone] }}">{{ pretty_tags[forloop.index] }}</a></li>
 {% endfor %}
 </ul>
 
@@ -32,8 +33,9 @@ sitemap:
 {% for tag in tags %}
   {%- assign pages = site.pages | where: 'type', tag -%}
   {%- if pages.size >= 1 -%}
+    {% assign index_minusone = forloop.index | minus: 1 %}
     <div class="all-tags__wrapper u__vertical__pb">
-      <h2 id="{{ tags[forloop.index] }}" class="all-tags__title u__mt--0">{{ pretty_tags[forloop.index] }}</h2>
+      <h2 id="{{ tags[index_minusone] }}" class="all-tags__title u__mt--0">{{ pretty_tags[forloop.index] }}</h2>
     {%- for thispage in pages -%}
       {%- assign collection = site.property | where: tag, thispage.category -%}
       {%- if forloop.first -%}<ul class="u__list__unstyled all-tags__list all-tags__list--{{ tag }} u__text-columns">{%- endif -%}
