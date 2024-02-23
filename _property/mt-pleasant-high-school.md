@@ -15,7 +15,7 @@ neighborhoods: [ 'North Providence' ]
 town: [ 'Providence, RI' ]
 designers: []
 people: []
-lists: []
+lists: [ 'PPS Ten Most Endangered' ]
 tags: [ 'Former/Current Schools', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:

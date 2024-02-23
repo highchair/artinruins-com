@@ -17,6 +17,17 @@ Properties attached to the list 'PPS Ten Most Endangered'
 
 ## Providence Preservation Society Ten Most Endangered Lists
 
+### 2024
+
++ Neighborhoods Under Pressure from Student Housing Gentrification // Wanskuck, Elmhurst, Smith Hill, Washington Park, and [College Hill]({% link _essays/erosion-of-college-hill-historic-district.md %}).
++ Providence Public School Buildings, as represented by Asa Messer Elementary School and [Mount Pleasant High School]({% link _property/mt-pleasant-high-school.md %}) // Citywide, 1655 Westminster Street and 434 Mount Pleasant Avenue.
++ Grace Church Cemetery (1834, 1843, c. 1860) // 10 Elmwood Avenue.
++ Sacred Places, as represented by the Sons of Jacob Synagogue, Broad Street Synagogue, and Cathedral of St. John // Citywide, 24 Douglas Avenue, 688 Broad Street, and 276 North Main Street.
++ South Providence Waterfront and [Providence Gas Co. Purifier Building]({% link _property/providence-gas-purifier-house.md %}) // 200 Allens Avenue and South Providence Waterfront.
++ <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Cranston Street Armory]({% link _property/providence-armory.md %}) (1907) // 340 Cranston Street, West End.
++ <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Atlantic Mills Complex]({% link _property/atlantic-mills.md %}) (1863, 1882) // 100 Manton Avenue, Olneyville.
++ <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}) (aka Superman Building) (1928) // 111 Westminster Street, Downtown.
+
 ### 2023
 
 + Asa Messer Elementary School, 158 Messer Street, West End (ca. 1890)
@@ -40,7 +51,6 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + Rhodes Street National Register Historic District (1855–1915) 
 + Tockwotton Fox Point Cape Verdean Community 
 + Urban League of Rhode Island Building (c. 1970s) 246 Prairie Ave
-
 
 ### 2021
 
