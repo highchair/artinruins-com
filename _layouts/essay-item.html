@@ -25,8 +25,11 @@ layout: default
       -%}
 
     </div>
+    <footer class="u__max-width--text u__gutter__p">
+      <a href="{% link essays.html %}" class="u__text__sans--bold u__color__primary"><span aria-hidden="true">&lt;</span> All Essays</a>
+    </footer>
   {% if page.mentioned.size > 0 %}
-    <aside class="u__gutter__p u__vertical__p">
+    <aside class="u__gutter__p u__vertical__pt">
       <div class="u__max-width--container">
         <h2 class="u__vertical__pb">{{ page.mentioned.size }} Properties mentioned in this Essay</h2>
         {% assign limit = 6 %}

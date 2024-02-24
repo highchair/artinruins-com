@@ -1,6 +1,22 @@
+@keyframes shrinkAnimation {
+  from {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+  to {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+}
+
 .essay {
+  scroll-timeline-name: --headerTimeline;
 
   header {
+    animation-name: shrinkAnimation;
+    animation-duration: 1ms; /* Firefox requires this to apply the animation */
+    animation-direction: alternate;
+    animation-timeline: --headerTimeline;
     background: center center no-repeat url() transparent;
     background-size: cover;
   }
@@ -13,12 +29,20 @@
     color: $white;
   }
 
+  footer {
+    border-top: 0.5px solid $color__borders;
+    border-bottom: 0.5px solid $color__borders;
+    padding-top: $vertical-rhythm;
+    padding-bottom: $vertical-rhythm;
+  }
+
   &__backtotop {
     display: flex;
     flex-flow: row nowrap;
     justify-content: flex-end;
     position: sticky;
       bottom: 4rem;
+    z-index: 10;
 
     @include layout-columns() {
       bottom: 1rem;
