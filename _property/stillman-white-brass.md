@@ -75,6 +75,9 @@ mostrecentimage: 2021-04-01
 #    url: https://perma.cc/MQ4Z-Z9K4
 ---
 
+There is a Then and Now photo pair for this property! [View the Then & Now photos]({% link _then-now/stillman-white-brass.md %})
+{:.o__tldr}
+
 ### Current Events
 
 This building has housed many businesses and used more than one address over the years. When built for the Stillman Brass Foundry, it was located at 1 Bark Street, and Stillman Brass remained here until 1949. When the 1971 photo was taken, it was the home of William R.M. Brown Co, Printers, and the address was 51 Mill Street. In the 1978 survey, it was located at 47 Charles Street.
@@ -100,7 +103,7 @@ _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites
 
 One of the oldest brass foundries in Rhode Island, the **Stillman White Foundry** was established in 1856. The firm acquired a reputation for the manufacture of all kinds of light and heavy brass, bronze, and composition castings. The specialty of the firm was the “S. White Lining Metal” which was used in the bearings of light and heavy engines. By 1886, according to Welcome Greene, this product had become the “lining metal in more use than any other.” 
 
-In 1896, six furnaces, a melting kettle, and a core oven, which could produce 1,500 pounds of finished metal product per day, were in operation. The remaining building, a small, 1-and 2-story brick structure, was built between 1871 and 1876. The structure provided offices for the **Research and Design Institute** (REDE), the group responsible for the building’s adaptive reuse. REDE was originally set up as a non-profit research institute focusing on energy conservation. The foundry was refitted to conserve energy and, in the process, exterior alterations, such as the installation of new thermal windows, and the replacement of granite lintels with cement, were made.
+In 1896, six furnaces, a melting kettle, and a core oven, which could produce 1,500 pounds of finished metal product per day, were in operation. The remaining building, a small, 1-and 2-story brick structure, was built between 1871 and 1876. The structure provided offices for the **Research and Design Institute** (<span class="abbr">REDE</span>), the group responsible for the building’s adaptive reuse. <span class="abbr">REDE</span> was originally set up as a non-profit research institute focusing on energy conservation. The foundry was refitted to conserve energy and, in the process, exterior alterations, such as the installation of new thermal windows, and the replacement of granite lintels with cement, were made.
 
 ***
 
