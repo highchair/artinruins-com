@@ -72,6 +72,9 @@ imagescredit: 'Contributions by Rick Greenwood, <a href="//drive.google.com/driv
 #    url: https://perma.cc/MQ4Z-Z9K4
 ---
 
+There is a Then and Now photo pair for this property! [View the Then & Now photos]({% link _then-now/bassett-and-chestnut-sts.md %})
+{:.o__tldr}
+
 ### Redevelopment
 
 This modest brick house has truly survived through significant changes. The Jewelry District started as a predominantly residential neighborhood. As Providence grew, land west of the Providence River became the center of the Providence jewelry industry in the nineteenth and twentieth centuries.[^1]
