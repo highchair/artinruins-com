@@ -1,6 +1,7 @@
 ---
 layout: essay-item
 type: essay
+categories: [ '#Essay' ]
 slug: compost-and-the-arts-stink-tank
 title: "Compost and the Arts: How to keep the arts from dying of old age"
 excerpt: 'Pinnacles have mountains underneath them; Mountains nurtured, fed, and supported by the compost of intentional or unintentional community'

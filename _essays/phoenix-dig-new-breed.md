@@ -1,6 +1,7 @@
 ---
 layout: essay-item
 type: essay
+categories: [ '#Essay' ]
 slug: phoenix-dig-new-breed
 title: "Dig the New Breed (The Phoenix archives)"
 excerpt: 'Providence got a wake-up call when opponents sounded off against a proposal to turn Eagle Square into a strip mall. A look at the rhetoric and reality of nurturing the arts'

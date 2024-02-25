@@ -37,7 +37,10 @@ sitemap:
     <div class="all-tags__wrapper u__vertical__pb">
       <h2 id="{{ tags[index_minusone] }}" class="all-tags__title u__mt--0">{{ pretty_tags[forloop.index] }}</h2>
     {%- for thispage in pages -%}
-      {%- assign collection = site.property | where: tag, thispage.category -%}
+      {% assign properties = site.property | where: tag, thispage.category %}
+      {% assign essays = site.essays | where: tag, thispage.category %}
+      {% assign thennows = site.then-now | where: tag, thispage.category %}
+      {% assign collection = properties | concat: thennows | concat: essays | sort_natural: 'title' %}
       {%- if forloop.first -%}<ul class="u__list__unstyled all-tags__list all-tags__list--{{ tag }} u__text-columns">{%- endif -%}
       <li><a class="all-tags__list__group" href="{{ '/' | relative_url }}{{ thispage.permalink }}"><span>{{ thispage.category }}</span> <span>{{ collection.size }}</span></a></li>
       {%- if forloop.last -%}</ul>{%- endif -%}

@@ -1,6 +1,7 @@
 ---
 layout: essay-item
 type: essay
+categories: [ '#Essay' ]
 slug: erosion-of-college-hill-historic-district
 title: "The Erosion of the College Hill Historic District (blocks bounded by Cushman, Brook, Waterman, & Thayer Sts.)"
 excerpt: 'Twenty-eight properties have been demolished in the past 10 years within these four blocks.'

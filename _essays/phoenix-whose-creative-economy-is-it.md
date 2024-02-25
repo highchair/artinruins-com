@@ -1,6 +1,7 @@
 ---
 layout: essay-item
 type: essay
+categories: [ '#Essay' ]
 slug: phoenix-whose-creative-economy-is-it
 title: "Whose creative economy is it? (The Phoenix archives)"
 excerpt: 'The vitality of Providence’s artistic underground is weakened by the demise of Olneyville’s fabled music scene'

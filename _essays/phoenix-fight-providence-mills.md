@@ -1,6 +1,7 @@
 ---
 layout: essay-item
 type: essay
+categories: [ '#Essay' ]
 slug: phoenix-fight-providence-mills
 title: "The new fight for Providence’s mills (The Phoenix archives)"
 excerpt: 'Converting industrial buildings into housing threatens to eliminate a surprisingly robust source of jobs and small businesses.'
