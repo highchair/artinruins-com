@@ -14,7 +14,7 @@ date-added: '2010'
 categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Philemon E. Sturges' ]
+designers: [ 'Philemon F. Sturges' ]
 lists: [ 'HABS HAER' ]
 tags: [ 'Demolition by Progress', 'Mid-century Modern', 'Needs History' ]
 
