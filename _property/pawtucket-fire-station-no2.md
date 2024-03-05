@@ -15,7 +15,7 @@ date-added: '2022'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [] # Albert H. Humes
+designers: [ 'Albert H. Humes' ]
 people: []
 lists: []
 tags: [ 'Fire Stations' ]
@@ -26,7 +26,7 @@ longitude: '-71.3905213'
 gmap: "https://www.google.com/maps/place/Blackstone+Valley+Senior+Citizen/@41.8766032,-71.3905213,17z/data=!4m13!1m7!3m6!1s0x89e4435420ddab75:0x71b68d6bdb7cf0d8!2s420+Main+St,+Pawtucket,+RI+02860!3b1!8m2!3d41.8766032!4d-71.3883326!3m4!1s0x89e4435420e923fd:0xff7e297040e43a55!8m2!3d41.8765995!4d-71.3883875"
 
 meta: ""
-excerpt: "An early 1900s fire station converted to a senior center in the early 1980s and in constant use ever since"
+excerpt: "An early 1900s fire station converted to a senior center in the 1980s and in constant use ever since"
 
 thumbnail: pawt-fire-2-jh-2009-11-04.jpg
 

@@ -14,7 +14,7 @@ date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: [ 'Albert H. Humes' ]
 lists: [ 'Church Hill Industrial District', 'National Register of Historic Places' ]
 tags: [ 'Apartments for Rent', 'Former Banks', 'Flatiron style' ]
 
