@@ -3,7 +3,7 @@ layout: then-now-item
 title: "Stillman White Brass Foundry, Then & Now"
 slug: stillman-white-brass
 property_slug: stillman-white-brass
-date-modified: 2024-03-25 12:00
+date-modified: 2024-02-25 12:00
 
 excerpt: "A charming flat-iron style building on Charles Street, built circa 1874, changed drastically in the past 50 years"
 

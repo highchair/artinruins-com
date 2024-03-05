@@ -1,6 +1,21 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: lebanon-mill
+  person: 'Harriet Teper'
+  date: '2024-03-03'
+  content: 'My father was probably the first salesperson in New York to work for the Grossman Brothers. He started work for them in 1939, when I was born, and retired in 1970, when my daughter was born. I remember Eddie Grossman, the eldest of the brothers, and Max Grossman who both worked in New York. I also have fund memories of Stanley and Hazel Grossman. When my Dad retired, they threw him a large party. They were very good people.'
+
+- property: lincoln-mall
+  person: 'Julie Otis'
+  date: '2024-02-28'
+  content: 'I worked at Brooks Fashions, a woman’s clothing store! It was my first job back in 1986. It was right next to Music And… I have so many fond memories of the Lincoln Mall. If I wasn‘t working there, I was hanging out with my friends there shopping, going to the movies, playing in the arcade or having pizza at Papa Gino‘s. Does anyone remember the Roast House? My grandparents used to take me there to eat now and then. That mall holds a special place in my heart ♥'
+
+- property: enchanted-forest
+  person: 'Justin Bourassa'
+  date: '2024-02-26'
+  content: 'My old man has pictures of me and him at this park in ‘93 sometime when we went back to visit family in Coventry. The only memories i have of this place are in these photos but it’s still very disheartening to see what it became'
+
 - property: humboldt-fire-station
   person: 'Mark Howe'
   date: '2024-02-22'
