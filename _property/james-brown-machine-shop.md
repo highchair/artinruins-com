@@ -1,5 +1,5 @@
 ---
-title: "James Brown Machine Shop"
+title: "James S. Brown Machine Shop"
 slug: james-brown-machine-shop
 aka: 'Atlantic Furniture'
 date-modified: 2024-02-18 12:00
@@ -106,5 +106,7 @@ James S. Brown, the son of Sylvanus Brown-skilled millwright and patternmaker wh
 
 #### Maps
 
++ [1855 Henry F Walling, Map of the State of RI (Pawtucket inset)](https://www.flickr.com/photos/pawtucketlibrary/42580514114/in/album-72157698868094475/) — The distinctive long “T” shape is visible on Pine Street in this map on the corner of Brown Street (later Pine) and Cross Street (later Main).
++ [1880 G.M. Hopkins, Atlas of the Town of Pawtucket, RI, Plate V](https://www.flickr.com/photos/pawtucketlibrary/43192918072/in/album-72157684758969912/) — In the lower right, the building is labelled “Machine Shop” with “J. S. Brown” below that on the corner of Pine and Main Streets.
 + [1884 Sanborn Map, City of Pawtucket, Volume 1, Plate 6](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961884) (page 6) — Building labelled as “James S. Brown. Machine Shops” on the corner of Pine and Main Streets. Additional labels for “Storage Bas’t, Machine Shop 1st, Wood Shop 2nd.” A small office is located on the southeast corner of the building connected by a thin passageway.
 + [1902 Sanborn Map, City of Pawtucket, Volume 1, Plate 6](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961884) (page 10) — Building labelled as “James Brown. – Machine Shop” in red/pink as brick with notations of “2 1/2” stories. A blacksmith shop is on the northern side of the building with the bulk of the space labelled for “Machine shop.” Also noted is “Wood-Working, Erecting & Machine Shops 2nd, storage and lumber in attic”

@@ -186,11 +186,7 @@ From 1860 to 1920 the Haskell Company built the moderate-sized complex located o
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
-WILLIAM HASKELL MANUFACTURING COMPANY Pawtucket
-
-Main and Commerce Streets c. 1860 ‘19.301700.4638660 Pawtucket Providence
-
-The Haskell Manufacturing Company, the oldest continually operating bolt and cold-punched nut-plant in the United developed from a small shop started by Stephen Jenks at Pawtucket Falls. Jenks began making bolts about 1820 and was the first artisan in Pawtucket to introduce cold-punching from bar iron. In 1835, Tinkham, Haskell, and Company bought the business and sold it one year later to W. H. Haskell. Haskell moved to the current site about 1860, at approximately the same time that James Brown was building his adjoining machine shop. A 2-story, brick building, 162’. X 40’, survives from that period. The mansard roof over the South-end was added later. The building now ‘contains patternS for bolt and nut machinery of Haskell’s own manufacture.
+**WILLIAM HASKELL MANUFACTURING COMPANY** — The Haskell Manufacturing Company, the oldest continually operating bolt and cold-punched nut-plant in the United developed from a small shop started by Stephen Jenks at Pawtucket Falls. Jenks began making bolts about 1820 and was the first artisan in Pawtucket to introduce cold-punching from bar iron. In 1835, Tinkham, Haskell, and Company bought the business and sold it one year later to W. H. Haskell. Haskell moved to the current site about 1860, at approximately the same time that James Brown was building his adjoining machine shop. A 2-story, brick building, 162’. X 40’, survives from that period. The mansard roof over the South-end was added later. The building now ‘contains patternS for bolt and nut machinery of Haskell’s own manufacture.
 
 The large 2-story, brick building extending along Commerce and Bayley Streets was built in 1885 and continues to be used for production. Operating machinery includes a row of c. 1912 double-tool-post shavers; built by the Pawtucket Manufacturing Company; a 15-inch universal shaper 1916, built by Potter Johnson of Pawtucket; and a 1⁄2-inch-lag screw, gimlet pointer 1918, built by National Machine of Tiffin, Ohio. The forge room, located on the Bayley Street side of the building, contains a 7/8-inch hammer-heading forging machine 1917, built by the Pawtucket Manufacturing Company. The company also has a battery of Brown Sharpe screw machines.
 
@@ -200,7 +196,10 @@ Other machinery, from the 1930s, includes Landis threading machines; stamping pr
 
 #### Maps
 
-+ [1890 Sanborn Insurance Map, plate 17](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961890){:target="_blank"} (page 17) — Corner of Bailey, now Commerce, and Main Streets. Many of the former building are in this map, with only a few of the current ones. The pink brick section labeled “W. M. Haskell Comp’y” is still extant, while the wooden structures in yellow are now gone. Bailey (renamed “Bayley”) would later run through to Pine Street and where the train tracks run to the north would become Goff Street.
++ [1884 Sanborn Map, City of Pawtucket, Volume 1, Plate 6](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961884) (page 6) — Buildings labelled “W.H. Haskell. Bolt Fac.” The plots boundaries are trapezoidal in shape and is in the middle of a block bounded by Pine Street to the west, Main Street to the south, Bailey Street to the east, and Providence and Worcester Railroad to the north. The southern-most building is a red/pink brick upside down L shape containing an office, stamping and packing on the 1st floor; a machine shop on the 2nd; and a pattern shop on the 3rd. A much larger but single story wooden structure is on the northern side which is labelled as “Forging & Nail Cutting” with “Iron & Steel Storage.”
++ [1890 Sanborn Insurance Map, Volume 1, Plate 17](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961890) (page 17) — Corner of Bailey, now Commerce, and Main Streets. Many of the former building are in this map, with only a few of the current ones. The pink brick section labeled “W. M. Haskell Comp’y” is still extant, while the wooden structures in yellow are now gone.
++ [1902 Sanborn Map, City of Pawtucket, Volume 1, Plate 6](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961884) (page 10) — Buildings are labelled “W.H. Haskell M’fg Co. — Bolt and Nail Factory.” The wood-frame building to the north has expanded slightly since 1884 and has the western wall faced with brick.
++ [1923–1962 Sanborn Map, City of Pawtucket, Volume 1, Plate 16 (Flickr)](https://www.flickr.com/photos/pawtucketlibrary/36777750926/in/album-72157686059514163/) — Buildings are unlabelled with a company name but are in much the same configuration as present day. Part of the Pawtucket Library collection.
 
 
 ### In the News
