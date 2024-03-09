@@ -145,6 +145,11 @@ For food reviews and directions, visit [Quahog.org](//www.quahog.org/cuisine/){:
 
 + [A detailed history of the lunch wagon turned diner car]({% link supplements/history-of-diner-cars-lunch-wagons.md %}) which got its start in Rhode Island. 
 
+#### We support and admire the Weird Island podcast! 
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="//player.simplecast.com/16bba413-04d4-4c9f-9eee-414fdb9e1f44?dark=false"></iframe>
+
+Visit on the web: [Weird Island Episode 54: Diners, Modern Diner](//weird-island.simplecast.com/episodes/54-diners-modern-diner)
+
 ***
 
 _From the National Register Nomination form, 1978, prepared by David Chase_

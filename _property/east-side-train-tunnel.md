@@ -120,6 +120,11 @@ When construction began in 2000 to renovate [101 North Main Street]({% link _pro
 + [Providence’s Tunnel of Love, The Independent](//www.theindy.org/a/1214){:target="_blank"}
 + [Transit advocates say reusing Providence train tunnel a waste of money. Providence Journal](//www.providencejournal.com/article/20131002/NEWS/310029853){:target="_blank"}
 
+#### We support and admire the Weird Island podcast! 
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/a7608e3d-f8fc-420f-b599-ac64e263ebe6?dark=false"></iframe>
+
+Visit on the web: [Weird Island Episode 18: The East Side Train Tunnel](//weird-island.simplecast.com/episodes/18-abandoned-the-east-side-train-tunnel)
+
 
 ### Current Events
 

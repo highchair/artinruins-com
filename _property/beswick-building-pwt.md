@@ -88,6 +88,11 @@ Since it is on such a prominent corner along Exchange Street, we hope that a new
 **Did you Know? Movies Edition:** In the pavement in front of the Beswick building is Pawtucket’s own little (crumbling) Walk of Fame. It was created after the filming of “[American Buffalo](//en.wikipedia.org/wiki/American_Buffalo_(film)){:target="_blank"}” in 1996. The film was directed by Michael Corrente (in his hometown) and starred Dustin Hoffman, Dennis Franz, and Sean Nelson — each received a star. The are badly decayed and barely legible, but a brass buffalo adorns the center of the panel.
 {:.o__tldr}
 
+#### We support and admire the Weird Island podcast! 
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/eecbaa27-86dd-4e69-a84b-bfddef999d4d?dark=false"></iframe>
+
+Visit on the web: [Weird Island Episode 29: Pawtucket’s Hollywood Walk of Fame](https://weird-island.simplecast.com/episodes/29-mini-episode-pawtuckets-hollywood-walk-of-fame)
+
 
 ### Current Events
 

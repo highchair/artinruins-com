@@ -110,6 +110,11 @@ The building was constructed in the late 60s, 51 years ago from 2020. It only be
 
 It is also hated by most. A 2018 poll by Business Insider, _[The ugliest building in every US state, according to people who live there](//www.businessinsider.in/the-ugliest-building-in-every-us-state-according-to-people-who-live-there/articleshow/62511676.cms){:target="_blank"}_, used a photo of the Apex as its cover. Local architecture critic David Brussat thinks [the building should the first in Pawtucket to be razed](//architecturehereandthere.com/2018/08/02/apex-aint-pawtuckets-soul){:target="_blank"} before any other building, while another historian William Morgan penned that the _[Apex is the Soul of Pawtucket](//www.providencejournal.com/opinion/20180801/my-turn-william-morgan-apex-is-soul-of-pawtucket){:target="_blank"}_ ([Full story archived](#apex-soul)). Loved by some, hated by most, it is a building that everyone seems to have an opinion about.
 
+#### We support and admire the Weird Island podcast! 
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/fb137a88-cecf-416b-9b39-430606a9cfa3?dark=false"></iframe>
+
+Visit on the web: [Weird Island Episode 11: The Pyramid of Pawtucket, Apex Department Store](//weird-island.simplecast.com/episodes/11-the-pyramid-of-pawtucket-apex-department-store)
+
 
 ### Current Events
 

@@ -111,6 +111,11 @@ As romantic lovers of turn-of-the-century architecture, we really want to see it
 [The Providence Finance Committee approved a tax agreement](//turnto10.com/news/local/superman-building-tax-agreement-providence-rhode-island-apartment-downtown-studio-bedroom-rent-project-affordability-retail-community-grand-banking-hall){:target="_blank"} in October, 2022, that would support the conversion of this building into 285 apartments.
 {:.o__tldr}
 
+#### We support and admire the Weird Island podcast! 
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/187f1d3d-4715-4760-b801-1928c245638c?dark=false"></iframe>
+
+Visit on the web: [Weird Island Episode 20: Abandoned, It’s a Bird, It’s a Plane, It’s the Superman Building](//weird-island.simplecast.com/episodes/20-abandoned-its-a-bird-its-a-plane-its-the-superman-building)
+
 
 ### Timeline
 

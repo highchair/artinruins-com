@@ -86,11 +86,12 @@ imagescredit: 'Contributions by Cristina di Chiera, OwlingDogArt (Flickr), TomCo
 ---
 
 ### Reason for Demolition
-The large 331 acre site in Exeter, Rhode Island has seen many redevelopment plans but none so far have come to fruition. The buildings of the former Ladd School stood decaying from 1990 up until about 2016 when the last of the buildings that could not be repurposed were razed. 
+
+The large 331 acre site in Exeter, Rhode Island has seen many redevelopment plans but none so far have come to fruition. The buildings of the former Ladd School stood decaying from 1990 up until about 2016 when the last of the buildings that could not be repurposed were razed.
 
 The RI Economic Development Corporation was charged with the redevelopment of the former Ladd School property in 1997, and unveiled their masterplan in April of 2000, dubbed the “Exeter Research and Technology Park”. It never happened and was strongly opposed by Grow Smart RI and the Sierra Club for promoting urban sprawl. A quote from Grow Smart RI’s study at the time:
 
->“From both the standpoint of economic feasibility and smart growth, this proposal is deeply flawed. The charge to develop much of the 330-acre former Ladd Center as a commercial site fits a common sprawl-inducing pattern evident in Rhode Island land use decisions over the last 50 years. A nearly static population of Rhode Islanders has developed more commercial, residential, and industrial land since 1961 than in the preceding 325 years of settlement. […] The proliferation and dispersion of commercial development engenders further residential growth, more dependence on automobiles, and more commercial development – at the expense of investment in our historic cities and town centers. Bald Hill Road in Warwick and its counterparts throughout the state is a sobering reminder of the consequence of ill-considered land use decisions. While these degraded landscapes are predominantly the product of private investment, in Exeter the state’s economic development agency is using public money to encourage sprawl.”
+> “From both the standpoint of economic feasibility and smart growth, this proposal is deeply flawed. The charge to develop much of the 330-acre former Ladd Center as a commercial site fits a common sprawl-inducing pattern evident in Rhode Island land use decisions over the last 50 years. A nearly static population of Rhode Islanders has developed more commercial, residential, and industrial land since 1961 than in the preceding 325 years of settlement. […] The proliferation and dispersion of commercial development engenders further residential growth, more dependence on automobiles, and more commercial development – at the expense of investment in our historic cities and town centers. Bald Hill Road in Warwick and its counterparts throughout the state is a sobering reminder of the consequence of ill-considered land use decisions. While these degraded landscapes are predominantly the product of private investment, in Exeter the state’s economic development agency is using public money to encourage sprawl.”
 
 A handful of structures started to be razed in the early 2000s, but plans for the site continued to change. In August 2003, the site was going to host a $6.4-million state fire academy. The academy was eventually built on the north side of the property. The academy cost $9.6 million in total and boasts a live burn building and training area which was opened in 2011. Construction was completed in 2017 on a 8,100 square-foot building administration and classroom building. (The tip of which can be seen in the top right of the [last few aerial photos](#photo-ladd-school-aerial-2011).)
 
@@ -101,12 +102,17 @@ In 2008, Exeter received a grant from the Orton Family Foundation to involve res
 
 ### Current Events
 
-The site of the former school is mostly razed, with only a few structures remaining. New development for the site has not yet taken place. 
+The site of the former school is mostly razed, with only a few structures remaining. New development for the site has not yet taken place.
 
 
 ### History
 
 Visit [theladdschool.com](//theladdschool.com){:target="_blank"}, a comprehensive resource about The Dr. Joseph H. Ladd School, formerly the _Exeter School for the Feeble-Minded_. They have photos, a more complete history, and more detailed stories of what went on there.
+
+#### We support and admire the Weird Island podcast! 
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/b79302ca-936c-4df9-9fc2-ed1be3586845?dark=false"></iframe>
+
+Visit on the web: [Weird Island Episode 03: Abandoned, The Ladd School](//weird-island.simplecast.com/episodes/abandoned-the-ladd-school)
 
 ***
 

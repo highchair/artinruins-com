@@ -58,6 +58,11 @@ The Rustic is the last operating Drive-In in the state, showing movies during th
 + Visit [their Facebook page](//www.facebook.com/RusticDriveIn/){:target="_blank"} to follow them and get updates about what’s playing
 + The Rustic’s page on [Cinema Treasures](//cinematreasures.org/theaters/9761){:target="_blank"}
 
+#### We support and admire the Weird Island podcast! 
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/051a0ca1-bde9-44d0-b8f5-51b106b1e046?dark=false"></iframe>
+
+Visit on the web: [Weird Island Episode 19: Dirty Drive In, the Forgotten History of Rhode Island Drive Ins](//weird-island.simplecast.com/episodes/19-dirty-drive-in-the-forgotten-history-of-rhode-islands-drive-ins)
+
 
 ### History
 

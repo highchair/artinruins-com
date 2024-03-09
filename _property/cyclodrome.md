@@ -90,6 +90,11 @@ In bullet points:
 + [Cyclodrome on Wikipedia](//en.wikipedia.org/wiki/Cycledrome){:target="_blank"}
 + [Providence Steamroller on Wikipedia](//en.wikipedia.org/wiki/Providence_Steamrollers_(NFL)){:target="_blank"}
 
+#### We support and admire the Weird Island podcast! 
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/5d5d377c-cd84-47bb-bf53-5fe66fc2ae02?dark=false"></iframe>
+
+Visit on the web: [Weird Island Episode 59: Cycledrome and the First New England NFL Champions](//weird-island.simplecast.com/episodes/59-cycledrome-and-the-first-new-england-nfl-champions)
+
 
 ### Essay
 
