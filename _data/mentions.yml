@@ -1,5 +1,11 @@
 # Any verb will have 'this property' appended to it, so make sure the verb makes sense
 
+- property: alexander-duncan-warehouse
+  source: //www.bostonglobe.com/2024/02/26/metro/historic-downtown-providence-office-building-converted-housing/
+  author: 'The Boston Globe in an article titled “Across from the ‘Superman’ building, a historic Providence office building could become apartments”'
+  date: '2024-02-26'
+  verb: 'cited'
+
 - property: crook-point-bascule
   source: //crookpointbrewing.com/about
   author: 'Crook Point Brewing'
