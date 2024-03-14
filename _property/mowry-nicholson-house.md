@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'William T. Nicholson' ]
 lists: [ 'PPS Ten Most Endangered', 'Smith Hill Historic District', 'National Register of Historic Places' ]
-tags: [ 'House' ]
+tags: [ 'House', 'Queen Anne' ]
 
 NRHP-ref-number: '93001183 (contributing)'
 added-to-NRHP: 'November 1993'

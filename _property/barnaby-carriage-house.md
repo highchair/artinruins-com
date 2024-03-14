@@ -18,7 +18,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Stone & Carpenter' ]
 people: [ 'Jerothmul B. Barnaby' ]
 lists: [ 'Broadway-Armory Historic District', 'National Register of Historic Places' ]
-tags: [ 'House' ]
+tags: [ 'House', 'Queen Anne' ]
 
 NRHP-ref-number: '74000047 (contributing)'
 added-to-NRHP: 'May 1, 1974'

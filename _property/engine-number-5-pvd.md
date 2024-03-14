@@ -18,7 +18,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Howard Hoppin' ] # Hoppin, Read & Hoppin
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
-tags: [ 'Fire Stations', 'Providence Public Library Digital Collections' ]
+tags: [ 'Fire Stations', 'Providence Public Library Digital Collections', 'Queen Anne' ]
 
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'

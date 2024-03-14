@@ -16,7 +16,7 @@ town: [ 'Pawtucket, RI' ]
 designers: [] # Charles E. Kirk
 people: []
 lists: []
-tags: [ 'Demolition by Progress', 'Fire Stations' ]
+tags: [ 'Demolition by Progress', 'Fire Stations', 'Queen Anne' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -60,13 +60,13 @@ imagescredit: 'Controbutions from the <a href="//flickr.com/photos/pawtucketlibr
 
 ### Reason for Demolition
 
-The Hose Company number 6 was a popular restaurant, spanning two incarnations — one, after its original conversion from a fire house to a restaurant in the late 1970s, “Donald Anthony’s Hose Company No. 6,” and another after a short time as a restaurant called **The Peppermill**. The building and business were put up for sale in 2016 following the death of the owner, Paul Gaudette. 
+The Hose Company number 6 was a popular restaurant, spanning two incarnations — one, after its original conversion from a fire house to a restaurant in the late 1970s, “Donald Anthony’s Hose Company No. 6,” and another after a short time as a restaurant called **The Peppermill**. The building and business were put up for sale in 2016 following the death of the owner, Paul Gaudette.
 
 In April of 2017, an application for demolition was sent to the Pawtucket Historic District Commission from Barone Capital, LLC. The property was included in no local or national historic registers, but the Commission reviews all proposals in which 25 percent or more of a structure is at least 50 years old.[^1]
 
 [^1]: Shorey, Ethan. “Family Dollar could replace Hose Company No. 6.” Valley Breeze, 2 May 2017. Accessed 15 January 2023 from https://www.valleybreeze.com/news/family-dollar-could-replace-hose-company-no-6/article_9bbf7f09-adc7-5e20-a43f-a36b60500a7d.html
 
-The application, however, did not make a determination of historical significance, which the zoning ordinance requires. After a due diligence structural analysis, the applicant requested that a determination be made. Odeh Engineers conducted the evaluation[^2] and determined that the structure would require almost $300,000 worth of investment to pass code, but was sound. Members of the Commission voted in favor of declaring it was “significant” which allowed them to issue a six-month demolition delay[^3] to allow the city and other interested parties to propose alternative uses that would save the structure. 
+The application, however, did not make a determination of historical significance, which the zoning ordinance requires. After a due diligence structural analysis, the applicant requested that a determination be made. Odeh Engineers conducted the evaluation[^2] and determined that the structure would require almost $300,000 worth of investment to pass code, but was sound. Members of the Commission voted in favor of declaring it was “significant” which allowed them to issue a six-month demolition delay[^3] to allow the city and other interested parties to propose alternative uses that would save the structure.
 
 [^2]: Ibid
 
@@ -74,14 +74,14 @@ The application, however, did not make a determination of historical significanc
 
 Several business owners and private developers indicated they came forward and offered more than $300,000 for the property, but the owner declined, preferring to try and get the asking price of $500,000.[^4]
 
-[^4]: Shorey, Ethan. “Hose Company No. 6 razed.” Valley Breeze, 22 October 2019. Accessed 15 January 2023 from https://www.valleybreeze.com/news/hose-company-no-6-razed/article_75ba9859-fdb1-53a6-b5d1-5183054a8a10.html 
+[^4]: Shorey, Ethan. “Hose Company No. 6 razed.” Valley Breeze, 22 October 2019. Accessed 15 January 2023 from https://www.valleybreeze.com/news/hose-company-no-6-razed/article_75ba9859-fdb1-53a6-b5d1-5183054a8a10.html
 
-Since a deal was not reached with buyers that would save the property, a demolition permit was issued in mid October and demolition followed soon after. 
+Since a deal was not reached with buyers that would save the property, a demolition permit was issued in mid October and demolition followed soon after.
 
 
 ### Current Events
 
-According to aerial photos (we have not yet visited this location) nothing has been built here and the site is an empty lot. It seems as though the demolition delay stopped a new Family Dollar from being built. According to the Pawtucket Tax Assessor’s online database, “Mur Realty Trust” is still the owner. 
+According to aerial photos (we have not yet visited this location) nothing has been built here and the site is an empty lot. It seems as though the demolition delay stopped a new Family Dollar from being built. According to the Pawtucket Tax Assessor’s online database, “Mur Realty Trust” is still the owner.
 
 
 ### History
@@ -90,7 +90,7 @@ According to the Valley Breeze article below, there is written history of the bu
 
 > According to written history, Charles E. Kirk designed the old Fire House No. 6. The “very handsome” building is a “hip-roofed Queen Anne fire house of red brick with round corner tower and central cupola,” it states. “Built to serve the rapidly expanding Darlington neighborhood,” it was later converted into a restaurant, “an excellent example of adaptive re-use.”
 
-In photos it seems to have retained its central bell tower after conversion to a restaurant in the late 1970s, but by the 1988 photo the tower is gone. 
+In photos it seems to have retained its central bell tower after conversion to a restaurant in the late 1970s, but by the 1988 photo the tower is gone.
 
 
 ### In the News

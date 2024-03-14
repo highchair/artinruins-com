@@ -72,26 +72,26 @@ imagescredit:
 
 ### Last Tenant
 
-Both of these similar houses are listed under one entry in the tax assessor’s database for 287 Brook Street. It lists six apartments and six full baths, which can’t be just one of the houses. Brown University is the owner. 
+Both of these similar houses are listed under one entry in the tax assessor’s database for 287 Brook Street. It lists six apartments and six full baths, which can’t be just one of the houses. Brown University is the owner.
 
-In a [2010 Facilities Management newsletter](//www.brown.edu/facilities/sites/facilities/files/FM_News_Fall_2010.pdf){:target="_blank"} (PDF) these properties are listed among a few others as Phase II Brown to Brown redevelopment parcels. The [Brown to Brown Home Ownership program](//www.brown.edu/offices/real-estate/brown-brown-home-ownership/){:target="_blank"} renovates properties under Brown’s ownership and prepares them for the residential market, giving favor to Brown alumni and staff. This moves properties that Brown has acquired — for parking, future expansion plans, or for administrative offices — back onto the tax roles. 
+In a [2010 Facilities Management newsletter](//www.brown.edu/facilities/sites/facilities/files/FM_News_Fall_2010.pdf){:target="_blank"} (PDF) these properties are listed among a few others as Phase II Brown to Brown redevelopment parcels. The [Brown to Brown Home Ownership program](//www.brown.edu/offices/real-estate/brown-brown-home-ownership/){:target="_blank"} renovates properties under Brown’s ownership and prepares them for the residential market, giving favor to Brown alumni and staff. This moves properties that Brown has acquired — for parking, future expansion plans, or for administrative offices — back onto the tax roles.
 
-Nothing more recent than 2010 could be found, therefore these homes have been abandoned possibly for 10 years or more. Many of the adjacent properties on this block of Brook and Benevolent are also under Brown’s ownership, while a few, like [93 Benevolent Street]({% link _property/bannister-house-pvd.md %}), have transferred ownership through the Brown to Brown program. 
+Nothing more recent than 2010 could be found, therefore these homes have been abandoned possibly for 10 years or more. Many of the adjacent properties on this block of Brook and Benevolent are also under Brown’s ownership, while a few, like [93 Benevolent Street]({% link _property/bannister-house-pvd.md %}), have transferred ownership through the Brown to Brown program.
 
 #### Architecture
 
-Built more than 125 years ago, these mansard-roof homes were the French-inspired vernacular at the time and likely built to house working class families. The area was becoming densely populated with a variety of small, medium, and large-sized homes. These two houses along with their brethren on the block facing Brook Street are a residential, small form counterpart to the commercial block opposite. They are important examples of the period but also help to form a wall that transitions from institutional and commercial to residential along the rest of College Hill moving east. 
+Built more than 125 years ago, these mansard-roof homes were styled in the French-inspired vernacular at the time and likely built to house working class families. The area was becoming densely populated with a variety of small, medium, and large-sized homes. These two houses along with their brethren on the block facing Brook Street are a residential, small form counterpart to the commercial block opposite. They are important examples of the period but also help to form a wall that transitions from institutional and commercial to residential along the rest of College Hill moving east.
 
 
 ### Current Events
 
-Nothing much to report currently, other than they are empty and appear without any utility hook ups. 
+Nothing much to report currently, other than they are empty and appear without any utility hook ups.
 
 
 ### History
 
 _From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 
-287 — House (by 1875): 2 1/2-story, clapboarded frame, mansard-roof house, two bays wide with a side entry. A heavy hood on Eastlakean brackets, a square 2-story front bay with novelty-shingled skirts, bracketed cornices and gable-roof dormers with applied ornament are principal features of the eclectically picturesque building. 
+287 — House (by 1875): 2 1/2-story, clapboarded frame, mansard-roof house, two bays wide with a side entry. A heavy hood on Eastlakean brackets, a square 2-story front bay with novelty-shingled skirts, bracketed cornices and gable-roof dormers with applied ornament are principal features of the eclectically picturesque building.
 
-291 – House (by 1875): 2 1/2-story, clapboarded frame, mansard-roof house, two bays wide with a side entry flanked by a square 2-story bay. This house with a modillion cornice and gable dormers is similarly styled to 287 Brook Street. 
+291 – House (by 1875): 2 1/2-story, clapboarded frame, mansard-roof house, two bays wide with a side entry flanked by a square 2-story bay. This house with a modillion cornice and gable dormers is similarly styled to 287 Brook Street.
