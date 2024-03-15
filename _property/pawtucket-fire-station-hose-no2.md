@@ -4,11 +4,11 @@ slug: pawtucket-fire-station-hose-no2
 aka:
 date-modified: 2024-03-03 12:00
 
-built: 'before 1877'
+built: '1861'
 demolition:
 redeveloped:
 units:
-decade: '1870-1879'
+decade: '1860-1869'
 date-added: '2024'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
@@ -75,17 +75,17 @@ imagescredit: 'Contributions from the Pawtucket Library Digital Collection (Flic
 
 ### Redevelopment
 
-This is a lovely building that we liked very much even before we figured out that one half of it used to be a fire station. We have not been able to verify the build date, but the station does appear on a Sanborn map as early as 1884. The station could be another 20 years older than that.
+This is a lovely building that we liked very much even before we figured out that one half of it used to be a fire station. Pawtucket historian Elizabeth (Betty) J. Johnson places the build date at 1861. The station appears on maps as early as 1884.
 
-Our theory is that this early station was decommissioned by 1905. This station was known as Hose Number 2. Across the street, [a newer station was built in 1905, also known as Number 2]({% link _property/pawtucket-fire-station-no2.md %}). This station was likely taken out of service at that time, which explains the caption in the [1919 photo declaring it the location of a Salvation Army](#photo-1919-pawtlib-collection-01) by 1921.
+Our theory is that this early station was decommissioned by 1905. This station was known as Hose Number 2. Across the street, [a newer station was built in 1905, also known as Number 2]({% link _property/pawtucket-fire-station-no2.md %}). The 1861 station was likely taken out of service at that time, which explains the caption in the [1919 photo declaring it the location of a Salvation Army](#photo-1919-pawtlib-collection-01) by 1921.
 
 #### Alterations
 
 The original fire station gable-end façade contained a first floor of a central rectangular window flanked on either side by narrow, round-topped windows almost equidistant from the building edge and the central window. In the center of the second floor is a set of three round-topped windows, where the center window is a little more than twice the width of the narrow windows flanking it. In the top of the gable end is a round oculus window. A bell tower topped the gable roof set near the southern façade. Along the west wall were three double-wide doors with arched tops and one person-sized door along the first floor. Along the second floor were four rectangular windows equally spaced apart.
 
-Sometime before 1984, the station was expanded with a “twin” building to the east. Its bell tower was removed and the window and door configuration changed. The west wall is now a series of windows instead of large doors and an extra 2-story brick bay was added to the north side. The southern façade has large commercial-grade windows on the first floor. Two windows were added on the second floor flanking the central three-window set. And the oculus window was replaced with a gable vent. Original sills that remain are granite, while the replacement sills are cast concrete.
+According to Betty Johnson, the station was expanded with a “twin” building to the east in the 1920s for the Salvation Army. Over time, its bell tower was removed and the window and door configuration changed. The west wall is now a series of windows instead of large doors and an extra 2-story brick bay was added to the north side. The southern façade has large commercial-grade windows on the first floor. Two windows were added on the second floor flanking the central three-window set. And the oculus window was replaced with a gable vent. Original sills that remain are granite, while the replacement sills are cast concrete.
 
-A building to the east is connected with a flat roof, flat cornice trapezoidal building in between. The twin building maintains the same size and gable slope, same second-floor window configuration, and the same dentil cornice detail. While the original fire station has a round oculus in its gable end, the newer building has two small windows. The twin is set five steps lower than the original fire station and the land slopes slightly down from west to east.
+A building to the east is connected with a flat roof, flat cornice trapezoidal building in between. The twin building maintains the same size and gable slope, same second-floor window configuration, and the same dentil cornice detail. While the original fire station has a round oculus in its gable end, the newer building has two small windows. The twin is set five steps lower than the original fire station as the land slopes slightly down from west to east.
 
 
 ### Current Events
