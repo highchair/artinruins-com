@@ -135,6 +135,12 @@
   date: '2020-03-14'
   verb: 'cited'
 
+- property: louttit-laundry
+  source: //en.wikipedia.org/wiki/Louttit_Laundry
+  author: 'Wikipedia, on a page titled “Louttit Laundry”'
+  date: '2019-09-21'
+  verb: 'cited'
+
 - property: crook-point-bascule
   source: //www.atlasobscura.com/places/crook-point-bascule-bridge
   author: 'Atlas Obscura, on a page titled “Crook Point Bascule Bridge”'
