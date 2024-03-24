@@ -71,19 +71,19 @@ images:
   - url: blue-ribbon-jh-2020-10-01.jpg
     sizes: '1200, 900'
 
-imagescredit: Images from the Library of Congress HABS/HAER projects, Jack Boucher and William E. Barrett, photographers. 
+imagescredit: 'Images from the Library of Congress HABS/HAER projects, Jack Boucher and William E. Barrett, photographers.'
 ---
 
 ### Reason for Demolition
 
-Sometime between 1981 and 1985 this building was removed/demolished but the foundation over the Blackstone canal was left behind. Around the same time, the [Roger Williams National Memorial Park](//en.wikipedia.org/wiki/Roger_Williams_National_Memorial){:target="_blank"} was built. The [Providence Aerial Viewer](//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e){:target="_blank"} for 1981 shows this building’s shadow standing and the nearby park cleared but undeveloped. By 1985 the platform looks like it is left over the river and the nearby park is landscaped. 
+Sometime between 1981 and 1985 this building was removed/demolished but the foundation over the Blackstone canal was left behind. Around the same time, the [Roger Williams National Memorial Park](//en.wikipedia.org/wiki/Roger_Williams_National_Memorial) was built. The [Providence Aerial Viewer](//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e) for 1981 shows this building’s shadow standing and the nearby park cleared but undeveloped. By 1985 the platform looks like it is left over the river and the nearby park is landscaped. 
 
 Industry near downtown Providence was discouraged generally after a few master planning exercises in the 50s and 60s. In order to make the city viable and attractive to white-collar businesses and possibly even residents, the City would need to move from being industrial to being commercial. The removal of businesses such as meat packing made sense. The nearby northeast corridor railroad project — which removed much of the industrial rail yards from downtown and pushed the passenger tracks below ground as they came into the City — was another major reason why the business moved from this location. 
 
 
 ### Current Events
 
-The foundation that spans over the Blackstone canal is still present and is now a patio/outdoor space for [The Cove](//livingoncampus.jwu.edu/providence-the-cove){:target="_blank"}, and apartment complex extension for Johnson & Wales University. [Station Row arpartments](//www.stationrowapts.com/){:target="_blank"} are right next door as well. 
+The foundation that spans over the Blackstone canal is still present and is now a patio/outdoor space for [The Cove](//livingoncampus.jwu.edu/providence-the-cove), and apartment complex extension for Johnson & Wales University. [Station Row arpartments](//www.stationrowapts.com/) are right next door as well. 
 
 
 ### History
@@ -104,8 +104,8 @@ We don’t know much about Blue Ribbon Beef Co/Wilson & Company meats… Accordi
 
 #### Maps
 
-+ [1920–1921 Sanborn Insurance Map, Volume 2, Plate 6](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (page 12) — A brick structure over the Mosshassuck River does not exist at this location but there is a wooden (yellow) beef company labelled “Wwift & Co. Wholesale Meats.”
-+ [1926 G.M. Hopkins Insurance Map, Plate 5](https://sosri.access.preservica.com/uncategorized/IO_f50498ff-dd86-483d-846f-9e841c04ca21/){:target="_blank"} — Hard to tell, but Swift & Co. is present on the map and there is no brick building to the north.
-+ [1937 G.M. Hopkins Insurance Map, Plate 5](https://sosri.access.preservica.com/uncategorized/IO_d44487e7-5f2c-4fbd-aa3e-e2f7c18e10fb/){:target="_blank"} — A brick building (in pink) labelled “Wilson & Co.” shows up over the river to the north of Swift & Co.
-+ [1920–1951 Sanborn Insurance Map, Volume 2, Plate 6](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (page 12) — To the north of “Swift and Co.” there is a brick building over the Mosshassuck River labeled “Wholesale Beef” and “Cold Storage Boxes” right at the latitude of Cady and Otis Streets along Canal. 
-+ [1920–1955 Sanborn Insurance Map, Volume 2, Plate 6](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602){:target="_blank"} (page 7) — Same “Wholesale Beef” building in place but Swift and Co. seems to be gone.
++ [1920–1921 Sanborn Insurance Map, Volume 2, Plate 6](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102) (page 12) — A brick structure over the Mosshassuck River does not exist at this location but there is a wooden (yellow) beef company labelled “Wwift & Co. Wholesale Meats.”
++ [1926 G.M. Hopkins Insurance Map, Plate 5](https://sosri.access.preservica.com/uncategorized/IO_f50498ff-dd86-483d-846f-9e841c04ca21/) — Hard to tell, but Swift & Co. is present on the map and there is no brick building to the north.
++ [1937 G.M. Hopkins Insurance Map, Plate 5](https://sosri.access.preservica.com/uncategorized/IO_d44487e7-5f2c-4fbd-aa3e-e2f7c18e10fb/) — A brick building (in pink) labelled “Wilson & Co.” shows up over the river to the north of Swift & Co.
++ [1920–1951 Sanborn Insurance Map, Volume 2, Plate 6](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102) (page 12) — To the north of “Swift and Co.” there is a brick building over the Mosshassuck River labeled “Wholesale Beef” and “Cold Storage Boxes” right at the latitude of Cady and Otis Streets along Canal. 
++ [1920–1955 Sanborn Insurance Map, Volume 2, Plate 6](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602) (page 7) — Same “Wholesale Beef” building in place but Swift and Co. seems to be gone.

@@ -71,20 +71,20 @@ images:
     caption: 'Many comments mentioned Port Arthur, seen here on the corner of Dorrance and Westminster. Date unknown.'
     sizes: '1192, 792'
 
-imagescredit: 'Contributions from John Ballantine, <a href="//www.re-vision.com/photography/providence/" target="_blank">Jay Boersma</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A5578" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, <a href="//www.flickr.com/photos/cityarchives/15819358009/" target="_blank">Providence City Archves</a>, and Google Streetview.'
+imagescredit: 'Contributions from John Ballantine, <a href="//www.re-vision.com/photography/providence/">Jay Boersma</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A5578">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, <a href="//www.flickr.com/photos/cityarchives/15819358009/">Providence City Archves</a>, and Google Streetview.'
 
 external:
   - source: 'Photos: Restaurants in Providence, Providence Journal'
     url: https://perma.cc/E3JL-Z42K
 ---
 
-A new-ish project called “[Providence’s Chinatown](//richinesehistory.com){:target="_blank"} has been created to dive deeper into the history of the bustling Chinese American community on Empire Street and on Summer Street between Broad and Pine. 
+A new-ish project called “[Providence’s Chinatown](//richinesehistory.com) has been created to dive deeper into the history of the bustling Chinese American community on Empire Street and on Summer Street between Broad and Pine.
 {:.o__tldr}
 
 
 ### Current Events
 
-While browsing through and recreating some of the photos in Jay Boersma’s portfolio from 1976, we saw the photo of Mee Hong’s and were intrigued. We had previously heard of Luke’s restaurant and the upstairs Luau Hut which survived until the 90s. It was time to put a page together about some of the places that we could find photos of, and over the years, many visitors have told us their own story as well. 
+While browsing through and recreating some of the photos in Jay Boersma’s portfolio from 1976, we saw the photo of Mee Hong’s and were intrigued. We had previously heard of Luke’s restaurant and the upstairs Luau Hut which survived until the 90s. It was time to put a page together about some of the places that we could find photos of, and over the years, many visitors have told us their own story as well.
 
 
 ### These Restaurants
@@ -98,9 +98,9 @@ While browsing through and recreating some of the photos in Jay Boersma’s port
   <figcaption>The Mee Hong Restaurant in Providence at 102 Westminster St. closed February 24, 1979. Photo taken by Jay Boersma, 1975 .</figcaption>
 </figure>
 
-Mee Hong was located at 102 Westminster Street, between [Providence National Bank]({% link _property/providence-national-bank.md %}) (#90) and [First Federal Bank]({% link _property/first-federal-bank.md %}) (#110). It was opened by the Chin family in 1938 and closed in 1979. The building was probably razed within 10 years. It might be one of the earliest Chinese restaurants in the city. 
+Mee Hong was located at 102 Westminster Street, between [Providence National Bank]({% link _property/providence-national-bank.md %}) (#90) and [First Federal Bank]({% link _property/first-federal-bank.md %}) (#110). It was opened by the Chin family in 1938 and closed in 1979. The building was probably razed within 10 years. It might be one of the earliest Chinese restaurants in the city.
 
-_From the anecdotes:_ 
+_From the anecdotes:_
 
 + There was a plaque on the entrance which read _“through these portals pass the nicest people we know”_
 + The meal always included little dishes with pickled beets, coleslaw, or fries. Another visitor swears it was “Cole Slaw, Peas or Beets”
@@ -123,10 +123,10 @@ The restaurant occupied two stories. During the 1960s, the Lukes converted the u
 
 59 Eddy Street still exists as the Edwin A. Smith Building as seen in the [Google Streetview photo](#photo-lukes-location-2019).
 
-_From the anecdotes:_ 
+_From the anecdotes:_
 
-+ Officer Luke of the Providence Police Department told someone that his branch of the LUKE family was related to [Keye Luke](//en.wikipedia.org/wiki/Keye_Luke){:target="_blank"}, the actor from the golden age of Hollywood, and, Charlie Chan’s first son. 
-+ Some considered Luke’s to be the best, most authentic New York- and California-style Chinese food outside of Boston. 
++ Officer Luke of the Providence Police Department told someone that his branch of the LUKE family was related to [Keye Luke](//en.wikipedia.org/wiki/Keye_Luke), the actor from the golden age of Hollywood, and, Charlie Chan’s first son.
++ Some considered Luke’s to be the best, most authentic New York- and California-style Chinese food outside of Boston.
 + Popular dishes include pu pu platters; Ipswich fried clams with cole slaw; veal cutlet with brown gravy; combination plate with chow mein, fried rice and egg roll; eggrolls and lobster Cantonese in lobster sauce; and Scorpion bowls
 
 
@@ -141,7 +141,9 @@ _From the anecdotes:_
 
 The longest lived of the Chinese restaurants, the Ming Garden was vital to life in downtown Providence. Open from 1941 to 1986, the restaurant was located at 141-143 Westminster Street, which had entrances on Westminster Street as well as Kennedy Plaza (now #68 Kennedy Plaza). The building was 2 and a half stories tall and dates to the late 19th century. 
 
-During the 1950s, the Tows contracted a young architect named [Morris Nathanson](//archive.storycorps.org/interviews/morris-nathanson-on-being-a-17-year-old-medic-in-the-pacific-theatre/){:target="_blank"} to modernize the restaurant’s interior. Mr. Nathanson was well known for hospitality design, and his portfolio includes The China Inn in Pawtucket and the Johnson & Wales Culinary Arts Museum among others.
+During the 1950s, the Tows contracted a young architect named [Morris Nathanson](//archive.storycorps.org/interviews/morris-nathanson-on-being-a-17-year-old-medic-in-the-pacific-theatre/) to modernize the restaurant’s interior. Mr. Nathanson was well known for hospitality design, and his portfolio includes The China Inn in Pawtucket and the Johnson & Wales Culinary Arts Museum among others.
+
+***
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
@@ -150,7 +152,7 @@ The Ming Garden (building constructed 1903): 3-story brick building with tiled m
 
 _From the anecdotes:_
 
-+ Ming’s Wings! People in the anecdotes certainly loved them. The recipes remains elusive. Some ideas for the recipe are included here in a [Providence Journal article](//www.providencejournal.com/article/20140806/entertainment/308069599){:target="_blank"}.
++ Ming’s Wings! People in the anecdotes certainly loved them. The recipes remains elusive. Some ideas for the recipe are included here in a [Providence Journal article](//www.providencejournal.com/article/20140806/entertainment/308069599).
 + Ming’s Garden decor was more upscale than the other two listed here.
 + Other favorites dishes include sweet pork buns.
 
@@ -187,7 +189,7 @@ The folks in the anecdotes have left us many memories. Here are a few of the nam
 #### At Johnson & Wales, ‘Dinerman’ Richard Gutman was dean of food culture
 
 _by Gail Ciampa_  
-**[Providence Journal](//www.providencejournal.com/entertainmentlife/20161110/at-johnson-amp-wales-dinerman-richard-gutman-was-dean-of-food-culture){:target="_blank"}** | Nov 10, 2016 (abridged)
+**[Providence Journal](//www.providencejournal.com/entertainmentlife/20161110/at-johnson-amp-wales-dinerman-richard-gutman-was-dean-of-food-culture)** | Nov 10, 2016 (abridged)
 
 In 2009, Johnson & Wales and the [Culinary Art Museum] museum sponsored a series of discussions with Brown University to explore “Eating Chinese: Comestibles, Cuisine, Commerce and Culture.” It was just one of several collaborations among JWU and Brown’s Center for the Study of Race and Ethnicity in America and the John Nicholas Brown Center for Public Humanities and Cultural Heritage.
 
@@ -195,8 +197,8 @@ It featured what seemed the tiniest exhibit you’ll ever see, “Chow Mein, Chi
 
 Links:
 
-+ [Full story on the Providence Journal](//www.providencejournal.com/entertainmentlife/20161110/at-johnson-amp-wales-dinerman-richard-gutman-was-dean-of-food-culture){:target="_blank"}
-+ [Culinary Arts Museum](//www.jwu.edu/culinarymuseum/){:target="_blank"} 
-+ [Culinary Arts Museum: search online collection](//culinaryartsmuseum.pastperfectonline.com){:target="_blank"} 
++ [Full story on the Providence Journal](//www.providencejournal.com/entertainmentlife/20161110/at-johnson-amp-wales-dinerman-richard-gutman-was-dean-of-food-culture)
++ [Culinary Arts Museum](//www.jwu.edu/culinarymuseum/)
++ [Culinary Arts Museum: search online collection](//culinaryartsmuseum.pastperfectonline.com) 
 
-Thanks so much for your anecdotes over the years! 
+Thanks so much for your anecdotes over the years!
