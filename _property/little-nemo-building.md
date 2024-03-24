@@ -29,7 +29,7 @@ gmap: "https://www.google.com/maps/place/Brown+University+Medical+Education+Bldg
 meta: ""
 excerpt: "This former jewelry manufacturing building was converted to office use in the late 1970s and is now the Brown Medical School"
 
-#thumbnail:
+thumbnail: little-nemo-jh-2024-02-01.jpg
 
 images:
   - url: little-nemo-rg-1985-08-01.jpg
@@ -49,8 +49,14 @@ images:
   - url: little-nemo-jn-2011-03-01.jpg
     caption: 'Photo by Jef Nickerson'
     sizes: '1440, 900'
+  - url: little-nemo-jh-2024-02-01.jpg
+    sizes: '1440, 900'
+  - url: little-nemo-jh-2024-02-02.jpg
+    sizes: '1200, 900'
+  - url: little-nemo-jh-2024-02-03.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2011-03-01
+mostrecentimage: 2024-02-01
 
 imagescredit: 'Contribution from the National Register nomination form and Jef Nickerson'
 
