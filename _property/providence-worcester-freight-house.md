@@ -39,28 +39,28 @@ images:
     caption: 'Undated southerly view of the northern façade and entrance. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
     sizes: '1440, 900'
   - url: train-annex-loc-1973-01.jpg
-    caption: 'Photo from the Library of Congress for HAER, photographer unknown'
+    caption: 'Looking west northwest from the embankment of the East Side Train Tunnel tracks. Photo from the Library of Congress for HAER, photographer unknown'
     sizes: '1440, 900'
   - url: train-annex-loc-1973-02.jpg
-    caption: 'Photo from the Library of Congress for HAER, photographer unknown'
+    caption: 'Looking west at the east façade of the central cross-gable pavillion. Photo from the Library of Congress for HAER, photographer unknown'
     sizes: '1440, 900'
   - url: train-annex-loc-1973-03.jpg
-    caption: 'Photo from the Library of Congress for HAER, photographer unknown'
+    caption: 'Looking east southeast at the western flank of the building. Photo from the Library of Congress for HAER, photographer unknown'
     sizes: '1440, 900'
   - url: train-annex-loc-1973-04.jpg
-    caption: 'Photo from the Library of Congress for HAER, photographer unknown'
+    caption: 'Detail of the western cross gable pavillion. Photo from the Library of Congress for HAER, photographer unknown'
     sizes: '1440, 900'
   - url: train-annex-loc-1973-05.jpg
-    caption: 'Photo from the Library of Congress for HAER, photographer unknown'
+    caption: 'Interior detail of the roof truss construction. Photo from the Library of Congress for HAER, photographer unknown'
     sizes: '1280, 1024'
   - url: train-annex-loc-1973-06.jpg
-    caption: 'Photo from the Library of Congress for HAER, photographer unknown'
+    caption: 'Demolition progress, 1973. Photo from the Library of Congress for HAER, photographer unknown'
     sizes: '1440, 900'
   - url: train-annex-loc-1973-07.jpg
-    caption: 'Photo from the Library of Congress for HAER, photographer unknown'
+    caption: 'Demolition progress, 1973. Photo from the Library of Congress for HAER, photographer unknown'
     sizes: '740, 1036'
   - url: train-annex-loc-1973-08.jpg
-    caption: 'Photo from the Library of Congress for HAER, photographer unknown'
+    caption: 'Demolition progress, 1973. Photo from the Library of Congress for HAER, photographer unknown'
     sizes: '1280, 1024'
   - url: train-annex-map-1889-01.jpg
     caption: '1889 Sanborn Map, Volume 2, Plates 48 A & B — Library of Congress, Maps Division'
