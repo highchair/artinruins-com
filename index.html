@@ -18,27 +18,19 @@ sitemap:
 {%- endfor -%}
 {%- assign lastmonth = "now" | date: '%s' | minus: 3888000 | date: '%Y%m%d' | times:1 -%}
 {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
+{% assign home = 'Yes' %}
+{% assign cardstack = 'No' %}
 
 {%- comment -%}
   Start the render on Demolition Alerts & What Are They Building — Do not output HTML here
 {%- endcomment -%}
 {%- assign demoalert = site.property | where: "categories", "#DemolitionAlert" | sort: "date-modified" | reverse -%}
-{%- assign demoalert_html = '' -%}
-{%- for item in demoalert limit:1 -%}
-  {% assign itemdate = item.date-modified | date: '%Y%m%d' | times:1 %}
-  {% if itemdate > lastmonth %}
-    {% capture demoalert_html %}
-      {% assign home = 'Yes' %}
-      {% include property-card.html %}
-    {% endcapture %}
-  {% endif %}
-{%- endfor -%}
 
 {%- assign construction = site.property | where: "categories", "#WhatAreTheyBuilding" | sort: "date-modified" | reverse -%}
 {%- assign construct_count = 0 -%}
 {%- assign construct_html = '' -%}
 {%- for item in construction -%}
-  {% assign itemdate = item.date-modified | date: '%Y%m%d' | times:1 %}
+  {% assign itemdate = item.date-modified | date: '%Y%m%d' | times: 1 %}
   {% if itemdate > lastmonth %}
     {% if item.update %}
     {% else %}
@@ -57,7 +49,7 @@ sitemap:
       Screen reader navigation
     {%- endcomment -%}
     <ul class="u__sr-only" role="navigation" aria-label="Skip to sections of this page">
-      {% if demoalert_html.size > 0 %}
+      {% if demoalert.size > 0 %}
       <li><a href="#demo" class="u__sr-only u__sr-only--focusable skip-link">Skip to Demolition Alerts</a></li>
       {% endif %}
       <li><a href="#recent" class="u__sr-only u__sr-only--focusable skip-link">Skip to Recently updated Properties</a></li>
@@ -71,13 +63,21 @@ sitemap:
     {%- comment -%}
       Output Demolition Alerts — Should be less than a month old and limited to 1
     {%- endcomment -%}
-{% if demoalert_html.size > 0 %}
+{% if demoalert.size > 0 %}
     <span id="demo"></span>
-    <h2 class="o__title--sm o__title__cta v-rhythm">Demolition Alert {% if demoalert.size > 1 %}<a href="{% link category/demolitionalert.html %}">{{ demoalert.size }} in <span class="u__sr-only">Demolition Alerts</span><span aria-hidden="true">#DemolitionAlert</span></a>{% endif %}</h2>
-    <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
-      {{ demoalert_html }}
-    </ul>
+    <h2 class="o__title--sm o__title__cta v-rhythm">Demolition Alert{% if demoalert.size > 1 %}s <a href="{% link category/demolitionalert.html %}">{{ demoalert.size }} in <span class="u__sr-only">Demolition Alert</span><span aria-hidden="true">#DemolitionAlert</span></a>{% endif %}</h2>
+    <div class="u__vertical__pb">
+      <ul class="taxonomy__stack u__list__unstyled" style="--i: {{ demoalert.size }}" role="list">
+    {% for item in demoalert %}
+        <li style="--i: {{ forloop.index0 }}; --z: {{ demoalert.size | minus: forloop.index }}">
+      {% assign cardstack = 'Yes' %}
+      {% include property-card.html %}
+        </li>
+    {% endfor %}
+      </ul>
+    </div>
 {% endif %}
+{% assign cardstack = 'No' %}
 
     <span id="recent"></span>
     <h2 class="o__title--sm o__title__cta v-rhythm">Recently added/updated <a href="/feed.xml" target="_blank"><span class="social__rss" aria-hidden="true"></span>Subscribe</a></h2>
@@ -167,7 +167,6 @@ sitemap:
     </li>
       {%- endif -%}
       {%- if forloop.index <= 18 and is_demo_alert == 'No' and is_under_construction == 'No' -%}
-        {% assign home = 'Yes' %}
         {%- comment -%}
         <!-- in forloop (is_demo_alert == 'No' and is_under_construction == 'No') | item slug = {{ item.slug }} -->
         {%- endcomment -%}

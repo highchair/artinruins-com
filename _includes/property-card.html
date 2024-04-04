@@ -1,6 +1,6 @@
 {%- assign item_update = 'No' -%}
 {%- assign categories = item.categories -%}
-    <li{% if categories contains '#DemolitionAlert' %} class="demolition-alert"{% endif %}>
+  {% if cardstack == 'Yes' %}<div{% else %}<li{% endif %}{% if categories contains '#DemolitionAlert' %} class="demolition-alert"{% endif %}>
       {%- if item.update-image and home == 'Yes' -%}
         {%- assign item_image = item.update-image -%}
         {%- assign item_update = 'Yes' -%}
@@ -131,4 +131,4 @@
       {%- endif -%}
         </p>
       </div>
-    </li>
+  {% if cardstack == 'Yes' %}</div>{% else %}</li>{% endif %}

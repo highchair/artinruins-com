@@ -95,8 +95,7 @@
       }
     }
 
-    // The homepage construction update
-    // AND the nearby properties
+    // The homepage construction update AND the nearby properties
     &--vertical {
       // Make the UL a grid container
       display: grid;
@@ -137,6 +136,52 @@
       &--4 {
         grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
       }
+    }
+  }
+
+  // The homepage stacked item update
+  &__stack {
+    direction: rtl;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: stretch;
+    margin: -1rem !important;
+    overflow: scroll;
+    padding-bottom: calc(0.5rem * var(--i) + 1rem);
+    scroll-snap-type: x proximity;
+    width: calc(100% + 2rem);
+
+    li {
+      border: none;
+      flex: 1 0 100%;
+      margin: 0;
+      padding: 1rem;
+      position: sticky;
+        inset-inline-start: 1rem;
+      scroll-snap-align: center;
+      z-index: var(--z);
+
+      > div {
+        background-color: $white;
+        box-shadow: 0.125rem 0.25rem 0.5rem rgba(#000, 0.25);
+        direction: ltr;
+        display: flex;
+        flex-direction: column;
+        justify-content: stretch;
+        height: 100%;
+        margin: calc(0.5rem * var(--i)) calc(0.5rem * var(--z)) 0 calc(0.5rem * var(--i));
+        overflow: hidden;
+        padding: 0.5rem;
+      }
+
+      &:focus-within {
+        position: relative;
+        scroll-behavior: smooth;
+      }
+    }
+
+    .taxonomy__img-wrap {
+      aspect-ratio: 16 / 9;
     }
   }
 
@@ -237,6 +282,19 @@
         justify-content: flex-start;
         margin-bottom: 1rem;
         padding: 1rem;
+      }
+    }
+
+    // For stacked display, on the homepage right now
+    &__stack {
+
+      li > div {
+        flex-direction: row;
+        //height: 100%;
+      }
+
+      .taxonomy__img-wrap {
+        aspect-ratio: 8 / 5;
       }
     }
 
