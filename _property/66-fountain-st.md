@@ -16,10 +16,12 @@ designers: [ 'Designer Unknown' ]
 lists: [ 'Mysteries of the Unknown' ]
 tags: [ 'Demolition by Progress', 'Needs History', 'Yellow brick' ]
 
-address: '66 Fountain Street, Providence, RI'
+address: '66 Fountain St, Providence, RI'
 latitude: '41.8236001'
 longitude: '-71.4155241'
 gmap: "https://www.google.com/maps/place/66+Fountain+St,+Providence,+RI+02903/"
+street: [ 'Fountain St' ]
+street-number: 66
 
 meta: ""
 excerpt: "The littlest building in downtown (not including parking lot shelters) that was once home to small coffee shops."

@@ -15,10 +15,12 @@ designers: [ 'Designer Unknown' ]
 lists: [ 'A.I.R.’s Lead Brick List', 'Brussat’s 10 Best Lost Buildings' ]
 tags: [ 'Demolition by Proposal', 'Demolition by Neglect', 'Art Deco', 'Fire Stations', 'Needs History' ]
 
-address: '186 Fountain Street, Providence RI'
+address: '186 Fountain St, Providence RI'
 latitude: '41.822429'
 longitude: '-71.4189217'
 gmap: "https://www.google.com/maps/place/186+Fountain+St,+Providence,+RI+02903/@41.822429,-71.4189217,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445128c512ce1:0x9a848e3228b191c6!8m2!3d41.822429!4d-71.416733"
+street: [ 'Fountain St' ]
+street-number: 186
 
 meta: ""
 excerpt: "This 60 year-old Art Deco structure was vacated in 2000 for new digs across the highway. It stayed vacant for 6 years until a proposed condo structure took it down."
