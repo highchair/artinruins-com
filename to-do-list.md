@@ -54,10 +54,6 @@ One of the five industrial wonders of the world, many factories of the industria
 
 Similar to the [Cyclodrome]({% link _property/cyclodrome.md %}) in Providence/Pawtucket, Cranston had a cycling arena. We mistakenly used a photo of the Cranston track for our page about the Providence one. We’d like to have a page for this one, too.
 
-### Dean Hotel, former Diocese House, Hotel Plaza, Civic View Inn, and Sportsman’s Inn
-
-We have a few notes about this former brothel but would like a more complete history along with any photos before its change into the Dean Hotel as possible.
-
 ### Kinsley Park
 
 Mentioned in an essay on our [Cyclodrome]({% link _property/cyclodrome.md %}) page, Kinsley Park was an athletic field of the same owner.
