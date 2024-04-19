@@ -20,15 +20,18 @@ We have quite a few ideas and topics of interest at ArtInRuins but only so much 
 
 Our [Needs History]({% link tag/needs-history.html %}) tag highlights properties that are short on historic documentation and research. 
 
+
 ### Add Block Island’s Harborside Inn and it history
 
 A fire gutted the building in August, 2023, and it was demolished as a total loss. We’d love to host some documentation, which would be the first property on the site for Block Island. [The Boston Globe did a nice write up that provides a good start](//www.bostonglobe.com/2023/08/28/metro/forgotten-history-block-islands-harborside-inn){:target="_blank"}.
+
 
 ### Brown University‘s BioMed Building expansion in 2006
 
 [The expansion of this building]({% link _property/brown-life-sciences.md %}) in 2003 razed some buildings around it that we missed because it was only a year after we started. One was a former post office, which would be interesting to uncover if possible.
 
 The other is more interesting as it was the original home of the Sarah Doyle Women’s Center, listed in the College Hill Historic District as the Mary H. Parsons House. Rumor has it that the house was gifted to the University with the express instruction that it not be demolished.
+
 
 ### David Brussat’s list of the 10 Best Lost buildings in Providence (from 2014)
 {% comment %}
@@ -46,13 +49,16 @@ Mr. Brussat was the Providence Journal’s architecture critic for decades and [
 
 We'll be working on adding some of these to the archives, as there are photo sources at the library. But if anyone knows of non-PPL sources for imagery, please let us know.
 
+
 ### Corliss Steam Engine Company
 
 One of the five industrial wonders of the world, many factories of the industrial revolution were able to move off of water power alone with the advent of the steam power engine. Corliss made the largest of their kind. [Their factory was located next to R.I. Tool](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_551db28f-255d-4c0c-8349-59341bf9b2a2/){:target="_blank"} (map from 1875) where the main state Post Office is now. More info and any photos that can be found of the buildings would be a great addition to the Archives.
 
+
 ### Cranston Open-Air Cycledrome
 
 Similar to the [Cyclodrome]({% link _property/cyclodrome.md %}) in Providence/Pawtucket, Cranston had a cycling arena. We mistakenly used a photo of the Cranston track for our page about the Providence one. We’d like to have a page for this one, too.
+
 
 ### Kinsley Park
 
@@ -64,6 +70,7 @@ Mentioned in an essay on our [Cyclodrome]({% link _property/cyclodrome.md %}) pa
 
 **You don’t have to be a historian or photographer to contribute!** We have some ideas about to improve the functionality of the site as well. [The site is in a public Github repository](//github.com/highchair/artinruins-com/){:target="_blank"} and it is built with Jekyll, SASS for CSS, and vanilla Javascript.
 
+
 ### Click tracking
 
 The site uses a GA4 tracking code for analytics. Visitors opt out when they reject the tracking banner. Still, we internally would like to know if some features of the site get used. We’d be particulary interested in tracking: 
@@ -71,6 +78,7 @@ The site uses a GA4 tracking code for analytics. Visitors opt out when they reje
 + The Surprise Me button
 + The previous and next buttons
 + The Citation accordion button
+
 
 ### Interactive Map
 
@@ -82,9 +90,6 @@ Each property has a latitude and longitude associated with it as well as a Googl
 # 365 Eddy Street, circa 1900
 + Listed as "Joseph I. H. Banigan" in GM Hopkins map, 1937
 + Banigan: [http://www.riheritagehalloffame.org/inductees_detail.cfm?iid=517]
-
-# Fogarty Building
-+ Find my photos of the demolition or scour the innerwebs for demolition photos
 
 # Fremont Street
 + Find photos from 2007 of 19 Fremont Street
@@ -134,7 +139,6 @@ WARWICK – Demolition of the 19th-century Elizabeth Mill has begun in preparati
 * David Brussart’s blog: https://architecturehereandthere.com/2015/01/03/warwick-ri-airport-elizabeth-mill/
 
 # Valley Street 1875
-
 Great map with references to Alco, Monohasett, Nicolson File, and Valley Worsted: https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_fd6f5a05-6aaf-4add-a161-a66509014261/
 
 # Good photos of construction/demolition equipment

@@ -45,6 +45,7 @@ We also have a [**To Do list** of items to research or update]({% link to-do-lis
 
 Thank you, thank you, thank you to the following folks who have contributed in one way or another:
 
++ John Woolsey, donation February 2024
 + Ian O’Connor, history for Olneyville Tire, 88 Plainfield Street
 + David Lawlor, drone photos of Corning Glass Works
 + Chloé Hurley, photo submissions
