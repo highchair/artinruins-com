@@ -34,6 +34,11 @@ excerpt: "A former church mission turned into a series of unsavory businesses es
 thumbnail: dean-hotel-jh-2024-03-02.jpg
 
 images:
+  - url: hotel-plaza-undated-facebook-01.jpg
+    caption: '1953. Thomas Rossi via Facebook'
+    sizes: '755, 604'
+  - url: church-house-ppl-jhcrs-p91-01.jpg
+    caption: 'John Hutchinson Cady Research Scrapbooks, page 91, Providence Public Library'
   - url: church-house-inn-pps-undated.jpg
     caption: 'Undated — PPS Architectural Slides Collection'
     alt: 'A four-story, brick rectangular building five bays wide by ten bays deep. Windows are rectangular with commercial storefront windows on the first floor and a arched double-wide entrance offset on the right side of the façade. Across a concrete band between the first and second floors is engraved “CHURCH HOUSE ERECTED A.D. 1912 TO THE GLORY OF GOD.” The fourth floor façade is embellished with stone panels with tile-inset crosses between each window. A new cornice has been added to the top of the fourth floor, undoubetly based on original references, as the Providence Revolving Fund was involved in historic research. The brick patterning on the façade is decorative, running in columns and stripes.'
@@ -61,7 +66,7 @@ images:
 
 mostrecentimage: 2024-04-01
 
-imagescredit: 'Contribution from the <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>'
+imagescredit: 'Contributions from Thomas Rossi, <a href="//provlibdigital.org/islandora/object/VM011_03_02_091">Providence Public Library</a>, the <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
