@@ -71,7 +71,7 @@ imagescredit:
 
 Businessmen Edward Shore and Bob Russell developed the Palmer Block building at Fountain and Mathewson Streets into 12 luxury condominiums. Rumor has it that the top floor is one large apartment, while the others on floors two through six are also massive, around 3,200 square feet. The building most recently housed a Greyhound bus terminal, city offices, and other businesses.
 
-Murphy’s Pub, a 75-year old Irish Sports Bar formerly located on Union St, moved into the ground floor space in June 2007. Murphy’s was one of the few signs of life Downtown for years, and a regular stop for journalists, politicians, and servers at other bars and restaurants. In 2005, the lease was expiring, and with rent set to increase, Ruth Ferrazzano figured she could take advantage of the new climate and attract more conventioneers with a spot on a more prominent corner.
+**Murphy’s Pub**, a 75-year old Irish Sports Bar formerly located on Union St, moved into the ground floor space in June 2007. Murphy’s was one of the few signs of life Downtown for years, and a regular stop for journalists, politicians, and servers at other bars and restaurants. In 2005, the lease was expiring, and with rent set to increase, Ruth Ferrazzano figured she could take advantage of the new climate and attract more conventioneers with a spot on a more prominent corner.
 
 The building has a trapezoidal shape with a distinctive chamfered corner on Mathewson and Fountain Streets. Above the third floor story on this chamfered corner is a medallion with “1915” emblazoned upon it in raised letters — the original building date of the first three floors.
 
