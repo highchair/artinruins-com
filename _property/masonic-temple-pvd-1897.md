@@ -13,7 +13,7 @@ date-added: '2022'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [] # Fred E. Field
+designers: [ 'Fred E. Field' ]
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
 tags: []
