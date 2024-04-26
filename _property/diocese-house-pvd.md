@@ -103,7 +103,7 @@ The building’s history is complex enough that we present what we have found in
 1971
 : “[W]hen it was the Pilgrim Inn and the police had denounced it as a den of iniquity, a District Court judge fined a bartender there for illegal possession of a blackjack. The bartender said that he used it to crush ice.”[^9]
 
-1976
+Late 1974 to early 1975
 : Name is now the **Civic View Inn**.[^10] “The Civic View Inn offers strip-tease. Its Stage Door bar is a hangout for prostitutes.”[^11]
 
 1980s

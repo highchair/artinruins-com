@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: diocese-house-pvd
+  person: 'Juan Mariscal'
+  date: '2024-04-16'
+  content: 'The history is incorrect. It was the Civic View Inn at the end of 1974 and early 1975. I know because I worked as a waiter during the lunch hours at the Clam Shell Restaurant (a legitimate respectable lunch-time restaurant) on the first floor in the front of the building. In the back of the building was a (let’s say) curious bar called (I think) the Back Room. The two places were separate by a doorway in the back hall. I went back there one day to get change for the Clam Shell Restaurant, it was like a scene from the famous Star Wars Bar (no aliens but the people in it at 1030AM seemed to be from another universe) (via Facebook)'
+
 - property: coro-building
   person: 'Virginia Lockwood'
   date: '2024-04-13'
