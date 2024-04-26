@@ -29,8 +29,11 @@ excerpt: "The roadway system of on and off ramps when I-195 cut through the Jewe
 thumbnail: i-195-river-jh-2010-11-10.jpg
 
 images:
-  - url: i-195-river-jh-2010-11-01.jpg
+  - url: i-195-river-jh-2005-05-01.jpg
     alt: 'A series of steel-reinforced concrete columns, retaining walls, ramps, and overhead roadways that used to cut through downtown Providence and the Fox Point neighborhood'
+    caption: 'Aerial overview of the portion along South Main Street that turns to traverse the Providence River and then cuts through the Jewelry District'
+    sizes: '1440, 900'
+  - url: i-195-river-jh-2010-11-01.jpg
     caption: 'View north from the western shore of the Providence River'
     sizes: '1600, 900'
   - url: i-195-river-jh-2010-11-02.jpg
