@@ -24,6 +24,16 @@ new CookiesEuBanner(function () {
   gtag4('config', 'G-17D4B0M6BN');
 }, true);
 
+// Hotjar Tracking Code for https://artinruins.com
+(function(h,o,t,j,a,r){
+  h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+  h._hjSettings={hjid:4961103,hjsv:6};
+  a=o.getElementsByTagName('head')[0];
+  r=o.createElement('script');r.async=1;
+  r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+  a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
 // Ajax request for external Anecdote Form
 function loadAnecdoteForm() {
   var xhr = new XMLHttpRequest();
@@ -80,13 +90,6 @@ document.addEventListener("DOMContentLoaded", function() {
       link.setAttribute('title', 'You have seen the content at this link');
     }
   }
-
-  // Check all external anchors and add a title
-  const extanchors = document.querySelectorAll('[target="_blank"]');
-	extanchors.forEach(anchor => {
-	  anchor.setAttribute("title", "Opens in a new window");
-	  anchor.setAttribute("rel", "noopener noreferrer");
-	});
 
   {% if jekyll.environment != 'production' -%}
   // If Development, change some links
