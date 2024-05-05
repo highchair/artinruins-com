@@ -30,15 +30,17 @@
               </div>
             </header>
           {%- if items.size >= 1 -%}
-            <div class="u__vertical__p u__gutter__p ">
-              <ul class="taxonomy__list u__list__unstyled u__max-width--container" role="list">
-                {% for item in items %}
-                  {% include property-card.html %}
-                {% endfor %}
+            <div class="u__vertical__p u__gutter__p">
+              <ul class="taxonomy__list property-card__cols u__list__unstyled u__max-width--container" role="list">
+              {% for item in items %}
+                <li class="taxonomy__item{% if item.categories contains '#DemolitionAlert' %} demolition-alert{% endif %}">
+                {% include property-card.html %}
+                </li>
+              {% endfor %}
               </ul>
             </div>
           {%- else -%}
-            <div class="u__vertical__p u__gutter__p ">
+            <div class="u__vertical__p u__gutter__p">
               <div class="u__max-width--container">
                 <p class="h2 taxonomy__title--empty">Sorry, no properties were found.</p>
               </div>
