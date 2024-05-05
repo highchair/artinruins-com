@@ -1,29 +1,43 @@
-//<article class="l__article content__article">
-//  <header class="taxonomy__header">
-//    <div class="u__vertical__pt u__gutter__p">
-//      <h1 class="content__title taxonomy__title u__mb--0">Category: #UsedToBeThere</h1>
-//    </div>
-//  </header>
-//  <ul class="taxonomy__list u__list__unstyled u__vertical__pt u__gutter__p">
-//    <li>
-//      <img class="taxonomy__img" src="/property-img/132-fountain-st/old-mcd-bldg-01.jpg" alt="" loading="lazy">
-//      <div class="taxonomy__colwrap">
-//        <h2><a href="/property/132-fountain-st/" class="taxonomy__link">132 Fountain Street, Downtown Providence</a>
-//        <p class="taxonomy__excerpt">A simple building located next to the former Sportsman’s Inn (now the Dean Hotel) that was razed for a never-built hotel.</p>
-//        <p class="taxonomy__meta"><strong>Built: </strong> 1915<span class="taxonomy__sep"> | </span><strong>Demolition: </strong> 2008<span class="taxonomy__sep">|</span><strong>Decade: </strong> <a href="/decade/1910-1919">1910-1919</a></p>
+//
+// Property Cards across the site have two main configurations: 
+//  - Vertical, like the nearby properties at the bottom of a single property page
+//  - Vertical in mobile, then horizontal in Desktop, like in most lists
+//  - Same as above, but part of a stack, like the Demolition Alerts on the homepage
+//
+// Common markup for Taxonomy pages (Categories, Tags, etc)
+//
+//<header class="taxonomy__header">
+//  <div class="u__vertical__pt u__gutter__p">
+//    <h1 class="content__title taxonomy__title u__mb--0"> TAXONOMY TITLE </h1>
+//    <p class="taxonomy__count">XX properties</p>
+//    <p class="taxonomy__description"> DESCRIPTION </p>
+//  </div>
+//</header>
+//
+// Common Markup for Cards
+//
+//<ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
+//  <li class="taxonomy__item">
+//    See property-card.scss
+//  </li>
 
 .taxonomy {
+
+  // - - - - -
+  // TAXONOMY PAGES
+  // - - - - -
 
   &__header {
     background: top right no-repeat url('../img/hashes-yellow-top-right.svg') transparent;
     background-size: ($hashes__width * 0.75) ($hashes__height * 0.75);
-    
+
     @include breakpoint-up(medium) {
       background-size: $hashes__width $hashes__height;
     }
   }
 
   &__title {
+    // If there is ever a "Sorry, there are no items for that category" page
     &--empty {
       @include ff-retro;
       color: palette('brand-red');
@@ -48,302 +62,86 @@
     }
   }
 
-  &__list {
+  // - - - - -
+  // TAXONOMY Lists
+  // - - - - -
 
-    li {
-      border: 0.5px solid $color__borders;
-      margin-bottom: 0.5rem;
-      padding: 0.5rem;
+  /* li */&__item {
+
+    // Special LI with a class added to it
+    // Only on the homepage
+    &--random {
+      margin: 0 -1rem;
+      padding: 0.5rem 0 1rem;
       position: relative;
-      z-index: 1;
 
-      &:hover {
-        .rwd-img {
-          opacity: 0.5;
-          transform: scale(1.1, 1.1);
-        }
-
-        .taxonomy__card-title {
-          background-size: 100% 100%;
-        }
+      img {
+        border-top: 1rem solid rgba(palette('brand-teal'), .1);
       }
 
-      // Special LI with a class added to it
-      &.taxonomy__random {
+      .property-card__content {
         background-color: rgba(palette('brand-teal'), .1);
-        display: block;
-
-        img {
-          padding-bottom: $vertical-rhythm;
-        }
-
-        .taxonomy__title-wrap,
-        .taxonomy__meta {
-          padding-bottom: ($vertical-rhythm/2);
-        }
-
-        @include breakpoint-down(medium) {
-          border: none;
-          margin: 1rem -1rem;
-
-          img {
-            margin-left: -0.5rem;
-            margin-right: -0.5rem;
-            max-width: calc(100% + 1rem);
-          }
-        }
-      }
-    }
-
-    // The homepage construction update AND the nearby properties
-    &--vertical {
-      // Make the UL a grid container
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
-      grid-gap: 0;
-  
-      // Hide some elements
-      .taxonomy__meta {
-        display: none;
-      }
-
-      // Force a single vertical column
-      li {
-        display: block !important;
-      }
-
-      .taxonomy__img-wrap,
-      .taxonomy__colwrap {
-        flex: 0 1 100%;
-        width: 100%;
-      }
-
-      .taxonomy__img-wrap {
-        margin: 0 0 0.5rem;
-        max-width: 480px;
-
-        .rwd-img {
-          aspect-ratio: 8 / 5;
-        }
-      }
-
-      // When there are only a specific number of them
-      &--1,
-      &--2 {
-        grid-template-columns: repeat(auto-fit, minmax(16rem, 20rem));
-      }
-
-      &--4 {
-        grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
-      }
-    }
-  }
-
-  // The homepage stacked item update
-  &__stack {
-    direction: rtl;
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: stretch;
-    margin: -1rem !important;
-    overflow: scroll;
-    padding-bottom: calc(0.5rem * var(--i) + 1rem);
-    scroll-snap-type: x proximity;
-    width: calc(100% + 2rem);
-
-    li {
-      border: none;
-      flex: 1 0 100%;
-      margin: 0;
-      padding: 1rem;
-      position: sticky;
-        inset-inline-start: 1rem;
-      scroll-snap-align: center;
-      z-index: var(--z);
-
-      > div {
-        background-color: $white;
-        box-shadow: 0.125rem 0.25rem 0.5rem rgba(#000, 0.25);
-        direction: ltr;
-        display: flex;
-        flex-direction: column;
-        justify-content: stretch;
-        height: 100%;
-        margin: calc(0.5rem * var(--i)) calc(0.5rem * var(--z)) 0 calc(0.5rem * var(--i));
-        overflow: hidden;
-        padding: 0.5rem;
-      }
-
-      &:focus-within {
-        position: relative;
-        scroll-behavior: smooth;
-      }
-    }
-
-    .taxonomy__img-wrap {
-      aspect-ratio: 16 / 9;
-    }
-  }
-
-  &__img-wrap {
-    background-color: palette('brand-dark-brown');
-    margin: -0.5rem -0.5rem ($vertical-rhythm/2) -0.5rem;
-    overflow: hidden;
-    position: relative;
-
-    // For mobile, the images are naturally sized according to their dimensions
-    .rwd-img {
-      opacity: 1;
-      transition: all 250ms ease;
-      transform: scale(1,1);
-      transform-origin: center;
-      transition-delay: 250ms;
-    }
-  }
-
-  &__card-title {
-    background-image: linear-gradient(180deg,transparent 33%,lighten(palette('brand-yellow'), 5%) 0);
-    background-size: 0 100%;
-    background-repeat: no-repeat;
-    display: inline;
-    transition: all 750ms ease;
-
-    &--new {
-      font-size: 0.75em;
-      font-style: italic;
-      margin-right: 0.5rem;
-    }
-  }
-
-  &__link {
-    text-decoration: none;
-
-    // https://inclusive-components.design/cards/
-    &::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      z-index: 2;
-    }
-
-    // Only works if JS is on
-    &[data-visited="visited"]::after {
-      content: '(Seen)';
-      font-size: 0.75em;
-      font-style: italic;
-      letter-spacing: 0.0625em;
-      margin-left: 0.375rem;
-      text-decoration: underline;
-      text-decoration-color: $color__link__underline;
-      text-decoration-style: dashed;
-    }
-  }
-
-  &__clamp,
-  &__clamp--essay {
-    display: -webkit-box;
-    line-clamp: 4;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: initial;
-    -webkit-line-clamp: 4;
-    -webkit-box-orient: vertical;
-  }
-
-  &__clamp--essay {
-    line-clamp: 6;
-    -webkit-line-clamp: 6;
-  }
-
-  &__excerpt {
-    padding-top: ($vertical-rhythm/2);
-  }
-
-  &__meta {
-    @include ff-sans();
-    padding-top: ($vertical-rhythm/2);
-    position: relative;
-    z-index: 3;
-
-    &__group {}
-  }
-
-  // Grouped media query
-  @include breakpoint-up(medium) {
-
-    &__list {
-      li {
-        display: flex;
-        flex-flow: row nowrap;
-        align-items: stretch;
-        justify-content: flex-start;
-        margin-bottom: 1rem;
         padding: 1rem;
       }
     }
+  }
 
-    // For stacked display, on the homepage right now
-    &__stack {
+  // Types of cards
+  // &__list {} Generic, vertical
+  // &__grid {} Cards remain in vertical orientation and are displayed in a grid
+  // &__stack {} A stack presents cards stacked on top of each other like playing cards being shuffled
 
-      li > div {
-        flex-direction: row;
-        //height: 100%;
-      }
+  // The homepage construction update AND the nearby properties
+  &__grid {
+    // Make the UL a grid container
+    display: grid;
+    // This fits three across very nicely
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    grid-gap: 0;
 
-      .taxonomy__img-wrap {
+    li {
+      margin-right: 0.5rem;
+      max-width: rem(480); // this is the max width of the image thumbnails
+    }
+
+    // Force them all to be the same height
+    li,
+    .property-card,
+    .property-card__content {
+      display: flex;
+      flex-flow: column nowrap;
+      flex: 1 1 auto;
+    }
+
+    // Change image properties
+    .property-card__img-wrap {
+      margin: -0.5rem -0.5rem 0;
+
+      .rwd-img {
         aspect-ratio: 8 / 5;
       }
     }
 
-    // For column display, the images are forced to fill their column
-    &__img-wrap {
-      flex: 1 0 40%;
-      margin: -1rem 1rem -1rem -1rem;
-
-      .rwd-img {
-        height: 100%;
-        width: 100%;
-        max-width: unset;
-        object-fit: cover;
-      }
+    .property-card__content {
+      padding-top: 0.625rem;
     }
 
-    &__colwrap {
-      flex: 1 0 60%;
-      display: flex;
-      flex-flow: column;
+    // Allow the distance, when present, to align at the bottom of the card
+    .property-card__excerpt {
+      margin-bottom: auto;
     }
 
-    &__meta {
-      margin-top: auto;
+    // When there are only a specific number of them
+    // Make them larger to take up more space
+    &--1,
+    &--2 {
+      grid-template-columns: repeat(auto-fit, minmax(24rem, 28rem));
+    }
 
-      &__group {
-        white-space: nowrap;
-      }
+    // If exactly four, make them fit all in one row
+    &--4 {
+      grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
     }
   }
-}
 
-// Snipes
-.snipe {
-  position: absolute;
-    top: 20%;
-    left: -30%;
-  transform: rotate(-45deg);
-  width: 100%;
-  z-index: 3;
-
-  &--demolition {
-    @include ff-sans(true);
-    background-color: rgba(palette('brand-red'), 0.92);
-    color: palette('brand-dark-brown');
-    letter-spacing: $kerning;
-    line-height: 1;
-    padding: 0.5rem;
-    text-align: center;
-    text-transform: uppercase;
-  }
 }
