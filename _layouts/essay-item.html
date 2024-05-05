@@ -37,7 +37,7 @@ layout: default
         {%- if count > limit -%}
           {% assign count = limit %}
         {%- endif -%}
-        <ul class="taxonomy__list taxonomy__list--vertical taxonomy__list--vertical--{{ count }} u__list__unstyled u__vertical__pb" role="list">
+        <ul class="taxonomy__list taxonomy__grid taxonomy__grid--vertical--{{ count }} u__list__unstyled u__vertical__pb" role="list">
         {%- for prop in page.mentioned -%}
           {% assign item = site.property | where: 'slug', prop %}
           {% if item[0].thumbnail %}
@@ -46,14 +46,16 @@ layout: default
             {% assign item_image = item[0].images.first.url %}
           {% endif %}
           {% assign image_path = site.propimg_path | replace_first: '/' | append: item[0].slug | append: '/' | append: item_image %}
-          <li>
-            <div class="taxonomy__img-wrap">
-              <img src="{{ site.prod_url }}/{{ image_path }}" class="rwd-img" alt="" loading="lazy" decoding="async" />
-            </div>
-            <div class="taxonomy__colwrap">
-              <div class="taxonomy__title-wrap">
-                <h3 class="h5 taxonomy__card-title"><a href="/property/{{ item[0].slug }}" class="taxonomy__link">{{ item[0].title }}</a></h3>
-                <p class="taxonomy__excerpt">{{ item[0].excerpt }}</p>
+          <li class="taxonomy__item">
+            <div class="property-card">
+              <div class="property-card__img-wrap">
+                <img src="{{ site.prod_url }}/{{ image_path }}" class="rwd-img" alt="" loading="lazy" decoding="async" />
+              </div>
+              <div class="property-card__content">
+                <div class="property-card__title-wrap">
+                  <h3 class="h5 property-card__title"><a href="/property/{{ item[0].slug }}" class="property-card__link">{{ item[0].title }}</a></h3>
+                  <p class="property-card__excerpt">{{ item[0].excerpt }}</p>
+                </div>
               </div>
             </div>
           </li>
