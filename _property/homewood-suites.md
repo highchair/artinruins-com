@@ -107,7 +107,7 @@ _by Patrick Anderson_
 
 […] Downtown Providence experienced a frenzy of hotel development from 2000 to 2009, when five projects, including the Renaissance Providence, Westin and Courtyard Providence, added 881 new rooms.
 
-The recession brought that expansion to a crashing halt, with only the boutique Dean Hotel opening since then, and Providence stuck at around 2,300 rooms for nearly a decade.
+The recession brought that expansion to a crashing halt, with only the boutique [Dean Hotel]({% link _property/diocese-house-pvd.md %}) opening since then, and Providence stuck at around 2,300 rooms for nearly a decade.
 
 That will soon change.
 

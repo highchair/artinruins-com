@@ -189,7 +189,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + Cathedral of St. John  
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Flower Shop and Green House]({% link _property/clarks-flower-shop.md %}) at 398 Hope Street
 + Foreclosed Multifamily Housing Stock
-+ George C. Arnold Building
++ <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [George C. Arnold Building]({% link _property/george-arnold.md %})
 + Jerothmul B. Barnaby House (“Barnaby’s Castle”)
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Kendrick-Prentice-Tirocchi House]({% link _property/kendrick-prentice-tirocchi-house.md %}), 514 Broadway (1867)
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Narragansett Electric Lighting]({% link _property/south-street-power.md %}) (“Dynamo House”)

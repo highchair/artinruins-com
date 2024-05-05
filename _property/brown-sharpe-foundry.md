@@ -284,7 +284,7 @@ In addition to the importance of the products that Brown & Sharpe manufactured, 
 _by Bill Van Siclen_  
 **Providence Journal** | November 6, 2014 (abridged)
 
-The winners range from a former strip club (now the super-chic Dean Hotel) to a 1960s-era parking garage (the newly refurbished Biltmore Garage) to a classic Art Deco diner (the newly restored West Side Diner on Westminster Street).
+The winners range from a former strip club (now the super-chic [Dean Hotel]({% link _property/diocese-house-pvd.md %})) to a 1960s-era parking garage (the newly refurbished Biltmore Garage) to a classic Art Deco diner (the newly restored West Side Diner on Westminster Street).
 
 Still, it’s another preservation project — the ongoing restoration of the former Brown & Sharpe Mfg. plant on Promenade Street — that may be the sentimental favorite at the Providence Preservation Society’s annual awards ceremony on Friday night.
 

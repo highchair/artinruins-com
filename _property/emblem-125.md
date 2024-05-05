@@ -68,8 +68,12 @@ images:
     sizes: '740, 1036'
   - url: emblem-125-jh-2023-09-01.jpg
     sizes: '1440, 900'
+  - url: emblem-125-jh-2024-04-01.jpg
+    sizes: '1440, 900'
+  - url: emblem-125-jh-2024-04-02.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2023-03-01
+mostrecentimage: 2024-04-01
 
 imagescredit: 'Renderings taken from the Shawmut Construction and 195 District websites'
 

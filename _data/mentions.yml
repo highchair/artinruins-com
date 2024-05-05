@@ -1,5 +1,11 @@
 # Any verb will have 'this property' appended to it, so make sure the verb makes sense
 
+- property: rialto-theatre
+  source: //www.bostonglobe.com/2024/03/21/metro/rialto-theater-providence-restaurant-mathewson-street/
+  author: 'The Boston Globe in an article titled “Is a restaurant in the future for this historic Providence theater?”'
+  date: '2024-03-21'
+  verb: 'cited'
+
 - property: alexander-duncan-warehouse
   source: //www.bostonglobe.com/2024/02/26/metro/historic-downtown-providence-office-building-converted-housing/
   author: 'The Boston Globe in an article titled “Across from the ‘Superman’ building, a historic Providence office building could become apartments”'

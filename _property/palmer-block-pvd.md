@@ -25,6 +25,8 @@ address: '100 Fountain Street, Providence RI'
 latitude: '41.8234487'
 longitude: '-71.4179085'
 gmap: "https://www.google.com/maps/place/100+Fountain+St,+Providence,+RI+02903/@41.8234487,-71.4179085,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445124f1844ff:0x606051125262980b!8m2!3d41.8234447!4d-71.4157198"
+street: [ 'Fountain St' ]
+street-number: 100
 
 meta: ""
 excerpt: "A handsome yellow brick, seven story building with ornate white brickwork designs has become a dozen luxury residences with ground-floor retail"
@@ -69,19 +71,21 @@ imagescredit:
 
 Businessmen Edward Shore and Bob Russell developed the Palmer Block building at Fountain and Mathewson Streets into 12 luxury condominiums. Rumor has it that the top floor is one large apartment, while the others on floors two through six are also massive, around 3,200 square feet. The building most recently housed a Greyhound bus terminal, city offices, and other businesses.
 
-Murphy’s Pub, a 75-year old Irish Sports Bar formerly located on Union St, moved into the ground floor space in June 2007. Murphy’s was one of the few signs of life Downtown for years, and a regular stop for journalists, politicians, and servers at other bars and restaurants. In 2005, the lease was expiring, and with rent set to increase, Ruth Ferrazzano figured she could take advantage of the new climate and attract more conventioneers with a spot on a more prominent corner. 
+**Murphy’s Pub**, a 75-year old Irish Sports Bar formerly located on Union St, moved into the ground floor space in June 2007. Murphy’s was one of the few signs of life Downtown for years, and a regular stop for journalists, politicians, and servers at other bars and restaurants. In 2005, the lease was expiring, and with rent set to increase, Ruth Ferrazzano figured she could take advantage of the new climate and attract more conventioneers with a spot on a more prominent corner.
 
-The building has a trapezoidal shape with a distinctive chamfered corner on Mathewson and Fountain Streets. Above the third floor story on this chamfered corner is a medallion with “1915” emblazoned upon it in raised letters — the original building date of the first three floors. 
+The building has a trapezoidal shape with a distinctive chamfered corner on Mathewson and Fountain Streets. Above the third floor story on this chamfered corner is a medallion with “1915” emblazoned upon it in raised letters — the original building date of the first three floors.
 
 
 ### Current Events
 
-The condominiums in this building come up for sale now and then. They have some wild views and spaces with a lot of black granite, stainless steel appliances, and dark cherry floors. Expect to pay $750,000 or more. 
+The condominiums in this building come up for sale now and then. They have some wild views and spaces with a lot of black granite, stainless steel appliances, and dark cherry floors. Expect to pay $750,000 or more.
 
 
 ### History
 
 Originally a three story building, four more stories were added a year after original construction. This was not uncommon — most often, these commercial buildings were constructed speculatively. If demand for commercial space was great enough, additional height was added. The [O’Gorman building]({% link _property/burgess-ogorman-buildings-pvd.md %}) was another such building that was constructed to accommodate additional stories but they were never added. 
+
+***
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 

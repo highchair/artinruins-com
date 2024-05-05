@@ -29,7 +29,7 @@ One of the most prominent portions of the district is the seat of Brown Universi
 [^2]: “List of Brown University buildings.” Wikipedia. Captured 08 March 2023 from https://en.wikipedia.org/wiki/List_of_Brown_University_buildings. A 2006 we found totaled 235 Brown University buildings, https://www.brown.edu/facilities/sites/facilities/files/CampusHeritage2-06.pdf
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/brown-univ-1908-lj-richards-plate-7.jpg" alt="" />
+  <img class="js-lazy" src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/brown-univ-1908-lj-richards-plate-7.jpg" alt="" />
   <figcaption>
     1908 L.J. Richards cadastral map of the area around the central green of Brown University
   </figcaption>

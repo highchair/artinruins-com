@@ -37,7 +37,7 @@ Finally, there is a demolition delay mechanism that exists within the purview of
 Outside of these designated historic districts and the downtown district, there are hundreds of properties that are [considered historic](//en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Providence%2C_Rhode_Island) by the state and federal government, but there is no demolition review. (Unless they are threatened by state or federal action, but that’s too outside the purview of this article.) That was the case of the three houses on Angell Street, the [former Duck & Bunny]({% link _property/312-wickenden-st.md %}) on Wickenden Street, and [dozens of houses on or near Thayer Street]({% link _essays/erosion-of-college-hill-historic-district.md %}) (all located on the East Side) to name a few. State and National Historic Districts are great for recognizing the significance of places, but not good at protecting them from demolition.
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}209-211-217-angell-st-pvd/217-angell-jh-2023-12-02.jpg" alt="" />
+  <img class="js-lazy" src="{{ site.prod_url }}{{ site.propimg_path }}209-211-217-angell-st-pvd/217-angell-jh-2023-12-02.jpg" alt="" />
   <figcaption>The demolition of 217 Angell Street, Providence in December of 2023</figcaption>
 </figure>
 

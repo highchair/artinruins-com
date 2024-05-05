@@ -31,7 +31,7 @@ Wholesale fruit, vegetable, and hardware sales had been well established along t
 {:.o__drop-cap}
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/farmers-market-1927.jpg" alt="" />
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/farmers-market-1927.jpg" alt="" class="js-lazy" />
   <figcaption><a href="//provlibdigital.org/islandora/object/VM013_WC0873_4">Rooftop view of carts for an open air market along the Providence River with buildings in the background, 1927</a>. Providence Public Library Digital Collection.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ A women’s wear store, **Gladdings**, moved into the Burrill Building in 1891. 
 Downtown grew in density, with many former residential buildings razed and replaced with mixed-use commercial buildings as investment properties. The [Burgess and O’Gorman Buildings]({% link _property/burgess-ogorman-buildings-pvd.md %}) (1870) and the [Alice Building]({% link _property/alice-building-pvd.md %}) (1898) were two such structures built along bustling Westminster Street. A well-known ground-floor tenant anchored the building, with smaller office and retail spaces above.
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}peerless-low-buildings-pvd/cmt-low-ppl-postcard-1900c.jpg" alt="" />
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}peerless-low-buildings-pvd/cmt-low-ppl-postcard-1900c.jpg" alt="" class="js-lazy" />
   <figcaption>Westminster Street looking west, Callendar, McAuslan, & Troup on the left foreground. Rhode Island Postcard Collection, Providence Public Library.</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ We say “visitors” even though these folks were likely all local to Rhode Isl
 ## Mid-twentieth century Urban Renewal: Downtown Providence 1970
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/pvd1970-downtown-render.jpg" alt="" />
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/pvd1970-downtown-render.jpg" alt="" class="js-lazy" />
   <figcaption>An aerial rendering of Downtown Providence as envisioned in 1961. Notice how the beaux-arts City Hall and Union Station are not present, and also notice all the parking in the foreground</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Luckily, the exuberant plans of city officials were stymied by economic factors.
 ### The Westminster Mall
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/card-cow-westminster-mall-1966.jpg" alt="" />
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/card-cow-westminster-mall-1966.jpg" alt="" class="js-lazy" />
   <figcaption>1966 postcard of the Westminster Mall.</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ The Downtown declined during the 1970s and into the 1980s. Retail establishments
 Old gems like the former **Loew’s State Theatre**, now the Providence Performing Arts Center, and new buildings like the **Civic Center** attracted national touring entertainment, but any visitors that came didn’t stay as long as businesses wanted.
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/1970-06-westminster-mall-chester-smolski.jpg" alt="" />
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/1970-06-westminster-mall-chester-smolski.jpg" alt="" class="js-lazy" />
   <figcaption>Westminster Mall in 1970 — empty enough to have a game of frisbee. Chester E. Smolski photographic slides and publications, Special Collections, James P. Adams Library, Rhode Island College.</figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ Interestingly, Blue Point would be demolished because of the increased attractio
 ### The Renaissance Reverberates and a new Mall Idea Grows
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}union-station/union-station-habs-1982-aerial.jpg" alt="" />
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}union-station/union-station-habs-1982-aerial.jpg" alt="" class="js-lazy" />
   <figcaption>1982 aerial “before” of the Capital Center project area. Photo by William Barrett, 1982-83, Library of Congress.</figcaption>
 </figure>
 
@@ -188,7 +188,7 @@ The mall opened in 1999 and cost a total $460 million — $100M over budget. It
 ### Construction becomes an Archeological Excavation
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/prov-place-mall-construction.jpg" alt="" />
+  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/prov-place-mall-construction.jpg" alt="" class="js-lazy" />
   <figcaption>Circa 1997 aerial view of the construction site. Uncredited source on Pinterest.</figcaption>
 </figure>
 
