@@ -55,23 +55,22 @@ The Google Global Tag is also added via JS as part of the cookie policy acceptan
 
 ## Custom post types (Collections)
 
-ArtInRuins has configured a custom “collection” (in Jekyll speak) called Properties
-(`_property`). These files are in Markdown format with substantial FrontMatter to
-support taxonomy linking for designer, years built, year demolished, lists, location,
+ArtInRuins has configured custom “collections” (in Jekyll speak) called Properties (`_property`), 
+Essays (`_essays`), and Then Nows (`_then-now`). These files are in Markdown format with substantial
+FrontMatter to support taxonomy linking for designer, years built, year demolished, lists, location,
 and more.
 
 
 ## Taxonomy pages
 
-Taxonomies like neighborhoods, towns, designers, years built, etc… are actually
-just HTML pages with extra Front Matter. Liquid queries find the properties associated
-with those bits of Front Matter.
+Taxonomies like neighborhoods, towns, designers, years built, etc. are actually HTML pages with extra 
+Front Matter. Liquid queries find the properties associated with those bits of Front Matter.
 
 Example:
 ```
-# In _includes/project-category-loop.html
+# In _includes/project-category-loop.html the query retrieves a list of items that match type and category:
 {%- assign items = site.property | where: page.type, page.category | sort: "title" -%}
 ```
 
-For a “Date Added” page where `type: date-added` and `category: '2002'`,
-`items` will be an array of Properties where `date-added` == `2002`.
+For a “Date Added” page (`date-added/2002.html`) the Front Matter defines `type: date-added` and `category: '2002'`, 
+therefore `items` will be an array of Properties `where: date-added, 2002`.

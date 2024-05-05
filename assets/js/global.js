@@ -91,7 +91,26 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   }
 
-  {% if jekyll.environment != 'production' -%}
+  // Scroll the Card Stack panel with an input range element
+  // Thank you to Captain Anonymous https://codepen.io/anon/pen/evEKRK?editors=0011
+  var panel_scroller = document.getElementById("stack__range");
+  var panel = document.getElementById("js__stackpanel");
+  
+  if (panel_scroller) {
+    panel_scroller.oninput = function () {	
+      var total = panel.scrollWidth - panel.offsetWidth;
+      var percentage = total*(this.value/100);
+      var pixels = percentage + 'px';
+      panel.scrollTo({
+        top: 0,
+        left: percentage,
+        behavior: 'smooth'
+      });
+    }
+    // TO DO: Get some JS to move the input range slider if someone manually scrolls the panel
+  }
+
+{% if jekyll.environment != 'production' -%}
   // If Development, change some links
 
   // Hide Search
@@ -107,5 +126,5 @@ document.addEventListener("DOMContentLoaded", function() {
   if (alltags !== null && alltags !== '') {
     alltags.parentNode.insertBefore( imgdates, alltags.nextSibling );
   }
-  {% endif %}
+{% endif %}
 });

@@ -1,0 +1,169 @@
+//<ul id="js__stackpanel" class="taxonomy--stack property-card__cols u__list__unstyled" style="--i: 4" role="list">
+//  <li class="taxonomy__item demolition-alert" style="--i: 0; --z: 3">
+//    <div class="property-card">
+//      <div class="property-card__img-wrap">
+//        <img src=" … " class="rwd-img" alt="" loading="lazy" decoding="async">
+//      </div>
+//      <div class="property-card__content">
+//        <div class="property-card__clamp">
+//          <div class="property-card__title-wrap">
+//            <h3 class="h4 property-card__title"><a href="/property/read-ott-house-pwt/" class="property-card__link">Read-Ott House</a></h3>
+//          </div>
+//          <p class="property-card__excerpt"><i>Updated  4 February, 2024:</i> Added a snippet of a news story about the owner’s planning to move forward with demolition</p>
+//        </div>
+//        <p class="property-card__meta"> … </p>
+//      </div>
+//    </div>
+//  </li>
+
+// This file is stand-alone so any variables need to be redefined or declared
+@import '_sass/1_tools/_functions.scss';
+@import '_sass/2_settings/_breakpoints.scss';
+
+$white: #fff;
+$line-height__base: 1.5;
+$vertical-rhythm: ($line-height__base * 1rem);
+
+// Range slider colors
+$thumb-background: #007070; // brand-teal
+$track-background: #ccdbdb; // gray-200
+
+.taxonomy {
+
+  // The homepage stacked item update
+  &--stack {
+    -ms-overflow-style: none;
+    scrollbar-width: none; // Gecko browsers
+    direction: rtl;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: stretch;
+    margin: -1rem -1em $vertical-rhythm !important;
+    overflow-x: scroll;
+    padding-bottom: $vertical-rhythm;
+    scrollbar-gutter: stable both-edges;
+    scroll-snap-type: x proximity;
+    width: calc(100% + 2rem);
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    .taxonomy__item {
+      border: none;
+      flex: 1 0 100%;
+      margin: 0;
+      padding: 1rem;
+      position: sticky;
+        inset-inline-start: 1rem;
+      scroll-snap-align: center;
+      z-index: var(--z);
+
+      &:focus-within {
+        position: relative;
+        scroll-behavior: smooth;
+      }
+    }
+
+    .property-card {
+      background-color: $white;
+      box-shadow: 0.125rem 0.25rem 0.5rem rgba(#000, 0.25);
+      direction: ltr;
+      height: 100%;
+      margin: calc(0.5rem * var(--i)) calc(0.5rem * var(--z)) 0 calc(0.5rem * var(--i));
+      overflow: hidden;
+      padding: 0.5rem;
+    }
+
+    .property-card__img-wrap {
+      aspect-ratio: 16 / 9;
+    }
+  }
+
+  @include layout-columns() {
+
+    &--stack {
+
+      .property-card__img-wrap {
+        aspect-ratio: 8 / 5;
+      }
+    }
+  }
+}
+
+// Range slider as scroll indicator
+$unit: 1rem;
+
+@mixin range-track {
+  -webkit-appearance: none;
+  width: 100%;
+  height: $unit;
+  color: transparent;
+  background: $track-background;
+  border-radius: $unit;
+  border: none;
+  box-shadow: 0.25rem 0.25rem .5rem rgba(0,0,0,0.1) inset;
+}
+
+@mixin range-thumb {
+  -webkit-appearance: none;
+  background: $thumb-background;
+  border-radius: $unit;
+  border: none;
+  height: $unit;
+  width: $unit * 4;
+}
+
+.taxonomy--stack__controller {
+
+  input[type=range] {
+    -webkit-appearance: none;
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+  input[type=range]::-webkit-slider-runnable-track {
+    @include range-track();
+  }
+  input[type=range]::-moz-range-track {
+    @include range-track();
+  }
+  input[type=range]::-ms-track {
+    @include range-track();
+  }
+  input[type=range]::-ms-fill-lower {
+    display: none;
+  }
+  input[type=range]::-ms-fill-upper {
+    display: none;
+  }
+  input[type=range]::-webkit-slider-thumb {
+    @include range-thumb();
+  }
+  input[type=range]::-moz-range-thumb {
+    @include range-thumb();
+  }
+  input[type=range]::-ms-thumb {
+    @include range-thumb();
+  }
+
+  @include layout-columns() {
+    margin: 0 auto;
+    width: 50%;
+  }
+}
+
+.taxonomy--stack__ticks {
+  display: flex;
+  justify-content: space-between;
+
+  span {
+    border: 1px solid $thumb-background;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    height: $unit;
+    margin: -2px #{$unit * 2} 0;
+    width: 0px;
+  }
+}

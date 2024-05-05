@@ -84,12 +84,12 @@ document.addEventListener("DOMContentLoaded", function() {
       // Limit the output
       const limit = 6;
       let count = (Object.keys(byDistance).length > limit) ? limit : Object.keys(byDistance).length;
-      html += '<h2 class="o__title--sm v-rhythm">' + count + ' Properties Nearby (within 1/4 mile)</h2><ul class="taxonomy__list taxonomy__list--vertical taxonomy__list--vertical--' + count + ' u__list__unstyled u__vertical__pb" role="list">';
+      html += '<h2 class="o__title--sm v-rhythm">' + count + ' Properties Nearby (within 1/4 mile)</h2><ul class="taxonomy__grid taxonomy__grid--' + count + ' u__list__unstyled u__vertical__pb" role="list">';
       let max = 0;
 
       for (let key in byDistance) {
         if (max < limit) {
-          html += '<li><div class="taxonomy__img-wrap">' + byDistance[key].imgpath + '</div><div class="taxonomy__colwrap"><article class="taxonomy__title-wrap"><h3 class="h5 taxonomy__card-title"><a href="/property/' + byDistance[key].slug + '" class="taxonomy__link"><span class="u__sr-only">Nearby property </span>' + byDistance[key].title + '</a></h3><p class="taxonomy__excerpt">' + byDistance[key].excerpt + '</p><p><i>' + convertMilesToFeet(byDistance[key].distance) + ' feet away</i></p></article></div></li>';
+          html += '<li class="taxonomy__item"><div class="property-card"><div class="property-card__img-wrap">' + byDistance[key].imgpath + '</div><article class="property-card__content"><div class="property-card__title-wrap"><h3 class="h5 property-card__title"><a href="/property/' + byDistance[key].slug + '" class="property-card__link"><span class="u__sr-only">Nearby property </span>' + byDistance[key].title + '</a></h3></div><p class="property-card__excerpt">' + byDistance[key].excerpt + '</p><p class="property-card__distance"><i>' + convertMilesToFeet(byDistance[key].distance) + ' feet away</i></p></article></div></li>';
           max++;
         } else {
           break;

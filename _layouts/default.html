@@ -3,6 +3,14 @@
 
   {% include head.html %}
 
+  {%- if page.layout == 'home' -%}
+    {%- capture taxonomy -%}
+    {% include taxonomy-stack.scss %}
+    {%- endcapture -%}
+    <style>
+      {{ taxonomy | scssify }}
+    </style>
+  {%- endif -%}
   {%- if page.layout == 'then-now-item' or page.layout == 'essay-item' -%}
     {%- capture style -%}
     {% include then-now.scss %}

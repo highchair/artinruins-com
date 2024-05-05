@@ -1,134 +1,133 @@
 {%- assign item_update = 'No' -%}
-{%- assign categories = item.categories -%}
-    <li{% if categories contains '#DemolitionAlert' %} class="demolition-alert"{% endif %}>
-      {%- if item.update-image and home == 'Yes' -%}
-        {%- assign item_image = item.update-image -%}
-        {%- assign item_update = 'Yes' -%}
+<div class="property-card">
+  {%- if item.update-image and home == 'Yes' -%}
+    {%- assign item_image = item.update-image -%}
+    {%- assign item_update = 'Yes' -%}
+  {%- else -%}
+    {%- if item.thumbnail -%}
+      {%- assign item_image = item.thumbnail -%}
+    {%- else -%}
+      {%- assign item_image = item.images.first.url -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- if item_image.size > 0 -%}
+  <div class="property-card__img-wrap">
+    {%- if item.categories contains '#DemolitionAlert' and page.permalink != 'category/demolitionalert/' -%}
+    <div class="snipe snipe--demolition">Demolition Alert</div>
+    {%- endif -%}
+    {%- if item.layout == 'then-now-item' -%}
+      {%- assign image_path = site.thennow_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
+    {%- elsif item.layout == 'essay-item' -%}
+      {%- assign image_path = site.propimg_path | replace_first: '/' | append: 'essays/' | append: item.thumbnail -%}
+    {%- else -%}
+      {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
+    {%- endif -%}
+    {%- if item_update == 'Yes' -%}
+      <img src="{{ site.prod_url }}/{{ image_path }}" class="rwd-img" alt="" loading="lazy" decoding="async" />
+    {%- else -%}
+      {%- comment -%} Output the largest size but do not output the full size. Limit bandwidth to delivering only the 480 and 800 versions {%- endcomment -%}
+      {%- assign size = '800' -%}
+      {% responsive_image_block %}
+        path: {{ image_path }}
+        image: {{ item_image }}
+        size: {{ size }}
+        cache: true
+      {% endresponsive_image_block %}
+    {%- endif -%}
+  </div>
+  {%- endif -%}
+  <div class="property-card__content">
+    <div class="property-card__clamp{%- if item.collection == 'essays' -%}--essay{%- endif -%}">
+      <div class="property-card__title-wrap">
+      {%- comment -%} An item is only NEW if it does NOT have an update AND this is the home page {%- endcomment -%}
+      {%- if home == "Yes" -%}
+        <h3 class="h4 property-card__title"><a href="{{ item.url }}" class="property-card__link">{% if item.update %}{% else %}<span class="property-card__title--new">NEW</span> {% endif %}{{ item.title }}</a></h3>
       {%- else -%}
-        {%- if item.thumbnail -%}
-          {%- assign item_image = item.thumbnail -%}
-        {%- else -%}
-          {%- assign item_image = item.images.first.url -%}
-        {%- endif -%}
+        <h2 class="h4 property-card__title"><a href="{{ item.url }}" class="property-card__link">{{ item.title }}</a></h2>
       {%- endif -%}
-      {%- if item_image.size > 0 -%}
-      <div class="taxonomy__img-wrap">
-        {%- if categories contains '#DemolitionAlert' -%}
-        <div class="snipe snipe--demolition">Demolition Alert</div>
-        {%- endif -%}
-        {%- if item.layout == 'then-now-item' -%}
-            {%- assign image_path = site.thennow_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
-        {%- elsif item.layout == 'essay-item' -%}
-          {%- assign image_path = site.propimg_path | replace_first: '/' | append: 'essays/' | append: item.thumbnail -%}
-        {%- else -%}
-            {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
-        {%- endif -%}
-        {%- if item_update == 'Yes' -%}
-          <img src="{{ site.prod_url }}/{{ image_path }}" class="rwd-img" alt="" loading="lazy" decoding="async" />
-        {%- else -%}
-          {%- comment -%} Output the largest size but do not output the full size. Limit bandwidth to delivering only the 480 and 800 versions {%- endcomment -%}
-          {%- assign size = '800' -%}
-          {% responsive_image_block %}
-            path: {{ image_path }}
-            image: {{ item_image }}
-            size: {{ size }}
-            cache: true
-          {% endresponsive_image_block %}
-        {%- endif -%}
       </div>
+      <p class="property-card__excerpt">
+      {%- if item.collection == 'essays' and page.type != 'categories' -%}
+        <span class="property-card__meta__group"><b>Essay: </b></span>
       {%- endif -%}
-      <div class="taxonomy__colwrap">
-        <div class="taxonomy__clamp{%- if item.collection == 'essays' -%}--essay{%- endif -%}">
-          <div class="taxonomy__title-wrap">
-          {%- comment -%} An item is only NEW if it does NOT have an update AND this is the home page {%- endcomment -%}
-          {%- if home == "Yes" -%}
-            <h3 class="h4 taxonomy__card-title"><a href="{{ item.url }}" class="taxonomy__link">{% if item.update %}{% else %}<span class="taxonomy__card-title--new">NEW</span> {% endif %}{{ item.title }}</a></h3>
-          {%- else -%}
-            <h2 class="h4 taxonomy__card-title"><a href="{{ item.url }}" class="taxonomy__link">{{ item.title }}</a></h2>
-          {%- endif -%}
-          </div>
-          <p class="taxonomy__excerpt">
-          {%- if item.collection == 'essays' and page.type != 'categories' -%}
-            <span class="taxonomy__meta__group"><b>Essay: </b></span>
-          {%- endif -%}
-          {%- if item.lists contains "Capital Center Parcels" or item.lists contains "I-195 District Parcels" -%}
-            {%- if item.parcel.size > 0 -%}
-            <span class="taxonomy__meta__group"><b>Parcel {{ item.parcel }}: </b></span>
-            {%- endif -%}
-          {%- endif -%}
-          {% if home == "Yes" %}<i>{% if item.update %}Updated{% else %}Added{% endif %} {{ item.date-modified | date: "%e %B, %Y" }}:</i> {% endif %}
-          {%- if page.type == 'tags' and page.category == "The Superlatives" -%}
-            {{ item.superlative }}
-          {%- elsif categories contains '#DemolitionAlert' and item.update -%}
-            {{ item.update }}
-          {%- elsif home == "Yes" and item.update -%}
-            {{ item.update }}
-          {%- else -%}
-            {{ item.excerpt }}
-          {%- endif -%}
-          </p>
-        </div>
-        <p class="taxonomy__meta">
-        {%- if page.type == 'street' -%}
-          {% if item.street-number %}
-          {{ item.street-number }} {{ item.street }}
-          {% else %}
-          {{ item.address }}
-          {% endif %}
-          <span class="taxonomy__sep"> | </span>
-        {%- endif -%}
-        {%- if categories.size > 0 -%}
-          {%- for category in categories -%}
-          <a href="/category/{{ category | replace: '.', '' | slugify }}/" title="More properties from this category">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
-          {%- endfor -%}
-          <span class="taxonomy__sep"> | </span>
-        {%- endif -%}
-      {%- if page.type != 'neighborhoods' -%}
-        {%- if item.neighborhoods.size > 0 -%}
-          {%- for neighborhood in item.neighborhoods -%}
-          <a href="/neighborhood/{{ neighborhood | replace: '.', '' | slugify }}/" title="More properties from this neighborhood">{{ neighborhood }}</a>{%- unless forloop.last -%}, {%- endunless -%}
-          {%- endfor -%}
-        {%- else if -%}
-          {%- if item.town.size > 0 -%}
-          <a href="/town/{{ item.town | replace: '.', '' | slugify }}/" title="More properties from this town">{{ item.town }}</a>
-          {%- endif -%}
+      {%- if item.lists contains "Capital Center Parcels" or item.lists contains "I-195 District Parcels" -%}
+        {%- if item.parcel.size > 0 -%}
+        <span class="property-card__meta__group"><b>Parcel {{ item.parcel }}: </b></span>
         {%- endif -%}
       {%- endif -%}
-        {%- if item.tags contains "Never Built" -%}
-          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Never Built</b></span>
-        {%- endif -%}
-        {%- if item.built.size > 0 -%}
-          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group">{% unless item.built contains "Proposed" %}<b>Built:</b> {% endunless %}{{ item.built }}</span>
-        {%- endif -%}
-        {%- if item.opened.size > 0 -%}
-          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Opened:</b> {{ item.opened }}</span>
-        {%- endif -%}
-        {%- if item.demolition.size > 0 -%}
-          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Demolition:</b> <a href="/demolition/{{ item.demolition }}/" title="More properties demolished this year">{{ item.demolition }}</a></span>
-        {%- endif -%}
-        {%- if item.then_photo.size > 0 -%}
-          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Then:</b> {{ item.then_photo }}</span>
-        {%- endif -%}
-        {%- if item.now_photo.size > 0 -%}
-          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Now:</b> {{ item.now_photo }}</span>
-        {%- endif -%}
-        {%- if item.closed.size > 0 -%}
-          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Closed:</b> {{ item.closed }}</span>
-        {%- endif -%}
-        {%- if item.redeveloped.size > 0 -%}
-          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Redeveloped:</b> {{ item.redeveloped }}</span>
-        {%- endif -%}
-        {%- if item.decade.size > 0 -%}
-          <span class="taxonomy__sep"> | </span><span class="taxonomy__meta__group"><b>Decade:</b> <a href="/decade/{{ item.decade | replace: '.', '' | slugify }}/" title="More properties from this decade">{{ item.decade }}</a></span>
-        {%- endif -%}
-      {%- if page.type == 'lists' -%}
-        {%- if item.added-to-NRHP.size > 0 -%}
-          <br><b>Added to <abbr title="National Register of Historic Places">NRHP</abbr>:</b> {{ item.added-to-NRHP }}
-        {%- endif -%}
-        {%- if item.NRHP-ref-number.size > 0 -%}
-          <span class="taxonomy__sep"> | </span><b><abbr title="National Register of Historic Places">NRHP</abbr> Reference Number:</b> {{ item.NRHP-ref-number }}
-        {%- endif -%}
+      {% if home == "Yes" %}<i>{% if item.update %}Updated{% else %}Added{% endif %} {{ item.date-modified | date: "%e %B, %Y" }}:</i> {% endif %}
+      {%- if page.type == 'tags' and page.category == "The Superlatives" -%}
+        {{ item.superlative }}
+      {%- elsif categories contains '#DemolitionAlert' and item.update -%}
+        {{ item.update }}
+      {%- elsif home == "Yes" and item.update -%}
+        {{ item.update }}
+      {%- else -%}
+        {{ item.excerpt }}
       {%- endif -%}
-        </p>
-      </div>
-    </li>
+      </p>
+    </div>
+    <p class="property-card__meta">
+    {%- if page.type == 'street' -%}
+      {% if item.street-number %}
+      {{ item.street-number }} {{ item.street }}
+      {% else %}
+      {{ item.address }}
+      {% endif %}
+      <span class="property-card__sep"> | </span>
+    {%- endif -%}
+    {%- if categories.size > 0 -%}
+      {%- for category in categories -%}
+      <a href="/category/{{ category | replace: '.', '' | slugify }}/" title="More properties from this category">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+      {%- endfor -%}
+      <span class="property-card__sep"> | </span>
+    {%- endif -%}
+  {%- if page.type != 'neighborhoods' -%}
+    {%- if item.neighborhoods.size > 0 -%}
+      {%- for neighborhood in item.neighborhoods -%}
+      <a href="/neighborhood/{{ neighborhood | replace: '.', '' | slugify }}/" title="More properties from this neighborhood">{{ neighborhood }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+      {%- endfor -%}
+    {%- else if -%}
+      {%- if item.town.size > 0 -%}
+      <a href="/town/{{ item.town | replace: '.', '' | slugify }}/" title="More properties from this town">{{ item.town }}</a>
+      {%- endif -%}
+    {%- endif -%}
+  {%- endif -%}
+    {%- if item.tags contains "Never Built" -%}
+      <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Never Built</b></span>
+    {%- endif -%}
+    {%- if item.built.size > 0 -%}
+      <span class="property-card__sep"> | </span><span class="property-card__meta__group">{% unless item.built contains "Proposed" %}<b>Built:</b> {% endunless %}{{ item.built }}</span>
+    {%- endif -%}
+    {%- if item.opened.size > 0 -%}
+      <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Opened:</b> {{ item.opened }}</span>
+    {%- endif -%}
+    {%- if item.demolition.size > 0 -%}
+      <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Demolition:</b> <a href="/demolition/{{ item.demolition }}/" title="More properties demolished this year">{{ item.demolition }}</a></span>
+    {%- endif -%}
+    {%- if item.then_photo.size > 0 -%}
+      <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Then:</b> {{ item.then_photo }}</span>
+    {%- endif -%}
+    {%- if item.now_photo.size > 0 -%}
+      <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Now:</b> {{ item.now_photo }}</span>
+    {%- endif -%}
+    {%- if item.closed.size > 0 -%}
+      <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Closed:</b> {{ item.closed }}</span>
+    {%- endif -%}
+    {%- if item.redeveloped.size > 0 -%}
+      <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Redeveloped:</b> {{ item.redeveloped }}</span>
+    {%- endif -%}
+    {%- if item.decade.size > 0 -%}
+      <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Decade:</b> <a href="/decade/{{ item.decade | replace: '.', '' | slugify }}/" title="More properties from this decade">{{ item.decade }}</a></span>
+    {%- endif -%}
+  {%- if page.type == 'lists' -%}
+    {%- if item.added-to-NRHP.size > 0 -%}
+      <br><b>Added to <abbr title="National Register of Historic Places">NRHP</abbr>:</b> {{ item.added-to-NRHP }}
+    {%- endif -%}
+    {%- if item.NRHP-ref-number.size > 0 -%}
+      <span class="property-card__sep"> | </span><b><abbr title="National Register of Historic Places">NRHP</abbr> Reference Number:</b> {{ item.NRHP-ref-number }}
+    {%- endif -%}
+  {%- endif -%}
+    </p>
+  </div>
+</div>
