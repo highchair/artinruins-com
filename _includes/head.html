@@ -45,7 +45,7 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-17D4B0M6BN"></script>
     <link rel="dns-prefetch" href="https://use.typekit.net">
     <link rel="dns-prefetch" href="https://webmention.io">
-    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css?cb=20240505-1510">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 12 updated Properties (RSS/Atom)">
@@ -54,7 +54,7 @@
     <title>{{ meta_title }}</title>
     <meta name="description" content="{{ meta_description | strip_html | truncate: 140 }}">
 
-    <!-- Facebook Meta Tags -->
+    <!-- Open Graph Meta Tags -->
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.prod_url }}{% unless page.url == '\' %}{{ page.url }}{% endunless %}">
@@ -63,7 +63,7 @@
     <meta property="og:image" content="{{ site.prod_url }}{{ meta_image }}">
     {% if page.categories %}<meta property="og:article:section" content="{{ page.categories.first | strip_html }}">{% endif %}
     {% if page.date-modified %}<meta property="og:article:modified_time" content="{{ page.date-modified }}">{% endif %}
-    
+
     <!-- Twitter Meta Tags -->
     <meta name="twitter:site" content="@artinruins">
     <meta name="twitter:card" content="summary_large_image">
