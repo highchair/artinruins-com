@@ -28,6 +28,29 @@ $vertical-rhythm: ($line-height__base * 1rem);
 $thumb-background: #007070; // brand-teal
 $track-background: #ccdbdb; // gray-200
 
+// Range slider as scroll indicator
+$unit: 1rem;
+
+@mixin range-track {
+  -webkit-appearance: none;
+  width: 100%;
+  height: $unit;
+  color: transparent;
+  background: $track-background;
+  border-radius: $unit;
+  border: none;
+  box-shadow: 0.25rem 0.25rem .5rem rgba(0,0,0,0.1) inset;
+}
+
+@mixin range-thumb {
+  -webkit-appearance: none;
+  background: $thumb-background;
+  border-radius: $unit;
+  border: none;
+  height: $unit;
+  width: $unit * 4;
+}
+
 .taxonomy {
 
   // The homepage stacked item update
@@ -78,92 +101,94 @@ $track-background: #ccdbdb; // gray-200
     .property-card__img-wrap {
       aspect-ratio: 16 / 9;
     }
+
+    // Container for the label and range slider
+    &__controller {
+
+      .no-js & {
+        display: none;
+      }
+
+      input[type=range] {
+        -webkit-appearance: none;
+        background: transparent;
+        border: none;
+        padding: 0;
+      }
+      input[type=range]::-webkit-slider-runnable-track {
+        @include range-track();
+      }
+      input[type=range]::-moz-range-track {
+        @include range-track();
+      }
+      input[type=range]::-ms-track {
+        @include range-track();
+      }
+      input[type=range]::-ms-fill-lower {
+        display: none;
+      }
+      input[type=range]::-ms-fill-upper {
+        display: none;
+      }
+      input[type=range]::-webkit-slider-thumb {
+        @include range-thumb();
+      }
+      input[type=range]::-moz-range-thumb {
+        @include range-thumb();
+      }
+      input[type=range]::-ms-thumb {
+        @include range-thumb();
+      }
+    }
+
+    // Visual indicator of how many cards there are
+    &__ticks {
+      display: flex;
+      justify-content: space-between;
+
+      span {
+        border: 1px solid $thumb-background;
+        border-radius: 2px;
+        display: flex;
+        justify-content: center;
+        height: $unit;
+        margin: -2px #{$unit * 2} 0;
+        width: 0px;
+      }
+    }
   }
 
   @include layout-columns() {
 
     &--stack {
+      padding-bottom:($vertical-rhythm * 1.5);
 
       .property-card__img-wrap {
         aspect-ratio: 8 / 5;
       }
+
+      .property-card {
+        box-shadow: 0.25rem 0.375rem 0.75rem rgba(#000, 0.25);
+        margin: calc(0.75rem * var(--i)) calc(0.75rem * var(--z)) 0 calc(0.75rem * var(--i));
+        padding: 1rem;
+      }
+
+      &__controller {
+        display: flex;
+        flex-flow: row nowrap;
+        align-content: center;
+        justify-content: center;
+
+        label {
+          color: #4c5454;
+          margin-right: 1rem;
+          text-transform: none;
+        }
+
+        .taxonomy--stack__range {
+          flex: 0 1 40%;
+        }
+      }
     }
-  }
-}
-
-// Range slider as scroll indicator
-$unit: 1rem;
-
-@mixin range-track {
-  -webkit-appearance: none;
-  width: 100%;
-  height: $unit;
-  color: transparent;
-  background: $track-background;
-  border-radius: $unit;
-  border: none;
-  box-shadow: 0.25rem 0.25rem .5rem rgba(0,0,0,0.1) inset;
-}
-
-@mixin range-thumb {
-  -webkit-appearance: none;
-  background: $thumb-background;
-  border-radius: $unit;
-  border: none;
-  height: $unit;
-  width: $unit * 4;
-}
-
-.taxonomy--stack__controller {
-
-  input[type=range] {
-    -webkit-appearance: none;
-    background: transparent;
-    border: none;
-    padding: 0;
-  }
-  input[type=range]::-webkit-slider-runnable-track {
-    @include range-track();
-  }
-  input[type=range]::-moz-range-track {
-    @include range-track();
-  }
-  input[type=range]::-ms-track {
-    @include range-track();
-  }
-  input[type=range]::-ms-fill-lower {
-    display: none;
-  }
-  input[type=range]::-ms-fill-upper {
-    display: none;
-  }
-  input[type=range]::-webkit-slider-thumb {
-    @include range-thumb();
-  }
-  input[type=range]::-moz-range-thumb {
-    @include range-thumb();
-  }
-  input[type=range]::-ms-thumb {
-    @include range-thumb();
-  }
-
-  @include layout-columns() {
-    margin: 0 auto;
-    width: 50%;
-  }
-}
-
-.taxonomy--stack__ticks {
-  display: flex;
-  justify-content: space-between;
-
-  span {
-    border: 1px solid $thumb-background;
-    border-radius: 2px;
-    display: flex;
-    justify-content: center;
-    height: $unit;
-    margin: -2px #{$unit * 2} 0;
-    width: 0px;
   }
 }

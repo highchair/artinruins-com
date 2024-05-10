@@ -18,7 +18,7 @@ sitemap:
     <p class="taxonomy__count">A list of the properties we have recently mentioned on our <a href="//instagram.com/artinruins" target="_blank">Instagram feed</a></p>
   </div>
 </header>
-<ul class="taxonomy__list u__list__unstyled u__vertical__p u__gutter__p" role="list">
+<ul class="taxonomy__list property-card__cols u__list__unstyled u__vertical__p u__gutter__p" role="list">
 {%- for insta in instagrams limit:20 -%}
   {%- comment -%}
     A "where" query will always return an array, even though there should only be one thing in it
@@ -30,37 +30,39 @@ sitemap:
     {%- else -%}
       {%- assign item_image = item.images.first.url -%}
     {%- endif -%}
-  <li>
-    <div class="taxonomy__img-wrap">
-      {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
-      {%- assign size = '800' -%}
-      {% responsive_image_block %}
-        path: {{ image_path }}
-        image: {{ item_image }}
-        size: {{ size }}
-        cache: true
-      {% endresponsive_image_block %}
-    </div>
-    <div class="taxonomy__colwrap">
-      <div class="taxonomy__title-wrap">
-        <h2 class="h4 taxonomy__card-title"><a href="{{ site.baseurl }}/property/{{ item.slug }}" class="taxonomy__link">{{ item.title }}</a></h2>
+  <li class="taxonomy__item">
+    <div class="property-card">
+      <div class="property-card__img-wrap">
+        {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
+        {%- assign size = '800' -%}
+        {% responsive_image_block %}
+          path: {{ image_path }}
+          image: {{ item_image }}
+          size: {{ size }}
+          cache: true
+        {% endresponsive_image_block %}
       </div>
-      <p class="taxonomy__excerpt">
-      {%- if item.categories contains '#DemolitionAlert' -%}
-        {%- if item.update -%}
-        {{ item.update }}
+      <div class="property-card__content">
+        <div class="property-card__title-wrap">
+          <h2 class="h4 property-card__title"><a href="{{ site.baseurl }}/property/{{ item.slug }}" class="property-card__link">{{ item.title }}</a></h2>
+        </div>
+        <p class="property-card__excerpt">
+        {%- if item.categories contains '#DemolitionAlert' -%}
+          {%- if item.update -%}
+          {{ item.update }}
+          {%- else -%}
+          {{ item.excerpt }}
+          {%- endif -%}
         {%- else -%}
-        {{ item.excerpt }}
+          {{ item.excerpt }}
         {%- endif -%}
-      {%- else -%}
-        {{ item.excerpt }}
-      {%- endif -%}
-      </p>
-      {%- if insta.insta_link -%}
-      <p class="taxonomy__meta">
-        Instagram post date: <a href="{{ insta.insta_link }}" target="_blank">{{ insta.date | date: "%e %B, %Y" }}</a>
-      </p>
-      {%- endif -%}
+        </p>
+        {%- if insta.insta_link -%}
+        <p class="property-card__meta">
+          Instagram post date: <a href="{{ insta.insta_link }}" target="_blank">{{ insta.date | date: "%e %B, %Y" }}</a>
+        </p>
+        {%- endif -%}
+      </div>
     </div>
   </li>
   {%- endfor -%}

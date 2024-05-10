@@ -77,13 +77,15 @@ sitemap:
     {% endfor %}
       </ul>
       <div class="taxonomy--stack__controller" aria-hidden="hide">
-        <span class="u__sr-only"><label for="o__title--s stack__range">Scroll the Cards</label></span>
+        <label for="o__text__sans--bold stack__range">Side-scroll/swipe the Cards</label>
         {% assign demo_display_minus = demo_display | minus: 1 %}
-        <input type="range" id="stack__range" min="0" max="100" step="{{ 100 | divided_by: demo_display_minus }}" value="0" />
-        <div class="taxonomy--stack__ticks">
-          {% for item in demoalert limit:4 %}
-          <span></span>
-          {% endfor %}
+        <div class="taxonomy--stack__range">
+          <input type="range" id="stack__range" min="0" max="100" step="{{ 100 | divided_by: demo_display_minus }}" value="0" />
+          <div class="taxonomy--stack__ticks">
+            {% for item in demoalert limit:4 %}
+            <span></span>
+            {% endfor %}
+          </div>
         </div>
       </div>
     </div>
@@ -116,7 +118,7 @@ sitemap:
   {% endif %}
   {%- assign props = props | plus:1 -%}
 
-  {%- if forloop.index == 9 -%}
+  {%- if forloop.index == 8 -%}
     {% comment %}
 
       Insert a random artful image to break up the list
@@ -178,7 +180,7 @@ sitemap:
         </div>
       </li>
     {%- endif -%}
-    {%- if forloop.index <= 18 and is_demo_alert == 'No' and is_under_construction == 'No' -%}
+    {%- if forloop.index <= 16 and is_demo_alert == 'No' and is_under_construction == 'No' -%}
       {%- comment -%}
       <!-- in forloop (is_demo_alert == 'No' and is_under_construction == 'No') | item slug = {{ item.slug }} -->
       {%- endcomment -%}

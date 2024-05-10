@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", function() {
   // Thank you to Captain Anonymous https://codepen.io/anon/pen/evEKRK?editors=0011
   var panel_scroller = document.getElementById("stack__range");
   var panel = document.getElementById("js__stackpanel");
-  
+
   if (panel_scroller) {
     panel_scroller.oninput = function () {	
       var total = panel.scrollWidth - panel.offsetWidth;
