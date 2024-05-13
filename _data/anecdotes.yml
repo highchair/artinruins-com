@@ -1,6 +1,21 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: fletcher-manufacturing
+  person: 'Louise Lynch'
+  date: '2024-05-08'
+  content: 'Actually, I am looking for the names of the brothers who ran Fletcher Manufacturing Co. after their father, Thomas. None of the articles seem to give their first names. Thank you in advance.'
+
+- property: fletcher-building
+  person: 'Norm'
+  date: '2024-05-06'
+  content: 'My family had a store called Kennedy’s Butter and Eggs (groceries and deli) that occupied a street level retail space from 1967-1989. Right of the front door on Union St was Brooks Drugs. Left of front door was Kim Lee Imports (Asian home decor), then Kennedy’s Butter and Eggs, then Dr. Sholes shoe store and then Backstreet Bar and Grille (popular with Johnson and Wales students). The upper floors were vacant except for a beauty school and the ACLU offices. By the 1990’s all those business had closed.'
+
+- property: rocky-point-park
+  person: 'Christian Boudman'
+  date: '2024-05-05'
+  content: 'I worked as magician/show manager at Rocky Point Park for Paul Osborne Park Shows during the 1988 season. My magic show, “The Magical Spectacular” was scheduled four times a day on the “Showtime Stage.” I and a cast of about ten local singer/dancer/actors were in charge of all the daily entertainment around the park including the magic show, a couple “song and dance” productions and even a flea circus and a puppet show. David Cascioli was the GM at the time and my crew and I worked closely with one of Cascioli’s lieutenants, a sweet guy named Al Albino. Al wore different colored contact lenses every day… Interesting dude. I remember seeing the band Men Without Hats at the park that summer.'
+
 - property: diocese-house-pvd
   person: 'Juan Mariscal'
   date: '2024-04-16'
