@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son', 'James C. Bucklin', 'Russell Warren' ]
 people: []
 lists: [ 'Brussat’s 10 Best Lost Buildings', 'Downtown Providence National Historic District', 'PPS Ten Most Endangered', 'National Register of Historic Places' ]
-tags: [ 'Providence Public Library Digital Collections', 'Theaters, Theatres, & Cinemas', 'Yellow brick' ]
+tags: [ 'Library of Congress', 'Providence Public Library Digital Collections', 'Theaters, Theatres, & Cinemas', 'Yellow brick' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'

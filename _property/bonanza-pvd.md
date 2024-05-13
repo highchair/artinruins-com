@@ -16,7 +16,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Philemon F. Sturges' ]
 lists: [ 'HABS HAER' ]
-tags: [ 'Demolition by Progress', 'Mid-century Modern', 'Needs History' ]
+tags: [ 'Demolition by Progress', 'Library of Congress', 'Mid-century Modern', 'Needs History' ]
 
 address: '1 Sabin Street, Providence RI'
 latitude: '41.8242571'

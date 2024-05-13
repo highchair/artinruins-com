@@ -17,7 +17,7 @@ town: [ 'Pawtucket, RI' ]
 designers: []
 people: []
 lists: [ 'HABS HAER', 'National Register of Historic Places' ]
-tags: [ 'Art Deco', 'Bars, Businesses, & Restaurants', 'Historic Diner Cars', 'The Superlatives' ]
+tags: [ 'Art Deco', 'Bars, Businesses, & Restaurants', 'Historic Diner Cars', 'Library of Congress', 'The Superlatives' ]
 superlative: 'The nation’s first diner to be nominated to the National Register of Historic Places'
 
 NRHP-ref-number: '78000002 (individual)'

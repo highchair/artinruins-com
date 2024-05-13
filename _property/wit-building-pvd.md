@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Union Studio Architecture', 'Cornish Associates' ]
 people: []
 lists: []
-tags: [ 'Rhode Island Black Heritage' ]
+tags: [ 'Library of Congress', 'Rhode Island Black Heritage' ]
 
 NRHP-ref-number:
 added-to-NRHP:

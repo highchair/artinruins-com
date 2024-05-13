@@ -16,7 +16,7 @@ town: [ 'Warwick, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [] # B. B. Knight, R. Knight
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'Rhody Awards' ]
-tags: [ 'Apartments for Rent' ]
+tags: [ 'Apartments for Rent', 'Library of Congress' ]
 
 NRHP-ref-number: '72000019 (individual)'
 added-to-NRHP: 'June 1972'

@@ -16,7 +16,7 @@ town: [ 'Bristol, RI' ]
 designers: [ 'Russell Warren' ]
 people: [ 'Charles Dana Gibson' ]
 lists: [ 'HABS HAER', 'National Register of Historic Places' ]
-tags: [ 'House' ]
+tags: [ 'House', 'Library of Congress' ]
 
 NRHP-ref-number: '72000016 (individual)'
 added-to-NRHP: 'July 1972'

@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'Joseph Congdon', 'Francis Wood Carpenter' ]
 lists: [ 'HABS HAER', 'PPS/AIA Industrial Commercial Buildings Survey' ]
-tags: [ 'Providence Public Library Digital Collections', 'The Superlatives' ]
+tags: [ 'Library of Congress', 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'The second oldest industrial building in the state of Rhode Island, and the oldest in Providence'
 
 NRHP-ref-number:
@@ -50,7 +50,7 @@ images:
     caption: 'Laurence E. Tilley, 1958 — Rhode Island Photographs Collection, Providence Public Library. The sign on the next section of building reads Atlantic Pump & Supply Co.'
     sizes: '1280, 880'
   - url: steeple-st-lt-1958-03.jpg
-    caption: 'Laurence E. Tilley, 1958 — HABS/HAER Library of Congress. The sign on this next section of building reads Allenson Brothers SHeet Metal Work.'
+    caption: 'Laurence E. Tilley, 1958 — HABS/HAER Library of Congress. The sign on this next section of building reads Allenson Brothers Sheet Metal Work.'
     sizes: '720, 900'
   - url: steeple-st-jh-2005-07-01.jpg
     sizes: '1200, 900'

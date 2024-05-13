@@ -15,7 +15,7 @@ neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Alpheus C. Morse', 'Thomas A. Tefft' ]
 lists: [ 'HABS HAER', 'Moshassuck Square Historic District', 'National Register of Historic Places', 'Providence’s Five Industrial Wonders' ]
-tags: [ 'Chet Smolski image collection', 'Demolition by Neglect', 'Demolition by Fire', 'Providence Public Library Digital Collections', 'The Superlatives' ]
+tags: [ 'Chet Smolski image collection', 'Demolition by Neglect', 'Demolition by Fire', 'Library of Congress', 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'At the turn of the 20th century, the largest screw manufacturer in the country'
 
 NRHP-ref-number: '709380013 (contributing)'

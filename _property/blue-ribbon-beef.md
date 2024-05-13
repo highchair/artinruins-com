@@ -14,7 +14,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'HABS HAER', 'Did You Know?' ]
-tags: [ 'Demolition by Progress', 'Needs History' ]
+tags: [ 'Demolition by Progress', 'Library of Congress', 'Needs History' ]
 
 address: '~265 Canal Street, Providence RI'
 latitude: '41.829387'

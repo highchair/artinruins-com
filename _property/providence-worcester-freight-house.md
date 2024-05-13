@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Thomas A. Tefft' ]
 people: []
 lists: [ 'HABS HAER' ]
-tags: [ 'Providence Public Library Digital Collections' ]
+tags: [ 'Library of Congress', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:
 added-to-NRHP:
