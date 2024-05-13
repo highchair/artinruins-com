@@ -19,10 +19,12 @@ tags: []
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '300 Benefit Street, Providence RI'
+address: '300 Benefit St, Providence RI'
 latitude: '41.8241215'
 longitude: '-71.4080181'
 gmap: "https://www.google.com/maps/place/300+Benefit+St,+Providence,+RI+02903/@41.8241215,-71.4080181,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4453df726b649:0x36b37d2f44ff5ed6!8m2!3d41.8241175!4d-71.4058294"
+street: 'Benefit St'
+street-number: 300
 
 meta: ""
 excerpt: "A relatively simple carriage house down the hill from Benefit Street featuring unique architectural details and construction"

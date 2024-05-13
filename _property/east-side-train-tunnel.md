@@ -25,7 +25,7 @@ address: '184 Benefit St (west entrance), Providence RI'
 latitude: '41.8278722'
 longitude: '-71.4081401'
 gmap: "https://www.google.com/maps/place/184+Benefit+St,+Providence,+RI+02903/@41.8278722,-71.4081401,157m/data=!3m1!1e3!4m5!3m4!1s0x89e445178e5e4901:0x42c4f2b5c8afb09c!8m2!3d41.8281164!4d-71.4081423"
-street: [ 'North Main St' ]
+street: [ 'Benefit St', North Main St' ]
 
 meta: ""
 excerpt: "In use for almost 70 years, the East Side Train tunnel burrows beneath College Hill and once connected Union Station to East Providence"
