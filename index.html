@@ -8,36 +8,51 @@ sitemap:
   priority: 0.9
   changefreq: 'weekly'
 ---
+{%- comment -%}
+
+  Set up globals
+
+  * properties    = All properties in the _property folder
+  * totalimg      = All images associated with a property page (Does not include ThenNow)
+  * construction  = All under construiction properties
+  * demoalert     = All Demolition Alert proerties
+  * thennows      = All thennow posts in the _then-now folder
+  * essays        = All essay posts in the _essays folder
+  * updated_props = All properties EXCEPT those in the category #DemolitionAlert or #WhatAreTheyBuilding
+  * updates       = Properties that are not #DemolitionAlert or #WhatAreTheyBuilding added to all Essays and all ThenNows
+  * anecdotes     = All property anecdotes from the _data/anecdotes.yml file
+  * home          = A variable used in the property-card.html include to display the Update text instead of the Excerpt text
+
+  No longer using, but might want to bring back, a way to show posts within a timerange
+  {%- assign lastmonth = "now" | date: '%s' | minus: 3888000 | date: '%Y%m%d' | times:1 -%}
+
+{%- endcomment -%}
 {%- assign properties = site.property -%}
+{%- assign totalimg = 0 -%}
+{%- for prop in properties -%}
+  {%- assign totalimg = totalimg | plus: prop.images.size -%}
+{%- endfor -%}
+{%- assign construction = site.property | where: "categories", "#WhatAreTheyBuilding" | sort: "date-modified" | reverse -%}
+{%- assign demoalert = site.property | where: "categories", "#DemolitionAlert" | sort: "date-modified" | reverse -%}
 {%- assign thennows = site.then-now -%}
 {%- assign essays = site.essays -%}
-{%- assign items = properties | concat: thennows | concat: essays | sort: 'date-modified' | reverse -%}
-{%- assign totalimg = 0 -%}
-{%- for item in properties -%}
-  {%- assign totalimg = totalimg | plus: item.images.size -%}
-{%- endfor -%}
-{%- assign lastmonth = "now" | date: '%s' | minus: 3888000 | date: '%Y%m%d' | times:1 -%}
+{%- comment -%} NOTE: There is no 'not contains' in Jekyll, so here, we declare all the possible categories we want to nmatch {%- endcomment -%}
+{%- assign updated_props = site.property | where_exp: "item", "item.categories contains '#ArchiveRI' or item.categories contains '#NotInRuins' or item.categories contains '#UrbanDecay' or item.categories contains '#UsedToBeThere'" | sort: "date-modified" | reverse -%}
+{%- assign updates = updated_props | concat: thennows | concat: essays | sort: 'date-modified' | reverse -%}
 {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
-{% assign home = 'Yes' %}
-{%- assign demoalert = site.property | where: "categories", "#DemolitionAlert" | sort: "date-modified" | reverse -%}
+{%- assign home = 'Yes' -%}
 
 {%- comment -%}
   Start the render on What Are They Building — Do not output HTML here
 {%- endcomment -%}
-{%- assign construction = site.property | where: "categories", "#WhatAreTheyBuilding" | sort: "date-modified" | reverse -%}
-{%- assign construct_count = 0 -%}
 {%- assign construct_html = '' -%}
 {%- for item in construction limit:3 -%}
-  {% if item.update %}
-  {% else %}
-    {% capture construct_html %}
-      {{ construct_html }}
+  {% capture construct_html %}
+    {{ construct_html }}
     <li class="taxonomy__item">
       {% include property-card.html %}
     </li>
-    {% endcapture %}
-    {% assign construct_count = construct_count | plus: 1 %}
-  {% endif %}
+  {% endcapture %}
 {%- endfor -%}
 
 <section class="home__updates u__gutter__p">
@@ -53,7 +68,7 @@ sitemap:
       <li><a href="#anec" class="u__sr-only u__sr-only--focusable skip-link">Skip to Recent Anecdotes</a></li>
     </ul>
 
-    <p class="v-rhythm">We document the architectural landscape and collect the oral, written, and photographic history of important places in Rhode Island. We hope to be a safe space for storytelling, memory-sharing, and dreaming about the future of the built environment. <a href="{% link about.md %}">More about <span class="abbr">A.I.R.</span></a></p>
+    <p class="v-rhythm">ArtInRuins documents the architectural landscape to collect the oral, written, and photographic history of important places in Rhode Island. We are a safe space for storytelling, memory-sharing, and dreaming about the future of the built environment. <a href="{% link about.md %}">More about <span class="abbr">A.I.R.</span></a></p>
 
     <p class="u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{{ properties.size }} properties</span> and <a href="{% link category/essays.html %}">{{ essays.size }} Essays</a> with <span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=totalimg %} images</span>. Browse more from our <a href="{% link all-tags.html %}">Categories and Tags</a>.</p>
 
@@ -94,31 +109,14 @@ sitemap:
     <span id="recent"></span>
     <h2 class="o__title--sm o__title__cta v-rhythm">Recently added/updated <a href="/feed.xml" target="_blank"><span class="social__rss" aria-hidden="true"></span>Subscribe</a></h2>
     <ul class="taxonomy__list property-card__cols u__list__unstyled u__vertical__pb" role="list">
-{%- for item in items -%}
+{%- for item in updates limit:12 -%}
   {% comment %}
     dump variable contents {{ item | inspect }} or {{ item | jsonify }}
     Caution: Memory and output intensive!
 
     property loop number {{ forloop.index }}
   {% endcomment %}
-  {%- assign categories = item.categories -%}
-  {%- capture is_demo_alert -%}
-    {% if categories contains '#DemolitionAlert' %}Yes{% else %}No{% endif %}
-  {%- endcapture -%}
-  {%- capture is_under_construction -%}
-    {% if categories contains '#WhatAreTheyBuilding' %}Yes{% else %}No{% endif %}
-  {%- endcapture -%}
-  {% if is_under_construction == 'Yes' %}
-    {% comment %}
-      If this item is WhatAreTheyBuilding, BUT there is an update, show it in the main river
-    {% endcomment %}
-    {%- capture is_under_construction -%}
-      {% if item.update %}No{% else %}Yes{% endif %}
-    {%- endcapture -%}
-  {% endif %}
-  {%- assign props = props | plus:1 -%}
-
-  {%- if forloop.index == 8 -%}
+  {%- if forloop.index == 7 -%}
     {% comment %}
 
       Insert a random artful image to break up the list
@@ -180,22 +178,17 @@ sitemap:
         </div>
       </li>
     {%- endif -%}
-    {%- if forloop.index <= 16 and is_demo_alert == 'No' and is_under_construction == 'No' -%}
-      {%- comment -%}
-      <!-- in forloop (is_demo_alert == 'No' and is_under_construction == 'No') | item slug = {{ item.slug }} -->
-      {%- endcomment -%}
       <li class="taxonomy__item{% if item.categories contains '#DemolitionAlert' %} demolition-alert{% endif %}">
-      {% include property-card.html %}
+        {% include property-card.html %}
       </li>
-    {%- endif -%}
   {%- endfor -%}
     </ul>
 
   {%- comment -%}
-    Output What Are They Building — Must be less than a month old AND not have an update present
+    Output What Are They Building
   {%- endcomment -%}
   <h2 class="o__title--sm v-rhythm">#WhatAreTheyBuilding: Under Construction</h2>
-  <ul class="taxonomy__list taxonomy__grid taxonomy__grid--{{ construct_count }} u__list__unstyled u__vertical__pb" role="list">
+  <ul class="taxonomy__list taxonomy__grid taxonomy__grid--3 u__list__unstyled u__vertical__pb" role="list">
     {{ construct_html }}
   </ul>
   <p class="u__vertical__pb"><span class="o__title--sm">Also!</span> <a href="{% link proposals.md %}">The list of new building proposals</a> we are keeping an eye on.</p>
