@@ -155,11 +155,11 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 2020 — Not demolished, but three homes heavily altered
 : More houses on Angell Street were renovated beyond recognition in 2019 and 2020.
 : 198 Angell Street was a nine bedroom home. A third floor was added along with a 19' extension off the back of the property right to the lot line. It is now a 23 bedroom apartment building with 11 bathrooms.
-: 194 and 190 were not demolished but their street front façades are now completely different than their previous designs. 194 is a story taller and all three were extended towards the back of their lots. That tax database now lists 24 bedrooms at both 190 and 194 with 12 bathrooms. 
+: 194 and 190 were not demolished but their street front façades are now completely different than their previous designs. 194 is a story taller and all three were extended towards the back of their lots. That tax database now lists 24 bedrooms at both 190 and 194 with 12 bathrooms.
 : These three houses were circa 1895 and Late Victorian and Colonial Revival in style.
 
 2023 — Minus two more, for a total of 28 lost
-: There is now an approved [demolition of two homes on the corner of Brook and Waterman]({% link _property/382-brook-116-waterman.md %}) in favor of a five-story apartment building with ground floor retail. 
+: There was an approved [demolition of two homes on the corner of Brook and Waterman]({% link _property/382-brook-116-waterman.md %}) in favor of a five-story apartment building with ground floor retail and 25 two-bedroom units, accommodating 50 residents.
 : 116 Waterman was a circa 1857-75, square plan, 2 and a half story home with a cross gable roof and handsome, central entrance set off by columns. 382 Brook Street was a 1895 home with less detail and a gable roof.
 
 <figure class="u__img">
@@ -200,9 +200,9 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 
 ***
 
-The redevelopment of these 30 homes has contributed a total of 590[^3] new beds in this area, which is likely four times as many beds as the previous houses contained. The sheer change in density is astounding, with little to no breathing room between the buildings that are left. The only bright side that we take into account is how little parking has been accommodated by the new buildings.
+The redevelopment of these 30 homes has contributed a total of 615[^3] new beds in this area, which is likely four times as many beds as the previous houses contained. The sheer change in density is astounding, with little to no breathing room between the buildings that are left. The only bright side that we take into account is how little parking has been accommodated by the new buildings.
 
-[^3]: Our math is 200 beds at 257 Thayer; 162 beds in the Brown wellness center; 61 at 21 Euclid; 71 at 198, 194, and 190 Angell; 27 at 185 Angell; 24 at 189 Angell; 12 at 279 Thayer Street; 8 at 235 Meeting; and 25 units at the yet to be built Waterman Street building.
+[^3]: Our math is 200 beds at 257 Thayer; 162 beds in the Brown wellness center; 61 at 21 Euclid; 71 at 198, 194, and 190 Angell; 27 at 185 Angell; 24 at 189 Angell; 12 at 279 Thayer Street; 8 at 235 Meeting; and 50 beds at 116 Waterman.
 
 The College Hill Historic District may still have a strong, beating heart along northern Benefit Street and on the southwestern side along John, Power, and Benefit Streets. It includes many of the older structures of Brown University and the former Pembroke University as well as portions of Fox Point. But in 10 years, these four blocks saw the loss of almost 30 late-19th century houses and the conversion of 3 more away from historic status.
 
