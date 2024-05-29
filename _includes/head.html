@@ -45,7 +45,7 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-17D4B0M6BN"></script>
     <link rel="dns-prefetch" href="https://use.typekit.net">
     <link rel="dns-prefetch" href="https://webmention.io">
-    <link rel="stylesheet" type="text/css" href="/assets/css/main.css?cb=20240505-1510">
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css?cb=20240523-1917">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 12 updated Properties (RSS/Atom)">
@@ -61,8 +61,8 @@
     <meta property="og:title" content="{{ meta_title }}">
     <meta property="og:description" content="{{ meta_description | strip_html | truncate: 140 }}">
     <meta property="og:image" content="{{ site.prod_url }}{{ meta_image }}">
-    {% if page.categories %}<meta property="og:article:section" content="{{ page.categories.first | strip_html }}">{% endif %}
-    {% if page.date-modified %}<meta property="og:article:modified_time" content="{{ page.date-modified }}">{% endif %}
+    {%- if page.categories -%}<meta property="og:article:section" content="{{ page.categories.first | strip_html }}">{%- endif -%}
+    {%- if page.date-modified -%}<meta property="og:article:modified_time" content="{{ page.date-modified }}">{%- endif -%}
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:site" content="@artinruins">
