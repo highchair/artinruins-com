@@ -71,18 +71,6 @@
 
     background-color: palette('brand-grey');
     color: $white;
-    overflow-y: hidden;
-
-    // Scrollbar properties
-    scrollbar-color: palette('brand-dark-brown');
-
-    &::-webkit-scrollbar {
-      background: palette('brand-dark-brown');
-    }
-
-    &::-webkit-scrollbar-thumb {
-      background: palette('brand-orange');
-    }
 
     img {
       max-height: 66vmin;
@@ -99,6 +87,33 @@
       // Scroll snapping
       scroll-snap-type: x mandatory;
       scroll-padding: 50%;
+
+      // Scrollbar properties
+      $scrollbar-color-thumb: palette('brand-orange');
+      $scrollbar-color-track: palette('brand-dark-brown');
+      $scrollbar-width: auto;
+      $scrollbar-width-legacy: 0.75em;
+
+      &::-webkit-scrollbar {
+        -webkit-appearance: none;
+        max-width: $scrollbar-width-legacy;
+        max-height: $scrollbar-width-legacy;
+        width: $scrollbar-width-legacy;
+      }
+      &::-webkit-scrollbar-thumb {
+        background: $scrollbar-color-thumb;
+      }
+      &::-webkit-scrollbar-track {
+        background: $scrollbar-color-track;
+      }
+
+      /* Modern browsers with `scrollbar-*` support */
+      @supports (scrollbar-width: auto) {
+        & {
+          scrollbar-color: $scrollbar-color-thumb $scrollbar-color-track;
+          scrollbar-width: $scrollbar-width;
+        }
+      }
 
       li {
         scroll-snap-align: center;
@@ -161,6 +176,13 @@
     &__credits {
       @include ff-sans(false);
       color: $white;
+      @include fluid-units(
+        'padding-top' 'padding-bottom',
+        ($vertical-min * 0.5),
+        ($vertical-max * 0.5),
+        $spacing__min-vw,
+        $spacing__max-vw
+      );
 
       b {
         font-weight: $font-custom__sans__weight__bold;

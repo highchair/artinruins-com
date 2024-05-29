@@ -114,7 +114,7 @@
     // Make the UL a grid container
     display: grid;
     // This fits three across very nicely
-    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
     grid-gap: 0;
 
     li {
@@ -153,7 +153,7 @@
     // Make them larger to take up more space
     &--1,
     &--2 {
-      grid-template-columns: repeat(auto-fit, minmax(20rem, 28rem));
+      grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
     }
 
     // If exactly four, make them fit all in one row
