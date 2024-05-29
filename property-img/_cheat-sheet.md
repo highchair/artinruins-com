@@ -8,11 +8,11 @@ HABS/HAER, Photographer Name, Year
 
 ## Snippets to keep consistent
 
-+ [1920-1921 Sanborn Map, Volume 1, Plate 52](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"}(image 62) — Building is present and simply labelled “Jewelry Supplies.” **Source:** Library of Congress, Geography and Map Division, Sanborn Maps Collection
++ [1920-1921 Sanborn Map, Volume 1, Plate 52](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001)(image 62) — Building is present and simply labelled “Jewelry Supplies.” **Source:** Library of Congress, Geography and Map Division, Sanborn Maps Collection
 
-Contributions from Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>
+Contributions from Christopher Martin of <a href="https://quahog.org">Quahog.org</a>
 
-<a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>
+<a href="//digitalcommons.ric.edu/smolski_images/61">Chet Smolski</a>
 
 _by Gregory Smith_  
 **Providence Journal** | December 4, 2003 (abridged)
@@ -44,11 +44,11 @@ caption: 'Rhode Island Photograph Collection, Providence Public Library'
 Aerials from the Providence Historical Aerial Viewer
 caption: 'Providence Historical Aerial Viewer 1972'
 caption: 'Undated. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
-'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%3A5102" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>'
+'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%3A5102">John Hutchins Cady Research Scrapbooks Collection</a>'
 
 Photoshop: PPS Architectural Slide Collection, 1983
 caption: '[Date] — PPS Architectural Slides Collection'
-<a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>
+<a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>
 
 ## Footnotes
 [^1]
@@ -67,7 +67,7 @@ caption: 'Sanborn Insurance Map, 1899-1900, volume 1 sheet 15 — Courtesy Onli
 MLA citation style: 
 Malone, George. _“Riverboat Ride: Crescent Park, Riverside, RI”_, Laff in the Dark, captured 15 August 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
 
-+ [1920–1921 Sanborn Insurance Map, Volume 1, Plate 32](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"} (page 43) — The large complex is mostly the same, but the central portion of Chestnut Street has been abandoned and Manchester St renamed to Marengo. The buildings are labelled pattern storage, grinding and polishing, refining, pattern shop, wash room, machine shop, foundry, mounting and packing, flask house, and shipping
++ [1920–1921 Sanborn Insurance Map, Volume 1, Plate 32](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (page 43) — The large complex is mostly the same, but the central portion of Chestnut Street has been abandoned and Manchester St renamed to Marengo. The buildings are labelled pattern storage, grinding and polishing, refining, pattern shop, wash room, machine shop, foundry, mounting and packing, flask house, and shipping
 
 
 #### In copy Images
@@ -92,10 +92,7 @@ content in markdown form
 
 ## Project Road Map
 * Add the ability to browse properties by Map
-* Then and Now template with a horizontal slider thing?
 * Paginate category pages… alphabetical?
-* Add a “random photo” feature to the homepage and start of list of the more artful photographs we have taken over the years
-  * Include a way that someone could refresh the image sort of like a slideshow, but without preloading the images?
 * Do something tag-like with the new "People" set of tags. These people pages deserve more of a description to deliver the biography and significance of a person
 
 
@@ -115,8 +112,3 @@ content in markdown form
 * Bottom right corner, ArtInRuins text logo
 * Either white or black is acceptable
 * When using someone else's photo, add a credit but not a AIR logo
-
-
-## Anecdotes
-+ Search for [link needed] every now and again to add property links to anecdotes. Must be Markdown form.
-
