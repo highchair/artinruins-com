@@ -149,16 +149,15 @@
       margin-bottom: auto;
     }
 
-    // When there are only a specific number of them
-    // Make them larger to take up more space
-    &--1,
-    &--2 {
-      grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
-    }
-
     // If exactly four, make them fit all in one row
     &--4 {
       grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+    }
+
+    // If three or six, make them fit in rows of three
+    &--3,
+    &--6 {
+      grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
     }
   }
 

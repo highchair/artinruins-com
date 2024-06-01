@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2024-05-05
+
+Changed
++ Edited the way that lists of property cards render: Made the container `<ul>` and `li`s independent from the cards themselves. Moved all card styles into its own SASS file with its own BEM classes. Taxonomy classes now focus on the container only, and the default card style is a vertical stack of image over details. Did this in preparation for a new style of cards, the “card stack.”
+
 ## 2024-02-11
 
 Added
