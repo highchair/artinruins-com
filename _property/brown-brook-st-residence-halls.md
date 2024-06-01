@@ -2,7 +2,7 @@
 title: "Brook Street Residence Halls"
 slug: brown-brook-st-residence-halls
 aka:
-date-modified: 2023-09-09 11:00
+date-modified: 2024-06-01 12:00
 update: 'Added three photos of the halls nearing completion'
 update-image: residence-halls-jh-2023-08-02.jpg
 
@@ -31,7 +31,7 @@ gmap: "https://www.google.com/maps/place/250+Brook+St,+Providence,+RI+02906/@41.
 meta: ""
 excerpt: "A new set of residence halls to rise five stories along Brook Street, creating a pocket of dense stident housing"
 
-thumbnail: residence-halls-render.jpg
+thumbnail: residence-halls-jh-2024-05-01.jpg
 
 images:
   - url: residence-halls-render.jpg
@@ -68,10 +68,16 @@ images:
     sizes: '1440, 900'
   - url: residence-halls-jh-2023-08-03.jpg
     sizes: '740, 1036'
+  - url: residence-halls-jh-2024-05-01.jpg
+    sizes: '1600, 900'
+  - url: residence-halls-jh-2024-05-02.jpg
+    sizes: '740, 1036'
+  - url: residence-halls-jh-2024-05-02.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2023-08-01
+mostrecentimage: 2024-05-01
 
-imagescredit: 'Architectural rendering from the Brown University website'
+imagescredit: 'Architectural rendering courtesy the architect and the Brown University website'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -80,9 +86,9 @@ imagescredit: 'Architectural rendering from the Brown University website'
 
 ### Proposal
 
-A very modern set of buildings will be constructed along Brook Street between Charlesfield and Power Streets. The buildings will house approximately 350 third and fourth year undergraduate students, relieving some of the pressure on the nearby housing stock. Between the recently completed health and wellness center and residence hall bounded by Thayer, Cushing, Brook, and Meeting and this project, Brown will have exceeded its 2013 Master Plan target for new undergraduate beds.
+A very modern set of buildings were constructed along Brook Street between Charlesfield and Power Streets. The buildings house approximately 350 third and fourth year undergraduate students, relieving some of the pressure on the nearby housing stock. Between the [recently completed health and wellness center and residence hall]({% link _property/wellness-center-residence-hall.md %}) bounded by Thayer, Cushing, Brook, and Meeting and this project, Brown will have exceeded its 2013 Master Plan target for new undergraduate beds.
 
-The buildings will be 64,000 and 61,000 square feet respectively. Ground-floor retail in one of the buildings was promised, and then was pulled away, but has been added again to the west building. Visit the [Brown Facilities page about the project](//www.brown.edu/facilities/projects/capital-projects/current/brook-street-residence-halls){:target="_blank"}.
+The buildings will be 64,000 and 61,000 square feet respectively. Ground-floor retail in one of the buildings was promised, and then was pulled away, but has been added again to the west building. Visit the [Brown Facilities page about the project](//www.brown.edu/facilities/projects/capital-projects/current/brook-street-residence-halls).
 
 
 ### Design Reception

@@ -122,10 +122,12 @@ images:
     sizes: '768, 924'
   - url: south-street-jh-2022-03-01.jpg
     sizes: '1440, 900'
+  - url: south-street-jh-2023-10-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2022-03-01
+mostrecentimage: 2023-10-01
 
-imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12111" target="_blank">circa 1956</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10776" target="_blank">circa 1962-1</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10452" target="_blank">circa 1962-2</a>) at the Providence Public Library, Robert Guiliani and Matthew Kierstead for National Register nomination forms'
+imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12111">circa 1956</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10776">circa 1962-1</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10452">circa 1962-2</a>) at the Providence Public Library, Robert Guiliani and Matthew Kierstead for National Register nomination forms'
 
 external:
   - source: 'RI Photo Survey Instagram'
@@ -144,7 +146,7 @@ The redevelopment of South Street Landing took almost 30 years. We present the h
 : Narragansett Electric decommissions the former power plant and starts to demolish smaller features on the site. The original smokestacks are removed. 
 
 1994
-: Talks begin with the **Heritage Harbor Museum** (<span class="abbr">HHM</span>) to use the former power plant as their new home. The <span class="abbr">HHR</span> was a local initiative started to create a state history museum. It’s original state charter of June 22, 1979 established the Foundation for the Promotion of State Cultural Heritage. [It still survives as an educational initiative](//heritageharborfoundation.org){:target="_blank"}.[^1]
+: Talks begin with the **Heritage Harbor Museum** (<span class="abbr">HHM</span>) to use the former power plant as their new home. The <span class="abbr">HHR</span> was a local initiative started to create a state history museum. It’s original state charter of June 22, 1979 established the Foundation for the Promotion of State Cultural Heritage. [It still survives as an educational initiative](//heritageharborfoundation.org).[^1]
 
 1995
 : South Street is donated to the <span class="abbr">HHM</span> in lieu of being demolished. The building and land was said to be worth $10 million. 
@@ -192,7 +194,7 @@ October 2017
 : Brown relocates 400 staff to 136,000 square feet of the total 265,000-square-feet of renovated office space.[^10] 
 
 2019
-: The [National Trust for Historic Preservation](//forum.savingplaces.org/blogs/forum-online/2019/10/11/the-2019-national-preservation-awards){:target="_blank"} honors South Street Landing with the 2019 Richard H. Driehaus Foundation National Preservation Award, which recognizes adaptive reuse projects that give new meaning to communities while preserving architectural and cultural heritage. The renovation leveraged TK&A Architects for the redesign.[^11]
+: The [National Trust for Historic Preservation](//forum.savingplaces.org/blogs/forum-online/2019/10/11/the-2019-national-preservation-awards) honors South Street Landing with the 2019 Richard H. Driehaus Foundation National Preservation Award, which recognizes adaptive reuse projects that give new meaning to communities while preserving architectural and cultural heritage. The renovation leveraged TK&A Architects for the redesign.[^11]
 
 [^1]: Heritage Harbor website, captured January 16, 2021 from https://heritageharborfoundation.org
 
