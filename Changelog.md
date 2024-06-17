@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2024-06-16
+
+Removed
++ `include/property-card.html` no longer indicated whether or not a property is new on the homepage. It is assumed to be new or updated by being included in the first place.
+
 ## 2024-05-05
 
 Changed

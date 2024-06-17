@@ -42,19 +42,6 @@ sitemap:
 {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
 {%- assign home = 'Yes' -%}
 
-{%- comment -%}
-  Start the render on What Are They Building — Do not output HTML here
-{%- endcomment -%}
-{%- assign construct_html = '' -%}
-{%- for item in construction limit:3 -%}
-  {% capture construct_html %}
-    {{ construct_html }}
-    <li class="taxonomy__item">
-      {% include property-card.html %}
-    </li>
-  {% endcapture %}
-{%- endfor -%}
-
 <section class="home__updates u__gutter__p">
   <div class="u__max-width--container">
     {%- comment -%}
@@ -82,7 +69,7 @@ sitemap:
     {% assign demo_display = demoalert.size %}
   {%- endif -%}
     <span id="demo"></span>
-    <h2 class="o__title--sm o__title__cta v-rhythm">Demolition Alert{% if demoalert.size > 1 %}s <a href="{% link category/demolitionalert.html %}">{{ demoalert.size }} in <span class="u__sr-only">Demolition Alert</span><span aria-hidden="true">#DemolitionAlert</span></a>{% endif %}</h2>
+    <h2 class="o__title--sm o__title__cta v-rhythm">Demolition Alert{% if demoalert.size > 1 %}s{% endif %}{% if demoalert.size > demo_display %} <a href="{% link category/demolitionalert.html %}">More in <span class="u__sr-only">Demolition Alert</span><span aria-hidden="true">#DemolitionAlert</span></a>{% endif %}</h2>
     <div class="u__vertical__pb">
       <ul id="js__stackpanel" class="taxonomy--stack property-card__cols u__list__unstyled" role="list">
     {% for item in demoalert limit:demo_display %}
@@ -92,7 +79,7 @@ sitemap:
     {% endfor %}
       </ul>
       <div class="taxonomy--stack__controller" aria-hidden="hide">
-        <label for="o__text__sans--bold stack__range">Side-scroll/swipe the Cards</label>
+        <label for="o__text__sans--bold stack__range">Scroll/swipe the Cards</label>
         {% assign demo_display_minus = demo_display | minus: 1 %}
         <div class="taxonomy--stack__range">
           <input type="range" id="stack__range" min="0" max="100" step="{{ 100 | divided_by: demo_display_minus }}" value="0" />
@@ -185,11 +172,15 @@ sitemap:
     </ul>
 
   {%- comment -%}
-    Output What Are They Building
+    Render What Are They Building
   {%- endcomment -%}
   <h2 class="o__title--sm v-rhythm">#WhatAreTheyBuilding: Under Construction</h2>
   <ul class="taxonomy__list taxonomy__grid taxonomy__grid--3 u__list__unstyled u__vertical__pb" role="list">
-    {{ construct_html }}
+  {%- for item in construction limit:3 -%}
+    <li class="taxonomy__item">
+      {% include property-card.html %}
+    </li>
+  {%- endfor -%}
   </ul>
   <p class="u__vertical__pb"><span class="o__title--sm">Also!</span> <a href="{% link proposals.md %}">The list of new building proposals</a> we are keeping an eye on.</p>
   </div>
