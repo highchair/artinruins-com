@@ -42,6 +42,8 @@ The building would be constructed over a parking garage with 248 spaces. There i
 
 Full story and renderings at the Providence Journal, “[This new condo high rise could go up in downtown Providence. Here’s everything to know.](//www.providencejournal.com/story/news/local/2024/05/15/new-high-rise-condo-building-could-go-up-on-atwells-avenue-in-providence/73684128007/)”
 
+Interestingly, this proposal mirrors some of the same ideas for a massive tower project dubbed [The Power Block]({% link _property/power-block.md %}) that was never built on a lot next door.
+
 
 ### No SMART Hotel but Demolition Anyway?
 
