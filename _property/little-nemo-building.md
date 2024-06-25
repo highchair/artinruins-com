@@ -25,6 +25,8 @@ address: '222 Richmond St, Providence RI'
 latitude: '41.8188907'
 longitude: '-71.4096165'
 gmap: "https://www.google.com/maps/place/Brown+University+Medical+Education+Bldg,+222+Richmond+St,+Providence,+RI+02903/@41.8188907,-71.4096165,334m/data=!3m1!1e3!4m5!3m4!1s0x89e4456ad2817533:0xbc2f8408c61d0c0b!8m2!3d41.8188907!4d-71.4085222"
+street: [ 'Richmond St' ]
+street-number: 222
 
 meta: ""
 excerpt: "This former jewelry manufacturing building was converted to office use in the late 1970s and is now the Brown Medical School"

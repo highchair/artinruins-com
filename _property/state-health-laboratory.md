@@ -24,7 +24,7 @@ latitude: '41.819713'
 longitude: '-71.4106972'
 gmap: "https://www.google.com/maps/place/41%C2%B049'11.0%22N+71%C2%B024'35.7%22W/@41.819713,-71.4106972,213m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d41.819713!4d-71.409902?entry=ttu"
 street: [ 'Richmond St' ]
-street-number:
+street-number: 150
 
 meta: ""
 excerpt: "A brand-new Level 3 health laboratory will upgrade the state's health crisis reponse and research capabilities"

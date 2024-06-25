@@ -20,6 +20,8 @@ address: '35 Richmond Street, Providence RI'
 latitude: '41.820566'
 longitude: '-71.4143006'
 gmap: "https://www.google.com/maps/place/35+Richmond+St,+Providence,+RI+02903/@41.820566,-71.4143006,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44514a0a8f359:0xad5e4082c6bc45aa!8m2!3d41.820566!4d-71.4121119"
+street: [ 'Richmond St' ]
+street-number: 35
 
 NRHP-ref-number: '1140613 (contributing)'
 added-to-NRHP: 'October 2007'

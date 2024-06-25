@@ -26,6 +26,8 @@ address: '112 Point St, Providence RI'
 latitude: '41.8162411'
 longitude: '-71.4085714'
 gmap: "https://www.google.com/maps/place/112+Point+St,+Providence,+RI+02903/@41.8162411,-71.4085714,18z/data=!4m5!3m4!1s0x89e4456a6759bc79:0xbeb7f2940cd1104c!8m2!3d41.8162411!4d-71.4074717"
+street: [ 'Richmond St' ]
+street-number: 403
 
 meta: ""
 excerpt: "An aging complex of four buildings, three more than 150 years old, that once housed the largest stove manufacturer in New England"

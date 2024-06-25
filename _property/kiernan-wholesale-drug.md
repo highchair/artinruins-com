@@ -23,6 +23,8 @@ address: '3 Ship Street, Providence RI'
 latitude: '41.8192853'
 longitude: '-71.4111365'
 gmap: "https://www.google.com/maps/place/3+Ship+St,+Providence,+RI+02903/@41.8192853,-71.4111365,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44515951e1d83:0x9fc99c28813f096f!8m2!3d41.8192853!4d-71.4089478"
+street: [ 'Richmond St' ]
+street-number: 200
 
 meta: ""
 excerpt: "This handsome trapezoidal mill building with chamfered corner in the Jewelry District was converted to lofts in 2004."
