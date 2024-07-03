@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: sutton-motor-in
+  person: 'Gary Sloan'
+  date: '2024-06-30'
+  content: 'When I went to explore and hopefully find souvenirs, my fiancé and I looked at everything, I even took some things home like a projector oil can and some speaker parts but little did I know when we got home that evening I brought home a few friends with me! Ticks! One was on my chest and the other on my back. Luckily I got them off in time! Still was fun to go and sad to hear it’s gone!😢'
+
 - property: quonset-point-naval-base
   person: 'Glenn Shirer'
   date: '2024-06-23'
