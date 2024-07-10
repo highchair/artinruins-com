@@ -17,8 +17,8 @@
 //  </li>
 
 // This file is stand-alone so any variables need to be redefined or declared
-@import '_sass/1_tools/_functions.scss';
-@import '_sass/2_settings/_breakpoints.scss';
+@import '../_sass/1_tools/_functions.scss';
+@import '../_sass/2_settings/_breakpoints.scss';
 
 $white: #fff;
 $line-height__base: 1.5;
