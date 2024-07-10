@@ -67,8 +67,8 @@
       }
       
       &:nth-child(2) {
-        padding-right: ($gutter-max / 2 * 1rem);
-        padding-left: ($gutter-max / 2 * 1rem);
+        padding-right: ($gutter-max * 0.5rem);
+        padding-left: ($gutter-max * 0.5rem);
       }
       
       &:last-child {

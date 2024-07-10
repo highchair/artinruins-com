@@ -17,6 +17,7 @@
 // Components – specific UI components. This is where the majority of our work takes place and our components are often composed of Objects
 // Utilities – utilities and helper classes with ability to override anything which goes before in the triangle, eg. hide helper class
 
+@use "sass:math";
 
 // Our functions and helpers
 @import '1_tools/index';

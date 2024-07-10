@@ -49,8 +49,8 @@
 
   /*figure*/&__dote {
     border-bottom: 0.5px solid $color__borders;
-    margin-bottom: ($vertical-rhythm/2);
-    padding: 0 0 ($vertical-rhythm/2) 1.5em;
+    margin-bottom: ($vertical-rhythm * 0.5);
+    padding: 0 0 ($vertical-rhythm * 0.5) 1.5em;
 
     /*blockquote*/&__content {
       @include clearfix;

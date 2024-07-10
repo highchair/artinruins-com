@@ -13,8 +13,8 @@ $gutter-max: 4;
 $vertical-min: 2;
 $vertical-max: 4;
 
-$spacing__min-vw: (bp(small)/16);
-$spacing__max-vw: (bp(x-large)/16);
+$spacing__min-vw: math.div(bp(small), 16);
+$spacing__max-vw: math.div(bp(x-large), 16);
 
 // Borders that change size
 $border-design__base: 3px;

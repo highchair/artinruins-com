@@ -66,8 +66,8 @@ $text-logo-height: 50px;
     &__logo {
       //background-image: url('../img/artinruins-fulltext.svg');
       background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='utf-8'%3F%3E%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' x='0' y='0' viewBox='0 0 235 49' xml:space='preserve'%3E%3Cpath fill='%23ffdf99' d='M26.2 45.7V49h-9.8V29.4H9.8v16.3h3.3V49H0v-3.3h3.3V4.9C3.3 2.3 5.5 0 8.2 0H18c2.7 0 4.9 2.3 4.9 4.9v40.8h3.3zm-9.8-19.6V3.3H9.8v22.8h6.6zM29.4 45.7h3.3V16.3h-3.3v-3.2H36v5.7l5.7-5.7h4.1v6.5h-6.6v26.1h3.3V49H29.4v-3.3zM49 16.3v-1.6l6.6-6.5V3.3h3.2v9.8h4.9v3.2h-4.9v29.4h4.9V49h-6.5c-2.7 0-4.9-2.3-4.9-4.9V21.2l4.9-4.9H49zM67 45.7h3.3V3.3H67V0h13.1v3.3h-3.3v42.4h3.3V49H67v-3.3zM109.5 45.7V49h-9.8V17.6l-6.6 6.6v21.5h3.3V49H83.3v-3.3h3.3V16.3h-3.3v-3.2h9.8v6.6l6.6-6.6h6.5v32.6h3.3zM135.6 4.9v13.9c0 4.4-3.6 8-8.2 8.2 4.6.1 8.2 3.8 8.2 8.2v10.6h3.3V49h-9.8V32.7c0-2.2-1.9-4.1-4.1-4.1h-2.4v17.2h3.3V49h-13.1v-3.3h3.3V3.3h-3.3V0h18c2.6 0 4.8 2.3 4.8 4.9zm-10.7 20.4c2.2 0 4.1-1.9 4.1-4.1V3.3h-6.6v22.1h2.5zM141.2 16.3v-3.2h9.8v31.4l6.6-6.6V16.3h-3.3v-3.2h9.8v32.6h3.3V49h-9.8v-6.5L151 49h-6.5V16.3h-3.3zM170.6 16.3v-3.2h9.8v32.6h3.3V49h-13.1v-3.3h3.3V16.3h-3.3zm10.3-12.7c0 2.1-1.6 3.7-3.6 3.7s-3.7-1.6-3.7-3.7c0-2 1.7-3.6 3.7-3.6s3.6 1.6 3.6 3.6zM213.1 45.7V49h-9.8V17.6l-6.6 6.6v21.5h3.3V49h-13.1v-3.3h3.3V16.3h-3.3v-3.2h9.8v6.6l6.6-6.6h6.5v32.6h3.3zM227 33.5h-4.9c-2.7 0-4.9-2.2-4.9-4.9V18c0-2.7 2.2-4.9 4.9-4.9h8.2c2.7 0 4.9 2.2 4.9 4.9v4.9h-3.3V18c0-.8-.7-1.7-1.6-1.7h-6.6v9c0 .8.8 1.6 1.7 1.6h4.9c2.7 0 4.9 2.3 4.9 4.9v12.3c0 2.6-2.2 4.9-4.9 4.9h-8.2c-2.7 0-4.9-2.3-4.9-4.9v-4.9h3.3v4.9c0 .8.7 1.6 1.6 1.6h6.5V35.1c0-.8-.7-1.6-1.6-1.6z'/%3E%3C/svg%3E");
-      height: ($text-logo-height / 2);
-      width: ($text-logo-width / 2);
+      height: ($text-logo-height * 0.5);
+      width: ($text-logo-width * 0.5);
     }
   }
 
@@ -79,7 +79,7 @@ $text-logo-height: 50px;
 
     &__logo {
       height: 0;
-      padding-top: ($text-logo-height/$text-logo-width * 100%);
+      padding-top: math.div($text-logo-height, $text-logo-width) * 100%;
       width: rem(210);
     }
 
@@ -134,7 +134,7 @@ header {
       &::-webkit-scrollbar-track { background-color: $scrollbar-bg; }
       &::-webkit-scrollbar-thumb {
         background-color: $scrollbar-fg;
-        border-radius: ($scrollbar-width/2);
+        border-radius: ($scrollbar-width * 0.5);
         border: 2px solid $scrollbar-bg; // "pushes" the edge of the thumb away from the edge of the track
       }
     }
@@ -148,7 +148,7 @@ header {
 
       a {
         color: palette('brand-orange');
-        padding: $nav-v-padding ($nav-h-padding/2);
+        padding: $nav-v-padding ($nav-h-padding * 0.5);
         white-space: nowrap;
 
         @include hover-focus {
@@ -181,7 +181,7 @@ header {
 
       // Media queries for the entire block
       @include breakpoint-up(small) {
-        padding: 0 ($nav-h-padding/2);
+        padding: 0 ($nav-h-padding * 0.5);
       }
     } // end ul
 
@@ -192,7 +192,7 @@ header {
 
       & > ul {
         padding: 0.75rem 0 0;
-        margin-left: - ($nav-h-padding/2);
+        margin-left: - ($nav-h-padding * 0.5);
       }
     }
   } // end nav

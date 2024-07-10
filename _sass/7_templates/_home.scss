@@ -19,8 +19,8 @@
 
   .anec__list__item {
     border-bottom: 0.5px solid palette('gray-200');
-    margin-bottom: ($vertical-rhythm/2);
-    padding: 0 0 ($vertical-rhythm/2) 0;
+    margin-bottom: ($vertical-rhythm * 0.5);
+    padding: 0 0 ($vertical-rhythm * 0.5) 0;
   }
 
   .anec__dote {

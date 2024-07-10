@@ -1,6 +1,6 @@
-$base-min: (16 / 16);
-$base-max: (18 / 16);
-$base-sm: (14 / 16);
+$base-min: math.div(16, 16);
+$base-max: math.div(18, 16);
+$base-sm: math.div(14, 16);
 
 :root {
   
@@ -13,8 +13,8 @@ $base-sm: (14 / 16);
 }
 
 // Fallback variables for Sass
-$h6-min: (17 / 16);
-$h6-max: (19 / 16);
+$h6-min: math.div(17, 16);
+$h6-max: math.div(19, 16);
 
 h6,
 .h6 {
@@ -22,8 +22,8 @@ h6,
   --fs__max: #{$h6-max};
 }
 
-$h5-min: (18 / 16);
-$h5-max: (21 / 16);
+$h5-min: math.div(18, 16);
+$h5-max: math.div(21, 16);
 
 h5,
 .h5 {
@@ -31,8 +31,8 @@ h5,
   --fs__max: #{$h5-max};
 }
 
-$h4-min: (20 / 16);
-$h4-max: (24 / 16);
+$h4-min: math.div(20, 16);
+$h4-max: math.div(24, 16);
 
 h4,
 .h4 {
@@ -40,8 +40,8 @@ h4,
   --fs__max: #{$h4-max};
 }
 
-$h3-min: (23 / 16);
-$h3-max: (29 / 16);
+$h3-min: math.div(23, 16);
+$h3-max: math.div(29, 16);
 
 h3,
 .h3 {
@@ -49,8 +49,8 @@ h3,
   --fs__max: #{$h3-max};
 }
 
-$h2-min: (28 / 16);
-$h2-max: (37 / 16);
+$h2-min: math.div(28, 16);
+$h2-max: math.div(37, 16);
 
 h2,
 .h2,
@@ -59,8 +59,8 @@ h2,
   --fs__max: #{$h2-max};
 }
 
-$h1-min: (36 / 16);
-$h1-max: (50 / 16);
+$h1-min: math.div(36, 16);
+$h1-max: math.div(50, 16);
 
 h1,
 .h1 {

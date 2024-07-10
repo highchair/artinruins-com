@@ -11,6 +11,6 @@
     @extend .o__title--sm;
     content: 'Footnotes';
     display: inline-block;
-    padding-bottom: ($vertical-rhythm/2);
+    padding-bottom: ($vertical-rhythm * 0.5);
   }
 }

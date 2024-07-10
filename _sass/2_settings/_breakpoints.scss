@@ -53,8 +53,8 @@ $breakpoints: (
 
 // For responsive typography
 // Declare a minimum and maximum viewport size for fluidity to happen within
-$min-vw: (bp('base') / 16);
-$max-vw: (bp('x-large') / 16);
+$min-vw: math.div(bp('base'), 16);
+$max-vw: math.div(bp('x-large'), 16);
 
 
 // Maximum widths

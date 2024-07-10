@@ -19,7 +19,7 @@
   }
 
   &__list {
-    padding: ($vertical-rhythm/2) 0;
+    padding: ($vertical-rhythm * 0.5) 0;
 
     li {
       border-bottom: 2px dotted palette('brand-orange');

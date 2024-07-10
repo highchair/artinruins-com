@@ -58,7 +58,7 @@
   }
   width: 100%;
   height: 0;
-  padding-bottom: percentage(nth($ratio, 2) / nth($ratio, 1));
+  padding-bottom: percentage( math.div(nth($ratio, 2), nth($ratio, 1)) );
 }
 
 /// proportional-container() =
