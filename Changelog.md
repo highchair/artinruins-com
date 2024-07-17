@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2024-07-15
+
+Added
++ Removed Sass math using the `/` division operator, which is deprecated ion DartSass. Moved to `@use "sass:math";` declarations instead and used to the `math.div()` function in Sass math operations when multiplying by a decimal was too difficult. In some cases, the Sass changed from `$variable / 2` to `$variable * 0.5`.
+
 ## 2024-06-16
 
 Removed
