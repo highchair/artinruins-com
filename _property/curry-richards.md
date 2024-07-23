@@ -61,10 +61,12 @@ images:
   - url: curry-richards-saccoccio-02.jpg
     caption: 'From the Saccoccio & Associates website, date unknown'
     sizes: '750, 1000'
+  - url: curry-richards-jh-2024-07-01.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Recent photo contributions from Saccoccio & Associates'
 
-mostrecentimage: 2006-06-01
+mostrecentimage: 2024-07-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'

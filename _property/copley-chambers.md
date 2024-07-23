@@ -71,8 +71,10 @@ images:
     sizes: '1350, 900'
   - url: copley-chambers-jh-2023-09-05.jpg
     sizes: '1440, 900'
+  - url: copley-hotel-jh-2024-07-01.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2023-09-01
+mostrecentimage: 2024-07-01
 
 imagescredit:
 
