@@ -1,6 +1,16 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: phenix-mill
+  person: 'Ashton R.'
+  date: '2024-07-16'
+  content: 'The fire was started by a teenager who was sneaking around playing around with something that caused a small fire to start. The fire got out of control due to the building’s weakness and age, but the kid who started the fire had apparently also started another mill fire as well. The kid who started some of these mill fires was apparently NOT arrested, so I’m here to say it was not a purposeful blaze!'
+
+- property: providence-fruit-produce
+  person: 'Eli palm'
+  date: '2024-07-12'
+  content: 'I spent alot of time here with my brothers playing on stacks of pallets while my dad drove around selling fish out the trunk of his caddy. R.I. Fish moved from fish co on the water to here, i wish the building was still here i have alot of memories'
+
 - property: brook-st-garage
   person: 'Renee'
   date: '2024-07-09'
@@ -35,6 +45,11 @@
   person: 'Shelley Resnick'
   date: '2024-05-24'
   content: 'I was married at the Chapel in the Pines on this Navy Base 2/26/66! My husband designed the chapel on an earlier deployment there, little knowing he’d marry his wife of 57 years in that Chapel! He died 3/6/22 of Melanoma Cancer. He was a Career Navy Officer of the Civil Engineer Corps!'
+
+- property: columbia-building-pvd
+  person: 'Nicholas Platzer'
+  date: '2024-05-19'
+  content: 'Any idea what the ghost sign says?'
 
 - property: fletcher-manufacturing
   person: 'Louise Lynch'
