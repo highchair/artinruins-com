@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{% assign anecdotes = site.data.anecdotes | where: 'essay', page.slug %}
+{% assign anecdotes = anecdotes | orderby: "date" %}
+
 {%- assign essaythumb = '' -%}
 {%- if page.thumbnail -%}
   {%- assign essaythumb = page.thumbnail | prepend: 'essays/' | prepend: site.propimg_path | prepend: site.prod_url -%}
@@ -67,3 +70,51 @@ layout: default
     <div class="essay__backtotop"><a href="#content"><span class="u__sr-only">Back to </span> Top</a></div>
   </article>
 </main>
+
+<aside id="anecdotes" class="anec" aria-label="Anecdotes">
+  {%- if anecdotes.size > 0 -%}
+  <div class="u__vertical__p u__gutter__p">
+    <h2 class="o__title--sm anec__title"><span role="text">{{ anecdotes.size }} Anecdote{% if anecdotes.size > 1 %}s{% endif %} <span class="u__sr-only">from people like you</span></span></h2>
+    <ul class="u__list__unstyled anec__list" role="list">
+    {%- for anecdote in anecdotes -%}
+      <li id="{{ anecdote.date | date: "%Y-%m-%d" }}" class="anec__list__item">
+        <figure class="anec__dote">
+          <blockquote class="anec__dote__content">
+            {{ anecdote.content | markdownify }}
+          </blockquote>
+          <figcaption class="anec__dote__meta">
+            <cite>{{ anecdote.person }}</cite> <time datetime="{{ anecdote.date | date: "%Y-%m-%d" }}">{{ anecdote.date | date: "%B %e, %Y" }}</time>
+          </figcaption>
+        </figure>
+      </li>
+    {%- endfor -%}
+    </ul>
+  </div>
+  {%- endif -%}
+
+  {%- if mentions.size > 0 -%}
+  <div class="item__mention u__vertical__pb u__gutter__p">
+    <h2 class="o__title--sm anec__title">Mentions & reactions from around the web</h2>
+    <ol class="item__mention__list" role="list">
+      {%- for mention in mentions -%}
+      <li class="item__mention__item">
+        <a class="item__mention__source" rel="nofollow ugc" href="{{ mention.source }}"><span class="item__mention__author">{{ mention.author }}</span></a> 
+        {{ mention.verb }} this essay{% if mention.date %} on <time datetime="{{ mention.date | date: "%Y-%m-%d" }}">{{ mention.date | date: "%e %B, %Y" }}</time>{% endif %}
+      </li>
+      {%- endfor -%}
+    </ol>
+  </div>
+  {%- endif -%}
+
+  <section id="add-your-anecdote" class="u__vertical__p u__gutter__p rhythm anec__form__wrapper">
+    <h2 class="anec__form__title">Leave an Anecdote</h2>
+    <p>The information about each building grows as visitors let us know about their experiences. Did you or a member of your family work here? Did you grow up near it as a child? Let us know. All entries will be moderated and may be posted in an edited form. We will use your name unless you tell us otherwise. <i>We will not make your email public</i>.</p>
+    <form id="anecdote-form" name="anecform" method="POST" action="/assets/partials/mailer.php" class="form anec__form">
+      <input type="hidden" id="essay" name="essay" value="{{ page.slug }}">
+      <div id="js__insert-form">
+        <button id="js__load-form" type="button" class="btn btn--primary">Load the Anecdote form</button>
+      </div>
+    </form>
+    <a href="#page-top" class="back-to-top">Back to Top</a>
+  </section>
+</aside>
