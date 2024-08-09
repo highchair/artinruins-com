@@ -24,7 +24,8 @@ only the assets that have changed. The `JEKYLL_ENV` variable is assumed to be
 $ jekyll serve --I
 ```
 
-Builds into the Stage folder: `_stage`.
+Builds into the Stage folder: `_stage`. When using the non-incremental build with `jekyll serve`, the first build will need
+time to create ALL of the site thumbnails (two for every property on the site, currently almost 400 properties).
 
 In a browser, open [http://127.0.0.1:4090/](http://127.0.0.1:4090/)
 
