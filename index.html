@@ -3,6 +3,7 @@ layout: home
 type: page
 permalink: /
 title: "Unique places have special stories"
+meta: "Welcome to ArtInRuins: Documenting Change since 2002"
 body-class: home
 sitemap:
   priority: 0.9
@@ -46,6 +47,7 @@ sitemap:
   <div class="u__max-width--container">
     {%- comment -%}
       Screen reader navigation
+      TO DO: Make these buttons visible when focused
     {%- endcomment -%}
     <ul class="u__sr-only" role="navigation" aria-label="Skip to sections of this page">
       {% if demoalert.size > 0 %}
@@ -82,6 +84,7 @@ sitemap:
         <label for="o__text__sans--bold stack__range">Scroll/swipe the Cards</label>
         {% assign demo_display_minus = demo_display | minus: 1 %}
         <div class="taxonomy--stack__range">
+          {% comment %} Make this element visually focusable {% endcomment %}
           <input type="range" id="stack__range" min="0" max="100" step="{{ 100 | divided_by: demo_display_minus }}" value="0" />
           <div class="taxonomy--stack__ticks">
             {% for item in demoalert limit:4 %}
