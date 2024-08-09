@@ -7,7 +7,7 @@ update: 'Added aerial drone images provided by David Lawlor'
 update-image: 209-211-217-angell-dl-2023-12-02.jpg
 
 built: '1854–1895'
-demolition:
+demolition: '2003–2004'
 redeveloped:
 units:
 decade: '1850-1859'
@@ -18,7 +18,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
-tags: [ 'House', 'David Lawlor' ]
+tags: [ 'House', 'David Lawlor', 'Demolition by Speculation' ]
 
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
