@@ -14,7 +14,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Never Built', 'Demoliion by Proposal', 'Needs History' ]
+tags: [ 'Never Built', 'Demoliion by Proposal', 'Needs History', 'Still an Empty Lot' ]
 
 address: '177 Union St, Providence RI'
 latitude: '41.8223388'

@@ -14,7 +14,7 @@ neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
-tags: [ 'Demoliion by Neglect' ]
+tags: [ 'Demoliion by Neglect', 'Still an Empty Lot' ]
 
 address: '775 Eddy Street, Providence RI'
 latitude: '41.806659'

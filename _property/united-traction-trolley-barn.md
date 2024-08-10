@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'Cranston, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: [ 'A.I.R.’s Lead Brick List', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'Demolition by Neglect' ]
+tags: [ 'Demolition by Neglect', 'Still an Empty Lot' ]
 
 NRHP-ref-number:
 added-to-NRHP:

@@ -13,7 +13,7 @@ neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Demolition by Neglect', 'Demolition by Fire', 'Former/Current Power Plant' ]
+tags: [ 'Demolition by Neglect', 'Demolition by Fire', 'Former/Current Power Plant', 'Still an Empty Lot' ]
 
 address: '150 Esten Street, Pawtucket RI'
 latitude: '41.8616731'

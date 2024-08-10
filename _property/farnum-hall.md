@@ -16,7 +16,7 @@ neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'College Properties', 'RISD', 'Yellow brick' ]
+tags: [ 'College Properties', 'RISD', 'Still an Empty Lot', 'Yellow brick' ]
 
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'

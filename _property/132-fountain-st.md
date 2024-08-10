@@ -14,7 +14,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Demolition by Proposal' ]
+tags: [ 'Demolition by Proposal', 'Still an Empty Lot' ]
 
 NRHP-ref-number: '84001967 (non-contributing)'
 added-to-NRHP: 'February 10, 1984'

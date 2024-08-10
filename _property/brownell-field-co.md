@@ -14,7 +14,7 @@ neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Frank P. Sheldon & Son' ]
 lists: [ 'PPS Ten Most Endangered', 'Provisions Warehouse District', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
-tags: [ 'Demolition by Neglect' ]
+tags: [ 'Demolition by Neglect', 'Still an Empty Lot' ]
 
 NRHP-ref-number:
 added-to-NRHP:

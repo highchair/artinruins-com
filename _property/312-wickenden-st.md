@@ -18,7 +18,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
-tags: [ 'Demolition by Speculation', 'House' ]
+tags: [ 'Demolition by Speculation', 'House', 'Still an Empty Lot' ]
 
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
