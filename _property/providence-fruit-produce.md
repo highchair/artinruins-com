@@ -13,7 +13,7 @@ neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Jenks and Ballou Architects' ]
 lists: [ 'PPS Ten Most Endangered', 'A.I.R.’s Lead Brick List', 'HABS HAER', 'National Register of Historic Places', 'Provisions Warehouse District', 'RI Historic Resources Archive' ]
-tags: [ 'Concrete', 'Demolition by Neglect' ]
+tags: [ 'Concrete', 'Demolition by Neglect', 'Still an Empty Lot' ]
 
 NRHP-ref-number: '05000583'
 added-to-NRHP: 'June 10, 2005'

@@ -16,7 +16,7 @@ town: [ 'Pawtucket, RI' ]
 designers: [] # Charles E. Kirk
 people: []
 lists: []
-tags: [ 'Demolition by Progress', 'Fire Stations', 'Queen Anne' ]
+tags: [ 'Demolition by Progress', 'Fire Stations', 'Queen Anne', 'Still an Empty Lot' ]
 
 NRHP-ref-number:
 added-to-NRHP:

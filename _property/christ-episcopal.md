@@ -13,7 +13,7 @@ neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son' ]
 lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places' ]
-tags: [ 'Demoliion by Neglect', 'Churches' ]
+tags: [ 'Demoliion by Neglect', 'Churches', 'Still an Empty Lot' ]
 
 NRHP-ref-number: '76000043'
 added-to-NRHP: 'June 30, 1976'

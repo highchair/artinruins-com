@@ -15,7 +15,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Thomas A. Tefft' ]
 lists: [ 'Brussat’s 10 Best Lost Buildings', 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: [ 'Churches', 'Demolition by Fire', 'Providence Public Library Digital Collections', 'The Superlatives' ]
+tags: [ 'Churches', 'Demolition by Fire', 'Providence Public Library Digital Collections', 'Still an Empty Lot', 'The Superlatives' ]
 superlative: 'Built as a church, the building later housed the first private normal school in Providence'
 
 NRHP-ref-number: '84001967 (contributing)'

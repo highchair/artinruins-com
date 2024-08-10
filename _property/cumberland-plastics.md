@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'Massachusetts' ]
 designers: [ 'Designer Unknown' ]
 lists: []
-tags: [ 'Providence Public Library Digital Collections', 'The Superlatives' ]
+tags: [ 'Providence Public Library Digital Collections', 'Still an Empty Lot', 'The Superlatives' ]
 superlative: 'In 1894, this was the first direct investment by a British manufacturer in the United States'
 
 NRHP-ref-number:

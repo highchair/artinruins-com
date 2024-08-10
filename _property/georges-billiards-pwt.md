@@ -18,7 +18,7 @@ town: [ 'Pawtucket, RI' ]
 designers: []
 people: []
 lists: []
-tags: [ 'Yellow Brick' ]
+tags: [ 'Yellow Brick', 'Still an Empty Lot' ]
 
 NRHP-ref-number:
 added-to-NRHP:

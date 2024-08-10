@@ -17,7 +17,7 @@ town: [ 'Providence, RI' ]
 designers: []
 people: []
 lists: []
-tags: [ 'House']
+tags: [ 'House', 'Still an Empty Lot' ]
 
 address: '86–90 Plainfield St, Providence RI'
 latitude: '41.815917'

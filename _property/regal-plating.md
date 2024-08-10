@@ -14,7 +14,7 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: []
 lists: []
-tags: [ 'Demolition by Speculation', 'Needs History' ]
+tags: [ 'Demolition by Speculation', 'Needs History', 'Still an Empty Lot' ]
 
 address: '85 South Street, Providence RI'
 latitude: '41.817162'

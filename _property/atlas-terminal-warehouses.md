@@ -13,7 +13,7 @@ neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Warren and Gerrish' ]
 lists: [ 'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
-tags: [ 'Demolition by Neglect', 'Ghost Signs' ]
+tags: [ 'Demolition by Neglect', 'Ghost Signs', 'Still an Empty Lot' ]
 
 NRHP-ref-number:
 added-to-NRHP:

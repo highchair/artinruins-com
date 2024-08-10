@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [] # Gage & Martinson
 lists: [ 'PPS Ten Most Endangered' ]
-tags: [ 'Concrete', 'Demolition by Progress' ]
+tags: [ 'Concrete', 'Demolition by Progress', 'Still an Empty Lot' ]
 
 address: '100 Pine St, Providence RI'
 latitude: '41.8221311'

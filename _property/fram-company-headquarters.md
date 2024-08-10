@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'East Providence, RI' ]
 designers: [ 'Benjamin Thompson', 'Walter Gropius' ]
 lists: []
-tags: [ 'Demolition by Neglect', 'Mid-century Modern' ]
+tags: [ 'Demolition by Neglect', 'Mid-century Modern', 'Still an Empty Lot' ]
 
 NRHP-ref-number:
 added-to-NRHP:
