@@ -2,7 +2,7 @@
 title: "Rufus Waterman House, Waterman Street"
 slug: rufus-waterman-house-pvd
 aka:
-date-modified: 2023-09-28 12:00
+date-modified: 2024-08-28 13:00
 
 built: '1877'
 demolition:
@@ -52,8 +52,10 @@ images:
     sizes: '740, 1036'
   - url: 108-110-waterman-jh-2023-10-02.jpg
     sizes: '1200, 900'
+  - url: 108-110-waterman-jh-2024-08-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2023-10-01
+mostrecentimage: 2024-08-01
 
 imagescredit: 'Contribution from the <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>'
 

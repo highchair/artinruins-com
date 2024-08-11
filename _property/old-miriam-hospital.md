@@ -2,9 +2,9 @@
 title: "Frances M. Andrews Houses"
 slug: old-miriam-hospital
 aka: 'Miriam Hospital, Park View Nursing Home, Park View Apartments'
-date-modified: 2022-11-19 13:00
-update: 'Added a photo of the slow construction progress'
-update-image: old-miriam-jh-2022-10-01.jpg
+date-modified: 2024-08-10 16:00
+update: 'Added three new photos of the final renovations'
+update-image: old-miriam-jh-2024-07-02.jpg
 
 built: '1878, 1925'
 demolition:
@@ -89,9 +89,14 @@ images:
     sizes: '1440, 900'
   - url: old-miriam-jh-2022-10-01.jpg
     sizes: '1200, 900'
-    
+  - url: old-miriam-jh-2024-07-01.jpg
+    sizes: '1200, 900'
+  - url: old-miriam-jh-2024-07-02.jpg
+    sizes: '1200, 900'
+  - url: old-miriam-jh-2024-07-03.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2022-10-01
+mostrecentimage: 2024-07-01
 
 imagescredit: 'Contributions from the Providence Public Library, <a href="//provlibdigital.org/islandora/object/islandora%3A5193" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> and <a href="//provlibdigital.org/islandora/object/islandora%3A10247" target="_blank">Rhode Island Photograph Collection</a>'
 

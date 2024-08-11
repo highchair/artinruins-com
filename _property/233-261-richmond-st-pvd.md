@@ -2,7 +2,9 @@
 title: "Richmond Street, #233 and 261"
 slug: 233-261-richmond-st-pvd
 aka:
-date-modified: 2024-06-16 12:00
+date-modified: 2024-08-10 18:00
+update: 'Added three more images of the now empty lot from Chestnut Street'
+update-image: from-chestnut-st-jh-2024-07-03.jpg
 
 built: '1950, 1970'
 demolition: '2024'
@@ -10,7 +12,7 @@ redeveloped:
 units:
 decade: '1950-1959'
 date-added: '2024'
-categories: [ '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: []
@@ -71,8 +73,17 @@ images:
   - url: 233-richmond-jh-2024-06-03.jpg
     caption: 'High perspective view of 233 Richmond'
     sizes: '1600, 900'
+  - url: from-chestnut-st-jh-2024-07-01.jpg
+    caption: 'View looking northeast from Chestnut Street, with 233 Richmond razed to the ground'
+    sizes: '1440, 900'
+  - url: from-chestnut-st-jh-2024-07-02.jpg
+    caption: 'View looking north from Chestnut Street'
+    sizes: '1440, 900'
+  - url: from-chestnut-st-jh-2024-07-03.jpg
+    caption: 'View looking northwest from Chestnut Street'
+    sizes: '1200, 900'
 
-mostrecentimage: 2024-06-01
+mostrecentimage: 2024-07-01
 
 imagescredit:
 
