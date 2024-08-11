@@ -2,9 +2,9 @@
 title: "East Side Train Tunnel"
 slug: east-side-train-tunnel
 aka: 
-date-modified: 2023-09-01 12:00
-update: 'Added a photo of the Fox Point Trolley Station with a transcription of the inscription'
-update-image: es-train-tunnel-ppl-fox-point-station.jpg
+date-modified: 2024-08-10 15:00
+update: 'Added photos of the Gano Stret entrance'
+update-image: es-train-tunnel-jh-2024-06-01.jpg
 
 built: '1906–1908'
 demolition: '1983'
@@ -100,8 +100,13 @@ images:
   - url: es-train-tunnel-jh-2020.jpg
     caption: 'The Benefit Street (west) entrance, clad in a steel door'
     sizes: '1440, 900'
+  - url: es-train-tunnel-jh-2024-06-01.jpg
+    caption: 'The closed up (east) entrance under Gano Street'
+    sizes: '1200, 900'
+  - url: es-train-tunnel-jh-2024-06-02.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2020-10-01
+mostrecentimage: 2024-08-01
 
 imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A043-03" target="_blank">Providence Public Library Digital Collection</a> (<a href="https://provlibdigital.org/islandora/object/islandora%3A46" target="_blank">Avery Lord aerial</a>, Edward Ozog Photograph Collection), Leo King, Providence Historical Aerial Viewer, and <a href="https://www.loc.gov/pictures/item/ri0396/" target="_blank">Library of Congress</a> HABS/HAER photographer William E. Barrett'
 ---

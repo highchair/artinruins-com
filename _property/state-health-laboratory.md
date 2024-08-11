@@ -2,7 +2,7 @@
 title: "Rhode Island State Laboratories"
 slug: state-health-laboratory
 aka: 'THe PVD Labs'
-date-modified: 2024-06-09 12:00
+date-modified: 2024-08-10 17:00
 
 built: '2023-2025'
 parcel: '3 of 25'
@@ -51,8 +51,12 @@ images:
     sizes: '1440, 900'
   - url: health-lab-jh-2024-06-02.jpg
     sizes: '1200, 900'
+  - url: health-lab-jh-2024-07-01.jpg
+    sizes: '1200, 900'
+  - url: health-lab-jh-2024-07-02.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2024-06-01
+mostrecentimage: 2024-07-01
 
 imagescredit: 'Rendering by HOK Architecture'
 

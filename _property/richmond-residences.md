@@ -2,7 +2,7 @@
 title: "Richmond Residences"
 slug: richmond-residences
 aka:
-date-modified: 2024-05-19 12:00
+date-modified: 2024-08-10 17:00
 
 built: '2024'
 demolition:
@@ -47,8 +47,14 @@ images:
     sizes: '1440, 900'
   - url: richmond-addition-jh-2024-04-06.jpg
     sizes: '1440, 900'
+  - url: richmond-addition-jh-2024-07-01.jpg
+    sizes: '1440, 900'
+  - url: richmond-addition-jh-2024-07-02.jpg
+    sizes: '1200, 900'
+  - url: richmond-addition-jh-2024-07-03.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2024-04-01
+mostrecentimage: 2024-07-01
 
 imagescredit:
 

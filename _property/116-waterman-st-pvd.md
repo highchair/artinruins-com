@@ -2,7 +2,7 @@
 title: "Waterman Street, #116"
 slug: 116-waterman-st-pvd
 aka:
-date-modified: 2024-05-21 12:00
+date-modified: 2024-08-10 12:00
 
 built: '2023–2024'
 demolition:
@@ -32,7 +32,7 @@ thumbnail: 116-waterman-jh-2024-05-02.jpg
 
 images:
   - url: 116-waterman-rendering.jpg
-    alt: 'Construction photos for a large, blocky apartment building clad in sections of dark panelling and dark stone. The building has a flat roof and straight, flat edges.'
+    alt: 'Construction photos for a large, blocky apartment building clad in sections of dark panelling and dark stone. The building has a flat roof and straight, flat edges. It is five stories tall with many small terraces on two of the four sides.'
     caption: 'Rendering provided to Design Review Committee documents from Aharonian & Associates, Inc, Architects'
     sizes: '1200, 900'
   - url: 116-waterman-jh-2023-09-01.jpg
@@ -58,6 +58,14 @@ images:
   - url: 116-waterman-jh-2024-05-01.jpg
     sizes: '1200, 900'
   - url: 116-waterman-jh-2024-05-02.jpg
+    sizes: '1200, 900'
+  - url: 116-waterman-jh-2024-07-01.jpg
+    sizes: '1440, 900'
+  - url: 116-waterman-jh-2024-08-01.jpg
+    sizes: '1200, 900'
+  - url: 116-waterman-jh-2024-08-02.jpg
+    sizes: '1200, 900'
+  - url: 116-waterman-jh-2024-08-03.jpg
     sizes: '1200, 900'
 
 mostrecentimage: 2024-01-01
@@ -85,7 +93,7 @@ While a new building is all shiny and nice for a period of time, reports of the 
 
 We are not a fan of the “darkitecture” design. It looks cool now, but it feels like it will look very mid-2020’s in a few years. Hindsight does not usually look favorably upon trendy designs such as this.
 
-We are a fan of the density that this brings, and while the City Plan Commission (<span class="abbr">CPC</span>) wants to increase density and will approve almost anything that comes before it, at least it seems to be staying within the bounds of these four blocks. While we lament the loss of the houses in this area, to sacrifice this commercial and dense rental center in favor of keeping other parts of the city single-family focused, we’ll take it.
+We are a fan of the density that this brings, and while the City Plan Commission (<span class="abbr">CPC</span>) wants to increase density and will approve almost anything that comes before it, at least it seems to be staying within the bounds of these four blocks. While we lament the loss of the houses in this area, if to sacrifice this commercial and dense rental center means other parts of the city will remain single-family-home focused, we’ll take it.
 
 
 ### In the News

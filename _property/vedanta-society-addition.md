@@ -2,7 +2,9 @@
 title: "Vedanta Society addition"
 slug: vedanta-society-addition
 aka:
-date-modified: 2020-11-11 12:00
+date-modified: 2024-08-10 14:00
+update: 'Added two more images of the building, one only possible because the three houses to the west have been demolished.'
+update-image: vedanta-jh-2024-08-02.jpg
 
 built: '2010-2012'
 demolition: '2010'
@@ -16,10 +18,12 @@ designers: [ 'KITE Architects', 'TRAC Builders' ]
 lists: []
 tags: [ 'Contemporary' ]
 
-address: '227 Angell Street, Providence RI'
+address: '227 Angell St, Providence RI'
 latitude: '41.8281639'
 longitude: '-71.4005603'
 gmap: "https://www.google.com/maps/place/227+Angell+St,+Providence,+RI+02906/@41.8281639,-71.4005603,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44524e9ffccb9:0x2268c6e80555fcd!8m2!3d41.8281639!4d-71.3983716"
+street: [ 'Angell St' ]
+street-number: 227
 
 meta: ""
 excerpt: "A new addition to a old home (and the demolition of another) on historic Angell St. brings new character and more space to those that want to find their zen"
@@ -28,7 +32,7 @@ thumbnail: vedanta-trac-2012-04-02.jpg
 
 images:
   - url: vedanta-jh-2010-07-01.jpg
-    alt: 'A two-story, rectangular modern addition to a turn-of-the-centory Queen Anne style three-story house. Windows are mostly only on the second floor with a large open interior worship space.'
+    alt: 'A two-story, rectangular modern addition to a turn-of-the-century Queen Anne style three-story house. Windows are mostly only on the second floor with a large open interior worship space.'
     sizes: '1490, 800'
   - url: vedanta-trac-2010-12-01.jpg
     sizes: '1200, 900'
@@ -48,6 +52,14 @@ images:
     sizes: '1200, 900'
   - url: vedanta-trac-2012-04-07.jpg
     sizes: '768, 924'
+  - url: vedanta-jh-2024-08-01.jpg
+    caption: 'Rear view of the new addition after some changes and repairs, western and southern facades'
+    sizes: '1440, 900'
+  - url: vedanta-jh-2024-08-02.jpg
+    caption: 'View of the western facade, looking east. This view is possible now that the three houses to the west have been demolished.'
+    sizes: '1440, 900'
+
+mostrecentimage: 2024-08-01
 
 imagescredit: 'Contributions from TRAC Builders and Warren Jagger'
 ---
@@ -73,6 +85,9 @@ October 15, 2010
 April 2012
 : The new Chapel was complete and open.
 
+September 2022 – June 2024
+: The rear terrace space was expanded and became new interior space for a Lecture Hall, Meditation Hall, additional residences, and expanded shrine. The work was completed by Site Specific.
+
 
 _Paraphrased from KITE Architects website case study about the project:_
 
@@ -85,4 +100,4 @@ KITE’s design for a major addition for the Vedanta Society is creating new wor
 
 ### Design Reception
 
-We think the the new addition is beautiful — the interior spaces are textured and visually interesting while also still being very calm to look at and enjoy. The simple restrained use of color allows the surfaces to be much more active. The exterior is not a house, of course, so its size fits while its function and interior scale stands out. The scale of the windows on the front of the building mimic its neighbors so that visual lines as one looks down the street are not interrupted. All in all, we think it is a very respectful and “zen” new space for Angell Street.
+We think the the new addition is beautiful — the interior spaces are textured and visually interesting while also still being very calm to look at and enjoy. The simple restrained use of color allows the surfaces to be much more active. The exterior is not a house, of course, but its size honors the streetscape while its function and interior stands out. The scale of the windows on the front of the building mimic its neighbors so that visual lines as one looks down the street are not interrupted. All in all, we think it is a very respectful and “zen” new space for Angell Street.
