@@ -3,6 +3,7 @@ title: "Richmond Residences"
 slug: richmond-residences
 aka:
 date-modified: 2024-08-10 17:00
+update: 2024-08-10 17:00
 
 built: '2024'
 demolition:
