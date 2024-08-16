@@ -3,6 +3,7 @@ title: "Rhode Island State Laboratories"
 slug: state-health-laboratory
 aka: 'THe PVD Labs'
 date-modified: 2024-08-10 17:00
+update: 2024-08-10 17:00
 
 built: '2023-2025'
 parcel: '3 of 25'
