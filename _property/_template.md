@@ -3,6 +3,8 @@ title: ""
 slug:
 aka:
 date-modified: 2024-01-01 12:00
+update:
+update-image:
 
 built:
 demolition:

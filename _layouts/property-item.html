@@ -1,40 +1,44 @@
 ---
 layout: default
 ---
-{% assign anecdotes = site.data.anecdotes | where: 'property', page.slug %}
-{% assign anecdotes = anecdotes | orderby: "date" %}
-{% assign mentions = site.data.mentions | where: 'property', page.slug %}
+{%- assign anecdotes = site.data.anecdotes | where: 'property', page.slug -%}
+{%- assign anecdotes = anecdotes | orderby: "date" -%}
+{%- assign mentions = site.data.mentions | where: 'property', page.slug -%}
+{%- assign datemodified = page.date-modified -%}
+{%- if page.update -%}
+  {% assign datemodified = page.update %}
+{%- endif -%}
+{%- comment -%} Store the index of this property out of ALL properties {%- endcomment -%}
+{%- assign properties = site.property | sort: "title" -%}
+{%- for property in properties -%}
+  {% if property.title == page.title %}
+    {% assign item_index = forloop.index %}
+    {% break %}
+  {% endif %}
+{%- endfor -%}
+{%- if item_index -%}
+  {% assign prev_index = item_index | minus: 1 %}
+  {% assign next_index = item_index | plus: 1 %}
+  {% comment %} Loop again, this time, find the items with the prev and next indices {% endcomment %}
+  {% comment %} Can this be done with assign prev = property[prev_index] ?? {% endcomment %}
+  {% for property in properties %}
+    {% if forloop.index == prev_index %}
+      {%- assign prev = property %}
+    {% endif %}
+    {% if forloop.index == next_index %}
+      {% assign next = property %}
+    {% endif %}
+  {% endfor %}
+{%- endif -%}
 
         <nav class="prev-next" aria-label="Property">
-          {%- comment -%} Store the index of this property out of ALL properties {%- endcomment -%}
-          {%- assign properties = site.property | sort: "title" -%}
-          {%- for property in properties -%}
-            {%- if property.title == page.title -%}
-              {%- assign item_index = forloop.index -%}
-              {%- break -%}
-            {%- endif -%}
-          {%- endfor -%}
-          {%- if item_index -%}
-            {%- assign prev_index = item_index | minus: 1 -%}
-            {%- assign next_index = item_index | plus: 1 -%}
-            {%- comment -%} Loop again, this time, find the items with the prev and next indices {%- endcomment -%}
-            {%- comment -%} Can this be done with assign prev = property[prev_index] ?? {%- endcomment -%}
-            {%- for property in properties -%}
-              {%- if forloop.index == prev_index -%}
-                {%- assign prev = property -%}
-              {%- endif -%}
-              {%- if forloop.index == next_index -%}
-                {%- assign next = property -%}
-              {%- endif -%}
-            {%- endfor -%}
-          {%- endif -%}
           {% if prev %}<a id="gtm-prev-trigger" class="prev-next__prev" href="{{ prev.url }}" title="{{ prev.title }}"><span aria-hidden="true">&lt;</span><span class="prev-next__text">Previous</span><span class="u__sr-only"> property</span></a>{% endif %}
           {% if next %}<a id="gtm-next-trigger" class="prev-next__next" href="{{ next.url }}" title="{{ next.title }}"><span class="prev-next__text">Next</span><span class="u__sr-only"> property</span><span aria-hidden="true">&gt;</span></a>{% endif %}
           <span id="js-random"></span>
         </nav>
 
         <nav id="jump-nav" class="jumper jumper--top" aria-label="Page">
-          {% include property-item/jump-menu.html %}
+    {% include property-item/jump-menu.html %}
         </nav>
 
         <main id="content" class="l__content content item" aria-label="Content">
@@ -44,57 +48,57 @@ layout: default
                 <h1 class="content__title item__title u__mb--0">{{ page.title }}</h1>
               </div>
               <div class="u__vertical__pb u__gutter__p">
-                {% if page.aka %}<p class="h6 item__aka">also known as {{ page.aka }}</p>{% endif %}
-                {% if page.excerpt %}<p class="item__excerpt">{{ page.excerpt }}</p>{% endif %}
+                {%- if page.aka -%}<p class="h6 item__aka">also known as {{ page.aka }}</p>{%- endif -%}
+                {%- if page.excerpt -%}<p class="item__excerpt">{{ page.excerpt }}</p>{%- endif -%}
                 {%- if page.categories contains '#DemolitionAlert' -%}
-                  {%- if page.update -%}
+                  {% if page.update %}
                 <div class="demolition-alert">
                   <h2 class="o__title--sm">#DemolitionAlert</h2>
                   <p>{{ page.update }}</p>
                 </div>
-                  {%- endif -%}
+                  {% endif %}
                 {%- endif -%}
               </div>
             </header>
             <div id="gallery" class="item__gallery">
               <h2 class="o__title--sm item__gallery__title u__sr-only">{{ forloop.length }} images of this Property</h2>
             {%- for image in page.images -%}
-              {%- if forloop.first -%}
+              {%-if forloop.first %}
               <ul class="u__list__unstyled u__vertical__p u__gutter__p item__gallery__wrap js-scrolling-panel">
-              {%- endif -%}
-              {%- assign imageslug = image.url | split: '.' -%}
-              {%- assign imagesrc = site.prod_url | append: site.propimg_path | append: page.slug | append: '/' | append: image.url -%}
-              {%- assign imagesrclocal = site.propimg_path | append: page.slug | append: '/' | append: image.url -%}
-              {%- if image.sizes -%}
-                {%- assign imagessizes = image.sizes | split: ',' -%}
-              {%- endif -%}
+              {% endif %}
+              {% assign imageslug = image.url | split: '.' %}
+              {% assign imagesrc = site.prod_url | append: site.propimg_path | append: page.slug | append: '/' | append: image.url %}
+              {% assign imagesrclocal = site.propimg_path | append: page.slug | append: '/' | append: image.url %}
+              {% if image.sizes %}
+                {%- assign imagessizes = image.sizes | split: ',' %}
+              {% endif %}
                 <li id="photo-{{ imageslug[0] }}">
                   <figure class="item__gallery__figure">
                     <a data-fslightbox="air-lightbox" data-type="image" {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} href="{{ imagesrc }}" role="button" aria-label="Larger view of image">
                       <img class="js-lazy" {% if forloop.index > 4 %}data-{% endif %}src="{{ imagesrc }}" alt="{% if image.alt %}{{ image.alt }}{% endif %}" {% if image.sizes %}width="{{ imagessizes[0] | strip }}" height="{{ imagessizes[1] | strip }}"{% else %}{% imagesize imagesrclocal:props %}{% endif %} />
                     </a>
-                    {%- if image.caption -%}
+                    {% if image.caption %}
                     <figcaption class="item__gallery__caption">
                       <cite>{{ image.caption }}</cite>
                     </figcaption>
-                    {%- endif -%}
+                    {% endif %}
                   </figure>
                 </li>
-              {%- if forloop.last -%}
+              {% if forloop.last %}
               </ul>
               <div class="u__gutter__p item__gallery__credits">
                 <p><b>{{ forloop.length }} images:</b> <small>Press to view larger or scroll sideways to see more. {{ page.imagescredit }}</small></p>
-            {%- if page.external.size > 0 -%}
+                {% if page.external.size > 0 %}
                 <p class="item__external"><small>Copyright prevents the display of these images:</small>
-                {%- for external in page.external -%}
-                  {%- unless forloop.first %}, {%- endunless -%}
+                  {% for external in page.external %}
+                    {% unless forloop.first %}, {% endunless %}
                   <a href="{{ external.url }}" target="_blank">{{ external.source }}</a>
-                {%- endfor -%}
+                  {% endfor %}
                 </p>
-          {%- endif -%}
+                {% endif %}
               </div>
-              {%- endif -%}
-            {%- endfor -%}
+              {% endif %}
+            {%- endfor -%}{% comment %} image in page.images {% endcomment %}
             </div>
 {%- comment -%}
   {%- if page.latitude and page.longitude -%}
@@ -198,13 +202,13 @@ layout: default
                     <summary>Citations & Reference URLs</summary>
                     <p><a href="//web.archive.org/save/https://artinruins.com{{ page.url }}" target="_blank" rel="nofollow noreferrer">Create a reference to this current page version with Archive.org</a>
                     </p>
-                    <p><label for="cite"><abbr title="Modern Language Association">MLA</abbr>- and <abbr title="Chicago Manual of Style">CMS</abbr>-style Citation:</label> <input id="cite" type="text" readonly class="form__input form__input--text form__input--readonly" value="ArtInRuins & public sources. “Property: {{ page.title }},” ArtInRuins.com, updated {{ page.date-modified | date: "%B %e, %Y" }}, https://artinruins.com{{ page.url }}. Accessed {{ 'now' | date: '%B %e, %Y' }}." />
+                    <p><label for="cite"><abbr title="Modern Language Association">MLA</abbr>- and <abbr title="Chicago Manual of Style">CMS</abbr>-style Citation:</label> <input id="cite" type="text" readonly class="form__input form__input--text form__input--readonly" value="ArtInRuins & public sources. “Property: {{ page.title }},” ArtInRuins.com, updated {{ datemodified | date: "%B %e, %Y" }}, https://artinruins.com{{ page.url }}. Accessed {{ 'now' | date: '%B %e, %Y' }}." />
                       <span class="form__input--help">Select all and copy citation</span>
                     </p>
                   </details>
                 </li>
               </ul>
-              <p class="item__mod"><strong class="u__text__small u__text__sans u__text__sans--bold u__text__to-upper">Last Date Modified:</strong> {{ page.date-modified | date: "%B %e, %Y" }}</p>
+              <p class="item__mod"><strong class="u__text__small u__text__sans u__text__sans--bold u__text__to-upper">Last Date Modified:</strong> {{ datemodified | date: "%B %e, %Y" }}</p>
             </footer>
             <div id="description" class="item__content rhythm u__vertical__pb u__gutter__p">
               <h2 class="o__title--sm item__content__title">About <span class="u__sr-only">this Property</span></h2>
