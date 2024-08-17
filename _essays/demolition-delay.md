@@ -5,7 +5,7 @@ categories: [ '#Essay' ]
 slug: demolition-delay
 title: "Should Providence Be More Empowered to Delay Demolitions?"
 excerpt: 'A recent spate of demolition and development has people questioning what the City is doing to preserve its historic assets.'
-thumbnail: demolition-delay/demo-delay-cover.jpg
+thumbnail: demolition-delay/demolition-delay-cover.jpg
 date-published: 2024-01-24 #This should never change
 date-modified: 2024-01-24 #This can change if an edit or addition was made
 date-added: '2024'
