@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{%- assign anecdotes = site.data.anecdotes | where: 'essay', page.slug -%}
+{%- assign anecdotes = anecdotes | orderby: "date" -%}
+{%- assign mentions = site.data.mentions | where: 'essay', page.slug -%}
 {%- assign essaythumb = '' -%}
 {%- if page.thumbnail -%}
   {%- assign essaythumb = page.thumbnail | prepend: 'essays/' | prepend: site.propimg_path | prepend: site.prod_url -%}
@@ -28,42 +31,87 @@ layout: default
     <footer class="u__max-width--text u__gutter__p">
       <a href="{% link category/essays.html %}" class="u__text__sans--bold u__color__primary"><span aria-hidden="true">&lt;</span> All Essays</a>
     </footer>
-  {% if page.mentioned.size > 0 %}
-    <aside class="u__gutter__p u__vertical__pt">
-      <div class="u__max-width--container">
-        <h2 class="u__vertical__pb">{{ page.mentioned.size }} Properties mentioned in this Essay</h2>
-        {% assign limit = 6 %}
-        {% assign count = page.mentioned.size %}
-        {%- if count > limit -%}
-          {% assign count = limit %}
+  </article>
+  <aside id="anecdotes" class="u__vertical__pt anec" aria-label="Anecdotes">
+    {% if anecdotes.size > 0 %}
+    <div class="u__vertical__p u__gutter__p">
+      <h2 class="o__title--sm anec__title"><span role="text">{{ anecdotes.size }} Anecdote{% if anecdotes.size > 1 %}s{% endif %} <span class="u__sr-only">from people like you</span></span></h2>
+      <ul class="u__list__unstyled anec__list" role="list">
+      {% for anecdote in anecdotes %}
+        <li id="{{ anecdote.date | date: "%Y-%m-%d" }}" class="anec__list__item">
+          <figure class="anec__dote">
+            <blockquote class="anec__dote__content">
+              {{ anecdote.content | markdownify }}
+            </blockquote>
+            <figcaption class="anec__dote__meta" role="text">
+              <cite>{{ anecdote.person }}</cite> <time datetime="{{ anecdote.date | date: "%Y-%m-%d" }}">{{ anecdote.date | date: "%B %e, %Y" }}</time>
+            </figcaption>
+          </figure>
+        </li>
+      {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    {% if mentions.size > 0 %}
+    <div class="item__mention u__vertical__pb u__gutter__p">
+      <h2 class="o__title--sm anec__title">Mentions & reactions from around the web</h2>
+      <ol class="item__mention__list" role="list">
+        {% for mention in mentions %}
+        <li class="item__mention__item">
+          <a class="item__mention__source" rel="nofollow ugc" href="{{ mention.source }}"><span class="item__mention__author">{{ mention.author }}</span></a> 
+          {{ mention.verb }} this essay{% if mention.date %} on <time datetime="{{ mention.date | date: "%Y-%m-%d" }}">{{ mention.date | date: "%e %B, %Y" }}</time>{% endif %}
+        </li>
+        {% endfor %}
+      </ol>
+    </div>
+    {% endif %}
+    <section id="add-your-anecdote" class="u__vertical__p u__gutter__p rhythm anec__form__wrapper">
+      <h2 id="anec_form_title" class="anec__form__title">Leave an Anecdote</h2>
+      <p>If you have feedback or direct experience with the subject of our essays, we want to hear from you. We choose to publish the anecdotes, observations, or questions that we feel are the most informative to the conversation. <i>We will not make your email public</i>.</p>
+      <form id="anecdote-form" name="anecform" method="POST" action="/assets/partials/mailer.php" class="form anec__form" aria-describedby="anec_form_title">
+        <input type="hidden" id="essay" name="essay" value="{{ page.slug }}">
+        <div id="js__insert-form">
+          <button id="js__load-form" type="button" class="btn btn--primary">Load the Anecdote form</button>
+        </div>
+      </form>
+      <a href="#page-top" class="back-to-top">Back to Top</a>
+    </section>
+  </aside>
+{% if page.mentioned.size > 0 %}
+  <aside id="mentioned_props" class="u__gutter__p u__vertical__pt essay__mentioned">
+    <div class="u__max-width--container">
+      <h2 class="u__vertical__pb">{{ page.mentioned.size }} Properties mentioned in this Essay</h2>
+      {%- assign limit = 6 -%}
+      {%- assign count = page.mentioned.size -%}
+      {%- if count > limit -%}
+        {% assign count = limit %}
+      {%- endif -%}
+      <ul class="taxonomy__list taxonomy__grid taxonomy__grid--vertical--{{ count }} u__list__unstyled u__vertical__pb" role="list">
+      {% for prop in page.mentioned %}
+        {%- assign item = site.property | where: 'slug', prop -%}
+        {%- if item[0].thumbnail -%}
+          {% assign item_image = item[0].thumbnail %}
+        {%- else -%}
+          {% assign item_image = item[0].images.first.url %}
         {%- endif -%}
-        <ul class="taxonomy__list taxonomy__grid taxonomy__grid--vertical--{{ count }} u__list__unstyled u__vertical__pb" role="list">
-        {%- for prop in page.mentioned -%}
-          {% assign item = site.property | where: 'slug', prop %}
-          {% if item[0].thumbnail %}
-            {% assign item_image = item[0].thumbnail %}
-          {% else %}
-            {% assign item_image = item[0].images.first.url %}
-          {% endif %}
-          {% assign image_path = site.propimg_path | replace_first: '/' | append: item[0].slug | append: '/' | append: item_image %}
-          <li class="taxonomy__item">
-            <div class="property-card">
-              <div class="property-card__img-wrap">
-                <img src="{{ site.prod_url }}/{{ image_path }}" class="rwd-img" alt="" loading="lazy" decoding="async" />
-              </div>
-              <div class="property-card__content">
-                <div class="property-card__title-wrap">
-                  <h3 class="h5 property-card__title"><a href="/property/{{ item[0].slug }}" class="property-card__link">{{ item[0].title }}</a></h3>
-                  <p class="property-card__excerpt">{{ item[0].excerpt }}</p>
-                </div>
+        {%- assign image_path = site.propimg_path | replace_first: '/' | append: item[0].slug | append: '/' | append: item_image -%}
+        <li class="taxonomy__item">
+          <div class="property-card">
+            <div class="property-card__img-wrap">
+              <img src="{{ site.prod_url }}/{{ image_path }}" class="rwd-img" alt="" loading="lazy" decoding="async" />
+            </div>
+            <div class="property-card__content">
+              <div class="property-card__title-wrap">
+                <h3 class="h5 property-card__title"><a href="/property/{{ item[0].slug }}" class="property-card__link">{{ item[0].title }}</a></h3>
+                <p class="property-card__excerpt">{{ item[0].excerpt }}</p>
               </div>
             </div>
-          </li>
-        {%- endfor -%}
-        </ul>
-      </div>
-    </aside>
-  {% endif %}
-    <div class="essay__backtotop"><a href="#content"><span class="u__sr-only">Back to </span> Top</a></div>
-  </article>
+          </div>
+        </li>
+      {% endfor %}
+      </ul>
+    </div>
+  </aside>
+{% endif %}
+  <div class="essay__backtotop"><a href="#content"><span class="u__sr-only">Back to </span> Top</a></div>
 </main>

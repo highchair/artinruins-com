@@ -3,6 +3,12 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2024-08-18
+
+Added
++ Within a branch started by Kay, added the ability to comment on and/or mention Essays. On both YML files, instead of `- property:`, we must declare `- essay:` and both loops should work well.
++ Structured the Essay template so there are two `<aside>` elements inside of the `<main>` area. Hopefully this does not break HTML rules; I don’t think that it does.
+
 ## 2024-07-15
 
 Added
