@@ -1,7 +1,11 @@
 {%- assign meta_title = site.title -%}
 {%- assign meta_title_trailer = site.title | prepend: ' | ' -%}
 {%- assign meta_description = site.description -%}
-{%- assign meta_image = "artinruins-social-card.jpg" | prepend: site.image_path | prepend: site.baseurl -%}
+{%- assign meta_image = "artinruins-social-card.jpg" | prepend: site.image_path | prepend: site.baseurl | prepend: '/' -%}
+{%- assign datemodified = page.date-modified -%}
+{%- if page.update -%}
+  {% assign datemodified = page.update %}
+{%- endif -%}
 {%- comment -%}
 
   Page Title, order of importance
@@ -45,48 +49,46 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-17D4B0M6BN"></script>
     <link rel="dns-prefetch" href="https://use.typekit.net">
     <link rel="dns-prefetch" href="https://webmention.io">
-    <link rel="stylesheet" type="text/css" href="/assets/css/main.css?cb=20240523-1917">
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css?cb=20240817-1500">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 12 updated Properties (RSS/Atom)">
     <link href="/anecdotes.xml" type="application/rss+xml" rel="alternate" title="Latest 24 anecdotes (RSS/Atom)">
 
     <title>{{ meta_title }}</title>
-    <meta name="description" content="{{ meta_description | strip_html | truncate: 140 }}">
 
-    <!-- Open Graph Meta Tags -->
-    <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="{{ site.prod_url }}{% unless page.url == '\' %}{{ page.url }}{% endunless %}">
-    <meta property="og:title" content="{{ meta_title }}">
-    <meta property="og:description" content="{{ meta_description | strip_html | truncate: 140 }}">
-    <meta property="og:image" content="{{ site.prod_url }}{{ meta_image }}">
-    {%- if page.categories -%}<meta property="og:article:section" content="{{ page.categories.first | strip_html }}">{%- endif -%}
-    {%- if page.date-modified -%}<meta property="og:article:modified_time" content="{{ page.date-modified }}">{%- endif -%}
-
-    <!-- Twitter Meta Tags -->
+    <!-- Open Graph Meta Tags & Twitter Meta -->
     <meta name="twitter:site" content="@artinruins">
     <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:type" content="website">
     <meta property="twitter:domain" content="artinruins.com">
+    <meta property="og:url" content="{{ site.prod_url }}{% unless page.url == '\' %}{{ page.url }}{% endunless %}">
     <meta property="twitter:url" content="{{ site.prod_url }}{% unless page.url == '\' %}{{ page.url }}{% endunless %}">
+    <meta property="og:title" content="{{ meta_title }}">
     <meta name="twitter:title" content="{{ meta_title }}">
+    <meta name="description" content="{{ meta_description | strip_html | truncate: 140 }}">
+    <meta property="og:description" content="{{ meta_description | strip_html | truncate: 140 }}">
     <meta name="twitter:description" content="{{ meta_description | strip_html | truncate: 140 }}">
-    <meta name="twitter:image" content="{{ site.prod_url }}{{ meta_image }}">
+    <meta property="og:image" content="{{ meta_image }}">
+    <meta name="twitter:image" content="{{ meta_image }}">
+    {% if page.categories %}<meta property="og:article:section" content="{{ page.categories.first | strip_html }}">{% endif %}
+    {% if datemodified %}<meta property="og:article:modified_time" content="{{ datemodified }}">{% endif %}
 
     <!-- Icons and Theme -->
-    <link rel="icon" type="image/png" sizes="any" href="{{ site.prod_url }}assets/favicons/favicon-32x32.png">
-    <link rel="icon" href="{{ site.prod_url }}assets/favicons/favicon.svg" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="{{ site.prod_url }}assets/favicons/apple-touch-icon.png">
-    <link rel="manifest" href="{{ site.prod_url }}assets/favicons/site.webmanifest">
-    <link rel="mask-icon" href="{{ site.prod_url }}assets/favicons/safari-pinned-tab.svg" color="#007070">
-    <meta name="msapplication-config" content="{{ site.prod_url }}assets/favicons/browserconfig.xml">
+    <link rel="icon" type="image/png" sizes="any" href="/assets/favicons/favicon-32x32.png">
+    <link rel="icon" href="/assets/favicons/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/assets/favicons/apple-touch-icon.png">
+    <link rel="manifest" href="/assets/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#007070">
+    <meta name="msapplication-config" content="/assets/favicons/browserconfig.xml">
     <meta name="msapplication-TileColor" content="#007070">
     <meta name="theme-color" content="#007070">
 
     <!-- Webmentions -->
     <link rel="webmention" href="https://webmention.io/artinruins.com/webmention">
     <link rel="pingback" href="https://webmention.io/artinruins.com/xmlrpc">
-    {% comment %}
-      Looking for analytics? JS lazy loads it only when the user opts in
-    {% endcomment %}
+{% comment %}
+  Looking for analytics? JS lazy loads it only when the user opts in
+{% endcomment %}
   </head>

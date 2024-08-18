@@ -37,7 +37,7 @@ sitemap:
 {%- assign demoalert = site.property | where: "categories", "#DemolitionAlert" | sort: "date-modified" | reverse -%}
 {%- assign thennows = site.then-now -%}
 {%- assign essays = site.essays -%}
-{%- comment -%} NOTE: There is no 'not contains' in Jekyll, so here, we declare all the possible categories we want to nmatch {%- endcomment -%}
+{%- comment -%} NOTE: There is no 'not contains' in Jekyll, so here, we declare all the possible categories we want to match {%- endcomment -%}
 {%- assign updated_props = site.property | where_exp: "item", "item.categories contains '#ArchiveRI' or item.categories contains '#NotInRuins' or item.categories contains '#UrbanDecay' or item.categories contains '#UsedToBeThere'" | sort: "date-modified" | reverse -%}
 {%- assign updates = updated_props | concat: thennows | concat: essays | sort: 'date-modified' | reverse -%}
 {%- assign anecdotes = site.data.anecdotes | sort: 'date' | reverse -%}
