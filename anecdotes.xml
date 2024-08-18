@@ -15,17 +15,21 @@
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
     {% for quote in anecdotes limit: 24 %}
+      {{ quote }}
       {%- if forloop.first -%}
     <lastBuildDate>{{ quote.date | date_to_rfc822 }}</lastBuildDate>
       {%- endif -%}
-      {% assign prop = site.property | where: 'slug', quote.property %}
+      {%- assign prop = site.property | where: 'slug', quote.property -%}
+      {%- if prop.size == 0 -%}
+        {%- assign prop = site.essays | where: 'slug', quote.essay -%}
+      {%- endif -%}
       <item>
         <title>{{ prop.first.title | xml_escape }}</title>
         <dc:creator>{{ quote.person | xml_escape }}</dc:creator>
         <description>{{ quote.content | xml_escape }}</description>
         <pubDate>{{ quote.date | date_to_rfc822 }}</pubDate>
-        <link>{{ site.prod_url }}/property/{{ prop.first.slug }}</link>
-        <guid isPermaLink="true">{{ site.prod_url }}/property/{{ prop.first.slug }}</guid>
+        <link>{{ site.prod_url }}{{ prop.first.url }}</link>
+        <guid isPermaLink="true">{{ site.prod_url }}{{ prop.first.url }}</guid>
       </item>
     {% endfor %}
   </channel>
