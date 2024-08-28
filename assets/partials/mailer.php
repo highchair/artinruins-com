@@ -12,7 +12,11 @@ if ( count($_POST) ) {
   $theirname = $_POST['name'];
   $theirweb = htmlspecialchars($_POST['website']); // honeypot
   $anecdote = $_POST['message'];
-  $property = $_POST['property'];
+  if ( $_POST['essay'] ) {
+    $property = $_POST['essay'];
+  } else {
+    $property = $_POST['property'];
+  }
   $timeofinput = $_POST['timestamp'];
   $now = date( 'YmdHis' );
   
@@ -65,7 +69,11 @@ if ( count($_POST) ) {
     $subject = "Anecdote about ". $property;
     
     $bodyofmessage = "From: ".$theiremail."\n\n";
-    $bodyofmessage .= "- property: ".$property."\n";
+    if ( $_POST['essay'] ) {
+      $bodyofmessage .= "- essay: ".$property."\n";
+    } else {
+      $bodyofmessage .= "- property: ".$property."\n";
+    }
     $bodyofmessage .= "  person: '".$theirname."'\n";
     $bodyofmessage .= "  date: '".date('Y-m-d')."'\n";
     $bodyofmessage .= "  content: '".$anecdote."'\n";
@@ -80,7 +88,8 @@ if ( count($_POST) ) {
       // echo '<pre>';
       // print_r($_POST);
       // echo '</pre>';
-      echo '<!doctype HTML><html lang="en"><head><title>Thanks for your Anecdote | ArtInRuins</title><meta charset="utf-8"><link rel="stylesheet" type="text/css" href="/assets/css/main.css"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"></head><body class="content rhythm u__vertical__p u__gutter__p"><h1>Success; your anecdote was sent</h1><p>New anecdotes will not appear on the site immediately. <a href="//artinruins.com/property/'.$property.'#anecdotes">Return to your previous destination.</a></p><hr><h2>Message synopsis</h2><p><b>Subject:</b> '.$subject.'<br><b>Sent to:</b> '.$to.'<br><b>Name:</b> '.$theirname.'<br><b>Email:</b> '.$theiremail.'</p><p><b>Message:</b><br>'.$anecdote.'</p></body></html>';
+      $prop_or_essay = ( $_POST['essay'] ) ? 'essay' : 'property' ;
+      echo '<!doctype HTML><html lang="en"><head><title>Thanks for your Anecdote | ArtInRuins</title><meta charset="utf-8"><link rel="stylesheet" type="text/css" href="/assets/css/main.css"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"></head><body class="content rhythm u__vertical__p u__gutter__p"><h1>Success; your anecdote was sent</h1><p>New anecdotes will not appear on the site immediately. <a href="//artinruins.com/'.$prop_or_essay.'/'.$property.'#anecdotes">Return to your previous destination.</a></p><hr><h2>Message synopsis</h2><p><b>Subject:</b> '.$subject.'<br><b>Sent to:</b> '.$to.'<br><b>Name:</b> '.$theirname.'<br><b>Email:</b> '.$theiremail.'</p><p><b>Message:</b><br>'.$anecdote.'</p></body></html>';
     } else {
       error_log('Mailer.php — Sending mail failed: ' . error_get_last());
       echo '<!doctype HTML><html lang="en"><head><title>No post | ArtInRuins</title><meta charset="utf-8"><link rel="stylesheet" type="text/css" href="/assets/css/main.css"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"></head><body class="content rhythm u__vertical__p u__gutter__p"><h1>Sorry, the mail function failed</h1><p>We are sorry for the inconvenience. You can always send a message via good’ole email at <a href="mailto:info@artinruins.com">info@artinruins.com</a>. Your message as it was captured is below.</p><hr><h2>Message synopsis</h2><p><b>Your Name:</b> '.$theirname.'<br><b>Your Email:</b> '.$theiremail.'<br><b>The Property:</b> '.$property.'</p><p><b>Your Message:</b><br>'.$anecdote.'</p><hr><p><b>Error message:</b><br>'.error_get_last().'</p></body></html>';
@@ -88,7 +97,7 @@ if ( count($_POST) ) {
   } else {
     // This message is likely spam — Treat it with a generic success message
     error_log('Mailer.php — This message was likely spam so a fake Thank You message was provided');
-    echo '<!doctype HTML><html lang="en"><head><title>Thanks | ArtInRuins</title><meta charset="utf-8"><meta http-equiv="refresh" content="15;url=/property/'.$property.'"><link rel="stylesheet" type="text/css" href="/assets/css/main.css"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"></head><body class="content rhythm u__vertical__p u__gutter__p"><h1>Thank you</h1><p>Your message has been sent.</p></body></html>';
+    echo '<!doctype HTML><html lang="en"><head><title>Thanks | ArtInRuins</title><meta charset="utf-8"><meta http-equiv="refresh" content="15;url=/'.$prop_or_essay.'/'.$property.'"><link rel="stylesheet" type="text/css" href="/assets/css/main.css"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"></head><body class="content rhythm u__vertical__p u__gutter__p"><h1>Thank you</h1><p>Your message has been sent.</p></body></html>';
   } 		
 } else {
   // No post found
