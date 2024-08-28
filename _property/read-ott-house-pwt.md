@@ -11,7 +11,7 @@ redeveloped:
 units:
 decade: '1840-1849'
 date-added: '2023'
-categories: [ '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'W. G. Sheldon' ]
@@ -76,7 +76,7 @@ imagescredit: 'Contributions from Pawtucket Library collection on Flickr'
 
 ### Last Tenant
 
-The Greek Orthodox church next door came to own the former mansion in an interesting way. In 1996, as Interstate 95 was splitting Pawtucket in two, the church was forced to leave its building on George Street. They purchased the Read-Ott mansion and held services there until their new Byzantine-style building was finished.[^1] 
+The Greek Orthodox church next door came to own the former mansion in an interesting way. In 1966, as Interstate 95 was splitting Pawtucket in two, the church was forced to leave its building on George Street. They purchased the Read-Ott mansion and held services there until their new Byzantine-style building was finished.[^1] 
 
 [^1]: Shorey, Ethan. “Preservation Society focused on protecting Quality Hill landmarks.” Valley Breeze, 03 December 2019. Captured 19 March 2023 from https://www.valleybreeze.com/news/preservation-society-focused-on-protecting-quality-hill-landmarks/article_6f8a17ea-8e37-5a26-a437-56d112a7f068.html
 

@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: jg-goffs-pub
+  person: 'Tom C.'
+  date: '2024-08-24'
+  content: 'I was hired to sing and play guitar with a friend of mine at the Providence Goff’s back in 2000 and 2001. It was a great spot. Also played and sang at the Bristol location around 2003-2005. Great times!'
+
 - property: down-under-duckpin
   person: 'Greg Motta'
   date: '2024-08-05'

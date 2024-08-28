@@ -1,5 +1,11 @@
 # Any verb will have 'this property' appended to it, so make sure the verb makes sense
 
+- property: crescent-park
+  source: https://www.bostonglobe.com/2024/08/08/magazine/rhode-island-food-tour-with-a-finicky-eater/
+  author: 'The Boston Globe’s Carrie Simonelli mentions Crescent Park in reference to clam cakes'
+  date: '2024-08-08'
+  verb: 'cited'
+
 - property: coro-building
   source: http://providencedailydose.com/2024/04/15/jewelry-district-walking-tours-saturdays/
   author: 'The Providence Daily Dose in an article titled “Jewelry District Walking Tours — Saturdays”'
