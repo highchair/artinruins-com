@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade: '1990-1999'
 date-added: '2024'
-categories: [ '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Newport, RI' ]
 designers: []
