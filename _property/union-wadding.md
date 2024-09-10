@@ -5,7 +5,7 @@ aka:
 date-modified: 2020-12-23 12:00
 
 built: '1847–1870'
-demolition: 'post-fire 2010'
+demolition: 'partial post-fire 2010'
 redeveloped: '2006-2015'
 units: '200'
 decade: '1870-1879'

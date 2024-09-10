@@ -28,7 +28,7 @@ street: [ 'Richmond St' ]
 street-number: 233
 
 meta: ""
-excerpt: "Two mid-to-late-century buildings will be demolished for a new Brown University science lab, connected and in proximity to other biotech and sciend-related facilities"
+excerpt: "Two mid-to-late-century buildings will be demolished for a new Brown University science lab, connected and in proximity to other biotech and science-related facilities"
 
 thumbnail: 261-bishop-jh-2023-06-01.jpg
 

@@ -5,7 +5,7 @@ aka: 'Pheonix MIll (common mis-spelling)'
 date-modified: 2020-11-09 12:00
 
 built: '1822'
-demolition: '2005-2006'
+demolition: '2006'
 redeveloped: 
 decade: '1820-1829'
 date-added: '2005'

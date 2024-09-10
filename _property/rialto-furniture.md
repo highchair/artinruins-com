@@ -4,10 +4,10 @@ slug: rialto-furniture
 aka: 
 date-modified: 2020-05-02 21:44
 
-built: 1923
-demolition: 2006
+built: '1923'
+demolition: '2006'
 decade: '1920-1929'
-date-added: 2005
+date-added: '2005'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Federal Hill' ]
 town: [ 'Providence, RI' ]

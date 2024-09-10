@@ -68,8 +68,8 @@ Non-profit owned and restored, this former neighborhood gas station is an office
 ### History
 
 <figure class="u__img">
-  <a data-fslightbox="air-lightbox" data-type="image" data-caption="A very similar Texaco station from Elmwood Avenue, circa 1940. Part of the John Hutchins Cady Research Scrapbooks Collection, Providence Public Library" href="{{ site.propimg_path }}{{ page.slug }}/elmwood-ave-ppl-1940c.jpg" role="button" aria-label="Link opens image in a larger pop-over">
-    <img src="{{ site.propimg_path }}{{ page.slug }}/elmwood-ave-ppl-1940c.jpg" alt="" />
+  <a data-fslightbox="air-lightbox" data-type="image" data-caption="A very similar Texaco station from Elmwood Avenue, circa 1940. Part of the John Hutchins Cady Research Scrapbooks Collection, Providence Public Library" href="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/elmwood-ave-ppl-1940c.jpg" role="button" aria-label="Link opens image in a larger pop-over">
+    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/elmwood-ave-ppl-1940c.jpg" alt="" />
   </a>
   <figcaption>
     A very similar Texaco station from Elmwood Avenue, circa 1940. Part of the John Hutchins Cady Research Scrapbooks Collection, Providence Public Library

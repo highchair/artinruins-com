@@ -5,7 +5,7 @@ aka: "C.J. Fox Company, Crahan Engraving Company"
 date-modified: 2022-02-05 12:00
 
 built: '1868, 1889–1908'
-demolition:
+demolition: 'partial 2013'
 redeveloped: '2013-2014'
 units:
 decade: '1860-1869'

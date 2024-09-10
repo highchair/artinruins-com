@@ -5,7 +5,7 @@ aka: "American Electrical Works, Rhode Island Forging Steel, Ocean State Steel"
 date-modified: 2020-11-20 12:00
 
 built: '1903'
-demolition: '2003–2005'
+demolition: '2005'
 redeveloped: 
 decade: '1900-1909'
 date-added: '2004'

@@ -5,7 +5,7 @@ aka: 'Mural Corps. Murals'
 date-modified: 2022-02-16 12:00
 
 built: '1962-1964'
-demolition: '2009-2011'
+demolition: '2011'
 redeveloped:
 units:
 decade: '1960-1969'

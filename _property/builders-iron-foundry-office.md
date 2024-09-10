@@ -5,7 +5,7 @@ aka: 'Providence Traffic Tribunal, Traffic Court'
 date-modified: 2022-02-08 12:00
 
 built: '1949–50'
-demolition: '2015-2016'
+demolition: '2016'
 redeveloped: '1974'
 units:
 decade: '1940-1949'

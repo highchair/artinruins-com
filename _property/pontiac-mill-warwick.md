@@ -5,7 +5,7 @@ aka: 'B. B. and R. Knight’s Pontiac Mill'
 date-modified: 2023-09-25 12:00
 
 built: '1863, 1866, 1870–1874'
-demolition: 'partial 2006'
+demolition: '2006'
 redeveloped: '2014-2018'
 units: 133
 decade: '1860-1869'

@@ -71,9 +71,7 @@ imagescredit:
 ### Proposal
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-4">
-    <img src="{{ site.propimg_path }}{{ page.slug }}/westin-tower-render-01.jpg" alt="" />
-  </a>
+  <img src="{{ site.propimg_path }}{{ page.slug }}/westin-tower-render-01.jpg" alt="" />
   <figcaption>An early rendering of the new tower. The smaller tower to the left was not part of the final design.</figcaption>
 </figure>
 

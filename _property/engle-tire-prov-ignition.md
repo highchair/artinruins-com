@@ -5,10 +5,10 @@ aka:
 date-modified: 2020-07-17 12:30
 
 built: 'circa 1960'
-demolition: 2012
+demolition: '2012'
 redeveloped: 
 decade: '1960-1969'
-date-added: 2005
+date-added: '2005'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]

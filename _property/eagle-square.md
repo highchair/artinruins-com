@@ -5,7 +5,7 @@ aka: "Eagle Square"
 date-modified: 2020-05-02 21:50
 
 built: '1866-1875'
-demolition: '2001-2002'
+demolition: '2002'
 decade: '1860-1869'
 date-added: '2002'
 categories: [ '#UsedToBeThere' ]

@@ -7,7 +7,7 @@ update: 'Added aerial drone images provided by David Lawlor'
 update-image: 209-211-217-angell-dl-2023-12-02.jpg
 
 built: '1854–1895'
-demolition: '2003–2004'
+demolition: '2023'
 redeveloped:
 units:
 decade: '1850-1859'

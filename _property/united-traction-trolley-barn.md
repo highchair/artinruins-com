@@ -4,15 +4,15 @@ slug: united-traction-trolley-barn
 aka: "Cranston Street Trolley Barn, Union Traction (common misnomer)"
 date-modified: 2020-07-08 18:45
 
-built: 1900
-demolition: 2005 
+built: '1900'
+demolition: '2005'
 redeveloped: 
 decade: '1900-1909'
-date-added: 2003
+date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Cranston, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'A.I.R.’s Lead Brick List', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Demolition by Neglect', 'Still an Empty Lot' ]
 

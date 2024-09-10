@@ -5,13 +5,13 @@ aka:
 date-modified: 2020-08-22 11:00
 
 built: 1847–1918
-demolition: 2003
+demolition: '2003'
 decade: '1840-1849'
-date-added: 2002
+date-added: '2002'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Warwick, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Amusement Park' ]
 

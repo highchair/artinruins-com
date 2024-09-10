@@ -5,7 +5,7 @@ aka: 'Standardized Uniform Service, Perry Blackburn Inc.'
 date-modified: 2021-02-02 12:00
 
 built: '1913'
-demolition: 'circa 2015'
+demolition: '2015'
 redeveloped: 
 units:
 decade: '1900-1909'

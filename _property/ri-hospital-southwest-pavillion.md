@@ -5,7 +5,7 @@ aka:
 date-modified: 2022-02-12 12:00
 
 built: '1900'
-demolition: '2016–2017'
+demolition: '2017'
 redeveloped:
 units:
 decade: '1900-1909'

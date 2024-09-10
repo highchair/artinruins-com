@@ -3,6 +3,12 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2024-09-09
+
+Changed
+
++ In `snippets/property-card.html`, we had a loop creating a link to a demolition page even though the data was more than a single year. If more than a string of four characters, don't create a link. The `if` statement will only return true if the Liquid data is a string, so, from now on, all demolition dates need to be inside quotes.
+
 ## 2024-08-18
 
 Added
