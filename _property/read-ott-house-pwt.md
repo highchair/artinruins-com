@@ -2,11 +2,12 @@
 title: "Read-Ott House"
 slug: read-ott-house-pwt
 aka:
-date-modified: 2024-02-04 13:00
-update: 'Added a snippet of a news story about the owner’s planning to move forward with demolition'
+date-modified: 2024-09-09 13:00
+update: 'Added photos of the demolition provided by David Lawlor'
+update-image: read-ott-dl-2024-08-01.jpg
 
 built: '1842, 1914-15'
-demolition:
+demolition: '2024'
 redeveloped:
 units:
 decade: '1840-1849'
@@ -16,8 +17,8 @@ neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'W. G. Sheldon' ]
 people: []
-lists: [ 'National Register of Historic Places', 'Quality Hill Historic District' ]
-tags: [ 'House' ]
+lists: [ 'A.I.R.’s Lead Brick List', 'National Register of Historic Places', 'Quality Hill Historic District' ]
+tags: [ 'David Lawlor', 'House' ]
 
 NRHP-ref-number: '84002041 (contributing)'
 added-to-NRHP: 'April 1984'
@@ -28,7 +29,7 @@ longitude: '-71.3785017'
 gmap: "https://www.google.com/maps/place/41%C2%B052'36.1%22N+71%C2%B022'40.3%22W/@41.876699,-71.3785017,19z/data=!3m1!4b1!4m13!1m8!3m7!1s0x89e45cabf68d5edd:0x91a8feb83d5e3026!2s97+Walcott+St,+Pawtucket,+RI+02860!3b1!8m2!3d41.8760791!4d-71.3775412!16s%2Fg%2F11bw3zjhn3!3m3!8m2!3d41.876698!4d-71.377858"
 
 meta: ""
-excerpt: "A more than 150 year old mansion has been empty and derelict for the past 30 years, waiting for plans to repurpose it"
+excerpt: "An empty and derelict 150 year old mansion lost a fight to find a savior and new purpose"
 
 thumbnail: read-ott-jh-2023-02-05.jpg
 
@@ -64,10 +65,22 @@ images:
     sizes: '740, 1036'
   - url: read-ott-jh-2023-02-12.jpg
     sizes: '1440, 900'
+  - url: read-ott-dl-2024-08-01.jpg
+    sizes: '1200, 900'
+  - url: read-ott-dl-2024-08-02.jpg
+    sizes: '1200, 900'
+  - url: read-ott-dl-2024-08-03.jpg
+    sizes: '1200, 900'
+  - url: read-ott-dl-2024-08-04.jpg
+    sizes: '1440, 900'
+  - url: read-ott-dl-2024-08-05.jpg
+    sizes: '1200, 900'
+  - url: read-ott-dl-2024-08-06.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2023-02-01
 
-imagescredit: 'Contributions from Pawtucket Library collection on Flickr'
+imagescredit: 'Contributions from Pawtucket Library collection on Flickr and David Lawlor, <a href="//runofthemill.shop/lander">Run of the Mill</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -114,7 +127,7 @@ Around 1914, the home changed hands from John Read’s widow, Jane Thatcher Ingr
 
 ### Current Events
 
-The house is currently within a six-month waiting period to see if it can saved or if the City will have no choice but   to issue a demolition permit. While listed in the National Register’s [Quality Hill Historic District]({% link list/quality-hill-historic-district.html %}), there are no protections or monies available to save it if the owner’s choose demolition. 
+The house was in a six-month waiting period to see if it can saved. The City of Pawtucket helped to find funding to restore it or a buyer to take it.Eventually, the City had no choice but to issue a demolition permit at the request of the church. While listed in the National Register’s [Quality Hill Historic District]({% link list/quality-hill-historic-district.html %}), there are no protections or monies available to save it if the owner chooses demolition. It was razed at the end of August, 2024.
 
 
 ### History
