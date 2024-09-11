@@ -99,10 +99,10 @@ In the late 1970s, diners close to their original, unaltered form, become a rari
 
 ## Still Going Strong
 
-Rhode Island is lucky to have quite a few in operation — [The Modern Diner]({% link _property/modern-diner.md %}), the [Westminster Diner]({% link _property/poiriers-kullman-diner.md %}), [Jigger’s Diner](//www.jiggersdiner.com){:target="_blank"} in East Greenwich, and [Patriot’s Diner](http://www.patriotsdiner.com){:target="_blank"} in Woonsocket to name a few. And let’s not forget [Haven Brothers](//www.quahog.org/attractions/index.php?id=5){:target="_blank"}, the only mobile diner still in operation.
+Rhode Island is lucky to have quite a few in operation — [The Modern Diner]({% link _property/modern-diner.md %}), the [Westminster Diner]({% link _property/poiriers-kullman-diner.md %}), [Jigger’s Diner](https://www.jiggersdiner.com) in East Greenwich, and [Patriot’s Diner](http://www.patriotsdiner.com) in Woonsocket to name a few. And let’s not forget [Haven Brothers](https://www.quahog.org/attractions/index.php?id=5), the only mobile diner still in operation.
 
 ***
 
 ## Want more?
 
-+ [Atlas Obscura covers the history of the lunch wagon](//www.atlasobscura.com/articles/original-food-trucks){:target="_blank"}
++ [Atlas Obscura covers the history of the lunch wagon](https://www.atlasobscura.com/articles/original-food-trucks)

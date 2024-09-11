@@ -98,7 +98,7 @@
       <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Opened:</b> {{ item.opened }}</span>
     {%- endif -%}
     {%- if item.demolition.size > 0 -%}
-      <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Demolition:</b> <a href="/demolition/{{ item.demolition }}/" title="More properties demolished this year">{{ item.demolition }}</a></span>
+      <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Demolition:</b> {% if item.demolition.size <= 4 %}<a href="/demolition/{{ item.demolition }}/" title="More properties demolished this year">{{ item.demolition }}</a>{% else %}{{ item.demolition }}{% endif %}</span>
     {%- endif -%}
     {%- if item.then_photo.size > 0 -%}
       <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Then:</b> {{ item.then_photo }}</span>

@@ -15,7 +15,7 @@ sitemap:
 <header class="taxonomy__header">
   <div class="u__vertical__pt u__gutter__p">
     <h1 class="content__title taxonomy__title u__mb--0">{{ page.title }}</h1>
-    <p class="taxonomy__count">A list of the properties we have recently mentioned on our <a href="//instagram.com/artinruins" target="_blank">Instagram feed</a></p>
+    <p class="taxonomy__count">A list of the properties we have recently mentioned on our <a href="https://instagram.com/artinruins">Instagram feed</a></p>
   </div>
 </header>
 <ul class="taxonomy__list property-card__cols u__list__unstyled u__vertical__p u__gutter__p" role="list">
@@ -59,7 +59,7 @@ sitemap:
         </p>
         {%- if insta.insta_link -%}
         <p class="property-card__meta">
-          Instagram post date: <a href="{{ insta.insta_link }}" target="_blank">{{ insta.date | date: "%e %B, %Y" }}</a>
+          Instagram post date: <a href="{{ insta.insta_link }}">{{ insta.date | date: "%e %B, %Y" }}</a>
         </p>
         {%- endif -%}
       </div>
