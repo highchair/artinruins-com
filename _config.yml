@@ -37,7 +37,8 @@ kramdown:
 permalink: /:categories/:title/
 relative_permalinks: false
 image_path: "assets/img/"
-propimg_path: "/property-img/"
+propimg_path: "https://artinruins.com/property-img/"
+propimg_local: "/property-img/"
 thennow_path: "/then-now-img/"
 
 collections:

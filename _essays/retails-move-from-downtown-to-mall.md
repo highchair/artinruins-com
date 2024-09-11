@@ -31,8 +31,8 @@ Wholesale fruit, vegetable, and hardware sales had been well established along t
 {:.o__drop-cap}
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/farmers-market-1927.jpg" alt="" class="js-lazy" />
-  <figcaption><a href="//provlibdigital.org/islandora/object/VM013_WC0873_4">Rooftop view of carts for an open air market along the Providence River with buildings in the background, 1927</a>. Providence Public Library Digital Collection.</figcaption>
+  <img src="{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/farmers-market-1927.jpg" alt="" class="js-lazy" />
+  <figcaption><a href="https://provlibdigital.org/islandora/object/VM013_WC0873_4">Rooftop view of carts for an open air market along the Providence River with buildings in the background, 1927</a>. Providence Public Library Digital Collection.</figcaption>
 </figure>
 
 Commercial and retail grew westward as the city grew. By the 1880s, the area between Dorrance and what is now Empire Street was a retail center. The department store represented a new economy of scale, replacing what would have been many small specialty shops with one larger center featuring a wide variety of goods. By 1900, Providence had three such department stores.
@@ -44,7 +44,7 @@ A women’s wear store, **Gladdings**, moved into the Burrill Building in 1891. 
 Downtown grew in density, with many former residential buildings razed and replaced with mixed-use commercial buildings as investment properties. The [Burgess and O’Gorman Buildings]({% link _property/burgess-ogorman-buildings-pvd.md %}) (1870) and the [Alice Building]({% link _property/alice-building-pvd.md %}) (1898) were two such structures built along bustling Westminster Street. A well-known ground-floor tenant anchored the building, with smaller office and retail spaces above.
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}peerless-low-buildings-pvd/cmt-low-ppl-postcard-1900c.jpg" alt="" class="js-lazy" />
+  <img src="{{ site.propimg_path }}peerless-low-buildings-pvd/cmt-low-ppl-postcard-1900c.jpg" alt="" class="js-lazy" />
   <figcaption>Westminster Street looking west, Callendar, McAuslan, & Troup on the left foreground. Rhode Island Postcard Collection, Providence Public Library.</figcaption>
 </figure>
 
@@ -58,13 +58,13 @@ By 1909, the [East Side Train Tunnel]({% link _property/east-side-train-tunnel.m
 
 Retail was only one activity that a visitor could partake. Hotels, theaters, movie houses, performing arts centers, and restaurants filled the area and lured visitors to stay longer and spend money. While downtown construction greatly slowed after the stock market crash of 1929, the Great Depression, and the second World War, it survived and grew again in the 1950s. Streetcars gave way to a system of buses, bringing more and more visitors downtown.
 
-We say “visitors” even though these folks were likely all local to Rhode Island and the residential neighborhoods of Providence. Visitors in this case emphasizes how very few people lived downtown. Most residential areas of downtown had been razed for larger commercial buildings or the reconfiguration of streets. Around 1910, the widening of Empire Street [destroyed one of Providence’s Chinatowns](//richinesehistory.com). In the 1950s and into the 1960s, the newly proposed interstate highway system was used as a blunt instrument to raze immigrant and African-American neighborhoods on the outskirts of Downtown in the name of progress.
+We say “visitors” even though these folks were likely all local to Rhode Island and the residential neighborhoods of Providence. Visitors in this case emphasizes how very few people lived downtown. Most residential areas of downtown had been razed for larger commercial buildings or the reconfiguration of streets. Around 1910, the widening of Empire Street [destroyed one of Providence’s Chinatowns](https://richinesehistory.com). In the 1950s and into the 1960s, the newly proposed interstate highway system was used as a blunt instrument to raze immigrant and African-American neighborhoods on the outskirts of Downtown in the name of progress.
 
 
 ## Mid-twentieth century Urban Renewal: Downtown Providence 1970
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/pvd1970-downtown-render.jpg" alt="" class="js-lazy" />
+  <img src="{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/pvd1970-downtown-render.jpg" alt="" class="js-lazy" />
   <figcaption>An aerial rendering of Downtown Providence as envisioned in 1961. Notice how the beaux-arts City Hall and Union Station are not present, and also notice all the parking in the foreground</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Luckily, the exuberant plans of city officials were stymied by economic factors.
 ### The Westminster Mall
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/card-cow-westminster-mall-1966.jpg" alt="" class="js-lazy" />
+  <img src="{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/card-cow-westminster-mall-1966.jpg" alt="" class="js-lazy" />
   <figcaption>1966 postcard of the Westminster Mall.</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ The Downtown declined during the 1970s and into the 1980s. Retail establishments
 Old gems like the former **Loew’s State Theatre**, now the Providence Performing Arts Center, and new buildings like the **Civic Center** attracted national touring entertainment, but any visitors that came didn’t stay as long as businesses wanted.
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/1970-06-westminster-mall-chester-smolski.jpg" alt="" class="js-lazy" />
+  <img src="{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/1970-06-westminster-mall-chester-smolski.jpg" alt="" class="js-lazy" />
   <figcaption>Westminster Mall in 1970 — empty enough to have a game of frisbee. Chester E. Smolski photographic slides and publications, Special Collections, James P. Adams Library, Rhode Island College.</figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ Interestingly, Blue Point would be demolished because of the increased attractio
 ### The Renaissance Reverberates and a new Mall Idea Grows
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}union-station/union-station-habs-1982-aerial.jpg" alt="" class="js-lazy" />
+  <img src="{{ site.propimg_path }}union-station/union-station-habs-1982-aerial.jpg" alt="" class="js-lazy" />
   <figcaption>1982 aerial “before” of the Capital Center project area. Photo by William Barrett, 1982-83, Library of Congress.</figcaption>
 </figure>
 
@@ -188,7 +188,7 @@ The mall opened in 1999 and cost a total $460 million — $100M over budget. It
 ### Construction becomes an Archeological Excavation
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/prov-place-mall-construction.jpg" alt="" class="js-lazy" />
+  <img src="{{ site.propimg_path }}essays/retails-move-from-downtown-to-mall/prov-place-mall-construction.jpg" alt="" class="js-lazy" />
   <figcaption>Circa 1997 aerial view of the construction site. Uncredited source on Pinterest.</figcaption>
 </figure>
 

@@ -98,7 +98,7 @@ The freight house was in heavy use for 60 years (1848–1908) before it started 
 
 <figure class="u__img">
   <a href="{% link _property/union-station.md %}">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}union-station/union-station-ppl-1933-aerial.jpg" alt="1933 aerial view of the second Union Station showing the freight house and elevated tracks coming from the East Side Train Tunnel. Link to the Union Station property page for more." />
+    <img src="{{ site.propimg_path }}union-station/union-station-ppl-1933-aerial.jpg" alt="1933 aerial view of the second Union Station showing the freight house and elevated tracks coming from the East Side Train Tunnel. Link to the Union Station property page for more." />
   </a>
   <figcaption aria-hidden="true">1933 aerial view of the second Union Station showing the freight house and elevated tracks coming from the East Side Train Tunnel</figcaption>
 </figure>

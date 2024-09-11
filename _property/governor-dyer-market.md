@@ -102,7 +102,7 @@ According to Sanborn Maps, four streets were designed to move through this wide 
 [^5]: “Sanborn Fire Insurance Map from Providence, Providence County, Rhode Island.” Sanborn Map Company, Vol. 3, Plate 86 (page 86). Accessed November 24, 2022 from http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195603 
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/sanborn-vol3-p85-1956-01.jpg" alt="An old handdrawn map showing the street boundaries and shapes of buildings" />
+  <img src="{{ site.propimg_path }}{{ page.slug }}/sanborn-vol3-p85-1956-01.jpg" alt="An old handdrawn map showing the street boundaries and shapes of buildings" />
   <figcaption>
     The oldest building of this survey, Mike’s Diner, is shown along Rathbone Street on the corner with General Avenue. The location of the Greylawn Farms building replaced the four woodframe and cinder block buildings to the right of it. The complex is labelled “Providence Market Gardener Corp.” 1921–1956 Sanborn Map, Vol. 3, Plate 85 — The Library of Congress, Maps Division
   </figcaption>

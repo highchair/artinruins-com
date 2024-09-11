@@ -79,9 +79,7 @@ imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/obj
 Around April, 2004, news started to circulate that the GTECH Corporation, known for running state lotteries and gaming, was going to choose an architect to design their new headquarters to be situated in a vacant parcel (Parcel 9) on the corner of Memorial Boulevard and Francis Street. The Capital Center Commission had oversight on the development of the 77-acre Capital Center District, which rings the State House. Its Design Review Committee can approve, deny, or request modifications to submitted designs for any development in the area. The committee does not prohibit certain types of design, but it does work to make sure all new development “fits” with the Capital Center’s existing properties.  
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-4">
-    <img src="{{ site.propimg_path }}{{ page.slug }}/gtech-render-waterplace.jpg" alt="" />
-  </a>
+  <img src="{{ site.propimg_path }}{{ page.slug }}/gtech-render-waterplace.jpg" alt="" />
   <figcaption>An early rendering from the perspective of Waterplace park during a Waterfire</figcaption>
 </figure>
 
@@ -95,9 +93,7 @@ A controversy did come up during the design phase of the process, when GTECH cou
 ### Design Reception
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-4">
-    <img src="{{ site.propimg_path }}{{ page.slug }}/gtech-render-memblvd.jpg" alt="" />
-  </a>
+  <img src="{{ site.propimg_path }}{{ page.slug }}/gtech-render-memblvd.jpg" alt="" />
   <figcaption>An early rendering of the new building from the perspective of Memorial Boulevard and Francis Streets</figcaption>
 </figure>
 

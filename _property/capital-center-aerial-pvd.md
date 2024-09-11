@@ -62,7 +62,7 @@ Being able to return almost 10 years later to capture the third photo was a real
 For each view, we have listed the iconic architecture and the build or demolition dates:
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/capital-center-1982.jpg" alt="" />
+  <img src="{{ site.propimg_path }}{{ page.slug }}/capital-center-1982.jpg" alt="" />
   <figcaption>Photographer Wm. Edmund Barrett, 1982–1983, part of HABS no. RI-388, Providence Union Station</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ For each view, we have listed the iconic architecture and the build or demolitio
 + The dome-like structure with arched supports and a white roof in the upper right is the “Project Turnkey” Automated Post Office, built in 1960 and designed by Maguire & Associates
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/capital-center-2005.jpg" alt="" />
+  <img src="{{ site.propimg_path }}{{ page.slug }}/capital-center-2005.jpg" alt="" />
 </figure>
 
 #### 2005 view, left to right:
@@ -95,7 +95,7 @@ For each view, we have listed the iconic architecture and the build or demolitio
 + Commanding the right center is Avalon at Center Place, a U-shaped residential building, built 1989–1992
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/capital-center-2024.jpg" alt="" />
+  <img src="{{ site.propimg_path }}{{ page.slug }}/capital-center-2024.jpg" alt="" />
 </figure>
 
 #### 2024 view, left to right:

@@ -156,7 +156,7 @@ The Weybosset Mills possess important historical associations with the establish
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-38-dike-st-goog-2011-06-01">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/38-dike-st-goog-2011-06-01.jpg" alt="" />
+    <img src="{{ site.propimg_path }}{{ page.slug }}/38-dike-st-goog-2011-06-01.jpg" alt="" />
   </a>
   <figcaption>Mill Number 1 Boiler House, now 38 Dike Street</figcaption>
 </figure>
@@ -173,7 +173,7 @@ Though much changed, the Mill No. 1 Boiler House still makes an active contribut
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-239-oak-st-jh-2023-05-02">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/239-oak-st-jh-2023-05-02.jpg" alt="" />
+    <img src="{{ site.propimg_path }}{{ page.slug }}/239-oak-st-jh-2023-05-02.jpg" alt="" />
   </a>
   <figcaption>Mill Number 2, now 239 Oak Street</figcaption>
 </figure>
@@ -189,7 +189,7 @@ The flat-roofed, one-by-one-bay stair tower is located on the east elevation of 
 #### Dye House (ca 1880, ca 1900)
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}weybosset-mills-dye-house/dye-house-jh-2023-05-01.jpg" alt="" />
+  <img src="{{ site.propimg_path }}weybosset-mills-dye-house/dye-house-jh-2023-05-01.jpg" alt="" />
   <figcaption>The former Weybosset Mills Dye House, 46 Dike Street</figcaption>
 </figure>
 
@@ -210,7 +210,7 @@ Historical maps indicate that the interior of the building is supported by wood 
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-34-dike-st-jh-2023-05-01">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/34-dike-st-jh-2023-05-01.jpg" alt="" />
+    <img src="{{ site.propimg_path }}{{ page.slug }}/34-dike-st-jh-2023-05-01.jpg" alt="" />
   </a>
   <figcaption>The former Weybosset Mills office, now 34 Dike Street</figcaption>
 </figure>
@@ -229,7 +229,7 @@ The current Office appears on historic maps between 1900 and 1921. During this t
 #### Mill No. 3 (ca 1880)
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}roger-williams-brewing/rw-brewing-mill3-jh-2023-05-01.jpg" alt="" />
+  <img src="{{ site.propimg_path }}roger-williams-brewing/rw-brewing-mill3-jh-2023-05-01.jpg" alt="" />
   <figcaption>Mill Number 3, now 244 Oak Street</figcaption>
 </figure>
 
@@ -239,7 +239,7 @@ See independent entry for the [Roger Williams Brewing Company]({% link _property
 #### Mill No. 4 with attached Storage Building and Boiler Room (ca 1900, ca 1885, ca 1937)
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}weybosset-mills-number-4/52-troy-st-jh-2023-05-04.jpg" alt="" />
+  <img src="{{ site.propimg_path }}weybosset-mills-number-4/52-troy-st-jh-2023-05-04.jpg" alt="" />
   <figcaption>Mill Number 4, now 222 Oak and 52 Troy Street</figcaption>
 </figure>
 

@@ -93,7 +93,7 @@ Although the existing RIHPHC data sheet for the property records the building's 
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="{% link _property/32-branch-avenue.md %}#photo-32-branch-gmhopkins-1937-01">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}32-branch-avenue/32-branch-gmhopkins-1937-01.jpg" alt="" />
+    <img src="{{ site.propimg_path }}32-branch-avenue/32-branch-gmhopkins-1937-01.jpg" alt="" />
   </a>
   <figcaption>1937 G.M. Hopkins Map posted on the 32 Branch Avenue (Washington Laundry) property page</figcaption>
 </figure>

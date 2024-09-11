@@ -64,7 +64,7 @@ The hotel was never built.
 
 <figure class="u__img" aria-hidden="true">
   <a href="{% link _property/diocese-house-pvd.md %}">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}diocese-house-pvd/church-house-inn-pps-undated.jpg" alt="" />
+    <img src="{{ site.propimg_path }}diocese-house-pvd/church-house-inn-pps-undated.jpg" alt="" />
   </a>
   <figcaption>Undated — Photo of the Diocese House with McDonald’s to the right from the Providence Preservation Society Slide Collection</figcaption>
 </figure>

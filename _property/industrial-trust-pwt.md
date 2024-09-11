@@ -132,7 +132,7 @@ If we were to dig deeper to figure out when the stone veneer was added to obscur
     <img src="{{ site.propimg_path }}{{ page.slug }}/main-st-pawtlib-undated-postcard.jpg" alt="" />
   </a>
   <figcaption>
-    <a href="//www.flickr.com/photos/pawtucketlibrary/29279241562" target="_blank">Larger version of this postcard on Flickr</a>, Pawtucket Library Digital Collection
+    <a href="https://www.flickr.com/photos/pawtucketlibrary/29279241562">Larger version of this postcard on Flickr</a>, Pawtucket Library Digital Collection
   </figcaption>
 </figure>
 

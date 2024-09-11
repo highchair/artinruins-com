@@ -56,15 +56,14 @@ The houses have been completely razed and are now an empty lot. We document the 
 While the proposal for a hotel on this site was turned down by the City Planning Commission, it seems the developer wants to raze the houses anyway. Councilman John Goncalves worked to issue a stop work notice, declaring that not enough notice was given. With no plans for a new building on this site, the Councilman argues that there was not enough time to review the demolition and its affect on the housing market (loss of apartments with no replacement). [Complete story at WJAR Channel 10](//turnto10.com/news/local/providence-councilor-fights-to-save-historic-homes-from-demolition-rhode-island-southern-new-england-history-lot-land-november-13-2023)
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/smart-hotel-render-2021-11-01.jpg" alt="">
+  <img src="{{ site.propimg_path }}proposals/smart-hotel-render-2021-11-01.jpg" alt="">
   <figcaption>Rendering by ZDS Architects from the proposal submitted to the City Planning Commission</figcaption>
 </figure>
 
 **Update November 22, 2022**
 : On November 16, the City Council heard SMART Princeton Hotel Group, LLC’s petition for a Zoning Change for the properties on 209-217 Angell Street from a Residential-Professional (RP) to a Commercial (C2) District. After initial comments, the Council determined they did not have jurisdiction and the matter was continued indefinitely. 
 
-**Update Nov 12, 2022**
-: SMART Princeton Hotel Group and Angell Investments are petitioning for a Zone Change for 209-217 Angell Street from a Residential Professional (RP) District to a General Commercial (C2) District, which would allow a new hotel to be built at the site of three older homes. This petition was originally considered in 2019-2020 by the City Planning Commission.
+**Update Nov 12, 2022**: SMART Princeton Hotel Group and Angell Investments are petitioning for a Zone Change for 209-217 Angell Street from a Residential Professional (RP) District to a General Commercial (C2) District, which would allow a new hotel to be built at the site of three older homes. This petition was originally considered in 2019-2020 by the City Planning Commission.
 
 : The [former plan from 2020](//www.providenceri.gov/wp-content/uploads/2020/06/20-010UDR-209-217AngellStreetMaster-Plan-SR-Plans-ExpertTestimony.pdf){:target="_blank"} has not changed and would require the demolition of three 3-story homes for a L-shaped, 6-story hotel with circular driveway on Angell Street. It seems as though the Mansard-roof design from November 2019 is still the design that [ZDS Architects]({% link designer/zds-architecture-interiors.html %}) and the developer are proposing.
 
@@ -80,7 +79,7 @@ Moved most of this information to a [#DemolitionAlert]({% link category/demoliti
 **Update November 4, 2023**
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-11.jpg" alt="">
+  <img src="{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-11.jpg" alt="">
   <figcaption>October rendering for Fox Point Capital LLC</figcaption>
 </figure>
 
@@ -93,7 +92,7 @@ On Tuesday, October 17, the City Plan Commission approved an updated Master Plan
 **Update August 16, 2023**
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-08.jpg" alt="">
+  <img src="{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-08.jpg" alt="">
   <figcaption>August rendering for Fox Point Capital LLC</figcaption>
 </figure>
 
@@ -122,14 +121,13 @@ A portion of this decision to demolish seems self-inflicted, in our opinion. RID
 ### 108–110 Waterman Street
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/110-waterman-street-streetview.jpg" alt="">
+  <img src="{{ site.propimg_path }}proposals/110-waterman-street-streetview.jpg" alt="">
   <figcaption>Streetview of 110 Waterman Street from Google</figcaption>
 </figure>
 
 **Update September 30, 2023**
 
 We have added this property to our archive: [108–110 Waterman Street]({% link _property/rufus-waterman-house-pvd.md %})
-
 **Update September 27, 2023**
 
 Aa 5-story, 28-unit apartment building proposal received Master Plan Approval on September 19, with the condition of removing the rooftop deck due to noise concerns. It was determined by the Historic District Commission that the structure was not architecturally significant enough to prevent its demolition. Providence’s first National Register District, the College Hill Historic District, continues to be willingly degraded with losses like this.
@@ -157,7 +155,7 @@ On Wednesday, May 17, Urbanica Inc. presented their [new concept proposal for Pa
 Excerpted from Beth Comery for [the Providence Daily Dose](//providencedailydose.com/2023/04/16/new-proposal-for-i-195-land/):
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/1-195-land-Parcels-14-and-15.jpg" alt="">
+  <img src="{{ site.propimg_path }}proposals/1-195-land-Parcels-14-and-15.jpg" alt="">
   <figcaption>Rendering by CV Properties</figcaption>
 </figure>
 
@@ -173,7 +171,7 @@ Members of the public should sign-up to speak during the general public comment 
 ### 122 Power Street
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/122-power-st-2022-09-01.jpg" alt="">
+  <img src="{{ site.propimg_path }}proposals/122-power-st-2022-09-01.jpg" alt="">
   <figcaption>Rendering by KITE Architects, dated September 2022</figcaption>
 </figure>
 
@@ -187,7 +185,7 @@ If approved by the City, Brown intends to sell this house to Brown faculty or st
 ### I-195 Redevelopment District Commission
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/195-parcel-8-2022-11-22.jpg" alt="">
+  <img src="{{ site.propimg_path }}proposals/195-parcel-8-2022-11-22.jpg" alt="">
   <figcaption>Rendering by D+P and Truthbox for parcels 8 and 8a in India Point</figcaption>
 </figure>
 
@@ -197,7 +195,7 @@ On November 9, the I-195 Redevelopment District Commission approved concept plan
 ### 311 Knight Street
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/311-knight-st-2021-07-01.jpg" alt="">
+  <img src="{{ site.propimg_path }}proposals/311-knight-st-2021-07-01.jpg" alt="">
   <figcaption>Rendering by ZDS Architects from the proposal submitted to the City Planning Commission</figcaption>
 </figure>
 
@@ -211,7 +209,7 @@ Construction is supposed to start in late 2022. The three lots of this location 
 ### 230 Waterman St
 
 <figure class="u__img">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}proposals/280-waterman-ave-2022-11-22.jpg" alt="">
+  <img src="{{ site.propimg_path }}proposals/280-waterman-ave-2022-11-22.jpg" alt="">
   <figcaption>Streetview capture of the former Monahan Drabble Sherman Funeral Home</figcaption>
 </figure>
 

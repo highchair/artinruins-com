@@ -103,7 +103,7 @@ imagescredit: 'Contribution from the RI Secretary of State Collection Digital Co
 We find it interesting that the 2001–2002 ICDB lists this building under the name Rogers Williams Brewing Company while it only occupied it for seven years — from 1933 to 1940. Meanwhile, it was Mill Number 3 of the Weybosset Mills from its construction in 1880 until 1889. It was then part of the American Woolen Company from 1899 until 1930.
 
 <figure class="u__img u__img--left" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/rw_brewery_logo.png" alt="" />
+  <img src="{{ site.propimg_path }}{{ page.slug }}/rw_brewery_logo.png" alt="" />
 </figure>
 
 Roger Williams Brewing company crafted such brews as Handy’s Cream Ale, Polskie Piwo Beer, Roger Williams Ale, Union Ale, and Westminster Ale.[^1] Prohibition was in effect when the brewery opened, but not for long. Prohition started in 1920 but ended on December 5, 1933. Some breweries stayed in business by producing “near-beer” (low alcohol). No information as to whether any of these brews started as low alcohol. Since the brewery was shortlived, its cans and bottles are prized by collectors. 
@@ -133,7 +133,7 @@ _From the National Register Form for the Weybosset Mills complex, 2008, by Jenny
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-rw-brewing-mill3-jh-2023-05-01">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/rw-brewing-mill3-jh-2023-05-01.jpg" alt="" />
+    <img src="{{ site.propimg_path }}{{ page.slug }}/rw-brewing-mill3-jh-2023-05-01.jpg" alt="" />
   </a>
   <figcaption>Mill Number 3, now 244 Oak Street</figcaption>
 </figure>
@@ -152,7 +152,7 @@ The Mill No. 3 Boiler House is located south of the Mill No. 3 south stair tower
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-rw-brewing-mill3-jh-2023-05-05">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/rw-brewing-mill3-jh-2023-05-05.jpg" alt="" />
+    <img src="{{ site.propimg_path }}{{ page.slug }}/rw-brewing-mill3-jh-2023-05-05.jpg" alt="" />
   </a>
   <figcaption>Mill Number 3’s Boiler/Engine/Turbine House, now 71/69 Troy Street</figcaption>
 </figure>

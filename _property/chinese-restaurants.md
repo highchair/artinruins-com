@@ -162,9 +162,7 @@ _From the anecdotes:_
 #### Other restaurants mentioned
 
 <figure class="u__img u__img--right">
-  <a href="#photo-4">
-    <img src="{{ site.propimg_path }}{{ page.slug }}/chens-matchbook.jpg" alt="" />
-  </a>
+  <img src="{{ site.propimg_path }}{{ page.slug }}/chens-matchbook.jpg" alt="" />
   <figcaption>A matchbook from Chen’s, 124 Washington Street</figcaption>
 </figure>
 

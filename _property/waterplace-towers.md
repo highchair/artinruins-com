@@ -6,8 +6,8 @@ date-modified: 2020-10-11 12:00
 
 built: '2006-2007'
 parcel: 2
-demolition: 
-redeveloped: 
+demolition:
+redeveloped:
 decade: '2000-2009'
 date-added: '2006'
 categories: [ '#WhatAreTheyBuilding' ]
@@ -72,9 +72,7 @@ imagescredit:
 ### Proposal 
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-4">
-    <img src="{{ site.propimg_path }}{{ page.slug }}/waterplace003.jpg" alt="" />
-  </a>
+  <img src="{{ site.propimg_path }}{{ page.slug }}/waterplace003.jpg" alt="" />
   <figcaption>An early rendering of the new towers by ADD Architects from Boston.</figcaption>
 </figure>
 

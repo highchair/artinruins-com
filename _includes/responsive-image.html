@@ -12,7 +12,7 @@
   {%- endfor -%}
 {%- endcapture -%}
 {%- if size -%}
-  <img src="{{ site.propimg_path }}r/{{ size }}/{{ image }}" class="rwd-img" srcset="{{ srcset | strip_newlines }}" alt="" loading="lazy" decoding="async" />
+  <img src="{{ site.propimg_local }}r/{{ size }}/{{ image }}" class="rwd-img" srcset="{{ srcset | strip_newlines }}" alt="" loading="lazy" decoding="async" />
 {%- else -%}
   <img src="/{{ path }}" class="rwd-img" srcset="{{ srcset | strip_newlines }}" alt="" loading="lazy" decoding="async" />
 {%- endif -%}

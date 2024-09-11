@@ -76,9 +76,7 @@ imagescredit: 'Contributions from Frank Mullin and Jef Nickerson'
 ### Proposal
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-4">
-    <img src="{{ site.propimg_path }}{{ page.slug }}/chace-center-render.jpg" alt="" />
-  </a>
+  <img src="{{ site.propimg_path }}{{ page.slug }}/chace-center-render.jpg" alt="" />
   <figcaption>A watercolor rendering from the architect, Rafael Moneo</figcaption>
 </figure>
 

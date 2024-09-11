@@ -31,12 +31,8 @@ thumbnail: hilton-with-residential-thumb.jpg
 ### Proposal
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-4">
-    <img src="{{ site.propimg_path }}{{ page.slug }}/hilton-with-residential-thumb.jpg" alt="" />
-  </a>
-  <figcaption>
-    A very poor rendering of the Hilton project, but the only rendering of any of the proposed structures that could be found
-  </figcaption>
+  <img src="{{ site.propimg_path }}{{ page.slug }}/hilton-with-residential-thumb.jpg" alt="" />
+  <figcaption>A very poor rendering of the Hilton project, but the only rendering of any of the proposed structures that could be found</figcaption>
 </figure>
 
 $700 million dollars? As soon as we saw that in the headline we should have thought “no way this is going to actually happen.” Where did that number come from? Outlined in the oldest news story we could find from February 2005:

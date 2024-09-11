@@ -32,7 +32,7 @@ To be fair, the Silver Spring complex is on the outskirts of the city, and it wo
 But if this unsparing market-based philosophy is pursued to its natural outcome, parts of Providence will increasingly resemble the generic sprawl — like stretches of Route 2 in Warwick or Route 1 in Attleboro, Massachusetts — that has homogenized the American landscape. While there are still 58 mill complexes in Providence, 13 have been destroyed in recent years and seven more are slated to go, according to the Providence Industrial Mill Buildings Association (<span class="abbr">PIMBA</span>), a new advocacy group. [**Ed. note:** No record of this group could be found online in 2023]
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}silver-springs-bleaching/silver-spring-thumb.jpg" alt="" />
+  <img src="{{ site.propimg_path }}silver-springs-bleaching/silver-spring-thumb.jpg" alt="" />
   <figcaption><b>Silver Springs Bleaching & Dyeing Company</b>, located along Charles Street, demolished in 2001 for a Home Depot.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Feldco spokesman Gene Beaudoin says floodplain issues and environmental concerns
 [^2]: Update: After pressure from Olneyville residents, preservationists, and the residents of Fort Thunder, Feldco saved and repurposed four of the sixteen buildings.
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}eagle-square/eagle-square-jh-06.jpg" alt="" />
+  <img src="{{ site.propimg_path }}eagle-square/eagle-square-jh-06.jpg" alt="" />
   <figcaption>The <b>Valley Worsted Mills</b>, a.k.a Eagle Square, mostly razed in 2001–2002. Four of the fourteen buildings were repurposed into residential and commercial space, despite the developers declaring it would be “financially unfeasible.”</figcaption>
 </figure>
 

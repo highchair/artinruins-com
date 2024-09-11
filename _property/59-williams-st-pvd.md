@@ -86,19 +86,17 @@ Starting in 2019, the Historic District Commission (<span class="abbr">HDC</span
 Owners and architects wanted to demolish a non-contributing garage and relocate a circa 1875 cottage that is important to the fabric of the district. Demolition of the garage was the only item that was voted on and passed in June of 2020. Meanwhile, another set of plans called to construct a new two family structure within the district after the single lot was subdivided into two, then three. Review of both projects carried on for several months.
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/williams-st-architect-render-01.jpg" alt="" />
-  <figcaption>
-    An August 2020 rendering from Friedrich StFlorian Architects
-  </figcaption>
+  <img src="{{ site.propimg_path }}{{ page.slug }}/williams-st-architect-render-01.jpg" alt="" />
+  <figcaption>An August 2020 rendering from Friedrich StFlorian Architects</figcaption>
 </figure>
 
 The initial design for the cottage would have moved it closer to the street and added a modern addition to the east. A car bay would have been located behind the house, with a driveway that wrapped around the west side. This design was not approved, and we believe the reasoning was that moving the house changed the character of the lot too much. The cottage is set back from the street in what feels more like a suburban setting, with ample landscaping between it and the street. Moving it forward changes that interface with the street greatly. The design of the addition was also not as sympathetic to the design of the cottage, and the two structures felt disconnected.
 
 The double townhouse approval at 6 John Street moved into October of 2020, while the <span class="abbr">HDC</span> tried to convince the architect for 59 Williams Street that moving the house was unnecessary, and the vacant lot where the garage stands now would be a better location for the modern home addition.
 
-The [lot at 59 Williams Street extending to 6 John Street](#photo-williams-st-subdivision-2020) was large and surprisingly undeveloped. It was an upside-down “L“ shape that extended from Williams to John Street in between the [1852 Thomas F. Hoppin House](//guide.ppsri.org/property/tully-d-bowen-house){:target="_blank"} and parking access for homes on Williams Street. It was initially subdivided into two lots, but was then further subdivided into three, allowing for a home to be built facing each street.
+The [lot at 59 Williams Street extending to 6 John Street](#photo-williams-st-subdivision-2020) was large and surprisingly undeveloped. It was an upside-down “L“ shape that extended from Williams to John Street in between the [1852 Thomas F. Hoppin House](https://guide.ppsri.org/property/tully-d-bowen-house) and parking access for homes on Williams Street. It was initially subdivided into two lots, but was then further subdivided into three, allowing for a home to be built facing each street.
 
-In March of 2021 the new design was approved, which kept the cottage in place and even used the existing foundation of the demolished garage as part of the design lines. The <span class="abbr">HDC</span> created a sub-committee to oversee final construction details. The [Providence Preservation Society](//www.ppsri.org){:target="_blank"}, which was an active voice during the proceedings, was ultimately pleased with the solution. It would seem that — while long — the <span class="abbr">HDC</span> review process allowed for the project to improve significantly and provided a venue for concerned neighbors. At this important location in the [College Hill National Historic Landmark District]({% link list/college-hill-historic-district.html %}), the <span class="abbr">HDC</span> must ensure that the design enhances its surroundings.
+In March of 2021 the new design was approved, which kept the cottage in place and even used the existing foundation of the demolished garage as part of the design lines. The <span class="abbr">HDC</span> created a sub-committee to oversee final construction details. The [Providence Preservation Society](https://www.ppsri.org), which was an active voice during the proceedings, was ultimately pleased with the solution. It would seem that — while long — the <span class="abbr">HDC</span> review process allowed for the project to improve significantly and provided a venue for concerned neighbors. At this important location in the [College Hill National Historic Landmark District]({% link list/college-hill-historic-district.html %}), the <span class="abbr">HDC</span> must ensure that the design enhances its surroundings.
 
 While we at ArtInRuins applaud the <span class="abbr">HDC</span>’s diligence and effort when a designer/developer wants to redesign an existing part of the district or build new, we question why it [seems so easy to demolish many late-19th-century homes within other parts of the district]({% link _essays/erosion-of-college-hill-historic-district.md %}).
 
@@ -118,10 +116,10 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 
 #### Maps
 
-+ [1889 Sanborn Insurance Map, Volume 2, Plate 45](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188902){:target="_blank"} (page 13) — Present on the map, shown as a two story wood frame dwelling, set back from the street, with sheds and an unconnected one and a half story building on the same lot. The “2” could be a mistake as it does not look like a “1” but it also does not look exactly like the rest of the “2”s present on other dwellings.
-+ [1920 Sanborn Insurance Map, Volume 2, Plate 23](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (page 30) — Buildings in much the same configuration but the main house is now labelled as one story and as “shed.”
-+ [1920–1951 Sanborn Insurance Map, Volume 2, Plate 23](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (page 30) — The main house is still labelled as “shed” but the wood frame buildings are gone and a one story stone/cinder block building is on the property labelled as “5 stalls.”
-+ [1920–1956 Sanborn Insurance Map, Volume 2, Plate 23](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602){:target="_blank"} (page 24) — The main house is labelled “D” for dwelling (no longer considered a shed) and the garage is labelled “A” (for Automobile?).
++ [1889 Sanborn Insurance Map, Volume 2, Plate 45](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188902) (page 13) — Present on the map, shown as a two story wood frame dwelling, set back from the street, with sheds and an unconnected one and a half story building on the same lot. The “2” could be a mistake as it does not look like a “1” but it also does not look exactly like the rest of the “2”s present on other dwellings.
++ [1920 Sanborn Insurance Map, Volume 2, Plate 23](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102) (page 30) — Buildings in much the same configuration but the main house is now labelled as one story and as “shed.”
++ [1920–1951 Sanborn Insurance Map, Volume 2, Plate 23](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102) (page 30) — The main house is still labelled as “shed” but the wood frame buildings are gone and a one story stone/cinder block building is on the property labelled as “5 stalls.”
++ [1920–1956 Sanborn Insurance Map, Volume 2, Plate 23](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602) (page 24) — The main house is labelled “D” for dwelling (no longer considered a shed) and the garage is labelled “A” (for Automobile?).
 
 
 ### In the News

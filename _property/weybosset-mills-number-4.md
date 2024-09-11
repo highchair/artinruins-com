@@ -84,7 +84,7 @@ Mill No. 4 is located in the southeast block, east of Mill No. 3 and south of Mi
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-52-troy-st-jh-2023-05-03">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/52-troy-st-jh-2023-05-03.jpg" alt="" />
+    <img src="{{ site.propimg_path }}{{ page.slug }}/52-troy-st-jh-2023-05-03.jpg" alt="" />
   </a>
   <figcaption>Mill Number 4 as seen from the corner of Oak and Magnolia. The three foot knee wall along the roofline can be seen, indicating how the western portion of the building was constructed circa 1885 and the eastern portion circa 1900.</figcaption>
 </figure>
@@ -95,7 +95,7 @@ Two steel beams, connected by two vertical steel members, wrap around the west e
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-64-troy-st-jh-2023-05-01">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/64-troy-st-jh-2023-05-01.jpg" alt="" />
+    <img src="{{ site.propimg_path }}{{ page.slug }}/64-troy-st-jh-2023-05-01.jpg" alt="" />
   </a>
   <figcaption>Mill Number 4’s Boiler House, now 64 Troy and 1 Magnolia Street</figcaption>
 </figure>

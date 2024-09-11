@@ -151,7 +151,7 @@ In 2014, the buildings that were originally built by Banigan Rubber were purchas
 
 ### Current Events
 
-200,000 square feet of commercial space is under the management of [Foundry Associates](//www.foundryri.com/alco). Important anchor tenants include U.S. Foods and the RI Commerce Corporation.
+200,000 square feet of commercial space is under the management of [Foundry Associates](https://www.foundryri.com/alco). Important anchor tenants include U.S. Foods and the RI Commerce Corporation.
 
 
 ### History
@@ -161,7 +161,7 @@ In 2014, the buildings that were originally built by Banigan Rubber were purchas
 
 #### More Sources
 
-For photos of American Locomotive engines, visit [ALCoHistoricPhotos.com](http://alcohistoricphotos.com){:target="_blank"}
+For photos of American Locomotive engines, visit [ALCoHistoricPhotos.com](http://alcohistoricphotos.com)
 
 For more information about the history of the automobile in Rhode Island, the [RI Historical Society has a lovely publication]({% link /supplements/RIHS-Automobile-comes-to-RI.pdf %}) written by J. Stanley Lemons on August, 1994, from which this is excerpted:
 
@@ -176,7 +176,7 @@ For more information about the history of the automobile in Rhode Island, the [R
 
 _From the National Register Nomination form for the United States Rubber Company Mill Complex, Edward Connors, 2005_
 
-[…] The earliest industrial exploitation of this area was the relocation to Providence in 1862 of the Bristol (R.I.) Firearms Company, later [Burnside Rifle Company](//provlibdigital.org/islandora/object/islandora%3A4870){:target="_blank"}. General Ambrose Burnside and two other partners had set up shop in Bristol, RI, in 1853 for the exploitation of patents he held for an improved mechanism for a breech loaded rifle. This company secured extensive and profitable government contracts during the Civil War. Burnside reinvested those profits in 1866 with the incorporation of the Rhode Island Locomotive Works (<span class="abbr">RILW</span>) and the conversion of this Providence work for this purpose. For about 30 years, this company produced locomotives in a large plant centered along Valley and Hemlock Streets. The company appears to have failed in the Depression of 1893. <span class="abbr">RILW</span> defaulted on a mortgage taken out one year into the depression and the works were sold at public auction in 1893. […]
+[…] The earliest industrial exploitation of this area was the relocation to Providence in 1862 of the Bristol (R.I.) Firearms Company, later [Burnside Rifle Company](https://provlibdigital.org/islandora/object/islandora%3A4870), General Ambrose Burnside and two other partners had set up shop in Bristol, RI, in 1853 for the exploitation of patents he held for an improved mechanism for a breech loaded rifle. This company secured extensive and profitable government contracts during the Civil War. Burnside reinvested those profits in 1866 with the incorporation of the Rhode Island Locomotive Works (<span class="abbr">RILW</span>) and the conversion of this Providence work for this purpose. For about 30 years, this company produced locomotives in a large plant centered along Valley and Hemlock Streets. The company appears to have failed in the Depression of 1893. <span class="abbr">RILW</span> defaulted on a mortgage taken out one year into the depression and the works were sold at public auction in 1893. […]
 
 In 1901 seven regional locomotive manufacturers were consolidated into the American Locomotive Company (<span class="abbr">ALCO</span>) as means of eliminating competition. A 1901 _Board of Trade Journal_ article announcing the formations of the company described the necessity of the combination:
 

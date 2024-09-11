@@ -26,12 +26,12 @@ _by Robin Amer_
 
 The Steel Yard welcomed visitors and the public with an open house last Thursday, October 28. In the year or so since it first opened, the Steel Yard has established a public foundry, ceramics studio, and blacksmithing shop, as well as space for jewelry making, bronze casting, welding, and woodworking. The blacksmithing students are here from the Met School, as part of the Steel Yard’s Youth Enrichment Partnership, which makes free classes available to youth from local high schools and arts groups. These facilities are accessible to the public through tuition-based courses, residencies, and other approaches. The Steel Yard runs a number of community-based programs, such as “Made in Providence,” in which participants fashion functional items like tree guards and bike racks from recycled steel, and then install them locally. There’s also an “urban agriculture unit,” a colorful shipping-trailer-turned-greenhouse, where growers nurture hydroponic basil — grown entirely in water without soil — to prove that agriculture can exist in urban areas under the right conditions.
 
-By providing community space for the industrial arts, the Steel Yard ([www.thesteelyard.org](//thesteelyard.org){:target="_blank"} is unique in the local area. But perhaps more significantly, in the ongoing conversation about preserving the city’s historic industrial space, the Steel Yard is the only redevelopment project in Providence that preserves not only a historic site, but its historic uses as well.
+By providing community space for the industrial arts, the Steel Yard ([thesteelyard.org](https://thesteelyard.org) is unique in the local area. But perhaps more significantly, in the ongoing conversation about preserving the city’s historic industrial space, the Steel Yard is the only redevelopment project in Providence that preserves not only a historic site, but its historic uses as well.
 
 ***
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}eagle-square/eagle-square-jh-05.jpg" alt="" />
+  <img src="{{ site.propimg_path }}eagle-square/eagle-square-jh-05.jpg" alt="" />
   <figcaption>The <b>Valley Worsted Mills</b>, a.k.a Eagle Square, mostly razed in 2001–2002. Four of the fourteen buildings were repurposed into residential and commercial space.</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Buildings listed on the <span class="abbr">ICBD</span> receive an automatic live
 With these new financial incentives in place, mills gained newfound recognition as valuable and desirable property, and many redevelopment projects happened as a result. After Eagle Square, renovation projects at Monohasset Mill, [Rising Sun Mills]({% link _property/national-providence-worsted.md %}), [the Foundry]({% link _property/brown-sharpe-foundry.md %}), and the [Rau Fastener complex]({% link _property/perkins-bldgs.md %}) on Dexter Street are combining to produce nearly one million square feet of newly renovated, formerly industrial space.
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}national-providence-worsted/rising-sun-jh-2005-03-02.jpg" alt="" />
+  <img src="{{ site.propimg_path }}national-providence-worsted/rising-sun-jh-2005-03-02.jpg" alt="" />
   <figcaption>The <b>National Providence and Worsted Mills</b>, a.k.a Rising Sun, repurposed into residential and commercial space in 2005.</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ All of this has led to a phenomenon that the architects of the industrial/commer
 Many developers who do adaptive-reuse projects claim residential developments are a matter of necessity. The overhead of updating these buildings is costly to the point of being prohibitive, they say. Taking into account the specifics of the new fire code, the common need for environmental remediation, and the physical neglect suffered by most mills over time, the quickest, easiest, and most profitable way to deal with the cost is to develop mills into residential units than can be sold. Mark Van Noppen, a partner in the Armory Revival Company, which is developing Rising Sun and several other mills on Valley Street, says it’s also much harder to find commercial tenants than residential tenants, and that banks tend not to want to finance commercial development, because job growth has been virtually non-existent in the city.
 
 <figure class="u__img" aria-hidden="true">
-  <img src="{{ site.prod_url }}{{ site.propimg_path }}monohasset-mill/monohasset-jh-2005-06-05.jpg" alt="" />
+  <img src="{{ site.propimg_path }}monohasset-mill/monohasset-jh-2005-06-05.jpg" alt="" />
   <figcaption>The <b>Armington & Sims Engine Company</b>, a.k.a Monohasset Mill, repurposed into residential units by 2006.</figcaption>
 </figure>
 

@@ -75,12 +75,10 @@ imagescredit: 'Contributions from the National Register Nomination form'
 The Simmons Building was the birthplace of the [Davol Rubber Company]({% link _property/davol-rubber-company.md %}), which was founded in 1874 by Joseph Davol. The building was named after his grandfather in-law, Eban Simmons. By 1884 new buildings were being constructed on a larger plot of land diagonally across the street for what would become the bulk of the Davol Rubber complex. 
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="/property/davol-rubber-company#photo-amerscrew-habs-1970-03">
-    <img src="/property-img/davol-rubber-company/davol-rubber-jb-1980-02-02.jpg" alt="" />
+  <a href="{% link _property/davol-rubber-company.md %}">
+    <img src="{{ site.propimg_path }}/davol-rubber-company/davol-rubber-jb-1980-02-02.jpg" alt="" />
   </a>
-  <figcaption>
-    Notice the overhead connector between the main Davol Rubber complex and the Simmons Building, far left — February 1980, Jeffrey Blydenburgh for the National Register Nomination form
-  </figcaption>
+  <figcaption>Notice the overhead connector between the main Davol Rubber complex and the Simmons Building, far left — February 1980, Jeffrey Blydenburgh for the National Register Nomination form</figcaption>
 </figure>
 
 This building was subleased to various small businesses soon after the main operations of the Davol Company moved across Point Street. In the early 1900s, the building once again was used by the Davol Rubber company and an elevated walkway connected it to the main building at the second floor level.

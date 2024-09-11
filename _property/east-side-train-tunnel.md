@@ -158,7 +158,7 @@ A somber ceremony marked the closing of the Fox Point railroad station, in which
 
 <figure class="u__img">
   <a href="#photo-es-train-tunnel-ppl-fox-point-station">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/es-train-tunnel-ppl-fox-point-station.jpg" alt="" />
+    <img src="{{ site.propimg_path }}{{ page.slug }}/es-train-tunnel-ppl-fox-point-station.jpg" alt="" />
   </a>
   <figcaption>
     Notes from Edward Ozog are on the back of the Fox Point trolley station photo, and they read: “At this time, trains from Fall River, Warren. and Bristol were using the tunnel and not this terminal. The depot building was in use at this time as a freight office for the wharf business from Fox Point to India Point.”

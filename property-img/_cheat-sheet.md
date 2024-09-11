@@ -74,11 +74,9 @@ Malone, George. _“Riverboat Ride: Crescent Park, Riverside, RI”_, Laff in th
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-amerscrew-habs-1970-03">
-    <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ page.slug }}/amerscrew-habs-1970-03.jpg" alt="" />
+    <img src="{{ site.propimg_path }}{{ page.slug }}/amerscrew-habs-1970-03.jpg" alt="" />
   </a>
-  <figcaption>
-    Photo by Laurence Tilley for HABS/HAER and the National Register
-  </figcaption>
+  <figcaption>Photo by Laurence Tilley for HABS/HAER and the National Register</figcaption>
 </figure>
 
 

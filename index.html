@@ -122,7 +122,7 @@ sitemap:
     {% assign randprop = site.property | where: 'slug', site.data.artful_architecture[random].post %}
       <!-- random post = {{ site.data.artful_architecture[random].post }} -->
       <li class="taxonomy__item taxonomy__item--random">
-        <img src="{{ site.prod_url }}{{ site.propimg_path }}{{ randprop[0].slug }}/{{ site.data.artful_architecture[random].img }}" alt="" loading="eager" decoding="async">
+        <img src="{{ site.propimg_path }}{{ randprop[0].slug }}/{{ site.data.artful_architecture[random].img }}" alt="" loading="eager" decoding="async">
         <div class="property-card__content">
           <p class="u__text__sans--bold"><span class="o__title--sm">The Art of Ruins</span> — This week’s artful image</p>
           <div class="property-card__title-wrap">

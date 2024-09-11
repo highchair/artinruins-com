@@ -16,7 +16,7 @@ sitemap:
   changefreq: 'yearly'
 ---
 
-_Contribution of aerial photos from the <a href="//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e" target="_blank">Providence Historical Aerial Viewer</a>_
+_Contribution of aerial photos from the <a href="https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e">Providence Historical Aerial Viewer</a>_
 
 ## The District
 
@@ -29,10 +29,8 @@ One of the most prominent portions of the district is the seat of Brown Universi
 [^2]: “List of Brown University buildings.” Wikipedia. Captured 08 March 2023 from https://en.wikipedia.org/wiki/List_of_Brown_University_buildings. A 2006 we found totaled 235 Brown University buildings, https://www.brown.edu/facilities/sites/facilities/files/CampusHeritage2-06.pdf
 
 <figure class="u__img">
-  <img class="js-lazy" src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/brown-univ-1908-lj-richards-plate-7.jpg" alt="" />
-  <figcaption>
-    1908 L.J. Richards cadastral map of the area around the central green of Brown University
-  </figcaption>
+  <img class="js-lazy" src="{{ site.propimg_path }}essays/erosion-of-college-hill/brown-univ-1908-lj-richards-plate-7.jpg" alt="" />
+  <figcaption>1908 L.J. Richards cadastral map of the area around the central green of Brown University</figcaption>
 </figure>
 
 
@@ -66,8 +64,8 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 ### Blocks bounded by Cushing, Brook, Euclid, and Thayer
 
 <figure class="u__img">
-  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2011: Two blocks bounded by Cushing, Brook, Meeting, and Thayer with twenty-one X marks over homes that were lost — Providence Historical Aerial Viewer." href="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2011-LOST.jpg" role="button" aria-label="Link opens image in a larger pop-over">
-    <img class="js-lazy" data-src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2011-LOST.jpg" alt="" width="1440" height="900" />
+  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2011: Two blocks bounded by Cushing, Brook, Meeting, and Thayer with twenty-one X marks over homes that were lost — Providence Historical Aerial Viewer." href="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2011-LOST.jpg" role="button" aria-label="Link opens image in a larger pop-over">
+    <img class="js-lazy" data-src="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2011-LOST.jpg" alt="" width="1440" height="900" />
   </a>
   <figcaption>
     2011: Two blocks bounded by Cushing, Brook, Meeting, and Thayer with twenty-one X marks over the homes that were lost — Providence Historical Aerial Viewer
@@ -75,8 +73,8 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 </figure>
 
 2013 — Minus nine homes
-: Gilbane Development sought and was granted a request to [demolish nine houses]({% link _property/brook-meeting-euclid.md %}) on the block bounded by Meeting, Brook, Euclid, and Thayer Streets. They planned and built a [four-story, single structure with interior courtyard]({% link _property/257-thayer-st.md %}) capable of housing 200 students. The previous nine homes likely housed an estimated 75 residents. 
-: This is the first major redevelopment in the area and what we think of as the lynch pin that makes further erosion and demolition within these blocks easier to accept. The developers used the “blight” language in their request, normalizing the previous landlords neglect to properly maintain these structures. 
+: Gilbane Development sought and was granted a request to [demolish nine houses]({% link _property/brook-meeting-euclid.md %}) on the block bounded by Meeting, Brook, Euclid, and Thayer Streets. They planned and built a [four-story, single structure with interior courtyard]({% link _property/257-thayer-st.md %}) capable of housing 200 students. The previous nine homes likely housed an estimated 75 residents.
+: This is the first major redevelopment in the area and what we think of as the lynch pin that makes further erosion and demolition within these blocks easier to accept. The developers used the “blight” language in their request, normalizing the previous landlords neglect to properly maintain these structures.
 : The houses were all circa 1875 to 1900, mostly 2 and a half stories with gable roofs.
 
 2016 — Minus seven more houses, for a total of 16 lost
@@ -94,8 +92,8 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 : The same brothers also tore down an 1896 house at [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}). A similar building will be constructed, four stories with ground floor retail.
 
 <figure class="u__img">
-  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2011: Two blocks bounded by Cushing, Brook, Meeting, and Thayer — Providence Historical Aerial Viewer." href="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2011.jpg" role="button" aria-label="Link opens image in a larger pop-over">
-    <img class="js-lazy" data-src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2011.jpg" alt="" width="1440" height="900" />
+  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2011: Two blocks bounded by Cushing, Brook, Meeting, and Thayer — Providence Historical Aerial Viewer." href="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2011.jpg" role="button" aria-label="Link opens image in a larger pop-over">
+    <img class="js-lazy" data-src="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2011.jpg" alt="" width="1440" height="900" />
   </a>
   <figcaption>
     2011: Two blocks bounded by Cushing, Brook, Meeting, and Thayer — Providence Historical Aerial Viewer
@@ -103,8 +101,8 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 </figure>
 
 <figure class="u__img">
-  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2014: Two blocks bounded by Cushing, Brook, Meeting, and Thayer — Providence Historical Aerial Viewer." href="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2014.jpg" role="button" aria-label="Link opens image in a larger pop-over">
-    <img class="js-lazy" data-src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2014.jpg" alt="" width="1440" height="900" />
+  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2014: Two blocks bounded by Cushing, Brook, Meeting, and Thayer — Providence Historical Aerial Viewer." href="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2014.jpg" role="button" aria-label="Link opens image in a larger pop-over">
+    <img class="js-lazy" data-src="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2014.jpg" alt="" width="1440" height="900" />
   </a>
   <figcaption>
     2014: Two blocks bounded by Cushing, Brook, Meeting, and Thayer — Providence Historical Aerial Viewer
@@ -112,8 +110,8 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 </figure>
 
 <figure class="u__img">
-  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2018: Two blocks bounded by Cushing, Brook, Meeting, and Thayer — Providence Historical Aerial Viewer." href="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2018.jpg" role="button" aria-label="Link opens image in a larger pop-over">
-    <img class="js-lazy" data-src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2018.jpg" alt="" width="1440" height="900" />
+  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2018: Two blocks bounded by Cushing, Brook, Meeting, and Thayer — Providence Historical Aerial Viewer." href="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2018.jpg" role="button" aria-label="Link opens image in a larger pop-over">
+    <img class="js-lazy" data-src="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2018.jpg" alt="" width="1440" height="900" />
   </a>
   <figcaption>
     2018: Two blocks bounded by Cushing, Brook, Meeting, and Thayer — Providence Historical Aerial Viewer
@@ -121,8 +119,8 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 </figure>
 
 <figure class="u__img">
-  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2022: Two blocks bounded by Cushing, Brook, Meeting, and Thayer — Providence Historical Aerial Viewer." href="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2022.jpg" role="button" aria-label="Link opens image in a larger pop-over">
-    <img class="js-lazy" data-src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2022.jpg" alt="" width="1440" height="900" />
+  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2022: Two blocks bounded by Cushing, Brook, Meeting, and Thayer — Providence Historical Aerial Viewer." href="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2022.jpg" role="button" aria-label="Link opens image in a larger pop-over">
+    <img class="js-lazy" data-src="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Cushing-Brook-Euclid-2022.jpg" alt="" width="1440" height="900" />
   </a>
   <figcaption>
     2022: Two blocks bounded by Cushing, Brook, Meeting, and Thayer — Providence Historical Aerial Viewer
@@ -134,8 +132,8 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 ### Blocks bounded by Euclid, Brook, Waterman, and Thayer
 
 <figure class="u__img">
-  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2014: Two blocks bounded by Euclid, Brook, Waterman, and Thayer with eleven X marks over homes that were lost — Providence Historical Aerial Viewer." href="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2014-LOST.jpg" role="button" aria-label="Link opens image in a larger pop-over">
-    <img class="js-lazy" data-src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2014-LOST.jpg" alt="" width="1440" height="900" />
+  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2014: Two blocks bounded by Euclid, Brook, Waterman, and Thayer with eleven X marks over homes that were lost — Providence Historical Aerial Viewer." href="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2014-LOST.jpg" role="button" aria-label="Link opens image in a larger pop-over">
+    <img class="js-lazy" data-src="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2014-LOST.jpg" alt="" width="1440" height="900" />
   </a>
   <figcaption>
     2014: Two blocks bounded by Euclid, Brook, Waterman, and Thayer with eleven X marks over homes that were lost — Providence Historical Aerial Viewer
@@ -143,13 +141,13 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 </figure>
 
 2016–2017 — Minus one commercial structure, for a total of 22 lost
-: On the corner of Thayer Street and Euclid, the former Store 24 is razed for a new Brown University building, the Jonathan M. Nelson Center for Entrepreneurship. It was designed by ZDS Architecture and is co-owned by Capstone Properties and the Discovery Group with Brown as the anchor tenant. 
+: On the corner of Thayer Street and Euclid, the former Store 24 is razed for a new Brown University building, the Jonathan M. Nelson Center for Entrepreneurship. It was designed by ZDS Architecture and is co-owned by Capstone Properties and the Discovery Group with Brown as the anchor tenant.
 : 247 Thayer Street was a mid-century concrete block commercial building and non-contributing structure within the historic district. It was not a great loss, architecturally. It was a Store 24 located at a 247 address, though, which was pretty clever. The new building uses the address of 249 instead.
 
 2018 — Minus four more, for a total of 26 lost
-: Two houses on the corners of Euclid and Brook Streets are demolished in favor of a new structure with ground floor retail and several three, four, and five bedroom apartments called simply [21 Euclid]({% link _property/21-euclid-ave.md %}). 
+: Two houses on the corners of Euclid and Brook Streets are demolished in favor of a new structure with ground floor retail and several three, four, and five bedroom apartments called simply [21 Euclid]({% link _property/21-euclid-ave.md %}).
 : The two houses were circa 1895, 2 and a half story Colonial Revival style.
-: Also in 2018, the [former Stereo Discount Center]({% link _property/189-angell-st-pvd.md %}) at 189 Angell Street was turned into apartments. Its neighbor at 185 Angell was razed in favor of a newer, denser, and taller residential building. 
+: Also in 2018, the [former Stereo Discount Center]({% link _property/189-angell-st-pvd.md %}) at 189 Angell Street was turned into apartments. Its neighbor at 185 Angell was razed in favor of a newer, denser, and taller residential building.
 : These two houses were circa 1844 and 1910. The 1844 home at 185 Angell was completely razed while the 1910 former house at 189 Angell was partially demolished and rebuilt beyond recognition.
 
 2020 — Not demolished, but three homes heavily altered
@@ -163,8 +161,8 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 : 116 Waterman was a circa 1857-75, square plan, 2 and a half story home with a cross gable roof and handsome, central entrance set off by columns. 382 Brook Street was a 1895 home with less detail and a gable roof.
 
 <figure class="u__img">
-  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2014: Two blocks bounded by Euclid, Brook, Waterman, and Thayer — Providence Historical Aerial Viewer." href="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2014.jpg" role="button" aria-label="Link opens image in a larger pop-over">
-    <img class="js-lazy" data-src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2014.jpg" alt="" width="1440" height="900" />
+  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2014: Two blocks bounded by Euclid, Brook, Waterman, and Thayer — Providence Historical Aerial Viewer." href="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2014.jpg" role="button" aria-label="Link opens image in a larger pop-over">
+    <img class="js-lazy" data-src="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2014.jpg" alt="" width="1440" height="900" />
   </a>
   <figcaption>
     2014: Two blocks bounded by Euclid, Brook, Waterman, and Thayer — Providence Historical Aerial Viewer
@@ -172,8 +170,8 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 </figure>
 
 <figure class="u__img">
-  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2018: Two blocks bounded by Euclid, Brook, Waterman, and Thayer — Providence Historical Aerial Viewer." href="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2018.jpg" role="button" aria-label="Link opens image in a larger pop-over">
-    <img class="js-lazy" data-src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2018.jpg" alt="" width="1440" height="900" />
+  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2018: Two blocks bounded by Euclid, Brook, Waterman, and Thayer — Providence Historical Aerial Viewer." href="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2018.jpg" role="button" aria-label="Link opens image in a larger pop-over">
+    <img class="js-lazy" data-src="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2018.jpg" alt="" width="1440" height="900" />
   </a>
   <figcaption>
     2018: Two blocks bounded by Euclid, Brook, Waterman, and Thayer — Providence Historical Aerial Viewer
@@ -181,8 +179,8 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 </figure>
 
 <figure class="u__img">
-  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2020: Two blocks bounded by Euclid, Brook, Waterman, and Thayer — Providence Historical Aerial Viewer." href="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2020.jpg" role="button" aria-label="Link opens image in a larger pop-over">
-    <img class="js-lazy" data-src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2020.jpg" alt="" width="1440" height="900" />
+  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2020: Two blocks bounded by Euclid, Brook, Waterman, and Thayer — Providence Historical Aerial Viewer." href="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2020.jpg" role="button" aria-label="Link opens image in a larger pop-over">
+    <img class="js-lazy" data-src="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2020.jpg" alt="" width="1440" height="900" />
   </a>
   <figcaption>
     2020: Two blocks bounded by Euclid, Brook, Waterman, and Thayer — Providence Historical Aerial Viewer
@@ -190,8 +188,8 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 </figure>
 
 <figure class="u__img">
-  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2022: Two blocks bounded by Euclid, Brook, Waterman, and Thayer — Providence Historical Aerial Viewer." href="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2022.jpg" role="button" aria-label="Link opens image in a larger pop-over">
-    <img class="js-lazy" data-src="{{ site.prod_url }}{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2022.jpg" alt="" width="1440" height="900" />
+  <a data-fslightbox="air-lightbox" data-type="image" data-caption="2022: Two blocks bounded by Euclid, Brook, Waterman, and Thayer — Providence Historical Aerial Viewer." href="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2022.jpg" role="button" aria-label="Link opens image in a larger pop-over">
+    <img class="js-lazy" data-src="{{ site.propimg_path }}essays/erosion-of-college-hill/Thayer-Euclid-Brook-Waterman-2022.jpg" alt="" width="1440" height="900" />
   </a>
   <figcaption>
     2022: Two blocks bounded by Euclid, Brook, Waterman, and Thayer — Providence Historical Aerial Viewer

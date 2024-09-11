@@ -190,7 +190,7 @@ _From the National Register nomination form, 2003, prepared by Edward Connors an
 A two-story, 40' x 80' brick building with a shallow gabled roof. Originally single story, a second story was added by 1920. All segmental arch windows have been replaced. Upper windows are late 20th-century replacement type; lower windows are early 20^- century, steel frame rectangular sash. A modern double entryway is found on the east elevation. A second-story beam once served as a machinery hoist. This beam has been trimmed flush with the façade of the building. Currently occupied by Antonelli Plating.
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-atlantic-degras-jh-2005-08-01.jpg">
+  <a href="#photo-atlantic-degras-jh-2005-08-01">
     <img src="{{ site.propimg_path }}{{ page.slug }}/atlantic-degras-jh-2005-08-01.jpg" alt="" />
   </a>
 </figure>
@@ -204,7 +204,7 @@ The original building consists of a deep single story with a 7' raised monitor r
 In the 1970s Antonelli Plating built a single-story, triangular plan, 19' x 44' x 115', cinderblock addition following the lines of the riverwall behind this building and Building No. 15. This addition occupies land reclaimed after the removal of a large settling basin associated with the process water needs of <span class="abbr">PDB&C</span>.
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-pdbc-jh-2005-08-01.jpg">
+  <a href="#photo-pdbc-jh-2005-08-01">
     <img src="{{ site.propimg_path }}{{ page.slug }}/pdbc-jh-2005-08-01.jpg" alt="" />
   </a>
 </figure>
@@ -218,7 +218,7 @@ Window openings are segmental arch with quarry-faced granite sills. Along the no
 This building and the attached Filter House are occupied by Stevell’s Plating.
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-pdbc-jh-2005-08-04.jpg">
+  <a href="#photo-pdbc-jh-2005-08-04">
     <img src="{{ site.propimg_path }}{{ page.slug }}/pdbc-jh-2005-08-04.jpg" alt="" />
   </a>
 </figure>
@@ -232,7 +232,7 @@ Built as a <span class="abbr">PDB&C</span> addition to the Atlantic-Degras Build
 In c. 1956, Antonelli Plating built a single-story, cinderblock 22' x 35' addition to the east wall of this building and the north wall of the Atlantic-Degras Building (No. 9). It serves as a sheltered shipping dock providing access to Building No. 9.
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-pdbc-jh-2005-08-07.jpg">
+  <a href="#photo-pdbc-jh-2005-08-07">
     <img src="{{ site.propimg_path }}{{ page.slug }}/pdbc-jh-2005-08-07.jpg" alt="" />
   </a>
 </figure>
@@ -243,7 +243,7 @@ A four-bay, two-story, 36' x 45' brick building, the first floor of which origin
 in of the original garage door.
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-pdbc-jh-2005-08-07.jpg">
+  <a href="#photo-pdbc-jh-2005-08-07">
     <img src="{{ site.propimg_path }}{{ page.slug }}/pdbc-jh-2005-08-07.jpg" alt="" />
   </a>
   <figcaption>View southwest. Far left: Building 16. Center and right: Building 17</figcaption>

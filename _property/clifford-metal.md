@@ -96,12 +96,10 @@ But back to the urban renewal project. Let’s reiterate: 50 acres, 500 building
 > The city’s 1946 “Master Plan for Land Use and Population Distribution” declared that new industrial sites should be established “in the valley bottoms on land now largely occupied by bad housing,” a strategy meant to kill two birds with one bulldozer: the flight of industry and the “blight” of low-income, multi-racial neighborhoods. […] To justify the displacement of so many people, the Providence Redevelopment Agency cited the neighborhood’s “difficult topography,” “irregular street pattern,” and “social inadequacy,” that last point referring to higher-than-average rates of tuberculosis, “illegitimate births,” and “general public assistance cases.” […] It took the city five years (1956-1961) to clear the area, fill the old cellar holes, “regroom” the land and sell off the massive new parcels to buyers [… most of whom] would have likely have moved away were it not for the availability of these newly-emptied parcels. With this in mind, the city declared West River Industrial Park a resounding success.
 
 <figure class="u__img">
-  <a href="//provlibdigital.org/islandora/object/islandora%3A26598">
+  <a href="https://provlibdigital.org/islandora/object/islandora%3A26598">
     <img src="{{ site.propimg_path }}{{ page.slug }}/West-River-Street-before-Post-Office.jpg" alt="" />
   </a>
-  <figcaption>
-    Aerial photo of the West River Industrial Park before the demolition of 500 structures. Photo links to the larger version at the Providence Public Library.
-  </figcaption>
+  <figcaption>Aerial photo of the West River Industrial Park before the demolition of 500 structures. Photo links to the larger version at the Providence Public Library.</figcaption>
 </figure>
 
 Its an amazing but unsurprising story of a city reducing urban blight with a blowtorch rather than fertilizer and careful pruning. We wonder about the stories of the people who were displaced, their homes, their churches & schools.One of the industrial properties that was removed was the Corliss Steam Engine factory, a monument to the industrial revolution. The former [R.I. Tool Company]({% link _property/ri-tool.md %}) was one of the few in the area saved from demolition. 

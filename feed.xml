@@ -32,7 +32,7 @@
         <description>
           <![CDATA[
             <p>
-              <img src="{{ site.prod_url }}/property-img/r/480/{{ prop_img }}" alt="{{ prop.images.first.alt | xml_escape }}" />{%- if prop.update -%}
+              <img src="{{ site.propimg_path }}r/480/{{ prop_img }}" alt="{{ prop.images.first.alt | xml_escape }}" />{%- if prop.update -%}
                 {{ prop.update | xml_escape }}
               {%- else -%}
                 {{ prop.excerpt | xml_escape }}
