@@ -83,12 +83,10 @@ In 2000 design ideas for this parcel has started to float around. Right alongsid
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <img src="{{ site.propimg_path }}{{ page.slug }}/10-Park-Row.jpg" alt="" />
-  <figcaption>
-    Rendering of 10 Park Row
-  </figcaption>
+  <figcaption>Rendering of 10 Park Row</figcaption>
 </figure>
 
-A chunky high-rise project was proposed in late 2000 with architects Jung Brennan and construction manager Emporis called “[10 Park Row](//web.archive.org/web/20040701195848/http://www.emporis.com/en/wm/bu/?id=102335){:target="_blank"}.” It would have been a 24-story luxury residential tower with 190 units including a 340-car parking garage. The project never moved forward, mostly because of the dip in the real estate market at the end of 2001. Citizens Bank building owners also opposed the plan.
+A chunky high-rise project was proposed in late 2000 with architects Jung Brennan and construction manager Emporis called “[10 Park Row](https://web.archive.org/web/20040701195848/http://www.emporis.com/en/wm/bu/?id=102335).” It would have been a 24-story luxury residential tower with 190 units including a 340-car parking garage. The project never moved forward, mostly because of the dip in the real estate market at the end of 2001. Citizens Bank building owners also opposed the plan.
 
 Another idea in 2003 consisted of three high-rises and two lower-level apartment buildings proposed by R.S. Roth, Inc. of Brookline, MA.[^1] The developer planned to extend the 20-foot-wide Riverwalk from its current terminus at One Citizens Plaza northward to Smith Street about 1,000 feet along the Moshassuck River. The Capital Center Commission approved waivers of its design standards to allow the buildings to be taller at some points than generally permitted.
 

@@ -71,14 +71,14 @@ images:
     caption: 'Many comments mentioned Port Arthur, seen here on the corner of Dorrance and Westminster. Date unknown.'
     sizes: '1192, 792'
 
-imagescredit: 'Contributions from John Ballantine, <a href="//www.re-vision.com/photography/providence/">Jay Boersma</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A5578">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, <a href="//www.flickr.com/photos/cityarchives/15819358009/">Providence City Archves</a>, and Google Streetview.'
+imagescredit: 'Contributions from John Ballantine, <a href="https://www.re-vision.com/photography/providence/">Jay Boersma</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A5578">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, <a href="https://www.flickr.com/photos/cityarchives/15819358009/">Providence City Archves</a>, and Google Streetview.'
 
 external:
   - source: 'Photos: Restaurants in Providence, Providence Journal'
     url: https://perma.cc/E3JL-Z42K
 ---
 
-A new-ish project called “[Providence’s Chinatown](//richinesehistory.com) has been created to dive deeper into the history of the bustling Chinese American community on Empire Street and on Summer Street between Broad and Pine.
+A new-ish project called “[Providence’s Chinatown](https://richinesehistory.com) has been created to dive deeper into the history of the bustling Chinese American community on Empire Street and on Summer Street between Broad and Pine.
 {:.o__tldr}
 
 
@@ -125,9 +125,9 @@ The restaurant occupied two stories. During the 1960s, the Lukes converted the u
 
 _From the anecdotes:_
 
-+ Officer Luke of the Providence Police Department told someone that his branch of the LUKE family was related to [Keye Luke](//en.wikipedia.org/wiki/Keye_Luke), the actor from the golden age of Hollywood, and, Charlie Chan’s first son.
++ Officer Luke of the Providence Police Department told someone that his branch of the LUKE family was related to [Keye Luke](https://en.wikipedia.org/wiki/Keye_Luke), the actor from the golden age of Hollywood, and, Charlie Chan’s first son.
 + Some considered Luke’s to be the best, most authentic New York- and California-style Chinese food outside of Boston.
-+ Popular dishes include pu pu platters; Ipswich fried clams with cole slaw; veal cutlet with brown gravy; combination plate with chow mein, fried rice and egg roll; eggrolls and lobster Cantonese in lobster sauce; and Scorpion bowls
++ Popular dishes include pu pu platters; Ipswich fried clams with cole slaw; veal cutlet with brown gravy; combination plate with chow mein, fried rice and egg roll; eggr olls and lobster Cantonese in lobster sauce; and Scorpion bowls
 
 
 #### Ming Garden
@@ -149,10 +149,11 @@ _From the National Register nomination form for the Downtown Providence Historic
 
 The Ming Garden (building constructed 1903): 3-story brick building with tiled modern entrance (similar entrance on Westminster Street side of building) and large plate-glass windows on upper stories; modern interiors by Morris Nathanson (ground floor) and Ira Rakatansky (upper floor). Though architecturally undistinguished outside, the building is heavily altered. The Ming Garden is a major Providence institution and the longest lived of a popular type, the Chinese restaurant, which has been an important part of the urban scene since the early 20th century.
 
+***
 
 _From the anecdotes:_
 
-+ Ming’s Wings! People in the anecdotes certainly loved them. The recipes remains elusive. Some ideas for the recipe are included here in a [Providence Journal article](//www.providencejournal.com/article/20140806/entertainment/308069599).
++ Ming’s Wings! People in the anecdotes certainly loved them. The recipes remains elusive. Some ideas for the recipe are included here in a [Providence Journal article](https://www.providencejournal.com/article/20140806/entertainment/308069599).
 + Ming’s Garden decor was more upscale than the other two listed here.
 + Other favorites dishes include sweet pork buns.
 
@@ -187,16 +188,16 @@ The folks in the anecdotes have left us many memories. Here are a few of the nam
 #### At Johnson & Wales, ‘Dinerman’ Richard Gutman was dean of food culture
 
 _by Gail Ciampa_  
-**[Providence Journal](//www.providencejournal.com/entertainmentlife/20161110/at-johnson-amp-wales-dinerman-richard-gutman-was-dean-of-food-culture)** | Nov 10, 2016 (abridged)
+**[Providence Journal](https://www.providencejournal.com/entertainmentlife/20161110/at-johnson-amp-wales-dinerman-richard-gutman-was-dean-of-food-culture)** | Nov 10, 2016 (abridged)
 
-In 2009, Johnson & Wales and the [Culinary Art Museum] museum sponsored a series of discussions with Brown University to explore “Eating Chinese: Comestibles, Cuisine, Commerce and Culture.” It was just one of several collaborations among JWU and Brown’s Center for the Study of Race and Ethnicity in America and the John Nicholas Brown Center for Public Humanities and Cultural Heritage.
+In 2009, Johnson & Wales and the Culinary Art Museum sponsored a series of discussions with Brown University to explore “Eating Chinese: Comestibles, Cuisine, Commerce and Culture.” It was just one of several collaborations among JWU and Brown’s Center for the Study of Race and Ethnicity in America and the John Nicholas Brown Center for Public Humanities and Cultural Heritage.
 
 It featured what seemed the tiniest exhibit you’ll ever see, “Chow Mein, Chicken Wings, and Cheeseburgers” with a table setting from Mee Hong Restaurant ([1975 photo](#photo-mee-hong-jb-1975)), which was opened by the Chin family next to the Arcade in 1938. There was also Lily Tow’s typewriter [from Ming’s Garden, [typewriter photo ](#photo-ming-garden-typewriter)], used to compose newspaper ads for the Ming Garden restaurant.
 
 Links:
 
-+ [Full story on the Providence Journal](//www.providencejournal.com/entertainmentlife/20161110/at-johnson-amp-wales-dinerman-richard-gutman-was-dean-of-food-culture)
-+ [Culinary Arts Museum](//www.jwu.edu/culinarymuseum/)
-+ [Culinary Arts Museum: search online collection](//culinaryartsmuseum.pastperfectonline.com) 
++ [Full story on the Providence Journal](https://www.providencejournal.com/entertainmentlife/20161110/at-johnson-amp-wales-dinerman-richard-gutman-was-dean-of-food-culture)
++ [Culinary Arts Museum](https://www.jwu.edu/culinarymuseum/)
++ [Culinary Arts Museum: search online collection](https://culinaryartsmuseum.pastperfectonline.com) 
 
 Thanks so much for your anecdotes over the years!

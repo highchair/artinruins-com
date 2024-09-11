@@ -154,7 +154,7 @@ The East Side Railroad tunnel — not to be confused with the East Side _Trolle
 
 It is 22 feet high, 31 feet wide, 5080 feet long, and the reinforced concrete roof is a set of “three-centered arches varying from two feet at the crown to four feet at the skewbacks.” 200,000 yards of material was excavated, and the cost of the project, which included the bridge over the Seekonk river and the approach to Union station was two million dollars. No casualties were reported during construction. The Benefit St. Armory was moved to its present location to make way for the tunnel. At its most shallow, the top of the tunnel is 30 feet below ground, while at its deepest under Prospect Street it is 110 feet below.
 
-A somber ceremony marked the closing of the Fox Point railroad station, in which a procession followed the last “transfer car” downtown. [The Fox Point station](#photo-es-train-tunnel-ppl-fox-point-station) had served the city for 73 years but had been made obsolete by this new tunnel that brought trains directly in to the newer Union Station on Exchange Terrace. 
+A somber ceremony marked the closing of the Fox Point railroad station, in which a procession followed the last “transfer car” downtown. [The Fox Point station](#photo-es-train-tunnel-ppl-fox-point-station) had served the city for 73 years but had been made obsolete by this new tunnel that brought trains directly in to the newer Union Station on Exchange Terrace.
 
 <figure class="u__img">
   <a href="#photo-es-train-tunnel-ppl-fox-point-station">
@@ -182,4 +182,4 @@ On May 1st, 1993, a group of students gathered at the western portal below Benef
 
 By the time police arrived, the party had gained more attendants and they refused to disperse. The situation escalated quickly. The police tried to gain control of the situation with tear gas and the students answered with rocks and bricks. “The cops formed a riot line with locked arms and walked through the kids. A friend of mine breached the cop line. They beat him down and arrested him.” The police charge in the next day’s paper that they had encountered “satanic rituals”. As a result the tunnel was closed with thick corrugated steel, pierced at each end only by a locked door.
 
-_Thanks to Erik Gould and [Undercity.org](//www.undercity.org){:target="_blank"} for some info. Quoted material from an account e-mailed to us by Kevin._
+_Thanks to Erik Gould and [Undercity.org](https://www.undercity.org) for some info. Quoted material from an account e-mailed to us by Kevin._

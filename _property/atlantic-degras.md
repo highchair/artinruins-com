@@ -102,7 +102,7 @@ images:
     sizes: '1200, 900'
   - url: pbdc-jh-2005-08-11.jpg
     caption: 'View from second floor of Building 17, looking northwest towards Building 7'
-    sizes: '0, 0'
+    sizes: '1200, 900'
   - url: pdbc-jh-2005-08-12.jpg
     caption: 'Detail of an entrance on northern façade (view south) of Building 14'
     sizes: '1200, 900'
@@ -158,16 +158,16 @@ mostrecentimage: 2006-09-01
 
 ### Redevelopment
 
-Compared to nearby [Rising Sun Mills]({% link _property/national-providence-worsted.md %}) and [The Plant]({% link _property/providence-dye-bleach-calendering.md %}), Calender Mills was a smaller residential redevelopment. Streuver Brothers, Eccles and Rouse (<span class="abbr">SBER</span>) were the original developers of the property, with the Armory Revival Company brought on as leasing agent and property management much like the Rising Sun development. 
+Compared to nearby [Rising Sun Mills]({% link _property/national-providence-worsted.md %}) and [The Plant]({% link _property/providence-dye-bleach-calendering.md %}), Calender Mills was a smaller residential redevelopment. Streuver Brothers, Eccles and Rouse (<span class="abbr">SBER</span>) were the original developers of the property, with the Armory Revival Company brought on as leasing agent and property management much like the Rising Sun development.
 
 The front two units of Calendar Mills in Building 14 are zoned commercial, and have been used to house small businesses with live/work potential and street-front signage along Valley Street. The rear of Building 14, the former Filter House, was redesigned into two-story townhouse units. Since <span class="abbr">SBER</span> declared bankruptcy in 2009, we are unsure who the owner of Calender Mills is.
 
-One of the older buildings, the stand-apart Building 9, former Atlantic Degras building, has been converted to one large commercial office space. 
+One of the older buildings, the stand-apart Building 9, former Atlantic Degras building, has been converted to one large commercial office space.
 
 
 ### Current Events
 
-[Calender Mills](http://armorymanagement.com/calender-mills/){:target="_blank"} is managed by Armory Management and has units available for rent from time to time in Buildings 7, 14, 15, 16, and 17. Building 9, the former Atlantic Degras building, is now the headquarters of [United Way Rhode Island](//www.unitedwayri.org){:target="_blank"}.
+[Calender Mills](https://armorymanagement.com/calender-mills/) is managed by Armory Management and has units available for rent from time to time in Buildings 7, 14, 15, 16, and 17. Building 9, the former Atlantic Degras building, is the headquarters of [United Way Rhode Island](https://www.unitedwayri.org).
 
 
 ### History
@@ -199,7 +199,7 @@ A two-story, 40' x 80' brick building with a shallow gabled roof. Originally sin
 
 A single-story, brick building with monitor roof aligned north- south along the river, the southernmost building associated with <span class="abbr">PDB&C</span>. The rear, older part of this building (93' x 143'), the original profile of which is visible from the south, was constructed c. 1895 by the Atlantic-Degras Company on land purchased from <span class="abbr">PDB&C</span>. After the failure of this company c. 1898, the land, now improved with a substantial building, was repurchased by <span class="abbr">PDB&C</span> and outfitted as a storehouse by 1904. Once freestanding, this is the oldest of five contiguous buildings now occupied by Antonelli Plating.
 
-The original building consists of a deep single story with a 7' raised monitor running the length of the building. A stepped gable end is visible from the south. Windows on the visible (south) elevation are small, rectangular, early 20th-century metal frame sash. Visible in the brickwork are two, now brick-filled, segmental arch openings. Tile coping edges the roofline. Between 1908 and 1918 <span class="abbr">PDB&C</span> built a brick, single-story, east addition (48' x 143'). 
+The original building consists of a deep single story with a 7' raised monitor running the length of the building. A stepped gable end is visible from the south. Windows on the visible (south) elevation are small, rectangular, early 20th-century metal frame sash. Visible in the brickwork are two, now brick-filled, segmental arch openings. Tile coping edges the roofline. Between 1908 and 1918 <span class="abbr">PDB&C</span> built a brick, single-story, east addition (48' x 143').
 
 In the 1970s Antonelli Plating built a single-story, triangular plan, 19' x 44' x 115', cinderblock addition following the lines of the riverwall behind this building and Building No. 15. This addition occupies land reclaimed after the removal of a large settling basin associated with the process water needs of <span class="abbr">PDB&C</span>.
 
@@ -239,8 +239,7 @@ In c. 1956, Antonelli Plating built a single-story, cinderblock 22' x 35' additi
 
 ##### Building No. 16, Garage (lst floor)/Laboratory and Electrician’s Room (2nd floor) (1918-1920)
 
-A four-bay, two-story, 36' x 45' brick building, the first floor of which originally served as a garage. The roof is a shallow pitched gable. Window openings are segmental arch with concrete sills. Paired upper windows are modern replacements. The first story shows steel framing flush with the brickwork. This is likely associated with the bricking-
-in of the original garage door.
+A four-bay, two-story, 36' x 45' brick building, the first floor of which originally served as a garage. The roof is a shallow pitched gable. Window openings are segmental arch with concrete sills. Paired upper windows are modern replacements. The first story shows steel framing flush with the brickwork. This is likely associated with the bricking-in of the original garage door.
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-pdbc-jh-2005-08-07">

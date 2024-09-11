@@ -126,7 +126,7 @@ imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a hre
 
 The former American Locomotive Company (<span class="abbr">ALCO</span>) Automobile buildings are interesting because they were part of the U.S. Rubber Company for most of their active life. This history is complicated by the fact that the marketing of the redeveloped property decided to emphasize its original name, and therefore, erase some of the history associated with it being a manufacturer of rubber goods.[^1]
 
-[^1]: Longer essay about this from the Rhode Island Photographic Survey at [ripsinfo.blogspot.com/2007/02/alco-i-dont-think-so.html](http://ripsinfo.blogspot.com/2007/02/alco-i-dont-think-so.html){:target="_blank"}
+[^1]: Longer essay about this from the Rhode Island Photographic Survey at [ripsinfo.blogspot.com/2007/02/alco-i-dont-think-so.html](http://ripsinfo.blogspot.com/2007/02/alco-i-dont-think-so.html)
 
 Further, locomotives were never manufactured in these buildings (“on this site”, yes, in previously demolished buildings). The American Locomotive Company designed the buildings to diversify into the manufacture of Berliet[^2] and <span class="abbr">ALCO</span>[^3] automobiles. The expansion ceased here in Rhode Island in 1913, shortly after the buildings were constructed. Building no. 51 specifically was surrounded by a 30 foot wide automobile test track until 1918.
 
@@ -266,10 +266,10 @@ A single-story, 38' by 25', gabled and flat-roofed, brick structure resting on a
 
 
 <figure class="u__img u__img--right" aria-hidden="true">
-<a href="#photo-alco-jh-2006-03-19">
-  <img src="{{ site.propimg_path }}{{ page.slug }}/alco-jh-2006-03-19.jpg" alt="" />
-</a>
-<figcaption>U.S. Rubber Company Building 87; tenant at documentation time, Precision Industries</figcaption>
+  <a href="#photo-alco-jh-2006-03-19">
+    <img src="{{ site.propimg_path }}{{ page.slug }}/alco-jh-2006-03-19.jpg" alt="" />
+  </a>
+  <figcaption>U.S. Rubber Company Building 87; tenant at documentation time, Precision Industries</figcaption>
 </figure>
 
 ###### Building 87, Precision Industries (between 1937 and 1951) [non-contributing]

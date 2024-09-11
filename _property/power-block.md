@@ -5,8 +5,8 @@ aka:
 date-modified: 2020-10-07 12:00
 
 built: 'Proposed 2005'
-demolition: 
-redeveloped: 
+demolition:
+redeveloped:
 decade:
 date-added: '2020'
 categories: [ '#WhatAreTheyBuilding' ]
@@ -43,13 +43,13 @@ $700 million dollars? As soon as we saw that in the headline we should have thou
 + $150-million to $200-million for a vague project at the former Police & Fire Station
 + $100-million to $150-million for yet another vague project
 
-On the high end, that adds up to $795.5 million. Almost $1 billion in real estate investment. In 2005. Wow. We all were drinking the real estate development Kool-Aid back then. Procaccianti was over-promising here, but that might be part of the plan when it comes to a big vision like this. Develop one part of it, get it to be successful, and then use that leverage to do the next project. 
+On the high end, that adds up to $795.5 million. Almost $1 billion in real estate investment. In 2005. Wow. We all were drinking the real estate development Kool-Aid back then. Procaccianti was over-promising here, but that might be part of the plan when it comes to a big vision like this. Develop one part of it, get it to be successful, and then use that leverage to do the next project.
 
-The “power block” concept came from Procaccianti, and included the Convention Center and Dunkin’ Donuts Center, though they were never interested in owning them: 
+The “power block” concept came from Procaccianti, and included the Convention Center and Dunkin’ Donuts Center, though they were never interested in owning them:
 
 > the company’s plan seeks to create a “power block” in the city — one that reaches from the Westin past the convention center and the Dunkin' Donuts Center and up to the Holiday Inn. Procaccianti visualizes it as a connected corridor of shops, convention space, restaurants and hotel rooms that would work to entice large conventions to Providence.
 
-If we were cynical people — which we might be — we might think that the Procaccianti group was using the promise of such a large investment as a carrot, dangling it in front of City officials, as the State tried to recoup millions in unpaid loans from the 1990s credit-union crisis from the group and its related entities. The state and Procaccianti agreed to a $6.53 million payment, but perhaps they could have gotten the entire $14 million. Why dangle millions and millions in front of the City to save $8 million? Far-fetched we suppose, but possible. 
+If we were cynical people — which we might be — we might think that the Procaccianti group was using the promise of such a large investment as a carrot, dangling it in front of City officials, as the State tried to recoup millions in unpaid loans from the 1990s credit-union crisis from the group and its related entities. The state and Procaccianti agreed to a $6.53 million payment, but perhaps they could have gotten the entire $14 million. Why dangle millions and millions in front of the City to save $8 million? Far-fetched we suppose, but possible.
 
 Regardless, the City allowed demolition to occur on two properties before financing and complete architectural plans were available. This was not the first time, nor the last, that demolition would move forward without the rest of the project. See our [Demolition by Proposal]({% link tag/demolition-by-proposal.html %}) list.
 
@@ -62,17 +62,17 @@ A few sites mentioned in the Power Block are still undeveloped in 2020:
 + [The former LaSalle Square Police & Fire Station]({% link _property/public-safety-lasalle-square.md %}) — still a parking lot
 + [The former Holiday Inn]({% link _property/holiday-inn-pvd.md %}) was turned into a Hilton in 2006-07, though an additional tower was never added in the current location of the parking structure
 + [The Westin Hotel]({% link _property/westin-tower.md %}) did get a new tower added in 2007
-+ Related, the [former Fogarty Building]({% link _property/fogarty-bldg.md %}) became a Marriott Residence Inn in 2019, developed by the Procaccianti Group 
++ Related, the [former Fogarty Building]({% link _property/fogarty-bldg.md %}) became a Marriott Residence Inn in 2019, developed by the Procaccianti Group
 
 #### So what happened?
 
-It’s interesting to us because one thing didn’t happen to stop all of this construction and investment, but a lot of little things. It was 2005–2006, so the economic disaster of 2008 was far enough away, and yet the economy was showing warning signs. Hurricane Katrina had devastated the Gulf coast, sending a ripple effect through the country. Gas went up to $3.50 a gallon. The price of building materials skyrocketed. On September 1st, 2005, a user named Cotuit said on the [UrbanPlanet.org](//www.urbanplanet.org/forums/topic/9027-proposed-the-power-block/page/4/?tab=comments#comment-190689){:target="_blank"} forum:
+It’s interesting to us because one thing didn’t happen to stop all of this construction and investment, but a lot of little things. It was 2005–2006, so the economic disaster of 2008 was far enough away, and yet the economy was showing warning signs. Hurricane Katrina had devastated the Gulf coast, sending a ripple effect through the country. Gas went up to $3.50 a gallon. The price of building materials skyrocketed. On September 1st, 2005, a user named Cotuit said on the [UrbanPlanet.org](https://www.urbanplanet.org/forums/topic/9027-proposed-the-power-block/page/4/?tab=comments#comment-190689) forum:
 
 > …vast numbers of people in this country carry a good amount of debt to support their lifestyles, eventually people are going to have drop those lifestyles to address that debt. 1/3 of a million dollar condos in Providence might be scratched off of a lot of people's shopping lists.
 
-How prescient. At the same time, the local economic conditions were pretty good until 2008. Developers were playing a waiting game… who was going to be the first to take a chance and build? Local vacancy rates for office space were low, but rents were not increasing, which would signal that there was not increasing demand. At the same time, smaller companies couldn’t make inroads into Class B office space because the prices were high, due in part to a lack of Class A office space. Hotel occupancy was high, and the visitor’s board kept asking for more. And all the while, successes Downtown increased demand for residential. But very few new construction projects were breaking ground. 
+How prescient. At the same time, the local economic conditions were pretty good until 2008. Developers were playing a waiting game… who was going to be the first to take a chance and build? Local vacancy rates for office space were low, but rents were not increasing, which would signal that there was not increasing demand. At the same time, smaller companies couldn’t make inroads into Class B office space because the prices were high, due in part to a lack of Class A office space. Hotel occupancy was high, and the visitor’s board kept asking for more. And all the while, successes Downtown increased demand for residential. But very few new construction projects were breaking ground.
 
-Developers waited too long. By 2008, when the economy really started to hit the fan, plans for new construction dried up. We haven’t seen that kind of interest in local construction until 2019–2020 — and then COVID-19 changed the way we all think about office and commercial space. 
+Developers waited too long. By 2008, when the economy really started to hit the fan, plans for new construction dried up. We haven’t seen that kind of interest in local construction until 2019–2020 — and then COVID-19 changed the way we all think about office and commercial space.
 
 
 ### In the News
@@ -98,7 +98,7 @@ He also acknowledged that Procaccianti had settled the lawsuit last week, but he
 
 The state has said Procaccianti had $14 million in unpaid loans left over from the 1991 credit union collapse, but Procaccianti was sued for just one loan.
 
-_From [UrbanPlanet.org](//www.urbanplanet.org/forums/topic/9027-proposed-the-power-block/page/2/#comments){target="_blank"}, captured from http://www.projo.com/digitalbulletin/content/projo-20050228-westin.f0fdda25.html_
+_From [UrbanPlanet.org](https://www.urbanplanet.org/forums/topic/9027-proposed-the-power-block/page/2/#comments), captured from http://www.projo.com/digitalbulletin/content/projo-20050228-westin.f0fdda25.html_
 
 
 #### Yes to Westin sale
@@ -124,8 +124,9 @@ It should be noted that the Procaccianti offer for the Westin has brought to lig
 
 It is in the strong interest of the public to move forward with selling the Westin — to take advantage of what appears to be a historic opportunity to boost the local economy. Area residents would benefit richly from the new business brought to town, and from the tax dollars that would flow into both the city and the state.
 
-_From [UrbanPlanet.org](//www.urbanplanet.org/forums/topic/9027-proposed-the-power-block/page/2/#comments){target="_blank"}, captured from  http://www.projo.com/opinion/editorials/content/projo_20050227_27west.1dd3a4a.html_
+_From [UrbanPlanet.org](https://www.urbanplanet.org/forums/topic/9027-proposed-the-power-block/page/2/#comments), captured from  http://www.projo.com/opinion/editorials/content/projo_20050227_27west.1dd3a4a.html_
 
+***
 
 #### Procaccianti: $700-million vision hinges on Westin
 

@@ -48,7 +48,7 @@ imagescredit: '1982 image from the Library of Congress, <a href="//www.loc.gov/p
 
 ### Redevelopment
 
-The new development around the State House since 1982 is just remarkable, with much of it occurring between 2005 and 2010. The area is called [Capital Center]({% link list/capital-center-parcels.html %}) and is comprised of about 19 parcels and its development is governed by the [Capital Center Commission](//www.providenceri.gov/planning/capital-center-commission/).
+The new development around the State House since 1982 is just remarkable, with much of it occurring between 2005 and 2010. The area is called [Capital Center]({% link list/capital-center-parcels.html %}) and is comprised of about 19 parcels and its development is governed by the [Capital Center Commission](https://www.providenceri.gov/planning/capital-center-commission/).
 
 These comparative views are of the area between Smith Street and Kennedy Plaza looking north-northwest. The 1983 aerial was presumably taken from the 26th floor (or higher) of the [Industrial Trust building]({% link _property/industrial-trust-superman-bldg.md %}). The vantage point for the 2005 and 2024 photos are as similar as we could get. The difference in perspective might be height but can also be attributed to the camera lens in use. Mr. Barrett likely used 4 x 5 land camera, and a “standard” lens is 150mm. Our 35mm DSLR camera won’t capture the landscape in quite the same way.
 

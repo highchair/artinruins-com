@@ -14,7 +14,7 @@ neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Jose Rafael Moneo', 'Perry Dean Rogers' ]
 lists: []
-tags: [ 'College Properties', 'RISD', 'Contemporary' ]
+tags: [ 'College Properties', 'Contemporary', 'RISD' ]
 
 address: '20 North Main St, Providence RI'
 latitude: '41.8256264'
@@ -80,11 +80,11 @@ imagescredit: 'Contributions from Frank Mullin and Jef Nickerson'
   <figcaption>A watercolor rendering from the architect, Rafael Moneo</figcaption>
 </figure>
 
-A former parking lot in between buildings already owned by the college was transformed by a narrow, tall, modernist building that now houses the main wing of the RISD Museum. In a press release, the college stated that “The Chace Center on North Main Street makes sense of the space at the heart of campus and brings RISD together, both physically and psychologically.” Indeed, the structure joins a few historic buildings together with a better flow, though the RISD Museum itself remains a mish-mash of different buildings from different time periods going in different directions. They use these changes in architecture to their advantage in the way that exhibitions are paired with the spaces. 
+A former parking lot in between buildings already owned by the college was transformed by a narrow, tall, modernist building that now houses the main wing of the RISD Museum. In a press release, the college stated that “The Chace Center on North Main Street makes sense of the space at the heart of campus and brings RISD together, both physically and psychologically.” Indeed, the structure joins a few historic buildings together with a better flow, though the RISD Museum itself remains a mish-mash of different buildings from different time periods going in different directions. They use these changes in architecture to their advantage in the way that exhibitions are paired with the spaces.
 
-The international architect José Rafael Moneo and his studio were the design consultants. Additional gallery space as well as circulation, meeting, classroom, and presentation space was the primary focus of the project. The new entrance and façade facing Downtown Providence and the riverfront helps the building address its historic surroundings as well as stake its own part in the University’s history. 
+The international architect José Rafael Moneo and his studio were the design consultants. Additional gallery space as well as circulation, meeting, classroom, and presentation space was the primary focus of the project. The new entrance and façade facing Downtown Providence and the riverfront helps the building address its historic surroundings as well as stake its own part in the University’s history.
 
-During the construction of the new Chace Center, Memorial Hall facing Benefit Street received a renovation. Memorial Hall was originally built as a church in 1851 by noted architect [Thomas A. Tefft]({% link designer/thomas-a-tefft.html %}), himself a graduate of nearby Brown University. The Roman revival interior was uncovered and restored into painting and drawing studios, also under Moneo’s purview. 
+During the construction of the new Chace Center, Memorial Hall facing Benefit Street received a renovation. Memorial Hall was originally built as a church in 1851 by noted architect [Thomas A. Tefft]({% link designer/thomas-a-tefft.html %}), himself a graduate of nearby Brown University. The Roman revival interior was uncovered and restored into painting and drawing studios, also under Moneo’s purview.
 
 
 ### Design Reception
@@ -97,7 +97,7 @@ We like it. It’s modern, it’s respectful of its context, and it uses a previ
 #### A fitting addition to RISD's world
 
 _by Robert Campbell_  
-**[Boston.com Archive](//archive.boston.com/ae/theater_arts/articles/2008/09/27/a_fitting_addition_to_risds_world/){:target="_blank"}** | September 27, 2008 (abridged)
+**[Boston.com Archive](https://archive.boston.com/ae/theater_arts/articles/2008/09/27/a_fitting_addition_to_risds_world/)** | September 27, 2008 (abridged)
 
 The Rhode Island School of Design is one of my favorite institutions. Churning with youth and life, it’s a place where a student can learn just about any art.
 

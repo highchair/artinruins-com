@@ -118,9 +118,7 @@ mostrecentimage: 2020-12-01
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <img src="{{ site.propimg_path }}{{ page.slug }}/383-w-fountain-rendering.jpg" alt="" />
-  <figcaption>
-    New construction rendering that was to be built at this location by DBVW Architects circa 2005
-  </figcaption>
+  <figcaption>New construction rendering that was to be built at this location by DBVW Architects circa 2005</figcaption>
 </figure>
 
 When we originally posted this collection of buildings in 2007, it was under the label “R.I.P.” because the Armory Revival Company released plans to raze these buildings and build new residential. The West Broadway Neighborhood Association (<span class="abbr">WBNA</span>) and <abbr title="Providence Preservation Society">PPS</abbr>’s Architecture Review Board stood in opposition. The project described “a mixed-use, 6-story masonry building with 4 floors of residential condominiums, a lobby, basement and 1st floor parking and storefront commercial spaces along West Fountain Street. The new building would have 82 units, 8 of which are affordable with 109 parking spaces and approximately 8.000 sq. ft. of retail space.”[^1]
@@ -129,23 +127,23 @@ When we originally posted this collection of buildings in 2007, it was under the
 
 In December of 2005 the Zoning Board unanimously approved the height and dimensional variances for the project. The City Plan Commission and the Historic District Commission had already given their approvals. In March of 2006 the sale of the two main properties was completed by West Side Lofts LLC, an Armory-sponsored LLC. One sold for just over $550,000 and the other for $1.8 million.
 
-In 2008, the local real estate economy took a downtown. The exuberance of the early 2000s came to an end and many projects stalled — [American Locomotive]({% link _property/american-locomotive-works.md %}), [the Dynamo House]({% link _property/south-street-power.md %}), [One Ten Westminster]({% link _property/one-ten-westminster.md %}) and the so-called [“Power Block”]({% link _property/power-block.md %}) to name a few.With many of those projects, demolition began and we lost many buildings without getting the promised replacements.  
+In 2008, the local real estate economy took a downtown. The exuberance of the early 2000s came to an end and many projects stalled — [American Locomotive]({% link _property/american-locomotive-works.md %}), [the Dynamo House]({% link _property/south-street-power.md %}), [One Ten Westminster]({% link _property/one-ten-westminster.md %}) and the so-called [“Power Block”]({% link _property/power-block.md %}) to name a few.With many of those projects, demolition began and we lost many buildings without getting the promised replacements.
 
-Here, instead, the funding was there to purchase the buildings but not demolish them and begin construction. The buildings remained, and in 2012, plans to reuse them as residential started to move forward. What came out was a mix of residential and ground-floor commercial that immediately created a denser neighborhood. Since then more commercial space on West Fountain Street towards Battey has turned around with retail, restaurants, and breweries. 
+Here, instead, the funding was there to purchase the buildings but not demolish them and begin construction. The buildings remained, and in 2012, plans to reuse them as residential started to move forward. What came out was a mix of residential and ground-floor commercial that immediately created a denser neighborhood. Since then more commercial space on West Fountain Street towards Battey has turned around with retail, restaurants, and breweries.
 
 
 ### Current Events
 
-These spaces are managed by [Armory Management](http://armorymanagement.com/west-fountain-lofts/){:target="_blank"}. From their website: 
+These spaces are managed by [Armory Management](https://armorymanagement.com/west-fountain-lofts/). From their website: 
 
 > “The 40,000 square foot former Waterman Stables and Combination Ladder Company buildings feature fantastic skylights, big windows, and exposed wood beams and duct work, and are now home to a private office community at 383 W Fountain, Bayberry Beer Hall, Planet Fitness, residential apartments, and The Shop breakfast bar.”
 
 
 ### History
 
-Some paperwork mentions “Waterman Stables” as having been at 381 West Fountain Street. That would mean that the building at the corner of West Fountain and Cargill street was once Waterman Stables before it was part of Combination Ladder. The history below mentions Combination Ladder as having only occupied these buildings in 1923, but the 1920-1921 Sanborn lists this company name. Alas, with historic records, there will be some inconsistencies. We were unable to confirm any information about Waterman Stables or the timeline of Combination Ladder ourselves. 
+Some paperwork mentions “Waterman Stables” as having been at 381 West Fountain Street. That would mean that the building at the corner of West Fountain and Cargill street was once Waterman Stables before it was part of Combination Ladder. The history below mentions Combination Ladder as having only occupied these buildings in 1923, but the 1920-1921 Sanborn lists this company name. Alas, with historic records, there will be some inconsistencies. We were unable to confirm any information about Waterman Stables or the timeline of Combination Ladder ourselves.
 
-The [1899 Sanborn map](#photo-combo-ladder-sanborn-1899) shows “A.S. Waterman and Company Boarding” but you can also see a structure labelled “manure bin.” This could have been Waterman Stables, but from the footprint of the buildings alone, we do not think any of those structures survived. That said, it could have been that A.S. Waterman demolished the original collection of structures in favor of a larger, singular structure before selling it to Combination Ladder between the maps of 1899 and 1920. 
+The [1899 Sanborn map](#photo-combo-ladder-sanborn-1899) shows “A.S. Waterman and Company Boarding” but you can also see a structure labelled “manure bin.” This could have been Waterman Stables, but from the footprint of the buildings alone, we do not think any of those structures survived. That said, it could have been that A.S. Waterman demolished the original collection of structures in favor of a larger, singular structure before selling it to Combination Ladder between the maps of 1899 and 1920.
 
 ***
 

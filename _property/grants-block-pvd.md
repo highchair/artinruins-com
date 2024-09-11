@@ -5,16 +5,16 @@ aka: "the former Traveller’s Aid"
 date-modified: 2023-04-26 13:00
 update: 'Added a vintage photo of the W.T. Grant’s façade from likely the 1950sbundle install'
 
-built: 
+built:
 demolition: '2005'
 decade: '1890-1899'
 date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
-tags: [ 'Never Built', 'Demoliion by Proposal', 'Needs History', 'Still an Empty Lot' ]
+tags: [ 'Demolition by Proposal', 'Needs History', 'Never Built', 'Still an Empty Lot' ]
 
 address: '177 Union St, Providence RI'
 latitude: '41.8223388'
@@ -93,11 +93,12 @@ imagescredit: 'Contributed images from Sarah Clover and David Westcott. Map from
 
 ### Reason for Demolition
 
-These structures came down in late 2005 to make way for a proposed parking and retail hub for the new Downcity under the development of Cornish Associates. They were a mix of several buildings with a former WT Grant’s department store as one anchor, plus a Dunkin’ Donuts, Traveller’s Aid, and a former bar called Mama’s Metro Cafe. There was not much opposition to the demolition. RISD had just moved into the nearby Fletcher building, and so, additional downtown parking was thought to be needed. With more residential comes more parking needs, the thought goes. 
+These structures came down in late 2005 to make way for a proposed parking and retail hub for the new Downcity under the development of Cornish Associates. They were a mix of several buildings with a former WT Grant’s department store as one anchor, plus a Dunkin’ Donuts, Traveller’s Aid, and a former bar called Mama’s Metro Cafe. There was not much opposition to the demolition. RISD had just moved into the nearby Fletcher building, and so, additional downtown parking was thought to be needed. With more residential comes more parking needs, the thought goes.
+
 
 ### Current Events
 
-The parking structure has yet to be built, 15 years later (2020). The surface parking lot gets heavy use, but the need for 450 parking spots in this location has not materialized. In fact, in the past few years concepts like the micro-lofts at the Arcade have shown that additional housing in a dense city with public transport options can be built without additional parking. New projects in the Jewelry District also show this to be possible. 
+The parking structure has yet to be built, 15 years later (2020). The surface parking lot gets heavy use, but the need for 450 parking spots in this location has not materialized. In fact, in the past few years concepts like the micro-lofts at the Arcade have shown that additional housing in a dense city with public transport options can be built without additional parking. New projects in the Jewelry District also show this to be possible.
 
 In very recent years, the last remaining building on this block, the Roger Williams Building, has been converted to residential with a new addition by Cornish Associates and Union Studio Architects. The project is known as the [Trayne Building]({% link _property/trayne-building-pvd.md %}) and has been undertaken in conjunction with a renovation of the [Lapham Building]({% link _property/lapham-building-pvd.md %}) next door. The park on the corner of Union and Westminster will remain as part of the streetscape.
 

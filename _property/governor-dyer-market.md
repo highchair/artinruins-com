@@ -65,24 +65,24 @@ imagescredit:
 
 #### Greylawn Farms
 
-The long, narrow warehouse building with a loading dock only ever caught our attention because of its lovely neon sign in disrepair mounted on its roofline. It read “Greylawn” in all capitals, a narrow sans-serif font. “Farms” was set in a script, with “Eggs”, ”Poultry”, and “Foods” set below. Greylawn Farms Foods were all painted in yellow, with Eggs and Poultry in blue. A silhouette of a rooster was off to the right hand side. 
+The long, narrow warehouse building with a loading dock only ever caught our attention because of its lovely neon sign in disrepair mounted on its roofline. It read “Greylawn” in all capitals, a narrow sans-serif font. “Farms” was set in a script, with “Eggs”, ”Poultry”, and “Foods” set below. Greylawn Farms Foods were all painted in yellow, with Eggs and Poultry in blue. A silhouette of a rooster was off to the right hand side.
 
-**Rhode Island Tropical Produce** also operated out of this location, according to business listings, along with **Tony’s Produce**. 
+**Rhode Island Tropical Produce** also operated out of this location, according to business listings, along with **Tony’s Produce**.
 
-The building was unremarkable otherwise. It was erected in 1974, according to the report below. A long loading dock was on one side with only a few entrances and almost no windows. The construction seemed to have been cinder block. It was demolished sometime in 2021 according to Google Streetview and the [Providence Historical Aerial Viewer](//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e){:target="_blank"}. 
+The building was unremarkable otherwise. It was erected in 1974, according to the report below. A long loading dock was on one side with only a few entrances and almost no windows. The construction seemed to have been cinder block. It was demolished sometime in 2021 according to Google Streetview and the [Providence Historical Aerial Viewer](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e).
 
 #### Mike’s Diner
 
-We only call this building “Mike’s Diner” because it seems to have been the longest single tenant. The building appears on a 1951 Sanborn map and in a 1939 aerial photo, but is not present in the 1921 Sanborn map. It is a two story, brick structure with a flat roof and rectangular window openings. A copper cornice rings the entire building. 
+We only call this building “Mike’s Diner” because it seems to have been the longest single tenant. The building appears on a 1951 Sanborn map and in a 1939 aerial photo, but is not present in the 1921 Sanborn map. It is a two story, brick structure with a flat roof and rectangular window openings. A copper cornice rings the entire building.
 
-Two entrances on the eastern side have half-round transoms. Entrances on the western side have rectangular transoms, which may indicate that the eastern Rathbone Street doors were considered “main” entrances. The eastern side is symmetrical, with a pattern of large commercial window, door, window, door, window along the first floor and triple set of windows, single window, triple set, window, triple set on the second floor. All other faces of the building are asymmetrical. 
+Two entrances on the eastern side have half-round transoms. Entrances on the western side have rectangular transoms, which may indicate that the eastern Rathbone Street doors were considered “main” entrances. The eastern side is symmetrical, with a pattern of large commercial window, door, window, door, window along the first floor and triple set of windows, single window, triple set, window, triple set on the second floor. All other faces of the building are asymmetrical.
 
-The Greylawn warehouse was built right up against the northern side of this building. All openings on that side have been boarded up or bricked in. 
+The Greylawn warehouse was built right up against the northern side of this building. All openings on that side have been boarded up or bricked in.
 
 
 ### Current Events
 
-The rectangular Mike’s Diner building still stands as of the summer of 2022. By the looks of the grafitti and the disrepair of the building itself, we would guess it will also soon be demolished. 
+The rectangular Mike’s Diner building still stands as of the summer of 2022. By the looks of the grafitti and the disrepair of the building itself, we would guess it will also soon be demolished.
 
 
 ### History
@@ -93,13 +93,13 @@ _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS a
 
 ***
 
-Across the parking lot is a set of long, low buildings with loading docks known as the **Governor Dyer Co-Operative Market**. It is a 17-bay building decorated with simple Art Deco elements constructed in the late 1930s. The market was built for the purposes of providing storage and retail for fruit and other natural products. These two buildings are considered part of the same historic complex, utilized for the same purpose over the years by several different vendors. 
+Across the parking lot is a set of long, low buildings with loading docks known as the **Governor Dyer Co-Operative Market**. It is a 17-bay building decorated with simple Art Deco elements constructed in the late 1930s. The market was built for the purposes of providing storage and retail for fruit and other natural products. These two buildings are considered part of the same historic complex, utilized for the same purpose over the years by several different vendors.
 
 ***
 
-According to Sanborn Maps, four streets were designed to move through this wide parking lot, but no other developments along those streets ever took place.[^5] 
+According to Sanborn Maps, four streets were designed to move through this wide parking lot, but no other developments along those streets ever took place.[^5]
 
-[^5]: “Sanborn Fire Insurance Map from Providence, Providence County, Rhode Island.” Sanborn Map Company, Vol. 3, Plate 86 (page 86). Accessed November 24, 2022 from http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195603 
+[^5]: “Sanborn Fire Insurance Map from Providence, Providence County, Rhode Island.” Sanborn Map Company, Vol. 3, Plate 86 (page 86). Accessed November 24, 2022 from http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195603
 
 <figure class="u__img" aria-hidden="true">
   <img src="{{ site.propimg_path }}{{ page.slug }}/sanborn-vol3-p85-1956-01.jpg" alt="An old handdrawn map showing the street boundaries and shapes of buildings" />
@@ -111,7 +111,7 @@ According to Sanborn Maps, four streets were designed to move through this wide 
 
 ### In the News
 
-While **Mike’s Diner** was a longstanding tenant, it did not produce many newsworthy items that we could find. 
+While **Mike’s Diner** was a longstanding tenant, it did not produce many newsworthy items that we could find.
 
 In a 1987 police report, there was a theft at Mike’s of a large amount of food:
 
@@ -125,12 +125,12 @@ In a 1992 Providence Journal article about diners, Mike’s was referenced as po
 
 A personal blog by someone who frequented diners mentioned “Mike's Wagon, across from Biltmore, Providence” and we wonder if this was the same proprietor.[^3]
 
-[^3]: “Eat Dust.” Riding Rhode Island, 19 November 2015. Accessed November 24, 2022 from http://ridingrhody.blogspot.com/2015/11/eat-dust.html 
+[^3]: “Eat Dust.” Riding Rhode Island, 19 November 2015. Accessed November 24, 2022 from http://ridingrhody.blogspot.com/2015/11/eat-dust.html
 
-In a more chilling event, the body of James Russell was found in the kitchen by Joseph King in November of 1982. The legal case opened with this innocuous paragraph that describes the diner’s operation: 
+In a more chilling event, the body of James Russell was found in the kitchen by Joseph King in November of 1982. The legal case opened with this innocuous paragraph that describes the diner’s operation:
 
 >Mike’s Diner was and is a source of salutary sustentation to those who find themselves in downtown Providence after dark. During the day the diner is parked on Rathbone Street in an area called Farmers’ Market. Much of the diner’s bill of fare is prepared in a nearby kitchen. As darkness approaches, the diner is towed by truck from Rathbone Street and ultimately parked alongside the curb of one of downtown’s thoroughfares. The daily routine just described has taken place for many years.[^4]
 
-Clearly, Mike and his cooking made an impression. A photo of Mike’s Diner by Richard Gutman can be seen as part of an article written by Christopher Martin about the history of diners in Rhode Island, “[Whence Came the Rhode Island Food Truck?](//ediblerhody.ediblecommunities.com/food-thought/whence-came-rhode-island-food-truck){:target="_blank"}”
+Clearly, Mike and his cooking made an impression. A photo of Mike’s Diner by Richard Gutman can be seen as part of an article written by Christopher Martin about the history of diners in Rhode Island, “[Whence Came the Rhode Island Food Truck?](https://ediblerhody.ediblecommunities.com/food-thought/whence-came-rhode-island-food-truck)”
 
-[^4]: “State vs. Villani.” Justia US Law, case annotation from 11 April, 1985. Accessed November 24, 2022 from https://law.justia.com/cases/rhode-island/supreme-court/1985/491-a-2d-976.html 
+[^4]: “State vs. Villani.” Justia US Law, case annotation from 11 April, 1985. Accessed November 24, 2022 from https://law.justia.com/cases/rhode-island/supreme-court/1985/491-a-2d-976.html

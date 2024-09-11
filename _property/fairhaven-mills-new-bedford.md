@@ -13,10 +13,10 @@ date-added: '2005'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Massachusetts' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
-lists: [ 'Demolition by Fire', 'Demolition by Progress' ]
-tags: []
+lists: []
+tags: [ 'Demolition by Fire', 'Demolition by Progress' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -63,7 +63,7 @@ images:
 
 mostrecentimage: 2008-01-01
 
-imagescredit: '1922 insurance map from <a href="//ark.digitalcommonwealth.org/ark:/50959/9880vx03d" target="_blank">DigitalCommonwealth.org</a>, 2001 aerial photo from <a href="//massgis.maps.arcgis.com/home/webmap/viewer.html?webmap=9cbdffc2cedb468688bc403f3e2a12fb" target="_blank">Massachusetts GIS</a>, and 2008 photo by <a href="//commons.wikimedia.org/wiki/File:Columbia_Spinning_Company.jpg" target="_blank">Marc Belanger, Wikipedia</a>'
+imagescredit: '1922 insurance map from <a href="https://ark.digitalcommonwealth.org/ark:/50959/9880vx03d">DigitalCommonwealth.org</a>, 2001 aerial photo from <a href="https://massgis.maps.arcgis.com/home/webmap/viewer.html?webmap=9cbdffc2cedb468688bc403f3e2a12fb">Massachusetts GIS</a>, and 2008 photo by <a href="https://commons.wikimedia.org/wiki/File:Columbia_Spinning_Company.jpg">Marc Belanger, Wikipedia</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -72,27 +72,27 @@ imagescredit: '1922 insurance map from <a href="//ark.digitalcommonwealth.org/ar
 
 ### Reason for Demolition
 
-Though a bit our of our normal area of focus, New Bedford has always amazed us with the sheer number of gigantic, three- and four-story stone and brick mill buildings. They are so many of them and they are so, so massive. Though we can’t quite get a handle on how the residents of New Bedford feel about their mills, it does seem that they have a complicated relationship with them, like any City. 
+Though a bit our of our normal area of focus, New Bedford has always amazed us with the sheer number of gigantic, three- and four-story stone and brick mill buildings. They are so many of them and they are so, so massive. Though we can’t quite get a handle on how the residents of New Bedford feel about their mills, it does seem that they have a complicated relationship with them, like any City.
 
-The Fairhaven Mills site, located on the banks of the Acushnet River, forms a roughly 15-acre square of private and public properties dotted with modern businesses and historic mills in varying states of decrepitude and occupancy. They were built over time during the first 20 years of the 20th century as the Columbia Spinning Mills and the New England Cotton Company and were later named the Fairhaven Mills by 1917. (We also found a 1922 map that labels these buildings the Pemaquid Mills.) In their later years they were home to the sprawling New Bedford Antiques Mall and drew visitors from all over the region. The Mall consisted of over a 250 consignment vendors and small businesses. 
+The Fairhaven Mills site, located on the banks of the Acushnet River, forms a roughly 15-acre square of private and public properties dotted with modern businesses and historic mills in varying states of decrepitude and occupancy. They were built over time during the first 20 years of the 20th century as the Columbia Spinning Mills and the New England Cotton Company and were later named the Fairhaven Mills by 1917. (We also found a 1922 map that labels these buildings the Pemaquid Mills.) In their later years they were home to the sprawling New Bedford Antiques Mall and drew visitors from all over the region. The Mall consisted of over a 250 consignment vendors and small businesses.
 
-[A 1922 map shows five main brick mill buildings](//www.digitalcommonwealth.org/search/commonwealth:9880vx03d){:target="blank"} at this site as well as several smaller structures. A large mill number 2 and mill number 3 were not extant in 2005 when our photos were taken, nor were they in existence in a 2001 aerial photo but one can see the outline of their foundations. 
+[A 1922 map shows five main brick mill buildings](https://www.digitalcommonwealth.org/search/commonwealth:9880vx03d) at this site as well as several smaller structures. A large mill number 2 and mill number 3 were not extant in 2005 when our photos were taken, nor were they in existence in a 2001 aerial photo but one can see the outline of their foundations. 
 
 A fire in 2003 damaged the mills number 1 and 5 towards the rear of the complex along Sawyer Street. While mill number 4 remained standing and relatively undamaged, it suffered neglect for five years before it was also demolished in 2009. 
 
-In those five years as developers and the City decided on what to do with this large parcel of land in a gateway location, city officials and developers haggled over rights and prices and [committed conflicts of interest along the way](//www.mass.gov/doc/proposed-sale-of-the-city-of-new-bedfords-fairhaven-mills-parcels-letter-to-mayor-scott-w-lang/download){:target="_blank"}(PDF). The first tenant to be rumored at the location was a Home Depot, but that plan did not move forward. A new administration put an end to the haggling, but the fate of the remaining building number 4 was sealed. 
+In those five years as developers and the City decided on what to do with this large parcel of land in a gateway location, city officials and developers haggled over rights and prices and [committed conflicts of interest along the way (PDF)](https://www.mass.gov/doc/proposed-sale-of-the-city-of-new-bedfords-fairhaven-mills-parcels-letter-to-mayor-scott-w-lang/download). The first tenant to be rumored at the location was a Home Depot, but that plan did not move forward. A new administration put an end to the haggling, but the fate of the remaining building number 4 was sealed.
 
 
 ### Current Events
 
-The former Fairhaven Mills complex is now called [Riverside Landing](//www.wilderco.com/properties/riverside-landing/){:target="_blank"} and it is a strip mall with fast food and a Market Basket grocery store. 
+The former Fairhaven Mills complex is now called [Riverside Landing](//www.wilderco.com/properties/riverside-landing/){:target="_blank"} and it is a strip mall with fast food and a Market Basket grocery store.
 
 
 ### History
 
-+ [Photos by the Massachusetts Department of Environmental Protection of the fire in 2003](//www.flickr.com/photos/massdep/albums/72157628525239483){:target="_blank"} (FLickr)
++ [Photos by the Massachusetts Department of Environmental Protection of the fire in 2003](https://www.flickr.com/photos/massdep/albums/72157628525239483) (FLickr)
 
-No formal history that we have been able to find. 
+No formal history that we have been able to find.
 
 
 ### In the News
@@ -160,11 +160,11 @@ _Captured December 14, 2021 from https://www.southcoasttoday.com/article/2009022
 _by Al Norman_  
 **Sprawlbusters** | May 16, 2005 (abridged)
 
-Tonight, the City Council in New Bedford, Massachusetts will decide whether or not to tear down an historic mill building, nearly 100 years old, to make way for a suburban design big box store. Home Depot, the world’s largest home improvement chain store has its sights set on the **Fairhaven Mills**, located in the north end of New Bedford, a community steeped in seaside history. 
+Tonight, the City Council in New Bedford, Massachusetts will decide whether or not to tear down an historic mill building, nearly 100 years old, to make way for a suburban design big box store. Home Depot, the world’s largest home improvement chain store has its sights set on the **Fairhaven Mills**, located in the north end of New Bedford, a community steeped in seaside history.
 
-The building Home Depot wants is already filled with small businesses that operate an antiques center. But the city’s Mayor is taken with the plan, which calls for demolition of the existing mill building, and construction of a suburban style box store, with a supermarket and restaurant, all in an urban setting in an inappropriate waterfront location. To sweeten the deal, the developer, Whelan Associates, has promised to spend $40,000 for a “riverwalk” to connect the development to Riverside Park. Home Depot has offered to build a monument on the site dedicated to mill workers, even as it destroys the mill they worked in. 
+The building Home Depot wants is already filled with small businesses that operate an antiques center. But the city’s Mayor is taken with the plan, which calls for demolition of the existing mill building, and construction of a suburban style box store, with a supermarket and restaurant, all in an urban setting in an inappropriate waterfront location. To sweeten the deal, the developer, Whelan Associates, has promised to spend $40,000 for a “riverwalk” to connect the development to Riverside Park. Home Depot has offered to build a monument on the site dedicated to mill workers, even as it destroys the mill they worked in.
 
-The Home Depot building will have a brick facade to blend in better with the neighborhood, but its windowless, box format will bear no resemblance to other built structures in the historic North End. One local businessman who uses the Fairhaven Mills, called the Home Depot plan “seriously flawed”, noting that the plan will “create substantial traffic issues; and eliminate one of the city’s most notable tourist attractions.” Fairhaven Mills is one of the most visited tourist attractions in the city. “On any given day,” the resident wrote, “the parking lot is full of out-of-town visitors who spend their money in New Bedford and help support the 250 local dealers who work hard to subsidize their income or make a living through the co-op. It is an absurd thought that a city that constantly strives to attract visitors to the New Bedford region would even consider eliminating one of it’s most popular tourist attractions.” 
+The Home Depot building will have a brick facade to blend in better with the neighborhood, but its windowless, box format will bear no resemblance to other built structures in the historic North End. One local businessman who uses the Fairhaven Mills, called the Home Depot plan “seriously flawed”, noting that the plan will “create substantial traffic issues; and eliminate one of the city’s most notable tourist attractions.” Fairhaven Mills is one of the most visited tourist attractions in the city. “On any given day,” the resident wrote, “the parking lot is full of out-of-town visitors who spend their money in New Bedford and help support the 250 local dealers who work hard to subsidize their income or make a living through the co-op. It is an absurd thought that a city that constantly strives to attract visitors to the New Bedford region would even consider eliminating one of it’s most popular tourist attractions.”
 
 The developer has sold his plan based on new jobs for the area, but critics point out that not only will the people working at the existing businesses in the Mills lose their jobs, but local hardware, paint, garden supply and other occupations are likely to lose their jobs as well. Furthermore, New Bedford will not keep the sales taxes generated by the project, only the property taxes. So the likely impact on the city’s treasury will be a wash, or even negative. “A Home Depot would only serve to take money out of the community by potentially eliminating the competition who live and work in the local community such as Beacon Lumber, Fairhaven Lumber, and other smaller businesses.” There are already Home Depot’s and Lowe’s stores in neighboring Dartmouth. Money spent at the Antiques Co-op stays in New Bedford while money spent at a Home Depot is sent to Pace’s Ferry Road in Atlanta, Georgia. […]
 

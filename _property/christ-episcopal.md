@@ -13,7 +13,7 @@ neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son' ]
 lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places' ]
-tags: [ 'Demoliion by Neglect', 'Churches', 'Still an Empty Lot' ]
+tags: [ 'Demolition by Neglect', 'Churches', 'Still an Empty Lot' ]
 
 NRHP-ref-number: '76000043'
 added-to-NRHP: 'June 30, 1976'
@@ -127,16 +127,16 @@ imagescredit: 'Contributed photos from Richard Longstretch, Lou Fancy, and Mary 
 ---
 
 ### Reason for Demolition
-Having sat vacant for more than twenty years, the structure had deteriorated and much maintenance was required before it could be used again. While the Victorian brownstone and brick building retained some of its picturesque profile and distinctive detailing, its condition continued to get worse and worse. 
+Having sat vacant for more than twenty years, the structure had deteriorated and much maintenance was required before it could be used again. While the Victorian brownstone and brick building retained some of its picturesque profile and distinctive detailing, its condition continued to get worse and worse.
 
-The Christ Episcopal Church made the [Providence Preservation Society’s](//guide.ppsri.org/property/church-of-god-in-christ-jesus){:target="_blank"} Ten Most Endangered List in 1999, and <abbr title="Providence Preservation Society">PPS</abbr> has worked with the church in the past. Renewed fears about the building’s status returned the structure to <span class="abbr">PPS</span>’s Ten Most Endangered List in 2002 and 2003.
+The Christ Episcopal Church made the [Providence Preservation Society’s](https://guide.ppsri.org/property/church-of-god-in-christ-jesus) Ten Most Endangered List in 1999, and <abbr title="Providence Preservation Society">PPS</abbr> has worked with the church in the past. Renewed fears about the building’s status returned the structure to <span class="abbr">PPS</span>’s Ten Most Endangered List in 2002 and 2003.
 
 In early January 2006, the structure was taken down. The lot it used to sit on is still vacant. 
 
 ### Additional Links
 
-* [A video thesis project about the history of this vacant lot](//www.vimeo.com/3492764){:target="_blank"}. A small tour group examines the remains of the building through the story-telling of a visitor on a recording.
-* Similar info from the [Providence Preservation Society Architecture Guide](//guide.ppsri.org/property/church-of-god-in-christ-jesus){:target="_blank"}.
+* [A video thesis project about the history of this vacant lot](https://www.vimeo.com/3492764). A small tour group examines the remains of the building through the story-telling of a visitor on a recording
+* Similar info from the [Providence Preservation Society Architecture Guide](https://guide.ppsri.org/property/church-of-god-in-christ-jesus)
 
 ### History
 

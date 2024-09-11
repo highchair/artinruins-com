@@ -73,9 +73,7 @@ Damiano Industries closed its doors in 2004 after nearly 60 years in business as
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <img src="{{ site.propimg_path }}{{ page.slug }}/former-snookers-at-chestnut-st.jpg" alt="" />
-  <figcaption>
-    The former Snookers location as seen from the deck of I-195 East, care of Google Maps historic streetview
-  </figcaption>
+  <figcaption>The former Snookers location as seen from the deck of I-195 East, care of Google Maps historic streetview</figcaption>
 </figure>
 
 For a short time between 2005 and 2009, these buildings were home to Mirabelle/Carlin & Sons Antiques. Manta lists them as having been incorporated in 2007. Snookers purchased and expanded the location in 2009 after moving out of the second floor of [95 Chestnut Street]({% link _property/irons-russell-building.md %}). Some may remember seeing the Snookers neon sign in that building when Interstate 195 still ran through the [Jewelry District]({% link neighborhood/jewelry-district.html %}) and right by that building. 
@@ -83,16 +81,16 @@ For a short time between 2005 and 2009, these buildings were home to Mirabelle/C
 
 ### Current Events
 
-This location has been a billiard hall, bar and grill since opening in 2010: [Snookers RI](//www.snookersri.com){:target="_blank"}
+This location has been a billiard hall, bar and grill since opening in 2010: [Snookers RI](https://www.snookersri.com).
 
 
 ### History
 
-This collection of small cinder-block structures are not present in a G.M. Hopkins cadastral map from 1937[^1]. In aerial photos, a few of the earlier buildings are present starting in the 1951-52 photo.[^2] The newspaper article written in July of 2004 said that the business opened at this location in 1945. 
+This collection of small cinder-block structures are not present in a G.M. Hopkins cadastral map from 1937[^1]. In aerial photos, a few of the earlier buildings are present starting in the 1951-52 photo.[^2] The newspaper article written in July of 2004 said that the business opened at this location in 1945.
 
-[^1]: Captured November 4, 2021 from Plate 30 at http://www.historicmapworks.com/Map/US/895487/Plate+030/Providence+1937/Rhode+Island/ 
+[^1]: Captured November 4, 2021 from Plate 30 at http://www.historicmapworks.com/Map/US/895487/Plate+030/Providence+1937/Rhode+Island/
 
-[^2]: Seen in results from the Providence Historic Aerial Viewer. Captured November 4, 2021 from https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e 
+[^2]: Seen in results from the Providence Historic Aerial Viewer. Captured November 4, 2021 from https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e
 
 ***
 

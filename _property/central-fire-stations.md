@@ -80,22 +80,22 @@ external:
 
 ### Reason for Demolition
 
-An evolving and growing city like Providence at the turn of the century had an evolving and growing fire department as well. On March 1, 1854, a paid fire department was established to replace the “volunteer” bucket brigade before that. Previously every citizen was required to acquire two-gallon leather buckets. 
+An evolving and growing city like Providence at the turn of the century had an evolving and growing fire department as well. On March 1, 1854, a paid fire department was established to replace the “volunteer” bucket brigade before that. Previously every citizen was required to acquire two-gallon leather buckets.
 
-In 1881, the Providence fire department had 72 men on its roster, with 101 call men. There were scarcely more in 1884. There are more than 400 in the regular department in modern times. 
+In 1881, the Providence fire department had 72 men on its roster, with 101 call men. There were scarcely more in 1884. There are more than 400 in the regular department in modern times.
 
-The first central station (seen in the [first photo](#photo-central-fire-1895c-three-ones)) was built over the Woonasquatucket river with wooden pilings in 1873–1875. It was called the “Three Ones” because it housed Hose, Hook & Ladder, and Protective Companies number 1. To us, its mansard roof and steep-faceted central tower resembled City Hall, which was being built at the same time (1875). It was in use for only 25 years before being expanded and replaced by the Central Fire Station designed by Martin & Hall and built by the Gilbane Corporation. The new station opened in 1903. 
+The first central station (seen in the [first photo](#photo-central-fire-1895c-three-ones)) was built over the Woonasquatucket river with wooden pilings in 1873–1875. It was called the “Three Ones” because it housed Hose, Hook & Ladder, and Protective Companies number 1. To us, its mansard roof and steep-faceted central tower resembled City Hall, which was being built at the same time (1875). It was in use for only 25 years before being expanded and replaced by the Central Fire Station designed by Martin & Hall and built by the Gilbane Corporation. The new station opened in 1903.
 
-It was a lovely building with great details similar to that of the Union Trust Company (Stone, Carpenter, & Willson, built 1901-02 at [170 Westminster Street](//www.google.com/maps/place/170+Westminster+St,+Providence,+RI+02903/@41.8235943,-71.4135251,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44514106fba8f:0x457e1f5b8668e003!8m2!3d41.8235943!4d-71.4113364){:target="_blank"}). The multi-colored stonework and brick courses added an elegant finesse — one which is evident in many of Martin & Hall’s other designs. At the time that it was constructed, its central tower made it the tallest building in Providence until the State House was constructed a year later[^1]. 
+It was a lovely building with great details similar to that of the Union Trust Company (Stone, Carpenter, & Willson, built 1901-02 at [170 Westminster Street](https://www.google.com/maps/place/170+Westminster+St,+Providence,+RI+02903/@41.8235943,-71.4135251,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44514106fba8f:0x457e1f5b8668e003!8m2!3d41.8235943!4d-71.4113364)). The multi-colored stonework and brick courses added an elegant finesse — one which is evident in many of Martin & Hall’s other designs. At the time that it was constructed, its central tower made it the tallest building in Providence until the State House was constructed a year later[^1].
 
 [^1]: According to one of our anecdotes. We are inclined to believe it, even though no other record provides proof of this statement.
 
-Its central location and size did not make it immune from progress. We are not exactly sure why it was replaced, but in 1938 it was demolished and the newer central Police and Fire Station was built at [La Salle Square]({% link _property/public-safety-lasalle-square.md %}). The newer combination police/fire station opened in 1940 and was then itself replaced as well in 2007. 
+Its central location and size did not make it immune from progress. We are not exactly sure why it was replaced, but in 1938 it was demolished and the newer central Police and Fire Station was built at [La Salle Square]({% link _property/public-safety-lasalle-square.md %}). The newer combination police/fire station opened in 1940 and was then itself replaced as well in 2007.
 
 
 ### Current Events
 
-The location of the former Three Ones station is now the site of the Federal Court House which was completed in 1908. The location of the former Central Fire Station is now the Post Office Annex, 2 Exchange Terrace. 
+The location of the former Three Ones station is now the site of the Federal Court House which was completed in 1908. The location of the former Central Fire Station is now the Post Office Annex, 2 Exchange Terrace.
 
 
 ### History
@@ -107,7 +107,7 @@ It is tempting to think that the first central fire station, the “Three Ones�
     <img src="{{ site.propimg_path }}{{ page.slug }}/sanborn-map-1889-xxchange-place-plate-1.jpg" alt="" />
   </a>
   <figcaption>
-    Sanborn Map, 1889, from <a href="//repository.library.brown.edu/studio/item/bdr:212114/" target="_blank" title="Opens in a new window">the collection of Brown University</a>. Upper left shows City Hall, with the old Union Station and the Cove encroaching into what is now Exchange Place. The “Three Ones” (funnily enough, just under the large “1” in the upper right) is drawn over water in the location of what would become the Federal Court building in 1908. 
+    Sanborn Map, 1889, from <a href="https://repository.library.brown.edu/studio/item/bdr:212114/">the collection of Brown University</a>. Upper left shows City Hall, with the old Union Station and the Cove encroaching into what is now Exchange Place. The “Three Ones” (funnily enough, just under the large “1” in the upper right) is drawn over water in the location of what would become the Federal Court building in 1908.
   </figcaption>
 </figure>
 

@@ -70,24 +70,24 @@ images:
 
 mostrecentimage: 2020-10-01
 
-imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%3A19481" target="_blank">Rhode Island Postcard Collection</a>, Providence Public Library'
+imagescredit: 'Contribution from the <a href="https://provlibdigital.org/islandora/object/islandora%3A19481">Rhode Island Postcard Collection</a>, Providence Public Library'
 
 ---
 
 ### Proposal
 
-Around April, 2004, news started to circulate that the GTECH Corporation, known for running state lotteries and gaming, was going to choose an architect to design their new headquarters to be situated in a vacant parcel (Parcel 9) on the corner of Memorial Boulevard and Francis Street. The Capital Center Commission had oversight on the development of the 77-acre Capital Center District, which rings the State House. Its Design Review Committee can approve, deny, or request modifications to submitted designs for any development in the area. The committee does not prohibit certain types of design, but it does work to make sure all new development “fits” with the Capital Center’s existing properties.  
+Around April, 2004, news started to circulate that the GTECH Corporation, known for running state lotteries and gaming, was going to choose an architect to design their new headquarters to be situated in a vacant parcel (Parcel 9) on the corner of Memorial Boulevard and Francis Street. The Capital Center Commission had oversight on the development of the 77-acre Capital Center District, which rings the State House. Its Design Review Committee can approve, deny, or request modifications to submitted designs for any development in the area. The committee does not prohibit certain types of design, but it does work to make sure all new development “fits” with the Capital Center’s existing properties.
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <img src="{{ site.propimg_path }}{{ page.slug }}/gtech-render-waterplace.jpg" alt="" />
   <figcaption>An early rendering from the perspective of Waterplace park during a Waterfire</figcaption>
 </figure>
 
-GTECH moved downtown from West Greenwich to fulfill its part of a 20-year lottery deal it signed with the state in 2004. To stop GTECH from moving its more than 900 employees to Massachusetts, Rhode Island offered the company a contract to run the state lottery for the next 20 years — an offer worth about $770 million. In return, GTECH agreed to stay in Rhode Island and move its corporate headquarters to Providence. 
+GTECH moved downtown from West Greenwich to fulfill its part of a 20-year lottery deal it signed with the state in 2004. To stop GTECH from moving its more than 900 employees to Massachusetts, Rhode Island offered the company a contract to run the state lottery for the next 20 years — an offer worth about $770 million. In return, GTECH agreed to stay in Rhode Island and move its corporate headquarters to Providence.
 
-The $88.5-million structure includes a parking structure with 250 spaces. GTECH planned to occupy the first four floors of the building and rent out the remaining 2 floors. 
+The $88.5-million structure includes a parking structure with 250 spaces. GTECH planned to occupy the first four floors of the building and rent out the remaining 2 floors.
 
-A controversy did come up during the design phase of the process, when GTECH could try to get out of their deal with the State. While they had a sweetheart 20-year deal, a bill before the General Assembly seemed to allow other vendors to operate slot machines in a new casino proposed for West Warwick. GTECH was within their rights to challenge the new legislation according to their agreement with the State, but we are sure it did not hurt to have an over $80-million construction project also hanging in the balance. 
+A controversy did come up during the design phase of the process, when GTECH could try to get out of their deal with the State. While they had a sweetheart 20-year deal, a bill before the General Assembly seemed to allow other vendors to operate slot machines in a new casino proposed for West Warwick. GTECH was within their rights to challenge the new legislation according to their agreement with the State, but we are sure it did not hurt to have an over $80-million construction project also hanging in the balance.
 
 
 ### Design Reception
@@ -97,7 +97,7 @@ A controversy did come up during the design phase of the process, when GTECH cou
   <figcaption>An early rendering of the new building from the perspective of Memorial Boulevard and Francis Streets</figcaption>
 </figure>
 
-The design of the building went through a few rounds of review and modifications, but generally won high praise from Review Committee members. The first corporate headquarters in the downtown for over 14 years presented a building with ground-floor retail and public space along its Waterplace Park frontage. The sidewalks were widened as the designers clearly knew that this prominent gateway location would be highly trafficked. 
+The design of the building went through a few rounds of review and modifications, but generally won high praise from Review Committee members. The first corporate headquarters in the downtown for over 14 years presented a building with ground-floor retail and public space along its Waterplace Park frontage. The sidewalks were widened as the designers clearly knew that this prominent gateway location would be highly trafficked.
 
 > “We’re suggesting that we expand the public realm,“ said Al Spagnolo, one of the firm’s principals. “[by] enhancing Francis Street and expanding the sidewalk… it would create more public space around the edges.”[^1]
 
@@ -105,18 +105,18 @@ The design of the building went through a few rounds of review and modifications
 
 The design went through a few rounds, and most of the ideas received glowing reviews. The projecting illuminated Tower went through several revisions as design review members thought it might be too large or gaudy. The architect described it as a “transparent glass jewel.” The north side facing the state house received the most criticism and reworking to accommodate a more interesting set of shapes with terraces and levels. Additional designs for the building’s landscaping were handled by architect William D. Warner, who designed Waterplace Park. He worked to make the landscaping around GTECH’s headquarters an extension of the park.
 
-The design gained approval in November of 2004 and construction started early in 2005. 
+The design gained approval in November of 2004 and construction started early in 2005.
 
-In our opinion, the building literally reflects its surroundings quite well. The mostly glass and steel exterior is a sharp contrast to the nearby Marriott, Union Station, Westin, and Mall (the last two designed to look older than they actually are, but not as well crafted). But that sharp contrast is the most exciting part. Its short, squat shape is a great anchor on the corner without commanding too much focus. The State House still looks down on the property, and the hill rises to meet the State House. Each side of the building is specifically designed to address its neighbor. We think it is one of the more successful new construction projects in the decade. 
+In our opinion, the building literally reflects its surroundings quite well. The mostly glass and steel exterior is a sharp contrast to the nearby Marriott, Union Station, Westin, and Mall (the last two designed to look older than they actually are, but not as well crafted). But that sharp contrast is the most exciting part. Its short, squat shape is a great anchor on the corner without commanding too much focus. The State House still looks down on the property, and the hill rises to meet the State House. Each side of the building is specifically designed to address its neighbor. We think it is one of the more successful new construction projects in the decade.
 
-And more was to come. As the GTECH exterior was being finished, our photos show the new [Westin tower]({% link _property/westin-tower.md %}) and [Waterplace Towers]({% link _property/waterplace-towers.md %}) under construction. 
+And more was to come. As the GTECH exterior was being finished, our photos show the new [Westin tower]({% link _property/westin-tower.md %}) and [Waterplace Towers]({% link _property/waterplace-towers.md %}) under construction.
 
-Italy-based GTECH purchased Las Vegas-based slot machine maker <abbr title="International Game Technology">IGT</abbr> in 2014 for $6.4 billion. The companies treated the acquisition as a merger and consolidated under the IGT name. 
+Italy-based GTECH purchased Las Vegas-based slot machine maker <abbr title="International Game Technology">IGT</abbr> in 2014 for $6.4 billion. The companies treated the acquisition as a merger and consolidated under the IGT name.
 
 
 ### Did you Know?
 
-This site figured prominently in the 1999 Gravity Games held in Providence as the main competition area for street-style BMX and Skateboarding. Street Luge and Downhill were held on the streets of College Hill, while Freestyle Motorcross was held in a dirt track where [Waterplace Towers]({% link _property/waterplace-towers.md %}) and the [Blue Cross building]({% link _property/blue-cross-tower.md %}) are, and a halfpipe and concession area occupied the corner of Francis and Gaspee Streets. 
+This site figured prominently in the 1999 Gravity Games held in Providence as the main competition area for street-style BMX and Skateboarding. Street Luge and Downhill were held on the streets of College Hill, while Freestyle Motorcross was held in a dirt track where [Waterplace Towers]({% link _property/waterplace-towers.md %}) and the [Blue Cross building]({% link _property/blue-cross-tower.md %}) are, and a halfpipe and concession area occupied the corner of Francis and Gaspee Streets.
 
 
 ### In the News
@@ -168,5 +168,5 @@ Under the terms of the contract, if the Rhode Island Lottery Commission “obtai
 
 However, under the recently drafted casino legislation, the Rhode Island lottery would not obtain any machines — Harrah’s would handle them directly. Consequently, GTECH would not get 50 percent of the machines. […]
 
-_From [UrbanPlanet.org](//www.urbanplanet.org/forums/topic/7048-complete-gtech-center/?tab=comments#comment-30656){target="_blank"}, captured from http://www.projo.com/business/content/projo_20040624_gtk624.161cc5.html_
+_From [UrbanPlanet.org](https://www.urbanplanet.org/forums/topic/7048-complete-gtech-center/?tab=comments#comment-30656), captured from http://www.projo.com/business/content/projo_20040624_gtk624.161cc5.html_
 

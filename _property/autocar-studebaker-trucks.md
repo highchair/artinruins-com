@@ -64,19 +64,19 @@ imagescredit: 'Contribution from the Library of Congress'
 
 ### Last Tenant
 
-National Office Furniture has been at this address since we don’t know when. Its been a long time. They recently moved. Why? Unsure, but the new location likely seems like it could only be a showroom because it does not have all of the space that this location had. 
+National Office Furniture has been at this address since we don’t know when. Its been a long time. They recently moved. Why? Unsure, but the new location likely seems like it could only be a showroom because it does not have all of the space that this location had.
 
 When this was a car and truck sales showroom, the flashier vehicles were likely located in the streetfront portion of the building along Branch Avenue. Once inside, a customer could look out across the annex building in the rear which could hold up to 50 cars (according to the Sanborn Map).
 
 
 #### Architecture
 
-The building’s main entrance is a nice, symmetrical, commercial storefront with large plate glass windows and central double-door. The door is flanked by two decorative concrete columns. Two single door recessed entrances are on the far ends of the left and right sides. The rear annex building has no details from the exterior but its interior is impressive in its raw structural space. 
+The building’s main entrance is a nice, symmetrical, commercial storefront with large plate glass windows and central double-door. The door is flanked by two decorative concrete columns. Two single door recessed entrances are on the far ends of the left and right sides. The rear annex building has no details from the exterior but its interior is impressive in its raw structural space.
 
 
 ### Current Events
 
-National Office Furniture moved in 2023 from this location to Elmgrove Avenue next to a Santander Bank Branch. [Their website](//www.nationaloffice.com/){:target="_blank"} (as of May, 2023) has not been updated with the new address.
+National Office Furniture moved in 2023 from this location to Elmgrove Avenue next to a Santander Bank Branch. [Their website](https://www.nationaloffice.com/) (as of May, 2023) has not been updated with the new address.
 
 
 ### History
@@ -98,10 +98,10 @@ Although the existing RIHPHC data sheet for the property records the building's 
   <figcaption>1937 G.M. Hopkins Map posted on the 32 Branch Avenue (Washington Laundry) property page</figcaption>
 </figure>
 
-These are the same map references as [32 Branch Avenue]({% link _property/32-branch-avenue.md %}) (Washington Laundry). 
+These are the same map references as [32 Branch Avenue]({% link _property/32-branch-avenue.md %}) (Washington Laundry).
 
-+ [1899 Sanborn Insurance Map, Volume 2, Plate 116](//repository.library.brown.edu/studio/item/bdr:213318/){:target="_blank"} — The northern portion of the block bounded by Mechanic Ave. to the west, Thurber Lane to the north, Branch Ave. to the east, and Livingston Ave. to the south is labelled “George D. Lansing & Son Lumber Yard.” Thurber Lane has been renamed Dryden Lane.
-+ [1920–1921 Sanborn Insurance Map, Volume 2, Plate 77](//www.loc.gov/resource/g3774pm.g3774pm_g08099192102/?sp=84&r=0.378,0.461,0.654,0.441,0){:target="_blank"} — Still shows “Lansing Lumber Co.” as the owner of this portion of the block.
-+ [1926–1927 G.M. Hopkins Insurance Map, Plate 24](https://sosri.access.preservica.com/uncategorized/IO_d13a72a1-f876-4bf3-a099-9f19e0632a9a/){:target="_blank"} — Still shows “Lansing Lumber Co.” as the owner of this portion of the block.
-+ [1937 G.M. Hopkins Insurance Map, Plate 24](https://sosri.access.preservica.com/uncategorized/IO_2f0d6ffd-1036-42b1-bca9-064cc746e96c/){:target="_blank"} — This building is now in place, labelled “Melrose Realty Co. – Autocar & Studebaker Trucks.”
-+ [1920-1951 Sanborn Insurance Map, Volume 2, Plate 77](//www.loc.gov/resource/g3774pm.g3774pm_g08099195102/?sp=84&r=0.526,0.56,0.585,0.395,0){:target="_blank"} — Autocar is not mentioned by name, but the building shows several detailed labels, including “Garage, Capacity 50 cars. Concrete floor, concrete slab reenforced on exposed steel trusses. 24" brick piers.” In the G.M. Hopkins maps, both the #32 and #36 buildings are shown in pink which should indicate brick construction. Here, Sanborn shows the #36 building in blue, indicating stone construction (the “C.B.” label indicating cinder block is not present).
++ [1899 Sanborn Insurance Map, Volume 2, Plate 116](https://repository.library.brown.edu/studio/item/bdr:213318/) — The northern portion of the block bounded by Mechanic Ave. to the west, Thurber Lane to the north, Branch Ave. to the east, and Livingston Ave. to the south is labelled “George D. Lansing & Son Lumber Yard.” Thurber Lane has been renamed Dryden Lane.
++ [1920–1921 Sanborn Insurance Map, Volume 2, Plate 77](https://www.loc.gov/resource/g3774pm.g3774pm_g08099192102/?sp=84&r=0.378,0.461,0.654,0.441,0) — Still shows “Lansing Lumber Co.” as the owner of this portion of the block.
++ [1926–1927 G.M. Hopkins Insurance Map, Plate 24](https://sosri.access.preservica.com/uncategorized/IO_d13a72a1-f876-4bf3-a099-9f19e0632a9a/) — Still shows “Lansing Lumber Co.” as the owner of this portion of the block.
++ [1937 G.M. Hopkins Insurance Map, Plate 24](https://sosri.access.preservica.com/uncategorized/IO_2f0d6ffd-1036-42b1-bca9-064cc746e96c/) — This building is now in place, labelled “Melrose Realty Co. – Autocar & Studebaker Trucks.”
++ [1920-1951 Sanborn Insurance Map, Volume 2, Plate 77](https://www.loc.gov/resource/g3774pm.g3774pm_g08099195102/?sp=84&r=0.526,0.56,0.585,0.395,0) — Autocar is not mentioned by name, but the building shows several detailed labels, including “Garage, Capacity 50 cars. Concrete floor, concrete slab reenforced on exposed steel trusses. 24" brick piers.” In the G.M. Hopkins maps, both the #32 and #36 buildings are shown in pink which should indicate brick construction. Here, Sanborn shows the #36 building in blue, indicating stone construction (the “C.B.” label indicating cinder block is not present).

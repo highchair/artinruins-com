@@ -8,7 +8,7 @@ built: '1880, 1921'
 demolition:
 redeveloped:
 units:
-decade: '1880-1849'
+decade: '1880-1889'
 date-added: '2023'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Olneyville/Valley' ]
@@ -119,7 +119,7 @@ In 2006–2007, local developer John Risica proposed a redevelopment of 64 condo
 
 ### Current Events
 
-There is [an active corporation by the name of Roger Williams Brewery](https://opencorporates.com/companies/us_ri/000588491){:target="_blank"} at 244 Oak Street. We can’t find any information about it activity and whether or not it is producing beer for sale. As far as we can tell, this building is home to studios and industrial space.
+There is [an active corporation by the name of Roger Williams Brewery](https://opencorporates.com/companies/us_ri/000588491) at 244 Oak Street. We can’t find any information about it activity and whether or not it is producing beer for sale. As far as we can tell, this building is home to studios and industrial space.
 
 
 ### History
@@ -198,7 +198,7 @@ _by Ian Donnis_
 
 Tne building, a partially stucco-laden four-story structure with an improbable pink hue, seems unexceptional from the outside. Yet tucked amid old brick factory complexes in an industrial-age labyrinth of streets behind Olneyville Square, this was the place — with lofts bearing such names as the **Pink Rabbit**, **the Bakery**, **Box of Knives**, and the **Providence Civic Center** — that until recently served as the throbbing heart of Providence’s musical underground.
 
-Serving as a successor to the late, lamented [Fort Thunder](//en.wikipedia.org/wiki/Fort_Thunder){:target="_blank"}, which was replaced several years ago by [a new shopping development in Eagle Square]({% link _property/eagle-square.md %}), the old warehouse at 244 Oak St./71 Troy St. attracted its share of touring bands, and the almost 60 artists and musicians who called it home considered it a fertile artistic ecosystem. Although the residents, including people like _Lighting Bolt_ drummer Brian Chippendale, and Jim Drain, a member of the critically regarded art collective _Forcefield_, kept a low official profile while operating in a forgotten part of town, their efforts nonetheless raised Providence’s reputation as a cool place. “It’s underground,” notes Bert Crenca, [AS220’s](//as220.org){:target="_blank"} artistic director, “but a very large part of the positive perception that people have nationally of Providence as an arts-vital city.”
+Serving as a successor to the late, lamented [Fort Thunder](https://en.wikipedia.org/wiki/Fort_Thunder), which was replaced several years ago by [a new shopping development in Eagle Square]({% link _property/eagle-square.md %}), the old warehouse at 244 Oak St./71 Troy St. attracted its share of touring bands, and the almost 60 artists and musicians who called it home considered it a fertile artistic ecosystem. Although the residents, including people like _Lighting Bolt_ drummer Brian Chippendale, and Jim Drain, a member of the critically regarded art collective _Forcefield_, kept a low official profile while operating in a forgotten part of town, their efforts nonetheless raised Providence’s reputation as a cool place. “It’s underground,” notes Bert Crenca, [AS220’s](https://as220.org) artistic director, “but a very large part of the positive perception that people have nationally of Providence as an arts-vital city.”
 
 Well, it was underground, anyway. The Shangri la that intensified at the Oak Street-Troy Street structure over the last six or so years — one loft was even dubbed **Valhalla** — abruptly came to a halt after inspectors visited the building on January 8, reportedly after a call that people were illegally living there. Arriving the next day, a larger group of officials was alarmed by what they found, telling the building’s tenants that living there was extremely dangerous. Although lawyer Michael J. Lepizzera Jr., who represents about 32 of the tenants, says they had residential leases from property owner Walter Bronhard of Fall River, Massachusetts, their legal case for remaining was weak since the building was not zoned for residential use. After a tense two-week period — which, tenants say, was marked by conflicting information and uncertainty about whether they’d have days or months to move out — the residents were forced to leave on January 24, during one of the coldest weeks of one of the coldest winters in recent memory. […]
 

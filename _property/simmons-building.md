@@ -83,17 +83,17 @@ The Simmons Building was the birthplace of the [Davol Rubber Company]({% link _p
 
 This building was subleased to various small businesses soon after the main operations of the Davol Company moved across Point Street. In the early 1900s, the building once again was used by the Davol Rubber company and an elevated walkway connected it to the main building at the second floor level.
 
-By 1977, all buildings were vacated by the company for newer facilities in Cranston. In 1980 the property was nominated for the National Register by Jeffrey Blydenburgh, then architect with Beckman Blydenburg & Associates. Mr. Blydenburgh was chief architect and planner for the redevelopment of the Davol complex into what is now known as Davol Square. From his current LinkedIn bio: 
+By 1977, all buildings were vacated by the company for newer facilities in Cranston. In 1980 the property was nominated for the National Register by Jeffrey Blydenburgh, then architect with Beckman Blydenburg & Associates. Mr. Blydenburgh was chief architect and planner for the redevelopment of the Davol complex into what is now known as Davol Square. From his current LinkedIn bio:
 
 > My major achievement at B.B. & A. was the adaptive reuse of the Davol Rubber Company into Davol Square. In 1980 it was the largest historic tax act project in the state of Rhode Island.[^1]
 
-[^1]: Jeffrey Blydenburgh work experience, Partner, Beckman Blydenburgh & Associates, 1977 – 1985. Captured December 27, 2021 from https://www.linkedin.com/in/jeffreyblydenburgh/
+[^1]: Jeffrey Blydenburgh work experience, Partner, Beckman Blydenburgh & Associates, 1977 – 1985. Captured December 27, 2021 from https:www.linkedin.com/in/jeffreyblydenburgh/
 
-As part of the redevelopment of the main Davol complex, the original plan called for the Simmons building to be turned into loft condominiums. Narragansett Electric sued to block that part of the project, however, saying that tenants would file nuisance lawsuits over pollution and noise if they lived so close to both the Manchester Station and the South Street power plants.[^2] 
+As part of the redevelopment of the main Davol complex, the original plan called for the Simmons building to be turned into loft condominiums. Narragansett Electric sued to block that part of the project, however, saying that tenants would file nuisance lawsuits over pollution and noise if they lived so close to both the Manchester Station and the South Street power plants.[^2]
 
 [^2]: SEAVOR, JIM. “Developers are betting millions that old Davol Square has future.” Providence Journal (RI), NORTH-WEST ed., sec. NEWS, 30 July 1982, pp. C-03. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C389097036C8. Accessed 28 Dec. 2021.
 
-Because of that lawsuit, the Simmons Building became a rental property instead, hosting a wide variety of business over the years. Some that we could find in old news reports include the **Wickenden Gate Theater**[^3], **Harbour Point Financial Group**[^4], **DeVille’s Cafe**[^5] (about 1993–1995), and **SBI**[^6], a photography equipment retailer. 
+Because of that lawsuit, the Simmons Building became a rental property instead, hosting a wide variety of business over the years. Some that we could find in old news reports include the **Wickenden Gate Theater**[^3], **Harbour Point Financial Group**[^4], **DeVille’s Cafe**[^5] (about 1993–1995), and **SBI**[^6], a photography equipment retailer.
 
 [^3]: SEAVOR, JIM. “‘Talking With…’ is warm and winning.” Providence Journal (RI), ALL ed., sec. ARTS, 22 Sept. 1987, pp. A-12. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525298C6B8A3998. Accessed 26 Dec. 2021.
 
@@ -103,11 +103,11 @@ Because of that lawsuit, the Simmons Building became a rental property instead, 
 
 [^6]: ROCKOFF, JONATHAN D.. “Burst main disrupts service, but damage is minor.” Providence Journal (RI), Metro ed., sec. News, 22 Dec. 1999, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152513D688CCFDA0. Accessed 26 Dec. 2021.
 
-In 2006, Brown University announced that it would buy seven buildings in the city’s Jewelry District for future expansion of the university’s life science and medical programs. The properties included 1 and 10 Davol Square.[^7] We were able to verify the purchase of this building for the price of $5,377,000 in early 2007.[^8] 
+In 2006, Brown University announced that it would buy seven buildings in the city’s Jewelry District for future expansion of the university’s life science and medical programs. The properties included 1 and 10 Davol Square.[^7] We were able to verify the purchase of this building for the price of $5,377,000 in early 2007.[^8]
 
 [^7]: JORDAN and GREGORY SMITH, JENNIFER D.. “Brown’s major move — Plans to buy 7 buildings in Jewelry District.” Providence Journal (RI), All ed., sec. News, 25 Oct. 2006, pp. A-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152427528B186888. Accessed 26 Dec. 2021.
 
-[^8]: Providence RI Tax Assesor’s Database, Vision Goverment Solutions, for 82 Point Street, https://gis.vgsi.com/providenceri/Parcel.aspx?pid=40323. Accessed 27 Dec, 2021,
+[^8]: Providence RI Tax Assesor’s Database, Vision Government Solutions, for 82 Point Street, https://gis.vgsi.com/providenceri/Parcel.aspx?pid=40323. Accessed 27 Dec, 2021,
 
 In October 2017, the Coastal Medical Group acquired the property from Brown University.[^9]
 
@@ -116,7 +116,7 @@ In October 2017, the Coastal Medical Group acquired the property from Brown Univ
 
 ### Current Events
 
-10 Davol Square is home to different tenants on each floor. The Social Enterprise Greenhouse, a tenant since 2014, is still located on the first floor while Coastal Medical is the anchor tenant on upper floors. 
+10 Davol Square is home to different tenants on each floor. The Social Enterprise Greenhouse, a tenant since 2014, is still located on the first floor while Coastal Medical is the anchor tenant on upper floors.
 
 
 ### History
@@ -163,7 +163,7 @@ Luckily, says architect Jeffrey Blydenburgh, the part of the building scheduled 
 
 This passive solar feature is expected to supply some of the building’s heating requirements but in general, Lefebvre says, a small amount of water, heated by gas, will pass through the entire building and each office or store will extract the desired heat via its own heat pump. […]
 
-[The greehouse was never constructed, and we could not find any reasons why.]
+[The greenhouse was never constructed, and we could not find any reasons why.]
 
 The Simmons Building, itself, occupies one, triangular end of a 19,00 4square foot lot bounded by Point and Eddy Streets.
 
@@ -181,5 +181,4 @@ While the structure initially housed the actual manufacturing operations, as the
 
 —
 
-HARRINGTON, CLYDE H.. "Simmons Building opening in month." Providence Journal (RI), ALL ed., sec. BUSINESS, 16 Oct. 1983, pp. G-01. NewsBank: America's News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C236690AF928. Accessed 28 Dec. 2021.
-
+HARRINGTON, CLYDE H.. “Simmons Building opening in month.” Providence Journal (RI), ALL ed., sec. BUSINESS, 16 Oct. 1983, pp. G-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C236690AF928. Accessed 28 Dec. 2021.

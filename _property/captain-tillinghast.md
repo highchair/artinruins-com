@@ -13,9 +13,9 @@ date-added: '2010'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
-lists: [ 'College Hill Historic District', 'HABS HAER', 'Library of Congress', 'Rhody Awards' ]
+lists: [ 'College Hill Historic District', 'HABS HAER', 'Rhody Awards' ] #Library of Congress
 tags: [ 'House' ]
 
 NRHP-ref-number:
@@ -79,7 +79,7 @@ images:
   - url: capt-tillinghast-jh-2020-02-03.jpg
     sizes: '1200, 900'
 
-imagescredit: 'Early photos from the <a href="//www.loc.gov/pictures/collection/hh/item/ri0264/" target="_blank">Historic American Building Survey (HABS), Library of Congress</a>'
+imagescredit: 'Early photos from the <a href="https://www.loc.gov/pictures/collection/hh/item/ri0264/">Historic American Building Survey (HABS), Library of Congress</a>'
 
 mostrecentimage: 2020-02-01
 
@@ -90,18 +90,18 @@ mostrecentimage: 2020-02-01
 
 ### Redevelopment
 
-Now that interstate 195 have been moved out of the center of the city, the land that this 250 year old house sits on is very valuable. On the corner of James Street and South Main, this simple wood clapboard structure has seen many shipping and industrialization changes in the city. Its seen the working waterfront be replaced by a leisure attraction, buildings be razed for a highway then the highway removed to make way for new buildings. It’s had quite a life. 
+Now that interstate 195 have been moved out of the center of the city, the land that this 250 year old house sits on is very valuable. On the corner of James Street and South Main, this simple wood clapboard structure has seen many shipping and industrialization changes in the city. Its seen the working waterfront be replaced by a leisure attraction, buildings be razed for a highway then the highway removed to make way for new buildings. It’s had quite a life.
 
 Around 2003, Andrew Mitrelis purchased the property. The building gained attention by back-to-back listings on PPS’s Ten Most Endangered Lists in 2008 and 2009. The owner engaged an architect and the Providence Revolving Fund to study a potential rehabilitation of the building. They  hired an engineer to do exploratory work on the building’s structure as the buckling façade indicated problems with the foundation and/or frame. In 2010, exterior renovations were completed while working closely with the Providence Revolving Fund. The roof and the chimneys were rebuilt and an exterior and interior renovation were completed by 2011.
 
-The renovation garnered a Rhody Project Award to Andrew Mitrelis for restoring the this remnant of Providence’s Colonial past in 2014.[^1] The building contained a salon during 2014 until we are not sure when. 
+The renovation garnered a Rhody Project Award to Andrew Mitrelis for restoring the this remnant of Providence’s Colonial past in 2014.[^1] The building contained a salon during 2014 until we are not sure when.
 
 [^1]: “Rhody Awards: Projects, people win preservation awards,” Bill Van Siclen, Providence Journal, September 18, 2014.
 
 
 ### Current Events
 
-According to Google, this home is now an office location of Peter M. Scotti & Associates Real Estate. 
+According to Google, this home is now an office location of Peter M. Scotti & Associates Real Estate.
 
 
 ### History
@@ -126,4 +126,4 @@ There is a later bay window between the south rooms on the first floor, and some
 
 The present six over six light, double hung windows are probably later; originally the windows may have had twelve light sash with heavier muntins as in the window at the stair landing. There is some later hardware, but second floor doors have early box locks and L-shape hinges. The stairway flusters around the stair well on the second floor are slightly different from those on the steps, and may have been altered. A bathroom has been added on the second floor in the central hallway over the entrance. The Gothic wallpaper in the hallway, recorded earlier in HABS, has been removed and destroyed. […]
 
-Prepared by Osmund R. Overby, Architect National Park Service, April 1962.
+— Prepared by Osmund R. Overby, Architect National Park Service, April 1962.

@@ -94,9 +94,6 @@ mostrecentimage: 1979-01-01
 #    url: https://perma.cc/MQ4Z-Z9K4
 ---
 
-For more, explore [BASE: _Advancing a Post-Military Landscape_](/community/quonsetpoint) from 2000, by Eric Carlson and Erica Carpenter, with support from the Rhode Island Council of the Humanities (<span class="abbr">RICH</span>)
-{:.o__tldr}
-
 ### Reason for Redevelopment
 
 As early as the late 1950’s, not even 20 years after the base was constructed, the future of Quonset Point as a naval base was uncertain. After the Korean War ended in 1953, the Navy started to spend less money on the base and allocate fewer resources. In 1958 they announced they would operate Quonset Point on an austerity basis because they were short on funds and did not intend to ask for any additional funds for the station in the immediate future. In a statement that shocked many in Rhode Island, the Navy noted that it was not in a position to speculate on the long-term future of the base. 
@@ -109,12 +106,12 @@ On Monday, April 16, 1973 the Department of Defense told the members of the Rhod
 
 [^1]: (All preceding paragraphs) “Quonset Point Naval Station,” Charles F. O’Connell, Historic American Engineering Record, 1978–1979 p. 96 through 103
 
-Since the closing, the State of Rhode Island pursued developing the base as an industrial park under the control of the Rhode Island Port Authority. Since the 1980s many of the Industrial facilities were used by the Electric Boat Division of General Dynamics as a fabrication center for Trident submarine hull components. In 2009, the National Oceanic and Atmospheric Administration (<span class="abbr">NOAA</span>) chose the Port as home to Okeanos Explorer, a one-of-a-kind research vessel devoted entirely to exploring unknown parts of the world’s oceans. 
+Since the closing, the State of Rhode Island pursued developing the base as an industrial park under the control of the Rhode Island Port Authority. Since the 1980s many of the Industrial facilities were used by the Electric Boat Division of General Dynamics as a fabrication center for Trident submarine hull components. In 2009, the National Oceanic and Atmospheric Administration (<span class="abbr">NOAA</span>) chose the Port as home to Okeanos Explorer, a one-of-a-kind research vessel devoted entirely to exploring unknown parts of the world’s oceans.
 
 
 ### Current Events
 
-Quonset Point is now best known as the [Quonset Business Park](http://www.quonset.com){:target="_blank"} run by the Quonset Development Corporation. It is home to almost 200 companies, employing more than 11,000 people across a variety of industries. The Port of Davisville at Quonset is one of the top ten auto importers in North America.
+Quonset Point is now best known as the [Quonset Business Park](https://www.quonset.com){:target="_blank"} run by the Quonset Development Corporation. It is home to almost 200 companies, employing more than 11,000 people across a variety of industries. The Port of Davisville at Quonset is one of the top ten auto importers in North America.
 
 The Rhode Island Air Show is held annually by the Rhode Island National Guard and is perhaps the most well-known event to take place on Quonset Point. The event began in 1991 as a relatively minor aviation exhibition but grew in attendance each year, with the USAF Thunderbirds performing every even year and the USN Blue Angels performing every odd year.[^2]
 
@@ -133,8 +130,8 @@ The HABS/HAER [114 page report written by Charles F. O’Connell, Jr.](//www.loc
   <a href="http://artinruins.com/community/quonsetpoint/">
     <img src="http://artinruins.com/community/quonsetpoint/quonset/33q100399c18a.jpg" alt="" />
   </a>
-</figure> 
+</figure>
 
 #### BASE: Advancing a Post-Military Landscape
 
-BASE: _Advancing a Post-Military Landscape_ was a 1998–2001 research project undertaken by Erik Carlson and Erica Carpenter with the support of a Humanities Resource Grant from the Rhode Island Committee for the Humanities, a state affiliate of the National Endowment for the Humanities. ArtInRuins proudly hosts [an archive version of their 2000 report](http://artinruins.com/community/quonsetpoint). Over 250 images, an extensive history, maps, historic images, and current conditions from 1999-2000 are included. Photo print archives are available on file at the Rhode Island Historical Society and the Rhode Island Historical Preservation and Heritage Commission. 
+BASE: _Advancing a Post-Military Landscape_ was a 1998–2001 research project undertaken by Erik Carlson and Erica Carpenter with the support of a Humanities Resource Grant from the Rhode Island Committee for the Humanities (<span class="abbr">RICH</span>), a state affiliate of the National Endowment for the Humanities. ArtInRuins proudly hosts [an archive version of their 2000 report](http://artinruins.com/community/quonsetpoint). Over 250 images, an extensive history, maps, historic images, and current conditions from 1999-2000 are included. Photo print archives are available on file at the Rhode Island Historical Society and the Rhode Island Historical Preservation and Heritage Commission.

@@ -8,12 +8,12 @@ built: '1963'
 demolition: '2011'
 redeveloped:
 units:
-decade: '1960-19609'
+decade: '1960-1969'
 date-added: '2023'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [] # Gage & Martinson
 lists: [ 'PPS Ten Most Endangered' ]
 tags: [ 'Concrete', 'Demolition by Progress', 'Still an Empty Lot' ]
@@ -77,7 +77,7 @@ We could not find much about the garage — generally a concrete parking garage
 
 Built for “The Outlet” retail establishment, the garage was attached to the neighboring multi-story shopping center at the third and fourth floors. It was constructed in 1963 on the site of a former parking garage and storage warehouse.
 
-In October of 1986, the Outlet building suffered a major fire. There was a plan to convert the recently closed Outlet stores into 200 apartments with 90,000 sf of retail space. Days before the fire, asbestos had been removed from the building in preparation for residential conversion.[^1] The concrete parking structure survived. 
+In October of 1986, the Outlet building suffered a major fire. There was a plan to convert the recently closed Outlet stores into 200 apartments with 90,000 sf of retail space. Days before the fire, asbestos had been removed from the building in preparation for residential conversion.[^1] The concrete parking structure survived.
 
 [^1]: “The Outlet fire: a blow to downtown hopes.” Providence Journal (RI), ALL ed., sec. EDITORIAL, 17 Oct. 1986, pp. A-24. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15252CD992022350. Accessed 22 Dec. 2023.
 
