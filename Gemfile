@@ -20,7 +20,7 @@ gem "webrick", "~> 1.7"
 gem "jekyll-image-size", "~> 1.2"
 # Check for Broken Links in Jekyll
 # https://danielsieger.com/blog/2021/03/28/check-broken-links-jekyll.html
-# run command: `bundle exec htmlproofer --assume_extension '.html' ./_stage`
+# run command: bundle exec htmlproofer ./_stage
 gem "html-proofer"
 
 #group :jekyll_plugins do
