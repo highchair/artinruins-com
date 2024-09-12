@@ -49,13 +49,13 @@ sitemap:
       Screen reader navigation
       TO DO: Make these buttons visible when focused
     {%- endcomment -%}
-    <ul role="navigation" aria-label="Skip to sections of this page">
+    <nav aria-label="Skip to sections of this page">
       {% if demoalert.size > 0 %}
-      <li><a href="#demo" class="u__sr-only u__sr-only--focusable skip-link">Skip to Demolition Alerts</a></li>
+      <a href="#demo" class="u__sr-only u__sr-only--focusable skip-link">Skip to Demolition Alerts</a>
       {% endif %}
-      <li><a href="#recent" class="u__sr-only u__sr-only--focusable skip-link">Skip to Recently updated Properties</a></li>
-      <li><a href="#anec" class="u__sr-only u__sr-only--focusable skip-link">Skip to Recent Anecdotes</a></li>
-    </ul>
+      <a href="#recent" class="u__sr-only u__sr-only--focusable skip-link">Skip to Recently updated Properties</a>
+      <a href="#anec" class="u__sr-only u__sr-only--focusable skip-link">Skip to Recent Anecdotes</a>
+    </nav>
 
     <p class="v-rhythm">ArtInRuins documents the architectural landscape to collect the oral, written, and photographic history of important places in Rhode Island. We are a safe space for storytelling, memory-sharing, and dreaming about the future of the built environment. <a href="{% link about.md %}">More about <span class="abbr">A.I.R.</span></a></p>
 
