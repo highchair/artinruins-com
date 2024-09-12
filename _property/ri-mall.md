@@ -74,27 +74,27 @@ external:
 
 ### Reason for Demolition & Redevelopment
 
-Much like the [Lincoln Mall]({% link _property/lincoln-mall.md %}), the death knell of the Rhode Island Mall started when two big-box tenants closed off access to the mall and were accessible only through the parking lot. When big box anchor tenants turn their backs to a mall, foot traffic decreases rapidly. Couple this with changing tastes in destination retail and the general decline of in-person retail in favor of online retail. Malls and retail in general seem to need to reinvent themselves every 20 years, so it was time for the RI Mall to get a new deal. 
+Much like the [Lincoln Mall]({% link _property/lincoln-mall.md %}), the death knell of the Rhode Island Mall started when two big-box tenants closed off access to the mall and were accessible only through the parking lot. When big box anchor tenants turn their backs to a mall, foot traffic decreases rapidly. Couple this with changing tastes in destination retail and the general decline of in-person retail in favor of online retail. Malls and retail in general seem to need to reinvent themselves every 20 years, so it was time for the RI Mall to get a new deal.
 
-The DMV Express was a great asset that we visited a few times before the mall closed interior access by May 22nd, 2011. After a few years, a new owner started to reimagine the interior mall idea as viable, as long as the tenants were a draw. They had plans to gut the interior, create larger floor plans, and attract outlet-style shops — think an indoor version of the Wrenthan Outlets. While the idea might have had merit, construction took place but the new mall never opened. [New England Construction led the reconfiguration of the interior spaces](//www.neconstruction.com/portfolio/rhode-island-mall){:target="_blank"} in 2016, and their website has a few good photos of the former interior. 
+The DMV Express was a great asset that we visited a few times before the mall closed interior access by May 22nd, 2011. After a few years, a new owner started to reimagine the interior mall idea as viable, as long as the tenants were a draw. They had plans to gut the interior, create larger floor plans, and attract outlet-style shops — think an indoor version of the Wrenthan Outlets. While the idea might have had merit, construction took place but the new mall never opened. [New England Construction led the reconfiguration of the interior spaces](https://www.neconstruction.com/portfolio/rhode-island-mall) in 2016, and their website has a few good photos of the former interior.
 
 
 ### Current Events
 
-After languishing for a time, Baltimore-based MCB Real Estate and Acadia Realty Trust, a New York-based real estate investment company, became co-owners. They began in the fall of 2015 to “de-mall” the property. The former mall is now a collection of big box retail with outward entrances in a common parking lot. 
+After languishing for a time, Baltimore-based MCB Real Estate and Acadia Realty Trust, a New York-based real estate investment company, became co-owners. They began in the fall of 2015 to “de-mall” the property. The former mall is now a collection of big box retail with outward entrances in a common parking lot.
 
 
 ### History
 
-+ [A deep dive with more photos at LabelsCar](http://www.labelscar.com/rhode-island/rhode-island-mall){:target="_blank"}
-+ [A story about a portable planetarium that was constructed and on view in 1975](http://www.theskyscrapers.org/midland-mall-remembrance){:target="_blank"}
-+ [RI Mall on DeadMalls.com](http://www.deadmalls.com/malls/rhode_island_mall.html){:target="_blank"}
++ [A deep dive with more photos at LabelsCar](http://www.labelscar.com/rhode-island/rhode-island-mall)
++ [A story about a portable planetarium that was constructed and on view in 1975](http://www.theskyscrapers.org/midland-mall-remembrance)
++ [RI Mall on DeadMalls.com](http://www.deadmalls.com/malls/rhode_island_mall.html)
 
 _Excerpted from Wikipedia and other sources_
 
-At the corner of RI route 2 and RI route 113, across the road from CCRI Knight Campus, and across the river from the competing Warwick Mall sits the former Midland Mall. It opened in 1967 as the first two-level enclosed shopping mall in New England other than the arcade in downtown Providence. 
+At the corner of RI route 2 and RI route 113, across the road from CCRI Knight Campus, and across the river from the competing Warwick Mall sits the former Midland Mall. It opened in 1967 as the first two-level enclosed shopping mall in New England other than the arcade in downtown Providence.
 
-The Midland Mall was extensively renovated and re-branded as the Rhode Island Mall in 1984. Anchor stores changed over time — first being Sheperd’s, then G. Fox, then Filene’s, with the longest single tenant being Sears. As part of the renovation, the very first mall food court in the Providence metropolitan area opened on the second floor, called the Greenhouse Cafes. 
+The Midland Mall was extensively renovated and re-branded as the Rhode Island Mall in 1984. Anchor stores changed over time — first being Sheperd’s, then G. Fox, then Filene’s, with the longest single tenant being Sears. As part of the renovation, the very first mall food court in the Providence metropolitan area opened on the second floor, called the Greenhouse Cafes.
 
 In 1997, after Filene’s announced they would be closing their branch, its retail space as well as 1/3 of the rest of the mall was demolished and replaced by two other stores that each occupy one floor of the two-level mall: Wal-Mart on the first level and Kohl’s on the second. These stores do not have any inside access to the mall, which caused many of the mall’s remaining tenants to vacate. It was rumored but not confirmed that Stop-n-Shop leased many of the empty storefronts only to keep Wal-Mart from taking over the mall space for a Supercenter, which would have been heavy competition in the grocery retail space.
 

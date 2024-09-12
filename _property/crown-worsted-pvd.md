@@ -67,7 +67,7 @@ images:
   - url: 1900-sanborn-vol3-p264-01.jpg
     caption: '1900 Sanborn Insurance Map, Volume 3, Plate 264 — Library of Congress, Maps Division'
     sizes: '1440, 900'
-  - url: 1908-ljrichards-pl15-01.jpg
+  - url: 1908-ljrichards-p15-01.jpg
     caption: '1908 L.J. Richards Map, Plate 15 — Private collection'
     sizes: '1440, 900'
   - url: 1920-sanborn-vol4-p14-01.jpg
@@ -98,13 +98,13 @@ As the report from 2002 says, Mars Plastics is the main tenant and possible owne
 
 ### History
 
-+ [1889 Sanborn Insurance Map, Volume 1, Plate 27a](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901){:target="_blank"} (page 55) — Crown Worsted Mills in not present but the block bounded by Dike Street to the north, Valley to the east (renamed Troy), Oak to the south, and Stokes Street to the west (later renamed Agnes) contains the “Harrison Steam Mills,” a complex that dates back to circa 1835 as the Eagle Mill built by John Waterman.
-+ [1900 Sanborn Insurance Map, Volume 3, Plate 264](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190003){:target="_blank"} (page 54) — The buildings on the southern half of the block are labeled as “Crown Worsted Mills.” The smaller building on the north side at 43 Troy Street is listed as a Warehouse and office. The larger building along the south edge at 43 Troy Street was used for “Drawing, Spinning, and Twisting.” The boiler house is one story and detached.
++ [1889 Sanborn Insurance Map, Volume 1, Plate 27a](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901) (page 55) — Crown Worsted Mills in not present but the block bounded by Dike Street to the north, Valley to the east (renamed Troy), Oak to the south, and Stokes Street to the west (later renamed Agnes) contains the “Harrison Steam Mills,” a complex that dates back to circa 1835 as the Eagle Mill built by John Waterman.
++ [1900 Sanborn Insurance Map, Volume 3, Plate 264](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190003) (page 54) — The buildings on the southern half of the block are labeled as “Crown Worsted Mills.” The smaller building on the north side at 43 Troy Street is listed as a Warehouse and office. The larger building along the south edge at 43 Troy Street was used for “Drawing, Spinning, and Twisting.” The boiler house is one story and detached.
 + 1908 L.J. Richards Map, Plate 15 (Private collection) — A new building to the west along Agnes Street appears. It is not labeled with any other business and so it appears to be built by Crown Worsted.
-+ [1920 Sanborn Insurance Map, Volume 4, Plate 14](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192104){:target="_blank"} (page 15) — The new building to the east has now been joined to the long rectangular main 45 Troy Street building. The warehouse/office building at 43 Troy Street has also been expanded in depth to the west. It was difficult to be sure in the 1908 map but it is clear here that it is longer than it was in the 1900 map.
-+ [1926 G.M. Hopkins Map, Plate 36](https://sosri.access.preservica.com/uncategorized/IO_294d2dde-38f1-4434-bad1-8eebdadb916d/){:target="_blank"} — Not much change nor much detail on this smaller map drawing. The infill building between Agnes Street and 45 Troy has gotten deeper on the northern side.
-+ [1937 G.M. Hopkins Map, Plate 36](https://sosri.access.preservica.com/uncategorized/IO_21ccf630-8198-418c-926e-e365ec111569/){:target="_blank"} — Again, not much change apparent but it looks like any remaining space to the west of the boiler room has been filled in.
-+ [1951 Sanborn Insurance Map, Volume 4, Plate 14](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195004){:target="_blank"} (page 15) — Greater detail of the changes over the past 30 years are available in this drawing. The single smokestack remains and the footprint of the buildings look very much unchanged compared to today.
++ [1920 Sanborn Insurance Map, Volume 4, Plate 14](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192104) (page 15) — The new building to the east has now been joined to the long rectangular main 45 Troy Street building. The warehouse/office building at 43 Troy Street has also been expanded in depth to the west. It was difficult to be sure in the 1908 map but it is clear here that it is longer than it was in the 1900 map.
++ [1926 G.M. Hopkins Map, Plate 36](https://sosri.access.preservica.com/uncategorized/IO_294d2dde-38f1-4434-bad1-8eebdadb916d/) — Not much change nor much detail on this smaller map drawing. The infill building between Agnes Street and 45 Troy has gotten deeper on the northern side.
++ [1937 G.M. Hopkins Map, Plate 36](https://sosri.access.preservica.com/uncategorized/IO_21ccf630-8198-418c-926e-e365ec111569/) — Again, not much change apparent but it looks like any remaining space to the west of the boiler room has been filled in.
++ [1951 Sanborn Insurance Map, Volume 4, Plate 14](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195004) (page 15) — Greater detail of the changes over the past 30 years are available in this drawing. The single smokestack remains and the footprint of the buildings look very much unchanged compared to today.
 
 ***
 

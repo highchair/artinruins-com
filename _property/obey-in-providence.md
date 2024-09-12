@@ -86,7 +86,7 @@ images:
     caption: 'A wheatpaste cut-out mural on the outside of 19 Bassett Street, the home of DesignXRI and Loft, LLC'
     sizes: '1200, 900'
 
-imagescredit: 'Contribution from Al Read of <a href="http://niceslice.com" target="_blank">Nice Slice Pizza</a>'
+imagescredit: 'Contribution from Al Read of <a href="http://niceslice.com">Nice Slice Pizza</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -99,17 +99,17 @@ We like to think that we crossed paths with Mr. Fairey at some point in the nine
 
 #### 1990
 
-One of Sheperd’s most well-known stunts was to deface a Vincent “Buddy” Cianci campaign billboard. While Cianci was running for re-election in the early nineties, he was a notorious figure. He had come out of jail and decided to run for Mayor again. He had been responsible for many positive developments in Providence but was also corrupt and violent in some of his dealings. He was the perfect target for Shepard’s “Andre the Giant” campaign.[^1] Sheperd was caught, and Buddy was furious. Still, he agreed not to press charges if <span class="abbr">RISD</span> provided “counseling” for him.[^2] The news coverage was a huge lift for the lessor-known artist. 
+One of Sheperd’s most well-known stunts was to deface a Vincent “Buddy” Cianci campaign billboard. While Cianci was running for re-election in the early nineties, he was a notorious figure. He had come out of jail and decided to run for Mayor again. He had been responsible for many positive developments in Providence but was also corrupt and violent in some of his dealings. He was the perfect target for Shepard’s “Andre the Giant” campaign.[^1] Sheperd was caught, and Buddy was furious. Still, he agreed not to press charges if <span class="abbr">RISD</span> provided “counseling” for him.[^2] The news coverage was a huge lift for the lessor-known artist.
 
 [^1]: Siclen, Bill Van. “RISD students re-create Cianci billboard altered by Shepard Fairey.” Providence Journal (RI), All ed., sec. breaking_news, 14 Feb. 2012. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152422022262E6F8. Accessed 30 Jan. 2022.
 
 [^2]: “Billboard prank resolved.” Providence Journal (RI), ALL ed., sec. NEWS, 6 Oct. 1990, pp. A-03. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525BAE584812708. Accessed 30 Jan. 2022.#### 2001–2002
 
-The other smart marketing move he made with his art early on was to make it available to anyone. That’s partly why it seems you can find his stickers all over the world, as anyone can send away for stickers to post themselves, or download a template to create their own stencils of the famous Obey face. It also makes it hard to tell who posts the art — the artist himself, or a fan of the movement. 
+The other smart marketing move he made with his art early on was to make it available to anyone. That’s partly why it seems you can find his stickers all over the world, as anyone can send away for stickers to post themselves, or download a template to create their own stencils of the famous Obey face. It also makes it hard to tell who posts the art — the artist himself, or a fan of the movement.
 
 #### 2002–2002
 
-The closest we got to Shepard was attending a print show at the Bush Gallery on Wickenden Street, run by local artist Mike Bryce (in the same space as the former Gallery Agniel [^3]). It was a two-person show with [Peter Cardoso](//www.ghosttownstudio.com){:target="_blank"}. We purchased a few signed prints for $50 that could fetch a few thousand now if we wanted to part with them — which we don’t. 
+The closest we got to Shepard was attending a print show at the Bush Gallery on Wickenden Street, run by local artist Mike Bryce (in the same space as the former Gallery Agniel [^3]). It was a two-person show with [Peter Cardoso](https://www.ghosttownstudio.com). We purchased a few signed prints for $50 that could fetch a few thousand now if we wanted to part with them — which we don’t.
 
 [^3]: GRAY, CHANNING. “Bush Gallery to fill void left by Gallery Agniel.” Providence Journal (RI), All ed., sec. Lifebeat/MOVIES, 9 Mar. 2001, pp. E-07. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152510E84BB5D938. Accessed 30 Jan. 2022.
 
@@ -123,7 +123,7 @@ As the Boston ICA was hanging a big retrospective of his work, Shepard came back
 
 #### 2010
 
-A huge painting was undertaken at the back of AS220 and the neighboring Pell-Chafee Performance Center overlooking Aborn Street in 2010. This was Sheperd’s largest mural anywhere. Well-known local muralist Johann Bjurman – best known for his mural of the peeling building façade above on the J.P. Hanley Building – blocked out and painted Shepard’s site-specific design. For the August 14th Foo Fest, Mr. Fairey was in town to receive the first national “[Free Culture Award](http://downtownprovidence.com/2626/){:target="_blank"}” from AS220. A limited number of 18 x 24" prints of this mural were available for purchase.
+A huge painting was undertaken at the back of AS220 and the neighboring Pell-Chafee Performance Center overlooking Aborn Street in 2010. This was Sheperd’s largest mural anywhere. Well-known local muralist Johann Bjurman – best known for his mural of the peeling building façade above on the J.P. Hanley Building – blocked out and painted Shepard’s site-specific design. For the August 14th Foo Fest, Mr. Fairey was in town to receive the first national “[Free Culture Award](https://downtownprovidence.com/)” from AS220. A limited number of 18 x 24" prints of this mural were available for purchase.
 
 #### 2019
 
@@ -134,7 +134,7 @@ Again in 2019, Shepard came back to town, largely for a 30-year retrospective of
 
 ### In the News
 
-[Boston NPR coverage of when Sheperd opened an exhibition on Westminster Street in 2019](//www.wbur.org/news/2019/10/31/shepard-fairey-mural-providence){:target="_blank"}
+[Boston NPR coverage of when Sheperd opened an exhibition on Westminster Street in 2019](https://www.wbur.org/news/2019/10/31/shepard-fairey-mural-providence)
 
 ***
 

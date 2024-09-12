@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places', 'PPS Ten Most Endangered' ]
 tags: []
@@ -61,27 +61,27 @@ imagescredit: 'Contributions from Google Streetview and the Brown Digital Reposi
 
 ### Reason for Demolition
 
-Unsure. We can assume that during the renovations of the next-door [Bannister House]({% link _property/bannister-house-pvd.md %}), this narrow home was deemed to be in too rough a shape, or too expensive and insignificant to restore. 
+Unsure. We can assume that during the renovations of the next-door [Bannister House]({% link _property/bannister-house-pvd.md %}), this narrow home was deemed to be in too rough a shape, or too expensive and insignificant to restore.
 
 
 ### Current Events
 
-The house was razed in 2015 and the site is now empty. 
+The house was razed in 2015 and the site is now empty.
 
 
 ## History
 
 _From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 
-(Manuscript, not publicly available) House (by 1857): 2 1/2-story, shingled frame, end-gable-roof house with a three-bay, side entry, facade. A hipped hood on brackets, a second-story bow window and window cornice heads are major elements of the house’s vernacular Italianate styling. 
+(Manuscript, not publicly available) House (by 1857): 2 1/2-story, shingled frame, end-gable-roof house with a three-bay, side entry, facade. A hipped hood on brackets, a second-story bow window and window cornice heads are major elements of the house’s vernacular Italianate styling.
 
 ***
 
 ### Maps
 
-The earliest map we have public access to are the ones at Brown University. Volume 2 of the 1889 map does not cover this portion of Benevolent Street. This house and the Bannister House (#93) are visible on [this 1899 map](#photo-sanborn-vol2-pl119-1899-01). 
+The earliest map we have public access to are the ones at Brown University. Volume 2 of the 1889 map does not cover this portion of Benevolent Street. This house and the Bannister House (#93) are visible on [this 1899 map](#photo-sanborn-vol2-pl119-1899-01).
 
-+ [1899 Sanborn Insurance Map, Volume 2, plate 119](//repository.library.brown.edu/studio/item/bdr:213306/){:target="_blank"} — Numbers 89, 91, and 93 are all present as wooden structures
-+ [1937 G.M. Hopkins Map, Plate 19](//www.historicmapworks.com/Map/US/895476/Plate+019/Providence+1937/Rhode+Island/) — 91 Benevolent Street is gone and the stone addition to #93, the Bannister House, seems to have been added
++ [1899 Sanborn Insurance Map, Volume 2, plate 119](https://repository.library.brown.edu/studio/item/bdr:213306/) — Numbers 89, 91, and 93 are all present as wooden structures
++ [1937 G.M. Hopkins Map, Plate 19](https://www.historicmapworks.com/Map/US/895476/Plate+019/Providence+1937/Rhode+Island/) — 91 Benevolent Street is gone and the stone addition to #93, the Bannister House, seems to have been added
 
-Interestingly, there is a house in between these two narrow ones at number 91, also a 2 and one half story structure. In a 1920 Sanborn Map, the house at #91 still stands. In the 1937 map, the house is gone. When the [Gowdey documentation was written]({% link _property/bannister-house-pvd.md %}#gowdey) about this cottage and the Bannister House, it describes a garden in between. While [Edward M. Bannister and his wide resided next door at #93]({% link _property/bannister-house-pvd.md %}) from 1880 to about 1900, it was a dense little block of homes. 
+Interestingly, there is a house in between these two narrow ones at number 91, also a 2 and one half story structure. In a 1920 Sanborn Map, the house at #91 still stands. In the 1937 map, the house is gone. When the [Gowdey documentation was written]({% link _property/bannister-house-pvd.md %}#gowdey) about this cottage and the Bannister House, it describes a garden in between. While [Edward M. Bannister and his wide resided next door at #93]({% link _property/bannister-house-pvd.md %}) from 1880 to about 1900, it was a dense little block of homes.

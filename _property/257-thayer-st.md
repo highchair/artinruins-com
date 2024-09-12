@@ -63,9 +63,9 @@ imagescredit:
 
 ### Proposal
 
-Gilbane Development started to float the idea of [razing nine houses]({% link _property/brook-meeting-euclid.md %}) in exchange for a new student housing complex with 100 double rooms, capable of housing over 200 students, around 2012. The East Side has long been looking for ways to ease rent pressures that come from a large student population. 
+Gilbane Development started to float the idea of [razing nine houses]({% link _property/brook-meeting-euclid.md %}) in exchange for a new student housing complex with 100 double rooms, capable of housing over 200 students, around 2012. The East Side has long been looking for ways to ease rent pressures that come from a large student population.
 
-The problem was the way in which the houses came to be viewed as “blighted.” An owner runs a bunch of old homes as student apartments. That owner fails to maintain the houses as they should, and/or the students themselves are hard on them and there is a perfect “I don’t respect this place because it is in rough shape so I will treat it poorly” attitude coupled with light maintenance which just continues to feed that attitude. Later, when a developer sees an opportunity in the market, it is easier to say these properties are blighted because they have been allowed to be. 
+The problem was the way in which the houses came to be viewed as “blighted.” An owner runs a bunch of old homes as student apartments. That owner fails to maintain the houses as they should, and/or the students themselves are hard on them and there is a perfect “I don’t respect this place because it is in rough shape so I will treat it poorly” attitude coupled with light maintenance which just continues to feed that attitude. Later, when a developer sees an opportunity in the market, it is easier to say these properties are blighted because they have been allowed to be.
 
 That in part is what happened here. There was more to it — the City Plan Commission was too willing to allow zoning variances that ran counter to the City’s comprehensive plan and the neighborhood’s input. But largely, we see this and [the razing of seven more homes on the adjacent block]({% link _property/brook-meeting-cushing.md %}) a few years later as classic [demolition by neglect]({% link tag/demolition-by-neglect.html %}).
 
@@ -73,12 +73,12 @@ That in part is what happened here. There was more to it — the City Plan Comm
 #### Design Reception
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="#photo-gilbane-brown-student-proposal3">
+  <a href="#photo-gilbane-brown-student-proposal">
     <img src="{{ site.propimg_path }}{{ page.slug }}/gilbane-brown-student-proposal.jpg" alt="" />
   </a>
 </figure>
 
-The first round of designs did not win fans. Concerned East Side residents said the building was bland and institutional-looking and was not appropriate for the neighborhood. They pushed back[^1], and Gilbane actually heard their complaints and responded. They hired [Union Studio]({% link designer/union-studio-architecture.html %}) to redesign the structure, and we got a better building in return. 
+The first round of designs did not win fans. Concerned East Side residents said the building was bland and institutional-looking and was not appropriate for the neighborhood. They pushed back[^1], and Gilbane actually heard their complaints and responded. They hired [Union Studio]({% link designer/union-studio-architecture.html %}) to redesign the structure, and we got a better building in return.
 
 [^1]: Grimaldi, Paul. “College Hill residents object to Thayer Street apartment plan.” Providence Journal (RI), All ed., sec. breaking_news, 20 July 2012. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152421A5CA370938. Accessed 29 Jan. 2022.
 
@@ -86,12 +86,12 @@ The first round of designs did not win fans. Concerned East Side residents said 
 
 [^2]: Snippet originally from a PBN article, captured from a page on Greater City Providence at http://www.gcpvd.org/2012/03/13/projo-four-story-apartment-building-proposed-near-brown-university/ on January 29, 2022
 
-If our opinion means anything, the building, while massive for the street, is inline with its institutional brethren but provides a bridge to homier designs in the area. Its bulk and mass is institutional, coming right up to the sidewalk with no set-back, but its gable roofline, brick exterior, and openings make it feel more like a series of large houses. We could have ended up with worse. 
+If our opinion means anything, the building, while massive for the street, is inline with its institutional brethren but provides a bridge to homier designs in the area. Its bulk and mass is institutional, coming right up to the sidewalk with no set-back, but its gable roofline, brick exterior, and openings make it feel more like a series of large houses. We could have ended up with worse.
 
 
 ### Current Events
 
-The [project page from Gilbane Development](//www.gilbaneco.com/development/projects/257-thayer-street/){:target="_blank"} on this building has additional details. For leasing information, visit the [257 Thayer website](//257thayer.com){:target="_blank"}. 
+The [project page from Gilbane Development](https://www.gilbaneco.com/development/projects/257-thayer-street/) on this building has additional details. For leasing information, visit the [257 Thayer website](https://257thayer.com). 
 
 
 ### In the News

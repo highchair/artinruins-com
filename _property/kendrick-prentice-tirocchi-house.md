@@ -114,7 +114,7 @@ images:
 
 mostrecentimage: 2022-12-01
 
-imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%253A5541" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library; Wedding Cake House Instagram; and Chloé Hurley'
+imagescredit: 'Contributions from <a href="https://provlibdigital.org/islandora/object/islandora%253A5541">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library; Wedding Cake House Instagram; and Chloé Hurley'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -126,7 +126,7 @@ imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object
 The redevelopment of this ornate house was complicated by multiple owners, tax credits, and insolvency. Our timeline below aims to simplify the story a bit. All information found through reporting in the Providence Journal. 
 
 2001
-: The work of sisters Anna Tirocchi and Laura Tirocchi Cella was celebrated with an exhibition at the RISD Museum, “[From Paris to Providence: Fashion, Art and the Tirocchi Dressmakers’ Shop, 1915-1947](http://tirocchi.stg.brown.edu){:target="_blank"}.”
+: The work of sisters Anna Tirocchi and Laura Tirocchi Cella was celebrated with an exhibition at the RISD Museum, “[From Paris to Providence: Fashion, Art and the Tirocchi Dressmakers’ Shop, 1915-1947](http://tirocchi.stg.brown.edu).”
 
 April 2010
 : A buyer is sought to redevelop the deteriorating building and take it off the hands of a California investment group, but “[It needs a half million dollars worth of work](#in-the-news)”
@@ -138,7 +138,7 @@ April 2011
 : A community open house is held. That is how we got our photographs if the crumbling interior.[^2]
 
 2012
-: Citing “community opposition,” Community Works puts the project on hold.[^3] 
+: Citing “community opposition,” Community Works puts the project on hold.[^3]
 
 March 2014
 : Community Works Rhode Island wins $197,050 in state historic tax credits for the restoration of this West Side landmark. Plans change slightly under new executive director, Bert Cooper, which call for four units and an owner-occupied plan. The owner’s unit would boast 2800 sf of space and the home would sell for $699,000.[^4]
@@ -152,10 +152,10 @@ September 2014
 December 2014
 : The Providence Redevelopment Agency board authorized up to $350,000 to buy the property and grant the Revolving Fund a seven-month option to buy or sell it at the same price. The Revolving Fund agreed to spend up to $100,000 stabilizing the vacant building, which was suffering from roof leaks and the separation of its unique four-story tower from the rest of the structure. Both parties continued to work out a purchase and sales agreement into early 2015. The plan is designed to save the $197,000 earmarked in state historic tax credits.
 : The organization had secured almost $900,000 in state, federal and local subsidies but the rehab project — estimated to cost between $1.6 and $1.8 million — turned out to be more than Community Works could handle.
-: In 2014, the U.S. Department of Housing and Urban Development decided that too much public money was tied up in the project and retracted roughly $700,000 in combined federal grants.[^7] 
+: In 2014, the U.S. Department of Housing and Urban Development decided that too much public money was tied up in the project and retracted roughly $700,000 in combined federal grants.[^7]
 
 September 2015
-: The Providence Preservation Society and the West Broadway Neighborhood Association try to raise $25,000 to match a grant received earlier in 2015 from the 1772 Foundation. The Providence Revolving Fund spent all of that $25,000 grant, plus another $5,000, for emergency repairs to the mansion’s tower, which had been leaning about 10 degrees. The work also raised the tower by about 5 inches.[^8] 
+: The Providence Preservation Society and the West Broadway Neighborhood Association try to raise $25,000 to match a grant received earlier in 2015 from the 1772 Foundation. The Providence Revolving Fund spent all of that $25,000 grant, plus another $5,000, for emergency repairs to the mansion’s tower, which had been leaning about 10 degrees. The work also raised the tower by about 5 inches.[^8]
 
 July 2016
 : The Providence Redevelopment Agency foreclosed on the iconic Wedding Cake House as the first step in a process intended to clear the title to make it financially possible for a new investor to step in and rehabilitate the property.[^9]
@@ -164,7 +164,7 @@ November 2016
 : The Providence Revolving Fund makes public that an artist collective known as The Dirt Palace has an option to buy the property. Artist Xander Marro said her group hopes to share their plans in January, but prefers to wait to make a public announcement until all the pieces are in place.[^10]
 
 February 2017
-: The Providence Redevelopment Agency unanimously approved the sale of the Wedding Cake House to The Dirt Palace, an arts group that has been operating for 17 years in Olneyville. Their plans for the house include an artist residency program, short-term overnight stays, private art studios, exhibition space, and arts programming on the grounds.[^11] 
+: The Providence Redevelopment Agency unanimously approved the sale of the Wedding Cake House to The Dirt Palace, an arts group that has been operating for 17 years in Olneyville. Their plans for the house include an artist residency program, short-term overnight stays, private art studios, exhibition space, and arts programming on the grounds.[^11]
 
 May 2019
 : _“Ruffles, Repair, Ritual — The Fine Art of Fixing”_: The Wedding Cake House hosts 150 works of art for its grand opening in celebration of the renovations of the historic building, bringing it back to life 150 years after it was built.[^12]
@@ -196,7 +196,7 @@ May 2019
 
 ### Current Events
 
-The [Dirt Palace at the Wedding Cake House](http://www.dirtpalace.org/weddingcake.html){:target="_blank"} opened in 2019 and [rooms are available through AirBnB](//www.airbnb.com/rooms/46187980){:target="_blank"}. Follow the project and see past images of the renovations on [their Instagram](//www.instagram.com/weddingcakehouse_renovations/){:target="_blank"}. 
+The [Dirt Palace at the Wedding Cake House](https://www.dirtpalace.org/) opened in 2019 and [rooms are available through AirBnB](https://www.airbnb.com/rooms/46187980). Follow the project and see past images of the renovations on [their Instagram](https://www.instagram.com/weddingcakehouse_renovations/).
 
 
 ### History
@@ -255,5 +255,7 @@ The house has “some of the finest Victorian interiors I’ve seen,” Schoettl
 
 Micallef said he hopes the house is purchased by someone interested in “bringing the property back to its former glory” with a “fitting use — something good for the neighborhood.”
 {:.o__pull-quote}
+
+— 
 
 _DUNN, CHRISTINE. “On the Market \| ‘Gingerbread’ house needs rescue.” Providence Journal (RI), 1 ed., sec. projoHomes, 11 Apr. 2010, p. F1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524238BB723E7E0. Accessed 12 Dec. 2021._

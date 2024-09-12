@@ -51,7 +51,7 @@ images:
 
 mostrecentimage: 2022-11-01
 
-imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%253A4836" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library'
+imagescredit: 'Contribution from the <a href="https://provlibdigital.org/islandora/object/islandora%253A4836">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -60,19 +60,19 @@ imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/obj
 
 ### Redevelopment
 
-The inclusion of this building onto [PPS’s Ten Most Endangered list]({% link pps-ten-most-properties.md %}) back in 2009 was a shock. The building was constructed in 1948, and the whole point of including it in the list was to draw attention to the lack of mid-century construction that Providence has. You don’t know what you had until it’s gone, after all. 
+The inclusion of this building onto [PPS’s Ten Most Endangered list]({% link pps-ten-most-properties.md %}) back in 2009 was a shock. The building was constructed in 1948, and the whole point of including it in the list was to draw attention to the lack of mid-century construction that Providence has. You don’t know what you had until it’s gone, after all.
 
-The original developers mentioned in the news story below must have dropped out. Their plan was to simply demolish the building and utilize the corner lot for a pharmacy with a drive through — think the typical suburban Walgreens. Even without demolishing a perfectly nice mid-century office building, a typical suburban drive-through on this corner would have been a disaster and a determent to the neighborhood. Despite Councilman Yurdin’s failure to get the building listed on the City’s Industrial Commercial Buildings District (<span class="abbr">ICBD</span>)m the developers must have dropped out due to the bad press alone. 
+The original developers mentioned in the news story below must have dropped out. Their plan was to simply demolish the building and utilize the corner lot for a pharmacy with a drive through — think the typical suburban Walgreens. Even without demolishing a perfectly nice mid-century office building, a typical suburban drive-through on this corner would have been a disaster and a determent to the neighborhood. Despite Councilman Yurdin’s failure to get the building listed on the City’s Industrial Commercial Buildings District (<span class="abbr">ICBD</span>)m the developers must have dropped out due to the bad press alone.
 
-For two years., Brown University leased the building while a new buyer was sought. They had the right to purchase the building after two years, but unsurprisingly, they did not exercise that right. Its location simply did not fit into their master plan.  
+For two years., Brown University leased the building while a new buyer was sought. They had the right to purchase the building after two years, but unsurprisingly, they did not exercise that right. Its location simply did not fit into their master plan.
 
-[Premier Development](http://premdevelopment.com/our-projects/){:target="_blank"} became the new owner circa 2015 and hired ZDS Architecture & Interiors to design nineteen apartments on the upper floors. A new rooftop level was added along with seven commercial units for 30,000 sf of commercial space at a total cost of $20 million. 
+Premier Development became the new owner circa 2015 and hired ZDS Architecture & Interiors to design nineteen apartments on the upper floors. A new rooftop level was added along with seven commercial units for 30,000 sf of commercial space at a total cost of $20 million.
 
 Mare Rooftop restaurant was added by 2018 and is the state’ß only year-round rooftop restaurant, complete with heated igloos for the winter.[^1] 
 
 [^1]: Ciampa, Gail. “Year in Review: 2018 was another delicious year in R.I., from brunch to cocktails.” Providence Journal: Web Edition Articles (RI), sec. Entertainment life, 25 Dec. 2018. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/170943E04C9AF978. Accessed 28 Dec. 2022.
 
-The building’s conversion from office to mixed-use won a 2018 Design Award from the local <abbr title="American Institute of Architects">AIA</abbr> chapter. Their winning description reads: 
+The building’s conversion from office to mixed-use won a 2018 Design Award from the local <abbr title="American Institute of Architects">AIA</abbr> chapter. Their winning description reads:
 
 > This exciting mixed use development and adaptive reuse looks poised to stimulate the revitalizing of its neighborhood by providing an asset instead of a large vacant facility. This project took a mundane and frankly “pedestrian unfriendly” old Factory Mutual building — and while maintaining its basic form, historic features, and materials — the design extends and expands both up to a diverse set of intriguing rooftop spaces and out to a raised terrace toward Waterman Street — providing a complex ecology of programmatic uses and retail space that complement the flanking street, the corner, the pedestrian, the rooftop residential units, and the dynamic glazed and open rooftop restaurant with great vistas and outdoor spaces.[^2]
 
@@ -81,18 +81,18 @@ The building’s conversion from office to mixed-use won a 2018 Design Award fro
 
 ### Current Events
 
-Inquiries for residential or commercial space should visit [Premier Rentals’ website](//www.premrental.com/229-waterman){:target="_blank"}. 
+Inquiries for residential or commercial space should visit [Premier Rentals’ website](https://www.premrental.com/229-waterman).
 
 
 ### History
 
 #### Maps
 
-+ [1920–1956 Sanborn Map, Volume 2, Plate 33](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602){:target="_blank"} (page 34) — The building is shown ([though not on the 1951 map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102)) and is labelled “Blackstone Mutual Insurance Co.”
++ [1920–1956 Sanborn Map, Volume 2, Plate 33](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602) (page 34) — The building is shown ([though not on the 1951 map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102)) and is labelled “Blackstone Mutual Insurance Co.”
 
 ***
 
-_From the short-lived [Ten Most Endangered Properties Wiki](//web.archive.org/web/20110922161331/http://wiki.ppsri.org/tiki-index.php?page=What+Cheer+Mutual+Fire+Insurance+Co.%2FUnited+Way+Building){:target="_blank"}, abridged_
+_From the short-lived [Ten Most Endangered Properties Wiki](https://web.archive.org/web/20110922161331/http://wiki.ppsri.org/tiki-index.php?page=What+Cheer+Mutual+Fire+Insurance+Co.%2FUnited+Way+Building), abridged_
 
 […] The facility was donated to the United Way in the late 1970s by insurer FM Global. In October 2007, United Way sold the building to RI Acquisitions, a partnership of developers Andrew Rockett and Charles Irving. […]
 
@@ -104,7 +104,7 @@ As the public’s appreciation for mid-century modern architecture matures, effo
 
 — 
 
-A synopsis of this write up along with an update can be found at [PPS’s Guide to Providence Architecture](//guide.ppsri.org/property/what-cheer-mutual-fire-insurance-company){:target="_blank"}.
+A synopsis of this write up along with an update can be found at [PPS’s Guide to Providence Architecture](https://guide.ppsri.org/property/what-cheer-mutual-fire-insurance-company).
 
 ***
 

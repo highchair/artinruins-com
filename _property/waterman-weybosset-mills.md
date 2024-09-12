@@ -198,7 +198,7 @@ The flat-roofed, one-by-one-bay stair tower is located on the east elevation of 
 #### Weaving Room (ca 1890)
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <img src="{{ site.propimg_path }}weybosset-mills-dye-house/217-oak-st-jh-2023-07-03.jpg" alt="" />
+  <img src="{{ site.propimg_path }}{{ page.slug }}/217-oak-st-jh-2023-07-03.jpg" alt="" />
   <figcaption>The former Weybosset Mills Weaving Room, 217 Oak Street</figcaption>
 </figure>
 

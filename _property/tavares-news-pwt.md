@@ -53,7 +53,7 @@ images:
 
 mostrecentimage: 2009-06-01
 
-imagescredit: 'Images contributed by <a href="//quahog.org">Quahog.org</a>, the <a href="//www.flickr.com/photos/pawtucketlibrary/51990887109/in/photolist-2myMBqd-2ndfTpk-2ndhgDV-2oiwMsq">Pawtucket Library</a>, and Google Streetview'
+imagescredit: 'Images contributed by <a href="https://quahog.org">Quahog.org</a>, the <a href="https://www.flickr.com/photos/pawtucketlibrary/51990887109/in/photolist-2myMBqd-2ndfTpk-2ndhgDV-2oiwMsq">Pawtucket Library</a>, and Google Streetview'
 
 external:
   - source: 'Shutterstock: Tavares News with a Customer'

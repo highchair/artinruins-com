@@ -35,9 +35,9 @@ images:
   - url: property-description-overview.jpg
     alt: 'A collection of three buildings that have been used together and converted to residential in recent years. All are four stories but or varied construction. More details in the history notes.'
     sizes: '1200, 800'
-  - url: silk-works-jh-2009-09-01.jpg
+  - url: silk-works-jh-2009-05-01.jpg
     caption: 'View from Roosevelt Ave looking south west, Pennsylvania Textile Company Silk Mill in foreground'
-    sizes: '0, 0'
+    sizes: '1200, 900'
   - url: silk-works-jh-2008-08-02.jpg
     caption: 'View from parking lot looking south east, Pennsylvania Textile Company Silk Mill in foreground, showing difference in original rusticated block construction vs. the newer laminate panels replacing the portion of the building that collapsed (see News stories)'
     sizes: '1200, 900'
@@ -65,18 +65,18 @@ mostrecentimage: 2009-05-01
 
 ### Redevelopment
 
-This property entry is actually three buildings which we will refer to as such: 
+This property entry is actually three buildings which we will refer to as such:
 
 + **Central Falls Power Company Building**, built 1892 and expanded 1923, corner of Roosevelt and Clay St. at 396 Roosevelt
 + **Pennsylvania Textile Company Silk Mill**, built 1919, at 404 Roosevelt Ave
 + **Lyon Silk Works**, built 1920, behind both buildings and siding on Clay St, address 404 Roosevelt
 
-These buildings were built within 20 years of each other and have come to be interconnected as residential condominiums. The three buildings share a corner of Clay Street and Roosevelt Avenue in a dense industrial section of what used to be called simply “Mill Street,” slightly south of Central Street bridge over the Blackstone river. 
+These buildings were built within 20 years of each other and have come to be interconnected as residential condominiums. The three buildings share a corner of Clay Street and Roosevelt Avenue in a dense industrial section of what used to be called simply “Mill Street,” slightly south of Central Street bridge over the Blackstone river.
 
 
 ### Current Events
 
-The residential development is known as **M<sup>2</sup> Lofts**, or “Mile Squared” lofts — a reference to the one square mile the city of Central Falls occupies. Units are condominium and come up occasionally on typical real estate sites. 
+The residential development is known as **M<sup>2</sup> Lofts**, or “Mile Squared” lofts — a reference to the one square mile the city of Central Falls occupies. Units are condominium and come up occasionally on typical real estate sites.
 
 
 ### History
@@ -91,11 +91,11 @@ The **Lyon Silk Works**, 404 Roosevelt Avenue (contributing building), construct
 
 The **Central Falls Power Company Building**, 396 Roosevelt Avenue (contributing building) is a ca. 1892, east-facing, Italianate-style, four-story, five-bay-by-eleven-bay, brick and woodframe building on a brick foundation at the northwest corner of the intersection of Roosevelt Avenue and Clay Street. The building is topped with a shallow-pitched end gable roof clad with rubber and tar. The first story of the building is brick, and the upper stories are clad with vinyl siding. It was originally constructed as a three-bay-wide building; by 1923, the northern two bays, topped with a flat roof, had been added. Entrances are in the center and westernmost bays of the south elevation and just south of center in the original block. Loading bays are centered under the gable peak and are filled with a vertical-lift metal door at the first story with multi-light double doors above. A second vertical-lift metal door, set into an arched brick opening, is in the fourth bay of the east elevation. Windows are evenly spaced in the facade and are irregularly spaced in the north and south elevations. Fenestration consists of single and paired six-over-one, double- hung, vinyl sash with wide, flat surrounds and slightly projecting sills on the upper stories, and large, multi-light windows with cast stone sills at the first story. The building has been converted for use as residential condominiums.
 
-[…] The Central Falls Power Company leased the building to four tenants: the **Central Yarn Company**; the **Rhode Island Hosiery Company**, makers of knit goods; **Coombs & Patterson**, jewelry manufacturers; and **O. H. Hathaway**, makers of roll coverings. The **Flossette Thread Company** acquired the building by 1900, and manufactured imitation silk yarns and threads at that location through ca. 1907. By 1910, the property was occupied by the **Reliable Manufacturing Company**, another thread company, which went bankrupt by 1912 and was replaced by the **Sewing Thread Company**, which was in business at that location until ca. 1917. By 1919, the **Star Braiding Company**, makers of shoelaces, had taken over the building, which had an address of 1 Clay Street at that time. In 1926, companies in Pawtucket and Central Falls manufacturing braids and woven laces occupied 22 plants, employed 972 people, and produced $3.7 million dollars worth of goods. Only 3 of the 22 companies were in Central Falls and employed more than 100 people. 
+[…] The Central Falls Power Company leased the building to four tenants: the **Central Yarn Company**; the **Rhode Island Hosiery Company**, makers of knit goods; **Coombs & Patterson**, jewelry manufacturers; and **O. H. Hathaway**, makers of roll coverings. The **Flossette Thread Company** acquired the building by 1900, and manufactured imitation silk yarns and threads at that location through ca. 1907. By 1910, the property was occupied by the **Reliable Manufacturing Company**, another thread company, which went bankrupt by 1912 and was replaced by the **Sewing Thread Company**, which was in business at that location until ca. 1917. By 1919, the **Star Braiding Company**, makers of shoelaces, had taken over the building, which had an address of 1 Clay Street at that time. In 1926, companies in Pawtucket and Central Falls manufacturing braids and woven laces occupied 22 plants, employed 972 people, and produced $3.7 million dollars worth of goods. Only 3 of the 22 companies were in Central Falls and employed more than 100 people.
 
 ***
 
-We are unsure when the rug braider **American Broad Loom** entered into these buildings, but online searches turn up listings for the company with an address of 404 Roosevelt Avenue, owned by Armand R. Contois. [Open Corporates](//opencorporates.com/companies/us_ri/000032316){:target="_blank"} lists them as incorporated in November 1970 and closed on September, 1997.
+We are unsure when the rug braider **American Broad Loom** entered into these buildings, but online searches turn up listings for the company with an address of 404 Roosevelt Avenue, owned by Armand R. Contois. [Open Corporates](https://opencorporates.com/companies/us_ri/000032316) lists them as incorporated in November 1970 and closed on September, 1997.
 
 
 ### In the News
@@ -131,7 +131,7 @@ To the south on Roosevelt, manufacturing still happens at the K&W Webbing mill w
 In an effort to soften the neighborhood’s industrial rough edges, cherry trees were planted along the streets in the area and a new mini park was built at the bend in the river where Roosevelt Avenue meets Charles Street.
 {: .o__drop-cap }
 
-The park celebrates the first mill in the area, built in the 1780 to manufacture chocolate, which gave all of Central Falls the nickname “Chocolateville.” By the early 19th century the chocolate mill was damaged and evenh1ally torn down.
+The park celebrates the first mill in the area, built in the 1780 to manufacture chocolate, which gave all of Central Falls the nickname “Chocolateville.” By the early 19th century the chocolate mill was damaged and eventually torn down.
 
 The next phase of the Blackstone River Bikeway is expected to be built in the coming years providing another recreational amenity and helping connect the neighborhood with downtown Pawtucket and Providence.
 

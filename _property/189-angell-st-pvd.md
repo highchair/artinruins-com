@@ -8,12 +8,12 @@ built: '1844 & 1910'
 demolition: '2017'
 redeveloped: '2018'
 units:
-decade: '1900-1919'
+decade: '1900-1909'
 date-added: '2023'
 categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
 tags: [ 'Demolition by Progress', 'Demolition by Neglect', 'House' ]
@@ -22,9 +22,9 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '185–189 Angell St, Providence RI'
-latitude: ''
-longitude: ''
-gmap: ""
+latitude: '41.8279859'
+longitude: '-71.4014022'
+gmap: "https://www.google.com/maps/place/189+Angell+St,+Providence,+RI+02906/@41.8279859,-71.4014022,17z/data=!4m6!3m5!1s0x89e44524a65591d3:0xc13b68f90a92e5bd!8m2!3d41.827982!4d-71.4000504!16s%2Fg%2F11bw3yrmdv?entry=ttu&g_ep=EgoyMDI0MDkwOC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "A quick redevelopment of two historic homes in an eroding historic district under pressure to provide “modern” student housing"
@@ -65,22 +65,22 @@ imagescredit:
 
 ### Reason for Demolition
 
-These two homes are part of the story of the erosion of the [College Hill Historic District]({% link list/college-hill-historic-district.html %}). Only a year earlier, in 2016, [seven houses were lost]({% link _property/brook-meeting-cushing.md %}) to the north on the block bounded by Brook, Meeting, Cushing, and Thayer Streets. Around the same time that these buildings were being razed and redeveloped, [two houses on the corner of Euclid and Brook were razed]({% link _property/21-euclid-ave.md %}) for a new denser, taller structure with retail space on the ground floor. [And the hits keep coming]({% link _property/382-brook-116-waterman.md %}). 
+These two homes are part of the story of the erosion of the [College Hill Historic District]({% link list/college-hill-historic-district.html %}). Only a year earlier, in 2016, [seven houses were lost]({% link _property/brook-meeting-cushing.md %}) to the north on the block bounded by Brook, Meeting, Cushing, and Thayer Streets. Around the same time that these buildings were being razed and redeveloped, [two houses on the corner of Euclid and Brook were razed]({% link _property/21-euclid-ave.md %}) for a new denser, taller structure with retail space on the ground floor. [And the hits keep coming]({% link _property/382-brook-116-waterman.md %}).
 
 The loss of these properties is part of [our essay about the erosion of the College Hill Historic District]({% link _essays/erosion-of-college-hill-historic-district.md %}).
 
 #### Proposal & Design Reception
 
-These happened at a time when we at ArtInRuins were not keeping up very well with happenings around town. We were lucky to have spotted the partial demolition of 189 Angell but completely missed documenting either property before their demolitions. We were not paying attention to the planning commission meeting notices with any approval of these developments. 
+These happened at a time when we at ArtInRuins were not keeping up very well with happenings around town. We were lucky to have spotted the partial demolition of 189 Angell but completely missed documenting either property before their demolitions. We were not paying attention to the planning commission meeting notices with any approval of these developments.
 
-If our opinion matters, these developments can only now be seen as part of the push on this block of Angell Street for bigger, denser, and more “modern” housing with new floors, kitchens, and some amenities. The character of this block has completely changed from smaller, mostly two story, pre-20th-century dwellings to these plainer, taller, and closely packed structures. 
+If our opinion matters, these developments can only now be seen as part of the push on this block of Angell Street for bigger, denser, and more “modern” housing with new floors, kitchens, and some amenities. The character of this block has completely changed from smaller, mostly two story, pre-20th-century dwellings to these plainer, taller, and closely packed structures.
 
-Is it good, is it bad? Overall we feel the pressure that this section of the district is under. The commercialization of Thayer Street is expanding into these areas, and students generally want to live closer to campus. Only older students are increasingly drawn to neighborhoods like Fox Point, and young families of Fox Point probably appreciate that. Still, the loss of over twenty five homes within these four blocks in the past ten years is astounding. How much futher will this expansion continue, and into which historic blocks next? 
+Is it good, is it bad? Overall we feel the pressure that this section of the district is under. The commercialization of Thayer Street is expanding into these areas, and students generally want to live closer to campus. Only older students are increasingly drawn to neighborhoods like Fox Point, and young families of Fox Point probably appreciate that. Still, the loss of over twenty five homes within these four blocks in the past ten years is astounding. How much futher will this expansion continue, and into which historic blocks next?
 
 
 ### Current Events
 
-The two houses are now privately-owned apartment buildings for rent to students of Brown University and <span class="abbr">RISD</span>. 
+The two houses are now privately-owned apartment buildings for rent to students of Brown University and <span class="abbr">RISD</span>.
 
 
 ### History
