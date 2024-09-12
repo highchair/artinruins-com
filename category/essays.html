@@ -24,7 +24,7 @@ sitemap:
   <ul class="taxonomy__list property-card__cols u__list__unstyled u__max-width--container" role="list">
   {%- for item in items -%}
     {%- assign item_image = item.thumbnail -%}
-    {%- assign image_path = site.propimg_path | replace_first: '/' | append: 'essays/' | append: item.thumbnail -%}
+    {%- assign image_path = site.propimg_local | replace_first: '/' | append: 'essays/' | append: item.thumbnail -%}
     {%- assign size = '800' -%}
     <li>
       <div class="property-card">

@@ -33,7 +33,7 @@ sitemap:
   <li class="taxonomy__item">
     <div class="property-card">
       <div class="property-card__img-wrap">
-        {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
+        {%- assign image_path = site.propimg_local | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
         {%- assign size = '800' -%}
         {% responsive_image_block %}
           path: {{ image_path }}

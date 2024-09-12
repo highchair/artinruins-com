@@ -18,9 +18,9 @@
     {%- if item.layout == 'then-now-item' -%}
       {%- assign image_path = site.thennow_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
     {%- elsif item.layout == 'essay-item' -%}
-      {%- assign image_path = site.propimg_path | replace_first: '/' | append: 'essays/' | append: item.thumbnail -%}
+      {%- assign image_path = site.propimg_local | replace_first: '/' | append: 'essays/' | append: item.thumbnail -%}
     {%- else -%}
-      {%- assign image_path = site.propimg_path | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
+      {%- assign image_path = site.propimg_local | replace_first: '/' | append: item.slug | append: '/' | append: item_image -%}
     {%- endif -%}
     {%- if item_update == 'Yes' -%}
       <img src="{{ site.prod_url }}/{{ image_path }}" class="rwd-img" alt="" loading="lazy" decoding="async" />

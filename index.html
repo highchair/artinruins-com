@@ -202,7 +202,7 @@ sitemap:
   {%- endif -%}
     <li class="anec__list__item">
       <a href="{{ site.baseurl }}property/{{ property.first.slug }}#{{ quote.date | date: '%Y-%m-%d' }}" aria-hidden="true">
-        {%- assign anec_image = site.propimg_path | replace_first: '/' | append: property.first.slug | append: '/' | append: prop_img -%}
+        {%- assign anec_image = site.propimg_local | replace_first: '/' | append: property.first.slug | append: '/' | append: prop_img -%}
         {%- assign size = '480' -%}
         {% responsive_image_block %}
           path: {{ anec_image }}
