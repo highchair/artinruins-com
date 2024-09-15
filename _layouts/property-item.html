@@ -67,15 +67,14 @@ layout: default
               <ul class="u__list__unstyled u__vertical__p u__gutter__p item__gallery__wrap js-scrolling-panel">
               {% endif %}
               {% assign imageslug = image.url | split: '.' %}
-              {% assign imagesrc = site.prod_url | append: site.propimg_path | append: page.slug | append: '/' | append: image.url %}
-              {% assign imagesrclocal = site.propimg_path | append: page.slug | append: '/' | append: image.url %}
+              {% assign imagesrc = site.propimg_path | append: page.slug | append: '/' | append: image.url %}
               {% if image.sizes %}
                 {%- assign imagessizes = image.sizes | split: ',' %}
               {% endif %}
                 <li id="photo-{{ imageslug[0] }}">
                   <figure class="item__gallery__figure">
                     <a data-fslightbox="air-lightbox" data-type="image" {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} href="{{ imagesrc }}" role="button" aria-label="Larger view of image">
-                      <img class="js-lazy" {% if forloop.index > 4 %}data-{% endif %}src="{{ imagesrc }}" alt="{% if image.alt %}{{ image.alt }}{% endif %}" {% if image.sizes %}width="{{ imagessizes[0] | strip }}" height="{{ imagessizes[1] | strip }}"{% else %}{% imagesize imagesrclocal:props %}{% endif %} />
+                      <img class="js-lazy" {% if forloop.index > 4 %}data-{% endif %}src="{{ imagesrc }}" alt="{% if image.alt %}{{ image.alt }}{% endif %}" {% if image.sizes %}width="{{ imagessizes[0] | strip }}" height="{{ imagessizes[1] | strip }}"{% endif %} />
                     </a>
                     {% if image.caption %}
                     <figcaption class="item__gallery__caption">
