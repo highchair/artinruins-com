@@ -83,7 +83,7 @@ Press any image to see it larger, and to traverse images in a gallery from one y
 
 2020 — Minus one more house for a total of 17 lost
 : Only a few years after the 2016 demolition of seven houses, Brown University has the idea and the funding to build a [new student wellness center and dormitory]({% link _property/wellness-center-residence-hall.md %}) with 162 student beds. It was the first Brown-led development of student housing in 30 years. 
-: During construction, the house at [242 Meeting Street was also demolished](({% link _property/brook-meeting-cushing.md %}#photo-242-meeting-goog-2017-01)). It happened very quietly and it allowed the student center to be much larger. Mitrelis Construction and Mitrelis Enterprises were businesses that used this address, and according to a Redfin listing, it sold in 2018 for $2 million.
+: During construction, the house at [242 Meeting Street was also demolished]({% link _property/brook-meeting-cushing.md %}) (last photo). It happened very quietly and it allowed the student center to be much larger. Mitrelis Construction and Mitrelis Enterprises were businesses that used this address, and according to a Redfin listing, it sold in 2018 for $2 million.
 : The house was greatly altered from its 1857 build date, with a strange extension that used the next door former car garage as a party wall.
 
 2022 — Minus three more houses and one commercial structure, for a total of 21 lost

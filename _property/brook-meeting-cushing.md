@@ -86,7 +86,7 @@ images:
     caption: '169 Cushing Street'
     sizes: '1440, 900'
   - url: 242-meeting-goog-2017-01.jpg
-    caption: 'Between 2018 and 2020, an additional home at 242 Meeting Street was demolished. Google Streetview phot0, facing north northwest'
+    caption: 'Between 2018 and 2020, an additional home at 242 Meeting Street was demolished. Google Streetview photo, facing north northwest'
     sizes: '1200, 900'
 
 mostrecentimage: 2016-04-01
@@ -100,24 +100,24 @@ imagescredit: 'Sanborn Map from the Library of Congress, Geography and Map Divis
 
 ### Reason for Demolition
 
-In 2013, there was a bit of a ruckus when a private developer wanted to build student housing on the next block which required [the demolition of **nine** late 19th-century houses]({% link _property/brook-meeting-euclid.md %}). The College Hill Neighborhood Association and the Providence Preservation Society, among others, pressed the City Planning Commission to deny the request for demolition. Simply because a land owner stopped maintaining their properties was no reason to tear them down. [Often, that is exactly what they want to do]({% link tag/demolition-by-neglect.html %}). Instead, the owner should be cajoled and convinced to maintain their properties — not rewarded with a demolition permit. 
+In 2013, there was a bit of a ruckus when a private developer wanted to build student housing on the next block which required [the demolition of **nine** late 19th-century houses]({% link _property/brook-meeting-euclid.md %}). The College Hill Neighborhood Association and the Providence Preservation Society, among others, pressed the City Planning Commission to deny the request for demolition. Simply because a land owner stopped maintaining their properties was no reason to tear them down. [Often, that is exactly what they want to do]({% link tag/demolition-by-neglect.html %}). Instead, the owner should be cajoled and convinced to maintain their properties — not rewarded with a demolition permit.
 
-Alas, the promise of a private developer creating new, shiny student housing that would keep the property on the City’s tax role was enough for the council and demolition was granted. 
+Alas, the promise of a private developer creating new, shiny student housing that would keep the property on the City’s tax role was enough for the council and demolition was granted.
 
-Here, two years later, the owner of seven more homes that were lightly maintained but basically allowed to decay as students abused them were seeking demolition. This time, a private owner sold the properties to Brown University and the university wanted only to raze them for a parking lot. 
+Here, two years later, the owner of seven more homes that were lightly maintained but basically allowed to decay as students abused them were seeking demolition. This time, a private owner sold the properties to Brown University and the university wanted only to raze them for a parking lot.
 
 _A parking lot._
 
-A parking lot that would “serve the needs of the Thayer Street commercial district” and not “as a permit parking lot for Brown faculty, staff or students.” How nice of them, how supportive of the community and shoppers of Thayer Street. 
+A parking lot that would “serve the needs of the Thayer Street commercial district” and not “as a permit parking lot for Brown faculty, staff or students.” How nice of them, how supportive of the community and shoppers of Thayer Street.
 
-Four years later, Brown University broke ground on a new student center that would encompass the entire plot. With this, and with the way their [most recent construction project further down on Brook Street]({% link _property/brown-brook-st-residence-halls.md %}) played out, Brown acts with much impunity in this town. Brown has shown that it can get anything it wants if it tells us first what we want to hear. 
+Four years later, Brown University broke ground on a new student center that would encompass the entire plot. With this, and with the way their [most recent construction project further down on Brook Street]({% link _property/brown-brook-st-residence-halls.md %}) played out, Brown acts with much impunity in this town. Brown has shown that it can get anything it wants if it tells us first what we want to hear.
 
 The loss of these properties is part of [our essay about the erosion of the College Hill Historic District]({% link _essays/erosion-of-college-hill-historic-district.md %}).
 
 
 ### Current Events
 
-The lot where these houses were cleared was parking for a few years — 242 Meeting Street remained in place. In 2020 Brown started construction on a new [Wellness Center & Residence Hall]({% link _property/wellness-center-residence-hall.md %}) which opened in 2021, demolishing 242 in the process. 
+The lot where these houses were cleared was parking for a few years — 242 Meeting Street remained in place. In 2020 Brown started construction on a new [Wellness Center & Residence Hall]({% link _property/wellness-center-residence-hall.md %}) which opened in 2021, demolishing 242 in the process.
 
 
 ### History
@@ -136,7 +136,7 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 
 **167 Cushing Street** — c.1900. 2-1/2 stories; hip; clapboard and shingle; square block with entrance under recessed porch; bay on front; dormer.
 
-**169 Cushing Street** — c.1890. 2-1/2 stories; flank gable; shingle; unusual small building set in middle of block; entrance on north end with pergola on east side; sweeping roof with shed dormers breaking through eaves; casement in gable end. 
+**169 Cushing Street** — c.1890. 2-1/2 stories; flank gable; shingle; unusual small building set in middle of block; entrance on north end with pergola on east side; sweeping roof with shed dormers breaking through eaves; casement in gable end.
 
 **242 Meeting Street** — Before 1857. 1-1/2 stories; end gable; siding; cottage with turned post porch across front; projecting cross gable on east. (A.I.R: Very much altered from its historic state in more recent years)
 
@@ -174,7 +174,7 @@ City assessor’s records still show the parcels belonging to former owner Edwar
 
 Neither Brown nor city officials Wednesday could be reached Wednesday on whether the properties were subject to a payment in lieu of taxes.
 
-[Two years ago nine houses were demolished a block away]({% link _property/brook-meeting-euclid.md %}) to make way for a student 95-unit student apartment building.
+Two years ago nine houses were demolished a block away to make way for a student 95-unit student apartment building.
 
 Brown’s demolition plans are already drawing fire from the Providence Preservation Society.
 
@@ -182,4 +182,4 @@ Brown’s demolition plans are already drawing fire from the Providence Preserva
 
 —
 
-Anderson, Patrick. “providence Brown seeks to raze buildings for parking lot — Seven multifamily houses near Thayer Street described as ‘unsightly’.” Providence Journal (RI), sec. RI News, 14 Jan. 2016, p. 4. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15A64C96CA3E40E0. Accessed 25 Jan. 2022.
+Anderson, Patrick. “Providence Brown seeks to raze buildings for parking lot — Seven multifamily houses near Thayer Street described as ‘unsightly’.” Providence Journal (RI), sec. RI News, 14 Jan. 2016, p. 4. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15A64C96CA3E40E0. Accessed 25 Jan. 2022.

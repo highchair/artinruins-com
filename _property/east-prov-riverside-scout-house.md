@@ -58,7 +58,7 @@ images:
 
 mostrecentimage: 2024-01-01
 
-imagescredit: 'Contributions from the National Register Nomination Form & <a href="https://en.wikipedia.org/wiki/Riverside,_Rhode_Island#/media/File:District_6_Schoolhouse_East_Providence_RI_2012.jpg" target="_blank">Wikimedia</a>'
+imagescredit: 'Contributions from the National Register Nomination Form & <a href="https://en.wikipedia.org/wiki/Riverside,_Rhode_Island#/media/File:District_6_Schoolhouse_East_Providence_RI_2012.jpg">Wikimedia</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

@@ -114,7 +114,7 @@ images:
 
 mostrecentimage: 2022-12-01
 
-imagescredit: 'Contributions from <a href="https://provlibdigital.org/islandora/object/islandora%253A5541">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library; Wedding Cake House Instagram; and Chloé Hurley'
+imagescredit: 'Contributions from <a href="https://provlibdigital.org/islandora/object/VM011_03_01_147">John Hutchins Cady Research Scrapbooks Collection (page 147)</a>, Providence Public Library; Wedding Cake House Instagram; and Chloé Hurley'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -123,7 +123,7 @@ imagescredit: 'Contributions from <a href="https://provlibdigital.org/islandora/
 
 ### Redevelopment
 
-The redevelopment of this ornate house was complicated by multiple owners, tax credits, and insolvency. Our timeline below aims to simplify the story a bit. All information found through reporting in the Providence Journal. 
+The redevelopment of this ornate house was complicated by multiple owners, tax credits, and insolvency. Our timeline below aims to simplify the story a bit. All information found through reporting in the Providence Journal.
 
 2001
 : The work of sisters Anna Tirocchi and Laura Tirocchi Cella was celebrated with an exhibition at the RISD Museum, “[From Paris to Providence: Fashion, Art and the Tirocchi Dressmakers’ Shop, 1915-1947](http://tirocchi.stg.brown.edu).”

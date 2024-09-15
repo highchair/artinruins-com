@@ -100,7 +100,7 @@ images:
   - url: pdbc-jh-2005-08-10.jpg
     caption: 'Western façade (view southeast) of Buildings 16 and 17'
     sizes: '1200, 900'
-  - url: pbdc-jh-2005-08-11.jpg
+  - url: pdbc-jh-2005-08-11.jpg
     caption: 'View from second floor of Building 17, looking northwest towards Building 7'
     sizes: '1200, 900'
   - url: pdbc-jh-2005-08-12.jpg

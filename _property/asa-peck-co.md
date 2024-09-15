@@ -99,13 +99,13 @@ imagescredit: 'Contributions from the Library of Congress'
 
 In late 2019, Strive Realty embarked on converting this 70,000 sf mill building into 56 apartment units with 1,600 sf of commercial space on the ground floor along with indoor parking.[^1] Strive Realty is relatively new with a start only in 2013. In that short time, they have become a larger force in the Smith Hill area, running many student rental properties around Providence College. The total cost of this project is approximately $10 million and was approved for up to $750,000 in Rebuild Rhode Island Tax Credits.[^2]
 
-[^1]: “Awarded Projects: Strive Lofts.” Rhode Island Commerce, undated. Accessed 16 December 2022 from https://commerceri.com/incentives/tax-credits-and-financing/rebuild-rhode-island-tax-credit-strive-lofts/ 
+[^1]: “Awarded Projects: Strive Lofts.” Rhode Island Commerce, undated. Accessed 16 December 2022 from https://commerceri.com/incentives/tax-credits-and-financing/rebuild-rhode-island-tax-credit-strive-lofts/
 
-[^2]: “Raimondo Announces Five New Real Estate Development Projects, New Company Bringing Hundreds of Jobs to Rhode Island thanks to Economic Development Programs.” RI.gov press release, 27 February 2020. Accessed 16 December 2022 from https://www.ri.gov/press/view/37800 
+[^2]: “Raimondo Announces Five New Real Estate Development Projects, New Company Bringing Hundreds of Jobs to Rhode Island thanks to Economic Development Programs.” RI.gov press release, 27 February 2020. Accessed 16 December 2022 from https://www.ri.gov/press/view/37800
 
 This is their first foray into a large mill conversion. They speak much about “luxury amenities” on their slick website, but we can’t be sure if “luxury” these days is the minimum required when looking for an apartment. No one wants to live in anything that doesn’t try to convince you it is the height of luxury _that you can afford_.
 
-And affordability is an issue, of course, given that the median annual income of the Olneyville neighborhood is $56,000.[^3] A one bedroom here [lists starting at $2600 a month](//www.strivelofts.com/units/two-bedroom){:target="_blank"}, or $31,200 a year which is more than half that annual median income. In short, these apartments are not for the people that currently live in Olneyville.
+And affordability is an issue, of course, given that the median annual income of the Olneyville neighborhood is $56,000.[^3] A one bedroom here [lists starting at $2600 a month](https://www.strivelofts.com/), or $31,200 a year which is more than half that annual median income. In short, these apartments are not for the people that currently live in Olneyville.
 
 [^3]: “Olneyville Demographics.” Point2Homes.com, accessed 17 December 2022 from https://www.point2homes.com/US/Neighborhood/RI/Providence/Olneyville-Demographics.html#IncomeFinancial
 
@@ -118,7 +118,7 @@ So what are we trying to say? We’re not entirely sure. On the one hand, we rec
 
 ### Current Events
 
-Studio, one- and two-bedroom units are available to view and inquire at [strivelofts.com](https://www.strivelofts.com).
+Studio, one- and two-bedroom units are available to view and inquire at [strivelofts.com](https://www.strivelofts.com/).
 
 
 ### History

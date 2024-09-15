@@ -76,7 +76,7 @@ images:
 
 mostrecentimage: 2024-01-01
 
-imagescredit: 'Contribution from the Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%253A10606" target="_blank">photo 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%253A10750" target="_blank">photo 2,</a> <a href="//provlibdigital.org/islandora/object/islandora%253A14787" target="_blank">photo 3</a>) and the <a href="//provlibdigital.org/islandora/object/islandora%253A20929" target="_blank">RI Postcard Collection</a>'
+imagescredit: 'Contribution from the Rhode Island Photograph Collection (<a href="https://provlibdigital.org/islandora/object/VM013_GF2922">photo 1,</a> <a href="https://provlibdigital.org/islandora/object/VM013_GF2981">photo 2,</a> <a href="https://provlibdigital.org/islandora/object/VM013_FIC0123">photo 3</a>) and the <a href="https://provlibdigital.org/islandora/object/PC6433">RI Postcard Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -99,7 +99,7 @@ The armory operates as a museum and contains a number of historical artifacts. I
 
 ### History
 
-One of the oldest armories in RI, second only to the Artillery Company of Newport, 1835, according to the [Kentish Guard’s list of Historic Armories](//www.kentishguards.org/the-historic-armories-of-rhode-island/){:target="_blank"}.
+One of the oldest armories in RI, second only to the Artillery Company of Newport, 1835, according to the [Kentish Guard’s list of Historic Armories](https://www.kentishguards.org/the-historic-armories-of-rhode-island/).
 {:.o__tldr}
 
 _From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
@@ -130,17 +130,17 @@ When — later in the mid-XIX-Century — the infantry unit left to occupy larg
 
 ***
 
-_From a caption on a paper drawing in the <a href="https://provlibdigital.org/islandora/object/islandora%3A5003" target="_blank">John Hutchinson Cady Research Scrapbook Collection</a>, Providence Public Library_
+_From a caption on a paper drawing in the <a href="https://provlibdigital.org/islandora/object/islandora%3A5003">John Hutchinson Cady Research Scrapbook Collection</a>, Providence Public Library_
 
 This building was erected by the members of the organization, but delivered to the state, which paid off an indebtedness and gave the organization a 1000-year lease at the rate of six and one-quarter cents a year. In this arsenal was enlisted the most famous light batteries in the Civil War. The building is designated as the brooder house of the “Mother Battery.” It placed men in the field in 1861–65, 1898, and in France as a part of the famous 26th Division, A. M. E. F.
 
 ***
 
-_From Providence’s Benefit Street, [Arcadia Publishing](//www.arcadiapublishing.com/Products/9780738599236)_
+_From Providence’s Benefit Street, [Arcadia Publishing](https://www.arcadiapublishing.com/Products/9780738599236)_
 
 > On May 17, 1924, the Benefit Street Arsenal was the site of an illegal meeting of the Ku Klux Klan. Although often associated with the South, the Klan was relatively active in Rhode Island during the 1920s. Klan members arranged a meeting at the State Arsenal that attracted about 200 men. The group had not obtained a permit to meet on state property but had gained access to the building by claiming it was hosting a religious meeting. Later, however, Rhode Island’s Governor William S. Flynn denounced the Klan and subsequently banned the group from using state property for meetings.
 
-A short article from the [Providence Daily Dose](//providencedailydose.com/2021/02/03/it-can-happen-here/) has more information.
+A short article from the [Providence Daily Dose](https://providencedailydose.com/2021/02/03/it-can-happen-here/) has more information.
 
 ***
 

@@ -76,7 +76,7 @@ With a new building comes new amenities and floor plans that are not unique from
 
 About 11,000 sf of commercial space is available on the ground floor, and there is already confirmation that a small boutique grocery store will be the first to move in starting September 2022 — Rory’s Market and Kitchen].
 
-For leasing information visit [NightingaleProvidence.com](https://www.nightingaleprovidence.com).
+For leasing information, visit [Nightingale Providence](https://www.nightingaleprovidence.com/).
 
 
 ### Design Reception

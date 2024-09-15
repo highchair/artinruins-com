@@ -12,7 +12,7 @@ HABS/HAER, Photographer Name, Year
 
 Contributions from Christopher Martin of <a href="https://quahog.org">Quahog.org</a>
 
-<a href="//digitalcommons.ric.edu/smolski_images/61">Chet Smolski</a>
+<a href="https://digitalcommons.ric.edu/smolski_images/61">Chet Smolski</a>
 
 _by Gregory Smith_  
 **Providence Journal** | December 4, 2003 (abridged)
@@ -44,11 +44,11 @@ caption: 'Rhode Island Photograph Collection, Providence Public Library'
 Aerials from the Providence Historical Aerial Viewer
 caption: 'Providence Historical Aerial Viewer 1972'
 caption: 'Undated. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
-'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%3A5102">John Hutchins Cady Research Scrapbooks Collection</a>'
+'Contribution from the <a href="https://provlibdigital.org/islandora/object/islandora%3A5102">John Hutchins Cady Research Scrapbooks Collection</a>'
 
 Photoshop: PPS Architectural Slide Collection, 1983
 caption: '[Date] — PPS Architectural Slides Collection'
-<a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>
+<a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>
 
 ## Footnotes
 [^1]

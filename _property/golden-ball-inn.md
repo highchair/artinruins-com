@@ -77,7 +77,7 @@ images:
 
 mostrecentimage: 2024-01-01
 
-imagescredit: 'Contributions from <a href="//www.loc.gov/pictures/collection/hh/item/ri0194/">George J. Vaillancourt for the The Library of Congress</a> and the Providence Public Library (<a href="//provlibdigital.org/islandora/object/VM013_WC0695">RI Photo Collection,</a> <a href="//provlibdigital.org/islandora/object/VM011_04_01_046">John Hutchinson Cady Research Scrapbooks</a>'
+imagescredit: 'Contributions from <a href="https://www.loc.gov/pictures/collection/hh/item/ri0194/">George J. Vaillancourt for the The Library of Congress</a> and the Providence Public Library (<a href="https://provlibdigital.org/islandora/object/VM013_WC0695">RI Photo Collection,</a> <a href="https://provlibdigital.org/islandora/object/VM011_04_01_046">John Hutchinson Cady Research Scrapbooks</a>'
 
 external:
   - source: 'Ye Olde “Golden Ball Inn” (Mansion House), Artstor/JSTOR'
@@ -106,7 +106,7 @@ The area where the main buildings once stood have been an undeveloped parking lo
 
 ### History
 
-[Photo of the parking lot from 1990](//www.flickr.com/photos/cthulhuwho1/3828024244/in/photostream/) shows a lack of retaining wall at the rear. Photographer Will Hart also documents this locations place in the history of Edgar Allen Poe and H.P. Lovecraft.
+[Photo of the parking lot from 1990](https://www.flickr.com/photos/cthulhuwho1/3828024244/in/photostream/) shows a lack of retaining wall at the rear. Photographer Will Hart also documents this locations place in the history of Edgar Allen Poe and H.P. Lovecraft.
 
 ***
 
@@ -158,8 +158,8 @@ In 1784 Henry Rice opened the Golden Ball Inn on the corner of Benefit and South
 
 #### Maps
 
-+ [1875 Volume 1, Ward 2, Plate M](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_75731e9c-35cd-445d-b9e9-79c1ae2d6439/) — Labeled as belonging to ”G. R. Earle.“ The entire Mansion House property is present, but the George R. Earle Building has not yet been built on the corner of Meeting Street at 167 Benefit — it would be built the following year.
-+ [1882 Volume 1, Ward 2, Plate 2](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_6aa56b13-c31e-4332-b810-1c393df3006b/) — Mansion House is labelled along with the now extant George R. Earle building on the corner of Meeting Street.
++ [1875 Volume 1, Ward 2, Plate M](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_75731e9c-35cd-445d-b9e9-79c1ae2d6439/) — Labeled as belonging to ”G. R. Earle.“ The entire Mansion House property is present, but the George R. Earle Building has not yet been built on the corner of Meeting Street at 167 Benefit — it would be built the following year.
++ [1882 Volume 1, Ward 2, Plate 2](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_6aa56b13-c31e-4332-b810-1c393df3006b/) — Mansion House is labelled along with the now extant George R. Earle building on the corner of Meeting Street.
 + [1920 Sanborn Insurance Map, Volume 2, Plate 11](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102) (page 18) — Labeled as “Mansion House” and seems to encompass the entire western side of the block, including the now extant four-story building at 167 Benefit
 
 
@@ -173,7 +173,7 @@ _by Nathaniel Philbrick_
 […] By retracing his journey across the country as he attempted to bring the American people together, I hoped to gain some historical perspective on our own politically divided times.
 {:.u__text__sans--bold.u__color__violator}
 
-I’d gotten the idea for this quest the year before during a trip to Providence, when I first saw John Brown’s horse-drawn chariot. I couldn’t believe how tiny it was: think the back seat of a VW Bug mounted on four skinny wheels. With a carriage like this, the 57-year-old Washington, whose health had begun to suffer almost as soon as he was sworn in, had saved both his country and himself by exchanging the confines of his presidential office for the boundless promise of the open road. 
+I’d gotten the idea for this quest the year before during a trip to Providence, when I first saw John Brown’s horse-drawn chariot. I couldn’t believe how tiny it was: think the back seat of a VW Bug mounted on four skinny wheels. With a carriage like this, the 57-year-old Washington, whose health had begun to suffer almost as soon as he was sworn in, had saved both his country and himself by exchanging the confines of his presidential office for the boundless promise of the open road.
 
 When he became president, Washington was still wrestling with the meaning of the American Revolution. He’d entered the conflict an unrepentant Virginia slaveholder. By the end of the war, a new Washington was gradually emerging, one who realized that “nothing but the rooting out of slavery can perpetuate the existence of our union, by consolidating it in a common bond of principle.”
 

@@ -175,28 +175,26 @@ imagescredit: Contributions by Davis, Gemma, Lou Fancy, Robert Brewster from the
 We mourn the loss of the Fruit and Produce Warehouse, which through a series of unfortunate events and a pattern of neglect, had to come down for public safety reasons. This warehouse represents the last major component of an important historic district — the Provisions Warehouse District. When the Merchants Cold Storage building came down in 1998, we should have known that the rest of the district was doomed. If a developer with vision could have redeveloped the structurally sound but completely unfinished and vagrant-infested [Masonic Temple]({% link _property/masonic-temple-pvd.md %}), why not this building?
 
 #### Links
-+ [Erik Gould Projects — Providence Fruit and Produce Warehouse](//www.erikgouldprojects.com/coldcoffee/2015/4/26/providence-fruit-and-produce-warehouse){:target="blank"}
-+ [PPS Architecture Guide – Providence Produce Warehouse](//guide.ppsri.org/property/providence-produce-warehouse){:target="blank"}
-+ [A video with music on YouTube prominently featuring the Tourtellot building](//youtube.com/watch?v=cJLHbrI6zmE){:target="blank"}
-+ [Go back to an October 2007 Google Streetview with the building still standing](//www.google.com/maps/@41.8275698,-71.4206318,3a,75y,125.06h,87.13t/data=!3m6!1e1!3m4!1sjfyDkgZmA6lVxG_ALw3_wQ!2e0!7i3328!8i1664?hl=en){:target="blank"}. It is a little difficult to stay within that view while you go up and down the street but it is possible. 
++ [Erik Gould Projects — Providence Fruit and Produce Warehouse](https://www.erikgouldprojects.com/coldcoffee/2015/4/26/providence-fruit-and-produce-warehouse)
++ [PPS Architecture Guide – Providence Produce Warehouse](https://guide.ppsri.org/property/providence-produce-warehouse)
++ [A video with music on YouTube prominently featuring the Tourtellot building](https://youtube.com/watch?v=cJLHbrI6zmE)
++ [Go back to an October 2007 Google Streetview with the building still standing](https://www.google.com/maps/@41.8275698,-71.4206318,3a,75y,125.06h,87.13t/data=!3m6!1e1!3m4!1sjfyDkgZmA6lVxG_ALw3_wQ!2e0!7i3328!8i1664?hl=en). It is a little difficult to stay within that view while you go up and down the street but it is possible.
 
 ### In the News
 
 > February 2019 — The Shops at Providence Place LLC (an LLC registered by the Carpionato Group) has proposed a 353 unit residential building with 572 parking spaces at the site of the dearly departed Providence Fruit & Produce Warehouse. This is basically a redux of their proposal from late 2016 dubbed, One Hundred Harris at Providence Place. That prior proposal was larger with 459 residential units and a whopping 776 parking spaces.
-– [Greater City Providence](//www.gcpvd.org/2019/02/07/proposed-development-at-1-200-harris-avenue-aka-the-providence-fruit-produce-warehouse-site/){:target="blank"}
+– [Greater City Providence](http://www.gcpvd.org/2019/02/07/proposed-development-at-1-200-harris-avenue-aka-the-providence-fruit-produce-warehouse-site/)
 
 ### Timeline of Events
 
-Timeline of the Providence Fruit and Produce Warehouse
-
 1929, built
-: Used as a go-between for refrigerated goods coming off of train cars and loading onto trucks for distribution. $1 million dollar construction cost, 965 feet long, 60 feet wide, 25 feet tall. Basement level extended to 90 feet in width, below the loading docks. A tunnel connected this structure to the then-neighboring [Merchants Cold Storage Warehouse](). 71 loading bays. Architect, Emory W. Ballou of Jenks and Ballou. Constructed with a steel frame and poured concrete skeleton and finished with red brick. _(National Register Nomination Form, Edward Connors, 2004)_
+: Used as a go-between for refrigerated goods coming off of train cars and loading onto trucks for distribution. $1 million dollar construction cost, 965 feet long, 60 feet wide, 25 feet tall. Basement level extended to 90 feet in width, below the loading docks. A tunnel connected this structure to the then-neighboring [Merchants Cold Storage Warehouse]({% link _property/merchants-cold-storage.md %}). 71 loading bays. Architect, Emory W. Ballou of Jenks and Ballou. Constructed with a steel frame and poured concrete skeleton and finished with red brick. _(National Register Nomination Form, Edward Connors, 2004)_
 
 1929-1998 (69 years)
 : In continuous use by the Providence Produce Warehouse Company and its tenants. One of the longest-running businesses to operate was the **Tourtellot Company**, a tenant since 1929, run by William J. Canaan. Towards the end of its life, the PFWC had competition from large supermarket chains who bought direct from growers. _(National Register Nomination Form, Edward Connors, 2004)_
 
 1998, acquired by the State DOT
-: Cost of $14.1 million to acquire the building and surrounding lands. Care was taken to loop the Mall’s off ramp around the building. As state/federal money purchased a National Register Structure, they could not knock it down completely. Instead, a section about 100 feet long was lopped off the end of the structure to make room for the off ramp. “The state bought the building from Amtrak… and evicted the remaining businesses. It held the property for six years while it debated what to do with it — either knock it down or sell it — and the property deteriorated, becoming a haven for the homeless and a draw for graffiti artists." _(Providence Journal, Jan 12)_
+: Cost of $14.1 million to acquire the building and surrounding lands. Care was taken to loop the Mall’s off ramp around the building. As state/federal money purchased a National Register Structure, they could not knock it down completely. Instead, a section about 100 feet long was lopped off the end of the structure to make room for the off ramp. “The state bought the building from Amtrak… and evicted the remaining businesses. It held the property for six years while it debated what to do with it — either knock it down or sell it — and the property deteriorated, becoming a haven for the homeless and a draw for graffiti artists.“ _(Providence Journal, Jan 12)_
 
 2004, Spring
 : State and DOT put the building and the land out for a Public Bid “inviting development proposals so long as they incorporated the existing building into any new design.” _(Providence Journal, Jan 15)_
@@ -243,11 +241,12 @@ Timeline of the Providence Fruit and Produce Warehouse
 2008, Jan 14
 : Judge allows demolition to go forward. Demolition begins almost immediately that day. _(Providence Journal, Jan 14)_
 
+
 ### History
 
 _From the National Register Nomination Form, Edward Connors, 2004_
 
-The Providence Fruit and Produce Warehouse Company Building (PFPWC) is a long, two-story, flat-roofed vaguely Art Moderne industrial building, built of reinforced concrete and brick. It is located on a 4-acre lot in the former provisions warehouse district north of downtown Providence. This parcel, fronting on Harris Avenue, faces the Woonasquatucket River to the immediate west of Interstate Route 95 and north of the tracks of the former New York New Haven and Hartford Railroad. 
+The Providence Fruit and Produce Warehouse Company Building (PFPWC) is a long, two-story, flat-roofed vaguely Art Moderne industrial building, built of reinforced concrete and brick. It is located on a 4-acre lot in the former provisions warehouse district north of downtown Providence. This parcel, fronting on Harris Avenue, faces the Woonasquatucket River to the immediate west of Interstate Route 95 and north of the tracks of the former New York New Haven and Hartford Railroad.
 
 The structural system consists of a reinforced-concrete skeleton, finished with red brick. The grid-like structure of the building is evident on the exterior, with intersecting cast-concrete piers and lintels framing the nonstructural red brick knee walls and banks of metal awning windows. Loading docks attached to the north and south elevations have poured concrete and fill foundations topped by a slab concrete floor. The loading docks are covered with a flat, steel-framed canopy, which is held in place by steel rods attached to the vertical concrete piers that divide the bays of the building.
 

@@ -51,7 +51,7 @@ images:
 
 mostrecentimage: 2022-11-01
 
-imagescredit: 'Contribution from the <a href="https://provlibdigital.org/islandora/object/islandora%253A4836">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library'
+imagescredit: 'Contribution from the <a href="https://provlibdigital.org/islandora/object/VM011_03_03_134">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -68,7 +68,7 @@ For two years., Brown University leased the building while a new buyer was sough
 
 Premier Development became the new owner circa 2015 and hired ZDS Architecture & Interiors to design nineteen apartments on the upper floors. A new rooftop level was added along with seven commercial units for 30,000 sf of commercial space at a total cost of $20 million.
 
-Mare Rooftop restaurant was added by 2018 and is the state’ß only year-round rooftop restaurant, complete with heated igloos for the winter.[^1] 
+Mare Rooftop restaurant was added by 2018 and is the state’ß only year-round rooftop restaurant, complete with heated igloos for the winter.[^1]
 
 [^1]: Ciampa, Gail. “Year in Review: 2018 was another delicious year in R.I., from brunch to cocktails.” Providence Journal: Web Edition Articles (RI), sec. Entertainment life, 25 Dec. 2018. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/170943E04C9AF978. Accessed 28 Dec. 2022.
 

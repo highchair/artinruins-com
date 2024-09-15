@@ -52,17 +52,19 @@ images:
   - url: 12.jpg
     sizes: '510, 383'
 
-imagescredit: 
+imagescredit: 'Contribution from HABS/HAER (Historic American Buildings Survey/Historic American Engineering Record) of the <a href="https://www.loc.gov/resource/hhh.ri0328.photos">Northeast Railroad Corridor</a>'
 ---
 
 ### Reason for Demolition
-This large mill complex was demolished for a new Home Depot shopping center. There were tenants (small businesses, studios, a karate school, a rug store) up until demolition. This project came along right before the [Eagle Square]({% link _property/eagle-square.md %}) fight, which raised a lot of alarms. Unfortunately, it just wasn’t on the radar for most people, so it happened without any fuss. If anyone has more of the story on the developer and the fight to save the building, or more photos, please contact us. 
 
-In June 2004, A.I.R. added an aerial photo from the HABS/HAER ([Historic American Buildings Survey/Historic American Engineering Record](http://memory.loc.gov/ammem/browse/ListSome.php?category=Architecture,+Landscape)) database. Notice the Zayre’s behind it. Zayre’s was a department store, similar to an Ames which came later on. The site of this Ames is now the site of a Walmart (since ~2008).
+This large mill complex was demolished for a new Home Depot shopping center. There were tenants (small businesses, studios, a karate school, a rug store) up until demolition. This project came along right before the [Eagle Square]({% link _property/eagle-square.md %}) fight, which raised a lot of alarms. Unfortunately, it just wasn’t on the radar for most people, so it happened without any fuss. If anyone has more of the story on the developer and the fight to save the building, or more photos, please contact us.
+
+In June 2004, A.I.R. added an [aerial photo from the HABS/HAER](#photo-12) database. Notice the Zayre’s behind it. Zayre’s was a department store, similar to an Ames which came later on. The site of this Ames is now the site of a Walmart (since ~2008).
 
 
 ### Current Events
-Currently a Home Depot occupies this land (2020). The brick facade and mill-like details were a direct result of community pressure to make the shopping center blend in with the industrial surroundings on Charles Street. 
+
+Currently a Home Depot occupies this land (2020). The brick facade and mill-like details were a direct result of community pressure to make the shopping center blend in with the industrial surroundings on Charles Street.
 
 
 ### History
