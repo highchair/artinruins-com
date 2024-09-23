@@ -105,7 +105,7 @@ images:
     caption: 'Photo from the Library of Congress, taken by Carol M. Highsmith'
     sizes: '1024, 640'
 
-imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157711783572483" target="_blank">Pawtucket Library</a>, <a href="//www.loc.gov/pictures/collection/hh/item/ri0371/" target="_blank">HABS/HAER</a>, and <a href="//www.loc.gov/pictures/item/2018700651/" target="_blank">Carol M. Highsmith</a>'
+imagescredit: 'Contributions from the <a href="https://www.flickr.com/photos/pawtucketlibrary/albums/72157711783572483">Pawtucket Library</a>, <a href="https://www.loc.gov/pictures/collection/hh/item/ri0371/">HABS/HAER</a>, and <a href="https://www.loc.gov/pictures/item/2018700651/">Carol M. Highsmith</a>'
 
 mostrecentimage: 2018-07-01
 
@@ -119,7 +119,7 @@ mostrecentimage: 2018-07-01
 From what we can tell from the dates of the photographs and the nomination forms, this is a rough timeline of the Modern Diner:
 
 1941
-: Parts rolled off the assembly line at the J. B. Judkins Company of Merrimack, Massachusetts, and assembled on site at [13 Dexter Street](//www.google.com/maps/place/13+Dexter+St,+Pawtucket,+RI+02860/@41.8783516,-71.3874448,3a,75y,29.34h,89.41t/data=!3m6!1e1!3m4!1sOTjx_EAzMQD18l_qceKKJw!2e0!7i16384!8i8192!4m5!3m4!1s0x89e44353f108fa2f:0xca343e5f25590e22!8m2!3d41.8785005!4d-71.3872477){:target="_blank"}.
+: Parts rolled off the assembly line at the J. B. Judkins Company of Merrimack, Massachusetts, and assembled on site at [13 Dexter Street, Pawtucket](https://www.google.com/maps/place/13+Dexter+St,+Pawtucket,+RI+02860/@41.8783516,-71.3874448,3a,75y,29.34h,89.41t/data=!3m6!1e1!3m4!1sOTjx_EAzMQD18l_qceKKJw!2e0!7i16384!8i8192!4m5!3m4!1s0x89e44353f108fa2f:0xca343e5f25590e22!8m2!3d41.8785005!4d-71.3872477).
 
 1974
 : The Modern Diner closes and it put up for sale. This probably happened many times.
@@ -138,17 +138,17 @@ Winter 1986
 
 One of my favorite diners around, with great food (pesto grits! steak and cheese omelette!), authentic atmosphere and true RI history. The lines are long on the weekends but move fast. Plenty of time to stand and ponder over the extensive wall of specials, and then sit and get some quick and courteous diner service. Wait to eat in the dining car at least once – the other room is nice, but has none of the atmosphere of the curvilinear diner car.
 
-For food reviews and directions, visit [Quahog.org](//www.quahog.org/cuisine/){:target="_blank"}
+For food reviews and directions, visit [Quahog.org](https://www.quahog.org/cuisine/)
 
 
 ### History
 
-+ [A detailed history of the lunch wagon turned diner car]({% link supplements/history-of-diner-cars-lunch-wagons.md %}) which got its start in Rhode Island. 
++ [A detailed history of the lunch wagon turned diner car]({% link _essays/history-of-diner-cars-lunch-wagons.md %}) which got its start in Rhode Island.
 
 #### We support and admire the Weird Island podcast! 
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="//player.simplecast.com/16bba413-04d4-4c9f-9eee-414fdb9e1f44?dark=false"></iframe>
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/16bba413-04d4-4c9f-9eee-414fdb9e1f44?dark=false"></iframe>
 
-Visit on the web: [Weird Island Episode 54: Diners, Modern Diner](//weird-island.simplecast.com/episodes/54-diners-modern-diner)
+Visit on the web: [Weird Island Episode 54: Diners, Modern Diner](https://weird-island.simplecast.com/episodes/54-diners-modern-diner)
 
 ***
 
@@ -159,14 +159,14 @@ _From the National Register Nomination form, 1978, prepared by David Chase_
 
 The Modern Diner in Pawtucket is a Sterling Streamliner — a line of customized, factory-built, “modernistic” diners manufactured in the late 1930s and early ‘40s by the J. B. Judkins Company of Merrimack, Massachusetts. […] This one-story, steel-clad structure has a canted bow end with narrow, slit-like windows, and a barrel roof featuring a ridge-mounted fin upon which the words “Modern Diner” are inscribed in forward-slanting neon letters. The car’s bow end, riding on a foundation of glass block, is unencumbered by adjacent structures and thrusts out toward the flux of a major intersection; the opposite end abuts the blank sidewall of a pre-existing, brick commercial block. As a result, the diner’s visual impact has something of the arrested drama of a high speed train hurtling out of a tunnel — caught in a still photograph.
 
-The exterior is vitreous enamel in a yellow-beige tone accented with a maroon window band, maroon pin striping and stainless-steel trim. The roof, now maroon, was silver until recently. The street-facing side of the diner has banks of double-hung, steel-framed, one-over-one sash windows flanking a central entrance. The entrance door, a single panel of ribbed stainless steel with an oval window and a typically curvilinear Art Deco push bar, has been enclosed with a non-original, flat-roofed, utilitarian vestibule. […]
+The exterior is vitreous enamel in a yellow-beige tone accented with a maroon window band, maroon pin striping and stainless-steel trim. The roof, now maroon, was silver until recently. The street-facing side of the diner has banks of double-hung, steel-framed, one-over-one sash windows flanking a central entrance. The entrance door, a single panel of ribbed stainless steel with an oval window and a typically curvilinear Art Deco push bar, has been enclosed with a non-original, flat-roofed, utilitarian vestibule.[…]
 
 The interior of the Modern Diner’s main floor has an eleven-stool counter, seven four-customer booths, and two, two-customer booths; the bow end is fitted up as a long banquette with three segmental tables. In all, the seating capacity is about fifty-five. Beside the door is a curved cash register counter. The back bar is basically a serving area, save for the making of coffee and other drinks. Cooking is done in the kitchen wing accessible from a door at one end of the counter and two pass-throughs (one now blocked-up) in the back bar. The back bar itself is-sheathed in stainless steel and two microphones mounted on it are used by counter personnel to relay orders via a public address system to the kitchen. Above the back bar is a hood faced in mahogany-grained Formica. Set into the hood are a pair of recessed, glass-faced menu boards flanking a square electric clock. Below the clock is the manufacturer’s name plate indicating that this is a Sterling Diner, Car No. 4140, manufactured under U.S. patents 2089058, 2089059, 2089060.
 
 Erected in 1940 for its original operators, Joseph Zuromski and Arnold Wood, the Modern Diner is one of but two we11 preserved surviving examples of the Sterling Streamliners[^1], remarkable landmarks in the history of American design and food-service merchandizing and key monuments in the history of that uniquely American melding of the two — the roadside fast-food restaurant, which had its beginnings in Rhode Island.
 
-[^1]: The other is the [Salem Diner](//commons.wikimedia.org/wiki/File:Salemdiner.jpg){:target="_blank"} in Salem, Massachusetts.
+[^1]: The other is the [Salem Diner](https://commons.wikimedia.org/wiki/File:Salemdiner.jpg) in Salem, Massachusetts.
 
 Diners originated in Providence with a horse-drawn canteen created by one Walter Scott in 1872 to sell pies, coffee and the like to people who worked at night (mostly newspaper printers) when restaurants were closed. The concept quickly caught on and soon such wagons could be found in many New England cities. From very early on, most lunch wagons were manufactured by specialty firms; when immobile diners became common in the 1920s, most of these structures, too, were pre-fabricated and then shipped to their sites for erection. […]
 
-The Judkins firm offered a high-quality but […] a fairly standard line of diners until they introduced the Sterling Streamliners. These self-consciously up-to-date units looked like the crack streamlined trains of the day and perhaps even more like oversize cousins to [Buckminster Fuller’s Dymaxion](//en.wikipedia.org/wiki/Dymaxion_car){:target="_blank"} car. Several hundred Streamliners were built before construction was curtailed by wartime shortages of essential materials, particularly steel. […]
+The Judkins firm offered a high-quality but […] a fairly standard line of diners until they introduced the Sterling Streamliners. These self-consciously up-to-date units looked like the crack streamlined trains of the day and perhaps even more like oversize cousins to [Buckminster Fuller’s Dymaxion](https://en.wikipedia.org/wiki/Dymaxion_car) car. Several hundred Streamliners were built before construction was curtailed by wartime shortages of essential materials, particularly steel. […]

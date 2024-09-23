@@ -6,7 +6,7 @@ layout: default
 {%- assign mentions = site.data.mentions | where: 'essay', page.slug -%}
 {%- assign essaythumb = '' -%}
 {%- if page.thumbnail -%}
-  {%- assign essaythumb = page.thumbnail | prepend: 'essays/' | prepend: site.propimg_path | prepend: site.prod_url -%}
+  {%- assign essaythumb = page.thumbnail | prepend: 'essays/' | prepend: site.propimg_path -%}
 {%- endif -%}
 
 <main id="content" class="l__content content">

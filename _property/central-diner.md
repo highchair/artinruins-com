@@ -70,7 +70,7 @@ images:
     caption: 'Photo by Christopher Martin'
     sizes: '1200, 900'
 
-imagescredit: 'Photos by Denise J.R. Bass for the National Register nomination form and Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>'
+imagescredit: 'Photos by Denise J.R. Bass for the National Register nomination form and Christopher Martin of <a href="https://quahog.org">Quahog.org</a>'
 
 mostrecentimage: 2014-11-01
 
@@ -81,31 +81,31 @@ mostrecentimage: 2014-11-01
 
 ### Redevelopment
 
-Worcester Lunch Car Company Diner #806 (henceforth simply called #806) has been known by many names and two locations. As diners go, they are not as mobile as a trailer but they can be moved, and as businesses come and go, so do names. #806 is no different. 
+Worcester Lunch Car Company Diner #806 (henceforth simply called #806) has been known by many names and two locations. As diners go, they are not as mobile as a trailer but they can be moved, and as businesses come and go, so do names. #806 is no different.
 
-In 1947, Ralph “Truck” Narducci of Providence ordered the custom-built diner — completely furnished and stocked — and opened it for business at the corner of West Exchange and Gaspee streets in Downtown Providence as the **Central Diner**. 27 West Exchange Street (where the Westin Hotel stands today) was in thick of the city’s central business district, steps away from Union Station, City Hall, hotels, theaters, factories, offices, shops, warehouses, residences, and garages. 
+In 1947, Ralph “Truck” Narducci of Providence ordered the custom-built diner — completely furnished and stocked — and opened it for business at the corner of West Exchange and Gaspee streets in Downtown Providence as the **Central Diner**. 27 West Exchange Street (where the Westin Hotel stands today) was in thick of the city’s central business district, steps away from Union Station, City Hall, hotels, theaters, factories, offices, shops, warehouses, residences, and garages.
 
-Mr. Narducci relocated the #806 six years later 2.75 miles south to 777 Elmwood Avenue and built a new concrete block kitchen. Elmwood Avenue was a thriving commercial corridor, with the Elmwood Theatre and numerous other businesses in the immediate neighborhood. Business was moving away from central downtown locations and spreading into the suburbs due to the exploding prevalence of automobiles. 
+Mr. Narducci relocated the #806 six years later 2.75 miles south to 777 Elmwood Avenue and built a new concrete block kitchen. Elmwood Avenue was a thriving commercial corridor, with the Elmwood Theatre and numerous other businesses in the immediate neighborhood. Business was moving away from central downtown locations and spreading into the suburbs due to the exploding prevalence of automobiles.
 
-#806 was known as Central Diner through 1972 but it has changed hands, changed names, and received a number of facelifts since then. Some knew it as the **Elmwood Diner**, Jenn’s Elmwood Diner, Ole Elmwood Diner, **Louie's Diner**, **Roberto's Café**, or **La Criolla Restaurant**. 
+#806 was known as Central Diner through 1972 but it has changed hands, changed names, and received a number of facelifts since then. Some knew it as the **Elmwood Diner**, Jenn’s Elmwood Diner, Ole Elmwood Diner, **Louie's Diner**, **Roberto's Café**, or **La Criolla Restaurant**.
 
-In 2006, Elmwood resident Carol “Kip” DeFeciani purchased the property and initiated another overhaul, restoring the diner to its historic appearance and opening for business as **The Liberty Elm**. This update signaled the owner’s pledge to direct one percent of profits to purchase new disease-resistant American Liberty Elm trees for Elmwood Avenue. The food and the vibe were strong enough to receive national attention — the restaurant was featured on [Diners, Drive-Ins, and Dives (Season 8, Ep. 8)](//www.foodnetwork.com/shows/diners-drive-ins-and-dives/episodes/comfort-food-classics){:target="_blank"} in February, 2010. 
+In 2006, Elmwood resident Carol “Kip” DeFeciani purchased the property and initiated another overhaul, restoring the diner to its historic appearance and opening for business as **The Liberty Elm**. This update signaled the owner’s pledge to direct one percent of profits to purchase new disease-resistant American Liberty Elm trees for Elmwood Avenue. The food and the vibe were strong enough to receive national attention — the restaurant was featured on [Diners, Drive-Ins, and Dives (Season 8, Ep. 8)](https://www.foodnetwork.com/shows/diners-drive-ins-and-dives/episodes/comfort-food-classics) in February, 2010.
 
-The business lasted until about 2013, when it was again available for sale. A new family purchased #806 in January of 2014, changed the name back to the Elwood Diner, but lasted until 2017. Another owner gave it a go as **Paula’s Kitchen**, opening at a particularly precarious time during the COVID-19 pandemic in 2020. 
+The business lasted until about 2013, when it was again available for sale. A new family purchased #806 in January of 2014, changed the name back to the Elwood Diner, but lasted until 2017. Another owner gave it a go as **Paula’s Kitchen**, opening at a particularly precarious time during the COVID-19 pandemic in 2020.
 
 
 ### Current Events
 
 Most recently (March 2021), the former Elwood Diner was listed for sale[^1]. We are unsure if it has sold to a new entrepreneur yet. 
 
-[^1]: “Do You Want to Buy a Diner?,” GoLocalProv.com, March 19, 2021 captured September 16, 2021 from https://www.golocalprov.com/food/Do-You-Want-to-Buy-a-Diner. 
+[^1]: “Do You Want to Buy a Diner?,” GoLocalProv.com, March 19, 2021 captured September 16, 2021 from https://www.golocalprov.com/food/Do-You-Want-to-Buy-a-Diner.
 
 
 ### History
 
-+ [Good historic synopsis at Wikipedia](//en.wikipedia.org/wiki/Central_Diner){:target="_blank"}
-+ [A deeper historic dive on Quahog.org](//www.quahog.org/cuisine/index.php?id=154){:target="_blank"}
-+ [A detailed history of the lunch wagon turned diner car]({% link supplements/history-of-diner-cars-lunch-wagons.md %}) which got its start in Rhode Island. 
++ [Good historic synopsis at Wikipedia](https://en.wikipedia.org/wiki/Central_Diner)
++ [A deeper historic dive on Quahog.org](https://www.quahog.org/cuisine/index.php?id=154)
++ [A detailed history of the lunch wagon turned diner car]({% link _essays/history-of-diner-cars-lunch-wagons.md %}) which got its start in Rhode Island. 
 
 ***
 

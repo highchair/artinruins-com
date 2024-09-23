@@ -85,7 +85,7 @@ images:
     caption: 'Photo by Ken Zirkel for Wikimedia'
     sizes: '1440, 699'
 
-imagescredit: 'Contributions by <a href="//www.flickr.com/photos/mcsawtelle/5795296415/" target="_blank">Mark Sawtelle</a>, <a href="//dinerhotline.wordpress.com/tag/poiriers-diner/" target="_blank">Larry Cultrera</a>, <a href="//ogrforum.ogaugerr.com/topic/trains-trolleys-and-diners-the-real-story" target="_blank">Tomlinson Run Railroad</a>, Clark Schoettle for the National Register nomination, <a href="//www.flickr.com/photos/chloe-and-ivan/6505917507" target="_blank">Chloe C.</a>, and <a href="//commons.wikimedia.org/wiki/File:West_Side_Diner_Providence_Rhode_Island.jpg" target="_blank">Ken Zirkel</a> from Wikimedia'
+imagescredit: 'Contributions by <a href="https://www.flickr.com/photos/mcsawtelle/5795296415/">Mark Sawtelle</a>, <a href="https://dinerhotline.wordpress.com/tag/poiriers-diner/">Larry Cultrera</a>, <a href="https://ogrforum.ogaugerr.com/topic/trains-trolleys-and-diners-the-real-story">Tomlinson Run Railroad</a>, Clark Schoettle for the National Register nomination, <a href="https://www.flickr.com/photos/chloe-and-ivan/6505917507">Chloe C.</a>, and <a href="https://commons.wikimedia.org/wiki/File:West_Side_Diner_Providence_Rhode_Island.jpg">Ken Zirkel</a> from Wikimedia'
 
 external:
   - source: 'Top Hat Diner circa 1990, Flickr user Mod Betty'
@@ -94,11 +94,11 @@ external:
 
 ### Redevelopment
 
-The original owners, the Poirier’s, purchased this diner car from the Kullman Company in Harrison, New Jersey, right off the factory line in 1947. It was installed at its location of 579-581 Atwells Avenue where it sat for 55 years. It had many owners and names in that time — as far as we can piece together, in this order: Poirier’s Diner, Squire’s, Gary’s Sandwich Factory, Arnold’s Diner, Top Hat, Krystal’s, and El Faro. Like another Kullman, [the Silver Top]({% link _property/silver-top-diner.md %}), the diner’s patrons were the workers and shoppers of the nearby mills and housing around Eagle Square. 
+The original owners, the Poirier’s, purchased this diner car from the Kullman Company in Harrison, New Jersey, right off the factory line in 1947. It was installed at its location of 579-581 Atwells Avenue where it sat for 55 years. It had many owners and names in that time — as far as we can piece together, in this order: Poirier’s Diner, Squire’s, Gary’s Sandwich Factory, Arnold’s Diner, Top Hat, Krystal’s, and El Faro. Like another Kullman, [the Silver Top]({% link _property/silver-top-diner.md %}), the diner’s patrons were the workers and shoppers of the nearby mills and housing around Eagle Square.
 
-When FELDCO was in the process of redeveloping [Eagle Square]({% link _property/eagle-square.md %}), the diner car was not a priority for them. They therefore were going to scrap it until members of the American Diner Museum (now defunct?) volunteered to move it and find a new owner. The diner car originally moved to a parking lot near the intersection of Admiral and Charles streets in June 2002. Two months later it moved again to a parking lot on Westminster Street, not far from its present location. 
+When FELDCO was in the process of redeveloping [Eagle Square]({% link _property/eagle-square.md %}), the diner car was not a priority for them. They therefore were going to scrap it until members of the American Diner Museum (now defunct?) volunteered to move it and find a new owner. The diner car originally moved to a parking lot near the intersection of Admiral and Charles streets in June 2002. Two months later it moved again to a parking lot on Westminster Street, not far from its present location.
 
-New owner Jon Özbek took years to put together financing from many sources but in December, 2011, the diner was moved from off its blocks and down and across the street to a permanent concrete slab. After an extensive restoration and upgrade with modern restaurant appliances, an entire back dining area, and new bathrooms, the diner opened to patrons in September of 2013. 
+New owner Jon Özbek took years to put together financing from many sources but in December, 2011, the diner was moved from off its blocks and down and across the street to a permanent concrete slab. After an extensive restoration and upgrade with modern restaurant appliances, an entire back dining area, and new bathrooms, the diner opened to patrons in September of 2013.
 
 The restoration garnered S. Jon Özbek a Rhody Project Award in 2014.[^1]
 
@@ -107,9 +107,9 @@ The restoration garnered S. Jon Özbek a Rhody Project Award in 2014.[^1]
 
 ### Current Events
 
-The diner is now open as the [West Side Diner](//westsidedinerri.com){:target="_blank"}, serving classic American breakfasts and lunch. They are open six days a week from 6am to 2pm. 
+The diner is now open as the [West Side Diner](https://westsidedinerri.com), serving classic American breakfasts and lunch.
 
-_Did you know?_ While the Poirier Diner was sitting in his parking lot, Richard Shappy got to thinking… why not find and restore a diner of my own? [Read the full story at Quahog.org](//www.quahog.org/factsfolklore/index.php?id=46){:target="_blank"} 
+_Did you know?_ While the Poirier Diner was sitting in his parking lot, Richard Shappy got to thinking… why not find and restore a diner of my own? [Read the full story at Quahog.org](https://www.quahog.org/factsfolklore/index.php?id=46)
 {:.o__tldr}
 
 ### History
@@ -132,10 +132,10 @@ Poirier’s Diner is significant as a rare and unusually well preserved survivor
 
 Poirier’s Diner, a Kullman Dining Car #221, was manufactured by the Kullman Dining Car Company, of Harrison, New Jersey, in 1947. Kullman began making diners in 1927 when Samuel Kullman left diner manufacturer P. J. Tierney, where he was an accountant. Kullman Industries is still in business today, making diners and other modular construction units, one of only a handful of diner manufacturers still in business that have direct ties to the origins of diner construction. Kullman survived due to their ability to change with the times. When the economy was poor, they offered one-man “dinettes” called the “Kullman Junior.” By incorporating the latest materials into diner designs, including stylized fabricated stainless steel and Formica surface laminates, they advanced the construction and design standards for diner manufacturing. Kullman Dining Car Company became a giant in the diner industry, making its mark before the onset of World War II, with the introduction of their Challenger model in 1941. Their advertising slogan was (and is) “In our line we lead the world.”
 
-The Kullman #221 is a Challenger model, and is one of only two intact Kullmans in Rhode Island; the other is the 1937 Silver Top Diner, now in Pawtucket [A.I.R.: not anymore]. There are fewer than a dozen Kullmans left in New England; they are historically more prominent in the Mid-Atlantic states. 
+The Kullman #221 is a Challenger model, and is one of only two intact Kullmans in Rhode Island; the other is the 1937 Silver Top Diner, now in Pawtucket [A.I.R.: not anymore]. There are fewer than a dozen Kullmans left in New England; they are historically more prominent in the Mid-Atlantic states.
 
 Joseph A. Poirier, Jr., opened Poirier’s Diner in 1947, on a formerly residential site owned by Daniel Daly. Poirier operated the diner until 1955, when it came under a rapid succession of owners, including Armand P. Contois, Rudolph Kramer, Fred Demoranville, and Peter R. Riccio. From 1961 through 1968, the diner was a family affair, with Stella, Sam, and Anthony Neery working at “Squire’s Diner.” In 1969, Fred DeCesaris took over the business, and kept the name “Squire’s.” In the 1970s, there were five different owners, and the diner was closed at times. The seventies were hard times for diners in general, with the rise of the fast food industry. Poirier’s was operated as “Arnold's Diner” for five years in the 1980s, followed by short periods as the “Top Hat” and “Krystal’s,” before it became the “El Faro” in 1999.
 
 ***
 
-For more diner-specific history and happenings, be sure to browse [Larry Cultrera’s Diner Hotline](//dinerhotline.wordpress.com){:target="_blank"}. And check out our [detailed history of the lunch wagon turned diner car]({% link supplements/history-of-diner-cars-lunch-wagons.md %}) which got its start in Rhode Island. 
+For more diner-specific history and happenings, be sure to browse [Larry Cultrera’s Diner Hotline](https://dinerhotline.wordpress.com). And check out our [detailed history of the lunch wagon turned diner car]({% link _essays/history-of-diner-cars-lunch-wagons.md %}) which got its start in Rhode Island.
