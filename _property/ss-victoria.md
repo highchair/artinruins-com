@@ -52,19 +52,19 @@ imagescredit: 'Contributions from the Providence Historic Aerial Viewer and a ne
 
 ### Concept & History
 
-When we heard about this steamboat-turned-floating-restaurant, we were delighted. And then we were surprised that we had it for about four years and then never again. For a water-centric city, it is surprising that this concept has not been repeated. 
+When we heard about this steamboat-turned-floating-restaurant, we were delighted. And then we were surprised that we had it for about four years and then never again. For a water-centric city, it is surprising that this concept has not been repeated.
 
-The S.S. Victoria was a 106-foot steamboat built in New Jersey in the 1920s to ferry supplies and patients to municipal institutions on New York City’s Roosevelt Island. A restaurant designer in Philadelphia who specializes in converting old boats into restaurants, Alfred Johnston, reconditioned it in 1978 and brought it from New London, Conn. to Providence. It was opened as a restaurant the next year.[^1] 
+The S.S. Victoria was a 106-foot steamboat built in New Jersey in the 1920s to ferry supplies and patients to municipal institutions on New York City’s Roosevelt Island. A restaurant designer in Philadelphia who specializes in converting old boats into restaurants, Alfred Johnston, reconditioned it in 1978 and brought it from New London, Conn. to Providence. It was opened as a restaurant the next year.[^1]
 
 [^1]: Lee, Donna. “Yes, Victoria — There is a home in N.J.” Providence Journal, 17 August 1983. 
 
 It could seat up to 150 patrons.[^2] A year later, restauranteur Anthony “Tony” Mastronardi purchased it and ran it with his family, including his wife Janice, until 1983.
 
-[^2]: Jackman, Tom. “Dining Down by the Riverside.” New York Times (NY), 10 July 1983. NYTimes.com, https://www.nytimes.com/1983/07/10/nyregion/dining-down-by-the-riverside.html. Accessed 16 Jan. 2022. 
+[^2]: Jackman, Tom. “Dining Down by the Riverside.” New York Times (NY), 10 July 1983. NYTimes.com, https://www.nytimes.com/1983/07/10/nyregion/dining-down-by-the-riverside.html. Accessed 16 Jan. 2022.
 
 Mastronardi then sold the S.S. Victoria to George Costa, a developer from New Jersey, who planned to bring it back and berth it in Hoboken.[^3] He was taking advantage of a $10-million historic waterfront renewal[^4] but was not officially invited to take part.[^5] The steamer sunk shortly after it arrived in New Jersey.[^6]
 
-[^3]: Lee, Donna. 
+[^3]: Lee, Donna.
 
 [^4]: “Refunds from S.S. Victoria.” Providence Journal (RI), ALL ed., sec. NEWS, 19 Aug. 1983, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C288212CDBE0. Accessed 14 Jan. 2022.
 
@@ -72,7 +72,7 @@ Mastronardi then sold the S.S. Victoria to George Costa, a developer from New Je
 
 [^6]: “‘There wasn’t much else down here,’ said Hot Club co-owner Tom Bates. Nearby floated the SS Victoria, a waterborne restaurant that closed soon afterward, sailed to New Jersey and sank at dockside there.” — MORGAN, THOMAS J.. “Run-down waterfront district becomes hotbed for nightspots.” Providence Journal (RI), ALL ed., sec. NEWS, 29 July 1990, pp. B-04. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525BAB3D5F69EA0. Accessed 14 Jan. 2022.
 
-Mastronardi and family went on to lead or be part of many other restaurant ventures, including their own Victoria House restaurant on Rathbone Street in Providence[^7] — which in 1993 became the home of the second incarnation of the Living Room nightclub and concert venue.[^8] 
+Mastronardi and family went on to lead or be part of many other restaurant ventures, including their own Victoria House restaurant on Rathbone Street in Providence[^7] — which in 1993 became the home of the second incarnation of the Living Room nightclub and concert venue.[^8]
 
 [^7]: “If you want to spend an evening dining comfortably and pleasantly and never being hurried, Victoria House could be the answer. Owned and operated by Anthony and Janice Mastronardi (who previously operated the S.S. Victoria on the Providence River), Victoria House, on Rathbone Street between Promenade and Valley Streets, reflects their hospitable approach to their patrons. The Mastronardis are actually at the door to greet you in Old World tradition.” — MERAS, PHYLLIS. “DINING OUT If you miss the boat, its skippers are back S.S. Victoria’s owners now serve Italian food near the produce dock.” Providence Journal (RI), ALL ed., sec. WEEKEND, 12 June 1987, pp. D-02. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15252B1B4C2D2060. Accessed 14 Jan. 2022.
 
@@ -111,29 +111,29 @@ _Captured January 14, 2022 from https://www.hillfuneralhome.com/obituary/b-janic
 _by Donna Lee_  
 **Providence Journal** | August 17, 1983 (abridged)
 
-The S.S. Victoria, the old steamboat that had been turned into a restaurant, was towed out of Providence Wednesday afternoon, headed for a new berth in New Jersey. 
+The S.S. Victoria, the old steamboat that had been turned into a restaurant, was towed out of Providence Wednesday afternoon, headed for a new berth in New Jersey.
 
-Employees gathered nearby at The Hot Club to wave goodbye and toast the Victoria with champagne as it left. Customers, saddened that the Victoria was leaving, had crowded the restaurant the last week of its operation, then partied late into the night in the final farewell. 
+Employees gathered nearby at [The Hot Club]({% link _property/hot-club.md %}) to wave goodbye and toast the Victoria with champagne as it left. Customers, saddened that the Victoria was leaving, had crowded the restaurant the last week of its operation, then partied late into the night in the final farewell.
 
-“We closed the restaurant July 2, and it went out on the moon tide (3:30p.m.) August 10,” said Anthony D. Mastronardi, who had operated the boat as a restaurant since 1980. 
+“We closed the restaurant July 2, and it went out on the moon tide (3:30p.m.) August 10,” said Anthony D. Mastronardi, who had operated the boat as a restaurant since 1980.
 
-The S.S. Victoria had to pass under the hurricane barrier to head for Quonset Point. It was a tight squeeze, even at low tide. After the 18-foot smokestack was removed, Mastronardi estimated that there was about six inches clearance. In Quonset, the smokestack was reinstalled. The Victoria was expected to reach New Jersey this week. 
+The S.S. Victoria had to pass under the hurricane barrier to head for Quonset Point. It was a tight squeeze, even at low tide. After the 18-foot smokestack was removed, Mastronardi estimated that there was about six inches clearance. In Quonset, the smokestack was reinstalled. The Victoria was expected to reach New Jersey this week.
 {: .o__drop-cap }
 
-Mastronardi said the new owner, developer George Costa, plans to use the boat as a restaurant in Hoboken, N.J., and keep the name S.S. Victoria. 
+Mastronardi said the new owner, developer George Costa, plans to use the boat as a restaurant in Hoboken, N.J., and keep the name S.S. Victoria.
 
-The R.I. Fish Co. pier between the Hurricane barrier and Fox Point bridge is empty where the S.S. Victoria was once berthed. Mastronardi is studying the possibilities of a restaurant-lounge. “I’m considering a permanent structure,“ Mastronardi said. 
+The R.I. Fish Co. pier between the Hurricane barrier and Fox Point bridge is empty where the S.S. Victoria was once berthed. Mastronardi is studying the possibilities of a restaurant-lounge. “I’m considering a permanent structure,“ Mastronardi said.
 
 “Boats have a lot of problems,” he explained. “You can’t expand, and the kitchen is cramped.”
 
 The S.S. Victoria, a 106-foot steamboat, was built in Elizabeth, N.J., in the 1920s to ferry supplies and patients to municipal institutions on New York City’s Welfare Island, now called Roosevelt Island. At the time, the boat was called “The Welfare.”
 {: .o__drop-cap }
 
-Alfred Johnston, a restaurant designer in Philadelphia who specializes in converting old boats into restaurants, brought the boat from New London, Conn., to Providence in October, 1978 and reconditioned it. It was opened as a restaurant the next year, and Mastronardi bought it in 1980. 
+Alfred Johnston, a restaurant designer in Philadelphia who specializes in converting old boats into restaurants, brought the boat from New London, Conn., to Providence in October, 1978 and reconditioned it. It was opened as a restaurant the next year, and Mastronardi bought it in 1980.
 
 This summer, Mastronardi, who is president of the R.I. Chapter of Confrerie de la Chaine des Rotisseurs, held a dinner party on the S.S. Vitoria for members of his gourmet group. It was a gastronomic tour of Italy by chef Stephen Plante, and the food was excellent… baby ravioli with warm walnut sauce, baby lamb chops with sweet roasted peppers, dandelion salad, venison aaa Cacciatore. […]
 
-[…] Mastronardi is considering his next venture, and New Jersey will soon be welcoming a floating restaurant from Rhode Island. Arrival of the S.S. Victoria will be the first phase of a billion-dollar waterfront restoration project in Hoboken. 
+[…] Mastronardi is considering his next venture, and New Jersey will soon be welcoming a floating restaurant from Rhode Island. Arrival of the S.S. Victoria will be the first phase of a billion-dollar waterfront restoration project in Hoboken.
 
 The new owner hopes to have the floating restaurant open by Labor Day.
 
