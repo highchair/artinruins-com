@@ -2,9 +2,9 @@
 title: "Frances M. Andrews Houses"
 slug: old-miriam-hospital
 aka: 'Miriam Hospital, Park View Nursing Home, Park View Apartments'
-date-modified: 2024-08-10 16:00
-update: 'Added three new photos of the final renovations'
-update-image: old-miriam-jh-2024-07-02.jpg
+date-modified: 2024-10-13 14:00
+update: 'Added three new photos from the PPS Architectural Slides Collection'
+update-image: old-miriam-pps-1976-01.jpg
 
 built: '1878, 1925'
 demolition:
@@ -41,6 +41,14 @@ images:
   - url: old-miriam-ppl-1936-ripc-01.jpg
     caption: '1936 photo from the Providence Public Library, Rhode Island Photograph Collection. Individual apartment stairways are now removed with a central entrance that leads down into the basement level. The southern fourth floor unit already has the large window with skylight.'
     sizes: '1440, 900'
+  - url: old-miriam-pps-1976-01.jpg
+    caption: '1976 — PPS Architectural Slides Collection'
+    sizes: '1440, 900'
+  - url: old-miriam-pps-1976-02.jpg
+    caption: '1976 — PPS Architectural Slides Collection'
+    sizes: '1200, 900'
+  - url: old-miriam-pps-undated-01.jpg
+    caption: 'Undated — PPS Architectural Slides Collection'
   - url: old-miriam-render-01.jpg
     caption: 'Renderings by Jack Ryan Architect, provided by The Armory Revival Company'
     sizes: '1440, 900'

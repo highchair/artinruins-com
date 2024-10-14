@@ -2,8 +2,8 @@
 title: "Atlantic Mills"
 slug: atlantic-mills
 aka: 'Atlantic Delaine Company'
-date-modified: 2024-08-30 12:00
-update: 'Added a recent news story about the pending sale of the property'
+date-modified: 2024-10-13 12:00
+update: 'Added more news stories about the pending sale of the property'
 
 built: '1871–1899'
 demolition:
@@ -192,6 +192,9 @@ Credits: _The Industrial Advantages of Providence, Rhode Island, 1899; Interview
 
 
 ### In the News
+
+Ongoing coverage can be found by [Katy Pickens from the Providence Preservation Society in her ongoing blog articles](https://ppsri.org/with-sale-pending-atlantic-mills-tenants-concerned-about-future-of-community-hub/).
+{:.o__tldr}
 
 #### “A HIDDEN GEM” — Pending sale of Atlantic Mills leaves tenant businesses at risk
 
