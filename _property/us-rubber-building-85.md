@@ -29,7 +29,7 @@ gmap: "https://www.google.com/maps/place/The+WaterFire+Arts+Center/@41.8288301,-
 meta: ""
 excerpt: "A 27,000 sf piece of the former US Rubber Works has been developed into the Waterfire Arts Center"
 
-thumbnail: us-rubber-dbvw-01.jpg
+thumbnail: us-rubber-jh-2024-10-01.jpg
 
 images:
   - url: us-rubber-jh-2006-03-01.jpg
@@ -41,20 +41,18 @@ images:
     sizes: '768, 924'
   - url: us-rubber-jh-2006-03-04.jpg
     sizes: '1200, 900'
-  - url: us-rubber-dbvw-01.jpg
-    caption: 'Photo by Heidi Gumala for DBVW Architects from the Waterfire.org website'
-    sizes: '1600, 900'
   - url: us-rubber-trac-01.jpg
     caption: 'Photo from the TRAC Builders website'
     sizes: '1350, 900'
   - url: us-rubber-waterfire-int-01.jpg
     caption: 'Photo from the Waterfire.org website'
     sizes: '1561, 900'
-  - url: us-rubber-dbvw-02.jpg
-    caption: 'Photo by Heidi Gumala for DBVW Architects from Russell Morins’ website'
-    sizes: '1350, 900'
+  - url: us-rubber-jh-2024-10-01.jpg
+    sizes: '1440, 900'
 
-imagescredit: 'Contributions by <a href="//waterfire.org/about-the-waterfire-arts-center/our-spaces/" target="_blank">Waterfire.org,</a> <a href="//tracbuilders.com/waterfire-arts-center-2/" target="_blank">TRAC Builders,</a> and <a href="//morins.com/the-waterfire-arts-center" target="_blank">Russell Morins</a>'
+mostrecentimage: 2024-10-01
+
+imagescredit: 'Contributions by <a href="https://waterfire.org/about-the-waterfire-arts-center/our-spaces/">Waterfire.org</a> and <a href="https://tracbuilders.com/waterfire-arts-center-2/">TRAC Builders</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -69,14 +67,14 @@ In November 2012, WaterFire Providence purchased this historic property. Empty f
 
 The WaterFire Arts Center is becoming a much needed alternative arts venue to host exhibitions, events, and performances that often bypass our City and State for lack of a suitable venue. WaterFire Providence has been exploring partnerships with the Providence After School Alliance, the nearby Paul Cuffee Charter School, and other Providence schools over time, to create after school and out of school youth development programs in the WaterFire Arts Center.
 
-The historic building required extensive renovations, including the installation of a new roof, addition of new systems and complete build-out of office, meeting, production, exhibition, performance, education, and visitor spaces. WaterFire Providence and its community development supporters invested approximately $7,500,000 in this redevelopment over five years and opened in [June of 2017](//flickr.com/photos/waterfire_providence/albums/72157685337326905){:target="_blank"}.
+The historic building required extensive renovations, including the installation of a new roof, addition of new systems and complete build-out of office, meeting, production, exhibition, performance, education, and visitor spaces. WaterFire Providence and its community development supporters invested approximately $7,500,000 in this redevelopment over five years and opened in [June of 2017](https://flickr.com/photos/waterfire_providence/albums/72157685337326905).
 
-More photos are available on the [Waterfire Arts Center Flickr account](//flickr.com/photos/waterfire_providence/albums/72157648334360303){:target="_blank"}. Videos of the process are [available on Vimeo](//vimeo.com/search/page:5?q=Waterfire+Arts+Center){:target="_blank"}.
+More photos are available on the [Waterfire Arts Center Flickr account](https://flickr.com/photos/waterfire_providence/albums/72157648334360303){:target="_blank"}. Videos of the process are [available on Vimeo](https://vimeo.com/search/page:5?q=Waterfire+Arts+Center).
 
 
 ### Current Events
 
-A calendar of upcoming events as well as information on renting the various rooms and facilities are available at [WaterFire.org](//waterfire.org/about-the-waterfire-arts-center){:target="_blank"}.
+A calendar of upcoming events as well as information on renting the various rooms and facilities are available at [WaterFire.org](https://waterfire.org/about-the-waterfire-arts-center).
 
 
 ### History

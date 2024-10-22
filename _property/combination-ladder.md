@@ -2,9 +2,9 @@
 title: "Combination Ladder Company"
 slug: combination-ladder
 aka: 'Salvadore Tool & Findings, Waterman Stables, West Fountain Lofts'
-date-modified: 2023-03-04 11:00
-update: 'Added a photo from a Facebook user of a metal plate bearing the Combination Ladder name'
-update-image: combo-ladder-fb-medal-2022-01.jpg
+date-modified: 2024-10-21 12:00
+update: 'Added recent photos of the western wing of the complex'
+update-image: combo-ladder-jh-2024-10-02.jpg
 
 built: '1905'
 demolition:
@@ -89,6 +89,10 @@ images:
   - url: combo-ladder-fb-medal-2022-01.jpg
     caption: 'A great find by a Facebook user, showing a decorative metal plate insignia reading ”Combination Ladder, Builders of Fire Apparatus, Providence RI”'
     sizes: '1200, 900'
+  - url: combo-ladder-jh-2024-10-01.jpg
+    sizes: '1200, 900'
+  - url: combo-ladder-jh-2024-10-02.jpg
+    sizes: '1440, 900'
   - url: combo-ladder-sanborn-1899.jpg
     caption: 'Sanborn Map 1899, Volume 1, plate 47, courtesy the Library of Congress — The area to be developed is highlighted. Combination Ladder is not yet present. Instead, at the south eastern corern of Cargill and West Fountain is the A.S. Waterman and Company Boarding, while to the west is the H.O. Martin Sawing and Planing Mill.'
     sizes: '1200, 900'
@@ -107,7 +111,7 @@ images:
 
 imagescredit: 'Contributions from P.C.I.S. (Providence Commerical Industrial Space), Taylor McBurney, Sanborn Maps from the Library of Congress, and Google satellite view from Google Maps 2021'
 
-mostrecentimage: 2020-12-01
+mostrecentimage: 2024-10-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'

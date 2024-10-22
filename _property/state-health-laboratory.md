@@ -56,8 +56,10 @@ images:
     sizes: '1200, 900'
   - url: health-lab-jh-2024-07-02.jpg
     sizes: '1440, 900'
+  - url: health-lab-jh-2024-10-01.jpg
+    sizes: '1024, 1024'
 
-mostrecentimage: 2024-07-01
+mostrecentimage: 2024-10-01
 
 imagescredit: 'Rendering by HOK Architecture'
 
@@ -68,7 +70,7 @@ imagescredit: 'Rendering by HOK Architecture'
 
 ### Proposal
 
-The State Health Lab at 150 Richmond Street on the corner of Clifford is a 208,000 sf modern office building. It is being developed by [Ancora](//www.ancora.re/), a real-estate developer with many labs in its portfolio in close proximity to universities. Ancora has named the building [The PVD Labs](//www.thepvdlabs.com/).
+The State Health Lab at 150 Richmond Street on the corner of Clifford is a 208,000 sf modern office building. It is being developed by [Ancora](https://www.ancora.re/), a real-estate developer with many labs in its portfolio in close proximity to universities. Ancora has named the building [The PVD Labs](https://www.thepvdlabs.com/).
 
 The state will own 80,000 sf of space through a condominium agreement and Ancora will lease the remaining space to other laboratory tenants. One early commitment has come from Brown University, who already has a significant investment in lab space in this growing “Innovation District.” It is too early to tell if they will vacate after they complete their own new building at Richmond and Ship Streets.
 
