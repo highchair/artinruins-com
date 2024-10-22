@@ -36,26 +36,11 @@ excerpt: "This three-story former lumber yard and wood working business has over
 thumbnail: l-vaughn-jh-2006-04-03.jpg
 
 images:
-  - url: l-vaughn-sanborn-1889-01.jpg
-    alt: 'A three-story red brick mill with arch-topped windows and granite lintels is simple in shape and without much adornment. It has surrounding one-story buildings that were part of a large lumber yard.'
-    caption: 'Sanborn Insurance Map, 1889, sheet 23 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library. Highlighted on the right is the former M.N. Cartier building, now demolished. This map shows buildings that may not be the present building on the site.'
-    sizes: '1600, 1200'
-  - url: l-vaughn-sanborn-1899-01.jpg
-    caption: 'Sanborn Insurance Map, 1899, sheet 44 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library'
-    sizes: '1600, 1200'
-  - url: l-vaughn-sanborn-1920-01.jpg
-    caption: 'Sanborn Insurance Map, 1920, sheet 44 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library'
-    sizes: '1600, 1200'
-  - url: l-vaughn-sanborn-1951-01.jpg
-    caption: 'Sanborn Insurance Map, 1951, sheet 44 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library'
-    sizes: '1600, 1200'
-  - url: l-vaughn-sanborn-1956-01.jpg
-    caption: 'Sanborn Insurance Map, 1956, sheet 44 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library'
-    sizes: '1600, 1200'
   - url: l-vaughn-pps-aiari-2001.jpg
     caption: 'Photo by PPS/AIAri for the Industrial Sites and Commercial Buildings Survey (ICBS), 2001'
     sizes: '364, 247'
   - url: l-vaughn-jh-2004-01.jpg
+    alt: 'A three-story red brick mill with arch-topped windows and granite lintels is simple in shape and without much adornment. It has surrounding one-story buildings that were part of a large lumber yard.'
     sizes: '1200, 900'
   - url: l-vaughn-jh-2004-02.jpg
     sizes: '1200, 900'
@@ -122,6 +107,21 @@ images:
     sizes: '1200, 900'
   - url: l-vaughn-jh-2024-10-08.jpg
     sizes: '1440, 900'
+  - url: l-vaughn-sanborn-1889-01.jpg
+    caption: 'Sanborn Insurance Map, 1889, sheet 23 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library. Highlighted on the right is the former M.N. Cartier building, now demolished. This map shows buildings that may not be the present building on the site.'
+    sizes: '1600, 1200'
+  - url: l-vaughn-sanborn-1899-01.jpg
+    caption: 'Sanborn Insurance Map, 1899, sheet 44 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library'
+    sizes: '1600, 1200'
+  - url: l-vaughn-sanborn-1920-01.jpg
+    caption: 'Sanborn Insurance Map, 1920, sheet 44 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library'
+    sizes: '1600, 1200'
+  - url: l-vaughn-sanborn-1951-01.jpg
+    caption: 'Sanborn Insurance Map, 1951, sheet 44 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library'
+    sizes: '1600, 1200'
+  - url: l-vaughn-sanborn-1956-01.jpg
+    caption: 'Sanborn Insurance Map, 1956, sheet 44 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library'
+    sizes: '1600, 1200'
 
 imagescredit: 'Contributions by the Online Digital Sanborn Maps via ProQuest and the Providence Public Library, Google Streetview, and John O’Leary'
 

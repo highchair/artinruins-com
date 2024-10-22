@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: chinese-restaurants
+  person: 'Joanne  Egan Shea'
+  date: '2024-10-06'
+  content: 'As a RISD student in the 50’s, I remember walking up to Toy Sun’s, Thayer St., East Side of Providence for a delicious late night snack/study break… a chow mein sandwich… on a hamburger roll! Invented in Fall River, btw. The price was right, too!'
+
 - property: lilly-building
   person: 'Pamela Stacey Lazarus'
   date: '2024-09-19'
