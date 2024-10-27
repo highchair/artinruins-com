@@ -3,7 +3,7 @@ title: "L. Vaughn & Company"
 slug: l-vaughn-company
 aka: 'Grimwood & Company Lumber Yard, Stanton & Farnum Marble Works'
 date-modified: 2024-10-20 12:00
-update: 'Added post-fire photos of the former warehouse'
+update: 'Added post-fire photos of the former warehouse. Partial demolition of a 195%+ building will occur.'
 update-image: 2024-10-15-John-O-Leary-01.jpg
 
 built: 'circa 1890'
@@ -12,7 +12,7 @@ redeveloped: '2005-2006'
 units:
 decade: '1890-1899'
 date-added: '2006'
-categories: [ '#NotInRuins' ]
+categories: [ '#DemolitionAlert' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: []
