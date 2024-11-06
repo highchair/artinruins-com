@@ -68,8 +68,12 @@ images:
     sizes: '1200, 900'
   - url: peter-green-jh-2023-03-01.jpg
     sizes: '1440, 900'
+  - url: peter-green-jh-2024-08-01.jpg
+    sizes: '1200, 900'
+  - url: peter-green-jh-2024-08-02.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2023-03-01
+mostrecentimage: 2024-08-01
 
 imagescredit: 'Most photos contributed by Frank Mullin'
 
@@ -91,7 +95,7 @@ Of course, all of this couldn’t have been done without a team. Lerner \| Ladds
 
 ### Current Events
 
-Since the move in 2007, [the Sharpe house has been moved to become its neighbor](//www.brown.edu/news/2020-02-05/history){:target="_blank"} to the north on Olive Street and the new performing center for the arts is under construction. 
+Since the move in 2007, [the Sharpe house has been moved to become its neighbor](https://www.brown.edu/news/2020-02-05/history) to the north on Olive Street and the new performing center for the arts is under construction. 
 
 
 ### History
