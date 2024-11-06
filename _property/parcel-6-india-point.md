@@ -67,9 +67,9 @@ imagescredit:
 
 ### Proposal
 
-The 1.5 acre Parcel 6 opened up once the [elevated interstate 195 was removed in 2011]({% link _property/195-over-wickenden-st.md %}). The I-195 District Commission [approved plans in late 2019](//www.195district.com/projects/parcel-6/){:target="_blank"} by [D+P Real Estate](http://www.durhampolak.com/parcel-6.html){:target="_blank"} and Truth Box, Inc. to build out 62 residential units, a 13,000 sf grocery store, and approximately 10,000 sf of additional commercial/retail space.
+The 1.5 acre Parcel 6 opened up once the [elevated interstate 195 was removed in 2011]({% link _property/195-over-wickenden-st.md %}). The I-195 District Commission [approved plans in late 2019](https://www.195district.com/projects/parcel-6/) by [D+P Real Estate](http://www.durhampolak.com/parcel-6.html) and Truth Box, Inc. to build out 62 residential units, a 13,000 sf grocery store, and approximately 10,000 sf of additional commercial/retail space.
 
-The development is three buildings and is infilled with a two-level parking deck. The construction style is the currently popular “[5 over 1](//en.wikipedia.org/wiki/5-over-1){:target="_blank"},” also known as a one-plus-five, or a podium building. It is a type of multi-family residential building consisting of ground-floor concrete piers and deck suitable for parking or commercial space, topped by two to four floors of wooden residential construction. These plans are very economical and ensure that the streetscape is activated by commercial tenants while the residential above can be slightly removed from the bustle of the street.
+The development is three buildings and is infilled with a two-level parking deck. The construction style is the currently popular “[5 over 1](https://en.wikipedia.org/wiki/5-over-1),” also known as a one-plus-five, or a podium building. It is a type of multi-family residential building consisting of ground-floor concrete piers and deck suitable for parking or commercial space, topped by two to four floors of wooden residential construction. These plans are very economical and ensure that the streetscape is activated by commercial tenants while the residential above can be slightly removed from the bustle of the street.
 
 It has been advertised that about 50% of the units will be rented below market rates to provide much needed housing for the city’s workforce. The development plan is anchored by a national grocery store which will occupy a free standing 13,000 SF store. The prevailing rumor is that the tenant will be **Trader Joe’s**, only the second location in the state.
 
@@ -112,11 +112,9 @@ The cost of the development will be roughly $29 million. The project will receiv
 
 Bank RI is providing the construction financing and R.I. Housing is providing a $2.48 million loan as part of its new Workforce Housing Innovation Challenge Program.
 
-[Truth Box]({% link designer/truth-box-architects.html %}) and [ZDS]({% link designer/zds-architecture-interiors.html %}) are the project architects.
+Truth Box and ZDS are the project architects.
 
 “It’s a rare opportunity to lead the design and development of an entire city block in such a prominent location,” said Jordan Durham of Link Street LLC. “We have been very pleased to see such broad support for the project vision, from not just the local Fox Point neighborhood but across the entire city. We expect this project to be a catalyst and an anchor for the exciting new district taking shape on the East Side.”
-
-—
 
 _Captured November 19, 2020 from The Providence Business News (link now behind paywall)_
 
@@ -132,7 +130,5 @@ The I-195 Redevelopment District Commission gave preliminary approval Wednesday 
 For what’s formally known as Parcel 6, a 1.48-acre lot south of Wickenden Street between South Water and South Main streets, the commission voted to accept an offer of $1 million from Truth Box Inc and D+P Real Estate, both of 460 Harris Ave.
 
 Architect and Truth Box founder Peter Gill Case may be best known for his 2009 Olneyville project Box Office, a 10,000-square-foot office and studio building made entirely of shipping containers, which is prominently visible from the Route 6-10 Connector. […]
-
-—
 
 _Captured January 9, 2021 from https://www.providencejournal.com/story/news/2019/06/27/i-195-board-gives-initial-nod-to-295-apartments-in-2-projects/4820354007/_

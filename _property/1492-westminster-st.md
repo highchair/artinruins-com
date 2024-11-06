@@ -57,13 +57,13 @@ imagescredit:
 
 ### Proposal
 
-This lot had a house on it until we believe around 1985. A [1921 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"} (Volume 1, Plate 42) shows a 2 1/2 story home at this location. In [the following 1951 map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101){:target="_blank"}, it is labelled “Funeral Home.”
+This lot had a house on it until we believe around 1985. A [1921 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (Volume 1, Plate 42) shows a 2 1/2 story home at this location. In [the following 1951 map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101), it is labelled “Funeral Home.”
 
 The home is still present, though it is difficult to make out, in a 1985 aerial photo. In a 1997 aerial photo this lot looks paved over and part of the adjacent lot. This lot, therefore, has been vacant for about 30 years. There is nothing wrong with some green space, but this was not intentional — it looked very much abandoned and forgotten in a strip of stately homes that meet the street.
 
-In June of 2018, the WBNA reviewed a proposal presented by Peter Case of [Truth Box Architects]({% link designer/truth-box-architects.html %}). Case was the designing architect as well as a Project Partner with the design-build firm, [D+P Real Estate](http://www.durhampolak.com){:target="_blank"}.
+In June of 2018, the WBNA reviewed a proposal presented by Peter Case of [Truth Box Architects]({% link designer/truth-box-architects.html %}). Case was the designing architect as well as a Project Partner with the design-build firm, [D+P Real Estate](http://www.durhampolak.com).
 
-Case described this “green urban infill” project as “a zoning-compliant 7-unit building on three floors with retail on the first floor,” and added that they were “looking to make it the first [passive house](http://www.phius.org/what-is-passive-building/passive-house-principles){:target="_blank"} multi-family building in the city.”
+Case described this “green urban infill” project as “a zoning-compliant 7-unit building on three floors with retail on the first floor,” and added that they were “looking to make it the first [passive house](http://www.phius.org/what-is-passive-building/passive-house-principles) multi-family building in the city.”
 
 As part of that mission, Case joined [RepowerPVD](http://www.providenceri.gov/sustainability/repower-pvd/){:target="_blank"}, the city’s voluntary energy challenge that he called “a race to net zero” in terms of a building’s energy use. Details of the building’s passive house specs include triple glaze windows and double walls that are 12 inches thick. For development cost reasons, the building was not built with solar panels installed, but was “solar ready.”
 
@@ -71,7 +71,7 @@ The 7 residential units are one bedroom apartments. The ground floor retail spac
 
 Case acknowledged that they, as developers, “could muscle our way in” by building as many units as possible on this narrow lot, but followed with, “that’s not our style.” While the building will be modern and of its time, said Case, “we will be keeping good urban form by imitating shape and form and setback” of the surrounding built environment.
 
-To the question of whether affordable housing units will be included as part of this development, Case, who designed and is building 30 mixed income (low income and workforce) apartments with D+P Real Estate as part of [Urban Greens' 93 Cranston Street project](http://www.durhampolak.com/93-cranston.html){:target="_blank"}, responded, “We are not trying to solve the affordable housing problem with _this_ project.”
+To the question of whether affordable housing units will be included as part of this development, Case, who designed and is building 30 mixed income (low income and workforce) apartments with D+P Real Estate as part of [Urban Greens' 93 Cranston Street project](http://www.durhampolak.com/93-cranston.html), responded, “We are not trying to solve the affordable housing problem with _this_ project.”
 
 However, he said, the high level of energy efficiency of these units will help offset living costs with reduced energy bills.[^1]
 
@@ -80,4 +80,4 @@ However, he said, the high level of energy efficiency of these units will help o
 
 ### Current Events
 
-The ground floor retail space is occupied by [Lucky Enough Eat and Drink](//www.luckyenoughpvd.com){:target="_blank"}, a local bar and eatery.
+The ground floor retail space is occupied by [Lucky Enough Eat and Drink](https://www.luckyenoughpvd.com), a local bar and eatery.

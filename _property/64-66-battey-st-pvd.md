@@ -16,8 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Truth Box Architects' ]
 people: []
 lists: []
-tags: [ 'Contemporary', 'House'
- ]
+tags: [ 'Contemporary', 'House' ]
 
 address: '64-66 Battey St, Providence RI'
 latitude: '41.8188774'
@@ -94,7 +93,7 @@ Case explained that insulation under the concrete floor of the basement, and ext
 
 The townhomes are being marketed by Geo Properties Inc. of Providence. Listing agent Katie Cocuzzo staged one of the townhomes with furnishings from local designers, including O&G Studios of Warren and Studio Dunn of Providence.
 
-An open house is planned Sunday, April 7, from 1 to 3 p.m. For more information, see [www.batteystreetproject.com](//web.archive.org/web/20150722210337/http://www.batteystreetproject.com/#!/)
+An open house is planned Sunday, April 7, from 1 to 3 p.m. For more information, see [www.batteystreetproject.com](https://web.archive.org/web/20150722210337/http://www.batteystreetproject.com/#!/)
 
 —
 

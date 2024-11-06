@@ -94,6 +94,8 @@ Fabricated from 35 recycled shipping containers, **The Box Office** transformed 
 
 The project consists of approximately 12,000 SF of newly constructed office space at the site of the [former Harris Lumber]({% link _property/546-harris-ave.md %}) warehouse on Providence’s west side. The building uses approximately 50% less energy than a typical new construction office building (22 kBTU/SF/yr) and less than most <span class="abbr">LEED</span> platinum buildings; energy use is further reduced by a rooftop PV solar array. The Box Office has been a magnet for small companies, and has been near capacity throughout an economic recession. 
 
+***
+
 _From Peter Case, on the construction process_
 
 The whole thing was erected in one week. The 35 containers were in Cranston in a yard where we made the modifications and installed the windows. They were then trucked to the site. In addition to the containers being stacked, we also installed columns (not shown) on the interiors to handle the structural loads once the interior sides are cut out. (The walls that are removed are being welded to the roofs of the exposed containers for structural reinforcement.) The rendering shows “a double wide” unit with the reinforcing columns and interior walls cut back to form a “beam” in the center of the unit. Next come stairs and platforms so we don’t need scaffolding to access the interiors during construction. Then comes the seams between containers so that we can spray in the insulation and make the building water and weather tight.
@@ -107,11 +109,11 @@ It also does not hurt that the building reused material that would otherwise be 
 
 ## Project Credits & Links
 
-+ Leasing website: [boxoffice460.com](//www.boxoffice460.com){:target="_blank"}
-+ Developer: [Truth Box Architects](//www.truthbox.com){:target="_blank"}
++ Leasing website: [boxoffice460.com]https:(//www.boxoffice460.com)
++ Developer: [Truth Box Architects](https://www.truthbox.com)
 + Architect: Distill Studio (Joe Haskett, principal, now with Union Studio)
-+ Builder: [Stack Design Build](//stackac.com){:target="_blank"}
-+ Development Consultant: [Durham Polak](http://www.durhampolak.com){:target="_blank"}
++ Builder: [Stack Design Build](https://stackac.com)
++ Development Consultant: [Durham Polak](http://www.durhampolak.com)
 
 
 ### In the News
@@ -130,7 +132,7 @@ Several times every day, passenger trains travel through Providence, passing a S
 
 “When Amtrak goes by, it’s a little event. And they look up from their computer and watch it go by,” says Peter Case, who owns and helped design the building made entirely from cargo shipping containers — steel, rectangular boxes carried on trucks and trains.
 
-**”Let The Container Be A Container‘**
+##### ”Let The Container Be A Container‘
 
 The three-story complex is divided into two sets of offices with a canopy made from the sides of containers covering an exposed central hallway.
 
@@ -142,11 +144,11 @@ Then he bought shipping containers for $2,000 each and welded two or three of th
 
 Inside, it feels like any other office space. It took Case and his team six months to design and figure out the basics like installing windows, electric and plumbing. It took just four days to truck in the containers and plunk them down on-site.
 
-The building is now open for business, and [website consultant Chris Murray](//oomphinc.com){:target="_blank"} is the first renter. He recognized it from a Craigslist ad and had to check it out.
+The building is now open for business, and [website consultant Chris Murray](https://oomphinc.com) is the first renter. He recognized it from a Craigslist ad and had to check it out.
 
 “We decided to come here because it is a really unique and neat place,” Murray says.
 
-**Portable And Cool, But Still A Challenge**
+##### Portable And Cool, But Still A Challenge
 
 The office in Providence is not the first building made from containers. Container homes and art studios are sprinkled around the U.S., and there is a school in Mexico made of the steel boxes. One nonprofit called _Containers to Clinics_ is turning containers into health clinics for poor and rural countries.
 
