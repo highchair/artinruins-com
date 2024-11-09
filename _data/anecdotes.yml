@@ -1,6 +1,16 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: valley-street-place
+  person: 'Mother Mystic'
+  date: '2024-11-03'
+  content: 'This is the flea market a famous RI mobster was taken down for selling fake designer handbags. (from Instagram)'
+
+- property: jamestown-bridge
+  person: 'Joel Bader'
+  date: '2024-10-28'
+  content: 'This anecdote reminds me of the situation with the old Waverly Bridge in central Missouri. That bridge, which carried US 65 across the Missouri River, was also scary to cross. Needless to say, when the old bridge was replaced and demolished, many people did not miss it.'
+
 - property: chinese-restaurants
   person: 'Joanne  Egan Shea'
   date: '2024-10-06'

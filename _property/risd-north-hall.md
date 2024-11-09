@@ -18,7 +18,7 @@ town: [ 'Providence, RI' ]
 designers: [] # NADAAA
 people: []
 lists: []
-tags: [ 'College Properties', 'RISD' ]
+tags: [ 'College Properties', 'Darkitecture', 'RISD' ]
 
 NRHP-ref-number:
 added-to-NRHP:
