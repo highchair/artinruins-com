@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: [ 'Walter Bronhard' ]
 people: []
 lists: []
 tags: [ 'Apartments for Rent', 'Contemporary', 'Darkitecture' ]
@@ -77,6 +77,6 @@ William Morgan spoke specifically of this building in passing as he was ruminati
 
 [^4]: Morgan, William. “Affordable Housing Can Be Good Design.” GoLocal Providence, 11 September 2011. Accessed 22 April 2023 from https://www.golocalprov.com/business/affordable-housing-can-be-good-designarchitecture-critic-morgan
 
-While a good critique of this building, which we agree is largely uninspired, it is also an interesting article about <abbr title="Not In My Back Yard">NIMBY</abbr>-ism that can pervade communities that are well-to-do. It might be one of the reasons why the well-heeled communities in Rhode Island have the least affordable housing ([we’re looking at you, Barrington](//ecori.org/affordable-housing-stock-shrinks-in-some-r-i-towns/){:target="_blank"}). 
+While a good critique of this building, which we agree is largely uninspired, it is also an interesting article about <abbr title="Not In My Back Yard">NIMBY</abbr>-ism that can pervade communities that are well-to-do. It might be one of the reasons why the well-heeled communities in Rhode Island have the least affordable housing ([we’re looking at you, Barrington](https://ecori.org/affordable-housing-stock-shrinks-in-some-r-i-towns/)). 
 
-Back to this building specifically… Yes, its bland, but it could have been so much worse. For the most part we don’t mind it only because it is not hideous. It might be modern in its blocky-ness, but at least its darker wooden and stone colors blends in with the brownstone historic homes around it, including the [Lippitt House](//www.preserveri.org/lippitt-house-museum){:target="_blank"} across the street.
+Back to this building specifically… Yes, its bland, but it could have been so much worse. For the most part we don’t mind it only because it is not hideous. It might be modern in its blocky-ness, but at least its darker wooden and stone colors blends in with the brownstone historic homes around it, including the [Lippitt House](https://www.preserveri.org/lippitt-house-museum) across the street.

@@ -15,10 +15,10 @@ date-added: '2024'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: []
+designers: [ 'Walter Bronhard' ]
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places', 'PPS Ten Most Endangered' ]
-tags: [ 'Demolition by Neglect' ]
+tags: [ 'Apartments for Rent', 'Demolition by Neglect' ]
 
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
@@ -113,7 +113,7 @@ Mathematician and almanac-maker Benjamin West joined Joseph Brown to observe the
 
 __By Sarah Gleason__
 
-Welcome Arnold was a prominent Providence gentleman at the time of the American Revolution. In 1772, at age 27, he plotted [^1}] the capture of HMS Gaspee in Narragansett Bay. As many Rhode Islanders know, this was the first act of civil disobedience against the British crown, three years before the Boston Tea Party. The following year, Arnold married Patience Greene in the Warwick house of her uncle, the Governor of Rhode Island. [^2] Welcome, noted as one of five gentlemen in Providence who owned a carriage with horses, was a suitable choice for Patience. After the Revolution he became a leading Providence merchant, and in 1788 he and Nicholas Brown constructed a rum distillery in Fox Point. We can assume that he, like Nicholas, dabbled in the slave trade.
+Welcome Arnold was a prominent Providence gentleman at the time of the American Revolution. In 1772, at age 27, he plotted [^1] the capture of HMS Gaspee in Narragansett Bay. As many Rhode Islanders know, this was the first act of civil disobedience against the British crown, three years before the Boston Tea Party. The following year, Arnold married Patience Greene in the Warwick house of her uncle, the Governor of Rhode Island. [^2] Welcome, noted as one of five gentlemen in Providence who owned a carriage with horses, was a suitable choice for Patience. After the Revolution he became a leading Providence merchant, and in 1788 he and Nicholas Brown constructed a rum distillery in Fox Point. We can assume that he, like Nicholas, dabbled in the slave trade.
 
 [^1]: We can safely assume Arnold was involved, though direct evidence is lacking.
 

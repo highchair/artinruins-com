@@ -78,7 +78,7 @@ imagescredit:
   <figcaption>Proposal for a new five-story building in the site of these two houses. Rendering by Aharonian and Associates, Inc., dated October 2022.</figcaption>
 </figure>
 
-Walter Bronhard and Brook Holding, LLC were applicants proposing to demolish these two existing homes in the College Hill Historic District. They want to construct a new mixed-use five story building with a commercial ground floor and 25 dwelling units. They sought a dimensional adjustment to maintain a height of 58' and five stories where 50' and four stories are allowed by right in the zone. They also requested a design waiver for locating residential development within 20' of a main street, which was approved contingent on the use of noise regulatory devices and 24/7 security for the life of the project.
+[Walter Bronhard]({% link designer/walter-bronhard.html %}) and Brook Holding, LLC were applicants proposing to demolish these two existing homes in the College Hill Historic District. They want to construct a new mixed-use five story building with a commercial ground floor and 25 dwelling units. They sought a dimensional adjustment to maintain a height of 58' and five stories where 50' and four stories are allowed by right in the zone. They also requested a design waiver for locating residential development within 20' of a main street, which was approved contingent on the use of noise regulatory devices and 24/7 security for the life of the project.
 
 Few presentations in opposition were heard — the Providence Preservation Society was one of the few [objectors to the variances](https://ppsri.org/wp-content/uploads/2023/02/2023-02-116-Waterman-PPS.pdf) in a letter addressed to the City Planning Commission.
 

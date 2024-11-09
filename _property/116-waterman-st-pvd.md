@@ -13,7 +13,7 @@ date-added: '2024'
 categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [] # Aharonian & Associates, Inc, Architects
+designers: [ 'Aharonian & Associates, Inc, Architects', 'Walter Bronhard' ]
 people: []
 lists: []
 tags: [ 'Apartments for Rent', 'Contemporary', 'Darkitecture' ]
@@ -81,7 +81,7 @@ imagescredit: 'Rendering from Aharonian & Associates, Inc, Architects'
 
 New construction at this site replaced two houses that were lost in 2023 — [383 Brook Street and 116 Waterman]({% link _property/382-brook-116-waterman.md %}). While we at ArtInRuins are in favor of density, we seldom like to see historic homes lost in the process. And the [four-block section of College Hill has seen much erosion in the past 10 years]({% link _essays/erosion-of-college-hill-historic-district.md %}), which these houses were a part of.
 
-The proposals for this new apartment building came from developer and property owner Walter Bronhard and Brook Holding LLC. Mr. Bronhard also owns the nearby Rufus Waterman House at [108-100 Waterman Street]({% link _property/rufus-waterman-house-pvd.md %}) and is proposing a similar fate. This is a five-story mixed use building with ground-floor retail and 25 two-bedroom apartment units. The proposal sought and was granted a dimensional zoning adjustment for height and a design waiver for locating residential development within 20’ of a main street.
+The proposals for this new apartment building came from developer and property owner [Walter Bronhard]({% link designer/walter-bronhard.html %}) and Brook Holding LLC. Mr. Bronhard also owns the nearby Rufus Waterman House at [108-100 Waterman Street]({% link _property/rufus-waterman-house-pvd.md %}) and is proposing a similar fate. This is a five-story mixed use building with ground-floor retail and 25 two-bedroom apartment units. The proposal sought and was granted a dimensional zoning adjustment for height and a design waiver for locating residential development within 20’ of a main street.
 
 No parking was required as the lot measures less than 10,000 sf. Five bicycle spaces are required to meet the bicycle parking requirement of one space for every five units and will be located in the basement level along with a gym and communal space. The retail unit is a little over 1000 sf while each two bedroom unit measures between 800 and 1000 sf.
 
@@ -123,7 +123,7 @@ Central to the complaints about the development were a rooftop terrace, which op
 
 "This business about monitoring the noise is nothing but smoke and mirrors," Anthony said.
 
-She said complaints about owner Walter Bronhard's other properties have gone unaddressed. […]
+She said complaints about owner [Walter Bronhard]({% link designer/walter-bronhard.html %})’s other properties have gone unaddressed. […]
 
 In all, seven people spoke against the proposal and two people submitted letters against it.
 
