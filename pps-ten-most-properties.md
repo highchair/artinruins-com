@@ -22,7 +22,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + Neighborhoods Under Pressure from Student Housing Gentrification // Wanskuck, Elmhurst, Smith Hill, Washington Park, and [College Hill]({% link _essays/erosion-of-college-hill-historic-district.md %}).
 + Providence Public School Buildings, as represented by Asa Messer Elementary School and [Mount Pleasant High School]({% link _property/mt-pleasant-high-school.md %}) // Citywide, 1655 Westminster Street and 434 Mount Pleasant Avenue.
 + Grace Church Cemetery (1834, 1843, c. 1860) // 10 Elmwood Avenue.
-+ Sacred Places, as represented by the Sons of Jacob Synagogue, Broad Street Synagogue, and Cathedral of St. John // Citywide, 24 Douglas Avenue, 688 Broad Street, and 276 North Main Street.
++ Sacred Places, as represented by the Sons of Jacob Synagogue, [Broad Street Synagogue]({% link _property/temple-beth-el.md %}) (aka Temple Beth El), and Cathedral of St. John // Citywide, 24 Douglas Avenue, 688 Broad Street, and 276 North Main Street.
 + South Providence Waterfront and [Providence Gas Co. Purifier Building]({% link _property/providence-gas-purifier-house.md %}) // 200 Allens Avenue and South Providence Waterfront.
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Cranston Street Armory]({% link _property/providence-armory.md %}) (1907) // 340 Cranston Street, West End.
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Atlantic Mills Complex]({% link _property/atlantic-mills.md %}) (1863, 1882) // 100 Manton Avenue, Olneyville.
@@ -42,7 +42,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 
 ### 2022
 
-+ Broad Street Synagogue, aka Temple Beth El (1910) 
++ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Broad Street Synagogue]({% link _property/temple-beth-el.md %}), aka Temple Beth El (1910)
 + Cathedral of St. John (1810) North Main Street
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}), aka Superman Building (1928) 
 + Grace Church Cemetery (1834, 1843, c. 1860) 10 Elmwood Ave
@@ -55,7 +55,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 ### 2021
 
 + [Arthur B. and Laura Weeks House]({% link _property/155-chestnut-st.md %}) at 29 Elbow Street, Samuel Lewis House at 137 Chestnut Street, Pilgrim Manufacturing Co. Building at 155 Chestnut Street, Jewelry District (1886, c. 1825, 1941, respectively)
-+ Broad Street Synagogue (aka Temple Beth El), 688 Broad Street, Elmwood (1910)
++ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Broad Street Synagogue]({% link _property/temple-beth-el.md %}), aka Temple Beth El,  688 Broad Street, Elmwood (1910)
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Crook Point Bascule Bridge]({% link _property/crook-point-bascule.md %}), spanning Seekonk River, Fox Point (c. 1908)
 + Grace Church Cemetery, 10 Elmwood Avenue, South Providence (1834, 1843, c. 1860)
 + House, 234 Lenox Avenue, South Elmwood (c. 1880)
@@ -66,10 +66,10 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Ward Baking Co. Administration Building]({% link _property/ward-baking-co.md %}) (aka Victory Plating), 145 Globe Street, Jewelry District (1901-08) – LOST on 2/19/2021
 
 
-### [2020](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2020){:target="_blank"}
+### [2020](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2020)
 
 + Axelrod Music Neon Sign, 251 Weybosset Street, Downtown (c. 1950s)
-+ Broad Street Synagogue (aka Temple Beth El), 688 Broad Street, Elmwood (1910)
++ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Broad Street Synagogue]({% link _property/temple-beth-el.md %}), aka Temple Beth El, 688 Broad Street, Elmwood (1910)
 + Citizens Bank and adjacent parcels, 870 Westminster Street, West End (1921)
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Commercial Building]({% link _property/m-n-cartier.md %}) (M.N. Cartier & Sons), 1107 Westminster Street, West End (c. 1890s)
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Crook Point Bascule Bridge]({% link _property/crook-point-bascule.md %}), spanning Seekonk River (c. 1908)
@@ -80,10 +80,10 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + Water Supply Board Building, 552 Academy Avenue, Mount Pleasant (c. 1908)
 
 
-### [2019](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2019){:target="_blank"}
+### [2019](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2019)
 
 + Beresford-Nicholson Estate, 288 Blackstone Boulevard (1908, 1919)
-+ Broad Street Synagogue, 688 Broad Street (1910)
++ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Broad Street Synagogue]({% link _property/temple-beth-el.md %}), aka Temple Beth El, 688 Broad Street (1910)
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}), 111 Westminster Street (1928)
 + Olneyville Industrial/Commercial Buildings, Olneyville, various locations
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Rialto Theater]({% link _property/rialto-theatre.md %}), 119-121 Mathewson Street (1829, 1902, 1950s)
@@ -94,7 +94,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + William R. Babcock II House, 145 Lexington Avenue (c. 1893)
 
 
-### [2018](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2018){:target="_blank"}
+### [2018](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2018)
 
 + **5 Brown University Buildings in Path of Proposed Performing Arts Center**, College Hill:  
   Leonard M. Blodgett House, 127 Angell Street (1853)  
@@ -102,7 +102,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
   Lucien Sharpe Carriage House, 135 Angell Street (1885)  
   Norwood House (aka Benjamin Stevens House), 82 Waterman Street (1857)  
   86 Waterman Street (1857- 1875)
-+ Broad Street Synagogue (aka Temple Beth El), 688 Broad Street, Elmwood (1910)
++ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Broad Street Synagogue]({% link _property/temple-beth-el.md %}), aka Temple Beth El, 688 Broad Street (1910)
 + Earnscliffe Woolen Mill/Paragon Worsted Co. (Cathedral Art Metals), 25 & 39 Manton Avenue, Federal Hill (1898 and later)
 + Gustave F. Mensing House, 216 – 218 Adelaide Avenue, Elmwood (c. 1897)
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}) (aka Superman Building), 111 Westminster Street (1928)
@@ -115,12 +115,12 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + Water Supply Board Building, 552 Academy Avenue, Mount Pleasant (c. 1908)
 
 
-### [2017](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2017){:target="_blank"}
+### [2017](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2017)
 
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Atlantic Mills]({% link _property/atlantic-mills.md %}), 100 Manton Avenue, Olneyville (1863)
 + [Barstow Stove Company]({% link _property/barstow-stove-co.md %}) (known as Tops Electric Company), 120 Point Street, Jewelry District (c. 1849)
 + Bomes Theatre, 1017 Broad Street, Elmwood (1921)
-+ Broad Street Synagogue, 688 Broad Street (1910-1911)
++ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Broad Street Synagogue]({% link _property/temple-beth-el.md %}), aka Temple Beth El, 688 Broad Street (1910)
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Cranston Street Armory]({% link _property/providence-armory.md %}), 310 Cranston Street, West End (1907)
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Humboldt Fire Station]({% link _property/humboldt-fire-station.md %}), 155 Humboldt Avenue, Wayland (1906)
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}), 111 Westminster Street (1928)
@@ -130,7 +130,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + Welcome Arnold House, 21 Planet Street, College Hill (1785-1798)
 
 
-### [2016](//guide.ppsri.org/list/pps-ten-most-endangered-list-2016){:target="_blank"}
+### [2016](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2016)
 
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Atlantic Mills]({% link _property/atlantic-mills.md %}), 100 Manton Avenue, Olneyville (1863)
 + Bomes Theatre, 1017 Broad Street (1921)
@@ -146,7 +146,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
   Nathanael Greene Middle School, 721 Chalkstone Avenue (1929)
 + **Historic Religious Buildings**:  
   As exemplified by:  
-  Broad Street Synagogue, 688 Broad Street (1910)  
+  <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Broad Street Synagogue]({% link _property/temple-beth-el.md %}), aka Temple Beth El, 688 Broad Street (1910)  
   Congregation of the Sons of Jacob, 24 Douglas Avenue (1905-1912, 1920)  
   United Presbyterian Church, 619 Chalkstone Avenue (1895)
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}), 111 Westminster Street (1928)
@@ -156,10 +156,10 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + Sheffield Smith House, 334 Smith Street (1855)
 
 
-### [2015](//guide.ppsri.org/list/pps-ten-most-endangered-list-2015){:target="_blank"}
+### [2015](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2015)
 
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Atlantic Mills]({% link _property/atlantic-mills.md %}), 100 Manton Avenue, Olneyville (1863)
-+ Broad Street Synagogue (1910)
++ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Broad Street Synagogue]({% link _property/temple-beth-el.md %}), aka Temple Beth El, 688 Broad Street (1910)
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Cranston Street Armory]({% link _property/providence-armory.md %}) (1907)
 + Esek Hopkins House (1756)
 + Former RIDOT Headquarters and Garage (1927) — 30 Arline Street
@@ -170,7 +170,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + Westminster Unitarian Church (1901)
 
 
-### [2014](//guide.ppsri.org/list/pps-ten-most-endangered-list-2014){:target="_blank"}
+### [2014](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2014)
 
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [57 Federal Street]({% link _property/57-federal-st.md %})
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Atlantic Mills]({% link _property/atlantic-mills.md %}), 100 Manton Avenue, Olneyville (1863)
@@ -184,9 +184,9 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Ward Baking Company Administration Building]({% link _property/ward-baking-co.md %})
 
 
-### [2012](//guide.ppsri.org/list/pps-ten-most-endangered-list-2012){:target="_blank"}
+### [2012](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2012)
 
-+ Cathedral of St. John  
++ Cathedral of St. John
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Flower Shop and Green House]({% link _property/clarks-flower-shop.md %}) at 398 Hope Street
 + Foreclosed Multifamily Housing Stock
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [George C. Arnold Building]({% link _property/george-arnold.md %})
@@ -198,7 +198,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Ward Baking Company Administration Building]({% link _property/ward-baking-co.md %})
 
 
-### [2011](//guide.ppsri.org/list/pps-ten-most-endangered-list-2011){:target="_blank"}
+### [2011](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2011)
 
 + Admiral Esek Hopkins Homestead
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [The Arcade]({% link _property/arcade.md %})
@@ -212,7 +212,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + **Providence Public Schools**: Asa Messer School & Annex, Vartan Gregorian, West Broadway Elementary
 
 
-### [2010](//guide.ppsri.org/list/pps-ten-most-endangered-list-2010){:target="_blank"}
+### [2010](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2010)
 
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [The Arcade]({% link _property/arcade.md %})
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Atlantic Mills Towers]({% link _property/atlantic-mills.md %}), 100 Manton Avenue, Olneyville (1863)
@@ -223,11 +223,11 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Grove Street Elementary School]({% link _property/grove-st-school.md %})
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Kendrick-Prentice-Tirocchi House]({% link _property/kendrick-prentice-tirocchi-house.md %}), 514 Broadway (1867)
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Rhode Island Hospital Southwest Pavilion]({% link _property/ri-hospital-southwest-pavillion.md %})
-+ Temple Beth El (Shaare Zedek Synagogue)
++ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Broad Street Synagogue]({% link _property/temple-beth-el.md %}), aka Temple Beth El, 688 Broad Street (1910)
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Terminal Warehouse Co.]({% link _property/atlas-terminal-warehouses.md %})
 
 
-### [2009](//guide.ppsri.org/list/pps-ten-most-endangered-list-2009){:target="_blank"}
+### [2009](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2009)
 
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [The Arcade]({% link _property/arcade.md %}) Interior
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Atlantic Mills Towers]({% link _property/atlantic-mills.md %}), 100 Manton Avenue, Olneyville (1863)
@@ -241,7 +241,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + [What Cheer Mutual Fire Insurance Co.]({% link _property/what-cheer-mutual-insurance.md %}) (United Way) Building
 
 
-### [2008](//guide.ppsri.org/list/pps-ten-most-endangered-list-2008){:target="_blank"}
+### [2008](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2008)
 
 + Angell Street Streetscape between Thayer and Brown Streets: 127 & 129 Angell Street and Brown University Urban Environmental Laboratory
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Captain Joseph Tillinghast House]({% link _property/captain-tillinghast.md %})
@@ -255,7 +255,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + Former RIDOT Headquarters
 
 
-### [2007](//guide.ppsri.org/list/pps-ten-most-endangered-list-2007){:target="_blank"}
+### [2007](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2007)
 
 + Asa Messer Elementary School
 + Cathedral of St. John
@@ -270,7 +270,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Teste Block]({% link _property/teste-block.md %}), 88 Dorrance Street
 
 
-### [2003](//guide.ppsri.org/list/pps-ten-most-endangered-list-2003){:target="_blank"}
+### [2003](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2003)
 
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Christ Episcopal Church]({% link _property/christ-episcopal.md %})
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Cranston Street Armory]({% link _property/providence-armory.md %})
@@ -284,7 +284,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [What Cheer/Louttit Laundry]({% link _property/louttit-laundry.md %})
 
 
-### [2002](//guide.ppsri.org/list/pps-ten-most-endangered-list-2002){:target="_blank"}
+### [2002](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2002)
 
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Christ Episcopal Church]({% link _property/christ-episcopal.md %})
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Fox Point/Wickenden Street Bath House]({% link _property/fox-point-bathhouse.md %})
@@ -298,7 +298,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [What Cheer/Louttit Laundry]({% link _property/louttit-laundry.md %})
 
 
-### [2001](//guide.ppsri.org/list/pps-ten-most-endangered-list-2001){:target="_blank"}
+### [2001](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2001)
 
 + 19th Century Mill Buildings
 + 194 Broadway
@@ -312,7 +312,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + The Williard B. Scott House
 
 
-### [2000](//guide.ppsri.org/list/pps-ten-most-endangered-list-2000){:target="_blank"}
+### [2000](https://guide.ppsri.org/list/pps-ten-most-endangered-list-2000)
 
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Alexander F. Adie House]({% link _property/alexander-f-adie-house.md %})
 + Barnaby’s Castle
@@ -326,7 +326,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + Wheeler Martin House
 
 
-### [1999](//guide.ppsri.org/list/pps-ten-most-endangered-list-1999){:target="_blank"}
+### [1999](https://guide.ppsri.org/list/pps-ten-most-endangered-list-1999)
 
 + Barnaby’s Castle
 + Castle Theatre
@@ -340,7 +340,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + Wheeler Martin House
 
 
-### [1998](//guide.ppsri.org/list/pps-ten-most-endangered-list-1998){:target="_blank"}
+### [1998](https://guide.ppsri.org/list/pps-ten-most-endangered-list-1998)
 
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Cranston Street Armory]({% link _property/providence-armory.md %})
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [The Foundry]({% link _property/brown-sharpe-foundry.md %}) & Smith Hill National Register District
@@ -355,7 +355,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + William H. Dyer House
 
 
-### [1997](//guide.ppsri.org/list/pps-ten-most-endangered-list-1997){:target="_blank"}
+### [1997](https://guide.ppsri.org/list/pps-ten-most-endangered-list-1997)
 
 + Benjamin Dyer Block
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Cranston Street Armory]({% link _property/providence-armory.md %})
@@ -369,7 +369,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [What Cheer/Louttit Laundry]({% link _property/louttit-laundry.md %})
 
 
-### [1995](//guide.ppsri.org/list/pps-ten-most-endangered-list-1995){:target="_blank"}
+### [1995](https://guide.ppsri.org/list/pps-ten-most-endangered-list-1995)
 
 + America Street School
 + Benjamin Dyer Block
@@ -383,7 +383,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + William H. Dyer House
 
 
-### [1994](//guide.ppsri.org/list/pps-ten-most-endangered-list-1994){:target="_blank"}
+### [1994](https://guide.ppsri.org/list/pps-ten-most-endangered-list-1994)
 
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Gorham Mill Complex]({% link _property/gorham-manufacturing-co.md %})
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Masonic Temple]({% link _property/masonic-temple-pvd.md %})

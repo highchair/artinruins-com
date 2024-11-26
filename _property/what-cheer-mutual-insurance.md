@@ -60,7 +60,7 @@ imagescredit: 'Contribution from the <a href="https://provlibdigital.org/islando
 
 ### Redevelopment
 
-The inclusion of this building onto [PPS’s Ten Most Endangered list]({% link pps-ten-most-properties.md %}) back in 2009 was a shock. The building was constructed in 1948, and the whole point of including it in the list was to draw attention to the lack of mid-century construction that Providence has. You don’t know what you had until it’s gone, after all.
+The inclusion of this building onto PPS’s [Ten Most Endangered Properties List]({% link pps-ten-most-properties.md %}) in 2009 was a shock. The building was constructed in 1948, and the whole point of including it in the list was to draw attention to the lack of mid-century construction that Providence has. You don’t know what you had until it’s gone, after all.
 
 The original developers mentioned in the news story below must have dropped out. Their plan was to simply demolish the building and utilize the corner lot for a pharmacy with a drive through — think the typical suburban Walgreens. Even without demolishing a perfectly nice mid-century office building, a typical suburban drive-through on this corner would have been a disaster and a determent to the neighborhood. Despite Councilman Yurdin’s failure to get the building listed on the City’s Industrial Commercial Buildings District (<span class="abbr">ICBD</span>)m the developers must have dropped out due to the bad press alone.
 

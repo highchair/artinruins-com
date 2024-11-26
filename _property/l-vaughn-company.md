@@ -12,7 +12,7 @@ redeveloped: '2005-2006'
 units:
 decade: '1890-1899'
 date-added: '2006'
-categories: [ '#DemolitionAlert' ]
+categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: []

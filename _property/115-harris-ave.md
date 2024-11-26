@@ -82,7 +82,7 @@ imagescredit:
 
 This narrow but deep 3-story brick building was home to a few different incarnations of dance clubs over the past decade or more. Namely Club Monet and Van Gogh Lounge, two impressionist-artist-inspired themes. The changeover from Monet to Van Gogh happened in 2013. After a few violent incidents, including a fatal shooting, the city Board of Licenses revoked Monet Lounge’s liquor license. The nightclub changed its name to Van Gogh Lounge and format to play dance music instead of hip-hop music, as Monet did previously. Additional problems with violence occurred under the Van Gogh name up until 2016. The club finally closed sometime in 2017 (based on the latest Yelp reviews).
 
-Succumbing to graffiti and broken windows, the property has been listed on the [2021 and 2023 Ten Most Endangered Lists]({% link pps-ten-most-properties.md %}) because of its rapid decay.
+Succumbing to graffiti and broken windows, the property has been listed on the 2021 and 2023 [Ten Most Endangered Properties List]({% link pps-ten-most-properties.md %}) because of its rapid decay.
 
 
 ### Current Events
