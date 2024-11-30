@@ -10,7 +10,7 @@ body-class: home
 {%- assign items = properties | concat: thennows | sort: 'date-modified' | reverse -%}
 <section class="home__updates u__gutter__p">
   <h2 class="o__title--sm o__title__cta v-rhythm">Recently created Properties</h2>
-  <ul class="taxonomy__list u__list__unstyled u__vertical__pb" role="list">
+  <ul class="taxonomy__list property-card__cols u__list__unstyled u__vertical__pb" role="list">
 {%- for item in items limit: 40 -%}
   {%- if item.title and item.slug and item.date-modified -%}
     {% assign home = 'Yes' %}
