@@ -3,6 +3,9 @@ title: "Providence Steam Engine Boiler House"
 slug: hot-club
 aka: "Providence Engineering Boiler Room, The Hot Club"
 date-modified: 2024-10-14 12:00
+update:
+update-image:
+prop-number: 402
 
 built: 'between 1918 & 1920'
 demolition:

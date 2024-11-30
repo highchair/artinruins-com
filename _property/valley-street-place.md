@@ -5,6 +5,7 @@ aka: 'Zavota Brothers Transportation Company, Hallamore Transportation Co.'
 date-modified: 2024-10-24 12:00
 update:
 update-image:
+prop-number: 404
 
 built: 'Between 1956 and 1962'
 demolition: '2024'

@@ -5,6 +5,7 @@ aka: 'Congregation Shaare Zedek Sons of Abraham, Broad Street Synagogue'
 date-modified: 2024-11-24 12:00
 update:
 update-image:
+prop-number: 409
 
 built: '1910–1911'
 demolition:

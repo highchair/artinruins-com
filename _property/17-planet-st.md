@@ -5,6 +5,7 @@ aka:
 date-modified: 2024-11-09 12:00
 update:
 update-image:
+prop-number: 407
 
 built: '2023-2024'
 demolition:

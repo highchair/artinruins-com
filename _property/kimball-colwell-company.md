@@ -5,6 +5,7 @@ aka: 'Tri-State Auto Warehouse, Pronto Auto Parts'
 date-modified: 2024-11-11 12:00
 update:
 update-image:
+prop-number: 408
 
 built: 'circa 1893'
 demolition:

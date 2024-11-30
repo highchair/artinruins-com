@@ -5,6 +5,7 @@ aka:
 date-modified: 2024-09-17 12:00
 update:
 update-image:
+prop-number: 400
 
 built: '1871-1873'
 demolition: '1925'
