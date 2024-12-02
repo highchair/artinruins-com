@@ -39,12 +39,12 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 
 _From the “Broadway-Armory Historic District” National Register nomination form, 1974_
 
-caption: 'Photo by Robert Brewster, HABS/HAER, 1981'
-caption: 'Rhode Island Photograph Collection, Providence Public Library'
+Photo by Robert Brewster, HABS/HAER, 1981
+Rhode Island Photograph Collection, Providence Public Library
 Aerials from the Providence Historical Aerial Viewer
-caption: 'Providence Historical Aerial Viewer 1972'
-caption: 'Undated. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
-'Contribution from the <a href="https://provlibdigital.org/islandora/object/islandora%3A5102">John Hutchins Cady Research Scrapbooks Collection</a>'
+Providence Historical Aerial Viewer 1972
+Undated. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library
+Contribution from the <a href="https://provlibdigital.org/islandora/object/islandora%3A5102">John Hutchins Cady Research Scrapbooks Collection</a>
 
 Photoshop: PPS Architectural Slide Collection, 1983
 caption: '[Date] — PPS Architectural Slides Collection'

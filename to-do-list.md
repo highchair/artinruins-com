@@ -26,11 +26,9 @@ Our [Needs History]({% link tag/needs-history.html %}) tag highlights properties
 A fire gutted the building in August, 2023, and it was demolished as a total loss. We’d love to host some documentation, which would be the first property on the site for Block Island. [The Boston Globe did a nice write up that provides a good start](//www.bostonglobe.com/2023/08/28/metro/forgotten-history-block-islands-harborside-inn){:target="_blank"}.
 
 
-### Brown University‘s BioMed Building expansion in 2006
+### Brown University‘s BioMed Building expansion in 2002
 
 [The expansion of this building]({% link _property/brown-life-sciences.md %}) in 2003 razed some buildings around it that we missed because it was only a year after we started. One was a former post office, which would be interesting to uncover if possible.
-
-The other is more interesting as it was the original home of the Sarah Doyle Women’s Center, listed in the College Hill Historic District as the Mary H. Parsons House. Rumor has it that the house was gifted to the University with the express instruction that it not be demolished.
 
 
 ### David Brussat’s list of the 10 Best Lost buildings in Providence (from 2014)
