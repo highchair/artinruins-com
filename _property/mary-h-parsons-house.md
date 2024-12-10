@@ -73,13 +73,13 @@ The house was used as an alumni center in the late 60s and early 70s. Then, a _W
 
 [^3]: “Celebrating 40 Years: The Sarah Doyle Women’s Center.”
 
-Ms. Doyle helped raise $75,000 to build the first permanent building for women on the campus, named Pembroke Hall. It would later be renamed Pembroke College in 1928.[^4] Doyle was also a founding member of the corporation of the Rhode Island School of Design, serving as secretary from 1877 to 1899, while she was also Girls’ Principal at Providence High School from 1878 until her retirement in 1892. She was the first woman to receive an honorary degree from Brown University in 1894 and was inducted into the Rhode Island Heritage Hall of Fame in 2005.[^5]
+Ms. Doyle helped raise $75,000 to build the first permanent building for women on the campus, named Pembroke Hall, built 1897. It would later be renamed Pembroke College in 1928.[^4] Doyle was also a founding member of the corporation of the Rhode Island School of Design, serving as secretary from 1877 to 1899, while she was also Girls’ Principal at Providence High School from 1878 until her retirement in 1892. She was the first woman to receive an honorary degree from Brown University in 1894 and was inducted into the Rhode Island Heritage Hall of Fame in 2005.[^5]
 
 [^4]: “Pembroke College in Brown University.”
 
 [^5]: “Sarah Elizabeth Doyle.” Wikipedia. Accessed 30 November 2024 from https://en.wikipedia.org/wiki/Sarah_Elizabeth_Doyle
 
-The center’s importance grew into the 1980s and 90s. The Sarah Doyle Women’s Center (<span class="abbr">SDWC</span>)started a library of women’s studies and focused on the the mental and physical well-being of women. Activism groups organized large demonstrations, such as the first **Take Back the Night** march in Providence and the **Speakout**. In 1985, a coalition of women from <span class="abbr">SDWC</span>, the The Center for Students of Color (then the Third World Center) and other campus groups organized a protest. Hundreds marched from the Pembroke Green to Wriston Quad wearing white sashes and pink armbands to protest sexual harassment and assault on campus. They spoke about their experiences from noon to 5 p.m., attracting over a hundred spectators and participants.[^6]
+The center’s importance grew into the 1980s and 90s. The Sarah Doyle Women’s Center (<span class="abbr">SDWC</span>) started a library of women’s studies and focused on the the mental and physical well-being of women. Activism groups organized large demonstrations, such as the first **Take Back the Night** march in Providence and the **Speakout**. In 1985, a coalition of women from <span class="abbr">SDWC</span>, the The Center for Students of Color (then the Third World Center) and other campus groups organized a protest. Hundreds marched from the Pembroke Green to Wriston Quad wearing white sashes and pink armbands to protest sexual harassment and assault on campus. They spoke about their experiences from noon to 5 p.m., attracting over a hundred spectators and participants.[^6]
 
 [^6]: “Celebrating 40 Years: The Sarah Doyle Women’s Center.”
 

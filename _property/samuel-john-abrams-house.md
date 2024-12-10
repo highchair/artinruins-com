@@ -74,7 +74,7 @@ The [article is reprinted below](#in-the-news) for archival purposes and because
 
 Henrietta grew up just a few houses down with her widowed mother. In 1862, 11-year-old Henrietta signed a petition for equal school rights — a high level of civic engagement for someone that age. Her mother died when Henrietta was still a teenager, leaving her an income-producing rental property. She supplemented that income as a domestic servant in the household of Stephen A. Cooke, who was the assistant city solicitor of Providence.
 
-Samuel and Henrietta purchased the home in 1894, becoming one of the few Black homeowners in the area. The Abrams family included eight children, and one of whom, Mabel, who lived in the home until 1992. Read the full account on this page or visit the providence Preservation Society’s article, [The Last Trace of a Vanished Neighborhood](https://ppsri.org/the-last-trace/).
+Samuel and Henrietta purchased the home in 1894, becoming one of the few Black homeowners in the area. The Abrams family included eight children, and one of whom, Mabel, who lived in the home until 1992. Read the full account on this page or visit the Providence Preservation Society’s article, [The Last Trace of a Vanished Neighborhood](https://ppsri.org/the-last-trace/).
 
 
 ### Current Events
