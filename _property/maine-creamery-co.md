@@ -71,7 +71,7 @@ images:
     caption: 'Photo by Vision 3 Architects'
     sizes: '1200, 798'
 
-imagescredit: 'Contributions from <a href="//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39395/41288/561188" target="_blank">Proquest Digital Sanborn Maps</a>, Providence Public Library; <a href="//www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/" target="_blank">Historic Mapworks</a>; Kerri-Ann Pontifice; and Vision 3 Architects'
+imagescredit: 'Contributions from <a href="https://digitalsanbornmaps.proquest.com/browse_maps/40/8075/39395/41288/561188">Proquest Digital Sanborn Maps</a>, Providence Public Library; <a href="https://www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/">Historic Mapworks</a>; Kerri-Ann Pontifice; and Vision 3 Architects'
 
 mostrecentimage: 2015-01-01
 
@@ -91,7 +91,7 @@ After sitting fallow for about 10 years and even suffering some fire damage, the
 
 The site was redeveloped into a $6.5 million laboratory extension of the neighboring Rhode Island Blood Center. A new 23,000 square foot building was constructed behind the historic former office building and retained some of the same massing and facing as the original loading bays. There is a complex procedure where blood product is brought into the building, tested, processed, stored, and then distributed to local hospitals. The facility is a full-service regional blood center, providing testing, collections, marrow, and cord blood programs, as well as in-hospital patient programs.
 
-[View more photos from Vision 3 Architects](//www.vision3architects.com/projects/rhode-island-blood-center-laboratory-providence-ri/){:target="_blank"}.
+[View more photos from Vision 3 Architects](https://www.vision3architects.com/projects/rhode-island-blood-center-laboratory-providence-ri/).
 
 
 ### Current Events
