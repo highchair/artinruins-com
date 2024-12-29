@@ -4,7 +4,7 @@ slug: 155-chestnut-st
 aka:
 date-modified: 2022-09-02 17:00
 
-built:
+built: '2019, proposed'
 demolition:
 redeveloped:
 units:

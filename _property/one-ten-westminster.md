@@ -4,7 +4,7 @@ slug: one-ten-westminster
 aka: 
 date-modified: 2020-10-06 12:00
 
-built: 'Proposed 2005'
+built: '2005, proposed'
 demolition: 
 redeveloped: 
 decade:

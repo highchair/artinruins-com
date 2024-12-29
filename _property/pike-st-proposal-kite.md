@@ -4,7 +4,7 @@ slug: pike-st-proposal-kite
 aka:
 date-modified: 2022-11-14 12:00
 
-built:
+built: '2014, proposed'
 demolition:
 redeveloped:
 units:
