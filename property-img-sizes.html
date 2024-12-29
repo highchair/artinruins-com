@@ -3,9 +3,11 @@ layout: page
 permalink: image-sizes/
 title: "Image Sizes"
 meta-title: "Calculate Image Sizes | ArtInRuins"
+sitemap:
+  exclude: 'yes'
 ---
 
-{%- assign propslug = 'samuel-john-abrams-house' -%}
+{%- assign propslug = 'slater-dye-works' -%}
 {%- assign property = site.property | where: 'slug', propslug -%}
 {% comment %}
 {{ property | jsonify }}

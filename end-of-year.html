@@ -1,0 +1,80 @@
+---
+layout: page
+type: page
+permalink: end-of-year/
+title: "End of Year Statistics"
+meta-title: "End of Year Statistics | ArtInRuins"
+sitemap:
+  exclude: 'yes'
+---
+
+{%- assign thisyear = '2024'-%}
+{%- assign props = site.property | where: "date-added", thisyear -%}
+{%- assign thennows = site.then-now | where: "date-added", thisyear -%}
+{%- assign essays = site.essays | where: "date-added", thisyear -%}
+{%- assign items = props | concat: thennows | concat: essays | sort_natural: 'title' -%}
+
+{%- assign  archive = props | where_exp: "prop", "prop.categories contains '#ArchiveRI'" -%}
+{%- assign  demolitionalert = props | where_exp: "prop", "prop.categories contains '#DemolitionAlert'" -%}
+{%- assign  notinruins = props | where_exp: "prop", "prop.categories contains '#NotInRuins'" -%}
+{%- assign  urbandecay = props | where_exp: "prop", "prop.categories contains '#UrbanDecay'" -%}
+{%- assign  usedtobethere = props | where_exp: "prop", "prop.categories contains '#UsedToBeThere'" -%}
+{%- assign  whataretheybuilding = props | where_exp: "prop", "prop.categories contains '#WhatAreTheyBuilding'" -%}
+
+<p>Total items added in {{ thisyear }}: {{ items | size }}</p>
+
+<h2>Essays</h2>
+<p>Total Essays added: <b>{{ essays | size }}</b></p>
+
+<h2>Then Nows</h2>
+<p>Total Then Nows added: <b>{{ thennows | size }}</b></p>
+
+<h2>Architecture</h2>
+<p>Total properties added: <b>{{ props | size }}</b></p>
+<ul>
+  <li>#ArchiveRI: <b>{{ archive | size }}</b></li>
+  <ol>
+  {% for item in archive %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ol>
+  <li>#DemolitionAlert: <b>{{ demolitionalert | size }}</b></li>
+  <ol>
+  {% for item in demolitionalert %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ol>
+  <li>#NotInRuins: <b>{{ notinruins | size }}</b></li>
+  <ol>
+  {% for item in notinruins %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ol>
+  <li>#UrbanDecay: <b>{{ urbandecay | size }}</b></li>
+  <ol>
+  {% for item in urbandecay %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ol>
+  <li>#UsedToBeThere: <b>{{ usedtobethere | size }}</b></li>
+  <ol>
+  {% for item in usedtobethere %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ol>
+  <li>#WhatAreTheyBuilding: <b>{{ whataretheybuilding | size }}</b></li>
+  <ol>
+  {% for item in whataretheybuilding %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ol>
+</ul>
+
+<h3>Check for double categories:</h3>
+<ul>
+{% for item in props %}
+  {% if item.categories.size > 1 %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a>: {{ item.categories }}</li>
+  {% endif %}
+{% endfor %}
+</ul>
