@@ -3,14 +3,14 @@ layout: then-now-item
 title: "Property, Then & Now"
 slug: 
 property_slug:
-date-modified: 2023-03-03 12:00
+date-modified: 2025-01-01 12:00
 
 excerpt: ""
 
 then_photo: ''
 now_photo: ''
 decade: ''
-date-added: '2023'
+date-added: '2025'
 categories: [ '#ThenAndNow' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]

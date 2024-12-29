@@ -31,7 +31,7 @@ images:
     - url: hotel-dreyfus-scott-lapham-2006.jpg
       year: '2006'
 
-imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%3A11562" target="_blank">Rhode Island Photograph Collection</a>, Providence Public Library and Scott Lapham for AS220 and TRAC Builders'
+imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%3A11562">Rhode Island Photograph Collection</a>, Providence Public Library and Scott Lapham for AS220 and TRAC Builders'
 
 ---
 

@@ -31,7 +31,7 @@ images:
     - url: allen-printworks-jh-2023.jpg
       year: '2023'
 
-imagescredit: 'Contribution by Joseph E. McCarthy courtesy the Providence Public Library, <a href="//provlibdigital.org/islandora/object/islandora%253A290" target="_blank">Rhode Island Mills and Mill Villages Photograph Collection</a>'
+imagescredit: 'Contribution by Joseph E. McCarthy courtesy the Providence Public Library, <a href="//provlibdigital.org/islandora/object/islandora%253A290">Rhode Island Mills and Mill Villages Photograph Collection</a>'
 
 ---
 

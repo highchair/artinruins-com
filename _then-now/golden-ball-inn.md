@@ -33,7 +33,7 @@ images:
     - url: golden-ball-1941-artinruins-view-northeast.jpg
       year: '2024'
 
-imagescredit: 'Contribution from <a href="//www.loc.gov/pictures/collection/hh/item/ri0194/">George J. Vaillancourt for the The Library of Congress</a>'
+imagescredit: 'Contribution from <a href="https://www.loc.gov/pictures/collection/hh/item/ri0194/">George J. Vaillancourt for the The Library of Congress</a>'
 
 ---
 
