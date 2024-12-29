@@ -92,6 +92,9 @@ imagescredit: 'Contributions from the <a href="https://www.flickr.com/photos/paw
 #    url: https://perma.cc/MQ4Z-Z9K4
 ---
 
+There is a Then and Now photo pair for this property! [View the Then & Now photos]({% link _then-now/slater-dye-works.md %})
+{:.o__tldr}
+
 ### Redevelopment
 
 The large complex at the ninety-degree corner where School Street meets Beverage Hill Avenue in Pawtucket continues to be used for industrial purposes as far as we can tell, though it is no longer occupied by the Slater Group. This section of Pawtucket is referred to as “Bishop’s Bend” in many of the news stories we found.
@@ -107,6 +110,8 @@ Google business says the Interpak organization occupied it last but it is listed
 Public map sources show an early version of the complex in 1917, with a [1923 cadastral map](https://www.flickr.com/photos/pawtucketlibrary/43299069031/in/album-72157697203355201/) showing more detail. The building complex is shown in 1939 aerial photos largely the same as it appears today. One-story buildings on the north side of the complex were added between 1962 and 1972. The handsome two-story sawtooth shed was built between 1917 and 1923 and is an efficient way to flood the working area with natural light.
 
 Early maps are labeled **Solway Dyeing and Textile Company**, Dye Works and Bleachery. No officially written history of the complex can yet be found. We created the following history from Providence Journal articles back to 1982.
+
+In a 1962 Sanborn Map — [Volume 3, Plates 389 amd 392](https://www.flickr.com/photos/pawtucketlibrary/36569017290/in/album-72157685517206101) — the north portion of the complex is labeled with company names “Rhode Island Fabrics Co. Weaving” and “Lebanon Knitting Mill Inc, owner.” The southern portion was labeled “Textile Investment Company, owner.”
 
 Over a four-year period starting in April 1979, 220 neighborhood complaints of a kerosene-like “oily” odor were submitted to state inspectors at the Department of Environmental Management (<span class="abbr">DEM</span>).[^1] While representatives of the companies allege the neighborhood odors could have come from miles away, residents say the smells sometimes forced them to stay indoors and keep windows closed and complained of sore throats, headaches and nausea.[^2]
 
