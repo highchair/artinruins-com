@@ -100,7 +100,7 @@ As early as the late 1950’s, not even 20 years after the base was constructed,
 
 Despite this uncertainty, the base grew in the 1960s. By the late 60s the Overhaul and Repair Department, now the Naval Aircraft Rework Facility (<span class="abbr">NARF</span>) was the busiest part of the base. They had eight departments and twenty-eight divisions controlling all air rework operations on such aircraft as the S-3A “Viking” ASW aircraft, the TF-34 engines, General Electric’s T-58 and J-79 jets, plus Curtiss-Wright’s J-65 and Allison’s J-71 jet engines. By 1973 the <span class="abbr">NARF</span> had become a vast industrial complex of 38 buildings on 62.15 acres, providing 1»105,820 square feet of floor space.
 
-Although the war in Vietnam brought renewed activity to Quonset Point, by about 1970 it was clear to many in the Navy, if not in Rhode Island, that the base’s days were numbered. The end of the war, changes in ASW technology, budgetary considerations, and a new “political/military” strategy all worked together to hasten Quonset Point’s demise. On top of that, the weapon’s system that the base based its repair and maintenance programs upon were being phased out. The Rhode Island Congressional delegation found itself powerless to prevent cutbacks, and Rhode Island’s small size and lack of impact on the national political scene did not help its case. 
+Although the war in Vietnam brought renewed activity to Quonset Point, by about 1970 it was clear to many in the Navy, if not in Rhode Island, that the base’s days were numbered. The end of the war, changes in ASW technology, budgetary considerations, and a new “political/military” strategy all worked together to hasten Quonset Point’s demise. On top of that, the weapon’s system that the base based its repair and maintenance programs upon were being phased out. The Rhode Island Congressional delegation found itself powerless to prevent cutbacks, and Rhode Island’s small size and lack of impact on the national political scene did not help its case.
 
 On Monday, April 16, 1973 the Department of Defense told the members of the Rhode Island delegation that facilities at Newport would be reduced sharply and that Quonset Point would be closed completely. The news was made public a day later. The closing came as a great shock to Quonset Point’s civilian employees. Most of them had felt that the base’s strategic location would save it but the Navy said the The Bay was too shallow for the new larger aircraft carriers. The Navy left the base on June 28, 1974 after an operational career that lasted thirty-two years, eleven months and seven days. [^1]
 
@@ -111,7 +111,7 @@ Since the closing, the State of Rhode Island pursued developing the base as an i
 
 ### Current Events
 
-Quonset Point is now best known as the [Quonset Business Park](https://www.quonset.com){:target="_blank"} run by the Quonset Development Corporation. It is home to almost 200 companies, employing more than 11,000 people across a variety of industries. The Port of Davisville at Quonset is one of the top ten auto importers in North America.
+Quonset Point is now best known as the [Quonset Business Park](https://www.quonset.com) run by the Quonset Development Corporation. It is home to almost 200 companies, employing more than 11,000 people across a variety of industries. The Port of Davisville at Quonset is one of the top ten auto importers in North America.
 
 The Rhode Island Air Show is held annually by the Rhode Island National Guard and is perhaps the most well-known event to take place on Quonset Point. The event began in 1991 as a relatively minor aviation exhibition but grew in attendance each year, with the USAF Thunderbirds performing every even year and the USN Blue Angels performing every odd year.[^2]
 
@@ -124,14 +124,14 @@ Our own written history would pale in comparison to these fantastic projects:
 
 #### HABS/HAER
 
-The HABS/HAER [114 page report written by Charles F. O’Connell, Jr.](//www.loc.gov/pictures/collection/hh/item/ri0347/){:target="_blank"} in 1979, housed at the Library of Congress
+The HABS/HAER [114 page report written by Charles F. O’Connell, Jr.](https://www.loc.gov/pictures/collection/hh/item/ri0347/) in 1979, housed at the Library of Congress
 
 <figure class="u__img u__img--right" aria-hidden="true">
-  <a href="http://artinruins.com/community/quonsetpoint/">
-    <img src="http://artinruins.com/community/quonsetpoint/quonset/33q100399c18a.jpg" alt="" />
+  <a href="https://artinruins.com/community/quonsetpoint/">
+    <img src="https://artinruins.com/community/quonsetpoint/quonset/33q100399c18a.jpg" alt="" />
   </a>
 </figure>
 
 #### BASE: Advancing a Post-Military Landscape
 
-BASE: _Advancing a Post-Military Landscape_ was a 1998–2001 research project undertaken by Erik Carlson and Erica Carpenter with the support of a Humanities Resource Grant from the Rhode Island Committee for the Humanities (<span class="abbr">RICH</span>), a state affiliate of the National Endowment for the Humanities. ArtInRuins proudly hosts [an archive version of their 2000 report](http://artinruins.com/community/quonsetpoint). Over 250 images, an extensive history, maps, historic images, and current conditions from 1999-2000 are included. Photo print archives are available on file at the Rhode Island Historical Society and the Rhode Island Historical Preservation and Heritage Commission.
+BASE: _Advancing a Post-Military Landscape_ was a 1998–2001 research project undertaken by Erik Carlson and Erica Carpenter with the support of a Humanities Resource Grant from the Rhode Island Committee for the Humanities (<span class="abbr">RICH</span>), a state affiliate of the National Endowment for the Humanities. ArtInRuins proudly hosts [an archive version of their 2000 report](https://artinruins.com/community/quonsetpoint). Over 250 images, an extensive history, maps, historic images, and current conditions from 1999-2000 are included. Photo print archives are available on file at the Rhode Island Historical Society and the Rhode Island Historical Preservation and Heritage Commission.
