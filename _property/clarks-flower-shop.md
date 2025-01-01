@@ -58,23 +58,23 @@ imagescredit:
 
 ### Reason for Demolition
 
-One thing was clear — the flower shop was closing and something would replace this site. Because the property was zoned R3, the only uses they could pursue without permission were residential or continued use as a flower shop. A non-flower-shop proposal came to the fore — a drive through coffee place, Brewed Awakenings. The neighborhood got involved and fought for what they thought was right — or more precisely, opposed a development they saw as the opposite of what they wanted in the neighborhood. In the end, they got a more sensitive redevelopment of the property, but it took some time. 
+One thing was clear — the flower shop was closing and something would replace this site. Because the property was zoned R3, the only uses they could pursue without permission were residential or continued use as a flower shop. A non-flower-shop proposal came to the fore — a drive through coffee place, Brewed Awakenings. The neighborhood got involved and fought for what they thought was right — or more precisely, opposed a development they saw as the opposite of what they wanted in the neighborhood. In the end, they got a more sensitive redevelopment of the property, but it took some time.
 
 
 ### Current Events
 
-400 Hope Street is the home to two retail spaces and three condos. [City Kitty](//city-kitty.com){:target="_blank"} is the main tenant, who moved from a long-occupied space in the Jewelry District and whose owner was a partner in the development project. A day care facility also occupies a spot here. There are three large condominiums — 2 and 3 beds, 2 baths. 
+400 Hope Street is the home to two retail spaces and three condos. [City Kitty](https://city-kitty.com) is the main tenant, who moved from a long-occupied space in the Jewelry District and whose owner was a partner in the development project. A day care facility also occupies a spot here. There are three large condominiums — 2 and 3 beds, 2 baths.
 
 
 ### In the News
 
-+ [GreaterPVD.org’s latest post about the project](//www.gcpvd.org/2013/09/30/new-building-at-site-of-clarke-flowers-to-house-city-kitty/){:target="_blank"}, with previous posts at the bottom
-+ An archived version of the [PreservehopeStreet.org](//web.archive.org/web/20110625053041/http://www.preservehopestreet.org/){:target="_blank"}. Not too much is there.
++ [GreaterPVD.org’s latest post about the project](https://www.gcpvd.org/2013/09/30/new-building-at-site-of-clarke-flowers-to-house-city-kitty/), with previous posts at the bottom
++ An archived version of the [PreservehopeStreet.org](https://web.archive.org/web/20110625053041/http://www.preservehopestreet.org/). Not too much is there.
 
 #### Democracy and the flower shop
 
 _by David Brussat_  
-**[Providence Journal](//web.archive.org/web/20110501030206/projo.com/opinion/columnists/content/CL_brussat30_09-30-10_TMK3UU1_v14.2761788.html){:target="_blank"}** | September 30, 2010 (abridged, captured November 2010)
+**[Providence Journal](https://web.archive.org/web/20110501030206/projo.com/opinion/columnists/content/CL_brussat30_09-30-10_TMK3UU1_v14.2761788.html)** | September 30, 2010 (abridged, captured November 2010)
 
 The flower shop and greenhouse at 398 Hope St., Providence, owe a bouquet to democracy, which has stood in their defense. That doesn’t necessarily mean, however, that the old shop erected in the 1890s, and operating as Clarke Flowers since about 1982, will continue to house a florist.
 

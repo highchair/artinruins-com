@@ -71,9 +71,9 @@ mostrecentimage: 2020-09-01
 
 This was one of the smaller, local redevelopment projects during the hot boom time of the mid-2000s. The building had been sitting for 10 years but real estate in the Jewelry District was starting to become valuable again — just not as industrial space. This was when the District was just beginning its transformation into the “Knowledge District.”
 
-Now called the Ship Street lofts at 3 Ship Street, these units are condos ranging from 1200 to almost 3000 square feet. Amenities include elevator, gated keyed parking lot, air conditioning, large thermopane windows, maple hardwood floors, and custom maple solid wood cabinetry. 
+Now called the Ship Street lofts at 3 Ship Street, these units are condos ranging from 1200 to almost 3000 square feet. Amenities include elevator, gated keyed parking lot, air conditioning, large thermopane windows, maple hardwood floors, and custom maple solid wood cabinetry.
 
-They used to say “Steps away from Downcity” in their marketing material and we scoffed, but now with Interstate I-195 gone and the Knowledge District truly taking shape, Downcity has come to Ship Street. 
+They used to say “Steps away from Downcity” in their marketing material and we scoffed, but now with Interstate I-195 gone and the Knowledge District truly taking shape, Downcity has come to Ship Street.
 
 
 ### History

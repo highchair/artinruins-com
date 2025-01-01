@@ -4,7 +4,7 @@ slug: autocar-studebaker-trucks
 aka: 'National Office Furniture'
 date-modified: 2023-05-16 12:00
 
-built: 'ca. 1930'
+built: 'circa 1930'
 demolition:
 redeveloped:
 units:

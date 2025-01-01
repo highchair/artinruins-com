@@ -94,14 +94,14 @@ Real estate listings describe the project as such, in their typical hyped-up man
 
 #### Design Reception
 
-In this, both William Morgan and ArtInRuins agree that ZDS designs are formulaic, plopped into their surroundings without a sense of respect or admiration for the architecture around it. This rectangular faux-mansard roof building is no different, looking very much like it could be located anywhere, including next to an airport in a suburban strip. Mr. Morgan goes into a deep dive, picking apart multiple ZDS-designed projects in a piece titled [Assault on Wayland Square](//www.golocalprov.com/business/assault-on-wayland-square-architecture-critic-will-morgan), for which this building contributes.
+In this, both William Morgan and ArtInRuins agree that ZDS designs are formulaic, plopped into their surroundings without a sense of respect or admiration for the architecture around it. This rectangular faux-mansard roof building is no different, looking very much like it could be located anywhere, including next to an airport in a suburban strip. Mr. Morgan goes into a deep dive, picking apart multiple ZDS-designed projects in a piece titled [Assault on Wayland Square](https://www.golocalprov.com/business/assault-on-wayland-square-architecture-critic-will-morgan), for which this building contributes.
 
 The interiors are respectably thought-out and have demanded high selling prices. We only wish the neighborhood got a great piece of modern architecture in the process.
 
 
 ### Current Events
 
-The new condominiums have all sold, the largest of which for almost $1M ([see the condo listing at Berkshire Hathaway](//www.bhhsneproperties.com/condominium/ris/1278092/81-south-angell-street-5-providence-ri-02906)).
+The new condominiums have all sold, the largest of which for almost $1M ([see the condo listing at Berkshire Hathaway](https://www.bhhsneproperties.com/condominium/ris/1278092/81-south-angell-street-5-providence-ri-02906)).
 
 
 ### History
@@ -110,6 +110,6 @@ The original house at 81 South Angell on the corner of Butler Avenue is not list
 
 #### Maps
 
-+ [1882 G.M. Hopkins map, Plate 4](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_fd7e1526-541f-421e-b01a-222692f9f7ce/) — Difficult to tell for sure, but on the corner of Butler and S. Angell is a house with a similar T shape on a lot that spans Douglass to S. Angell. The postal numbers seem to be 39 and 40 though they may indicate dimensions of the lots. The area is sparsely populated but divided into lots that align with much of what remains.
-+ [1895 Atlas of the City of Providence, Plate 6](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_0b78f147-106d-4074-bb98-599d93c6bad3/) — More recognizable, the house sits on the same corner and is numbered 81. A plot line divides the lot into two. The porch which can be seen by 1908 is not present or detailed in this rendering.
-+ [1908 L.J. Richards insurance map, Plate 9](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_32610679-7e58-410d-b88c-f46b5126eb80/) — Included on the corner of South Angell and Butler with a recognizable shape, labeled as K.B. Walsh on a 8520 square-foot lot. Yellow indicating wood frame construction with a three-sided porch around the east, north, and western sides.
++ [1882 G.M. Hopkins map, Plate 4](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_fd7e1526-541f-421e-b01a-222692f9f7ce/) — Difficult to tell for sure, but on the corner of Butler and S. Angell is a house with a similar T shape on a lot that spans Douglass to S. Angell. The postal numbers seem to be 39 and 40 though they may indicate dimensions of the lots. The area is sparsely populated but divided into lots that align with much of what remains.
++ [1895 Atlas of the City of Providence, Plate 6](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_0b78f147-106d-4074-bb98-599d93c6bad3/) — More recognizable, the house sits on the same corner and is numbered 81. A plot line divides the lot into two. The porch which can be seen by 1908 is not present or detailed in this rendering.
++ [1908 L.J. Richards insurance map, Plate 9](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_32610679-7e58-410d-b88c-f46b5126eb80/) — Included on the corner of South Angell and Butler with a recognizable shape, labeled as K.B. Walsh on a 8520 square-foot lot. Yellow indicating wood frame construction with a three-sided porch around the east, north, and western sides.

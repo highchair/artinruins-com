@@ -62,7 +62,7 @@ images:
 
 mostrecentimage: 2022-06-01
 
-imagescredit: 'Contribution from <a href="//www.uncomsensemedia.com" target="_blank">Jason Allard, Uncommon Sense Media</a>'
+imagescredit: 'Contribution from <a href="https://www.uncomsensemedia.com">Jason Allard, Uncommon Sense Media</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -87,14 +87,14 @@ The house is now apartments again and the ground floor retail is occupied by Fea
 
 ### History
 
-Not much found yet. This side of town has not been documented in very early Sanborn Insurance Maps. The earliest map we could find so far with this house on the corner of Hope (early maps label it as East Street/Ave) and Braman was from [1920-1921, Volume 2, Sheet 85](//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39395/41287/561123?accountid=7136){:target="_blank"}.
+Not much found yet. This side of town has not been documented in very early Sanborn Insurance Maps. The earliest map we could find so far with this house on the corner of Hope (early maps label it as East Street/Ave) and Braman was from [1920-1921, Volume 2, Sheet 85](https://digitalsanbornmaps.proquest.com/browse_maps/40/8075/39395/41287/561123?accountid=7136).
 
 Zillow and Realtor.com did not list this property for sale, and tax history shows the most recent sale as 2013.
 
 
 ### In the News
 
-An additional remembrance from the [Jewish Rhody online by M. Charles Bakst](//www.jewishrhody.com/stories/davis-deli-gone-but-the-memories-live-on,13041){:target="_blank"}
+An additional remembrance from the [Jewish Rhody online by M. Charles Bakst](https://www.jewishrhody.com/stories/davis-deli-gone-but-the-memories-live-on,13041)
 
 ***
 
@@ -152,7 +152,5 @@ It was a late-night fire back on May 19 that badly damaged the building at 721 H
 “The fire started in the apartment on the third floor, but we do not know the actual cause,” Glazer said.
 
 What is understood is that it may have closed a business, but it won’t extinguish the memories that remain from decades and decades of fine food and conversation.
-
-— 
 
 _Captured April 9, 2021 from https://www.providencejournal.com/story/entertainment/dining/2021/02/16/providence-kosher-market-davis-dairy-closes-after-114-years/6752062002/_

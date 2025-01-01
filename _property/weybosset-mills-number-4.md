@@ -4,7 +4,7 @@ slug: weybosset-mills-number-4
 aka: 'American Woolen Mills, Waterman Weybosset Mills Mill Number 4'
 date-modified: 2023-07-01 12:00
 
-built: 'ca 1885, ca 1900, ca 1937'
+built: 'circa 1885, c. 1900, c. 1937'
 demolition:
 redeveloped:
 units:

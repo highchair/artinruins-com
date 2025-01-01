@@ -5,7 +5,7 @@ aka: 'Handy & Harman Co., Improved Laminated Metals'
 date-modified: 2023-01-03 15:30
 update: 'Edited information for the history and added Sanborn Maps and aerials'
 
-built: 'ca. 1908'
+built: 'circa 1908'
 demolition: '2005'
 decade: '1900-1909'
 date-added: '2003'
@@ -103,8 +103,8 @@ _From Sanborn Insurance Maps_
 
 The mystery of this building’s construction date has been narrowed down to between 1900 and 1920:
 
-* [1899 Sanborn Insurance Map, Volume 3, Plate 241](https://repository.library.brown.edu/studio/item/bdr:212087/){:target="_blank"} — Lower left corner of map, Public Street runs along the left side, no sign of this building on Eddy Street or its neighbor along Public Street. Brown Digital Repository, Brown University Library.
-* [1920-1921 Sanborn Insurance Map, Volume 5, Plate 15](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192105){:target="_blank"} (page 16) — Center top, Public Street running along the top, 775 Eddy Street is clearly visible and labelled “The Improved Seamless Wire Co.” To its south is a garage structure and to its north is a Jewelry Shop (1st floor) with Metals Works and Printing on the 2nd floor. This building later becomes Herff/Jones.
+* [1899 Sanborn Insurance Map, Volume 3, Plate 241](https://repository.library.brown.edu/studio/item/bdr:212087/) — Lower left corner of map, Public Street runs along the left side, no sign of this building on Eddy Street or its neighbor along Public Street. Brown Digital Repository, Brown University Library.
+* [1920-1921 Sanborn Insurance Map, Volume 5, Plate 15](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192105) (page 16) — Center top, Public Street running along the top, 775 Eddy Street is clearly visible and labelled “The Improved Seamless Wire Co.” To its south is a garage structure and to its north is a Jewelry Shop (1st floor) with Metals Works and Printing on the 2nd floor. This building later becomes Herff/Jones.
 
 By aerial photos it seems as though the garage to the south was attached to this building at one point, sharing a common wall that was built up along the alley shown in the old map. That garage disappears between the 1988 and 1997 photos. The wooden structure (houses) on the corner of Public and Eddy streets seem to be there as late as the 1951 aerial photo.
 

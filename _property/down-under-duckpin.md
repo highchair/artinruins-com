@@ -72,22 +72,22 @@ imagescredit: 'Contribution from Emdurs (Flickr)'
 
 ### Reason for Demolition
 
-Wish we knew more about what happened to this charming bowling alley that seems to have been lost in time and never updated. It opened sometime in the 50s and was busy with leagues and plenty of families. Bowling went out of the style in the 80s but then had a retro-resurgence in the nineties. Maybe it just wasn’t enough. 
+Wish we knew more about what happened to this charming bowling alley that seems to have been lost in time and never updated. It opened sometime in the 50s and was busy with leagues and plenty of families. Bowling went out of the style in the 80s but then had a retro-resurgence in the nineties. Maybe it just wasn’t enough.
 
-The one drawback to having the bulk of the building under the parking lot is that it was easy to miss the small pop-up building that served as the entrance. The small building and therefore small signage might have been part of the problem. 
+The one drawback to having the bulk of the building under the parking lot is that it was easy to miss the small pop-up building that served as the entrance. The small building and therefore small signage might have been part of the problem.
 
-We attended an illegal party here in 2008 — the images from that time are blurry and full of dust particles from the flash because there were no lights, no electricity. Hence the marching band. We think we remember that Lightning Bolt played somehow, probably off a generator. It was a good time and unfortunately the only time we had ever been in the space. 
+We attended an illegal party here in 2008 — the images from that time are blurry and full of dust particles from the flash because there were no lights, no electricity. Hence the marching band. We think we remember that Lightning Bolt played somehow, probably off a generator. It was a good time and unfortunately the only time we had ever been in the space.
 
-Sometime in mid-2010 the alley suffered a fire. How, when there was no electricity? Probably the usual reasons — being left open with broken locks attracted an element that took advantage of the space in the wrong ways. Soon after this, the City of Pawtucket probably started to work very hard to find a new owner for the lot. 
+Sometime in mid-2010 the alley suffered a fire. How, when there was no electricity? Probably the usual reasons — being left open with broken locks attracted an element that took advantage of the space in the wrong ways. Soon after this, the City of Pawtucket probably started to work very hard to find a new owner for the lot.
 
 
 ### Current Events
 
-This lot is now part of the 300-space parking area for LA Fitness just over the line in Pawtucket along with the [Anderson Little]({% link _property/anderson-little-north-main.md %}) and [Sears Department store]({% link _property/sears-north-main.md %}). It was built in 2014. The building is in Pawtucket, right on the line, while the parking area is in Providence. As far as we could tell under construction, the bowling alley was completely filled in and a new retaining wall was built. 
+This lot is now part of the 300-space parking area for LA Fitness just over the line in Pawtucket along with the [Anderson Little]({% link _property/anderson-little-north-main.md %}) and [Sears Department store]({% link _property/sears-north-main.md %}). It was built in 2014. The building is in Pawtucket, right on the line, while the parking area is in Providence. As far as we could tell under construction, the bowling alley was completely filled in and a new retaining wall was built.
 
 
 ### History
 
-No formal history. The parking deck and outcrop entrance building show up in an Aerial photograph from 1962. In a previous 1951-52 photo it is not there. St. Mary street arrives at about the same time, and the current Ocean State Job Lot (formerly Shaws) plaza was a Loews Drive-In theatre that was being reconfigured to face south instead of southeast. 
+No formal history. The parking deck and outcrop entrance building show up in an Aerial photograph from 1962. In a previous 1951-52 photo it is not there. St. Mary street arrives at about the same time, and the current Ocean State Job Lot (formerly Shaws) plaza was a Loews Drive-In theatre that was being reconfigured to face south instead of southeast.
 
 Down Under, or Sullivan’s, featured 24 lanes of duck pin bliss. A small deli/coffee counter was in the back called Chip’s cafeteria. Some food looked like is was available. Parking was ample, of course, as you parked on the roof, and then walked “down under” to the alleys. It was open on again off again, around 2001, before it closed for good after a fire in 2010.

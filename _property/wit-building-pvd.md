@@ -5,7 +5,7 @@ aka: 'Black Repertory Company, Aurora'
 date-modified: 2022-08-23 12:00
 update: 'Added a 1940s photo from the Library of Congress while the storefront was Jean’s Department Store'
 
-built: 'c.1925'
+built: 'circa 1925'
 demolition:
 redeveloped: '2018-2020'
 units:
@@ -83,7 +83,7 @@ images:
 
 mostrecentimage: 2021-02-01
 
-imagescredit: 'Contribution from the <a href="//hdl.loc.gov/loc.pnp/fsa.8a34929" target="_blank">Library of Congress</a> and the David Doiron and Aurora Facebook pages'
+imagescredit: 'Contribution from the <a href="https://hdl.loc.gov/loc.pnp/fsa.8a34929">Library of Congress</a> and the David Doiron and Aurora Facebook pages'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -99,15 +99,16 @@ The Wit Building is now connected to the Lapham Building through the second floo
 
 ### Current Events
 
-More photos of the spaces can be found at [@WestminsterLofts on Instagram](//www.instagram.com/westminsterlofts/){:target="_blank"}. Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](//westminsterlofts.com){:target="_blank"}.
+More photos of the spaces can be found at [@WestminsterLofts on Instagram](https://www.instagram.com/westminsterlofts/). Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](https://westminsterlofts.com).
 
 
 ### History
 
 Here is a great story about what lengths some will go to find original source material to inspire historic renovation. Cornish, Union Studio, and the State Preservation Officer assigned to the project scoured the archives for photos or drawings of what the Wit building looked like when it was constructed. Since it was not a grand building, there were none to be found.
 
-Eventually, the preservation officer used the Providence Public Library’s physical card catalog (they kept it!) and found a mention of a Providence Journal article. [The 1945 article](//provlibdigital.org/islandora/object/islandora%3A5633){:target="_blank"} explained how a scale model of the Union, Westminster, Mathewson, and Weybosset Street block that replicated “every window, every skylight… even the color scheme of the area” was made to help train fire fighters in dealing with dense urban centers. The original press clipping was found and with a magnifying glass, as close to the original facade design was found. More story details in a [Facebook post from the RIHPHC](//www.facebook.com/rihphc/posts/2698666850398854){:target="_blank"}.
+Eventually, the preservation officer used the Providence Public Library’s physical card catalog (they kept it!) and found a mention of a Providence Journal article. [The 1945 article](https://provlibdigital.org/islandora/object/islandora%3A5633) explained how a scale model of the Union, Westminster, Mathewson, and Weybosset Street block that replicated “every window, every skylight… even the color scheme of the area” was made to help train fire fighters in dealing with dense urban centers. The original press clipping was found and with a magnifying glass, as close to the original facade design was found. More story details in a [Facebook post from the RIHPHC](https://www.facebook.com/rihphc/posts/2698666850398854).
 
+***
 
 _From the Cornish Associates website press release_
 
@@ -115,6 +116,7 @@ The Wit Building was built by the I. Wit Realty Co. sometime in the mid-1930’s
 
 — _Captured February 9, 2020 from http://cornishlp.com/tag/lapham-building_
 
+***
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 

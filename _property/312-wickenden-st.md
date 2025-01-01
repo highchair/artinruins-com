@@ -85,7 +85,7 @@ images:
   - url: 312-wickenden-jh-2023-08-02.jpg
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from the Providence Preservation Society <a href="//gowdey.ppsri.org" target="_blank">Gowdey Database</a> and <a href="//drive.google.com/drive/folders/1Xi-yKUiaB9cl5kZkhoEgv5PGGTCrn1kN?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">Slides Collection</a>, Google Streetview, and Mike Ferguson'
+imagescredit: 'Contributions from the Providence Preservation Society <a href="https://gowdey.ppsri.org">Gowdey Database</a> and <a href="https://drive.google.com/drive/folders/1Xi-yKUiaB9cl5kZkhoEgv5PGGTCrn1kN?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">Slides Collection</a>, Google Streetview, and Mike Ferguson'
 
 external:
   - source: 'Flickr photo of the Blue Elephant sign, 2009, from user “S-400”'
@@ -98,7 +98,7 @@ Rumors abound. Some folks who know the owner told us via Instagram that the owne
 
 The demolition came quickly and largely by surprise. There is not a historic district overlay that would have prevented a permit from being issued. There is a demolition delay instituted for downtown Providence, but this is outside the bounds. As another user stated, “Wildly rising East Side property values mean the pressure to ‘develop’ the neighborhood keeps building,” no pun intended. 
 
-Statement from the [Providence Preservation Society Facebook page](//www.facebook.com/pvdpreservation){:target="_blank"}:
+Statement from the [Providence Preservation Society Facebook page](https://www.facebook.com/pvdpreservation):
 
 > The demolition of 312 Wickenden — formerly the Duck & Bunny — is an unfortunate reminder that while National Register Historic Districts provide recognition of architectural and historical significance, they lack local preservation protection. The Federal-style former house contributed to the College Hill Historic District on the National Register, but Wickenden Street is not part of a Local Historic District — and this means NO demolition delay/denial or review of new construction plans. Preservation is only as effective as the guidelines a neighborhood agrees to enact. PPS confirmed last year that the building was in rough shape, but we wish more could have been done.
 
@@ -108,8 +108,8 @@ A statement from Councilman, Ward 1, John Goncalves:
 
 #### Other Links
 
-+ [After the Duck and Bunny, How Do We Save These Old Houses?](//www.rimonthly.com/duck-and-bunny-demolition/){:target="_blank"}, RI Monthly
-+ [Former Duck & Bunny building in Providence demolished](//www.wpri.com/business-news/former-duck-bunny-building-in-providence-demolished/){:target="_blank"}, WPRI.com
++ [After the Duck and Bunny, How Do We Save These Old Houses?](https://www.rimonthly.com/duck-and-bunny-demolition/), RI Monthly
++ [Former Duck & Bunny building in Providence demolished](https://www.wpri.com/business-news/former-duck-bunny-building-in-providence-demolished/), WPRI.com
 
 
 ### Current Events
@@ -125,8 +125,8 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 
 #### Maps
 
-+ [Providence 1875 Volume 1, Wards 1, 2, 3; Plate Q](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_0ee59ee0-4b1e-40b0-9326-b6db7d59a113/){:target="_blank"} — Shown above the junction of Thompson Street and Wickenden and labelled as “A.P. Allen” at street number 248.
-+ [1889 Sanborn Insurance Map, Volume 2, Plate 41](//repository.library.brown.edu/studio/item/bdr:213568/){:target=_blank"} — Shown at street number 248 as a wood frame structure (yellow) with “2” story markings and a “D” for dwelling. Same footprint as the previous 1875 map.
++ [Providence 1875 Volume 1, Wards 1, 2, 3; Plate Q](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_0ee59ee0-4b1e-40b0-9326-b6db7d59a113/) — Shown above the junction of Thompson Street and Wickenden and labelled as “A.P. Allen” at street number 248.
++ [1889 Sanborn Insurance Map, Volume 2, Plate 41](https://repository.library.brown.edu/studio/item/bdr:213568/) — Shown at street number 248 as a wood frame structure (yellow) with “2” story markings and a “D” for dwelling. Same footprint as the previous 1875 map.
 
 These maps verify that the building is older than 1900, but we can not yet find proof that it is older than 1875.
 
@@ -136,7 +136,7 @@ These maps verify that the building is older than 1900, but we can not yet find 
 #### A Duck and Bunny Mystery
 
 _by David Brussat_  
-**[RI news Today](//rinewstoday.com/a-duck-bunny-mystery){:target="_blank"}** | April 24, 2021
+**[RI news Today](https://rinewstoday.com/a-duck-bunny-mystery)** | April 24, 2021
 
 On Easter weekend a colonial-style building at 312 Wickenden St., in Providence, was razed by its new owners, who also owned the Duck & Bunny Snuggery, which was shut for the pandemic. I heard about this calamity on Sunday and instantly wrote an obituary for the lovely building, which was said to have been built in 1900, but might have been built as early as 1790.
 
@@ -156,11 +156,12 @@ The city contends that the Duck & Bunny could have operated in 312 Wickenden for
 
 Providence has 35 districts on the National Register of Historic Places. A listing is purely honorary. The city has only seven local historic districts with limited actual protection for historic properties. The local College Hill Historic District extends into Fox Point but only to within one block of Wickenden Street. If its merchants and residents fear for its historic character, they will need to petition to have the College Hill Historic District extended by at least one block. Eventually, the merchants who blocked the street’s inclusion in the local district decades ago will regret what is brought by the winds of change. Yet, by then it is likely that Providence as a whole will no longer boast the allure from which Wickenden Street borrows its charm.
 
+***
 
 #### Duck and Bunny Building Demolished on Wickenden Street in Providence
 
 _by the GoLocalProv Lifestyle Team_  
-**[GoLocalProv](//www.golocalprov.com/food/new-duck-and-bunny-building-demolished-on-wickenden-street-in-providence){:target="_blank"}** | April 4, 2021 (abridged)
+**[GoLocalProv](https://www.golocalprov.com/food/new-duck-and-bunny-building-demolished-on-wickenden-street-in-providence)** | April 4, 2021 (abridged)
 
 The building that housed the Duck and Bunny in Fox Point has been demolished. 
 

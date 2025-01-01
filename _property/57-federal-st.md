@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'PPS Ten Most Endangered' ]
-tags: [ 'Demolition by Neglect', 'House' ]
+tags: [ 'Demolition by Neglect', 'House', 'Still an Empty Lot' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -62,9 +62,9 @@ The property was listed on the Preservation Society’s Ten Most Endangered List
 
 #### Other Links
 
-+ [57 Federal St — PPS Guide to Providence Architecture](//guide.ppsri.org/property/57-federal-street){:target="_blank"}
++ [57 Federal St — PPS Guide to Providence Architecture](https://guide.ppsri.org/property/57-federal-street)
 
 
 ### Current Events
 
-As of winter 2020, The site is a parking lot for nearby residents 😢 
+As of winter 2020, The site is a parking lot for nearby residents 😢

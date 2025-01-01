@@ -103,11 +103,11 @@ We now have plans to renovate the second floor of the building as a residential 
 
 ### Current Events
 
-[Rag & Bone Bindery](//www.ragandbonebindery.com){:target="_blank"} still operates from this location. Occasionally they have studio sales but most of their business is done online or through resellers. 
+[Rag & Bone Bindery](https://www.ragandbonebindery.com) still operates from this location. Occasionally they have studio sales but most of their business is done online or through resellers.
 
 
 ### History
 
-[A 1923 Sanborn Map, Plate 239,](//repository.library.brown.edu/studio/item/bdr:384587/){:target="_blank"} labels this property as “Lincoln Machine Co.” The bulk of the building was a machine shop, probably servicing machinery or creating it for local mills. Sometime after that it was used for jewelry making. 
+[A 1923 Sanborn Map, Plate 239,](https://repository.library.brown.edu/studio/item/bdr:384587/) labels this property as “Lincoln Machine Co.” The bulk of the building was a machine shop, probably servicing machinery or creating it for local mills. Sometime after that it was used for jewelry making.
 
-As a jewelry production shop, the machinery was run by belts that came off the driveshafts mounted to the ceiling. This was common in jewelry shops — it saved floor space and provided continuous power to cutting and grinding machinery. 
+As a jewelry production shop, the machinery was run by belts that came off the driveshafts mounted to the ceiling. This was common in jewelry shops — it saved floor space and provided continuous power to cutting and grinding machinery.

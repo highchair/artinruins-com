@@ -74,7 +74,7 @@ images:
 
 mostrecentimage: 2021-02-01
 
-imagescredit: 'Contributions from cadastral insurance maps — <a href="//repository.library.brown.edu/studio/item/bdr:213555/" target="_blank">1889 Sanborn Map</a>, <a href="//repository.library.brown.edu/studio/item/bdr:213588/" target="_blank">1899 Sanborn Map</a>. and <a href="//www.historicmapworks.com/Map/US/895458/Plate+001/Providence+1937/Rhode+Island/" target="_blank">1937 G.M. Hopkins Map</a>'
+imagescredit: 'Contributions from cadastral insurance maps — <a href="https://repository.library.brown.edu/studio/item/bdr:213555/">1889 Sanborn Map</a>, <a href="https://repository.library.brown.edu/studio/item/bdr:213588/">1899 Sanborn Map</a>. and <a href="https://www.historicmapworks.com/Map/US/895458/Plate+001/Providence+1937/Rhode+Island/">1937 G.M. Hopkins Map</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -83,7 +83,7 @@ imagescredit: 'Contributions from cadastral insurance maps — <a href="//repos
 
 ### Rehabilitation
 
-This historic structure along the historic waterfront was preserved and reinforced by Narragansett Electric in 2003. One of the only remaining [quay](//en.wikipedia.org/wiki/Wharf){:target="_blank"} warehouses built in the 19th century, this building is an important reminder of Providence’s beginnings as a main seaport.
+This historic structure along the historic waterfront was preserved and reinforced by Narragansett Electric in 2003. One of the only remaining [quay](https://en.wikipedia.org/wiki/Wharf) warehouses built in the 19th century, this building is an important reminder of Providence’s beginnings as a main seaport.
 
 From the [cadastral maps](#photo-quay-map-1889-01), one can understand why the building was set at an angle from the street. A main railroad line ran down Dyer Street and into Eddy Street, with spurs that curved off into these warehouses. The angle was also useful on the wharf side where boats could pull in and upload their cargo. Between 1899 and 1937, a small triangular addition was added to the front to make the north side align with the street edge.
 

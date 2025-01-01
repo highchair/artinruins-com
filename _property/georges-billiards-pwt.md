@@ -92,7 +92,7 @@ images:
 
 mostrecentimage: 2024-01-01
 
-imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157690062762483" target="_blank">Pawtucket Library on Flickr</a> and Marc Doughty'
+imagescredit: 'Contributions from the <a href="https://www.flickr.com/photos/pawtucketlibrary/albums/72157690062762483">Pawtucket Library on Flickr</a> and Marc Doughty'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -117,11 +117,11 @@ George Thurber sold the property in 2015 after the business had been closed for 
 
 ### History
 
-No formal history has been compiled. The [Providence Historical Aerial Viewer](//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e){:target="_blank"} shows that it was built between the 1939 and 1951 photos, though the 1939 photo may show that part of this building was in place. We have not yet been able to find this building on any cadastral maps.
+No formal history has been compiled. The [Providence Historical Aerial Viewer](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e) shows that it was built between the 1939 and 1951 photos, though the 1939 photo may show that part of this building was in place. We have not yet been able to find this building on any cadastral maps.
 
-In a [1902 Sanborn insurance map, Volume 1, Plate 77](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961902){:target="_blank"} (page 82) this triangular parcel has many wooden structures and a few conjoined four-story brick structures, but none in the shape and size of the current building. 
+In a [1902 Sanborn insurance map, Volume 1, Plate 77](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961902) (page 82) this triangular parcel has many wooden structures and a few conjoined four-story brick structures, but none in the shape and size of the current building. 
 
-An [undated photo in the collection of the Pawtucket Library](//www.flickr.com/photos/pawtucketlibrary/29097253034/in/album-72157673959040405/){:target="_blank"} labels one of our early images “The Berry Building” and includes what might be an earlier photo of a structure that was in this same location. We’d love to know more if you have any information. 
+An [undated photo in the collection of the Pawtucket Library](https://www.flickr.com/photos/pawtucketlibrary/29097253034/in/album-72157673959040405/) labels one of our early images “The Berry Building” and includes what might be an earlier photo of a structure that was in this same location. We’d love to know more if you have any information. 
 
 
 ### In the News
@@ -154,7 +154,5 @@ The negotiations on purchasing the Apex properties were long and arduous, but th
 The former owners of Apex sought and received a zone change in 2015 allowing them to move the George’s Games building into their specialized Riverfront Commons District, an attempt, they said at the time, to make the group of parcels easier to market to large-scale tenants for redevelopment.
 
 George’s owner George Thurber sold the property at 101 Main St. for $343,500 in March of 2015 after it had been closed for some time. The store, which once sold billiard tables and various other arcade and recreation room games, did business for decades during the height of the downtown area.
-
-—
 
 _Captured December 26, 2022 from https://www.valleybreeze.com/news/former-george-s-games-to-be-demolished/article_f6fce53c-2224-11ed-84c5-cf7ee8473cf6.html_ 

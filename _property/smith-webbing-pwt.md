@@ -78,7 +78,7 @@ images:
   - url: smith-webbing-jh-2021-01-09.jpg
     sizes: '1440, 900'
 
-imagescredit: 'Contribution from the Library of Congress (<a href="//www.loc.gov/resource/g3774pm.g3774pm_g080961902/" target="_blank">Sanborn Map</a>) and the <a href="//www.flickr.com/photos/pawtucketlibrary/50379605526" target="_blank">Pawtucket Library Collection</a>'
+imagescredit: 'Contribution from the Library of Congress (<a href="https://www.loc.gov/resource/g3774pm.g3774pm_g080961902/">Sanborn Map</a>) and the <a href="https://www.flickr.com/photos/pawtucketlibrary/50379605526">Pawtucket Library Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -101,6 +101,7 @@ A great little complex, these buildings have some nice, simple details. In [phot
 
 All windows have been upgraded with aluminum replacements pre-2004, but sadly, have squared off the segmented arch.
 
+***
 
 _From “Pawtucket Past and Present, being a brief account of the beginning and progress of its industries and a resume of the early history of the city,” by the Slater Trust Company, 1917_
 

@@ -4,7 +4,7 @@ slug: crown-worsted-pvd
 aka: 'Welsh Manufacturing'
 date-modified: 2023-07-08 12:00
 
-built: 'ca. 1896'
+built: 'circa 1896'
 demolition:
 redeveloped:
 units:

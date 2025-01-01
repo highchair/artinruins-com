@@ -4,7 +4,7 @@ slug: wilkinson-building-pvd
 aka: 'Lerner Department Store'
 date-modified: 2021-01-31 12:00
 
-built: 'c.1900'
+built: 'circa 1900'
 demolition:
 redeveloped: '2003-2004'
 units: '12'
@@ -51,7 +51,7 @@ images:
   - url: wilkinson-cornish-2015-01.jpg
     sizes: '1200, 938'
 
-imagescredit: 'Contribution by the <a href="//provlibdigital.org/islandora/object/islandora%3A10592" target="_blank">Rhode Island Photo Collection</a>, Providence Public Library, and Cornish Associates'
+imagescredit: 'Contribution by the <a href="https://provlibdigital.org/islandora/object/islandora%3A10592">Rhode Island Photo Collection</a>, Providence Public Library, and Cornish Associates'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -71,16 +71,18 @@ Prior to renovations, the Lerner Department Store was vacant for almost 20 years
 
 ### Current Events
 
-More photos of the spaces can be found at [@WestminsterLofts on Instagram](//www.instagram.com/westminsterlofts/){:target="_blank"}. Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](//westminsterlofts.com){:target="_blank"}.
+More photos of the spaces can be found at [@WestminsterLofts on Instagram](https://www.instagram.com/westminsterlofts/). Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](https://westminsterlofts.com/).
 
 
 ### History
 
 #### Other Links
 
-+ [A Little Retail History: Providence, Rhode Island](//www.carmenandginger.com/2017/01/a-little-retail-history-providence.html){:target="_blank"}, Carmen & Ginger blog
-+ [Downtown Providence – A Nostalgic Stroll Down Westminster Street](//www.consumergrouch.com/?p=8884){:target="_blank"}, Betsy Von-Die, May 2020
-+ [Downtown Providence of today vastly different from city of early ’90s](//www.browndailyherald.com/2006/03/13/downtown-providence-of-today-vastly-different-from-city-of-early-90s/), Anne Wooten, Brown Daily Herald, March 2006
++ [A Little Retail History: Providence, Rhode Island](https://www.carmenandginger.com/2017/01/a-little-retail-history-providence.html), Carmen & Ginger blog
++ [Downtown Providence – A Nostalgic Stroll Down Westminster Street](https://www.consumergrouch.com/?p=8884), Betsy Von-Die, May 2020
++ [Downtown Providence of today vastly different from city of early ’90s](https://www.browndailyherald.com/2006/03/13/downtown-providence-of-today-vastly-different-from-city-of-early-90s/), Anne Wooten, Brown Daily Herald, March 2006
+
+***
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 

@@ -96,4 +96,4 @@ General Electric left sometime around 2000, we think.
 
 ### Current Events
 
-This location is home to several businesses, including the administrative offices of [Thundermist](//www.thundermisthealth.org). It boasts over 100,000 square feet of space and about 500 parking spaces. It is managed by [First Bristol Corp](//firstbristol.com), which has a track record of historic or significant building renovation and rehabilitation in Massachusetts and Rhode Island.
+This location is home to several businesses, including the administrative offices of [Thundermist](https://www.thundermisthealth.org). It boasts over 100,000 square feet of space and about 500 parking spaces. It is managed by [First Bristol Corp](https://firstbristol.com), which has a track record of historic or significant building renovation and rehabilitation in Massachusetts and Rhode Island.

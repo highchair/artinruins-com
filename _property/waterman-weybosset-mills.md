@@ -5,7 +5,7 @@ aka: 'Eagle Steam Mill, American Woolen Company, Providence Wool Combing'
 date-modified: 2023-06-19 12:00
 
 built: '1836–1937'
-demolition: 'partial circa 1992'
+demolition: 'partial 1992'
 redeveloped:
 units:
 decade: '1830-1839'

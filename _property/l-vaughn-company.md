@@ -7,7 +7,7 @@ update: 'Added post-fire photos of the former warehouse. Partial demolition of a
 update-image: 2024-10-15-John-O-Leary-01.jpg
 
 built: 'circa 1890'
-demolition: 'partial in late 2024'
+demolition: 'partial 2024'
 redeveloped: '2005-2006'
 units:
 decade: '1890-1899'

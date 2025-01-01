@@ -78,18 +78,18 @@ imagescredit:
 
 ### Reason for Demolition
 
-The buildings themselves were not significant for their architecture or history. Car-oriented services had moved from city-centers to the periphery, the suburbs and places with lots of strip malls. The use and business type no longer made sense in this area — not to mention the environmental impact of the oil and such. Add all of this to the simple fact that the owners decided to retire and no one else wanted to keep the business going, and you have a very desirable piece of real estate that came onto the market. 
+The buildings themselves were not significant for their architecture or history. Car-oriented services had moved from city-centers to the periphery, the suburbs and places with lots of strip malls. The use and business type no longer made sense in this area — not to mention the environmental impact of the oil and such. Add all of this to the simple fact that the owners decided to retire and no one else wanted to keep the business going, and you have a very desirable piece of real estate that came onto the market.
 
-Dunkin Donuts and Walgreen’s were interested in the location. The WBNA was concerned about creating a drive-through on such a busy, busy intersection. The proposal for a Dunkin’ was denied in June of 2005. The proposal that won was for an extension of the nearby school, which we think was a win. 
+Dunkin Donuts and Walgreen’s were interested in the location. The <span class="abbr">WBNA</span> was concerned about creating a drive-through on such a busy, busy intersection. The proposal for a Dunkin’ was denied in June of 2005. The proposal that won was for an extension of the nearby school, which we think was a win.
 
 
 ### Current Events
 
-The buildings were razed in late 2012 for an extension of the neighboring Textron school. [UCAP (Urban Collaborative Accelerated Program)](//www.ucap.org){:target="_blank"} constructed a new annex. The new facility cost around $4.6 million, was funded entirely by private and corporate donations, and added a science lab, art studio, meeting space, and a gym to the smaller facility. UCAP is the only public school focused on helping middle school students catch up to their peers in public school after they’ve been held back at least one grade. 
+The buildings were razed in late 2012 for an extension of the neighboring Textron school. [<span class="abbr">UCAP</span> (Urban Collaborative Accelerated Program)](https://www.ucap.org/) constructed a new annex. The new facility cost around $4.6 million, was funded entirely by private and corporate donations, and added a science lab, art studio, meeting space, and a gym to the smaller facility. UCAP is the only public school focused on helping middle school students catch up to their peers in public school after they’ve been held back at least one grade.
 
 
 ### History
 
-These businesses and buildings came into being in the late 50s/early 60s when the interstate highway number 95 was being built through Providence — aerial photos earlier than 1962 show no highway and no outline for these structures. It can be reasonably assumed that along with the new highway, car-oriented business came with it to service the growing car class. 
+These businesses and buildings came into being in the late 50s/early 60s when the interstate highway number 95 was being built through Providence — aerial photos earlier than 1962 show no highway and no outline for these structures. It can be reasonably assumed that along with the new highway, car-oriented business came with it to service the growing car class.
 
-David Engle, of Engle Tire, said to [ModernTireDealer.com](//www.moderntiredealer.com/13907/engle-tire-calls-it-quits){:target="_blank"} that the business closed with the retirement of their president and vice-president in December, 2004. That year would have marked their 75th year in business, which puts the start of their company around 1929. 
+David Engle, of Engle Tire, said to [ModernTireDealer.com](https://www.moderntiredealer.com/13907/engle-tire-calls-it-quits) that the business closed with the retirement of their president and vice-president in December, 2004. That year would have marked their 75th year in business, which puts the start of their company around 1929.

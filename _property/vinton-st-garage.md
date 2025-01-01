@@ -109,6 +109,6 @@ In the “Broadway-Armory Historic District” National Register nomination form
 1. In the [1920 Sanborn Map](#photo-vinton-garage-sanborn-1920), the garage appears as “Vinton St. Garage, capacity 20 cars, concrete floor…” The nearby Barnaby Castle Carriage house is listed as an Ice Cream Factory
 1. In the [1920 Sanborn Map republished in 1951](#photo-vinton-garage-sanborn-1951), the garage is now listed as a Beer Warehouse, the three story house is gone, and a gas station with small annex building have appeared between where the 3-story house used to be and Barnaby’s Castle.
 
-Other local buildings that B.S.D. Martin designed are the 1931 [Robert L. & Caroline S. Gilman House](//guide.ppsri.org/property/robert-l-caroline-s-gilman-house){:target="_blank"}; the 1903 Willian A. Scofield House, Olney Street[^1]; and the 1911 George M. Baker House, also Olney Street[^1].
+Other local buildings that B.S.D. Martin designed are the 1931 [Robert L. & Caroline S. Gilman House](https://guide.ppsri.org/property/robert-l-caroline-s-gilman-house); the 1903 Willian A. Scofield House, Olney Street[^1]; and the 1911 George M. Baker House, also Olney Street[^1].
 
 [^1]: “Historic and Architectural Resources of the East Side, Providence: A Preliminary Report,” Rhode Island Historical Preservation Commission, 1989, page 86. Captured September 3, 2021, from https://preservation.ri.gov/sites/g/files/xkgbur406/files/pdfs_zips_downloads/survey_pdfs/prov_eastside.pdf

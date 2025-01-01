@@ -68,32 +68,32 @@ imagescredit: 'Contribution from Google Streetview'
 
 ### Current Events
 
-A fire that started in the basement ravaged the building on Christmas morning. The cause of the fire is under investigation. 
+A fire that started in the basement ravaged the building on Christmas morning. The cause of the fire is under investigation.
 
-The [Most Worshipful Prince Hall Grand Lodge of Rhode Island](//princehallmasonsglri.org/){:target="_blank"} are owners of the building and have been since 1966. Various activities take place and the Hall has been the center of a community for many members and non-members in the neighborhood. The basement level was home to the [Acacia Club](//princehallmasonsglri.org/acacia-club/){:target="_blank"}, which would showcase local and touring musicians. 
+The [Most Worshipful Prince Hall Grand Lodge of Rhode Island](https://princehallmasonsglri.org/) are owners of the building and have been since 1966. Various activities take place and the Hall has been the center of a community for many members and non-members in the neighborhood. The basement level was home to the [Acacia Club](https://princehallmasonsglri.org/acacia-club/), which would showcase local and touring musicians.
 
-Because of the significance of the structure and its history, the Providence Preservation Society added the building to its [Ten Most Endangered List of 2021](//ppsri.org/advocacy/mep/2021mep/){:target="_blank"} to call additional attention to efforts to save the structure and rebuild. 
+Because of the significance of the structure and its history, the Providence Preservation Society added the building to its [Ten Most Endangered List of 2021](https://ppsri.org/advocacy/mep/2021mep/) to call additional attention to efforts to save the structure and rebuild.
 
-In March of 2022, after more than a year open and exposed to the elements, the building envelope was secured with plywood and plastic sheeting. 
+In March of 2022, after more than a year open and exposed to the elements, the building envelope was secured with plywood and plastic sheeting.
 
 
 ### History
 
-Not much about the building itself, yet. A quick survey of [Sanborn Maps](#photo-1895-sanborn-map) reveal that the building was a former neighborhood school called “Eddy Street Public School.” We are working on finding more sources to verify when the building was built and what its original purpose was. The Masons became owners in 1966. 
+Not much about the building itself, yet. A quick survey of [Sanborn Maps](#photo-1895-sanborn-map) reveal that the building was a former neighborhood school called “Eddy Street Public School.” We are working on finding more sources to verify when the building was built and what its original purpose was. The Masons became owners in 1966.
 
-A private copy of a 1908 L.J. Richards map verifies a school at this location (plate 18). A [1900 Sanborn Map](//digitalsanbornmaps.proquest.com/browse_maps/40/8075/39393/41284/560847?accountid=37573){:target="_blank"} (PPL card required) and the [publicly available Sanborn Map from 1920-21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192105){:target="_blank"} (Volume 5, plate 33) shows the “Eddy Street School” at this location. 
+A private copy of a 1908 L.J. Richards map verifies a school at this location (plate 18). A [1900 Sanborn Map](https://digitalsanbornmaps.proquest.com/browse_maps/40/8075/39393/41284/560847?accountid=37573) (PPL card required) and the [publicly available Sanborn Map from 1920-21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192105) (Volume 5, plate 33) shows the “Eddy Street School” at this location.
 
 #### Prince Hall
 
-From their website, it notes that the first time black men were allowed to become members of the fraternal order of Masons was 1776 in Boston. Prince Hall, one of the first members, was a free black man who owned property, voted, and was a community activist. He petitioned the Grand Lodge in England for full Masonic rights in 1784. The charter they received is the only charter issued by the Grand Lodge of England that is in possession of the lodge itself, and is brought out on display every 10 years as part of their pilgrimage. 
+From their website, it notes that the first time black men were allowed to become members of the fraternal order of Masons was 1776 in Boston. Prince Hall, one of the first members, was a free black man who owned property, voted, and was a community activist. He petitioned the Grand Lodge in England for full Masonic rights in 1784. The charter they received is the only charter issued by the Grand Lodge of England that is in possession of the lodge itself, and is brought out on display every 10 years as part of their pilgrimage.
 
-Hall successfully petitioned George Washington to allow men of color into the Continental Army and participated int he Battle of Bunker Hill. He opened his home as a school for children and adults and petitioned the state legislature of Massachusetts to provide funds for the education of children of color. He led the way in advocated for people of color to own their own property and vote. 
+Hall successfully petitioned George Washington to allow men of color into the Continental Army and participated int he Battle of Bunker Hill. He opened his home as a school for children and adults and petitioned the state legislature of Massachusetts to provide funds for the education of children of color. He led the way in advocated for people of color to own their own property and vote.
 
 #### Prince Hall Grand Lodge
 
-In 1791, an African Masonic Lodge was formed with delegations from Philadelphia, Providence, and New York. Prince Hall served as the first Grand Master and remained in that position until his death in 1807. Hiriam Lodge in Providence was formed under this new Grand Lodge in 1797. In 1808, the African Grand Lodge changed its name to the Prince Hall Grand Lodge. John P. Hilton, Grand Master at the time, recommended a Declaration of Independence from the English Grand Lodge in 1827. 
+In 1791, an African Masonic Lodge was formed with delegations from Philadelphia, Providence, and New York. Prince Hall served as the first Grand Master and remained in that position until his death in 1807. Hiriam Lodge in Providence was formed under this new Grand Lodge in 1797. In 1808, the African Grand Lodge changed its name to the Prince Hall Grand Lodge. John P. Hilton, Grand Master at the time, recommended a Declaration of Independence from the English Grand Lodge in 1827.
 
-Today, there are approximately one million freemasons in 50,000 lodges across the United States, many of them formed under the authority of the Prince Hall Grand Lodge. 
+Today, there are approximately one million freemasons in 50,000 lodges across the United States, many of them formed under the authority of the Prince Hall Grand Lodge.
 
 
 ### In the News
@@ -132,6 +132,6 @@ City Council President Sabina Matos called it “a landmark institution that has
 
 “Luckily no lives were lost and I know that the brotherhood will rebuild and continue their great legacy and work.”
 
-[Prince Hall](//en.wikipedia.org/wiki/Prince_Hall){:target="_blank"}, a Barbados native who immigrated to Boston in the 1700s, established the Prince Hall Masons after he and a handful of other Black men were denied admittance to the existing American Masonic organization. Hall petitioned the Grand Lodge of England, the oldest Masonic grand lodge in the world, to issue a charter for African Lodge No. 459, which was established in Boston in 1784 as the first lodge of African American Masons in North America. The lodge in Providence was formed more than 10 years later.
+[Prince Hall](https://en.wikipedia.org/wiki/Prince_Hall), a Barbados native who immigrated to Boston in the 1700s, established the Prince Hall Masons after he and a handful of other Black men were denied admittance to the existing American Masonic organization. Hall petitioned the Grand Lodge of England, the oldest Masonic grand lodge in the world, to issue a charter for African Lodge No. 459, which was established in Boston in 1784 as the first lodge of African American Masons in North America. The lodge in Providence was formed more than 10 years later.
 
 _Captured December 28, 2020 from https://www.providencejournal.com/story/news/local/2020/12/26/prince-hall-masonic-temple-destroyed-fire-christmas/4047308001/_

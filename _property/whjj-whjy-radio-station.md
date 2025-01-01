@@ -58,8 +58,8 @@ The broadcast center on Eastern Avenue in East Providence was closed in 2002 and
 
 #### Links
 
-* [Drone exploration footage from Jason Allard](//www.youtube.com/watch?v=erdJ33_o1j4){:target="_blank"}, 2018 on YouTube
-* [A fifteen minute exploration of the abandoned station](//www.youtube.com/watch?v=kUvS-fEALW8){:target="_blank"}, also from 2018 on YouTube
+* [Drone exploration footage from Jason Allard](https://www.youtube.com/watch?v=erdJ33_o1j4), 2018 on YouTube
+* [A fifteen minute exploration of the abandoned station](https://www.youtube.com/watch?v=kUvS-fEALW8), also from 2018 on YouTube
 
 
 ### Current Events
@@ -84,7 +84,7 @@ Not much on formal history of the building itself. From aerial photos we put its
 
 ### In the News
 
-_[A very lengthy story from Billboard.com](//www.billboard.com/articles/business/8464105/abandoned-radio-memories-dido-david-coverdale-incredible-hulk){:target="_blank"}, republished without permission_
+_[A very lengthy story from Billboard.com](https://www.billboard.com/articles/business/8464105/abandoned-radio-memories-dido-david-coverdale-incredible-hulk), republished without permission_
 
 _by Gary Trust_  
 **Billboard.com** | July 6, 2018

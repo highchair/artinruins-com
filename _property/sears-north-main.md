@@ -59,7 +59,7 @@ imagescredit: 'Contribution by RI Lurky.'
 
 external:
   - source: 'Photos: Sears over the Years, Providence Journal'
-    url: '//www.providencejournal.com/photogallery/pj/20181015/news/101509998/PH/1'
+    url: 'https://www.providencejournal.com/photogallery/pj/20181015/news/101509998/PH/1'
     #url: https://perma.cc/TMH7-YF8Z
 ---
 
@@ -72,7 +72,7 @@ A redevelopment plan in the mid 2010s knocked this building down and along with 
 
 ### Current Events
 
-This lot is now part of the 300-space parking area for LA Fitness just over the line in Pawtucket. While this building was no treasure, the new LA Fitness seems like it was purpose-built to last exactly 10 years and then get torn down. [We agree with GCPVD here](//www.gcpvd.org/2014/04/16/the-further-suburbanization-of-north-main-street/) — “As long as we view [North Main Street] as a place for our ugly things, it will remain a place for ugly things.”
+This lot is now part of the 300-space parking area for LA Fitness just over the line in Pawtucket. While this building was no treasure, the new LA Fitness seems like it was purpose-built to last exactly 10 years and then get torn down. [We agree with GCPVD here](https://www.gcpvd.org/2014/04/16/the-further-suburbanization-of-north-main-street/) — “As long as we view [North Main Street] as a place for our ugly things, it will remain a place for ugly things.”
 
 
 ### History

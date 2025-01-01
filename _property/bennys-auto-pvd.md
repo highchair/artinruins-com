@@ -54,7 +54,7 @@ imagescredit:
 
 Benny’s was a home-grown chain of hardware/homeware stores throughout Rhode Island — it was home to “a little bit of everything.” It started in 1924 with a storefront on Fountain Street, Downtown Providence. They survived big-box and online competition until October 2017, when the last of their stores closed. It wasn’t a going-out-of-business story as much as it was a retirement story. The retail landscape shifted so much, and the stores were not growing their reach. A younger generation did not have the same affinity for locally-owned, quirky, low-bottom-line retail. 
 
-A great [ode to Benny’s was written by Barry Fain for East Side Monthly](//eastsidemonthly.com/stories/bidding-bennys-farewell,25156). 
+A great [ode to Benny’s was written by Barry Fain for East Side Monthly](https://eastsidemonthly.com/stories/bidding-bennys-farewell,25156). 
 
 #### Architecture
 

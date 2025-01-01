@@ -4,7 +4,7 @@ slug: greenville-fin-company
 aka: 'Elisha Steere Mill, Pooke and Steere’s Mill, Windsor Mill, West Greenville Mills'
 date-modified: 2021-04-24 12:00
 
-built: 'c. 1775 et seq.'
+built: 'circa 1775 et seq.'
 demolition: 
 redeveloped: 
 units:
@@ -92,8 +92,8 @@ They had an innovative idea with a roof leaking problem: trying to get things fi
 
 #### Other Photos 
 
-+ [Greenville Finishing Mill](//www.flickr.com/photos/93282315@N05/albums/72157644575919441){:target="_blank"}, collected by the Smith-Appleby House Museum
-+ The [Wikipedia page about Greenville, RI](//en.wikipedia.org/wiki/Greenville,_Rhode_Island){:target="_blank"}, has a photo of the Greenville Mill from the turn of the 20th century, but the date was not more specific.
++ [Greenville Finishing Mill](https://www.flickr.com/photos/93282315@N05/albums/72157644575919441), collected by the Smith-Appleby House Museum
++ The [Wikipedia page about Greenville, RI](https://en.wikipedia.org/wiki/Greenville,_Rhode_Island), has a photo of the Greenville Mill from the turn of the 20th century, but the date was not more specific.
 
 ***
 

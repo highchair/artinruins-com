@@ -115,7 +115,7 @@ The building consists of two distinct halves, with a change in elevation in the 
 
 ### Current Events
 
-The newest owner is a registered corporation called Accordion LLC.[^2] Micheal Bulman is named an officer, and he is also half of the design team at one of the tenant firms, a design-build company called [HB Design Build](http://hbarchive.com){:target="_blank"}. Studios are for rent in the space, with one of the current tenants being [Design xRI](//www.designxri.com/){:target="_blank"}. A ground-floor retail space is in the works.
+The newest owner is a registered corporation called Accordion LLC.[^2] Micheal Bulman is named an officer, and he is also half of the design team at one of the tenant firms, a design-build company called [HB Design Build](http://hbarchive.com). Studios are for rent in the space, with one of the current tenants being [Design xRI](https://www.designxri.com/). A ground-floor retail space is in the works.
 
 [^2]: Open Corporates public info for Accordion LLC, captured 21 November 2023 from https://opencorporates.com/companies/us_ri/001671211
 
@@ -132,11 +132,11 @@ The building appears to have been constructed ca. 1900 when the property was acq
 
 #### John Carter Brown Woods
 
-Based on what we could sleuth, we think “J. C. B. Woods” is John Carter Brown Woods, a lawyer born in Providence in 1851.[^3] He maintained an office at 146 Westminster Street, the [Lauderdale Building](//guide.ppsri.org/property/lauderdale-building){:target="_blank"}, room 303, for more than 20 years. The building at 819 Westminster was likely an investment property. From the write-up above and the maps, we would agree that Mr. Woods purchased the property around 1900 — his name is attached first in the 1908 map.
+Based on what we could sleuth, we think “J. C. B. Woods” is John Carter Brown Woods, a lawyer born in Providence in 1851.[^3] He maintained an office at 146 Westminster Street, the [Lauderdale Building](https://guide.ppsri.org/property/lauderdale-building), room 303, for more than 20 years. The building at 819 Westminster was likely an investment property. From the write-up above and the maps, we would agree that Mr. Woods purchased the property around 1900 — his name is attached first in the 1908 map.
 
 [^3]: “John Carter Brown Woods.” PRA Book, captured 21 November 2023 from https://prabook.com/web/john_carter_brown.woods/1070741
 
-Mr. Woods lived at 62 Prospect Street, the [Woods-Gerry house](//guide.ppsri.org/property/woods-gerry-house){:target="_blank"}, which is named for his father and mother, Anne Brown Francis and Marshall Woods. When his father passed in 1899, Mr. Woods continued to reside at 62 Prospect until his own death in January of 1930, at least according to the Providence House Directories.
+Mr. Woods lived at 62 Prospect Street, the [Woods-Gerry house](https://guide.ppsri.org/property/woods-gerry-house), which is named for his father and mother, Anne Brown Francis and Marshall Woods. When his father passed in 1899, Mr. Woods continued to reside at 62 Prospect until his own death in January of 1930, at least according to the Providence House Directories.
 
 He was an amateur historian as well, it seems, having written “John Carter of Providence, Rhode Island, July 21, 1745 — August 19, 1814 and his Descendants: A Brief Narrative by his great- great grandson John Carter Brown Woods” published in October of 1918.[^4] A painting of his father, Marshall Woods, was donated by John to the Brown University collection.[^5]
 
@@ -151,7 +151,7 @@ Although the <span class="abbr">ICBD</span> says “a lawyer who is listed in ci
 
 __Method:__ Search Providence House Directories for keyword “Woods.” Find the Westminster St listing and look for number 819.
 
-[The Providence House Directory and Family Address Book, 1901](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_3bc453d5-c527-49f3-a9b2-44cd5a881fcf/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1901](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_3bc453d5-c527-49f3-a9b2-44cd5a881fcf/)
 
 + Page 68, Woods J C B Agawam Hunt Club
 + Page 84, Woods, J. Carter Brown Hope Club
@@ -163,54 +163,54 @@ __Method:__ Search Providence House Directories for keyword “Woods.” Find th
 
 __Stopped searching for “Woods” and concentrated on 819.__
 
-[The Providence House Directory and Family Address Book, 1903](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_daf21b90-da5d-4685-9625-b0f211edd37a/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1903](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_daf21b90-da5d-4685-9625-b0f211edd37a/)
 
 + Page 793, 819 (Westminster St) not listed
 
-[The Providence House Directory and Family Address Book, 1905](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_d1aab34e-e5c4-4d45-abc7-42b966af9f65/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1905](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_d1aab34e-e5c4-4d45-abc7-42b966af9f65/)
 
 + Page 772, 819 Baacke & Pfeifer liquors
 
-[The Providence House Directory and Family Address Book, 1907](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_635fbe6a-e712-467e-aa3e-bd51fc78b0f0/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1907](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_635fbe6a-e712-467e-aa3e-bd51fc78b0f0/)
 
 + Page 729, 819 Baacke & Pfeifer liquors
 
-[The Providence House Directory and Family Address Book, 1909](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_7bdeff02-d453-4076-a58b-d7b8c10c6295/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1909](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_7bdeff02-d453-4076-a58b-d7b8c10c6295/)
 
 + Page 777, 819 Baacke & Pfeifer liquors
 
-[The Providence House Directory and Family Address Book, 1911](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_cd34bed3-04e0-4de2-9875-7bdd1d32c48a/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1911](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_cd34bed3-04e0-4de2-9875-7bdd1d32c48a/)
 
 + Page 778, 819 Baacke & Pfeifer liquors
 
-[The Providence House Directory and Family Address Book, 1913](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_05c02cab-f1d6-499f-a4aa-0489981dc9d9/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1913](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_05c02cab-f1d6-499f-a4aa-0489981dc9d9/)
 
 + Page 785, 819 Baacke & Pfeifer liquors & bowlg
 
-[The Providence House Directory and Family Address Book, 1915](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_41253373-60ba-47a8-9a84-5dc043b58a49/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1915](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_41253373-60ba-47a8-9a84-5dc043b58a49/)
 
 + Page 762, 819 *Baacke & Pfeifer liquors & bowlg  
 * Denotes telephone connection 
 
-[The Providence House Directory and Family Address Book, 1917](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_41253373-60ba-47a8-9a84-5dc043b58a49/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1917](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_41253373-60ba-47a8-9a84-5dc043b58a49/)
 
 + Page 878, 819 *Pfeifer Andrew liquors and bowling
 
-[The Providence House Directory and Family Address Book, 1919–1920](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_b1265e1b-1140-4bb7-8313-164db3420e5b/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1919–1920](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_b1265e1b-1140-4bb7-8313-164db3420e5b/)
 
 + Page 739, 819 Pfeifer Andrew liquors and bowling
 
-[The Providence House Directory and Family Address Book, 1921–1922](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_24bd7673-33e0-4178-b0f5-1e4bab3f0745/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1921–1922](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_24bd7673-33e0-4178-b0f5-1e4bab3f0745/)
 
 + Page 753, 819 Pfeifer Andrew bowling 
 
-[The Providence House Directory and Family Address Book, 1923–1924](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_23545e16-cb3a-4a4e-ab08-19169cd33729/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1923–1924](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_23545e16-cb3a-4a4e-ab08-19169cd33729/)
 
 + Page 718, 819 Shatkin Abraham soft drinks
 
 __Resumed searching for “Woods.”__
 
-[The Providence House Directory and Family Address Book, 1925-1926](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_fd20dab5-abb2-4f31-ad70-72858fc79935/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1925-1926](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_fd20dab5-abb2-4f31-ad70-72858fc79935/)
 
 + Page 73, John Carter Brown Woods Providence Art Club 
 + Page 91, John Carter Brown Woods University Club
@@ -218,7 +218,7 @@ __Resumed searching for “Woods.”__
 + Page 745, 146 Westminster rm 303 Woods John C B lawyer
 + Page 739, 819 Vacant 
 
-[The Providence House Directory and Family Address Book, 1927-1928](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_cb7ac4a6-5ed8-4f24-bfaa-2ae35f38ae37/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1927-1928](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_cb7ac4a6-5ed8-4f24-bfaa-2ae35f38ae37/)
 
 + Page 78, John Carter Brown Woods Providence Art Club 
 + Page 89, John Carter Brown Woods Squantum Association
@@ -226,7 +226,7 @@ __Resumed searching for “Woods.”__
 + Page 794, 146 Westminster rm 303 Woods John C B lawyer
 + Page 789, 819 Westminster Sapsovitz Victor store fixtures
 
-[The Providence House Directory and Family Address Book, 1929-1930](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_95b06b42-6d8f-4188-945f-ab0a97a9d665/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1929-1930](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_95b06b42-6d8f-4188-945f-ab0a97a9d665/)
 
 + Page 64, J Carter Brown Woods, Hope Club member
 + Page 74, John Carter Brown Woods Providence Art Club
@@ -238,17 +238,17 @@ __Resumed searching for “Woods.”__
 
 **The current brick building likely built around this time**
 
-[The Providence House Directory and Family Address Book, 1931-1932](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_0eebc151-e0b8-4078-9cbd-69fe2b96b9fe/){:target="_blank"}
+[The Providence House Directory and Family Address Book, 1931-1932](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_0eebc151-e0b8-4078-9cbd-69fe2b96b9fe/)
 
 + Page 66, John Carter Brown Woods University Club (for the year ending December 1932)
 + Page 755, 819 American Fruit Store Varsity Indoor Golf
 
-[The Providence House Directory and Family Address Book, 1933-1934](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_df823c81-89f1-47ab-88e2-078cd7a0f18e/){:target="_blank"}  
+[The Providence House Directory and Family Address Book, 1933-1934](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_df823c81-89f1-47ab-88e2-078cd7a0f18e/)
 **J C B Woods not found**
 
 + Page 629, 819 Greenough & Gifford investments 
 
-[The Providence House Directory and Family Address Book, 1935](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_2f766faa-758d-4c89-8625-8076f7fd2859/){:target="_blank"}  
+[The Providence House Directory and Family Address Book, 1935](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_2f766faa-758d-4c89-8625-8076f7fd2859/)
 **J C B Woods not found**
 
 + Page 646, 819 American Fruit Store
@@ -261,13 +261,13 @@ __Resumed searching for “Woods.”__
 
 The previous write up from 2002 guesses at a build date of circa 1900, which we disagree with (and have very little expertise in doing so). Our reasoning is as follows: 
 
-+ [1895 A.L. Westgard Map](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_4c98e0f2-d9e7-4569-a891-98a91fb6ec3b/){:target="_blank"} — Wood frame (yellow) building present but not labelled with any details. Same footprint as subsequent maps.
-+ [1899-1900 Sanborn Insurance Map, Vol 1, Plate 48](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099189901){:target="_blank"} (page 57) — Shows a yellow building with a cement block building (blue) in the middle of the two halves. An attachment also looks like the building is connected to the adjacent building to the east. The north Washington Street side is labelled as “4” stories and “Furniture & House Furnishings Ware Ho.” The center stone building is labelled as “3” stories with “Picture Frame Fac. 2nd.” The southern half along Westminster Street is labelled as “3” stories with “Duplicate Stock 2nd & 3rd” on one side and “Wall Paper & Pictures” on the other side. The details present here can be inferred on subsequent maps. [1900 reference map in our gallery](#photo-1900-sanborn-vol1-p48-01)
-+ [1908 L. J. Richards Insurance Map, Plate 3](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_4a959b55-2b10-4c82-83c7-3e8cbd84742c/){:target="_blank"} — In yellow indicating wood frame. Labeled with the name “J. C. B. Woods.” In two halves (dividing line in the center) with two notches in the building walls, one on either side of the long sides of the building.
-+ [1918 G.M. Hopkins Insurance Map, Plate 3](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_5a076ea2-bdec-4523-8e6e-bce090281895/){:target="_blank"} — Much the same as the previous and next maps.
-+ [1920-21 Sanborn Insurance Map, Vol 1, Plate 48](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"} (page 59) — Shows a yellow building, indicating a wood frame structure. The “3” markings indicate three stories and the building masses are broken up differently than the current structure. The Westminster St side contains two units, one marked as a Restaurant and the other as a store. This might have required there to be two entrances on the ground floor, while currently there is only one. [1920 reference map in our gallery](#photo-1920-sanborn-vol1-p48-01)
-+ [1926 G.M. Hopkins Insurance Map, Plate 3](//sosri.access.preservica.com/uncategorized/IO_208f4cb4-8cf5-4c14-bcbd-e9dd75c667e5/){:target="_blank"} — Shows a yellow building, indicating a wood frame structure. The same narrow design is present, but the shapes are subtly different from the current structure. The owner name is “John C.B. Woods.” [1926 reference map in our gallery](#photo-1926-gm-hopkins-p3-01)
-+ [1937 G.M. Hopkins Insurance Map, Plate 3](//sosri.access.preservica.com/uncategorized/IO_64d99561-f026-46fe-98b9-9b895765c9da/){:target="_blank"} — The building shape has clearly changed, and now shows in pink indicating a brick structure. The name of the owner changed slightly to “John C.B. Woods Estate.” [1937 reference map in our gallery](#photo-1937-gm-hopkins-p3-01)
-+ [1920-1951 Sanborn Insurance Map, Vol 1, Plate 48](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101){:target="_blank"} (page 59) — The same basic shape as the 1937 map but with more detail. The Westminster half of the building is marked with a “2” for two-story and “Gro. Stge 2nd” meaning Grocery Storage 2nd floor. The owner is “One Store” and appears to use the entire first floor half. The back half along Washington Street is marked with a “1” for one-story and is blue, indicating brick-faced cement block, also noted. [1920 reference map in our gallery](#photo-1951-sanborn-vol1-p48-01)
++ [1895 A.L. Westgard Map](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_4c98e0f2-d9e7-4569-a891-98a91fb6ec3b/) — Wood frame (yellow) building present but not labelled with any details. Same footprint as subsequent maps.
++ [1899-1900 Sanborn Insurance Map, Vol 1, Plate 48](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099189901) (page 57) — Shows a yellow building with a cement block building (blue) in the middle of the two halves. An attachment also looks like the building is connected to the adjacent building to the east. The north Washington Street side is labelled as “4” stories and “Furniture & House Furnishings Ware Ho.” The center stone building is labelled as “3” stories with “Picture Frame Fac. 2nd.” The southern half along Westminster Street is labelled as “3” stories with “Duplicate Stock 2nd & 3rd” on one side and “Wall Paper & Pictures” on the other side. The details present here can be inferred on subsequent maps. [1900 reference map in our gallery](#photo-1900-sanborn-vol1-p48-01)
++ [1908 L. J. Richards Insurance Map, Plate 3](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_4a959b55-2b10-4c82-83c7-3e8cbd84742c/) — In yellow indicating wood frame. Labeled with the name “J. C. B. Woods.” In two halves (dividing line in the center) with two notches in the building walls, one on either side of the long sides of the building.
++ [1918 G.M. Hopkins Insurance Map, Plate 3](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_5a076ea2-bdec-4523-8e6e-bce090281895/) — Much the same as the previous and next maps.
++ [1920-21 Sanborn Insurance Map, Vol 1, Plate 48](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (page 59) — Shows a yellow building, indicating a wood frame structure. The “3” markings indicate three stories and the building masses are broken up differently than the current structure. The Westminster St side contains two units, one marked as a Restaurant and the other as a store. This might have required there to be two entrances on the ground floor, while currently there is only one. [1920 reference map in our gallery](#photo-1920-sanborn-vol1-p48-01)
++ [1926 G.M. Hopkins Insurance Map, Plate 3](https://sosri.access.preservica.com/uncategorized/IO_208f4cb4-8cf5-4c14-bcbd-e9dd75c667e5/) — Shows a yellow building, indicating a wood frame structure. The same narrow design is present, but the shapes are subtly different from the current structure. The owner name is “John C.B. Woods.” [1926 reference map in our gallery](#photo-1926-gm-hopkins-p3-01)
++ [1937 G.M. Hopkins Insurance Map, Plate 3](https://sosri.access.preservica.com/uncategorized/IO_64d99561-f026-46fe-98b9-9b895765c9da/) — The building shape has clearly changed, and now shows in pink indicating a brick structure. The name of the owner changed slightly to “John C.B. Woods Estate.” [1937 reference map in our gallery](#photo-1937-gm-hopkins-p3-01)
++ [1920-1951 Sanborn Insurance Map, Vol 1, Plate 48](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101) (page 59) — The same basic shape as the 1937 map but with more detail. The Westminster half of the building is marked with a “2” for two-story and “Gro. Stge 2nd” meaning Grocery Storage 2nd floor. The owner is “One Store” and appears to use the entire first floor half. The back half along Washington Street is marked with a “1” for one-story and is blue, indicating brick-faced cement block, also noted. [1920 reference map in our gallery](#photo-1951-sanborn-vol1-p48-01)
 
 With these maps as our guide, we would say the building was constructed in 1930, close to the time of John C. B. Woods’ death.

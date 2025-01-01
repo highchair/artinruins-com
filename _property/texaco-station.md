@@ -51,7 +51,7 @@ images:
 
 mostrecentimage: 2022-03-01
 
-imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora:5012/datastream/OBJ/view" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library and the WBNA website'
+imagescredit: 'Contributions from <a href="https://provlibdigital.org/islandora/object/islandora:5012/datastream/OBJ/view">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library and the WBNA website'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

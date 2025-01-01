@@ -273,6 +273,4 @@ It all began in February 1996 when the Respiratory Diseases Research Program at 
 
 After inspecting the plant, <span class="abbr">NIOSH</span> tested the air samplings to find any exposures to dust, bioaerosols and gases. According to <span class="abbr">NIOSH</span> documents, Microfibres had no prior awareness of the presence of the specific dust at the plant. Recommendations were made by <span class="abbr">NIOSH</span> for Microfibres management to take action by installing engineering controls, to enforce good work practices, to use proper respiratory protection, and establish a medical screening/surveillance program. Microfibres made “substantial progress” in complying with the recommendations, according to <span class="abbr">NIOSH</span>.
 
-—
-
 _Captured May 8, 2022 from https://turnto10.com/news/local/pawtucket-manufacturer-to-file-bankruptcy-closes-shop-after-90-years-in-business_
