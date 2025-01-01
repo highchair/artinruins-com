@@ -31,9 +31,49 @@
             </header>
           {%- if items.size >= 1 -%}
             <div class="u__vertical__p u__gutter__p">
-              <ul class="taxonomy__list property-card__cols u__list__unstyled u__max-width--container" role="list">
+              {% if page.type == 'categories' or page.type == 'town' or page.type == 'lists' or page.type == 'tags' %}
+              <nav id="sort-buttons" class="taxonomy__sort">
+                <span>Sort by:</span>
+                <button id="sort-title" class="btn current asc">Title Z–A</button>
+              {%- unless page.permalink contains 'thenandnow' -%}
+                <button id="sort-built" class="btn">Date Built</button>
+              {%- endunless -%}
+              {%- if page.permalink contains 'notinruins' -%}
+                <button id="sort-redeveloped" class="btn">Date Redeveloped</button>
+              {%- endif -%}
+              {%- if page.permalink contains 'usedtobethere' or page.permalink contains 'archiveri' -%}
+                <button id="sort-demolition" class="btn">Date Demolished</button>
+              {%- endif -%}
+              </nav>
+              {% endif %}
+              <ul id="js__sortable" class="taxonomy__list property-card__cols u__list__unstyled u__max-width--container" role="list">
               {% for item in items %}
-                <li class="taxonomy__item{% if item.categories contains '#DemolitionAlert' %} demolition-alert{% endif %}">
+                {%- comment -%} Clean the Built date of common strings {%- endcomment -%}
+                {%- assign built = item.built | downcase -%}
+                {%- if item.opened -%}
+                  {%- assign built = item.opened | downcase -%}
+                {%- endif -%}
+                {%- assign demolish = item.demolition | downcase -%}
+                {%- if item.closed -%}
+                  {%- assign demolish = item.closed | downcase -%}
+                {%- endif -%}
+                {%- if built contains 'after' -%}
+                  {% assign built = built | remove: "after" | strip %}
+                {%- endif -%}
+                {%- if built contains 'late' -%}
+                  {% assign built = built | remove: "late" | strip %}
+                {%- endif -%}
+                {%- if built contains 'between' -%}
+                  {% assign built = built | remove: "between" | strip %}
+                {%- endif -%}
+                {%- if built contains 'circa' or demolish contains 'circa' -%}
+                  {% assign built = built | remove: "circa" | strip %}
+                  {% assign demolish = demolish | remove: "circa" | strip %}
+                {%- endif -%}
+                {%- if demolish contains 'partial' -%}
+                  {% assign demolish = demolish | remove: "partial" | strip %}
+                {%- endif -%}
+                <li data-built="{{ built }}" data-redeveloped="{{ item.redeveloped }}" data-demolition="{{ demolish }}" class="taxonomy__item{% if item.categories contains '#DemolitionAlert' %} demolition-alert{% endif %}">
                 {% include property-card.html %}
                 </li>
               {% endfor %}
@@ -46,3 +86,102 @@
               </div>
             </div>
           {%- endif -%}
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    let ascending = true;
+    // Set up the buttons
+    const alphaButton = document.getElementById("sort-title");
+    const builtButton = document.getElementById("sort-built");
+    const developButton = document.getElementById("sort-redeveloped");
+    const demolishButton = document.getElementById("sort-demolition");
+
+    function RemoveCurrent() {
+      const nav = document.getElementById('sort-buttons');
+      const buttons = Array.from(nav.getElementsByTagName("button"));
+      for (const but of buttons) but.classList.remove('current');
+    };
+
+    if (alphaButton !== null && alphaButton !== '') {
+      alphaButton.addEventListener('click', function() {
+        RemoveCurrent();
+        alphaButton.classList.add('current');
+        if (ascending) {
+          this.classList.remove('asc')
+          this.classList.add('desc');
+          // The button previously says what it will do next, not what it is currently doing
+          this.innerHTML = "Title A–Z";
+        } else {
+          this.classList.remove('desc');
+          this.classList.add('asc');
+          this.innerHTML = "Title Z–A";
+        }
+        SortList( type = 'alpha' );
+      });
+    }
+    if (builtButton !== null && builtButton !== '') {
+      builtButton.addEventListener('click', function() {
+        RemoveCurrent();
+        builtButton.classList.add('current');
+        SortList( type = 'built' );
+      });
+    }
+    if (developButton !== null && developButton !== '') {
+      developButton.addEventListener('click', function() {
+        RemoveCurrent();
+        developButton.classList.add('current');
+        SortList(type = 'develop');
+      });
+    }
+    if (demolishButton !== null && demolishButton !== '') {
+      demolishButton.addEventListener('click', function() {
+        RemoveCurrent();
+        demolishButton.classList.add('current');
+        SortList(type = 'demolish');
+      });
+    }
+
+    // Function to sort Data
+    function SortList( type = 'alpha' ) {
+      const list = document.getElementById("js__sortable");
+      const items = Array.from(list.getElementsByTagName("li"));
+
+      if ( type == 'alpha' ) {
+        // Toggle sorting order
+        items.sort((a, b) => {
+          return ascending
+            ? b.textContent.localeCompare(a.textContent)
+            : a.textContent.localeCompare(b.textContent);
+        });
+        // Toggle the order for next click
+        ascending = !ascending;
+      }
+      if ( type == 'built' ) {
+        // Sort the list items by their data-built attribute
+        items.sort((a, b) => {
+          const sortA = parseInt(a.getAttribute('data-built'), 10) || 0;
+          const sortB = parseInt(b.getAttribute('data-built'), 10) || 0;
+          return sortA - sortB;
+        });
+      }
+      if ( type == 'develop' ) {
+        // Sort the list items by their data-built attribute
+        items.sort((a, b) => {
+          const sortA = parseInt(a.getAttribute('data-redeveloped'), 10) || 0;
+          const sortB = parseInt(b.getAttribute('data-redeveloped'), 10) || 0;
+          return sortA - sortB;
+        });
+      }
+      if ( type == 'demolish' ) {
+        // Sort the list items by their data-built attribute
+        items.sort((a, b) => {
+          const sortA = parseInt(a.getAttribute('data-demolition'), 10) || 0;
+          const sortB = parseInt(b.getAttribute('data-demolition'), 10) || 0;
+          return sortA - sortB;
+        });
+      }
+      // Append the sorted items back to the list
+      for (const li of items) list.appendChild(li);
+    }
+  });
+</script>

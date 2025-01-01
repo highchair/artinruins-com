@@ -66,6 +66,32 @@
   // TAXONOMY Lists
   // - - - - -
 
+  /* nav */&__sort {
+    background-color: $white;
+    display: flex;
+    align-items: center;
+    margin: -1rem -1rem 0 -1rem;
+    padding: 1rem;
+    position: sticky;
+      top: 0;
+    z-index: z(skip-link);
+
+    .no-js {
+      display: none;
+    }
+
+    button {
+      margin-left: 0.75rem;
+      padding: 0.5rem 1rem;
+
+      &.current {
+        background-color: palette(gray-200);
+        color: palette(gray-900);
+      }
+    }
+
+  }
+
   /* li */&__item {
 
     // Special LI with a class added to it

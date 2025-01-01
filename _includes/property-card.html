@@ -92,7 +92,7 @@
       <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Never Built</b></span>
     {%- endif -%}
     {%- if item.built.size > 0 -%}
-      <span class="property-card__sep"> | </span><span class="property-card__meta__group">{% unless item.built contains "Proposed" %}<b>Built:</b> {% endunless %}{{ item.built }}</span>
+      <span class="property-card__sep"> | </span><span class="property-card__meta__group">{% unless item.built contains "proposed" %}<b>Built:</b> {% endunless %}{{ item.built }}</span>
     {%- endif -%}
     {%- if item.opened.size > 0 -%}
       <span class="property-card__sep"> | </span><span class="property-card__meta__group"><b>Opened:</b> {{ item.opened }}</span>

@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2024-12-31
+
+Added
++ Buttons on category or tag pages that allow users to change the order of properties from A–Z, to Z–A, or date built (asc), date demolished (date arc), and date redeveloped )date arc). The last two are contextual — Date demolished is available on the Used to be There and Archive RI category pages, while Date Redeveloped is available on the Not In Ruins category page.
+
 ## 2024-09-09
 
 Changed
