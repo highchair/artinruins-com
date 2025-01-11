@@ -3,6 +3,8 @@ title: "Simmons Building"
 slug: simmons-building
 aka: '10 Davol Square'
 date-modified: 2021-12-26 17:00
+update: 'Added a recent photo of the building looking northwest'
+updated-image: ten-davol-jh-2024-10-01.jpg
 
 built: '1880'
 demolition:
@@ -60,8 +62,10 @@ images:
     sizes: '1440, 900'
   - url: ten-davol-jh-2020-12-05.jpg
     sizes: '1440, 900'
+  - url: ten-davol-jh-2024-10-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2020-12-01
+mostrecentimage: 2024-10-01
 
 imagescredit: 'Contributions from the National Register Nomination form'
 
@@ -72,7 +76,7 @@ imagescredit: 'Contributions from the National Register Nomination form'
 
 ### Redevelopment
 
-The Simmons Building was the birthplace of the [Davol Rubber Company]({% link _property/davol-rubber-company.md %}), which was founded in 1874 by Joseph Davol. The building was named after his grandfather in-law, Eban Simmons. By 1884 new buildings were being constructed on a larger plot of land diagonally across the street for what would become the bulk of the Davol Rubber complex. 
+The Simmons Building was the birthplace of the [Davol Rubber Company]({% link _property/davol-rubber-company.md %}), which was founded in 1874 by Joseph Davol. The building was named after his grandfather in-law, Eban Simmons. By 1884 new buildings were being constructed on a larger plot of land diagonally across the street for what would become the bulk of the Davol Rubber complex.
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="{% link _property/davol-rubber-company.md %}">
@@ -179,6 +183,4 @@ The Simmons Building, which was erected by money borrowed by the original Joseph
 
 While the structure initially housed the actual manufacturing operations, as the Davol complex across the street continued to grow the Simmons Building became the principal home of the company’s laboratory functions, Lefebvre says.
 
-—
-
-HARRINGTON, CLYDE H.. “Simmons Building opening in month.” Providence Journal (RI), ALL ed., sec. BUSINESS, 16 Oct. 1983, pp. G-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C236690AF928. Accessed 28 Dec. 2021.
+— HARRINGTON, CLYDE H.. “Simmons Building opening in month.” Providence Journal (RI), ALL ed., sec. BUSINESS, 16 Oct. 1983, pp. G-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C236690AF928. Accessed 28 Dec. 2021.

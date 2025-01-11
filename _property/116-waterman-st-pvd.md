@@ -67,8 +67,10 @@ images:
     sizes: '1200, 900'
   - url: 116-waterman-jh-2024-08-03.jpg
     sizes: '1200, 900'
+  - url: 116-waterman-jh-2024-09-01.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2024-01-01
+mostrecentimage: 2024-09-01
 
 imagescredit: 'Rendering from Aharonian & Associates, Inc, Architects'
 
@@ -137,6 +139,4 @@ Matthew Schaelling said he was for the project and for the adjustments, and that
 
 Christian Roselund was the only person to speak against the surveillance requirement imposed by the Plan Commission and said the development, and more housing, is in the public’s interest.
 
-— 
-
-Cowperthwaite, Wheeler. “College Hill apartment project approved.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 23 Feb. 2023, p. A6. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/18FDD170984F4828. Accessed 22 May 2024.
+— Cowperthwaite, Wheeler. “College Hill apartment project approved.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 23 Feb. 2023, p. A6. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/18FDD170984F4828. Accessed 22 May 2024.
