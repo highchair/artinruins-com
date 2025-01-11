@@ -219,3 +219,5 @@ To search for documentation for these districts, use the [National Park Service 
 ***
 
 We’d like to thank local experts and contributors for their advice while writing this article: Sarah Zurier, Architectural Historian/Special Projects, Rhode Island Historical Preservation and Heritage Commission; Brent Runyon, former Executive Director of the Providence Preservation Society, now an independent preservation consultant and realtor; Marissa Brown, Executive Director, Providence Preservation Society; Jason Martin and Samara Pinto, City of Providence.
+
+An edited version of this article appeared in the [Providence Eye, 14 August 2024](https://pvdeye.org/historic-districts-in-providence-how-they-work-what-they-do-and-why-there-should-be-more/).
