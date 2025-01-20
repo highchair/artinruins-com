@@ -1,6 +1,16 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: park-cinema-cranston
+  person: 'Kevin Lonergan'
+  date: '2025-01-09'
+  content: 'Lived close by the theater… a friend and I, probably in the late 60’s or so, went to see the movie “Blue Water, White Death”… about Great White Sharks…'
+
+- property: peerless-low-buildings-pvd
+  person: 'Carole Enright'
+  date: '2024-12-31'
+  content: 'My great-grandfather, Thomas Francis Bannan, rose to be the manager of “the Boston Store.” At one time he was a buyer in Paris for elegant clothes, shoes and gloves, etc. When his first daughter was born in 1883 he was a clerk, probably there at Callendar, McAuslan & Troup.'
+
 - property: quonset-point-naval-base
   person: 'Lon St Jean'
   date: '2024-12-28'
