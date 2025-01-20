@@ -2,8 +2,9 @@
 title: "American Screw Company"
 slug: american-screw-co
 aka: 'Eagle Mill, Eagle Screw Company, Bay State Mill'
-date-modified: 2022-01-01 15:00
-update: 'Added an image from <a href="/property/american-screw-co/#photo-amerscrew-cs-1971-08-01">Chet Smolski</a> collection'
+date-modified: 2025-01-20 15:00
+update: 'Added an image of the Rusty Scupper restaurant sign taken in 1977'
+update-image: amerscrew-bmz-1977-01.jpg
 
 built: '1840–1873'
 demolition: '1971'
@@ -43,9 +44,9 @@ images:
   - url: John-Gannon-via-Facebook.jpg
     caption: 'Cover of a large box of assorted screws from John Gannon'
     sizes: '586, 1124'
-  - url: amerscrew-ppl-1930c.jpg
-    caption: 'Rhode Island Mills and Mill Villages Photograph Collection, Providence Public Library'
-    sizes: '1200, 960'
+  # - url: amerscrew-ppl-1930c.jpg
+  #   caption: 'Rhode Island Mills and Mill Villages Photograph Collection, Providence Public Library'
+  #   sizes: '1200, 960'
   - url: amerscrew-ppl-1955c.jpg
     caption: 'A closeup of an aerial photo taken during the redevelopment of West River Street, circa 1955 — Rhode Island Photograph Collection, Providence Public Library'
     sizes: '731, 549'
@@ -106,6 +107,9 @@ images:
   - url: amerscrew-rendering-1972.jpg
     caption: 'Architectural renovation rendering by Karen Noel. View is to the south at the intersection of Stevens and Charles streets.'
     sizes: '1155, 900'
+  - url: amerscrew-bmz-1977-01.jpg
+    caption: 'After the fire, the salvagable buildings were renovated into office space. Shown here are signs for the Rhode Island Group Health Association and the Rusty Scupper restaurant — Bmzuckerman, 1977, CC BY-SA 4.0, via Wikimedia Commons'
+    sizes: '1600, 900'
   - url: amerscrew-aerial-1899-1997.jpg
     caption: 'Providence Historic Aerial Viewer 1997 with a 1899 Sanborn Map overlay'
     sizes: '1440, 900'
@@ -116,7 +120,7 @@ images:
     caption: 'Providence Historic Aerial Viewer 1997 with a 1970 schematic of the complex from the National Register nomination'
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from the National Register nomination forms, photos by Laurence Tilley; <a href="https://provlibdigital.org/islandora/object/islandora%3A26598">Aerial</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A276">Mill Photo</a>, and <a href="https://provlibdigital.org/islandora/object/islandora%3A5298">John Hutchins Cady</a>, from Providence Public Library; <a href="https://digitalcommons.ric.edu/smolski_images/61">Chet Smolski</a>; and Architectural drawing by Karen Noel.'
+imagescredit: 'Contributions from the National Register nomination forms, photos by Laurence Tilley; <a href="https://provlibdigital.org/islandora/object/islandora%3A26598">Aerial</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A276">Mill Photo</a>, and <a href="https://provlibdigital.org/islandora/object/islandora%3A5298">John Hutchins Cady</a>, from Providence Public Library; <a href="https://digitalcommons.ric.edu/smolski_images/61">Chet Smolski</a>; <a href="https://commons.wikimedia.org/wiki/File:American_Screw_Company_(exterior),_Providence.jpg">B. M. Zuckerman collection at Wikipedia</a>; and Architectural drawing by Karen Noel.'
 ---
 
 ### Reason for Demolition
