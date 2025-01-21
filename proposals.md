@@ -22,6 +22,45 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 The City maintains [an ArcGIS map with projects under review](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=ab28206d40a54791b7128555cd8e7e18) and completed that is worth checking out.
 
 
+### 269 Wickenden Street
+
+**Update January 2025**
+
+<figure class="u__img">
+  <img src="{{ site.propimg_path }}proposals/251-269-wickenden-st-2025-01.jpg" alt="">
+  <figcaption>October rendering by Providence Architecture & Building Co.</figcaption>
+</figure>
+
+Developers Dustin Dezube and Kevin Diamond submitted updated architectural plans have been submitted to the City Plan Commission. [The Public’s Radio covers the story in this article](https://thepublicsradio.org/metro-desk/developer-updates-plans-for-269-wickenden/).
+
+**Update October 2024**
+
+No new construction progress has been made. Moved most of this information to a [#DemolitionAlert]({% link category/demolitionalert.html %}) post for [the properties at 249 through 265]({% link _property/249-265-wickenden-st.md %}).
+
+**Update November 4, 2023**
+
+<figure class="u__img">
+  <img src="{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-11.jpg" alt="">
+  <figcaption>October rendering for Fox Point Capital LLC</figcaption>
+</figure>
+
+On Tuesday, October 17, the City Plan Commission approved an updated Master Plan proposal. This design has substantially changed; the facade has been broken up into three distinct sections and the residential-unit count increased from 62 to 75 while commercial and parking space decreased. The fifth story was hidden as requested by the Commission in order to grant the additional story, with a denied request to encroach on a 20-foot rear setback by 10 feet. The approval came with many conditions, including a request for further details on the transformer’s location; a recommendation that the loading space for parking remains; and requested specifications related to the cellar, landscaping, floor plans, drainage management and signage, all to be presented at the proposal’s next step, Preliminary Planning.
+
+**Update August 22, 2023**
+
+[William Morgan weighs in with this GoLocal recent article](https://www.golocalprov.com/business/Goodbye-Fox-Point-William-Morgan-Architecture-Critic).
+
+**Update August 16, 2023**
+
+<figure class="u__img">
+  <img src="{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-08.jpg" alt="">
+  <figcaption>August rendering for Fox Point Capital LLC</figcaption>
+</figure>
+
+The City Plan Commission approved the plan for this new building after the developer made slight modifications to the design. Even though most of the 60 citizens who packed the meeting opposed the development, the <span class="abbr">CPC</span> has a history of agreeing with developers who are making an investment in the city. They push back some, but not enough most of the time, and do not always consider public opinion. Granted, some of that opinion might be NIMBY, but many people presented salient points about the design, the increase in density, and the historic and relatively untouched nature of the neighborhood.
+
+***
+
 ### As many as 326 units at 27 East River Street
 
 <figure class="u__img">
@@ -83,38 +122,6 @@ The building would be constructed over a parking garage with 248 spaces. There i
 Full story and renderings at the Providence Journal, “[This new condo high rise could go up in downtown Providence. Here’s everything to know.](https://www.providencejournal.com/story/news/local/2024/05/15/new-high-rise-condo-building-could-go-up-on-atwells-avenue-in-providence/73684128007/)”
 
 Interestingly, this proposal mirrors some of the same ideas for a massive tower project dubbed [The Power Block]({% link _property/power-block.md %}) that was never built on a lot next door.
-
-***
-
-### 251-269 Wickenden Street
-
-Moved most of this information to a [#DemolitionAlert]({% link category/demolitionalert.html %}) post for [the properties at 249 through 265]({% link _property/249-265-wickenden-st.md %}).
-
-**Update October 2024**
-
-No new construction progress has been made.
-
-**Update November 4, 2023**
-
-<figure class="u__img">
-  <img src="{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-11.jpg" alt="">
-  <figcaption>October rendering for Fox Point Capital LLC</figcaption>
-</figure>
-
-On Tuesday, October 17, the City Plan Commission approved an updated Master Plan proposal. This design has substantially changed; the facade has been broken up into three distinct sections and the residential-unit count increased from 62 to 75 while commercial and parking space decreased. The fifth story was hidden as requested by the Commission in order to grant the additional story, with a denied request to encroach on a 20-foot rear setback by 10 feet. The approval came with many conditions, including a request for further details on the transformer’s location; a recommendation that the loading space for parking remains; and requested specifications related to the cellar, landscaping, floor plans, drainage management and signage, all to be presented at the proposal’s next step, Preliminary Planning.
-
-**Update August 22, 2023**
-
-[William Morgan weighs in with this GoLocal recent article](https://www.golocalprov.com/business/Goodbye-Fox-Point-William-Morgan-Architecture-Critic).
-
-**Update August 16, 2023**
-
-<figure class="u__img">
-  <img src="{{ site.propimg_path }}proposals/251-269-wickenden-st-2023-08.jpg" alt="">
-  <figcaption>August rendering for Fox Point Capital LLC</figcaption>
-</figure>
-
-The City Plan Commission approved the plan for this new building after the developer made slight modifications to the design. Even though most of the 60 citizens who packed the meeting opposed the development, the <span class="abbr">CPC</span> has a history of agreeing with developers who are making an investment in the city. They push back some, but not enough most of the time, and do not always consider public opinion. Granted, some of that opinion might be NIMBY, but many people presented salient points about the design, the increase in density, and the historic and relatively untouched nature of the neighborhood.
 
 ***
 
