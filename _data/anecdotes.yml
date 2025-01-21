@@ -1,6 +1,29 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: quonset-point-naval-base
+  person: 'Mark Cagle'
+  date: '2025-01-18'
+  content:
+    My father served on the USS Essex at Quonset and I used to fish off the carrier pier as a child. We shopped at the PX every other week and I remember the planes, hangars, Quonset Huts and the SeaBee.
+    
+    I later served in the US Navy on the USS Saratoga and after an honorable discharge, served in the Army National Guard at Quonset as an avionics tech. Great memories of Quonset Point
+
+- property: lincoln-mall
+  person: 'Ann Oulette'
+  date: '2025-01-18'
+  content: 'I still have the first purchase I ever made as an adult. A sweater from the gap. I love it and still ware it today. It was oversized… the 80’s lol'
+
+- property: providence-civic-center
+  person: 'David DeMarco'
+  date: '2025-01-17'
+  content: 'This place will always be sacred to me. I spent one of the best weeks of my life there in Feb. 1995 with Nicole Bobek, at the National Figure Skating Championships. She won Nationals that year at the Civic Center and it was indescribable! I live in Boston now, and still go down, every few years, in winter… to recall and reminisce. Like going to an old battlefield. Providence Civic Center, “Ground Zero” back then… and a sacred memory now.'
+
+- property: eastons-beach-pavillion
+  person: 'Ashton'
+  date: '2025-01-15'
+  content: 'I went to Easton Beach for a Save The Bay field trip way back in 2014 or 2015 (I can’t remember). Half of us were in the small aquarium underneath the carousel, while the other half was cleaning Easton Beach itself, but everyone did both. I didn’t know they had a carousel because I could barely see the top of the building, let alone what was inside of it. Last year when I found out what they were doing to the structure, I went down to Easton Beach with my camera and shot video (and some photos) of the structure, and about 4-5 months later, they tore it all down.'
+
 - property: park-cinema-cranston
   person: 'Kevin Lonergan'
   date: '2025-01-09'
