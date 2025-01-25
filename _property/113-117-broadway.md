@@ -25,6 +25,8 @@ address: '113 & 117 Broadway, Providence RI'
 latitude: '41.821858'
 longitude: '-71.4233567'
 gmap: "https://www.google.com/maps/place/41%C2%B049'18.7%22N+71%C2%B025'16.2%22W/@41.821858,-71.4233567,630m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d41.821854!4d-71.421168"
+street: [ 'Broadway' ]
+street-number: 113
 
 meta: ""
 excerpt: "A pair of turn-of-the-20th century buildings in use for commercial and automobile-related businesses with one being converted into apartments"

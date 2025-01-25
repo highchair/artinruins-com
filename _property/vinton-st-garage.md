@@ -26,6 +26,8 @@ address: '132 Vinton St, Providence RI'
 latitude: '41.820523'
 longitude: '-71.4304167'
 gmap: "https://www.google.com/maps/place/132+Vinton+St,+Providence,+RI+02909/@41.820523,-71.4304167,17z"
+street: [ 'Broadway' ]
+street-number: 309
 
 meta: ""
 excerpt: "A relatively low-slung and simple early 20th century former car repair garage in a residential portion off Broadway"

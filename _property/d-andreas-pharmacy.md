@@ -25,6 +25,8 @@ address: '342 Broadway, Providence RI'
 latitude: '41.8197259'
 longitude: '-71.4295161'
 gmap: "https://www.google.com/maps/place/342+Broadway,+Providence,+RI+02909/@41.8197259,-71.4295161,19z/data=!3m1!4b1!4m5!3m4!1s0x89e445759bf8a707:0xc5c106ae6acbe622!8m2!3d41.8197249!4d-71.4289689"
+street: [ 'Broadway' ]
+street-number: 342
 
 meta: ""
 excerpt: "A handsome single story early 20th-century storefront tastfully converted to a local bakery and coffee shop"

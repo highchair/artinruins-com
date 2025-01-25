@@ -27,6 +27,8 @@ address: '514 Broadway, Providence RI'
 latitude: '41.818159'
 longitude: '-71.4375317'
 gmap: "https://www.google.com/maps/place/514+Broadway,+Providence,+RI+02909/@41.818159,-71.4375317,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459c0588b2b9:0x1451b3f80ca72a8a!8m2!3d41.818155!4d-71.435343"
+street: [ 'Broadway' ]
+street-number: 514
 
 meta: ""
 excerpt: "An elaborate home decorated with “gingerbread” details and the former workshop of notable designers A. & L. Tirocchi is now a collective-run bed & breakfast & artist residency program"

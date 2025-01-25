@@ -20,6 +20,8 @@ address: '120 Broadway, Providence, RI'
 latitude: '41.82159'
 longitude: '-71.4232195'
 gmap: "https://www.google.com/maps/place/120+Broadway,+Providence,+RI+02903/@41.82159,-71.4232195,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450cd7d5f87f:0x4f93dc080d79124c!8m2!3d41.82159!4d-71.4210308"
+street: [ 'Broadway' ]
+street-number: 120
 
 meta: ""
 excerpt: "A pair of auto-centric businesses constructed as the “new” highway was carved through Providence in the 50s/60s."

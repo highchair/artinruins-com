@@ -19,6 +19,8 @@ address: '25 Broadway, Providence RI'
 latitude: '41.8225819'
 longitude: '-71.421413'
 gmap: "https://www.google.com/maps/place/25+Broadway,+Providence,+RI+02903/@41.8225819,-71.421413,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450d6deff1bf:0xec3808ece8748ce9!8m2!3d41.8225819!4d-71.4192243"
+street: [ 'Broadway' ]
+street-number: 25
 
 meta: ""
 excerpt: "A wonderful meeting of Brutalist and roadside architecture in a striking circular floor plan that fit the location at the apex of Broadway and Atwells Avenue quite well."

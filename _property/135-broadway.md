@@ -26,6 +26,8 @@ address: '135 Broadway, Providence RI'
 latitude: '41.8218212'
 longitude: '-71.4240074'
 gmap: "https://www.google.com/maps/place/135+Broadway,+Providence,+RI+02903/@41.8218212,-71.4240074,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450ccff0851d:0xd6f53bfbfc19340d!8m2!3d41.8218212!4d-71.4218187"
+street: [ 'Broadway' ]
+street-number: 135
 
 meta: ""
 excerpt: "A non-descript simple one-story brick and concrete structure on a busy commercial portion of Broadway"
