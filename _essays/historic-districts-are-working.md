@@ -16,7 +16,7 @@ sitemap:
   changefreq: 'yearly'
 ---
 
-We previously offered the opinion that [Providence needs more historic districts]({% link _essays/more-historic-districts.md %}). The current [Providence Historic District Commission](https://www.providenceri.gov/planning/providence-historic-district-commission-phdc/) (<span class="span">PHDC</span>) functions efficiently and those who seek to improve their property or build new are not unjustly burdened by the process. I would like to illustrate why I believe the <span class="span">PHDC</span> works well by reviewing the past months of activity.
+We previously offered the opinion that [Providence needs more historic districts]({% link _essays/more-historic-districts.md %}). The current [Providence Historic District Commission](https://www.providenceri.gov/planning/providence-historic-district-commission-phdc/) (<span class="span">PHDC</span>) functions efficiently and those who seek to improve their property or build new are not unjustly burdened by the process. We would like to illustrate why we believe the <span class="span">PHDC</span> works well by reviewing the past months of activity.
 {:.o__drop-cap}
 
 ## PHDC oversight in local historic districts
@@ -66,11 +66,11 @@ At a public hearing, plans are reviewed, questions are asked, suggestions are ad
 
 These examples provide a useful synopsis of applications the <span class="span">PHDC</span> reviews, what their concerns were, and how their feedback shaped the projects in a positive way.
 
-### 535 and 545 Broadway, Broadway Historic District
+### 545 Broadway, Broadway Historic District
 
-In 2020, [Application 20.037 (PDF)](https://www.providenceri.gov/wp-content/uploads/2020/05/Case20.037-535Broadway-StaffReport-documentation.pdf) was approved. It requested the demolition of a 1950s one-car cinder block garage at the rear of 547-549 Broadway ([Google street view](https://www.google.com/maps/place/547+Broadway,+Providence,+RI+02909/@41.8181821,-71.4364526,3a,90y,341.4h,88.54t/data=!3m7!1e1!3m5!1s9Gvuz16UZYKM2jdhf7jkRA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.461084258116557%26panoid%3D9Gvuz16UZYKM2jdhf7jkRA%26yaw%3D341.39978038963187!7i16384!8i8192!4m15!1m8!3m7!1s0x89e4459bef3fbfbb:0xbf8de8f16ac107b6!2s547+Broadway,+Providence,+RI+02909!3b1!8m2!3d41.8182885!4d-71.4368637!16s%2Fg%2F11c2dxvykg!3m5!1s0x89e4459bef3fbfbb:0xbf8de8f16ac107b6!8m2!3d41.8182885!4d-71.4368637!16s%2Fg%2F11c2dxvykg?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)). Later in 2020, in [Application 20.120 PDF](https://www.providenceri.gov/wp-content/uploads/2020/10/Case20.120-545Broadway-SR-docs-10-26-20.pdf), a developer proposed the construction of a new three-unit mixed-use house between 551–553 and 547–549 Broadway.
+In 2020, [Application 20.037 (PDF)](https://www.providenceri.gov/wp-content/uploads/2020/05/Case20.037-535Broadway-StaffReport-documentation.pdf) was approved. It requested the demolition of a 1950s one-car cinder block garage at the rear of 547-549 Broadway ([Google street view](https://www.google.com/maps/place/547+Broadway,+Providence,+RI+02909/@41.8181821,-71.4364526,3a,90y,341.4h,88.54t/data=!3m7!1e1!3m5!1s9Gvuz16UZYKM2jdhf7jkRA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.461084258116557%26panoid%3D9Gvuz16UZYKM2jdhf7jkRA%26yaw%3D341.39978038963187!7i16384!8i8192!4m15!1m8!3m7!1s0x89e4459bef3fbfbb:0xbf8de8f16ac107b6!2s547+Broadway,+Providence,+RI+02909!3b1!8m2!3d41.8182885!4d-71.4368637!16s%2Fg%2F11c2dxvykg!3m5!1s0x89e4459bef3fbfbb:0xbf8de8f16ac107b6!8m2!3d41.8182885!4d-71.4368637!16s%2Fg%2F11c2dxvykg?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)). Later in 2020, in [Application 20.120 PDF](https://www.providenceri.gov/wp-content/uploads/2020/10/Case20.120-545Broadway-SR-docs-10-26-20.pdf), a developer proposed the construction of a new three-unit mixed-use house between 535 and 547–549 Broadway.
 
-Both homes are located in the Broadway Historic District. 547–549 is the James T. Kennedy House and 551–553 is the Mrs. Margaret Gough House, both constructed in 1886 in the Second Empire style with Queen Anne details.
+Both neighboring homes are located in the Broadway Historic District. 535 is a home constructed in 1880 and 547–549 is the James T. Kennedy House, 1886. Both were designed with fashionable Queen Anne or Italianate details.
 
 <figure class="u__img">
   <img class="js-lazy" src="{{ site.propimg_path }}essays/historic-districts-work/547–553-streetview-late-2020.jpg" alt="" />
@@ -80,15 +80,15 @@ Both homes are located in the Broadway Historic District. 547–549 is the James
 The proposed new house, if it were not built within a historic district, would not have required any oversight. It could have been any design the developer wanted to finance, and therefore, could have been a cheap-looking, vinyl-sided box with no relation to its neighbors. For that to happen between two detailed and well-maintained historic homes would have been regrettable.
 
 <figure class="u__img">
-  <img class="js-lazy" src="{{ site.propimg_path }}545-broadway-pvd/545-broadway-jh-2025-01-04.jpg" alt="" />
+  <img class="js-lazy" src="{{ site.propimg_path }}545-broadway-pvd/545-broadway-jh-2025-01-05.jpg" alt="" />
   <figcaption>After: The new sympathetic construction at 545 Broadway is shown between its neighbors at 547 and 551.</figcaption>
 </figure>
 
-The new designs went before the commission three times in three public meetings — October 2020, [February 2021 (PDF)](https://www.providenceri.gov/wp-content/uploads/2021/02/Case20.120-545Broadway-SR-docs-02-22-21.pdf), and [Application 23.112 (PDF)](https://www.providenceri.gov/wp-content/uploads/2023/09/Case23.112-545Broadway-SR-docs.pdf) in September 2023. The application received conceptual approval in October of 2020. Out in the open, with the input of commission members, the designs improved.
+The new designs went before the commission three times in three public meetings — October 2020, [February 2021 (PDF)](https://www.providenceri.gov/wp-content/uploads/2021/02/Case20.120-545Broadway-SR-docs-02-22-21.pdf), and [Application 23.112 (PDF)](https://www.providenceri.gov/wp-content/uploads/2023/09/Case23.112-545Broadway-SR-docs.pdf) in September 2023. The application received conceptual approval in October of 2020.
 
-The proposed design decided to mimic the mansard roofs of its neighbors with similar but modernized fenestration and front porch details. Because of this, the commission offered minimal feedback between conceptual approval and final approval. The plans only came back in 2023 because the developer and architect made significant enough changes to warrant an additional round of review.
+The architect decided to mimic the mansard roofs of its neighbors with similar but modernized fenestration and front porch details. Because of this, the commission offered minimal feedback between conceptual approval and final approval. The plans only came back in 2023 because the developer and architect made significant enough changes to warrant an additional round of review.
 
-The building recently completed construction and is a modern addition to this row of stately historic homes.
+[545 Broadway recently completed construction]({% link _property/545-broadway-pvd.md %}) and is a modern addition to this row of stately historic homes.
 
 ### 64 Angell Street, College Hill
 
@@ -109,7 +109,7 @@ While the City in general needs more housing and this lot can accommodate more s
 
 ## Why these examples are notable
 
-In both cases, public review and comment invited oversight and scrutiny. The purpose of the <span class="span">PHDC</span> is to represent the public’s interest in private alterations.  When a homeowner alters their property or a developer proposes new buildings, they are not only doing it for their interests but also their neighbors and the larger Providence community. Alterations to historic homes and new construction will have long-lasting impact. Buildings within historic districts have higher resale values in part because of this oversight.
+In both cases, public review and comment invited oversight and scrutiny. The purpose of the <span class="span">PHDC</span> is to represent the public’s interest in private alterations. When a homeowner alters their property or a developer proposes new buildings, they are not only doing it for their interests but also their neighbors and the larger Providence community. Alterations to historic homes and new construction will have long-lasting impact. Buildings within historic districts have higher resale values in part because of this oversight.
 
 The ability to raise public awareness of these proposed changes is impactful. Because the plans for 64 Angell were made public, other groups — like the Providence Preservation Society and the College Hill Neighbors Association — could weigh in. While some see these compromises in a negative light — stifling architectural creativity and promoting a facade of “sameness” within a district — alterations and new developments achieve wider recognition and input, which leads to better outcomes.
 
@@ -123,3 +123,5 @@ In addition to the historic buildings within our districts, public oversight and
 ***
 
 An edited version of this article appeared in the [Providence Eye, 08 January 2024](https://pvdeye.org/how-is-providences-historic-aesthetic-maintained/), with input and edits by Debbie Shimberg.
+
+Corrections: Since publication, we have corrected the history for the two neighboring houses at 545 Broadway. We mistakenly identified one as the Mrs. Margaret Gough House at 551–553, which is not a direct neighbor of 545.
