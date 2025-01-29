@@ -81,7 +81,7 @@ The proposed new house, if it were not built within a historic district, would n
 
 <figure class="u__img">
   <img class="js-lazy" src="{{ site.propimg_path }}545-broadway-pvd/545-broadway-jh-2025-01-05.jpg" alt="" />
-  <figcaption>After: The new sympathetic construction at 545 Broadway is shown between its neighbors at 547 and 551.</figcaption>
+  <figcaption>After: The new sympathetic construction at 545 Broadway is shown between its neighbors at 535 and 547–549.</figcaption>
 </figure>
 
 The new designs went before the commission three times in three public meetings — October 2020, [February 2021 (PDF)](https://www.providenceri.gov/wp-content/uploads/2021/02/Case20.120-545Broadway-SR-docs-02-22-21.pdf), and [Application 23.112 (PDF)](https://www.providenceri.gov/wp-content/uploads/2023/09/Case23.112-545Broadway-SR-docs.pdf) in September 2023. The application received conceptual approval in October of 2020.

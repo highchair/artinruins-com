@@ -14,6 +14,7 @@ sitemap:
 We research properties using the following resources, more or less in the order they are presented.
 {: .o__drop-cap }
 
+• 
 [Jump to the list of Polk City Directories by year](#polk-city-directories)
 
 
@@ -43,6 +44,7 @@ Ask these questions and follow the resources links for “Yes” answers:
 + Check the [Providence Development Mapper](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=ab28206d40a54791b7128555cd8e7e18), maintained by the City Plan Commission
 + And then, check the [archive of past meeting materials](https://www.providenceri.gov/planning/cpc-meeting-materials-archive/) to find the relevant case number.
 
+
 ## Maps and Aerials
 
 + **Library of Congress**, Sanborn Map Collection:
@@ -55,7 +57,9 @@ Ask these questions and follow the resources links for “Yes” answers:
   + [1937 G.M. Hopkins Maps](https://sosri.access.preservica.com/index.php?name=SO_69b23a31-0ab1-4ec9-887f-28aa5818a32a)
 + [Pawtucket Library on Flickr, Map Collection](https://www.flickr.com/photos/pawtucketlibrary/collections/72157692991294082/): Only city of Pawtucket maps.
 + [Providence RI, Digital Archives](https://t93c12bb2a2098924.starter1ua.preservica.com/archive): Includes maps and house directories.
-+ [Providence Historical Aerial Viewer](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e)
++ **Aerials and Plat Maps**
+  + [Providence Historical Aerial Viewer](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e)
+  + [Tax Assessor list of Plat Maps with Lot numbers](https://www.providenceri.gov/tax-assessors-maps/): When looking up property records, an address result will include Play and Lot numbers, which can be cross checked against these maps. Helpful when a lot has been recently subdivided.
 
 
 ## Photo Archives
