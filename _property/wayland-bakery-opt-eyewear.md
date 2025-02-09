@@ -51,12 +51,16 @@ images:
     sizes: '1600, 900'
   - url: 138-wayland-jh-2023-08-05.jpg
     sizes: '1440, 900'
+  - url: 138-wayland-demo-ka-2025-01-01.jpg
+    sizes: '1440, 900'
+  - url: 138-wayland-demo-ka-2025-01-02.jpg
+    sizes: '1440, 900'
   - url: 138-wayland-jh-2025-01-01.jpg
     sizes: '1440, 900'
 
 mostrecentimage: 2025-01-01
 
-imagescredit:
+imagescredit: 'Contributions from Karen McAninch and Beth Alianiello'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
