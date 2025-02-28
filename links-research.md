@@ -58,7 +58,7 @@ Ask these questions and follow the resources links for “Yes” answers:
 + [Pawtucket Library on Flickr, Map Collection](https://www.flickr.com/photos/pawtucketlibrary/collections/72157692991294082/): Only city of Pawtucket maps.
 + [Providence RI, Digital Archives](https://t93c12bb2a2098924.starter1ua.preservica.com/archive): Includes maps and house directories.
 + **Aerials and Plat Maps**
-  + [Providence Historical Aerial Viewer](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e)
+  + [Providence Historical Aerial Viewer](https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad/)
   + [Tax Assessor list of Plat Maps with Lot numbers](https://www.providenceri.gov/tax-assessors-maps/): When looking up property records, an address result will include Play and Lot numbers, which can be cross checked against these maps. Helpful when a lot has been recently subdivided.
 
 

@@ -69,7 +69,7 @@ The long, narrow warehouse building with a loading dock only ever caught our att
 
 **Rhode Island Tropical Produce** also operated out of this location, according to business listings, along with **Tony’s Produce**.
 
-The building was unremarkable otherwise. It was erected in 1974, according to the report below. A long loading dock was on one side with only a few entrances and almost no windows. The construction seemed to have been cinder block. It was demolished sometime in 2021 according to Google Streetview and the [Providence Historical Aerial Viewer](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e).
+The building was unremarkable otherwise. It was erected in 1974, according to the report below. A long loading dock was on one side with only a few entrances and almost no windows. The construction seemed to have been cinder block. It was demolished sometime in 2021 according to Google Streetview and the [Providence Historical Aerial Viewer](https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad/).
 
 #### Mike’s Diner
 
@@ -87,7 +87,7 @@ The rectangular Mike’s Diner building still stands as of the summer of 2022. B
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 […] To the east, along Rathbone Street, is a one- and two-story, flat-roof structure. The north half of the structure (1974) stands one-story in height with a loading dock and overhanging canopy along its west elevation. Attached to this concrete block structure is a two-story, brick block (1927) with decorative brick stringcourses and a simple cornice. Three pedestrian entrances with replacement doors are located along the façade. Fenestration consists of single and tripled, rectangular replacement 1/1 sash. A tall brick chimney rises from the north end of this block. A sign reading: “Breakfast - Lunch Restaurant” is located on the [parking lot facing western] façade. […]
 

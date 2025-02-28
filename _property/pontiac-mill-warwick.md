@@ -180,7 +180,7 @@ The Pontiac Mill has gone through some major changes in its 160 years. Here is a
 
 2006
 : A travel-industry start-up, NYLO Hotels, announces plans to construct a new hotel on the site of a portion of the Pontiac Mill. The company said its Warwick hotel will feature 164 rooms.[^11]
-: A portion of the western mills were demolished for the new 5-story hotel building. [Aerial photos from 2006](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e){:target="_blank"} shows two western buildings missing and the ground completely cleared. In the previous 2003 photo, two buildings were in place and by 2008, the newer NYLO buildings (with white rubber roofing) is in place.
+: A portion of the western mills were demolished for the new 5-story hotel building. [Aerial photos from 2006](https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad/) shows two western buildings missing and the ground completely cleared. In the previous 2003 photo, two buildings were in place and by 2008, the newer NYLO buildings (with white rubber roofing) is in place.
 
 2010
 : A “100-year flood” of the Pawtuxet river put much of the area, including the mills, under water for almost 2 weeks.[^12] The NYLO Hotel had to close and would not reopen for another two years.

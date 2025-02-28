@@ -16,7 +16,7 @@ sitemap:
   changefreq: 'yearly'
 ---
 
-_Contribution of aerial photos from the <a href="https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e">Providence Historical Aerial Viewer</a>_
+_Contribution of aerial photos from the <a href="https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad/">Providence Historical Aerial Viewer</a>_
 
 ## The District
 

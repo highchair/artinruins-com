@@ -74,7 +74,7 @@ Listed on the Northeast Firenews website as a retired station built in 1940.[^1]
 
 [^2]: Captured November 4, 2021 from Plate 30 at http://www.historicmapworks.com/Map/US/895487/Plate+030/Providence+1937/Rhode+Island/ 
 
-[^3]: Seen in results from the Providence Historic Aerial Viewer. Captured November 4, 2021 from https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e 
+[^3]: Seen in results from the Providence Historic Aerial Viewer. Captured November 4, 2021 from https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad/ 
 
 An anecdote from Fire History enthusiast Harry Cohoon (below) rejects that this was a fire station and thinks that the building is likely older than 1930s as we previously noted. He is probably correct. [An 1920-1921 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} shows a brick building of a similar footprint at this location of 63-65 Ashburton. And again, [as early as an 1899 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002){:target="_blank"}, this building seems to be in place but smaller and labelled as “Livery.” We have since changed the likely build date to 1900, but the building could be even older than that. 
 
@@ -94,7 +94,6 @@ _by Katherine Imbrie_
 In a city filled with up-and-coming neighborhoods, Maria Bernal is staking a claim in a part of Providence that many pass through with some frequency, but few think of in terms of an upscale and cosmopolitan shop like her new Antiques & Interiors. The store is on Ashburton Street – and you may wonder, even if you have lived in Providence a long time: Where is that?
 
 The long answer is that it is the back loop of Charles Street, the one-way section that brings you to Kelly’s Carwash right at the on-ramp for Route 95, next to the railroad tracks, and not far from the main post office. The short answer is that it’s the street behind Amazing Video.
-
 In a heavily trafficked, mostly industrial area like this, who would expect to come upon a shop like Bernal’s? Yet, there it is: A beacon of panache and chic, reflecting its owner’s keen eye for good design of any period and in many price ranges, as well as her taste for the unusual and international.
 
 Bernal, who owns the shop herself and runs it along with her little Shih Tzu dog Stitch, led a peripatetic existence before moving to Providence 14 years ago. Antiques & Interiors is her first retail venture; she has been a globetrotting publishing executive for a medical trade journal for many of those years.

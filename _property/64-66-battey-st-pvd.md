@@ -52,7 +52,7 @@ imagescredit:
 
 The little piece of land that this duplex sits on seems to have been the parking lot of the nearby 68-70 Battey Street, or 445 West Fountain Street. From aerial photos, it looked like a car lot for vehicles to be worked on, like many lots in the area. The cars are present in a 2003-2004 aerial photo. It does not look like a building has been present on this site since 1981.[^1] According to the latest Sanborn Maps we have access to, there was still a house present at this location in 1956.[^2]
 
-[^1]: Using the Providence Historical Aerial Viewer for the address 64 Battey Street, https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e
+[^1]: Using the Providence Historical Aerial Viewer for the address 64 Battey Street, https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad/
 
 [^2]: Library of Congress, Sanborn Maps, 1921-1956, Volume 1, Plate 47 captured April 4, 2022 from http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601
 

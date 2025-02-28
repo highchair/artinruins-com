@@ -117,7 +117,7 @@ George Thurber sold the property in 2015 after the business had been closed for 
 
 ### History
 
-No formal history has been compiled. The [Providence Historical Aerial Viewer](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e) shows that it was built between the 1939 and 1951 photos, though the 1939 photo may show that part of this building was in place. We have not yet been able to find this building on any cadastral maps.
+No formal history has been compiled. The [Providence Historical Aerial Viewer](https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad/) shows that it was built between the 1939 and 1951 photos, though the 1939 photo may show that part of this building was in place. We have not yet been able to find this building on any cadastral maps.
 
 In a [1902 Sanborn insurance map, Volume 1, Plate 77](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961902) (page 82) this triangular parcel has many wooden structures and a few conjoined four-story brick structures, but none in the shape and size of the current building. 
 

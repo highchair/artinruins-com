@@ -90,7 +90,7 @@ This collection of small cinder-block structures are not present in a G.M. Hopki
 
 [^1]: Captured November 4, 2021 from Plate 30 at http://www.historicmapworks.com/Map/US/895487/Plate+030/Providence+1937/Rhode+Island/
 
-[^2]: Seen in results from the Providence Historic Aerial Viewer. Captured November 4, 2021 from https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e
+[^2]: Seen in results from the Providence Historic Aerial Viewer. Captured November 4, 2021 from https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad/
 
 ***
 

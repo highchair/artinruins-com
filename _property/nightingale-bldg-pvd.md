@@ -96,7 +96,7 @@ The nightingale should not be confused with the peacock. It does not shout its b
 
 ### History
 
-Notes on the aerial photos from the [Providence Historical Aerial Viewer](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e): 
+Notes on the aerial photos from the [Providence Historical Aerial Viewer](https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad/): 
 
 + In a 1962 the entire block is covered by buildings, which are in a similar configuration to the [1920 Sanborn map](#photo-1920-sanborn-vol1-pl4-detail).
 + In the 1972 aerial photo, there are buildings on both the Fountain and Washington Street sides, but no buildings in-between. By 1981 the Fountain St. building is gone except for [66 Fountain St]({% link _property/66-fountain-st.md %}).
