@@ -2,8 +2,8 @@
 title: "Ashburton Fire Station"
 slug: ashburton-fire-station
 aka: 'Antiques & Interiors'
-date-modified: 2022-03-03 12:00
-update: "Modified the build date to an older one and added some context for this change"
+date-modified: 2025-02-23 12:00
+update: "Added two recent photos from last fall as the building slowly decays"
 
 built: '1900'
 demolition:
@@ -44,10 +44,14 @@ images:
     sizes: '1440, 900'
   - url: ashburton-jh-2021-11-02.jpg
     sizes: '1200, 900'
+  - url: ashburton-jh-2024-09-01.jpg
+    sizes: '1200, 900'
+  - url: ashburton-jh-2024-09-02.jpg
+    sizes: '1440, 900'
 
 imagescredit:
 
-mostrecentimage: 2021-11-01
+mostrecentimage: 2024-09-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -76,7 +80,7 @@ Listed on the Northeast Firenews website as a retired station built in 1940.[^1]
 
 [^3]: Seen in results from the Providence Historic Aerial Viewer. Captured November 4, 2021 from https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad/ 
 
-An anecdote from Fire History enthusiast Harry Cohoon (below) rejects that this was a fire station and thinks that the building is likely older than 1930s as we previously noted. He is probably correct. [An 1920-1921 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} shows a brick building of a similar footprint at this location of 63-65 Ashburton. And again, [as early as an 1899 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002){:target="_blank"}, this building seems to be in place but smaller and labelled as “Livery.” We have since changed the likely build date to 1900, but the building could be even older than that. 
+An anecdote from Fire History enthusiast Harry Cohoon (below) rejects that this was a fire station and thinks that the building is likely older than 1930s as we previously noted. He is probably correct. [An 1920-1921 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102) shows a brick building of a similar footprint at this location of 63-65 Ashburton. And again, [as early as an 1899 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002), this building seems to be in place but smaller and labelled as “Livery.” We have since changed the likely build date to 1900, but the building could be even older than that. 
 
 
 #### Architecture
@@ -86,7 +90,7 @@ A two story red brick mill-looking building with central garage door size openin
 
 ### In the News
 
-#### Browsing: Functional Furnishings, From Fine To Funky
+#### Browsing: A beacon of chic in a gritty city neighborhood
 
 _by Katherine Imbrie_  
 **Providence Journal** | July 24, 2006 (abridged)
@@ -94,6 +98,7 @@ _by Katherine Imbrie_
 In a city filled with up-and-coming neighborhoods, Maria Bernal is staking a claim in a part of Providence that many pass through with some frequency, but few think of in terms of an upscale and cosmopolitan shop like her new Antiques & Interiors. The store is on Ashburton Street – and you may wonder, even if you have lived in Providence a long time: Where is that?
 
 The long answer is that it is the back loop of Charles Street, the one-way section that brings you to Kelly’s Carwash right at the on-ramp for Route 95, next to the railroad tracks, and not far from the main post office. The short answer is that it’s the street behind Amazing Video.
+
 In a heavily trafficked, mostly industrial area like this, who would expect to come upon a shop like Bernal’s? Yet, there it is: A beacon of panache and chic, reflecting its owner’s keen eye for good design of any period and in many price ranges, as well as her taste for the unusual and international.
 
 Bernal, who owns the shop herself and runs it along with her little Shih Tzu dog Stitch, led a peripatetic existence before moving to Providence 14 years ago. Antiques & Interiors is her first retail venture; she has been a globetrotting publishing executive for a medical trade journal for many of those years.
@@ -105,3 +110,5 @@ In between trips abroad, Bernal fashioned the upstairs into her lofty living spa
 [...] Bernal is the natural hub of a network of artists and artisans, both local and international, with whom she connects customers who have special desires. She doesn’t take a cut of these connections. Rather, she wants to “create a community of outsources for good design.”
 
 [...] There is just no telling what you’ll find at Antiques & Interiors: Among the few rules that Bernal observes is, “Everything functional – no kitsch.” […]
+
+— IMBRIE, KATHERINE. “Spending - Browsing - A beacon of chic in a gritty city neighborhood.” <em>Providence Journal (RI)</em>, All ed., sec. Lifebeat/HOME, 6 Aug. 2006, pp. J-02. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1524271E2366F148. Accessed 23 Feb. 2025.
