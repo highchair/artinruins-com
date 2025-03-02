@@ -70,27 +70,27 @@ mostrecentimage: 2023-02-01
 
 ### Redevelopment
 
-The [Providence Revolving Fund](//revolvingfund.org){:target="_blank"} purchased this building in June of 2006 to use as their new headquarters. Executive Director Clark Schoettle and the Revolving Fund team used their expertise in helping homeowners renovate their homes with historic accuracy to save much of the original character of the offices upstairs. Original woodwork, doors with bubble glass, and large transoms were retained. 
+The [Providence Revolving Fund](https://revolvingfund.org) purchased this building in June of 2006 to use as their new headquarters. Executive Director Clark Schoettle and the Revolving Fund team used their expertise in helping homeowners renovate their homes with historic accuracy to save much of the original character of the offices upstairs. Original woodwork, doors with bubble glass, and large transoms were retained.
 
-The lovely exterior was cleaned and mortar was repointed. The mid-century garage door was replaced with a more historically accurate french door with arched top. A mid-century one-story annex seen in our 2006 photos was demolished as it was not a contributing historic structure. 
+The lovely exterior was cleaned and mortar was repointed. The mid-century garage door was replaced with a more historically accurate french door with arched top. A mid-century one-story annex seen in our 2006 photos was demolished as it was not a contributing historic structure.
 
 The Providence Revolving Fund provides low cost loans to homeowners and small businesses, provides consulting and project management for renovation work, and manages an architectural salvage collection. Locally, some of their high profile projects include loans and consulting for [AS220’s Dreyfus]({% link _property/dreyfus-hotel.md %}), the Wedding Cake House, the [Poirier Diner]({% link _property/poiriers-kullman-diner.md %}), [Monohasset Mill]({% link _property/monohasset-mill.md %}), and most of the renovations downtown such as the [Peerless]({% link _property/peerless-low-buildings-pvd.md %}) and the [Burgess O’Gorman]({% link _property/burgess-ogorman-buildings-pvd.md %}) buildings.
 
 
 ### Current Events
 
-This building has been home to the [Providence Revolving Fund](//revolsingfund.org){:target="_blank"} since their renovation of it in 2007–2008. A business occupies the ground floor space along Fountain Street with another, [West Side Wellness](http://www.westsidewell.com){:target="_blank"}, in the rear. 
+This building has been home to the [Providence Revolving Fund](https://revolsingfund.org) since their renovation of it in 2007–2008. A business occupies the ground floor space along Fountain Street with another, [West Side Wellness](http://www.westsidewell.com), in the rear. 
 
 
 ### History
 
 The location and flat site plan can be found on a 1920–1951 Sanborn Map as “The R.I. Society Prevention of Cruelty to Animals.” The map was first drawn in 1920 and only changed parcels were redrawn in 1951. On the original 1920 map, this location was occupied by buildings owned by the “Rhode Island Coupling & Combination Ladder Co.”
 
-The <span class="abbr">RISPCA</span> built this structure in 1925 and occupied it until 1982 when they moved into a new shelter built in Riverside (and designed by William Kite). 
+The <span class="abbr">RISPCA</span> built this structure in 1925 and occupied it until 1982 when they moved into a new shelter built in Riverside (and designed by William Kite).
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a two-story, five-bay-wide, flat-roof, brick building set on the south side of West Fountain Street. The building is embellished with an arched-parapet, decorative brick work, a heavy cornice with Spanish tile roof and large, decorative brackets. A concrete panel bearing the date 1925 is centrally located along the roof line. Pedestrian entrances are located on the two end bays of the façade and feature replacement doors set below transoms. A vehicular entrance is centrally located on the façade, within a segmental-arch opening with keystone. Fenestration is comprised of rectangular, multi-light/1 sash windows set below 4-light transoms. A small, one-story, flat-roof ell (late 20th century) projects from the west side of the building. A concrete block ell projects from the southwest comer.
 

@@ -108,7 +108,7 @@ imagescredit: 'Contributions from Clark Schoettle for the National Register form
 
 ### Redevelopment
 
-The three- and four-story, multi-building complex became a blight in the neighborhood soon after it was vacated when Scovill Manufacturing acquired Rau Fastener in 1996.[^1] The West Elmwood Housing Development Corporation (<span class="abbr">WEHDC</span>) took up the challenge of developing the mill into affordable-rate housing with a $15 million project under the urban planning and architecture guidance of [Durkee, Brown, Viverios, and Werenfels]({% link designer/dbvw-architects.html %}). 
+The three- and four-story, multi-building complex became a blight in the neighborhood soon after it was vacated when Scovill Manufacturing acquired Rau Fastener in 1996.[^1] The West Elmwood Housing Development Corporation (<span class="abbr">WEHDC</span>) took up the challenge of developing the mill into affordable-rate housing with a $15 million project under the urban planning and architecture guidance of [Durkee, Brown, Viverios, and Werenfels]({% link designer/dbvw-architects.html %}).
 
 [^1]: Morito Scovill Americas, About Us/Our History page, captured January 1, 2020 from http://www.scovill.com/about-us/history/
 
@@ -116,14 +116,14 @@ The land under and around the buildings qualified as brown fields and had to be 
 
 [^2]: “Westfield Lofts - Providence, RI (April 2006)”, EPA archive, captured January 1, 2020 from https://archive.epa.gov/region1/brownfields/web/html/wl_providence_ri_rlf_tba.html
 
-The <span class="abbr">WEHDC</span> converted the former Ada and Providence Lithograph buildings into 69 one and two bedroom residential units. The older and rarer clapboard-covered wood framed Charles H. Perkins Mill on Dexter and Harrison streets has been converted to their office headquarters. A central lot was emptied of non-historic structures, remediated from contamination, and is now home to new construction for commercial space. 
+The <span class="abbr">WEHDC</span> converted the former Ada and Providence Lithograph buildings into 69 one and two bedroom residential units. The older and rarer clapboard-covered wood framed Charles H. Perkins Mill on Dexter and Harrison streets has been converted to their office headquarters. A central lot was emptied of non-historic structures, remediated from contamination, and is now home to new construction for commercial space.
 
-The project was the first of a few mill redevelopments in the area. Not far away is [ROOMS and WORKS](//www.roomsandworks.com){:target="_blank"}, home to small businesses, market-rate lofts, and a kitchen incubator space; as well as the [Virginia & Spanish Peanut](//www.vspnut.com){:target="_blank"} outlet. 
+The project was the first of a few mill redevelopments in the area. Not far away is [ROOMS and WORKS](https://www.roomsandworks.com), home to small businesses, market-rate lofts, and a kitchen incubator space; as well as the [Virginia & Spanish Peanut](https://www.vspnut.com) outlet.
 
 
 ### Current Events
 
-The property has its historic address on Sprague Street, but its rental office address at 230 Dexter St. Call (401) 272-5061 for rental inquiries. 
+The property has its historic address on Sprague Street, but its rental office address at 230 Dexter St. Call (401) 272-5061 for rental inquiries.
 
 
 ### History
@@ -145,7 +145,7 @@ _85 Sprague Street:_ An asymmetrical T-plan, 4-story brick, predominantly pier-a
 
 The building is 118 x 190' with a shallow-pitched gable roof. Framing is of the slow-burning type: 9.5" wooden columns on the first and second floors (7.5" columns on the third and fourth) with roughly 2" flooring laid on 13x9" beams. Windows are wooden frame, grouped generally in threes, double-hung, with 9/9 sash set in segmental arch openings; some are damaged, filled, or plywood covered. Sills are of quarry-faced granite. A monitor roof is located over the stairwell near the corner of Sprague and Harrison.
 
-The front elevation is eight bays. A hooded and recessed entrance is found at the third bay from Harrison Street. […] Charles Perkins named this building after his daughter, Ada Lucretia Perkins (1868-1931). 
+The front elevation is eight bays. A hooded and recessed entrance is found at the third bay from Harrison Street. […] Charles Perkins named this building after his daughter, Ada Lucretia Perkins (1868-1931).
 
 #### Charles H. Perkins, 1887 et seq.
 
@@ -161,7 +161,7 @@ Though much altered, the Charles H. Perkins Building is defined as contributing 
 
 _102 Westfield Street, Freeborn Johnson, carpenter-builder:_ A rectangular plan, 3-story brick building oriented north-south between Sprague and Westfield Streets. This building has a shallow-pitched gable roof and plain wood cornice. Framing is of the slow-burning type: approximately 9" wooden columns with 2.75" thick sub flooring laid on 13.5 x 9" beams. Third floor trusses span the entire space. Rows of secondary steel columns have been added on both sides of the original single row of wooden columns. Many of the original wooden-frame windows survive; some are replaced with 20th-century metal frame inserts. Most of the windows, set in segmental arch openings, have fixed sashes (either 8/12 or 12/12) with swinging four-light transoms. A likely later alteration allows some of the formerly fixed lower sashes to pivot and swing out on a central axis. Sills are quarry-faced granite.
 
-The front (Westfield Street) elevation consists of five symmetrical bays with a recessed entranceway occupying the first (westernmost) bay. The rear (south) elevation also has five bays; the center bay has a double, wood-frame loading door at each floor. Once freestanding and separated from the Ada Building by an alley, the Providence Lithograph Building is now connected to the Ada Building by mid-20th-century infill and an elevated walkway. […] 
+The front (Westfield Street) elevation consists of five symmetrical bays with a recessed entranceway occupying the first (westernmost) bay. The rear (south) elevation also has five bays; the center bay has a double, wood-frame loading door at each floor. Once freestanding and separated from the Ada Building by an alley, the Providence Lithograph Building is now connected to the Ada Building by mid-20th-century infill and an elevated walkway. […]
 
 **Plating and Shipping Addition, Providence Lithograph Building** (1952 [considered non-contributing, now demolished]): A 2-story, 60 x 190' addition attached to the Dexter Street wall of the Providence Lithograph Building. The original exterior wall of the older building is intact. Built by **Rau Fastener** in 1952, this addition is typical of mid-20th-century industrial construction: near-flat roof, brick skin on steel frame, metal frame windows, and concrete foundation. A moderne two-story entrance surfaced in cast stone opens onto Westfield Street. A wide stairway leads to a recessed glass and metal frame doorway. Above this doorway is a wide, 15-light metal frame rectangular window, above that a decorative panel of white brick. There are two concrete shipping platforms on the Dexter Street elevation.
 
@@ -169,20 +169,20 @@ The front (Westfield Street) elevation consists of five symmetrical bays with a 
 
 #### Rau Fastner
 
-Rau Fastener Company moved in as a tenant in 1917, expanded its operations, and owned and occupied the three Perkins buildings by the 1970s. They expanded the complex in 1952, as noted above. 
+Rau Fastener Company moved in as a tenant in 1917, expanded its operations, and owned and occupied the three Perkins buildings by the 1970s. They expanded the complex in 1952, as noted above.
 
 In 1911 Romanian immigrant Lues Reiter (1871-1947) established a small company of four employees producing metal stampings and fasteners for fabric. In 1917 the company moved from its Blount Street, Providence, location to occupy two floors of the Providence Lithograph Building. By 1940 Rau had a staff of 100, working in 40,000 sq ft of space that included some of the Ada Building next door.
 
 The company grew dramatically during the war years, employing 450 and earning four Army-Navy E awards for production of a range of buckles and fasteners for the war effort. […]
 
-Around 1968 the company established a new division, **Rau Findings Company** (located in the Olneyville section of the Providence), even as it was considering the option of going public or merging with a larger company. Choosing the latter, the company was sold to U.S. Industries in 1968. In 1971 Rau purchased the Charles H. Perkins Building, refitting it for its Rimco subsidiary and machine rebuilding department. 
+Around 1968 the company established a new division, **Rau Findings Company** (located in the Olneyville section of the Providence), even as it was considering the option of going public or merging with a larger company. Choosing the latter, the company was sold to U.S. Industries in 1968. In 1971 Rau purchased the Charles H. Perkins Building, refitting it for its Rimco subsidiary and machine rebuilding department.
 
 In 1975 the Rau division of U.S. Industries was sold to Premier Metal; ten years later it was sold again to London-based Hanson Trust. By 1990 the local management of Rau was concerned that a competitor, Georgia-based Scovill Fastener, was planning to acquire the company for the purpose of consolidating it into its Georgia operation. In response Rau’s officers borrowed substantially to buy the division back from Hanson. The purchase was accomplished, but the repatriated Rau lost money in 1991, 1992, and 1993. […] Rau filed for receivership in September, 1994, with a debt of $8.8 million.
 
 <details markdown="1" class="rhythm">
   <summary>More history</summary>
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 A large complex on the east side of Dexter Street at the corner of Dexter and Sprague streets. The complex consists of three parts: a three-story brick building facing Westfield Street (1890), a two-story brick factory building facing Dexter Street, and a four-story building (Ada Building) to the east. The Dexter Street factory building (1952) stands behind a paved lot on the east side of Dexter Street. It is a large, two-story, brick, rectangular structure with a flat roof. Several loading bays are located on the first floor level of the west elevation. Fenestration is comprised of rows of rectangular, fixed and awning windows. To the east is the three-story, brick block set perpendicular to the street. The building features segmental-arch window openings with a combination of multi-light sash and brick and wood infill with stone sills. A tall, brick smokestack with brick corbelling stands as a prominent feature of the complex. To the east is the four-story, gable-roof, L-shaped Loft building, which stands parallel to Sprague Street. This block features similar fenestration to the three-story block and features a one-story boiler room on its northwest side. A two-story, wood-frame building clad in metal sheathing stands on the north side of Westfield Street.
 

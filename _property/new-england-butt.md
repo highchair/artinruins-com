@@ -76,7 +76,7 @@ images:
   - url: new-england-butt-jh-2006-04-09.jpg
     sizes: '1200, 900'
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A5054" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> and Sarah Clover'
+imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/islandora%3A5054">John Hutchins Cady Research Scrapbooks Collection</a> and Sarah Clover'
 
 mostrecentimage: 2006-04-01
 
@@ -87,7 +87,7 @@ mostrecentimage: 2006-04-01
 
 ### Redevelopment
 
-The early to mid-oughts post [Eagle Square]({% link _property/eagle-square.md %}) were a boom time for mill redevelopment. With Baltimore-based [Streuver Brothers]({% link designer/sber.html %}) in town, many mills along Valley Street and on the West Side of Providence were being converted. By the crash of 2008, the market finally began to cool off, or in some cases screech to a halt abruptly. 
+The early to mid-oughts post [Eagle Square]({% link _property/eagle-square.md %}) were a boom time for mill redevelopment. With Baltimore-based [Streuver Brothers]({% link designer/sber.html %}) in town, many mills along Valley Street and on the West Side of Providence were being converted. By the crash of 2008, the market finally began to cool off, or in some cases screech to a halt abruptly.
 
 The former New England Butt Company was purchased in 2003 and redeveloped by the [Armory Revival Company]({% link designer/armory-revival-company.html %}) with design expertise provided by [Durkee, Brown, Viveiros & Werenfels Architects]({% link designer/dbvw-architects.html %}). Out of 55 units, 36 were for rent, 19 were for sale, and 4 of those were affordable to purchase by federal and state standards. The term “affordable” is varied, but we appreciated the fact that about 10% of the units were affordable by any means, as no other developer during the early oughts was concerned about making units affordable by any measure.
 
@@ -98,17 +98,17 @@ About 44,000 sf of the complex — mostly a one story, less historically signifi
 
 ### Current Events
 
-[Pearl Street Lofts](http://armorymanagement.com/pearl-street-lofts/){:target="_blank"} occasionally has units for sale or for rent and is managed through the Armory Management Company. Sister properties include Rising Sun Mills, AlCo, the Plant, and Calendar Mills, all along Valley Street.
+[Pearl Street Lofts](http://armorymanagement.com/pearl-street-lofts/) occasionally has units for sale or for rent and is managed through the Armory Management Company. Sister properties include Rising Sun Mills, AlCo, the Plant, and Calendar Mills, all along Valley Street.
 
 
 ### History
 
-We are intrigued by what looks like [a new podcast coming all about the history of the New England Butt Company](http://www.nebuttco.com){:target="_blank"}.
+We are intrigued by what looks like [a new podcast coming all about the history of the New England Butt Company](http://www.nebuttco.com).
 {:.o__tldr}
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a complex of two- and three-story, brick structures with flat roofs. The northern block (at Pearl Street) is a three-story block notable for its four-story, flat-roof elevator tower at the corner of Pearl and Central streets. A vehicular entrance with metal roll top door is offset on the façade (Central Street elevation) and a recessed pedestrian entrance is centrally located on this elevation. Window openings have been bricked in and boarded up. Modern signage reading **“Harold’s Furniture”** is located at the second-story level of the façade. The building’s rear (Rice Street) elevation consists of multiple vehicular entrances along the first story. Window openings on this elevation are segmental arch. The southern end of this block is lower than the remainder. A covered walkway connects this block to a three-and-one-half-story, gable-roof building on the north side of Pearl Street.
 
@@ -132,7 +132,7 @@ By 1901 the **New England Butt Company** employed 200 skilled workers in the man
 
 _From the National Register Nomination Form, 1980_
 
-The New England Butt Company plant complex is located in the block bounded by Pearl, Perkins, Rice, and A streets (see site plan). Much of the complex pre-dates 1875. The front building, at 304 Pearl Street, was erected in 1865 from the designs of Providence builder-architect Spencer P. Read. Originally, the machining and assembling building and now used for offices, it is a handsome, 3 1/2 story, brick structure, with a trap-door monitor roof, corbelled brick cornices, and brick window caps and arched door surrounds. Exterior changes have been minimal. A long wing, originally two stories in height, but raised to three c. 1907, extends along Perkins Street. Although its brick window caps correspond with those in the Pearl Street building, part of the structure may pre-date 1865. 
+The New England Butt Company plant complex is located in the block bounded by Pearl, Perkins, Rice, and A streets (see site plan). Much of the complex pre-dates 1875. The front building, at 304 Pearl Street, was erected in 1865 from the designs of Providence builder-architect Spencer P. Read. Originally, the machining and assembling building and now used for offices, it is a handsome, 3 1/2 story, brick structure, with a trap-door monitor roof, corbelled brick cornices, and brick window caps and arched door surrounds. Exterior changes have been minimal. A long wing, originally two stories in height, but raised to three c. 1907, extends along Perkins Street. Although its brick window caps correspond with those in the Pearl Street building, part of the structure may pre-date 1865.
 
 Perhaps the oldest structure in the complex is the much altered, 2 1/2-story, monitor-roofed, frame building in the center of the block on Perkins Street. It was probably in existence in 1865, and may have been constructed between 1849 and 1857. The factory complex also contained a foundry, which was closed in 1948. A large, flat-roofed, glass-brick structure, replacing the foundry and occupying the rest of the block, was erected in 1951. It is intended to nominate all of the complex except for the 1951 structure.
 
@@ -140,12 +140,12 @@ Perhaps the oldest structure in the complex is the much altered, 2 1/2-story, mo
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
-Incorporated in 1842, the **New England Butt Company** is one of the oldest and most extensive hardware manufacturers in New England. Today only small portions of the company’s c. 1842 buildings survive. They have been either destroyed or greatly altered to make room for a more modern 1-story structure. 
+Incorporated in 1842, the **New England Butt Company** is one of the oldest and most extensive hardware manufacturers in New England. Today only small portions of the company’s c. 1842 buildings survive. They have been either destroyed or greatly altered to make room for a more modern 1-story structure.
 
 The main building, a 3-story, brick structure, 131’ X 38’, built in 1865, is located at the corner of Pearl and Perkins Streets. It has segmental-arch windows with granite sills, an altered trap-door monitor, and a steeply pitched roof.
 
-In 1901, the company employed 200 skilled workmen in the manufacture of machinery, hardware specialties, butt hinges,and fine castings. Among the products of New England Butt were braiding machines for silk, worsted and cotton braid as well as for telephone, electric light, and crinoline wire. A small New England Butt braider, built in the mid-l9th century, is exhibited at the Slater Mill Historic Site. In the hardware line, the company specialized in cast butt-hinges. 
+In 1901, the company employed 200 skilled workmen in the manufacture of machinery, hardware specialties, butt hinges,and fine castings. Among the products of New England Butt were braiding machines for silk, worsted and cotton braid as well as for telephone, electric light, and crinoline wire. A small New England Butt braider, built in the mid-l9th century, is exhibited at the Slater Mill Historic Site. In the hardware line, the company specialized in cast butt-hinges.
 
-Between 1910 and 1913, New England Butt became one of the few Rhode Island firms to experiment with “scientific management” In these years, Frank Gilbreth, a noted follower of Frederick Taylor and a specialist in time and motion study, redesigned the firm’s work process. According to the state’s labor press, Gilbreth wished to “eliminate false moves and drive the worker into a stride that would be as mechanical as the machine he tends.” 
+Between 1910 and 1913, New England Butt became one of the few Rhode Island firms to experiment with “scientific management” In these years, Frank Gilbreth, a noted follower of Frederick Taylor and a specialist in time and motion study, redesigned the firm’s work process. According to the state’s labor press, Gilbreth wished to “eliminate false moves and drive the worker into a stride that would be as mechanical as the machine he tends.”
 
 New England Butt continues to produce braiding machines here and also occupies the buildings of the former [Providence Steam Engine Company]({% link _property/providence-steam-engine.md %}). With the exception of a very small number of early 20th-century machine tools, no historic machinery survives.

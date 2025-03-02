@@ -76,21 +76,21 @@ mostrecentimage: 2020-12-01
 
 ### Redevelopment
 
-The over one hundred and eighty year old mill has survived largely intact from its original exterior appearance, though one can speculate that its current use as office space means that the interior has been very much altered. 
+The over one hundred and eighty year old mill has survived largely intact from its original exterior appearance, though one can speculate that its current use as office space means that the interior has been very much altered.
 
 As late as 1978, a covered wood walkway connected the mill tower with an early twentieth-century building on Manton Avenue formerly used as the mill office. That former office bears the number 610 address and is now a private home and looks to have been lovingly restored. The mill, meanwhile, is also located at 610 but with an entrance off Manton Avenue 500 feet away from the former office.
 
 
 ### Current Events
 
-In the early 2000s the mill was home to the Rhode Island Department of Labor. The newer single level portion of the mill was a facility occupied by Cowan Plastics. The mill changed hands in 2003 with a sale of a little over a million dollars. Since then, the office building has been zoned off and sold as residential while the mill remains in use. 
+In the early 2000s the mill was home to the Rhode Island Department of Labor. The newer single level portion of the mill was a facility occupied by Cowan Plastics. The mill changed hands in 2003 with a sale of a little over a million dollars. Since then, the office building has been zoned off and sold as residential while the mill remains in use.
 
-In 2020, the mill became part of the [Groden Network](//grodennetwork.org){:target="_blank"} of educational and vocational centers assisting adults with development difficulties like autism. This location houses the “Cove Center” along with spaces for other businesses who presumably rent from Groden. 
+In 2020, the mill became part of the [Groden Network](https://grodennetwork.org) of educational and vocational centers assisting adults with development difficulties like autism. This location houses the “Cove Center” along with spaces for other businesses who presumably rent from Groden.
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 The mill is a well-preserved example of industrial architecture, and is probably the oldest and least altered mill in Providence. The three-and-one-half-story, L-shaped structure was designed in the Greek Revival style with stuccoed rubble stonewalls and a gabled roof. A four-and-one- half-story, hip-roof tower rises at the outside corner of the L. The tower is capped by an arcaded wood belfry with Italianate detailing, which was probably added in the 1860s. A stone, three- story picker house is located on the southwest side of the mill, creating a U-shaped structure. Several entrances into the building are located along the north and west elevations. The building is trimmed in wood and stone, and in addition, has diamond shaped tie rods in three rows along the façade and side elevations. Fenestration is comprised of rectangular, 6/6 and 8/8 sash with granite sills and lintels. Architecturally this building represents the transition from small wooden frame mills to larger masonry structures (NR).
 
@@ -108,17 +108,17 @@ The building was constructed in the early twentieth century, prior to 1919 when 
 
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
-Dyerville Mill (1835) — The Dyerville Mill was founded by Elisha Dyer, a successful Providence commission merchant. Dyer, like many Providence merchants, reinvested his money in manufacturing as trade became less profitable. By 1849 the Dyerville Mill employed thirty men and thirty-five women who turned out 800,000 yards of calico cloth a year. 
+Dyerville Mill (1835) — The Dyerville Mill was founded by Elisha Dyer, a successful Providence commission merchant. Dyer, like many Providence merchants, reinvested his money in manufacturing as trade became less profitable. By 1849 the Dyerville Mill employed thirty men and thirty-five women who turned out 800,000 yards of calico cloth a year.
 
-Elisha Dyer, Jr., who was governor of Rhode Island from 1857 to 1859, too over the company when his father died in 1854. Dyer was the sole owner and agent for the company until 1867 when he sold the mill to the Beckwith family. Truman Beckwith, owner of the largest cotton-brokerage firm in Providence, and his son Amos (who acted as the agent for the company) incorporated the firm as the Dyerville Manufacturing Company. By 1870 the company employed forty men, forty-eight women, and twenty-four children. 
+Elisha Dyer, Jr., who was governor of Rhode Island from 1857 to 1859, too over the company when his father died in 1854. Dyer was the sole owner and agent for the company until 1867 when he sold the mill to the Beckwith family. Truman Beckwith, owner of the largest cotton-brokerage firm in Providence, and his son Amos (who acted as the agent for the company) incorporated the firm as the Dyerville Manufacturing Company. By 1870 the company employed forty men, forty-eight women, and twenty-four children.
 
-With the New England cotton industry already facing competition from the South by the turn-of-the-century, however, attempts were made at diversification. In 1903, the Joslin Manufacturing Company, a braid and shoelace manufacturer, bought the Dyerville Mill as well as the Merino Mill. Joslin sold the mill to a wholesale grocery company in 1931. Today the Dyerville Mill is owned and partially occupied by the Leonard Jewelry Company which first occupied part of the complex in 1949. The mill complex also houses several other light industries. 
+With the New England cotton industry already facing competition from the South by the turn-of-the-century, however, attempts were made at diversification. In 1903, the Joslin Manufacturing Company, a braid and shoelace manufacturer, bought the Dyerville Mill as well as the Merino Mill. Joslin sold the mill to a wholesale grocery company in 1931. Today the Dyerville Mill is owned and partially occupied by the Leonard Jewelry Company which first occupied part of the complex in 1949. The mill complex also houses several other light industries.
 
 ***
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
-The Dyerville Mill, built c. 1845 (_A.I.R.: This date is incorrect_), is an L-shaped, stuccoed-stone structure with a gable roof and skylights. Its end tower has an impressive Greek Revival open belfry with a hipped roof. A wooden walkway connects the tower to a building on Manton Avenue, formerly used as an office. A stone picker house located on the southwest side of the mill, and a 1-story, brick extension originally used as a weave shed, is now connected to a modern concrete addition. The wooden wheel house and a brick and wood boiler house still survive on the north west. 
+The Dyerville Mill, built c. 1845 (_A.I.R.: This date is incorrect_), is an L-shaped, stuccoed-stone structure with a gable roof and skylights. Its end tower has an impressive Greek Revival open belfry with a hipped roof. A wooden walkway connects the tower to a building on Manton Avenue, formerly used as an office. A stone picker house located on the southwest side of the mill, and a 1-story, brick extension originally used as a weave shed, is now connected to a modern concrete addition. The wooden wheel house and a brick and wood boiler house still survive on the north west.
 
 A long raceway formerly ran from a wooden dam on the Woonasquatucket River to power the-mill. The dam is still in place, but the gates have been removed, and the race is only visible near the wheel house. A horizontal turbine and belt-driven generator also remain in place, but no steam engines survive. The yellow-brick stack displays the name of the Joslin Manufacturing Company, a Providence-based firm with mills in Providence and Scituate. Joslin produced shoe laces, glazed braid, and corset laces, and owned the Dyerville Mill at the turn-of-the-century.
 

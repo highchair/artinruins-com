@@ -90,16 +90,16 @@ Until 2008, the mill was home to many small businesses and studios in the middle
 
 ### Current Events
 
-Originally redeveloped by Brady Sullivan Properties, the [Grant Mill Lofts](//www.grantmill.com){:target="_blank"} were sold for $13.4 million to [Heritage Properties](//www.heritageprop.net){:target="_blank"}, of Lowell, MA in 2017. In October 2007, Brady Sullivan paid $2.4 million for the former Carpenter’s Mill building.[^1]
+Originally redeveloped by Brady Sullivan Properties, the [Grant Mill Lofts](https://www.grantmill.com) were sold for $13.4 million to [Heritage Properties](https://www.heritageprop.net), of Lowell, MA in 2017. In October 2007, Brady Sullivan paid $2.4 million for the former Carpenter’s Mill building.[^1]
 
-Units are now managed by Heritage, a real-estate developer and management company. Availability and contact information for rentals are available on the [Grant Mill](//www.grantmill.com){:target="_blank"} website. 
+Units are now managed by Heritage, a real-estate developer and management company. Availability and contact information for rentals are available on the [Grant Mill](https://www.grantmill.com) website. 
 
 [^1]: “Loft-style apartment building in Providence is sold for $13.4M,” Christine Dunn, Providence Journal, February 8, 2017. Captured December 26, 2020 from https://www.providencejournal.com/news/20170208/loft-style-apartment-building-in-providence-is-sold-for-134m
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 The four-story, flat-roof, brick building with segmental-arch windows was constructed around an earlier stone mill. The building extends from Carpenter Street to Grant Street to the north with a paved parking lot to the east. The main block of the building along Carpenter Street is embellished with brick corbelling at the cornice line and features a one-story, flat-roof projection which houses an office to the east. The building’s primary entrance is housed on the south elevation of the office block within a recessed, arched entrance. Additional pedestrian entrances are located throughout the complex. Fenestration consists of segmental-arch openings 10/10 sash set below fixed five-light transoms. Two bays on the west elevation of this block have had their windows bricked in, as have the windows on the first story of this block. Two sets of iron fire escapes are located along the Carpenter Street elevation. The northern-most bay of the east elevation of the block contains a hoist and pulley mechanism with paired doors in each bay.
 
@@ -143,4 +143,4 @@ _From the “Broadway-Armory Historic District” National Register nomination f
 
 ### In the News
 
-While our opinion of the development company Brady Sullivan are relatively high — in that the workmanship and respect for historic mill spaces in their projects are high — they have been the subject of controversy. In 2018, after selling the Grant Mill property, Brady Sullivan was involved in a protracted dispute with tenants and former tenants of a mill property in Coventry where mold issues made tenants sick. The full story is more complicated and details can be found on [New Hampshire public radio’s website](//www.nhpr.org/post/accusations-against-brady-sullivan-spread-multiple-ri-properties#stream/0){:target="_blank"}.  
+While our opinion of the development company Brady Sullivan are relatively high — in that the workmanship and respect for historic mill spaces in their projects are high — they have been the subject of controversy. In 2018, after selling the Grant Mill property, Brady Sullivan was involved in a protracted dispute with tenants and former tenants of a mill property in Coventry where mold issues made tenants sick. The full story is more complicated and details can be found on [New Hampshire public radio’s website](https://www.nhpr.org/post/accusations-against-brady-sullivan-spread-multiple-ri-properties#stream/0).  

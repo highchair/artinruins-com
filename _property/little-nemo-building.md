@@ -69,7 +69,7 @@ imagescredit: 'Contribution from the National Register nomination form and Jef N
 
 ### Redevelopment
 
-Under the watch and planning efforts of Michael J. McCormick, Vice President for Planning, Design and Construction, four historic structures were renovated for new University space rather than build new between 2008 and 2011. Rhode Island Hall, the former Metcalf Laboratories, and Faunce House on campus were renovated while the Little Nemo building was converted to the new medical school.[^1] Previously, in 2003, the nearby Doran-Speidal building (1912) was converted to Brown’s Laboratory for Molecular Medicine.[^2] 
+Under the watch and planning efforts of Michael J. McCormick, Vice President for Planning, Design and Construction, four historic structures were renovated for new University space rather than build new between 2008 and 2011. Rhode Island Hall, the former Metcalf Laboratories, and Faunce House on campus were renovated while the Little Nemo building was converted to the new medical school.[^1] Previously, in 2003, the nearby Doran-Speidal building (1912) was converted to Brown’s Laboratory for Molecular Medicine.[^2]
 
 [^1]: Orenstein, David. “Brown builds its future behind familiar façades.” Brown University News, October 5, 2011. https://news.brown.edu/articles/2011/10/metcalf. Accessed January 29, 2022.
 
@@ -79,14 +79,14 @@ The idea to reuse rather than build new was part of the university’s 2003 stra
 
 [^3]: “Brown builds its future behind familiar façades.”
 
-On the flipside of reuse, we have recently reported on new construction from Brown which required the demolition of historic properties — these were the [Brook Street Residence Halls]({% link _property/brook-st-garage.md %}) and the [interim parking lot]({% link _property/brook-meeting-cushing.md %}) turned Wellness Center & Residence Hall. On the other hand, there have been cases where Brown went to great lengths to move historic structures, like the [Peter Green (Lippitt Guild) House]({% link _property/lippitt-guild-house.md %}). And then there is their new construction, which runs from [buildings that try to blend in]({% link _property/brown-life-sciences.md %}) to ones that [clearly do not]({% link _property/watson-institute.md %}). 
+On the flipside of reuse, we have recently reported on new construction from Brown which required the demolition of historic properties — these were the [Brook Street Residence Halls]({% link _property/brook-st-garage.md %}) and the [interim parking lot]({% link _property/brook-meeting-cushing.md %}) turned Wellness Center & Residence Hall. On the other hand, there have been cases where Brown went to great lengths to move historic structures, like the [Peter Green (Lippitt Guild) House]({% link _property/lippitt-guild-house.md %}). And then there is their new construction, which runs from [buildings that try to blend in]({% link _property/brown-life-sciences.md %}) to ones that [clearly do not]({% link _property/watson-institute.md %}).
 
-Brown and their constant need to expand is just a mixed bag — and perhaps it always will be. Positive for all they attract to the city in the way of responsible and sensitive redevelopment, the students and parents who spend _a lot_ of money here, and the myriad of professional staff who work in all the various buildings. Negative for the historic homes and properties that are not reused, for their refusal at times to listen to the concerns of the neighborhood, and for the removal of properties from the tax roles _even though_ there have been concessions made to pay property taxes. 
+Brown and their constant need to expand is just a mixed bag — and perhaps it always will be. Positive for all they attract to the city in the way of responsible and sensitive redevelopment, the students and parents who spend _a lot_ of money here, and the myriad of professional staff who work in all the various buildings. Negative for the historic homes and properties that are not reused, for their refusal at times to listen to the concerns of the neighborhood, and for the removal of properties from the tax roles _even though_ there have been concessions made to pay property taxes.
 
 
 ### Current Events
 
-The building is in use as the Warren Alpert Medical School. Its presence has brought additional street life to area, and it could be argued, Brown’s commitment to the Jewelry District has helped fuel the interest of other developers to invest in construction on [former I-195 parcels]({% link list/i-195-district-parcels.html %}). 
+The building is in use as the Warren Alpert Medical School. Its presence has brought additional street life to area, and it could be argued, Brown’s commitment to the Jewelry District has helped fuel the interest of other developers to invest in construction on [former I-195 parcels]({% link list/i-195-district-parcels.html %}).
 
 
 ### History
@@ -97,13 +97,13 @@ The Depression of the 1930s stimulated the Providence jewelry industry, as preci
 
 The Nemo jewelry of the 1940s and 1950s was of high quality with jewelry designs including patriotic military pins (saber, branch of service hat and gloves), U.S. flags, and U.S. eagles paste set with clear and colored rhinestones and molded colored glass stones of red, white and blue in the enameled base metal.
 
-The [...] Company [...] enjoyed success as a syndicate plant manufacturing costume jewelry designed into necklaces, brooches, pins, bracelets, dress and fur clips, charm bracelets and charms, tiaras, hairclips of gold plated, silver plated, bronze tone, gilded brass and pot metal bases with hand faceted clear and colorful rhinestones, and colored glass stones to catch light and glitter. Mark of Brier Manufacturing Co. that manufactured Little Nemo jewelry: “LN”, “LN25”, “LN50”, “LITTLE NEMO” inside the shape of a ring, “NEMO GOLD SEAL QUALITY LN/25”, “L/N”, “LN” inside a flattened diamond shape, “VENUS” in 1958, and “NEMO” in block letters 1955. The Brier Manufacturing Co. and designs of “Little Nemo” jewelry ceased operations in 1978.
+The […] Company […] enjoyed success as a syndicate plant manufacturing costume jewelry designed into necklaces, brooches, pins, bracelets, dress and fur clips, charm bracelets and charms, tiaras, hairclips of gold plated, silver plated, bronze tone, gilded brass and pot metal bases with hand faceted clear and colorful rhinestones, and colored glass stones to catch light and glitter. Mark of Brier Manufacturing Co. that manufactured Little Nemo jewelry: “LN”, “LN25”, “LN50”, “LITTLE NEMO” inside the shape of a ring, “NEMO GOLD SEAL QUALITY LN/25”, “L/N”, “LN” inside a flattened diamond shape, “VENUS” in 1958, and “NEMO” in block letters 1955. The Brier Manufacturing Co. and designs of “Little Nemo” jewelry ceased operations in 1978.
 
 _Captured around 2010 from http://www.jacksonjewels.com/Reference/Jewelry_Companies_J-L.htm, recaptured January 29, 2022 from https://web.archive.org/web/20071009101900/http://www.jacksonjewels.com/Reference/Jewelry_Companies_J-L.htm_
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 Designed by architect Frank S. Perry, it is a three-story, flat-roof, reinforced concrete building with Art Deco style detailing. The building features curtain walls arranged in piers and spandrels with bands of windows with narrow Roman brick panels underneath. Embellishments to the building include a rounded comer at Ship and Richmond streets, lozenge and geometric panels set within parapets, and concrete piers capped with arrow-shaped panels. The building’s primary entrance is recessed on the Richmond Street side and is comprised of metal-and-glass doors. Rectangular windows are set in groups and are fixed on their upper portions with awning below. At the time of the Jewelry District National Register nomination in 1985, changes to the building’s exterior included the removal of the original marquee and the installation of modem windows in place of the original industrial sash. Changes since 1985 include the removal of the prominent smokestack and the addition of an additional story at the roof level.
 
@@ -114,7 +114,7 @@ Designed by architect Frank S. Perry, it is a three-story, flat-roof, reinforced
 
 _From the National Register nomination form for the Providence Jewelry Manufacturing Historic District, 1985_
 
-222 Richmond Street, **Little Nemo Building** (1928): Frank S. Perry, architect. This is a 3-story, flat-roof, reinforced concrete building. It has curtain walls arranged in piers and spandrels with bands of windows with narrow Roman brick panels underneath. The wall is rounded at the corner of Ship and Richmond Streets. The concrete piers rise up to the roofline, where they are capped with arrow-like ornaments. There are also small corner parapets and a central parapet over the Richmond Street entrance with geometric Art Deco detailing. 
+222 Richmond Street, **Little Nemo Building** (1928): Frank S. Perry, architect. This is a 3-story, flat-roof, reinforced concrete building. It has curtain walls arranged in piers and spandrels with bands of windows with narrow Roman brick panels underneath. The wall is rounded at the corner of Ship and Richmond Streets. The concrete piers rise up to the roofline, where they are capped with arrow-like ornaments. There are also small corner parapets and a central parapet over the Richmond Street entrance with geometric Art Deco detailing.
 
 The Little Nemo Building was rehabilitated in 1978 for use as office space. The principal changes to the exterior were the removal of the original marquee and the installation of modern tinted glass with small corner casements in place of the original industrial sash windows.
 
@@ -148,4 +148,4 @@ But the renovated factory will be an attraction in its own right. Ellenzweig’s
 
 The renovation, due to be completed a year from now, is aiming for LEED gold certification, Mr. McCormick says. It will also let the medical school increase class size from 90 to 120 students. In keeping with an agreement between the city and the university, the building will remain on the Providence tax rolls for a total of 15 years. The university will make full tax payments for five years, then pay at a two-thirds rate for another five years and at a one-third level for the final five.
 
-_Captured around 2020 from http://chronicle.com/blogs/buildings/costume-jewelry-factory-will-become-browns-medical-school-saving-35-million/26293, recaptured January 29, 2022 from https://web.archive.org/web/20101023132622/http://chronicle.com/blogs/buildings/costume-jewelry-factory-will-become-browns-medical-school-saving-35-million/26293_
+— _Captured around 2020 from http://chronicle.com/blogs/buildings/costume-jewelry-factory-will-become-browns-medical-school-saving-35-million/26293, recaptured January 29, 2022 from https://web.archive.org/web/20101023132622/http://chronicle.com/blogs/buildings/costume-jewelry-factory-will-become-browns-medical-school-saving-35-million/26293_

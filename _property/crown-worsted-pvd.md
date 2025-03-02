@@ -108,7 +108,7 @@ As the report from 2002 says, Mars Plastics is the main tenant and possible owne
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 Both buildings are two-story rectangular, brick structures with slight end-gable roofs. 43 Troy Street is a long building with a three-bay façade facing Troy Street. Fenestration is comprised of segmental-arch openings with a combination of paired, multi-light original sash and filled-in openings with small single-light sash with stone sills. Several window openings have been completely filled in. A newer vehicular entrance has been added where window openings once were at the eastern end of the Oak Street (south) elevation. 45 Troy Street is a much smaller, rectangular, two-story, brick building with a three-bay façade. The primary entrance is offset on the façade, set within a recessed, round-arch opening. Fenestration on this building is comprised of segmental-arch openings with 2/2 sash windows and stone sills. Between the two structures is a large smokestack that says “Crown” along the top rim. An overhead walkway connects the two buildings to one another.
 
@@ -166,9 +166,7 @@ Worcester Textile makes fabrics - wool and wool synthetic blends - in short runs
 
 "We keep developing new yarns, new yarns, all the time," said Roorbach of Crown Worsted Mills. "You have to be fast on your feet to create new things for somebody, new wrinkles for somebody," said Roorbach. […]
 
-—
-
-WINTER, STEVE. “New direction for an old industry.” Providence Journal (RI), ALL ed., sec. BUSINESS, 2 Dec. 1984, pp. F-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525C11018B6E780. Accessed 9 July 2023.
+— WINTER, STEVE. “New direction for an old industry.” Providence Journal (RI), ALL ed., sec. BUSINESS, 2 Dec. 1984, pp. F-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525C11018B6E780. Accessed 9 July 2023.
 
 ***
 
@@ -189,10 +187,8 @@ He points to U.S. Department of Commerce statistics that show the agriculture in
 
 ”There are hardly any wool sweater knitters left and the few of us that are still spinning wool yarn are competing fiercely to sell to those few,” said Roorbach. ”One of my good customers told me last month that he’s going to switch to an imported spun yarn because it costs $2.50 less per yard.”
 
-”We're in the height of our season now,” said Roorbach. ”That’s irony. Business is very poor. Ordinarily, we run three shifts. Now, 80 percent of the mill is only running two shifts. One small section is running three shifts.
+”We’re in the height of our season now,” said Roorbach. ”That’s irony. Business is very poor. Ordinarily, we run three shifts. Now, 80 percent of the mill is only running two shifts. One small section is running three shifts.
 
-"I honestly don’t know what we can do to compete any more.” […]
+“I honestly don’t know what we can do to compete any more.” […]
 
-—
-
-WINTER, STEVE. “Hard-hit textile industry gropes for answers.” Providence Journal (RI), ALL ed., sec. BUSINESS, 26 May 1985, pp. F-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525BEED22C71380. Accessed 9 July 2023.
+— WINTER, STEVE. “Hard-hit textile industry gropes for answers.” Providence Journal (RI), ALL ed., sec. BUSINESS, 26 May 1985, pp. F-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525BEED22C71380. Accessed 9 July 2023.

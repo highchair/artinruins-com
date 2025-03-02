@@ -92,7 +92,7 @@ According to some recent news, [Strive Realty]({% link designer/strive-realty.ht
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 (Documented as part of [119 Harris Avenue]({% link _property/brownell-field-co.md %})) Attached to the east is a large, rectangular, three-story, brick block (113 Harris Avenue; 1920s) with a concrete foundation notable for its chamfered corner on Harris Avenue. The building is embellished with concrete bands outlining floors and the chamfered corner. An oversized, recessed opening features wood stairs and ramps. The building’s main entrance is comprised of a metal-and-glass door flanked by single-light sidelights and set below a single-light transom. Fenestration is comprised of rectangular openings with multi-light metal sash windows. The building’s easternmost side is contoured to the railroad tracks. These buildings are extant remnants of the eastern Promenade District’s history as a railroad hub.
 

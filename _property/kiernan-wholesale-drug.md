@@ -78,7 +78,7 @@ They used to say “Steps away from Downcity” in their marketing material and 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a three-story, brick, flat-roof building notable for its chamfered corner at the intersection of Richmond and Ship streets and the trapezoidal shape of the structure, which conforms to its corner lot. The building is embellished with brick corbelling and projecting brick piers between each bay. The building’s primary entrance is offset on the façade, within a recessed opening. The entrance features a replacement metal-and-glass door reached by a flight of concrete steps set below a neon sign on the Richmond Street side of the entry. A vehicular entrance with roll top door is located on the rear elevation. Fenestration consists of rectangular openings with single and paired, multi-light, fixed and awning sash; replacement single-light awning sash and some infill glass block on the first floor façade. Basement windows have been either bricked in or have glass block. A stairwell is located on the southeast corner of the building and features a painted sign reading: “J & H Electric Co.”. Visible beneath this sign is one advertising Kiernan Wholesale Drug Co ([March 2003 #8](#photo-jh-electric-jh-2003-03-08)). A brick chimney rises from the northeast corner of the building.
 

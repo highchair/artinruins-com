@@ -76,25 +76,25 @@ imagescredit: 'Contribution from Peter Landry'
 
 ### Reason for Demolition
 
-City records from 1983 put a restaurant on the first floor of this building with a night club on the second floor. Previous to that, many businesses came and went inside this modest structure. The owner for which it is named apparently only occupied it for a few years. 
+City records from 1983 put a restaurant on the first floor of this building with a night club on the second floor. Previous to that, many businesses came and went inside this modest structure. The owner for which it is named apparently only occupied it for a few years.
 
-The interior of the structure was heavily damaged from fire and neglect, though it stood vacant for over 20 years. Sections of the floors were missing and it looked like there might have been the start of some reconstruction at some point. Weather and vandalism slowly decayed the structure. 
+The interior of the structure was heavily damaged from fire and neglect, though it stood vacant for over 20 years. Sections of the floors were missing and it looked like there might have been the start of some reconstruction at some point. Weather and vandalism slowly decayed the structure.
 
 #### Architecture
 
-The building is a red-brick-clad 2-story square plan with a central entrance. It’s central pedimented parapet suggest a small Greek temple. Three oval windows are placed under the pediment, above the second story windows. Three bays wide, with 2 window openings per bay on the facade. All windows have granite sill slabs. The rear and sides of the building are unadorned and simple, almost industrial in the layout of openings. 
+The building is a red-brick-clad 2-story square plan with a central entrance. It’s central pedimented parapet suggest a small Greek temple. Three oval windows are placed under the pediment, above the second story windows. Three bays wide, with 2 window openings per bay on the facade. All windows have granite sill slabs. The rear and sides of the building are unadorned and simple, almost industrial in the layout of openings.
 
 
 ### Current Events
 
-Since about 2003, a vinyl sign on the side of the property advertised impending condominium apartments. That was the thing to do, of course, in the early aughts. We love how the year had quotes around it, because, “2004” came and went without any sign of redevelopment at this location. 
+Since about 2003, a vinyl sign on the side of the property advertised impending condominium apartments. That was the thing to do, of course, in the early aughts. We love how the year had quotes around it, because, “2004” came and went without any sign of redevelopment at this location.
 
-In November 2020, a heavy rainstorm damaged the roof and part of it collapsed. 20+ years of neglect took its toll and took the building down with it. It was razed in late November, 2020. 
+In November 2020, a heavy rainstorm damaged the roof and part of it collapsed. 20+ years of neglect took its toll and took the building down with it. It was razed in late November, 2020.
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a two-story, flat-roof, brick structure with a pedimented parapet centrally located on its façade. The first floor of the building has been boarded up, following a fire here in the 1990s. The building’s six-bay façade features classical elements including a symmetrical façade, oval windows with keystones set below the parapet, projecting piers between each bay, and stone sills. Side and rear elevations of the structure lack architectural ornamentation. Fenestration consists of regularly-spaced, replacement 1/1 sash windows. Paved parking lots are located to the east and west, both bound by chain link fencing.
 

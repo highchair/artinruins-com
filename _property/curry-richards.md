@@ -75,21 +75,21 @@ mostrecentimage: 2024-07-01
 
 ### Redevelopment
 
-The former Curry & Richards jewelry manufacturing building sits on a quiet one-way residential section of Pine Street on the edge of a commercial and industrial section of the Stewart, Broad, Pearl, and Pine Street quadrangle. Therefore, this project was slow to attract our attention during the busy years of 2005 to 2008. We managed to snap some photos while a redevelopment was in progress in 2006. A few years later we revisited and discovered that the project was complete and now known as Davis Lofts. 
+The former Curry & Richards jewelry manufacturing building sits on a quiet one-way residential section of Pine Street on the edge of a commercial and industrial section of the Stewart, Broad, Pearl, and Pine Street quadrangle. Therefore, this project was slow to attract our attention during the busy years of 2005 to 2008. We managed to snap some photos while a redevelopment was in progress in 2006. A few years later we revisited and discovered that the project was complete and now known as Davis Lofts.
 
-The residential units were condos and at the time, their sale prices were reasonable for the space and amenities. The building had 18 units, 2 of which were townhouses. Exposed brick and beams, original hardwoods, arched windows, new kitchens and bathrooms, elevators, and in-unit washer and dryer were part of the package.[^1] The architect for the redevelopment was Saccoccio & Associates, a local firm with many recognizable projects in their portfolio. 
+The residential units were condos and at the time, their sale prices were reasonable for the space and amenities. The building had 18 units, 2 of which were townhouses. Exposed brick and beams, original hardwoods, arched windows, new kitchens and bathrooms, elevators, and in-unit washer and dryer were part of the package.[^1] The architect for the redevelopment was Saccoccio & Associates, a local firm with many recognizable projects in their portfolio.
 
 [^1]: Captured from an Archive.org version of the davis-lofts.com website (now defunct) October 21, 2021 at https://web.archive.org/web/20090318001025/http://www.davis-lofts.com/
 
 
 ### Current Events
 
-Units come up for sale from time to time. The building continues to be in good repair. 
+Units come up for sale from time to time. The building continues to be in good repair.
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 This four-story flat-roof building was constructed ca. 1875 when it first appears on the Hopkins map of that year. The complex itself is comprised of two four-story, rectangular, brick blocks connected by a four-story hyphen. The 4-by-11-bay structures are embellished with a wood cornice and dentils at the cornice line. The building stands on a granite foundation and features segmental-arch window openings with a combination of 12/12, 2/12, 12/2, and replacement 1/1 sash with granite sills. Several windows have been boarded up. A pedestrian entrance is offset on the eastern bay of the facade (south elevation). A paved parking lot bound by chain link fencing is located to the east.
 

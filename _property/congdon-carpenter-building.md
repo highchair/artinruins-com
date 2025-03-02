@@ -69,7 +69,7 @@ images:
 
 mostrecentimage: 2021-04-01
 
-imagescredit: 'Contributions by the John Hutchins Cady Research Scrapbooks Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A6184" target="_blank">photo 1</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A5040" target="_blank">photo 2</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A6090" target="_blank">photo 3</a>) and the Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12752" target="_blank">photo 1</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A12401" target="_blank">photo 2</a> from the Providence Public Library, and the HABS/HAER collection of the Library of Congress'
+imagescredit: 'Contributions by the John Hutchins Cady Research Scrapbooks Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A6184">photo 1</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A5040">photo 2</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A6090">photo 3</a>) and the Rhode Island Photographs Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A12752">photo 1</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A12401">photo 2</a> from the Providence Public Library, and the HABS/HAER collection of the Library of Congress'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -78,7 +78,7 @@ imagescredit: 'Contributions by the John Hutchins Cady Research Scrapbooks Colle
 
 ### Redevelopment
 
-The buildings at 3 through 9 Steeple Street have long been home to restaurants and bars, but even longer ago were rooted in the industrial development of Providence. Across the street were the shipping and railroad depots that made Providence the nexus of industry. The front portion of the cluster at 3 Steeple Street is one of the few 18th-century industrial buildings in the state. 
+The buildings at 3 through 9 Steeple Street have long been home to restaurants and bars, but even longer ago were rooted in the industrial development of Providence. Across the street were the shipping and railroad depots that made Providence the nexus of industry. The front portion of the cluster at 3 Steeple Street is one of the few 18th-century industrial buildings in the state.
 
 Some of the favorite restaurants at the location in more recent memory were the “3 Steeple Street” tavern and the One Up Bar (which eventually became part of the bar downstairs). The third floor was known as “Summer Camp” from about 2003 to 2007, when several people lived there as a large commune and event space.
 
@@ -98,16 +98,16 @@ From the anecdotes, other businesses included:
 
 ### Current Events
 
-Currently at 7–9 Steeple Street is New Rivers restaurant, which has been in place since the late 1990s. The corner at 3 Steeple Street is occupied by Palo, an Andalucían-themed restaurant. 
+Currently at 7–9 Steeple Street is New Rivers restaurant, which has been in place since the late 1990s. The corner at 3 Steeple Street is occupied by Palo, an Andalucían-themed restaurant.
 
 
 ### History
 
-The east wall of 9 Steeple Street housed a billboard for many years in the 1980s and into the 1990s. This billboard was used for Vincent Cianci’s re-election campaign in 1990 and was [famously defaced by Shepard Fairey](//obeygiant.com/cianci-billboard/){:target="_blank"}. 
+The east wall of 9 Steeple Street housed a billboard for many years in the 1980s and into the 1990s. This billboard was used for Vincent Cianci’s re-election campaign in 1990 and was [famously defaced by Shepard Fairey](https://obeygiant.com/cianci-billboard/).
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 3 Steeple Street is a three-story brick structure with a hipped roof and is the oldest industrial building in Providence, and after Slater Mill in Pawtucket, the oldest industrial building in the state of Rhode Island. The building features stone sills and lintels and brick bracketing at the cornice line. 5 Steeple Street is three-stories high, with dentils under the roof and a recessed entry at the street level. This is the original building that housed the firm that later moved to Promenade Street.
 
@@ -115,7 +115,7 @@ The building is attached at the rear to the **George and Smith Owen Building** o
 
 Joseph Congdon founded this iron stock company in 1792, originally to supply blacksmiths. However, there was also a decent market to be found in the making of firearms, tools, maritime and farming implements, and the like. They also expanded into retail, selling hardware, horse supplies, and coach equipment. The company found great success during the Civil War, as the demand for many different types of iron and steel rose. During this time the company supplied many of the producers of hoops and bands, caulking steel, and horseshoes.
 
-After the Civil War, more space was needed so Congdon & Carpenter moved one block north, to the corner of Canal and Elizabeth streets; this building has since been demolished. The buildings at 3 and 9 Steeple Street are now home to several restaurants and small businesses. The building that today is 3 Steeple Street was Congdon & Carpenter’s first warehouse. A restaurant called “3 Steeple Street” occupies the building today. Standing at the foot of College Hill, these two buildings are located at an early node of industrial activity in Providence; nearby stood the original buildings of Brown and Sharpe and Gorham Manufacturing (Woodward 1986; RIHPHC 1981)
+After the Civil War, more space was needed so Congdon & Carpenter moved one block north, to the corner of Canal and Elizabeth streets; this building has since been demolished. The buildings at 3 and 9 Steeple Street are now home to several restaurants and small businesses. The building that today is 3 Steeple Street was Congdon & Carpenter’s first warehouse. A restaurant called “3 Steeple Street” occupies the building today. Standing at the foot of College Hill, these two buildings are located at an early node of industrial activity in Providence; nearby stood the original buildings of Brown and Sharpe and Gorham Manufacturing (Woodward 1986; RIHPHC 1981).
 
 ***
 
@@ -125,8 +125,8 @@ Francis Wood Carpenter (1831 – 1922) was a prominent businessman and steel mer
 
 ***
 
-The block at numbers 3 through 9 Steeple Street are actually different structures built at different times. 
+The block at numbers 3 through 9 Steeple Street are actually different structures built at different times.
 
-9 Steeple Street, **George & Smith Owen Building**, erected 1847. A 20' wide (south front) x 40' deep three- and-a-half story brick building with foundation of granite ashlar and a party wall on the west side with 6 Steeple Street. Original open shop front on ground floor, four bays, with granite posts and granite lintel supporting brick wall above; granite posts now removed. Double-hung windows, six-light sash, plain granite lintels and sills. Pitched roof with high monitor across the full width. 
+9 Steeple Street, **George & Smith Owen Building**, erected 1847. A 20' wide (south front) x 40' deep three- and-a-half story brick building with foundation of granite ashlar and a party wall on the west side with 6 Steeple Street. Original open shop front on ground floor, four bays, with granite posts and granite lintel supporting brick wall above; granite posts now removed. Double-hung windows, six-light sash, plain granite lintels and sills. Pitched roof with high monitor across the full width.
 
 — _History prepared by Osmund R. Overby Yale University, May 1963, Library of Congress_

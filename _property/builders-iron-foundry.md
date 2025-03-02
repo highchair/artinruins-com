@@ -88,9 +88,9 @@ imagescredit: 'Contributions from Google, the Library of Congress, and Lou Bourq
 
 ### Reason for Demolition
 
-We don’t know when Eastern Wire moved out, but they were current occupants in 2002. The building had been in light-to-heavy industrial use since it started to appear on maps in 1899. An illegal hash-oil facility that used highly flammable butane to extract oil from marijuana leaves didn’t properly ventilate the buildings and an explosive fire occurred in March of 2015 that leveled the entire block. 
+We don’t know when Eastern Wire moved out, but they were current occupants in 2002. The building had been in light-to-heavy industrial use since it started to appear on maps in 1899. An illegal hash-oil facility that used highly flammable butane to extract oil from marijuana leaves didn’t properly ventilate the buildings and an explosive fire occurred in March of 2015 that leveled the entire block.
 
-The rise of the Builder’s Iron Foundry (<span class="abbr">BIF</span>) was a bit complex, and spawned the [Providence Steel & Iron company]({% link _property/providence-steel-iron.md %}) nearby as well as being related to the [Armington & Sims company]({% link _property/monohasset-mill.md %}) for a short time as well. This was the second location of <span class="abbr">BIF</span> with another being across town on the West Side, no longer extant. They were known as ornate iron workers, having built the cast façade for the Equitable Building downtown and a marble and steel staircase for the Library of Congress. 
+The rise of the Builder’s Iron Foundry (<span class="abbr">BIF</span>) was a bit complex, and spawned the [Providence Steel & Iron company]({% link _property/providence-steel-iron.md %}) nearby as well as being related to the [Armington & Sims company]({% link _property/monohasset-mill.md %}) for a short time as well. This was the second location of <span class="abbr">BIF</span> with another being across town on the West Side, no longer extant. They were known as ornate iron workers, having built the cast façade for the Equitable Building downtown and a marble and steel staircase for the Library of Congress.
 
 
 ### Current Events
@@ -102,11 +102,11 @@ Farm Fresh Rhode Island built a new distribution center and indoor farmer’s ma
 
 According to _“RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”_, by Gary Kulik and Julia C. Bonham, 1978, the Builder’s Iron Foundry cast the ornate iron facade of the 1872 Equitable Building at the corner of Weybosset and Custom House Streets. 
 
-<span class="abbr">BIF</span>’s former complex on Codding Steet, which is no longer a street, was on Providence’s West Side near the former [New England Butt]({% link _property/new-england-butt.md %}). The area of this complex was bounded by Westminster to the north, Knight to the east, Cranston to the south, and Dodge to the west. That complex was razed between 1962 and 1972 to develop [Wiggin Village Apartments](//www.google.com/maps/place/Wiggin+Village+Apartments/@41.8159299,-71.4266222,458m/data=!3m1!1e3!4m5!3m4!1s0x89e4457705e399f9:0x2062adc60a4feaa2!8m2!3d41.8144167!4d-71.4267555){:target="_blank"}. 
+<span class="abbr">BIF</span>’s former complex on Codding Steet, which is no longer a street, was on Providence’s West Side near the former [New England Butt]({% link _property/new-england-butt.md %}). The area of this complex was bounded by Westminster to the north, Knight to the east, Cranston to the south, and Dodge to the west. That complex was razed between 1962 and 1972 to develop [Wiggin Village Apartments](https://www.google.com/maps/place/Wiggin+Village+Apartments/@41.8159299,-71.4266222,458m/data=!3m1!1e3!4m5!3m4!1s0x89e4457705e399f9:0x2062adc60a4feaa2!8m2!3d41.8144167!4d-71.4267555). 
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 A large complex of one- and two-story, rectangular, brick blocks set at the corner of Kinsley and Sims avenues. The building is embellished with brick corbelling at the cornice. The majority of window openings have been bricked in; those remaining include small, rectangular, awning sash along Kinsley. The two northernmost blocks in the complex are flat-roofed while the two central blocks feature end-gable shallow pitched roofs. The southernmost block is constructed of concrete block with a brick face on the Sims Avenue elevation. According to Sanborn maps, this block was constructed in 1968. A centrally-located vehicular entrance remains on the west elevation of the 1968 block.
 
@@ -118,12 +118,12 @@ The company operated under this name for 100 years until changing its name to **
 
 #### Map Sources
 
-+ [1899 Sanborn Insurance Map, Volume 1, Plate 15](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099189901){:target="_blank"} — Library of Congress, Geography and Map Division
-+ [1908 L.J. Richards Insurance Map, Plate 4 & Plate 14](//wardmapsgifts.com/pages/search-results-page?q=1908+providence+ri){:target="_blank"} — WardMapsGifts.com
-+ [1920–1921 Sanborn Insurance Map, Volume 1, Plate 1](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"}5 — Library of Congress, Geography and Map Division
-+ 1939 G.M. Hopkins Insurance Map, [Plate 32A](http://www.historicmapworks.com/Map/US/895489/Plate+032+++A+and+B/Providence+1937/Rhode+Island/){:target="_blank"} and [Plate 33](http://www.historicmapworks.com/Map/US/895490/Plate+033/Providence+1937/Rhode+Island/){:target="_blank"} — HistoricMapWorks.com
-+ [1920–1951 Sanborn Insurance Map, Volume 1, Plate 15](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101){:target="_blank"} — Library of Congress, Geography and Map Division
-+ [1920–1956 Sanborn Insurance Map, Volume 1, Plate 15](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601){:target="_blank"} — Library of Congress, Geography and Map Division
++ [1899 Sanborn Insurance Map, Volume 1, Plate 15](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099189901) — Library of Congress, Geography and Map Division
++ [1908 L.J. Richards Insurance Map, Plate 4 & Plate 14](https://wardmapsgifts.com/pages/search-results-page?q=1908+providence+ri) — WardMapsGifts.com
++ [1920–1921 Sanborn Insurance Map, Volume 1, Plate 1](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) — Library of Congress, Geography and Map Division
++ 1939 G.M. Hopkins Insurance Map, [Plate 32A](http://www.historicmapworks.com/Map/US/895489/Plate+032+++A+and+B/Providence+1937/Rhode+Island/) and [Plate 33](http://www.historicmapworks.com/Map/US/895490/Plate+033/Providence+1937/Rhode+Island/) — HistoricMapWorks.com
++ [1920–1951 Sanborn Insurance Map, Volume 1, Plate 15](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101) — Library of Congress, Geography and Map Division
++ [1920–1956 Sanborn Insurance Map, Volume 1, Plate 15](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601) — Library of Congress, Geography and Map Division
 
 
 ### In the News
@@ -176,6 +176,4 @@ Fire Capt. Peter McMichael said on Friday that fire investigators are looking at
 
 The fire remains under investigation by the state and city fire marshal’s offices and with investigators from the federal Bureau of Alcohol, Tobacco, Firearms and Explosives. Capt. McMichael said the federal agency was providing resources such as chemists, engineers and other experts.
 
-—
-
-Mooney, Tom. “providence Burned mill building housed illicit drug lab.” Providence Journal (RI), sec. RI News, 21 Mar. 2015, p. 1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1595786D2DB52430. Accessed 13 Feb. 2022.
+— Mooney, Tom. “providence Burned mill building housed illicit drug lab.” Providence Journal (RI), sec. RI News, 21 Mar. 2015, p. 1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1595786D2DB52430. Accessed 13 Feb. 2022.

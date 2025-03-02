@@ -104,7 +104,7 @@ A one-story, ca 1937 brick storage house addition covers the four bays to the ea
 
 #### Division of the Weybosset Mills after 1930
 
-From 1931 to 1934, the American Woolen Company slowly sold off the Weybosset Mill buildings and American Woolen-owned land parcels. […] 
+From 1931 to 1934, the American Woolen Company slowly sold off the Weybosset Mill buildings and American Woolen-owned land parcels. […]
 
 The **Welsh Manufacturing Company** was the only long-term tenant in the former Weybosset Mills after 1930. Welsh Manufacturing bought Mill No. 4 and its secondary buildings from the American Woolen Company in 1931. In May 1931, the company commented “the newly acquired plant will furnish double the space now provided, and will provide for future growth” (Providence Evening Bulletin 1931). After purchasing the property, Welsh Manufacturing occupied the top floor of Mill No.4 and rented the rest of the building. Welsh Manufacturing sold the property in 1970.
 
@@ -112,7 +112,7 @@ James W. Welsh, of Providence, started the Welsh Manufacturing Company to produc
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a three-story, flat-roof, rectangular, brick building set on the corner of Troy and Oak streets. The building features recessed pedestrian entrances on Oak Street and a single recessed entrance on Troy Street. The building features a monitor roof extending along its length. Fenestration is comprised of segmental-arch and rectangular openings with replacement sash.
 

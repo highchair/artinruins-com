@@ -86,7 +86,7 @@ images:
   - url: national-casket-jh-2021-11-04.jpg
     sizes: '1200, 900'
 
-imagescredit: 'Contribution by an unknown architect from <a href="//twitter.com/mikegiuttari/status/1349025138847703040" target="_blank">MG Commercial on Twitter</a>'
+imagescredit: 'Contribution by an unknown architect from <a href="https://twitter.com/mikegiuttari/status/1349025138847703040">MG Commercial on Twitter</a>'
 
 mostrecentimage: 2021-11-01
 
@@ -119,7 +119,7 @@ It seems as though this will become apartments of some kind in the near future. 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 A four-story, rectangular, brick, five-by-fifteen-bay building with a flat roof and a raised basement. The building sits close to the street with railroad tracks to the rear. Several pedestrian entrances set within recessed, arched openings are located along the Ashburton Street elevation. A loading dock is offset on the west elevation of the building. A wood cornice is supported by wood brackets. Fenestration consists of single 8/16 sash windows set within segmental-arch openings. Windows in the exposed basement level have been boarded up. Iron fire escapes are centrally located on the building’s façade. A four-story, flat-roof addition sheathed in corrugated metal siding on its east elevation extends from the east elevation of the main block. A one-story, flat-roof ell projects from the southeast corner of the building.
 

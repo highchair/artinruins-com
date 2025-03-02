@@ -55,14 +55,14 @@ mostrecentimage: 2008-07-01
 
 ### Previous Uses
 
-Louis Fink was a scrap metal dealership who occupied this location from 1954 to the late 1970s. From there is has changed hands a few times. Due to its small size — about 1440 sq ft per floor — and location in the scrap metal, car parts, and impound yard district (how’s that for a great marketing name?) the use has always been towards the industrial nature of things. 
+Louis Fink was a scrap metal dealership who occupied this location from 1954 to the late 1970s. From there is has changed hands a few times. Due to its small size — about 1440 sq ft per floor — and location in the scrap metal, car parts, and impound yard district (how’s that for a great marketing name?) the use has always been towards the industrial nature of things.
 
-The building has been for sale a few times in recent years and tax info states that it was sold twice for the same price. In recent memory it was the home of [Stacey Smith Photography Studio](//www.stacysmithstudios.com){:target="_blank"} but her website lists a different address in North Providence now. We are not sure who owns it now or for what purpose. 
+The building has been for sale a few times in recent years and tax info states that it was sold twice for the same price. In recent memory it was the home of [Stacey Smith Photography Studio](https://www.stacysmithstudios.com) but her website lists a different address in North Providence now. We are not sure who owns it now or for what purpose. 
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 A small, three-story, flat-roof, brick industrial building easily visible from I-95 & 146. The four-by-five-bay structure is embellished with brick corbelling at the parapet on the façade. Pedestrian entrances set within segmental-arch openings are located on the south elevation. Fenestration is comprised of segmental-arch openings with 4/4 sash windows with concrete sills. A sign reading: “Louis Fink & Co. Dealers in Scrap Metal” is painted on the building’s north elevation. Oversized entrances for shipping and receiving of goods are located on the second and third floors of the façade. The building’s north elevation is devoid of window or door openings. A small paved parking area is located to the south.
 

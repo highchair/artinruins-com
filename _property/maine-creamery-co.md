@@ -117,7 +117,7 @@ Google Book results shows the following related passages:
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 The primary structure is a two-story, 4-by-5-bay, flat-roof structure with a corbelled cornice and stone trim. According to historic maps, this block was used for office space and storage. Fenestration consists of segmental-arch openings with replacement 1/1 sash on the upper story and glass block infill with fixed sash below. All windows on this block have stone sills. Attached to the rear (north) elevation of this block is a wider, two-story brick block with loading bays along its east elevation. This block has several infilled window openings and replacement sash. According to historic maps and the current assessor’s card for the property, further north are a one-story, concrete block ell and a large greenhouse. (Due to limited access of the site, these ells were not field checked.) A long, one-story flat-roof, concrete block garage stands to the rear of the site, at the northern-most end of the property. According to Sanborn maps, the garage was constructed in 1919.
 

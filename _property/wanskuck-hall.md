@@ -67,7 +67,7 @@ imagescredit: 'Contributions by National Register nomination photos for the Wans
 
 ### Redevelopment
 
-This charming building was constructed almost 150 years ago as part of the Wanskuck Mill Village by the Wanskuck Company to provide a facility for social gatherings and cultural activities for its mill workers. The building was also used as a Sunday School for the Roger Williams Baptist Church until 1897. The hall was lucky in that it was not empty for very long and never suffered neglect — though it must be a challenging structure to maintain. 
+This charming building was constructed almost 150 years ago as part of the Wanskuck Mill Village by the Wanskuck Company to provide a facility for social gatherings and cultural activities for its mill workers. The building was also used as a Sunday School for the Roger Williams Baptist Church until 1897. The hall was lucky in that it was not empty for very long and never suffered neglect — though it must be a challenging structure to maintain.
 
 _Did you know?_ Branch Avenue was originally named Wanskuck Road.
 {:.o__tldr}
@@ -75,12 +75,12 @@ _Did you know?_ Branch Avenue was originally named Wanskuck Road.
 
 ### Current Events
 
-When the mill closed in the late 1950s, the hall was converted to office spaces. Spaces are still available to interested parties. 
+When the mill closed in the late 1950s, the hall was converted to office spaces. Spaces are still available to interested parties.
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 Wanskuck Hall is a two-story, red, brick building with a low-hipped roof and a wide projecting ornamental fa9ade supported on attenuated brackets. This highly embellished building features decorative cornice, decorative brickwork bands, stone trim, segmental-arch window openings, and limited brick corbelling. A gable-roof projection extends from the front elevation and bears the words “Wanskuck Hall.” The building's primary entrance is offset on the façade within a recessed segmental-arch opening with a simple door flanked by single-light sidelights and set below a single-light transom. Fenestration is comprised of 2/2 and 1/1 sash windows; windows on the first floor façade are set below arched openings with decorative carved wood panels embellished with a floral motif. A one-story addition extends from the rear elevation of the building.
 
@@ -90,8 +90,8 @@ This building was constructed as part of the Wanskuck Mill Village by the Wansku
 
 _From the National Register nomination form prepared in 1981_
 
-A handsome, 2-story brick structure built by the Wanskuck Company for use as a community hall. Broad eaves of the hip roof are supported by delicately arched, wooden braces. Stars and circles are cut in boards covering the rafter ends. A central front gable breaks through the eaves over three second-story, segmental-arch windows set under a segmental relieving arch infilled with patterned brickwork and a limestone block with the building's name carved in raised lettering. 
+A handsome, 2-story brick structure built by the Wanskuck Company for use as a community hall. Broad eaves of the hip roof are supported by delicately arched, wooden braces. Stars and circles are cut in boards covering the rafter ends. A central front gable breaks through the eaves over three second-story, segmental-arch windows set under a segmental relieving arch infilled with patterned brickwork and a limestone block with the building's name carved in raised lettering.
 
-The first floor facade is divided by segmental arches into four unequal bays, one of which holds a recessed doorway while the others contain windows. The variety of materials and ornamentation reflects the era's love of “structural polychromy” and of the picturesque. Light limestone spandrels, string courses of limestone and blackened bricks, designs patterned by recessed brickwork and diapering, carved and molded wooden panels, and a granite foundation make a lively composition. 
+The first floor facade is divided by segmental arches into four unequal bays, one of which holds a recessed doorway while the others contain windows. The variety of materials and ornamentation reflects the era's love of “structural polychromy” and of the picturesque. Light limestone spandrels, string courses of limestone and blackened bricks, designs patterned by recessed brickwork and diapering, carved and molded wooden panels, and a granite foundation make a lively composition.
 
-An unsightly, windowless, concrete warehouse extension has recently been added to the rear to connect the hall with 1-23 Abram Street, the Wanskuck Company Warehouse, The interior has undergone several major renovations and is now used exclusively for office space,
+An unsightly, windowless, concrete warehouse extension has recently been added to the rear to connect the hall with 1-23 Abram Street, the Wanskuck Company Warehouse, The interior has undergone several major renovations and is now used exclusively for office space.

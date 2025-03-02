@@ -79,7 +79,7 @@ images:
 
 mostrecentimage: 2020-02-01
 
-imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12256" target="_blank">aerial late 50s,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A26656" target="_blank">aerial early 60s</a>), Providence Public Library; WardMapGifts.com; Library of Congress, Geography and Map Division'
+imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A12256">aerial late 50s,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A26656">aerial early 60s</a>), Providence Public Library; WardMapGifts.com; Library of Congress, Geography and Map Division'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -99,7 +99,7 @@ imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a hre
 
 ### Redevelopment
 
-Corliss Landing was an early foray into converting industrial mill buildings for residential use at a time when the buildings were not very attractive
+Corliss Landing was an early foray into converting industrial mill buildings for residential use at a time when the buildings were not very attractive.
 
 The developer of [Davol Square]({% link _property/davol-rubber-company.md %}), Robert P. Freeman, president of Marathon Development Companies, planned the first multi-million-dollar residential, office, and retail project on the waterfront in 1984. The complex was still under industrial use by the [New England Butt Co.]({% link _property/new-england-butt.md %}). Parent company, the Wanskuck Company, sold the buildings in 1983.[^1]
 
@@ -109,17 +109,17 @@ The developer of [Davol Square]({% link _property/davol-rubber-company.md %}), R
 
 [^2]: STETS, DAN. “Luxury housing complex planned on waterfront near Davol Square.” Providence Journal (RI), CITY ed., sec. NEWS, 24 Jan. 1984, pp. A-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C16755FE2850. Accessed 8 Jan. 2022.
 
-69 apartment units were rented for a time and then sold as condominiums. The units range in size from studios with 612 square feet to two-bedroom units with 1,774 square feet. 
+69 apartment units were rented for a time and then sold as condominiums. The units range in size from studios with 612 square feet to two-bedroom units with 1,774 square feet.
 
 
 ### Current Events
 
-These are all privately owned condominiums or commercial spaces. They pop-up on the typical home-search sites when they are available. 
+These are all privately owned condominiums or commercial spaces. They pop-up on the typical home-search sites when they are available.
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 555 South Water Street **Providence Steam Engine Company** 1845, NR - College Hill Historic District. […] The majority of window openings are segmental arch with 6/6 double-hung sash windows with granite sills; remaining fenestration includes rectangular window openings with 8/8 sash and granite lintels and sills. Pedestrian entrances are located along both South Main and South Water Street elevations. Two oversized, round-arch entrances are located on the South Main Street elevation and provide access to the interior courtyard. The structure is notable for its “clipped” comer at the intersection of Wickenden and South Main Street. […]
 
@@ -186,6 +186,4 @@ Freeman says the current schedule calls for all apartments to be completed by th
 UNDER CURRENT planning, the City of Providence will be building new docks along the waterfront which is faced by the Corliss Landing complex. The current Rhode Island Fish Co. building will be rehabilitated and utilized for retail space by the Corliss owners and Rhode Island Fish, itself, may established a small retail operation next to the Hot Club somewhat farther down the waterfront, Freeman says. […]
 {: .o__drop-cap }
 
-—
-
-HARRINGTON, CLYDE H.. “Corliss Landing spruces up waterfront 41% of condos in project already sold.” Providence Journal (RI), ALL ed., sec. REAL ESTATE, 5 May 1985, pp. G-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C08924D45840. Accessed 8 Jan. 2022.
+— HARRINGTON, CLYDE H.. “Corliss Landing spruces up waterfront 41% of condos in project already sold.” Providence Journal (RI), ALL ed., sec. REAL ESTATE, 5 May 1985, pp. G-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C08924D45840. Accessed 8 Jan. 2022.

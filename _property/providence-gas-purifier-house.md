@@ -105,23 +105,23 @@ imagescredit: 'Contributions from Edward Connors for the National Register nomin
 
 ### Redevelopment
 
-The building most recently was known as Conley Wharf and owned by Patrick Conley. Portions of it were for rent, including a ground-level storefront that was home to [Sin Desserts](//www.eatwicked.com){:target="_blank"} for years (now on Westminster Street). 
+The building most recently was known as Conley Wharf and owned by Patrick Conley. Portions of it were for rent, including a ground-level storefront that was home to [Sin Desserts](https://www.eatwicked.com) for years (now on Westminster Street).
 
 
 ### Current Events
 
-We are not sure what is currently going on in the former Purifier House. There seems to be a few small businesses located at this address, but our guess is that the space is largely underutilized. 
+We are not sure what is currently going on in the former Purifier House. There seems to be a few small businesses located at this address, but our guess is that the space is largely underutilized.
 
 
 ### History
 
-This property is listed in the [Guide to Providence Architecture](//guide.ppsri.org/property/providence-gas-company-purifier-house){:target="_blank"}, Providence Preservation Society. It was listed for the first time on the [Ten Most Endangered List](//guide.ppsri.org/list/most-endangered-property-2022){:target="_blank"} in 2022. 
+This property is listed in the [Guide to Providence Architecture](https://guide.ppsri.org/property/providence-gas-company-purifier-house), Providence Preservation Society. It was listed for the first time on the [Ten Most Endangered List](https://guide.ppsri.org/list/most-endangered-property-2022) in 2022.
 
 ***
 
 _From the description of its inclusion into the Ten Most Endangered Properties, 2022_
 
-…The context affecting the fate of the Purifier House is largely location. Allens Avenue is a major artery running south from Downtown and serving as US 1A. The introduction of Interstate 95, parallel to the west, effectively severed Allens Avenue and the first block of several east-west streets from residential South Providence to the west. This sealed Allens Avenue’s fate as a location for largely noxious uses. Today, Allens Avenue is a lightning rod for citizens concerned with issues of environmental justice and the health and well-being of the riverfront and abutting neighborhoods — and neighbors! 
+…The context affecting the fate of the Purifier House is largely location. Allens Avenue is a major artery running south from Downtown and serving as US 1A. The introduction of Interstate 95, parallel to the west, effectively severed Allens Avenue and the first block of several east-west streets from residential South Providence to the west. This sealed Allens Avenue’s fate as a location for largely noxious uses. Today, Allens Avenue is a lightning rod for citizens concerned with issues of environmental justice and the health and well-being of the riverfront and abutting neighborhoods — and neighbors!
 
 The architectural and historical significance of the Purifier House is well-documented. Furthermore, this one  building provides a snapshot of rapid, and sometimes ravaging, effects of industrial and environmental changes due to location and use. The preservation and future of the structure have less to do with integrity or adaptive reuse capacity and more to do with the harmful uses that surround it on the waterfront. 
 
@@ -148,7 +148,7 @@ The transverse trusses that support the top floor and the roof are spaced two to
 
 The roof deck is approximately 6" of reinforced concrete. It was originally covered with a standing seam metal roof that has since been replaced with a rubber membrane. Visible from within the building are the outlines of 24" diameter holes located on the underside of the roof at the arch crown in thirteen of the building’s rear bays. These holes (now concrete-filled) mark the former location of a series of sheet metal roof vents corresponding to the purifier units for which the building was designed.
 
-The original exterior surface of the building was stucco over wire lath. The original windows were wooden frame: 8 over 8 double hung on the ground floor; 12 over 12 double hung on the second floor; and 12-light single hung on the third floor. These corresponded to the bay configuration of the steel frame, with two windows between each pair of columns. 
+The original exterior surface of the building was stucco over wire lath. The original windows were wooden frame: 8 over 8 double hung on the ground floor; 12 over 12 double hung on the second floor; and 12-light single hung on the third floor. These corresponded to the bay configuration of the steel frame, with two windows between each pair of columns.
 
 The stairtower was of identical construction to the main building except that it had a flank gable roof. Three bays wide, it had exterior loading doors at three levels.
 
@@ -158,7 +158,7 @@ At the front of the building the1925 modification to four floors required the in
 
 The original exterior skin and fenestration were completely removed and replaced by brick walls with large window openings filled with steel sash typical of industrial architecture of the period. The windows are grouped with three sashes to an opening. On the first, third and fourth floors the predominant window form is a 12-light window flanked by two 16-light windows with 8-light hoppers. On the second floor (with its lower ceiling), a central 9-light window is flanked by two 12-light windows with 6-light hoppers.
 
-The stair tower was extended on the west end to accommodate a freight elevator, the gable roof was replaced by a higher flat roof and loading doors were eliminated. 
+The stair tower was extended on the west end to accommodate a freight elevator, the gable roof was replaced by a higher flat roof and loading doors were eliminated.
 
 The interior and exterior changes required some modification of the steel framing. The columns were completely encased in brick, except those in the stair tower and the two interior columns supporting the plate girders at the west end of the building. The bottom chord of the lowest longitudinal truss is now partially encased in the second floor slab and some parts of the bottom chord of the middle truss were cut to allow window operation.
 
@@ -168,7 +168,7 @@ The Providence Gas Company Purifier House (1899-1900) is a significant example o
 
 ###### Providence Gas Company
 
-Providence was among a number of eastern seaboard cities and towns to establish a manufactured gas plant for municipal use in the mid-19th century. A series of discoveries from the late 16th through the 17th centuries led to the realization that the destructive distillation of coal yielded a high volume of hydrogen gas suitable for illumination. More than two centuries would pass before these discoveries would lead to practical applications in residential or factory use and for street lighting. Early 19th-century experiments in street and residential gas illumination took place in Newport, Rhode Island, as well as in Baltimore, Maryland. 
+Providence was among a number of eastern seaboard cities and towns to establish a manufactured gas plant for municipal use in the mid-19th century. A series of discoveries from the late 16th through the 17th centuries led to the realization that the destructive distillation of coal yielded a high volume of hydrogen gas suitable for illumination. More than two centuries would pass before these discoveries would lead to practical applications in residential or factory use and for street lighting. Early 19th-century experiments in street and residential gas illumination took place in Newport, Rhode Island, as well as in Baltimore, Maryland.
 
 The **Providence Gas Company**, chartered in 1847 and in full operation the following year, erected its first manufactured coal gas plant at the corner of Benefit and Pike Streets in Fox Point. A typical plant of this period (located near a rail or waterfront source of coal) comprised a retort house for distillation of the coal, washing and scrubbing apparatus for cooling and removal of tars, ammonia and other impurities, a purifier house for removal of hydrogen sulfide, a metering house for measurement of the volume of gas produced, and a holder or “gasometer” for storage. Providence Gas dismantled the Pike Street gas plant around 1870, at which time it built West Station on the west side of the Providence River at Globe and Eddy Streets. This plant comprised a retort house, condenser and scrubber building (with adjoining tar house), lime process purifier house, scrubber house, gasometer and office. This plant also included a second purifier house built in 1896. […]
 
@@ -178,11 +178,11 @@ Providence Gas Company built a second gas plant along the waterfront south of We
 
 One of a number of regional New England bridge fabricating companies, Berlin Iron Bridge Company began the fabrication of iron bridges in 1878. Success with iron roof and bridge trusses led the company to begin designing and erecting industrial steel frame buildings in the early 1890s. Within a few years, Berlin built Rhode Island’s first steel frame industrial building, a <s>surviving</s> machine shop for [Fuller Iron Works]({% link _property/fuller-iron-works-1893.md %}) (1893). Designed for industrial use, these buildings were notable for their special-purpose construction, rapidity of assembly, and strength. A December 1895 article in The Iron Age, a national trade journal of the iron and steel industry, discussed the growing popularity of steel-frame Berlin buildings in the Providence area.
 
-> The general design of these structures is the result of long experience and much study on the part of Berlin Iron Bridge Company to produce an economical building to meet the requirements of foundries and manufacturing establishments where buildings of considerable width are used, necessitating strength and plenty of light. 
+> The general design of these structures is the result of long experience and much study on the part of Berlin Iron Bridge Company to produce an economical building to meet the requirements of foundries and manufacturing establishments where buildings of considerable width are used, necessitating strength and plenty of light.
 
 Although Providence Gas Company had worked with Berlin Iron Bridge Company before engaging them for construction of the Purifier House, this appears to be the first complete Berlin building contracted for either of their manufactured gas plants. An undated, ca 1895 promotional catalog describes and illustrates an iron roof designed for a Providence Gas “generator house”. By 1899, however, Berlin had erected a number of special-purpose, steel-frame buildings for industrial clients in the Providence metropolitan area including Pawtucket Gas Company and Narragansett Electric Lighting Company. […]
 
-The construction of the Purifier House incorporated many of the characteristic features of early steel construction, such as the riveted connections and built up posts and beams composed of rolled bars with angle and Z-sections. The Z-bar column, composed of four Z-bars riveted to a central plate, was developed by the engineer Charles Louis Strobel in 1886. It was quickly adopted for building construction and favored for carrying heavy loads in the first two decades of steel construction. After Strobel designed a new wide-flanged beam in 1895, the Z-bar column was largely superseded by the H column and other rolled forms that were simpler to manufacture. 
+The construction of the Purifier House incorporated many of the characteristic features of early steel construction, such as the riveted connections and built up posts and beams composed of rolled bars with angle and Z-sections. The Z-bar column, composed of four Z-bars riveted to a central plate, was developed by the engineer Charles Louis Strobel in 1886. It was quickly adopted for building construction and favored for carrying heavy loads in the first two decades of steel construction. After Strobel designed a new wide-flanged beam in 1895, the Z-bar column was largely superseded by the H column and other rolled forms that were simpler to manufacture.
 
 While taller than the other industrial buildings the Berlin Company erected in Providence, the Purifier House featured the same large volumes of high, open floor space largely unobstructed by intermediate structural supports. The extensive use of trusswork to stabilize the building’s skeletal frame reflects the Berlin Company’s origins in bridge building and their broad experience in the varieties of truss forms. This is most notable in the Purifier House roof structure. This use of the bowstring or tied-arch truss appears to have been unique among the Berlin buildings in Providence, which typically featured gable roofs supported by Warren or other triangular section trusses. The elegant curve of the “trussed arch,” as they called it, is reminiscent of the company’s trademark lenticular truss bridges.
 
@@ -196,7 +196,7 @@ Providence Gas Company decommissioned South Station in 1916, selling the parcels
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a large, four-story, long, three-bay-wide, brick building set on the east side of Allens Avenue. The building is notable for its rounded roof and large, paired and tripled, rectangular, multi-light, fixed and awning sash windows which fill each bay. The first floor of the building’s façade has been covered in tile, probably dating to the 1920s or 1930s. A tall, four-story, flat-roof elevator shaft projects from the north elevation of the building. A one-story, concrete block ell with a single vehicular entrance projects from the eastern end of the north elevation. Signage on the building includes “Dunlop Tire Safety Specialists,” “BF Goodrich,” “Michelin,” and “City Tire Co.” Attached to its south side is a two-story, flat-roof ell with large, single-light, fixed sash on its first floor. This block was added sometime after 1937. Attached to the two-story ell is a one-story, flat-roof block with rows of vehicular entrances along its south elevation. According to the Sanborn maps, this block was constructed in 1969. At the east end of the four-story block is a large, one-story, flat-roof, brick ell which replaced an earlier wood-frame block shown on the 1918 map. This brick ell was constructed between 1918 and 1926.
 

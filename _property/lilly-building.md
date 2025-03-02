@@ -76,7 +76,7 @@ The previously painted brick on the upper floors has been blasted off and a new 
 
 ### Current Events
 
-Units at 755 Westminster are privately owned and come on the market time and again. The [fourth floor units](//www.zillow.com/homedetails/755-Westminster-St-UNIT-403-Providence-RI-02903/65916154_zpid/) with vaulted ceilings are particularly impressive.
+Units at 755 Westminster are privately owned and come on the market time and again. The [fourth floor units](https://www.zillow.com/homedetails/755-Westminster-St-UNIT-403-Providence-RI-02903/65916154_zpid/) with vaulted ceilings are particularly impressive.
 
 
 ### History
@@ -98,7 +98,7 @@ The Rhode Island Supply Company owned it until 1946, when it was purchased by Ll
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a four-story, brick, low-hip-roof structure with a small, square, central turret projecting above the roofline with the building’s name and date in relief. The first floor of the building’s façade features storefronts, remodeled in the 1920s with carrara, purple glass, and metal trim. The building is further embellished with an overhanging cornice supported by simple brackets, simple lintels and sills, and Art Deco-style detailing on the storefronts. Fenestration is comprised of regularly-spaced, rectangular 1/1 replacement sash windows. The building is attached to the Burrows block at 735 Westminster Street and is currently being renovated for residential use.
 

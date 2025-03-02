@@ -107,7 +107,7 @@ mostrecentimage: 2022-12-01
 
 ### Redevelopment
 
-Owner at the time, Ted McGuire, got in touch with us in 2009. He supplied the photos from previous owner David Presbrey which he got when he became the new owner of the property. He wrote: 
+Owner at the time, Ted McGuire, got in touch with us in 2009. He supplied the photos from previous owner David Presbrey which he got when he became the new owner of the property. He wrote:
 
 > I just purchased this building, and will be moving my business there in the fall. We publish and distribute science kits for kids and this building will be our headquarters: show room, lab, and office space. It is currently occupied by an architect (the previous owner from whom I purchased it) and a design firm. Here are […] 20 pictures from 1984-85 which show the building before it was purchased and renovated by the previous owner.
 
@@ -119,7 +119,7 @@ Since then, Thames and Kosmos has moved to Ship Street in the Jewelry District a
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 The building is a two-and-one-half-story, brick, gable-roof building set on the west side of Friendship Street. The building features brick corbelling at the cornice line, cornice returns, and a central entrance on its facade. The entrance is reached by a set of stairs with a simple iron rail and is set below a stone lintel and second-story entrance with paired doors. A secondary entrance is located at the rear of the south elevation. A two-story, hip-roof ell projects from the rear of the building and houses a vehicular entrance on its east elevation. Fenestration is comprised of rectangular and segmental-arch openings with 8/8 and 6/6 sash windows with granite sills and lintels. A small paved parking area stands to the south.
 
@@ -131,9 +131,9 @@ The property was then purchased by **Samuel Moore & Company** who used the build
 
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
-301 Friendship Street, **Sylvester R. Jackson & Company** (c.1853). Sylvester R. Jackson & Company, a soap and candle manufacturing firm, was founded in 1841 and was originally located on Bridgham Street. Sylvester Jackson purchased the Friendship Street site in 1843 and constructed the factory ten years later. Built on a scale in keeping with the modest residential structures in this neighborhood, the 2 1/2-story, brick, gable-roofed factory has a pendant cornice, rectangular windows with granite sills and lintels, and a 2nd-story freight door set in the gable end. 
+301 Friendship Street, **Sylvester R. Jackson & Company** (c.1853). Sylvester R. Jackson & Company, a soap and candle manufacturing firm, was founded in 1841 and was originally located on Bridgham Street. Sylvester Jackson purchased the Friendship Street site in 1843 and constructed the factory ten years later. Built on a scale in keeping with the modest residential structures in this neighborhood, the 2 1/2-story, brick, gable-roofed factory has a pendant cornice, rectangular windows with granite sills and lintels, and a 2nd-story freight door set in the gable end.
 
-Sylvester R. Jackson & Company manufactured soap and candles at this factory until 1866, when he sold the property to the Phetteplace & Bartlett Company, also a soap manufacturing firm. Occupied by Phetteplace & Bartlett and later by Woodley & Leonard, this structure continued to function as a soap factory until the turn-of-the-century. 
+Sylvester R. Jackson & Company manufactured soap and candles at this factory until 1866, when he sold the property to the Phetteplace & Bartlett Company, also a soap manufacturing firm. Occupied by Phetteplace & Bartlett and later by Woodley & Leonard, this structure continued to function as a soap factory until the turn-of-the-century.
 
 In 1903, **Samuel Moore & Company**, which had been located in one of the jewelry factories in the jewelry district, bought the former soap factory and refitted it for the manufacture of jewelry. Samuel Moore, founder of the company, was a machinist who had patented mechanisms to produce such diverse objects as freight and passenger car wheels, shoe nails, twist drills, shot chains, and beaded wire. Samuel Moore & Company, which specialized in jewelry findings, greatly expanded its line in the 1890s and early 1900s and consequently was vitally important to jewelry-manufacturing centers in the United States. After Moore’s death in 1935, Samuel Moore & Company continued to operate under family management until 1961, when the company became a division of the Fulford Manufacturing Company. Samuel Moore & Company continues to manufacture jewelry findings at this site.
 
@@ -147,8 +147,7 @@ _From the Pine Street Historic District nomination form, 1978_
 
 #### Map Sources
 
-+ [1899 Sanborn Map, Volume 1, Plate 51](//repository.library.brown.edu/studio/item/bdr:213579/){:target="_blank"} — The building is present along Friednship Street opposite the corner of Prince Street and labelled “Woodley Soap Mfg. Co. Soap Factory.” **Source:** Sanborn Maps for the State of Rhode Island. Brown Digital Repository. Brown University Library
-+ [1920-1921 Sanborn Map, Volume 1, Plate 52](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"}(image 62) — Building is present and simply labelled “Jewelry Supplies.” **Source:** Library of Congress, Geography and Map Division, Sanborn Maps Collection
-+ [1921-1951 Sanborn Map, Volume 1, Plate 52](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101){:target="_blank"}(image 62) — Same. **Source:** Library of Congress, Geography and Map Division, Sanborn Maps Collection
-+ [1921-1956 Sanborn Map, Volume 1, Plate 52](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601){:target="_blank"}(image 52) — Same. **Source:** Library of Congress, Geography and Map Division, Sanborn Maps Collection
-
++ [1899 Sanborn Map, Volume 1, Plate 51](https://repository.library.brown.edu/studio/item/bdr:213579/) — The building is present along Friednship Street opposite the corner of Prince Street and labelled “Woodley Soap Mfg. Co. Soap Factory.” **Source:** Sanborn Maps for the State of Rhode Island. Brown Digital Repository. Brown University Library
++ [1920-1921 Sanborn Map, Volume 1, Plate 52](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (image 62) — Building is present and simply labelled “Jewelry Supplies.” **Source:** Library of Congress, Geography and Map Division, Sanborn Maps Collection
++ [1921-1951 Sanborn Map, Volume 1, Plate 52](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101) (image 62) — Same. **Source:** Library of Congress, Geography and Map Division, Sanborn Maps Collection
++ [1921-1956 Sanborn Map, Volume 1, Plate 52](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601) (image 52) — Same. **Source:** Library of Congress, Geography and Map Division, Sanborn Maps Collection

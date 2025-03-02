@@ -63,7 +63,7 @@ imagescredit:
 
 It was announced in early 2024 that the owners of the Dari Bee were looking to sell. The prime real estate along the bike path was asking a quarter of a million dollars.
 
-Business seems to be brisk in warmer months. Richmond Square has seen much business growth and turnover in the past few years as new owners have redeveloped the buildings and a new multi-unit apartment building was constructed by ONE Neighborhood Builders. With Borealis coffee, Union Bistro, and other nearby business, the Dari Bee will hopefully continue to be a bright spot along the bike path for a cold treat.
+Business seems to be brisk in warmer months. Riverside Square has seen much business growth and turnover in the past few years as new owners have redeveloped the buildings and a new multi-unit apartment building was constructed by ONE Neighborhood Builders. With Borealis coffee, Union Bistro, and other nearby business, the Dari Bee will hopefully continue to be a bright spot along the bike path for a cold treat.
 
 
 ### Current Events
@@ -79,7 +79,7 @@ A Sanborn Map from 1956[^1] shows a structure at this location and an aerial pho
 
 [^1]: “Sanborn Fire Insurance Map from East Providence, Providence County, Rhode Island.” Sanborn Map Company, 1956. Map. Retrieved from the Library of Congress, page 59, http://hdl.loc.gov/loc.gmd/g3774em.g3774em_g080831956
 
-[^2]: [Providence Historical Aerial Viewer](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e), enter address 240 Bullocks Point Avenue, East Providence.
+[^2]: [Providence Historical Aerial Viewer](https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad/), enter address 240 Bullocks Point Avenue, East Providence.
 
 
 ### In the News

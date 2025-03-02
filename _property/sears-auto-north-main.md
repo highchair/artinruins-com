@@ -95,7 +95,7 @@ This lot is the site of a Walgreens pharmacy with drive-thru prescription servic
 
 Only maps have been able to give us some clues about the build date, which we place between 1962 and 1972 due to aerial photos.
 
-+ [1921–1951 Sanborn Map, Vol. 2, Plate 95](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (page 102) — This building is not present, but instead, a similarly shaped building occupies the front of the plat and is labelled “Rest.” for restaurant
-+ [1921–1956 Sanborn Map, Vol. 2, Plate 95](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602){:target="_blank"} (page 96) — This building is still not present, but the revious building is still in place and has been expanded in size to the north
++ [1921–1951 Sanborn Map, Vol. 2, Plate 95](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102) (page 102) — This building is not present, but instead, a similarly shaped building occupies the front of the plat and is labelled “Rest.” for restaurant
++ [1921–1956 Sanborn Map, Vol. 2, Plate 95](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602) (page 96) — This building is still not present, but the previous building is still in place and has been expanded in size to the north
 + 1962 aerial photo from the Providence Historical Aerial Viewer — the former building being described in the Sanborn Maps is in place
 + 1972 aerial photo from the Providence Historical Aerial Viewer — the former building has been replaced by the footprint of the Sears Auto building, located here until the 2003 photo

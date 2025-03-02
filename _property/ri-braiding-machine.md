@@ -89,7 +89,7 @@ images:
 
 mostrecentimage: 2013-06-01
 
-imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%3A11427" target="_blank">Rhode Island Collection, Providence Public Library</a> and the <a href="//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e" target="_blank">Providence Historical Aerial Viewer</a>'
+imagescredit: 'Contribution from the <a href="https://provlibdigital.org/islandora/object/islandora%3A11427">Rhode Island Collection, Providence Public Library</a> and the <a href="https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e">Providence Historical Aerial Viewer</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -98,45 +98,45 @@ imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/obj
 
 ### Redevelopment
 
-The C.J. Fox company was founded in 1895 and incorporated in 1903 by Charles J. Fox.[^1] The company grew to about 100 employees and concentrated on paper packaging products for local jewelry manufacturers and had a sister corporation, Fox Tag & Label. 
+The C.J. Fox company was founded in 1895 and incorporated in 1903 by Charles J. Fox.[^1] The company grew to about 100 employees and concentrated on paper packaging products for local jewelry manufacturers and had a sister corporation, Fox Tag & Label.
 
-[^1]: Information from OpenCorporates.com, captured February 4, 2022 from https://opencorporates.com/companies/us_ri/000007334 
+[^1]: Information from OpenCorporates.com, captured February 4, 2022 from https://opencorporates.com/companies/us_ri/000007334
 
-In 2005, daughter of Charles J. Fox, Jr., Jill Fox Tobak was appointed President. Tobak was 54 at the time and most recently held the position of Vice President of Marketing. She had worked at the firm for 25 years prior and was a graduate of the University of Rhode Island.[^2] 
+In 2005, daughter of Charles J. Fox, Jr., Jill Fox Tobak was appointed President. Tobak was 54 at the time and most recently held the position of Vice President of Marketing. She had worked at the firm for 25 years prior and was a graduate of the University of Rhode Island.[^2]
 
 [^2]: “Biz Bits & Quips.” Providence Journal (RI), All ed., sec. Business, 31 July 2005, pp. M-02. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15242875799CD338. Accessed 4 Feb. 2022.
 
-What must have been fairly shortly after 2005, the Fox family sold the company to an out-of-state buyer. The property remained vacant for some years before being purchased by the [Omni Group](http://www.omniri.com){:target="_blank"} for $1.6 million in mid-February, 2013.[^3] 
+What must have been fairly shortly after 2005, the Fox family sold the company to an out-of-state buyer. The property remained vacant for some years before being purchased by the [Omni Group](http://www.omniri.com) for $1.6 million in mid-February, 2013.[^3]
 
 [^3]: “News.” Providence Journal (RI), 1 ed., sec. News, 8 Mar. 2013, p. MAIN_06. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152421102C7564B8. Accessed 4 Feb. 2022.
 
 #### Demolition
 
-The development of this parcel included the demolition of several structures. A neighboring one-story, concrete block building known as the *Crahan Engraving Company* (240 Aborn & 10 Cedar) set with a chamfered corner on Aborn Street was demolished for parking[^4] along with another concrete block, two-story building with a slight hip roof to the west (15 Cedar). 
+The development of this parcel included the demolition of several structures. A neighboring one-story, concrete block building known as the *Crahan Engraving Company* (240 Aborn & 10 Cedar) set with a chamfered corner on Aborn Street was demolished for parking[^4] along with another concrete block, two-story building with a slight hip roof to the west (15 Cedar).
 
-[^4]: “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002.
+[^4]: “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the RIHPHC, 2001-2002.
 
-The Crahan Engraving Company was built in 1929 and produced photo engravings in half tone and color markers of high grade printing plates. After 1944 it was home to the *Watchemoket Optical Company Inc*.[^5] 
+The Crahan Engraving Company was built in 1929 and produced photo engravings in half tone and color markers of high grade printing plates. After 1944 it was home to the *Watchemoket Optical Company Inc*.[^5]
 
 [^5]: Ibid.
 
-The “Deal Knife Company” appears as a 1-story wooden building attached to a 2-story brick structure on the south side in 1920. In a 1939 map the building is unlabelled and still wooden. By 1951, the wooden building looks to have been replaced by the concrete block structure but the 2-story brick building to the south is still present. The brick building was present back to the 1889 map.  
+The “Deal Knife Company” appears as a 1-story wooden building attached to a 2-story brick structure on the south side in 1920. In a 1939 map the building is unlabelled and still wooden. By 1951, the wooden building looks to have been replaced by the concrete block structure but the 2-story brick building to the south is still present. The brick building was present back to the 1889 map.
 
-By [a 1908 map](#photo-1908-LJRichards-Plate-4-01), the long 4-story, 24 bay deep mill was in place to the northwest of three older structures, with the oldest wooden structure likely predating the 1868 building still standing. 
+By [a 1908 map](#photo-1908-LJRichards-Plate-4-01), the long 4-story, 24 bay deep mill was in place to the northwest of three older structures, with the oldest wooden structure likely predating the 1868 building still standing.
 
-The oldest portion of the complex was a 3-story wooden-frame building on the northeast corner of the parcel, visible in [the vintage photo](#photo-ri-braiding-ppl-undated), and seems to have been demolished in the late 1950s according to aerial photos. This would have been right before or at the same time that other buildings to the east were demolished to make way for the new interstate highway in the early 1960s. It is possible this structure pre-dated the remaining 1868 brick structures. 
+The oldest portion of the complex was a 3-story wooden-frame building on the northeast corner of the parcel, visible in [the vintage photo](#photo-ri-braiding-ppl-undated), and seems to have been demolished in the late 1950s according to aerial photos. This would have been right before or at the same time that other buildings to the east were demolished to make way for the new interstate highway in the early 1960s. It is possible this structure pre-dated the remaining 1868 brick structures.
 
-In the 1920 map, the original Rhode Island Braiding Machine buildings were labelled Numbers 1, 2, and 3 from north to south and likely from oldest to newest. Building 2 was demolished as part of the redevelopment of this parcel, leaving the northern wall of Building 3 exposed and eventually inclosed by a glass curtain wall. 
+In the 1920 map, the original Rhode Island Braiding Machine buildings were labelled Numbers 1, 2, and 3 from north to south and likely from oldest to newest. Building 2 was demolished as part of the redevelopment of this parcel, leaving the northern wall of Building 3 exposed and eventually inclosed by a glass curtain wall.
 
 
 ### Current Events
 
-The building is now called One Cedar and it is part of the Omni Groups’s [West Exchange Center](http://www.westexchangecenter.com){:target="_blank"} campus of office and commercial spaces. 
+The building is now called One Cedar and it is part of the Omni Groups’s [West Exchange Center](http://www.westexchangecenter.com) campus of office and commercial spaces.
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 222 Aborn Street and 2 Fox Place **R.I. Braiding Machine Company / C. J. Fox Company** (1868, early 20th century).
 
@@ -150,11 +150,11 @@ A four-story brick mill building (2 Fox Place) with heavy brick piers, segmented
 
 #### Source Maps
 
-+ [1889 Sanborn Insurance map, Vol. 1, Plate 4](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901){:target="_blank"}
-+ [1920–1921 Sanborn Insurance map, Vol. 1, Plate 8](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"}
-+ [1939 G.M. Hopkins Map, Plate 4](http://www.historicmapworks.com/Map/US/895461/Plate+004/Providence+1937/Rhode+Island/){:target="_blank"}
-+ [1920–1951 Sanborn Insurance map, Vol. 1, Plate 8](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101){:target="_blank"}
-+ [1920–1956 Sanborn Insurance map, Vol. 1, Plate 8](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601){:target="_blank"}
++ [1889 Sanborn Insurance map, Vol. 1, Plate 4](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901)
++ [1920–1921 Sanborn Insurance map, Vol. 1, Plate 8](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001)
++ [1939 G.M. Hopkins Map, Plate 4](http://www.historicmapworks.com/Map/US/895461/Plate+004/Providence+1937/Rhode+Island/)
++ [1920–1951 Sanborn Insurance map, Vol. 1, Plate 8](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101)
++ [1920–1956 Sanborn Insurance map, Vol. 1, Plate 8](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601)
 
 
 ### In the News
@@ -170,9 +170,7 @@ The Omni Group in mid-February paid $1.6 million for 2 Fox Place and five other 
 
 The private Omni firm has rebuilt much of the area between Atwells Avenue and West Exchange Street since 2006 as an office complex. Omni will raze some structures on the Fox properties and convert other space to offices.
 
-— 
-
-Grimaldi, Paul. “Omni Group buys Fox building in Providence.” Providence Journal (RI), All ed., sec. breaking_news, 7 Mar. 2013. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524214E567EBA60. Accessed 4 Feb. 2022.
+— Grimaldi, Paul. “Omni Group buys Fox building in Providence.” Providence Journal (RI), All ed., sec. breaking_news, 7 Mar. 2013. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524214E567EBA60. Accessed 4 Feb. 2022.
 
 ***
 
@@ -186,6 +184,4 @@ A lifelong resident of Providence, he was born on June 30, 1918, to the late C. 
 
 Soon after college graduation, Mr. Fox entered the packaging company founded by his father in 1895. In his 54 years with the C.J. Fox Company, the business grew from 35 to more than 100 employees. Instrumental in expanding the company’s product lines from boxes and tags to pressure sensitive labels and plastic display cards, Mr. Fox, with his brother, Robert Fox, introduced innovative marketing and manufacturing techniques to the business. Mr. Fox, who was called CJ by friends and family, was known to walk around the factory and personally thank each employee upon handing them their paycheck.
 
-— 
-
-“Businessman Charles J. Fox Jr. dies; former CEO of the C.J. Fox Company.” Providence Journal (RI), ALL ed., sec. NEWS, 7 July 1996, pp. B-08. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15251FE528F07FD0. Accessed 4 Feb. 2022.
+— “Businessman Charles J. Fox Jr. dies; former CEO of the C.J. Fox Company.” Providence Journal (RI), ALL ed., sec. NEWS, 7 July 1996, pp. B-08. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15251FE528F07FD0. Accessed 4 Feb. 2022.

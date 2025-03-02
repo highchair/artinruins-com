@@ -98,7 +98,7 @@ images:
 
 mostrecentimage: 2020-09-01
 
-imagescredit: 'Contributions by <a href="//provlibdigital.org/islandora/object/islandora%3A4805" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> and the <a href="//provlibdigital.org/islandora/object/islandora%3A14096" target="_blank">RI Photograph Collection</a>, Providence Public Library; and the National Register nomination photos for the Wanskuck Historic District.'
+imagescredit: 'Contributions by <a href="https://provlibdigital.org/islandora/object/islandora%3A4805">John Hutchins Cady Research Scrapbooks Collection</a> and the <a href="https://provlibdigital.org/islandora/object/islandora%3A14096">RI Photograph Collection</a>, Providence Public Library; and the National Register nomination photos for the Wanskuck Historic District.'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -121,7 +121,7 @@ The mill is being renovated and converted into 225 apartment units — a mix of
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 The structure that dominates this mill complex’s landscape is a five-story brick textile mill with a tall, square, central stair-and-freight that tapers to an octagonal opening lantern capped by a low, copper-clad, ogee dome. There was a four-story addition made to the west of the main building between 1874 and 1875. An office was added to the southwest part of the main building in the 1880s. This office was later supplanted by a two-story, brick, Romanesque office. North of the main building in the mill yard are numerous outbuildings including: blacksmith shops, picker, engine, and boiler houses, and a circular, brick gasometer).
 
@@ -140,7 +140,7 @@ In 1883 about $20,000 was spent on electric lighting, making Wanskuck the first 
 
 The chronology of construction of the Wanskuck Woolen Mill is complex, beginning with demolition in 1862 of a 3-story, stone, gambrel-roofed cotton mill that had been on the site since about 1811. Between 1862 and 1864 William H. Salisbury, the mill's first superintendent, directed construction of the 4-story, gable-roofed brick mill that measured 300 by 500 feet with a 134 by 40-foot ell. (Within a few decades the gable roof was removed and a fifth story and flat roof were added). Built at the same time were a gas house, a round gasometer, a blacksmith shop, boiler house, engine house, and office (replaced in the late 19th century by the structure now on Branch Avenue). The gasworks provided gas lighting for the mill. Operations were powered by Corliss engines, and water from the West River was reserved for washing wool. In 1869 the company was one of the first in the United States to experiment with worsted production, and to house this expanding operation a 4-story, 348 by 71-foot extension to the west was completed in 1874 as well as a new dye house and power plant. A 3-story, 100 by 50-foot picker house and dyehouse had been added in the previous year. Machinery was constantly being upgraded and much of it, particularly that related to worsted production, was imported from England. In 1883 about $20,000 was spent on electric lighting, making Wanskuck the first mill in Rhode Island to boast this modern convenience. By 1895 the mill also had a telephone connection. The 3-story, 306 by 72-foot eastern extension was added in 1906, as was a 1-story engine room and adjacent boiler room. There were few other changes after that time. The mill was closed in 1957, and the space has since been divided and rented to a number of small firms.
 
-_Did you know?_ The North End of Providence became part of North Providence in 1765. As it grew, it was later “returned” to Providence in 1874. Also, the large pond (Wanskuck Mill pond) adjacent to the north flank of the mill was full until the late 1950s, when it allowed to drain and created the marsh that is present now. 
+_Did you know?_ The North End of Providence became part of North Providence in 1765. As it grew, it was later “returned” to Providence in 1874. Also, the large pond (Wanskuck Mill pond) adjacent to the north flank of the mill was full until the late 1950s, when it allowed to drain and created the marsh that is present now.
 {:.o__tldr}
 
 

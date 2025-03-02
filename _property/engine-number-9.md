@@ -54,19 +54,19 @@ imagescredit:
 
 ### Redevelopment
 
-Since 1984, this former fire station has been used as an artist live/work studio. The entire first floor was left in its raw pre-1984 form, while the second floor looks to have been modified and cleaned up only slightly. All the charm of an old firehouse is still evident. 
+Since 1984, this former fire station has been used as an artist live/work studio. The entire first floor was left in its raw pre-1984 form, while the second floor looks to have been modified and cleaned up only slightly. All the charm of an old firehouse is still evident.
 
-This small firehouse is located in a dense residential neighborhood on the West Side. The building itself is zoned as a “Neighborhood Commercial Establishment”. The second floor features 18 foot high ceilings, large original windows, and small loft area. The is a single bathroom and small kitchen as well. 
+This small firehouse is located in a dense residential neighborhood on the West Side. The building itself is zoned as a “Neighborhood Commercial Establishment”. The second floor features 18 foot high ceilings, large original windows, and small loft area. The is a single bathroom and small kitchen as well.
 
 
 ### Current Events
 
-This former fire station sold was listed for sale in 2020 and interior photos are [available on Zillow](//www.zillow.com/homedetails/4-Pallas-St-Providence-RI-02903/2077366350_zpid/){:target="_blank"}. It looks as though it came off the market a week after it was posted, but no sale seems to have happened. 
+This former fire station sold was listed for sale in 2020 and interior photos are [available on Zillow](https://www.zillow.com/homedetails/4-Pallas-St-Providence-RI-02903/2077366350_zpid/). It looks as though it came off the market a week after it was posted, but no sale seems to have happened.
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 [Labelled as “Providence Fire Department Engine 7.”] It is a two-story, end-gable, brick building with a round-arch central entrance on the façade set below a fanlight with tracery. A sign reading: “Engine Station 9” spans the central entrance. The building is embellished by a symmetrical façade, center entry, corbelled cornice, and arched Italianate-style windows. A pedestrian entrance is located in a brick ell on the side elevation that houses a stairway. The entrance is set below a blocked transom. Fenestration is comprised of round-arch openings with 12/9 and 9/9 sash with stone sills. Lozenge-shaped tie rods extend along the side elevation between the first and second stories. A two-story, gable-roof ell projects from the building’s rear elevation.
 
@@ -78,7 +78,7 @@ _From “Fires and Firefighters in Providence,” Patrick Conley and Paul Campbe
 
 In January 1838 Providence Fire Engine Company No. 9 (Gaspee Company) was incorporated, having commenced duty in 1837 on Carpenter Street in the Smith Hill area, then the extreme northwest section of Providence. Eventually the Gaspee station moved to nearby Pallas Street. This unit originally manned a second-hand Smith engine, but in 1849 it acquired a machine from William Jeffers of Pawtucket, who was beginning his career as one of the nation’s highly regarded fire engine manufacturers. This piece of apparatus later became famous its appearances at regional firefighting musters and exhibitions. It disappeared mysteriously in 1956 after a fire prevention parade in Providence, and the whereabouts of the valuable and legendary “Gaspee No. 9” is still unknown.
 
-In 1886 Engine 9 was moved to new and incredibly beautiful quarters at the [corner of Atwells and America](//provlibdigital.org/islandora/object/islandora%3A5645){:target="_blank"}. It was demolished in the 1950s for parking and remains so today. 
+In 1886 Engine 9 was moved to new and incredibly beautiful quarters at the [corner of Atwells and America](https://provlibdigital.org/islandora/object/islandora%3A5645). It was demolished in the 1950s for parking and remains so today.
 
 _— Submitted by Harry Cohoon_
 

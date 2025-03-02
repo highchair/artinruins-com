@@ -123,7 +123,7 @@ Studio, one- and two-bedroom units are available to view and inquire at [strivel
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 **Asa Peck & Company, Inc.**: The large building stands four stories in height with a slightly-pitched end-gable roof. The building is comprised of a central main block and several one- and two-story additions. A small, one-story addition projects from the rear elevation of the main block, a gable-roof, two-story block with a chamfered comer is offset at the front of the building, and a long, two-story, single-bay addition extends along the side elevation of the main block. According to the assessor’s card for the property, the long two-story, brick addition was constructed in 1969. The main block of the building has star-shaped metal tie rods. Windows are set within arched openings and feature multi-light fixed sash with awning in their central portions. The main entrance on Atwells Avenue is recessed with stone and brick stairs and a wood canopy. A vehicular entrance is located along Harris Avenue.
 

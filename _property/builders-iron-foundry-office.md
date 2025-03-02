@@ -53,7 +53,7 @@ images:
     caption: 'Office building circled in red on this map. 1920–1951 Sanborn Map, Volume 1, Plate 15 — Library of Congress, Geography and Map Division'
     sizes: '1440, 900'
 
-imagescredit: 'Contribution from the <a href="http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101" target="_blank">Library of Congress</a>'
+imagescredit: 'Contribution from the <a href="http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101">Library of Congress</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -62,15 +62,15 @@ imagescredit: 'Contribution from the <a href="http://hdl.loc.gov/loc.gmd/g3774pm
 
 ### Reason for Demolition
 
-This is surely a building that very few people will shed a tear for. A place to pay traffic fines, see a judge, and possibly lose your license is not going to make anyone reminisce fondly. 
+This is surely a building that very few people will shed a tear for. A place to pay traffic fines, see a judge, and possibly lose your license is not going to make anyone reminisce fondly.
 
-Before its conversion in the mid-seventies, though, the building was part of the [Builder’s Iron Foundry]({% link _property/builders-iron-foundry.md %}) as its main office starting in 1950. It was surrounded by other industrial buildings, a few of which remain. 
+Before its conversion in the mid-seventies, though, the building was part of the [Builder’s Iron Foundry]({% link _property/builders-iron-foundry.md %}) as its main office starting in 1950. It was surrounded by other industrial buildings, a few of which remain.
 
-Sadly, the bulk of the [Builder’s Iron Foundry]({% link _property/builders-iron-foundry.md %}) burned in 2015 when an illegal pot-growing facility was using butane to produce hash oil.[^1] Butane, when not properly ventilated, is extremely flammable. The building at 4 Sims Avenue burned to the ground and that was the last of the Builder’s Iron Foundry. 
+Sadly, the bulk of the [Builder’s Iron Foundry]({% link _property/builders-iron-foundry.md %}) burned in 2015 when an illegal pot-growing facility was using butane to produce hash oil.[^1] Butane, when not properly ventilated, is extremely flammable. The building at 4 Sims Avenue burned to the ground and that was the last of the Builder’s Iron Foundry.
 
 [^1]: Mulvaney, Katie. “Courts 5 charged with running pot oil labs — Liquid sparked Providence fire; another blaze S. Kingstown man.” Providence Journal (RI), sec. RI News, 31 Mar. 2016, p. 1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15BF545981324E10. Accessed 8 Feb. 2022.
 
-This building was vacated in 2007 for a new traffic court in Cranston. It was leveled about nine years later in 2016. 
+This building was vacated in 2007 for a new traffic court in Cranston. It was leveled about nine years later in 2016.
 
 
 ### Current Events
@@ -80,15 +80,15 @@ The lot was vacant from 2016 to 2019 but a self-storage facility was built here 
 
 ### History
 
-This building is a single building out of the larger [Builder’s Iron Foundry]({% link _property/builders-iron-foundry.md %}) to the northwest. The complex grew over time in a densely built industrial area. 
+This building is a single building out of the larger [Builder’s Iron Foundry]({% link _property/builders-iron-foundry.md %}) to the northwest. The complex grew over time in a densely built industrial area.
 
-Of what remains in the area, the Portland Group Plumbing Supply building next door was previously Pittsburgh Plate Glass, built in 1939 (before a G.M. Hopkins map was drawn but after the 1939 aerial photo was taken). 
+Of what remains in the area, the Portland Group Plumbing Supply building next door was previously Pittsburgh Plate Glass, built in 1939 (before a G.M. Hopkins map was drawn but after the 1939 aerial photo was taken).
 
-The site of the current adult club “Fantasies” on the other side was built on the former location of a large wood-frame structure for the Textile Finishing Machine Company. The building was razed between 1997 and 2003 when the Fantasies building appears in an aerial photo.  
+The site of the current adult club “Fantasies” on the other side was built on the former location of a large wood-frame structure for the Textile Finishing Machine Company. The building was razed between 1997 and 2003 when the Fantasies building appears in an aerial photo.
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 (Excerpt including description of the office)
 
@@ -123,6 +123,4 @@ Parking at the old building has been a long-standing problem, too. The front par
 
 The Harris Avenue factory building was retrofitted in 1974 to be a courthouse. Parker’s courtroom has worn carpeting around the rostrum and electrical wires fixed to the floor with silver duct tape. […]
 
-— 
-
-Arsenault, Mark. “State Traffic Tribunal hits the road.” Providence Journal (RI), All ed., sec. News, 12 Jan. 2007, pp. A-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152426969C6E9468. Accessed 8 Feb. 2022.
+— Arsenault, Mark. “State Traffic Tribunal hits the road.” Providence Journal (RI), All ed., sec. News, 12 Jan. 2007, pp. A-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152426969C6E9468. Accessed 8 Feb. 2022.

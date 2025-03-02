@@ -153,7 +153,7 @@ The Brownell & Field Company Building (1907) at 119 Harris Avenue, was the first
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is three-story, flat-roof, lozenge-shaped, brick industrial building with close proximity to the railroad tracks. The western half of the building was constructed first and features a centrally located pedestrian entrance on the façade (south) set within a recessed, round-arch opening; this entrance has been blocked in. A secondary pedestrian entrance is offset on the façade, within a segmental-arch, recessed opening. A wide vehicular entrance is located on the west elevation. Brick piers articulate each bay of the building. Fenestration consists of segmental-arch openings with paired 1/1 and 4/4 sash set below fixed transoms and granite sills. Metal louvered shades have been added to the windows. An historic view of the building shows that windows were 4/4 sash and a sign reading: “Brownell & Field Co. Wholesale Grocers Tea and Coffee” spanned the cornice line. A smaller sign reading: “Brownell & Field Co. Office and Showroom” spanned the front entrance. A large metal smokestack and two brick chimneys rise from-the east end of the building.
 

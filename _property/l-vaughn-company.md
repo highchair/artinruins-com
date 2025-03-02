@@ -37,7 +37,7 @@ thumbnail: l-vaughn-jh-2006-04-03.jpg
 
 images:
   - url: l-vaughn-pps-aiari-2001.jpg
-    caption: 'Photo by PPS/AIAri for the Industrial Sites and Commercial Buildings Survey (ICBS), 2001'
+    caption: 'Photo by PPS/RIHPHC for the Industrial Sites and Commercial Buildings Survey (ICBS), 2001'
     sizes: '364, 247'
   - url: l-vaughn-jh-2004-01.jpg
     alt: 'A three-story red brick mill with arch-topped windows and granite lintels is simple in shape and without much adornment. It has surrounding one-story buildings that were part of a large lumber yard.'
@@ -150,7 +150,7 @@ A former warehouse built after 1956 at 1169 Westminster Street suffered a fire o
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 A large, two- and three-story, brick, flat-roof building set on the north side of Westminster Street. The block set closest to the street is a two-story, flat-roof, brick structure with a modern façade featuring an applied plywood band between the two stories and modern, fixed windows and an offset entrance comprised of a metal-and-glass door. Side elevations of this block show original windows to the north. This block is identified as office space on Sanborn maps. Although this front block has been highly altered, the remainder of the complex retains it architectural integrity.
 

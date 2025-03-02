@@ -76,7 +76,7 @@ The Dye House of the Weybosset Mills company saw its hey days at the turn of the
 
 Since the 1930s, however, the buildings of the former Weybosset Mills were subdivided and repurposed for various industrial uses. The former Dye House was the headquarters for the Modern Trucking Company since 1956. Their tenure at this location lasted through the 80s while they shared space with a custom furniture company and into 2007.
 
-From 2007 until 2015, Studio AD, an architectural firm, used the Dye House as their office. Studio AD, Ltd. was established in 2005 by Christopher J. Henderson. Previous to renovating the Dye House, they had renovated and repurposed an [1856 firehouse on the corners of Putnam and Amherst Streets](https://www.google.com/maps/place/106+Putnam+St,+Providence,+RI+02909/@41.8233691,-71.4443861,3a,75y,135.25h,86.38t/data=!3m6!1e1!3m4!1sLr7f4ya8io4CLVwS8AH3DA!2e0!7i16384!8i8192!4m5!3m4!1s0x89e44597b0285583:0xecc4e845a2daa09!8m2!3d41.8232334!4d-71.4442085){:target="_blank"}.[^1]
+From 2007 until 2015, Studio AD, an architectural firm, used the Dye House as their office. Studio AD, Ltd. was established in 2005 by Christopher J. Henderson. Previous to renovating the Dye House, they had renovated and repurposed an [1856 firehouse on the corners of Putnam and Amherst Streets](https://www.google.com/maps/place/106+Putnam+St,+Providence,+RI+02909/@41.8233691,-71.4443861,3a,75y,135.25h,86.38t/data=!3m6!1e1!3m4!1sLr7f4ya8io4CLVwS8AH3DA!2e0!7i16384!8i8192!4m5!3m4!1s0x89e44597b0285583:0xecc4e845a2daa09!8m2!3d41.8232334!4d-71.4442085).[^1]
 
 [^1]: Information gathered from an Archive.org capture of the Studio AD website circa 2010 at https://web.archive.org/web/20131212111215/http://studioad.us/index.htm
 
@@ -85,7 +85,7 @@ From 2015 until 2019, the Dye House was a studio and home of ceramist J. Schatz.
 
 ### Current Events
 
-The Dye House is currently a [small boutique hotel](//www.dyehouseri.com){:target="_blank"} with open concept community space. All of the interior fixtures down to the linens and the ceramics in the studio apartment are created and provided by local artisans within a small radius.
+The Dye House is currently a [small boutique hotel](https://www.dyehouseri.com) with open concept community space. All of the interior fixtures down to the linens and the ceramics in the studio apartment are created and provided by local artisans within a small radius.
 
 
 ### History
@@ -115,7 +115,7 @@ Four modern personnel doors and two modern garage doors are located in the build
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 […] 46 Dike Street appears on the 1919 map as a Dye House for use by the **American Woolen Company** - Weybosset Plant. The long, rectangular building is attached to a three-story structure to the rear […]. Owners of the lot on which 46 Dike Street stands included Thomas Sawyer (1864-1905); the Church of the Messiah (1905-1914), Albert G. Winward (1934-1954), and the Winward Trucking Co., Inc. (1954-1955). A sign on the building identifies the current occupants as Modern Trucking, Inc. 217 and 239 Oak Street was owned by members of the Waterman family through to 1922 when the property was acquired by Archibald Silverman and Benjamin Hyman.
 

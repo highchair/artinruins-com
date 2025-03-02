@@ -250,7 +250,7 @@ See independent entry for [Mill Number 4]({% link _property/weybosset-mills-numb
 <details markdown="1" class="rhythm">
   <summary>Additional History</summary>
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 **Waterman-Weybosset Mills** — 20, 34, 46 Dike Street; 217, 233, 239 Oak Street 1836-1881
 

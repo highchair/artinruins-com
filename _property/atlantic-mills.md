@@ -144,25 +144,25 @@ Atlantic Mills, almost 20 years after most of these photos were taken, is still 
 
 #### Links
 
-+ [Atlantic-mills.com for leasing information](//www.atlantic-mills.com){:target="_blank"}
-+ [@atlantic_mills on Instagram](//www.instagram.com/atlantic_mills/){:target="_blank"} for photos and for DMs about leasing
++ [Atlantic-mills.com for leasing information](https://www.atlantic-mills.com)
++ [@atlantic_mills on Instagram](https://www.instagram.com/atlantic_mills/) for photos and for DMs about leasing
 
 
 ### History
 
 Sanborn Maps show incredible details of this complex that was so large, two different plates were needed in the earlier maps. If you’d like to dive deep, check them out on the Library of Congress website:
 
-+ [1889–1900 Sanborn Insurance Map, Volume 3, Plate 277](//www.loc.gov/resource/g3774pm.g3774pm_g08099190003/?sp=67&r=0.063,0.772,0.982,0.47,0){:target="_blank"} (which is mostly Riverside Mills to the northwest)
-+ [1889–1900 Sanborn Insurance Map, Volume 3, Plate 278](https://www.loc.gov/resource/g3774pm.g3774pm_g080981922/?sp=65&r=-0.461,0.321,1.961,0.939,0){:target="_blank"}
-+ [1920–1921 Sanborn Insurance Map, Volume 4, Plate 11](https://www.loc.gov/resource/g3774pm.g3774pm_g08099192104/?sp=12){:target="_blank"}
-+ [1921–1951 Sanborn Insurance Map, Volume 4, Plate 11](https://www.loc.gov/resource/g3774pm.g3774pm_g08099195004/?sp=12&r=0.217,0.569,0.695,0.333,0){:target="_blank"}
-+ [1921–1956 Sanborn Insurance Map, Volume 4, Plate 67d](https://www.loc.gov/resource/g3774pm.g3774pm_g08099195604/?sp=58&r=-0.008,-0.075,1.041,0.499,0){:target="_blank"}
++ [1889–1900 Sanborn Insurance Map, Volume 3, Plate 277](https://www.loc.gov/resource/g3774pm.g3774pm_g08099190003/?sp=67&r=0.063,0.772,0.982,0.47,0) (which is mostly Riverside Mills to the northwest)
++ [1889–1900 Sanborn Insurance Map, Volume 3, Plate 278](https://www.loc.gov/resource/g3774pm.g3774pm_g080981922/?sp=65&r=-0.461,0.321,1.961,0.939,0)
++ [1920–1921 Sanborn Insurance Map, Volume 4, Plate 11](https://www.loc.gov/resource/g3774pm.g3774pm_g08099192104/?sp=12)
++ [1921–1951 Sanborn Insurance Map, Volume 4, Plate 11](https://www.loc.gov/resource/g3774pm.g3774pm_g08099195004/?sp=12&r=0.217,0.569,0.695,0.333,0)
++ [1921–1956 Sanborn Insurance Map, Volume 4, Plate 67d](https://www.loc.gov/resource/g3774pm.g3774pm_g08099195604/?sp=58&r=-0.008,-0.075,1.041,0.499,0)
 
 A two-story, double-hip-roofed office building as well as the four-story Cotton Mill were still standing in a 1972 aerial photo. The nearby one-story commercial space/grocery store was built by 1981. The Boiler House no. 18 was still standing in a 1951-1952 aerial photo but gone by 1961. It was not included in the 1956 map, so was demolished between 1951 and 1956.
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 Atlantic Mills is a complex of buildings fronting on Manton Avenue with the Woonasquatucket River, its original power source, running behind the complex. The main building (120 Manton Avenue; 1871 and 1882) is a three-and-one-half-story, brick building notable for its two domed towers and granite balustrades; one cupola survives. Other buildings include a four-story brick mill (1871), a three-story brick mill (1893) designed by F.P. Sheldon, and a four-story brick mill (1899). The Woonasquatucket River passes through the complex with at least three small bridge crossings of steel beam construction.
 
@@ -217,7 +217,7 @@ Unlike downtown Providence, where offices have remained empty since the pandemic
 
 “Class A” real estate downtown, mostly office buildings, is renting for an average of $22 per square foot, a price well beyond what the tenants in the Atlantic Mills are paying for space in a much older building.
 
-Inside the mill’s wide, well-lit hallways, the [Olneyville Neighborhood Association](//www.ona-providence.org/) holds language classes at night, a carpenter builds orders for hospitals, a metal worker fabricates giant shade structures and a restaurant supplier that makes deliveries as far away as Florida and New Hampshire uses the mill as his sprawling warehouse space. Big Nazo even houses its creature shop in the mill building.
+Inside the mill’s wide, well-lit hallways, the [Olneyville Neighborhood Association](https://www.ona-providence.org/) holds language classes at night, a carpenter builds orders for hospitals, a metal worker fabricates giant shade structures and a restaurant supplier that makes deliveries as far away as Florida and New Hampshire uses the mill as his sprawling warehouse space. Big Nazo even houses its creature shop in the mill building.
 
 Alvin Candelario runs Candelario Supplies LLC out of the mill building, occupying two sprawling spaces he uses as a warehouse for his restaurant supply company.
 

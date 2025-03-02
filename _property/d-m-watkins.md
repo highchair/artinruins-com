@@ -99,7 +99,7 @@ imagescredit: 'Contributions by James Taylor and Paul Shelasky'
 
 _From the Providence Preservation Society’s nomination to its 2008 Preservation Awards_
 
-Known to many as the Rolo Building, this two-story building built in 1921 is a remnant of Providence’s history as a center of jewelry manufacturing. [...] Located adjacent to the soon-be-be-relocated I-195, Johnson & Wales saw the building as the ideal location for a new Student Services Center, consolidating six different academic services under one roof. They commissioned [ARC/Architectural Resources Cambridge](//arcusa.com){:target="_blank"} to formulate an adaptive reuse design solution that respects the historic building’s architectural integrity while integrating institutional requirements.
+Known to many as the Rolo Building, this two-story building built in 1921 is a remnant of Providence’s history as a center of jewelry manufacturing. [...] Located adjacent to the soon-be-be-relocated I-195, Johnson & Wales saw the building as the ideal location for a new Student Services Center, consolidating six different academic services under one roof. They commissioned [ARC/Architectural Resources Cambridge](https://arcusa.com) to formulate an adaptive reuse design solution that respects the historic building’s architectural integrity while integrating institutional requirements.
 
 The spectacular rehabilitation, executed by Walsh Brothers, preserves original window openings and clerestory monitors and exposes the steel structure. The first floor, once a production floor filled with manufacturing equipment, now has a large, inviting lobby, conference room, and offices. The second floor originally held a machine shop and company offices. It is now home to light-filled workspaces and offices. Two historic objects were integrated into the new interior design. An industrial scale has been placed in the lobby and the circa 1961 “Rolo Building” sign has been installed above the second floor coffee bar. On the exterior, the original Watkins sign, which was covered for more than 30 years, has been restored. This project truly demonstrates Johnson & Wales University’s admirable commitment to the preservation of significant historic buildings in downtown Providence.
 
@@ -108,8 +108,9 @@ The spectacular rehabilitation, executed by Walsh Brothers, preserves original w
 
 This building is not listed as part of the Jewelry Manufacturing Historic District — neither the original nomination nor the district expansion after the interstate 195 was removed. The building sits outside the main district.
 
+***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 The rectangular two-story, flat-roof, brick building has a nine-bay façade, with an offset entrance recessed and comprised of a glass-and-metal door with sidelights. “Rolo Building” appears above this entrance. Three pedestrian entrances are offset on Foster Street, set below a hoist and pulley system at the second story. The building is embellished with brick corbelling at the cornice, projecting brick piers articulating each bay on the façade, a granite beltcourse and granite sills. Both the Foster and Pine Street elevations are highly ornate while the side elevation is devoid of architectural ornamentation. Fenestration is comprised of single, paired, and tripled rectangular, 4/4 and 6/6 sash with transoms. A chainlink fence surrounds the parking lot.
 

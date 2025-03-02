@@ -106,7 +106,7 @@ We find it interesting that the 2001–2002 ICDB lists this building under the n
   <img src="{{ site.propimg_path }}{{ page.slug }}/rw_brewery_logo.png" alt="" />
 </figure>
 
-Roger Williams Brewing company crafted such brews as Handy’s Cream Ale, Polskie Piwo Beer, Roger Williams Ale, Union Ale, and Westminster Ale.[^1] Prohibition was in effect when the brewery opened, but not for long. Prohition started in 1920 but ended on December 5, 1933. Some breweries stayed in business by producing “near-beer” (low alcohol). No information as to whether any of these brews started as low alcohol. Since the brewery was shortlived, its cans and bottles are prized by collectors. 
+Roger Williams Brewing company crafted such brews as Handy’s Cream Ale, Polskie Piwo Beer, Roger Williams Ale, Union Ale, and Westminster Ale.[^1] Prohibition was in effect when the brewery opened, but not for long. Prohition started in 1920 but ended on December 5, 1933. Some breweries stayed in business by producing “near-beer” (low alcohol). No information as to whether any of these brews started as low alcohol. Since the brewery was shortlived, its cans and bottles are prized by collectors.
 
 [^1]: “Roger Williams Brewing Corp. of Providence, Rhode Island, USA.” Captured 29 June 2023 from https://www.taverntrove.com/roger-williams-brewing-corp-of-providence-rhode-island-usa-br-477.html
 
@@ -175,7 +175,7 @@ Other businesses that located on Weybosset Mills property in the first half of t
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002 (separate entry)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a large, four-story, stuccoed stone building with quoined comers and a projecting stair tower centered on the façade. The cruciform-plan mill building is known as Weybosset Mill Number 3. Fenestration is comprised of rectangular openings with replacement 1/1 sash and granite lintels and sills. The large building covers most of the lot and is set parallel to Oak Street.
 

@@ -88,7 +88,7 @@ images:
   - url: monohasset-jh-2006-04-02.jpg
     sizes: '1200, 900'
 
-imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A10955" target="_blank">photo</a>) and the ProQuest Online Digital Sanborn Maps, Providence Public Library'
+imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A10955">photo</a>) and the ProQuest Online Digital Sanborn Maps, Providence Public Library'
 
 mostrecentimage: 2006-04-01
 
@@ -103,17 +103,17 @@ After many years in decay during the 80s and 90s, many people remember with fond
 
 Since then, this complex has been renovated and recycled into residential live/work units — some market rate, and some subsidized using HOME funds. These units have resale restrictions in order to ensure they remain affordable in perpetuity and available only to artists who qualify under the selection criteria. Much care has been taken to reuse as much of the original building as possible, and some parts have even been recycled from other buildings (example — many of the interior copper clad doors came from the [Brown Marvel gym]({% link _property/brown-marvel-gym.md %})).
 
-Winner of the [PPS Award Adaptive Reuse/Neighborhood Revitalization 2004](//guide.ppsri.org/property/monohasset-mill){:target="_blank"}
+Winner of the [PPS Award Adaptive Reuse/Neighborhood Revitalization 2004](https://guide.ppsri.org/property/monohasset-mill).
 
 
 ### Current Events
 
-Units occasionally come up for sale but be aware that most tenants hang onto to their units for a very long time. About, history, and current tenant list at [MonohassetMill.org](//monohassetmill.org){:target="_blank"}
+Units occasionally come up for sale but be aware that most tenants hang onto to their units for a very long time. About, history, and current tenant list at [MonohassetMill.org](https://monohassetmill.org).
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 **Monohasset Mill** is prominently sited at the southeast comer of the intersection of Eagle Street and Kinsley Avenue. The complex is dominated by a tall, four-and-one-half-story, brick, gambrel-roof building with granite trim and a five-story, fat-roof tower (originally with a steep hip roof). The building is embellished with brick corbelling at the cornice of both the main building and tower. Fenestration consists of single, segmental-arch openings with replacement 1/1 sash windows with granite sills. Shed-roof dormers illuminate the top story. According to historic maps, the structure contained the engine room, boiler room, dyeing room, and packing room. A large, one-story, gable-roof ell projects to the north. This ell is minimally detailed and features replacement windows. The two-story, hip-roof brick structure to the south housed wool shops and boiler and engine rooms. Fenestration consists of segmental-arch openings with replacement 1/1 sash and granite sills. A one-story, shed-roof machine shop is attached to the south.
 
@@ -139,4 +139,4 @@ During the 20th century, the mill was used by several worsted companies, one of 
 
 #### Other Links
 
-+ [New England Wireless & Steam Museum page about Armington Sims](//newsm.org/manufacturers/armington-sims-engine-co/){:target="_blank"}
++ [New England Wireless & Steam Museum page about Armington Sims](https://newsm.org/manufacturers/armington-sims-engine-co/)

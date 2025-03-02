@@ -72,7 +72,7 @@ images:
   - url: pilgrim-church-jh-2013-05-06.jpg
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A10252" target="_blank">Rhode Island Photograph Collection</a> at the Providence Public Library and from <a href="http://gusn.us/283390" target="_blank">Digital Commonwealth Massachusetts</a>'
+imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/islandora%3A10252">Rhode Island Photograph Collection</a> at the Providence Public Library and from <a href="http://gusn.us/283390">Digital Commonwealth Massachusetts</a>'
 
 mostrecentimage: 2013-05-01
 
@@ -83,23 +83,23 @@ mostrecentimage: 2013-05-01
 
 ### Redevelopment
 
-In a largely residential neighborhood in the Armory neighborhood sits a former church built in the mid-1800s. After a hurricane which removed the steeple and a fire that gutted the interior, the building was used for furniture storage starting in the 1940s. In many ways it seems that the property was underutilized, but its strong, thick walls held fast and the owners of the storage company kept the roof in good shape. 
+In a largely residential neighborhood in the Armory neighborhood sits a former church built in the mid-1800s. After a hurricane which removed the steeple and a fire that gutted the interior, the building was used for furniture storage starting in the 1940s. In many ways it seems that the property was underutilized, but its strong, thick walls held fast and the owners of the storage company kept the roof in good shape.
 
-In the mid-2000s a new owner stepped forward with plans to convert the structure into 20 residential condominiums. A zoning variance was sought and granted to lease the required parking spaces from the U.S. Gas station on the corner of Harrison and Westminster. Neighborhood groups opposed the compromise — on the one hand, an empty building was getting revitalized but on the other, a key parcel on a busy street would remain a parking lot instead of being developed in its own right. 
+In the mid-2000s a new owner stepped forward with plans to convert the structure into 20 residential condominiums. A zoning variance was sought and granted to lease the required parking spaces from the U.S. Gas station on the corner of Harrison and Westminster. Neighborhood groups opposed the compromise — on the one hand, an empty building was getting revitalized but on the other, a key parcel on a busy street would remain a parking lot instead of being developed in its own right.
 
-The economic downturn of 2008 put the project into limbo. The owner eventually sold in 2009 to a new developer, the brothers Federico and Antonio Managio, who were able to convert the building. A combination of interior parking spaces on the first floor and an agreement to reduce the number of necessary spaces per unit allowed the project to move forward without a negative impact on the neighborhood. 
+The economic downturn of 2008 put the project into limbo. The owner eventually sold in 2009 to a new developer, the brothers Federico and Antonio Managio, who were able to convert the building. A combination of interior parking spaces on the first floor and an agreement to reduce the number of necessary spaces per unit allowed the project to move forward without a negative impact on the neighborhood.
 
-The former U.S. Gas location is under development now into a residential project. 
+The former U.S. Gas location is under development now into a residential project.
 
 
 ### Current Events
 
-Unit availability and details about the amenities can be found at [PilgrimLofts.com](//www.pilgrimlofts.com){:target="_blank"}
+Unit availability and details about the amenities can be found at [PilgrimLofts.com](https://www.pilgrimlofts.com).
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a large, brick, Late Victorian church building notable for its elaborate decoration, including brick corbelling, engaged columns, round-arch openings, projecting brick piers, and brownstone trim. The building was originally constructed for a church and was later used as a furniture warehouse. Entrances are located within recessed openings at both the north and south bays of the façade (east). The southern entrance features paired, paneled wood doors set within a recessed, round-arch opening articulated with brick corbelling, delicate, engaged columns, and stone trim. The northern entrance features the same articulation but has been altered for use by vehicles; it now contains a large, roll-top vehicular door. Fenestration consists of narrow, round-arch openings now filled in with brick or concrete block; original trim remains. Two, one-story, flat-roof, concrete block additions project from the building’s rear elevation.
 
@@ -151,7 +151,7 @@ She noted that Kite worked with the previous owner of 19 Harrison St., as well a
 
 For more information about rentals at 19 Harrison St., email info@pilgrimlofts.com or call (401) 304-9214. The website is www.pilgrimlofts.com.
 
-_Captured September 22, 2021, from an Archive.org copy at https://web.archive.org/web/20171229111214/http://www.providencejournal.com:80/news/20171225/residential-project-rehabilitates-once-majestic-church-in-providences-west-end_
+— _Captured September 22, 2021, from an Archive.org copy at https://web.archive.org/web/20171229111214/http://www.providencejournal.com:80/news/20171225/residential-project-rehabilitates-once-majestic-church-in-providences-west-end_
 
 
 <details markdown="1" class="rhythm">
@@ -181,6 +181,6 @@ Members of the Zoning Board acknowledged that the solution wasn’t perfect, but
 
 With the variance in hand, Guttin said he expects the project to start in July, and finish early in 2008, perhaps in February.
 
-_Content of this article moved over from the former ArtInRuins page. No source URL or capture date is available._
+— _Content of this article moved over from the former ArtInRuins page. No source URL or capture date is available._
 
 </details>

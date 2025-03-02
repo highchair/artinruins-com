@@ -53,21 +53,21 @@ imagescredit:
 
 ### Redevelopment
 
-This building sat vacant for nearly two decades before it was redeveloped into transition housing for former inmates. The model is being used throughout the country to increase assimilation back into society and has been shown to reduce incidents of newly released people sliding back into their former habits. 
+This building sat vacant for nearly two decades before it was redeveloped into transition housing for former inmates. The model is being used throughout the country to increase assimilation back into society and has been shown to reduce incidents of newly released people sliding back into their former habits.
 
-The developer OpenDoors worked with architects Elton + Hampton to redevelop the industrial building into 19 single-occupant apartments. Federal, state, and local grants helped fund the effort. Tenants are provided counseling, employment workshops, and job search assistance. 
+The developer OpenDoors worked with architects Elton + Hampton to redevelop the industrial building into 19 single-occupant apartments. Federal, state, and local grants helped fund the effort. Tenants are provided counseling, employment workshops, and job search assistance.
 
 
 ### Current Events
 
-As far as we know, the building is still owned and operated by OpenDoors. 
+As far as we know, the building is still owned and operated by OpenDoors.
 
 
 ### History
 
 _From the National Register nomination form, prepared by Elizabeth Porterfield, 2008_
 
-Construction of the General Ice Cream Corporation Building in 1915 by Sam Dolbey coincided with a period of significant growth in the national ice cream industry. A healthy, local dairy farm business, transportation improvements, and developments in artificial ice production and refrigeration technology were instrumental in the initiation and success of the business. 
+Construction of the General Ice Cream Corporation Building in 1915 by Sam Dolbey coincided with a period of significant growth in the national ice cream industry. A healthy, local dairy farm business, transportation improvements, and developments in artificial ice production and refrigeration technology were instrumental in the initiation and success of the business.
 
 Sam Dolbey (1875–1947), founder of the Dolbey Ice Cream Company, was born in Yorkshire England and came to Rhode Island with his family in 1881 at age six. After attending school, Mr. Dolbey worked in a cotton mill and later as a clerk for a book and stationary store. […]
 
@@ -81,7 +81,7 @@ General Ice Cream Corporation continued to occupy the 485 Plainfield Street plan
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a two- and three-story, brick, pier-and-spandrel building with a flat roof located on the north side of Plainfield Street. The two most eastern bays of the structure stand three stories in height while the three western bays are two stories. The building’s primary entrance is offset in the western-most bay of the facade and is comprised of a metal-and-glass door set below a projecting metal hood and reached by a flight of concrete steps with a metal rail. The entrance is set within a round-arch opening with keystone that has since been bricked in. Fenestration consists of segmental-arch openings, the majority of which have been bricked in. Remaining windows feature replacement 1/1 sash; windows on the second floor of the two-story block’s facade are rectangular with fixed and sliding glass. The building is embellished with concrete stringcourses, projecting piers between each bay, and a corbelled cornice. An interior brick chimney rises from the western end of the structure. Attached to the rear of the building is a one-story, shed-roof addition. A chain link fence marks the property’s perimeter.
 

@@ -151,7 +151,7 @@ The [1899 Sanborn map](#photo-combo-ladder-sanborn-1899) shows “A.S. Waterman 
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 **Combination Ladder** is comprised of several one- and two-story, brick structures. A large, one- to two-story, flat-roof block stands at the corner of West Fountain Street and Cargill Street. Due to the topographical changes, the building stands one-story in height at the rear and two-stories in height at the West Fountain street end. This block features an altered, centrally-located, vehicular entrance that has been bricked in and has an offset pedestrian entrance comprised of a metal-and-glass door.
 

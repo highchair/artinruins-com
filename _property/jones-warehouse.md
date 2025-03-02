@@ -87,17 +87,17 @@ mostrecentimage: 2022-12-01
 
 A great example of turn-of-the-century architecture with impressive massing and detailing that recall the former [Merchants Cold Storage]({% link _property/merchants-cold-storage.md %})  building as well as local armories. With modern storage facilities being no more than rows of garage door and cinder block construction, we appreciate the pride and finesse that this building displays. 
 
-It is located next door to the [Goodwill Engine Company]({% link _property/good-will-engine-co.md %}) and the Pearl Street Lofts, and behind the playing fields for Central High School in a mostly commercial neighborhood, with residential housing not too far away. On the corner is another impressive brick structure, the [Southside Cultural Center](//www.sccri.org){:target="_blank"}, located in the Trinity United Methodist Church. 
+It is located next door to the [Goodwill Engine Company]({% link _property/good-will-engine-co.md %}) and the Pearl Street Lofts, and behind the playing fields for Central High School in a mostly commercial neighborhood, with residential housing not too far away. On the corner is another impressive brick structure, the [Southside Cultural Center](https://www.sccri.org), located in the Trinity United Methodist Church. 
 
 
 ### Current Events
 
-The [Jones Moving Company](//www.rimover.com){:target="_blank"} has been in steady business since 1896. 
+The [Jones Moving Company](https://www.rimover.com) has been in steady business since 1896. 
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 The Jones Warehouse building is a massive, five- and seven-story, Richardsonian Romanesque-style, flat-roof, brick building embellished with a brownstone-trimmed façade and a corbelled brick cornice. This highly ornate building features crenellation on the seven-story block and narrow, recessed windows. Three sets of pedestrian entrances are located on the southeast elevation (façade) of the five-story block. Fenestration consists of paired and tripled, rectangular 6/6 sash with stone sills. The top floor of the five-story block features two groups of four round-arch windows with brick corbelling below. The top two floors of the seven-story block feature narrow, round-arch windows set in two rows. The side elevations of the building are devoid of architectural embellishments. A sign reading “Warehouse” stands atop the five-story block. A sign painted on the northeast elevation reads “Orrin Jones Storage Warehouse.” A second painted sign is visible on the southwest elevation of the seven-story block.
 
@@ -117,6 +117,6 @@ The nominated structures have been very little-altered over the years. Each cont
 
 #### Significance
 
-The Jones Warehouses are of local and statewide architectural importance. The plain-trimmed c. 1861-65 factory building with its clerestory roof is one of the oldest and least altered industrial structures in Providence and a very late example of a mill type which was popular inRhode Island in the first half of the nineteenth century [A.I.R.: No longer extant]. Buildings C and D, in addition to the considerable architectural merit of their unified exterior, possess great significance in being among the earliest buildings erected specifically for the storage of household goods in Providence or, so a contemporary account claimed,anywhere. The structures were equipped with such innovations as a (very large) electric elevator and fire doors which closed automatically.
+The Jones Warehouses are of local and statewide architectural importance. The plain-trimmed c. 1861-65 factory building with its clerestory roof is one of the oldest and least altered industrial structures in Providence and a very late example of a mill type which was popular inRhode Island in the first half of the nineteenth century [A.I.R.: No longer extant]. Buildings C and D, in addition to the considerable architectural merit of their unified exterior, possess great significance in being among the earliest buildings erected specifically for the storage of household goods in Providence or, so a contemporary account claimed, anywhere. The structures were equipped with such innovations as a (very large) electric elevator and fire doors which closed automatically.
 
-The Jones Warehouses firm was established about 1889 by Orrin E. Jones, a blacksmith. Jones first housed his household-goods storage business in the Lester Hall block nearby on Cranston Street. In 1893, however, he purchased the former gun factory, and in the next few years consolidated the business there and in his other buildings on Central Street. Orrin E. Jones died in 1923. His son, George W. Jones, who had started work with the company in 1907, then took charge and continued to run the business until his death early in 1974. 
+The Jones Warehouses firm was established about 1889 by Orrin E. Jones, a blacksmith. Jones first housed his household-goods storage business in the Lester Hall block nearby on Cranston Street. In 1893, however, he purchased the former gun factory, and in the next few years consolidated the business there and in his other buildings on Central Street. Orrin E. Jones died in 1923. His son, George W. Jones, who had started work with the company in 1907, then took charge and continued to run the business until his death early in 1974.

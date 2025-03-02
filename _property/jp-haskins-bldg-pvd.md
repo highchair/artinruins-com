@@ -76,12 +76,12 @@ We know someone who claims to have lived here a long time ago — and maybe sti
 
 ### Current Events
 
-Across Summer Street is a [new residential development by Crossroads Rhode Island](//www.crossroadsri.org/housing-services/programs-services/housing/housing-development/summer-street-apartments). We are unsure if the J.P. Haskins building is residential or not.
+Across Summer Street is a [new residential development by Crossroads Rhode Island](https://www.crossroadsri.org/housing-services/programs-services/housing/housing-development/summer-street-apartments). We are unsure if the J.P. Haskins building is residential or not.
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 A four-story, brick building embellished with a corbeled cornice, a stringcourse at the first floor level and decorative hoodmolds. Pedestrian entrances are located in each end bay of the building's 11-bay facade. Fenestration consists of rectangular openings with multi-light sash windows. Small, rectangular 6/6 sash windows are located on the building’s south elevation. A two-story, flat-roof, brick building, noted on historic maps as a “factory building,” projects from the rear elevation of the four-story block. Fenestration on this block is comprised of rectangular, multi-light, fixed and awning sash and small 1/1 replacement sash on the first floor. Windows on the south elevation of this block has been replaced as evidence by a change in brick and smaller windows. A small, one-story, shed-roof brick ell projects from the southwest comer of the four-story block. This ell is noted as a “boiler room” on historic maps. A paved lot is located to the south, bound by a chain link fence.
 

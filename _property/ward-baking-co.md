@@ -101,29 +101,29 @@ A long story of proposals and failures haunted this site, and its future was ver
 
 Though the venture received tax stabilization, the development never moved forward. It was put back on the market in 2013.
 
-For a short time in 2015, the property was considered to be the second potential location for a new Pawtucket Red Sox stadium. The first location was just up the street on the waterfront on what is now (in 2021) a public park. Plans for a new stadium never met with approval and the Paw Sox declared a move to Worcester instead. 
+For a short time in 2015, the property was considered to be the second potential location for a new Pawtucket Red Sox stadium. The first location was just up the street on the waterfront on what is now (in 2021) a public park. Plans for a new stadium never met with approval and the Paw Sox declared a move to Worcester instead.
 
-In the summer of 2020, Lifespan — owner of the property since 2015 — started to seek an emergency demolition permit for the remaining Administration Building. They had done nothing to stabilize the building and — surprise surprise — part of the roof collapsed. An attorney and a structural engineer hired by Lifespan have determined that the building is a threat to public safety. The engineer recommended demolition, but the committee requested a second opinion. 
+In the summer of 2020, Lifespan — owner of the property since 2015 — started to seek an emergency demolition permit for the remaining Administration Building. They had done nothing to stabilize the building and — surprise surprise — part of the roof collapsed. An attorney and a structural engineer hired by Lifespan have determined that the building is a threat to public safety. The engineer recommended demolition, but the committee requested a second opinion.
 
-The former owner gifted the standing building to Lifespan as part of the transfer — it was not part of the purchase price — as a way to explicitly encourage stabilization of the structure. The previous owner was only granted a demolition permit for the entire parcel if the Administration Building remained. It seems that Lifespan then proceeded to let it rot and created the unstable conditions that led to its demise.  
+The former owner gifted the standing building to Lifespan as part of the transfer — it was not part of the purchase price — as a way to explicitly encourage stabilization of the structure. The previous owner was only granted a demolition permit for the entire parcel if the Administration Building remained. It seems that Lifespan then proceeded to let it rot and created the unstable conditions that led to its demise.
 
 
 ### Current Events
 
-From 2012 to 2021, only the Ward Baking Company Administration building was left standing on the corner of the site. The rest of the property has been remediated and leveled with blue stone and a small corner of asphalt. A few summers ago the property hosted a carnival, but that was the most action it had seen in some time. 
+From 2012 to 2021, only the Ward Baking Company Administration building was left standing on the corner of the site. The rest of the property has been remediated and leveled with blue stone and a small corner of asphalt. A few summers ago the property hosted a carnival, but that was the most action it had seen in some time.
 
-In 2021 the owner, Lifespan, was granted approval for demolition — a previous denial of demolition was overturned. Demolition occurred in February. The site is currently an empty lot. 
+In 2021 the owner, Lifespan, was granted approval for demolition — a previous denial of demolition was overturned. Demolition occurred in February. The site is currently an empty lot.
 
 
 ### History
 
-In 2012, the Providence Preservation Society included [the administration building](//guide.ppsri.org/property/ward-baking-company-administration-building) on the Most Endangered Properties list. This followed a 2011 demolition that was allowed by the Providence Historic District Commission, with the stipulation that the developer preserve the Administration Building. The building was continually threatened by demolition, leading to PPS including it on the 2012, 2014, 2016, and 2021 MEP lists.
+In 2012, the Providence Preservation Society included [the administration building](https://guide.ppsri.org/property/ward-baking-company-administration-building) on the Most Endangered Properties list. This followed a 2011 demolition that was allowed by the Providence Historic District Commission, with the stipulation that the developer preserve the Administration Building. The building was continually threatened by demolition, leading to PPS including it on the 2012, 2014, 2016, and 2021 MEP lists.
 
-The [Grove Street school](//guide.ppsri.org/property/grove-street-elementary-school){:target="_blank"} was included on <abbr title="Providence Preservation Society">PPS</abbr>’s Ten Most Endangered Lists in 2002, 2003, 2007, 2008, 2009, 2010, and 2011.
+The [Grove Street school](https://guide.ppsri.org/property/grove-street-elementary-school) was included on <abbr title="Providence Preservation Society">PPS</abbr>’s Ten Most Endangered Lists in 2002, 2003, 2007, 2008, 2009, 2010, and 2011.
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a large, one- and two-story, brick, flat-roof complex comprised of the original block and numerous ells constructed between 1908 and 1956. The building is bound by Eddy Street, Globe Street, and Manchester Street (now known as Marengo Street). The building’s primary entrance is set within the chamfered corner of a two-story block which stands at the intersection of Eddy and Marengo streets. The entrance is flanked by single-light sidelights and set below several bands of brick corbelling. This two-story block and the one-story block attached to its west elevation were both part of the original building and appear on the 1908 Sanborn map. The two-story, blonde brick block features projecting brick piers between each bay topped with stone trim. Fenestration is comprised of rectangular openings with a combination of glass block and boarded up windows.
 

@@ -81,7 +81,7 @@ National Office Furniture moved in 2023 from this location to Elmgrove Avenue ne
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 The main block of the building stands one-story in height with a central, recessed entrance on its façade flanked by bands of single-light, fixed windows. Single pedestrian entrances are located at each end bay of the façade. Fenestration on the side elevations consists of multi-light sash and some bricked in openings. A one-story, brick ell with a shallow shed roof and skylights extends from the rear elevation of 36 Branch Avenue. The rear ell features a concrete floor, concrete slab, exposed steel trusses, and 24" brick piers (Sanborn 1983). The building is attached to [32 Branch Avenue]({% link _property/32-branch-avenue.md %}), a two-story brick structure with a parapet and concrete trim and panels to the south.
 

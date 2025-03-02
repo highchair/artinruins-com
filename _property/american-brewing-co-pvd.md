@@ -73,7 +73,7 @@ images:
 
 mostrecentimage: 2022-12-01
 
-imagescredit: 'Contribution from <a href="//en.wikipedia.org/wiki/American_Brewing_Company_Plant#/media/File:American_Brewing_Company_Plant.jpg" target="_blank">Kenneth C. Zirkel</a> for Wikimedia'
+imagescredit: 'Contribution from <a href="https://en.wikipedia.org/wiki/American_Brewing_Company_Plant#/media/File:American_Brewing_Company_Plant.jpg">Kenneth C. Zirkel</a> for Wikimedia'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -82,11 +82,11 @@ imagescredit: 'Contribution from <a href="//en.wikipedia.org/wiki/American_Brewi
 
 ### Last Tenant
 
-Capital Records Management, Inc. was the most recent tenant at this property, with an incorporation date of 1989 and a dissolution date of 2013.[^1] The property was then likely listed for sale, though we can not tell when [the listing on Loopnet](//www.loopnet.com/Listing/431-Harris-Ave-Providence-RI/3703883/){:target="_blank"} was active.
+Capital Records Management, Inc. was the most recent tenant at this property, with an incorporation date of 1989 and a dissolution date of 2013.[^1] The property was then likely listed for sale, though we can not tell when [the listing on Loopnet](https://www.loopnet.com/Listing/431-Harris-Ave-Providence-RI/3703883/) was active.
 
 [^1]: “CAPITAL RECORDS MANAGEMENT INCORPORATED.” Open Corporates, accessed 23 December 2022 from https://opencorporates.com/companies/us_ri/000053629
 
-In 2016, it looked like the building had a buyer that applied for historic tax credits. Freedom City Properties applied for a “$10-million conversion to 32 apartments and commercial spaces, including a theater and artist work space.”[^2] The plan seems to have not materialized, as the building looks the same as it did 6 years ago. 
+In 2016, it looked like the building had a buyer that applied for historic tax credits. Freedom City Properties applied for a “$10-million conversion to 32 apartments and commercial spaces, including a theater and artist work space.”[^2] The plan seems to have not materialized, as the building looks the same as it did 6 years ago.
 
 [^2]: “Real estate notes.” Providence Journal (RI), sec. RI News, 24 July 2016, p. 2. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15E53AF739D16C10. Accessed 24 Dec. 2022.
 
@@ -110,11 +110,11 @@ The historical main entrance to the offices is still in use today. This entrance
 
 […] As built in 1892, a hipped turret surmounted the Office and Malt Mill with water tank enclosures and an arcaded cupola vent over the Brew House. These roof features likely were damaged or destroyed in the Hurricane of 1938. Elimination of these structures coincided with removal of significant architectural features along the roofline, including a gabled parapet rising over the center bays of the Stock House and a highly-elaborated section of the Malt Mill roofline that included six oculi and a bracketed cornice. The roof is now generally flat, supporting cellular telephone equipment. […]
 
-[Full Document](//npgallery.nps.gov/NRHP/GetAsset/7eb31eab-25a5-4a4c-8c98-9ddb42fd1fdf){:target="_blank"}
+[Full Document](https://npgallery.nps.gov/NRHP/GetAsset/7eb31eab-25a5-4a4c-8c98-9ddb42fd1fdf)
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 The American Brewing Company Building stands three stories in height with both a one-story and a two-story addition to the rear. The main block of the brick building is trimmed in stone and embellished with brick corbeling at the cornice and top story. Projecting brick piers articulate each bay and windows are set within round-arch openings. The building is further articulated with crenellation and a stone stringcourse. A painted sign bearing the words “Capital Records Management” is prominently located below the cornice. The building's main entrance is offset on its façade (south elevation) within a recessed opening set within a tall, round-arch entrance. A secondary pedestrian entrance is located on the east elevation and features a metal-and-glass door set within a recessed opening. Four vehicular entrances with roll top doors are located on the east elevation. A paved lot bordered by a chain link fence is located to the east.
 

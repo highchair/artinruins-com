@@ -86,7 +86,7 @@ The property seems to have been vacated and is no longer in use. We have not fou
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 Kimball & Colwell Company building is comprised of four major blocks, two of which are historic, and two of which were constructed in the late twentieth century. Beginning at the comer of Washington and Battey streets, 465 Washington Street is a three-story, flat-roof, brick building embellished with brick corbelling at the cornice line. The building's primary entrance is offset on the façade, in line with openings on the second and third floors below a hoist; these openings feature replacement doors. Fenestration consists of regularly-spaced, rectangular openings with stone sills, the majority of which have been boarded up. Modern signage on the front of the building identifies a former occupant as the Tri-State Auto Warehouse.
 

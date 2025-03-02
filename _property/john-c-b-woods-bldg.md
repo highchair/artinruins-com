@@ -122,7 +122,7 @@ The newest owner is a registered corporation called Accordion LLC.[^2] Micheal B
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a large, two-story, rectangular, brick building that stretches from Westminster to Washington Street. The building has recently been re-faced in concrete with replacement windows on the façade. The building’s entrance is offset on the façade, within a recessed opening enclosed by an iron gate. Fenestration on the façade is comprised of rectangular, single-light, fixed sash windows. A two-story, flat-roof, brick block extends from the rear elevation. This block features rectangular windows openings that have been boarded up. Further north is a second two-story, flat-roof block with brick on the first story and concrete block above. This ell fronts onto Washington Street and is identified by modern signage as the **Paramount Office Supply**. An oversized vehicular entrance is offset on the Washington Street elevation. This entrance has been filled in. Fenestration is comprised of rectangular window openings with replacement sash on the second story and boarded up openings on the first floor level. A paved parking area is located to the west. (Due to extensive alterations to the building’s exterior, it is not included in the ICBD.)
 

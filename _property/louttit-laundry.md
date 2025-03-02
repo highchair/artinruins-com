@@ -195,7 +195,7 @@ This area is the site of the [Urban Greens co-op market](https://urbangreens.com
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 It is a large, two-story, flat-roof, brick, Classical Revival-style building set on the north side of Cranston Street. The building is embellished with a roof balustrade, concrete cornice, stringcourses, and quoins. The building features a central entrance on its seven-bay façade. The entrance is set within a two-story, gable-roof projection framed by concrete quoins. The entrance surround is comprised of pilasters supporting a broken arched pediment with a panel bearing the words: “What Cheer Laundry” and depicting Roger Williams meeting Native Americans. A palladian window is located directly above the entrance at the second story level. Fenestration is comprised of rectangular openings with splayed concrete lintels. The majority of window openings are empty and missing sash; several partial windows remain. A one-story, flat-roof ell projects from the east elevation of the building. Signage remains on the building as well as a painted sign on the rear stair tower. The Burgess Street portions of the complex were lost in a fire in 2001.
 

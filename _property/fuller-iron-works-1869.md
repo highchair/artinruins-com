@@ -79,27 +79,27 @@ imagescredit: 'Contributions from the Library of Congress'
 
 ### Redevelopment
 
-It is a north west facing three story brick building five bays wide by ten bays deep. It was the first building constructed for Frederick Fuller’s iron forging company. The Fuller Iron Works lasted until 1937, when operations at these locations ceased and the new owner, R. Clinton Fuller, shifted the company’s focus to real estate management and development. 
+It is a north west facing three story brick building five bays wide by ten bays deep. It was the first building constructed for Frederick Fuller’s iron forging company. The Fuller Iron Works lasted until 1937, when operations at these locations ceased and the new owner, R. Clinton Fuller, shifted the company’s focus to real estate management and development.
 
-This building was converted to office space in the 1960s. All the historic write-ups include the fact that the large, multi-story, circular arched-top window on the Pike street facade was added during this time. It’s neighboring building, [constructed in 1893 as the region’s first steel trussed workshop]({% link _property/fuller-iron-works-1893.md %}), was demolished in 2012. 
+This building was converted to office space in the 1960s. All the historic write-ups include the fact that the large, multi-story, circular arched-top window on the Pike street facade was added during this time. It’s neighboring building, [constructed in 1893 as the region’s first steel trussed workshop]({% link _property/fuller-iron-works-1893.md %}), was demolished in 2012.
 
-This building, though, since the 1960s it seems, has always been occupied and used for commercial office or restaurant space. We hope it continues to be as lucky. 
+This building, though, since the 1960s it seems, has always been occupied and used for commercial office or restaurant space. We hope it continues to be as lucky.
 
 
 ### Current Events
 
-The building was recently (2017) sold at auction, along with the land nearby. A new residential development was built next door called [580 South Water]({% link _property/580-water-street-pvd.md %}). The building is very close but not attached to this one. 
+The building was recently (2017) sold at auction, along with the land nearby. A new residential development was built next door called [580 South Water]({% link _property/580-water-street-pvd.md %}). The building is very close but not attached to this one.
 
 
 ### History
 
-The land on which this building sits is part of the College Hill Historic District, though the building itself is not listed as a contributing or non-contributing structure. 
+The land on which this building sits is part of the College Hill Historic District, though the building itself is not listed as a contributing or non-contributing structure.
 
-It’s address is officially 566 South Main Street (even though the street is now called South Water Street) but it is also referred to by 39 Pike Street. Interestingly, 566 South Main Street and 566 South Water Street are the same address (in Google), while any other South Main Street address is a block away. During the relocation of I-195, [the I-Way construction]({% link _property/iway.md %}) rerouted streets and changed street names — what is now Bridge Street (where the Hot Club is) used to be South Water Street; present South Water Street was South Main; and South Main was Benefit Street. 
+It’s address is officially 566 South Main Street (even though the street is now called South Water Street) but it is also referred to by 39 Pike Street. Interestingly, 566 South Main Street and 566 South Water Street are the same address (in Google), while any other South Main Street address is a block away. During the relocation of I-195, [the I-Way construction]({% link _property/iway.md %}) rerouted streets and changed street names — what is now Bridge Street (where the Hot Club is) used to be South Water Street; present South Water Street was South Main; and South Main was Benefit Street.
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 This three-story brick building with a low pitched-gable roof and segmental arch windows with granite sills was built in 1869 by Frederick and George Fuller. The building’s primary entrance is centered on the façade within a recessed opening. A secondary entrance is located on the side elevation set within a one-story, single-bay projection. Fenestration is comprised of segmental- arch openings with 1/1 replacement sash on the top story, 12/8 sash on the second story, and 12/8 sash set above fixed 8- and 12-light sash on the first story. The building is embellished with brick corbelling at the cornice line and stone sills at the window openings. A [large, rectangular, end-gable structure]({% link _property/fuller-iron-works-1893.md %}) clad in a variety of siding materials projects from the rear of the main block. The southern additions are early steel-frame structures with original glass walls now sided with slate and wood shingle.
 
@@ -111,7 +111,7 @@ The Fuller Iron Works discontinued its operations in 1937 when R. Clinton Fuller
 
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
-Fuller Iron Works (1869, 1893): The Fuller Iron Works, established by Frederick Fuller in 1839, first occupied the old wooden buildings of the Fox Point Foundry on the northeastern corner of South Main Street (then called Fox Point Street) and Pike Street. By 1850 the Providence Directory noted that “the Fuller’s Foundry and Machine Shop is an extensive establishment and is in very flourishing condition.” The Fuller Iron Works produced heavy-machine castings, water pipes, steam engines, and other heavy-metal products. 
+Fuller Iron Works (1869, 1893): The Fuller Iron Works, established by Frederick Fuller in 1839, first occupied the old wooden buildings of the Fox Point Foundry on the northeastern corner of South Main Street (then called Fox Point Street) and Pike Street. By 1850 the Providence Directory noted that “the Fuller’s Foundry and Machine Shop is an extensive establishment and is in very flourishing condition.” The Fuller Iron Works produced heavy-machine castings, water pipes, steam engines, and other heavy-metal products.
 
 Upon Frederick Fuller’s death in 1867, his sons, Frederick and George, took over the business and erected the 3-story brick building with a low, pitched-gable roof and segmental-arch windows with granite sills on the southeast corner on south Main and Pike Streets. In 1893, the Fuller Iron Works built [the glass and steel machine shop]({% link _property/fuller-iron-works-1893.md %}) (which is now covered by modern siding) located to the south of the earlier structure. It was the first steel-frame and glass machine shop in Providence. The Fuller Iron Works, which continued to be controlled by the Fuller family, ceased operations in 1937 when R. Clinton Fuller shifted entirely to the field of real estate, having founded several years earlier the Fuller Real Estate Company. For quite a few years the 1869 machine shop was used by a social-service organization. In the 1960s, the building was converted to office use and the tall central window on the north elevation was installed.
 
@@ -139,9 +139,7 @@ Keel Partners LLC, which sells premium light vodka, announced Wednesday that its
 
 “Keel is a great addition to the South Main Street and India Point waterfront scene, set to expand with increased housing and businesses as the 195 land is developed,” said Richard P. Baccari II, president and CEO of Churchill & Banks. Baccari is the manager of the Tockwotten Group.
 
-—
-
-Dunn, Christine. “Former Benrus building in Providence sold for $1.9M.” Providence Journal: Web Edition Articles (RI), sec. News, 12 July 2017. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/165A1C452633E458. Accessed 24 Nov. 2021.
+— Dunn, Christine. “Former Benrus building in Providence sold for $1.9M.” Providence Journal: Web Edition Articles (RI), sec. News, 12 July 2017. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/165A1C452633E458. Accessed 24 Nov. 2021.
 
 ***
 
@@ -158,10 +156,8 @@ The glass-and-steel portion of the South Main Street building is now covered in 
 
 (**A.I.R.**: Correction to the above. The older building is the 3-story brick mill still standing, it is not a “three-story brick addition.”)
 
-—
-
-Katebramson. “Private land near old Rte. 195 site for sale at auction.” Providence Journal (RI), All ed., sec. breaking_news, 1 Nov. 2010. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152423601C6EC730. Accessed 24 Nov. 2021.
+— Katebramson. “Private land near old Rte. 195 site for sale at auction.” Providence Journal (RI), All ed., sec. breaking_news, 1 Nov. 2010. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152423601C6EC730. Accessed 24 Nov. 2021.
 
 ***
 
-Bevo Martini Bar made the Fire Marshall’s list of establishments that needed sprinkler system upgrades in 2004, post-station nightclub fire. 
+Bevo Martini Bar made the Fire Marshall’s list of establishments that needed sprinkler system upgrades in 2004, post-station nightclub fire.

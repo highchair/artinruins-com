@@ -94,7 +94,7 @@ In 1951 this building was utilized for the manufacture of roll covering. […]
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 Located on the south side of Valley Street stands a two-story, flat-roof, brick structure identified on maps as the roll covering building. The structure features slightly projecting brick piers between each bay and large, rectangular window openings with rows of multi-light metal sash windows; many openings have been filled in. Two oversized vehicular entrances with metal roll top doors are located on the building’s east elevation. The Valley Street elevation is devoid of entrances and all window openings have been filled in. A small, one-story, flat-roof, brick ell projects from the south elevation of the building.
 

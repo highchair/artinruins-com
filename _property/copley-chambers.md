@@ -85,19 +85,19 @@ imagescredit:
 
 ### Last Tenant
 
-The Continental and Tina’s Caribbean Restaurants seem to have been the last active tenants in this former office building slash boarding house turned hotel. The hotel portion (floors 2 through 4) was closed up in 1975. The owners at the time, a couple who ran the Continental Diner, could not afford the upkeep and upgrades needed to keep the building’s fire safety systems operational. 
+The Continental and Tina’s Caribbean Restaurants seem to have been the last active tenants in this former office building slash boarding house turned hotel. The hotel portion (floors 2 through 4) was closed up in 1975. The owners at the time, a couple who ran the Continental Diner, could not afford the upkeep and upgrades needed to keep the building’s fire safety systems operational.
 
-Tina’s Caribbean seems to have closed around 2003-2004. The building has been vacant ever since. 
+Tina’s Caribbean seems to have closed around 2003-2004. The building has been vacant ever since.
 
 
 ### Current Events
 
-There is interest to list the property on the National Register and qualify for historic tax credits for its rehabilitation. There is a good chance it may not make the grade, however, since most of the interior is so far gone. Only 13 of the original doors remain (20%) along with 60% of the wall plaster, 10% of the ceiling plaster, and 50% of the wood trim. 
+There is interest to list the property on the National Register and qualify for historic tax credits for its rehabilitation. There is a good chance it may not make the grade, however, since most of the interior is so far gone. Only 13 of the original doors remain (20%) along with 60% of the wall plaster, 10% of the ceiling plaster, and 50% of the wood trim.
 
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 This four-story brick building has a flat roof with a slight parapet and a five-bay façade. A four-story, rectangular ell projects from the rear elevation of the main block and features exterior fire escapes at each floor. The building’s first floor features modem storefronts with metal-and-glass doors and fixed sash. The building is embellished with brick corbelling at its top and sides, projecting piers between each bay, and a capped parapet. The building’s primary entrance centrally located and set within a wide recessed opening. Fenestration consists of paired 6/1 sash set within segmental-arch openings on the fa9ade and rectangular openings on the side elevations of the main block. Fenestration on the rear ell consists mostly of boarded up openings.
 
@@ -200,6 +200,4 @@ Frank, another customer, straddles a stool at the counter.
 
 “Yeah,” Shoemaker hollers from the kitchen, “once we get ‘em in here, we can’t get rid of them.”
 
-—
-
-GRIFFIN, SHARON. “A South Providence success story: Arthur, Thomai and Continental diner.” Providence Journal (RI), CITY ed., sec. NEWS, 18 May 1987, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15252B6738DE3A40. Accessed 22 Jan. 2022.
+— GRIFFIN, SHARON. “A South Providence success story: Arthur, Thomai and Continental diner.” Providence Journal (RI), CITY ed., sec. NEWS, 18 May 1987, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15252B6738DE3A40. Accessed 22 Jan. 2022.

@@ -77,7 +77,7 @@ images:
 
 mostrecentimage: 2021-04-01
 
-imagescredit: 'Contribution from the <a href="//www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/" target="_blank">Historic Mapworks</a>; Providence Historical Aerial Viewer; <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>; <a href="//provlibdigital.org/islandora/object/islandora%3A268" target="_blank">Rhode Island Mills and Mill Villages Photograph Collection</a>, Providence Public Library; and the National Register nomination form'
+imagescredit: 'Contribution from the <a href="https://www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/">Historic Mapworks</a>; Providence Historical Aerial Viewer; <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>; <a href="https://provlibdigital.org/islandora/object/islandora%3A268">Rhode Island Mills and Mill Villages Photograph Collection</a>, Providence Public Library; and the National Register nomination form'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -98,7 +98,7 @@ The Fletcher Building is a collection of commercial office spaces, and over a do
 
 ### History
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002, hosted by ProvPlan.org (now defunct)_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 47 Charles Street – The **Fletcher Manufacturing Company**, founded by Thomas Fletcher in 1793 for the production of narrow fabrics such as lampwicks, was originally located in Boston. Fletcher moved his company to Providence in 1808, and in 1844 Fletcher's sons, who then ran the business, built a mill, the first structure of the Charles Street factory complex. While Thomas Fletcher had produced lampwicks and other narrow fabrics, his sons expanded the operation to include the manufacture of boot and shoelaces, corset laces, twine, yarns, spindle bandings, and kerosene-lamp wicks. In 1865 the Fletcher brothers incorporated their rapidly growing company as the Fletcher Manufacturing Company. By 1890 the textile factory complex covered over four acres and employed 750 workers. The company remained at this site until the early 20th century when the International Braid Company bought the Fletcher plant as well as the Elmwood Mills for the production of shoe and corset laces. In the 1950s, when most textile companies were liquidating their New England properties and were moving south for cheaper labor, transportation and energy costs, the International Braid Company sold the large complex. Damaged by fire in the early 1970s, the Fletcher Manufacturing Company complex was demolished except for the office and warehouse.
 

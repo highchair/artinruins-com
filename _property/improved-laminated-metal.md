@@ -120,7 +120,7 @@ Kris Vaithinathan, Improved Laminated Metals, Rhode Island. An article titled, �
 
 ***
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 The structure is comprised of three interconnected main blocks with numerous one-story ells. The main block is a large, two-story, L-shaped structure that faces Eddy Street. A pedestrian entrance is offset on the 15-bay wide façade (east elevation) and features a metal and glass door flanked by glass block sidelights. A large vehicular entrance is located in the northern-most bay of the façade. The building is embellished with projecting brick piers articulating each bay, corbelled cornice, and granite window sills. Fenestration is comprised of segmental-arch openings with 15/15 and 15/2 sash. Window openings on the north elevation are filled in with glass blocks; those on the rear have been boarded up. A brick chimney projects from the north end of the building. A one-story, flat-roof, concrete block ell extends along the south elevation of the main block. A square, one-story, brick structure (built between 1937 and 1956) stands to the rear (west) of the main block. Historic maps show that this block was used for storage. Attached to the north end of this block are two small, one-story, brick ells constructed between 1937 and 1956 (these blocks are not visible from the street).
 
