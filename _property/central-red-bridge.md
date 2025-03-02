@@ -16,7 +16,7 @@ town: [ 'East Providence, RI' ]
 designers: []
 people: []
 lists: [ 'Did You Know?' ]
-tags: [ 'Bridges', 'Vintage Views' ]
+tags: [ 'Bridges', 'Providence Public Library Digital Collections', 'Vintage Views' ]
 
 address: '1 Waterman Ave, East Providence RI'
 latitude: '41.8265461'

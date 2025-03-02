@@ -15,7 +15,7 @@ neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'Morris Nathanson' ]
 lists: []
-tags: [ 'Bars, Businesses, & Restaurants' ]
+tags: [ 'Bars, Businesses, & Restaurants', 'Providence Public Library Digital Collections' ]
 
 address: 'Various locations'
 latitude: ''

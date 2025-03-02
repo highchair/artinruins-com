@@ -18,7 +18,7 @@ town: [ 'Pawtucket, RI' ]
 designers: [ 'Albert H. Humes' ]
 people: []
 lists: []
-tags: [ 'Fire Stations' ]
+tags: [ 'Fire Stations', 'Providence Public Library Digital Collections' ]
 
 address: '420 Main St, Pawtucket RI'
 latitude: '41.8766032'
@@ -55,7 +55,7 @@ images:
 
 mostrecentimage: 2024-01-01
 
-imagescredit: 'Contributions from the Pawtucket Library Digital Collection on Flickr (<a href="//www.flickr.com/photos/pawtucketlibrary/27780367792" target="_blank">postcard,</a> <a href="//www.flickr.com/photos/pawtucketlibrary/46856289314" target="_blank">photo</a>)'
+imagescredit: 'Contributions from the Pawtucket Library Digital Collection on Flickr (<a href="https://www.flickr.com/photos/pawtucketlibrary/27780367792">postcard,</a> <a href="https://www.flickr.com/photos/pawtucketlibrary/46856289314">photo</a>)'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -64,21 +64,21 @@ imagescredit: 'Contributions from the Pawtucket Library Digital Collection on Fl
 
 ### Redevelopment
 
-This handsome station was retired in the 1970s, no doubt around the time that fire fighting was once again modernizing into larger, more centrally-located stations, rather than the series of smaller neighborhood stations. In 1978 it was used as a fire equipment repair shop. By 1981, it was converted to a senior citizens activity center and continues to be owned by the City of Pawtucket. 
+This handsome station was retired in the 1970s, no doubt around the time that fire fighting was once again modernizing into larger, more centrally-located stations, rather than the series of smaller neighborhood stations. In 1978 it was used as a fire equipment repair shop. By 1981, it was converted to a senior citizens activity center and continues to be owned by the City of Pawtucket.
 
-Other research specifically about the history of the Pawtucket Fire Department has not been found. Please let us know if you have located some. 
+Other research specifically about the history of the Pawtucket Fire Department has not been found. Please let us know if you have located some.
 
 
 ### Current Events
 
-This fire station was repurposed into the Leon Mathieu Senior Center in 1981. 2011 was its 30th anniversary (see [In the News](#in-the-news)), so that was now more than 40 years ago. 
+This fire station was repurposed into the Leon Mathieu Senior Center in 1981. 2011 was its 30th anniversary (see [In the News](#in-the-news)), so that was now more than 40 years ago.
 
 
 ### History
 
-Not much formal history has been found yet. To the best of our understanding, this station replaced [an older station across the street on the corner of Bayley and Main](//www.flickr.com/photos/pawtucketlibrary/44357909765){:target="_blank"}. It’s larger ground floor entrances could accommodate modern fire equipment. 
+Not much formal history has been found yet. To the best of our understanding, this station replaced [an older station across the street on the corner of Bayley and Main](https://www.flickr.com/photos/pawtucketlibrary/44357909765). It’s larger ground floor entrances could accommodate modern fire equipment.
 
-The Sanborn Maps we have access to — from [1890](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961890){:target="_blank"}, [1902](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961902){:target="_blank"} — do now show this station until a [1923 map](//digitalsanbornmaps.proquest.com/browse_maps/40/8072/39382/41266/559503){:target="_blank"} (<abbr title="Providence Public Library">PPL</abbr> card required). The station was built between 1905 and 1906 and the [Romanesque Revival](http://www.phmc.state.pa.us/portal/communities/architecture/styles/romanesque-revival.html){:target="_blank"} style confirms that. The [City Tax Assessor’s database](http://gis.vgsi.com/PawtucketRI/Parcel.aspx?Pid=21345){:target="_blank"} gives the building a generic build date of 1900, but the excerpt below cites the more specific date.
+The Sanborn Maps we have access to — from [1890](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961890), [1902](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961902) — do now show this station until a [1923 map](https://digitalsanbornmaps.proquest.com/browse_maps/40/8072/39382/41266/559503) (<abbr title="Providence Public Library">PPL</abbr> card required). The station was built between 1905 and 1906 and the [Romanesque Revival](http://www.phmc.state.pa.us/portal/communities/architecture/styles/romanesque-revival.html) style confirms that. The [City Tax Assessor’s database](http://gis.vgsi.com/PawtucketRI/Parcel.aspx?Pid=21345) gives the building a generic build date of 1900, but the excerpt below cites the more specific date.
 
 ***
 
@@ -99,6 +99,4 @@ U.S. Congressman David Cicilline (D-RI) marked the 30th anniversary of the Leon 
 
 As a nationally accredited senior center, the Leon Mathieu Senior Center provides healthcare services, skills training, medical care, and community events and activities to all interested seniors in Pawtucket, Rhode Island. In addition to senior services, Leon Mathieu also advocates on behalf of seniors, providing an indispensable service to the greater Rhode Island community. […]
 
-— 
-
-_Captured on March 26, 2022 from https://cicilline.house.gov/press-release/cicilline-honors-pawtuckets-leon-mathieu-senior-center_
+— _Captured on March 26, 2022 from https://cicilline.house.gov/press-release/cicilline-honors-pawtuckets-leon-mathieu-senior-center_

@@ -16,7 +16,7 @@ town: [ 'Newport, RI' ]
 designers: []
 people: []
 lists: [ 'HABS HAER', 'National Register of Historic Places' ]
-tags: [ 'Former Military', 'The Superlatives' ]
+tags: [ 'Former Military', 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'The second largest remaining former naval base in the country, the largest being Fort Monroe (Virginia, decommissioned in 2011)'
 
 NRHP-ref-number: '70000014 (individual)'

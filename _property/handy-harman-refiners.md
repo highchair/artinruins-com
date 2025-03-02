@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: []
 people: []
 lists: []
-tags: [ 'Gas Station & Auto Repair' ]
+tags: [ 'Gas Station & Auto Repair', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:
 added-to-NRHP:

@@ -19,7 +19,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Thomas A. Tefft', 'Howard Hoppin' ]
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
-tags: [ 'Churches', 'College Properties', 'RISD' ]
+tags: [ 'Churches', 'College Properties', 'Providence Public Library Digital Collections', 'RISD' ]
 
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'

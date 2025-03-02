@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: []
 people: []
 lists: [ 'Downtown Providence National Historic District', 'National Register of Historic Places' ]
-tags: [ 'Churches' ]
+tags: [ 'Churches', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'

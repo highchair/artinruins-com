@@ -17,7 +17,7 @@ town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'James Dooley' ]
 lists: []
-tags: [ 'The Superlatives' ]
+tags: [ 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'In the early years, one of the most financially successful horse racing tracks in the country'
 
 NRHP-ref-number:

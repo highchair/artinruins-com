@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'F. W. Mellor' ]
 lists: [ 'RI Historic Resources Archive', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'Train Stations' ]
+tags: [ 'Providence Public Library Digital Collections', 'Train Stations' ]
 
 NRHP-ref-number:
 added-to-NRHP:
