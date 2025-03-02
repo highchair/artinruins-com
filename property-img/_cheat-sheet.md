@@ -23,7 +23,7 @@ _From the National Register nomination form for the Downtown Providence Historic
 
 _From the PPS/AIAri Providence Architecture Guide, 2003, by Wm. MacKenzie Woodward_
 
-_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and the AIA, 2001-2002_
+_From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
