@@ -14,7 +14,7 @@ date-added: '2023'
 categories: [ '#DemolitionAlert' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: [ 'John F. O’Malley' ]
 people: [] # Mark Linenthal, Associate Engineer; Thomas E. Harding, City Engineer
 lists: []
 tags: [ 'Concrete', 'Demolition by Progress', 'Sports Entertainment', 'The Superlatives' ]
@@ -75,9 +75,9 @@ We’ve been to many games at the stadium with family, friends, as business outi
 
 We can’t say much more than what has already been said, so here are some links to people who have said it better:
 
-+ An interesting dive into the history of a colorful major, [Mayor Thomas P McCoy (the “Price of Providence”) and the Building of McCoy Stadium (“McCoy’s Folly”)](http://smallstatebighistory.com/mayor-thomas-p-mccoy-the-prince-of-pawtucket-and-the-building-of-mccoy-stadium-mccoys-folly/){:target="_blank"}, by Dan Barry, hosted at Small State Big History
-+ [The Worcester Red Sox and the Problem of History](//tht.fangraphs.com/baseball-in-the-rustbelt-the-loss-of-the-pawtucket-red-sox/){:target="_blank"}, by Matt Ellis, hosted at The Hardball Times
-+ [Abandoned From Above: McCoy Stadium](https://www.youtube.com/watch?v=JSNbH5n_Qj4){:target="_blank"}, by Jason Allard. Video available on YouTube (see below)
++ An interesting dive into the history of a colorful major, [Mayor Thomas P McCoy (the “Price of Pawtucket”) and the Building of McCoy Stadium (“McCoy’s Folly”)](http://smallstatebighistory.com/mayor-thomas-p-mccoy-the-prince-of-pawtucket-and-the-building-of-mccoy-stadium-mccoys-folly/), by Dan Barry, hosted at Small State Big History
++ [The Worcester Red Sox and the Problem of History](//tht.fangraphs.com/baseball-in-the-rustbelt-the-loss-of-the-pawtucket-red-sox/), by Matt Ellis, hosted at The Hardball Times
++ [Abandoned From Above: McCoy Stadium](https://www.youtube.com/watch?v=JSNbH5n_Qj4), by Jason Allard. Video available on YouTube (see below)
 
 {% include video-embed.html id='JSNbH5n_Qj4' %}
 
@@ -85,14 +85,6 @@ We can’t say much more than what has already been said, so here are some links
 ### Current Events
 
 The stadium has been without a team since 2019. The last season for the Pawtucket Red Sox was supposed to be 2020, but the COVID-19 pandemic cut it short. The stadium has hosted a few concerts and events since the Paw Sox left, but few and far between. The infield grass, which requires much care and upkeep, has largely gone to seed or burned away from the dry summer. The adjacent soccer field and track get more use than this baseball diamond. 
-
-**Update August 2023**
-
-There are efforts to save the stadium, though the effort seems like a long-shot. A billionaire investor is interested in the stadium, though again, the long-term feasibility of this is unclear.
-
-+ [A search on Change.org brings up three or more different petitions about the issue](//www.change.org/search?q=McCoy%20Stadium&offset=0){:target="_blank"}
-+ [Save McCoy Stadium Facebook group](//www.facebook.com/profile.php?id=100095712815483){:target="_blank"}
-+ [An article about the recent moves of an individual billionaire to save the stadium](//thetouchback.com/a-billionaire-wants-to-save-this-minor-league-baseball-stadium-the-city-wont-let-him){:target="_blank"}
 
 
 ### History
@@ -143,6 +135,4 @@ Facilities Committee Chairperson Jay Charbonneau […] said nothing will happen 
 
 It will take several years before the new high school is up and operating. […]
 
-— 
-
-Captured 20 February, 2023 from https://www.valleybreeze.com/archives/pawtucket-approves-plan-to-demolish-mccoy-for-construction-of-new-unified-high-school/article_34f03a8e-63bf-11ed-86d7-6fce82abadb6.html
+— _Captured 20 February, 2023 from https://www.valleybreeze.com/archives/pawtucket-approves-plan-to-demolish-mccoy-for-construction-of-new-unified-high-school/article_34f03a8e-63bf-11ed-86d7-6fce82abadb6.html_

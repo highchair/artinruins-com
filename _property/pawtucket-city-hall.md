@@ -13,10 +13,10 @@ date-added: '2024'
 categories: [ '#UrbanDecay' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [] # John F. O'Malley
+designers: [ 'John F. O’Malley' ]
 people: []
 lists: [ 'National Register of Historic Places' ]
-tags: [ 'Fire Stations' ]
+tags: [ 'Art Deco', 'Fire Stations' ]
 
 NRHP-ref-number: 83003838
 added-to-NRHP: 'November, 1983'
