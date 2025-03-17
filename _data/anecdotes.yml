@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: bridge-power-pwt
+  person: 'Peter J Sheil'
+  date: '2025-02-01'
+  content: 'In the late 1980’s, I arranged a tour of this Plant for the Director of Save The Bay RI. I worked for Blackstone Valley Electric at that time.'
+
 - property: quonset-point-naval-base
   person: 'Mark Cagle'
   date: '2025-01-18'

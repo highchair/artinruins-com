@@ -68,7 +68,7 @@ Business seems to be brisk in warmer months. Riverside Square has seen much busi
 
 ### Current Events
 
-The Dari Bee was open again in the summer of 2024. The listing at Residential Properties has been removed. The tax assessor’s database for this address continues to list Rosalie Silva as the owner.
+The Dari Bee was open again in the summer of 2024. The [listing at Residential Properties](https://www.residentialproperties.com//commercial/ris/1102520303/240-bullocks-point-avenue-east-providence-ri-02915) was removed for a short time and is back with a reduced price.
 
 
 ### History
