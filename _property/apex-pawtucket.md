@@ -2,14 +2,16 @@
 title: "Apex Department Store"
 slug: apex-pawtucket
 aka:
-date-modified: 2020-11-13 12:00
+date-modified: 2025-03-23 12:00
+update: 'Added photos of the damage to the top of the ziggurat and its recent deconstruction.'
+update-image: apex-jh-2025-03-03.jpg
 
 built: '1969'
 demolition:
 redeveloped:
 decade: '1960-1969'
 date-added: '2004'
-categories: [ '#UrbanDecay' ]
+categories: [ '#UrbanDecay', '#DemolitionAlert' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Andrew Geller' ]
@@ -75,6 +77,20 @@ images:
   - url: apex-jh-2018-11-01.jpg
     caption: 'The entire ziggurat is now repainted. This was around the time that the City was considering eminent domain to acquire the property, and the owner apparently did some quick touch-ups to make the building look less derelict. The iconic light poles have also been removed.'
     sizes: '1440, 900'
+  - url: apex-jh-2025-03-01.jpg
+    caption: 'In late February 2025, a storm with high winds started to tear the tip of the ziggurat apart. Plans to remove the entire pyramid “hat” of the building began.'
+    sizes: '1440, 900'
+  - url: apex-jh-2025-03-02.jpg
+    caption: 'Detail of the damage to the iconic sign and top of the ziggurat.'
+    sizes: '1200, 900'
+  - url: apex-jh-2025-03-03.jpg
+    sizes: '1440, 900'
+  - url: apex-jh-2025-03-04.jpg
+    sizes: '1440, 900'
+  - url: apex-jh-2025-03-05.jpg
+    sizes: '1440, 900'
+  - url: apex-jh-2025-03-06.jpg
+    sizes: '1440, 900'
   - url: aerial-view-1951.jpg
     caption: 'Aerial view from 1951, showing the Apex area outlined in yellow before the properties were razed and interstate 95 was constructed.'
     sizes: '1440, 900'
@@ -100,29 +116,35 @@ external:
     https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/119973316_3614448855255848_6138480143601186102_n.jpg?_nc_cat=100&_nc_sid=ca434c&_nc_ohc=BDo4idu6TBEAX8FHUTE&_nc_ht=scontent-bos3-1.xx&oh=640564ca2d779d34c835875340d7fe4d&oe=5F92A85B&dl=1'
 ---
 
+### Most Recent Events
+
+The top of the building — the iconic pyramid-shaped ziggurat with Apex neon sign — is being removed as of the weekend of March 22 and 23rd, 2025. The structure is an empty “hat” that sits atop the building. As far as we know, the rest of the building will remain — for now. [A recent Valley Breeze article](https://www.valleybreeze.com/news/wind-wrecks-apex-s-peak/article_84e0e1ec-fda0-11ef-87d3-e712d02653aa.html) details the latest happenings.
+
+See [our recent Instagram story about Dave Lawlor’s great drone footage](https://www.instagram.com/stories/direct/3594693745901530638_639884836?hl=en) of the process.
+
 ### Current Tenant
 
-The Apex company still occupies the building with a threadbare retail business. It has been the focus of much recent discussion of redevelopment ever since the Pawtucket Red Sox pressured City officials for a new stadium. They eventually made the decision to move to Massachusetts, but redevelopment in Pawtucket in order to replace the lost attraction has been a hot button topic ever since.
+The City of Pawtucket owns the building and the surrounding Apex property. They purchased the properties for $17.7 million after the Apex owners played hardball for the centrally located property. Spurred by recent development at Tidewater Soccer Stadium, they are accepting development bids for one or all the parcels.
 
 #### Architecture
 
-The building was constructed in the late 60s, 51 years ago from 2020. It only became eligible for inclusion on the National Register in the past year or so. The building and its ziggurat “hat” are a local icon and one of the first recognizable structures that a driver encounters as they head south on 95 from Massachusetts.
+The building was constructed in the late 60s, 51 years ago from 2020. It only became eligible for inclusion on the National Register in the past year. The building and its ziggurat “hat” are a local icon and one of the first recognizable structures that a driver encounters as they head south on 95 from Massachusetts.
 
-It is also hated by most. A 2018 poll by Business Insider, _[The ugliest building in every US state, according to people who live there](//www.businessinsider.in/the-ugliest-building-in-every-us-state-according-to-people-who-live-there/articleshow/62511676.cms){:target="_blank"}_, used a photo of the Apex as its cover. Local architecture critic David Brussat thinks [the building should the first in Pawtucket to be razed](//architecturehereandthere.com/2018/08/02/apex-aint-pawtuckets-soul){:target="_blank"} before any other building, while another historian William Morgan penned that the _[Apex is the Soul of Pawtucket](//www.providencejournal.com/opinion/20180801/my-turn-william-morgan-apex-is-soul-of-pawtucket){:target="_blank"}_ ([Full story archived](#apex-soul)). Loved by some, hated by most, it is a building that everyone seems to have an opinion about.
+It is also hated by most. A 2018 poll by Business Insider, _[The ugliest building in every US state, according to people who live there](https://www.businessinsider.in/the-ugliest-building-in-every-us-state-according-to-people-who-live-there/articleshow/62511676.cms)_, used a photo of the Apex as its cover. Local architecture critic David Brussat thinks [the building should the first in Pawtucket to be razed](https://architecturehereandthere.com/2018/08/02/apex-aint-pawtuckets-soul) before any other building, while another historian William Morgan penned that the _[Apex is the Soul of Pawtucket](https://www.providencejournal.com/opinion/20180801/my-turn-william-morgan-apex-is-soul-of-pawtucket)_ ([Full story archived](#apex-soul)). Loved by some, hated by most, it is a building that everyone seems to have an opinion about.
 
 #### We support and admire the Weird Island podcast! 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/fb137a88-cecf-416b-9b39-430606a9cfa3?dark=false"></iframe>
 
-Visit on the web: [Weird Island Episode 11: The Pyramid of Pawtucket, Apex Department Store](//weird-island.simplecast.com/episodes/11-the-pyramid-of-pawtucket-apex-department-store)
+Visit on the web: [Weird Island Episode 11: The Pyramid of Pawtucket, Apex Department Store](https://weird-island.simplecast.com/episodes/11-the-pyramid-of-pawtucket-apex-department-store)
 
 
-### Current Events
+### Previous Events
 
 As evidenced by the [news article below](#in-the-news) from 2004, the future of the Apex site has been ruminated upon for almost 20 years. A redevelopment report from 2002 started the ideas of centering redevelopment along the river, while the Apex building turns its back to the riverfront.
 
-The Division of Motor Vehicles, Pawtucket branch, moved into half of the Apex space in 2004 after a flood damaged its previous location on Main Street. They remained a long-term “temporary” tenant for several years, with the location retaining many of the store fixtures in plain view. They moved out in 2010.
+The Division of Motor Vehicles, Pawtucket branch, moved into half of the Apex space in 2004 after a flood damaged its previous location on Main Street. They remained a “temporary” tenant for several years, with the location retaining many of the store fixtures in plain view. They moved out in 2010.
 
-Soon after, then CEO Andrew Gates announced plans for redevelopment at the site in the form of “Riverfront Commons.” A restaurant tenant would be found for the failed Mad House Cafe space, commercial space would be opened up, and riverfront areas would be “attractively landscaped.”[^1] While a new restaurant tenant did move in, Cresta Bar & Ristorante, the project never gained momentum and the store remained underutilized. Cresta opened around 2011 and closed around 2015.[^2]
+Soon after, then Apex CEO Andrew Gates announced plans for redevelopment at the site in the form of “Riverfront Commons.” A restaurant tenant would be found for the failed Mad House Cafe space, commercial space would be opened up, and riverfront areas would be “attractively landscaped.”[^1] While a new restaurant tenant did move in — Cresta Bar & Ristorante — the project never gained momentum and the store remained underutilized. Cresta opened around 2011 and closed around 2015.[^2]
 
 [^1]: _“Village shopping planned at Apex site”_, Donna Kenny Kirwan, Pawtucket Times, July 13, 2010. Captured November 14, 2020 from http://theapexcompanies.com/index_files/Page3487.html
 
@@ -161,7 +183,7 @@ An [essay about the Apex building and the history of its construction]({% link s
 
 #### More Photos
 
-+ The [Pawtucket Library Flickr page](//www.flickr.com/photos/pawtucketlibrary/albums/72157667444051724){:target="_blank"} has amassed quite a collection of Apex-related photos, including ads and construction photos
++ The [Pawtucket Library Flickr page](http://www.flickr.com/photos/pawtucketlibrary/albums/72157667444051724) has amassed quite a collection of Apex-related photos, including ads and construction photos.
 
 
 ### In the News
@@ -271,7 +293,7 @@ The future of the Apex building lies in the hands of Andrew Gates, president of 
 ALTHOUGH APEX and the DMV are under the same roof at the Pawtucket building, one can’t pass from one to the other without going outside and reentering. The DMV side of the structure retains a number of Apex fixtures, shelves, and signs, suggesting that this arrangement – launched when the state leased the space after a flood at the previous DMV location in January 2004 – may be short term.
 {:.o__drop-cap}
 
-A dingy banner above the Apex store entrance reads, “Apex at Home OPEN,” and another sign provides the Web address, [www.apexstores.com](//www.apexstores.com){:target="blank"}, from which mostly household items, as well as coin collectible such as silver dollars and theme quarters, can be ordered. Inside, six shoppers meandered about the lightly stocked space on a recent Tuesday, and three employees, one talking on the phone at the cash register, walked the floor. Apex still sells clothing, as well as small appliances like coffee makers and electric razors, but other areas, including the garden center and home electronics, are empty or closed. Although an employee folding sweaters had no idea how long the current DMV arrangement will last, he noted that Apex’s business had increased since the DMV moved in, as customers waiting to renew a registration or get a license next door sometimes wander over to shop.
+A dingy banner above the Apex store entrance reads, “Apex at Home OPEN,” and another sign provides the Web address, www.apexstores.com, from which mostly household items, as well as coin collectible such as silver dollars and theme quarters, can be ordered. Inside, six shoppers meandered about the lightly stocked space on a recent Tuesday, and three employees, one talking on the phone at the cash register, walked the floor. Apex still sells clothing, as well as small appliances like coffee makers and electric razors, but other areas, including the garden center and home electronics, are empty or closed. Although an employee folding sweaters had no idea how long the current DMV arrangement will last, he noted that Apex’s business had increased since the DMV moved in, as customers waiting to renew a registration or get a license next door sometimes wander over to shop.
 
 The northeast corner of the building, on Main Street near the Blackstone River, has also been transformed. Newport Creamery once operated a location there, but it closed in 2001 when the chain declared bankruptcy. New owners subsequently purchased the Creamery, but the Apex location never reopened, and it now houses the Rhode Island Ciudad de Dios (“City of God”) Church.
 
@@ -309,7 +331,3 @@ Although Gates attended the Pawtucket Foundation’s 2002 workshop on the future
 Perhaps it’s worth considering the thoughts of Apex designer Andrew Geller, who, not surprisingly, expresses dismay about how regional department stores are anachronisms and shopping is increasingly done from home-based computers. Told how the Apex now shares space with the DMV, he asks, “That’s progress?” Geller remains impressed by Apex’s possibilities, however, and suggests that “marketing and merchandising types” could engineer a restoration or revival of this once-important name in Rhode Island retailing. While such an unexpected twist seems as improbable as turning the Apex building into an industrial design museum, it beats at least some of the alternatives.
 
 </details>
-
-***
-
-
