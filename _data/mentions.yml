@@ -1,5 +1,11 @@
 # Any verb will have 'this property' appended to it, so make sure the verb makes sense
 
+- property: 287-291-brook-st
+  source: https://www.golocalprov.com/news/brown-is-hoarding-houses-while-providence-has-a-housing-crisis
+  author: 'GoLocalProv mentions two Brook Street houses that Brown University owns in “Brown Is Hoarding Houses While Providence Has a Housing Crisis”'
+  date: '2025-03-19'
+  verb: 'cited'
+
 - property: crescent-park
   source: https://www.bostonglobe.com/2024/08/08/magazine/rhode-island-food-tour-with-a-finicky-eater/
   author: 'The Boston Globe’s Carrie Simonelli mentions Crescent Park in reference to clam cakes'
