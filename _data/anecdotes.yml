@@ -1,6 +1,16 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: beneficent-house
+  person: 'Matt O.'
+  date: '2025-03-30'
+  content:
+    I really enjoyed living at Beneficent House. The overall layout is very thoughtful. The apartments aren’t shoeboxes in a grid, they emerge and recede from the facade to maximize sight lines. From east to west, each new row of windows comes a bit further to the north, so views of the Industrial National building aren’t blocked by the next apartment to the east. Windows aren’t placed directly facing each other or directly above and below each other; instead, vertically stacked apartments with similar layout have their windows at right angles around corners, maximizing privacy despite the dense urban setting.
+
+    The windows weren’t quite floor to ceiling; they started above the heating registers at about the height of the back of a couch. We did have great views in our apartment, which was on a corner and had some height to it.
+
+    Socially, there's a friendly neighborhood vibe. Market rate units and Section 8 housing are thoroughly mixed so that you can’t immediately tell your neighbor’s economic status from their apartment number.
+
 - property: silk-works-power-company
   person: 'Rachel Fox'
   date: '2025-03-19'
