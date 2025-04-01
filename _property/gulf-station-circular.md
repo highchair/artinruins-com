@@ -13,7 +13,7 @@ neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Curtis and Davis' ]
 lists: [ 'A.I.R.’s Lead Brick List' ]
-tags: [ 'Demolition by Proposal', 'Demolition without Permit', 'Gas Station & Auto Repair', 'Still an Empty Lot' ]
+tags: [ 'Concrete', Demolition by Proposal', 'Demolition without Permit', 'Gas Station & Auto Repair', 'Still an Empty Lot' ]
 
 address: '25 Broadway, Providence RI'
 latitude: '41.8225819'
