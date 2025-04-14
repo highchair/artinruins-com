@@ -22,6 +22,45 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 The City maintains [an ArcGIS map with projects under review](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=ab28206d40a54791b7128555cd8e7e18) and completed that is worth checking out.
 
 
+### Signature Residences at 209–217 Angell St
+
+**Update March 2025**
+
+<figure class="u__img">
+  <img src="{{ site.propimg_path }}proposals/217-angell-st-2025-03-26.jpg" alt="">
+  <figcaption>View from the corner of Brook and Angell, looking east up Angell Street towards Hope Street. Rendering by KITE Architects.</figcaption>
+</figure>
+
+A developer proposes 32-units of residential on the [site of three razed houses]({% link _property/209-211-217-angell-st-pvd.md%}). The increase in density of this neighborhood supports the low housing availability in the area [at the expense of the historic fabric of the previous neighborhood]({% link _essays/erosion-of-college-hill-historic-district.md %}). We lament the loss, but accept the change as a necessary one. At least the design if this building is an much-needed contrast to the [darkitecture across the street]({% link _property/116-waterman-st-pvd.md%}).
+
+The will appear to be five stories tall but the ground floor will be structured parking. 32 three-bedroom units will be supported by 45 parking spaces, 42 of which will be structured parking under the first floor of the building. A number of zoning variances were requested for height, setback, and dimensions.
+
+The City Plan Commission (<span class="abbr">CPC</span>) reasoned that the project met key requirements: The proposed development is consistent with the Comprehensive Plan, the proposed development is in compliance with the standards and provisions of the Zoning Ordinance (after adjustments or the granting of variances), there will be no significant environmental impacts from the proposed development, there are no physical restraints from the lot size or site configuration, and access to public rights of way will be maintained.
+
+The <span class="abbr">CPC</span> granted approval subject to conditions to be met. The applicant included provisions to rent to non-students only. The project is intended to serve older residents. The <span class="abbr">CPC</span> stated in their approval the following constraints: 
+
++ In accordance with the applicant’s offer, rental of dwelling units to undergraduate college students shall be prohibited. Undergraduate college students may live in owner-occupied units.
++ In accordance with the applicant’s offer, rental to graduate students shall only be allowed on upon majority vote of the condominium
+
+***
+
+### 70 Houghton Street
+
+**Update February 2025**
+
+A new business park is proposed on City of Providence land on the border of North Providence off Veazie Street and Houghton. The land currently does not have any structures on it, and the proposal includes three large industrial warehouse buildings.
+
+<figure class="u__img">
+  <img src="{{ site.propimg_path }}proposals/70-houghton-st-plan-2025-01-24.jpg" alt="">
+  <figcaption>Proposal for an industrial site near Whipple Pond, off Branch Avenue near the border of North Providence.</figcaption>
+</figure>
+
+The Providence Redevelopment Agency and College Hill Development LLC propose the project jointly in the neighborhood of Wanskuck. The 9 acre site (394,879 SF) would contain three buildings: Building 1 at 14,785 SF, Building 2 at 45,000 SF, and Building 3 at 16,200 SF. Buildings are designated as warehouses and as a contractor garage for equipment storage and access.
+
+The preliminary master plan was approved with requests for a traffic study and additional details for the design of the main warehouse at the preliminary plan stage.
+
+***
+
 ### 269 Wickenden Street
 
 **Update January 2025**
@@ -91,6 +130,7 @@ His newsletter goes on to say, and we largely agree and echo these statements:
 
 > Given the housing crisis, there’s a diversity of opinions about these kinds of developments in our neighborhood. Some residents emphasize the need for more housing and welcome the increased density, while others raise concerns about the project’s height, parking, and impact on neighborhood character. Balancing these perspectives is essential as we move forward with addressing both immediate housing needs and long-term community goals.
 
+{% comment %}
 ***
 
 ### Large lot at 64 Angell Street to get Four More Homes
@@ -106,6 +146,7 @@ On Wednesday, May 15, the Historic District Commission (<span class="abbr">HDC</
 The property is in the city’s College Hill Local Historic District and the federally designated College Hill National Register District. According to existing zoning law, the lot can be subdivided by right as long as each property is at least 5000 sf.
 
 <span class="abbr">HDC</span> staff’s preliminary opinion states one house at the northwest corner would be appropriate, houses at the southwest and northeast corners would be possible, and a fourth house on the southeast corner is problematic. The meeting on May 15 heard an advisory opinion from the Providence Historic District Commission and public comment. 
+{% endcomment %}
 
 ***
 
@@ -123,6 +164,7 @@ Full story and renderings at the Providence Journal, “[This new condo high ris
 
 Interestingly, this proposal mirrors some of the same ideas for a massive tower project dubbed [The Power Block]({% link _property/power-block.md %}) that was never built on a lot next door.
 
+{% comment %}
 ***
 
 ### Proposed demolition of Mount Pleasant High School
@@ -215,7 +257,9 @@ The building this new development was supposed to demolish is still there and no
 **Update Nov 12, 2022**
 : Myles Standish Associates on behalf of Capstone Properties is proposing the demolition of an existing 1892 building at 230 Waterman Street in Wayland Square ([Google Streetview](https://www.google.com/maps/place/230+Waterman+St,+Providence,+RI+02906/@41.8286426,-71.388386,3a,75y,64.28h,88.18t/data=!3m6!1e1!3m4!1sz3lPv_NCnYbzbhfnO3KScw!2e0!7i16384!8i8192!4m5!3m4!1s0x89e4452c1f544363:0x26886ae3553ca810!8m2!3d41.8288451!4d-71.3879823))— the former Monahan Drabble Sherman Funeral Home and location of McBride’s Pub.
 
-: The [existing preliminary plans](https://www.providenceri.gov/wp-content/uploads/2021/11/230Waterman-CPCMasterPlanPresentation.pdf) have been posted for public review. Outright demolition of the property seems unnecessary, and a more imaginative design could incorporate it. The current design is a bland and basic-looking four story condo that looks more like a cheap hotel. At least [77 South Angell Street (Google Streetview)](https://www.google.com/maps/place/77+S+Angell+St,+Providence,+RI+02906/@41.8294811,-71.3850204,3a,75y,244.06h,93.02t/data=!3m6!1e1!3m4!1stf3Mic6W7AKZcf5P0WQsWQ!2e0!7i16384!8i8192!4m5!3m4!1s0x89e4452c7efaa567:0xe7a709966bd27b8a!8m2!3d41.8294102!4d-71.3856086), just outside Wayland Square, is a more intersting condo building with real brick and stone exterior finishes.
+: The [existing preliminary plans](https://www.providenceri.gov/wp-content/uploads/2021/11/230Waterman-CPCMasterPlanPresentation.pdf) have been posted for public review. Outright demolition of the property seems unnecessary, and a more imaginative design could incorporate it. The current design is a bland and basic-looking four story condo that looks more like a cheap hotel. At least [77 South Angell Street (Google Streetview)](https://www.google.com/maps/place/77+S+Angell+St,+Providence,+RI+02906/@41.8294811,-71.3850204,3a,75y,244.06h,93.02t/data=!3m6!1e1!3m4!1stf3Mic6W7AKZcf5P0WQsWQ!2e0!7i16384!8i8192!4m5!3m4!1s0x89e4452c7efaa567:0xe7a709966bd27b8a!8m2!3d41.8294102!4d-71.3856086), just outside Wayland Square, is a more interesting condo building with real brick and stone exterior finishes.
+
+{% endcomment %}
 
 ***
 
