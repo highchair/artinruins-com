@@ -2,8 +2,9 @@
 title: "Pilgrim Congregational Church"
 slug: pilgrim-congregational-church
 aka: 'Lawton Family Storage, Pilgrim Lofts'
-date-modified: 2022-04-03 17:00
-update: 'Added another photo that was found in a Massachusetts collection but unlabelled'
+date-modified: 2025-04-13 15:00
+update: 'Added a photo found in the PPS Architectural Slide Collection'
+update-image: pilgrim-church-pps-unknown.jpg
 
 built: '1873'
 demolition:
@@ -43,6 +44,9 @@ images:
   - url: pilgrim-church-photo-date-unknown.jpg
     caption: 'Digital Commonwealth Massachusetts, date unknown'
     sizes: '534, 678'
+  - url: pilgrim-church-pps-unknown.jpg
+    caption: 'Unknown, but likely early 90s — PPS Architectural Slides Collection'
+    sizes: '1200, 900'
   - url: pilgrim-church-jh-2007-06-01.jpg
     sizes: '1440, 900'
   - url: pilgrim-church-jh-2007-06-02.jpg
@@ -72,7 +76,7 @@ images:
   - url: pilgrim-church-jh-2013-05-06.jpg
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/islandora%3A10252">Rhode Island Photograph Collection</a> at the Providence Public Library and from <a href="http://gusn.us/283390">Digital Commonwealth Massachusetts</a>'
+imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/islandora%3A10252">Rhode Island Photograph Collection</a> at the Providence Public Library, the <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>, and from <a href="http://gusn.us/283390">Digital Commonwealth Massachusetts</a>'
 
 mostrecentimage: 2013-05-01
 

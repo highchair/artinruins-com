@@ -58,8 +58,10 @@ images:
     sizes: '1440, 900'
   - url: health-lab-jh-2024-10-01.jpg
     sizes: '1024, 1024'
+  - url: health-lab-jh-2025-03-01.jpg
+    sizes: '768, 924'
 
-mostrecentimage: 2024-10-01
+mostrecentimage: 2023-03-01
 
 imagescredit: 'Rendering by HOK Architecture'
 
