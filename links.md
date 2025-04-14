@@ -26,27 +26,27 @@ If you are interested in how we prepare research for properties, visit our [Rese
 
 ### Abandoned from Above
 
-+ **YouTube:** [youtube.com/c/JasonAllard](https://www.youtube.com/c/JasonAllard)
++ **YouTube:** [youtube.com/c/JasonAllard](https://www.youtube.com/c/JasonAllard/)
 + **Instagram:** [@uncomsense](https://www.instagram.com/uncomsense/)
 
 Drone footage and abandoned properties with some history thrown in for good measure. Videography project by Jason Allard.
 
 ### I {heart} Rhody
 
-{% comment %}+ **Web:** [iheartrhody.com](https://www.iheartrhody.com){% endcomment %}
+{% comment %}+ **Web:** [iheartrhody.info](https://www.iheartrhody.info/){% endcomment %}
 + **Instagram:** [@iheartrhody](https://www.instagram.com/iheartrhody/)
 
 Erika Smith has been blogging about people and locations in Rhode Island for over 10 years. Her interests move from the historical and the odd to the local artisans who practice their craft all over the state.
 
 ### Kept Light Photography
 
-**Web:** [Kept Light](https://www.keptlight.com)
+**Web:** [Kept Light](https://www.keptlight.com/)
 
 Local photographer portfolio and blog of A. Cemal Ekin. The Rhode Island category is our favorite, as Mr. Ekin covers neighborhood vibes and grafitti mural hot spots.
 
 ### Lots in Limbo
 
-+ **Web:** [lotsinlimbo.wordpress.com](https://lotsinlimbo.wordpress.com)
++ **Web:** [lotsinlimbo.wordpress.com](https://lotsinlimbo.wordpress.com/)
 
 There are fifty vacant lots in Downtown Providence. Those include in-transition places like [110 Westminster]({% link _property/one-ten-westminster.md %}) and 143 Washington Street/132 Fountain Street and the area’s forty-eight pay and private parking lots. The city’s urban fabric has a few holes. Hear the interviews, get information on how you can take action to make use of public land, and contribute your thoughts about what you’d like to see Providence become.
 
@@ -54,8 +54,8 @@ A project of a class in the American Civilization department at Brown University
 
 ### PPS Architecture Guide
 
-+ **Web:** [guide.ppsri.org](https://guide.ppsri.org)
-+ **Instagram:** [@pvdpreservation](https://instagram.com/pvdpreservation)
++ **Web:** [guide.ppsri.org](https://guide.ppsri.org/)
++ **Instagram:** [@pvdpreservation](https://instagram.com/pvdpreservation/)
 
 The [Providence Preservation Society](https://www.ppsri.org/) has been fighting irresponsible and disrespectful redevelopment projects in the City for over 60 years. In addition to helping to preserve the character of Providence’s built environment and championing respectful and thoughtful new development, the Society is a wealth of knowledge about the building stock we already have. Their architecture guide is a compendium of information from historic surveys, their Architecture Guidebook, and years and years of Ten Most Endangered Lists and Festival of Historic Houses programs.
 
