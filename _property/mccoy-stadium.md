@@ -2,8 +2,9 @@
 title: "McCoy Stadium"
 slug: mccoy-stadium
 aka: "Pawtucket Stadium, Home of the PawSox"
-date-modified: 2023-08-28 12:00
-update: 'Added links about the small chance that a private owner may save the stadium'
+date-modified: 2025-04-20 12:00
+update: 'Added new photos of the demolition underway'
+update-image: mccoy-jh-2025-04-02.jpg
 
 built: '1938-1940'
 demolition:
@@ -59,8 +60,22 @@ images:
     sizes: '1440, 900'
   - url: mccoy-jh-2022-12-12.jpg
     sizes: '1440, 900'
+  - url: mccoy-jh-2025-04-01.jpg
+    sizes: '1600, 900'
+  - url: mccoy-jh-2025-04-02.jpg
+    sizes: '1440, 900'
+  - url: mccoy-jh-2025-04-03.jpg
+    sizes: '1440, 900'
+  - url: mccoy-jh-2025-04-04.jpg
+    sizes: '1440, 900'
+  - url: mccoy-jh-2025-04-05.jpg
+    sizes: '1440, 900'
+  - url: mccoy-jh-2025-04-06.jpg
+    sizes: '1440, 900'
+  - url: mccoy-jh-2025-04-07.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2022-12-01
+mostrecentimage: 2025-04-01
 
 imagescredit:
 
