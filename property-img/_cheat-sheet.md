@@ -70,6 +70,11 @@ Malone, George. _“Riverboat Ride: Crescent Park, Riverside, RI”_, Laff in th
 + [1920–1921 Sanborn Insurance Map, Volume 1, Plate 32](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (page 43) — The large complex is mostly the same, but the central portion of Chestnut Street has been abandoned and Manchester St renamed to Marengo. The buildings are labelled pattern storage, grinding and polishing, refining, pattern shop, wash room, machine shop, foundry, mounting and packing, flask house, and shipping
 
 
+#### Embedded Video
+
+{% include video-embed.html id='BG3kjnRGwHA' %}
+
+
 #### In copy Images
 
 <figure class="u__img u__img--right" aria-hidden="true">

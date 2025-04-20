@@ -11,7 +11,7 @@ demolition:
 redeveloped:
 decade: '1960-1969'
 date-added: '2004'
-categories: [ '#UrbanDecay', '#DemolitionAlert' ]
+categories: [ '#UrbanDecay' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'Andrew Geller' ]

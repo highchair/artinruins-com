@@ -66,6 +66,12 @@ Urban renewal of the 1950s and 1960s leveled buildings that were previously on t
 
 Urban renewal projects often used federal dollars to raze neighborhoods that were deemed depressed or “slums,” which often took advantage of immigrants and the poor who had few means to fight back for their status. As federal money leveled neighborhoods in favor of highways, Providence saw this project and others like the new post office reshaping the city. We are not sure of this fact, but would not be surprised if the older population who were forced from their homes in this area and others could not afford to live in the newly built Beneficent House.
 
+
+#### Watch an 8 minute video from RI PBS about Brutalism in Providence
+
+{% include video-embed.html id='U6L37i4jojA' %}
+
+
 #### Architecture
 
 Architect Paul Rudolph was best known as the master planner and designer for the [University of Massachusetts Dartmouth campus](https://www.paulrudolph.institute/196302-umass-dartmouth), 1963–1966. Rudolph worked in the style known as “Brutalism,” named such for its frequent use of raw concrete and made popular by architects like Le Corbusier and Mies van der Rohe. In French, the term “beton brut,” which means raw concrete, became the basis of the name and the movement.
