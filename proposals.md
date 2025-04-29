@@ -22,6 +22,21 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 The City maintains [an ArcGIS map with projects under review](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=ab28206d40a54791b7128555cd8e7e18) and completed that is worth checking out.
 
 
+### 327 Elmwood Avenue
+
+**Update April 2025**
+
+<figure class="u__img">
+  <img src="{{ site.propimg_path }}proposals/327-elmwood-ave-2025-04.jpg" alt="">
+  <figcaption>A rendering by Union Studio of the new building proposed for 327 Elmwood Ave.</figcaption>
+</figure>
+
+The site of long vacant land is proposed to become dozens of affordable housing units. Blueprints filed showed plans to redevelop 327 Elmwood Ave., once the site of a diner and then a gas station, into a five-story mixed-use building with commercial space on the first floor and 44 apartments.
+
+The project’s developer, [Women’s Development Corporation](https://www.wdchoc.org/), told the City Plan Commission that units will be affordable for households earning 80 percent or less of the area median income. A rental home is considered affordable when total housing costs are no more than 30 percent of their annual income. That means these units will be designated to those who earn $66,650 in a single-family household, $76,200 in a two-family household, and $85,700 in a three-family household, according to new income limits released by the US Department of Housing and Urban Development earlier this month.
+
+***
+
 ### Signature Residences at 209–217 Angell St
 
 **Update March 2025**
