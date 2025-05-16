@@ -4,7 +4,7 @@ slug: mccoy-stadium
 aka: "Pawtucket Stadium, Home of the PawSox"
 date-modified: 2025-04-20 12:00
 update: 'Added new photos of the demolition underway'
-update-image: mccoy-jh-2025-04-02.jpg
+update-image: mccoy-jh-2025-05-02.jpg
 
 built: '1938-1940'
 demolition:
@@ -74,8 +74,12 @@ images:
     sizes: '1440, 900'
   - url: mccoy-jh-2025-04-07.jpg
     sizes: '1440, 900'
+  - url: mccoy-jh-2025-05-01.jpg
+    sizes: '1440, 900'
+  - url: mccoy-jh-2025-05-02.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2025-04-01
+mostrecentimage: 2025-05-01
 
 imagescredit:
 

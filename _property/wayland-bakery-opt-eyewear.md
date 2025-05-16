@@ -3,8 +3,8 @@ title: "Wayland Bakery & Opt Eyewear"
 slug: wayland-bakery-opt-eyewear
 aka:
 date-modified: 2025-01-10 12:00
-update:
-update-image:
+update: 'Added a photo of the still empty lot'
+update-image: 138-wayland-jh-2025-05-01.jpg
 prop-number: 416
 
 built: '1960–1961'
@@ -57,8 +57,10 @@ images:
     sizes: '1440, 900'
   - url: 138-wayland-jh-2025-01-01.jpg
     sizes: '1440, 900'
+  - url: 138-wayland-jh-2025-05-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2025-01-01
+mostrecentimage: 2025-05-01
 
 imagescredit: 'Contributions from Karen McAninch and Beth Alianiello'
 
