@@ -97,7 +97,7 @@ These apartments, along with those at the [nearby former convent]({% link _prope
 
 No formal history captured in any of the usual reports. Not part of a designated historic district.
 
-This structure first appears on a [Sanborn Map from 1956](#photo-1956-sanborn-vol2-p91-01). It was not present on the 1955 map. The 1956 map “[A. in B.; Cin. Bl. Br. Faced](#photo-1956-sanborn-vol2-p91-01)” and it is blue, indicated concrete construction, and also labeled with a “D” for dwelling. Source: “[1956 Sanborn Insurance Map, Volume 2, Plate 91 (page 96)](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602)” accessed 27 April 2025.
+This structure first appears on a [Sanborn Map from 1956](#photo-1956-sanborn-vol2-p91-01). It was not present on the 1951 map. The 1956 map labels it “[A. in B.; Cin. Bl. Br. Faced](#photo-1956-sanborn-vol2-p91-01)” for “Cinder block brick faced’ and it is colored in blue, further indicating concrete construction. It was also labeled with a “D” for dwelling. Source: “[1956 Sanborn Insurance Map, Volume 2, Plate 91 (page 96)](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602)” accessed 27 April 2025.
 
 ***
 
