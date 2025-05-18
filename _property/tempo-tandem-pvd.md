@@ -2,9 +2,9 @@
 title: "Tempo & Tandem"
 slug: tempo-tandem-pvd
 aka: 'Parcel 9'
-date-modified: 2024-08-29 12:00
-update:
-update-image:
+date-modified: 2025-05-17 13:00
+update: 'Added new images of the construction of phase 2'
+update-image: tempo-tandem-jh-2025-05-01.jpg
 
 built: '2023–2024'
 parcel: 9
@@ -43,6 +43,16 @@ images:
     sizes: '1440, 900'
   - url: tempo-tandem-jh-2024-08-01.jpg
     sizes: '1440, 900'
+  - url: tempo-tandem-jh-2025-05-01.jpg
+    sizes: '1200, 900'
+  - url: tempo-tandem-jh-2025-05-02.jpg
+    sizes: '1200, 900'
+  - url: tempo-tandem-jh-2025-05-03.jpg
+    sizes: '740, 1036'
+  - url: tempo-tandem-jh-2025-05-04.jpg
+    sizes: '1440, 900'
+  - url: tempo-tandem-jh-2025-05-05.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2024-08-01
 
@@ -55,13 +65,13 @@ imagescredit:
 
 ### Proposal
 
-The I-195 Commission considered two different proposals in 2020 for the [oddly shaped Parcel 9](//www.195district.com/projects/parcel-9/) on the edge of the Wickenden Street commercial district and interstate 195. One was by a local non-profit, [One Neighborhood Builders](//oneneighborhoodbuilders.org/), with a good track record of building workforce and affordable (Federal standard) housing. Another was an out-of-state developer with similar experience. From what we can tell, they chose the out-of-state developer who proposed a larger project.
+The I-195 Commission considered two different proposals in 2020 for the [oddly shaped Parcel 9](https://www.195district.com/projects/parcel-9/) on the edge of the Wickenden Street commercial district and interstate 195. One was by a local non-profit, [One Neighborhood Builders](https://oneneighborhoodbuilders.org/), with a good track record of building workforce and affordable (Federal standard) housing. Another was an out-of-state developer with similar experience. From what we can tell, they chose the out-of-state developer who proposed a larger project.
 
 One Neighborhood proposed 58 apartments with 29 affordable units (<$40,000 for two people), 17 workforce units (<$80,000 for two people), and 12 market-rate units. 32 would have been one-bedrooms, 21 two-bedrooms, and 5 three-bedrooms. An anchor tenant would have been a 8,500 sf childcare center. The scale and the mass would have been very similar to the chosen proposal. The two distinct building styles were joined by a glass atrium.
 
 One Neighborhood Builders is based in Olneyville and is currently developing apartment buildings at the corner of Knight Street and Atwells Avenue.
 
-[Pennrose](//www.pennrose.com/portfolio/tempo-tandem/) is a much larger firm with 260+ developments in its portfolio across 16 states and the District of Columbia. This is its first development in Rhode Island. Pennrose had previously gone before the Commission to bid on Parcel 28 which went to the Exeter Property group and their [Emblem 125]({% link _property/emblem-125.md %}) project.[^1]
+[Pennrose](https://www.pennrose.com/portfolio/tempo-tandem/) is a much larger firm with 260+ developments in its portfolio across 16 states and the District of Columbia. This is its first development in Rhode Island. Pennrose had previously gone before the Commission to bid on Parcel 28 which went to the Exeter Property group and their [Emblem 125]({% link _property/emblem-125.md %}) project.[^1]
 
 [^1]: MacDonald, Mary. “Pennrose chosen as developer for Parcel 9 in I-195 Redevelopment District, proposes two buildings.” Providence Business News, 21 October 2020. Accessed 28 August 2024 from https://pbn.com/pennrose-chosen-as-developer-for-parcel-9-in-i-195-redevelopment-district-proposes-two-buildings/
 
@@ -75,7 +85,7 @@ The Pennrose website page about Tempo & Tandem now lists a childcare center as a
 
 The design is just ok. Its not winning many awards, but it is good, new housing at an affordable rate. This parcel was unbuilt and the city needs more apartments. This is a great place to add it, adjacent to amenities and businesses that could use the foot traffic.
 
-We agree with [architecture critic William Morgan’s view](//www.golocalprov.com/business/195-commission-we-need-vision-architecture-critic-morgan) that the developable land under the purview of the I-195 District Commission presented a unique opportunity to do something unified and grand. At the same time, he is also correct in saying that it is very, very difficult to get a development done in the City. There are political hurdles, public feedback meetings, design reviews, zoning, not to mention the perils of financing. While we applaud the idea that we deserve more and better (we do, we know), we might also argue that we already got it in the form of Waterplace Park and the programming of the riverfront and Pedestrian bridge. Isn’t that what government can do that private investment won’t typically do? Public amenities and public green space. That took a unified vision, that took dedication, and that took long-term investment from the City to make it happen.
+We agree with [architecture critic William Morgan’s view](https://www.golocalprov.com/business/195-commission-we-need-vision-architecture-critic-morgan) that the developable land under the purview of the I-195 District Commission presented a unique opportunity to do something unified and grand. At the same time, he is also correct in saying that it is very, very difficult to get a development done in the City. There are political hurdles, public feedback meetings, design reviews, zoning, not to mention the perils of financing. While we applaud the idea that we deserve more and better (we do, we know), we might also argue that we already got it in the form of Waterplace Park and the programming of the riverfront and Pedestrian bridge. Isn’t that what government can do that private investment won’t typically do? Public amenities and public green space. That took a unified vision, that took dedication, and that took long-term investment from the City to make it happen.
 
 If those investments are why an out-of-state developer wants to plunk their “anywhere” building in Providence to provide affordability that allows more people to live here, we'll take it.
 
@@ -103,6 +113,4 @@ The child care facility planned on-site is being operated in partnership with th
 
 “We are thrilled to be bringing a new option for early education and family support services to Rhode Island families,” said David Caprio, CEO and president of Children’s Friend. “We are excited to incorporate feedback from our teaching staff across our sites to inform the design of this new space.” […]
 
-—
-
-Larocque, Marc. “Pennrose, partners break ground on 127-unit Parcel 9 apartment project.” Providence Business News, 02 August 2023. Accessed 28 August 2024 from https://pbn.com/pennrose-partners-break-ground-on-127-unit-parcel-9-apartment-project/
+— Larocque, Marc. “Pennrose, partners break ground on 127-unit Parcel 9 apartment project.” Providence Business News, 02 August 2023. Accessed 28 August 2024 from https://pbn.com/pennrose-partners-break-ground-on-127-unit-parcel-9-apartment-project/

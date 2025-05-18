@@ -2,9 +2,9 @@
 title: "Broadway, #189"
 slug: 189-broadway
 aka: 'Tally’s Religious Gifts and Church Supplies, Gather RI'
-date-modified: 2025-01-05 13:00
-update:
-update-image:
+date-modified: 2025-05-017 12:00
+update: 'Added a recent photo of the construction progress'
+update-image: 189-broadway-jh-2025-05-01.jpg
 prop-number: 415
 
 built: 'Circa 1968'
@@ -13,7 +13,7 @@ redeveloped: '2024–2025'
 units:
 decade: '1960-1969'
 date-added: '2025'  #January
-categories: [ '#WhatAreTheyBuilding', '#NotInRuins' ]
+categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [] #CBH Architect, Charlotte Breed Handy
@@ -56,8 +56,10 @@ images:
   - url: cbh-architect-rendering-02.jpg
     caption: '2024 Rendering by CBH Architect, LLC'
     sizes: '1440, 900'
+  - url: 189-broadway-jh-2025-05-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2025-01-01
+mostrecentimage: 2025-05-01
 
 imagescredit: 'Providence Public Library, PPS Architectural Slides Collection, and CBH Architect LLC'
 

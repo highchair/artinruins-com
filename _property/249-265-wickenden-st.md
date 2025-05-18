@@ -2,7 +2,9 @@
 title: "Wickenden Street, #249–265"
 slug: 249-265-wickenden-st
 aka: 'Gregory’s Optical, Hairspray Salon, Z Nail and Spa'
-date-modified: 2023-09-16 12:00
+date-modified: 2025-05-17 14:00
+update: 'Added a recent photo of the still-standing buildings'
+update-image: 259-265-wickenden-jh-2025-05-01.jpg
 
 built: 'Between 1985 and 1989'
 demolition: '2023'
@@ -13,7 +15,7 @@ date-added: '2023'
 categories: [ '#DemolitionAlert' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Demolition by Progress' ]
@@ -77,8 +79,11 @@ images:
   - url: 249-265-wickenden-jh-2023-08-03.jpg
     caption: 'View east southeast from further down the street, capturing a view that will greatly change once a taller building is introduced at the intersection of Wickenden and Brook Streets.'
     sizes: '1440, 900'
+  - url: 259-265-wickenden-jh-2025-05-01.jpg
+    caption: 'View north in 2025, two years after the announcement of the project. Slow progress, if any, has been made.'
+    sizes: '1440, 900'
 
-mostrecentimage: 2023-08-01
+mostrecentimage: 2025-05-01
 
 imagescredit:
 
@@ -123,7 +128,7 @@ Since approval, we expect construction fencing to go up around the property. The
 
 ### History
 
-The location originally contained two properties in a 1920 map; 247–251 was a three story building with a brick first floor; 257-261 was a three and a half story structure. Around 1933, the house on the corner of Brook and Wickenden was razed and an automobile service station was located here until about 1970. The land seemed vacant until 1985, when address matches reappear for two new buildings. [Aerial maps are difficult to read](//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e){:target="_blank"} but largely confirm these events.
+The location originally contained two properties in a 1920 map; 247–251 was a three story building with a brick first floor; 257-261 was a three and a half story structure. Around 1933, the house on the corner of Brook and Wickenden was razed and an automobile service station was located here until about 1970. The land seemed vacant until 1985, when address matches reappear for two new buildings. [Aerial maps are difficult to read](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e){:target="_blank"} but largely confirm these events.
 
 There is no formal history. The <span class="abbr">RIHPHC</span> did not survey this area in its reports. A portion of Fox Point is documented as part of the southern edge of the College Hill National Register district, but that survey was completed in 1970, around the time that this corner was vacant.
 
@@ -135,27 +140,27 @@ There is no formal history. The <span class="abbr">RIHPHC</span> did not survey 
 Looking for business at the addresses of 247, 249, 251, 253, 255, 257, 259, and 261 Wickenden Street. Numbers 247, 253, 255, and 259 never produced a match.
 
 + [1920-1921 Sanborn Insurance Map, Volume 2, Plate 28](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (page 35) — Two buildings at the corner of Brook and Wickenden as wood frame (yellow).
-+ 1930 — “249 Wickenden” shows an apartment at this location. One mention of “261 Wickenden” as an apartment. Source: [1930 Polk’s Providence directory, Internet Archive](//archive.org/details/providencedirectunse/mode/2up?q=%22249+Wickenden%22){:target="_blank"}
-+ 1932 — “251 Wickenden” shows Qias (Ida) oil burners and Gonsalves Chas at this location, which suggest the building was still present. “257 Wickenden” shows Manuel (Mary) baker at this location. Three mentions of “261 Wickenden” as apartments. Source: [1932 Polk’s Providence directory, Internet Archive](//archive.org/details/providencedirectunse_0/page/1082/mode/2up?q=%22261+Wickenden%22){:target="_blank"}
-+ 1934 — “251 Wickenden” shows (Fox) Point Service Station at this location. “257 Wickenden” shows Brilliant Star Bakery at this location. Two mentions of “261 Wickenden” as apartments. Source: [1934 Polk’s Providence directory, Internet Archive](//archive.org/details/providencedirectunse_1/mode/2up?q=%22257+Wickenden%22){:target="_blank"}
++ 1930 — “249 Wickenden” shows an apartment at this location. One mention of “261 Wickenden” as an apartment. Source: [1930 Polk’s Providence directory, Internet Archive](https://archive.org/details/providencedirectunse/mode/2up?q=%22249+Wickenden%22){:target="_blank"}
++ 1932 — “251 Wickenden” shows Qias (Ida) oil burners and Gonsalves Chas at this location, which suggest the building was still present. “257 Wickenden” shows Manuel (Mary) baker at this location. Three mentions of “261 Wickenden” as apartments. Source: [1932 Polk’s Providence directory, Internet Archive](https://archive.org/details/providencedirectunse_0/page/1082/mode/2up?q=%22261+Wickenden%22){:target="_blank"}
++ 1934 — “251 Wickenden” shows (Fox) Point Service Station at this location. “257 Wickenden” shows Brilliant Star Bakery at this location. Two mentions of “261 Wickenden” as apartments. Source: [1934 Polk’s Providence directory, Internet Archive](https://archive.org/details/providencedirectunse_1/mode/2up?q=%22257+Wickenden%22){:target="_blank"}
 + [1937 G.M. Hopkins Insurance Map, Plate 18](https://sosri.access.preservica.com/uncategorized/IO_2bbd6a2a-89cd-42b3-9f69-e8cf08b7e469/){:target="_blank"} — Shows a gas station with “J.M. Ferreini” as owner on the corner at 251. The wood frame house at 261 is present and labelled “M. Souza.”
-+ 1940 — No matches at 247–251. “257 Wickenden” shows Ames Brilliant Star Bakery (Manuel Perry) at this location. One mention of “261 Wickenden” as an apartment. Source: [1940 Polk’s Providence directory, Internet Archive](//archive.org/details/polksprovidencep1940unse/page/106/mode/2up?q=%22257+Wickenden%22){:target="_blank"}
-+ 1942 — No matches at 247–251. Three mentions of “261 Wickenden” suggest apartments, no business name listed, only residents. Source: [1942 Polk’s Providence directory, Internet Archive](//archive.org/details/polksprovidencep1942unse/page/882/mode/2up?q=%22261+Wickenden%22){:target="_blank"}
-+ 1945 — “251 Wickenden” shows (Fox) Point Service Station at this location. “257 Wickenden” shows Bakery (Manuel Fernandes) at this location. Five mentions of “261 Wickenden” suggest there were apartments above the bakery. Source: [1945 Polk’s Providence directory, Internet Archive](//archive.org/details/polksprovidencep1945unse/page/242/mode/2up?q=%22257+Wickenden%22){:target="_blank"}
-+ 1948 — “251 Wickenden” shows (Fox) Point Service Station at this location. “257 Wickenden” shows Costa’s Bakery (Domenic Costa) at this location. Three mentions of “261 Wickenden” suggest there were apartments above the bakery. Source: [1948 Polk’s Providence directory, Internet Archive](//archive.org/details/polksprovidencep1948unse/mode/2up?q=%22261+wickenden%22){:target="_blank"}
-+ 1950 — “251 Wickenden” shows (Fox) Point Service Station at this location. “257 Wickenden” shows Costa’s Bakery (Domenic Costa) at this location. Three mentions of “261 Wickenden” suggest there were apartments above the bakery. Source: [1950 Polk’s Providence directory, Internet Archive](//archive.org/details/polksprovidencep1950unse/page/256/mode/2up?q=%22251+Wickenden%22){:target="_blank"}
++ 1940 — No matches at 247–251. “257 Wickenden” shows Ames Brilliant Star Bakery (Manuel Perry) at this location. One mention of “261 Wickenden” as an apartment. Source: [1940 Polk’s Providence directory, Internet Archive](https://archive.org/details/polksprovidencep1940unse/page/106/mode/2up?q=%22257+Wickenden%22){:target="_blank"}
++ 1942 — No matches at 247–251. Three mentions of “261 Wickenden” suggest apartments, no business name listed, only residents. Source: [1942 Polk’s Providence directory, Internet Archive](https://archive.org/details/polksprovidencep1942unse/page/882/mode/2up?q=%22261+Wickenden%22){:target="_blank"}
++ 1945 — “251 Wickenden” shows (Fox) Point Service Station at this location. “257 Wickenden” shows Bakery (Manuel Fernandes) at this location. Five mentions of “261 Wickenden” suggest there were apartments above the bakery. Source: [1945 Polk’s Providence directory, Internet Archive](https://archive.org/details/polksprovidencep1945unse/page/242/mode/2up?q=%22257+Wickenden%22){:target="_blank"}
++ 1948 — “251 Wickenden” shows (Fox) Point Service Station at this location. “257 Wickenden” shows Costa’s Bakery (Domenic Costa) at this location. Three mentions of “261 Wickenden” suggest there were apartments above the bakery. Source: [1948 Polk’s Providence directory, Internet Archive](https://archive.org/details/polksprovidencep1948unse/mode/2up?q=%22261+wickenden%22){:target="_blank"}
++ 1950 — “251 Wickenden” shows (Fox) Point Service Station at this location. “257 Wickenden” shows Costa’s Bakery (Domenic Costa) at this location. Three mentions of “261 Wickenden” suggest there were apartments above the bakery. Source: [1950 Polk’s Providence directory, Internet Archive](https://archive.org/details/polksprovidencep1950unse/page/256/mode/2up?q=%22251+Wickenden%22){:target="_blank"}
 + [1920-1951 Sanborn Insurance Map, Volume 2, Plate 28](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (page 35) — A filling station occupies the corner of Brook and Wickenden at 251. A three and a half wood-frame house remains at 257–261 showing a brick first floor (pink outline). “Iron oven” is noted on the footprint.
-+ 1956 — “251 Wickenden” shows (Fox) Point Service Station at this location. “257 Wickenden” shows Costa’s Bakery (Domenic Costa) at this location. No other address matches. Source: [1956 Polk’s Providence directory, Internet Archive](//archive.org/details/polksprovidencepunse_1/page/n171/mode/2up?q=%22251+Wickenden%22){:target="_blank"}
++ 1956 — “251 Wickenden” shows (Fox) Point Service Station at this location. “257 Wickenden” shows Costa’s Bakery (Domenic Costa) at this location. No other address matches. Source: [1956 Polk’s Providence directory, Internet Archive](https://archive.org/details/polksprovidencepunse_1/page/n171/mode/2up?q=%22251+Wickenden%22){:target="_blank"}
 + [1920-1956 Sanborn Insurance Map, Volume 2, Plate 28](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602){:target="_blank"} (page 29) — Same as the 1951 map
-+ 1959 — “251 Wickenden” shows Johnny’s Service Station at this location. No other address matches. Source: [1959 Polk’s Providence directory, Internet Archive](//archive.org/details/polksprovidencep1959unse/page/n161/mode/2up?q=%22251+Wickenden%22){:target="_blank"}
-+ 1961 — “251 Wickenden” shows Johnny’s Service Station at this location. No other address matches. Source: [1961 Polk’s Providence directory, Internet Archive](//archive.org/details/polksprovidencep1961unse/mode/2up?q=%22251+Wickenden%22){:target="_blank"}
-+ 1968 — “251 Wickenden” shows Johnny’s Service Station at this location. No other address matches. Source: [1968 Polk’s Providence directory, Internet Archive](//archive.org/details/polksprovidencepunse_3/mode/2up?q=%22251+Wickenden%22){:target="_blank"}
-+ 1970 — No address matches. Source: [1970 Polk’s Providence directory, Internet Archive](//archive.org/details/polksprovidencep00unse_1/mode/2up?q=%22251+Wickenden%22){:target="_blank"}
-+ 1972 — No address matches. Source: [1972 Polk’s Providence directory, Internet Archive](//archive.org/details/polksprovidencep00unse_2/mode/2up){:target="_blank"}
-+ 1976 — No address matches. Source: [1976 Polk’s Providence directory, Internet Archive](//archive.org/details/providenceprovid00unse/mode/2up){:target="_blank"}
-+ 1980 — No address matches. Source: [1980 Polk’s Providence directory, Internet Archive](//archive.org/details/providenceprovid00unse_1/mode/2up){:target="_blank"}
-+ 1985 — “249 Wickenden” shows Home Loan and Investment Bank at this location. No matches found for other addresses. Source: [1985 Polk’s Providence directory, Internet Archive](//archive.org/details/providenceprovid00unse_2/page/n111/mode/2up?q=%22249+wickenden%22){:target="_blank"}
-+ 1990 — “249 Wickenden” shows Cathleen Assoc (Cathleen Naughton) at this location. “259 Wickenden” shows Doorley Agency Inc at this location. “263 Wickenden” shows Ecletic (Julie Lancia) gifts at this location. Source: [1990 Polk’s Providence directory, Internet Archive](//archive.org/details/providencerhodei00unse/page/n117/mode/2up?q=%22259+Wickenden%22){:target="_blank"}
++ 1959 — “251 Wickenden” shows Johnny’s Service Station at this location. No other address matches. Source: [1959 Polk’s Providence directory, Internet Archive](https://archive.org/details/polksprovidencep1959unse/page/n161/mode/2up?q=%22251+Wickenden%22){:target="_blank"}
++ 1961 — “251 Wickenden” shows Johnny’s Service Station at this location. No other address matches. Source: [1961 Polk’s Providence directory, Internet Archive](https://archive.org/details/polksprovidencep1961unse/mode/2up?q=%22251+Wickenden%22){:target="_blank"}
++ 1968 — “251 Wickenden” shows Johnny’s Service Station at this location. No other address matches. Source: [1968 Polk’s Providence directory, Internet Archive](https://archive.org/details/polksprovidencepunse_3/mode/2up?q=%22251+Wickenden%22){:target="_blank"}
++ 1970 — No address matches. Source: [1970 Polk’s Providence directory, Internet Archive](https://archive.org/details/polksprovidencep00unse_1/mode/2up?q=%22251+Wickenden%22){:target="_blank"}
++ 1972 — No address matches. Source: [1972 Polk’s Providence directory, Internet Archive](https://archive.org/details/polksprovidencep00unse_2/mode/2up){:target="_blank"}
++ 1976 — No address matches. Source: [1976 Polk’s Providence directory, Internet Archive](https://archive.org/details/providenceprovid00unse/mode/2up){:target="_blank"}
++ 1980 — No address matches. Source: [1980 Polk’s Providence directory, Internet Archive](https://archive.org/details/providenceprovid00unse_1/mode/2up){:target="_blank"}
++ 1985 — “249 Wickenden” shows Home Loan and Investment Bank at this location. No matches found for other addresses. Source: [1985 Polk’s Providence directory, Internet Archive](https://archive.org/details/providenceprovid00unse_2/page/n111/mode/2up?q=%22249+wickenden%22){:target="_blank"}
++ 1990 — “249 Wickenden” shows Cathleen Assoc (Cathleen Naughton) at this location. “259 Wickenden” shows Doorley Agency Inc at this location. “263 Wickenden” shows Ecletic (Julie Lancia) gifts at this location. Source: [1990 Polk’s Providence directory, Internet Archive](https://archive.org/details/providencerhodei00unse/page/n117/mode/2up?q=%22259+Wickenden%22){:target="_blank"}
 
 </details>
 
@@ -199,11 +204,11 @@ As long as the building fits with the city’s zoning rules and comprehensive pl
 
 “The commissioners cannot vote to deny a project simply because they don’t like it,” he added.
 
-[A new comprehensive plan](//www.providenceri.gov/mayor-brett-smiley-announces-once-in-a-decade-update-to-the-providence-comprehensive-plan/){:target="_blank"}, and along with it, new zoning rules, are up for debate this year.
+[A new comprehensive plan](https://www.providenceri.gov/mayor-brett-smiley-announces-once-in-a-decade-update-to-the-providence-comprehensive-plan/){:target="_blank"}, and along with it, new zoning rules, are up for debate this year.
 
 As it stands, the City Plan Commission has three options before them with this building. Either they approve the plan as it is written, deny it, or approve it with conditions like one less story. That last option would likely appeal to some of the detractors.
 
-There’s another thorn in the side of people who are opposed to the building – one that would not go away with fewer stories. Dustin Dezube, building’s developer and landlord, already has a somewhat contentious relationship with tenants in the city. After [the Providence Journal printed two articles about poor conditions in buildings owned and co-owned by Dezube](//www.providencejournal.com/story/news/local/2022/02/19/providence-ri-tenants-maintenance-complaints-poor-living-conditions-covid/6812339001/), some of his renters formed a tenants’ union.
+There’s another thorn in the side of people who are opposed to the building – one that would not go away with fewer stories. Dustin Dezube, building’s developer and landlord, already has a somewhat contentious relationship with tenants in the city. After [the Providence Journal printed two articles about poor conditions in buildings owned and co-owned by Dezube](https://www.providencejournal.com/story/news/local/2022/02/19/providence-ri-tenants-maintenance-complaints-poor-living-conditions-covid/6812339001/), some of his renters formed a tenants’ union.
 
 Dezube didn’t respond to multiple requests for comment, either by phone, email, text or when The Public’s Radio visited his office.
 

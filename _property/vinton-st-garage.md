@@ -1,9 +1,10 @@
 ---
 title: "Vinton Street Garage"
 slug: vinton-st-garage
-aka:
-date-modified: 2022-12-18 12:41
-update: 'Added new photos submitted by Chloé Hurley'
+aka: '311 Broadway'
+date-modified: 2025-05-17 15:00
+update: 'Added new photos of the recent construction'
+update-photo: vinton-garage-jh-2025-05-01.jpg
 
 built: 'circa 1919'
 demolition:
@@ -27,7 +28,7 @@ latitude: '41.820523'
 longitude: '-71.4304167'
 gmap: "https://www.google.com/maps/place/132+Vinton+St,+Providence,+RI+02909/@41.820523,-71.4304167,17z"
 street: [ 'Broadway' ]
-street-number: 309
+street-number: 311
 
 meta: ""
 excerpt: "A relatively low-slung and simple early 20th century former car repair garage in a residential portion off Broadway"
@@ -79,10 +80,14 @@ images:
   - url: vinton-garage-ch-2022-12-04.jpg
     caption: 'Photo by Chloé Hurley'
     sizes: '1200, 900'
+  - url: vinton-garage-jh-2025-05-01.jpg
+    sizes: '1440, 900'
+  - url: vinton-garage-jh-2025-05-01.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions from the Library of Congress and Chloé Hurley'
 
-mostrecentimage: 2022-12-01
+mostrecentimage: 2025-05-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -91,16 +96,16 @@ mostrecentimage: 2022-12-01
 
 ### Redevelopment
 
-A medium size, 4300 sf single story former garage building in a residential neighborhood on the West Side of Providence. Previous to being converted to commercial space, the building was underutilized as storage space or maybe an art studio. From the comments it seems that it was a nuisance property in its latter years. 
+A medium size, 4,300 sf single story former garage building in a residential neighborhood on the West Side of Providence. Previous to being converted to commercial space, the building was underutilized as storage space or maybe an art studio. From the comments it seems that it was a nuisance property in its latter years.
 
-The yellow/tan brick with simple pre-Art Deco framing and green square tile inlays set on a 45° angle have been covered over with stucco. An echo of the simple ornamentation detail has been recreated in raised stucco. The large commercial windows have had their transoms reinforced with new steel and encased in new cinder block. Replacement steel frame commercial windows have been added to the openings as well as to the garage door that once opened onto Vinton Street. A side entrance looking towards Broadway has been made into the main entrance, off a new parking lot for 16 cars. 
+The yellow/tan brick with simple pre-Art Deco framing and green square tile inlays set on a 45° angle have been covered over with stucco. An echo of the simple ornamentation detail has been recreated in raised stucco. The large commercial windows have had their transoms reinforced with new steel and encased in new cinder block. Replacement steel frame commercial windows have been added to the openings as well as to the garage door that once opened onto Vinton Street. A side entrance looking towards Broadway has been made into the main entrance, off a new parking lot for 16 cars.
 
-In a few of the photos one can see the back of the [Barnaby Castle Carriage House]({% link _property/barnaby-carriage-house.md %}) at 159 Sutton Street. One can also see the evolution of the carriage house in the [Sanborn Map images](#photo-vinton-garage-sanborn-1899). 
+In a few of the photos one can see the back of the [Barnaby Castle Carriage House]({% link _property/barnaby-carriage-house.md %}) at 159 Sutton Street. One can also see the evolution of the carriage house in the [Sanborn Map images](#photo-vinton-garage-sanborn-1899).
 
 
 ### Current Events
 
-The property is commercial/office space. Since approximately 2018, the building is painted white with black metal window frames. 
+The property was converted to commercial/office space in approximately 2018. In 2025, it started being renovated as rumored restaurant space and a new location for Pizza J, whose owners Julian’s restaurant is across the street.
 
 
 ### History

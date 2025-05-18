@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [] #Bahman Jalili
 lists: []
 tags: [ 'Apartments for Rent' ]
@@ -40,8 +40,10 @@ images:
     sizes: '1200, 900'
   - url: 387-wickenden-jh-2023-08-03.jpg
     sizes: '1200, 900'
+  - url: 387-wickenden-jh-2025-05-01.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2021-07-01
+mostrecentimage: 2025-05-01
 
 imagescredit:
 
@@ -56,12 +58,12 @@ Land owner Bahman Jalili razed the previous house on this property — the mura
 
 The Commission recommended that developer and neighbors meet to begin a dialogue.[^1] The Fox Point Neighborhood Association expressed interest in meeting, but we are unsure if those ever took place. We assume they did not, because it is hard to believe that the design was worse and got better with conversation.
 
-[^1]: See full quoted story in the [Aqua Life Aquarium “In the News” section]({% link _property/aqua-life-aquarium.md %}#in-the-news).
+[^1]: See full quoted story in the Aqua Life Aquarium “In the News” section.
 
 
 ### Design Reception
 
-William Morgan mentions this construction briefly as part of his overview of new construction in Fox Point and how the neighborhood is changing. He says in a photo caption: 
+William Morgan mentions this construction briefly as part of his overview of new construction in Fox Point and how the neighborhood is changing. He says in a photo caption:
 
 > A scale-busting and formless box inserts its overwhelming bulk into the community at the corner of Wickenden and Hope Streets. [^2]
 
