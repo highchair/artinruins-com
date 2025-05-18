@@ -45,6 +45,12 @@ We also have a [**To Do list** of items to research or update]({% link to-do-lis
 
 Thank you, thank you, thank you to the following folks who have contributed in one way or another:
 
++ Alice Lim, donation May 2025
++ Anne Holland, donation March 2025
++ Amelia Huang, donation February 2025
++ Edward Power & Nancy Simone Harya, donations July 2024
++ Roland Lavallee, donation June 2024
++ NMDesign, donation May 2024
 + John Woolsey, donation February 2024
 + Ian O’Connor, history for Olneyville Tire, 88 Plainfield Street
 + [David Lawlor]({% link tag/david-lawlor.html %}), drone photos of Corning Glass Works and others
