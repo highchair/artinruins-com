@@ -15,10 +15,10 @@
             <li><a href="{% link category/urbandecay.html %}"><span class="u__sr-only">Urban Decay</span><span aria-hidden="true">#UrbanDecay</span></a></li>
             <li><a href="{% link category/usedtobethere.html %}"{% if page.permalink == 'category/usedtobethere/' %} aria-current="page"{% endif %}><span class="u__sr-only">Used To Be There</span><span aria-hidden="true">#UsedToBeThere</span></a></li>
             <li><a href="{% link category/whataretheybuilding.html %}"{% if page.permalink == 'category/whataretheybuilding/' %} aria-current="page"{% endif %}><span class="u__sr-only">What Are They Building</span><span aria-hidden="true">#WhatAreTheyBuilding</span></a></li>
-            <li><a href="{% link category/essays.html %}"{% if page.permalink == 'category/essays/' %} aria-current="page"{% endif %}>#Essays</a></li>
             <li id="all-tags"><a href="{% link all-tags.html %}"{% if page.permalink == 'tags/' %} aria-current="page"{% endif %}>All Tags</a></li>
           </ul>
         </li>
+        <li><a href="{% link category/essays.html %}"{% if page.permalink == 'category/essays/' %} aria-current="page"{% endif %}>Essays</a></li>
         <li><a href="{% link about.md %}"{% if page.permalink == 'about/' %} aria-current="page"{% endif %}>About</a></li>
         <li><a href="{% link links.md %}"{% if page.permalink == 'links/' %} aria-current="page"{% endif %}>Similar Projects</a></li>
         <li><a href="{% link support.md %}"{% if page.permalink == 'support/' %} aria-current="page"{% endif %}>Support A I R</a></li>
