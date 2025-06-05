@@ -13,10 +13,10 @@ date-added: '2023'
 categories: [ '#NotInRuins', '#UrbanDecay' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
-tags: []
+tags: [ 'Lost Music Venues' ]
 
 NRHP-ref-number:
 added-to-NRHP:

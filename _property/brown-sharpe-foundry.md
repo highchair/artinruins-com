@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Frederick Howe', 'Foundry Associates' ]
 people: [ 'Joseph R. Brown', 'Lucian Sharpe', 'Thomas McFarlane', 'Richmond Viall' ]
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places',  'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Preservation Awards', 'Providence Industrial Sites 1981', 'Providence’s Five Industrial Wonders' ]
-tags: [ 'Apartments for Rent', 'Providence Public Library Digital Collections', 'The Superlatives' ]
+tags: [ 'Apartments for Rent', 'Lost Music Venues', 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'During the 19th and 20th centuries, Brown & Sharpe was one of the best-known and most influential machine tool builders and was a leading manufacturer of instruments for machinists'
 
 NRHP-ref-number: '03000081 (individual)'
@@ -210,7 +210,7 @@ images:
 
 mostrecentimage: 2005-07-01
 
-imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A11078" target="_blank">Photo</a>) and Rhode Island Postcards Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A22843" target="_blank">From River</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A19915" target="_blank">Aerial</a>) at the Providence Public Library, Edward Connors for the National Register nomination form, and Frank Mullin'
+imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A11078">Photo</a>) and Rhode Island Postcards Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A22843">From River</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A19915">Aerial</a>) at the Providence Public Library, Edward Connors for the National Register nomination form, and Frank Mullin'
 
 external:
   - source: '1896 engraving of buildings and schematic, WikiMedia'
@@ -219,28 +219,28 @@ external:
 
 ### Redevelopment
 
-This sprawling 25 acre complex has been under private ownership since the 1980s, after it was vacated by Brown and Sharpe for more modern facilities in North Kingstown in 1964. Only a small portion of the complex was redeveloped into offices in the 80s, and most of the rest of it sat with sporadic redevelopment here and there. A restaurant called the Spaghetti Factory occupied the former Boiler House building for many years while various state departments rented portions of the complex. 
+This sprawling 25 acre complex has been under private ownership since the 1980s, after it was vacated by Brown and Sharpe for more modern facilities in North Kingstown in 1964. Only a small portion of the complex was redeveloped into offices in the 80s, and most of the rest of it sat with sporadic redevelopment here and there. A restaurant called the Spaghetti Factory occupied the former Boiler House building for many years while various state departments rented portions of the complex.
 
 Between 2005 and 2017, a big push to turn the unoccupied buildings into residential began taking place, spurred on in part by the robust State Historic Tax Credits that were available. Buildings 4 and 5, some of the largest in the complex, were turned into apartments. In total, $17 million in federal and state tax credits were applied as well as $30+ million in private funding.
 
-The buildings were maintained fairly well while they were empty, but the redevelopment has made them much better as a whole. The complex is a vibrant mix of commercial and residential steps away from the train station and with roofdeck views of the Woonasquatucket River, the State House, and, well, the highway. With their proud history, it is a benefit to the City that they were saved and reused in this fashion. 
+The buildings were maintained fairly well while they were empty, but the redevelopment has made them much better as a whole. The complex is a vibrant mix of commercial and residential steps away from the train station and with roofdeck views of the Woonasquatucket River, the State House, and, well, the highway. With their proud history, it is a benefit to the City that they were saved and reused in this fashion.
 
-At its height, **Brown & Sharpe** revolutionized the way machine parts were engineered and manufactured, allowing the companies that purchased their products to make more and faster and with easy to replace parts. They had a prominent role as a catalyst in the 19th-century industrial revolution and occupied this site for almost 100 years. 
+At its height, **Brown & Sharpe** revolutionized the way machine parts were engineered and manufactured, allowing the companies that purchased their products to make more and faster and with easy to replace parts. They had a prominent role as a catalyst in the 19th-century industrial revolution and occupied this site for almost 100 years.
 
 #### Other Links
 
-+ [Rhode Tour: Brown and Sharpe](//rhodetour.org/items/show/219){:target="_blank"}
-+ [Small State Big History: Book review, “Brown & Sharpe and the Measure of American Industry”](//smallstatebighistory.com/recent-rhode-island-history-books-reading-pleasure/){:target="_blank"}
++ [Rhode Tour: Brown and Sharpe](https://rhodetour.org/items/show/219)
++ [Small State Big History: Book review, “Brown & Sharpe and the Measure of American Industry”](https://smallstatebighistory.com/recent-rhode-island-history-books-reading-pleasure/)
 
 
 ### Current Events
 
-[Promenade Apartments](//www.promenadeprov.com){:target="_blank"} has details about apartment and office space availability.
+[Promenade Apartments](https://www.promenadeprov.com) has details about apartment and office space availability.
 
 
 ### History
 
-Absent from the formal history below is the fact that the original location of the music venue **The Living Room** was located in part of the lessor used portion of this complex. The famous “bubble window” was here. Would love some photos, send ‘em if you got ‘em. [This remembrance of Randy Hien](//www.ripopmusic.org/musical-artists/producers/randy-hien-the-living-room/){:target="_blank"} has a good photo of the Living Room at that time.
+Absent from the formal history below is the fact that the original location of the music venue **The Living Room** was located in part of the lessor used portion of this complex. The famous “bubble window” was here. Would love some photos, send ‘em if you got ‘em. [This remembrance of Randy Hien](https://www.ripopmusic.org/musical-artists/producers/randy-hien-the-living-room/) has a good photo of the Living Room at that time.
 
 ***
 
@@ -252,7 +252,7 @@ The large, red brick, multi-story industrial buildings of the Brown & Sharpe Man
 
 The complex occupies an area of slightly more than twenty-five acres. This area is defined by Promenade Street to the south, Bath and Calverly Streets to the west, West Park and Brownell Streets to the north, and Interstate Route 95 and Holden Street to the east. Before the construction of Interstate Route 95 the site comprised thirty-two acres. […]
 
-[…] The present owners [in 2002], **Foundry Associates**, purchased the complex in 1986. This company has undertaken renovation of a number of the buildings. Buildings No. l and No. 3 are complete and occupied by a number of businesses and state government offices. Buildings No. 2 and No. 5, vacant for over twenty-five years, are in the process of being rehabilitated. 
+[…] The present owners [in 2002], **Foundry Associates**, purchased the complex in 1986. This company has undertaken renovation of a number of the buildings. Buildings No. l and No. 3 are complete and occupied by a number of businesses and state government offices. Buildings No. 2 and No. 5, vacant for over twenty-five years, are in the process of being rehabilitated.
 
 
 #### Significance
