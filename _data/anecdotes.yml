@@ -1,6 +1,16 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: providence-combing
+  person: 'scum'
+  date: '2025-06-01'
+  content: 'From roughly 2008 to 2013, a part of this factory space was the home of an underground music venue known as “Mars Gas Chamber.” Important musicians such as Lightning Bolt, Russian Tsarlag, S.H.V, Laundry Room Squelchers, Humanbeast and Providence’s own Dave Public performed here (I once saw Dave also getting the bum’s rush out of the venue during a party, so he has the distinction of both performing here and getting banned from it)'
+
+- property: quonset-point-naval-base
+  person: 'William Bright'
+  date: '2025-05-24'
+  content: 'My dad was stationed here during ww2 as an air craft mechanic, my mom worked at the marine base next door.'
+
 - property: alexander-duncan-warehouse
   person: 'Ken Zirkel'
   date: '2025-04-30'
