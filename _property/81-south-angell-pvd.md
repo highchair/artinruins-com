@@ -13,7 +13,7 @@ date-added: '2024'
 categories: [ '#WhatAreTheyBuilding', '#NotInRuins' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'ZDS Architecture & Interiors' ]
+designers: [ 'Aref Shehadeh', ZDS Architecture & Interiors' ]
 people: []
 lists: []
 tags: [ 'Contemporary', 'Darkitecture', 'House' ]
@@ -84,7 +84,7 @@ imagescredit:
 
 This project was a renovation of a circa 1900 (maybe older) home used for commercial office space and the new construction of a three-unit row condominium. The Egis Group, also known as Finkelman Insurance, was located here since around 1989.
 
-The renovation and design was conducted by ZDS and construction management by Modo Development. Neither lists this project on their websites. There are three three-level condos in the new construction and two condos in the home. The largest condo is the upper unit in the house — a 2,650 square-foot 4 bed and 2.5 bath space featuring 21-foot high cathedral ceilings and a private roof deck.
+The renovation and design was conducted by ZDS and construction management by Modo Development (Aref Shehadeh). Neither lists this project on their websites. There are three three-level condos in the new construction and two condos in the home. The largest condo is the upper unit in the house — a 2,650 square-foot 4 bed and 2.5 bath space featuring 21-foot high cathedral ceilings and a private roof deck.
 
 The three new units have ground-level garage spaces with sidewalk entrances. The second floor is the kitchen/living space with an attached office and bathroom. The third floor are two beds with an en suite on the primary. A walk-up to the roof deck doubles as a skylight.
 
