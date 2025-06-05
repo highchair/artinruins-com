@@ -14,7 +14,7 @@ neighborhoods: []
 town: [ 'Cranston, RI' ]
 designers: []
 lists: [ 'A.I.R.’s Lead Brick List', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
-tags: [ 'Demolition by Neglect', 'Still an Empty Lot' ]
+tags: [ 'Demolition by Neglect' ]
 
 NRHP-ref-number:
 added-to-NRHP:
@@ -139,21 +139,21 @@ imagescredit: Contributions by Sarah Clover, AJM, & Greg Fortin
 
 ### Reason for Demolition
 
-A classic case of demolition by neglect. In 2005, the last piece of the now-famous Narragansett Brewery was lost. If only the beer won back it’s charm earlier, the building might have been saved and become the site of some sort of brewery operation. A series of suspicious arsons inside the caverous building set off a series of events where the safest (and easiest, cheapest) thing to do was to take it down. 
+A classic case of demolition by neglect. In 2005, the last piece of the now-famous Narragansett Brewery was lost. If only the beer won back it’s charm earlier, the building might have been saved and become the site of some sort of brewery operation. A series of suspicious arsons inside the cavernous building set off a series of events where the safest (and easiest, cheapest) thing to do was to take it down.
 
 #### Timeline of its demise
 
 1900
-: The [United Traction Electric Company](//en.wikipedia.org/wiki/United_Electric_Railways#History){:target="_blank"} builds this as a street car depot and repair shop for its electric trolley fleet. Through a series of merger’s and acquisitions, the company will change its name to the Rhode Island Company by 1902. [An earlier account of electric trolleys in the state was written by Scott Molloy](//smallstatebighistory.com/providences-first-trolley-in-1892/){:target="_blank"}.
+: The [United Traction Electric Company](https://en.wikipedia.org/wiki/United_Electric_Railways#History) builds this as a street car depot and repair shop for its electric trolley fleet. Through a series of merger’s and acquisitions, the company will change its name to the Rhode Island Company by 1902. [An earlier account of electric trolleys in the state was written by Scott Molloy](https://smallstatebighistory.com/providences-first-trolley-in-1892/).
 
 circa 1918 or 1938 (depending on the source)
-: Nearby [Narragansett Brewery]({% link _property/narragansett-brewery-cranston.md %}) purchases the building and land. The brewery used it for storage and repair of its delivery fleet. They were the only one in the area to ship with their own cars — with 75 horses, 45 wagons of various types, and electrically propelled and gasoline trucks. It owned 25 refrigerator cars as well. (Breweriana.com, defunct). The Trolley Barn was 108,000 square feet, of brick and cement construction, with a full basement and large wide-open floors. 
+: Nearby [Narragansett Brewery]({% link _property/narragansett-brewery-cranston.md %}) purchases the building and land. The brewery used it for storage and repair of its delivery fleet. They were the only one in the area to ship with their own cars — with 75 horses, 45 wagons of various types, and electrically propelled and gasoline trucks. It owned 25 refrigerator cars as well. (Breweriana.com, defunct). The Trolley Barn was 108,000 square feet, of brick and cement construction, with a full basement and large wide-open floors.
 
 July 31, 1981
 : After a successful run, and due to increasing competition from larger national brands, Narragansett Brewing closed it’s doors and laid off 350 workers. The larger complex and the Trolley Barn’s fate were uncertain.
 
 July 1995
-: S & P Corporation, the holding company which held Narragansett Brewing Company’s assets, sold off 46 tons of brewery equipment and shipped it to China. 
+: S & P Corporation, the holding company which held Narragansett Brewing Company’s assets, sold off 46 tons of brewery equipment and shipped it to China.
 
 October 27, 1998
 : Decaying buildings and asbestos-ridden equipment and vaults were finally condemned. An excavator rammed its claw-like grapple into the side of the bottling plant. A group of eight other buildings were demolished in the following months. Only the trolley barn was spared for possible redevelopment.
@@ -174,18 +174,18 @@ May 31, 2005
 
 ### Current Events
 
-As of July, 2020, nothing has been built upon this 13 acre site — since the demolition in 2005. 
+In early 2024, after being vacant for almost 20 years, construction started on a new gas station, car wash, and fast food restaurant on this site.
 
 
 ### History
 
-National Register Eligible, never listed. 
+National Register Eligible, never listed.
 
 _From “Rhode Island Freight Rail Improvement Project: Final Environmental Impact Staement”, January 1998 (Google Books)_
 
-This large, two and one half story brick building was built in 1900 by the United Traction Company to house and repair its streetcars. Narragansett Brewery purchased the building in 1918 for use as a warehouse. […] The building has been determined eligible for listing in the National Register of Historic Places (DMJM/Harris 1993) through consensus between the FRA and the RISHPO. […] The United Traction property is 6.91 acres in area. 
+This large, two and one half story brick building was built in 1900 by the United Traction Company to house and repair its streetcars. Narragansett Brewery purchased the building in 1918 for use as a warehouse. […] The building has been determined eligible for listing in the National Register of Historic Places (DMJM/Harris 1993) through consensus between the FRA and the RISHPO. […] The United Traction property is 6.91 acres in area.
 
-_From William H. Jordy et al., [Society of Architectural Historians](//sah-archipedia.org/buildings/RI-01-CR1){:target="_blank"}_
+_From William H. Jordy et al., [Society of Architectural Historians](https://sah-archipedia.org/buildings/RI-01-CR1)
 
 Dilapidation does not obscure the impressiveness of this massive brick barn erected for one of the Rhode Island Company's electric trolley lines. Around 1900 industrial buildings associated with emerging electrical technology tended to receive special architectural attention. Such was also the case with the Narragansett Electric Company’s slightly later Manchester Street generating plant. There, Neo-Renaissance detail notwithstanding, the treatment anticipated a more modern approach to the industrial structure. Here the image is more archaic — powerfully so, and especially in the spreading central gable with its tiered arching and its rugged cap in rough granite. This feature is slightly stepped from a blunt pinnacle down to corner blocks which the brick wall below receives in the subtle swelling of its upper corners.
 
@@ -195,7 +195,7 @@ When trolley service declined in the late 1930s, the barn became a warehouse for
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
-The United Traction Electric Company built this imposing 2-story,brick-pier building as a street car depot and repair shop only six years after the last horsecars ran in Providence. The building has large blind arches, heavy granite lintels, and intricate corbelling. 
+The United Traction Electric Company built this imposing 2-story, brick-pier building as a street car depot and repair shop only six years after the last horsecars ran in Providence. The building has large blind arches, heavy granite lintels, and intricate corbelling.
 
 United Traction, chartered in New Jersey in 1893, bought out three smaller companies; the Pawtucket Street Railway, the Providence Cable Tramway, and the Union Railroad, the latter originally organized by the Spragues, Cranston textile mill owners, in 1864. Nelson Aldrich, United States Senator from Rhode Island, played a key role in the consolidation. Part of the capital was supplied by the American Sugar Refining Company and since Senator Aldrich had previously sponsored legislation to benefit American Sugar, the press raised serious questions about the propriety of the transaction.
 
