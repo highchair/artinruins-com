@@ -27,7 +27,7 @@ gmap: "https://www.google.com/maps/place/41%C2%B049'07.6%22N+71%C2%B024'04.5%22W
 meta: ""
 excerpt: "A mixed-use commercial and residential development on land vacated by the relocation of interstate 195"
 
-thumbnail: parcel6-jh-2022-03-02.jpg
+thumbnail: parcel6-jh-2025-06-01.jpg
 
 images:
   - url: parcel6-jh-2020-02-01.jpg
@@ -55,8 +55,10 @@ images:
     sizes: '1600, 900'
   - url: parcel6-jh-2022-12-01.jpg
     sizes: '1440, 900'
+  - url: parcel6-jh-2025-06-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2022-12-01
+mostrecentimage: 2025-06-01
 
 imagescredit:
 

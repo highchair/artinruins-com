@@ -124,10 +124,12 @@ images:
     sizes: '1440, 900'
   - url: south-street-jh-2023-10-01.jpg
     sizes: '1440, 900'
+  - url: south-street-jh-2025-06-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2023-10-01
+mostrecentimage: 2025-06-01
 
-imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12111">circa 1956</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10776">circa 1962-1</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A10452">circa 1962-2</a>) at the Providence Public Library, Robert Guiliani and Matthew Kierstead for National Register nomination forms'
+imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A12111">circa 1956</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A10776">circa 1962-1</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A10452">circa 1962-2</a>) at the Providence Public Library, Robert Guiliani and Matthew Kierstead for National Register nomination forms'
 
 external:
   - source: 'RI Photo Survey Instagram'
@@ -146,7 +148,7 @@ The redevelopment of South Street Landing took almost 30 years. We present the h
 : Narragansett Electric decommissions the former power plant and starts to demolish smaller features on the site. The original smokestacks are removed. 
 
 1994
-: Talks begin with the **Heritage Harbor Museum** (<span class="abbr">HHM</span>) to use the former power plant as their new home. The <span class="abbr">HHR</span> was a local initiative started to create a state history museum. It’s original state charter of June 22, 1979 established the Foundation for the Promotion of State Cultural Heritage. [It still survives as an educational initiative](//heritageharborfoundation.org).[^1]
+: Talks begin with the **Heritage Harbor Museum** (<span class="abbr">HHM</span>) to use the former power plant as their new home. The <span class="abbr">HHR</span> was a local initiative started to create a state history museum. It’s original state charter of June 22, 1979 established the Foundation for the Promotion of State Cultural Heritage. [It still survives as an educational initiative](https://heritageharborfoundation.org).[^1]
 
 1995
 : South Street is donated to the <span class="abbr">HHM</span> in lieu of being demolished. The building and land was said to be worth $10 million. 
@@ -176,7 +178,7 @@ March 19, 2009
 : Work stops and the project closes at Dynamo House. The economic downturn brought financial troubles to the company and project. <span class="abbr">SBER</span> would default on nearly $6 million in loans, lay off all their workers, and shut down its Providence office. The way in which the company walked away from its obligations puts the future of any physical <span class="abbr">HHM</span> space in great doubt.[^8]
 
 2011 & 2012
-: The stalled projects and the way the building had been exposed to the elements force the Providence Preservation Society to place the structure on its [10 Most Endangered Lists](//guide.ppsri.org/property/narragansett-electric-lighting-company) two years in a row. 
+: The stalled projects and the way the building had been exposed to the elements force the Providence Preservation Society to place the structure on its [10 Most Endangered Lists](https://guide.ppsri.org/property/narragansett-electric-lighting-company) two years in a row. 
 
 June 2013
 : Brown University announces its intention to be an anchor tenant in a $220 million redevelopment project that will house 11 administrative units of the University as well as the Rhode Island Nursing Education Center, a joint Rhode Island College and University of Rhode Island complex.
@@ -194,7 +196,7 @@ October 2017
 : Brown relocates 400 staff to 136,000 square feet of the total 265,000-square-feet of renovated office space.[^10] 
 
 2019
-: The [National Trust for Historic Preservation](//forum.savingplaces.org/blogs/forum-online/2019/10/11/the-2019-national-preservation-awards) honors South Street Landing with the 2019 Richard H. Driehaus Foundation National Preservation Award, which recognizes adaptive reuse projects that give new meaning to communities while preserving architectural and cultural heritage. The renovation leveraged TK&A Architects for the redesign.[^11]
+: The [National Trust for Historic Preservation](https://forum.savingplaces.org/blogs/forum-online/2019/10/11/the-2019-national-preservation-awards) honors South Street Landing with the 2019 Richard H. Driehaus Foundation National Preservation Award, which recognizes adaptive reuse projects that give new meaning to communities while preserving architectural and cultural heritage. The renovation leveraged TK&A Architects for the redesign.[^11]
 
 [^1]: Heritage Harbor website, captured January 16, 2021 from https://heritageharborfoundation.org
 
@@ -294,6 +296,4 @@ He is owner and president of the Marathon Group of Companies, five diversified c
 
 He also is a partner in Locke-Ober Co., the prestigous _[sic]_ Boston restaurant, and in Bannister’s Wharf Inc., the entertainment and epicurean hub of the Newport waterfront. […]
 
-—
-
-MORGAN, GWYNNE. “A young man with a big vision Davol Square developer Freeman eyes a waterfront empire.” Providence Journal (RI), ALL ed., sec. BUSINESS, 16 Sept. 1984, pp. F-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C0C25C274A68. Accessed 29 Dec. 2021.
+— MORGAN, GWYNNE. “A young man with a big vision Davol Square developer Freeman eyes a waterfront empire.” Providence Journal (RI), ALL ed., sec. BUSINESS, 16 Sept. 1984, pp. F-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C0C25C274A68. Accessed 29 Dec. 2021.
