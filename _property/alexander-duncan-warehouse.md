@@ -2,7 +2,9 @@
 title: "Alexander Duncan Warehouse"
 slug: alexander-duncan-warehouse
 aka: 'The Quay Building'
-date-modified: 2021-02-19 12:00
+date-modified: 2025-06-07 13:00
+update: 'Added photos of the substation demolition occuring behind this building'
+update-image: substation-jh-2025-06-03.jpg
 
 built: 'circa 1880'
 demolition: 
@@ -18,10 +20,7 @@ people: []
 lists: []
 tags: []
 
-NRHP-ref-number:
-added-to-NRHP:
-
-address: '146 Dyer Street, Providence RI'
+address: '146 Dyer St, Providence RI'
 latitude: '41.8225568'
 longitude: '-71.4084976'
 gmap: "https://www.google.com/maps/place/146+Dyer+St,+Providence,+RI+02903/@41.8225568,-71.4084976,19z/data=!3m1!4b1!4m5!3m4!1s0x89e44515c780a763:0x77a65f444d3d9162!8m2!3d41.8225558!4d-71.4079504"
@@ -62,6 +61,18 @@ images:
   - url: quay-jh-2021-02-03.jpg
     caption: 'Photo of the substation behind the Duncan Warehouse'
     sizes: '1200, 900'
+  - url: substation-jh-2025-06-01.jpg
+    caption: 'Substation, built circa 1920, during demolition in 2025'
+    sizes: '1440, 900'
+  - url: substation-jh-2025-06-02.jpg
+    caption: 'Substation, built circa 1920, during demolition in 2025'
+    sizes: '1440, 900'
+  - url: substation-jh-2025-06-03.jpg
+    caption: 'Substation, built circa 1920, during demolition in 2025'
+    sizes: '1440, 900'
+  - url: substation-jh-2025-06-04.jpg
+    caption: 'Substation, built circa 1920, during demolition in 2025'
+    sizes: '1200, 900'
   - url: quay-map-1889-01.jpg
     caption: 'Sanborn Insurance Map from 1889, collection of Brown University'
     sizes: '1200, 750'
@@ -72,7 +83,7 @@ images:
     caption: 'G.M. Hopkins Insurance Map from 1937, Historic Map Works'
     sizes: '1200, 750'
 
-mostrecentimage: 2021-02-01
+mostrecentimage: 2025-06-01
 
 imagescredit: 'Contributions from cadastral insurance maps — <a href="https://repository.library.brown.edu/studio/item/bdr:213555/">1889 Sanborn Map</a>, <a href="https://repository.library.brown.edu/studio/item/bdr:213588/">1899 Sanborn Map</a>. and <a href="https://www.historicmapworks.com/Map/US/895458/Plate+001/Providence+1937/Rhode+Island/">1937 G.M. Hopkins Map</a>'
 
@@ -94,7 +105,9 @@ As part of the clean up, the broken windows were removed along the street edge a
 
 ### Current Events
 
-The building has been owned by Narragansett Electric since about 1899. The rear building was built as a substation in about 1920. In 2003, the main building was cleaned out and reinforced. It is our understanding that the main front building is not being used as a battery or substation any longer.
+The building has been owned by Narragansett Electric since about 1899. In 2003, this building was cleaned out and reinforced. It is our understanding that the front building is not being used as a battery or substation any longer.
+
+The building at rear, built circa 1920, was a substation owned by the Narragansett Electric Company. In 2025 it was demolished.
 
 
 ### History
@@ -110,6 +123,8 @@ The [1899 map](#photo-quay-map-1899-01) labels it as the “Narragansett Electri
 The [1937 map](#photo-quay-map-1937-01) labels the front building and new rear building as “Narragansett Electric Company” with battery storage to the north and a generator station to the south.[^3]
 
 [^3]: 1937 G.M. Hopkins Insurance Map, Historic Map Works, captured February 18 from http:////www.historicmapworks.com/Map/US/895458/Plate+001/Providence+1937/Rhode+Island/
+
+***
 
 _From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 
