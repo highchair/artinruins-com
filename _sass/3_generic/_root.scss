@@ -3,7 +3,9 @@ $base-max: math.div(18, 16);
 $base-sm: math.div(14, 16);
 
 :root {
-  
+
+  interpolate-size: allow-keywords;
+
   // Fluid Type sizes
   --vp__min: #{$min-vw};
   --vp__max: #{$max-vw};

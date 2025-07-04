@@ -9,4 +9,19 @@ details {
       outline-offset: 2px;
     }
   }
+
+  // New features available only in Chromium
+  // from https://jakearchibald.com/2025/give-footnotes-the-boot/#a-details-section
+  &::details-content {
+    height: 0;
+    overflow: clip;
+    display: flow-root;
+    transition:
+      height 500ms ease,
+      content-visibility 500ms ease allow-discrete;
+  }
+
+  &[open]::details-content {
+    height: auto;
+  }
 }
