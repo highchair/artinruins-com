@@ -58,6 +58,10 @@ images:
     sizes: '1600, 900'
   - url: quay-jh-2021-02-02.jpg
     sizes: '1200, 900'
+  - url: quay-jh-2025-06-01.jpg
+    sizes: '1440, 900'
+  - url: quay-jh-2025-06-02.jpg
+    sizes: '1200, 900'
   - url: quay-jh-2021-02-03.jpg
     caption: 'Photo of the substation behind the Duncan Warehouse'
     sizes: '1200, 900'
@@ -72,6 +76,8 @@ images:
     sizes: '1440, 900'
   - url: substation-jh-2025-06-04.jpg
     caption: 'Substation, built circa 1920, during demolition in 2025'
+    sizes: '1200, 900'
+  - url: substation-jh-2025-06-05.jpg
     sizes: '1200, 900'
   - url: quay-map-1889-01.jpg
     caption: 'Sanborn Insurance Map from 1889, collection of Brown University'
