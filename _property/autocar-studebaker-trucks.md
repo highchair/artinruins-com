@@ -2,7 +2,9 @@
 title: "Autocar & Studebaker Trucks"
 slug: autocar-studebaker-trucks
 aka: 'National Office Furniture'
-date-modified: 2023-05-16 12:00
+date-modified: 2025-07-03 14:00
+update: 'Added images of the recent renovations and exterior painting from Chloé Hurley'
+update-image: studebaker-ch-2025-06-01.jpg
 
 built: 'circa 1930'
 demolition:
@@ -13,7 +15,7 @@ date-added: '2023'
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: [ 'Art Deco', 'Yellow brick' ]
@@ -49,13 +51,24 @@ images:
     sizes: '1200, 900'
   - url: studebaker-jh-2020-02-06.jpg
     sizes: '1440, 900'
+  - url: studebaker-ch-2025-06-01.jpg
+    sizes: '1440, 900'
+    caption: 'Photo by Chloé Hurley'
+  - url: studebaker-ch-2025-06-02.jpg
+    sizes: '1200, 900'
+    caption: 'Photo by Chloé Hurley'
+  - url: studebaker-jh-2025-06-01.jpg
+    sizes: '1200, 900'
+  - url: studebaker-ch-2025-06-03.jpg
+    sizes: '1440, 900'
+    caption: 'Photo by Chloé Hurley'
   - url: 1951-sanborn-vol2-p77-01.jpg
     caption: '1920–1951 Sanborn Insurance Map, Volume 2, plate 77 — Library of Congress, Maps Division'
     sizes: '1440, 900'
 
-mostrecentimage: 2021-07-01
+mostrecentimage: 2025-07-01
 
-imagescredit: 'Contribution from the Library of Congress'
+imagescredit: 'Contribution from the Library of Congress and Chloé Hurley'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

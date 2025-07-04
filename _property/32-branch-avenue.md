@@ -2,7 +2,7 @@
 title: "Washington Laundry"
 slug: 32-branch-avenue
 aka:
-date-modified: 2021-02-18 12:00
+date-modified: 2025-07-03 15:00
 
 built: 'circa 1930'
 demolition: 
@@ -43,13 +43,15 @@ images:
     sizes: '1440, 900'
   - url: 32-branch-2004-04-05.jpg
     sizes: '1440, 900'
+  - url: 32-branch-jh-2025-06-01.jpg
+    sizes: '1200, 900'
   - url: 32-branch-gmhopkins-1937-01.jpg
     caption: '1937 G.M. Hopkins Insurance Map — Secretary of State Digital Collections'
     sizes: '1440, 900'
 
 imagescredit: 'Contribution by <a href="https://sosri.access.preservica.com/uncategorized/IO_d13a72a1-f876-4bf3-a099-9f19e0632a9a/">Secretary of State Digital Collections</a>'
 
-mostrecentimage: 2004-04-01
+mostrecentimage: 2025-07-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
