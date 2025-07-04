@@ -62,17 +62,17 @@ imagescredit:
 
 ### Proposal
 
-This one flew under the radar right before COVID hit. There were some other things happening around Thayer Street at the time that garnered more attention, like [plans for a hotel on the corner of Brook and Angell](//www.golocalprov.com/business/angell-street-hotel-is-anything-but-smart-architecture-critic-will-morgan){:target="_blank"}, not far from this development. So this project happened before we were really aware of it. 
+This one flew under the radar right before COVID hit. There were some other things happening around Thayer Street at the time that garnered more attention, like [plans for a hotel on the corner of Brook and Angell](https://www.golocalprov.com/business/angell-street-hotel-is-anything-but-smart-architecture-critic-will-morgan), not far from this development. So this project happened before we were really aware of it.
 
-The Providence Preservation Society did put out a notice about it in [their newsletter from January 2020](//myemail.constantcontact.com/January-Advocacy-Alert--Our-Streets-PVD--CPC--Advocacy-Week.html?soid=1102165220207&aid=-AahbwFvxJo){:target="_blank"}:
+The Providence Preservation Society did put out a notice about it in [their newsletter from January 2020](https://myemail.constantcontact.com/January-Advocacy-Alert--Our-Streets-PVD--CPC--Advocacy-Week.html?soid=1102165220207&aid=-AahbwFvxJo):
 
-> By-right demolition is proposed for the 1896 Dewey F. Adams Colonial Revival house at the corner of Brook and Euclid for mixed-use commercial and residential construction. This house contributes to the College Hill National Landmark Historic District, but is not within a local historic district — therefore demolition and design review are not required. The developer, who is seeking several waivers, last year demolished 15 Euclid Avenue. 
+> By-right demolition is proposed for the 1896 Dewey F. Adams Colonial Revival house at the corner of Brook and Euclid for mixed-use commercial and residential construction. This house contributes to the College Hill National Landmark Historic District, but is not within a local historic district — therefore demolition and design review are not required. The developer, who is seeking several waivers, last year demolished 15 Euclid Avenue.
 
 {% comment %}
-PPS page about the “Smart Hotel”: //web.archive.org/web/20200609102848/http://ppsri.org/advocacy/current-advocacy/smart-hotel-project/
+PPS page about the “Smart Hotel”: https://web.archive.org/web/20200609102848/http://ppsri.org/advocacy/current-advocacy/smart-hotel-project/
 {% endcomment %}
 
-[This project replaced two houses with parking in between](//www.google.com/maps/place/21+Euclid+Ave,+Providence,+RI+02906/@41.8287285,-71.399686,3a,90y,211.83h,92.64t/data=!3m7!1e1!3m5!1s5Lga-cIHyvwc38PJd7AxKg!2e0!5s20170901T000000!7i13312!8i6656!4m13!1m7!3m6!1s0x89e445249e6eca93:0x6ceff37cc15832da!2s21+Euclid+Ave,+Providence,+RI+02906!3b1!8m2!3d41.8285627!4d-71.3998545!3m4!1s0x89e445249e6eca93:0x6ceff37cc15832da!8m2!3d41.8285627!4d-71.3998545){:target="_blank"} for more density and no parking. In some ways, it is a win — more density is a good thing and most students don’t have or need cars, so housing without the need to clear more livable area for parking is great. The downside is the continued [erosion of a historic district]({% link _essays/erosion-of-college-hill-historic-district.md %}). This project was riding the wave of projects that had come before and set a precedent of demolition. 
+[This project replaced two houses with parking in between](https://www.google.com/maps/place/21+Euclid+Ave,+Providence,+RI+02906/@41.8287285,-71.399686,3a,90y,211.83h,92.64t/data=!3m7!1e1!3m5!1s5Lga-cIHyvwc38PJd7AxKg!2e0!5s20170901T000000!7i13312!8i6656!4m13!1m7!3m6!1s0x89e445249e6eca93:0x6ceff37cc15832da!2s21+Euclid+Ave,+Providence,+RI+02906!3b1!8m2!3d41.8285627!4d-71.3998545!3m4!1s0x89e445249e6eca93:0x6ceff37cc15832da!8m2!3d41.8285627!4d-71.3998545) for more density and no parking. In some ways, it is a win — more density is a good thing and most students don’t have or need cars, so housing without the need to clear more livable area for parking is great. The downside is the continued [erosion of a historic district]({% link _essays/erosion-of-college-hill-historic-district.md %}). This project was riding the wave of projects that had come before and set a precedent of demolition.
 
 Details about the new project build from the Michie Design & Build website: 
 
@@ -80,7 +80,7 @@ Details about the new project build from the Michie Design & Build website:
 
 [^1]: “Brown Residential.” Michie Design & Build website, captured October 29, 2022 from https://www.michiedesigns.com/brown-residential
 
-According to the [College Hill Properties website](//college-hill.com){:target="_blank"}, the building contains several units of three, four, and five bedrooms and at least 2 bathrooms. The rentals are clearly for the student population. In the ground floor space as of the fall of 2022, **Ceremony**, an independently owned café and tea house, was tenant. They had moved from the corner of Angell and Thayer street (the former Tealuxe space) around 2020. 
+According to the [College Hill Properties website](https://college-hill.com), the building contains several units of three, four, and five bedrooms and at least 2 bathrooms. The rentals are clearly for the student population. In the ground floor space as of the fall of 2022, **Ceremony**, an independently owned café and tea house, was tenant. They had moved from the corner of Angell and Thayer street (the former Tealuxe space) around 2020.
 
 
 ### Design Reception
@@ -98,10 +98,10 @@ All that said, the neighborhood it is a part of is not the historic neighborhood
 
 We don’t normally include the history of the buildings that this newer one replaced, but we also have not captured photos of those houses, so we are unlikely to have a separate page about them. 
 
-+ 1908 L.J. Richards Map, plate 7 (private collection) — Both houses are present and the lot between them, at what would be 17 Euclid, is empty. It seems odd that a lot large enough for a home in this neighborhood went so long without one. 
-+ [1920–1921 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (page 20) — Both houses are present, though 410 Brook is smaller without an addition on the eastern face (same as in 1908)
-+ [1920–1951 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (page 20) — A two-story addition has been added to 410 Brook
-+ [1920–1956 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602){:target="_blank"}  (page 14) — Same configuration
++ 1908 L.J. Richards Map, plate 7 (private collection) — Both houses are present and the lot between them, at what would be 17 Euclid, is empty. It seems odd that a lot large enough for a home in this neighborhood went so long without one.
++ [1920–1921 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102) (page 20) — Both houses are present, though 410 Brook is smaller without an addition on the eastern face (same as in 1908)
++ [1920–1951 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102) (page 20) — A two-story addition has been added to 410 Brook
++ [1920–1956 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602)  (page 14) — Same configuration
 
 ***
 
@@ -109,4 +109,4 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 
 15 Euclid Avenue — After 1895. Colonial Revival; 2-1/2 stories; hip; shingle; central porch ha paired Doric columns and Ionic pilasters with elliptical window above; scroll neck pediments on 1st floor front windows; Doric side porch with round headed window in stairhall above; wide entablature; dormers with shell casting in pediment.
 
-406 Brook Street — **Dewey F. Adams House**, 1896. Colonial Revival; 2-1/2 stories; clapboard; gambrel roof; 2 pedimented dormers flank colossal Doric entrance portico. 
+406 Brook Street — **Dewey F. Adams House**, 1896. Colonial Revival; 2-1/2 stories; clapboard; gambrel roof; 2 pedimented dormers flank colossal Doric entrance portico.
