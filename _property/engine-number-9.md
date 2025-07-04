@@ -2,8 +2,9 @@
 title: "Engine No. 9"
 slug: engine-number-9
 aka:  'Providence Fire Department Engine #7'
-date-modified: 2022-03-06 12:00
-update: 'Added history submitted by Harry Cohoon from “Fire and Firefighters in Providence”'
+date-modified: 2025-07-03 15:00
+update: 'Added new photos from Chloé Hurley'
+update-image: engine-nine-ch-2025-06-01.jpg
 
 built: '1856'
 demolition: 
@@ -13,7 +14,7 @@ date-added: '2003'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Broadway-Armory Historic District', 'PPS/AIA Industrial Commercial Buildings Survey', 'National Register of Historic Places' ]
 tags: [ 'Fire Stations' ]
 
@@ -42,10 +43,16 @@ images:
     sizes: '1200, 900'
   - url: engine-nine-jh-2007-11-03.jpg
     sizes: '768, 924'
+  - url: engine-nine-ch-2025-06-01.jpg
+    sizes: '1200, 900'
+    caption: 'Photo by Chloé Hurley'
+  - url: engine-nine-ch-2025-06-02.jpg
+    sizes: '1200, 900'
+    caption: 'Photo by Chloé Hurley'
 
-mostrecentimage: 2007-11-01
+mostrecentimage: 2025-06-01
 
-imagescredit: 
+imagescredit: 'Contributions from Chloé Hurley'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

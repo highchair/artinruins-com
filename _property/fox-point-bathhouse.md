@@ -2,7 +2,9 @@
 title: "Fox Point Bathhouse"
 slug: fox-point-bathhouse
 aka: 
-date-modified: 2020-12-12 12:00
+date-modified: 2025-07-03 16:00
+update: 'Added new photos from Chloé Hurley'
+update-image: bathhouse-ch-2025-06-03.jpg
 
 built: '1926'
 demolition: '1920-1929'
@@ -12,7 +14,7 @@ date-added: '2003'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'PPS Ten Most Endangered' ]
 tags: []
 
@@ -63,10 +65,22 @@ images:
     sizes: '1200, 900'
   - url: bathhouse-gil-unknown-04.jpg
     sizes: '1200, 900'
+  - url: bathhouse-ch-2025-06-01.jpg
+    sizes: '1200, 900'
+    caption: 'Photo by Chloé Hurley'
+  - url: bathhouse-ch-2025-06-02.jpg
+    sizes: '1024, 1024'
+    caption: 'Photo by Chloé Hurley'
+  - url: bathhouse-ch-2025-06-03.jpg
+    sizes: '1200, 900'
+    caption: 'Photo by Chloé Hurley'
+  - url: bathhouse-ch-2025-06-04.jpg
+    sizes: '1200, 900'
+    caption: 'Photo by Chloé Hurley'
 
-mostrecentimage: 2003-11-01
+mostrecentimage: 2025-06-01
 
-imagescredit: 'Interior before photos by Gilbane Construction'
+imagescredit: 'Interior before photos by Gilbane Construction, contributions from Chloé Hurley'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
