@@ -2,9 +2,9 @@
 title: "Broadway, #189"
 slug: 189-broadway
 aka: 'Tally’s Religious Gifts and Church Supplies, Gather RI'
-date-modified: 2025-05-017 12:00
+date-modified: 2025-07-03 12:00
 update: 'Added a recent photo of the construction progress'
-update-image: 189-broadway-jh-2025-05-01.jpg
+update-image: 189-broadway-jh-2025-07-01.jpg
 prop-number: 415
 
 built: 'Circa 1968'
@@ -58,8 +58,10 @@ images:
     sizes: '1440, 900'
   - url: 189-broadway-jh-2025-05-01.jpg
     sizes: '1440, 900'
+  - url: 189-broadway-jh-2025-07-01.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2025-05-01
+mostrecentimage: 2025-07-01
 
 imagescredit: 'Providence Public Library, PPS Architectural Slides Collection, and CBH Architect LLC'
 
