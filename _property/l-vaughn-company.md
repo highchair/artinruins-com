@@ -2,9 +2,9 @@
 title: "L. Vaughn & Company"
 slug: l-vaughn-company
 aka: 'Grimwood & Company Lumber Yard, Stanton & Farnum Marble Works'
-date-modified: 2024-10-20 12:00
-update: 'Added post-fire photos of the former warehouse. Partial demolition of a 195%+ building will occur.'
-update-image: 2024-10-15-John-O-Leary-01.jpg
+date-modified: 2025-07-03 13:00
+update: 'Added post-fire photos of the former warehouse'
+update-image: l-vaughn-jh-2025-07-04.jpg
 
 built: 'circa 1890'
 demolition: 'partial 2024'
@@ -107,6 +107,14 @@ images:
     sizes: '1200, 900'
   - url: l-vaughn-jh-2024-10-08.jpg
     sizes: '1440, 900'
+  - url: l-vaughn-jh-2025-07-01.jpg
+    sizes: '1440, 900'
+  - url: l-vaughn-jh-2025-07-02.jpg
+    sizes: '1440, 900'
+  - url: l-vaughn-jh-2025-07-03.jpg
+    sizes: '1200, 900'
+  - url: l-vaughn-jh-2025-07-04.jpg
+    sizes: '1200, 900'
   - url: l-vaughn-sanborn-1889-01.jpg
     caption: 'Sanborn Insurance Map, 1889, sheet 23 — Courtesy Online Digital Sanborn Maps via ProQuest and the Providence Public Library. Highlighted on the right is the former M.N. Cartier building, now demolished. This map shows buildings that may not be the present building on the site.'
     sizes: '1600, 1200'
@@ -125,7 +133,7 @@ images:
 
 imagescredit: 'Contributions by the Online Digital Sanborn Maps via ProQuest and the Providence Public Library, Google Streetview, and John O’Leary'
 
-mostrecentimage: 2024-10-01
+mostrecentimage: 2025-07-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
