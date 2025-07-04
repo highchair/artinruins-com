@@ -1,7 +1,7 @@
 ---
 title: "Golden Ball Inn"
 slug: golden-ball-inn
-aka: 'Daggett’s Tavern, Roger Williams Hotel, Alpheus Ammadon’s Inn, Globe Tavern, Mansion House Hotel'
+aka: 'George R. Earle Building, Daggett’s Tavern, Roger Williams Hotel, Alpheus Ammadon’s Inn, Globe Tavern, Mansion House Hotel'
 date-modified: 2024-05-12 13:00
 
 built: '1784-1785'
@@ -108,6 +108,8 @@ The area where the main buildings once stood have been an undeveloped parking lo
 
 [Photo of the parking lot from 1990](https://www.flickr.com/photos/cthulhuwho1/3828024244/in/photostream/) shows a lack of retaining wall at the rear. Photographer Will Hart also documents this locations place in the history of Edgar Allen Poe and H.P. Lovecraft.
 
+The Providence Preservation Society’s [Guide to Providence Architecture](https://guide.ppsri.org/) lists this property under the name [George R. Earle Building](https://guide.ppsri.org/property/george-r-earle-building).
+
 ***
 
 _Context from “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
@@ -123,6 +125,7 @@ _The description of 17–23 South Court Street_: **Golden Ball Inn Ell** 1784 et
 ***
 
 _From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
+
 17-23 South Court Street — **Golden Ball Inn (rear)**, 1785. Federal; 2-1/2 stories; flank gable; clapboard; rear L of Inn set on sloping site with entrances in basement; bay window above door to #17; fine Queen Anne porches across rear.
 
 ***
