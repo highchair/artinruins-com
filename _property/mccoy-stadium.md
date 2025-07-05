@@ -12,7 +12,7 @@ redeveloped: '1998, 1999'
 units:
 decade: '1930-1939'
 date-added: '2023'
-categories: [ '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: [ 'John F. O’Malley' ]
@@ -95,7 +95,7 @@ We’ve been to many games at the stadium with family, friends, as business outi
 We can’t say much more than what has already been said, so here are some links to people who have said it better:
 
 + An interesting dive into the history of a colorful major, [Mayor Thomas P McCoy (the “Price of Pawtucket”) and the Building of McCoy Stadium (“McCoy’s Folly”)](http://smallstatebighistory.com/mayor-thomas-p-mccoy-the-prince-of-pawtucket-and-the-building-of-mccoy-stadium-mccoys-folly/), by Dan Barry, hosted at Small State Big History
-+ [The Worcester Red Sox and the Problem of History](//tht.fangraphs.com/baseball-in-the-rustbelt-the-loss-of-the-pawtucket-red-sox/), by Matt Ellis, hosted at The Hardball Times
++ [The Worcester Red Sox and the Problem of History](https://tht.fangraphs.com/baseball-in-the-rustbelt-the-loss-of-the-pawtucket-red-sox/), by Matt Ellis, hosted at The Hardball Times
 + [Abandoned From Above: McCoy Stadium](https://www.youtube.com/watch?v=JSNbH5n_Qj4), by Jason Allard. Video available on YouTube (see below)
 
 {% include video-embed.html id='JSNbH5n_Qj4' %}
