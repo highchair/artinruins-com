@@ -1,10 +1,12 @@
 ArtInRuins
 ==========
 
-View the production site: [ArtInRuins](//artinruins.com)
+View the production site: [ArtInRuins](https://artinruins.com)
 
-Locally generated static HTML site built via [Jekyll](//jekyllrb.com/) with
-[SASS](//sass-lang.com/) and [Autoprefixer](//github.com/vwochnik/jekyll-autoprefixer).
+Locally generated static HTML site built via [Jekyll](https://jekyllrb.com/) with
+[SASS](https://sass-lang.com/) and [Autoprefixer](https://github.com/vwochnik/jekyll-autoprefixer).
+
+This repository serves as the archive of data collected from various public sources, including our massive photo collection of over 7000 images. These photos are downsized for web use. A personal archive is collected and organized by J. Hogue and will be donated to a public institution upon his death.
 
 ***
 

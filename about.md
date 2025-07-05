@@ -64,10 +64,10 @@ We have been documenting the region since 2002 and collecting the histories that
 ## Press, Contributions, & Awards
 + Interview: _Secret Mall Apartment_, Jeremy Workman (Director) & Jesse Eisenberg (Exec. Producer), 2024
 + Award: _Antoinette F. Downing Volunteer Award_, Rhody Awards for Historic Preservation, 2023
-+ Presentation: _ArtInRuins: Our History, significant Saves, significant Losses, and the Future_, for the East Greenwich Historic Preservation Society, April 2023. [Archived on YouTube](//www.youtube.com/watch?v=ELvzJEn1dE0){:target="_blank"}
++ Presentation: _ArtInRuins: Our History, significant Saves, significant Losses, and the Future_, for the East Greenwich Historic Preservation Society, April 2023. [Archived on YouTube](https://www.youtube.com/watch?v=ELvzJEn1dE0)
 + Article: _Architectural Excavation_, **Providence Monthly**, November 2022, p11
 + Article: _Architectural Excavation_, Abbie Lahmers, **Hey Rhody**, October 2022, p14
-+ _“RIGOR MORTAR: In Conversation With J Hogue,”_ Ben Berke, **The College Hill Independent**, December 4, 2015. [www.theindy.org/753](//www.theindy.org/753){:target="_blank"}
++ _“RIGOR MORTAR: In Conversation With J Hogue,”_ Ben Berke, **The College Hill Independent**, December 4, 2015. [www.theindy.org/753](https://www.theindy.org/753)
 + Article: _Designers Come Together in Renovated mini-Arcade_, Natalie Myers, **Providence Business News**, January 2007
 + Article: _Redeveloping Memories_, Vikki Warner, **Providence Monthly**, June 2009
 + Article: Owner and designer of ArtInRuins, owner of Highchair designhaus, **Providence Business News**, Providence RI, July 2006
@@ -88,7 +88,7 @@ ArtInRuins was founded by J. Hogue, Sarah Clover, and Kathleen Griffin. Sarah co
 
 J. Hogue continues to maintain, design, and take photos for the site. Over the years, many contributors have helped collect history or photography, and we do our best to credit them on the individual property pages.
 
-We are thankful to the individuals that have purchased t-shirts, posters, and made monetary donations to the project. You have our gratitude and we will always try to acknowledge your generosity. We are also thankful to the businesses that have hired [Highchair designhaus](//highchairdesign.com) over the years for design and web development projects. In your own ways, you have been helping to sustain this project.
+We are thankful to the individuals that have purchased t-shirts, posters, and made monetary donations to the project. You have our gratitude and we will always try to acknowledge your generosity. We are also thankful to the businesses that have hired [Highchair designhaus](https://highchairdesign.com) over the years for design and web development projects. In your own ways, you have been helping to sustain this project.
 
 Need to contact someone without using our Anecdote form? Email [info@artinruins.com](mailto:info@artinruins.com) but be warned that we are not always good about returning email right away.
 {:.o__tldr }
@@ -100,7 +100,7 @@ ArtInRuins is open source software. The entire photographic collection as presen
 
 Alternatively, if you have code skills and feel comfortable in GitHub, you are welcome to submit issues, submit pull requests for updates, and/or lend us a hand with improvements.
 
-We decided to use a static site generator, [Jekyll](//jekyllrb.com){:target="_blank"}, for a few reasons:
+We decided to use a static site generator, [Jekyll](https://jekyllrb.com), for a few reasons:
 + A “static site” means that the <span class="abbr">HTML/CSS/JS</span> is built on a host computer and uploaded to the server fully rendered. It will continue to work as long as the server exists
 + No database connection is required, which means simple, inexpensive hosting
 + Because there is no database, there are no security issues or access holes

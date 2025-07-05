@@ -97,15 +97,6 @@ Built 1876, designed by James Bucklin. Demolished ??. Not many photos are availa
 **You don’t have to be a historian or photographer to contribute!** We have some ideas about to improve the functionality of the site as well. [The site is in a public Github repository](https://github.com/highchair/artinruins-com/) and it is built with Jekyll, SASS for CSS, and vanilla Javascript.
 
 
-### Click tracking
-
-The site uses a GA4 tracking code for analytics. Visitors opt out when they reject the tracking banner. Still, we internally would like to know if some features of the site get used. We’d be particularly interested in tracking:
-
-+ The Surprise Me button (property page)
-+ The previous and next buttons (property page)
-+ The Citation accordion button (property page)
-
-
 ### Interactive Map
 
 Each property has a latitude and longitude associated with it as well as a Google Maps link. We’d like to visualize categories of properties on maps. We’d like to use Open Street Maps instead of Google but that requires a map tile rendering engine service. If anyone has expertise in setting these things up, that’d be a great project to contribute.
