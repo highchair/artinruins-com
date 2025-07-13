@@ -1,6 +1,21 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: ri-auditorium
+  person: 'Bill Baker'
+  date: '2025-07-11'
+  content: 'My father took me to see the Reds vs. Montreal’s minor league team one night and some guy by the name of Ken Dryden, yeah, that Ken Dryden, was makeing his professional debut. Alton White was in the penalty box in the 3rd period in a scoreless game and when he came out, he was hit with a pass and he went in alone on a breakaway on Dryden and beat him. 1-0 was the final. The Arena went nuts. Of course, Dryden became one of the all time great goalies in NHL history. Walking up to The Arena that night, on the marquee, it said Vanilla Fudge was coming. I think I was 11 at the time, I asked my Dad who they were… he said, yeah, you won’t be seeing them!! Too funny, great times. I remember the Quebec Aces, Baltimore Clippers, Montreal Voyaguers (Dryden), and the Hershey Bears. Also Rochester Americans. Fantastic memories.'
+
+- property: memorial-hospital
+  person: 'Joan Curtiss'
+  date: '2025-07-07'
+  content: 'NOT AN ANECDOTE: FORMER PAWTUCKET RESIDENT; also a former asthma patient. NOW I NEED TO ASK HOW DO I GET MY BIRTH CERTIFICATE? Born October 21, 1938'
+
+- property: quonset-point-naval-base
+  person: 'Jeff Saunders'
+  date: '2025-07-05'
+  content: 'In 1941 my Dad, Herbert William “Sonny” Saunders was a PBY pilot stationed at Quonset Point. He was assigned to find Uboats as convoys left the USA for England. He was about to head home on Xmas leave when all leaves were suddenly cancelled on Dec 7 1941. Within 24 hours he was on a train to San Francisco and then quickly to Pearl Harbor and the South Pacific.'
+
 - property: sutton-motor-in
   person: 'Adisson Adisson'
   date: '2025-06-12'
