@@ -16,7 +16,7 @@ categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Adam C. Wagner' ]
-people: []
+people: [] # James Hanley
 lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey' ]
 tags: [ 'Ghost Signs' ]
 
@@ -119,3 +119,8 @@ _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS a
 The American Brewing Company Building stands three stories in height with both a one-story and a two-story addition to the rear. The main block of the brick building is trimmed in stone and embellished with brick corbeling at the cornice and top story. Projecting brick piers articulate each bay and windows are set within round-arch openings. The building is further articulated with crenellation and a stone stringcourse. A painted sign bearing the words “Capital Records Management” is prominently located below the cornice. The building's main entrance is offset on its façade (south elevation) within a recessed opening set within a tall, round-arch entrance. A secondary pedestrian entrance is located on the east elevation and features a metal-and-glass door set within a recessed opening. Four vehicular entrances with roll top doors are located on the east elevation. A paved lot bordered by a chain link fence is located to the east.
 
 The building was constructed in the late nineteenth century possibly for the **American Brewing Company**, who purchased the property in 1892. The building was then purchased by the **Providence Brewing Company** in 1897. The building appears on the 1937 map as the **Providence Storage Warehouse** along with two outbuildings. The warehouse was owned and operated by Herbert and Raymond Green and was later known as the **Green Storage Warehouse**. Green Warehouse appears in the 1950 directory and is identified as the occupant on the 1983 Sanborn map. **Capitol Records Management Center** currently occupies the building.
+
+
+#### Additional Links
+
++ [Rhode Tour: American Brewing Company & Providence Brewing Company](https://rhodetour.org/items/show/223)

@@ -32,8 +32,11 @@ excerpt: "A small, unassuming but nicely detailed brick firehouse from the mid-1
 thumbnail: engine-nine-jh-2007-11-01.jpg
 
 images:
-  - url: engine-nine-jh-2003-03-01.jpg
+  - url: engine-nine-pps-1973-01.jpg
+    caption: '1973 — PPS Architectural Slides Collection'
     alt: 'A small rectangular red brick former firehouse with central rounded arch double door entrance flanked by two smaller rounded arch windows. Two rounded arch windows are above with a simple gable roof and decorative brick corbelling along the roof edge'
+    sizes: '1440, 900'
+  - url: engine-nine-jh-2003-03-01.jpg 
     sizes: '1200, 900'
   - url: engine-nine-jh-2003-03-02.jpg
     sizes: '1200, 900'
@@ -52,7 +55,7 @@ images:
 
 mostrecentimage: 2025-06-01
 
-imagescredit: 'Contributions from Chloé Hurley'
+imagescredit: 'Contributions from the <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a> and Chloé Hurley'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
