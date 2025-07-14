@@ -53,8 +53,10 @@ images:
     sizes: '1440, 900'
   - url: tempo-tandem-jh-2025-05-05.jpg
     sizes: '1440, 900'
+  - url: tempo-tandem-jh-2025-07-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2024-08-01
+mostrecentimage: 2025-07-01
 
 imagescredit:
 
