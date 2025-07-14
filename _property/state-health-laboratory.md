@@ -1,9 +1,10 @@
 ---
 title: "Rhode Island State Laboratories"
 slug: state-health-laboratory
-aka: 'THe PVD Labs'
-date-modified: 2024-08-10 17:00
-update: 2024-08-10 17:00
+aka: 'The PVD Labs'
+date-modified: 2025-07-13 14:00
+update: 'Added new images of the almost-complete construction'
+update-image: 
 
 built: '2023-2025'
 parcel: '3 of 25'
@@ -30,7 +31,7 @@ street-number: 150
 meta: ""
 excerpt: "A brand-new Level 3 health laboratory will upgrade the state's health crisis reponse and research capabilities"
 
-thumbnail: hok-rendering.webp
+thumbnail: health-lab-jh-2025-07-05.jpg
 
 images:
   - url: health-lab-jh-2024-01-01.jpg
@@ -60,8 +61,19 @@ images:
     sizes: '1024, 1024'
   - url: health-lab-jh-2025-03-01.jpg
     sizes: '768, 924'
+  - url: health-lab-jh-2025-07-01.jpg
+    caption: 'Looking west on Clifford Street with the rear of the new health lab in the background'
+    sizes: '1440, 900'
+  - url: health-lab-jh-2025-07-02.jpg
+    sizes: '1200, 900'
+  - url: health-lab-jh-2025-07-03.jpg
+    sizes: '1200, 900'
+  - url: health-lab-jh-2025-07-04.jpg
+    sizes: '1200, 900'
+  - url: health-lab-jh-2025-07-05.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2023-03-01
+mostrecentimage: 2025-07-01
 
 imagescredit: 'Rendering by HOK Architecture'
 
