@@ -73,7 +73,7 @@ The hired rezoning consultant and the <span class="abbr">CPC</span> referenced t
 
 ### Current Events
 
-We haven’t been out there to take recent photos. There are no news stories about this address in the past four years, and Google Streetview shows a little but of graffiti clean up along with an accessibility ramp, but the daycare does not look open for business. The Love 4 All website does not list this address as a location, nor does Google Business.
+We haven’t been out there to take recent photos. There are no news stories about this address in the past four years, and Google Streetview shows a little bit of graffiti clean up along with an accessibility ramp, but the daycare does not look open for business. The Love 4 All website does not list this address as a location, nor does Google Business.
 
 
 ### History

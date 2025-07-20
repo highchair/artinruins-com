@@ -30,8 +30,11 @@ excerpt: "A huge turn-of-the-century brick barn for trolleys that was later used
 thumbnail: trolley-barn-jh-2004-02-15.jpg
 
 images:
+  - url: trolley-barn-rirailroad-undated.jpg
+    alt: 'A very large, open, airplane-hangar type of space built at the turn of the 20th century. A red brick barn-like gable ended building with central cross gabel and monitor roof. Two levels are contained inside along the outside retaining walls with a very high interior space between.'
+    caption: 'Uncredited image from Rhode Island Railroads, captioned “Cranston repair shops when new in 1901”'
+    sizes: '730, 384'
   - url: trolley-barn-sc-2002-08-01.jpg
-    alt: 'A very large, open, airplace-hangar type of space built at the turn of the 20th century. A red brick barn-like gable ended building with central cross gabel and monitor roof. Two levels are contained inside along the outside retaining walls with a very high interior space between.'
     sizes: '640, 400'
   - url: trolley-barn-sc-2002-08-02.jpg
     sizes: '640, 480'
@@ -134,7 +137,7 @@ images:
   - url: trolley-barn-jh-2005-06-10.jpg
     sizes: '1440, 900'
 
-imagescredit: Contributions by Sarah Clover, AJM, & Greg Fortin
+imagescredit: 'Contributions by <a href="https://sites.google.com/site/rhodeislandrailroads/home/east-providence-south/east-providence-north/pwb-route/trolley-3">Rhode Island Railroads</a>, Sarah Clover, AJM, & Greg Fortin'
 ---
 
 ### Reason for Demolition
@@ -181,7 +184,7 @@ In early 2024, after being vacant for almost 20 years, construction started on a
 
 National Register Eligible, never listed.
 
-_From “Rhode Island Freight Rail Improvement Project: Final Environmental Impact Staement”, January 1998 (Google Books)_
+_From “Rhode Island Freight Rail Improvement Project: Final Environmental Impact Statement”, January 1998 (Google Books)_
 
 This large, two and one half story brick building was built in 1900 by the United Traction Company to house and repair its streetcars. Narragansett Brewery purchased the building in 1918 for use as a warehouse. […] The building has been determined eligible for listing in the National Register of Historic Places (DMJM/Harris 1993) through consensus between the FRA and the RISHPO. […] The United Traction property is 6.91 acres in area.
 
