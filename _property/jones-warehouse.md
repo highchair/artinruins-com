@@ -17,14 +17,14 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Gould, Angell & Swift' ]
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey', 'National Register of Historic Places' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'National Register of Historic Places' ]
 tags: [ 'Ghost Signs', 'The Superlatives' ]
 superlative: 'The earliest buildings erected specifically for the storage of household goods, at least, in the City, but perhaps anywhere'
 
 NRHP-ref-number: '80000099 (individual)'
 added-to-NRHP: 'January 1980'
 
-address: '59 Central Street, Providence RI'
+address: '59 Central St, Providence RI'
 latitude: '41.8139447'
 longitude: '-71.4236924'
 gmap: "https://www.google.com/maps/place/Jones+Moving+and+Storage/@41.8139447,-71.4236924,19z/data=!4m13!1m7!3m6!1s0x89e44570da23ec5f:0xb5be28ecd77c974d!2s49+Central+St,+Providence,+RI+02907!3b1!8m2!3d41.8139447!4d-71.4231452!3m4!1s0x89e44570d93ad17f:0xc82ba5b7f1150e76!8m2!3d41.813867!4d-71.4228614"

@@ -15,7 +15,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Saccoccio & Associates' ]
 people: []
-lists: [ 'National Register of Historic Places', 'Pine Street Historic District', 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'National Register of Historic Places', 'Pine Street Historic District', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: []
 
 NRHP-ref-number: '78000005 (contributing)'

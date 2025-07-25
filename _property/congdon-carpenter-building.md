@@ -15,14 +15,14 @@ neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'Joseph Congdon', 'Francis Wood Carpenter' ]
-lists: [ 'HABS HAER', 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'HABS HAER', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Library of Congress', 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'The second oldest industrial building in the state of Rhode Island, and the oldest in Providence'
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '3 Steeple Street, Providence RI'
+address: '3 Steeple St, Providence RI'
 latitude: '41.8273357'
 longitude: '-71.4119574'
 gmap: "https://www.google.com/maps/place/3+Steeple+St,+Providence,+RI+02903/@41.8273357,-71.4119574,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445170e771bcd:0xf72c047b5affdbd5!8m2!3d41.8273357!4d-71.4097687"

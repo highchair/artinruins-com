@@ -18,7 +18,7 @@ neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: []
 people: []
-lists: [ 'College Hill Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978',  'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [ 'College Hill Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978',  'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Bars, Businesses, & Restaurants', 'David Lawlor', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '70000019 (contributing)'

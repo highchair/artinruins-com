@@ -15,7 +15,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Armory Revival Company', 'DBVW Architects' ]
 people: [ 'Spencer P. Read', 'Frank Gilbreth' ]
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981', 'National Register of Historic Places' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981', 'National Register of Historic Places' ]
 tags: [ 'Apartments for Rent', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '80000001 (individual)'
@@ -76,7 +76,7 @@ images:
   - url: new-england-butt-jh-2006-04-09.jpg
     sizes: '1200, 900'
 
-imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/islandora%3A5054">John Hutchins Cady Research Scrapbooks Collection</a> and Sarah Clover'
+imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/VM011_03_02_322">John Hutchins Cady Research Scrapbooks Collection</a> and Sarah Clover'
 
 mostrecentimage: 2006-04-01
 
@@ -98,12 +98,12 @@ About 44,000 sf of the complex — mostly a one story, less historically signifi
 
 ### Current Events
 
-[Pearl Street Lofts](http://armorymanagement.com/pearl-street-lofts/) occasionally has units for sale or for rent and is managed through the Armory Management Company. Sister properties include Rising Sun Mills, AlCo, the Plant, and Calendar Mills, all along Valley Street.
+[Pearl Street Lofts](https://armorymanagement.com/pearl-street-lofts/) occasionally has units for sale or for rent and is managed through the Armory Management Company. Sister properties include Rising Sun Mills, AlCo, the Plant, and Calendar Mills, all along Valley Street.
 
 
 ### History
 
-We are intrigued by what looks like [a new podcast coming all about the history of the New England Butt Company](http://www.nebuttco.com).
+We are intrigued by what looks like [a new podcast coming all about the history of the New England Butt Company](https://www.nebuttco.com).
 {:.o__tldr}
 
 ***

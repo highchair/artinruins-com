@@ -17,7 +17,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Adam C. Wagner' ]
 people: [] # James Hanley
-lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Ghost Signs' ]
 
 NRHP-ref-number: '16000395 (individual)'

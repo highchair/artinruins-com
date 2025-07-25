@@ -16,7 +16,7 @@ neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978',  'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: []
 
 NRHP-ref-number:

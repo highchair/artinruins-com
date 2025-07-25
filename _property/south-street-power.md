@@ -16,7 +16,7 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Jenks and Ballou Architects', 'DBVW Architects' ]
 people: [ 'Edward Goff', 'Marsden J. Perry' ]
-lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
+lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
 tags: [ 'The Superlatives', 'Former/Current Power Plant', 'LEED in RI', 'Providence Public Library Digital Collections' ]
 superlative: 'This power plant once boasted the largest steam engine in the world, weighing more than 500 tons'
 
@@ -129,7 +129,7 @@ images:
 
 mostrecentimage: 2025-06-01
 
-imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A12111">circa 1956</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A10776">circa 1962-1</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A10452">circa 1962-2</a>) at the Providence Public Library, Robert Guiliani and Matthew Kierstead for National Register nomination forms'
+imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="https://provlibdigital.org/islandora/object/VM013_WC0377_1">circa 1956</a>, <a href="https://provlibdigital.org/islandora/object/VM013_GF3277">circa 1962</a>) at the Providence Public Library, Robert Guiliani and Matthew Kierstead for National Register nomination forms'
 
 external:
   - source: 'RI Photo Survey Instagram'

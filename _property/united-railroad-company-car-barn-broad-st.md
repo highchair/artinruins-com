@@ -18,7 +18,7 @@ neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: []
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Progress', 'Providence Public Library Digital Collections', 'Train Stations' ]
 
 NRHP-ref-number:
@@ -51,22 +51,28 @@ images:
     caption: 'Streetview capture of the western portion that was demolished in 2022 — Google Streetview October 2018'
     sizes: '1440, 900'
   - url: united-railroad-jh-2025-07-01.jpg
+    caption: 'View looking east towards the remaining wall of the second eastern-most half of the remaining car barn'
     sizes: '1440, 900'
   - url: united-railroad-jh-2025-07-02.jpg
+    caption: 'A portion of the interior walls have been kept as support buttresses for the remaining building'
     sizes: '1440, 900'
   - url: united-railroad-jh-2025-07-03.jpg
     sizes: '1440, 900'
   - url: united-railroad-jh-2025-07-04.jpg
+    caption: 'The former corner loading dock with sign reading “Woolworths” was kept on the southwestern corner of the remaining building'
     sizes: '1440, 900'
   - url: united-railroad-jh-2025-07-05.jpg
     sizes: '1440, 900'
   - url: united-railroad-jh-2025-07-06.jpg
+    caption: 'Note the granite sills about three feet above the sidewalk — they indicate what used to be the bottom of some enormously tall windows'
     sizes: '1440, 900'
   - url: united-railroad-jh-2025-07-07.jpg
+    caption: 'The brick corbelling along the cornice line is quite lovely'
     sizes: '1200, 900'
   - url: united-railroad-jh-2025-07-08.jpg
     sizes: '1440, 900'
   - url: united-railroad-jh-2025-07-09.jpg
+    caption: 'Looking west at the eastern wall containing seven total garage door openings'
     sizes: '1440, 900'
   - url: united-railroad-jh-2025-07-10.jpg
     sizes: '1200, 900'
@@ -75,6 +81,7 @@ images:
   - url: united-railroad-jh-2025-07-12.jpg
     sizes: '1440, 900'
   - url: united-railroad-jh-2025-07-13.jpg
+    caption: 'Old painted letters on this remaining wall read “150 Colfax Street”'
     sizes: '1200, 900'
   - url: 1908-lj-richards-p20.jpg
     caption: '1908 L.J. Richards Insurance Map, private collection'

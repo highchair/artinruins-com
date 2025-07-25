@@ -16,7 +16,7 @@ neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'Stillman White' ]
-lists: [ 'Moshassuck Square Historic District', 'HABS HAER', 'PPS/AIA Industrial Commercial Buildings Survey', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
+lists: [ 'Moshassuck Square Historic District', 'HABS HAER', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Flatiron style', 'Chet Smolski image collection' ]
 
 NRHP-ref-number: '709380013 (contributing)'

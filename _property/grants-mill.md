@@ -14,7 +14,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Broadway-Armory Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [ 'Broadway-Armory Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Apartments for Rent' ]
 
 NRHP-ref-number: '74000047 (contributing)'

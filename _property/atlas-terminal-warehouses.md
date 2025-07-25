@@ -12,13 +12,13 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Warren and Gerrish' ]
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
 tags: [ 'Demolition by Neglect', 'Ghost Signs', 'Still an Empty Lot' ]
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '338-350 Allens Avenue, Providence RI'
+address: '338-350 Allens Ave, Providence RI'
 latitude: '41.804496'
 longitude: '-71.4021036'
 gmap: "https://www.google.com/maps/place/338+Allens+Ave,+Providence,+RI+02905/@41.804496,-71.4021036,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4455b8b7ae09b:0x27abe0c2db8253e8!8m2!3d41.804496!4d-71.3999149"

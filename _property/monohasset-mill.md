@@ -16,13 +16,13 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'James C. Bucklin' ]
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '530-532 Kinsley Street, Providence RI'
+address: '530-532 Kinsley St, Providence RI'
 latitude: '41.8266'
 longitude: '-71.4369539'
 gmap: "https://www.google.com/maps/place/532+Kinsley+Ave,+Providence,+RI+02909/@41.8266,-71.4369539,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445a17769b507:0xfa60b318bd06299b!8m2!3d41.826596!4d-71.4347652"
@@ -88,7 +88,7 @@ images:
   - url: monohasset-jh-2006-04-02.jpg
     sizes: '1200, 900'
 
-imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A10955">photo</a>) and the ProQuest Online Digital Sanborn Maps, Providence Public Library'
+imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="https://provlibdigital.org/islandora/object/VM013_WC0597">photo</a>) and the ProQuest Online Digital Sanborn Maps, Providence Public Library'
 
 mostrecentimage: 2006-04-01
 

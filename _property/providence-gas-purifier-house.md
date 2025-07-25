@@ -15,7 +15,7 @@ neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Berlin Bridge Company' ]
 
 NRHP-ref-number: '07000589 (individual)'

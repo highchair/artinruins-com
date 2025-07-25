@@ -15,7 +15,7 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Frank S. Perry' ] # Ellenzweig
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Jewelry Manufacturing Historic District', 'Providence Industrial Sites 1981', 'National Register of Historic Places' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Jewelry Manufacturing Historic District', 'Providence Industrial Sites 1981', 'National Register of Historic Places' ]
 tags: [ 'Brown University', 'Art Deco' ]
 
 NRHP-ref-number: '85003088 (contributing)'

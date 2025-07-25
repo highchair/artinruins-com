@@ -17,7 +17,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: []
 
 NRHP-ref-number:
@@ -79,7 +79,7 @@ The Providence Revolving Fund provides low cost loans to homeowners and small bu
 
 ### Current Events
 
-This building has been home to the [Providence Revolving Fund](https://revolsingfund.org) since their renovation of it in 2007–2008. A business occupies the ground floor space along Fountain Street with another, [West Side Wellness](http://www.westsidewell.com), in the rear. 
+This building has been home to the [Providence Revolving Fund](https://revolsingfund.org) since their renovation of it in 2007–2008. A business occupies the ground floor space along Fountain Street with another, [West Side Wellness](https://www.westsidewell.com), in the rear. 
 
 
 ### History

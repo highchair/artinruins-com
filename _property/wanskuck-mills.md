@@ -15,14 +15,14 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'North End' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Wanskuck Historic District' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Wanskuck Historic District' ]
 tags: [ 'Apartments for Rent', 'The Superlatives', 'Providence Public Library Digital Collections' ]
 superlative: 'In 1883 this was the first mill in Rhode Island to be lit by electricity'
 
 NRHP-ref-number: '83003867 (contributing)'
 added-to-NRHP: '1981'
 
-address: '715 Branch Avenue, Providence, RI'
+address: '715 Branch Ave, Providence, RI'
 latitude: '41.8539239'
 longitude: '71.4316033'
 gmap: "https://www.google.com/maps/place/715+Branch+Ave,+Providence,+RI+02904/@41.8539239,-71.4316033,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444f62c50573b:0xe23580a989e41443!8m2!3d41.8539239!4d-71.4294146"
@@ -98,7 +98,7 @@ images:
 
 mostrecentimage: 2020-09-01
 
-imagescredit: 'Contributions by <a href="https://provlibdigital.org/islandora/object/islandora%3A4805">John Hutchins Cady Research Scrapbooks Collection</a> and the <a href="https://provlibdigital.org/islandora/object/islandora%3A14096">RI Photograph Collection</a>, Providence Public Library; and the National Register nomination photos for the Wanskuck Historic District.'
+imagescredit: 'Contributions by <a href="https://provlibdigital.org/islandora/object/VM011_03_01_120">John Hutchins Cady Research Scrapbooks Collection</a> and the <a href="https://provlibdigital.org/islandora/object/VM013_WC0602">RI Photograph Collection</a>, Providence Public Library; and the National Register nomination photos for the Wanskuck Historic District.'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -109,7 +109,7 @@ imagescredit: 'Contributions by <a href="https://provlibdigital.org/islandora/ob
 
 The large complex of brick structures has been underutilized for some time. Business have come and gone in the spaces and some with questionable neighborhood contributions as one of our photos show. Still, other businesses were on the up and up and the space was plentiful and affordable.
 
-In August 2015 federal, state and city investigators discovered more than 1,400 marijuana plants growing in at least seven converted apartments. In 2017, the former owner of the complex was jailed for the cannibis and the body of a former nightclub owner was found during construction. The former owner had ties to organized crime and the body was later part of another open mob case. All in all, it was a grizzly end to his ownership of the complex.
+In August 2015 federal, state and city investigators discovered more than 1,400 marijuana plants growing in at least seven converted apartments. In 2017, the former owner of the complex was jailed for the cannabis and the body of a former nightclub owner was found during construction. The former owner had ties to organized crime and the body was later part of another open mob case. All in all, it was a grizzly end to his ownership of the complex.
 
 Since then, a new group has assumed ownership and is converting the 300,000sf building into mostly residential space. The one-story bump-out along Branch Avenue has been removed, new windows have been added throughout, and improvements have been made to landscaping and parking. The charming smaller buildings in front of the larger mill complex have also been cleaned, reinforced, and renovated.
 

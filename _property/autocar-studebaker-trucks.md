@@ -17,7 +17,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: []
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Art Deco', 'Yellow brick' ]
 
 NRHP-ref-number:

@@ -15,7 +15,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'Phillip Allen', 'Crawford Allen', 'Zachariah Allen' ]
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:

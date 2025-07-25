@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Broadway-Armory Historic District', 'National Register of Historic Places', 'PPS Ten Most Endangered', 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'Broadway-Armory Historic District', 'National Register of Historic Places', 'PPS Ten Most Endangered', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Neglect', 'Demolition without Permit', 'Former/Current Schools', 'Still an Empty Lot' ]
 
 NRHP-ref-number: '74000047 (contributing)'
@@ -86,7 +86,6 @@ images:
     sizes: '1200, 900'
   - url: grove-school-jh-2006-04-02.jpg
     sizes: '1200, 900'
-  
 
 imagescredit: 'Contributions by Charles Hagenah Architects'
 ---

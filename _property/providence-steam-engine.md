@@ -15,7 +15,7 @@ neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [] #Ilkka T. Suvanto for Bergmeyer and Associates Inc., formerly of Scandinavian Design Inc who also designed Richmond Square
 people: [ 'Robert Park Freeman' ]
-lists: [ 'College Hill Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978',  'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [ 'College Hill Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978',  'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '70000019 (contributing)'

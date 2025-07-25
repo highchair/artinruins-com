@@ -79,7 +79,7 @@ The building is currently for sale. Lots included are 303-306 and 309.
 
 ### History
 
-Not part of the Jewelry District Historic District, not part of the PPS/AIA Industrial Commercial Buildings Survey (<span class="abbr">ICBS</span>) — very little formal history.
+Not part of the Jewelry District Historic District, not part of the PPS/RIHPHC Industrial Commercial Buildings Survey (<span class="abbr">ICBS</span>) — very little formal history.
 
 The first company to be documented as located here when the building was constructed was the John J. Carr company. The Providence House Directory and Family Address Book, 1925-1926, has a result for this company name and lists them as “baker’s supplies” at 391 Eddy Street.[^3] At 261 Eddy “Carr John J.” is also listed as “soft drinks,” raising the possibility that Mr. Carr was an entrepreneur who owned both businesses. In the 1923–1924 directory, Carr John J. & Sons bakers supplies is listed at 19 Pine Street.[^4]
 

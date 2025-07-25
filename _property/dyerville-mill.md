@@ -13,7 +13,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 people: [ 'Elisha Dyer', 'Truman Beckwith' ]
 tags: [ 'The Superlatives' ]
 superlative: 'A well-preserved example of early 19th-century industrial architecture and probably the least altered mill in Providence'

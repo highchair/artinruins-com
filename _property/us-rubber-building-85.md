@@ -15,7 +15,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'DBVW Architects', 'TRAC Builders' ]
 people: []
-lists: [ 'National Register of Historic Places',  'PPS/AIA Industrial Commercial Buildings Survey', 'U.S. Rubber Co. Mill Complex' ]
+lists: [ 'National Register of Historic Places',  'PPS/RIHPHC Industrial Commercial Buildings Survey', 'U.S. Rubber Co. Mill Complex' ]
 tags: []
 
 NRHP-ref-number: '05000917 (individual)'

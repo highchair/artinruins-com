@@ -12,7 +12,7 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'A.I.R.’s Lead Brick List', 'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
+lists: [ 'A.I.R.’s Lead Brick List', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'American Woolen Company', 'Demolition by Progress' ]
 
 address: '589 Atwells Ave, Providence RI'
@@ -137,7 +137,7 @@ mostrecentimage: 2005-01-01
 
 ### Reason for Demolition
 
-Eagle Square, [Fort Thunder](//en.wikipedia.org/wiki/Fort_Thunder){:target="_blank"}’s home from 1995–2001, was a vibrant place full of many artists and bands, as well as a  weekend flea market. In 2001, developers by the name of [Feldco](//feldcodevelopment.com/property/eagle-square-providence-ri/){:target="_blank"} approached the city to raze the complex and put in a shopping center. Their original proposal would have leveled **all** of the buildings and erected a cookie cutter Shaw’s plaza. After much protest and back and forth with different design plans, Feldco agreed to save more buildings (only 4 out of 16) and incorporate more of a mill “look.” Even with a better design that saved some of the architectural fabric of the Valley mill district, about a hundred artists were displaced because, after all, this was only every going to be a shopping center.
+Eagle Square, [Fort Thunder](https://en.wikipedia.org/wiki/Fort_Thunder)’s home from 1995–2001, was a vibrant place full of many artists and bands, as well as a  weekend flea market. In 2001, developers by the name of [Feldco](https://feldcodevelopment.com/property/eagle-square-providence-ri/) approached the city to raze the complex and put in a shopping center. Their original proposal would have leveled **all** of the buildings and erected a cookie cutter Shaw’s plaza. After much protest and back and forth with different design plans, Feldco agreed to save more buildings (only 4 out of 16) and incorporate more of a mill “look.” Even with a better design that saved some of the architectural fabric of the Valley mill district, about a hundred artists were displaced because, after all, this was only every going to be a shopping center.
 
 On a brighter side, the demolition produced a total of 59,701 tons of waste, of which only 349 tons (less than 1%) went to landfill. Old factory buildings were typically constructed in a way that is ideal for reclamation. The precision arm of the Komatzu “long arm” allowed the crew to pluck timbers from the building frame without damaging them. The buildings were full of old growth yellow pine. The timbers in this project were milled into flooring, the bricks that were in good shape for resale were sold, and the rest were crushed for on site fill.
 
@@ -227,6 +227,4 @@ Perhaps most significantly, there are no real obstacles to the demolition of the
 
 What happens next is anyone’s guess. The Plan Commission is slated to decide the fate of the Feldco proposal during a City Hall meeting on Tuesday, December 19 at 6 p.m. Supporters were seriously outflanked during the last meeting, and both sides will no doubt rally their backers. The conventional wisdom holds that other than some fine-tuning of bike path and greenway issues, Feldco has the project in the bag. But nothing gets the attention of public officials like a massive show of public opinion, and it’s possible that the outpouring on November 21 might have been enough to make the Plan Commission unwilling to immediately move forward. […]
 
-—
-
-Donnis, Ian. “Dig the New Breed.” Providence Phoenix, December 14–21, 2000.
+— Donnis, Ian. “Dig the New Breed.” Providence Phoenix, December 14–21, 2000.

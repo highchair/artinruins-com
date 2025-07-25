@@ -15,7 +15,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: []
 people: []
-lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'U.S. Rubber Co. Mill Complex' ]
+lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'U.S. Rubber Co. Mill Complex' ]
 tags: [ 'Apartments for Rent' ]
 
 NRHP-ref-number: '05000917 (individual)'
@@ -129,7 +129,7 @@ Indeed, in April of 2011, 24 code compliant units opened. “This is a similar m
 
 ### Current Events
 
-For leasing information, visit [the Brady Sullivan website](//bradysullivan.com/rhode-island-residential-rent/us-rubber-lofts){:target="_blank"}.
+For leasing information, visit [the Brady Sullivan website](https://bradysullivan.com/rhode-island-residential-rent/us-rubber-lofts).
 
 
 ### History
@@ -139,14 +139,14 @@ For leasing information, visit [the Brady Sullivan website](//bradysullivan.com/
 
 #### More Links
 
-+ A story [about Joseph Banigan on RhodeTour](//rhodetour.org/items/show/218){:target="_blank"}
-+ Information about the broader company dealings outside of Providence from [En-Academic.com](//en-academic.com/dic.nsf/enwiki/1141087){:target="_blank"}  **Interesting highlights**
++ A story [about Joseph Banigan on RhodeTour](https://rhodetour.org/items/show/218)
++ Information about the broader company dealings outside of Providence from [En-Academic.com](https://en-academic.com/dic.nsf/enwiki/1141087)  **Interesting highlights**
 	+ Nine companies consolidated to become the United States Rubber Company in 1892
 	+ The companies also consolidated their footwear brands under one name and became Keds in 1917 — the first canvas-top “sneakers”
 	+ U.S. Rubber was one of the original twelve companies listed in 1896 on the Dow-Jones Industrial average
 	+ Then-company-president Arthur H. Adams dies in the sinking of the “RMS Lusitania” at the age of 46
 	+ After 1931, U.S. Rubber’s plant in Eau Claire, Wisconsin, was one of the world’s largest supplier of original equipment tires
-+ Around 2008, Scott Molloy published [a book about Joseph Banigan called “Irish Titan, Irish Toilers”](//www.uri.edu/news/2008/07/uri-professors-book-explores-life-of-joseph-banigan-new-england-labor/){:target="_blank"}
++ Around 2008, Scott Molloy published [a book about Joseph Banigan called “Irish Titan, Irish Toilers”](https://www.uri.edu/news/2008/07/uri-professors-book-explores-life-of-joseph-banigan-new-england-labor/)
 
 ***
 

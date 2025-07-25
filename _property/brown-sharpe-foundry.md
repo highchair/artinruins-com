@@ -15,14 +15,14 @@ neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Frederick Howe', 'Foundry Associates' ]
 people: [ 'Joseph R. Brown', 'Lucian Sharpe', 'Thomas McFarlane', 'Richmond Viall' ]
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places',  'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Preservation Awards', 'Providence Industrial Sites 1981', 'Providence’s Five Industrial Wonders' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places',  'PPS/RIHPHC Industrial Commercial Buildings Survey', 'PPS Preservation Awards', 'Providence Industrial Sites 1981', 'Providence’s Five Industrial Wonders' ]
 tags: [ 'Apartments for Rent', 'Lost Music Venues', 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'During the 19th and 20th centuries, Brown & Sharpe was one of the best-known and most influential machine tool builders and was a leading manufacturer of instruments for machinists'
 
 NRHP-ref-number: '03000081 (individual)'
 added-to-NRHP: 'April 18, 2003'
 
-address: '255 Promendade Street, Providence RI'
+address: '255 Promendade St, Providence RI'
 latitude: '41.8285767'
 longitude: '-71.4215145'
 gmap: "https://www.google.com/maps/place/The+Promenade+Apartments/@41.8285767,-71.4215145,17z/data=!4m13!1m7!3m6!1s0x89e4450fc8a6b501:0x60d0c84508dbb2b0!2s235+Promenade+St,+Providence,+RI+02908!3b1!8m2!3d41.8285767!4d-71.4193258!3m4!1s0x89e4450fb8d3f683:0xbfa136d7c04e396f!8m2!3d41.8293445!4d-71.4201672"

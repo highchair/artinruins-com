@@ -15,7 +15,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Vision 3 Architects' ]
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: []
 
 NRHP-ref-number:
@@ -71,7 +71,7 @@ images:
     caption: 'Photo by Vision 3 Architects'
     sizes: '1200, 798'
 
-imagescredit: 'Contributions from <a href="https://digitalsanbornmaps.proquest.com/browse_maps/40/8075/39395/41288/561188">Proquest Digital Sanborn Maps</a>, Providence Public Library; <a href="https://www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/">Historic Mapworks</a>; Kerri-Ann Pontifice; and Vision 3 Architects'
+imagescredit: 'Contributions from Proquest Digital Sanborn Maps, Providence Public Library; <a href="https://www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/">Historic Mapworks</a>; Kerri-Ann Pontifice; and Vision 3 Architects'
 
 mostrecentimage: 2015-01-01
 

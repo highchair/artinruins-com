@@ -13,10 +13,10 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Neglect', 'Still an Empty Lot' ]
 
-address: '775 Eddy Street, Providence RI'
+address: '775 Eddy St, Providence RI'
 latitude: '41.806659'
 longitude: '-71.4099289'
 gmap: "https://www.google.com/maps/place/775+Eddy+St,+Providence,+RI+02905/@41.806659,-71.4099289,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445670b474bd5:0x27b982411c4d926d!8m2!3d41.806659!4d-71.4077402"

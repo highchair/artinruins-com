@@ -16,7 +16,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Progress', 'The Superlatives' ]
 superlative: 'Once the largest producer of electric light bases in the world'
 

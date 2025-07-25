@@ -13,13 +13,13 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'North End' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Wanskuck Historic District' ]
+lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Wanskuck Historic District' ]
 tags: []
 
 NRHP-ref-number: '83003867 (contributing)'
 added-to-NRHP: '1981'
 
-address: '754-756 Branch Avenue, Providence, RI'
+address: '754-756 Branch Ave, Providence, RI'
 latitude: '41.8539155'
 longitude: '-71.4328208'
 gmap: "https://www.google.com/maps/place/754+Branch+Ave,+Providence,+RI+02904/@41.8539155,-71.4328208,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44458634908cf:0x1db67916505bc10b!8m2!3d41.8539115!4d-71.4306321"

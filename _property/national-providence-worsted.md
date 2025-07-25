@@ -14,7 +14,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'SBER', 'Armory Revival Company' ]
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places',  'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places',  'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'American Woolen Company', 'The Superlatives', 'Apartments for Rent' ]
 superlative: 'At one time, the largest consumer of wool in the United States'
 
@@ -106,7 +106,7 @@ Successful Baltimore developer Bill Struever came to town to attend hearings on 
 
 Taking advantage of the generous State Historic Tax Credit program, [Streuver Brothers, Eccles and Rouse]({% link designer/sber.html %}) (<span class="abbr">SBER</span>) set their sights on these mills, bordered by Valley Street on one side and the Woonasquatucket River on the other. This large complex would be the first RI project for the developer who was already used to tackling large mixed-use redevelopment in their home city of Baltimore, MD. To make it easier and get a primer on how development in RI worked, <span class="abbr">SBER</span> partnered with the [Armory Revival Company]({% link designer/armory-revival-company.html %}) on the development of this complex.
 
-Changes were in the air for the community of Olneyville, and artists were not happy about it. Already spurred on by the Eagle Square fiasco, the once large [Fort Thunder](//en.wikipedia.org/wiki/Fort_Thunder){:target="_blank"} group had to split into factions. Some moved into a space dubbed _The Bakery_ deeper in Olneyville. Others broke away to become _The Hive_, while others left town completely. Rents were already on the rise in mill spaces as well as regular rental homes in the Olneyville and West Side of town. Some of this was speculative, and some was market-driven. And the thriving Fort Thunder scene was getting attention for other reasons and being legitimized by one of its spin-offs’ (Force Field) [inclusion in the Whitney Biennial](//whitney.org/artists/8113){:target="_blank"}, as well as [Lightning Bolt](//laserbeast.com){:target="_blank"}’s explosion onto the noise-rock music scene. So, it should have been little surprise that their new “under-the-radar” digs were raided by City Fire Inspectors, and they were quickly displaced again.
+Changes were in the air for the community of Olneyville, and artists were not happy about it. Already spurred on by the Eagle Square fiasco, the once large [Fort Thunder](https://en.wikipedia.org/wiki/Fort_Thunder) group had to split into factions. Some moved into a space dubbed _The Bakery_ deeper in Olneyville. Others broke away to become _The Hive_, while others left town completely. Rents were already on the rise in mill spaces as well as regular rental homes in the Olneyville and West Side of town. Some of this was speculative, and some was market-driven. And the thriving Fort Thunder scene was getting attention for other reasons and being legitimized by one of its spin-offs’ (Force Field) [inclusion in the Whitney Biennial](https://whitney.org/artists/8113), as well as [Lightning Bolt](https://laserbeast.com)’s explosion onto the noise-rock music scene. So, it should have been little surprise that their new “under-the-radar” digs were raided by City Fire Inspectors, and they were quickly displaced again.
 
 Rising Sun Mills marked the beginning. It was one of the first – and one of the largest – redevelopments at the time. The development team took a lot of flak from the community who were understandably concerned about the sudden gentrification of their neighborhood. While on one hand, Olneyville needed social and economic investment, the sudden influx of investment worried residents that they wouldn’t be able to afford to live where they were.
 
@@ -115,7 +115,7 @@ Eagle Square and the arrival of companies like <span class="abbr">SBER</span> ma
 
 ### Current Events
 
-Rising Sun Mills is available as apartments and commercial space and is managed by the Armory Revival Company and [Armory Management](//armorymanagement.com/rising-sun-mills/){:target="_blank"}.
+Rising Sun Mills is available as apartments and commercial space and is managed by the Armory Revival Company and [Armory Management](https://armorymanagement.com/rising-sun-mills/).
 
 
 ### History
@@ -185,6 +185,6 @@ Offering subsidies for artists is sometimes a controversial subject, but conside
 
 Godfrey still tends to get quizzical looks when he speaks about the importance of coming to terms with Rhode Island’s housing crisis. Although he has no illusions about the difficulty of changing the situation, he hopes that publicity about growing homelessness… will spark change. “The irony is that those of us who own our homes get richer every day,” he says. “To a certain extent, we like the way it is. Yet,” when it comes to buying a home, “our kids can’t afford to get in.”
 
-_The entire story captured from [web.Archive.org](//web.archive.org/web/20040109024901/http://www.providencephoenix.com/archive/features/03/02/06/housing.html){:target="_blank"}_
+_The entire story captured from [web.Archive.org](https://web.archive.org/web/20040109024901/http://www.providencephoenix.com/archive/features/03/02/06/housing.html)_
 
 </details>

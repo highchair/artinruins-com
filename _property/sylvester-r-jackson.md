@@ -17,7 +17,7 @@ neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'National Register of Historic Places', 'Pine Street Historic District', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [ 'National Register of Historic Places', 'Pine Street Historic District', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: []
 
 NRHP-ref-number: '78000005 (contributing)'

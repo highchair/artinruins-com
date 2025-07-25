@@ -17,7 +17,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Armory Revival Company' ]
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Apartments for Rent', 'Never Built' ]
 
 NRHP-ref-number:

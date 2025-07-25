@@ -17,7 +17,7 @@ neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'Thomas Fletcher' ]
-lists: [ 'HABS HAER', 'Inventory of Historic Engineering & Industrial Sites 1978', 'Moshassuck Square Historic District', 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'HABS HAER', 'Inventory of Historic Engineering & Industrial Sites 1978', 'Moshassuck Square Historic District', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '709380013 (contributing)'
@@ -77,7 +77,7 @@ images:
 
 mostrecentimage: 2021-04-01
 
-imagescredit: 'Contribution from the <a href="https://www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/">Historic Mapworks</a>; Providence Historical Aerial Viewer; <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>; <a href="https://provlibdigital.org/islandora/object/islandora%3A268">Rhode Island Mills and Mill Villages Photograph Collection</a>, Providence Public Library; and the National Register nomination form'
+imagescredit: 'Contribution from the <a href="https://www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/">Historic Mapworks</a>; Providence Historical Aerial Viewer; <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>; <a href="https://provlibdigital.org/islandora/object/VM005_3_D13">Rhode Island Mills and Mill Villages Photograph Collection</a>, Providence Public Library; and the National Register nomination form'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

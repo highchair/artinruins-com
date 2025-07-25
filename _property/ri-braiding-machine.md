@@ -15,7 +15,7 @@ neighborhoods: [ 'Federal Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'James Hanley' ]
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number:

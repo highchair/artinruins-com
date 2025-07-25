@@ -15,7 +15,7 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Weybosset Mills Complex' ]
+lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Weybosset Mills Complex' ]
 tags: [ 'American Woolen Company', 'The Superlatives' ]
 superlative: 'The oldest surviving intact mill building in Olneyville, dating from 1880'
 

@@ -15,7 +15,7 @@ neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: []
 people: []
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered', 'Providence Industrial Sites 1981' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered', 'Providence Industrial Sites 1981' ]
 tags: [ 'The Superlatives' ]
 superlative: 'At one time, the largest stove company in New England'
 

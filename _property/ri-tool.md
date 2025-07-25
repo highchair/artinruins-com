@@ -13,7 +13,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'The Superlatives' ]
 superlative: 'During the mid-1870s it was the largest single employer in Providence and an important American rifle manufacturer'
 
@@ -115,7 +115,7 @@ imagescredit: 'Contributions by Matthew A. Kierstead for the National Register N
 
 ### Redevelopment
 
-In 2003, Evaristo “Everett” and Sheryl Amaral purchased this historic mill to turn it into **West River Center**. West River Center received the [_2011 Rhody Award for Excellence in Historic Preservation_](//www.preservation.ri.gov/conference/awards/awards2011.php){:target="_blank"} for the creative conversion of the former Rhode Island Tool Company into a mix of medical, state, and corporate offices, as well as a café.[^1]
+In 2003, Evaristo “Everett” and Sheryl Amaral purchased this historic mill to turn it into **West River Center**. West River Center received the [_2011 Rhody Award for Excellence in Historic Preservation_](https://www.preservation.ri.gov/conference/awards/awards2011.php) for the creative conversion of the former Rhode Island Tool Company into a mix of medical, state, and corporate offices, as well as a café.[^1]
 
 [^1]: _“Evaristo “Everett” Amaral – Cumberland (Obituary),”_ Valley Breeze, November 11, 2018. Captured on January 10, 2020 from https://www.valleybreeze.com/2018-11-11/cumberland-lincoln-area/evaristo-everett-amaral-cumberland
 

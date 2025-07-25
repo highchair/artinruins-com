@@ -15,13 +15,13 @@ neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Clifton Hall', 'SignalWorks' ]
 people: []
-lists: [ 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: []
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '11 Aleppo Street, Providence RI'
+address: '11 Aleppo St, Providence RI'
 latitude: '41.8195324'
 longitude: '-71.4486433'
 gmap: "https://www.google.com/maps/place/11+Aleppo+St,+Providence,+RI+02909/@41.8195324,-71.4486433,17z"
@@ -90,12 +90,12 @@ The work was never fully completed. Unfortunately, the Hive Archive dissolved as
 
 [^1]: Open Corporates entry for the Hive Archive, founded 2001, captured June 19, 2021 from https://opencorporates.com/companies/us_ri/000118180
 
-In 2015 the building was acquired by a new local developer under the corporate name Wide Plank Developers. Eric Army, AIA, and the renamed architectural firm SignalWorks ([the first B-corporation architecture firm in the state](//www.signalworksarchitecture.com/bcorp/){:target="_blank"}) developed the building as a catalyst for a community venture as well as an office. The necessary work on the building was completed in 2017.
+In 2015 the building was acquired by a new local developer under the corporate name Wide Plank Developers. Eric Army, AIA, and the renamed architectural firm [SignalWorks](https://www.signalworksarchitecture.com) (the first B-corporation architecture firm in the state) developed the building as a catalyst for a community venture as well as an office. The necessary work on the building was completed in 2017.
 
 
 ### Current Events
 
-[Atlantic Designworks](//www.atlanticdesign.works){:target="_blank"} is now a building with three distinct space for small businesses. The basement of the rotunda is a commercial kitchen with space for 30 guests. Currently five different tenants use the spaces.
+[Atlantic Designworks](https://www.atlanticdesign.works) is now a building with three distinct space for small businesses. The basement of the rotunda is a commercial kitchen with space for 30 guests. Currently five different tenants use the spaces.
 
 ### History
 
@@ -105,7 +105,7 @@ A brick or stone structure, usually round, built to contain flammable gas. A dom
 
 [^2]: Wikipedia entry for “Gas Holder,” captured June 19, 2021 from https://en.wikipedia.org/wiki/Gas_holder
 
-[A thorough history]({% link supplements/atlantic-mill-gasometer-history.md %}) was compiled by the architect and designers **Studio Meja**, now [SignalWorks](//www.signalworksarchitecture.com){:target="_blank"}, of the Atlantic Designworks project.
+[A thorough history]({% link supplements/atlantic-mill-gasometer-history.md %}) was compiled by the architect and designers **Studio Meja**, now SignalWorks, of the Atlantic Designworks project.
 
 ***
 

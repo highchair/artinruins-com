@@ -12,14 +12,14 @@ categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
-lists: [ 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered', 'Providence Industrial Sites 1981' ]
+lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered', 'Providence Industrial Sites 1981' ]
 tags: [ 'Demolition by Neglect', 'Demolition by Fire', 'The Superlatives' ]
 superlative: 'After 1925, the largest laundry business in RI with 150 employees and 16 outlets throughout the state'
 
 NRHP-ref-number: '04000197'
 added-to-NRHP: 'March 18, 2004'
 
-address: '93 Cranston Street, Providence RI'
+address: '93 Cranston St, Providence RI'
 latitude: '41.8164469'
 longitude: '-71.4265637'
 gmap: "https://www.google.com/maps/place/93+Cranston+St,+Providence,+RI+02907/@41.8164469,-71.4265637,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44576ae821739:0x61394214ce7c3b3a!8m2!3d41.8164469!4d-71.424375"
@@ -177,7 +177,7 @@ imagescredit: Contributions by Christopher Martin, <a href="https://quahog.org">
 
 ### Reason for Demolition
 
-The What Cheer Laundry Building had been vacant since 1987 and had appeared on [PPS’s Ten Most Endagered List](https://guide.ppsri.org/property/what-cheer-stream-laundry) seven times. In 1999, following a number of failed attempts to renovate the former dry cleaning plant, the City foreclosed on the property.
+The What Cheer Laundry Building had been vacant since 1987 and had appeared on [PPS’s Ten Most Endangered List](https://guide.ppsri.org/property/what-cheer-stream-laundry) seven times. In 1999, following a number of failed attempts to renovate the former dry cleaning plant, the City foreclosed on the property.
 
 In December 1999, the <span class="abbr">RIDEM</span> performed a base line survey followed by a Phase II site assessment that found extensive tetrachloroethylene (<span class="abbr">TCE</span>) and oil contamination at the site. Remediation and redevelopment for the site was expected to cost at least $1.5 million.
 

@@ -15,7 +15,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'National Register of Historic Places',  'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
+lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
 tags: [ 'Fire Stations' ]
 
 NRHP-ref-number: '90000104 (contributing)'
@@ -76,7 +76,7 @@ From 1983 to about 1990 the building was home to **Computopia**.[^3] The 1988 ph
 
 [^4]: “New businesses.” Providence Journal (RI), ALL ed., sec. BUSINESS, 19 May 1994, pp. B-03. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15252349AFF98A38. Accessed 11 Mar. 2022.
 
-By 1998 **Miko’s**, a sex-positive adult store, moved in.[^5] They lasted almost 10 years at this corner, moving across town by 2007. Sometime before 2002 the property was part of a Ten Most Endangered List, heralded by the [Providence Preservation Society](https://:ppsri.org). We say that because in a 2002 news story it was mentioned as a success story, where highlighting the building led to new investment in it. It was likely listed before Miko moved in.
+By 1998 **Miko’s**, a sex-positive adult store, moved in.[^5] They lasted almost 10 years at this corner, moving across town by 2007. Sometime before 2002 the property was part of a Ten Most Endangered List, heralded by the [Providence Preservation Society](https://ppsri.org). We say that because in a 2002 news story it was mentioned as a success story, where highlighting the building led to new investment in it. It was likely listed before Miko moved in.
 
 [^5]: Gunther-Rosenberg, Avis. “Smart Shopping Ready, Get Set, Shop Halloween means indulging fantasies; win a diamond; HomeGoods for less.” Providence Journal (RI), ALL ed., sec. HERS, 29 Oct. 1998, pp. H-04. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15251CF4A53A2AA8. Accessed 11 Mar. 2022.
 

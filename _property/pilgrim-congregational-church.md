@@ -17,7 +17,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Kite Architects' ]
 people: []
-lists: [ 'Broadway-Armory Historic District', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'Broadway-Armory Historic District', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Apartments for Rent', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '74000047 (contributing)'

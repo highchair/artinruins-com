@@ -14,14 +14,14 @@ categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Clifton Hall' ]
-lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/AIA Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
+lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
 tags: [ 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'By the late 1880s, its production of worsted and cotton-wrap fabric was the largest in Providence, employing over 2000 workers'
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '100 Manton Ave., Providence RI'
+address: '100 Manton Ave, Providence RI'
 latitude: '41.8179117'
 longitude: '-71.4485203'
 gmap: "https://www.google.com/maps/place/100+Manton+Ave,+Providence,+RI+02909/@41.8179117,-71.4485203,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445910ab25a59:0x5b2179ae65de616c!8m2!3d41.8179117!4d-71.4463316"
@@ -131,7 +131,7 @@ images:
 
 mostrecentimage: 2020-12-01
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A26982" target="_blank">Rhode Island Photograph Collection</a> and the <a href="//provlibdigital.org/islandora/object/islandora%3A263" target="_blank">Rhode Island Mills and Mill Villages Photograph Collection</a>, Providence Public Library; Christopher Martin, <a href="https://quahog.org" target="_blank">Quahog.org</a>; Google Earth; and the Library of Congress'
+imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/VM013_FIC1138">Rhode Island Photograph Collection</a> and the <a href="https://provlibdigital.org/islandora/object/VM005_3_D1">Rhode Island Mills and Mill Villages Photograph Collection</a>, Providence Public Library; Christopher Martin, <a href="https://quahog.org">Quahog.org</a>; Google Earth; and the Library of Congress'
 
 external:
   - source: 'Steve Dunwell portfolio — Black and white photo of both domed towers with their original lanterns'

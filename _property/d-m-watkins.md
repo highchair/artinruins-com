@@ -17,13 +17,13 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [ 'PPS Preservation Awards', 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'PPS Preservation Awards', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'College Properties', 'Johnson & Wales University' ]
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '274 Pine Street, Providence RI'
+address: '274 Pine St, Providence RI'
 latitude: '41.8179331'
 longitude: '-71.4162618'
 gmap: "https://www.google.com/maps/place/274+Pine+St,+Providence,+RI+02903/@41.8179331,-71.4162618,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456cf12b6659:0xed39a8ba51e96d5a!8m2!3d41.8179331!4d-71.4140731"
@@ -99,7 +99,7 @@ imagescredit: 'Contributions by James Taylor and Paul Shelasky'
 
 _From the Providence Preservation Society’s nomination to its 2008 Preservation Awards_
 
-Known to many as the Rolo Building, this two-story building built in 1921 is a remnant of Providence’s history as a center of jewelry manufacturing. [...] Located adjacent to the soon-be-be-relocated I-195, Johnson & Wales saw the building as the ideal location for a new Student Services Center, consolidating six different academic services under one roof. They commissioned [ARC/Architectural Resources Cambridge](https://arcusa.com) to formulate an adaptive reuse design solution that respects the historic building’s architectural integrity while integrating institutional requirements.
+Known to many as the Rolo Building, this two-story building built in 1921 is a remnant of Providence’s history as a center of jewelry manufacturing. [...] Located adjacent to the soon-be-be-relocated I-195, Johnson & Wales saw the building as the ideal location for a new Student Services Center, consolidating six different academic services under one roof. They commissioned [ARC/Architectural Resources Cambridge](https://arcusa.com/) to formulate an adaptive reuse design solution that respects the historic building’s architectural integrity while integrating institutional requirements.
 
 The spectacular rehabilitation, executed by Walsh Brothers, preserves original window openings and clerestory monitors and exposes the steel structure. The first floor, once a production floor filled with manufacturing equipment, now has a large, inviting lobby, conference room, and offices. The second floor originally held a machine shop and company offices. It is now home to light-filled workspaces and offices. Two historic objects were integrated into the new interior design. An industrial scale has been placed in the lobby and the circa 1961 “Rolo Building” sign has been installed above the second floor coffee bar. On the exterior, the original Watkins sign, which was covered for more than 30 years, has been restored. This project truly demonstrates Johnson & Wales University’s admirable commitment to the preservation of significant historic buildings in downtown Providence.
 

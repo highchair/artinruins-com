@@ -17,7 +17,7 @@ neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
-lists: [  'PPS/AIA Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
+lists: [  'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Berlin Bridge Company', 'Demolition by Progress', 'The Superlatives' ]
 superlative: [ 'The first all glass and steel industrial building built in Providence' ]
 
@@ -97,7 +97,7 @@ Still standing is the [older portion of the Fuller Iron Works]({% link _property
 
 ### Current Events
 
-The land on which the iron works once stood has a new residential building constructed on top of it — called [580 South Water](//www.580southwater.com){:target="_blank"}. Construction started in 2020. 
+The land on which the iron works once stood has a new residential building constructed on top of it — called [580 South Water](https://www.580southwater.com). Construction started in 2020. 
 
 
 ### History

@@ -15,7 +15,7 @@ neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Jeffrey Blydenburgh' ]
 people: [ 'Joseph Davol', 'Robert Park Freeman' ]
-lists: [ 'Davol Rubber Company Complex', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/AIA Industrial Commercial Buildings Survey' ]
+lists: [ 'Davol Rubber Company Complex', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Chet Smolski image collection', 'Providence Public Library Digital Collections' ]
 
 NRHP-ref-number: '80000093 (individual)'
@@ -118,7 +118,7 @@ images:
 
 mostrecentimage: 2021-06-01
 
-imagescredit: 'Contributions from <abbr title="Rhode Island Historic Preservation and Heritage Commission">RIHPHC</abbr>; the Avery Lord Aerial Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A29" target="_blank">1955 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A18" target="_blank">1955 2</a>), Providence Public Library; Chet Smolski image collection (<a href="//digitalcommons.ric.edu/smolski_images/41/" target="_blank">01,</a> <a href="//digitalcommons.ric.edu/smolski_images/99/" target="_blank">02,</a> <a href="//digitalcommons.ric.edu/smolski_images/100/" target="_blank">03</a> ), Rhode Island College; Library of Congress, Geography and Map Division.'
+imagescredit: 'Contributions from <abbr title="Rhode Island Historic Preservation and Heritage Commission">RIHPHC</abbr>; the Avery Lord Aerial Photograph Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A29">1955 1,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A18">1955 2</a>), Providence Public Library; Chet Smolski image collection (<a href="https://digitalcommons.ric.edu/smolski_images/41/">01,</a> <a href="https://digitalcommons.ric.edu/smolski_images/99/">02,</a> <a href="https://digitalcommons.ric.edu/smolski_images/100/">03</a> ), Rhode Island College; Library of Congress, Geography and Map Division.'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -169,7 +169,7 @@ Space at Davol Square is available for lease through commercial real estate comp
 
 ### History
 
-[A remembrance of Davol Square Marketplace](http://www.deadmalls.com/malls/davol_square_marketplace.html){:target="_blank"}, 1983 to 1991, from Kevin Warren in 2006 at DeadMalls.com.
+[A remembrance of Davol Square Marketplace](http://www.deadmalls.com/malls/davol_square_marketplace.html), 1983 to 1991, from Kevin Warren in 2006 at DeadMalls.com.
 
 ***
 
@@ -216,7 +216,7 @@ It has been heavily altered by a fourth story construct ed of glass and a large 
 
 ### In the News
 
-[A “Flashback” video from Channel 10](https://turnto10.com/news/videos/the-mall-that-came-before-providence-place){:target="_blank"} showing their footage from the opening of Davol Square, January 2, 1983. 
+[A “Flashback” video from Channel 10](https://turnto10.com/news/videos/the-mall-that-came-before-providence-place) showing their footage from the opening of Davol Square, January 2, 1983. 
 
 ***
 
@@ -267,8 +267,6 @@ William E. Collins, an aide to the mayor, said that the loan is part of a new ci
 
 The $3.8 million is from the federal Community Development program. The money eventually will be spent on various projects in the city.
 
-—
-
-“Cianci gives loan for Davol Square.” Providence Journal (RI), CITY ed., sec. NEWS, 3 Aug. 1982, pp. B-03. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C39330A3EB68. Accessed 28 Dec. 2021.
+— “Cianci gives loan for Davol Square.” Providence Journal (RI), CITY ed., sec. NEWS, 3 Aug. 1982, pp. B-03. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C39330A3EB68. Accessed 28 Dec. 2021.
 
 </details>
