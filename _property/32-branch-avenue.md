@@ -3,6 +3,8 @@ title: "Washington Laundry"
 slug: 32-branch-avenue
 aka:
 date-modified: 2025-07-03 15:00
+update: 'Added a recent photo of this building now that its neighbor has been painted'
+update-image:
 
 built: 'circa 1930'
 demolition: 
@@ -21,7 +23,7 @@ tags: [ 'Art Deco', 'Needs History' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '32 & 34 Branch Avenue, Providence RI'
+address: '32 & 34 Branch Ave, Providence RI'
 latitude: '41.8423665'
 longitude: '-71.4107652'
 gmap: "https://www.google.com/maps/place/32+Branch+Ave,+Providence,+RI+02904/@41.8423665,-71.4107652,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444e0da8f7117:0x90b0a921f9812968!8m2!3d41.8423665!4d-71.4085765"
