@@ -12,7 +12,7 @@ demolition:
 redeveloped:
 units:
 decade: '1920-1929'
-date-added: '2025' #Month
+date-added: '2025' #June
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]

@@ -12,7 +12,7 @@ demolition:
 redeveloped:
 units:
 decade: '1890-1899'
-date-added: '2024'
+date-added: '2024' #November
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]

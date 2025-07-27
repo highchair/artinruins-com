@@ -12,7 +12,7 @@ demolition:
 redeveloped:
 units:
 decade: '1930-1939'
-date-added: '2025' #Month
+date-added: '2025' #March
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]

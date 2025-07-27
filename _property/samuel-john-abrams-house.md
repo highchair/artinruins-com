@@ -12,7 +12,7 @@ demolition: '1998'
 redeveloped:
 units:
 decade: '1850-1859'
-date-added: '2024'
+date-added: '2024' #December
 categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]

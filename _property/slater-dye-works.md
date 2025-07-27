@@ -12,7 +12,7 @@ demolition:
 redeveloped:
 units:
 decade: '1910-1919'
-date-added: '2024'
+date-added: '2024' #December
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]

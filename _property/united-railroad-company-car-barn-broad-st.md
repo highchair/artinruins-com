@@ -12,7 +12,7 @@ demolition: '2022'
 redeveloped:
 units:
 decade: '1900-1909'
-date-added: '2025' #Month
+date-added: '2025' #July
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]

@@ -12,7 +12,7 @@ demolition:
 redeveloped:
 units:
 decade: '1960-1969'
-date-added: '2025' #Month
+date-added: '2025' #March
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]

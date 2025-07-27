@@ -12,7 +12,7 @@ demolition:
 redeveloped: '1988'
 units:
 decade: '1910-1919'
-date-added: '2025' #Month
+date-added: '2025' #July
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]

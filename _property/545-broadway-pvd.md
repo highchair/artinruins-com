@@ -12,7 +12,7 @@ demolition:
 redeveloped:
 units:
 decade: '2020-2029'
-date-added: '2025' #Jan
+date-added: '2025' #January
 categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]

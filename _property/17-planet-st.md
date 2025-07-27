@@ -12,7 +12,7 @@ demolition:
 redeveloped:
 units:
 decade: '2020-2029'
-date-added: '2024'
+date-added: '2024' #November
 categories: [ '#WhatAreTheyBuilding' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]

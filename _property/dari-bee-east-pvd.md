@@ -12,7 +12,7 @@ demolition:
 redeveloped:
 units:
 decade: '1960-1969'
-date-added: '2025' #Month
+date-added: '2025' #February
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'East Providence, RI' ]

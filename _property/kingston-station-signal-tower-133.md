@@ -12,7 +12,7 @@ demolition:
 redeveloped:
 units:
 decade: '1930-1939'
-date-added: '2025' #Month
+date-added: '2025' #July
 categories: [ '#UrbanDecay' ]
 neighborhoods: []
 town: [ 'South Kingstown, RI' ]

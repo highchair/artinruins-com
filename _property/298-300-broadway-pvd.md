@@ -12,7 +12,7 @@ demolition:
 redeveloped: '2025'
 units: 15
 decade: '1870-1879'
-date-added: '2025' #Month
+date-added: '2025' #June
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
