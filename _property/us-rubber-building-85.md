@@ -25,6 +25,8 @@ address: '475 Valley St, Providence RI'
 latitude: '41.8288301'
 longitude: '-71.435352'
 gmap: "https://www.google.com/maps/place/The+WaterFire+Arts+Center/@41.8288301,-71.435352,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445a6db2dc74f:0xdad3a7ba66f93bb8!8m2!3d41.8289372!4d-71.4332758"
+street: [ 'Valley St' ]
+street-number: 475
 
 meta: ""
 excerpt: "A 27,000 sf piece of the former US Rubber Works has been developed into the Waterfire Arts Center"

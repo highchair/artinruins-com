@@ -21,10 +21,12 @@ tags: [ 'Apartments for Rent' ]
 NRHP-ref-number: '05000917 (individual)'
 added-to-NRHP: 'August 2005'
 
-address: '12 Eagle Street, Providence, RI'
+address: '12 Eagle St, Providence, RI'
 latitude: '41.8273842'
 longitude: '-71.4380156'
 gmap: "https://www.google.com/maps/place/US+Rubber+Lofts/@41.8273842,-71.4380156,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445a3dee7f661:0xf606ea9ba8ccb672!8m2!3d41.8273842!4d-71.4358269"
+street: [ 'Valley St' ]
+street-number: 411
 
 meta: ""
 excerpt: "A dense complex of 20 buildings built over the course of 50 years has ben converted from maufacturing to new-arts-industrial to residential"

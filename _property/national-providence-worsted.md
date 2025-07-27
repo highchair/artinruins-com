@@ -21,10 +21,12 @@ superlative: 'At one time, the largest consumer of wool in the United States'
 NRHP-ref-number: '03000656 (individual)'
 added-to-NRHP: 'July 11, 2003'
 
-address: '166–188 Valley Street, Providence RI'
+address: '166–188 Valley St, Providence RI'
 latitude: '41.8211579'
 longitude: '-71.4430777'
 gmap: "https://www.google.com/maps/place/Rising+Sun+Mills/@41.8211579,-71.4430777,17z/data=!4m13!1m7!3m6!1s0x89e44599c48715a1:0x226f12cd610a29d5!2s166+Valley+St,+Providence,+RI+02909!3b1!8m2!3d41.8211021!4d-71.440697!3m4!1s0x89e44599b51efa43:0x37e27a9959b5ae9b!8m2!3d41.820666!4d-71.4410079"
+street: [ 'Valley St' ]
+street-number: 166
 
 meta: ""
 excerpt: "A large mill complex of 13 buildings on 2 acres was converted to apartments and commercial space in 2005"
@@ -90,6 +92,8 @@ images:
     sizes: '1200, 900'
   - url: rising-sun-jh-2005-03-08.jpg
     sizes: '1200, 900'
+
+mostrecentimage: 2005-03-01
 
 imagescredit: 'Contributions by Clark Schoettle for the National Register nomination form'
 

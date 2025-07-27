@@ -26,6 +26,8 @@ address: '50-52 Valley St, Providence RI'
 latitude: '41.8184053'
 longitude: '-71.4433495'
 gmap: "https://www.google.com/maps/place/52+Valley+St,+Providence,+RI+02909/@41.8184053,-71.4433495,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459a72af2de9:0x44290e3f1e493283!8m2!3d41.8184013!4d-71.4411608"
+street: [ 'Valley St' ]
+street-number: 52
 
 meta: ""
 excerpt: "A series of late 19th and early 20th century mill buildings converted to residential during the boom of the mid-2000s"

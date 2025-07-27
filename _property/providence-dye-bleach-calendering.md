@@ -21,10 +21,12 @@ tags: [ 'Apartments for Rent', 'Ghost Signs' ]
 NRHP-ref-number: '04000809'
 added-to-NRHP: 'October 18, 2004'
 
-address: '60 Valley Street, Providence RI'
+address: '60 Valley St, Providence RI'
 latitude: '41.8190841'
 longitude: '-71.4431619'
 gmap: "https://www.google.com/maps/place/60+Valley+St,+Providence,+RI+02909/@41.8190841,-71.4431619,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459a1a97cbbf:0xad1260ab6360459d!8m2!3d41.8191808!4d-71.4408825"
+street: [ 'Valley St' ]
+street-number: 60
 
 meta: ""
 excerpt: "A mill redevelopment that tried to be different than the typical luxury condos and one that change residential zoning to help make units more affordable"
@@ -152,7 +154,7 @@ mostrecentimage: 2007-06-01
 
 ### Redevelopment
 
-60 Valley Street has become **The Plant** — live/work studios from 500 to 600 sq ft, larger lofts of 1300 to 1800 sq ft, larger “nest” spaces for four to five people to share, and commercial space. The architects for the renovations were [ICON studios](//www.iconarch.com/plant-cuban-revolution){:target="_blank"}. The renovation included space for a restaurant in the detached building along Valley Street.
+60 Valley Street has become **The Plant** — live/work studios from 500 to 600 sq ft, larger lofts of 1300 to 1800 sq ft, larger “nest” spaces for four to five people to share, and commercial space. The architects for the renovations were [ICON studios](https://www.iconarch.com/plant-cuban-revolution). The renovation included space for a restaurant in the detached building along Valley Street.
 
 This section of Valley Street saw much redevelopment in the mid-aughts, with [Rising Sun Mills]({% link _property/national-providence-worsted.md %}) in one direction and pieces of this complex sectioned off into a new headquarters for the United Way Rhode Island as well as a smaller redevelopment project, Calender Mills. Across the river are spaces that are still heavily commercial or art studios at [Atlantic Mills]({% link _property/atlantic-mills.md %}) and Cathedral Art/Art Braid as well as 95 Hartford Avenue (redeveloped into apartments circa 2015). 
 
@@ -162,19 +164,19 @@ An authentic attempt to make this mill redevelopment responsible and sustainable
 
 Puente led with an idea that in order to keep rents affordable, large loft “nest” spaces should be allowed to have more people live in them and share rent. The city zoning law prohibited more than three unrelated people from living together, and Puente worked to change that to allow up to six. It was a small but significant win for affordability. 
 
-Puente worked for three years to develop the space and listen to community demands. They had big ideas and created partnerships to provide things like a shared kitchen incubator space — an idea that did not come to fruition, but for which there was demand, and eventually became a reality with [Hope and Main](//makefoodyourbusiness.org){:target="_blank"} in Warren. 
+Puente worked for three years to develop the space and listen to community demands. They had big ideas and created partnerships to provide things like a shared kitchen incubator space — an idea that did not come to fruition, but for which there was demand, and eventually became a reality with [Hope and Main](https://makefoodyourbusiness.org)in Warren. 
 
-The smokestack was crumbling prior to the complex’s purchase and was shortened from its height of 150 feet to only 50 feet in February 2001. A sculptural “intervention” added more height to the former stack in the form of a ghostly empty steel structure resembling brickwork and caressed by metal vines. The sculpture is called “Embrace” and was [designed and fabricated by Gillian Christy](//www.gillianchristy.com/Embrace.shtml){:target="_blank"} and installed atop the stack in May of 2007.
+The smokestack was crumbling prior to the complex’s purchase and was shortened from its height of 150 feet to only 50 feet in February 2001. A sculptural “intervention” added more height to the former stack in the form of a ghostly empty steel structure resembling brickwork and caressed by metal vines. The sculpture is called “Embrace” and was [designed and fabricated by Gillian Christy](https://www.gillianchristy.com/Embrace.shtml) and installed atop the stack in May of 2007.
 
 #### Other Links
 
-+ [Providence Dyeing, Bleaching, and Calendering](//rhodetour.org/items/show/221){:target="_blank"} by Jane Gerhard on The Rhode Tour
-+ [Label for the Providence Dying, Bleaching & Calendering Co., Providence, Rhode Island, undated](//www.historicnewengland.org/explore/collections-access/gusn/270171/){:target="_blank"} on Historic New England
++ [Providence Dyeing, Bleaching, and Calendering](https://rhodetour.org/items/show/221) by Jane Gerhard on The Rhode Tour
++ [Label for the Providence Dying, Bleaching & Calendering Co., Providence, Rhode Island, undated](https://www.historicnewengland.org/explore/collections-access/gusn/270171/) on Historic New England
 
 
 ### Current Events
 
-The Plant is managed by the [Armory Revival Company and Armory Management](//armorymanagement.com/){:target="_blank"}, which also manages Calender Mills up the street towards Olneyville Square and [Rising Sun Mills]({% link _property/national-providence-worsted.md %}) in the opposite direction. 
+The Plant is managed by the [Armory Revival Company and Armory Management](https://armorymanagement.com/), which also manages Calender Mills up the street towards Olneyville Square and [Rising Sun Mills]({% link _property/national-providence-worsted.md %}) in the opposite direction. 
 
 
 ### History
