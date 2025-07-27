@@ -91,6 +91,7 @@ exclude:
   - LICENSE
   - README.md
   - property-img/
+  - assets/css/main.scss
 
 # As of Jekyll 4, we may exclude a parent folder but include a child:
 #include:
