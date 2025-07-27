@@ -14,7 +14,6 @@ sitemap:
 We research properties using the following resources, more or less in the order they are presented.
 {: .o__drop-cap }
 
-• 
 [Jump to the list of Polk City Directories by year](#polk-city-directories)
 
 
@@ -70,6 +69,8 @@ Ask these questions and follow the resources links for “Yes” answers:
 + [Providence Preservation Society Architectural Slide Collection](https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ)
 + [Chester E. Smolski photographic slides and publications, 1956-2008, Rhode Island College Collections](https://digitalcollections.ric.edu/search?ln=en&p=Smolski&f=&action_search=Search&c=Special+Collections&c=Faculty%2FStaff+Scholarship&c=College+Archives&c=Student+Projects+and+Scholarship&sf=&so=d&rg=10&fti=1&fct__2=Image)
 + [RISD Buildings and Open Spaces @ Digital Commons](https://digitalcommons.risd.edu/risdbuildings/)
++ [Providence City Archives on Flickr](https://flickr.com/photos/cityarchives/)
++ [Pawtucket Library Collection on Flickr](https://flickr.com/photos/pawtucketlibrary/)
 + [Steve Dunwell’s “Run of the Mill” photography](https://stevedunwell.photoshelter.com/gallery/Mills/G0000dxEbA0wVtUk/0/C0000IBg4HzxYzoo)
 + [B. Michael Zuckerman’s collection on Wikipedia](https://commons.wikimedia.org/wiki/Category:BMZ:_Rhode_Island_Mills)
 

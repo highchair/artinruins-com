@@ -21,10 +21,10 @@ superlative: 'Under the ownership of B.B. and R. Knight, part of the largest tex
 NRHP-ref-number: '04000377 (individual)'
 added-to-NRHP: 'April 29, 2004'
 
-address: ''
-latitude: ''
-longitude: ''
-gmap: ""
+address: '125 Providence St, West Warwick RI'
+latitude: '41.7136317'
+longitude: '-71.519104'
+gmap: "https://www.google.com/maps/place/Royal+Mills+Riverpoint+Apartments+-+Main+Entrance/@41.7136317,-71.519104,17z/data=!3m1!4b1!4m6!3m5!1s0x89e44bb110ec43d9:0x4398569e59cced2f!8m2!3d41.7136317!4d-71.5165291!16s%2Fm%2F04ct2d9?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "A huge, castle-looking 400 foot long stone rubble mill with two impressive towers joined to a more modern red brick mill on either side of a historically hard-working river"
