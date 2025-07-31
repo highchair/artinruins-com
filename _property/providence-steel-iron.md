@@ -81,6 +81,18 @@ images:
     sizes: '1200, 900'
   - url: steel-yard-jh-2005-06-12.jpg
     sizes: '1200, 900'
+  - url: steel-yard-jh-2025-07-01.jpg
+    sizes: '1440, 900'
+  - url: steel-yard-jh-2025-07-02.jpg
+    sizes: '740, 1036'
+  - url: steel-yard-jh-2025-07-03.jpg
+    sizes: '1440, 900'
+  - url: steel-yard-jh-2025-07-04.jpg
+    sizes: '1440, 900'
+  - url: steel-yard-jh-2025-07-05.jpg
+    sizes: '1440, 900'
+
+mostrecentimage: 2025-07-01
 
 imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%253A11318" target="_blank">Rhode Island Photograph Collection</a>, Providence Public Library; ProQuest Digital Sanborn Maps, Providence Public Library; G.M. Hopkins Insurance Maps, Historic Map Works; Edward Connors, January 2005 for the National Register Nomination Form'
 
