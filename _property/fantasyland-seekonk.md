@@ -118,7 +118,7 @@ Jason Allard once again put together a great video with images and press clippin
 
 {% include video-embed.html id='LlBckmFZa_g' %}
 
-And then watch — if you dare — [this video of the animatronics music show](https://www.youtube.com/watch?v=EKO5cWD6icM).
+And then watch — if you dare — [this video of the animatronics music show](https://www.youtube.com/watch?v=EKO5cWD6icM). If you have memories to share, there is a [somewhat dormant Facebook group](https://www.facebook.com/groups/525972138462665/about/) as well. (Only three members?)
 
 
 ### Current Events
