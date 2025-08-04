@@ -60,6 +60,12 @@ images:
   - url: indy-trust-ppl-exchange-place.jpg
     caption: 'Aerial view from Exchange Place. Rhode Island Photograph Collection, Providence Public Library'
     sizes: '740, 1036'
+  - url: indy-trust-jh-2004-02-01.jpg
+    sizes: '740, 1036'
+  - url: indy-trust-jh-2004-02-02.jpg
+    sizes: '740, 1036'
+  - url: indy-trust-jh-2004-02-03.jpg
+    sizes: '1200, 900'
   - url: indy-trust-jh-2012-07-01.jpg
     sizes: '1200, 900'
   - url: indy-trust-jh-2012-10-01.jpg
@@ -95,7 +101,7 @@ images:
 
 mostrecentimage: 2013-10-01
 
-imagescredit: 'Contributions from the Providence Public Library — Rhode Island Postcard Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A21265" target=_blank" title="Opens a new window">01,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A21943" target=_blank" title="Opens a new window">02,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A21155" target=_blank" title="Opens a new window">03,</a>  <a href="//provlibdigital.org/islandora/object/islandora%3A20446" target=_blank" title="Opens a new window">04</a>); Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A10336" target=_blank" title="Opens a new window">01,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A10691" target=_blank" title="Opens a new window">02,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A10905" target=_blank" title="Opens a new window">03,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A15156" target=_blank" title="Opens a new window">04</a>)'
+imagescredit: 'Contributions from the Providence Public Library — Rhode Island Postcard Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A21265">01,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A21943">02,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A21155">03,</a>  <a href="https://provlibdigital.org/islandora/object/islandora%3A20446">04</a>); Rhode Island Photograph Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A10336">01,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A10691">02,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A10905">03,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A15156">04</a>)'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -108,19 +114,19 @@ The most iconic building in the capital city, and likely the state, has been vac
 
 As romantic lovers of turn-of-the-century architecture, we really want to see it saved. Residential makes the most sense, as especially in this post-pandemic world, the need for office space may never recover. Further, we have been in the building and it is still lovely. The unique pyramidal set-backs afford a variety of floor plans and amazing views tha sometimes look into the building itself. The upper floors are breathtaking and the lobby is just grand. Our fingers and toes are crossed that a deal will happen. 
 
-[The Providence Finance Committee approved a tax agreement](//turnto10.com/news/local/superman-building-tax-agreement-providence-rhode-island-apartment-downtown-studio-bedroom-rent-project-affordability-retail-community-grand-banking-hall){:target="_blank"} in October, 2022, that would support the conversion of this building into 285 apartments.
+[The Providence Finance Committee approved a tax agreement](https://turnto10.com/news/local/superman-building-tax-agreement-providence-rhode-island-apartment-downtown-studio-bedroom-rent-project-affordability-retail-community-grand-banking-hall) in October, 2022, that would support the conversion of this building into 285 apartments.
 {:.o__tldr}
 
 #### We support and admire the Weird Island podcast! 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/187f1d3d-4715-4760-b801-1928c245638c?dark=false"></iframe>
 
-Visit on the web: [Weird Island Episode 20: Abandoned, It’s a Bird, It’s a Plane, It’s the Superman Building](//weird-island.simplecast.com/episodes/20-abandoned-its-a-bird-its-a-plane-its-the-superman-building)
+Visit on the web: [Weird Island Episode 20: Abandoned, It’s a Bird, It’s a Plane, It’s the Superman Building](https://weird-island.simplecast.com/episodes/20-abandoned-its-a-bird-its-a-plane-its-the-superman-building)
 
 
 ### Timeline
 
 1791
-: The root of the Industrial Trust Bank, “The Providence Bank.”, is granted a charter by the General Assembly, becoming the first bank in Rhode Island and the fifth in the United States.[^1] It was organized by John and Moses Brown. It remained the only bank in Providence until the first decade of the nineteenth century.[^17] A long history of bank consolidation and renaming is accounted for at [RICurrency.com](http://www.ricurrency.com/bank-name/industrial-trust-company-providence/){:target="_blank"}
+: The root of the Industrial Trust Bank, “The Providence Bank.”, is granted a charter by the General Assembly, becoming the first bank in Rhode Island and the fifth in the United States.[^1] It was organized by John and Moses Brown. It remained the only bank in Providence until the first decade of the nineteenth century.[^17] A long history of bank consolidation and renaming is accounted for at [RICurrency.com](http://www.ricurrency.com/bank-name/industrial-trust-company-providence/)
 
 1869–70
 : The Atlantic Building is constructed running the block of Exchange St. at 49 Westminster, designed by [Alpheus Morse]({% link designer/alpheus-c-morse.html %}).[^18]
@@ -132,7 +138,7 @@ Visit on the web: [Weird Island Episode 20: Abandoned, It’s a Bird, It’s a P
 : The Atlantic Building is partially demolished and incorporated into a new Industrial Trust Company Building designed by [Stone, Carpenter & Willson]({% link designer/stone-carpenter-willson.html %}). It is expanded again in 1910 and demolished in 1970 for the Hospital Trust Tower.[^19] It was originally five bays wide at Westminster in 1892 and topped by a copper cornice. The building ran the entire depth of the block along Exchange Street from Westminster to Exchange Place (Kennedy Plaza)[^20] and was expanded in 1910 to eleven bays wide (see first two postcards). 
 
 1925
-: Construction breaks ground on this high rise tower. It occupies the site of the former [Butler Exchange Building](https://commons.wikimedia.org/wiki/File:Butler_Exchange,_c_1920.jpg){:target="_blank"}, built by businessman Cyrus Butler, which was the regarded as the most beautiful building in Providence at the time. It suffered a devastating fire and was therefore a perfect site for a new modern skyscraper. 
+: Construction breaks ground on this high rise tower. It occupies the site of the former [Butler Exchange Building](https://commons.wikimedia.org/wiki/File:Butler_Exchange,_c_1920.jpg), built by businessman Cyrus Butler, which was the regarded as the most beautiful building in Providence at the time. It suffered a devastating fire and was therefore a perfect site for a new modern skyscraper. 
 
 1928
 : The building is completed and tops 428 feet tall. 
@@ -263,6 +269,4 @@ The Rhode Island Foundation, led by president and CEO Neil Steinberg, will bridg
 
 A plan Sweetser reportedly submitted to the state last summer included more than 280 apartment units, with 10 percent earmarked for affordable housing. That project was estimated to take more than two and a half years and cost over $200 million, sources told the Globe previously.
 
-—
-
-_Captured July 4, 2022 from https://www.bostonglobe.com/2022/04/12/metro/providences-superman-building-wont-be-vacant-much-longer/_
+— _Captured July 4, 2022 from https://www.bostonglobe.com/2022/04/12/metro/providences-superman-building-wont-be-vacant-much-longer/_
