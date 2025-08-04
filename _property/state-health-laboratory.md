@@ -100,6 +100,35 @@ Other nearby residential buildings have come across as schlocky in their design 
 
 ### In the News
 
+#### Investing in RI's bid to become a life sciences leader
+
+_by Jonny Williams_  
+**Providence Journal** | arch 16, 2025 (abridged)
+
+[…] For much of its post-Revolutionary history, Rhode Island was a leader in textile manufacturing and jewelry production. The state was, in fact, known as the “jewelry capital of the world.”
+
+But the 20th century saw manufacturing decline. Mills that once employed thousands of workers have been turned into housing, and Providence’s Jewelry District is now the site of restaurants and block parties. Since then Rhode Island has, in a sense, been searching for its occupational identity.
+
+Mark Turco, who was recently appointed as the CEO and president of the Rhode Island Life Science Hub, wants to take a stab at the answer.
+
+“Our hope now is that life science becomes one of those hubs in the area that will replace the loss of jewelry and textiles over time,” Turco said.
+
+Life sciences, which encompass biotechnology, biopharma and medical technologies, have been gaining momentum in Rhode Island. The industry has a 31% higher concentration in the state than the national average, according to the Rhode Island Commerce Corp.
+
+While academic collaboration exists, there hasn't been a convener to shepherd the growth of the industry. That is where Turco and the RI Life Science Hub step in. […]
+
+“We have a great untold story here in Rhode Island where there is tremendous science and technology across our academic institutions and academic health care systems,” Turco said. […]
+
+At 150 Richmond St., in Providence’s Jewelry District, construction is afoot on Ocean State Labs, one of the state's first life sciences incubators. RI Life Science invested $9 million in the building, which is scheduled to open in 2025 and is a public-private partnership. Eventually, it will also house the Rhode Island Department of Health.
+
+Turco said building an incubator will allow Rhode Island to develop life science technologies in-house.
+
+“One of the issues that Rhode Island has had is that we would have amazing technologies coming out of Brown University or coming out of the University of Rhode Island that would leave the state because there were no specific lab areas for those companies and technologies to move into. And now with the opening of this building, hopefully by the end of this year, end of 2025, we will have the opportunity for spin-outs from our health systems and academic institutions that stay in the state,” Turco said.
+
+— Williams, Jonny. “Investing in RI’s bid to become a life sciences leader.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 16 Mar. 2025, p. A28. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/19F5A789C259A388. Accessed 3 Aug. 2025.
+
+***
+
 #### New State Health Lab would go in $165 million Jewelry District building
 
 _by Patrick Anderson_  
