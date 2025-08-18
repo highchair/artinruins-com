@@ -2,9 +2,9 @@
 title: "Autocar & Studebaker Trucks"
 slug: autocar-studebaker-trucks
 aka: 'National Office Furniture'
-date-modified: 2025-07-03 14:00
-update: 'Added images of the recent renovations and exterior painting from Chloé Hurley'
-update-image: studebaker-ch-2025-06-01.jpg
+date-modified: 2025-08-16 12:00
+update: 'Added images of the recent renovations and exterior signage'
+update-image: studebaker-jh-2025-08-02.jpg
 
 built: 'circa 1930'
 demolition:
@@ -17,7 +17,7 @@ neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: []
 people: []
-lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
+lists: [ 'North Main Street Commercial Corridor', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Art Deco', 'Yellow brick' ]
 
 NRHP-ref-number:
@@ -62,11 +62,15 @@ images:
   - url: studebaker-ch-2025-06-03.jpg
     sizes: '1440, 900'
     caption: 'Photo by Chloé Hurley'
+  - url: studebaker-jh-2025-08-01.jpg
+    sizes: '1440, 900'
+  - url: studebaker-jh-2025-08-02.jpg
+    sizes: '1440, 900'
   - url: 1951-sanborn-vol2-p77-01.jpg
     caption: '1920–1951 Sanborn Insurance Map, Volume 2, plate 77 — Library of Congress, Maps Division'
     sizes: '1440, 900'
 
-mostrecentimage: 2025-07-01
+mostrecentimage: 2025-08-01
 
 imagescredit: 'Contribution from the Library of Congress and Chloé Hurley'
 
@@ -89,7 +93,11 @@ The building’s main entrance is a nice, symmetrical, commercial storefront wit
 
 ### Current Events
 
-National Office Furniture moved in 2023 from this location to Elmgrove Avenue next to a Santander Bank Branch. [Their website](https://www.nationaloffice.com/) (as of May, 2023) has not been updated with the new address.
+National Office Furniture moved in 2023 from this location to Elmgrove Avenue next to a Santander Bank Branch.
+
+The recent new signage links this location with 700–740 North Main Street’s **Dean Auto Collision Center/Richmond Motor Sales and Rentals** and **The Law Office of Thomas E. Badway & Associates, LLC**. 
+
+Christopher Maselli, Esq. is listed as the Agent for Richmond Motor Sales and as the Agent associated with <a href="https://opencorporates.com/companies/us_ri/001762771">1100 North Main LLC</a> as well. The mailing address for that corporation is 1052 North Main Street, the address of The Law Office of Thomas E. Badway & Associates, LLC. The also are associated with the former [Benny’s Auto at 1100 North Main Street]({% link _property/bennys-auto-pvd.md %}).
 
 
 ### History
