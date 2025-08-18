@@ -2,7 +2,9 @@
 title: "Benny’s Automotive"
 slug: bennys-auto-pvd
 aka:
-date-modified: 2020-06-30 19:00
+date-modified: 2025-08-16 13:00
+update: 'Added new photos of the paint job and new windows, as well as info about the owners'
+update-image: bennys-auto-jh-2025-08-03.jpg
 
 built: 'circa 1965'
 demolition:
@@ -12,7 +14,7 @@ date-added: '2020'
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'North Main Street Commercial Corridor' ]
 tags: [ 'Needs History' ]
 
@@ -44,8 +46,18 @@ images:
     sizes: '1440, 900'
   - url: bennys-auto-jh-2020-06-07.jpg
     sizes: '900, 900'
+  - url: bennys-auto-jh-2025-08-01.jpg
+    sizes: '1440, 900'
+  - url: bennys-auto-jh-2025-08-02.jpg
+    sizes: '1440, 900'
+  - url: bennys-auto-jh-2025-08-03.jpg
+    sizes: '1440, 900'
+  - url: bennys-auto-jh-2025-08-04.jpg
+    sizes: '1440, 900'
+  - url: bennys-auto-jh-2025-08-05.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2020-06-01
+mostrecentimage: 2025-08-01
 
 imagescredit: 
 ---
@@ -63,7 +75,9 @@ The building itself is an “L” shaped box — nothing terribly interesting. 
 
 ### Current Events
 
-The site has been vacant since 2017. It is still in pretty good condition as Carpionato Properties seeks a new tenant. 
+The site has been vacant since 2017. Its recent upgrade in paint and window treatment has gotten the stark black and white look popular with Thomas Badway and **Dean Auto Collision Center/Richmond Motor Sales and Rentals**. They are located at 700–740 North Main Street and own buildings in and around that main address.
+
+Christopher Maselli, Esq. is listed as the Agent for Richmond Motor Sales and as the Agent associated with <a href="https://opencorporates.com/companies/us_ri/001762771">1100 North Main LLC</a> as well. The mailing address for that corporation is 1052 North Main Street, the address of The Law Office of Thomas E. Badway & Associates, LLC. The also are associated with the former [Autocar & Studebaker Trucks dealership at 36 Branch Avenue]({% link _property/autocar-studebaker-trucks.md %}).
 
 
 ### History
