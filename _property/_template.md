@@ -2,17 +2,17 @@
 title: ""
 slug:
 aka:
-date-modified: 2025-06-01 12:00
+date-modified: 2025-08-01 12:00
 update:
 update-image:
-prop-number: 430
+prop-number: 436
 
 built:
 demolition:
 redeveloped:
 units:
 decade: '1900-1909'
-date-added: '2025' #Month
+date-added: '2025' #July
 categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding', '#NotInRuins', '#UrbanDecay', '#DemolitionAlert' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]

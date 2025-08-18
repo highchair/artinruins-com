@@ -1,6 +1,16 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: lincoln-mall
+  person: 'ML'
+  date: '2025-08-06'
+  content: 'Was assigned to the Gap store at Lincoln Mall as store manager in the early 80’s. It was either Papa Gino’s or Newport Creamery for lunch/dinner. The mall had a good mix of stores. Woolco was still there  when I started. I can’t recall if Caldor replaced it or if they were on the other end. Two very nice, friendly women ran the small Fields Hosiery store. I haven’t driven thru Lincoln since the early 90’s!'
+
+- property: broadway-dean-garages
+  person: 'Ann Lambert'
+  date: '2025-08-05'
+  content: 'I found this post while looking for information on the Barton’s children’s Furniture Company. I have a vintage children’s table and chairs. That looks to be from the 50’s or 60’s. But I can’t seem to find any other information on them.'
+
 - property: hp-rp-gladding-house-pvd
   person: 'Keith Haupt, Jr.'
   date: '2025-07-14'
