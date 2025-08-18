@@ -31,6 +31,9 @@ thumbnail: mee-hong-placesetting-1938.jpg
 images:
   # url: mee-hong-placesetting-1938.jpg
   #  caption: 'The “Chow Mein, Chicken Wings, and Cheeseburgers” exhibit at the Culinary Arts Museum at Johnson & Wales University featured a 1938 table and setting from Mee Hong restaurant. Providence Journal file photo November 10, 2016.'
+  - url: 1938-chinese-consolidated-benevolent-assoc-page1.jpg
+    caption: 'Advertisements for Hon Hong, Mee Hong, and King’s Restuarant. Inside page from a 1938 booklet on the Sino-Japanese War published by the Chinese Consolidated and Benevolent Association — Contributed by Rich Fitzpatrick'
+    sizes: '664, 1118'
   - url: mee-hong-jb-1975.jpg
     alt: 'Three different Chinese food restaurants. Mee Hong was inside a two story commercial building with an enameled steel facade. Two large picture windows have large rounded outside corners while the central double door entrance has a split circle window down the center of it. A very large neon sign occupies the entire second story of the facade.'
     caption: 'Black and white film scan of a photo taken in 1975 by John Ballantine'
@@ -71,7 +74,7 @@ images:
     caption: 'Many comments mentioned Port Arthur, seen here on the corner of Dorrance and Westminster. Date unknown.'
     sizes: '1192, 792'
 
-imagescredit: 'Contributions from John Ballantine, <a href="https://www.re-vision.com/photography/providence/">Jay Boersma</a>, <a href="https://provlibdigital.org/islandora/object/VM011_03_02_073">John Hutchins Cady Research Scrapbooks Collection (page 73)</a> at the Providence Public Library, <a href="https://www.flickr.com/photos/cityarchives/15819358009/">Providence City Archves</a>, and Google Streetview.'
+imagescredit: 'Contributions from <a href="https://www.braintreeusedbooks.com/">Rich Fitzpatrick</a>, John Ballantine, <a href="https://www.re-vision.com/photography/providence/">Jay Boersma</a>, <a href="https://provlibdigital.org/islandora/object/VM011_03_02_073">John Hutchins Cady Research Scrapbooks Collection (page 73)</a> at the Providence Public Library, <a href="https://www.flickr.com/photos/cityarchives/15819358009/">Providence City Archves</a>, and Google Streetview.'
 
 external:
   - source: 'Photos: Restaurants in Providence, Providence Journal'
