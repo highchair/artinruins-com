@@ -2,9 +2,9 @@
 title: "Tempo & Tandem"
 slug: tempo-tandem-pvd
 aka: 'Parcel 9'
-date-modified: 2025-05-17 13:00
+date-modified: 2025-08-10 13:00
 update: 'Added new images of the construction of phase 2'
-update-image: tempo-tandem-jh-2025-05-01.jpg
+update-image: tempo-tandem-jh-2025-08-01.jpg
 
 built: '2023–2024'
 parcel: 9
@@ -55,8 +55,10 @@ images:
     sizes: '1440, 900'
   - url: tempo-tandem-jh-2025-07-01.jpg
     sizes: '1440, 900'
+  - url: tempo-tandem-jh-2025-08-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2025-07-01
+mostrecentimage: 2025-08-01
 
 imagescredit:
 
