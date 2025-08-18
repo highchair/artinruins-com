@@ -2,9 +2,9 @@
 title: "Washington Laundry"
 slug: 32-branch-avenue
 aka:
-date-modified: 2025-07-03 15:00
+date-modified: 2025-08-17 15:00
 update: 'Added a recent photo of this building now that its neighbor has been painted'
-update-image:
+update-image: 32-branch-jh-2025-08-01.jpg
 
 built: 'circa 1930'
 demolition: 
@@ -15,7 +15,7 @@ date-added: '2004'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Art Deco', 'Needs History' ]
@@ -27,6 +27,8 @@ address: '32 & 34 Branch Ave, Providence RI'
 latitude: '41.8423665'
 longitude: '-71.4107652'
 gmap: "https://www.google.com/maps/place/32+Branch+Ave,+Providence,+RI+02904/@41.8423665,-71.4107652,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444e0da8f7117:0x90b0a921f9812968!8m2!3d41.8423665!4d-71.4085765"
+street: [ 'Branch Ave' ]
+street-number: 32
 
 meta: ""
 excerpt: "A nice, simple early 20th century building on a busy commercial corridor with some subtle Art Deco details"
@@ -36,24 +38,26 @@ thumbnail: 32-branch-2004-04-01.jpg
 images:
   - url: 32-branch-2004-04-01.jpg
     alt: 'A two-story, six bay wide red brick commercial building with concrete, Art Deco-style decorative cornice elements sitting above a concrete stringcourse. The facade is nicely but simply detailed, while the other three sides of the building have little to no detail.'
-    sizes: '1200, 900'
+    sizes: '4, 3'
   - url: 32-branch-2004-04-02.jpg
-    sizes: '1440, 900'
+    sizes: '8, 5'
   - url: 32-branch-2004-04-03.jpg
-    sizes: '1200, 900'
+    sizes: '4, 3'
   - url: 32-branch-2004-04-04.jpg
-    sizes: '1440, 900'
+    sizes: '8, 5'
   - url: 32-branch-2004-04-05.jpg
-    sizes: '1440, 900'
+    sizes: '8, 5'
   - url: 32-branch-jh-2025-06-01.jpg
-    sizes: '1200, 900'
+    sizes: '4, 3'
+  - url: 32-branch-jh-2025-08-01.jpg
+    sizes: '16, 9'
   - url: 32-branch-gmhopkins-1937-01.jpg
     caption: '1937 G.M. Hopkins Insurance Map — Secretary of State Digital Collections'
-    sizes: '1440, 900'
+    sizes: '8, 5'
 
 imagescredit: 'Contribution by <a href="https://sosri.access.preservica.com/uncategorized/IO_d13a72a1-f876-4bf3-a099-9f19e0632a9a/">Secretary of State Digital Collections</a>'
 
-mostrecentimage: 2025-07-01
+mostrecentimage: 2025-08-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -68,6 +72,8 @@ The [Groden Center](https://www.grodencenter.org), a specialty learning center, 
 ### Current Events
 
 The building is the current home of [Nicki’s Liquors](https://nikkisliquors.com), a craft beer and wine store. They have been at this location since 2015.
+
+[According to tax records](https://data.nereval.com/PropertyDetail.aspx?town=Providence&accountnumber=34802&card=1), the building is owned by National Small Ventures LLC. The address listed is 32 Branch but the photo is of 36 Branch Avenue, the former [Autocar & Studebaker Trucks]({% link _property/autocar-studebaker-trucks.md %}). With the matching paint job on both buildings, we are guessing that they have the same owner which is associated with 700–740 North Main Street’s **Dean Auto Collision Center/Richmond Motor Sales and Rentals** and **The Law Office of Thomas E. Badway & Associates, LLC**. 
 
 
 ### History
