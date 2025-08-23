@@ -12,7 +12,7 @@ redeveloped:
 units:
 decade: '1890-1899'
 date-added: '2022'
-categories: [ '#DemolitionAlert', '#UsedToBeThere']
+categories: [ '#UrbanDecay']
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]

@@ -10,7 +10,7 @@ redeveloped:
 units:
 decade: '1930-1939'
 date-added: '2023'
-categories: [ '#DemolitionAlert' ]
+categories: [ '#NotInRuins' ]
 neighborhoods: [ 'North Providence' ]
 town: [ 'Providence, RI' ]
 designers: []

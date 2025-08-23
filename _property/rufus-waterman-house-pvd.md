@@ -10,13 +10,13 @@ redeveloped:
 units:
 decade: '1870-1879'
 date-added: '2023'
-categories: [ '#DemolitionAlert' ]
+categories: [ '#NotInRuins' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown', 'Walter Bronhard' ]
 people: [ 'Rufus Waterman' ]
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
-tags: [ 'Demolition by Progress', 'House', 'Queen Anne' ]
+tags: [ 'House', 'Queen Anne' ] # 'Demolition by Progress',
 
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
@@ -57,7 +57,7 @@ images:
 
 mostrecentimage: 2024-08-01
 
-imagescredit: 'Contribution from the <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>'
+imagescredit: 'Contribution from the <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -96,7 +96,7 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 
 There is more than one Rufus Waterman House, and many Rufus Watermans. There are three houses — the University Club (1830) at 219 Benefit Street, also known as the Rufus and Emily Waterman House; there is a Rufus Waterman House (1863) at 188 Benefit Street; and this one.
 
-And which Rufus Waterman is this house named after? There was a Rufus Waterman born 1710 in Providence RI.[^1] One of his brothers, Amaziah (born 1713), had a son named Rufus born in 1746. There was another born in 1817 ([son of Henry Waterman and Sarah Thurber](//www.findagrave.com/memorial/21399560/rufus-waterman){:target="_blank"}), and his third son, born 1844, was also named Rufus (Lt. Rufus Waterman Jr., who also had a son named Rufus in 1870, Rufus Waterman III).
+And which Rufus Waterman is this house named after? There was a Rufus Waterman born 1710 in Providence RI.[^1] One of his brothers, Amaziah (born 1713), had a son named Rufus born in 1746. There was another born in 1817 ([son of Henry Waterman and Sarah Thurber](https://www.findagrave.com/memorial/21399560/rufus-waterman)), and his third son, born 1844, was also named Rufus (Lt. Rufus Waterman Jr., who also had a son named Rufus in 1870, Rufus Waterman III).
 
 [^1]: Richard Waterman, born 1675, had a son Amaziah, born 1713, who had four children — Nathan, Elisha, Rufus, and Richard. Richard Waterman was one of Roger William’s associates in the settlement of the State, which partially explains the prominence of this family. Waterman Street is likely named for his memory.
 
