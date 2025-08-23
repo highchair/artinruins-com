@@ -234,6 +234,10 @@ blockquote {
     padding-bottom: $vertical-rhythm;
     padding-left: 1.375em;
   }
+
+  p i, p em {
+    font-style: normal;
+  }
 }
 
 hr {
