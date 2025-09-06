@@ -37,10 +37,13 @@ excerpt: "As if being the center of a 1970s crime syndicate isn’t enough, this
 thumbnail: church-mediator-jh-2024-10-03.jpg
 
 images:
-  - url: church-mediator-kerry-hopkins.jpg
-    caption: 'Photo of the previous church building provided by Kerry Hopkins; News clipping provided by Michael Laferriere'
+  - url: church-mediator-harvardlib-1899-10-01.jpg
+    caption: 'Fiftieth Anniversary, Church of the Mediator, booklet cover, 1899 — Harvard Library Collection. Thanks to Kerry Hopkins for the source material URL.'
     alt: 'A low and wide red brick building with thick walls, no intact openings for windows, and a central double-wide entrance on the southern side. The roof is flat but the facade and bricked in window details make it obvious that it used to be a church.'
-    sizes: '694, 500'
+    sizes: '860, 1024'
+  - url: church-mediator-news-clippings.jpg
+    caption: 'News clipping provided by Michael Laferriere and Beth Feltus (via Facebook)'
+    sizes: '860, 600'
   - url: church-mediator-jh-2024-10-01.jpg
     sizes: '1440, 900'
   - url: church-mediator-jh-2024-10-02.jpg
@@ -52,7 +55,7 @@ images:
 
 mostrecentimage: 2024-10-01
 
-imagescredit: 'Contributions by Kerry Hopkins and Michael Laferriere'
+imagescredit: 'Contributions by Kerry Hopkins, Michael Laferriere, Beth Feltus, and the <a href="https://iiif.lib.harvard.edu/manifests/view/drs:50858899$1i">Harvard Library Collection</a>'
 
 external:
   - source: 'Providence Journal article about the 2019 movie “The Vault”'
@@ -61,7 +64,7 @@ external:
 
 ### Redevelopment
 
-**Hudson Furs** moved into this former ecclesiastical building in 1939. By then it had been home to two different congregations and had sustained considerable damage in the Hurricane of 1938. Enough damage that very little remains of the once magnificent building that featured a tall spire and steep gable roof.
+**Hudson Furs** moved into this former ecclesiastical building in 1939. By then it had been home to two different congregations and had sustained damage to the church spire in the Hurricane of 1938. Very little remains of the once magnificent building that featured a tall spire and steep gable roof.
 
 From what we can tell by looking at the supplied photo of the former church, the remaining building is about a third of what must have been a 50 foot roof height — the tower was 60 foot tall and the spire was 110. The remains were split into two stories of interior space with an added flat roof.
 
@@ -95,7 +98,11 @@ Much of the research here comes from Facebook user Kerry Hopkins, Treasurer of t
 
 The building was completed by 1869 for the congregation of the Second Universalist Church, who had only spent five years in [their first building on Weybosset Street]({% link _property/second-universalist-church.md %}) downtown. A congregation of the Seventh Day Adventists moved from Ontario Street and purchased the building by 1924.
 
-A clipping from the Providence Evening Bulletin on May 28, 1939 reported the building had been damaged by the 1938 Hurricane in September the previous year. 
+A news story in the Providence Journal dated Saturday, September 24, 1938, detailed how the spire had been damaged:
+
+> The steeple of the Cranston Street Seventh Day Adventist Church, badly battered Wednesday night when the gale stripped it almost to its framework, was condemned as unsafe yesterday by Inspector of Buildings Alexander Addeo. […] Despite police orders and the menace of the fragile brick and slate-covered steeple residents in the immediate vicinity refused to move from their homes, saying they had no place to go and that no accommodations had been offered them.
+
+While the report talks about the steeple, it is unclear if the rest of the building was also heavily damaged to the point of no longer being a functioning church. Soon after the hurricane, though, the church changes hands. A clipping from the Providence Evening Bulletin on May 28, 1939 details how Hudson Furs was moving in: 
 
 > “To Become Storage Plant” _[said the sub-headline](#photo-church-mediator-kerry-hopkins)_. “The permit, issued to the Hudson Cold Storage Company and calling for an expenditure of $15,000, was the largest recorded in this section of the State during the last seven days.”
 
