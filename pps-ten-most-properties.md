@@ -150,7 +150,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
   <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Ward Baking Company Administration Building]({% link _property/ward-baking-co.md %}), 145 Globe Street (1908-1956)
 + **Historic Middle School Buildings**:  
   As exemplified by:  
-  Gilbert Stuart Middle School, 188 Princeton Avenue (c. 1930)  
+  [Gilbert Stuart Middle School]({% link _property/gilbert-stuart-middle-school.md %}), 188 Princeton Avenue (c. 1930)  
   Roger Williams Middle School, 278 Thurbers Avenue (1932)  
   Nathanael Greene Middle School, 721 Chalkstone Avenue (1929)
 + **Historic Religious Buildings**:  
