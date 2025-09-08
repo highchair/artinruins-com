@@ -2,9 +2,9 @@
 title: "Waterman Street, #230"
 slug: 230-waterman-st-pvd
 aka: 'Monahan Drabble Sherman Funeral Home, McBride’s Pub'
-date-modified: 2025-01-06 13:00
-update: 'Added two recent photos of the building as it still stands, two years after a decision to raze it'
-update-image: 230-waterman-jh-2024-10-01.jpg
+date-modified: 2025-09-06 14:00
+update: 'Added a recent photo of the adjacent building, home to McBride’s Irish Pub'
+update-image: 161-wayland-jh-2025-08-01.jpg
 
 built: '1892'
 demolition:
@@ -15,7 +15,7 @@ date-added: '2022'
 categories: [ '#UrbanDecay']
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Demolition by Progress', 'House', 'Needs History', 'Providence Public Library Digital Collections' ]
@@ -58,8 +58,11 @@ images:
     sizes: '1200, 900'
   - url: 230-waterman-jh-2024-10-01.jpg
     sizes: '1440, 900'
+  - url: 161-wayland-jh-2025-08-01.jpg
+    caption: 'McBride’s recently expanded with a new entrance and outdoor porch'
+    sizes: '1440, 900'
 
-imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%3A5469">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library'
+imagescredit: 'Contribution from the <a href="https://provlibdigital.org/islandora/object/VM011_03_03_142">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -74,9 +77,11 @@ The development required a variance to support the fifth floor, the number of pa
 
 The Providence Preservation Society (<span class="abbr">PPS</span>) [opposed the demolition in a letter](https://ppsri.org/wp-content/uploads/2022/11/2022-11-14-230-Waterman-CPC-letter.pdf) to the <span class="abbr">CPC</span> dated November, 2022. They were the sole voice of opposition during these meetings.
 
+During the November 15th <span class="abbr">CPC</span> meeting, the demolition of this 1892 home was approved unanimously. There are no protections for the home, as it does not sit inside an existing historic district. In response to <span class="abbr">PPS</span>’ comments, the developer stated that “incorporation of the existing building would be impossible” but we feel that this is more a lack of willingness and imagination rather than an architectural impossibility.
+
 #### A General Complaint about the City Plan Commission
 
-We agree with an assessment made by Gabriel Sender originally directed at the I-195 Redevelopment District Commission (<span class="abbr">RDC</span>). These comments can certainly apply to the <span class="abbr">CPC</span> as well.
+We agree with an assessment made by Gabriel Sender originally directed at the I-195 Redevelopment District Commission (<span class="abbr">RDC</span>). These comments can certainly apply to the <span class="abbr">CPC</span> as well:
 
 > […] the lack of regard the I-195 Commission has for the community is obvious and unacceptable. […] The committee currently meets once a month publicly at 5 p.m. on Zoom. This is a deeply problematic practice for a number of reasons […] Firstly, a once-a-month meeting seems insufficient for accurately gauging community input on various development proposals, especially when there have already been vocal objectors in the community. Secondly, 5 p.m. is a particularly poor time to hold a community meeting. This is during rush hour, when many people are just getting off of work, or when others are sitting down for dinner, picking up children or running other errands. Placing a community meeting at 5 p.m. then excludes a vast number of residents from having a chance to contribute to the discussion, allowing only those with significant free time to do so […] [M]any believe the entire planning process is exclusionary.  
 Further, these meetings hardly provide any opportunity for community members to speak, demonstrating only a facade of caring for the community. Public comment in every recent meeting of the I-195 Commission has been limited to 15 minutes total. Each member of the community is allowed to speak for three minutes at most, and they only have the opportunity to do so if they email the committee in advance.
@@ -88,9 +93,9 @@ The fact that <span class="abbr">PPS</span> was the only individual or group opp
 
 ### Current Events
 
-During the November 15th <span class="abbr">CPC</span> meeting, the demolition of this 1892 home was approved unanimously. There are no protections for the home, as it does not sit inside an existing historic district. In response to <span class="abbr">PPS</span>’ comments, the developer stated that “incorporation of the existing building would be impossible” but we feel that this is more a lack of willingness and imagination rather than an architectural impossibility.
+Two years later, the building is still standing and McBride’s Pub is expanding. They must have reached some sort of agreement that preserves their addition to the funeral home building, should the rest of the building be razed.
 
-Two years later, the building is still standing and McBride’s is in business. We have not heard any chatter about what has stalled this development, but we are glad the building was not razed in preparation for a new building that has yet to materialize.
+We have not heard any chatter about what has stalled this development, but we are glad the building was not razed in preparation for a new building that has yet to materialize.
 
 
 ### History
@@ -100,7 +105,7 @@ _From a letter to the City Planning Commission from the Providence Preservation 
 The former funeral home is characteristic of the turn-of-the-century residences found on the East Side of Providence. The structure predates the commercial district in which it is located today, and is one of the only remaining structures of its kind. As this area was overlooked for inclusion in the National Register historic district nomination, it is imperative that we foster good stewardship of these properties. Without this foresight, the character of this neighborhood will be lost entirely.
 
 — Adriana Hazelton, Advocacy Manager, Providence Preservation Society  
-November 14, 2022 ([Source letter](//ppsri.org/wp-content/uploads/2022/11/2022-11-14-230-Waterman-CPC-letter.pdf){:target="_blank"})
+November 14, 2022 ([Source letter](https://ppsri.org/wp-content/uploads/2022/11/2022-11-14-230-Waterman-CPC-letter.pdf))
 
 ***
 
