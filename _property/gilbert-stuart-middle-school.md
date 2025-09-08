@@ -2,7 +2,7 @@
 title: "Gilbert Stuart Middle School"
 slug: gilbert-stuart-middle-school
 aka:
-date-modified: 2025-08-01 12:00
+date-modified: 2025-09-05 12:00
 update:
 update-image:
 prop-number: 437
@@ -19,7 +19,7 @@ town: [ 'Providence, RI' ]
 designers: []
 people: []
 lists: [ 'PPS Ten Most Endangered' ]
-tags: [ 'Demolition by Progress', 'Former/Current Schools' ]
+tags: [ 'Demolition by Progress', 'Former/Current Schools', 'Yellow brick' ]
 
 NRHP-ref-number:
 added-to-NRHP:

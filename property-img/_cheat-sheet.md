@@ -25,6 +25,8 @@ _From the PPS/AIAri Providence Architecture Guide, 2003, by Wm. MacKenzie Woodwa
 
 _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
+_From “Providence: A Citywide Survey of Historic Resources,” prepared by the RIHPHC, 1986_
+
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
 _From the RIHPHC survey of Providence Industrial Sites, July 1981_
