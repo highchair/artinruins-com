@@ -22,6 +22,8 @@ address: '257 Thayer St, Providence RI'
 latitude: '41.8288489'
 longitude: '-71.4006592'
 gmap: "https://www.google.com/maps/place/257+Thayer+St,+Providence,+RI+02906/@41.8288489,-71.4006592,19z/data=!4m5!3m4!1s0x89e445249c5725a5:0x3e5769d3ec6175f8!8m2!3d41.8288489!4d-71.4001111"
+street: [ 'Thayer' ]
+street-number: 257
 
 meta: ""
 excerpt: "Gilbane Development Company created a new student housing complex by razing nine historic homes"

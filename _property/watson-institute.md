@@ -22,6 +22,8 @@ address: '111 Thayer St, Providence, RI'
 latitude: '41.8243361'
 longitude: '-71.4020539'
 gmap: "https://www.google.com/maps/place/Watson+Institute+for+International+and+Public+Affairs/@41.8243361,-71.4020539,17z/data=!4m13!1m7!3m6!1s0x89e4453b86f11db5:0x1f017caeb742ea60!2s111+Thayer+St,+Providence,+RI+02912!3b1!8m2!3d41.8243361!4d-71.3998652!3m4!1s0x89e4453b86f11db5:0x87847de976482046!8m2!3d41.8243539!4d-71.3999158"
+street: [ 'Thayer' ]
+street-number: 111
 
 meta: ""
 excerpt: "A 56,000 square foot center for Brown University’s international studies students"

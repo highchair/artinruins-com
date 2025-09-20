@@ -27,6 +27,7 @@ address: 'Thayer Street, Providence RI'
 latitude: '41.8297896'
 longitude: '-71.4010553'
 gmap: "https://www.google.com/maps/place/Thayer+St,+Providence,+RI/@41.8297896,-71.4010553,19z"
+street: [ 'Thayer' ]
 
 meta: ""
 excerpt: "The ever changing face of Thayer Street captured whenever we can (mostly from 2004 and 2020)"

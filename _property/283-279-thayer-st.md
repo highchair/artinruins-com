@@ -27,6 +27,8 @@ address: '283–279 Thayer St, Providence RI'
 latitude: '41.8296182'
 longitude: '-71.4011404'
 gmap: "https://www.google.com/maps/place/281+Thayer+St,+Providence,+RI+02906/@41.8296182,-71.4011404,19z/data=!4m5!3m4!1s0x89e4452378d67791:0x3e0e4a16802f3ccf!8m2!3d41.8296182!4d-71.4005932"
+street: [ 'Thayer' ]
+street-number: 283
 
 meta: ""
 excerpt: "Another erosion of the neighborhood fabric, moving from wood-built houses to slick “modern concept” commercial structures"
@@ -141,11 +143,11 @@ The demolition of so many other properties in this section of the district made 
 
 ### Current Events
 
-A proposal by Michael Boutros and his development company Two Cousins came before the Providence City Plan Commission in May of 2022. Mr. Boutros is also owner of the adjacent commercial block with current tenants Chinatown and Mighty Mike’s Pizza.[^1] The proposal included a [new four story apartment building with ground floor retail (PDF plans)](//www.providenceri.gov/wp-content/uploads/2022/04/22-023MA-279-Thayer-St.pdf){:target="_blank"} on the site, using all of the available land. After a few rounds of design review changes, the plan was approved. As far as we know, while the meetings were public, there was little neighborhood input on the plans.
+Paul and Michael Boutros and their business partnership, Two Counsins, own the adjacent commercial block with current tenants Chinatown and Mighty Mike’s Pizza.[^1] They were the developers for the now completed [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}), which is a four-story apartment building with ground-floor retail.
 
 [^1]: Rasquinha, Rhea. “Turnover on Thayer: many closures, some new developments.” Brown Daily Herald, September 8, 2022. Accessed October 25, 2022 from https://www.browndailyherald.com/article/2022/09/turnover-on-thayer-many-closures-some-new-developments
 
-Paul Boutros (the other cousin, presumably) and Two Cousins is the developer for the building to replace [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}), also a four-story apartment building with ground-floor retail.
+Similar plans seem to have stalled at this location, with construction progress proceeding very slowly. See our page about the new building with the postal address [279 Thayer Street]({% link _property/279-thayer-st.md %}).
 
 
 ### History
