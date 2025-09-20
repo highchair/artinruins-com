@@ -45,6 +45,7 @@ We also have a [**To Do list** of items to research or update]({% link to-do-lis
 
 Thank you, thank you, thank you to the following folks who have contributed in one way or another:
 
++ John Woolsey, donation September 2025
 + Victoria D Lemont, Alice Lim, donation May 2025
 + Anne Holland, donation March 2025
 + Amelia Huang, donation February 2025
