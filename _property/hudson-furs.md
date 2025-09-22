@@ -44,6 +44,9 @@ images:
   - url: church-mediator-news-clippings.jpg
     caption: 'News clipping provided by Michael Laferriere and Beth Feltus (via Facebook)'
     sizes: '860, 600'
+  - url: church-mediator-hurricane-1938-p36.jpg
+    caption: 'Page 36 from the booklet, “The Great Hurricane and Tidal wave, Rhode Island, September 2l, 1938” courtesy the Hathi Trust'
+    sizes: '1024, 1024'
   - url: church-mediator-jh-2024-10-01.jpg
     sizes: '1440, 900'
   - url: church-mediator-jh-2024-10-02.jpg
@@ -55,7 +58,7 @@ images:
 
 mostrecentimage: 2024-10-01
 
-imagescredit: 'Contributions by Kerry Hopkins, Michael Laferriere, Beth Feltus, and the <a href="https://iiif.lib.harvard.edu/manifests/view/drs:50858899$1i">Harvard Library Collection</a>'
+imagescredit: 'Contributions by Kerry Hopkins, Michael Laferriere, Beth Feltus, <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015062276665&seq=36">The Hathi Trust</a>, and the <a href="https://iiif.lib.harvard.edu/manifests/view/drs:50858899$1i">Harvard Library Collection</a>'
 
 external:
   - source: 'Providence Journal article about the 2019 movie “The Vault”'
@@ -102,7 +105,16 @@ A news story in the Providence Journal dated Saturday, September 24, 1938, detai
 
 > The steeple of the Cranston Street Seventh Day Adventist Church, badly battered Wednesday night when the gale stripped it almost to its framework, was condemned as unsafe yesterday by Inspector of Buildings Alexander Addeo. […] Despite police orders and the menace of the fragile brick and slate-covered steeple residents in the immediate vicinity refused to move from their homes, saying they had no place to go and that no accommodations had been offered them.
 
-While the report talks about the steeple, it is unclear if the rest of the building was also heavily damaged to the point of no longer being a functioning church. Soon after the hurricane, though, the church changes hands. A clipping from the Providence Evening Bulletin on May 28, 1939 details how Hudson Furs was moving in: 
+A booklet prepared to commemorate the great storm has a passage about the steeple:
+
+<figure>
+  <blockquote>
+    <p>Beauty was sacrificed in the interests of safety immediately after the storm. This steeple atop the Seventh Day Adventist Church on Cranston street in Providence was dynamited after the wind had torn away the roof and weakened the structure. An alert photographer caught the picture just as the steeple started to topple.</p>
+  </blockquote>
+  <figcaption>Page 36 from the booklet, “The Great Hurricane and Tidal wave, Rhode Island, September 2l, 1938” courtesy the Hathi Trust</figcaption>
+</figure>
+
+While the report talks about the steeple, it is unclear if the rest of the building was also heavily damaged to the point of no longer being a functioning church. [The photo shows some damage](#photo-church-mediator-hurricane-1938-p36) the the main structure, but it is difficult to tell. Soon after the hurricane, though, the church changes hands. A clipping from the Providence Evening Bulletin on May 28, 1939 details how Hudson Furs was moving in:
 
 > “To Become Storage Plant” _[said the sub-headline](#photo-church-mediator-kerry-hopkins)_. “The permit, issued to the Hudson Cold Storage Company and calling for an expenditure of $15,000, was the largest recorded in this section of the State during the last seven days.”
 
