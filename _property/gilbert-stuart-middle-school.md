@@ -92,17 +92,17 @@ Agree or disagree with school demolition, the <span class="abbr">PPSD</span> and
 
 In 2022, the first mention of Gilbert Stuart on the chopping block surfaced at a public meeting. While two other schools were the focus of demolition, Gilbert Stuart Middle School was cited as another that would start to be phased out. The school district’s deputy superintendent of operations, Zack Scott, conceded after multiple questions that the city school district’s leadership team were the ones who deliberated on the school closures — not the community, as promised in messaging.[^2] 
 
-[^2]: Russo, Amy. “RIDE, PPSD admit no community input over school closures.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 17 Dec. 2022, p. A1. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/18E767AF04B0F168. Accessed 6 Sept. 2025.
+[^2]: Russo, Amy. “RIDE, PPSD admit no community input over school closures.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 17 Dec. 2022, p. A1. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/. Accessed 6 Sept. 2025.
 
 While talking about the closure of a different school, state Representative Nathan Biah summarized the communities feelings:
 
 > “I don't think any parent wants their children to be in a broken-down school […] But... the respect that we give to the community, I think that’s what we’re missing there.”[^3]
 
-[^3]: Russo, Amy. “Parents, lawmakers resist school closings - Education officials say enrollment must dictate.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 24 Mar. 2023, p. A4. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/19075C6C21586468. Accessed 6 Sept. 2025.
+[^3]: Russo, Amy. “Parents, lawmakers resist school closings - Education officials say enrollment must dictate.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 24 Mar. 2023, p. A4. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/. Accessed 6 Sept. 2025.
 
 But the same lack of communication and transparency is prevalent. In April 2025, the School Building Committee approved the demolition plan for Gilbert Stuart, with demolition to begin in August 2025. But parents and community members cite the district’s own report about the plan. The school district’s architectural feasibility study placed a nearly $63 million price tag on demolition and reconstruction while the same study suggested that the cost to rehabilitate the existing structure would be about $12 million less.[^4]
 
-[^4]: Kohli, Nish. “Demolition of middle school is flashpoint - Some say process lacked financial transparency.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 8 Aug. 2025, p. A1. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1A25712464C5D180. Accessed 6 Sept. 2025.
+[^4]: Kohli, Nish. “Demolition of middle school is flashpoint - Some say process lacked financial transparency.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 8 Aug. 2025, p. A1. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/. Accessed 6 Sept. 2025.
 
 When pressed on the reasoning, Rhode Island Department of Education spokesperson Victor Morente said “the new school is designed to better meet accessibility and access needs for students in younger grades and those with mobility issues as well as better support multilingual learners with specific configurations for Spanish and English-speaking classrooms." The layout and access issues with the current Gilbert Stuart building provide too much of challenge to make accessible.[^5]
 
@@ -166,4 +166,4 @@ The district can still choose to renovate Mount Pleasant. Positive engagement wi
 
 _The Providence Student Union Leadership Team comprises 12 high schoolers. Senior and team co-director Dexter Vincent, senior Yasemin Eksioglu and junior Naima Gnepa, both team members, and all of Classical High School, lead the group's advocacy on Mount Pleasant High School._
 
-— Columnists, Guest. “City students want equity, stability, not ‘Newer and Fewer’.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 11 Feb. 2024, p. A20. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/19722867CF2D3160. Accessed 6 Sept. 2025.
+— Columnists, Guest. “City students want equity, stability, not ‘Newer and Fewer’.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 11 Feb. 2024, p. A20. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/ Accessed 6 Sept. 2025.

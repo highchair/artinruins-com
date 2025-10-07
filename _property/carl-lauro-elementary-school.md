@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'Broadway-Armory Historic District', 'National Register of Historic Places', ]
 tags: [ 'Former/Current Schools' ]
@@ -72,7 +72,7 @@ images:
 
 mostrecentimage: 2023-01-01
 
-imagescredit: 'Contributions from the <a href="//catalog.sos.ri.gov/repositories/2/resources/1885" target="_blank">Secretary of State Digital Collection</a>'
+imagescredit: 'Contributions from the <a href="https://catalog.sos.ri.gov/repositories/2/resources/1885">Secretary of State Digital Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -89,11 +89,11 @@ The same report was intended to assess the integrity of the building and the amo
 
 It went on to calculate the return on investment if these dollars were spent. It described a financial model that tries to estimate at which point investments into an existing building would be better spent on a newer building. It then compared that with the replacement value, “the estimated cost of replacing the current building with another building of like size, based on today’s estimated cost of construction in the Providence, Rhode Island area.” Their estimated replacement cost was $49M, more than 200% of the $23M price tag to fix everything. But balance that with the idea that for the first 10 years, a new building would require far less maintenance. 
 
-The baseline score they would want to see was 65%, but the school scored 54.30%. The details of the work required to maintain the building, the cost when compared with replacing the school, and low effeciency score prompted the Providence Public Schools District (<span class="abbr">PPSD</span>) to consider shutting down the school and replacing it. 
+The baseline score they would want to see was 65%, but the school scored 54.30%. The details of the work required to maintain the building, the cost when compared with replacing the school, and low efficiency score prompted the Providence Public Schools District (<span class="abbr">PPSD</span>) to consider shutting down the school and replacing it. 
 
 Coupled with this report, the Providence Journal reported the conditions of the school over the course of a few articles. Teachers shared harrowing details. In a 2019 article, one teacher shared her morning routine. “I would come in in the morning and spend up to 30 minutes emptying buckets, drying the floor and putting the buckets back before the students came in. I just feel like our building, and the district in general, is kind of in a constant state of triage.” It went on to detail leaky roofs, discolored tap water, broken bathroom stall doors, rodent sightings, and the presence of asbestos and lead.[^2]
 
-[^2]: List, Madeleine. "Providence school buildings still dealing with long list of issues — leaks, asbestos, rodent sightings and more." Providence Journal: Web Edition Articles (RI), sec. News, 15 Dec. 2019. NewsBank: America's News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/177E47EDE7880690. Accessed 22 Mar. 2023.
+[^2]: List, Madeleine. "Providence school buildings still dealing with long list of issues — leaks, asbestos, rodent sightings and more." Providence Journal: Web Edition Articles (RI), sec. News, 15 Dec. 2019. NewsBank: America's News, https://infoweb.newsbank.com/. Accessed 22 Mar. 2023.
 
 Why did it get this bad? Why were conditions at Lauro allowed to be “distracting at best and dangerous at worst” according to teachers quoted?[^3] A few reasons, and if we give <span class="abbr">PPSD</span> wholly the benefit of the doubt, perhaps the perfect storm of reasons. One, the deferred maintenance can partially blamed on a four-year moratorium on state-financing, which prevented districts from obtaining reimbursement for construction costs. For communities already facing budget shortfalls (but why isn’t education fully funded in the first place, you might ask), this means they were less likely to spend money that they would not be able to get back from the state.[^4]
 
@@ -111,9 +111,9 @@ In the fall of 2018, the Providence City Council approved a four-year contract e
 
 While the lack of state funding for four years, the lack of competition and the high costs of maintenance, coupled with the aging infrastructure is a perfect storm of negative conditions, the <span class="abbr">PPSD</span> is not faultless. Since we are not investigative reporters, it is difficult to point fingers to specific examples of mismanagement. But when it came to announcing the school closures in 2022, it is easy to see how the school board made mistakes in communication and possibly decision-making. It is also unclear how much of the decision came from <span class="abbr">PPSD</span> vs. <abbr title="Rhode Island Department of Education">RIDE</abbr>.
 
-In December of 2022, <span class="abbr">PPSD</span> unveiled its plan for “newer and fewer schools.” The public and families of children whose schools would be shuttered were in a tailspin of panic from the secrecy around these plans and which schools would be affected. Carl G. Lauro was one of these closures, which also included Alan Shawn Feinstein at Broad Street and Gilbert Stuart Middle School.[^7]
+In December of 2022, <span class="abbr">PPSD</span> unveiled its plan for “newer and fewer schools.” The public and families of children whose schools would be shuttered were in a tailspin of panic from the secrecy around these plans and which schools would be affected. Carl G. Lauro was one of these closures, which also included Alan Shawn Feinstein at Broad Street and [Gilbert Stuart Middle School]({% link _property/gilbert-stuart-middle-school.md %}).[^7]
 
-[^7]: Russo, Amy. “Names of closing Providence schools become public as district faces backlash over plan.” Providence Journal: Web Edition Articles (RI), sec. News, 15 Dec. 2022. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/18E6CB7BCB3D6548. Accessed 22 Mar. 2023.
+[^7]: Russo, Amy. “Names of closing Providence schools become public as district faces backlash over plan.” Providence Journal: Web Edition Articles (RI), sec. News, 15 Dec. 2022. NewsBank: America’s News, https://infoweb.newsbank.com/. Accessed 22 Mar. 2023.
 
 The board cited shrinking enrollment at these schools as one of the factors, along with the age of the buildings and maintenance costs. Even though the pandemic has led to a drop in enrollment across the country, enrollment in general has been steadily declining since 2017 from 24,075 public school students in Providence to 21,656 in 2022.[^8] Part of this is due to a lower birth rate and lower overall population, but anecdotally, more families are opting for private school choices despite the expense.
 
@@ -147,5 +147,5 @@ _From the “Broadway-Armory Historic District” National Register nomination f
 
 Links are to source material.
 
-+ [1926–27 G.M. Hopkins Insurance Map](//sosri.access.preservica.com/uncategorized/IO_e3a20035-1441-497d-a984-ef8d196caca2/){:target="_blank"}, Secretary of State Digital Collection — The western wing of the school has been built and the house lots on the eastern side look to have been razed, but plot lines are still on the map
-+ [1937 G.M. Hopkins Insurance Map](//sosri.access.preservica.com/uncategorized/IO_78f2e646-b748-4f17-b220-a158311d103a/){:target="_blank"}, Secretary of State Digital Collection — The eastern and central portions of the school have been built. Along the western side, notice how what is now called De Pasquale Ave did not continue through to Broadway and it was called “Balbo” street
++ [1926–27 G.M. Hopkins Insurance Map](https://sosri.access.preservica.com/uncategorized/IO_e3a20035-1441-497d-a984-ef8d196caca2/), Secretary of State Digital Collection — The western wing of the school has been built and the house lots on the eastern side look to have been razed, but plot lines are still on the map
++ [1937 G.M. Hopkins Insurance Map](https://sosri.access.preservica.com/uncategorized/IO_78f2e646-b748-4f17-b220-a158311d103a/), Secretary of State Digital Collection — The eastern and central portions of the school have been built. Along the western side, notice how what is now called De Pasquale Ave did not continue through to Broadway and it was called “Balbo” street
