@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: holy-name-school
+  person: 'jim killilea'
+  date: '2025-10-05'
+  content: 'Sister Prudence, Sister Marion, Mre Grundy, Right Rev Monsignor Gibbons, Father Gallagher, Father Prime (who i always thought was a pedophile)'
+
 - property: lincoln-mall
   person: 'ML'
   date: '2025-08-06'
