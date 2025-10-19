@@ -97,7 +97,7 @@ National Office Furniture moved in 2023 from this location to Elmgrove Avenue ne
 
 The recent new signage links this location with 700–740 North Main Street’s **Dean Auto Collision Center/Richmond Motor Sales and Rentals** and **The Law Office of Thomas E. Badway & Associates, LLC**. 
 
-Christopher Maselli, Esq. is listed as the Agent for Richmond Motor Sales and as the Agent associated with <a href="https://opencorporates.com/companies/us_ri/001762771">1100 North Main LLC</a> as well. The mailing address for that corporation is 1052 North Main Street, the address of The Law Office of Thomas E. Badway & Associates, LLC. The also are associated with the former [Benny’s Auto at 1100 North Main Street]({% link _property/bennys-auto-pvd.md %}).
+Christopher Maselli, Esq. is listed as the Agent for Richmond Motor Sales and as the Agent associated with <a href="https://opencorporates.com/companies/us_ri/001762771">1100 North Main LLC</a>, a corporation created as real estate management for the former [Benny’s Auto at 1100 North Main Street]({% link _property/bennys-auto-pvd.md %}). The mailing address for that corporation is 1052 North Main Street, the address of The Law Office of Thomas E. Badway & Associates, LLC.
 
 
 ### History

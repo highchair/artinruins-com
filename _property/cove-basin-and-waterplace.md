@@ -90,7 +90,12 @@ One of the reasons why it became a thriving center were the conglomeration of sh
 
 #### Other Links
 
-+ [Report upon Sanitary Effects of Filling the Cove Basin in the City of Providence](//catalog.sos.ri.gov/repositories/2/archival_objects/1000){:target="_blank"}, 1868, State Archives
++ [Report upon Sanitary Effects of Filling the Cove Basin in the City of Providence](https://catalog.sos.ri.gov/repositories/2/archival_objects/1000), 1868, State Archives
+
+##### We support and admire the Weird Island podcast! 
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/b252e82c-fcc4-43fb-8a7f-c86c2002b6d7?dark=false"></iframe>
+
+A podcast episode from Wierd Island about the evolution of Waterfire, which includes some history of the Cove. [Weird Island Episode 41. WATERFIRE: In the Renaissance City](https://weird-island.simplecast.com/episodes/41-waterfire-in-the-renaissance-city)
 
 
 ### Maps of the Cove Lands
@@ -118,17 +123,17 @@ One of the reasons why it became a thriving center were the conglomeration of sh
 : The waterways that were covered by the railroad tracks are uncovered starting in the 1980s and culminate in Waterplace Park, home of Waterfire, starting in the late 90s. The circular Cove returns, but much much smaller. 
 
 
-[Other great histories are out there](//rhodetour.org/items/show/351){:target="_blank"}, as the Cove is an interesting piece of Providence history, and might be one the most worked and reworked pieces of real estate in the state.
+[Other great histories are out there](https://rhodetour.org/items/show/351), as the Cove is an interesting piece of Providence history, and might be one the most worked and reworked pieces of real estate in the state.
 
 
 ### Map Sources and Authors
 
 + 1823
-  + Line cut of a map of Providence, 1823, from actual survey conducted by Daniel Anthony. [Collection of the Providence Public Library](//provlibdigital.org/islandora/object/islandora%3A4946){:target="_blank"}
+  + Line cut of a map of Providence, 1823, from actual survey conducted by Daniel Anthony. [Collection of the Providence Public Library](https://provlibdigital.org/islandora/object/islandora%3A4946)
   + _Daniel Anthony_ (1740-1824)  
 An American professional surveyor for the town of Providence. In 1795 or 1796 Anthony was engaged by the State to lay out the main road from the Massachusetts border to North Providence. Some time in the early 1820s the town of Providence engaged him to survey the streets of the town and produce a plat of same, the result of which was a manuscript atlas of 16 sheets, each 19" x 23", delivered by Anthony in 1823. Anthony was also a member of the Society of Friends, and in 1790 became a charter member of The Providence Society for Promoting the Abolition of Slavery.
 + 1849
-  + A map of the city of Providence from actual survey by Cushing & Walling. Sourced from [Harvard University](//iiif.lib.harvard.edu/manifests/view/ids:5271630){:target="_blank"}
+  + A map of the city of Providence from actual survey by Cushing & Walling. Sourced from [Harvard University](https://iiif.lib.harvard.edu/manifests/view/ids:5271630)
   + _Cushing & Walling_ 
 Samuel Barrett Cushing (1811-1873) was an engineer and longtime Providence surveyor and served as City Surveyor. Henry Francis Walling (1825-1888) began working with Cushing in the mid-1840s. Cushing and Walling combined to create this newly revised and updated map of Providence based upon the work of Daniel Anthony. This would also appear to be Cushing's second map of Providence, which preceded the Map of the City of Providence and Town of North Providence from actual survey by B. Lockwood & S.B. Cushing 1835. Cushing & Walling's map shows the significant expansion of Providence between 1823 and 1849. The map would be significantly revised and re-issued in 1851. 
 + 1889

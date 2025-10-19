@@ -15,7 +15,7 @@ date-added: '2012'
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'Broadway-Armory Historic District', 'National Register of Historic Places' ]
 tags: []
