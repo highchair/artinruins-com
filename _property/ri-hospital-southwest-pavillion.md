@@ -16,7 +16,7 @@ town: [ 'Providence, RI' ]
 designers: [ 'Stone, Carpenter, & Willson' ]
 people: []
 lists: [ 'PPS Ten Most Endangered' ]
-tags: [ 'Providence Public Library Digital Collections' ]
+tags: [ 'Former/Current Hospitals', 'Providence Public Library Digital Collections' ]
 
 address: '593 Eddy St, Providence RI'
 latitude: '41.811149'

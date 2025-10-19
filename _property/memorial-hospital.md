@@ -14,10 +14,10 @@ date-added: '2021'
 categories: [ '#UrbanDecay' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
-tags: []
+tags: [ 'Former/Current Hospitals' ]
 
 NRHP-ref-number:
 added-to-NRHP:

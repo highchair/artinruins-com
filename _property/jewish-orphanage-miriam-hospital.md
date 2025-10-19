@@ -19,7 +19,7 @@ town: [ 'Providence, RI' ]
 designers: [] # Barker & Turoff
 people: []
 lists: []
-tags: [ 'Demolition by Progress', 'Yellow brick' ]
+tags: [ 'Demolition by Progress', 'Former/Current Hospitals', 'Yellow brick' ]
 
 NRHP-ref-number:
 added-to-NRHP:
