@@ -2,7 +2,7 @@
 title: "William A. and Ami Kuan Danoff Life Sciences Laboratories"
 slug: brown-life-sciences-jewelry-district
 aka:
-date-modified: 2025-08-03 12:00
+date-modified: 2025-11-02 12:00
 update:
 update-image:
 prop-number: 435
@@ -66,6 +66,9 @@ images:
     sizes: '1200, 900'
   - url: brown-life-science-jh-2025-07-07.jpg
     sizes: '1440, 900'
+  - url: brown-life-science-jh-2025-10-01.jpg
+    sizes: '1200, 900'
+    caption: 'The exterior panels start to get added, and it is interesting to see how they fit together'
 
 mostrecentimage: 2025-07-01
 

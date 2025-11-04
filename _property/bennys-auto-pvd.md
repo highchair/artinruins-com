@@ -79,6 +79,8 @@ The site has been vacant since 2017. Its recent upgrade in paint and window trea
 
 Christopher Maselli, Esq. is listed as the Agent for Richmond Motor Sales and as the Agent associated with <a href="https://opencorporates.com/companies/us_ri/001762771">1100 North Main LLC</a> as well. The mailing address for that corporation is 1052 North Main Street, the address of The Law Office of Thomas E. Badway & Associates, LLC. The also are associated with the former [Autocar & Studebaker Trucks dealership at 36 Branch Avenue]({% link _property/autocar-studebaker-trucks.md %}).
 
+Towards the end of October 2025, a For Lease sign was added to the building. Apparently the site was prepared without a tenant already lined up.
+
 
 ### History
 
