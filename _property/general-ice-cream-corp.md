@@ -65,6 +65,10 @@ As far as we know, the building is still owned and operated by OpenDoors.
 
 ### History
 
+A great deep dive is available at the Providence Preservation Society’s [Guide to Providence Architecture](https://guide.ppsri.org/property/general-ice-cream-company).
+
+***
+
 _From the National Register nomination form, prepared by Elizabeth Porterfield, 2008_
 
 Construction of the General Ice Cream Corporation Building in 1915 by Sam Dolbey coincided with a period of significant growth in the national ice cream industry. A healthy, local dairy farm business, transportation improvements, and developments in artificial ice production and refrigeration technology were instrumental in the initiation and success of the business.
