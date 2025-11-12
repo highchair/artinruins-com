@@ -168,6 +168,16 @@ In 1784 Henry Rice opened the Golden Ball Inn on the corner of Benefit and South
 
 ### In the News
 
+**Providence Journal** | March 17, 1885
+
+Shooting at the Mansion House — The police were called into the Mansion House, on Benefit Street, last night at 11.15 to investigate an alleged attempt to shoot the proprietor, Mr. George Earle, by one of the boarders. No arrests were made, and the affair was probably not considered of much importance by the authorities.
+
+**Providence Journal** | July 5, 1887
+
+George Earle, owner of the Massachusetts House on Benefit Street, was arraigned for an assault on his wife, and was found probably guilty of an aggravated assault and bound over to the Court of Common Pleas. Earle and his wife occupy different parts of the Mansion House, and she visited the kitchen, which is in EarleÆs half, one evening, when he drove her out, grabbed her by the throat and threatened her with a pistol.
+
+***
+
 #### My wife, my dog, and I retraced George Washington’s route through New England
 
 _by Nathaniel Philbrick_  
