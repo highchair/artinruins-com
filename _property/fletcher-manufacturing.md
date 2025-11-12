@@ -34,8 +34,11 @@ excerpt: "A striking 3-story mansard former office building for a larger manufac
 thumbnail: fletcher-jh-2021-04-06.jpg
 
 images:
+  - url: fletcher-provalmanac-1880-01.jpg
+    alt: 'A slightly trapezoidal shaped group of three buildings starts narrow in the front, with the oldest building of red brick with rusticated brownstone details and a mansard roof of slate tiles with protruding dormer windows. Ornamental brickwork courses run under a wooden cornice. In the center of the west wall is a browstone cartouche displaying the name of the firm in projected lettering. A similar plaque on the north façade bears the date of construction. A lower, more modest, three-story brick warehouse abuts the south end of the office which complements the main building but is not nearly as ornate. Abutting the south end of that warehouse is a newer 1980s addition which is also complementary in design.'
+    caption: '1880 Providence Almanac & Business Directory, page 478'
+    sizes: '678, 1200'
   - url: fletcher-gmhopkins-1937-01.jpg
-    alt: 'A slightly trapezoidal shaped group of three buildings starts narrow in the front, with the oldest building of red brick with rusticated brownstone details and a mansard roof of slate tiles with protruding dormer windows. Ornamental brickwork courses run under a wooden cornice. In the center of the west wall is a browstone cartouche displaying the name of the firm in pro­jected lettering. A similar plaque on the north façade bears the date of construction. A lower, more modest, three-story brick warehouse abuts the south end of the office which comple­ments the main building but is not nearly as ornate. Abutting the south end of that warehouse is a newer 1980s addition which is also complementary in design.'
     caption: 'In the upper right is the International Braid Company, labelled in 1937 on these G.M. Hopkins cadastral map (this is a mash up of Plates 5 and 22). Notice how different the street and railroad pattern is around the site — Charles Street no longer passes by the West of the office building, but rather around the east side and north as Mill Street does.'
     sizes: '1440, 900'
   - url: fletcher-aerial-1939-01.jpg
