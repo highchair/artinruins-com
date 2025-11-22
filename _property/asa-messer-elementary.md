@@ -7,16 +7,16 @@ update:
 update-image:
 prop-number: 440
 
-built: 'Between 1972–1981'
+built: '1975'
 demolition: '2025'
 redeveloped:
 units:
 decade: '1970-1979'
 date-added: '2025' #September
-categories: [ '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: []
+designers: [] # Kent, Cruise and Partners
 people: []
 lists: []
 tags: [ 'Former/Current Schools', 'Mid-century Modern' ]
@@ -98,6 +98,14 @@ Asbestos abatement has begun at the site in the summer of 2025. For more on the 
 ### History
 
 The building was constructed after 1970 and therefore its history is not described in any of the state or national register reports. The [Providence Historical Aerial Viewer](https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad) shows the building in an aerial from 1981 but not previous to that photo.
+
+***
+
+Thanks to intrepid researcher Katy Pickens, Providence Preservation Society, for finding this nugget:
+
+> Groundbreaking ceremonies for the school were held on June 18th. Designed by Kent, Cruise and Partners at a total project cost of approximately $5 million, the building will accommodate 730 students in grades 5 through 8 and will replace a building constructed in 1916. According to the builder, Gilbane Construction Co., construction will require about 14 months.”
+
+— _Providence Redevelopment Authority annual report 1975_
 
 ***
 
