@@ -2,9 +2,9 @@
 title: "Gilbert Stuart Middle School"
 slug: gilbert-stuart-middle-school
 aka:
-date-modified: 2025-09-05 12:00
+date-modified: 2025-11-29 13:00
 update:
-update-image:
+update-image: gilbert-stuart-jh-2025-11-05.jpg
 prop-number: 437
 
 built: '1931'
@@ -13,7 +13,7 @@ redeveloped:
 units:
 decade: '1930-1939'
 date-added: '2025' #August
-categories: [ '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
 designers: []
@@ -70,8 +70,18 @@ images:
     sizes: '1440, 900'
   - url: gilbert-stuart-jh-2025-08-16.jpg
     sizes: '1200, 900'
+  - url: gilbert-stuart-jh-2025-11-01.jpg
+    sizes: '1440, 900'
+  - url: gilbert-stuart-jh-2025-11-02.jpg
+    sizes: '1440, 900'
+  - url: gilbert-stuart-jh-2025-11-03.jpg
+    sizes: '1440, 900'
+  - url: gilbert-stuart-jh-2025-11-04.jpg
+    sizes: '1440, 900'
+  - url: gilbert-stuart-jh-2025-11-05.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2025-08-01
+mostrecentimage: 2025-11-01
 
 imagescredit:
 
