@@ -2,9 +2,9 @@
 title: "Microfibres, Inc."
 slug: microfibres-pwt
 aka: 'Weil Barnefield Corpin, Woodlawn Finishing Co.'
-date-modified: 2022-11-18 12:00
-update: 'Added new photos of the demolition currently in progress'
-update-image: microfibres-jh-2022-11-01.jpg
+date-modified: 2025-11-29 09:00
+update: 'New photo of the now cleared property, prepping for new construction'
+update-image: microfibres-jh-2025-09-01.jpg
 
 built: 'circa 1900, 1940, 1950s'
 demolition: '2022'
@@ -140,6 +140,8 @@ images:
     sizes: '1440, 900'
   - url: microfibres-jh-2023-05-02.jpg
     sizes: '1440, 900'
+  - url: microfibres-jh-2025-09-01.jpg
+    sizes: '1440, 900'
   - url: microfibres-sanborn-1923.jpg
     caption: 'Sanborn Map Company, “Insurance maps of Pawtucket: including Central Falls, Rhode Island V. 2a” (1923)'
     sizes: '1440, 900'
@@ -158,8 +160,6 @@ images:
   - url: microfibres-aerial-2008.jpg
     caption: 'Providence Historical Aerial Viewer 2008'
     sizes: '1440, 900'
-
-mostrecentimage: 2023-05-01
 
 imagescredit: 'Contributions from Google Streetview; Showcase.com; Sanborm Map from Brown Digital Repository, Brown University Library; and Aerials from the Providence Historical Aerial Viewer'
 
@@ -201,7 +201,7 @@ According to the article, 37 dock doors, 28 trailer stalls, and 100 auto stalls 
 No formal written history about this complex of buildings from the usual places. We made our own history based on aerial photographs and Sanborn maps.
 
 1923, [Sanborn Map](#photo-microfibres-sanborn-1923)
-: Two buildings appear in the 1923 Sanborn Map[^3], the earliest record we have been able to find so far.
+: Two buildings appear in the 1923 Sanborn Map[^3], the earliest record we have been able to find.
 
 + **Weil Barnefield Corpin, Mfg. Silk & Cotton Novelties** on the northeast corner of Main Street and Moshassuck. A 2-story brick building used for winding and weaving. A smaller wood frame storage building was set to the west. This building also featured a sawtooth roof.
 + **Woodlawn Finishing Co., Finishing Yarn** on the northwest corner of Moshassuck and Esten Ave. A one and two story brick mill consisting of four buildings; Dye House, Bleach House, Finishing & Winding, and Shipping Winding and Quilling.

@@ -2,9 +2,9 @@
 title: "Waterman Street, #230"
 slug: 230-waterman-st-pvd
 aka: 'Monahan Drabble Sherman Funeral Home, McBride’s Pub'
-date-modified: 2025-09-06 14:00
+date-modified: 2025-11-29 10:00
 update: 'Added a recent photo of the adjacent building, home to McBride’s Irish Pub'
-update-image: 161-wayland-jh-2025-08-01.jpg
+update-image: 161-wayland-jh-2025-11-01.jpg
 
 built: '1892'
 demolition:
@@ -60,6 +60,9 @@ images:
     sizes: '1440, 900'
   - url: 161-wayland-jh-2025-08-01.jpg
     caption: 'McBride’s recently expanded with a new entrance and outdoor porch'
+    sizes: '1440, 900'
+  - url: 161-wayland-jh-2025-11-01.jpg
+    caption: 'McBride’s completed entrance and outdoor porch'
     sizes: '1440, 900'
 
 imagescredit: 'Contribution from the <a href="https://provlibdigital.org/islandora/object/VM011_03_03_142">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library'
