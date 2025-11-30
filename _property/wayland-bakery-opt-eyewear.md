@@ -2,9 +2,9 @@
 title: "Wayland Bakery & Opt Eyewear"
 slug: wayland-bakery-opt-eyewear
 aka:
-date-modified: 2025-01-10 12:00
-update: 'Added a photo of the still empty lot'
-update-image: 138-wayland-jh-2025-05-01.jpg
+date-modified: 2025-11-29 11:00
+update: 'Added a new photo of the still empty lot'
+update-image: 138-wayland-jh-2025-11-01.jpg
 prop-number: 416
 
 built: '1960–1961'
@@ -19,7 +19,7 @@ town: [ 'Providence, RI' ]
 designers: []
 people: []
 lists: []
-tags: [ 'Bars, Businesses, & Restaurants', 'Demolition by Progress', 'Yellow brick' ]
+tags: [ 'Bars, Businesses, & Restaurants', 'Demolition by Progress', 'Still an Empty Lot', 'Yellow brick' ]
 
 address: '138 Wayland Ave, Providence RI'
 latitude: '41.827649'
@@ -59,8 +59,10 @@ images:
     sizes: '1440, 900'
   - url: 138-wayland-jh-2025-05-01.jpg
     sizes: '1440, 900'
+  - url: 138-wayland-jh-2025-11-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2025-05-01
+mostrecentimage: 2025-11-01
 
 imagescredit: 'Contributions from Karen McAninch and Beth Alianiello'
 
@@ -81,6 +83,8 @@ The proposal was approved by the CPC. The area is not within a designated histor
 ### Current Events
 
 [Opt Eyewear](https://www.opteyewear.com/) moved across the street to 141 Wayland Avenue in 2023. After operating for almost 100 years, [Wayland Bakery closed at the end of 2022](https://x.com/KaylaFishTV/status/1608150101800718338) and did not relocate.
+
+The property has been in development limbo for most of 2025. Ground has not yet broken on a new apartment building (November 2025).
 
 
 ### History
