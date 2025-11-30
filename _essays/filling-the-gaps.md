@@ -4,7 +4,7 @@ type: essay
 categories: [ '#Essay' ]
 slug: filling-the-gaps
 title: "Filling the Gaps: New Housing Popping Up in Previously Vacant East Side Lots"
-excerpt: 'These projects “represent different ways to build infill development in accordance with Providence’s zoning regulations” before and while they have been updated in accordance with Providence’s recent Comprehensive Plan update.'
+excerpt: 'These eight projects, some built before and some built after recent zoning and Comprehensive Plan updates, “represent different ways to build infill development in accordance with Providence’s zoning regulations.”'
 thumbnail: filling-the-gaps/storymap-overview-cover.jpg
 date-published: 2025-06-11
 date-modified: 2025-06-11
