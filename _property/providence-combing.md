@@ -50,6 +50,8 @@ images:
     sizes: '1440, 900'
   - url: prov-combing-jh-2023-05-06.jpg
     sizes: '1200, 900'
+  - url: prov-combing-jh-2025-11-01.jpg
+    sizes: '768, 924'
   - url: 1889-sanborn-vol1-p27a-01.jpg
     caption: '1889 Sanborn Insurance Map, Volume 1, Plate 27a — Library of Congress, Maps Division'
     sizes: '1440, 900'
@@ -66,7 +68,7 @@ images:
     caption: 'Looking north — Google Maps three dimensional view, 2022'
     sizes: '1440, 900'
 
-mostrecentimage: 2021-07-01
+mostrecentimage: 2025-11-01
 
 imagescredit: 'Contributions from the Library of Congress, Secretary of State, and Google Maps'
 
