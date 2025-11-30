@@ -2,9 +2,9 @@
 title: "Autocar & Studebaker Trucks"
 slug: autocar-studebaker-trucks
 aka: 'National Office Furniture'
-date-modified: 2025-08-16 12:00
-update: 'Added images of the recent renovations and exterior signage'
-update-image: studebaker-jh-2025-08-02.jpg
+date-modified: 2025-11-28 12:00
+update: 'Added older images from 2023 that we recently found'
+update-image: studebaker-jh-2023-05-01.jpg
 
 built: 'circa 1930'
 demolition:
@@ -27,6 +27,8 @@ address: '36 Branch Ave, Providence RI'
 latitude: '41.8426'
 longitude: '-71.4087389'
 gmap: "https://www.google.com/maps/place/36+Branch+Ave,+Providence,+RI+02904/@41.8426,-71.4087389,17z/data=!3m1!4b1!4m6!3m5!1s0x89e444e0d0cea1f5:0xb53d927dadae97ab!8m2!3d41.8426!4d-71.4087389!16s%2Fg%2F11c27707k6"
+street: [ 'Branch Ave' ]
+street-number: 36
 
 meta: ""
 excerpt: "A simple Art Deco commercial building whose fate is uncertain now that its long-term tenant has moved out"
@@ -51,7 +53,17 @@ images:
     sizes: '1200, 900'
   - url: studebaker-jh-2020-02-06.jpg
     sizes: '1440, 900'
-  - url: studebaker-ch-2025-06-01.jpg
+  - url: studebaker-jh-2023-05-01.jpg
+    sizes: '1440, 900'
+  - url: studebaker-jh-2023-05-02.jpg
+    sizes: '1440, 900'
+  - url: studebaker-jh-2023-05-03.jpg
+    sizes: '1200, 900'
+  - url: studebaker-jh-2023-05-04.jpg
+    sizes: '1440, 900'
+  - url: studebaker-jh-2023-05-05.jpg
+    sizes: '1440, 900'
+  - url: studebaker-ch-2025-06-07.jpg
     sizes: '1440, 900'
     caption: 'Photo by Chloé Hurley'
   - url: studebaker-ch-2025-06-02.jpg
