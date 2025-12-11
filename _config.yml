@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 port: 4090
 url: "http://127.0.0.1:4090" # the base hostname & protocol for your site, e.g. http://example.com
 prod_url: "https://artinruins.com"
-destination: _stage/
+destination: _site/
 
 # Build settings
 markdown: kramdown
@@ -91,11 +91,10 @@ exclude:
   - LICENSE
   - README.md
   - property-img/
-  - assets/css/main.scss
 
 # As of Jekyll 4, we may exclude a parent folder but include a child:
-#include:
-#  - property-img/r/
+include:
+  - property-img/r/
 
 # https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:

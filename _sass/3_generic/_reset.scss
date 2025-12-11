@@ -148,6 +148,20 @@ a:not([href]):not([tabindex]) {
   outline: 0 !important;
 }
 
+// When an element has an ID, give it space so that it is not at the very top of the viewport
+// The rlh unit is "relative line-height"
+// Credit to https://cssence.com/2025/scroll-margin-scroll-padding/
+[id] {
+  scroll-margin-block-start: 2rlh;
+}
+
+// Opt in to upcoming browser-based view transitions
+@media (prefers-reduced-motion: no-preference) {
+  @view-transition {
+    navigation: auto;
+  }
+}
+
 // Remove all animations and transitions for people that prefer not to see them
 @media (prefers-reduced-motion: reduce) {
   * {

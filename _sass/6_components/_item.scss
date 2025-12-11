@@ -188,11 +188,14 @@
         font-weight: $font-custom__sans__weight__bold;
       }
 
-      a {
+      a,
+      a:visited {
         color: $white;
         text-decoration: underline !important;
         text-decoration-color: $white;
+      }
 
+      a {
         @include hover-focus() {
           text-decoration-color: palette('brand-orange');
         }
