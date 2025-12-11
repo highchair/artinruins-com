@@ -72,10 +72,14 @@
     background-color: palette('brand-grey');
     color: $white;
 
+    // The figure element acts like a placeholder for lazyloaded images
+    figure {
+      height: 62vmin;
+    }
+
     img {
-      max-height: 66vmin;
-      max-width: none;
-      width: auto;
+      height: 100%;
+      width: 100%;
     }
 
     /*ul*/&__wrap {
@@ -131,6 +135,7 @@
     }
 
     &__figure {
+      display: block;
       position: relative; // for the screen reader text
       margin-right: $image-right-margin;
 

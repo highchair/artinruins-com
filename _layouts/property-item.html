@@ -72,7 +72,7 @@ layout: default
                 {%- assign imagessizes = image.sizes | split: ',' %}
               {% endif %}
                 <li id="photo-{{ imageslug[0] }}">
-                  <figure class="item__gallery__figure">
+                  <figure class="item__gallery__figure" {% if image.sizes %}style="aspect-ratio: {{ imagessizes[0] | strip }} / {{ imagessizes[1] | strip }}"{% endif %}>
                     <a data-fslightbox="air-lightbox" data-type="image" {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} href="{{ imagesrc }}" role="button" aria-label="Larger view of image">
                       <img class="js-lazy" {% if forloop.index > 4 %}data-{% endif %}src="{{ imagesrc }}" alt="{% if image.alt %}{{ image.alt }}{% endif %}" {% if image.sizes %}width="{{ imagessizes[0] | strip }}" height="{{ imagessizes[1] | strip }}"{% endif %} />
                     </a>
