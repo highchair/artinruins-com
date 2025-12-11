@@ -25,6 +25,7 @@ sitemap:
   * home          = A variable used in the property-card.html include to display the Update text instead of the Excerpt text
 
   No longer using, but might want to bring back, a way to show posts within a timerange
+  {%- assign lastsixmonths = "now" | date: '%s' | minus: 23328000 | date: '%Y%m%d' | times:1 -%}
   {%- assign lastmonth = "now" | date: '%s' | minus: 3888000 | date: '%Y%m%d' | times:1 -%}
 
 {%- endcomment -%}
