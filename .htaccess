@@ -9,22 +9,25 @@ RewriteCond %{HTTP_HOST} artinruins\.com [NC]
 RewriteCond %{SERVER_PORT} 80
 RewriteRule ^(.*)$ https://artinruins.com/$1 [R,L]
 
+# Custom 404
+ErrorDocument 404 /404.html
+
 RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^https://artinruins.com/.*$      [NC]
 RewriteCond %{HTTP_REFERER} !^https://artinruins.com$      [NC]
-RewriteCond %{HTTP_REFERER} !^http://community.artinruins.com/.*$      [NC]
-RewriteCond %{HTTP_REFERER} !^http://community.artinruins.com$      [NC]
-RewriteCond %{HTTP_REFERER} !^http://defunctnewengland.artinruins.com/.*$      [NC]
-RewriteCond %{HTTP_REFERER} !^http://defunctnewengland.artinruins.com$      [NC]
-RewriteCond %{HTTP_REFERER} !^http://jenraimondi.artinruins.com/.*$      [NC]
-RewriteCond %{HTTP_REFERER} !^http://jenraimondi.artinruins.com$      [NC]
-RewriteCond %{HTTP_REFERER} !^http://mayyao.artinruins.com/.*$      [NC]
-RewriteCond %{HTTP_REFERER} !^http://mayyao.artinruins.com$      [NC]
-RewriteCond %{HTTP_REFERER} !^http://quonsetpoint.artinruins.com/.*$      [NC]
-RewriteCond %{HTTP_REFERER} !^http://quonsetpoint.artinruins.com$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://community.artinruins.com/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://community.artinruins.com$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://defunctnewengland.artinruins.com/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://defunctnewengland.artinruins.com$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://jenraimondi.artinruins.com/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://jenraimondi.artinruins.com$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://mayyao.artinruins.com/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://mayyao.artinruins.com$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://quonsetpoint.artinruins.com/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://quonsetpoint.artinruins.com$      [NC]
 
 
-# A TON of redirects
+# Manual redirects
 # redirect 301 /path/to/old-file.php   http://domain.tld/path/to/new-file.php
 
 redirect 301 /contact.php                      https://artinruins.com/
@@ -49,7 +52,6 @@ redirect 301 /links/preservation.php           https://artinruins.com/links/
 redirect 301 /links/venues.php                 https://artinruins.com/links/
 
 # Individual redirects from Backlink checkers
-redirect 301 /rss2.php                         https://artinruins.com/feed.xml
 redirect 301 /arch/saved/provworst/*           https://artinruins.com/property/national-providence-worsted/
 redirect 301 /arch/redevelop/mason/*           https://artinruins.com/property/masonic-temple-pvd/
 redirect 301 /arch/stillinuse/unionstation/*   https://artinruins.com/property/union-station/

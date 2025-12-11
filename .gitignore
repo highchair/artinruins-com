@@ -1,6 +1,6 @@
 .DS_Store
 */.DS_Store
-_stage/
+_site/
 .nova/
 .sass-cache/
 .jekyll-cache/
