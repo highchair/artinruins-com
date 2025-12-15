@@ -64,7 +64,7 @@ Five housing lots were carved out of the single large plat and new houses were c
 
 ### History
 
-_Prepared by Kathleen Dunley, [DefunctNewEngland.org](//defunctnewengland.artinruins.com){:target="_blank"}, 2006_
+_Prepared by Kathleen Dunley, [DefunctNewEngland.org](https://artinruins.com/community/defunctnewengland), 2006_
 
 Built in 1901 for Herman G. Possner and designed by Thomas J. Gould, the castle sat at 1332 Narragansett Boulevard in the Edgewood section of Cranston for 89 years before being demolished on June 27, 1990.
 
@@ -90,7 +90,7 @@ According to a Providence Journal article by Peter Howard, the castle had been v
 
 The Edgewood Yacht club purchased a tract of waterfront property to use as a parking lot, while the castle’s site was subdivided into housing lots. All that remains of the castle are the stone structures that once flanked the entrance, a stairway leading from the housing lots to the Edgewood Yacht Club’s lot, and a stone pillar at the rear of the property (on the Shaw Avenue side) that might have been a foundation for the former WPRO radio tower.
 
-[^1]: _“[Historic District Commission: Who We Are](//www.cranstonri.gov/residents/historic-district-commission/){:target="_blank"}.”_ Cranston Historic District Commission website, captured 2006. 
-[^2]: _“[Newspaper clipping announcing the conversion of the ‘castle’ located on Narragansett Boulevard in Edgewood into a Masonic Temple](//provlibdigital.org/islandora/object/islandora%3A4216){:target="_blank"}.”_ John Hutchins Cady Research Scrapbooks Collection at Providence Public Library, captured September 10, 2020.
-[^3]: “[Two Hundred Years of Harmony](//harmony9.org/?page_id=6069){:target="_blank"}.” Harmony Lodge website, written by Milton R. MacIntosh, P.M. and Paul C. Liese, P.M.
+[^1]: _“[Historic District Commission: Who We Are](https://www.cranstonri.gov/residents/historic-district-commission/).”_ Cranston Historic District Commission website, captured 2006. 
+[^2]: _“[Newspaper clipping announcing the conversion of the ‘castle’ located on Narragansett Boulevard in Edgewood into a Masonic Temple](https://provlibdigital.org/islandora/object/islandora%3A4216).”_ John Hutchins Cady Research Scrapbooks Collection at Providence Public Library, captured September 10, 2020.
+[^3]: “[Two Hundred Years of Harmony](https://harmony9.org/?page_id=6069).” Harmony Lodge website, written by Milton R. MacIntosh, P.M. and Paul C. Liese, P.M.
 [^4]: “Wrecker breaks the Castle’s walls, neighbors’ hearts.” Peter E. Howard, Providence Journal, Jun. 27, 1990.

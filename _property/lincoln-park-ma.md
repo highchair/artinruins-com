@@ -146,7 +146,7 @@ In the 1990s the grounds were the victim of five separate fire events which ende
 
 ### Current Events
 
-The area where the park once stood has been developed into housing, called [The Residences at Lincoln Park](//www.rentatlincolnpark.com){:target="_blank"}. From the developers website:
+The area where the park once stood has been developed into housing, called [The Residences at Lincoln Park](https://www.rentatlincolnpark.com). From the developers website:
 
 > Once the site of the iconic Lincoln Amusement Park, this redeveloped mixed-income residential community includes a total of one-hundred thirty-eight apartment homes. The community has been constructed in multiple phases and serves a variety of lifestyles including a 55 and over community. These open concept, one, two & three bedroom floor plans offer impressive interior features and delightful outdoor space with beautifully landscaped grounds. 
 
@@ -155,7 +155,7 @@ The new streets have the names Roller Coaster Way, Ferris Wheel Lane, Cotton Can
 
 ### History
 
-_From DefunctNewEngland.com (now defunct itself)_
+_From [DefunctNewEngland.com](https://artinruins.com/community/defunctnewengland/) (now defunct itself)_
 
 In its earliest days, it served as a picnic park at the end of the trolley line. Its location (between New Bedford and Fall River) was ideal, and thus many families would flock there, particularly on Sunday to picnic and play in the pine grove. The name “Lincoln Park” was chosen by a lottery when the park started to boom in the late 19th century.
 
@@ -183,7 +183,7 @@ But in 1987 [**A.I.R.**: our correction] the park foundered, and as its owner fl
 
 + _“Remember Lincoln Park? This ticket booth may jog your memory”_ Curt Brown, The Standard-Times
 published June 12, 2019, captured September 24, 2020. https://www.heraldnews.com/news/20190612/remember-lincoln-park-this-ticket-booth-may-jog-your-memory
-+ _“[This Lincoln Park photo gallery will bring back ALL the memories](//www.heraldnews.com/photogallery/WL/20200702/NEWS/702009991/PH/1){:target="_blank"}”_ Gallery compiled by photo editor and Lincoln Park veteran Colin Furze, published July 2, 2020, captured September 24, 2020. https://www.heraldnews.com/photogallery/WL/20200702/NEWS/702009991/PH/1
++ _“[This Lincoln Park photo gallery will bring back ALL the memories](https://www.heraldnews.com/photogallery/WL/20200702/NEWS/702009991/PH/1)”_ Gallery compiled by photo editor and Lincoln Park veteran Colin Furze, published July 2, 2020, captured September 24, 2020. https://www.heraldnews.com/photogallery/WL/20200702/NEWS/702009991/PH/1
 + _“Story of the Carousel”_ archived from BattelshipCove.com at Boston Central, captured in 2006. https://www.bostoncentral.com/events/fall_river_carousel/p1695.php
 + _“Lincoln Park”_ captured September 25, 2020. https://en.wikipedia.org/wiki/Lincoln_Park_(Dartmouth,_Massachusetts)
 

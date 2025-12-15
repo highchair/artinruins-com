@@ -228,13 +228,13 @@ On June 26, 2011, Rocky Point was once again opened to the public and features a
 
 ### Links
 
-+ [“Rocky Point Park is Not Forgotten”](//rhodetour.org/items/show/331){:target="_blank"} on RhodeTour.org
-+ [“You Must Be This Tall: The Story of Rocky Point” (full-length documentary)](//www.youtube.com/watch?v=pG5djZBthuc){:target="_blank"} by local filmmaker David Bettencourt.
-+ [Rocky Point Park book by David Bettencourt](//www.arcadiapublishing.com/Products/9781467123365){:target="_blank"} and Arcadia Publishing. 
-+ [Defunct New England’s Flickr Set Collection](//www.flickr.com/photos/defunctnewengland/albums/72157657137597831){:target="_blank"}
-+ [RI Rocks page about Rocky Point as a venue](//www.rirocks.net/Search/Rocky%20Point.htm){:target="_blank"}
-+ [An untagged Flickr set of the Rocky Point grounds in 2006](//www.flickr.com/photos/grayfamilia/2456351375/in/photostream/){:target="_blank"}
-+ [My Little Town’s Rocky Point Gate christmas tree ornament](//mylittletown.com/rocky-point-entrance-ornament/){:target="_blank"}
++ [“Rocky Point Park is Not Forgotten”](https://rhodetour.org/items/show/331) on RhodeTour.org
++ [“You Must Be This Tall: The Story of Rocky Point” (full-length documentary)](https://www.youtube.com/watch?v=pG5djZBthuc){:target="_blank"} by local filmmaker David Bettencourt.
++ [Rocky Point Park book by David Bettencourt](https://www.arcadiapublishing.com/Products/9781467123365) and Arcadia Publishing. 
++ [Defunct New England’s Flickr Set Collection](https://www.flickr.com/photos/defunctnewengland/albums/72157657137597831)
++ [RI Rocks page about Rocky Point as a venue](https://www.rirocks.net/Search/Rocky%20Point.htm)
++ [An untagged Flickr set of the Rocky Point grounds in 2006](https://www.flickr.com/photos/grayfamilia/2456351375/in/photostream/)
++ [My Little Town’s Rocky Point Gate christmas tree ornament](https://mylittletown.com/rocky-point-entrance-ornament/)
 
 ### History
 
