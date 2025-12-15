@@ -67,7 +67,7 @@ Both the R-3 and R-4 zones have “front setbacks” — where the building meet
 
 <figure class="u__img">
   <img class="js-lazy" src="{{ site.propimg_path }}essays/building-triple-deckers/Before-After-64-Duncan-Ave.jpg" alt="" />
-  <figcaption><i>Top of image:</i> 64 Duncan Ave from a 2011 Google Streetview. <i>Bottom of image:</i> 64 Duncan Avenue from August of 2025. It is a four bedroom, two bathroom single family home of about 1400 sf set on a thin lot that used to be a driveway and three-bay garage. Zoning controlled the setbacks at the front and side of the house, its height, and how large it could be on the lot. The lot was not located inside a Historic Overlay district, so it did not go through design review. Further, single family units do not need to come before the <span class="abbr">CPC</span> at all. </figcaption>
+  <figcaption><i>Top of image:</i> 64 Duncan Ave from a 2011 Google Streetview. <i>Bottom of image:</i> 64 Duncan Avenue from August of 2025. It is two units of four bedrooms and two bathrooms, totaling 1,400 sf set on a thin lot that used to be a driveway and three-car garage. Zoning controlled the setbacks at the front and side of the house, its height, and how large it could be on the lot. The lot was not located inside a Historic Overlay district, so it did not go through design review. Further, single family units do not need to come before the <span class="abbr">CPC</span> at all. </figcaption>
 </figure>
 
 ### Step 3: Understand when to ask for a variance

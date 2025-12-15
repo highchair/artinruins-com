@@ -34,14 +34,14 @@ thumbnail: methodist-church-jh-2021-02-02.jpg
 
 images:
   - url: methodist-church-ppl-undated-early.jpg
-    caption: 'Photo looking north, undated, but likely early 1900s based on the car — Providence Public Library Digital Collection'
-    alt: ''
+    caption: 'Photo looking north, undated, but likely early 1900s based on the automobile — Providence Public Library Digital Collection'
+    alt: 'A church building in an urban block, without steeple or gable roof. Its façade is four stories high, with “Chicago-style” arched windows on the third and fourth floors. The second floor to third floor windows are connected by panels and flanked by shallow column details. The interior sanctuary is half round, occupies the second and third floor space, and features a prominant central dome in the roof.'
     sizes: '700, 1000'
   - url: methodist-church-ppl-undated.jpg
-    caption: 'Photo looking north, undated, but likely 1940s based on the car and the typography on the sign — John Hutchinson Cady Research Scrapbook, Providence Public Library Digital Collection'
+    caption: 'Photo looking north, undated, but likely 1939 — John Hutchinson Cady Research Scrapbook, Providence Public Library Digital Collection. The cross on the church was dedicated on January 31, 1937, and in 1939, extensive renovations to Shepard’s Tearoom were completed (thanks for Peter Lech for the explanation).'
     sizes: '750, 1200'
   - url: methodist-church-ppl-undated-interior.jpg
-    caption: 'The interior of the church, undated — Providence Public Library Digital Collection'
+    caption: 'The interior of the church, undated, but likely 1896 — Providence Public Library Digital Collection. This photo was included in the “Souvenir Booklet” published in December 1896 for the dedication service, therefore, it was taken before December 1896 but after construction was complete (thanks for Peter Lech for the explanation).'
     sizes: '1283, 1024'
   - url: methodist-church-jh-2019-06-01.jpg
     sizes: '1200, 900'
@@ -63,7 +63,7 @@ images:
 
 mostrecentimage: 2021-07-01
 
-imagescredit: 'Contributions from the Providence Public Library Digital Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A11432" target="_blank">first,</a> <a href="//provlibdigital.org/islandora/object/islandora%253A5158" target="_blank">second,</a> and <a href="//provlibdigital.org/islandora/object/islandora%253A10286" target="_blank">third</a>) and <a href="https://commons.wikimedia.org/wiki/File:2021_Mathewson_Street_United_Methodist_Church,_134_Mathewson_Street,_Providence.jpg" target="_blank">Wikimedia</a>'
+imagescredit: 'Contributions from the Providence Public Library Digital Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A11432" >first,</a> <a href="https://provlibdigital.org/islandora/object/islandora%253A5158">second,</a> and <a href="https://provlibdigital.org/islandora/object/islandora%253A10286">third</a>) and <a href="https://commons.wikimedia.org/wiki/File:2021_Mathewson_Street_United_Methodist_Church,_134_Mathewson_Street,_Providence.jpg">Wikimedia</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -79,12 +79,12 @@ The building is in great condition. We got in a few times to see a show at Outlo
 
 ### Current Events
 
-The [Mathewson Street United Methodist Church](//www.mathewsonstreetchurch.org/){:target="_blank"} has been the owner and steward of this building since its construction, and have been on the property previous as well. They hold worship every Sunday and conduct much outreach and support to the homeless community in Providence.
+The [Mathewson Street United Methodist Church](https://www.mathewsonstreetchurch.org/) has been the owner and steward of this building since its construction, and have been on the property previous as well. They hold worship every Sunday and conduct much outreach and support to the homeless community in Providence.
 
 
 ### History
 
-In 2020, the National Fund for Sacred Places supported a matching grant of $100,000 to help restore portions of the building and modernize them for continuing use. The grant supported upgrades to fire, safety, air circulation systems, and window repairs. The description from their announcement: 
+In 2020, the National Fund for Sacred Places supported a matching grant of $100,000 to help restore portions of the building and modernize them for continuing use. The grant supported upgrades to fire, safety, air circulation systems, and window repairs. The description from their announcement:
 
 > After the original church, built 1851, became structurally unsound, the congregation employed Cutting, Carleton & Cutting Architects to design its current four-story building using the multiple tenancy model. Completed in 1896, the church was designed like an office building to blend with its surroundings and to facilitate multiple uses of the building. Consequently, the church building has met the social and spiritual needs of downtown Providence for the past century through offering spaces such as a gym, reception room, and parlor over time. ¶ Today, Mathewson Street Church shares space and resources with 134 Collaborative, a community of nonprofits that host a wide range of human services activities within the historic church. 134 Collaborative serves over 2,000 individuals with free meals, a theater training program that creates operas on issues of social injustice and housing insecurity, legal services, addiction recovery meetings, and advocacy work.[^1]
 
