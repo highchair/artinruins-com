@@ -15,12 +15,12 @@ neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Designer Unknown' ]
 people: [ 'Joseph Congdon', 'Francis Wood Carpenter' ]
-lists: [ 'HABS HAER', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
+lists: [ 'College Hill Historic District', 'HABS HAER', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Library of Congress', 'Providence Public Library Digital Collections', 'The Superlatives' ]
 superlative: 'The second oldest industrial building in the state of Rhode Island, and the oldest in Providence'
 
-NRHP-ref-number:
-added-to-NRHP:
+NRHP-ref-number: '70000019 (contributing & non)'
+added-to-NRHP: 'November 10, 1970'
 
 address: '3 Steeple St, Providence RI'
 latitude: '41.8273357'
@@ -107,6 +107,12 @@ The east wall of 9 Steeple Street housed a billboard for many years in the 1980s
 
 ***
 
+Francis Wood Carpenter (1831 – 1922) was a prominent businessman and steel merchant in Providence, Rhode Island and from 1892 until his death, he was the president of Congdon & Carpenter Company, an iron and steel company which was founded in 1792, and operated in Providence into the 1980s. He was also the president of the Rhode Island Perkins Horse Shoe Company, the Quidnick Manufacturing Company, the Boston District Messenger Company, the Postal District Messenger Company of Providence, and the American National Bank. He was a director of the Peoples Savings Bank in Providence, the Corliss Safe and Vault Door Company, the Providence Washington Insurance Company, and the Union Mutual Insurance Company. He was a President of the Providence Commercial Club and of the Providence YMCA.
+
+— _Captured April 11, 2021 from https://en.wikipedia.org/wiki/Francis_W._Carpenter_
+
+***
+
 _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
 3 Steeple Street is a three-story brick structure with a hipped roof and is the oldest industrial building in Providence, and after Slater Mill in Pawtucket, the oldest industrial building in the state of Rhode Island. The building features stone sills and lintels and brick bracketing at the cornice line. 5 Steeple Street is three-stories high, with dentils under the roof and a recessed entry at the street level. This is the original building that housed the firm that later moved to Promenade Street.
@@ -119,9 +125,9 @@ After the Civil War, more space was needed so Congdon & Carpenter moved one bloc
 
 ***
 
-Francis Wood Carpenter (1831 – 1922) was a prominent businessman and steel merchant in Providence, Rhode Island and from 1892 until his death, he was the president of Congdon & Carpenter Company, an iron and steel company which was founded in 1792, and operated in Providence into the 1980s. He was also the president of the Rhode Island Perkins Horse Shoe Company, the Quidnick Manufacturing Company, the Boston District Messenger Company, the Postal District Messenger Company of Providence, and the American National Bank. He was a director of the Peoples Savings Bank in Providence, the Corliss Safe and Vault Door Company, the Providence Washington Insurance Company, and the Union Mutual Insurance Company. He was a President of the Providence Commercial Club and of the Providence YMCA.
+_From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 
-— _Captured April 11, 2021 from https://en.wikipedia.org/wiki/Francis_W._Carpenter_
+3 Steeple Street. George and Smith Owen building, c.1847. Mid- nineteenth century commercial building: 3% stories; brick with stone trim; cleré story monitor roof.
 
 ***
 

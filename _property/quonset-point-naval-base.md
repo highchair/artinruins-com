@@ -85,7 +85,7 @@ images:
     caption: 'Building dt-42. View from the west (airfield in background)'
     sizes: '1440, 900'
 
-imagescredit: 'All photos from the <a href="//www.loc.gov/pictures/collection/hh/item/ri0347/" target="_blank">Historic American Engineering Record and Historic American Buildings Surveys</a>'
+imagescredit: 'All photos from the <a href="https://www.loc.gov/pictures/collection/hh/item/ri0347/">Historic American Engineering Record and Historic American Buildings Surveys</a>'
 
 mostrecentimage: 1979-01-01
 

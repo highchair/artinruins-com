@@ -136,6 +136,4 @@ Brown, while keeping an arm's length from this project, wants more students to l
 
 If unchecked, institutional creep could someday tip College Hill into decline. Without a buffer between its quiet streets and the menace of noise, bustle and ugliness, more families might move to the suburbs, and sell their houses to owners who might break them up into apartments, lowering property values, destabilizing the neighborhood and accelerating a downward spiral that had slowed in recent decades. […]
 
-— 
-
-BRUSSAT, DAVID. “COMMENTARY — Stop institutional creep on College Hill.” Providence Journal (RI), 1 ed., sec. projoNation, 24 May 2012, p. B7. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152421E6077E1358. Accessed 29 Jan. 2022.
+— BRUSSAT, DAVID. “COMMENTARY — Stop institutional creep on College Hill.” Providence Journal (RI), 1 ed., sec. projoNation, 24 May 2012, p. B7. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152421E6077E1358. Accessed 29 Jan. 2022.

@@ -73,7 +73,7 @@ images:
 
 mostrecentimage: 2021-06-01
 
-imagescredit: 'Contributions from the John Hutchins Cady Research Scrapbooks collection (<a href="//provlibdigital.org/islandora/object/islandora%3A5485" target="_blank">drawing,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A5781" target="_blank">photo</a>), Rhode Island Photographs Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A15182" target="_blank">photo</a>), Providence Public Library; Frank Mullin; PDXStreecar, and Woneffe'
+imagescredit: 'Contributions from the John Hutchins Cady Research Scrapbooks collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A5485">drawing,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A5781">photo</a>), Rhode Island Photographs Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A15182">photo</a>), Providence Public Library; Frank Mullin; PDXStreecar, and Woneffe'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -96,7 +96,7 @@ Historic preservation of a former banking institution spawned a state-of-the-art
 
 ### Current Events
 
-The upper floors have been converted to student housing for the Rhode Island School of Design (<span class="abbr">RISD</span>) while the lower floor and former banking hall has become the Fleet Library at <span class="abbr">RISD</span>. Photographs of the library interior after renovation are available on [Flickr from Hassan Bagheri](https://www.flickr.com/photos/h_ssan/albums/72157635449438114){:target="_blank"}.
+The upper floors have been converted to student housing for the Rhode Island School of Design (<span class="abbr">RISD</span>) while the lower floor and former banking hall has become the Fleet Library at <span class="abbr">RISD</span>. Photographs of the library interior after renovation are available on [Flickr from Hassan Bagheri](https://www.flickr.com/photos/h_ssan/albums/72157635449438114).
 
 With a combination of old architecture and modern design, the library was named one of “The 50 Most Amazing University Libraries in the World,” released by BestMastersPrograms.org. Recognizing the library’s innovative and preservative use of the original space, the list lauded Fleet Library as “the oldest and most influential independent art library in the United States.” [^1]
 
@@ -105,7 +105,7 @@ With a combination of old architecture and modern design, the library was named 
 
 ### History
 
-For the history of the banking institution, [RI Currency](//www.ricurrency.com/bank-name/rhode-island-hospital-trust/){:target="_blank"} has a fantastic write up.
+For the history of the banking institution, [RI Currency](https://www.ricurrency.com/bank-name/rhode-island-hospital-trust/) has a fantastic write up.
 
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
