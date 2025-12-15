@@ -14,7 +14,7 @@ date-added: '2003'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Jenks and Ballou Architects', 'DBVW Architects' ]
+designers: [ 'Jenks and Ballou Architects', 'DBVW Architects', 'DLR Group' ]
 people: [ 'Edward Goff', 'Marsden J. Perry' ]
 lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
 tags: [ 'The Superlatives', 'Former/Current Power Plant', 'LEED in RI', 'Providence Public Library Digital Collections' ]
@@ -23,7 +23,7 @@ superlative: 'This power plant once boasted the largest steam engine in the worl
 NRHP-ref-number: '06000553 (individual)'
 added-to-NRHP: 'June 30, 2006'
 
-address: '350 Eddy Street, Providence RI'
+address: '350 Eddy St, Providence RI'
 latitude: '41.8182685'
 longitude: '-71.407947'
 gmap: "https://www.google.com/maps/place/South+Street+Landing/@41.8182685,-71.407947,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44540041da0bf:0x49ca99c253070813!8m2!3d41.8182645!4d-71.4057583"
@@ -188,6 +188,7 @@ April 2014
 
 December 2015
 : Developers break ground on the new project to be called **South Street Landing**. The building will achieve <span class="abbr">LEED</span> Silver Certification and receives $49M in historic state and federal tax credits to finance its redevelopment in a private-pubic partnership.
+: Tsoi Kobus Design came onboard as architects for the final redevelopment project which included the exterior and interior of the building. DBVW was the consultant for the historic exterior work but not the prime architect. [Now the DLR Group, they have this project in their online portfolio](https://www.dlrgroup.com/work/south-street-landing/).
 
 January 2016
 : Ground breaks on a 744-space concrete parking structure to the north of South Street Landing, designed by [Spagnolo Gisness & Associates]({% link designer/spagnolo-gisness-associates.html %}) (SGA).
