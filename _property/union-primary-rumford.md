@@ -87,11 +87,11 @@ The school sat idle for 30 years since its closure after the merger of three ele
 
 [^2]: Rego, Mike. “East Providence agrees to sell long-dormant Union Primary School property.” East Bay RI, 29 September 2021. Accessed 02 July 2024 from https://www.eastbayri.com/stories/east-providence-agrees-to-sell-long-dormant-union-primary-school-property,93310
 
-The school was lightly used over the years, most recently as a senior meals site and a Community Center. Finally, the City Council aproved a sale for $300,000 during its September 21, 2021 meeting, after a public <span class="abbr">RFP</span> process during the preceding summer. The building was converted into eight apartments over the following two years.[^3]
+The school was lightly used over the years, most recently as a senior meals site and a Community Center. Finally, the City Council approved a sale for $300,000 during its September 21, 2021 meeting, after a public <span class="abbr">RFP</span> process during the preceding summer. The building was converted into eight apartments over the following two years.[^3]
 
 [^3]: Ibid.
 
-The architects [David Sisson Group](//www.ds-arch.com/the-union-primary-school-lofts.html) did a wonderful job maintaining the historic character while upgrading all the comfort systems and creating modern interior spaces full of space and light.
+The architects [David Sisson Group](https://www.ds-arch.com/the-union-primary-school-lofts.html) did a wonderful job maintaining the historic character while upgrading all the comfort systems and creating modern interior spaces full of space and light.
 
 
 ### Current Events

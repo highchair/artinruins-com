@@ -1,6 +1,21 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: union-primary-rumford
+  person: 'Richard T. Smith'
+  date: '2025-12-17'
+  content: 'Ten members of my family attended Union Primary between years 1917 and 1935 and though I searched for class photos, only one I found was from RI State Historical Society of Miss Coe’s class of 1898. Really would like to find other photos'
+
+- property: 287-291-brook-st
+  person: 'Chenille King'
+  date: '2025-12-17'
+  content: 'I remember Sunday drives with my Grandfather and we would pass by there he would always point out how back in the 1800s the houses were owned by a black family. It was built between 1882 and 1895 for Alexander Gorham, an African American real estate developer. The 2 houses replaced the houses that were owned by Alexanders father William Gorham. I found the info in National registrations of historic places.'
+
+- property: benefit-street-2004
+  person: 'Julian Lopez-Morillas'
+  date: '2025-12-15'
+  content: 'I attended St. Dunstan’s on Hope St. from 1958 to 1960, remain indebted to the school for a start learning Latin, French and a LOT about choral music; I was a boy chorister (with the connection to St. Martin’s Episcopal Church) and handbell ringer. I just realized today that the recent mass shooting at Brown University (Dec. 12, 2025) was exactly on the site where the school then stood.'
+
 - property: asa-messer-elementary
   person: 'Albin Moser'
   date: '2025-12-09'
