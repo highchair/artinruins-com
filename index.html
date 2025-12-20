@@ -197,19 +197,27 @@ sitemap:
   <p class="u__max-width--container u__vertical__pb"><span class="u__text__sans u__text__sans--bold u__text__to-upper u__color__primary">{% include humanize-numbers/index.html number=anecdotes.size %} anecdotes</span> from people just like you.</p>
   <ul class="u__list__unstyled u__max-width--container anec__list" role="list">
 {%- for quote in anecdotes limit:8 -%}
-  {%- assign property = site.property | where: 'slug', quote.property -%}
-  {%- if property.first.thumbnail -%}
-    {%- assign prop_img = property.first.thumbnail -%}
+  {%- if quote.essay  and quote.essay != 0 -%}
+    {%- comment -%} This quote references an Essay {%- endcomment -%}
+    {%- assign item = site.essays | where: 'slug', quote.essay -%}
+    {%- assign item_image = item.first.thumbnail -%}
+    {%- assign image_path = site.propimg_local | replace_first: '/', '' | append: 'essays/' | append: item_image -%}
   {%- else -%}
-    {%- assign prop_img = property.first.images.first.url -%}
+    {%- comment -%} This quote references a Property {%- endcomment -%}
+    {%- assign item = site.property | where: 'slug', quote.property -%}
+    {%- if item.first.thumbnail -%}
+      {%- assign item_image = item.first.thumbnail -%}
+    {%- else -%}
+      {%- assign item_image = item.first.images.first.url -%}
+    {%- endif -%}
+    {%- assign image_path = site.propimg_local | replace_first: '/', '' | append: item.first.slug | append: '/' | append: item_image -%}
   {%- endif -%}
+  {%- assign size = '400' -%}
     <li class="anec__list__item">
-      <a href="{{ site.baseurl }}property/{{ property.first.slug }}#{{ quote.date | date: '%Y-%m-%d' }}" aria-hidden="true">
-        {%- assign anec_image = site.propimg_local | replace_first: '/' | append: property.first.slug | append: '/' | append: prop_img -%}
-        {%- assign size = '480' -%}
+      <a href="{{ item.first.url }}#{{ quote.date | date: '%Y-%m-%d' }}" aria-hidden="true">
         {% responsive_image_block %}
-          path: {{ anec_image }}
-          image: {{ prop_img }}
+          path: {{ image_path }}
+          image: {{ item_image }}
           size: {{ size }}
           cache: true
         {% endresponsive_image_block %}
@@ -219,7 +227,7 @@ sitemap:
           {{ quote.content | truncate: 280 }}
         </blockquote>
         <figcaption class="anec__dote__meta">
-          <a href="{{ property.first.url }}#{{ quote.date | date: '%Y-%m-%d' }}"><cite>{{ quote.person }}</cite> on {{ property.first.title }}</a> <time datetime="{{ quote.date | date: "%Y-%m-%d" }}">{{ quote.date | date: "%e %B, %Y" }}</time>
+          <a href="{{ item.first.url | remove_last: '/' }}#{{ quote.date | date: '%Y-%m-%d' }}"><cite>{{ quote.person }}</cite> on {{ item.first.title }}</a> <time datetime="{{ quote.date | date: "%Y-%m-%d" }}">{{ quote.date | date: "%e %B, %Y" }}</time>
         </figcaption>
       </figure>
     </li>

@@ -27,6 +27,18 @@
     border-bottom: 0;
     margin-bottom: 0;
     padding: 0 0 0 1.5em;
+
+    &__meta {
+      display: block; // undo display: flex
+
+      a {
+        display: inline;
+        margin-inline-end: 0.5em;
+      }
+      time {
+        white-space: nowrap;
+      }
+    }
   }
 }
 
