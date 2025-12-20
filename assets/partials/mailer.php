@@ -82,7 +82,7 @@ if ( count($_POST) ) {
     $bodyofmessage .= "Time of input = ".$timeofinput."\n";
     $bodyofmessage .= "Now minus then = ".($now - $timeofinput);
     
-    $headers = "From: ". $theiremail . "\r\n" . "Reply-To: " . $theiremail . "\r\n" . "X-Mailer: PHP/" . phpversion();
+    $headers = "From: " . $to . "\r\n" . "Reply-To: " . $theiremail . "\r\n" . "X-Mailer: PHP/" . phpversion();
     
     if ( mail($to, $subject, $bodyofmessage, $headers) ) {
       // echo '<pre>';
