@@ -5,9 +5,6 @@ layout: default
 {%- assign anecdotes = anecdotes | orderby: "date" -%}
 {%- assign mentions = site.data.mentions | where: 'property', page.slug -%}
 {%- assign datemodified = page.date-modified -%}
-{%- if page.update -%}
-  {% assign datemodified = page.update %}
-{%- endif -%}
 {%- comment -%} Store the index of this property out of ALL properties {%- endcomment -%}
 {%- assign properties = site.property | sort: "title" -%}
 {%- for property in properties -%}
