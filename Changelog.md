@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2025-12-20
+
+Added
++ Finally received an anecdote on an Essay item, so needed to rework the home page display of recent anecdotes. Essays are now included properly, use the Essay thumbnail image, and link to the correct destination.
+
 ## 2024-12-31
 
 Added
