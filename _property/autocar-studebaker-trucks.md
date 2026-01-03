@@ -93,19 +93,17 @@ imagescredit: 'Contribution from the Library of Congress and Chloé Hurley'
 
 ### Last Tenant
 
-National Office Furniture has been at this address since we don’t know when. Its been a long time. They recently moved. Why? Unsure, but the new location likely seems like it could only be a showroom because it does not have all of the space that this location had.
+National Office Furniture was located at this address and used the building much as it was intended, with the sales office and showroom at the front along Branch Avenue and a storage warehouse behind. We are unsure if they made the first move or of the owner intended for the sale of the building, but either way, National Office Furniture moved in 2023 to a much smaller space on Elmgrove as their sales office and showroom.
 
-When this was a car and truck sales showroom, the flashier vehicles were likely located in the streetfront portion of the building along Branch Avenue. Once inside, a customer could look out across the annex building in the rear which could hold up to 50 cars (according to the Sanborn Map).
+When this was a car and truck sales showroom, the flashier vehicles were likely located in the street-front portion of the building along Branch Avenue. Once inside, a customer could look out across the annex building in the rear which could hold up to 50 cars (according to the Sanborn Map).
 
 
 #### Architecture
 
-The building’s main entrance is a nice, symmetrical, commercial storefront with large plate glass windows and central double-door. The door is flanked by two decorative concrete columns. Two single door recessed entrances are on the far ends of the left and right sides. The rear annex building has no details from the exterior but its interior is impressive in its raw structural space.
+The building’s main entrance is a nice, symmetrical, commercial storefront with large plate glass windows and central double-door. The door is flanked by two decorative concrete column panels. Two single door recessed entrances are on the far ends of the left and right sides. The rear annex building has no details from the exterior but its interior is impressive in its raw structural space.
 
 
 ### Current Events
-
-National Office Furniture moved in 2023 from this location to Elmgrove Avenue next to a Santander Bank Branch.
 
 The recent new signage links this location with 700–740 North Main Street’s **Dean Auto Collision Center/Richmond Motor Sales and Rentals** and **The Law Office of Thomas E. Badway & Associates, LLC**. 
 

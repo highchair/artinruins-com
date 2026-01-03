@@ -2,7 +2,9 @@
 title: "Allen Printworks"
 slug: allen-printworks
 aka: 'Woonsocket Company Print Works, Roger Williams Finishing Company, Narragansett Business Forms, Providence Picture Frame'
-date-modified: 2021-04-25 12:00
+date-modified: 2026-01-02 12:00
+update: 'Added a recent image of the un-redeveloped mill'
+update-image: allen-print-jh-2025-08-01.jpg
 
 built: '1830 et seq.'
 demolition: 
@@ -100,8 +102,10 @@ images:
     sizes: '1200, 900'
   - url: allen-print-jh-2020-10-01.jpg
     sizes: '1440, 900'
+  - url: allen-print-jh-2025-08-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2020-10-01
+mostrecentimage: 2025-08-01
 
 imagescredit: 'Contributions by the Brown University Digital Repository (<a href="https://repository.library.brown.edu/studio/item/bdr:213551/">1889</a>, <a href="https://repository.library.brown.edu/studio/item/bdr:213318/">1899</a>), the Rhode Island Mills and Mill Villages Photograph Collection at the Providence Public Library (<a href="https://provlibdigital.org/islandora/object/islandora%3A290">photo 1</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A162">photo 2</a>), and <a href="https://www.re-vision.com/photography/providence/">Jay Boersma</a>'
 
@@ -115,18 +119,20 @@ There is a Then and Now photo pair for this property! [View the Then & Now photo
 
 ### Previous Tenants
 
-For many years — we would say from 1980 to 2017 — this once important mill flew under-the-radar of the mill conversion frenzy. It was by the highway in a light industrial part of town, so the pressure to become residential was not there. It had long term tenants using its large spaces as well. While the mill was not generally kept in fantastic condition, the roof did its job and graffiti eventually was painted over. Many of the windows had bee bricked in and those that remained were replacement windows from perhaps the 80s.
+For many years — we would say from 1980 to 2017 — this once important mill flew under-the-radar of the mill conversion frenzy. It was by the highway in a light industrial part of town, so the pressure to become residential was not there. It had long term tenants using its large spaces as well. While the mill was not generally kept in fantastic condition, the roof did its job and graffiti eventually was painted over. Many of the windows had been bricked in and those that remained were replacement windows from perhaps the 80s.
 
 As long as we have been in Providence – since 1999 – this building was home to the Providence Picture Frame Company and Dryden Galleries. There is also some office space in the back. According to some of the anecdotes left below, the Providence Picture Frame company may be about the same age as the smaller stone mill at 25 Dryden Lane, with roots going back to 1830.
 
+[Providence Picture Frame](https://www.providencepictureframe.com) moved to Mineral Spring Avenue in North Providence starting in late 2019. 
+
 The Benny’s sign from the highway is one of the more recognizable advertisements along the Providence stretch of I-95 and was in very good shape in [the photo from Jay Boersma in 1976](#photo-allen-print-jb-1976-01). Our guess is that it has been there since the 60s. The [Benny’s Branch Avenue location]({% link _property/chase-brass-copper.md %}) closed in 2017, signaling the end of one era and the beginning of another.
+
+This mill has many neighbors we are keeping an eye on: [Washington Laundry]({% link _property/32-branch-avenue.md %}), [Autocar and Studebaker Trucks]({% link _property/autocar-studebaker-trucks.md %}), and the [State Board of Elections]({% link _property/state-board-of-elections.md %}).
 
 
 ### Current Events
 
-[Providence Picture Frame](https://www.providencepictureframe.com) moved to Mineral Spring Avenue in North Providence starting in late 2019. The building is undergoing a conversion to Class A medical office space under the direction of Union Studio Architecture. [Their Instagram post](https://www.instagram.com/p/B63z4Fgn727/) shows a little bit of detail ad seems to close in a bit of the west side with a modern glass atrium addition and a parking deck that takes advantage of the natural slope of the land.
-
-Since 2019 some work has been done. The northern portion has been almost completely converted, with a new roof and new windows throughout. The southern portion of the mill is not looking as cared for, with boarded up window openings waiting for new windows and with much trash gathering in the parking lot. We are unsure if construction has stalled, and if so for what reason.
+The building started to undergo a conversion to Class A medical office space under the direction of Union Studio Architecture. That seems to have completely stopped and no additional work has been done in the past few years. The northern portion has a new roof and new windows throughout. The southern portion of the mill is not looking as cared for, with boarded up window openings waiting for new windows and with much trash gathering in the parking lot. Construction has stopped, but we are unsure of any reasons besides, perhaps, the developer ran out of money.
 
 
 ### History
