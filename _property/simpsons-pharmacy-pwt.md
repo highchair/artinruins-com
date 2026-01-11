@@ -41,6 +41,7 @@ excerpt: "A long-standing family-run business survived for 93 years before succu
 images:
   - url: simpsons-pharm-jh-2025-01-01.jpg
     sizes: '1440, 900'
+    alt: 'A one-story commercial building with the front wall almost completely plate glass. The central double doors recede slightly from the two ends of the building. Transom glass is present throughout. A flat roof has the letters for “Simpons Pharmacy” across the parapet.'
   - url: simpsons-pharm-jh-2025-01-02.jpg
     sizes: '1200, 900'
   - url: simpsons-pharm-jh-2025-01-03.jpg
@@ -61,7 +62,7 @@ imagescredit:
 
 ### Last Tenant
 
-Simpson’s Pharmacy first opened in 1929. It was one of the few remaining family-owned pharmacies in the early 2020s. Another family-business, Howell Smith Pharmacy, closed after 82 years in 2019. And in Providence and Middletown, Greenline Apothecary closed early in 2025.
+Simpson’s Pharmacy first opened in 1929. It was one of the few remaining family-owned pharmacies in the early 2020s. Another family-business, Howell Smith Pharmacy, closed after 82 years in 2019. And in Providence and Middletown, [Greenline Apothecary]({% link _property/905-north-main-st-pvd.md %}) closed early in 2025.
 
 The family was unable to discuss the closure with customers beforehand, which left some distraught. “Contract restrictions did not allow us to announce until the end,” they told the Valley Breeze. Upon finding out, several customers posted online about how Simpson’s focused on customer service instead of corporate greed. One pointed out that this was the best place around for medical supplies and specialty equipment.[^1]
 
