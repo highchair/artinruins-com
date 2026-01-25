@@ -1,0 +1,7 @@
+# This file is now REQUIRED by Google!
+
+User-agent: *
+Allow: /
+Disallow: /arch/
+Disallow: /assets/
+Disallow: /supplements/
