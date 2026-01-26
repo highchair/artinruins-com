@@ -27,6 +27,8 @@ address: '250 Brook St, Providence RI'
 latitude: '41.823686'
 longitude: '-71.398798'
 gmap: "https://www.google.com/maps/place/250+Brook+St,+Providence,+RI+02906/@41.823517,-71.3996452,19z/data=!3m1!4b1!4m5!3m4!1s0x89e4453b94a490db:0x70b9eecf48210dd3!8m2!3d41.823516!4d-71.399098"
+street: [ 'Brook St' ]
+street-number: 250
 
 meta: ""
 excerpt: "A new set of residence halls to rise five stories along Brook Street, creating a pocket of dense stident housing"

@@ -27,6 +27,8 @@ address: 'Around 436 Brook St, Providence RI'
 latitude: '41.8291167'
 longitude: '-71.4011786'
 gmap: "https://www.google.com/maps/place/436+Brook+St,+Providence,+RI+02906/@41.8291167,-71.4011786,18z/data=!4m5!3m4!1s0x89e445248735ef35:0xfb49152807b54118!8m2!3d41.8294938!4d-71.3998535"
+street: [ 'Brook St' ]
+street-number: 436
 
 meta: ""
 excerpt: "Eight houses allowed to decay as student housing and easily demolished because of a lack of visual maintenance"

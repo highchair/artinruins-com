@@ -25,6 +25,8 @@ address: '287–291 Brook St, Providence RI'
 latitude: '41.824759'
 longitude: '-71.3994072'
 gmap: "https://www.google.com/maps/place/41%C2%B049'29.1%22N+71%C2%B023'55.9%22W/@41.824759,-71.3994072,158m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d41.824758!4d-71.39886"
+street: [ 'Brook St' ]
+street-number: 287
 
 meta: ""
 excerpt: "Twin 1875-era three-story mansard houses are decaying under ownership of Brown Univesity"

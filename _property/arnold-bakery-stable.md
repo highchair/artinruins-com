@@ -25,8 +25,8 @@ address: '50 John St, Providence RI'
 latitude: '41.8218597'
 longitude: '-71.3987901'
 gmap: "//www.google.com/maps/place/Oenslager+Studios,+50+John+St,+Providence,+RI+02906/@41.8218597,-71.3987901,19.99z/data=!4m15!1m8!3m7!1s0x89e4453b727d669b:0x6800781021878675!2sBrook+St,+Providence,+RI!3b1!8m2!3d41.825126!4d-71.3989869!16s%2Fg%2F1tjprj46!3m5!1s0x89e445396082c2b7:0x6feb6640da22d67a!8m2!3d41.822033!4d-71.3987588!16s%2Fg%2F1vnrrmqq?entry=ttu"
-street: [ 'John St' ]
-street-number: 50
+street: [ 'Brook St' ]
+street-number: 200
 
 meta: ""
 excerpt: "A small brick industrial building in a predominantly residential neighborhood is the remaining legacy of a large bakery conglomerate"

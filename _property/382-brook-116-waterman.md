@@ -25,6 +25,8 @@ address: '383 Brook St, 116 Waterman, Providence RI'
 latitude: '41.8276549'
 longitude: '-71.4037212'
 gmap: "https://www.google.com/maps/place/41%C2%B049'39.5%22N+71%C2%B023'58.2%22W/@41.8276549,-71.4037212,630m/data=!3m2!1e3!4b1!4m7!1m2!2m1!1smaps.google.com+116+waterman+street!3m3!8m2!3d41.827651!4d-71.399494"
+street: [ 'Brook St' ]
+street-number: 383
 
 meta: ""
 excerpt: "Two late-19th century houses are to be torn down in favor of a five-story mixed-use residential and commercial building in the College Hill Historic District"

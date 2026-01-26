@@ -22,6 +22,8 @@ address: '450 Brook St, Providence RI'
 latitude: '41.8299955'
 longitude: '-71.4020938'
 gmap: "https://www.google.com/maps/place/450+Brook+St,+Providence,+RI+02906/@41.8299955,-71.4020938,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4452479664f3b:0x2b4a661b0842123c!8m2!3d41.8299955!4d-71.3999051"
+street: [ 'Brook St' ]
+street-number: 450
 
 meta: ""
 excerpt: "A modern, glassy set of student buildings on once taxable-land near the bustling Thayer Street commercial corridor"

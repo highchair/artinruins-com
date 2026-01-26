@@ -25,6 +25,8 @@ address: '257 Thayer St, Providence RI'
 latitude: '41.828961'
 longitude: '-71.4006503'
 gmap: "https://www.google.com/maps/place/41°49'44.3%22N+71°24'00.4%22W/@41.828961,-71.4006503,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0xb4a86bb1d3e053ce!7e2!8m2!3d41.8289611!4d-71.4000995"
+street: [ 'Thayer St' ]
+street-number: 257
 
 meta: ""
 excerpt: "Nine homes on a block off Thayer Street were demolished ot make way for a large bulk of student apartments"
