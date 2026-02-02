@@ -48,6 +48,8 @@ images:
     sizes: '1200, 900'
   - url: 36-harrison-jh-2011-01-02.jpg
     sizes: '1200, 900'
+  - url: 36-harrison-jh-2022-10-01.jpg
+    sizes: '1440, 900'
   - url: addition-rendering-2025.jpg
     caption: 'Rendering of the proposed addition by Jack Ryan, Architect'
     sizes: '1440, 900'
