@@ -88,6 +88,8 @@ We couldn’t find much about this place other than the tax records which list 2
 
 The building is surrounded by construction fencing and has been since our 2018 photo. It is not being repaired or maintained but it is also not being actively torn down.
 
+A website exists for [25Bough.com](https://www.25bough.com), which promotes a 5-story building in this spot which looks like it retains a little bit of the existing features. It promises shared event space, co-working, museum, and other community-oriented mission-driven ideas.
+
 
 ### History
 

@@ -2,13 +2,13 @@
 title: "Engine Company No. 21"
 slug: humboldt-fire-station
 aka: 'Humboldt Fire Station'
-date-modified: 2023-04-01 12:00
-update: 'Added a recent photo of the rear of the building taken from Elton Street'
+date-modified: 2026-02-27 12:00
+update: 'Added news of a recent purchase and redevelopment agreement.'
 
 built: '1906'
 demolition:
-redeveloped:
-units:
+redeveloped: '2026'
+units: 3
 decade: '1900-1909'
 date-added: '2022'
 categories: [ '#UrbanDecay' ]
@@ -65,6 +65,22 @@ imagescredit:
 ### Last Tenant & Current Events
 
 This fire station was closed in 2017, the same time as the one on [Rochambeau Avenue]({% link _property/rochambeau-fire-station.md %}), also on the East Side. 
+
+_Update January 27, 2026, from the Boston Globe Rhode Island Rhode Map email newsletter_
+
+The winning bidders of the old Humboldt Fire Station on Providence’s East Side plan to convert the property into storage facility for their classic car collection plus three residential units.
+
+The Providence Board of Contract and Supply is meeting today to recommend Richard Gavranich and Mark Albert as the winning bidders of the fire station, which closed as part of a restructuring of the fire department eight years ago.
+
+In their $1.15 million bid, Gavranich and Albert wrote that the property “provides an ideal space for the secure storage and ongoing care of their classic car collection.”
+
+They also plan to build three 1,500-2,500 square-foot apartments as part of the conversion, according to the bid. The goal is to complete the project by the summer of 2027.
+
+Josh Estrella, a spokesman for the city, said the recommendation is “contingent on restoration of the historic building and conversion of the upper level into residential housing units, with residential use established as the primary use of the property.”
+
+“Any remaining space would be permitted for compatible uses, as determined by the awardee, in accordance with zoning requirements and the terms of the sale,” Estrella said.
+
+The city received six total bids for the fire station, including from former Mayor Joe Paolino, who wanted to convert it into four condos (his bid was $250,000) and the Montessori Children's House, which bid $1.1 million to convert it to a community-centered education facility.
 
 
 ### History
