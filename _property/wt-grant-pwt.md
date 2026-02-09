@@ -16,7 +16,7 @@ town: [ 'Pawtucket, RI' ]
 designers: [ 'Designer Unknown' ]
 people: []
 lists: [ 'National Register of Historic Places', 'Downtown Pawtucket Historic District' ]
-tags: []
+tags: [ 'Lost Music Venues' ]
 
 NRHP-ref-number: '06001227 (contributing)'
 added-to-NRHP: 'November 2006'
@@ -80,7 +80,7 @@ images:
   - url: grant-jh-2010-10-01.jpg
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/sets/72157674227599495/" target="_blank">Pawtucket Library collection on Flickr</a>'
+imagescredit: 'Contributions from the <a href="https://www.flickr.com/photos/pawtucketlibrary/sets/72157674227599495/">Pawtucket Library collection on Flickr</a>'
 
 mostrecentimage: 2010-10-01
 
@@ -98,17 +98,22 @@ Since the late 70s the building has been subdivided into smaller units and has b
 
 ### Current Events
 
-“[Stil on Main](//www.stillonmain.shop){:target="_blank"}” is open most days with a variety of tenants. Still on Main is named for [William Grant Still](//en.wikipedia.org/wiki/William_Grant_Still){:target="_blank"}, 1896–1978, a musician and composer of nearly 200 works who was known as the “Dean of Afro-American Composers.”
+“[Stil on Main](https://www.stillonmain.shop)” is open most days with a variety of tenants. Still on Main is named for [William Grant Still](https://en.wikipedia.org/wiki/William_Grant_Still), 1896–1978, a musician and composer of nearly 200 works who was known as the “Dean of Afro-American Composers.”
 
 
 ### History
 
 _From J. and Michael Lozano, former owners_
 
-The title records for the property go back to 1934, when it was a WT Grant department store. The WT Grant Company occupied it until the mid seventies, but even as a WT Grant department store, the title listed multiple tenants for the property. This continued into the eighties and nineties, when the building was known as the Mill River Arcade (<span class="abbr">MRA</span>). [In 1980 the portion of Main Street in front of WT Grant’s was turned into a pedestrian mall](//www.flickr.com/photos/pawtucketlibrary/28901786014/in/album-72157667646354770/){:target="_blank"}, much like [Westminster St in downtown Providence 20 years earlier](//provlibdigital.org/islandora/object/islandora%3A22693){:target="_blank"}. It was a failure, and in the late 80s it was opened to vehicular traffic and by 1992 all remnants of the canopy were removed.
+The title records for the property go back to 1934, when it was a WT Grant department store. The WT Grant Company occupied it until the mid seventies, but even as a WT Grant department store, the title listed multiple tenants for the property. This continued into the eighties and nineties, when the building was known as the Mill River Arcade (<span class="abbr">MRA</span>). [In 1980 the portion of Main Street in front of WT Grant’s was turned into a pedestrian mall](https://www.flickr.com/photos/pawtucketlibrary/28901786014/in/album-72157667646354770/), much like [Westminster St in downtown Providence 20 years earlier](https://provlibdigital.org/islandora/object/islandora%3A22693). It was a failure, and in the late 80s it was opened to vehicular traffic and by 1992 all remnants of the canopy were removed.
 
 A young man by the name of Paris master-leased the building from Louis Yip and created POAMlands (Prospectors and then Preachers on a Mission, a Christian Hip-Hop theme) during the early ought’s. It was full of hip-hop culture-related businesses — a record shop, recording studio, women’s and men’s fashion, and a barber. In the basement would be late night DJ sets. In late 2004 a pipe burst on the unoccupied second floor, flooding the 9000 sq ft basement with up to two feet of water. This was around the same time that the former DMV next door suffered from a burst pipe and the DMV was forced to move to the Apex building. A barber shop on the first floor was the last business to leave POAM in late 2005.
 
+#### Music and Events here
+
+During the almost 10 years as “The Grant,” it hosted a good number of music and art shows. Strange Famous Records had a handful of artists showcases here featuring Sage Francis and B. Dolan. The art show “None More Blacker” curated by Jarrett McPhee took over four spaces. Bands that performed at the Grant include: Torche, The Body, [Dianogah](https://www.setlist.fm/setlist/dianogah/2008/the-grant-pawtucket-ri-63e4ae53.html), and The Black Clouds and others.
+
+***
 
 _From the National Register nomination for the Downtown Pawtucket Historic District, Kathy Cavanaugh, 2006_
 

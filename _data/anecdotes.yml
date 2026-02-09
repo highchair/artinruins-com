@@ -1,6 +1,31 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: 905-north-main-st-pvd
+  person: 'Paul'
+  date: '2026-02-03'
+  content: 'Many memories! I grew up in the house behind this building when it was “RI Aquarium.” We simply referred to it as “The Pet Shop.” That parking lot was our playground (after store hours, of course).'
+
+- property: esek-hopkins-house
+  person: 'dollsintheneatestmanner'
+  date: '2026-02-02'
+  content: 'Should be restored and not renovated. I live in a house built in 1760, without insulation in the oldest section of the house. No problem. House is very livable. (via Instagram)'
+
+- property: sears-north-main
+  person: 'Beverly Golec'
+  date: '2026-01-27'
+  content: 'Worked at Sears right out of high school (1962-1968). Manager of the hot dog stand, candy counter, and housewares hired me. First day on the job was selling hot dogs, on sale, 5 cents each. Then worked candy counter. Moved to housewares. After 4 years on the floor, moved to the inventory control office. A year later became a floater and worked in every department. Loved it.'
+
+- property: lincoln-mall
+  person: 'Philip Houle'
+  date: '2026-01-25'
+  content: 'I miss gamers haven/electronic boutique'
+
+- property: george-earle-bldg-pvd
+  person: 'ChapmanCycles'
+  date: '2025-12-27'
+  content: 'I miss Tim and the whole crew at Checkers. Go there before or after a show to get two slices and a soda. The potato slice was always my favorite! (via Instagram)'
+
 - property: union-primary-rumford
   person: 'Richard T. Smith'
   date: '2025-12-17'
