@@ -14,6 +14,8 @@ This repository serves as the archive of data collected from various public sour
 
 ```bash
 $ bundle install
+# or
+$ bundle update
 ```
 
 ## Serve the site locally
@@ -23,11 +25,11 @@ only the assets that have changed. The `JEKYLL_ENV` variable is assumed to be
 "development" when omitted.
 
 ```bash
-$ jekyll serve --I
+$ bundle exec jekyll serve --I
 ```
 
 Builds into the Stage folder: `_stage`. When using the non-incremental build with `jekyll serve`, the first build will need
-time to create ALL of the site thumbnails (two for every property on the site, currently almost 400 properties).
+time to create ALL of the site thumbnails (two for every property on the site, currently over 400 properties).
 
 In a browser, open [http://127.0.0.1:4090/](http://127.0.0.1:4090/)
 
@@ -43,17 +45,15 @@ $ JEKYLL_ENV=production jekyll build --config _config.yml --I
 
 Builds into the Production folder: `_stage`. Used so that we may conduct incremental
 builds and only upload what has changed. The `property-img` folder is ignored with this command,
-but incremental changes should be caught by Nova’s Publish difference engine.
+but incremental changes should be caught by an IDE’s publish difference engine.
 
 ### Supporting incremental builds
 
-In order to build these 300+ property pages quickly, we insert development-only changes
+In order to build these 400+ property pages quickly, we insert development-only changes
 via Javascript. The `/assets/js/global.js` file has front matter in it to become part
 of the build process. If development, certain new scripts are added that change the
 main navigation. **DO NOT upload this JS file to the Production site or you may put
 development-only JS in place!**
-
-The Google Global Tag is also added via JS as part of the cookie policy acceptance.
 
 
 ## Custom post types (Collections)
