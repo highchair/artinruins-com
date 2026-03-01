@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: horace-remington-sons
+  person: 'Kevin McLaughlin'
+  date: '2026-02-19'
+  content: 'I enjoyed reading about the Remington Building. My grandfather was a jeweler and engraver and purchased precious metals in the building. I recall the old style elevator with an elevator operator! So glad the building was renovated and re-purposed.'
+
 - property: 905-north-main-st-pvd
   person: 'Paul'
   date: '2026-02-03'
