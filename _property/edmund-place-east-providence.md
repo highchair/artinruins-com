@@ -2,18 +2,20 @@
 title: "Edmund Place"
 slug: edmund-place-east-providence
 aka:
-date-modified: 2024-03-24 12:00
+date-modified: 2026-02-21 13:00
+update: 'Added three new photos of the building under renovation into apartments'
+update-image: edmund-place-jh-2026-02-03.jpg
 
 built: '1994'
 demolition:
-redeveloped:
-units:
+redeveloped: '2026'
+units: 54
 decade: '1990-1999'
 date-added: '2024'
-categories: [ '#UrbanDecay' ]
+categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'East Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: [] # ONE Neighborhood Builders
 people: []
 lists: []
 tags: [ 'Contemporary' ]
@@ -26,7 +28,7 @@ street: [ 'Taunton Ave' ]
 street-number: 350
 
 meta: ""
-excerpt: "A purpose-built nursing home that closed within six years due to mismanagement, croneyism, and nepitisim"
+excerpt: "A purpose-built nursing home that closed within six years due to mismanagement, croneyism, and nepitisim. Turned into affordable housing in 2026."
 
 thumbnail: edmund-place-jh-2024-03-05.jpg
 
@@ -55,8 +57,14 @@ images:
     sizes: '740, 1036'
   - url: edmund-place-jh-2024-03-12.jpg
     sizes: '1440, 900'
+  - url: edmund-place-jh-2026-02-01.jpg
+    sizes: '1440, 900'
+  - url: edmund-place-jh-2026-02-02.jpg
+    sizes: '1440, 900'
+  - url: edmund-place-jh-2026-02-03.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2024-01-01
+mostrecentimage: 2026-02-01
 
 imagescredit:
 
@@ -161,7 +169,7 @@ The building is nothing special, though it is not terrible, either. The first fl
 
 ### Current Events
 
-Though it has entertained a few offers, the building has sat vacant since 2000.
+The building and adjacent parcels were purchased in 2023 by ONE Neighborhood Builders and will become 160 units of affordable housing. [See the longer news story below](#one-neighborhood-builders-buys-3-acres-in-east-providence-plans-mixed-income-development).
 
 
 ### History
@@ -233,6 +241,33 @@ Edmund Place was a home for those who were close to the end of their life. By de
 
 
 ### In the News
+
+#### ONE Neighborhood Builders buys 3 acres in East Providence, plans mixed-income development
+
+_by Marc Larocque_  
+**Providence Business News** | April 14, 2023 (abridged)
+
+The nonprofit ONE Neighborhood Builders recently bought three neighboring vacant properties on Taunton Avenue in East Providence totaling 2.95 acres, with plans to redevelop the land into 160 units of affordable housing.
+
+The 330 Taunton Ave., 350 Taunton Ave. and 354 Taunton Ave. properties were sold by Hamlet Court Real Estate LLC and Joseph Ruggiero, separately, to One Neighborhood Builders for a total of $4.5 million, according to the warranty deeds, which are public records documenting the sales. […]
+
+The city’s online property tax evaluation database shows that the 1.1-acre 350 Taunton Ave. site was most recently valued by East Providence assessors in fiscal year 2023 as being worth $3.09 million. The property includes a dormant, four-story, 63,000-square-foot apartment building once known as Edmund Place, which was constructed in 1975. One Neighborhood Builders said the Edmund Place building will be rehabilitated as part of the project, with 54 of the affordable housing units located inside of it, and 106 additional residential units in two newly proposed buildings.
+
+One Neighborhood Builders said its plans for a mixed-use income residential community on the site, including affordable housing for “extremely low-income households,” was the “brainchild” of a group of organizations called the Taunton Avenue Collaborative. In addition to One Neighborhood Builders, the group includes homelessness service provider Crossroads Rhode Island, foster care empowerment organization Foster Forward and statewide human service organization Family Service of Rhode Island.
+
+“Together these partners will bring their expertise in housing development and supportive service delivery to create a vibrant and diverse apartment community for extremely low-income households, [youths] aging out of foster care, and low- to moderate-income families,” according to an announcement from One Neighborhood Builders.
+
+About 40% of the housing units at the site will be designed as “permanent supportive housing,” which pairs housing with case management and supportive services provided by One Neighborhood Builders’ service partners, according to the nonprofit. Of the 160 apartments, 25 will be managed by Crossroads Rhode Island, providing ongoing support to individuals and families who have experienced homelessness, according to One Neighborhood Builders.
+
+In addition, Foster Forward will manage 20 apartments and provide housing and services for foster youths who have aged out of the foster care system. Lastly, Family Service of Rhode Island will support 20 units and provide supportive services to occupants who have been involved with the R.I. Department of Children, Youth and Families, or were at risk of being involved, according to One Neighborhood Builders.
+
+The remaining 60% of units will be designated as affordable for households earning a low to moderate income, meaning their household income is 60% to 120% of the area median income.
+
+So far, the collaborative has secured $7.1 million to establish the housing development. Additional funding will be needed to finish the redevelopment project, according to One Neighborhood Builders, which has a goal of opening the new apartments by the summer of 2025. […]
+
+_Captured 21 February 2026 from https://pbn.com/one-neighborhood-builders-buys-3-acres-in-east-providence-plans-mixed-income-development/
+
+***
 
 #### Nursing home loses its federal payments
 

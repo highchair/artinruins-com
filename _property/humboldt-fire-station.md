@@ -2,8 +2,9 @@
 title: "Engine Company No. 21"
 slug: humboldt-fire-station
 aka: 'Humboldt Fire Station'
-date-modified: 2026-01-27 12:00
-update: 'Added news of a recent purchase and redevelopment agreement.'
+date-modified: 2026-02-21 12:00
+update: 'Added a recent photo of the property now that it has been purchased.'
+update-image: humboldt-21-jh-2026-02-01.jpg
 
 built: '1906'
 demolition:
@@ -52,8 +53,10 @@ images:
     sizes: '768, 924'
   - url: humboldt-21-jh-2023-03-01.jpg
     sizes: '1200, 900'
+  - url: humboldt-21-jh-2026-02-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2023-03-01
+mostrecentimage: 2026-02-01
 
 imagescredit:
 
