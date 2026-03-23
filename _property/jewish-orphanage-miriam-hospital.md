@@ -2,9 +2,9 @@
 title: "Jewish Orphanage / Miriam Hospital"
 slug: jewish-orphanage-miriam-hospital
 aka:
-date-modified: 2025-09-07 12:00
-update:
-update-image:
+date-modified: 2026-03-09 12:00
+update: 'Added new photos of the recent demolition to the western wing of the forner Hospital'
+update-image: miriam-hospital-jh-2026-03-03.jpg
 prop-number: 438
 
 built: '1921'
@@ -13,7 +13,7 @@ redeveloped:
 units:
 decade: '1920-1929'
 date-added: '2025' #August
-categories: [ '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: [] # Barker & Turoff
@@ -39,14 +39,31 @@ thumbnail: miriam-hospital-jh-2025-08-04.jpg
 images:
   - url: miriam-hospital-jh-2025-08-01.jpg
     alt: 'A two story light tan or yellow brick building on a raised basement with very few ornamental details. Windows are rectangular and the facades are mostly flat.'
+    sizes: '1440, 900'
   - url: miriam-hospital-jh-2025-08-02.jpg
+    sizes: '1200, 900'
   - url: miriam-hospital-jh-2025-08-03.jpg
+    sizes: '1440, 900'
   - url: miriam-hospital-jh-2025-08-04.jpg
+    sizes: '1440, 900'
   - url: miriam-hospital-jh-2025-08-05.jpg
+    sizes: '1200, 900'
   - url: miriam-hospital-jh-2025-08-06.jpg
+    sizes: '1200, 900'
   - url: miriam-hospital-jh-2025-08-07.jpg
+    sizes: '1440, 900'
+  - url: miriam-hospital-jh-2026-03-01.jpg
+    sizes: '1440, 900'
+  - url: miriam-hospital-jh-2026-03-02.jpg
+    sizes: '1440, 900'
+  - url: miriam-hospital-jh-2026-03-03.jpg
+    sizes: '1440, 900'
+  - url: miriam-hospital-jh-2026-03-04.jpg
+    sizes: '1440, 900'
+  - url: miriam-hospital-jh-2026-03-05.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2025-08-01
+mostrecentimage: 2026-03-01
 
 imagescredit:
 
@@ -70,7 +87,7 @@ Their centennial materials emphasize and increased demand for their services due
 
 [The Miriam Hospital is celebrating its 100 year anniversary](https://www.miriam100.org/) with a fundraising campaign.
 
-Demolition preparations are underway in the summer of 2025 and mark the start of a three year phased plan.
+Demolition occurred in early 2025. the site is now cleared for construction of the new wing.
 
 
 ### History
