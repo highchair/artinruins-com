@@ -66,20 +66,16 @@ sitemap:
       Output Demolition Alerts
     {%- endcomment -%}
 {% if demoalert.size > 0 %}
-  {%- if demoalert.size >= 4 -%}
-    {% assign demo_display = 4 %}
-  {%- else -%}
-    {% assign demo_display = demoalert.size %}
-  {%- endif -%}
+  {% assign demo_display = 4 %}
     <span id="demo"></span>
     <h2 class="o__title--sm o__title__cta v-rhythm">Demolition Alert{% if demoalert.size > 1 %}s{% endif %}{% if demoalert.size > demo_display %} <a href="{% link category/demolitionalert.html %}">More in <span class="u__sr-only">Demolition Alert</span><span aria-hidden="true">#DemolitionAlert</span></a>{% endif %}</h2>
     <div class="u__vertical__pb">
       <ul id="js__stackpanel" class="taxonomy--stack property-card__cols u__list__unstyled" role="list">
-    {% for item in demoalert limit:demo_display %}
+  {% for item in demoalert limit:demo_display %}
         <li class="taxonomy__item demolition-alert" style="--i: {{ forloop.index0 }}; --z: {{ demo_display | minus: forloop.index }}">
-      {% include property-card.html %}
+    {% include property-card.html %}
         </li>
-    {% endfor %}
+  {% endfor %}
       </ul>
       <div class="taxonomy--stack__controller" aria-hidden="hide">
         <label for="o__text__sans--bold stack__range">Scroll/swipe Horizontally</label>
