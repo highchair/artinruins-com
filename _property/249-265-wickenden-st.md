@@ -12,10 +12,10 @@ redeveloped:
 units:
 decade: '1980-1989'
 date-added: '2023'
-categories: [ '#DemolitionAlert' ]
+categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
-designers: []
+designers: [ 'Dustin Dezube' ]
 people: []
 lists: []
 tags: [ 'Demolition by Progress' ]

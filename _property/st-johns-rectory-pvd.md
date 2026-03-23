@@ -16,7 +16,7 @@ date-added: '2026' #February
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Alpheus C. Morse' ]
+designers: [ 'Alpheus C. Morse', 'Dustin Dezube' ]
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
 tags: []
