@@ -1,6 +1,36 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: barnaby-carriage-house
+  person: 'Valerie'
+  date: '2026-04-05'
+  content: 'I have owned the building since 2022. We are just finishing restoring the rose window facing Sutton Street. I have always wanted to see what the clock, tower and tile work originally looked like. If you have any leads please reach out.'
+
+- property: quonset-point-naval-base
+  person: 'Mike Williamson'
+  date: '2026-04-03'
+  content: 'I was a Corpsman at the hospital in 1969 to 1970. Was a great duty station.'
+
+- property: shooters-cafe
+  person: 'pat cortellessa'
+  date: '2026-03-27'
+  content: 'the Bevo Club location at 566 south main st across from the hot club was first the location of the River Cafe nightclub in 1986 to 1992'
+
+- property: down-under-duckpin
+  person: 'Traer S'
+  date: '2026-03-24'
+  content: 'I was at that party in 2008, too. Have been trying to piece together details from it so it was great to see photos. What Cheer played and yeah — it seems like Lightning Bolt played too. Everyone had headlamps and flashlights. Wild.'
+
+- property: rocky-point-park
+  person: 'Brian A Ross'
+  date: '2026-03-19'
+  content: 'My father spent countless days at Rocky Point diving and swimming . He had lost his arms at 10 years old but that did not stop him from. He saw the original Three Stooges perform there along with other known artists and bands. I too spent most of my childhood there. I walked through the grounds a year before my Dad passed I could picture the place packed with school kids at years end and the music and concerts sponsored by HJY and Carolyn Foxx. RPP will always stay k mg memories as it was part of my life and the place my friends and I would meet up!'
+
+- property: fram-company-headquarters
+  person: 'Terry Kluender'
+  date: '2026-03-17'
+  content: 'Worked and was trained at the Phillipsdale Frsm plant! 1970-1984. Excellent Company. Al Rives was the President and Frank McGonagal (sp?) Advertising Head.'
+
 - property: horace-remington-sons
   person: 'Kevin McLaughlin'
   date: '2026-02-19'
