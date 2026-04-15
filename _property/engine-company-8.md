@@ -61,8 +61,10 @@ images:
     sizes: '1200, 900'
   - url: 36-harrison-jh-2025-03-02.jpg
     sizes: '1440, 900'
+  - url: 36-harrison-jh-2026-03-01.jpg
+    sizes: '1440, 900'
 
-mostrecentimage: 2025-03-01
+mostrecentimage: 2026-03-01
 
 imagescredit: 'Providence Public Library Digital Collection, <a href="https://provlibdigital.org/islandora/object/VM013_WC0684">Rhode Island Photographs Collection</a> and the <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>'
 

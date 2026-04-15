@@ -34,6 +34,7 @@ thumbnail: sockanosset-jh-2002-03-07.jpg
 images:
   - url: sockanosset-undated-overview.jpg
     caption: 'Vintage photo posted by Larry DePetrillo to Facebook'
+    alt: 'Several stone cottages, each an H-shaped plan with central entrance, three and a half floors, with cross gable roofs. Quoins details each outside corner and most window openings. At the time of these photos in the early 2000s, the buildings were open with no windows present and some had floors rotted completely away.'
     sizes: '1600, 900'
   - url: sockanosset-undated-gates.jpg
     caption: 'Vintage photo posted by Larry DePetrillo to Facebook'
@@ -111,27 +112,32 @@ images:
     sizes: '480, 640'
   - url: sockanosset-sc-2002-08-05.jpg
     sizes: '480, 640'
+  - url: sockanosset-jh-2026-03-01.jpg
+    caption: 'Difficult to recognize, but one can see the saved buildings have been infilled with new construction, making many of them a continous ground floor retail space. Upper floors have been mostly converted to residential space.'
+    sizes: '1440, 900'
+
+mostrecentimage: 2026-03-01
 
 imagescredit: 'Contributions by Larry DePetrillo, Sarah Clover, and Michael Pompilli'
 ---
 
 ### Redevelopment
 
-The land and most of the buildings have been turned into a mix of retail with a few residential units. The 470,000-square-foot development includes 127,000 square feet of office space, 24,000 square feet of residential space (14 condominiums) and 320,000 square feet of retail and restaurant space. It was developed at a total cost of $65 million. 
+The land and most of the buildings have been turned into a mix of retail with a few residential units. The 470,000-square-foot development includes 127,000 square feet of office space, 24,000 square feet of residential space (14 condominiums) and 320,000 square feet of retail and restaurant space. It was developed at a total cost of $65 million.
 
-While it is commendable that four historic buildings with a somewhat sordid past were redeveloped, the complex is very car-centric. The success of the shopping center has led to much redevelopment in the area, more traffic, wider roads, and more reliance on vehicles. While the development in Cranston and Warwick tends to be more sprawl-oriented, this was an opportunity to do something denser. 
+While it is commendable that four historic buildings with a somewhat sordid past were redeveloped, the complex is very car-centric. The success of the shopping center has led to much redevelopment in the area, more traffic, wider roads, and more reliance on vehicles. While the development in Cranston and Warwick tends to be more sprawl-oriented, this was an opportunity to do something denser.
 
-At the same time, Carpionato could have easily tore them all down and filled the plaza with stucco-sprayed strip mall architecture (which much of the infill buildings are). It could have been better, it could have been worse. 
+At the same time, Carpionato could have easily tore them all down and filled the plaza with stucco-sprayed strip mall architecture (which much of the infill buildings are). It could have been better, it could have been worse.
 
 
 ### Current Events
 
-The location of this former school is now the [Chapel View](//www.chapel-view.com) shopping center with a mix of retail, commercial space, and residential. [Carpionato Properties](//www.carpionatogroup.com/) preserved the historic Sockanosset School chapel, which today is the home of a popular restaurant, the Chapel Grille. The company also saved and reused three former cottages at the boys’ school, which have been linked by two new buildings and are now used for retail stores on the street level, with condominiums above the shops. 
+The location of this former school is now the [Chapel View](https://www.chapel-view.com) shopping center with a mix of retail, commercial space, and residential. [Carpionato Properties](https://www.carpionatogroup.com/) preserved the historic Sockanosset School chapel, which today is the home of a popular restaurant, the Chapel Grille. The company also saved and reused three former cottages at the boys’ school, which have been linked by two new buildings and are now used for retail stores on the street level, with condominiums above the shops. 
 
 
 ### History
 
-_Excerpted from text by the Cranston Historic District Commision_. [Read the full archived report](//web.archive.org/web/20040215214934/http://www.cranstonri.com/historic/sokanosset.htm).
+_Excerpted from text by the Cranston Historic District Commision_. [Read the full archived report](https://web.archive.org/web/20040215214934/http://www.cranstonri.com/historic/sokanosset.htm).
 
 The establishment of the Howard Reservation, which includes the Boys Training School, was Rhode Island’s first attempt to provide statewide social services through publicly supported and administered institutions.
 
@@ -160,7 +166,7 @@ Cranston Chamber of Commerce Newsletter | December 2003
 
 By the summer of 2005, a city within a city will be fully developed along Sockanosset Cross Road and New London Avenue. The village will be the long-awaited Chapel View, the retail, office and residential complex envisioned by Cranston resident Alfred Carpionato and now under construction by Carpionato Properties on the site of the old Boys Training School.
 
-At a total cost of $65 million, the project will be one of the largest ever in Cranston. It is expected to generate more than $1 million per year in tax revenue for the city. And it is the result of the vision of one man – Carpionato, a developer who has lived in Cranson for many years and has seen this site and its dramatic stone buildings and has had a vision of what this could be, according to Kelly Coates, senior vice president of Carpionato properties.
+At a total cost of $65 million, the project will be one of the largest ever in Cranston. It is expected to generate more than $1 million per year in tax revenue for the city. And it is the result of the vision of one man – Carpionato, a developer who has lived in Cranston for many years and has seen this site and its dramatic stone buildings and has had a vision of what this could be, according to Kelly Coates, senior vice president of Carpionato properties.
 
 To some, Chapel View may seem like a European city, with its eclectic mixture of apartments, shops, restaurants and offices, often in the same buildings. Residential units will be located above offices and shops in six buildings – three of them dormitories from the original late Victorian-era Training School and three new structures connecting the dormitories. There will be additional residential units above offices in other buildings. Those who live in the uppermost units on what is already one of the highest points in Cranston will have an unparalleled view of the cities of Providence, Cranston and Warwick.
 
