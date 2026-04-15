@@ -2,8 +2,8 @@
 title: "William A. and Ami Kuan Danoff Life Sciences Laboratories"
 slug: brown-life-sciences-jewelry-district
 aka:
-date-modified: 2025-11-02 12:00
-update:
+date-modified: 2026-04-14 12:00
+update: 'Added more images of the construction in progress'
 update-image:
 prop-number: 435
 
@@ -69,8 +69,17 @@ images:
   - url: brown-life-science-jh-2025-10-01.jpg
     sizes: '1200, 900'
     caption: 'The exterior panels start to get added, and it is interesting to see how they fit together'
+  - url: brown-life-science-jh-2026-04-01.jpg
+    sizes: '1440, 900'
+  - url: brown-life-science-jh-2026-04-02.jpg
+    sizes: '740, 1036'
+  - url: brown-life-science-jh-2026-04-03.jpg
+    sizes: '1200, 900'
+  - url: brown-life-science-jh-2026-04-04.jpg
+    sizes: '1440, 900'
+    caption: 'The N.H. Haronian building at 60 Ship Street has an imposing new neighbor'
 
-mostrecentimage: 2025-07-01
+mostrecentimage: 2026-04-01
 
 imagescredit:
 
