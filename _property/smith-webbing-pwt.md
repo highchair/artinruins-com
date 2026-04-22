@@ -1,7 +1,7 @@
 ---
 title: "Smith Webbing Company"
 slug: smith-webbing-pwt
-aka: 
+aka: 'Everlastik, Inc.'
 date-modified: 2021-04-26 12:00
 
 built: 'circa 1900'
