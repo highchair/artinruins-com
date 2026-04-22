@@ -3,8 +3,8 @@ title: "H.P. and R.P. Gladding House"
 slug: hp-rp-gladding-house-pvd
 aka:
 date-modified: 2025-06-01 12:00
-update:
-update-image:
+update: 'Added a recent photo from March 2026 of the renovation'
+update-image: gladding-house-jh-2026-03-01.jpg
 prop-number: 426
 
 built: '1867-68'
@@ -37,6 +37,12 @@ excerpt: "A handsome, brick double house with a converted commercial space get a
 thumbnail: gladding-house-jh-2025-01-01.jpg
 
 images:
+  - url: 256-broadway-render-2024-01.jpg
+    caption: 'Rendering 2024, part of HDC Application. Ron Stevenson, Architect for South County Architecture & Design'
+    sizes: '1800, 1125'
+  - url: 256-broadway-render-2024-02.jpg
+    caption: 'Rendering 2024, part of HDC Application. Ron Stevenson, Architect for South County Architecture & Design'
+    sizes: '1440, 900'
   - url: gladding-house-jh-2025-01-01.jpg
     alt: 'A handsome, red brick and stone late-19th-century double house now converted to ground floor retail on a busy commercial and residential street. A four bay wide facade has a deep bay window and an elaborate brick storefront which was added later. The roofline has two triangular dormer windows that protrude beyond the heavy wooden cornice.'
     sizes: '1440, 900'
@@ -46,14 +52,10 @@ images:
     sizes: '1440, 900'
   - url: gladding-house-jh-2025-05-01.jpg
     sizes: '1440, 900'
-  - url: 256-broadway-render-2024-01.jpg
-    caption: 'Rendering 2024, part of HDC Application. Ron Stevenson, Architect for South County Architecture & Design'
-    sizes: '1800, 1125'
-  - url: 256-broadway-render-2024-02.jpg
-    caption: 'Rendering 2024, part of HDC Application. Ron Stevenson, Architect for South County Architecture & Design'
-    sizes: '1440, 900'
+  - url: gladding-house-jh-2026-03-01.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2025-05-01
+mostrecentimage: 2026-03-01
 
 imagescredit: 'Contribution from South County Architecture & Design'
 
