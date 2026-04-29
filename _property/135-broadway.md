@@ -87,7 +87,7 @@ images:
 
 mostrecentimage: 2023-01-01
 
-imagescredit: 'Contributions from the Library of Congress, <a href="//www.historicmapworks.com/Map/US/895461/Plate+004/Providence+1937/Rhode+Island/" target="_blank">Historic Map Works</a>, and the <a href="//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e" target="_blank">Providence Historic Aerial Viewer</a>'
+imagescredit: 'Contributions from the Library of Congress, <a href="https://www.historicmapworks.com/Map/US/895461/Plate+004/Providence+1937/Rhode+Island/">Historic Map Works</a>, and the <a href="https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e">Providence Historic Aerial Viewer</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -103,23 +103,22 @@ The new laundromat added a concrete-block addition off the back of the building 
 
 ### Current Events
 
-This is one of the locations of [Freeway Laundry](//freewaylaundry.com){:target="_blank"}, a local family-owned and operated chain. 
+This is one of the locations of [Freeway Laundry](https://freewaylaundry.com), a local family-owned and operated chain. 
 
 
 ### History
 
-Our research into the property via cadastral maps and aerial photos: 
-
-+ [1920 Sanborn Map](#photo-135-broadway-1920-sanborn-01) — Two distinct buildings are at this location. The present building is not in place yet. To the east is a three-story wood frame building, likely a triple-decker home. 
-+ [1937 G.M. Hopkins Map](#photo-135-broadway-1937-gmhopkins-01) — A brick trapezoidal building is at this location and labelled “Home for Aged Couples.” The brown line along Broadway indicates a stone-faced façade. An out building off the back (north) is not yet there.
-+ [1920-1956 Sanborn Map](#photo-135-broadway-1956-sanborn-01) — A brick trapezoidal building is at this location labelled “S” for Store. The triple decker is still to the east with no out-building to the north. 
-+ [1972 aerial photo](#photo-135-broadway-1972-aerial-01) — The out-building off the north appears in 1962 (this photo is clearer). The home to the east is still present. 
-+ [1997 aerial photo](#photo-135-broadway-1997-aerial-01) — The home to the east disappears in the 1985 photo (and it was still there in a 1981 photo). Other homes in the Barclay Street block disappear as well as the area becomes more commercial so close to the highway. 
-+ [2008 aerial photo](#photo-135-broadway-2008-aerial-01) — The northern out-building is demolished and a new foundation is in place for an updated concrete-block out-building which expands the footprint of the original.  
-
-
-***
-
 _From the “Broadway-Armory Historic District” National Register nomination form, 1974_
 
 135 Broadway **Commercial Building** (late 20th C.): 1-story; flat; stucco on concrete block commercial building; with horizontal aluminum siding on neo-mansard, two small high windows and recessed entry. (_non-contributing_)
+
+***
+
+#### Maps
+
++ [1920 Sanborn Map](#photo-135-broadway-1920-sanborn-01) — Two distinct buildings are at this location. The present building is not in place yet. To the east is a three-story wood frame building, likely a triple-decker home.
++ [1937 G.M. Hopkins Map](#photo-135-broadway-1937-gmhopkins-01) — A brick trapezoidal building is at this location and labelled “Home for Aged Couples.” The brown line along Broadway indicates a stone-faced façade. An out building off the back (north) is not yet there.
++ [1920-1956 Sanborn Map](#photo-135-broadway-1956-sanborn-01) — A brick trapezoidal building is at this location labelled “S” for Store. The triple decker is still to the east with no out-building to the north.
++ [1972 aerial photo](#photo-135-broadway-1972-aerial-01) — The out-building off the north appears in 1962 (this photo is clearer). The home to the east is still present.
++ [1997 aerial photo](#photo-135-broadway-1997-aerial-01) — The home to the east disappears in the 1985 photo (and it was still there in a 1981 photo). Other homes in the Barclay Street block disappear as well as the area becomes more commercial so close to the highway.
++ [2008 aerial photo](#photo-135-broadway-2008-aerial-01) — The northern out-building is demolished and a new foundation is in place for an updated concrete-block out-building which expands the footprint of the original.

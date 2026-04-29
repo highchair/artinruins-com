@@ -1,7 +1,7 @@
 ---
 title: "Diocese House"
 slug: diocese-house-pvd
-aka: 'The Rialto, Hotel Plaza, Pilgrim Inn, Civic View Inn, Church House Inn, Sportsman’s Inn, Dean Hotel'
+aka: 'The Rialto, Hotel Plaza, Pilgrim Inn, Civic View Inn, Church House Inn, Sportsman’s Inn, Dean Hotel, Neptune Hotel'
 date-modified: 2024-04-08 12:00
 
 built: '1912'
@@ -66,7 +66,7 @@ images:
 
 mostrecentimage: 2024-04-01
 
-imagescredit: 'Contributions from Thomas Rossi, <a href="//provlibdigital.org/islandora/object/VM011_03_02_091">Providence Public Library</a>, the <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>'
+imagescredit: 'Contributions from Thomas Rossi, <a href="https://provlibdigital.org/islandora/object/VM011_03_02_091">Providence Public Library</a>, the <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -164,7 +164,11 @@ Late 1974 to early 1975
 
 ### Current Events
 
-The **Dean** has been open since 2014 and has become a mainstay, locally-sourced experience. The city’s artsy-academic vibe is reflected in all of it decor and attitude. Neon signs with ambiguous slogans hang on each floor; a quote from Marcel Proust’s “In Search of Lost Time” is painted in giant letters on the side of the building; and the lobby is filled with international culture magazines. **Bolt Coffee** and **Boombox** karaoke bar have anchored the amenities, with a few different incarnations of a restaurant filling the ground-floor space. The restaurant started as German-inspired beer hall **Faust** which later was replaced by **North**.
+The **Dean** has been open since 2014 and has become a mainstay, locally-sourced experience. The city’s artsy-academic vibe is reflected in all of it decor and attitude. Neon signs with ambiguous slogans hang on each floor; a quote from Marcel Proust’s “In Search of Lost Time” is painted in giant letters on the side of the building; and the lobby is filled with international culture magazines. **Bolt Coffee** and **Boombox** karaoke bar have anchored the amenities, with a few different incarnations of a restaurant filling the ground-floor space. The restaurant started as German-inspired beer hall **Faust** which later was replaced by **North** and is now **Memere’s**.
+
+In 2025, parent company Ash changed the name of the Dean to the **[Neptune Hotel](https://ash.world/hotels/neptune)**.[^19] No clear answer was given as to why the name was changed.
+
+[^19]: Ciampa, Gail. “The Dean hotel is now known as Neptune. Here's the story behind the name change.” Providence Journal, 4 June 2025, https://www.providencejournal.com/story/news/local/2025/06/04/the-dean-hotel-in-providence-now-called-neptune-what-to-know/83994694007/. Accessed 22 Apr. 2026.
 
 
 ### History

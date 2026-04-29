@@ -48,28 +48,28 @@ images:
     caption: 'Google Streetview, September 2019'
     sizes: '1440, 900'
 
-imagescredit: 'Contributions by Laurence Tilley and Jack Boucher for HABS/HAER; <a href="//digitalcommons.ric.edu/smolski_images/116" target="_blank">Chet Smolski</a>, Rhode Island College Digital Collections; and Google Streetview'
+imagescredit: 'Contributions by Laurence Tilley and Jack Boucher for HABS/HAER; <a href="https://digitalcommons.ric.edu/smolski_images/116">Chet Smolski</a>, Rhode Island College Digital Collections; and Google Streetview'
 ---
 
 ### The Mystery
 
-Just what was “Hope Cycle and Auto Supply”, how long did it last, and when did the slender triangular building that housed it get removed from Charles Street? Because of the oil pumps on the narrowest end of the building, we assumed the “Cycle” in “Hope Cycle” meant motorcycle but an anecdote says it was pedal bicycle. 
+Just what was “Hope Cycle and Auto Supply”, how long did it last, and when did the slender triangular building that housed it get removed from Charles Street? Because of the oil pumps on the narrowest end of the building, we assumed the “Cycle” in “Hope Cycle” meant motorcycle but an anecdote says it was pedal bicycle.
 
 The façade of the building has much writing on it, including: **OIL PARTS TIRES TOOLS** with **WHOLESALE RETAIL** under that and in script lettering **Auto Supplies**. We found these photos as part of two different National Register nominations — one for the [American Screw Company]({% link _property/american-screw-co.md %}), and one for the [Moshassuck Square Historic District]({% link list/moshassuck-square-historic-district.html %}) (which included the American Screw Company).
 
-The original Canal House building at 125 Charles Street is the only portion of these photos from the early 1970s still standing. A massive fire in the later 70s took out the old Bay State Mill to the left and most of the old Eagle Mills to the right. A burned out hull of one of the mills was left standing for a little while before that was removed as well. 
+The original Canal House building at 125 Charles Street is the only portion of these photos from the early 1970s still standing. A massive fire in the later 70s took out the old Bay State Mill to the left and most of the old Eagle Mills to the right. A burned out hull of one of the mills was left standing for a little while before that was removed as well.
 
 ### History
 
-Google searches for this business and this address did not turn up too much. [A thread about this building on Facebook](//www.facebook.com/artinruinsweb/posts/3315507691805083) has not revealed much detail yet. Do you know more about this business or building, or both? 
+Google searches for this business and this address did not turn up too much. [A thread about this building on Facebook](https://www.facebook.com/artinruinsweb/posts/3315507691805083) has not revealed much detail yet. Do you know more about this business or building, or both?
 
-+ The [1899–1900 Sanborn Insurance Map, Volume 2, Plate 144](//www.loc.gov/resource/g3774pm.g3774pm_g08099190002/){:target="_blank"}, does not show this property
-+ The [1920–1921 Sanborn Insurance Map, Volume 2, Plate 56](//www.loc.gov/resource/g3774pm.g3774pm_g08099192102/){:target="_blank"}, labels this property lightly as “Vulcanizing” (having to so with rubber tires) with a 1000 gallon buried gasoline tank
-+ The [1937 G.M. Hopkins insurance map, Plate 22](http://www.historicmapworks.com/Map/US/895479/Plate+022/Providence+1937/Rhode+Island/){:target="_blank"}, does not label this property specifically but it is shown 
-+ The [1920–1950 Sanborn Insurance Map, Volume 2, Plate 56](//www.loc.gov/resource/g3774pm.g3774pm_g08099195102/){:target="_blank"} does not label this property specifically but it is shown
++ The [1899–1900 Sanborn Insurance Map, Volume 2, Plate 144](https://www.loc.gov/resource/g3774pm.g3774pm_g08099190002/), does not show this property
++ The [1920–1921 Sanborn Insurance Map, Volume 2, Plate 56](https://www.loc.gov/resource/g3774pm.g3774pm_g08099192102/), labels this property lightly as “Vulcanizing” (having to so with rubber tires) with a 1000 gallon buried gasoline tank
++ The [1937 G.M. Hopkins insurance map, Plate 22](http://www.historicmapworks.com/Map/US/895479/Plate+022/Providence+1937/Rhode+Island/), does not label this property specifically but it is shown
++ The [1920–1950 Sanborn Insurance Map, Volume 2, Plate 56](https://www.loc.gov/resource/g3774pm.g3774pm_g08099195102/) does not label this property specifically but it is shown
 
-The obituary for Harry E. Samoorian Jr.[^1] confirms a few details of the anecdote below — Hope Cycle & Auto Supply was founded in 1903 by Harry’s father, Vahe Samoorian. Vahe worked at Hope Cycle until his retirement in 1972, while Harry retired from the company in 1970. 
+The obituary for Harry E. Samoorian Jr.[^1] confirms a few details of the anecdote below — Hope Cycle & Auto Supply was founded in 1903 by Harry’s father, Vahe Samoorian. Vahe worked at Hope Cycle until his retirement in 1972, while Harry retired from the company in 1970.
 
-The Randall Square area was redeveloped in the 1970s after the massive fire at American Screw. It makes sense that the Providence Redevelopment Authority purchased this property and deemed it unworthy of saving, while Canal House next door was saved and converted to office and residential use. 
+The Randall Square area was redeveloped in the 1970s after the massive fire at American Screw. It makes sense that the Providence Redevelopment Authority purchased this property and deemed it unworthy of saving, while Canal House next door was saved and converted to office and residential use.
 
 [^1]: “Harry E. Samoorian Jr..” Providence Journal (RI), CITY FINAL ed., sec. NEWS, 13 Oct. 1993, pp. D-19. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152523B1E605EEB8. Accessed 27 Dec. 2021.
