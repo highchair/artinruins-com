@@ -2,8 +2,9 @@
 title: "Fountain Street, #132, Downtown Providence"
 slug: 132-fountain-st
 aka: "The Downtown McDonald’s"
-date-modified: 2022-01-02 15:00
-update: 'Added a little bit of history that we found in the Downtown Providence Historic District nomination form'
+date-modified: 2026-04-22 12:00
+update: 'Added a photo from the PPS Slide Collection which partially shows the building and it s McDonald’s branding'
+update-image: old-mcd-bldg-pps-undated-01.jpg
 
 built: '1915'
 demolition: '2008'
@@ -32,6 +33,9 @@ excerpt: "A simple building located next to the former Sportsman’s Inn (now th
 thumbnail: old-mcd-bldg-02.jpg
 
 images:
+  - url: old-mcd-bldg-pps-undated-01.jpg
+    caption: 'Undated — PPS Architectural Slides Collection'
+    sizes: '1200, 900'
   - url: old-mcd-bldg-01.jpg
     alt: 'A two-story red brick facade with painted concrete block behind. Windows and door openings on the facade have arched lintels. Windows on the ground floor have been closed up with plywood.'
     sizes: '1440, 900'
@@ -48,7 +52,7 @@ images:
   - url: old-mcd-bldg-07.jpg
     sizes: '1440, 900'
 
-imagescredit:
+imagescredit: 'Contribution from the <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>'
 ---
 
 ### Reason for Demolition
@@ -60,13 +64,6 @@ The hotel was never built.
 
 ### Current Events
 
-[The Dean Hotel]({% link _property/diocese-house-pvd.md %}), formerly the Sportsman’s Inn and originally the Diocese House, immediately next door to the McDonald's, was renovated starting in 2012 with a grand opening in 2014. The former McDonald’s building is now a parking lot and side entrance to the hotel. 
-
-<figure class="u__img" aria-hidden="true">
-  <a href="{% link _property/diocese-house-pvd.md %}">
-    <img src="{{ site.propimg_path }}diocese-house-pvd/church-house-inn-pps-undated.jpg" alt="" />
-  </a>
-  <figcaption>Undated — Photo of the Diocese House with McDonald’s to the right from the Providence Preservation Society Slide Collection</figcaption>
-</figure>
+[The Neptune Hotel]({% link _property/diocese-house-pvd.md %}), formerly the Sportsman’s Inn and originally the Diocese House, immediately next door to the McDonald's, was renovated starting in 2012 with a grand opening in 2014. The former McDonald’s building is now a parking lot and side entrance to the hotel.
 
 In the years after the failed new hotel development, AS220 purchased and renovated the [Dreyfus Hotel]({% link _property/dreyfus-hotel.md %}) and the adjoining Mercantile Block from 121 Washington Street through 135. The upper floors of both buildings are residential artist studios and workshops. The ground floor of both are stores and bars — Clark the Locksmith, The Stable, Mexico Restaurant, and the former Local 121 restaurant.
