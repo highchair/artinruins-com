@@ -39,11 +39,17 @@ thumbnail: atlas-vending-jh-2025-08-04.jpg
 images:
   - url: atlas-vending-jh-2002-06-01.jpg
     alt: 'A two story building with a red brick facade and cement block construction on the other faces. The front is four bays across while the building has much more depth to it and is partially one story on the rear level. Subtle brick details adorn the facade, but one has to look for them. The building seems very plain at a quick glance.'
+    sizes: '640, 480'
   - url: atlas-vending-jh-2025-08-01.jpg
+    sizes: '1440, 900'
   - url: atlas-vending-jh-2025-08-02.jpg
+    sizes: '1440, 900'
   - url: atlas-vending-jh-2025-08-03.jpg
+    sizes: '1200, 900'
   - url: atlas-vending-jh-2025-08-04.jpg
+    sizes: '1440, 900'
   - url: atlas-vending-jh-2025-08-05.jpg
+    sizes: '1440, 900'
 
 mostrecentimage: 2025-08-01
 
@@ -56,7 +62,7 @@ imagescredit:
 
 ### Current Tenants/Owners
 
-As long as we have lived in Providence (27 years as of 2026), this building has been **Atlas Vending** It is interesting to read in the history below they the business was once **Atlas Music Garage** because we always thought the previous window treatment on the façade created the impression of piano keys.
+As long as we have lived in Providence (27 years as of 2026), this building has been **Atlas Vending** according to the sign outside. It is interesting to read in the history below they the business was once **Atlas Music Garage** because we always thought the previous window treatment on the façade created the impression of piano keys.
 
 Apparently, even “Atlas Music” was in the vending machine business. A Journal story from 1996 quotes a manager in a story about cigarette machines and a new law that required they have child-proof locks:
 
