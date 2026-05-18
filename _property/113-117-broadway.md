@@ -34,8 +34,11 @@ excerpt: "A pair of turn-of-the-20th century buildings in use for commercial and
 thumbnail: 113-117-broadway-jh-2023-01-02.jpg
 
 images:
-  - url: 113-broadway-jh-2017-11-01.jpg
+  - url: 113-117-broadway-jh-2007-11-01.jpg
     alt: 'This property is two buildings joined on the first floor. For a complete descriiption of the architecture, please see the history section of this page'
+    caption: 'The rear of both buildings in 2007. 113 Broadway has garage doors that open onto Federal Street. 117 has one-story cinder block portion behind it.'
+    sizes: '1440, 900'
+  - url: 113-broadway-jh-2017-11-01.jpg
     caption: '2017. The façade of 113 Broadway, view north'
     sizes: '1200, 900'
   - url: 117-Broadway-Providence-RI-Beta-rendering.jpg
