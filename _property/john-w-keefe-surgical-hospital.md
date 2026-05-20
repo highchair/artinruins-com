@@ -2,9 +2,9 @@
 title: "John W. Keefe Surgical Hospital"
 slug: john-w-keefe-surgical-hospital
 aka: 'Saint Francis Friary, New England Academy of Torah, Louis and Sarah Fishbein Memorial'
-date-modified: 2025-10-19 12:00
-update:
-update-image:
+date-modified: 2026-04-19 11:00
+update: 'Added two new photos with the recently added replacement windows'
+update-image: keefe-hospital-jh-2026-04-01.jpg
 prop-number: 443
 
 built: '1914'
@@ -52,8 +52,12 @@ images:
     sizes: '1200, 900'
   - url: keefe-hospital-jh-2025-10-07.jpg
     sizes: '1200, 900'
+  - url: keefe-hospital-jh-2026-04-01.jpg
+    sizes: '1440, 900'
+  - url: keefe-hospital-jh-2026-04-02.jpg
+    sizes: '740, 1036'
 
-mostrecentimage: 2025-10-01
+mostrecentimage: 2026-05-01
 
 imagescredit:
 
