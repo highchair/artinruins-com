@@ -4,6 +4,7 @@ slug: richmond-residences
 aka:
 date-modified: 2026-04-14 14:00
 update: 'Added two images of the finished construction'
+update-image: richmond-addition-jh-2026-04-02.jpg
 
 built: '2024'
 demolition:

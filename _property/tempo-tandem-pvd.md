@@ -4,7 +4,7 @@ slug: tempo-tandem-pvd
 aka: 'Parcel 9'
 date-modified: 2026-05-19 12:00
 update: 'Added new images of the construction of phase 2'
-update-image: tempo-tandem-jh-2025-08-01.jpg
+update-image: tempo-tandem-jh-2026-05-02.jpg
 
 built: '2023–2024'
 parcel: 9
