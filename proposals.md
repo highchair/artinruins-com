@@ -21,6 +21,7 @@ Next City Plan Commission Meeting: Tuesday, November 15 at 4:45pm. [Agenda and Z
 
 The City maintains [an ArcGIS map with projects under review](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=ab28206d40a54791b7128555cd8e7e18) and completed that is worth checking out.
 
+***
 
 ### 327 Elmwood Avenue
 
@@ -145,25 +146,9 @@ His newsletter goes on to say, and we largely agree and echo these statements:
 
 > Given the housing crisis, there’s a diversity of opinions about these kinds of developments in our neighborhood. Some residents emphasize the need for more housing and welcome the increased density, while others raise concerns about the project’s height, parking, and impact on neighborhood character. Balancing these perspectives is essential as we move forward with addressing both immediate housing needs and long-term community goals.
 
-{% comment %}
 ***
 
-### Large lot at 64 Angell Street to get Four More Homes
-
-**Update**
-
-The proposal was voted down and removed from consideration.
-
-**Posted May 2024**
-
-On Wednesday, May 15, the Historic District Commission (<span class="abbr">HDC</span>) reviewed plans presented by the Providence Group (Dustin Dezube, Managing Partner) to subdivide an almost 30,000 sf lot at 64 Angell Street in five parcels. The historic [Captain George Benson House](https://guide.ppsri.org/property/captain-george-benson-house) (1794) occupies the center of the large lot and would remain in place, while four additional single family homes would be constructed at each corner.
-
-The property is in the city’s College Hill Local Historic District and the federally designated College Hill National Register District. According to existing zoning law, the lot can be subdivided by right as long as each property is at least 5000 sf.
-
-<span class="abbr">HDC</span> staff’s preliminary opinion states one house at the northwest corner would be appropriate, houses at the southwest and northeast corners would be possible, and a fourth house on the southeast corner is problematic. The meeting on May 15 heard an advisory opinion from the Providence Historic District Commission and public comment. 
-{% endcomment %}
-
-***
+## Older Proposals, may or may not be active
 
 ### 30-story tower proposed next to the Hilton Hotel
 
@@ -282,35 +267,6 @@ More advocacy news at the [Providence Preservation Society](https://www.ppsri.or
 
 
 {% comment %}
-
-### No SMART Hotel but Demolition Anyway?
-
-**Update January 2024**
-
-The houses have been completely razed and are now an empty lot. We document the loss of [209, 211, and 217 Angell Street]({% link _property/209-211-217-angell-st-pvd.md %}).
-
-**Update November 15, 2023**
-
-While the proposal for a hotel on this site was turned down by the City Planning Commission, it seems the developer wants to raze the houses anyway. Councilman John Goncalves worked to issue a stop work notice, declaring that not enough notice was given. With no plans for a new building on this site, the Councilman argues that there was not enough time to review the demolition and its affect on the housing market (loss of apartments with no replacement). [Complete story at WJAR Channel 10](https://turnto10.com/news/local/providence-councilor-fights-to-save-historic-homes-from-demolition-rhode-island-southern-new-england-history-lot-land-november-13-2023)
-
-<figure class="u__img">
-  <img src="{{ site.propimg_path }}proposals/smart-hotel-render-2021-11-01.jpg" alt="">
-  <figcaption>Rendering by ZDS Architects from the proposal submitted to the City Planning Commission</figcaption>
-</figure>
-
-**Update November 22, 2022**
-: On November 16, the City Council heard SMART Princeton Hotel Group, LLC’s petition for a Zoning Change for the properties on 209-217 Angell Street from a Residential-Professional (RP) to a Commercial (C2) District. After initial comments, the Council determined they did not have jurisdiction and the matter was continued indefinitely. 
-
-**Update Nov 12, 2022**
-: SMART Princeton Hotel Group and Angell Investments are petitioning for a Zone Change for 209-217 Angell Street from a Residential Professional (RP) District to a General Commercial (C2) District, which would allow a new hotel to be built at the site of three older homes. This petition was originally considered in 2019-2020 by the City Planning Commission.
-
-: The [former plan from 2020](//www.providenceri.gov/wp-content/uploads/2020/06/20-010UDR-209-217AngellStreetMaster-Plan-SR-Plans-ExpertTestimony.pdf){:target="_blank"} has not changed and would require the demolition of three 3-story homes for a L-shaped, 6-story hotel with circular driveway on Angell Street. It seems as though the Mansard-roof design from November 2019 is still the design that [ZDS Architects]({% link designer/zds-architecture-interiors.html %}) and the developer are proposing.
-
-: The proposed demolitions are for three houses, all listed in the College Hill Historic District ([a district that has undergone much erosion in the past ten years]({% link _property/thayer-street.md %})):
-
-**Note:** Listing in a historic district DOES NOT offer ANY protection if the Council votes to approve based on the merit of the new design and the overall benefits to the neighborhood and city. It often only means that the loss of historic structures is a factor that needs to be weighed against the benefits of a new building.
-
-***
 
 ### 122 Power Street
 
