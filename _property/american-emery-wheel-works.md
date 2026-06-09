@@ -1,7 +1,7 @@
 ---
 title: "American Emery Wheel Works"
 slug: american-emery-wheel-works
-aka: 'Richmond Square'
+aka: 'American Grinding Wheels, Richmond Square Technology Park'
 date-modified: 2026-05-25 12:00
 update:
 update-image:
@@ -118,6 +118,16 @@ The complex of buildings has been full of multiple tenants since the 1980s. Mixe
 
 
 ### History
+
+The complex is comprised of a group of detached and interconnected one-, two-, and three-story, rectangular block, brick structures with low pitched gable or flat roofs and segmental arched window openings. The main block of the building is a long, rectangular, three-story side-gable block set parallel to Waterman Street. The building is notable for its conical-roof, wood-frame tower set atop a projecting brick base embellished with three segmental-arch windows embellished with stone keystones. Fenestration consists of regularly-spaced, segmental-arch openings with replacement sliding windows set below fixed transoms. Metal tie rods are regularly-spaced along both the north and south elevations.
+
+Attached to the southeast comer of this block are two, two-story, gable-roof blocks set parallel to East River Street and connected by a one-story, flat-roof block. Both blocks have similar fenestration as the three-story block. Attached to the west elevation is a one-story block identified as the Kiln Building on historic maps. A conical-shaped, brick kiln smokestack projects from the east end of the block. Projecting brick piers articulate each bay of the building. Similar fenestration is found on this block as the remainder. A paved parking lot is located to the south.
+
+Designed by architect Knight C. Richmond, the complex was constructed in 1898. Richmond was also responsible for the design of the 1909 addition to the site. The company was headed by mechanical engineer H.A. Richmond and manufactured a full line of emery wheels and stones. The factory housed the manufacturing operation of abrasive wheels used for grinding. The 1908, 1918, and 1921 maps identify the complex as the American Emery Wheel Works. What remains of the complex today represents only half of the original complex; a large portion which stood just north of this was demolished in the 1960s for the construction of a connector and bridge across the Seekonk River. The factory had a separate engine room, complete with a sixteen-horsepower gasoline engine (the only one in the city at that time), as well as more conventional steam engines and generators. The mixing, molding, and firing of the wheels took place on the first floor, while the second floor was for finishing (which required the use of black diamonds) (Woodward 1986;RlHPHC 1981).
+
+American Emery continued to manufacture grinding wheels, stones, and emery cloth here until 1978. The 1983 Sanborn map identifies the complex as **American Grinding Wheels**. The complex was purchased by developer Harold Schein in 1984 and adapted it to accommodate offices and in 1984 it reopened as **Richmond Square Technology Park** (Journal 4/20/87).
+
+***
 
 _From “Providence: A Citywide Survey of Historic Resources,” prepared by the RIHPHC, 1986_
 
