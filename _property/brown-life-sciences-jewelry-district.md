@@ -78,8 +78,10 @@ images:
   - url: brown-life-science-jh-2026-04-04.jpg
     sizes: '1440, 900'
     caption: 'The N.H. Haronian building at 60 Ship Street has an imposing new neighbor'
+  - url: brown-life-science-jh-2026-05-01.jpg
+    sizes: '1024, 1024'
 
-mostrecentimage: 2026-04-01
+mostrecentimage: 2026-05-01
 
 imagescredit:
 
