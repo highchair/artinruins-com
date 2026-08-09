@@ -94,11 +94,11 @@ layout: default
         {%- else -%}
           {% assign item_image = item[0].images.first.url %}
         {%- endif -%}
-        {%- assign image_path = site.propimg_path | replace_first: '/' | append: item[0].slug | append: '/' | append: item_image -%}
+        {%- assign image_path = site.propimg_path | append: 'r/480/' | append: item_image -%}
         <li class="taxonomy__item">
           <div class="property-card">
             <div class="property-card__img-wrap">
-              <img src="{{ site.prod_url }}/{{ image_path }}" class="rwd-img" alt="" loading="lazy" decoding="async" />
+              <img src="{{ image_path }}" class="rwd-img" alt="" loading="lazy" decoding="async" />
             </div>
             <div class="property-card__content">
               <div class="property-card__title-wrap">
