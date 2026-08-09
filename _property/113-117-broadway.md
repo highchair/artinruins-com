@@ -3,6 +3,8 @@ title: "Broadway, #113 & 117"
 slug: 113-117-broadway
 aka: 'Marino Building, BTS Tire & Service Stores'
 date-modified: 2023-02-24 15:00
+update: 'Realtor Scott Aceto received approval to demolish a former Federal Hill tire shop with the hopes of building a boutique hotel with commercial space on the site'
+update-image: 113-broadway-jh-2017-11-01.jpg
 
 built: 'Between 1908 and 1920'
 demolition:
@@ -10,10 +12,10 @@ redeveloped:
 units:
 decade: '1910-1919'
 date-added: '2023'
-categories: [ '#NotInRuins', '#UrbanDecay' ]
+categories: [ '#NotInRuins', '#UrbanDecay', '#DemolitionAlert' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Gas Station & Auto Repair', 'Needs History', 'Yellow brick' ]
@@ -115,6 +117,8 @@ All the while, nothing has happened or changed at 113 Broadway that would make u
 ### Current Events
 
 No word as to when leasing will be available. We only hope that these are very affordable rents and the owner is not trying to create “luxury” in such a mixed commercial and residential location.
+
+The BTS Tire building at 113 Broadway is planned to be demolished in favor of a new building. [The Providence Preservation Society has all the details](https://ppsri.org/updates-from-the-historic-district-commission-demolition-greenlight-for-centenarian-broadway-tire-shop-partial-approval-for-pratt-street-apartments/).
 
 
 ### History
