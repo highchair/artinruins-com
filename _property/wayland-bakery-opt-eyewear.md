@@ -2,9 +2,9 @@
 title: "Wayland Bakery & Opt Eyewear"
 slug: wayland-bakery-opt-eyewear
 aka:
-date-modified: 2025-11-29 11:00
+date-modified: 2026-08-20 12:00
 update: 'Added a new photo of the still empty lot'
-update-image: 138-wayland-jh-2025-11-01.jpg
+update-image: 138-wayland-jh-2026-06-01.jpg
 prop-number: 416
 
 built: '1960–1961'
@@ -53,16 +53,23 @@ images:
     sizes: '1440, 900'
   - url: 138-wayland-demo-ka-2025-01-01.jpg
     sizes: '1440, 900'
+    caption: 'Photo by Karen McAninch 2025'
   - url: 138-wayland-demo-ka-2025-01-02.jpg
     sizes: '1440, 900'
+    caption: 'Photo by Karen McAninch 2025'
   - url: 138-wayland-jh-2025-01-01.jpg
     sizes: '1440, 900'
   - url: 138-wayland-jh-2025-05-01.jpg
     sizes: '1440, 900'
+    caption: 'The empty lot as of May 2025'
   - url: 138-wayland-jh-2025-11-01.jpg
     sizes: '1440, 900'
+    caption: 'Still an empty lot in November'
+  - url: 138-wayland-jh-2026-06-01.jpg
+    sizes: '1440, 900'
+    caption: 'Still an empty lot more than a year later'
 
-mostrecentimage: 2025-11-01
+mostrecentimage: 2026-06-01
 
 imagescredit: 'Contributions from Karen McAninch and Beth Alianiello'
 
