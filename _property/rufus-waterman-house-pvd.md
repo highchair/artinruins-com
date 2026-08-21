@@ -3,6 +3,8 @@ title: "Rufus Waterman House, Waterman Street"
 slug: rufus-waterman-house-pvd
 aka:
 date-modified: 2024-08-28 13:00
+update: 'Construction fencing has appeared around the house, signaling demolition'
+update-image: 108-110-waterman-jh-2026-08-02.jpg
 
 built: '1877'
 demolition:
@@ -10,10 +12,10 @@ redeveloped:
 units:
 decade: '1870-1879'
 date-added: '2023'
-categories: [ '#NotInRuins' ]
+categories: [ '#DemolitionAlert' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown', 'Walter Bronhard' ]
+designers: [ 'Walter Bronhard' ]
 people: [ 'Rufus Waterman' ]
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
 tags: [ 'House', 'Queen Anne' ] # 'Demolition by Progress',
@@ -54,6 +56,10 @@ images:
     sizes: '1200, 900'
   - url: 108-110-waterman-jh-2024-08-01.jpg
     sizes: '1440, 900'
+  - url: 108-110-waterman-jh-2026-08-01.jpg
+    sizes: '1440, 900'
+  - url: 108-110-waterman-jh-2026-08-02.jpg
+    sizes: '1200, 900'
 
 mostrecentimage: 2024-08-01
 
@@ -79,7 +85,7 @@ This was also a failure of the Historic District Commission, which determined th
 
 ### Current Events
 
-This proposal for a 5-story, 28-unit apartment building received Master Plan Approval on September 19, 2023. Units are under rent agreements currently, so we are unsure when demolition will happen.
+This proposal for a 5-story, 28-unit apartment building received Master Plan Approval on September 19, 2023. Construction fencing appeared in August 2026, so, demolition seems imminent.
 
 
 ### History

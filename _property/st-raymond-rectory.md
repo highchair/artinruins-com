@@ -39,14 +39,20 @@ thumbnail: st-ray-rectory-jh-2023-05-02.jpg
 images:
   - url: st-ray-rectory-jh-2021-03-01.jpg
     alt: 'The building is two and a half stories on a raised basement with a gable roof set to the street running south to north. The building is concrete construction faced in yellow brick with a cement foundation and cast stone details.'
+    sizes: '1200, 900'
   - url: st-ray-rectory-jh-2021-03-02.jpg
+    sizes: '1200, 900'
   - url: st-ray-rectory-jh-2021-03-03.jpg
+    sizes: '1200, 900'
   - url: st-ray-rectory-jh-2023-05-01.jpg
+    sizes: '1440, 900'
   - url: st-ray-rectory-jh-2023-05-02.jpg
+    sizes: '1440, 900'
   - url: st-ray-rectory-jh-2023-05-03.jpg
+    sizes: '1024, 1024'
   - url: 1956-sanborn-vol2-p91-01.jpg
     caption: '1951 Sanborn Insurance Co., Volume 2, Plate 91 — Library of Congress, Maps Division'
-
+    sizes: '1440, 900'
 
 mostrecentimage: 2023-05-01
 

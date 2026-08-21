@@ -2,9 +2,9 @@
 title: "Eighth Street, #24"
 slug: 24-eighth
 aka:
-date-modified: 2025-04-29 12:00
-update:
-update-image:
+date-modified: 2026-08-20 13:00
+update: 'Added a photo of the finished project'
+update-image: 24-eighth-jh-2026-07-01.jpg
 prop-number: 424
 
 built: '2023–2025'
@@ -58,8 +58,10 @@ images:
     sizes: '1200, 900'
   - url: 24-eighth-jh-2025-04-04.jpg
     sizes: '1200, 900'
+  - url: 24-eighth-jh-2026-07-01.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2025-04-01
+mostrecentimage: 2026-07-01
 
 imagescredit: 'Renderings and before photos from Jack Ryan, Architect'
 
