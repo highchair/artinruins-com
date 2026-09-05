@@ -2,9 +2,9 @@
 title: "Rufus Waterman House, Waterman Street"
 slug: rufus-waterman-house-pvd
 aka:
-date-modified: 2024-08-28 13:00
-update: 'Construction fencing has appeared around the house, signaling demolition'
-update-image: 108-110-waterman-jh-2026-08-02.jpg
+date-modified: 2024-09-05 11:00
+update: 'Demolition occurred the first week of September'
+update-image: 108-110-waterman-jh-2026-09-01.jpg
 
 built: '1877'
 demolition:
@@ -60,8 +60,15 @@ images:
     sizes: '1440, 900'
   - url: 108-110-waterman-jh-2026-08-02.jpg
     sizes: '1200, 900'
+  - url: 108-110-waterman-jh-2026-09-01.jpg
+    caption: 'Demolition happened swiftly at the end of August/early September. These photos are from September 3rd.'
+    sizes: '1440, 900'
+  - url: 108-110-waterman-jh-2026-09-02.jpg
+    sizes: '1440, 900'
+  - url: 108-110-waterman-jh-2026-09-03.jpg
+    sizes: '1200, 900'
 
-mostrecentimage: 2024-08-01
+mostrecentimage: 2026-09-01
 
 imagescredit: 'Contribution from the <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>'
 
@@ -85,7 +92,7 @@ This was also a failure of the Historic District Commission, which determined th
 
 ### Current Events
 
-This proposal for a 5-story, 28-unit apartment building received Master Plan Approval on September 19, 2023. Construction fencing appeared in August 2026, so, demolition seems imminent.
+This proposal for a 5-story, 28-unit apartment building received Master Plan Approval on September 19, 2023. Construction fencing appeared in August 2026 and demolition occurred in early September.
 
 
 ### History
