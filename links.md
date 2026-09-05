@@ -27,9 +27,15 @@ If you are interested in how we prepare research for properties, visit our [Rese
 ### Abandoned from Above
 
 + **YouTube:** [youtube.com/c/JasonAllard](https://www.youtube.com/c/JasonAllard/)
-+ **Instagram:** [@uncomsense](https://www.instagram.com/uncomsense/)
++ **Instagram:** [@jason_allard](https://www.instagram.com/jason__allard/)
 
 Drone footage and abandoned properties with some history thrown in for good measure. Videography project by Jason Allard.
+
+### Brown University Research Resources
+
++ **Web:** [libguides.brown.edu/RhodeIsland/Web](https://libguides.brown.edu/RhodeIsland/Web)
+
+A series of guides and resources (some of which are printed books available only to students) that span scholarly publications, organizations, and municipal archives.
 
 ### I {heart} Rhody
 
@@ -59,12 +65,6 @@ A project of a class in the American Civilization department at Brown University
 
 The [Providence Preservation Society](https://www.ppsri.org/) has been fighting irresponsible and disrespectful redevelopment projects in the City for over 60 years. In addition to helping to preserve the character of Providence’s built environment and championing respectful and thoughtful new development, the Society is a wealth of knowledge about the building stock we already have. Their architecture guide is a compendium of information from historic surveys, their Architecture Guidebook, and years and years of Ten Most Endangered Lists and Festival of Historic Houses programs.
 
-### ProvidenceArchitecture.org
-
-+ **Web:** [brown.edu/cis/sta/dev/providence_architecture/index.html](https://www.brown.edu/cis/sta/dev/providence_architecture/index.html){
-
-A teacher-led and student-built guide of Providence places, past and present. The information was collected in 2002 and 2003, so while it might be out of date now, it is a good source of data from that very busy time period before many buildings had been razed.
-
 ### PVD Signs
 
 + **Web:** [pvdsigns.com](https://pvdsigns.com/)
@@ -79,7 +79,7 @@ A collection of now and before photos diving into the photographic history of ou
 
 ### Rhode Island Armories
 
-+ **Web:** [rhodeislandarmories.org](https://www.rhodeislandarmories.org/)
++ **Web:** [pawtuxetrangers.com/ris-historic-armories/](https://www.pawtuxetrangers.com/ris-historic-armories/)
 
 A web compendium of ornate armories throughout the state. 
 
@@ -113,10 +113,6 @@ The Online Review of Rhode Island History. Put together by some pretty serious a
 
 In many ways, the precursor to ArtInRuins, set in [Detroit, Michigan](https://detroityes.com/). Many, many fabulous ruins located here.
 
-### Inventory of Octagon, Hexagon, and Round Houses
-
-Exactly what it sounds like — [a country-wide list of all the octagon plan houses listed by state](https://www.octagon.bobanna.com/). A great resource for browsing around, with some interesting links in Rhode Island.
-
 ### Opacity
 
 [An urban exploration site](https://www.opacity.us/) with location features from all over New England and Maryland and a great exploration of the Staten Island Ferry graveyard. Part of a collection of sites that are called “Ruin Porn” in some circles — definitely a web ring you can get lost in.
@@ -138,7 +134,7 @@ The Historic American Buildings Survey (HABS) and the Historic American Engineer
 
 ### The John O. Pastore Photograph Album at Providence College
 
-After a distinguished career of 42 years in politics, Rhode Island Senator John O. Pastore retired from politics and donated his political papers to Providence College. Included among his papers was a [photograph album of late 19th and early 20th century images](https://library.providence.edu/spcol/pas_scrbk/pas_scrapb.html). Many of the locations and buildings depicted in these images are now unrecognizable. 
+After a distinguished career of 42 years in politics, Rhode Island Senator John O. Pastore retired from politics and donated his political papers to Providence College. Included among his papers was a [photograph album of late 19th and early 20th century images](https://pcdc.providence.edu/john-o-pastore-photograph-album). Many of the locations and buildings depicted in these images are now unrecognizable. 
 
 ### Ladd School Historical Society
 
@@ -228,3 +224,13 @@ The [U.S. Green Building Council](https://www.usgbc.org/) is the nation’s fore
 ### West Elmwood Housing Development Corporation
 
 A private, not-for profit community-based organization in [West Elmwood](https://westelmwoodhdc.org/) that promotes a healthy, sustainable community in the West End of Providence through cultivating and enabling home ownership. They help build and renovate homes, attract resources into the neighborhood, and invest in the most important resource – the diverse people, who live, work and support the community.
+
+
+## Tools and Helpers
+
+### Convert old units to new
+
+For property research and for converting old measurements into newer units, as a method of comparison, this site has lots and lots of useful tools. Rhode Island deeds and plats from before the 1930s are written in rods, chains and links, and in acres, roods, and perches. These tools can convert those units:
+
++ [Convert acres, roods or perches to imperial or metric)](https://www.internettoolwizard.com/tools/acres-roods-perches-converter/)
++ [Convert rod, chain, link, or furlong to imperial or metric)](https://www.internettoolwizard.com/convert-units/length/)
