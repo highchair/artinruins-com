@@ -1,6 +1,29 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: union-primary-rumford
+  person: 'Mark Besse'
+  date: '2026-09-02'
+  content: 'Lived next door at the St. Michael’s and All Angels Rectory from 1963 to 1980 as my Dad was the Rector. Went to the Primary school for all grades 1 to 6 from 1966 to 1972. How wonderful to be next door to my school and be able to run home for lunch back in the day when we actually went home for lunch from 12 to 1PM. I remember the janitor let me get my ladder from my house and climb to the top of the 5-6th grade addition to retrieve soccer balls that were stuck on top!'
+
+- property: dari-bee-east-pvd
+  person: 'Sheila H Cerjanec'
+  date: '2026-08-30'
+  content: 
+    I grew up in Barrington as a child and have fond memories of many trips to the Dari Bee for a cone of soft ice cream (coffee, of course) with my dad, who also worked for Narragansett Electric Company with Bill Hevey who ran the Dari Bee along with the Bee Hive, the gift shop that he affectionately named for his wife, Bee. I remember them both well. I am presently 77 years old.
+
+    When I first saw the article on the revitalization of the Dari Bee on Facebook, I was surprised not to see Bill Hevey’s name mentioned nor the years he operated it, only the name, John Tait. Thankfully, I was able to find the correct information in Bill Hevey’s obituary which was included on this webpage. Thank you. I have wonderful memories of those summer evening visits to an iconic ice cream stand!
+
+- property: quonset-point-naval-base
+  person: 'Ed Sovis'
+  date: '2026-08-25'
+  content: 'Quonset was the last duty station of my enlistment. (1968–1972) I was due for shore duty and put in for the west coast and got Quonset instead. All-n-all it was good duty. I was an ADJ-3 and worked in the little jet shop on Airport Rd., on T-58 engines used in the SH-3 helicopters. Like I said it was good duty. I look at the aerial pictures of the base today and can barely find where the old jet shop was or where my barracks were.'
+
+- property: congdon-carpenter-building
+  person: 'Robin Cardenas'
+  date: '2026-08-13'
+  content: 'Upstairs at 5 Steeple, above Al Forno, was Altered Images. A hair salon that was there through the 80’s'
+
 - property: peerless-low-buildings-pvd
   person: 'Glenda Darnall'
   date: '2026-08-09'
