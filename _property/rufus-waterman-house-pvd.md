@@ -7,12 +7,12 @@ update: 'Demolition occurred the first week of September'
 update-image: 108-110-waterman-jh-2026-09-01.jpg
 
 built: '1877'
-demolition:
+demolition: '2026'
 redeveloped:
 units:
 decade: '1870-1879'
 date-added: '2023'
-categories: [ '#DemolitionAlert' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
 designers: [ 'Walter Bronhard' ]
