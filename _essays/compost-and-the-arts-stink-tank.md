@@ -113,6 +113,6 @@ Culture grows, expands, and explodes from the organic remnants of past cultural 
 
 You can grow things in a petri dish, but they need special care, and may not survive on their own. If you want to find something healthy, lively and strong, don’t build a lab to grow it in; grow it in the dirt you make from your compost.
 
-— 
+***
 
-Original publication in PDF form can be found at [sgouros.com/ferment.pdf](https://sgouros.com/ferment.pdf){:target="_blank"}.
+Original publication in PDF form can be found at [sgouros.com/ferment.pdf](https://sgouros.com/ferment.pdf).
