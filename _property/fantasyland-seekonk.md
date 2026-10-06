@@ -19,7 +19,7 @@ town: [ 'Massachusetts' ]
 designers: []
 people: []
 lists: []
-tags: [ 'Sports Entertainment', 'Still an Empty Lot' ]
+tags: [ 'Sports Entertainment' ]
 
 address: '1300 Fall River Ave, Seekonk MA'
 latitude: '41.7918493'

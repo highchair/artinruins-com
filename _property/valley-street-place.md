@@ -19,7 +19,7 @@ town: [ 'Providence, RI' ]
 designers: []
 people: []
 lists: []
-tags: [ 'Concrete', 'Demolition by Progress', 'Needs History' ]
+tags: [ 'Concrete', 'Demolition by Progress', 'Needs History', 'Still an Empty Lot' ]
 
 address: '500 Valley St, Providence RI'
 latitude: '41.8294728'
