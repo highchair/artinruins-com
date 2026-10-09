@@ -2,25 +2,26 @@
 title: "Standardized Wholesale Liquor Co."
 slug: 115-harris-ave
 aka: 'Clubs Monet and Van Gogh'
-date-modified: 2024-02-04 19:00
-update: 'Added a recent news story about potential redevelopment'
+date-modified: 2026-10-06 12:00
+update: 'Redevelopment progress on this narrow building is underway with brick repointing and window preparation'
+update-image: 115-harris-jh-2026-10-03.jpg
 
 built: '1937'
-demolition: 
-redeveloped: 
+demolition:
+redeveloped: '2025–2027'
 decade: '1930-1939'
 date-added: '2020'
-categories: [ '#UrbanDecay' ]
-neighborhoods: [ 'Smith Hill' ]
+categories: [ '#NotInRuins' ]
+neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Provisions Warehouse District', 'PPS Ten Most Endangered', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: []
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '115 Harris Avenue, Providence RI'
+address: '115 Harris Ave, Providence RI'
 latitude: '41.8273983'
 longitude: '-71.425935'
 gmap: "https://www.google.com/maps/place/115+Harris+Ave,+Providence,+RI+02903/@41.8273983,-71.425935,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450eb4800b41:0x189ae54d102ee685!8m2!3d41.8273943!4d-71.4237463"
@@ -72,8 +73,16 @@ images:
     sizes: '1200, 900'
   - url: 115-harris-jh-2022-12-02.jpg
     sizes: '1200, 900'
+  - url: 115-harris-jh-2026-10-01.jpg
+    sizes: '1200, 900'
+  - url: 115-harris-jh-2026-10-02.jpg
+    sizes: '1200, 900'
+  - url: 115-harris-jh-2026-10-03.jpg
+    sizes: '1440, 900'
+  - url: 115-harris-jh-2026-10-04.jpg
+    sizes: '1600, 900'
 
-mostrecentimage: 2022-12-01
+mostrecentimage: 2026-10-01
 
 imagescredit: 
 ---
@@ -87,7 +96,7 @@ Succumbing to graffiti and broken windows, the property has been listed on the 2
 
 ### Current Events
 
-According to some recent news, [Strive Realty]({% link designer/strive-realty.html %}) has purchased the property and is conducting investigations into creating housing or a boutique hotel.
+[Strive Realty]({% link designer/strive-realty.html %}) has purchased the property and redevelopment is underway with brick repointing and window opening preparation (October 2026). [An older article from 2024](https://www.striveri.com/blog/it-was-a-vital-providence-warehouse-then-a-problematic-nightclub-now-a-developer-has-new-plans) details some of the plans in progress. No word as to what kind of residential the redevelopment will support.
 
 
 ### History

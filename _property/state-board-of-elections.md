@@ -2,13 +2,13 @@
 title: "State Board of Elections"
 slug: state-board-of-elections
 aka: 'The White Motor Company'
-date-modified: 2026-09-22 13:00
-update: 'Demolition has begun on this building: what looked like roof work has turned into demolition.'
+date-modified: 2026-10-07 12:00
+update: 'Demolition of the rear portion and smokestack is complete while debris clean up continues'
 update-image: state-boe-jh-2026-09-03.jpg
 prop-number: 447
 
 built: '1928'
-demolition:
+demolition: '2026'
 redeveloped:
 units:
 decade: '1920-1929'
@@ -63,11 +63,20 @@ images:
     sizes: '1440, 900'
   - url: state-boe-jh-2026-09-03.jpg
     sizes: '1440, 900'
+  - url: state-boe-jh-2026-09-04.jpg
+    sizes: '1440, 900'
+  - url: state-boe-jh-2026-09-05.jpg
+    sizes: '1200, 900'
+  - url: state-boe-jh-2026-09-06.jpg
+    sizes: '1440, 900'
+  - url: 50-Branch-plan-2023-02-21.jpg
+    caption: 'The submitted plans were to build a storage facility around the stretfront portion of the original building and use if as the front office. The smokestack was preserved in these plans, but it was torn down in real life.'
+    sizes: '1440, 900'
   - url: 1951-sanborn-vol2-p77-all-three.jpg
     caption: 'Three buildings along Branch Avanue, from left to right: State Board of Elections, Autocar and Studebaker Trucks, and Washington Laundry. The concrete State Board of Elections building is labeled “Fire-proof constr‘n – 1928.” 1920–1951 Sanborn Insurance Map, volume 2, plate 77 — Library of Congress, Maps Division'
     sizes: '1440, 900'
 
-mostrecentimage: 2025-08-01
+mostrecentimage: 2026-10-01
 
 imagescredit: 'Sanborn Insurance Map courtesy the Library of Congress, Maps Division.'
 
@@ -102,7 +111,7 @@ The State continued to occupy it as the home of the Board of Elections until 201
 
 In 2022, a proposal to convert the property to a self-storage facility gained preliminary approval. There were architectural plans which included saving a portion of the brick facade but erecting a five-story storage warehouse on most of the land, including the parking lot to the west.
 
-The plans were preliminarily approved by the City Plan Commission, and shortly after the City Council considered and then passed a ban on new construction of self-storage facilities.[^6] Council members went on record as concerned about land use in the City, saying that the need for housing was far greater than the need for storage space. Indeed, just across the highway from this location is a storage facility that has since changed owners (and color schemes) twice since it was built in 2019.
+The plans were preliminarily approved by the City Plan Commission, and shortly after the City Council considered and then passed a ban on new construction of self-storage facilities.[^6] Council members went on record as concerned about land use in the City, saying that the need for housing was far greater than the need for storage space. Indeed, just across the highway from this location is a storage facility that has since changed owners (and color schemes) twice since it was built in 2019. Both Pawtucket and Providence have seen a spate of new storage facilities in the past five years.
 
 [^6]: “Council Bans the Future Building of Self-Storage Facilities and Moves One Step Closer to Acting Against an Agreement that Lowered Tax Rates for a Developer.” Providence City Council press release. Accessed 2 Jan. 2026 from https://council.providenceri.gov/2023/07/20/council-bans-the-future-building-of-self-storage-facilities-and-moves-one-step-closer-to-acting-against-an-agreement-that-lowered-tax-rates-for-a-developer/
 
@@ -118,7 +127,7 @@ The street-front portion is about 18 feet deep and then the rear portion begins.
 
 ### Current Events
 
-The ban on new storage facilities is not retroactive — it only applies to new applications. Therefore, this demolition was allowed to proceed.
+The ban on new storage facilities is not retroactive — it only applies to new applications. Therefore, this demolition was allowed to proceed. [The plans showed how the original building would be preserved and used as the front office](#photo-50-Branch-plan-2023-02-21).
 
 
 ### In the News
