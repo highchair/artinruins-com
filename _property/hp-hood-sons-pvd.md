@@ -1,8 +1,10 @@
 ---
 title: "H. P. Hood & Sons"
 slug: hp-hood-sons-pvd
-aka: 'Turner Centre Systems'
-date-modified: 2022-03-12 12:00
+aka: 'Turner Centre Systems, Providence Journal distribution warehouse'
+date-modified: 2026-10-04 12:00
+update: 'It looks like partial or complete demolition is taking place'
+update-image: hp-hood-jh-2026-10-05.jpg
 
 built: '1923–1926'
 demolition:
@@ -10,10 +12,10 @@ redeveloped:
 units:
 decade: '1920-1929'
 date-added: '2022'
-categories: [ '#UrbanDecay' ]
-neighborhoods: [ 'Smith Hill' ]
+categories: [ '#DemolitionAlert' ]
+neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'HABS HAER', 'National Register of Historic Places', 'Provisions Warehouse District' ]
 tags: []
@@ -68,8 +70,30 @@ images:
     sizes: '1200, 900'
   - url: hp-hood-jh-2019-10-08.jpg
     sizes: '1440, 900'
+  - url: hp-hood-jh-2026-10-01.jpg
+    sizes: '1440, 900'
+  - url: hp-hood-jh-2026-10-02.jpg
+    sizes: '1600, 900'
+  - url: hp-hood-jh-2026-10-03.jpg
+    sizes: '1200, 900'
+  - url: hp-hood-jh-2026-10-04.jpg
+    sizes: '1200, 900'
+  - url: hp-hood-jh-2026-10-05.jpg
+    sizes: '1440, 900'
+  - url: hp-hood-jh-2026-10-06.jpg
+    sizes: '1440, 900'
+  - url: hp-hood-jh-2026-10-07.jpg
+    sizes: '1440, 900'
+  - url: hp-hood-jh-2026-10-08.jpg
+    sizes: '1200, 900'
+  - url: hp-hood-jh-2026-10-09.jpg
+    sizes: '1200, 900'
+  - url: hp-hood-jh-2026-10-10.jpg
+    sizes: '1200, 900'
+  - url: hp-hood-jh-2026-10-11.jpg
+    sizes: '740, 1036'
 
-mostrecentimage: 2019-10-01
+mostrecentimage: 2026-10-01
 
 imagescredit:
 
@@ -87,7 +111,7 @@ It is hard to tell if the Providence Journal still actively uses this building. 
 
 ### Current Events
 
-The building is currently sitting underutilized and may still be used by the Journal but it seems to be used very lightly. With the decaying [Standardized Wholesale Liquor Co.]({% link _property/115-harris-ave.md %}) up the street, we think this building will also slowly decay until the Journal can make a case to tear it down. 
+(Previous to 2026) The building is currently sitting underutilized and may still be used by the Journal but it seems to be used very lightly. With the revitalized [Standardized Wholesale Liquor Co.]({% link _property/115-harris-ave.md %}) up the street, we think this building will also slowly decay until the Journal can make a case to tear it down.
 
 
 ### History
