@@ -55,6 +55,9 @@ images:
     sizes: '1440, 900'
   - url: church-mediator-jh-2024-10-04.jpg
     sizes: '1440, 900'
+  - url: 1899-sanborn-vol1-p46-01.jpg
+    sizes: '1440, 900'
+    caption: '1899 Sanborn Insurance Map, Volume 1, Plate 46 — Library of COngress, Maps Division'
 
 mostrecentimage: 2024-10-01
 
@@ -118,7 +121,11 @@ While the report talks about the steeple, it is unclear if the rest of the build
 
 > “To Become Storage Plant” _[said the sub-headline](#photo-church-mediator-kerry-hopkins)_. “The permit, issued to the Hudson Cold Storage Company and calling for an expenditure of $15,000, was the largest recorded in this section of the State during the last seven days.”
 
-A 1920 Sanborn Map[^1] shows “Church of the Mediator (Universalist)” on the corner of Cranston and Burgess. There is no postal number, but it is between numbers 115 and 93. A 110 foot spire and 60 foot tower are noted in the drawing.
+A 1899 Sanborn Map[^4] shows “Church of the Mediator (Universalist)” on the corner of Cranston and Burgess. There is no postal number, but it is between numbers 115 and 93. A 110 foot spire and 60 foot tower are noted in the drawing.
+
+[^4]: [1899 Sanborn Insurance Map, Volume 1, Plate 46](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099189901) (page 57). Library of Congress, Maps Division. Accessed 18 August, 2025.
+
+The 1920 Sanborn Map[^1] continues to show the same building and details.
 
 [^1]: [1920 Sanborn Insurance Map, Volume 1, Plate 46](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (page 61). Library of Congress, Maps Division. Accessed 18 August, 2025.
 

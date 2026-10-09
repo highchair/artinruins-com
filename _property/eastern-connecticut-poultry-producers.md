@@ -38,6 +38,7 @@ thumbnail: horizon-foods-jh-2026-10-05.jpg
 
 images:
   - url: horizon-foods-jh-2023-06-01.jpg
+    alt: 'A long, narrow red brick building covered in colorful graffiti. The building is set into a hill, so that the basement of one building becomes the first floor of the other. They were constructed at different times for the same tenant, and since have split into two different business spaces.'
     sizes: '1440, 900'
   - url: horizon-foods-jh-2023-06-02.jpg
     sizes: '1440, 900'
@@ -106,7 +107,7 @@ The building sits empty, we believe, and gets a new mural on it ever few years. 
 
 A cement entablature lists some history of the organization who occupied the northern half of the building:
 
-> “Eastern Connecticut Poultry Producers, Inc. ¶ Established 1923 ¶ Officers ¶ Kingslet L. Brown, President; Edward H. Ross, Vice President; William F. Spokesfield, Secretary; Arthur H. Benton; Treasurer”
+> “Eastern Connecticut Poultry Producers, Inc. ¶ Established 1923 ¶ Officers ¶ Kingsley L. Brown, President; Edward H. Ross, Vice President; William F. Spokesfield, Secretary; Arthur H. Benton; Treasurer”
 
 It then lists the names of the Directors and one Manager, “James P. Farrelly.” It should be noted that the company may have been founded in 1923, but the building was not built at this location until after 1939 and before 1951.
 
