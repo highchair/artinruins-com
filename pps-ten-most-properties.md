@@ -22,7 +22,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + 02908 between Smith and Admiral Streets // Wanskuck, Elmhurst, Smith Hill  
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Atlantic Mills Complex]({% link _property/atlantic-mills.md %}) (1863, 1882) // 120 Manton Avenue, Olneyville
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Cranston Street Armory]({% link _property/providence-armory.md %}) (1907) // 340 Cranston Street, West End
-+ Privately Owned Public Spaces  // Collier Point Park, Upper South Providence 
++ Privately Owned Public Spaces // Collier Point Park, Upper South Providence 
 + 11 Higgins Avenue (John Hope Settlement House property) // Elmhurst
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}) (aka Superman Building) (1928) // 111 Westminster Street, Downtown
 
@@ -46,7 +46,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Providence Gas Company Purifier House]({% link _property/providence-gas-purifier-house.md %}) (1899-1900) Allens Ave
 + Providence Public Schools, Citywide (various)
 + RIDOT Headquarters and Garage, 30 Arline Street, Smith Hill (1927)
-+ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Standard Wholesale Liquors Co.]({% link _property/115-harris-ave.md %}), 115 Harris Avenue, Smith Hill (1937)
++ <span class="u__text__sans--bold u__color__primary">#NotInRuins</span> [Standard Wholesale Liquors Co.]({% link _property/115-harris-ave.md %}), 115 Harris Avenue, Smith Hill (1937)
 + Urban League of Rhode Island Site, 246 Prairie Avenue, Upper South Providence (ca. 1970s)
 
 ### 2022
@@ -71,7 +71,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}) (aka Superman Building), 111 Westminster Street (1928)
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Prince Hall Masonic Temple]({% link _property/prince-hall-masonic.md %}), 883 Eddy Street, Lower South Providence (1893)
 + Providence, RI (The city of Providence might be the most surprising inclusion this year; however, it is clear that climate change and sea level rise will affect historic and cultural resources across the city in the coming decades.)
-+ <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Standard Wholesale Liquors Co.]({% link _property/115-harris-ave.md %}), 115 Harris Avenue, Smith Hill (1937)
++ <span class="u__text__sans--bold u__color__primary">#NotInRuins</span> [Standard Wholesale Liquors Co.]({% link _property/115-harris-ave.md %}), 115 Harris Avenue, Smith Hill (1937)
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Ward Baking Co. Administration Building]({% link _property/ward-baking-co.md %}) (aka Victory Plating), 145 Globe Street, Jewelry District (1901-08) – LOST on 2/19/2021
 
 
