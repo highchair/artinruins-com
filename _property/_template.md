@@ -2,17 +2,17 @@
 title: ""
 slug:
 aka:
-date-modified: 2026-03-01 12:00
+date-modified: 2026-10-01 12:00
 update:
 update-image:
-prop-number: 452
+prop-number: 462
 
 built:
 demolition:
 redeveloped:
 units:
 decade: '1900-1909'
-date-added: '2026' #March
+date-added: '2026' #October
 categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding', '#NotInRuins', '#UrbanDecay', '#DemolitionAlert' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
@@ -40,7 +40,7 @@ excerpt: ""
 #  - url: hope-st-auto-jh-01.jpg
 #    alt: ''
 
-mostrecentimage: 2025-01-01
+mostrecentimage: 2026-01-01
 
 imagescredit:
 

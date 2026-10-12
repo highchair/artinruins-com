@@ -1,6 +1,21 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: east-side-train-tunnel
+  person: 'Jason Simonelli'
+  date: '2026-10-11'
+  content: 'The tribal band of college students that they talk about who paraded through the tunnel in 1993, was not the first time a group of young people did such things. I participated in a similar march with a group of RISD students in the early 80’s. I was only in middle school at the time. This was my first introduction to the tunnel. After that it became a regular hangout throughout my high school years.'
+
+- property: gorham-manufacturing-co
+  person: 'Jay Allie'
+  date: '2026-10-08'
+  content: 'I was given the opportunity to work at Gorham by Dan Lemeska the VP of advertising. I worked in several parts of the country as a regional sales manager. I learned more about sales from my time at Gorham than anyone could imagine. I am now 80 years of age and have had a wonderful career with 4 world class companies. I never went to college but due to my time at Gorham I always felt I had a masters degree in sales. Everyone that worked there loved the company. Cheers to all Gorham employees that are still with us.'
+
+- property: holy-name-school
+  person: 'Student'
+  date: '2026-09-28'
+  content: 'Father Gallagher was a pdf. Many years later a schoolmate confessed. Sad and not what Jesus would do. [**A.I.R.**: Indeed, we would not have posted this unless we could verify. Father Brian A. Gallagher was mentioned in a report from the Attorney General of RI listing clergy who have been credibly accused. Father Gallaghger died in 2014.]'
+
 - property: met-cafe-friendship-st
   person: 'Angela Flynn'
   date: '2026-09-23'
