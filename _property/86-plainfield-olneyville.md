@@ -60,7 +60,7 @@ external:
 
 ### Reason for Demolition
 
-According to [the Facebook page for Olneyville Tires](//www.facebook.com/olneyvilletire){:target="_blank"}, the Olneyville Tire Shop was started by the Elman family in 1923. The earliest mention of an Elman as owner — Arnold Elman — is from the 1962  Polk’s Providence City Directory.[^1] Norman Elman was later named in the incorporation papers from 1974.[^2]
+According to [the Facebook page for Olneyville Tires](https://www.facebook.com/olneyvilletire), the Olneyville Tire Shop was started by the Elman family in 1923. The earliest mention of an Elman as owner — Arnold Elman — is from the 1962  Polk’s Providence City Directory.[^1] Norman Elman was later named in the incorporation papers from 1974.[^2]
 
 [^1]: 1962 Polk’s Providence City Directory, courtesy the Internet Archive. Captured 02 August 2023 from https://archive.org/details/polksprovidencepunse_2/page/636/mode/2up?q=%2286+plainfield%22
 
@@ -68,8 +68,7 @@ According to [the Facebook page for Olneyville Tires](//www.facebook.com/olneyvi
 
 There seems to be more story here, as the owner of the Facebook page slams Sabina Mattos for being proud of demolishing the location of a small business. We could not find press about the proceedings that led to the demolition. If anyone can point us in the right direction, please leave some notes in the comments.
 
-Demolition occured on January 6, 2021 according to [video captured at the scene from Sabina Mattos’ Facebook page](//www.facebook.com/745078688/videos/10159597586478689/){:target="_blank"}.
-https://www.facebook.com/olneyvilletire
+Demolition occurred on January 6, 2021 according to [video captured at the scene from Sabina Mattos’ Facebook page](https://www.facebook.com/745078688/videos/10159597586478689/).
 
 
 ### Current Events
@@ -81,9 +80,9 @@ The lot is still empty and undeveloped.
 
 Some recent history and mentions:
 
-+ [Photo on Instagram of the demolition](//www.instagram.com/p/CJrF0_7nCnr/){:target="_blank"} from @OlneyvilleSystem
-+ _From a Real Estate listing circa 2007:_ As Exclusive Agents we are pleased to offer this outstanding business and real estate opportunity. Our client’s very profitable new and used tire business has been in his family and operated at the same location for 87 years. The owner is retiring and also selling the 3,280 Square foot building with 25 foot ceilings and 3 bay doors. This excellent business and property is located on a heavily trafficked street in the revitalized Olneyville section of Providence. The tire business, with a solid record of profits, presently has an inventory valued at $95,000.00. Owner also holds a used car sales license. Asking price for this business and real estate is a reasonable $450,000.00. — Captured 02 August 2023 from http://www.riequities.com/userFiles/Listings/documents/OlneyvilleTire.pdf 
-+ [A mention of 90 Plainfield Street in a story about raids during prohibition](//smallstatebighistory.com/new-yorks-izzy-einstein-raids-rhode-island-saloons-during-prohibition/#:~:text=90%20Plainfield%20Street){:target="_blank"} — “New York’s Izzy Einstein Raids Rhode Island Saloons During Prohibition.” Christian McBurney for Small State Big History. Captured 02 August 2023.
++ [Photo on Instagram of the demolition](https://www.instagram.com/p/CJrF0_7nCnr/) from @OlneyvilleSystem
++ _From a Real Estate listing circa 2007:_ As Exclusive Agents we are pleased to offer this outstanding business and real estate opportunity. Our client’s very profitable new and used tire business has been in his family and operated at the same location for 87 years. The owner is retiring and also selling the 3,280 Square foot building with 25 foot ceilings and 3 bay doors. This excellent business and property is located on a heavily trafficked street in the revitalized Olneyville section of Providence. The tire business, with a solid record of profits, presently has an inventory valued at $95,000.00. Owner also holds a used car sales license. Asking price for this business and real estate is a reasonable $450,000.00. — Captured 02 August 2023 from http://www.riequities.com/userFiles/Listings/documents/OlneyvilleTire.pdf
++ [A mention of 90 Plainfield Street in a story about raids during prohibition](https://smallstatebighistory.com/new-yorks-izzy-einstein-raids-rhode-island-saloons-during-prohibition/#:~:text=90%20Plainfield%20Street) — “New York’s Izzy Einstein Raids Rhode Island Saloons During Prohibition.” Christian McBurney for Small State Big History. Captured 02 August 2023.
 
 ***
 
@@ -180,8 +179,8 @@ City of Providence shuts off utilities other than sewer, removes debris, and boa
 
 The building appears on an 1889 map in the most recent shape and size. The building is not present on an 1875 map, but rather, there is a property labelled “Budlong” in its place.
 
-+ [1875 Volume 2, Plate AA](//t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_f7ee96de-6389-44f0-8032-5f233b336f51/){:target="_blank"} — At the corner of Plainfield and Windsor Streets is a property labelled “Budlong,” a house that was previously located here. It was presumably torn down after the death of its owner, Ms.Huldah Budlong, in 1882[^1] to make way for the new building which better fit the bustling commercial district of Olneyville Square.
-+ [1889 Sanborn Insurance Map, Volume 1, Plate 27a](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901){:target="_blank"} (page 55) — On the corner of (what was then) Windsor and Plainfield Streets is number 40 and 42, a wood frame structure of mostly three stories with a Windsor Street first-story-facing outcropping and then a Plainfield Street one-story ground floor section. The postal addresses are 40 and 42.
-+ [1900 Sanborn Insurance Map, Volume 3, Plate 264](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190003){:target="_blank"} (page 54) — On the corner of Atwood (formerly Windsor) and Plainfield Streets is the same structure. Labelled three and one half stories instead of three, it has similar ground-floor outcroppings and interior walls on the drawing may indicate the three different postal units: 86, 88, and 90.
++ [1875 Volume 2, Plate AA](https://t93c12bb2a2098924.starter1ua.preservica.com/uncategorized/IO_f7ee96de-6389-44f0-8032-5f233b336f51/) — At the corner of Plainfield and Windsor Streets is a property labelled “Budlong,” a house that was previously located here. It was presumably torn down after the death of its owner, Ms.Huldah Budlong, in 1882[^1] to make way for the new building which better fit the bustling commercial district of Olneyville Square.
++ [1889 Sanborn Insurance Map, Volume 1, Plate 27a](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901) (page 55) — On the corner of (what was then) Windsor and Plainfield Streets is number 40 and 42, a wood frame structure of mostly three stories with a Windsor Street first-story-facing outcropping and then a Plainfield Street one-story ground floor section. The postal addresses are 40 and 42.
++ [1900 Sanborn Insurance Map, Volume 3, Plate 264](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190003) (page 54) — On the corner of Atwood (formerly Windsor) and Plainfield Streets is the same structure. Labelled three and one half stories instead of three, it has similar ground-floor outcroppings and interior walls on the drawing may indicate the three different postal units: 86, 88, and 90.
 
-[^1]: An obituary for Huldah Budlong (3/1/1798 to 9/10/1882) in the Providence Evening Bulletin mentions that the funeral will progress from her “late residence, corner of Plainfield and Winston Streets, Olneyville” which would have been 86-90 Plainfield St. [A page on Family Search for Huldah Budlong](//ancestors.familysearch.org/en/MKT4-DXL/huldah-budlong-1798-1882) corroborates that she died in Sept of 1882. Based on her passing and the shift in footprint, it seems that the Budlong home was likely torn down sometime between 1882-1889.
+[^1]: An obituary for Huldah Budlong (3/1/1798 to 9/10/1882) in the Providence Evening Bulletin mentions that the funeral will progress from her “late residence, corner of Plainfield and Winston Streets, Olneyville” which would have been 86-90 Plainfield St. [A page on Family Search for Huldah Budlong](https://ancestors.familysearch.org/en/MKT4-DXL/huldah-budlong-1798-1882) corroborates that she died in Sept of 1882. Based on her passing and the shift in footprint, it seems that the Budlong home was likely torn down sometime between 1882-1889.

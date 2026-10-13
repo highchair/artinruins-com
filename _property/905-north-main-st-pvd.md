@@ -142,7 +142,7 @@ After graduating from pharmacy school, Christina found inspiration for her own b
 
 “We loved the idea of paying homage to the mom-and-pop independent drug stores of her youth,” said Ken. “It isn’t just about serving ice cream - it’s about that old-fashioned sense of customer service as well.”
 
-Pelletier, Jenna. "Brand New: A sweet step back in time" <em>Providence Journal (RI)</em>, sec. RI Features, 1 May 2019, p. C1. <em>NewsBank: America’s News – Historical and Current</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/17329A3A8775E980. Accessed 10 Jan. 2026.
+— Pelletier, Jenna. "Brand New: A sweet step back in time" <em>Providence Journal (RI)</em>, sec. RI Features, 1 May 2019, p. C1. <em>NewsBank: America’s News – Historical and Current</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/17329A3A8775E980. Accessed 10 Jan. 2026.
 
 ***
 

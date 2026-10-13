@@ -97,9 +97,9 @@ Not much official history yet. We’ve explored maps and the Assessor’s databa
 
 **159 Gano Street**, a formerly small, single-story rectangular cinder-block building with a yellow-brick clad façade. A central entrance with transom window was flanked by two storefront commercial windows that have been filled in with concrete block. A flat wooden cornice floated above the door and former windows, while the rest of the façade was flat. It was likely built around 1950, though it is possible that the footprint of this building existed earlier in some of Sanborn Maps as early as 1921. The owner was listed as the Holy Rosary Band Society. 
 
-**157 Gano Street**, a former 5800 sf, single story, cinder-block multi-purpose hall owned by the Holy Rosary Band Society. The building does not appear in 1962 aerial photos but it is there by 1972. It was rather non-descript with a side entrance to the north and no windows on the street-facing west façade. It has a flat roof and was painted a light gray. 
+**157 Gano Street**, a former 5800 sf, single story, cinder-block multi-purpose hall owned by the Holy Rosary Band Society. The building does not appear in 1962 aerial photos but it is there by 1972. It was rather non-descript with a side entrance to the north and no windows on the street-facing west façade. It has a flat roof and was painted a light gray.
 
-The [Holy Rosary Band](//www.hrbband.com){:target="_blank"} is a community philharmonic founded in 1968. The hall was their performance space and would also get rented out to community groups for parties and gatherings. They have since moved to a building in East Providence at 328 Taunton Avenue. They were affiliated with the Holy Rosary parish off Wickenden Street and perform there often as part of their annual Santo Cristo festival. 
+The [Holy Rosary Band](https://www.hrbband.com) is a community philharmonic founded in 1968. The hall was their performance space and would also get rented out to community groups for parties and gatherings. They have since moved to a building in East Providence at 328 Taunton Avenue. They were affiliated with the Holy Rosary parish off Wickenden Street and perform there often as part of their annual Santo Cristo festival. 
 
 
 ### In the News

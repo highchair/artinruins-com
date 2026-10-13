@@ -105,7 +105,7 @@ Neither structure is listed in the [Jewelry Manufacturing Historic District]({% 
 
 ### Current Events
 
-The buildings are currently being prepared for demolition and equipment is on site. 233 will be demolished starting from the Chestnut Street side and moving towards Richmond. 261 will be demolished from south to north along Richmond, according to the [Brown University Facilities management page](//facilities.brown.edu/projects/integrated-life-sciences/construction-information).
+The buildings are currently being prepared for demolition and equipment is on site. 233 will be demolished starting from the Chestnut Street side and moving towards Richmond. 261 will be demolished from south to north along Richmond, according to the [Brown University Facilities management page](https://facilities.brown.edu/projects/integrated-life-sciences/construction-information).
 
 
 ### History

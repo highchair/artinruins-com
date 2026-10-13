@@ -73,7 +73,7 @@ In 2015, Richard Baccari the first stepped down as president and CEO of Churchil
 
 This development features 69 luxury rental units adjacent to the intestate 195 [iWay bridge]({% link _property/iway.md %}) with views of said bridge as well as the Providence Harbor. Units range from 650 square foot 1 bed/1 bath to 1200+ square foot 2 bed/2 baths with balcony options.
 
-Amazingly, [six units are listed at whopping $4,000 plus monthly rents](//www.580southwater.com/unit-layouts){:target="_blank"} depending on the size and amenities.
+Amazingly, [six units are listed at whopping $4,000 plus monthly rents](https://www.580southwater.com/unit-layouts/) depending on the size and amenities.
 
 The parking lot is interesting. There are 13 single car spots, with 7 of them arranged the long way against the building. Then there are 22 double-length spots, where tenants can fit two cars front to back (or one large truck). In this way, they are able to fit almost 60 spots into a rather small lot.
 
@@ -92,7 +92,7 @@ We think this building is a bit odd. The early rendering was bland, but the fina
 
 #### The Invasion of the Over-Scaled Buildings — Architecture Critic Will Morgan
 
-_by William Morgan_
+_by William Morgan_  
 **GoLocal Providence** | August 18, 2020 (excerpt)
 
 […] One of the worst cases of apartment house elephantiasis is being erected at the corner of South Water and Tockwotton Streets. Architect Eric Zuena (designer of the Angell Street hotel and the Homewood Suites downtown) has simply decorated a giant hunk of sellable space with some different surfaces and colors, plus Zuena's signature Mansard roof.
@@ -114,11 +114,9 @@ In the excerpt below, we see that the proposed building was at first going to be
 
 #### Providence Proposed building scaled down near N. Main Street Plan to cut height from seven to five stories after residents voice concerns
 
-_by Christine Dunn
+_by Christine Dunn_  
 **Providence Journal** | May 15, 2018 (excerpt)
 
 […] The committee on Monday night also held a pre-application review for a new five-story, mixed-use building at 580 South Water St., proposed by Richard Baccari II of Churchill & Banks, doing business as 40 Tockwotton LLC. Architect Eric Zuena said 44 luxury condos are planned at the building, in addition to ground-floor commercial space. The building would be located at the corner of South Main and Tockwotton streets in Fox Point, near Route 195.
 
-—
-
-Dunn, Christine. “Providence Proposed building scaled down near N. Main Street Plan to cut height from seven to five stories after residents voice concerns.” Providence Journal (RI), sec. RI News, 15 May 2018, p. A3. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/16BEB8719B9B0FF8. Accessed 2 Apr. 2022.
+— Dunn, Christine. “Providence Proposed building scaled down near N. Main Street Plan to cut height from seven to five stories after residents voice concerns.” Providence Journal (RI), sec. RI News, 15 May 2018, p. A3. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/16BEB8719B9B0FF8. Accessed 2 Apr. 2022.

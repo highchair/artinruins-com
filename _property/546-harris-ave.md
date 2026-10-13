@@ -70,7 +70,7 @@ Part warehouse and part covered loading area, the building was probably a shippi
 
 ### Current Events
 
-This odd-shaped piece of land was difficult to redevelop, and it took about 10 years, but local architect/developer Peter Case of [TruthBox](https://www.truthbox.com) designed the first office complex constructed from shipping containers in Rhode Island called the [Box Office]({% link _property/box-office.md %}).
+This odd-shaped piece of land was difficult to redevelop, and it took about 10 years, but local architect/developer Peter Case of [TruthBox](https://www.truthbox.com/) designed the first office complex constructed from shipping containers in Rhode Island called the [Box Office]({% link _property/box-office.md %}).
 
 
 ### History

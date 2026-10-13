@@ -23,7 +23,7 @@ added-to-NRHP: 'February 10, 1984'
 address: '132 Fountain St, Providence RI'
 latitude: '41.8232623'
 longitude: '-71.4161469'
-gmap: "//www.google.com/maps/@41.8232623,-71.4161469,3a,75y,125.03h,96.12t/data=!3m6!1e1!3m4!1sapauteUAoeTPiXNW01lowg!2e0!7i13312!8i6656"
+gmap: "https://www.google.com/maps/@41.8232623,-71.4161469,3a,75y,125.03h,96.12t/data=!3m6!1e1!3m4!1sapauteUAoeTPiXNW01lowg!2e0!7i13312!8i6656"
 street: [ 'Fountain St' ]
 street-number: 132
 

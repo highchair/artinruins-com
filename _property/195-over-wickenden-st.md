@@ -87,7 +87,7 @@ images:
   - url: i-195-over-wickenden-jh-2011-01-02.jpg
     sizes: '1440, 900'
 
-imagescredit: 'Contribution from Providence Public Library <a href="//provlibdigital.org/islandora/object/islandora%3A10271" target="_blank">Rhode Island Photograph Collection</a> and Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>'
+imagescredit: 'Contribution from Providence Public Library <a href="https://provlibdigital.org/islandora/object/islandora%3A10271">Rhode Island Photograph Collection</a> and Christopher Martin of <a href="https://quahog.org/">Quahog.org</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

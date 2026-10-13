@@ -93,7 +93,7 @@ If our opinion means anything, the building, while massive for the street, is in
 
 ### Current Events
 
-The [project page from Gilbane Development](https://www.gilbaneco.com/development/projects/257-thayer-street/) on this building has additional details. For leasing information, visit the [257 Thayer website](https://257thayer.com). 
+The [project page from Gilbane Development](https://www.gilbaneco.com/development/projects/257-thayer-street/) on this building has additional details. For leasing information, visit the [257 Thayer website](https://257thayer.com/).
 
 
 ### In the News

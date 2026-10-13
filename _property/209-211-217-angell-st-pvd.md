@@ -118,7 +118,7 @@ images:
     caption: 'Looking across the street from Brook, empty now all the way to the Vedanta Society'
     sizes: '1440, 900'
 
-imagescredit: 'Drone photos by David Lawlor, aka <a href="//runofthemill.shop" target="_blank">Run of the Mill</a>'
+imagescredit: 'Drone photos by David Lawlor, aka <a href="https://runofthemill.shop">Run of the Mill</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -137,7 +137,7 @@ For opinion, we side with Nina Tannenwald, a board member of the Wayland Square 
 
 > Back on the agenda at the Providence City Plan Commission on Tuesday is a controversial hotel project proposed for the corner of Angell and Brook streets on the East Side. The project would involve demolishing three historic houses at 209-217 Angell St. and replacing them with a 118-room hotel/restaurant complex. The developers are Ed Bishop, longtime local real estate agent and owner of the three houses, and Smart Hotels LLC, an out-of-town developer who builds hotels in college towns. […]
 
-> Instead of tearing down the old houses, he [Ed Bishop] should incorporate them into a new hotel. It is puzzling why he does not take this approach. His most likely clientele, Brown alumni, parents and visitors, would be just the kind of people who would love a new-old hotel that evokes the historic Victorian East Side. The [Nassau Inn at Princeton](https://nassauinn.com/){:target="_blank"} and the [Hanover Inn at Dartmouth](https://www.hanoverinn.com/){:target="_blank"} come to mind as similar examples. Repurposing old buildings also provides one of the best opportunities for head-turning, creative (and perhaps award-winning) architecture.
+> Instead of tearing down the old houses, he [Ed Bishop] should incorporate them into a new hotel. It is puzzling why he does not take this approach. His most likely clientele, Brown alumni, parents and visitors, would be just the kind of people who would love a new-old hotel that evokes the historic Victorian East Side. The [Nassau Inn at Princeton](https://nassauinn.com/) and the [Hanover Inn at Dartmouth](https://www.hanoverinn.com/) come to mind as similar examples. Repurposing old buildings also provides one of the best opportunities for head-turning, creative (and perhaps award-winning) architecture.
 
 > A second idea is to build the hotel on the location of the current Citizens Bank building on the corner of Waterman and Brook streets. Why tear down attractive historic houses when, only one block away, there is a lot with a small, ugly building and a parking lot that cries out for a more attractive structure? Of course, Citizens Bank might wish to have a say in this. But a new hotel could provide space for a bank office. Here is where city involvement might facilitate the project.[^1]
 

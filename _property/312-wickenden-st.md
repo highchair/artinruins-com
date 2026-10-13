@@ -136,7 +136,7 @@ These maps verify that the building is older than 1900, but we can not yet find 
 #### A Duck and Bunny Mystery
 
 _by David Brussat_  
-**[RI news Today](https://rinewstoday.com/a-duck-bunny-mystery)** | April 24, 2021
+**RI news Today** | April 24, 2021
 
 On Easter weekend a colonial-style building at 312 Wickenden St., in Providence, was razed by its new owners, who also owned the Duck & Bunny Snuggery, which was shut for the pandemic. I heard about this calamity on Sunday and instantly wrote an obituary for the lovely building, which was said to have been built in 1900, but might have been built as early as 1790.
 
@@ -156,23 +156,27 @@ The city contends that the Duck & Bunny could have operated in 312 Wickenden for
 
 Providence has 35 districts on the National Register of Historic Places. A listing is purely honorary. The city has only seven local historic districts with limited actual protection for historic properties. The local College Hill Historic District extends into Fox Point but only to within one block of Wickenden Street. If its merchants and residents fear for its historic character, they will need to petition to have the College Hill Historic District extended by at least one block. Eventually, the merchants who blocked the street’s inclusion in the local district decades ago will regret what is brought by the winds of change. Yet, by then it is likely that Providence as a whole will no longer boast the allure from which Wickenden Street borrows its charm.
 
+— Brussat, David. “A Duck and Bunny Mystery.” RI News Today. Captured from https://rinewstoday.com/a-duck-bunny-mystery
+
 ***
 
 #### Duck and Bunny Building Demolished on Wickenden Street in Providence
 
 _by the GoLocalProv Lifestyle Team_  
-**[GoLocalProv](https://www.golocalprov.com/food/new-duck-and-bunny-building-demolished-on-wickenden-street-in-providence)** | April 4, 2021 (abridged)
+**GoLocalProv** | April 4, 2021 (abridged)
 
-The building that housed the Duck and Bunny in Fox Point has been demolished. 
+The building that housed the Duck and Bunny in Fox Point has been demolished.
 
 The Duck and Bunny was a local — and national favorite — since it emerged on the scene, with cupcakes, crepes, cocktails, and more in a cozy, stylish converted Colonial house.
 
-The structure at 312 Wickenden Street — which the City of Providence says was built in 1900, according to tax assessor records, was nearly completely torn down on Saturday. 
+The structure at 312 Wickenden Street — which the City of Providence says was built in 1900, according to tax assessor records, was nearly completely torn down on Saturday.
 
 In 2019, the Duck and Bunny announced it would be closing for “major renovations” — and in July 2020 said it would be taking an extended hiatus due to coronavirus, staying the following:
 
 > The Duck & Bunny will be closed until further notice as we deal with the current health and economic climate. This includes our auxiliary space in Pawtucket. 
 > Thank you for your patience and understanding. Our goal is still to raise enough money to reopen our Wickenden Street location in 2021. 
-> Peace and love to all. Please be safe and nice to one another. This too shall pass. 
+> Peace and love to all. Please be safe and nice to one another. This too shall pass.
 
-The Duck and Bunny did not respond to request for comment on the demolition on Saturday. 
+The Duck and Bunny did not respond to request for comment on the demolition on Saturday.
+
+— GoLocalProv, “Duck and Bunny Building Demolished on Wickenden Street in Providence.” Captured from https://www.golocalprov.com/food/new-duck-and-bunny-building-demolished-on-wickenden-street-in-providence

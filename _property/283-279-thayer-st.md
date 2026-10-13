@@ -143,7 +143,7 @@ The demolition of so many other properties in this section of the district made 
 
 ### Current Events
 
-Paul and Michael Boutros and their business partnership, Two Counsins, own the adjacent commercial block with current tenants Chinatown and Mighty Mike’s Pizza.[^1] They were the developers for the now completed [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}), which is a four-story apartment building with ground-floor retail.
+Paul and Michael Boutros and their business partnership, Two Cousins, own the adjacent commercial block with current tenants Chinatown and Mighty Mike’s Pizza.[^1] They were the developers for the now completed [235 Meeting Street]({% link _property/235-meeting-st-pvd.md %}), which is a four-story apartment building with ground-floor retail.
 
 [^1]: Rasquinha, Rhea. “Turnover on Thayer: many closures, some new developments.” Brown Daily Herald, September 8, 2022. Accessed October 25, 2022 from https://www.browndailyherald.com/article/2022/09/turnover-on-thayer-many-closures-some-new-developments
 
@@ -155,9 +155,9 @@ Similar plans seem to have stalled at this location, with construction progress 
 These two houses were some of the oldest surviving structures on this commercial portion of the street (the oldest being [307 Thayer]({% link _property/thayer-street.md %}#307-thayer) and [223 Thayer]({% link _property/thayer-street.md %}#233-thayer)). The house at the street front and a similar 2-1/2 story house at the rear of the property is present on a 1908 map. They remain in the same configuration on all Sanborn maps from 1920 to 1956 that we have access to.
 
 + [1908 L.J. Richards map, plate 7 — private collection](#photo-1908-lj-richards-p7-01) — Both houses are in place on the street and unlabelled as to their height
-+ [1921 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (Page 20) — Both houses are present and labelled 2 1/2 stories. The house at the back of the lot is labelled postal address 279. The commercial block has not been constructed
-+ [1921–1951 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (Page 20) — Both houses are present and labelled 2 1/2 stories. The house at the back of the lot is now labelled 279 1/2, and a small structure on the lot is labelled 283 1/2. The commercial block has been constructed
-+ [1921–1956 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602){:target="_blank"} (Page 14) — No changes
++ [1921 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102) (Page 20) — Both houses are present and labelled 2 1/2 stories. The house at the back of the lot is labelled postal address 279. The commercial block has not been constructed
++ [1921–1951 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102) (Page 20) — Both houses are present and labelled 2 1/2 stories. The house at the back of the lot is now labelled 279 1/2, and a small structure on the lot is labelled 283 1/2. The commercial block has been constructed
++ [1921–1956 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602) (Page 14) — No changes
 
 The commercial block was constructed between 1921 and 1951. What became **“The Garage”** and then the **Army Navy Store** is an independent structure with an independent party wall, labelled with postal address 279. The house behind was labelled 279 1/2 after its construction.
 

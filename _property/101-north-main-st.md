@@ -70,7 +70,7 @@ images:
 
 mostrecentimage: 2020-10-01
 
-imagescredit: 'Contributions by Betsy von Die, <a href="//www.flickr.com/photos/cthulhuwho1" target="_blank">Will Hart</a>, the Armory Revival Company, and real estate listing sites'
+imagescredit: 'Contributions by Betsy von Die, <a href="//www.flickr.com/photos/cthulhuwho1">Will Hart</a>, the Armory Revival Company, and real estate listing sites'
 ---
 
 ### Redevelopment

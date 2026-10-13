@@ -88,7 +88,7 @@ images:
     caption: 'Aerial photo from 2021. The new highway portions that were added are highlighted in yellow — Providence Historical Aerial Viewer'
     sizes: '1473, 829'
 
-imagescredit: 'Aerial photos from the <a href="//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e" target="_blank">Providence Historical Aerial Viewer</a>'
+imagescredit: 'Aerial photos from the <a href="https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e">Providence Historical Aerial Viewer</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

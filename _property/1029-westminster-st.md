@@ -55,15 +55,15 @@ imagescredit:
 
 ### Proposal
 
-Developed by [<abbr title="Stop Wasting Abandoned Property">SWAP, Inc.</abbr>](//swapinc.org){:target="_blank"}, a non-profit community development corporation, the building is ground-floor retail with residential condominiums above. They were sold at affordable rates — below market value. Unit 1B was sold in 2008 for $79,000 and in 2019 sold for $85,000 — so the units likely have a cap on the amount that the price can increase from one owner to another. There are four 2-bedroom residential units in total. 
+Developed by [<abbr title="Stop Wasting Abandoned Property">SWAP, Inc.</abbr>](https://swapinc.org/), a non-profit community development corporation, the building is ground-floor retail with residential condominiums above. They were sold at affordable rates — below market value. Unit 1B was sold in 2008 for $79,000 and in 2019 sold for $85,000 — so the units likely have a cap on the amount that the price can increase from one owner to another. There are four 2-bedroom residential units in total.
 
 Previous to this, the lot had been vacant for a long time. What looked to be a new construction project had stalled for over a year before SWAP stepped in.[^1]
 
-[^1]:  _“In Progress: SWAP Condos on Westminster”_, UrbanPlanet.org forum. http://www.urbanplanet.org/forums/index.php?showtopic=23517&hl=1029%2Bwestiminster
+[^1]: _“In Progress: SWAP Condos on Westminster”_, UrbanPlanet.org forum. http://www.urbanplanet.org/forums/index.php?showtopic=23517&hl=1029%2Bwestiminster
 
 
 ### Design Reception
 
-While putting the land to good use makes sense in a neighborhood that needs more residential and fewer parking lots, the design itself does not wow anyone. The mix of corrugated steel, maroon clapboards, and yellow stone in a boxy, flat-roofed structure resembles a storage unit building. The designers seemed to be going for industrial chic, but we would guess that keeping the construction costs low so the unit prices could be below market rates also meant that the overall design suffers a little bit. 
+While putting the land to good use makes sense in a neighborhood that needs more residential and fewer parking lots, the design itself does not wow anyone. The mix of corrugated steel, maroon clapboards, and yellow stone in a boxy, flat-roofed structure resembles a storage unit building. The designers seemed to be going for industrial chic, but we would guess that keeping the construction costs low so the unit prices could be below market rates also meant that the overall design suffers a little bit.
 
 On the other hand, we have seen cheap, flimsy construction slapped with vinyl siding sell for not much more than these units. And in those cases, a for-profit developer lines their pockets while the new home owner probably suffers mold-contamination and value depreciation. With that in mind, the architects did a nice job of taking some risks and making a not-typical type of building for people who deserve more than the typical modular vinyl-sided box.

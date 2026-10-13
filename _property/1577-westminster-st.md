@@ -57,7 +57,7 @@ Three proposals were presented during the 2005 WBNA Annual Meeting. Neighbors ga
 
 The project stalled for two years due to funding and the real estate collapse of 2008. Construction finally began in 2010. Seven affordable assisted residential rental units were created along with a single retail space which has since been divided into two.
 
-Fuller history and project write up available on the [WBNA website](//www.wbna.org/1577-westminster){:target="_blank"}.
+Fuller history and project write up available on the [WBNA website](https://www.wbna.org/1577-westminster/).
 
 
 ### Design Reception

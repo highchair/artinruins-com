@@ -61,11 +61,11 @@ This lot had a house on it until we believe around 1985. A [1921 Sanborn Map](ht
 
 The home is still present, though it is difficult to make out, in a 1985 aerial photo. In a 1997 aerial photo this lot looks paved over and part of the adjacent lot. This lot, therefore, has been vacant for about 30 years. There is nothing wrong with some green space, but this was not intentional — it looked very much abandoned and forgotten in a strip of stately homes that meet the street.
 
-In June of 2018, the WBNA reviewed a proposal presented by Peter Case of [Truth Box Architects]({% link designer/truth-box-architects.html %}). Case was the designing architect as well as a Project Partner with the design-build firm, [D+P Real Estate](http://www.durhampolak.com).
+In June of 2018, the WBNA reviewed a proposal presented by Peter Case of [Truth Box Architects]({% link designer/truth-box-architects.html %}). Case was the designing architect as well as a Project Partner with the design-build firm, [D+P Real Estate](http://www.durhampolak.com/).
 
 Case described this “green urban infill” project as “a zoning-compliant 7-unit building on three floors with retail on the first floor,” and added that they were “looking to make it the first [passive house](http://www.phius.org/what-is-passive-building/passive-house-principles) multi-family building in the city.”
 
-As part of that mission, Case joined [RepowerPVD](http://www.providenceri.gov/sustainability/repower-pvd/){:target="_blank"}, the city’s voluntary energy challenge that he called “a race to net zero” in terms of a building’s energy use. Details of the building’s passive house specs include triple glaze windows and double walls that are 12 inches thick. For development cost reasons, the building was not built with solar panels installed, but was “solar ready.”
+As part of that mission, Case joined [RepowerPVD](http://www.providenceri.gov/sustainability/repower-pvd/), the city’s voluntary energy challenge that he called “a race to net zero” in terms of a building’s energy use. Details of the building’s passive house specs include triple glaze windows and double walls that are 12 inches thick. For development cost reasons, the building was not built with solar panels installed, but was “solar ready.”
 
 The 7 residential units are one bedroom apartments. The ground floor retail space is 1200 square feet that would also have some basement storage.
 
@@ -80,4 +80,4 @@ However, he said, the high level of energy efficiency of these units will help o
 
 ### Current Events
 
-The ground floor retail space is occupied by [Lucky Enough Eat and Drink](https://www.luckyenoughpvd.com), a local bar and eatery.
+The ground floor retail space is occupied by [Lucky Enough Eat and Drink](https://www.luckyenoughpvd.com/), a local bar and eatery.

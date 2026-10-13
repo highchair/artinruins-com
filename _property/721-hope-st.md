@@ -62,7 +62,7 @@ images:
 
 mostrecentimage: 2022-06-01
 
-imagescredit: 'Contribution from <a href="https://www.uncomsensemedia.com">Jason Allard, Uncommon Sense Media</a>'
+imagescredit: 'Contribution from <a href="https://www.uncomsensemedia.com/">Jason Allard, Uncommon Sense Media</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -100,7 +100,7 @@ An additional remembrance from the [Jewish Rhody online by M. Charles Bakst](htt
 
 #### Providence's kosher market Davis Dairy closes for good
 
-_by Gail Ciampa_
+_by Gail Ciampa_  
 **Providence Journal** | February 16, 2021 (abridged)
 
 What the Davis family built in Providence will not soon be forgotten. The taste of many people’s childhoods and history were etched at Davis Dairy Products.
@@ -153,4 +153,4 @@ It was a late-night fire back on May 19 that badly damaged the building at 721 H
 
 What is understood is that it may have closed a business, but it won’t extinguish the memories that remain from decades and decades of fine food and conversation.
 
-_Captured April 9, 2021 from https://www.providencejournal.com/story/entertainment/dining/2021/02/16/providence-kosher-market-davis-dairy-closes-after-114-years/6752062002/_
+— _Captured April 9, 2021 from https://www.providencejournal.com/story/entertainment/dining/2021/02/16/providence-kosher-market-davis-dairy-closes-after-114-years/6752062002/_
