@@ -1,11 +1,13 @@
+{%- comment -%}
+
+  Set defaults for meta values first, replace them later if the data exists
+
+{%- endcomment -%}
 {%- assign meta_title = site.title -%}
 {%- assign meta_title_trailer = site.title | prepend: ' | ' -%}
 {%- assign meta_description = site.description -%}
 {%- assign meta_image = "artinruins-social-card.jpg" | prepend: site.image_path | prepend: site.baseurl | prepend: '/' -%}
 {%- assign datemodified = page.date-modified -%}
-{%- if page.update -%}
-  {% assign datemodified = page.update %}
-{%- endif -%}
 {%- comment -%}
 
   Page Title, order of importance
@@ -15,9 +17,9 @@
   - If this page has a custom Meta title, use that instead (trumps all)
 
 {%- endcomment -%}
-{%- if page.path contains '_property' or page.path contains '_then-now' -%}
+{%- if page.collection == 'property' or page.collection == 'then-now' -%}
   {%- assign meta_title = page.title | append: meta_title_trailer -%}
-{%- else if page.title -%}
+{%- elsif page.title -%}
   {%- assign meta_title = page.title -%}
   {%- if page.layout == 'taxonomy' -%}
     {%- assign meta_title = page.title | append: meta_title_trailer -%}
@@ -90,5 +92,11 @@
     <link rel="pingback" href="https://webmention.io/artinruins.com/xmlrpc">
 {% comment %}
   Looking for Google Analytics? Nope, we use Cabin now: https://withcabin.com/dashboard/artinruins.com
+  Why? Cookiless and no privacy banner is needed.
+
+  Structured data (JSON-LD) for Property pages
 {% endcomment %}
+{%- if page.collection == 'property' %}
+  {% include property-item/jsonld.html %}
+{%- endif %}
   </head>

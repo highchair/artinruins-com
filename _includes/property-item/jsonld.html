@@ -1,0 +1,211 @@
+{%- comment -%}
+
+  JSON-LD structured data for Property pages
+  Included from head.html when page.collection == 'property'
+
+  Describes two linked things:
+  - #place  The building itself (LandmarksOrHistoricalBuildings, or Place for #WhatAreTheyBuilding proposals)
+  - WebPage The ArtInRuins page about it
+
+  Rules followed throughout:
+  - Every URL is built from site.prod_url (site.url is localhost)
+  - Every string passes through jsonify, which quotes and escapes it
+  - Optional items in a list are joined with a "sep" variable that starts empty, so a missing field can never leave a trailing comma
+
+{%- endcomment -%}
+{%- assign pageurl = site.prod_url | append: page.url -%}
+{%- assign placeid = pageurl | append: '#place' -%}
+{%- assign imgbase = site.propimg_path | append: page.slug | append: '/' -%}
+{%- assign description = page.excerpt | strip_html | normalize_whitespace -%}
+
+{%- comment -%} Building type and current status, from the category {%- endcomment -%}
+{%- assign placetype = 'LandmarksOrHistoricalBuildings' -%}
+{%- assign status = '' -%}
+{%- if page.categories contains '#UsedToBeThere' -%}
+  {%- assign status = 'Demolished' -%}
+{%- elsif page.categories contains '#DemolitionAlert' -%}
+  {%- assign status = 'Threatened with demolition' -%}
+{%- elsif page.categories contains '#UrbanDecay' -%}
+  {%- assign status = 'Vacant or deteriorating' -%}
+{%- elsif page.categories contains '#NotInRuins' -%}
+  {%- assign status = 'Standing; redeveloped or in use' -%}
+{%- elsif page.categories contains '#WhatAreTheyBuilding' -%}
+  {%- assign status = 'Proposed or under construction' -%}
+  {%- assign placetype = 'Place' -%}
+{%- endif -%}
+
+{%- comment -%}
+  National Register. "(individual)" listings get a sameAs link to the NPS
+  record. "(contributing)" numbers belong to the historic district, so they
+  go on the district in containedInPlace, named from the first list that
+  contains "Historic District".
+{%- endcomment -%}
+{%- assign nrhp = page.NRHP-ref-number | default: '' | strip -%}
+{%- assign nrhpnum = nrhp | split: ' ' | first | default: '' -%}
+{%- assign nrhpindividual = false -%}
+{%- assign nrhpcontributing = false -%}
+{%- if nrhp contains 'individual' -%}
+  {%- assign nrhpindividual = true -%}
+{%- elsif nrhp contains 'contributing' -%}
+  {%- assign nrhpcontributing = true -%}
+  {%- assign district = '' -%}
+  {%- for list in page.lists -%}
+    {%- if list contains 'Historic District' -%}
+      {%- assign district = list -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- comment -%} Address: street from the address string, town split into city and state {%- endcomment -%}
+{%- assign street = page.address | default: '' | split: ',' | first | default: '' | strip -%}
+{%- assign town = page.town | first | default: '' -%}
+{%- assign townparts = town | split: ', ' -%}
+{%- assign locality = '' -%}
+{%- assign region = town -%}
+{%- if townparts.size == 2 -%}
+  {%- assign locality = townparts[0] -%}
+  {%- assign region = townparts[1] -%}
+{%- endif -%}
+
+{%- comment -%} Places this building sits inside: historic district, neighborhoods, town {%- endcomment -%}
+{%- capture containedin -%}
+  {%- assign sep = '' -%}
+  {%- if nrhpcontributing -%}
+    {{ sep }}{ "@type": "Place"{% if district != '' %}, "name": {{ district | jsonify }}{% endif %}, "identifier": { "@type": "PropertyValue", "propertyID": "NRHP reference number", "value": {{ nrhpnum | jsonify }} } }
+    {%- assign sep = ', ' -%}
+  {%- endif -%}
+  {%- for neighborhood in page.neighborhoods -%}
+    {%- assign hoodslug = neighborhood | replace: '.', '' | slugify -%}
+    {{ sep }}{ "@type": "Place", "name": {{ neighborhood | jsonify }}, "url": {{ site.prod_url | append: '/neighborhood/' | append: hoodslug | append: '/' | jsonify }} }
+    {%- assign sep = ', ' -%}
+  {%- endfor -%}
+  {%- for t in page.town -%}
+    {%- assign townslug = t | replace: '.', '' | slugify -%}
+    {{ sep }}{ "@type": "{% if t contains ', ' %}City{% else %}Place{% endif %}", "name": {{ t | jsonify }}, "url": {{ site.prod_url | append: '/town/' | append: townslug | append: '/' | jsonify }} }
+    {%- assign sep = ', ' -%}
+  {%- endfor -%}
+{%- endcapture -%}
+
+{%- comment -%} Facts with no native schema.org property, as name/value pairs {%- endcomment -%}
+{%- capture facts -%}
+  {%- assign sep = '' -%}
+  {%- if status != '' -%}
+    {{ sep }}{ "@type": "PropertyValue", "name": "Status", "value": {{ status | jsonify }} }
+    {%- assign sep = ', ' -%}
+  {%- endif -%}
+  {%- if page.built.size > 0 -%}
+    {{ sep }}{ "@type": "PropertyValue", "name": "Built", "value": {{ page.built | jsonify }} }
+    {%- assign sep = ', ' -%}
+  {%- endif -%}
+  {%- if page.decade.size > 0 -%}
+    {{ sep }}{ "@type": "PropertyValue", "name": "Decade built", "value": {{ page.decade | jsonify }} }
+    {%- assign sep = ', ' -%}
+  {%- endif -%}
+  {%- if page.opened.size > 0 -%}
+    {{ sep }}{ "@type": "PropertyValue", "name": "Opened", "value": {{ page.opened | jsonify }} }
+    {%- assign sep = ', ' -%}
+  {%- endif -%}
+  {%- if page.closed.size > 0 -%}
+    {{ sep }}{ "@type": "PropertyValue", "name": "Closed", "value": {{ page.closed | jsonify }} }
+    {%- assign sep = ', ' -%}
+  {%- endif -%}
+  {%- if page.demolition.size > 0 -%}
+    {{ sep }}{ "@type": "PropertyValue", "name": "Demolished", "value": {{ page.demolition | jsonify }} }
+    {%- assign sep = ', ' -%}
+  {%- endif -%}
+  {%- if page.redeveloped.size > 0 -%}
+    {{ sep }}{ "@type": "PropertyValue", "name": "Redeveloped", "value": {{ page.redeveloped | jsonify }} }
+    {%- assign sep = ', ' -%}
+  {%- endif -%}
+  {%- if page.designers.size > 0 -%}
+    {{ sep }}{ "@type": "PropertyValue", "name": "{% if page.designers.size > 1 %}Designers{% else %}Designer{% endif %}", "value": {{ page.designers | join: ', ' | jsonify }} }
+    {%- assign sep = ', ' -%}
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- comment -%} Images: first 10, with caption and dimensions from "sizes" {%- endcomment -%}
+{%- capture images -%}
+  {%- assign sep = '' -%}
+  {%- for image in page.images limit: 10 -%}
+    {{ sep }}{ "@type": "ImageObject", "contentUrl": {{ imgbase | append: image.url | jsonify }}
+    {%- if image.caption.size > 0 %}, "caption": {{ image.caption | strip_html | normalize_whitespace | jsonify }}{% endif %}
+    {%- if image.sizes -%}
+      {%- assign dims = image.sizes | split: ',' -%}
+      {%- if dims.size == 2 %}, "width": {{ dims[0] | strip | plus: 0 }}, "height": {{ dims[1] | strip | plus: 0 }}{% endif -%}
+    {%- endif %} }
+    {%- assign sep = ', ' -%}
+  {%- endfor -%}
+{%- endcapture -%}
+
+{%- comment -%} Primary image, same choice as head.html: thumbnail, else first image {%- endcomment -%}
+{%- assign primaryimage = page.thumbnail | default: page.images.first.url -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": {{ placetype | jsonify }},
+      "@id": {{ placeid | jsonify }},
+      "name": {{ page.title | jsonify }}
+      {%- if page.aka.size > 0 %},
+      "alternateName": {{ page.aka | jsonify }}
+      {%- endif %},
+      "description": {{ description | jsonify }},
+      "url": {{ pageurl | jsonify }}
+      {%- if page.address.size > 0 or town != '' %},
+      "address": {
+        "@type": "PostalAddress"
+        {%- if street != '' %}, "streetAddress": {{ street | jsonify }}{% endif %}
+        {%- if locality != '' %}, "addressLocality": {{ locality | jsonify }}{% endif %}
+        {%- if region != '' %}, "addressRegion": {{ region | jsonify }}{% endif %},
+        "addressCountry": "US"
+      }
+      {%- endif %}
+      {%- if page.latitude.size > 0 and page.longitude.size > 0 %},
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": {{ page.latitude | strip }},
+        "longitude": {{ page.longitude | strip }}
+      }
+      {%- endif %}
+      {%- if nrhpindividual %},
+      "identifier": { "@type": "PropertyValue", "propertyID": "NRHP reference number", "value": {{ nrhpnum | jsonify }} },
+      "sameAs": [ {{ 'https://npgallery.nps.gov/AssetDetail/NRIS/' | append: nrhpnum | jsonify }} ]
+      {%- endif %}
+      {%- if containedin != '' %},
+      "containedInPlace": [ {{ containedin }} ]
+      {%- endif %}
+      {%- if facts != '' %},
+      "additionalProperty": [ {{ facts }} ]
+      {%- endif %}
+      {%- if images != '' %},
+      "image": [ {{ images }} ]
+      {%- endif %}
+    },
+    {
+      "@type": "WebPage",
+      "@id": {{ pageurl | jsonify }},
+      "url": {{ pageurl | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ description | jsonify }},
+      "inLanguage": "en-US",
+      "about": { "@id": {{ placeid | jsonify }} },
+      "isPartOf": { "@type": "WebSite", "@id": {{ site.prod_url | append: '/#website' | jsonify }}, "name": {{ site.title | jsonify }}, "url": {{ site.prod_url | append: '/' | jsonify }} },
+      "author": { "@type": "Person", "@id": {{ site.prod_url | append: '/about/#j-hogue' | jsonify }}, "name": "J. Hogue", "url": {{ site.prod_url | append: '/about/' | jsonify }} }
+      {%- if page.date-added.size > 0 %},
+      "datePublished": {{ page.date-added | jsonify }}
+      {%- endif %}
+      {%- if page.date-modified %},
+      "dateModified": {{ page.date-modified | date: '%Y-%m-%d' | jsonify }}
+      {%- endif %}
+      {%- if primaryimage.size > 0 %},
+      "primaryImageOfPage": { "@type": "ImageObject", "contentUrl": {{ imgbase | append: primaryimage | jsonify }} }
+      {%- endif %}
+      {%- if page.tags.size > 0 %},
+      "keywords": {{ page.tags | join: ', ' | jsonify }}
+      {%- endif %}
+    }
+  ]
+}
+</script>
