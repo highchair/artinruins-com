@@ -2,7 +2,8 @@
 title: "Rialto Theatre"
 slug: rialto-theatre
 aka: 'Westminster Congregational Unitarian Church'
-date-modified: 2021-02-08 12:00
+date-modified: 2026-10-15 12:00
+update: 'Heard from PPS that this building is actively being demolished right now by Paolino Properties'
 
 built: '1829, 1902, 1950s'
 demolition: 
@@ -10,7 +11,7 @@ redeveloped:
 units:
 decade: '1900-1909'
 date-added: '2007'
-categories: [ '#UrbanDecay' ]
+categories: [ '#DemolitionAlert' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son', 'James C. Bucklin', 'Russell Warren' ]
