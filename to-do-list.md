@@ -6,7 +6,7 @@ title: "Things we could use help with"
 meta-title: "Research & Photographs To Do List | ArtInRuins"
 body-class:
 sitemap:
-  lastmod: 2023-09-01
+  lastmod: 2026-10-01
   priority: 0.5
   changefreq: 'monthly'
 ---
@@ -28,7 +28,7 @@ A fire gutted the building in August, 2023, and it was demolished as a total los
 
 ### Brown University‘s BioMed Building expansion in 2002
 
-[The expansion of this building]({% link _property/brown-life-sciences.md %}) in 2003 razed some buildings around it that we missed because it was only a year after we started. One was a former post office, which would be interesting to uncover if possible.
+[The expansion of this building]({% link _property/brown-life-sciences.md %}) in 2003 razed some buildings around it that we missed because it was only a year after we started. One was a former post office, which would be interesting to uncover if possible. The other we have since found photos of, the [Mary H. Parsons House, aka Sarah Doyle Women’s Center]({% link _property/mary-h-parsons-house.md %}).
 
 
 ### David Brussat’s list of the 10 Best Lost buildings in Providence (from 2014)

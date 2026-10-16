@@ -3,6 +3,11 @@ Changelog
 
 Tracking design (theme) changes, not content changes
 
+## 2026-10-15
+
+Added
++ Added schema JSON-LD to the head of the site, which should increase accuracy in citations from LLMs.
+
 ## 2025-12-20
 
 Added

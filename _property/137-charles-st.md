@@ -2,7 +2,7 @@
 title: "Hope Cycle & Auto Supply"
 slug: 137-charles-st
 aka: 
-date-modified: 2021-12-03-17:00
+date-modified: 2021-12-03 17:00
 update: 'Added an anecdote from Vernon Samoorian and a few details from the obituary of Harry Samoorian, Jr.'
 
 built: 'between 1900 and 1920'
