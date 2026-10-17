@@ -11,7 +11,7 @@
     border: 1.5px solid palette('brand-red') !important;
   }
 
-  .l--property-item & {
+  .l--property-item & > div {
     margin-top: $vertical-rhythm;
     padding: $vertical-rhythm ($gutter-min * 1rem);
 
