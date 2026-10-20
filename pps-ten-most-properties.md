@@ -79,7 +79,7 @@ Properties attached to the list 'PPS Ten Most Endangered'
 
 + Axelrod Music Neon Sign, 251 Weybosset Street, Downtown (c. 1950s)
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Broad Street Synagogue]({% link _property/temple-beth-el.md %}), aka Temple Beth El, 688 Broad Street, Elmwood (1910)
-+ Citizens Bank and adjacent parcels, 870 Westminster Street, West End (1921)
++ [Citizens Bank and adjacent parcels]({% link _property/citizens-bank-hoyle-square.md %}), 870 Westminster Street, West End (1921)
 + <span class="u__text__sans--bold u__color__violator">#UsedToBeThere</span> [Commercial Building]({% link _property/m-n-cartier.md %}) (M.N. Cartier & Sons), 1107 Westminster Street, West End (c. 1890s)
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Crook Point Bascule Bridge]({% link _property/crook-point-bascule.md %}), spanning Seekonk River (c. 1908)
 + I-195 Redevelopment District Parcels 42 and P4, between Dyer Street and Providence River, Downtown
