@@ -2,9 +2,9 @@
 title: "Hudson Furs"
 slug: hudson-furs
 aka: 'Second Universalist Church, Church of the Mediator, Church of the Seventh Day Adventists'
-date-modified: 2025-08-22 12:00
-update:
-update-image:
+date-modified: 2026-10-19 12:00
+update: 'Added an aerial photo taken between 1921 and 1938 showing the Church with spires'
+update-image: church-mediator-ppl-undated-aerial.jpg
 prop-number: 436
 
 built: '1869'
@@ -41,6 +41,9 @@ images:
     caption: 'Fiftieth Anniversary, Church of the Mediator, booklet cover, 1899 — Harvard Library Collection. Thanks to Kerry Hopkins for the source material URL.'
     alt: 'A low and wide red brick building with thick walls, no intact openings for windows, and a central double-wide entrance on the southern side. The roof is flat but the facade and bricked in window details make it obvious that it used to be a church.'
     sizes: '860, 1024'
+  - url: church-mediator-ppl-undated-aerial.jpg
+    caption: 'Top left corner is the Church of the Mediator with spires, located south (above) the large Loutit Laundry facility. In the bottom right is Citizens Bank, built 1921. Providence Public Library aerial of Holye Square — undated, between 1921 and 1938 (after the bank was built, before the spire was blown damaged)'
+    sizes: '1510, 1208'
   - url: church-mediator-news-clippings.jpg
     caption: 'News clipping provided by Michael Laferriere and Beth Feltus (via Facebook)'
     sizes: '860, 600'
@@ -57,7 +60,7 @@ images:
     sizes: '1440, 900'
   - url: 1899-sanborn-vol1-p46-01.jpg
     sizes: '1440, 900'
-    caption: '1899 Sanborn Insurance Map, Volume 1, Plate 46 — Library of COngress, Maps Division'
+    caption: '1899 Sanborn Insurance Map, Volume 1, Plate 46 — Library of Congress, Maps Division'
 
 mostrecentimage: 2024-10-01
 
@@ -183,4 +186,4 @@ Lanoue is serving an 8-year term at the Adult Correctional Institutions for a Jo
 
 MacAskill recently was released on parole after serving time for a separate robbery.
 
-— HULICK, DOANE. “Last two defendants in Bonded Vault heist have charges dropped.” <em>Providence Journal (RI)</em>, CITY ed., sec. NEWS, 8 Nov. 1985, pp. A-03. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525BEAE532DF920. Accessed 23 Aug. 2025.
+— HULICK, DOANE. “Last two defendants in Bonded Vault heist have charges dropped.” <em>Providence Journal (RI)</em>, CITY ed., sec. NEWS, 8 Nov. 1985, pp. A-03. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/. Accessed 23 Aug. 2025.
