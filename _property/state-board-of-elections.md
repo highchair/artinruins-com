@@ -3,8 +3,8 @@ title: "State Board of Elections"
 slug: state-board-of-elections
 aka: 'The White Motor Company'
 date-modified: 2026-10-07 12:00
-update: 'Demolition of the rear portion and smokestack is complete while debris clean up continues'
-update-image: state-boe-jh-2026-09-03.jpg
+update: 'Demolition of the rear portion and smokestack is complete and now pilings for the new storage facility are being driven.'
+update-image: state-boe-jh-2026-10-03.jpg
 prop-number: 447
 
 built: '1928'
@@ -72,6 +72,16 @@ images:
   - url: 50-Branch-plan-2023-02-21.jpg
     caption: 'The submitted plans were to build a storage facility around the stretfront portion of the original building and use if as the front office. The smokestack was preserved in these plans, but it was torn down in real life.'
     sizes: '1440, 900'
+  - url: state-boe-jh-2026-10-01.jpg
+    sizes: '1440, 900'
+  - url: state-boe-jh-2026-10-02.jpg
+    sizes: '1200, 900'
+  - url: state-boe-jh-2026-10-03.jpg
+    sizes: '1200, 900'
+  - url: state-boe-jh-2026-10-04.jpg
+    sizes: '1200, 900'
+  - url: state-boe-jh-2026-10-05.jpg
+    sizes: '1440, 900'
   - url: 1951-sanborn-vol2-p77-all-three.jpg
     caption: 'Three buildings along Branch Avanue, from left to right: State Board of Elections, Autocar and Studebaker Trucks, and Washington Laundry. The concrete State Board of Elections building is labeled “Fire-proof constr‘n – 1928.” 1920–1951 Sanborn Insurance Map, volume 2, plate 77 — Library of Congress, Maps Division'
     sizes: '1440, 900'
@@ -91,7 +101,7 @@ Previous to this building’s construction in 1928, the land was occupied by a f
 
 [^1]: Providence Journal, 25 May 1941, p. 86. NewsBank: America’s News – Historical and Current, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A14728889532D3B69%2540EANX-163D8F0776E64FF4%25402430140-163C3784C41BEB2E%254085-163C3784C41BEB2E%2540. Accessed 2 Jan. 2026.
 
-It is apparent through later articles that the existing building was originally constructed as a showroom for The White Motor Company. It makes sense, architecturally, as the building is very similar in layout and construction to the neighboring [Autocar and Studebaker Trucks]({% link _property/autocar-studebaker-trucks.md %}) facility. Both have street-facing showroom entrance buildings, with a lower portion built into the hill behind them.
+It is apparent through later articles that the existing building was originally constructed as a showroom for **The White Motor Company**. It makes sense, architecturally, as the building is very similar in layout and construction to the neighboring [Autocar and Studebaker Trucks]({% link _property/autocar-studebaker-trucks.md %}) facility. Both have street-facing showroom entrance buildings, with a lower warehouse portion built into the hill behind them.
 
 The first mention of “50 Branch Avenue” in relation to the State Board of Elections comes in the October 26, 1942 Providence Evening Bulletin.[^2] Later, in the February 19, 1943 edition, a story about the purchase of the building reads:
 
@@ -119,6 +129,8 @@ The plans were preliminarily approved by the City Plan Commission, and shortly a
 #### Architecture
 
 The building’s facade along Branch Avenue is asymmetrical in plan with a group of two windows, a door, and two windows on the eastern side of the elevation and another single door entrance, a former garage door entrance, a small window, and a larger commercial plate glass window on the western side. Red brick is used throughout with rectangular openings and a flat parapet roofline that steps up slightly around the garage door opening.
+
+The red brick walls feature bands of alternating horizontal and then vertical groups of three bricks each, making a rhythm of brick that encompasses the perimeter of the roofline below the flat cornice.
 
 Most windows have been completely bricked up. Where newer windows have been added, they are roughly half the size of the opening. The effect makes the building seem drab, cold, and foreboding, like it is hiding secrets. If the window openings were restored, the building would instantly look like a classic 1920s commercial storefront.
 
