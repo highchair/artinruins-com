@@ -97,10 +97,28 @@ images:
     sizes: '1200, 900'
   - url: rialto-theatre-jh-2026-10-14.jpg
     sizes: '1440, 900'
+  - url: 1875-gmhopkins-ward4-plA.jpg
+    caption: '1875 G.M. Hopkins Insurance Map, Plate A — Providence Pulbic Library Digital Collections'
+    sizes: '1440, 900'
+  - url: 1889-sanborn-vol1-pl-1a2ab.jpg
+    caption: '1889 Sanborn Insurance Map, Volume 1, Plates 1A, 2A, and 2B combined — Library of Congress, Maps Division'
+    sizes: '1440, 900'
+  - url: 1899-sanborn-vol1-pl5.jpg
+    caption: '1899 Sanborn Insurance Map, Volume 1, Plate 5 — Library of Congress, Maps Division'
+    sizes: '1440, 900'
+  - url: 1908-lj-richards-pl1.jpg
+    caption: '1908 L.J. Richards Insurance Map, Plate 1 — Private Collection'
+    sizes: '1440, 900'
+  - url: 1920-sanborn-vol1-pl5.jpg
+    caption: '1920 Sanborn Insurance Map, Volume 1, Plate 5 — Library of Congress, Maps Division'
+    sizes: '1440, 900'
+  - url: 1951-sanborn-vol1-pl5.jpg
+    caption: '1920–1951 Sanborn Insurance Map, Volume 1, Plate 5 — Library of Congress, Maps Division'
+    sizes: '1440, 900'
 
 mostrecentimage: 2026-10-01
 
-imagescredit: 'Contributions from the Library of Congress <a href="https://www.loc.gov/item/ri0346/">HABS RI-290</a>; and Rhode Island Photo Collection, Providence Public Library'
+imagescredit: 'Contributions from the Library of Congress <a href="https://www.loc.gov/item/ri0346/">HABS RI-290</a>and the Maps Division; and the Providence Public Library, 1875 Atlas Collection and the Rhode Island Photo Collection'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -119,7 +137,7 @@ The street-front first-story has been three commercial storefronts since the 195
 
 ### Current Events
 
-In 2026, Paolino Properties applied for an emergency demolition permit.
+In 2026, Paolino Properties applied for an emergency demolition permit. The [Providence Preservation Society has been covering these proceedings well](https://ppsri.org/rialto-theatre-to-be-demolished-owner-paolino-foreshadows-parking/) for those interested in the hasty process this demolition review went through.
 
 
 ### History
@@ -151,3 +169,12 @@ Downtown Providence and many other cities and towns were flooded with theatres a
 Allen died in 1915. A Providence Journal article from March 1 reported that James Bartley of Seekonk had purchased the then-dormant theatre and was to spend $50,000 to remodel the place, which had been closed and on the market for some time. The changes would include a new pitched floor, an enlarged balcony, a new lobby of 20x40 feet and a new frontage of brick with limestone trim. The interior would be finished in stucco and marble as would the new lobby. The theatre would not have a stage but would be used exclusively for movies. The reconstruction work was being done by the construction firm of Timothy Coffey of East Providence. In September, 1919 the theatre was reborn as the **Rialto Theatre**. According to the Providence Journal Almanac from 1935, the seating capacity of the Rialto was 1448. On the façade along the top, one can make out the outline caused by removed lettering. It is very faint, but it does say Rialto Theatre. The Rialto remained in business until 1936, when most of the building was torn down and the remaining front part was converted to shops and offices.
 
 An editorial by David Brussat in the Providence Journal of March 17, 1994 suggested the site of the former Rialto Theatre as the place to put a movie theatre in the then cinema-less downtown. One suggestion was for a multiplex at the site; another was for a single-screen “blockbuster house.” At the time plans were already underway to bring movie theatres to the proposed new mall at Providence Place, and this Rialto-revived facility never materialized.
+
+#### Maps
+
++ [1875 G.M. Hopkins Map, Ward 4 Plate A](https://provlibdigital.org/islandora/object/002-06atlas1875v305) — The building appears as Westminster Congregational Church. The cross-hatching pattern notes a stone structure. The structure is not detailed, but one can tell there is a street-front setback. Notice that across Mathewson St, the Mathewson Street Church has a stand alone, stone building as well. Providence Public Library Digital Collections.
++ [1889 Sanborn Insurance Map, Volume 1, Plates 1A, 2A, and 2B combined](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901) (pages 4, 6, & 7) — The building appears in greater detail with seven columns along the front portico and labelled “Unitarian Church.” “35 to the eaves” is noted as ceiling height. Comfort Street is the alley to the north (left), with Moulton Street to the west, and Mathewson along the east. The Providence Public Library’s first location is to the west between Moulton and Snow streets. Library of Congress, Maps Division.
++ [1899 Sanborn Insurance Map, Volume 1, Plate 5](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099189901) (page 12) — Ten years later, the building is now labelled “Westminster Congregational Church (Unitarian).” The portico is noted but the columns are not in the drawing. To the east, the Mathewson Street Church has a new building that shares party walls with the buildings surrounding it. Library of Congress, Maps Division.
++ 1908 L.J. Richards Insurance Map, Plate 1 — The building’s footprint remains the same but it is now labelled “Allen Opera House.” Comfort Street has been renamed “Bewett Street.” Private collection.
++ [1920-1921 Sanborn Insurance Map, Volume 1, Plate 5](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (page 14) — The building is now labelled the “Rialto Theatre - Moving Pictures - Seating capacity 1500.” There is a central entrance along Mathewson with two 2-story rooms to either side. Library of Congress, Maps Division.
++ [1920-1951 Sanborn Insurance Map, Volume 1, Plate 5](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101) (page 16) — By 1951, the building has been halved and the interior of the first floor seems to have been cut up into four unequal rectangles labelled “S” for store. “Hall 2nd” is noted, which we take to mean that the entire second floor is one unbroken space. Bewett Street is now “Maiden Lane.” Library of Congress, Maps Division.
