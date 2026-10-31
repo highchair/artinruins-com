@@ -1,6 +1,16 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: alexander-f-adie-house
+  person: 'Richard G Forcino'
+  date: '2026-10-30'
+  content: 'We were told for many years this property, ran as The Bella Napoli Hotel, was run by my maternal grandfather, Albert Peters Sr. We would like to see city records of the property to show if he owned the property or just managed the hotel.'
+
+- property: 189-broadway
+  person: 'Anne Holland'
+  date: '2026-10-29'
+  content: 'Gather RI was renamed prior to opening, due to concerns about confusions with other neighborhood businesses also named “Gather”. It is now named The Alcove. Photos of the interior, including the public portrait gallery and biographical library, were featured in <a href="https://www.alcoveri.org/news/making-space-at-the-alcove-in-providence">the April 2026 Rhode Island Monthly magazine</a>.'
+
 - property: american-emery-wheel-works
   person: 'Elizabeth Griffith'
   date: '2026-10-21'
