@@ -48,6 +48,7 @@ collections:
   property:
     output: true
     permalink: /property/:name/
+    sort_by: title
   then-now:
     output: true
     permalink: /then-and-now/:name/

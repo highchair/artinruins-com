@@ -5,28 +5,9 @@ layout: default
 {%- assign anecdotes = anecdotes | orderby: "date" -%}
 {%- assign mentions = site.data.mentions | where: 'property', page.slug -%}
 {%- assign datemodified = page.date-modified -%}
-{%- comment -%} Store the index of this property out of ALL properties {%- endcomment -%}
-{%- assign properties = site.property | sort: "title" -%}
-{%- for property in properties -%}
-  {% if property.title == page.title %}
-    {% assign item_index = forloop.index %}
-    {% break %}
-  {% endif %}
-{%- endfor -%}
-{%- if item_index -%}
-  {% assign prev_index = item_index | minus: 1 %}
-  {% assign next_index = item_index | plus: 1 %}
-  {% comment %} Loop again, this time, find the items with the prev and next indices {% endcomment %}
-  {% comment %} Can this be done with assign prev = property[prev_index] ?? {% endcomment %}
-  {% for property in properties %}
-    {% if forloop.index == prev_index %}
-      {%- assign prev = property %}
-    {% endif %}
-    {% if forloop.index == next_index %}
-      {% assign next = property %}
-    {% endif %}
-  {% endfor %}
-{%- endif -%}
+{%- comment -%} Removed a custom loop in favor of Jekyll’s built in prev/next objects {%- endcomment -%}
+{%- assign prev = page.previous -%}
+{%- assign next = page.next -%}
 
         <nav class="prev-next" aria-label="Property">
           {% if prev %}<a id="gtm-prev-trigger" class="prev-next__prev" href="{{ prev.url }}" title="{{ prev.title }}" rel="prev"><span aria-hidden="true">&lt;</span><span class="prev-next__text">Previous</span><span class="u__sr-only"> property</span></a>{% endif %}
