@@ -15,7 +15,7 @@ date-added: '2023'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [] #Stephen Jenks 
 lists: [ 'Church Hill Industrial District', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places' ]
 tags: [ 'The Superlatives' ]
@@ -55,6 +55,9 @@ images:
   - url: william-haskell-wj-1982-03-04.jpg
     caption: 'Looking north at the 1885 Haskell Manufacturing Company Mill, showing the long, Commerce Street facade. Photo by Warren Jagger for the National Register'
     sizes: '1440, 900'
+  - url: william-haskell-pawtlib-1983-11-01.jpg
+    caption: 'November 1983 — Pawtucket Library Flickr Collection, Planning Dept. Slides'
+    sizes: '1600, 900'
   - url: william-haskell-jh-2008-03-01.jpg
     caption: 'Looking north from Main Street at the two-story concrete 1920s warehouse.'
     sizes: '1440, 900'
@@ -128,7 +131,7 @@ images:
 
 mostrecentimage: 2024-01-01
 
-imagescredit: 'Contributions from the Pawtucket Library on Flickr and Warren Jagger for the National Register nomination form'
+imagescredit: 'Contributions from the Pawtucket Library Flickr Collection and Warren Jagger for the National Register nomination form'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

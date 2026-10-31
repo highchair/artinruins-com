@@ -35,6 +35,9 @@ images:
     alt: 'A five story, flat roofed red brick mill building four bays wide and more than 18 bays deep, ending in a pointy irregular shape if viewed from above.'
     caption: 'Photo by Warren Jagger 1982'
     sizes: '768, 924'
+  - url: parkin-yarn-pawtlib-1983-11-01.jpg
+    caption: 'November 1983 – Pawtucket Library Flickr Collection, Planning Dept. Slides'
+    sizes: '1440, 900'
   - url: parkin-yarn-jh-2003-03-01.jpg
     sizes: '768, 924'
   - url: parkin-yarn-jh-2003-03-02.jpg
@@ -76,7 +79,7 @@ images:
 
 mostrecentimage: 2009-11-01
 
-imagescredit: 'Contribution by Warren Jagger for the National Register nomination form, Church Hill Industrial District'
+imagescredit: 'Contribution by Warren Jagger for the National Register nomination form, Church Hill Industrial District; and the Pawtucket Library Flickr Collection'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
