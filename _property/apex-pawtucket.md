@@ -6,7 +6,7 @@ date-modified: 2025-03-23 12:00
 update: 'Added photos of the damage to the top of the ziggurat and its recent deconstruction.'
 update-image: apex-jh-2025-03-03.jpg
 
-built: '1969'
+built: '1969–1970'
 demolition:
 redeveloped:
 decade: '1960-1969'
@@ -29,16 +29,28 @@ excerpt: "An iconic department store visible from interstate 95 in Pawtucket wit
 thumbnail: apex-jh-2018-11-01.jpg
 
 images:
-  - url: apex-rendering.jpg
-    caption: 'Original rendering of proposed Apex building by Andrew Geller, provided by Jake Gorst. Notice that the orientation is different, with a front entrance along the water front and additional parking at the back.'
+  - url: apex-pawtlib-rendering.jpg
+    caption: 'Original rendering of proposed Apex building by Andrew Geller. Undated — Pawtucket Library Flickr Collection, Planning Dept. Slides'
     alt: 'A low, single story department store with a mid-sixties style. Projecting entrance pavollions are flanked by four-sided columns that are fat at the bottom and taper up in the form of an elongated pyramid. The roof is topped with a six-stepped ziggurat pyramid capped with neon letters spelling the name of the store, Apex.'
     sizes: '720, 547'
   #- url: apex-pj-1969-01.jpg
   #  caption: 'From the Providence Journal, captioned: “In 1969, The Apex store’s distinctive pyramidal roof starts to take shape in downtown Pawtucket around 1969 as part of the Slater Renewal Project.” The steel supports for the roof decoration are part of the structure of the building, even though the ziggurat is open to the elements and has a flat rubber roof underneath it.'
   #- url: apex-pj-1970-01.jpg
   #  caption: 'Providence Journal, circa 1970'
+  - url: apex-pawtlib-undated-01.jpg
+    caption: 'Undated, but clearly during construction, likely 1968 — Pawtucket Library Flickr Collection, Planning Dept. Slides'
+    sizes: '1600, 900'
+  - url: apex-pawtlib-1970-10-01.jpg
+    caption: 'September 1970 — Pawtucket Library Flickr Collection, Planning Dept. Slides'
+    sizes: '1600, 900'
+  - url: apex-pawtlib-1970-10-02.jpg
+    caption: 'October 1970 — Pawtucket Library Flickr Collection, Planning Dept. Slides'
+    sizes: '1600, 900'
+  - url: apex-pawtlib-1970-10-03.jpg
+    caption: 'December 1971 — Pawtucket Library Flickr Collection, Planning Dept. Slides'
+    sizes: '1200, 900'
   - url: apex-exterior-undated-newport-creamery.jpg
-    caption: 'Undated photo of the exterior with Newport Creamery signage'
+    caption: 'October 1970 — Pawtucket Library Flickr Collection, Planning Dept. Slides'
     sizes: '1891, 924'
   - url: apex-jh-2003-11-01.jpg
     sizes: '1440, 900'
@@ -106,14 +118,12 @@ images:
 
 mostrecentimage: 2018-11-01
 
-imagescredit: 'Contributions by Jake Gorst, C.F., the Providence Historical Aerial Viewer, and Google Maps'
+imagescredit: 'Contributions by Pawtucket Library Flickr Collection, the Providence Historical Aerial Viewer, and Google Maps'
 
 external:
   - source: 'ThrowBackThursday: Celebrating Pawtucket, Providence Journal'
     url: https://perma.cc/D2JV-Y8YE
-  - source: 'Billy Turbitt Facebook page share, original source Providence Journal'
-    url: 'https://www.facebook.com/photo?fbid=3614448851922515&set=gm.3408004512591193
-    https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/119973316_3614448855255848_6138480143601186102_n.jpg?_nc_cat=100&_nc_sid=ca434c&_nc_ohc=BDo4idu6TBEAX8FHUTE&_nc_ht=scontent-bos3-1.xx&oh=640564ca2d779d34c835875340d7fe4d&oe=5F92A85B&dl=1'
+
 ---
 
 ### Most Recent Events
