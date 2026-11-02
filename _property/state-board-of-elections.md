@@ -13,7 +13,7 @@ redeveloped:
 units:
 decade: '1920-1929'
 date-added: '2026' #January
-categories: [ '#DemolitionAlert' ]
+categories: [ '#DemolitionAlert', '#UsedToBeThere', '#NotInRuins' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: []

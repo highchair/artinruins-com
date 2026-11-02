@@ -19,8 +19,8 @@ people: []
 lists: []
 tags: []
 
-NRHP-ref-number:
-added-to-NRHP:
+NRHP-ref-number: '74000047 (contributing)'
+added-to-NRHP: 'May 1, 1974'
 
 address: '135 Broadway, Providence RI'
 latitude: '41.8218212'

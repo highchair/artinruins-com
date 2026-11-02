@@ -18,7 +18,7 @@ neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
 designers: [] # Kent, Cruise and Partners
 people: []
-lists: []
+lists: [ 'PPS Ten Most Endangered' ]
 tags: [ 'Former/Current Schools', 'Mid-century Modern' ]
 
 NRHP-ref-number:
@@ -39,6 +39,7 @@ thumbnail: asa-messer-jh-2025-09-02.jpg
 images:
   - url: asa-messer-jh-2025-09-01.jpg
     sizes: '1200, 900'
+    alt: 'A wide, low flat roof set of structures built into a hill as Westminster street descends into Olneyville Square. The exterior is mainly brown brick with sections of plastered cement in light tan. The eastern side of the building has more of a Frank-Lloyd-Wright-esque Prairie style with alternating masses and windows arranged in a rotated L-pattern. The style may be considered as heavily-influenced by mid-century modern but done on a city school system budget.'
   - url: asa-messer-jh-2025-09-02.jpg
     sizes: '1440, 900'
   - url: asa-messer-jh-2025-09-03.jpg
@@ -92,7 +93,7 @@ The eastern side of the building has more of a Frank-Lloyd-Wright-esque Prairie 
 
 ### Current Events
 
-Asbestos abatement has begun at the site in the summer of 2025. For more on the plan to replace the school, refer to the [Providence School’s “Rebuild” page for the Asa Messer school](https://rebuildpvdschools.providenceschools.org/projects/upcoming-construction/asa-messer-west-broadway-pk-8-school).
+Asbestos abatement began at the site in the summer of 2025 and demolition followed soon after. A new building is under construction. As of October 2026, the structural steel is in place.
 
 
 ### History

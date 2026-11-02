@@ -1,7 +1,7 @@
 ---
 title: "Broadway, #189"
 slug: 189-broadway
-aka: 'Tally’s Religious Gifts and Church Supplies, Gather RI'
+aka: 'Tally’s Religious Gifts and Church Supplies, The Alcove'
 date-modified: 2025-07-03 12:00
 update: 'Added a recent photo of the construction progress'
 update-image: 189-broadway-jh-2025-07-01.jpg
@@ -81,7 +81,7 @@ In mid 2023, plans appeared before the Providence Historic District Commission (
 
 ### Current Events
 
-Work began in late 2024 on the building improvements. The approximately $3.5M project will be the new home for [Gather RI](https://gatherri.org/), a new community non-profit “for women and gender expansive people.” The new organization has attracted major gifts from significant donors and will continue fundraising beyond opening in mid-2025.
+Work began in late 2024 on the building improvements. The approximately $3.5M project will be the new home for [The Alcove](https://www.alcoveri.org/), a new community non-profit “for women and gender expansive people.” The new organization has attracted major gifts from significant donors and will continue fundraising beyond opening in mid-2025.
 
 Planned programs include a role model portrait gallery, biographical library, speaker series, and safe, accessible gathering spaces for people to convene with peers and mentors.
 

@@ -219,7 +219,7 @@ This formidable trapezoidal structure did not last long, however. Within three d
 
 [^14]: “1828: High Street Bank.”
 
-The bank wanted the corner’s name, too. In 1921 it asked the city to rename Hoyle Square “Citizens Square,” but the City Council denied the request.[^15] Note that the former name was Hoyle Square, which we presume was already a recent renaming from Burgess Square as documented in [the 1899 and 1921 maps](#photo-1899-sanborn-vol1-p46-01).
+The bank wanted the corner’s name, too. In 1921 it asked the city to rename Hoyle Square “Citizens Square,” but the City Council denied the request.[^15] Note that the former name was Hoyle Square, which we presume was already a recent renaming from Burgess Square as documented in [the 1899 and 1921 maps](#photo-1899-sanborn-vol1-p46-01). A 1926 G.M. Hopkins Map shows the name “Canonicus Square” and the 1976 <span class="abbr">RIHPHC</span> survey used that name exclusively. Therefore the name lasted about 50 years. At some point, the stone was moved from the North Burial Ground and was placed in the road’s median until the 1990s.
 
 [^15]: Brussat, David. “Canonicus Square betrayed?” Architecture Here and There, March 22, 2020. Accessed 10 October 2026 from https://architecturehereandthere.com/2020/03/22/canonicus-square-betrayed/
 
@@ -230,7 +230,7 @@ The bank wanted the corner’s name, too. In 1921 it asked the city to rename Ho
   <figcaption>Undated (likely 1990s) — PPS Architectural Slides Collection</figcaption>
 </figure>
 
-Mid-century highway construction and urban renewal drastically changed the square and surrounding neighborhood. About a third of the West Side’s population left for the suburbs after the early 1950s. Commercial neighbors were replaced with civic education in the form of Central High School and later, Classical High School. The 1976 survey treated Hoyle Square as a key focal point for the neighborhood and recommended marking the tavern site. The Canonicus Square name was likely applied at this time as the 1976 <span class="abbr">RIHPHC</span> survey used that name exclusively. The name change was marked by a stone in the road’s median which lasted until the 1990s.
+Mid-century highway construction and urban renewal drastically changed the square and surrounding neighborhood. About a third of the West Side’s population left for the suburbs after the early 1950s. Commercial neighbors were replaced with civic education in the form of Central High School and later, Classical High School. The 1976 survey treated Hoyle Square as a key focal point for the neighborhood and recommended marking the tavern site.
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <a href="#photo-canonicus-stone-unknown-1990s">

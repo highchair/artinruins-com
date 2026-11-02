@@ -7,7 +7,7 @@ update: 'The building is now a heap of rubble being cleaned up for a parking lot
 update-image: rialto-theatre-jh-2026-10-12.jpg
 
 built: '1829, 1902, 1950s'
-demolition: 
+demolition: '2026'
 redeveloped: 
 units:
 decade: '1900-1909'

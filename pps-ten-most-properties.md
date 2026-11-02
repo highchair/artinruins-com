@@ -29,17 +29,17 @@ Properties attached to the list 'PPS Ten Most Endangered'
 ### 2024
 
 + Neighborhoods Under Pressure from Student Housing Gentrification // Wanskuck, Elmhurst, Smith Hill, Washington Park, and [College Hill]({% link _essays/erosion-of-college-hill-historic-district.md %}).
-+ Providence Public School Buildings, as represented by Asa Messer Elementary School and [Mount Pleasant High School]({% link _property/mt-pleasant-high-school.md %}) // Citywide, 1655 Westminster Street and 434 Mount Pleasant Avenue.
++ Providence Public School Buildings, as represented by <span class="u__text__sans--bold u__color__secondary">#UsedToBeThere</span> [Asa Messer Elementary School]({% link _property/asa-messer-elementary.md %}) and [Mount Pleasant High School]({% link _property/mt-pleasant-high-school.md %}) // Citywide, 1655 Westminster Street and 434 Mount Pleasant Avenue.
 + Grace Church Cemetery (1834, 1843, c. 1860) // 10 Elmwood Avenue.
 + Sacred Places, as represented by the Sons of Jacob Synagogue, [Broad Street Synagogue]({% link _property/temple-beth-el.md %}) (aka Temple Beth El), and Cathedral of St. John // Citywide, 24 Douglas Avenue, 688 Broad Street, and 276 North Main Street.
-+ South Providence Waterfront and [Providence Gas Co. Purifier Building]({% link _property/providence-gas-purifier-house.md %}) // 200 Allens Avenue and South Providence Waterfront.
++ South Providence Waterfront and <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span>[Providence Gas Co. Purifier Building]({% link _property/providence-gas-purifier-house.md %}) // 200 Allens Avenue and South Providence Waterfront.
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Cranston Street Armory]({% link _property/providence-armory.md %}) (1907) // 340 Cranston Street, West End.
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Atlantic Mills Complex]({% link _property/atlantic-mills.md %}) (1863, 1882) // 100 Manton Avenue, Olneyville.
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}) (aka Superman Building) (1928) // 111 Westminster Street, Downtown.
 
 ### 2023
 
-+ Asa Messer Elementary School, 158 Messer Street, West End (ca. 1890)
++ <span class="u__text__sans--bold u__color__secondary">#UsedToBeThere</span> [Asa Messer Elementary School]({% link _property/asa-messer-elementary.md %}), 158 Messer Street, West End (ca. 1890)
 + <span class="u__text__sans--bold u__color__secondary">#NotInRuins</span> [Industrial Trust Building]({% link _property/industrial-trust-superman-bldg.md %}) (aka Superman Building) (1928) 
 + <span class="u__text__sans--bold u__color__primary">#UrbanDecay</span> [Humboldt Fire Station]({% link _property/humboldt-fire-station.md %}), 155 Humboldt Avenue, Wayland (1906)
 + Providence Infrastructure, Citywide (various)
