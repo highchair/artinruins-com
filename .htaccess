@@ -1,4 +1,5 @@
 RewriteEngine on
+Options -Indexes
 
 # Enforce non-www URLs
 RewriteCond %{HTTP_HOST} ^www\.artinruins\.com [NC]
@@ -6,26 +7,11 @@ RewriteRule ^(.*)$ https://artinruins.com/$1 [L,R=301]
 
 # Enforce HTTPS
 RewriteCond %{HTTP_HOST} artinruins\.com [NC]
-RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://artinruins.com/$1 [R,L]
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://artinruins.com/$1 [R=301,L]
 
 # Custom 404
 ErrorDocument 404 /404.html
-
-RewriteCond %{HTTP_REFERER} !^$
-RewriteCond %{HTTP_REFERER} !^https://artinruins.com/.*$      [NC]
-RewriteCond %{HTTP_REFERER} !^https://artinruins.com$      [NC]
-#RewriteCond %{HTTP_REFERER} !^http://community.artinruins.com/.*$      [NC]
-#RewriteCond %{HTTP_REFERER} !^http://community.artinruins.com$      [NC]
-#RewriteCond %{HTTP_REFERER} !^http://defunctnewengland.artinruins.com/.*$      [NC]
-#RewriteCond %{HTTP_REFERER} !^http://defunctnewengland.artinruins.com$      [NC]
-#RewriteCond %{HTTP_REFERER} !^http://jenraimondi.artinruins.com/.*$      [NC]
-#RewriteCond %{HTTP_REFERER} !^http://jenraimondi.artinruins.com$      [NC]
-#RewriteCond %{HTTP_REFERER} !^http://mayyao.artinruins.com/.*$      [NC]
-#RewriteCond %{HTTP_REFERER} !^http://mayyao.artinruins.com$      [NC]
-#RewriteCond %{HTTP_REFERER} !^http://quonsetpoint.artinruins.com/.*$      [NC]
-#RewriteCond %{HTTP_REFERER} !^http://quonsetpoint.artinruins.com$      [NC]
-
 
 # Manual redirects
 # redirect 301 /path/to/old-file.php   http://domain.tld/path/to/new-file.php
@@ -52,10 +38,10 @@ redirect 301 /links/preservation.php           https://artinruins.com/links/
 redirect 301 /links/venues.php                 https://artinruins.com/links/
 
 # Individual redirects from Backlink checkers
-redirect 301 /arch/saved/provworst/*           https://artinruins.com/property/national-providence-worsted/
-redirect 301 /arch/redevelop/mason/*           https://artinruins.com/property/masonic-temple-pvd/
-redirect 301 /arch/stillinuse/unionstation/*   https://artinruins.com/property/union-station/
-redirect 301 /arch/historical/postcards/*      https://artinruins.com/property/postcards-pvd/
+RedirectMatch 301 ^/arch/saved/provworst(/.*)?$              https://artinruins.com/property/national-providence-worsted/
+RedirectMatch 301 ^/arch/redevelop/mason(/.*)?$              https://artinruins.com/property/masonic-temple-pvd/
+RedirectMatch 301 ^/arch/stillinuse/unionstation(/.*)?$      https://artinruins.com/property/union-station/
+RedirectMatch 301 ^/arch/historical/postcards(/.*)?$         https://artinruins.com/property/postcards-pvd/
 
 # Cache rules from https://gist.github.com/esedic/4d1f230e94e3309f36cec3eb1a6bc812
 ## BEGIN EXPIRES CACHING ##
@@ -65,9 +51,6 @@ redirect 301 /arch/historical/postcards/*      https://artinruins.com/property/p
   # Perhaps better to whitelist expires rules? Perhaps.
   ExpiresDefault "access plus 1 year"
 
-  # cache.appcache needs re-requests in FF 3.6 (thanks Remy ~Introducing HTML5)
-  ExpiresByType text/cache-manifest "access plus 0 seconds"
-
   # Your document html
   ExpiresByType text/html "access plus 0 seconds"
 
@@ -75,6 +58,10 @@ redirect 301 /arch/historical/postcards/*      https://artinruins.com/property/p
   ExpiresByType text/xml "access plus 0 seconds"
   ExpiresByType application/xml "access plus 0 seconds"
   ExpiresByType application/json "access plus 0 seconds"
+
+  # Plain text (robots.txt, llms.txt) and web app manifests
+  ExpiresByType text/plain "access plus 1 day"
+  ExpiresByType application/manifest+json "access plus 1 week"
 
   # Feed
   ExpiresByType application/rss+xml "access plus 1 hour"
@@ -98,9 +85,6 @@ redirect 301 /arch/historical/postcards/*      https://artinruins.com/property/p
   ExpiresByType video/mp4 "access plus 1 year"
   ExpiresByType video/webm "access plus 1 year"
 
-  # HTC files (css3pie)
-  ExpiresByType text/x-component "access plus 1 year"
-
   # Webfonts
   ExpiresByType font/ttf "access plus 1 year"
   ExpiresByType font/otf "access plus 1 year"
@@ -120,13 +104,6 @@ redirect 301 /arch/historical/postcards/*      https://artinruins.com/property/p
   ExpiresByType application/javascript "access plus 6 months"
   ExpiresByType application/x-javascript "access plus 6 months"
 
-  <IfModule mod_headers.c>
-    Header append Cache-Control "public"
-    <FilesMatch "\.(js|css|xml|gz|html)$">
-      Header append Vary: Accept-Encoding
-    </FilesMatch>
-  </IfModule>
-
 </IfModule>
 ## END EXPIRES CACHING ##
 
@@ -141,6 +118,9 @@ redirect 301 /arch/historical/postcards/*      https://artinruins.com/property/p
   AddOutputFilterByType DEFLATE image/x-icon
   AddOutputFilterByType DEFLATE image/svg+xml
   AddOutputFilterByType DEFLATE application/rss+xml
+  AddOutputFilterByType DEFLATE application/atom+xml
+  AddOutputFilterByType DEFLATE application/manifest+json
+  AddOutputFilterByType DEFLATE application/ld+json
   AddOutputFilterByType DEFLATE application/javascript
   AddOutputFilterByType DEFLATE application/x-javascript
   AddOutputFilterByType DEFLATE application/xml
@@ -151,34 +131,10 @@ redirect 301 /arch/historical/postcards/*      https://artinruins.com/property/p
   AddOutputFilterByType DEFLATE application/font-ttf
   AddOutputFilterByType DEFLATE application/font-otf
   AddOutputFilterByType DEFLATE application/font-opentype
-  AddOutputFilterByType DEFLATE application/font-woff
-  AddOutputFilterByType DEFLATE application/font-woff2
   AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
   AddOutputFilterByType DEFLATE font/ttf
   AddOutputFilterByType DEFLATE font/otf
   AddOutputFilterByType DEFLATE font/opentype
-  AddOutputFilterByType DEFLATE font/woff
-  AddOutputFilterByType DEFLATE font/woff2
-</IfModule>
-
-# Brotli compression (if available, typically Apache 2.4.26+)
-<IfModule mod_brotli.c>
-  AddOutputFilterByType BROTLI_COMPRESS text/html
-  AddOutputFilterByType BROTLI_COMPRESS text/css
-  AddOutputFilterByType BROTLI_COMPRESS text/javascript
-  AddOutputFilterByType BROTLI_COMPRESS text/xml
-  AddOutputFilterByType BROTLI_COMPRESS text/plain
-  AddOutputFilterByType BROTLI_COMPRESS image/svg+xml
-  AddOutputFilterByType BROTLI_COMPRESS application/javascript
-  AddOutputFilterByType BROTLI_COMPRESS application/x-javascript
-  AddOutputFilterByType BROTLI_COMPRESS application/xml
-  AddOutputFilterByType BROTLI_COMPRESS application/xhtml+xml
-  AddOutputFilterByType BROTLI_COMPRESS application/json
-  AddOutputFilterByType BROTLI_COMPRESS application/rss+xml
-  AddOutputFilterByType BROTLI_COMPRESS application/font-woff
-  AddOutputFilterByType BROTLI_COMPRESS application/font-woff2
-  AddOutputFilterByType BROTLI_COMPRESS font/woff
-  AddOutputFilterByType BROTLI_COMPRESS font/woff2
 </IfModule>
 ## END COMPRESSION ##
 
@@ -193,8 +149,30 @@ redirect 301 /arch/historical/postcards/*      https://artinruins.com/property/p
   # Referrer policy
   Header always set Referrer-Policy "strict-origin-when-cross-origin"
 
+  # Force HTTPS in browsers for 1 year (no includeSubDomains/preload until every subdomain is HTTPS)
+  Header always set Strict-Transport-Security "max-age=31536000"
+
+  # Disable browser features the site does not use
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+
+  # Content Security Policy — REPORT-ONLY: nothing is blocked; violations show in the browser console.
+  # When the console is clean across page types, rename to Content-Security-Policy to enforce.
+  # 'unsafe-inline' covers the inline <script> in _includes/scripts.html + project-category-loop.html and style="" attributes.
+  Header always set Content-Security-Policy-Report-Only "default-src 'self'; script-src 'self' 'unsafe-inline' https://scripts.withcabin.com; style-src 'self' 'unsafe-inline' https://use.typekit.net https://p.typekit.net; font-src 'self' data: https://use.typekit.net; img-src 'self' data: https:; connect-src 'self' https://*.withcabin.com; frame-src https://www.youtube.com https://www.youtube-nocookie.com https://player.simplecast.com https://www.openlinkmap.org https://www.openstreetmap.org; form-action 'self' https://google.com https://www.google.com https://www.paypal.com; frame-ancestors 'self'; base-uri 'self'; object-src 'none'"
+
   # Remove server signature
   Header always unset X-Powered-By
   Header unset X-Powered-By
 </IfModule>
 ## END SECURITY HEADERS ##
+
+## BEGIN ACCESS RULES ##
+# Return 404 for any dotfile/dotfolder (.git, .env, .DS_Store) except /.well-known/ (SSL renewal)
+RedirectMatch 404 /\.(?!well-known/)
+
+# Only the two form scripts may execute; any other EXISTING .php file returns 403.
+# (Checks -f so old .php URLs that don't exist still reach the Redirects above.)
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteCond %{REQUEST_URI} !^/assets/partials/(mailer|anecdote-form)\.php$
+RewriteRule \.php$ - [F,NC]
+## END ACCESS RULES ##

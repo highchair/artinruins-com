@@ -1,15 +1,15 @@
-{% comment %} If cachebusting is needed: ?bust={{ 'now' | date: '%Y%m%d%H%M%S' }} {% endcomment %} 
-    <script defer src="/assets/js/global.js?cb=20251210-2048"></script>
+{% comment %} Cache-buster is set sitewide in _config.yml as cachebust. all-properties.js uses the property count instead, so it busts whenever a property is added or removed. {% endcomment %}
+    <script defer src="/assets/js/global.js?cb={{ site.cachebust }}"></script>
 {%- if page.layout == 'property-item' -%}
-    <script defer src="/assets/js/all-properties.js"></script>
-    <script defer src="/assets/js/property.js"></script>
+    <script defer src="/assets/js/all-properties.js?cb={{ site.property.size }}"></script>
+    <script defer src="/assets/js/property.js?cb={{ site.cachebust }}"></script>
 {%- endif -%}
 {%- if page.layout == 'then-now-item' -%}
-    <script defer src="/assets/js/all-properties.js"></script>
-    <script defer src="/assets/js/thennow.js"></script>
+    <script defer src="/assets/js/all-properties.js?cb={{ site.property.size }}"></script>
+    <script defer src="/assets/js/thennow.js?cb={{ site.cachebust }}"></script>
 {%- endif -%}
 {%- if page.layout == 'essay-item' -%}
-    <script defer src="/assets/js/property.js"></script>
+    <script defer src="/assets/js/property.js?cb={{ site.cachebust }}"></script>
     <script>
       document.addEventListener("DOMContentLoaded", function() {
         const lazyLoadInstance = new LazyLoad({

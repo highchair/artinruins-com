@@ -25,6 +25,11 @@ url: "http://127.0.0.1:4090" # the base hostname & protocol for your site, e.g. 
 prod_url: "https://artinruins.com"
 destination: _site/
 
+# Cache-buster for main.css and the JavaScript includes (head.html, scripts.html).
+# Change this value after editing CSS or JS, then rebuild.
+# Exception: all-properties.js busts automatically when the property count changes (site.property.size).
+cachebust: "20261102-1530"
+
 # Build settings
 markdown: kramdown
 highlighter: rouge

@@ -43,7 +43,7 @@ images:
     caption: 'Rhode Island Photograph Collection, Providence Public Library — Photo of Building 51 shortly after construction, likely 1907. Rooftop lettering reads “American Locomotive Motor Car.”'
     sizes: '1440, 547'
   - url: alco-jh-2006-03-01.jpg
-    caption: 'Building 61 built circa 1885 — The only original Rhode Island Locomotive Works building still standing. At the northeastern edge of the property, Building 61’s address veries from 2 Hemlock Street (Google streetview), 36 Hemlock Street (our 2006 photo shows this on the main door), and 321 Iron Horse Way (present label on the Hemlock side of the building)'
+    caption: 'Building 61 built circa 1885 — The only original Rhode Island Locomotive Works building still standing. At the northeastern edge of the property, Building 61’s address varies from 2 Hemlock Street (Google streetview), 36 Hemlock Street (our 2006 photo shows this on the main door), and 321 Iron Horse Way (present label on the Hemlock side of the building)'
     sizes: '1200, 900'
   - url: alco-jh-2006-03-02.jpg
     caption: 'Building 61 built circa 1885 — Detail of the window framing and corbeled cornice at the roofline'
