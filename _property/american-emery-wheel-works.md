@@ -47,6 +47,14 @@ images:
   - url: american-emery-wheel-pps-1994-01.jpg
     caption: 'The inside of the second floor around the former emery wheel kiln. 1994 — PPS Architectural Slides Collection'
     sizes: '1200, 900'
+  - url: richmond-sq-jh-2018-06-01.jpg
+    sizes: '1440, 900'
+  - url: richmond-sq-jh-2020-11-01.jpg
+    sizes: '1440, 900'
+  - url: richmond-sq-jh-2020-11-02.jpg
+    sizes: '1440, 900'
+  - url: richmond-sq-jh-2020-11-03.jpg
+    sizes: '1440, 900'
   - url: richmond-sq-jh-2026-05-01.jpg
     sizes: '1440, 900'
   - url: richmond-sq-jh-2026-05-02.jpg
@@ -186,7 +194,7 @@ It doesn’t look like much, just at present, but when more than $5 million wort
 
 Designed specifically for high technology firms, the new research and development complex is being created on six and one-half acres of East Side land between the sites of the old and the new “Red” Bridges.
 
-The “park” includes three buildings which are being renovated to accomodate up to 50 small companies — many of them “start-ups.”
+The “park” includes three buildings which are being renovated to accommodate up to 50 small companies — many of them “start-ups.”
 
 The complex is being developed by Harold I. Schein out of property occupied by the former **American Emery Wheel Works**. Schein purchased the multi-building property at Waterman and Pitman Streets for about $800,000 from SGL Industries of New Jersey.
 

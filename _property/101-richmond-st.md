@@ -37,8 +37,22 @@ excerpt: "A former nightclub and commercial building is converted to 6 residence
 thumbnail: morris-clothes-shoppe-jh-2026-06-04.jpg
 
 images:
-  - url: morris-clothes-shoppe-jh-2025-12-01.jpg
+  - url: morris-clothes-shoppe-jh-2020-01-01.jpg
     alt: 'A two-story yellow brick building with chamfered corner at the intersection of Richmond and Friendships streets. The building is square plan, with rectangular window openings and a copper cornice atop the streetfront faces.'
+    sizes: '1200, 900'
+  - url: morris-clothes-shoppe-jh-2020-01-02.jpg
+    sizes: '740, 1036'
+  - url: morris-clothes-shoppe-jh-2020-01-03.jpg
+    sizes: '1200, 900'
+  - url: morris-clothes-shoppe-jh-2020-01-04.jpg
+    sizes: '1200, 900'
+  - url: morris-clothes-shoppe-jh-2020-01-05.jpg
+  - url: morris-clothes-shoppe-jh-2020-01-06.jpg
+    sizes: '1440, 900'
+  - url: morris-clothes-shoppe-jh-2020-01-07.jpg
+    sizes: '1440, 900'
+  - url: morris-clothes-shoppe-jh-2025-12-01.jpg
+    sizes: '1440, 900'
     sizes: '1200, 900'
   - url: morris-clothes-shoppe-jh-2026-04-01.jpg
     sizes: '1440, 900'
@@ -62,7 +76,6 @@ images:
     sizes: '1440, 900'
   - url: morris-clothes-shoppe-jh-2026-06-09.jpg
     sizes: '1440, 900'
-
 
 mostrecentimage: 2026-06-01
 
