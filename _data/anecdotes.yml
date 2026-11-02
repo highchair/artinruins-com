@@ -1,6 +1,11 @@
 # Check validity with http://www.yamllint.com/
 # Our two cents: (**A.I.R.**: blah blah)
 
+- property: rialto-theatre
+  person: 'Daniel Macks'
+  date: '2026-10-31'
+  content: 'Mike P: there was a different theater actually called “Fays“;, a few blocks away from this one. See <a href="https://cinematreasures.org/theaters/6433">Fay’s Theatre on CinemaTreasures.org</a>'
+
 - property: alexander-f-adie-house
   person: 'Richard G Forcino'
   date: '2026-10-30'
