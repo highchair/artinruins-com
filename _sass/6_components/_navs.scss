@@ -1,3 +1,5 @@
+@use "sass:color";
+@use "sass:math";
 //<header class="l__head">
 //  <div class="brand">
 //    <a href="/" class="brand__logo" title="To Home page">ArtInRuins</a>
@@ -124,8 +126,8 @@ header {
       overflow-x: scroll;
 
       $scrollbar-width: 8px;
-      $scrollbar-bg: lighten($nav-bg-color, 3%);
-      $scrollbar-fg: darken($nav-bg-color, 3%);
+      $scrollbar-bg: color.adjust($nav-bg-color, $lightness: 3%);
+      $scrollbar-fg: color.adjust($nav-bg-color, $lightness: -3%);
 
       scrollbar-width: thin;
       scrollbar-color: $scrollbar-fg $scrollbar-bg;
@@ -176,7 +178,7 @@ header {
       a[aria-current]:hover,
       a[aria-current]:focus {
         cursor: default;
-        color: lighten(palette('brand-teal'), 4%);
+        color: color.adjust(palette('brand-teal'), $lightness: 4%);
       }
 
       // Media queries for the entire block
@@ -234,7 +236,7 @@ header {
 
     @include hover-focus {
       color: $white;
-      background-color: darken($nav-bg-color, 3%);
+      background-color: color.adjust(palette('brand-teal'), $lightness: -3%);
     }
   }
 

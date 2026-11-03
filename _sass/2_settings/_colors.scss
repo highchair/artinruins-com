@@ -1,3 +1,6 @@
+@use "sass:color";
+@use "sass:map";
+
 //
 // Color system
 //
@@ -27,7 +30,7 @@ $colors: (
 
 // Color getter
 @function palette($color) {
-  @return map-get($colors, $color);
+  @return map.get($colors, $color);
 }
 
 // Generic variables
@@ -38,7 +41,7 @@ $color__body-bg: palette('brand-dark-brown');
 
 $color__link: palette('brand-teal');
 $color__link__underline: palette('brand-grey');
-$color__link--hover: darken($color__link, 15);
+$color__link--hover: color.adjust($color__link, $lightness: -15%);
 $color__link--hover__underline: palette('brand-orange');
 $color__link--active: palette('brand-orange');
 $color__link--visited: palette('brand-purple');

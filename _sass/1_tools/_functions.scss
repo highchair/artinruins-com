@@ -1,3 +1,5 @@
+@use "sass:math";
+
 ////
 /// Oomph Scaffold Functions
 /// @access public
@@ -21,7 +23,7 @@
 
 
 /// px()
-/// Change a unitless value to px
+/// Change a math.is-unitless value to px
 /// @author jhogue
 /// @require strip-unit()
 /// @param {float} $value - Numeric value assumed to be pixels
@@ -30,7 +32,7 @@
 /// @example css - Output
 ///   width: 48px;
 @function px($value) {
-  @if not unitless($value) {
+  @if not math.is-unitless($value) {
     $value: strip-unit($value);
   }
   @return ($value * 1px);
@@ -50,10 +52,10 @@
 ///   font-size: 1.5em;
 ///   width: 2em;
 @function em($value, $base: 16px) {
-  @if not unitless($value) {
+  @if not math.is-unitless($value) {
     $value: strip-unit($value);
   }
-  @if not unitless($base) {
+  @if not math.is-unitless($base) {
     $base: strip-unit($base);
   }
   @return math.div($value, $base) * 1em;
@@ -71,10 +73,10 @@
 /// @example css - Output
 ///   width: 3rem;
 @function rem($value, $base: 16px) {
-  @if not unitless($value) {
+  @if not math.is-unitless($value) {
     $value: strip-unit($value);
   }
-  @if not unitless($base) {
+  @if not math.is-unitless($base) {
     $base: strip-unit($base);
   }
   @return math.div($value, $base) * 1rem;
@@ -102,23 +104,4 @@
     content: "";
     display: block;
   }
-}
-
-
-/// percent-color() =
-/// Emulate the way Adobe Illustrator allows percentages of defined global colors
-/// @link http://thesassway.com/intermediate/mixins-for-semi-transparent-colors
-/// @require Bourbon strip-units(), SASS opacify() and mix()
-/// @param $color - A color as Hex, RGB or HSL. Percent as numeric
-/// @param $percent - Optional background color for mixing function
-/// @param $background [white]
-/// @example scss - Usage
-///   background-color: percent-color(#666, 50%);
-/// @example css - Output
-///   background-color: #ccc;
-@function percent-color($color, $percent, $background: white) {
-  $percent: strip-unit($percent);
-  $opaque: opacify($color, 1);
-  $solid-color: mix($opaque, $background, $percent);
-  @return $solid-color;
 }

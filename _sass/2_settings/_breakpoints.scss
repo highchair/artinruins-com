@@ -1,3 +1,6 @@
+@use "sass:math";
+@use "sass:map";
+
 $breakpoints: (
 	// List as unitless pixels
 	base: 440,  // 600-440= 160
@@ -10,15 +13,14 @@ $breakpoints: (
 
 // Helpers
 @function bp($bp) {
-  @return map-get($breakpoints, $bp);
+  @return map.get($breakpoints, $bp);
 }
 
 // Breakpoint mixins
 @mixin breakpoint-up($bp) {
   @media (min-width: #{ em( bp($bp) ) }) {
     @content;
-  }
-}
+  }}
 
 @mixin breakpoint-down($bp) {
   @media (max-width: #{ em( (bp($bp) - 1) ) }) {
@@ -64,6 +66,6 @@ $max-widths: (
   container: 64rem
 );
 
-$max-width: #{em(map-get($max-widths, base))};
-$max-width__text: map-get($max-widths, text);
-$max-width__container: map-get($max-widths, container);
+$max-width: #{em(map.get($max-widths, base))};
+$max-width__text: map.get($max-widths, text);
+$max-width__container: map.get($max-widths, container);

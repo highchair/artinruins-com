@@ -1,3 +1,6 @@
+@use "sass:math";
+@use "sass:map";
+
 // General variables
 
 $transition: all 250ms ease;
@@ -39,5 +42,5 @@ $z-indices: (
 
 // Z-index helper
 @function z($name) {
-  @return map-get($z-indices, $name);
+  @return map.get($z-indices, $name);
 }

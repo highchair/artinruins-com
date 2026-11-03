@@ -1,3 +1,5 @@
+@use "sass:string";
+
 // Utilities to make hiding or showing an element quicker
 
 @mixin hide {
@@ -6,6 +8,6 @@
 }
 
 @mixin show($d: 'block') {
-  display: unquote($d);
+  display: string.unquote($d);
   visibility: visible;
 }

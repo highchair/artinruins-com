@@ -1,3 +1,4 @@
+@use "sass:color";
 .sitefoot {
   color: $white;
   position: relative;
@@ -78,7 +79,7 @@
   }
   
   &__copyright {
-    background-color: darken($color__body-bg, 2%);
+    background-color: color.adjust($color__body-bg, $lightness: -2%);
     color: palette('brand-yellow');
     
     @include breakpoint-up(x-large) {
