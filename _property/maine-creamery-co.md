@@ -70,10 +70,16 @@ images:
   - url: maine-creamery-v3-2015-01.jpg
     caption: 'Photo by Vision 3 Architects'
     sizes: '1200, 798'
+  - url: maine-creamery-jh-2026-10-02.jpg
+    sizes: '1200, 900'
+  - url: maine-creamery-jh-2026-10-03.jpg
+    sizes: '1200, 900'
+  - url: maine-creamery-jh-2026-10-01.jpg
+    sizes: '1200, 900'
 
 imagescredit: 'Contributions from Proquest Digital Sanborn Maps, Providence Public Library; <a href="https://www.historicmapworks.com/Map/US/895462/Plate+005/Providence+1937/Rhode+Island/">Historic Mapworks</a>; Kerri-Ann Pontifice; and Vision 3 Architects'
 
-mostrecentimage: 2015-01-01
+mostrecentimage: 2026-10-01
 
 #external:
 #  - source: 'Providence Journal (permalink)'

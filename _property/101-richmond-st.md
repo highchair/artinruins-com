@@ -47,12 +47,12 @@ images:
   - url: morris-clothes-shoppe-jh-2020-01-04.jpg
     sizes: '1200, 900'
   - url: morris-clothes-shoppe-jh-2020-01-05.jpg
+    sizes: '1440, 900'
   - url: morris-clothes-shoppe-jh-2020-01-06.jpg
     sizes: '1440, 900'
   - url: morris-clothes-shoppe-jh-2020-01-07.jpg
     sizes: '1440, 900'
   - url: morris-clothes-shoppe-jh-2025-12-01.jpg
-    sizes: '1440, 900'
     sizes: '1200, 900'
   - url: morris-clothes-shoppe-jh-2026-04-01.jpg
     sizes: '1440, 900'

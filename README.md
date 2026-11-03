@@ -28,7 +28,7 @@ only the assets that have changed. The `JEKYLL_ENV` variable is assumed to be
 $ bundle exec jekyll serve --I
 ```
 
-Builds into the Stage folder: `_stage`. When using the non-incremental build with `jekyll serve`, the first build will need
+Builds into the Stage folder: `_site`. When using the non-incremental build with `jekyll serve`, the first build will need
 time to create ALL of the site thumbnails (two for every property on the site, currently over 400 properties).
 
 In a browser, open [http://127.0.0.1:4090/](http://127.0.0.1:4090/)
@@ -43,7 +43,7 @@ Optionally, add the future flag to publish posts that have a future timestamp.
 $ JEKYLL_ENV=production jekyll build --config _config.yml --I
 ```
 
-Builds into the Production folder: `_stage`. Used so that we may conduct incremental
+Builds into the Production folder: `_site`. Used so that we may conduct incremental
 builds and only upload what has changed. The `property-img` folder is ignored with this command,
 but incremental changes should be caught by an IDE’s publish difference engine.
 

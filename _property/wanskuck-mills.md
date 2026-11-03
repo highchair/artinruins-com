@@ -24,7 +24,7 @@ added-to-NRHP: '1981'
 
 address: '715 Branch Ave, Providence, RI'
 latitude: '41.8539239'
-longitude: '71.4316033'
+longitude: '-71.4316033'
 gmap: "https://www.google.com/maps/place/715+Branch+Ave,+Providence,+RI+02904/@41.8539239,-71.4316033,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444f62c50573b:0xe23580a989e41443!8m2!3d41.8539239!4d-71.4294146"
 
 meta: ""
