@@ -20,15 +20,15 @@
 @use "sass:math";
 
 // Our functions and helpers
-@import '1_tools/index';
-@import '2_settings/index';
+@use '1_tools' as *;
+@use '2_settings' as *;
 
 // Output CSS now
-@import '3_generic/index';
+@use '3_generic' as *;
 
 // This project
-@import '4_elements/index';
-@import '5_objects/index';
-@import '6_components/index';
-@import '7_templates/index';
-@import '8_utilities/index';
+@use '4_elements' as *;
+@use '5_objects' as *;
+@use '6_components' as *;
+@use '7_templates' as *;
+@use '8_utilities' as *;
