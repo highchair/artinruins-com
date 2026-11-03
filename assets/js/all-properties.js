@@ -1,4 +1,5 @@
 ---
+regenerate: true
 permalink: assets/js/all-properties.js
 ---
 

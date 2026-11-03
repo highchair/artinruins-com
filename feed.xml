@@ -1,4 +1,5 @@
 ---
+regenerate: true
 ---
 {%- assign properties = site.property -%}
 {%- assign thennows = site.then-now -%}
