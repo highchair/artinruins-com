@@ -5,9 +5,6 @@
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -29,6 +26,11 @@ destination: _site/
 # Change this value after editing CSS or JS, then rebuild.
 # Exception: all-properties.js busts automatically when the property count changes (site.property.size).
 cachebust: "20261102-1530"
+
+# Map prototype (/map/). Basemap tiles are a Protomaps PMTiles extract.
+# When you regenerate the extract, give it a new dated filename and update this path
+# (the dated name is the cache-buster; .pmtiles files are cached for 1 year).
+map_tiles: "/assets/map/tiles/providence-20261101.pmtiles"
 
 # Build settings
 markdown: kramdown
@@ -97,10 +99,26 @@ exclude:
   - LICENSE
   - README.md
   - property-img/
+  # Map assets: copied into _site/ once by hand, then preserved by keep_files below
+  - assets/map/fonts/
+  - assets/map/sprites/
+  - assets/map/tiles/
 
 # As of Jekyll 4, we may exclude a parent folder but include a child:
 include:
   - property-img/r/
+
+# Files in the build folder (_site/) that Jekyll must never delete when it cleans up.
+# property-img/r/: resized thumbnails written straight to the build folder by jekyll-responsive-image
+#   (save_to_source: false). Keeping them means existing sizes are not regenerated on every build.
+# assets/map/*: excluded from the build above; copy them in once (see assets/map/README.md).
+keep_files:
+  - .git
+  - .svn
+  - property-img/r
+  - assets/map/fonts
+  - assets/map/sprites
+  - assets/map/tiles
 
 # https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:

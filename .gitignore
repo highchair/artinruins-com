@@ -6,3 +6,9 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+# Map prototype (/map/): large generated/downloaded assets, kept out of git.
+# Rebuild instructions are in assets/map/README.md.
+# Basemap tiles (~20 MB): regenerate with the pmtiles CLI.
+assets/map/tiles/
+# Label fonts (~14 MB, 771 files): re-download from github.com/protomaps/basemaps-assets.
+assets/map/fonts/

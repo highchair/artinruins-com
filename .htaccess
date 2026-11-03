@@ -13,6 +13,11 @@ RewriteRule ^(.*)$ https://artinruins.com/$1 [R=301,L]
 # Custom 404
 ErrorDocument 404 /404.html
 
+# MIME types for the map (/map/): ES modules must be served as JavaScript or browsers refuse them (nosniff)
+AddType text/javascript .mjs
+AddType application/x-protobuf .pbf
+AddType application/octet-stream .pmtiles
+
 # Manual redirects
 # redirect 301 /path/to/old-file.php   http://domain.tld/path/to/new-file.php
 
@@ -121,6 +126,7 @@ RedirectMatch 301 ^/arch/historical/postcards(/.*)?$         https://artinruins.
   AddOutputFilterByType DEFLATE application/atom+xml
   AddOutputFilterByType DEFLATE application/manifest+json
   AddOutputFilterByType DEFLATE application/ld+json
+  AddOutputFilterByType DEFLATE application/x-protobuf
   AddOutputFilterByType DEFLATE application/javascript
   AddOutputFilterByType DEFLATE application/x-javascript
   AddOutputFilterByType DEFLATE application/xml
@@ -158,7 +164,7 @@ RedirectMatch 301 ^/arch/historical/postcards(/.*)?$         https://artinruins.
   # Content Security Policy — REPORT-ONLY: nothing is blocked; violations show in the browser console.
   # When the console is clean across page types, rename to Content-Security-Policy to enforce.
   # 'unsafe-inline' covers the inline <script> in _includes/scripts.html + project-category-loop.html and style="" attributes.
-  Header always set Content-Security-Policy-Report-Only "default-src 'self'; script-src 'self' 'unsafe-inline' https://scripts.withcabin.com; style-src 'self' 'unsafe-inline' https://use.typekit.net https://p.typekit.net; font-src 'self' data: https://use.typekit.net; img-src 'self' data: https:; connect-src 'self' https://*.withcabin.com; frame-src https://www.youtube.com https://www.youtube-nocookie.com https://player.simplecast.com https://www.openlinkmap.org https://www.openstreetmap.org; form-action 'self' https://google.com https://www.google.com https://www.paypal.com; frame-ancestors 'self'; base-uri 'self'; object-src 'none'"
+  Header always set Content-Security-Policy-Report-Only "default-src 'self'; script-src 'self' 'unsafe-inline' https://scripts.withcabin.com; style-src 'self' 'unsafe-inline' https://use.typekit.net https://p.typekit.net; font-src 'self' data: https://use.typekit.net; img-src 'self' data: blob: https:; worker-src 'self' blob:; connect-src 'self' https://*.withcabin.com; frame-src https://www.youtube.com https://www.youtube-nocookie.com https://player.simplecast.com https://www.openlinkmap.org https://www.openstreetmap.org; form-action 'self' https://google.com https://www.google.com https://www.paypal.com; frame-ancestors 'self'; base-uri 'self'; object-src 'none'"
 
   # Remove server signature
   Header always unset X-Powered-By
