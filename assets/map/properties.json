@@ -1,0 +1,30 @@
+---
+layout: null
+permalink: assets/map/properties.json
+sitemap:
+  exclude: 'yes'
+---
+{%- comment -%}
+  GeoJSON of every property with valid coordinates, for /map/.
+  Skips #UsedToBeThere and #ArchiveRI properties (for now) and coordinates outside the western hemisphere (data typos).
+  "category" is the first #Category listed on the property; the map colors markers by it.
+{%- endcomment -%}
+{%- assign properties = site.property | sort: "title" -%}
+{%- assign first = true -%}
+{"type":"FeatureCollection","features":[
+{%- for property in properties -%}
+  {%- if property.title == nil or property.latitude == nil or property.latitude == '' or property.longitude == nil or property.longitude == '' -%}{%- continue -%}{%- endif -%}
+  {%- if property.categories contains '#UsedToBeThere' or property.categories contains '#ArchiveRI' -%}{%- continue -%}{%- endif -%}
+  {%- assign lat = property.latitude | plus: 0 -%}
+  {%- assign lng = property.longitude | plus: 0 -%}
+  {%- if lng >= 0 or lat <= 0 -%}{%- continue -%}{%- endif -%}
+  {%- assign category = '' -%}
+  {%- for c in property.categories -%}
+    {%- assign c1 = c | slice: 0 -%}
+    {%- if c1 == '#' -%}{%- assign category = c -%}{%- break -%}{%- endif -%}
+  {%- endfor -%}
+  {%- if property.thumbnail -%}{%- assign img = property.thumbnail -%}{%- else -%}{%- assign img = property.images.first.url -%}{%- endif -%}
+  {%- unless first -%},{%- endunless -%}{%- assign first = false %}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[{{ property.longitude | strip }},{{ property.latitude | strip }}]},"properties":{"title":{{ property.title | jsonify }},"url":{{ property.url | jsonify }},"category":{{ category | jsonify }},"address":{{ property.address | default: '' | jsonify }}{% if img %},"img":{{ site.propimg_path | append: 'r/480/' | append: img | jsonify }}{% endif %}}}
+{%- endfor %}
+]}

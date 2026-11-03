@@ -1,0 +1,37 @@
+---
+layout: default
+permalink: map/
+title: "Property Map"
+meta-title: "Property Map | ArtInRuins"
+body-class: map
+sitemap:
+  exclude: 'yes'
+---
+{%- comment -%} Prototype. Not linked from navigation yet. {%- endcomment -%}
+<link rel="stylesheet" href="/assets/map/lib/maplibre-gl-6.15.0/maplibre-gl.css">
+<link rel="stylesheet" href="/assets/map/map.css?cb={{ site.cachebust }}">
+<main id="content" class="l__content content" aria-label="Content">
+  <article class="l__article content__article page" aria-label="Primary">
+    <header class="page__header u__max-width--text u__vertical__pt u__gutter__p">
+      <h1 class="content__title page__title">{{ page.title }}</h1>
+      <p>Properties in and around Providence with known locations. #UsedToBeThere and #ArchiveRI properties are not shown yet. To browse every property as a list, use <a href="{% link all-properties.html %}">the Property Index</a>.</p>
+    </header>
+    <div class="u__gutter__p u__vertical__pb">
+      <div class="map__wrapper">
+        <div id="js-map" class="map" role="region" aria-label="Map of properties" data-tiles="{{ site.map_tiles }}" data-points="/assets/map/properties.json?cb={{ site.property.size }}"></div>
+        <ul class="map__legend u__list__unstyled" aria-label="Map legend">
+          <li><span class="map__swatch" data-category="#NotInRuins"></span>#NotInRuins</li>
+          <li><span class="map__swatch" data-category="#WhatAreTheyBuilding"></span>#WhatAreTheyBuilding</li>
+          <li><span class="map__swatch" data-category="#UrbanDecay"></span>#UrbanDecay</li>
+          <li><span class="map__swatch" data-category="#DemolitionAlert"></span>#DemolitionAlert</li>
+          <li><span class="map__swatch" data-category="other"></span>Other</li>
+        </ul>
+        <p id="js-map-status" class="map__status" role="status"></p>
+      </div>
+    </div>
+  </article>
+</main>
+
+<script src="/assets/map/lib/pmtiles-4.5.0.js"></script>
+<script src="/assets/map/lib/basemaps-5.7.2.js"></script>
+<script type="module" src="/assets/map/map.js?cb={{ site.cachebust }}"></script>
