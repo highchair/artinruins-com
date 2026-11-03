@@ -1,3 +1,7 @@
+@use '../1_tools' as *;
+@use 'breakpoints' as *;
+@use 'colors' as *;
+
 // Define a "System" font stack for fallbacks
 @font-face {
   font-family: 'System Sans';

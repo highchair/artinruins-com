@@ -2,8 +2,8 @@
 // Project sitewide variables
 
 // Our Project variables
-@import 'breakpoints';
-@import 'colors';
-@import 'fonts';
-@import 'type-sizes';
-@import 'vars';
+@forward 'breakpoints';
+@forward 'colors';
+@forward 'fonts';
+@forward 'type-sizes';
+@forward 'vars';

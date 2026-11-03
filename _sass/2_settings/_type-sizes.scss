@@ -1,3 +1,8 @@
+@use "sass:math";
+@use '../1_tools' as *;
+@use 'breakpoints' as *;
+@use 'colors' as *;
+@use 'fonts' as *;
 ////
 /// Required list of sizes for typographics elements
 /// 1) Set base font sizes for mobile first
@@ -46,3 +51,20 @@ $type-sizes: (
     display-1: 249
   ),
 );
+
+// Fluid type scale (moved from 3_generic/_root.scss so 4_elements can @use them)
+$base-min: math.div(16, 16);
+$base-max: math.div(18, 16);
+$base-sm: math.div(14, 16);
+$h6-min: math.div(17, 16);
+$h6-max: math.div(19, 16);
+$h5-min: math.div(18, 16);
+$h5-max: math.div(21, 16);
+$h4-min: math.div(20, 16);
+$h4-max: math.div(24, 16);
+$h3-min: math.div(23, 16);
+$h3-max: math.div(29, 16);
+$h2-min: math.div(28, 16);
+$h2-max: math.div(37, 16);
+$h1-min: math.div(36, 16);
+$h1-max: math.div(50, 16);

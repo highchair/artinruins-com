@@ -1,3 +1,6 @@
+@use '../1_tools' as *;
+@use '../2_settings' as *;
+
 // Placed onto the LI container for a property-card
 .demolition-alert {
   > div {

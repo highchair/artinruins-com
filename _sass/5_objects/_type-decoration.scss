@@ -1,3 +1,6 @@
+@use '../1_tools' as *;
+@use '../2_settings' as *;
+
 .o {
 
   // Small titles, intended as section eyebrows
@@ -53,4 +56,11 @@
     @include ff-sans(bold);
     color: palette('brand-red');
   }
+}
+
+// Form labels share the small-title style. This lives here (not in 4_elements/_form.scss)
+// because with @use, an element-layer file cannot extend a selector from this later layer
+// without changing the CSS order.
+label {
+  @extend .o__title--sm;
 }

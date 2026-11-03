@@ -1,9 +1,9 @@
 // Templates
 
-@import 'page';
-@import 'taxonomy';
-@import 'property-card';
-@import 'all-tags';
-@import 'all-props';
-@import 'essays';
-@import 'home';
+@use 'page';
+@use 'taxonomy';
+@use 'property-card';
+@use 'all-tags';
+@use 'all-props';
+@use 'essays';
+@use 'home';

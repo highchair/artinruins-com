@@ -1,3 +1,6 @@
+@use '../1_tools' as *;
+@use '../2_settings' as *;
+
 // <a href="#content" class="skip-link u__sr-only u__sr-only--focusable">Skip to Content</a>
 .skip-link:focus {
   background-color: $color__body-bg;

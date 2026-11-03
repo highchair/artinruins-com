@@ -1,4 +1,6 @@
 @use "sass:color";
+@use '../1_tools' as *;
+@use '../2_settings' as *;
 
 //
 // Property Cards across the site have two main configurations: 

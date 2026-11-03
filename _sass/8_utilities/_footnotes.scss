@@ -1,3 +1,7 @@
+@use '../1_tools' as *;
+@use '../2_settings' as *;
+@use '../5_objects/type-decoration';
+
 /*div*/.footnotes {
   border-top: 1px solid $color__borders;
   margin-top: ($vertical-rhythm * 2);

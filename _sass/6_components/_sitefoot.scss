@@ -1,4 +1,7 @@
 @use "sass:color";
+@use '../1_tools' as *;
+@use '../2_settings' as *;
+
 .sitefoot {
   color: $white;
   position: relative;

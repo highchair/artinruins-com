@@ -1,3 +1,6 @@
+@use '../1_tools' as *;
+@use '../2_settings' as *;
+
 .embed {
   
   &__video {

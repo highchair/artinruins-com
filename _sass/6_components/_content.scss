@@ -1,3 +1,6 @@
+@use '../1_tools' as *;
+@use '../2_settings' as *;
+
 /*main*/.content {
   background-color: $white;
   word-break: break-word; // Because sometimes URLs in Source citations are too long

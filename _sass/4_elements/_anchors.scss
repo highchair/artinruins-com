@@ -1,3 +1,6 @@
+@use '../1_tools' as *;
+@use '../2_settings' as *;
+
 // &#x2197
 a[target='_blank'] {  
   &::after {

@@ -1,3 +1,7 @@
+@use '../1_tools' as *;
+@use '../2_settings' as *;
+@use '../5_objects/type-decoration';
+
 //<aside id="anecdotes" class="anec u__vertical__p u__gutter__p">
 //  <h2 class="o__title--sm anec__title">Anecdotes <span class="u__sr-only">from people like you</span></h2>
 //  <ul class="u__list__unstyled anec__list">

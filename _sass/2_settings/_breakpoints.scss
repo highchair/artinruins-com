@@ -1,5 +1,6 @@
 @use "sass:math";
 @use "sass:map";
+@use '../1_tools' as *;
 
 $breakpoints: (
 	// List as unitless pixels
@@ -20,7 +21,8 @@ $breakpoints: (
 @mixin breakpoint-up($bp) {
   @media (min-width: #{ em( bp($bp) ) }) {
     @content;
-  }}
+  }
+}
 
 @mixin breakpoint-down($bp) {
   @media (max-width: #{ em( (bp($bp) - 1) ) }) {

@@ -1,5 +1,7 @@
 @use "sass:color";
 @use "sass:map";
+@use '../1_tools' as *;
+@use 'breakpoints' as *;
 
 //
 // Color system

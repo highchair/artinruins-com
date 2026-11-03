@@ -1,5 +1,10 @@
 @use "sass:math";
 @use "sass:map";
+@use '../1_tools' as *;
+@use 'breakpoints' as *;
+@use 'colors' as *;
+@use 'fonts' as *;
+@use 'type-sizes' as *;
 
 // General variables
 
@@ -44,3 +49,12 @@ $z-indices: (
 @function z($name) {
   @return map.get($z-indices, $name);
 }
+
+// Shared by 6_components/_layout.scss and _sitefoot.scss (moved from _layout.scss)
+$mobile-header-height: rem(57);
+
+// Navigation, shared by 6_components/_navs.scss and _google-search.scss (moved from _navs.scss)
+$nav-v-padding: 0.25rem;
+$nav-h-padding: 1rem;
+$nav-bg-color: palette('brand-teal-dark');
+$nav-max-width: rem(288);

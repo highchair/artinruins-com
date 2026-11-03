@@ -1,3 +1,6 @@
+@use '../1_tools' as *;
+@use '../2_settings' as *;
+
 // Forms
 // Raw elements only. No classes
 
@@ -48,7 +51,7 @@ input[type=radio] {
 }
 
 label {
-  @extend .o__title--sm;
+  // Eyebrow title style: see the label @extend in 5_objects/_type-decoration.scss
   display: block;
   color: palette(gray-700);
   padding-bottom: 0.25rem;

@@ -1,5 +1,8 @@
 @use "sass:color";
 @use "sass:math";
+@use '../1_tools' as *;
+@use '../2_settings' as *;
+
 //<header class="l__head">
 //  <div class="brand">
 //    <a href="/" class="brand__logo" title="To Home page">ArtInRuins</a>
@@ -20,10 +23,6 @@
 //      </li>
 //      <li><a href="#">About</a></li>
 
-$nav-v-padding: 0.25rem;
-$nav-h-padding: 1rem;
-$nav-bg-color: palette('brand-teal-dark');
-$nav-max-width: rem(288);
 
 $text-logo-width: 235px;
 $text-logo-height: 50px;

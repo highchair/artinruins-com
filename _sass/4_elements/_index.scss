@@ -1,11 +1,11 @@
 // Elements
 // Unclassed HTML element styles, probably to control typography
 
-@import 'html';
-@import 'anchors';
-@import 'form';
-@import 'buttons';
-@import 'typography';
-@import 'details-summary';
-@import 'social';
-@import 'table';
+@use 'html';
+@use 'anchors';
+@use 'form';
+@use 'buttons';
+@use 'typography';
+@use 'details-summary';
+@use 'social';
+@use 'table';
