@@ -62,10 +62,10 @@ images:
   - url: ajay-land-jh-2006-03-07.jpg
     caption: 'A view in the courtyard, looking west. A vintage Volvo 544 sits under a two-story building overhang.'
     sizes: '740, 1036'
-  - url: ajay-land-jh-2006-03-07.jpg
+  - url: ajay-land-jh-2006-03-08.jpg
     caption: 'Same courtyard, now looking east at the back of the wooden frame portion of the Providence Wholesale Drug Company building.'
     sizes: '1200, 900'
-  - url: ajay-land-jh-2006-03-07.jpg
+  - url: ajay-land-jh-2006-03-09.jpg
     caption: 'Similar view from further back now, still looking east. The overhang above the vintage Volvo is visible from the rear and there seems to be a photo shoot going on in the far background.'
     sizes: '1200, 900'
   - url: ajay-land-jh-2006-04-01.jpg
