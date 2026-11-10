@@ -218,25 +218,6 @@ Members of the public should sign-up to speak during the general public comment 
 
 ***
 
-### 311 Knight Street
-
-<figure class="u__img">
-  <img src="{{ site.propimg_path }}proposals/311-knight-st-2021-07-01.jpg" alt="">
-  <figcaption>Rendering by ZDS Architects from the proposal submitted to the City Planning Commission</figcaption>
-</figure>
-
-**Update October 2024**
-
-No progress has been made.
-
-**Update Nov 12, 2022**
-
-[A five-story, 41-unit apartment building will be coming to Providence’s West End](https://www.providencejournal.com/story/news/local/2022/10/13/providence-approves-west-end-apartments-westminster-knight-street/10476194002/) reads the headline from the Providence Journal. This building is another design from [ZDS Architects]({% link designer/zds-architecture-interiors.html %}).
-
-Construction is supposed to start in late 2022. The three lots of this location were the former [M.N. Cartier & Sons]({% link _property/m-n-cartier.md %}) and a car lot on the corner next door. [Older renderings are available](https://www.providenceri.gov/wp-content/uploads/2021/07/19-051MA-311-Knight.pdf) as presented to the City Plan Commission in July of 2021.
-
-***
-
 ### 230 Waterman St
 
 <figure class="u__img">

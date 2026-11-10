@@ -2,6 +2,10 @@
 Ongoing Notes
 =============
 
+ALL Numbered properties (beginning with an address) have been cleaned of target="_blank"
+and have had their non-HTTPS referenced URLs added.
+
+
 ## Photoshop
 
 HABS/HAER, Photographer Name, Year
@@ -10,7 +14,7 @@ HABS/HAER, Photographer Name, Year
 
 + [1920-1921 Sanborn Map, Volume 1, Plate 52](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001)(image 62) — Building is present and simply labelled “Jewelry Supplies.” **Source:** Library of Congress, Geography and Map Division, Sanborn Maps Collection
 
-Contributions from Christopher Martin of <a href="https://quahog.org">Quahog.org</a>
+Contributions from Christopher Martin of <a href="https://quahog.org/">Quahog.org</a>
 
 <a href="https://digitalcommons.ric.edu/smolski_images/61">Chet Smolski</a>
 
@@ -21,7 +25,10 @@ _From the Providence Preservation Society Online Architecture Guide_
 
 _From the National Register nomination form for the Downtown Providence Historic District, amendment & expansion, 2007_
 
+
 _From the PPS/RIHPHC Providence Architecture Guide, 2003, by Wm. MacKenzie Woodward_
+^ THIS IS WRONG. Check the book, this really should be AIAri. Contact Mary Kate Harrington to discuss.
+
 
 _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
@@ -42,6 +49,8 @@ _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites
 _From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 
 _From the “Broadway-Armory Historic District” National Register nomination form, 1974_
+
+## Captions
 
 Photo by Robert Brewster, HABS/HAER, 1981
 Rhode Island Photograph Collection, Providence Public Library
@@ -71,7 +80,7 @@ caption: 'Sanborn Insurance Map, 1899-1900, volume 1 sheet 15 — Courtesy Onli
 MLA citation style: 
 Malone, George. _“Riverboat Ride: Crescent Park, Riverside, RI”_, Laff in the Dark, captured 15 August 2020. https://laffinthedark.com/articles/crescent/crescentpark.htm
 
-+ [1920–1921 Sanborn Insurance Map, Volume 1, Plate 32](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (page 43) — The large complex is mostly the same, but the central portion of Chestnut Street has been abandoned and Manchester St renamed to Marengo. The buildings are labelled pattern storage, grinding and polishing, refining, pattern shop, wash room, machine shop, foundry, mounting and packing, flask house, and shipping
++ [1920–1921 Sanborn Insurance Map, Volume 1, Plate 32](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (page 43) —
 
 
 #### Embedded Video
