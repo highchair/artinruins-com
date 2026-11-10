@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: map/
+permalink: property/map/
 title: "Property Map"
 meta-title: "Property Map | ArtInRuins"
 body-class: map
@@ -12,21 +12,31 @@ sitemap:
 <link rel="stylesheet" href="/assets/map/map.css?cb={{ site.cachebust }}">
 <main id="content" class="l__content content" aria-label="Content">
   <article class="l__article content__article page" aria-label="Primary">
-    <header class="page__header u__max-width--text u__vertical__pt u__gutter__p">
+    <header class="page__header u__vertical__pt u__gutter__p">
       <h1 class="content__title page__title">{{ page.title }}</h1>
-      <p>Properties in and around Providence with known locations. #UsedToBeThere and #ArchiveRI properties are not shown yet. To browse every property as a list, use <a href="{% link all-properties.html %}">the Property Index</a>.</p>
+      <p>Use the toggles below the map to show or hide categories. Places you can no longer visit — #UsedToBeThere and #ArchiveRI — are hidden until you turn them on. To browse every property as a searchable list, visit <a href="{% link all-properties.html %}">the All Architecture Index</a>.</p>
     </header>
     <div class="u__gutter__p u__vertical__pb">
       <div class="map__wrapper">
-        <div id="js-map" class="map" role="region" aria-label="Map of properties" data-tiles="{{ site.map_tiles }}" data-points="/assets/map/properties.json?cb={{ site.property.size }}"></div>
-        <ul class="map__legend u__list__unstyled" aria-label="Map legend">
-          <li><span class="map__swatch" data-category="#NotInRuins"></span>#NotInRuins</li>
-          <li><span class="map__swatch" data-category="#WhatAreTheyBuilding"></span>#WhatAreTheyBuilding</li>
-          <li><span class="map__swatch" data-category="#UrbanDecay"></span>#UrbanDecay</li>
-          <li><span class="map__swatch" data-category="#DemolitionAlert"></span>#DemolitionAlert</li>
-          <li><span class="map__swatch" data-category="other"></span>Other</li>
-        </ul>
-        <p id="js-map-status" class="map__status" role="status"></p>
+        <div id="js-map" class="map" role="region" aria-label="Map of properties" data-tiles="{{ site.map_tiles }}" data-bounds="{{ site.map_bounds | jsonify }}" data-points="/assets/map/properties.json?cb={{ site.property.size }}"></div>
+        <fieldset class="map__legend">
+          <legend class="map__legend__title map__status" id="js-map-status" role="status"></legend>
+          {%- comment -%} The "checked" attribute sets which categories are visible when the page loads {%- endcomment %}
+          <ul class="map__legend__list u__list__unstyled">
+            <li><label class="map__toggle"><input type="checkbox" class="map__toggle__input js-map-category" value="#WhatAreTheyBuilding" checked><span class="map__chip" data-category="#WhatAreTheyBuilding"><span class="map__swatch" aria-hidden="true"></span><span class="map__chip__name">#WhatAreTheyBuilding</span><span class="map__count" data-category="#WhatAreTheyBuilding"></span></span></label></li>
+            <li><label class="map__toggle"><input type="checkbox" class="map__toggle__input js-map-category" value="#NotInRuins" checked><span class="map__chip" data-category="#NotInRuins"><span class="map__swatch" aria-hidden="true"></span><span class="map__chip__name">#NotInRuins</span><span class="map__count" data-category="#NotInRuins"></span></span></label></li>
+            <li><label class="map__toggle"><input type="checkbox" class="map__toggle__input js-map-category" value="#UrbanDecay" checked><span class="map__chip" data-category="#UrbanDecay"><span class="map__swatch" aria-hidden="true"></span><span class="map__chip__name">#UrbanDecay</span><span class="map__count" data-category="#UrbanDecay"></span></span></label></li>
+            <li><label class="map__toggle"><input type="checkbox" class="map__toggle__input js-map-category" value="#DemolitionAlert" checked><span class="map__chip" data-category="#DemolitionAlert"><span class="map__swatch" aria-hidden="true"></span><span class="map__chip__name">#DemolitionAlert</span><span class="map__count" data-category="#DemolitionAlert"></span></span></label></li>
+            <li><label class="map__toggle"><input type="checkbox" class="map__toggle__input js-map-category" value="#UsedToBeThere"><span class="map__chip" data-category="#UsedToBeThere"><span class="map__swatch" aria-hidden="true"></span><span class="map__chip__name">#UsedToBeThere</span><span class="map__count" data-category="#UsedToBeThere"></span></span></label></li>
+            <li><label class="map__toggle"><input type="checkbox" class="map__toggle__input js-map-category" value="#ArchiveRI"><span class="map__chip" data-category="#ArchiveRI"><span class="map__swatch" aria-hidden="true"></span><span class="map__chip__name">#ArchiveRI</span><span class="map__count" data-category="#ArchiveRI"></span></span></label></li>
+          </ul>
+        </fieldset>
+        {%- comment -%} Shown by map.js only when the browser can share its location {%- endcomment %}
+        <div class="map__near js-map-near" hidden>
+          <button type="button" class="map__near__btn js-map-near-btn" disabled><span class="map__near__icon" aria-hidden="true"></span><span class="js-map-near-label">Show places near me</span></button>
+          <p class="map__near__note">Uses your location only when you press the button. Your location stays in your browser and is not sent to ArtInRuins.</p>
+          <div class="map__near__results js-map-near-results" aria-live="polite"></div>
+        </div>
       </div>
     </div>
   </article>

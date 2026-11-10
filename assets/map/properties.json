@@ -5,26 +5,40 @@ sitemap:
   exclude: 'yes'
 ---
 {%- comment -%}
-  GeoJSON of every property with valid coordinates, for /map/.
-  Skips #UsedToBeThere and #ArchiveRI properties (for now) and coordinates outside the western hemisphere (data typos).
-  "category" is the first #Category listed on the property; the map colors markers by it.
+  GeoJSON for /map/: every Property with valid coordinates.
+  Skips coordinates outside the western hemisphere (data typos), and places outside the basemap extract
+  (map_bounds in _config.yml: west, south, east, north).
+  #ThenAndNow is not a map category: it is left out of "cats", and properties with no other category are skipped.
+  "category" is the first #Category listed; the map colors markers by it.
+  "cats" lists every #Category as |#A|#B| so the map's checkboxes can match any of them.
+  (MapLibre flattens arrays in GeoJSON properties, so a delimited string stands in for a list.)
 {%- endcomment -%}
-{%- assign properties = site.property | sort: "title" -%}
+{%- assign items = site.property | sort: "title" -%}
+{%- assign bounds = site.map_bounds -%}
 {%- assign first = true -%}
 {"type":"FeatureCollection","features":[
-{%- for property in properties -%}
-  {%- if property.title == nil or property.latitude == nil or property.latitude == '' or property.longitude == nil or property.longitude == '' -%}{%- continue -%}{%- endif -%}
-  {%- if property.categories contains '#UsedToBeThere' or property.categories contains '#ArchiveRI' -%}{%- continue -%}{%- endif -%}
-  {%- assign lat = property.latitude | plus: 0 -%}
-  {%- assign lng = property.longitude | plus: 0 -%}
+{%- for item in items -%}
+  {%- if item.title == nil or item.latitude == nil or item.latitude == '' or item.longitude == nil or item.longitude == '' -%}{%- continue -%}{%- endif -%}
+  {%- assign lat = item.latitude | plus: 0 -%}
+  {%- assign lng = item.longitude | plus: 0 -%}
   {%- if lng >= 0 or lat <= 0 -%}{%- continue -%}{%- endif -%}
+  {%- if bounds -%}
+    {%- if lng < bounds[0] or lat < bounds[1] or lng > bounds[2] or lat > bounds[3] -%}{%- continue -%}{%- endif -%}
+  {%- endif -%}
   {%- assign category = '' -%}
-  {%- for c in property.categories -%}
+  {%- assign cats = '|' -%}
+  {%- for c in item.categories -%}
     {%- assign c1 = c | slice: 0 -%}
-    {%- if c1 == '#' -%}{%- assign category = c -%}{%- break -%}{%- endif -%}
+    {%- if c1 == '#' and c != '#ThenAndNow' -%}
+      {%- if category == '' -%}{%- assign category = c -%}{%- endif -%}
+      {%- assign cats = cats | append: c | append: '|' -%}
+    {%- endif -%}
   {%- endfor -%}
-  {%- if property.thumbnail -%}{%- assign img = property.thumbnail -%}{%- else -%}{%- assign img = property.images.first.url -%}{%- endif -%}
+  {%- if category == '' -%}{%- continue -%}{%- endif -%}
+  {%- assign img = nil -%}
+  {%- if item.thumbnail -%}{%- assign img = item.thumbnail -%}{%- else -%}{%- assign img = item.images.first.url -%}{%- endif -%}
+  {%- if img -%}{%- assign img = site.propimg_path | append: 'r/480/' | append: img -%}{%- endif -%}
   {%- unless first -%},{%- endunless -%}{%- assign first = false %}
-{"type":"Feature","geometry":{"type":"Point","coordinates":[{{ property.longitude | strip }},{{ property.latitude | strip }}]},"properties":{"title":{{ property.title | jsonify }},"url":{{ property.url | jsonify }},"category":{{ category | jsonify }},"address":{{ property.address | default: '' | jsonify }}{% if img %},"img":{{ site.propimg_path | append: 'r/480/' | append: img | jsonify }}{% endif %}}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[{{ item.longitude | strip }},{{ item.latitude | strip }}]},"properties":{"title":{{ item.title | jsonify }},"url":{{ item.url | jsonify }},"category":{{ category | jsonify }},"cats":{{ cats | jsonify }},"address":{{ item.address | default: '' | jsonify }}{% if img %},"img":{{ img | jsonify }}{% endif %}}}
 {%- endfor %}
 ]}

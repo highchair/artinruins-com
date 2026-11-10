@@ -6,24 +6,112 @@
   border: 1px solid #ccc;
 }
 .map__legend {
+  border: 0;
+  margin: 0.75rem 0 0;
+  padding: 0;
+  font-size: 0.875rem;
+}
+.map__legend__title {
+  font-weight: bold;
+  padding: 0;
+  margin-bottom: 0.5rem;
+}
+.map__legend__list {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem 1.25rem;
-  margin: 0.75rem 0 0;
-  font-size: 0.875rem;
+  margin: 0;
 }
-.map__legend li {
-  display: flex;
+.map__legend__note {
+  margin: 0.75rem 0 0.5rem;
+  color: #555;
+}
+.map__legend__list {
+  gap: 0.5rem;
+}
+
+/* Category toggles. The real checkbox covers the chip, invisible but still focusable and clickable,
+   so keyboards and screen readers get a normal checkbox. The chip shows whether it is on or off. */
+.map__toggle {
+  position: relative;
+  display: inline-flex;
+  cursor: pointer;
+}
+.map__toggle__input {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+.map__chip {
+  --cat: #4d4d4d; /* set per category by map.js */
+  display: inline-flex;
   align-items: center;
-  gap: 0.4rem;
+  gap: 0.45rem;
+  padding: 0.35rem 0.75rem 0.35rem 0.45rem;
+  border: 2px solid #c8c8c8;
+  border-radius: 999px;
+  background-color: #fff;
+  color: #6b6b6b;
+  transition: background-color 150ms ease, border-color 150ms ease, color 150ms ease;
 }
+.map__count {
+  opacity: 0.8;
+}
+/* Off: empty gray dot */
 .map__swatch {
-  display: inline-block;
-  width: 0.85rem;
-  height: 0.85rem;
+  position: relative;
+  flex: none;
+  width: 1.1rem;
+  height: 1.1rem;
   border-radius: 50%;
-  border: 2px solid #fff;
-  box-shadow: 0 0 0 1px #999;
+  border: 2px solid #b5b5b5;
+  background-color: #fff;
+}
+.map__toggle:hover .map__toggle__input:not(:checked) + .map__chip {
+  border-color: #8a8a8a;
+  color: #333;
+}
+/* On: colored outline and tint, dot filled in the marker color with a white check */
+.map__toggle__input:checked + .map__chip {
+  border-color: var(--cat);
+  background-color: #f4f4f4;
+  background-color: color-mix(in srgb, var(--cat) 12%, #fff);
+  color: #1a1a1a;
+}
+.map__toggle__input:checked + .map__chip .map__swatch {
+  border-color: var(--cat);
+  background-color: var(--cat);
+}
+.map__toggle__input:checked + .map__chip .map__swatch::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  width: 0.28rem;
+  height: 0.55rem;
+  border: solid #fff;
+  border-width: 0 2px 2px 0;
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+/* Gone or historical categories, when on: white dot with a colored ring and check, like their hollow markers */
+.map__toggle__input:checked + .map__chip--hollow .map__swatch {
+  background-color: #fff;
+}
+.map__toggle__input:checked + .map__chip--hollow .map__swatch::after {
+  border-color: var(--cat);
+}
+.map__toggle__input:focus-visible + .map__chip {
+  outline: 3px solid #1f5fae;
+  outline-offset: 2px;
+}
+/* High-contrast modes replace colors, so show on/off with the border style too */
+@media (forced-colors: active) {
+  .map__chip { border-style: dashed; }
+  .map__toggle__input:checked + .map__chip { border-style: solid; }
 }
 .map__status {
   font-size: 0.875rem;
@@ -47,4 +135,92 @@
 }
 .map__popup__cat {
   color: #555;
+}
+
+/* Full screen: the map and its checkboxes fill the screen together.
+   :fullscreen is the browser API; .maplibregl-pseudo-fullscreen is MapLibre's fallback (e.g., iPhone Safari). */
+.map__wrapper:fullscreen,
+.map__wrapper.maplibregl-pseudo-fullscreen {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  padding: 0.75rem;
+  overflow: auto;
+}
+.map__wrapper:fullscreen .map,
+.map__wrapper.maplibregl-pseudo-fullscreen .map {
+  flex: 1 1 auto;
+  height: auto;
+  min-height: 0;
+}
+
+/* Places near me */
+.map__near {
+  margin-top: 0.75rem;
+  font-size: 0.875rem;
+}
+.map__near__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.45rem 0.9rem 0.45rem 0.6rem;
+  border: 2px solid #1f5fae;
+  border-radius: 999px;
+  background-color: #fff;
+  color: #1f5fae;
+  font: inherit;
+  font-weight: bold;
+  cursor: pointer;
+}
+.map__near__btn:hover {
+  background-color: #e8eff8;
+}
+.map__near__btn:focus-visible {
+  outline: 3px solid #1f5fae;
+  outline-offset: 2px;
+}
+.map__near__btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+/* A small "you are here" target icon */
+.map__near__icon {
+  position: relative;
+  width: 1rem;
+  height: 1rem;
+  border: 2px solid currentColor;
+  border-radius: 50%;
+}
+.map__near__icon::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 0.35rem;
+  height: 0.35rem;
+  border-radius: 50%;
+  background-color: currentColor;
+}
+.map__near__note {
+  margin: 0.4rem 0 0;
+  color: #555;
+}
+.map__near__results p {
+  margin: 0.5rem 0 0;
+}
+.map__near__title {
+  font-size: 1rem;
+  margin: 0.75rem 0 0.25rem;
+}
+.map__near__list {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+.map__near__list li {
+  margin: 0.2rem 0;
+}
+.map__near__dist {
+  color: #555;
+  white-space: nowrap;
 }

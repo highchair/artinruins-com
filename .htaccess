@@ -158,8 +158,9 @@ RedirectMatch 301 ^/arch/historical/postcards(/.*)?$         https://artinruins.
   # Force HTTPS in browsers for 1 year (no includeSubDomains/preload until every subdomain is HTTPS)
   Header always set Strict-Transport-Security "max-age=31536000"
 
-  # Disable browser features the site does not use
-  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+  # Disable browser features the site does not use.
+  # geolocation=(self): the property map (/property/map/) can ask for the visitor's location, only on this site's own pages.
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(self), payment=(), usb=()"
 
   # Content Security Policy — REPORT-ONLY: nothing is blocked; violations show in the browser console.
   # When the console is clean across page types, rename to Content-Security-Policy to enforce.

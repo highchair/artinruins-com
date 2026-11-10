@@ -9,7 +9,7 @@ Used by `/map/` (`map.html`). Everything is self-hosted; no third-party map requ
 | `lib/basemaps-5.7.2.js` | Protomaps basemap styles 5.7.2 (global `basemaps`) | npm `@protomaps/basemaps`, BSD-3-Clause |
 | `fonts/` | Glyph PBFs: Noto Sans Regular/Medium/Italic | github.com/protomaps/basemaps-assets, SIL OFL (`fonts/OFL.txt`) |
 | `sprites/light*` | Protomaps v4 "light" sprite sheet | github.com/protomaps/basemaps-assets |
-| `tiles/providence-YYYYMMDD.pmtiles` | Basemap tiles, Providence metro extract | Protomaps daily build of OpenStreetMap data (ODbL) — attribution required |
+| `tiles/ri-YYYYMMDD.pmtiles` | Basemap tiles: Providence, Newport, Kingston, Chepachet, North Smithfield (`map_bounds`) | Protomaps daily build of OpenStreetMap data (ODbL) — attribution required |
 | `properties.json` | GeoJSON of properties (Jekyll-generated) | — |
 | `map.js`, `map.css` | Page script and styles | — |
 
@@ -32,8 +32,12 @@ Then copy both into the build folders (see "Build speed" below).
 3. Run (from the repo root):
 
 ```
-pmtiles extract https://build.protomaps.com/YYYYMMDD.pmtiles assets/map/tiles/providence-YYYYMMDD.pmtiles --bbox=-71.60,41.70,-71.30,41.95 --maxzoom=15
+pmtiles extract https://build.protomaps.com/YYYYMMDD.pmtiles assets/map/tiles/ri-YYYYMMDD.pmtiles --bbox=-71.70,41.44,-71.25,42.02 --maxzoom=15
 ```
+
+   The `--bbox` (west, south, east, north) must match `map_bounds` in `_config.yml`. The map cannot be
+   panned outside `map_bounds`, and properties outside it are left off the map. To cover a larger area,
+   change both. Add `--dry-run` to see the file size without downloading.
 
 4. Update `map_tiles` in `_config.yml` to the new filename, delete the old file.
 5. Copy it into the build folders (see below).
