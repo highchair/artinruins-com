@@ -30,7 +30,12 @@ cachebust: "20261102-1530"
 # Map prototype (/map/). Basemap tiles are a Protomaps PMTiles extract.
 # When you regenerate the extract, give it a new dated filename and update this path
 # (the dated name is the cache-buster; .pmtiles files are cached for 1 year).
-map_tiles: "/assets/map/tiles/providence-20261101.pmtiles"
+map_tiles: "/assets/map/tiles/ri-20261109.pmtiles"
+
+# Area the basemap extract covers, as [west, south, east, north]. Keep it identical to the --bbox
+# used to make the extract (see assets/map/README.md). The map cannot be panned outside this box,
+# and properties located outside it are left off the map.
+map_bounds: [-71.70, 41.44, -71.25, 42.02]
 
 # Build settings
 markdown: kramdown
