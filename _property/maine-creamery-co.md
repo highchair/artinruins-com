@@ -22,8 +22,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '395 Promenade St, Providence RI'
-latitude: '41.8300327'
-longitude: '-71.4266519'
+latitude: '41.8300287'
+longitude: '-71.4244632'
 gmap: "https://www.google.com/maps/place/395+Promenade+St,+Providence,+RI+02908/@41.8300327,-71.4266519,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44508c9a98fd3:0xbffdd6d943f9a0fc!8m2!3d41.8300287!4d-71.4244632"
 
 meta: ""

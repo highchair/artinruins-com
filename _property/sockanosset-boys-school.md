@@ -23,7 +23,7 @@ added-to-NRHP:
 
 address: 'Chapel View Blvd, Cranston RI'
 latitude: '41.7559296'
-longitude: '-71.4623898'
+longitude: '-71.4602011'
 gmap: "https://www.google.com/maps/place/Chapel+View+Blvd,+Cranston,+RI+02920/@41.7559296,-71.4623898,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44ec4036adc45:0x17bfd11afcb39b9f!8m2!3d41.7559296!4d-71.4602011"
 
 meta: ""

@@ -23,8 +23,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '530-532 Kinsley St, Providence RI'
-latitude: '41.8266'
-longitude: '-71.4369539'
+latitude: '41.826596'
+longitude: '-71.4347652'
 gmap: "https://www.google.com/maps/place/532+Kinsley+Ave,+Providence,+RI+02909/@41.8266,-71.4369539,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445a17769b507:0xfa60b318bd06299b!8m2!3d41.826596!4d-71.4347652"
 
 meta: ""

@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: 'Railroad Ave, South Kingstown, RI'
 latitude: '41.484724'
-longitude: '-71.5594037'
+longitude: '-71.55876'
 gmap: "https://www.google.com/maps/place/41%C2%B029'05.0%22N+71%C2%B033'31.5%22W/@41.484724,-71.5594037,159m/data=!3m2!1e3!4b1!4m13!1m8!3m7!1s0x89e5b87b41df4ee1:0xdf00fbbd7265d6a!2sKingston+Station,+South+Kingstown,+RI+02892!3b1!8m2!3d41.4839899!4d-71.5620057!16s%2Fm%2F04bph3h!3m3!8m2!3d41.484724!4d-71.55876?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D"
 street: []
 street-number:

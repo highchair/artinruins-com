@@ -23,7 +23,7 @@ tags: [ 'Sports Entertainment' ]
 
 address: '1300 Fall River Ave, Seekonk MA'
 latitude: '41.7918493'
-longitude: '-71.3236801'
+longitude: '-71.3211052'
 gmap: "https://www.google.com/maps/place/1300+Fall+River+Ave,+Seekonk,+MA+02771/@41.7918493,-71.3236801,632m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e45a70f1b1ebf1:0xd1ff85b5d8ab9172!8m2!3d41.7918493!4d-71.3211052!16s%2Fg%2F11bw3zw24g?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""

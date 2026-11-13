@@ -25,7 +25,7 @@ added-to-NRHP: 'June 10, 2005'
 
 address: '135 Harris Ave, Providence RI'
 latitude: '41.8271189'
-longitude: '-71.4272144'
+longitude: '-71.4250204'
 gmap: "https://www.google.com/maps/place/135+Harris+Ave,+Providence,+RI+02903/@41.8271189,-71.4272144,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445095b3311b9:0x62e7d7e8b0a11f4f!8m2!3d41.8271189!4d-71.4250204"
 
 meta: ""

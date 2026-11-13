@@ -23,7 +23,7 @@ added-to-NRHP: 'June 1972'
 
 address: '334 Knight St, Warwick RI'
 latitude: '41.7268133'
-longitude: '-71.4724607'
+longitude: '-71.4698858'
 gmap: "https://www.google.com/maps/place/334+Knight+St,+Warwick,+RI+02886/@41.7268133,-71.4724607,17z/data=!3m1!4b1!4m6!3m5!1s0x89e44c0447697405:0x55758ace6f591d4b!8m2!3d41.7268133!4d-71.4698858!16s%2Fg%2F11c4ks5sjg?entry=ttu"
 
 meta: ""

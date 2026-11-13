@@ -22,8 +22,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '100 Manton Ave, Providence RI'
-latitude: '41.8179117'
-longitude: '-71.4485203'
+latitude: '41.818640'
+longitude: '-71.446354'
 gmap: "https://www.google.com/maps/place/100+Manton+Ave,+Providence,+RI+02909/@41.8179117,-71.4485203,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445910ab25a59:0x5b2179ae65de616c!8m2!3d41.8179117!4d-71.4463316"
 
 meta: ""

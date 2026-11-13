@@ -22,8 +22,8 @@ NRHP-ref-number: '72000016 (individual)'
 added-to-NRHP: 'July 1972'
 
 address: '1200 Hope St, Bristol RI'
-latitude: '41.6970402'
-longitude: '-71.279576'
+latitude: '41.6970873'
+longitude: '-71.2789991'
 gmap: "https://www.google.com/maps/place/1200+Hope+St,+Bristol,+RI+02809/@41.6970402,-71.279576,17z/data=!4m16!1m9!3m8!1s0x89e454039ba55a4f:0xae5c3f78890c7ebe!2s1200+Hope+St,+Bristol,+RI+02809!3b1!8m2!3d41.6970873!4d-71.2789991!10e5!16s%2Fg%2F11c0x_t1m4!3m5!1s0x89e454039ba55a4f:0xae5c3f78890c7ebe!8m2!3d41.6970873!4d-71.2789991!16s%2Fg%2F11c0x_t1m4?entry=ttu"
 
 meta: ""

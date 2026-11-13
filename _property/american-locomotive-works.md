@@ -23,8 +23,8 @@ NRHP-ref-number: '05000917 (individual)'
 added-to-NRHP: 'August 2005'
 
 address: '555 Valley St, Providence RI'
-latitude: '41.8288707'
-longitude: '-71.4326062'
+latitude: '41.828926'
+longitude: '-71.431021'
 gmap: "https://www.google.com/maps/place/The+ALCO:+AMERICAN+LOCOMOTIVE+WORKS+(Office+Park)/@41.8288707,-71.4326062,17z/data=!4m5!3m4!1s0x89e445a71610d42d:0x326f4f280a9dee4a!8m2!3d41.8292231!4d-71.4308041"
 street: [ 'Valley St' ]
 street-number: 555

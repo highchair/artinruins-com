@@ -18,8 +18,8 @@ tags: [ 'College Properties', 'The Superlatives', 'LEED in RI', 'Contemporary' ]
 superlative: 'The first LEED-certified college residence hall in the state'
 
 address: '600 Mt Pleasant Ave, Providence RI'
-latitude: '41.8398293'
-longitude: '-71.4679735'
+latitude: '41.8398283'
+longitude: '-71.4674263'
 gmap: "https://www.google.com/maps/place/Penfield+Residence+Hall/@41.8398293,-71.4679735,19z/data=!3m1!4b1!4m5!3m4!1s0x89e445d040fa6fa7:0x520b7dc87732ba00!8m2!3d41.8398283!4d-71.4674263"
 
 meta: ""

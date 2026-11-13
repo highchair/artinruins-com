@@ -22,8 +22,8 @@ NRHP-ref-number: '07001381 (individual)'
 added-to-NRHP: 'January 2008'
 
 address: '46 Dyke St, Providence RI'
-latitude: '41.8151674'
-longitude: '-71.4434729'
+latitude: '41.815522' 
+longitude: '-71.441374'
 gmap: "https://www.google.com/maps/place/46+Dike+St,+Providence,+RI+02909/@41.8151674,-71.4434729,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459aae564157:0x41103bcd4ed72d64!8m2!3d41.8151674!4d-71.4412842"
 
 meta: ""

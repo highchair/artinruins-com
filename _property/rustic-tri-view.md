@@ -19,7 +19,7 @@ superlative: 'Screen number one is 60 by 120 feet, the largest in RI'
 
 address: '1193 Eddie Dowling Highway, North Smithfield RI'
 latitude: '41.9571324'
-longitude: '-71.4934434'
+longitude: '-71.4912547'
 gmap: "https://www.google.com/maps/place/1193+Eddie+Dowling+Hwy,+North+Smithfield,+RI+02896/@41.9571324,-71.4934434,17z/data=!3m1!4b1!4m5!3m4!1s0x89e441ef8e678c97:0x8519ec3b58ce0224!8m2!3d41.9571324!4d-71.4912547"
 
 meta: ""

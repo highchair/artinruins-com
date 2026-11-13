@@ -23,9 +23,9 @@ NRHP-ref-number: '73000002 (contributing)'
 added-to-NRHP: 'April 1973'
 
 address: '10 Railroad St, North Smithfield RI'
-latitude: '41.9999539'
-longitude: '-71.579777'
-gmap: "https://www.google.com/maps/place/10+Railroad+St,+Slatersville,+RI+02876/@41.9999539,-71.579777,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4154a1a7f8061:0x5e6d4402ebd168d4!8m2!3d42.0001124!4d-71.577588"
+latitude: '42.0001124'
+longitude: '-71.577588'
+gmap: "https://www.google.com/maps/place/Residences+at+Slatersville+Mill/@41.9998421,-71.5789557,283m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDU5JzU5LjgiTiA3McKwMzQnNDcuMiJX!8m2!3d41.9999539!4d-71.579777!3m5!1s0x89e4154a1aaa0b09:0xa8a7bfa8f4e43567!8m2!3d42.0001124!4d-71.577588!16s%2Fg%2F12q4wcgt7?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "An early 19th-century complex with two granite stone mills in the first “Mill Village” is converted into residential apartments"

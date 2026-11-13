@@ -19,8 +19,8 @@ lists: []
 tags: [ 'Contemporary' ]
 
 address: '555 Harris Ave, Providence RI'
-latitude: '41.8232004'
-longitude: '-71.4393958'
+latitude: '41.8231964'
+longitude: '-71.4368209'
 gmap: "https://www.google.com/maps/place/Gotham+Greens+Providence/@41.8232004,-71.4393958,17z/data=!3m1!4b1!4m6!3m5!1s0x89e44598aea11acb:0xa24f97e21f064c59!8m2!3d41.8231964!4d-71.4368209!16s%2Fg%2F11ggz2cb5n?entry=ttu"
 street: [ 'Harris Ave' ]
 street-number: '555'
@@ -91,7 +91,7 @@ _by Gail Ciampa_
 
 Commuters on the Route 6-10 connector may have already seen the giant greenhouse lit up and wondered: What is that in Olneyville?
 
-It’s [Gotham Greens](//www.gothamgreens.com/){:target="_blank"}, with its 100,000 square feet growing fresh lettuce in 10 varieties, and Genovese basil, enough to stock stores across New England, even during the harsh winter months. It’s part of a sustainable urban farming movement that is not only pesticide- and herbicide-free, but also bacteria-free.
+It’s [Gotham Greens](https://www.gothamgreens.com/), with its 100,000 square feet growing fresh lettuce in 10 varieties, and Genovese basil, enough to stock stores across New England, even during the harsh winter months. It’s part of a sustainable urban farming movement that is not only pesticide- and herbicide-free, but also bacteria-free.
 
 When the Food and Drug Administration recalled all that California-grown romaine lettuce just before Thanksgiving because of E. coli, grocery stores across the country reached out to Brooklyn, New York-based Gotham Greens for its buttery soft, safe-to-eat romaine leaves, said Gotham Greens co-founder and CEO Viraj Puri. They provided completely clean lettuce, grown under controlled conditions, for many holiday tables.
 

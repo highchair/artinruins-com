@@ -26,7 +26,7 @@ added-to-NRHP: 'May 15, 1973'
 
 address: '97 Admiral St, Providence RI'
 latitude: '41.8417918'
-longitude: '-71.4230623'
+longitude: '-71.4204874'
 gmap: "https://www.google.com/maps/place/Esek+Hopkins+House,+97+Admiral+St,+Providence,+RI+02908/@41.8417918,-71.4230623,17z/data=!3m1!4b1!4m6!3m5!1s0x89e444fd0e7d0b87:0xa15d121679cf79ef!8m2!3d41.8417918!4d-71.4204874!16s%2Fm%2F043nc5v?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Admiral St' ]
 street-number: 97

@@ -21,8 +21,8 @@ NRHP-ref-number: '04000808 (individual)'
 added-to-NRHP: 'August 4, 2004'
 
 address: '146-148 West River St., Providence RI'
-latitude: '41.8434338'
-longitude: '-71.4170831'
+latitude: '41.8434298'
+longitude: '-71.4148944'
 gmap: "https://www.google.com/maps/place/146+W+River+St,+Providence,+RI+02904/@41.8434338,-71.4170831,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444e3830a9dbd:0x3fafd2ac22e0ef41!8m2!3d41.8434298!4d-71.4148944"
 
 meta: ""

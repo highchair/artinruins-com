@@ -22,7 +22,7 @@ added-to-NRHP: 'October 5, 1993'
 
 address: '5 Avenue of the Arts, Providence RI'
 latitude: '41.830055'
-longitude: '-71.4188327'
+longitude: '-71.416644'
 gmap: "https://www.google.com/maps/place/5+Ave+of+the+Arts,+Providence,+RI+02903/@41.830055,-71.4188327,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451aa016b2d3:0x523cf5ee91a20209!8m2!3d41.830055!4d-71.416644"
 
 meta: ""

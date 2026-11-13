@@ -24,7 +24,7 @@ added-to-NRHP: 'November 1993'
 
 address: '57 Brownell Street, Providence RI'
 latitude: '41.8305097'
-longitude: '-71.4207537'
+longitude: '-71.418565'
 gmap: "https://www.google.com/maps/place/57+Brownell+St,+Providence,+RI+02908/@41.8305097,-71.4207537,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450556e8fc5f:0xcbcbb2ee2486ff9e!8m2!3d41.8305097!4d-71.418565"
 
 meta: ""

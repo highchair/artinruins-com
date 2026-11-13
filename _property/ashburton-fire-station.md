@@ -24,7 +24,7 @@ added-to-NRHP:
 
 address: '65 Ashburton St, Providence RI'
 latitude: '41.8378316'
-longitude: '-71.4174215'
+longitude: '-71.4152328'
 gmap: "https://www.google.com/maps/place/65+Ashburton+St,+Providence,+RI+02904/@41.8378316,-71.4174215,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451d098eccff:0xd26594077a0e08d!8m2!3d41.8378316!4d-71.4152328"
 
 meta: ""
@@ -60,14 +60,14 @@ mostrecentimage: 2024-09-01
 
 ### Redevelopment
 
-During 2006 to 2018 or so, owner Maria Bernal was a bit of a pioneer. As far as we can tell, this business owner also lived above her ground floor antiques store in a former firehouse. Before Snookers took over the neighboring [Damiano Brothers]({% link _property/damiano-brothers.md %}) building, and way before the former [J.L. Clark Manufacturing]({% link _property/j-l-clark-manufacturing.md %}) started to be converted into residential spaces. She survived as a boutique destination purveyor of mid-century antiques amongst a liquor store, an adult store, some light manufacturing, a gas station, and the post office. 
+During 2006 to 2018 or so, owner Maria Bernal was a bit of a pioneer. As far as we can tell, this business owner also lived above her ground floor antiques store in a former firehouse. Before Snookers took over the neighboring [Damiano Brothers]({% link _property/damiano-brothers.md %}) building, and way before the former [J.L. Clark Manufacturing]({% link _property/j-l-clark-manufacturing.md %}) started to be converted into residential spaces. She survived as a boutique destination purveyor of mid-century antiques amongst a liquor store, an adult store, some light manufacturing, a gas station, and the post office.
 
-Not much is known or can be found about the building itself. We place its construction at 1936 to 1937. If it was originally constructed as a fire station, it would have housed engines and horses on the first floor and firemen on the second. Later it was labelled as a boiler manufacturer and then an evangelical church. 
+Not much is known or can be found about the building itself. We place its construction at 1936 to 1937. If it was originally constructed as a fire station, it would have housed engines and horses on the first floor and firemen on the second. Later it was labelled as a boiler manufacturer and then an evangelical church.
 
 
 ### Current Events
 
-Google lists the former business located here as “Permanently Closed.” 
+Google lists the former business located here as “Permanently Closed.”
 
 
 ### History

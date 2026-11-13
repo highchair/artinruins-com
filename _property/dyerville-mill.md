@@ -23,7 +23,7 @@ added-to-NRHP: 'June 18, 1979'
 
 address: '610 Manton Avenue, Providence RI'
 latitude: '41.8264712'
-longitude: '-71.4637647'
+longitude: '-71.461576'
 gmap: "https://www.google.com/maps/place/610+Manton+Ave,+Providence,+RI+02909/@41.8264712,-71.4637647,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445e9b96ad611:0xa20be35cd01e8234!8m2!3d41.8264712!4d-71.461576"
 
 meta: ""

@@ -23,7 +23,7 @@ added-to-NRHP:
 
 address: '200 Corliss St, Providence RI'
 latitude: '41.8427867'
-longitude: '-71.4149631'
+longitude: '-71.4127744'
 gmap: "https://www.google.com/maps/place/200+Corliss+St,+Providence,+RI+02904/@41.8427867,-71.4149631,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444e3e6807fa7:0xf67c6eb47625c8e6!8m2!3d41.8427867!4d-71.4127744"
 
 meta: ""

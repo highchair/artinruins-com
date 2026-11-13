@@ -23,7 +23,7 @@ added-to-NRHP:
 
 address: '711 Putnam Pike, Smithfield RI'
 latitude: '41.8774174'
-longitude: '-71.5707822'
+longitude: '-71.5685935'
 gmap: "https://www.google.com/maps/place/711+Putnam+Pike,+Greenville,+RI+02828/@41.8774174,-71.5707822,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44763a7f58d2d:0xb420f607f76090a3!8m2!3d41.8774174!4d-71.5685935"
 
 meta: ""

@@ -22,9 +22,9 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '484 Mt Pleasant Ave, Providence RI'
-latitude: '41.8388279'
-longitude: '-71.4542439'
-gmap: "https://www.google.com/maps/place/484+Mt+Pleasant+Ave,+Providence,+RI+02909/@41.8388279,-71.4542439,16z/data=!4m5!3m4!1s0x89e445b64f742e4d:0x3c3d0cffdc64a080!8m2!3d41.8388284!4d-71.451669?entry=ttu"
+latitude: '41.839585'
+longitude: '-71.451925'
+gmap: "https://www.google.com/maps/place/Mt+Pleasant+High+School+(on+Mt+Pleasant)/@41.8395046,-71.4528204,18.83z/data=!4m6!3m5!1s0x89e445b612d2e90d:0xab1ef2616099cee8!8m2!3d41.839785!4d-71.452098!16s%2Fg%2F11c0w3pksm?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: []
 
 meta: ""

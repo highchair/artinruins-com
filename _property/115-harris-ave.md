@@ -22,8 +22,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '115 Harris Ave, Providence RI'
-latitude: '41.8273983'
-longitude: '-71.425935'
+latitude: '41.8273943'
+longitude: '-71.4237463'
 gmap: "https://www.google.com/maps/place/115+Harris+Ave,+Providence,+RI+02903/@41.8273983,-71.425935,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450eb4800b41:0x189ae54d102ee685!8m2!3d41.8273943!4d-71.4237463"
 
 meta: ""

@@ -23,7 +23,7 @@ added-to-NRHP:
 
 address: '10 Ambrose Street, Providence RI'
 latitude: '41.8361418'
-longitude: '-71.4186506'
+longitude: '-71.4164619'
 gmap: "https://www.google.com/maps/place/10+Ambrose+St,+Providence,+RI+02908/@41.8361418,-71.4186506,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451ceaf0822f:0x461bd49ba86ea2cd!8m2!3d41.8361418!4d-71.4164619"
 
 meta: ""

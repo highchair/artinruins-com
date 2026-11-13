@@ -22,8 +22,8 @@ NRHP-ref-number: '80000096'
 added-to-NRHP: 'November 1980'
 
 address: '351 Willet Ave, East Providence RI'
-latitude: '41.7731774'
-longitude: '-71.3549682'
+latitude: '41.7731734'
+longitude: '-71.3543245'
 gmap: "https://www.google.com/maps/place/351+Willett+Ave,+Riverside,+RI+02915/@41.7731774,-71.3549682,19z/data=!4m6!3m5!1s0x89e4506a47756121:0x61488115828b164c!8m2!3d41.7731734!4d-71.3543245!16s%2Fg%2F11b8v6ny52?entry=ttu"
 street: []
 

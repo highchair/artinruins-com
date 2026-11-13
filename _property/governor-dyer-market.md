@@ -19,12 +19,12 @@ lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: []
 
 address: '38 Rathbone St, Providence RI'
-latitude: '41.8298632'
-longitude: '-71.4309353'
+latitude: '41.830688'
+longitude: '-71.429566'
 gmap: "https://www.google.com/maps/place/38+Rathbone+St,+Providence,+RI+02908/@41.8298632,-71.4309353,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44508345a3843:0xc8d7cf46f5ced388!8m2!3d41.8298592!4d-71.4287466"
 
 meta: ""
-excerpt: "Two buildings, one still extant and the other recently demolished, in a fruit and produce warehouse portion of Valley Street"
+excerpt: "Two buildings, one still extant and the other demolished, in a fruit and produce warehouse location on Valley Street"
 
 thumbnail: greylawn-jh-2011-10-02.jpg
 
@@ -82,7 +82,7 @@ The Greylawn warehouse was built right up against the northern side of this buil
 
 ### Current Events
 
-The rectangular Mike’s Diner building still stands as of the summer of 2022. By the looks of the grafitti and the disrepair of the building itself, we would guess it will also soon be demolished.
+The rectangular Mike’s Diner building still stands as of the summer of 2022. By the looks of the graffiti and the disrepair of the building itself, we would guess it will also soon be demolished.
 
 
 ### History

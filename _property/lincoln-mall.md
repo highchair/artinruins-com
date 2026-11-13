@@ -23,7 +23,7 @@ added-to-NRHP:
 
 address: '622 George Washington Highway, Lincoln RI'
 latitude: '41.9373389'
-longitude: '-71.4773867'
+longitude: '-71.475198'
 gmap: "https://www.google.com/maps/place/622+George+Washington+Hwy,+Lincoln,+RI+02865/@41.9373389,-71.4773867,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44244222e1a1b:0x555815243b1c69d4!8m2!3d41.9373389!4d-71.475198"
 
 meta: ""

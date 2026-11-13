@@ -23,8 +23,8 @@ NRHP-ref-number: '03000081 (individual)'
 added-to-NRHP: 'April 18, 2003'
 
 address: '255 Promendade St, Providence RI'
-latitude: '41.8285767'
-longitude: '-71.4215145'
+latitude: '41.829190'
+longitude: '-71.419677'
 gmap: "https://www.google.com/maps/place/The+Promenade+Apartments/@41.8285767,-71.4215145,17z/data=!4m13!1m7!3m6!1s0x89e4450fc8a6b501:0x60d0c84508dbb2b0!2s235+Promenade+St,+Providence,+RI+02908!3b1!8m2!3d41.8285767!4d-71.4193258!3m4!1s0x89e4450fb8d3f683:0xbfa136d7c04e396f!8m2!3d41.8293445!4d-71.4201672"
 
 meta: ""
@@ -210,7 +210,7 @@ images:
 
 mostrecentimage: 2005-07-01
 
-imagescredit: 'Contributions by Rhode Island Photographs Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A11078">Photo</a>) and Rhode Island Postcards Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A22843">From River</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A19915">Aerial</a>) at the Providence Public Library, Edward Connors for the National Register nomination form, and Frank Mullin'
+imagescredit: 'Contributions by Rhode Island Photographs Collection and Rhode Island Postcards Collection at the Providence Public Library; Edward Connors for the National Register nomination form; and Frank Mullin'
 
 external:
   - source: '1896 engraving of buildings and schematic, WikiMedia'

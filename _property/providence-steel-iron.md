@@ -22,8 +22,8 @@ NRHP-ref-number: '05000919 (individual)'
 added-to-NRHP: 'August 2005'
 
 address: '27 Sims Avenue, Providence RI'
-latitude: '41.8262095'
-longitude: '-71.4358125'
+latitude: '41.826700'
+longitude: '-71.433948'
 gmap: "https://www.google.com/maps/place/27+Sims+Ave,+Providence,+RI+02909/@41.8262095,-71.4358125,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445a105502a33:0x626e5b81afb62ed7!8m2!3d41.8262095!4d-71.4336238"
 
 meta: ""

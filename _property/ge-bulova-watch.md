@@ -19,9 +19,9 @@ tags: [ 'Mid-century Modern', 'Needs History' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '171 Service Avenue (formerly number 55), Warwick RI'
-latitude: '41.7383108'
-longitude: '-71.4480799'
+address: '171 Service Ave (formerly number 55), Warwick RI'
+latitude: '41.738235'
+longitude: '-71.446178'
 gmap: "https://www.google.com/maps/search/171+service+place+warwick+ri/@41.7383108,-71.4480799,17z/data=!3m1!4b1"
 
 meta: ""

@@ -22,8 +22,8 @@ NRHP-ref-number: '03000656 (individual)'
 added-to-NRHP: 'July 11, 2003'
 
 address: '166–188 Valley St, Providence RI'
-latitude: '41.8211579'
-longitude: '-71.4430777'
+latitude: '41.8211021' 
+longitude: '-71.440697'
 gmap: "https://www.google.com/maps/place/Rising+Sun+Mills/@41.8211579,-71.4430777,17z/data=!4m13!1m7!3m6!1s0x89e44599c48715a1:0x226f12cd610a29d5!2s166+Valley+St,+Providence,+RI+02909!3b1!8m2!3d41.8211021!4d-71.440697!3m4!1s0x89e44599b51efa43:0x37e27a9959b5ae9b!8m2!3d41.820666!4d-71.4410079"
 street: [ 'Valley St' ]
 street-number: 166

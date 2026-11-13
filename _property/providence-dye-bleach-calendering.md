@@ -22,8 +22,8 @@ NRHP-ref-number: '04000809'
 added-to-NRHP: 'October 18, 2004'
 
 address: '60 Valley St, Providence RI'
-latitude: '41.8190841'
-longitude: '-71.4431619'
+latitude: '41.819045' 
+longitude: '-71.440925'
 gmap: "https://www.google.com/maps/place/60+Valley+St,+Providence,+RI+02909/@41.8190841,-71.4431619,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459a1a97cbbf:0xad1260ab6360459d!8m2!3d41.8191808!4d-71.4408825"
 street: [ 'Valley St' ]
 street-number: 60

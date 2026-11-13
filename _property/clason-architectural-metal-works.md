@@ -25,8 +25,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '430 Kinsley Ave, Providence RI'
-latitude: '41.8275792'
-longitude: '-71.4341601'
+latitude: '41.8275752'
+longitude: '-71.4315852'
 gmap: "https://www.google.com/maps/place/430+Kinsley+Ave,+Providence,+RI+02909/@41.8275792,-71.4341601,17z/data=!3m1!4b1!4m6!3m5!1s0x89e445a0ca85422d:0x9f43f51501c39bd4!8m2!3d41.8275752!4d-71.4315852!16s%2Fg%2F11b8yb2zbk?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Kinsley Ave' ]
 street-number: 430

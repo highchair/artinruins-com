@@ -22,8 +22,8 @@ lists: []
 tags: [ 'Mid-century Modern', 'Needs History' ]
 
 address: '240 Bullocks Point Ave, Riverside RI'
-latitude: '41.7720089'
-longitude: '-71.3625411'
+latitude: '41.7719824'
+longitude: '-71.3623983'
 gmap: "https://www.google.com/maps/place/Dari-Bee+Ice+Cream/@41.7720089,-71.3625411,85m/data=!3m1!1e3!4m6!3m5!1s0x89e4503e30b75243:0x54d4565c91899794!8m2!3d41.7719824!4d-71.3623983!16s%2Fg%2F1tffqc3f?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoJLDEwMjExMjMzSAFQAw%3D%3D"
 street: [ 'Bullocks Point Ave' ]
 street-number: 240

@@ -23,7 +23,7 @@ added-to-NRHP: 'August 2008'
 
 address: '485 Plainfield St, Providence RI'
 latitude: '41.8135424'
-longitude: '-71.4567087'
+longitude: '-71.45452'
 gmap: "https://www.google.com/maps/place/485+Plainfield+St,+Providence,+RI+02909/@41.8135424,-71.4567087,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445f347801559:0x796ec65e0548642b!8m2!3d41.8135424!4d-71.45452"
 
 meta: ""

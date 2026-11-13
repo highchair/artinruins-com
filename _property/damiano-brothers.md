@@ -23,7 +23,7 @@ added-to-NRHP:
 
 address: '53 Ashburton St, Providence RI'
 latitude: '41.8377582'
-longitude: '-71.4170245'
+longitude: '-71.4148358'
 gmap: "https://www.google.com/maps/place/53+Ashburton+St,+Providence,+RI+02904/@41.8377582,-71.4170245,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451da69498a5:0x7f12db5bdea7328e!8m2!3d41.8377582!4d-71.4148358"
 
 meta: ""

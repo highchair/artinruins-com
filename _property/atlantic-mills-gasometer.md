@@ -22,9 +22,9 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '11 Aleppo St, Providence RI'
-latitude: '41.8195324'
-longitude: '-71.4486433'
-gmap: "https://www.google.com/maps/place/11+Aleppo+St,+Providence,+RI+02909/@41.8195324,-71.4486433,17z"
+latitude: '41.819527'
+longitude: '-71.446649'
+gmap: "https://www.google.com/maps/place/Signal+Works/@41.8195383,-71.4469283,99m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ5JzEwLjMiTiA3McKwMjYnNTUuMSJX!8m2!3d41.8195324!4d-71.4486433!3m5!1s0x89e44598ad95fcbb:0x5f5b21216a9cd92e!8m2!3d41.8195564!4d-71.446625!16s%2Fg%2F11c450bdvn?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "An 1860s gasometer with unheroic uses for a century before being reborn as small business and community space"

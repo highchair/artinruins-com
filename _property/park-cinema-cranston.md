@@ -23,8 +23,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '848 Park Ave, Cranston RI'
-latitude: '41.7789321'
-longitude: '-71.4383867'
+latitude: '41.7789281'
+longitude: '-71.436198'
 gmap: "https://www.google.com/maps/place/Park+Theatre/@41.7789321,-71.4383867,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44f0ecb174cbb:0x20d79ca468f8a66b!8m2!3d41.7789281!4d-71.436198"
 
 meta: ""

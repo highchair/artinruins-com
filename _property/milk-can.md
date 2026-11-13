@@ -22,7 +22,7 @@ added-to-NRHP: '1979'
 
 address: '920 Eddie Dowling Highway, North Smithfield RI'
 latitude: '41.9647697'
-longitude: '-71.5009694'
+longitude: '-71.4987807'
 gmap: "https://www.google.com/maps/place/920+Eddie+Dowling+Hwy,+North+Smithfield,+RI+02896/@41.9647697,-71.5009694,17z/data=!3m1!4b1!4m5!3m4!1s0x89e441e0dd0958c7:0x504f709bb6bc4cb2!8m2!3d41.9647697!4d-71.4987807"
 
 meta: ""
