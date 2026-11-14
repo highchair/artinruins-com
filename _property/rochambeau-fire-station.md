@@ -1,7 +1,7 @@
 ---
 title: "Providence Fire Station no. 4"
 slug: rochambeau-fire-station
-aka:
+aka: 'Hose 24 — Ladder 13'
 date-modified: 2022-03-26 17:00
 
 built: '1929'
@@ -13,7 +13,7 @@ date-added: '2022'
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Fire Stations', 'Providence Public Library Digital Collections' ]
@@ -22,9 +22,9 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '270 Rochambeau Ave, Providence RI'
-latitude: '41.8460623'
-longitude: '-71.4311004'
-gmap: "https://www.google.com/maps/place/Providence+Station+4/@41.8460623,-71.4311004,13z/data=!4m9!1m2!2m1!1srochambeau+fire+station!3m5!1s0x89e444c563090263:0x9ee9dfdbd93a096c!8m2!3d41.8471484!4d-71.3945706!15sChdyb2NoYW1iZWF1IGZpcmUgc3RhdGlvbpIBDGZpcmVfc3RhdGlvbg"
+latitude: '41.8472553'
+longitude: '-71.3946062'
+gmap: "https://www.google.com/maps/place/270+Rochambeau+Ave,+Providence,+RI+02906/@41.8472293,-71.3949737,162m/data=!3m1!1e3!4m6!3m5!1s0x89e444c56309027b:0x551ff18714f2ac5d!8m2!3d41.8472553!4d-71.3946062!16s%2Fg%2F11rp1z0r2h?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "A late 1920s Tudoresque fire station on the East Side of Providence is seeking ideas for reuse"
@@ -57,7 +57,7 @@ images:
 
 mostrecentimage: 2022-03-01
 
-imagescredit: 'Contribution from the Providence Public Library, <a href="//provlibdigital.org/islandora/object/islandora%3A5497" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>'
+imagescredit: 'Contribution from the Providence Public Library, <a href="https://provlibdigital.org/islandora/object/islandora%3A5497">John Hutchins Cady Research Scrapbooks Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -66,18 +66,18 @@ imagescredit: 'Contribution from the Providence Public Library, <a href="//provl
 
 ### Current Events
 
-This fire house closed in January of 2017 and is currently looking for a new life. The larger station on [Humboldt Avenue]({% link _property/humboldt-fire-station.md %}) also closed around this time. 
+This fire house closed in January of 2017 and is currently looking for a new life. A larger station on [Humboldt Avenue]({% link _property/humboldt-fire-station.md %}) also closed around this time.
 
 
 ### History
 
-Not much formal history found yet. Sanborn Map [1920-1921 Volume 2 Plate 90](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} does not show the station in place, but the [1939 G.M. Hopkins Plate 24](http://www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/){:target="_blank"} does. Sanborn [1920–1951](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} shows the station and it is labelled as “Hose 24 – Ladder 13.”
+Not much formal history found yet. Sanborn Map [1920-1921 Volume 2 Plate 90](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102) does not show the station in place, but the [1939 G.M. Hopkins Plate 24](http://www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/) does. Sanborn [1920–1951](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102) shows the station and it is labelled as “Hose 24 – Ladder 13.”
 
 ***
 
 _From the RIHPHC’s Historic and Architectural Resources of the East Side, Providence, 1989_
 
-**Engine #4 Fire Station 1929**: A tall 1-1/2-story, brick and half-timber, Tudor Revival fire station with a steep cross-gable roof. Its construction reflects the expansion of municipal services into this growing residential area, and its detailing represents an attempt to integrate the building with its domestic surroundings. 
+**Engine #4 Fire Station 1929**: A tall 1-1/2-story, brick and half-timber, Tudor Revival fire station with a steep cross-gable roof. Its construction reflects the expansion of municipal services into this growing residential area, and its detailing represents an attempt to integrate the building with its domestic surroundings.
 
 
 ### In the News
@@ -88,9 +88,7 @@ _From the RIHPHC’s Historic and Architectural Resources of the East Side, Prov
 
 The City of Providence held an open house Wednesday night at the Rochambeau Fire Station, seeking public input on potential reuse options for the property at 280 Rochambeau Ave. The firehouse, a two-story structure designed in a Tudoresque style, opened in 1929 and closed this past January.
 
-— 
-
-“Ideas sought for retired Providence fire station.” Providence Journal (RI), sec. RI News, 28 Sept. 2017, p. A4. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/16734C48905F8F10. Accessed 26 Mar. 2022.
+— _“Ideas sought for retired Providence fire station.” Providence Journal (RI), sec. RI News, 28 Sept. 2017, p. A4. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/16734C48905F8F10. Accessed 26 Mar. 2022._
 
 ***
 
@@ -125,8 +123,6 @@ And they all remembered kindness, never cross words.  When the firefighters noti
 
 Philip Teverow recalled running to Captain Farmer for help in tying his tie as he got ready for Shabbat services on a day when his father was not at home. And when Joseph Teverow suffered a heart attack, the firefighters came over to plow after a snowstorm.
 
-Those who lived in the shadow of the Rochambeau Avenue Fire Station knew firsthand the firefighters, who were friends in word and deed. For 87 years, the station was an integral strand in the fabric of a Providence neighborhood in which our Jewish community was and still is a part. 
+Those who lived in the shadow of the Rochambeau Avenue Fire Station knew firsthand the firefighters, who were friends in word and deed. For 87 years, the station was an integral strand in the fabric of a Providence neighborhood in which our Jewish community was and still is a part.
 
-—
-
-_Captured March 26, 2022 from https://www.jewishrhody.com/stories/legacy-for-a-firehouse,6413_
+— _Captured March 26, 2022 from https://www.jewishrhody.com/stories/legacy-for-a-firehouse,6413_

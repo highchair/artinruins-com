@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: '545 Prairie Ave, Providence RI'
 latitude: '41.7990373'
-longitude: '-71.4147569'
+longitude: '-71.412182'
 gmap: "https://www.google.com/maps/place/545+Prairie+Ave,+Providence,+RI+02905/@41.7990373,-71.4147569,17z/data=!3m1!4b1!4m6!3m5!1s0x89e44f898a64b6bf:0x571eab622438e24f!8m2!3d41.7990373!4d-71.412182!16s%2Fg%2F11pcnfj1f0?entry=ttu&g_ep=EgoyMDI1MDcyMS4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Pairie Ave' ]
 street-number: 545

@@ -13,7 +13,7 @@ date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'Downtown Pawtucket Historic District', 'National Register of Historic Places' ]
 tags: []
@@ -21,9 +21,9 @@ tags: []
 NRHP-ref-number: '06001227 (contributing)'
 added-to-NRHP: 'November 2006'
 
-address: '49–51 Montgomery Stret, Pawtucket RI'
+address: '49–51 Montgomery St, Pawtucket RI'
 latitude: '41.8806244'
-longitude: '-71.3871302'
+longitude: '-71.3849415'
 gmap: "https://www.google.com/maps/place/49+Montgomery+St,+Pawtucket,+RI+02860/@41.8806244,-71.3871302,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44352f0ea39c7:0x68a3019d93b0c928!8m2!3d41.8806244!4d-71.3849415"
 
 meta: ""
@@ -68,7 +68,7 @@ In 2008, partner Luke Mandel sold the building and moved the studio and his fami
 
 ### History
 
-A Sanborn Map from 1949 shows a building at this location with a concrete floor labelled “Sign Painting” — [Pawtucket 1923-Dec. 1949 vol. 1, 1923-Nov. 1949, Sheet 19](//digitalsanbornmaps.proquest.com/browse_maps/40/8072/39383/41269/559800?accountid=7136){:target="_blank"} (sign-in required).
+A Sanborn Map from 1949 shows a building at this location with a concrete floor labelled “Sign Painting” — [Pawtucket 1923-Dec. 1949 vol. 1, 1923-Nov. 1949, Sheet 19](https://digitalsanbornmaps.proquest.com/browse_maps/40/8072/39383/41269/559800?accountid=7136) (sign-in required).
 
 
 _From the Downtown Pawtucket Historic District nomination form, November 2006, prepared by Kathryn J. Cavanaugh_

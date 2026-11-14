@@ -23,9 +23,9 @@ superlative: 'The nation’s first diner to be nominated to the National Registe
 NRHP-ref-number: '78000002 (individual)'
 added-to-NRHP: 'October 1978'
 
-address: '364 East Avenue, Pawtucket RI (previously located at 13 Dexter St)'
+address: '364 East Ave, Pawtucket RI (previously located at 13 Dexter St)'
 latitude: '41.8688269'
-longitude: '-71.3891001'
+longitude: '-71.3869114'
 gmap: "https://www.google.com/maps/place/364+East+Ave,+Pawtucket,+RI+02860/@41.8688269,-71.3891001,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444abf2aaef91:0xd907152949017cc8!8m2!3d41.8688269!4d-71.3869114"
 
 meta: ""

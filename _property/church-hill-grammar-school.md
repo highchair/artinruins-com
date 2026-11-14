@@ -22,9 +22,9 @@ NRHP-ref-number: 10000165
 added-to-NRHP: 'April 2010 (Individual)'
 
 address: '81 Park Place, Pawtucket RI'
-latitude: '41.8759265'
-longitude: '-71.3892579'
-gmap: "https://www.google.com/maps/place/81+Park+Pl,+Pawtucket,+RI+02860/@-71.3892579,18z/data=!4m6!3m5!1s0x89e443542e0dccbb:0x6a099dfdd753cf3c!8m2!3d41.8759265!4d-71.387772!16s%2Fg%2F11c17hpmlc?entry=ttu"
+latitude: '41.8759154'
+longitude: '-71.3877067'
+gmap: "https://www.google.com/maps/place/81+Park+Pl+W,+Pawtucket,+RI+02860/@41.8758897,-71.3890588,183m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDUyJzMzLjMiTiA3McKwMjMnMjEuMyJX!8m2!3d41.8759265!4d-71.3892579!3m5!1s0x89e443542e0dccbb:0x6a099dfdd753cf3c!8m2!3d41.8759154!4d-71.3877067!16s%2Fg%2F11c17hpmlc?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Park Place' ]
 street-number: 81
 

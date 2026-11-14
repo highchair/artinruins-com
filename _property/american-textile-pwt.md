@@ -24,9 +24,9 @@ superlative: 'This mill was once the largest lace producer in the country'
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '250 Esten Street, Pawtucket RI'
+address: '250 Esten St, Pawtucket RI'
 latitude: '41.8618185'
-longitude: '-71.4038195'
+longitude: '-71.4016308'
 gmap: "https://www.google.com/maps/place/250+Esten+Ave,+Pawtucket,+RI+02860/@41.8618185,-71.4038195,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444bc17b12c5d:0x52f03a84cdbb23e2!8m2!3d41.8618185!4d-71.4016308"
 
 meta: ""
@@ -105,7 +105,7 @@ images:
 
 mostrecentimage: 2022-06-01
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A11068" target="_blank">Rhode Island Photograph Collection</a> at the Providence Public Library, <a href="//www.flickr.com/photos/pawtucketlibrary/46946460295/in/photolist-2fQQMqb-25iQTKn-2ewuT4e/" target="_blank">Pawtucket Library Flickr collection</a>, and the <a href="//repository.library.brown.edu/studio/item/bdr:212320/" target=_blank">Brown University Digital Repository</a>.'
+imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/islandora%3A11068">Rhode Island Photograph Collection</a> at the Providence Public Library, <a href="https://www.flickr.com/photos/pawtucketlibrary/46946460295/in/photolist-2fQQMqb-25iQTKn-2ewuT4e/">Pawtucket Library Flickr collection</a>, and the <a href="https://repository.library.brown.edu/studio/item/bdr:212320/">Brown University Digital Repository</a>.'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -114,19 +114,19 @@ imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/ob
 
 ### Current Tenant
 
-Architecturally, the building is a great example of turn-of-the-century design, with a large tower on the south east corner featuring ornate brickwork. Most windows have arched gables and granite lintels and have been replaced and filled in with glass block. To allow fresh air, at some tenants request, some glass block arrays have had vinyl windows installed. The building was home to a few large companies and businesses at one time, and slowly has been split up into smaller spaces. A lot of odd things have been installed and then removed and then redone in these flexible spaces. 
+Architecturally, the building is a great example of turn-of-the-century design, with a large tower on the south east corner featuring ornate brickwork. Most windows have arched gables and granite lintels and have been replaced and filled in with glass block. To allow fresh air, at some tenants request, some glass block arrays have had vinyl windows installed. The building was home to a few large companies and businesses at one time, and slowly has been split up into smaller spaces. A lot of odd things have been installed and then removed and then redone in these flexible spaces.
 
-The spaces are now primarily inhabited by artists, musicians, and small manufacturing, craft, or service businesses. The spaces are nice, with a lot of light, hardwoods floors, and decent general upkeep. According to some of the photos, you can see that there is still untouched sections, but that is what makes it so interesting. The building has a lot of quirks, and feels industrial, which makes it more appealing than a cleaned up and sterile space. 
+The spaces are now primarily inhabited by artists, musicians, and small manufacturing, craft, or service businesses. The spaces are nice, with a lot of light, hardwoods floors, and decent general upkeep. According to some of the photos, you can see that there is still untouched sections, but that is what makes it so interesting. The building has a lot of quirks, and feels industrial, which makes it more appealing than a cleaned up and sterile space.
 
 
 ### Current Events
 
-The property is owned by a group of small real estate companies that also lease space at 545 Pawtucket Avenue, not too far away. 
+The property is owned by a group of small real estate companies that also lease space at 545 Pawtucket Avenue, not too far away.
 
 
 ### History
 
-Designed by Clarke, Spaulding & Howe, this mill was once the largest lace producer in the country. A three-story brick pier building with 4th story penthouse featuring a 5-story elaborately detailed hip roof tower. The tower is a fine period example and can be seen from the surrounding neighborhood, including traffic on Interstate 95. A later addition of a sawtooth weave shed was added around 1920 on the north side. 
+Designed by Clarke, Spaulding & Howe, this mill was once the largest lace producer in the country. A three-story brick pier building with 4th story penthouse featuring a 5-story elaborately detailed hip roof tower. The tower is a fine period example and can be seen from the surrounding neighborhood, including traffic on Interstate 95. A later addition of a sawtooth weave shed was added around 1920 on the north side.
 
 [^1]: Found as part of the write-up of the firm Clark & Howe. The short-lived trio of Clark & Spauling after adding partner Wallis Howe ended when Spaulding retired months after Howe joined in 1901. It was noted that the American Textile mill was a commission that Howe brought into the partnership. Captured January 2, 2022 from https://en.wikipedia.org/wiki/Clarke_%26_Howe#Clarke.2C_Spaulding_.26_Howe.2C_1901
 
@@ -136,4 +136,4 @@ The largest lace-making plant in the United States is the American Textile Compa
 
 ***
 
-Lyman B. Goff, born 1841, was son of Darius Goff who helped start the Pawtucket Steam Wadding Mill which later became [Union Wadding]({% link _property/union-wadding.md %}). After the passing of their father in 1891, Lyman and brother Darius ran Union Wadding and saw an expansion of the plant through the 1930s. We imagine that Morris F. Conant was part of the Conant family related to the Conant Thread complex in Pawtucket, but we have not been able to find the connection yet. 
+Lyman B. Goff, born 1841, was son of Darius Goff who helped start the Pawtucket Steam Wadding Mill which later became [Union Wadding]({% link _property/union-wadding.md %}). After the passing of their father in 1891, Lyman and brother Darius ran Union Wadding and saw an expansion of the plant through the 1930s. We imagine that Morris F. Conant was part of the Conant family related to the Conant Thread complex in Pawtucket, but we have not been able to find the connection yet.

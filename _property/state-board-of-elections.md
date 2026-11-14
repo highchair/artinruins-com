@@ -13,7 +13,7 @@ redeveloped:
 units:
 decade: '1920-1929'
 date-added: '2026' #January
-categories: [ '#DemolitionAlert', '#UsedToBeThere', '#NotInRuins' ]
+categories: [ '#UsedToBeThere', '#NotInRuins' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
 designers: []
@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: '50–54 Branch Ave, Providence RI'
 latitude: '41.8430579'
-longitude: '-71.4115528'
+longitude: '-71.4089779'
 gmap: "https://www.google.com/maps/place/50+Branch+Ave,+Providence,+RI+02904/@41.8430579,-71.4115528,17z/data=!3m1!4b1!4m6!3m5!1s0x89e444e0d4de6d7d:0x43c9d9a8ff54a7e6!8m2!3d41.8430579!4d-71.4089779!16s%2Fg%2F11bw3z63l7?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Branch Ave' ]
 street-number: 50
@@ -187,7 +187,7 @@ In Providence, which has 17 operating or in-the-works self-storage facilities, s
 
 The Northeast Self Storage Association represents businesses in Massachusetts, Connecticut and Rhode Island, which host about 100 to 125 storage facilities, the association says.
 
-_Accessed January 2, 2026 from https://www.providencejournal.com/story/news/local/2023/05/11/self-storage-facility-boom-raising-concerns-in-ri-and-across-country/70190896007/_
+— _Accessed January 2, 2026 from https://www.providencejournal.com/story/news/local/2023/05/11/self-storage-facility-boom-raising-concerns-in-ri-and-across-country/70190896007/_
 
 ***
 
@@ -204,4 +204,4 @@ Councilman Miguel Sanchez said the city council’s overall goal is to “house 
 
 “Land is scarce in Providence and what little there is has been grabbed up by the self-storage industry,” Sanchez said. “The council has committed to moving away from these types of development projects and fully embracing efforts to build affordable housing.”
 
-_Accessed January 2, 2026 from https://www.wpri.com/news/local-news/providence/providence-bans-future-development-of-self-storage-warehouses/_
+— _Accessed January 2, 2026 from https://www.wpri.com/news/local-news/providence/providence-bans-future-development-of-self-storage-warehouses/_

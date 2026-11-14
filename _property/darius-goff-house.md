@@ -13,7 +13,7 @@ date-added: '2010'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [ 'Darius Goff' ]
 lists: [ 'Quality Hill Historic District', National Register of Historic Places' ]
 tags: [ 'House' ]
@@ -21,10 +21,10 @@ tags: [ 'House' ]
 NRHP-ref-number: '84002041 (contributing)'
 added-to-NRHP: 'April 1984'
 
-address: '11 Walnust St, Pawtucket RI'
-latitude: '41.878074'
-longitude: '-71.3754047'
-gmap: "https://www.google.com/maps/place/11+Walnut+St,+Pawtucket,+RI+02860/@41.878074,-71.3754047,15z/data=!4m13!1m7!3m6!1s0x89e45cae8f467b4f:0xcc46ca914135149c!2s11+Walnut+St,+Pawtucket,+RI+02860!3b1!8m2!3d41.878019!4d-71.375685!3m4!1s0x89e45cae8f467b4f:0xcc46ca914135149c!8m2!3d41.878019!4d-71.375685"
+address: '11 Walnut St, Pawtucket RI'
+latitude: '41.8780996'
+longitude: '-71.3757059'
+gmap: "https://www.google.com/maps/place/11+Walnut+St,+Pawtucket,+RI+02860/@41.8780737,-71.3757292,99m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDUyJzQxLjEiTiA3McKwMjInMzEuNSJX!8m2!3d41.878074!4d-71.3754047!3m5!1s0x89e45cae8f49a0e1:0xf1246c62cc0c89fa!8m2!3d41.8780996!4d-71.3757059!16s%2Fg%2F11cpb7tg16?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "A very large, wood shingle mansion in Quality Hill with attached carriage house that was used as a senior care facility for 105 years"

@@ -18,9 +18,9 @@ designers: [ 'Andrew Geller' ]
 lists: []
 tags: [ 'Mid-century Modern' ]
 
-address: '100 Main Street, Pawtucket RI'
+address: '100 Main St, Pawtucket RI'
 latitude: '41.8749446'
-longitude: '-71.3851628'
+longitude: '-71.3829741'
 gmap: "https://www.google.com/maps/place/100+Main+St,+Pawtucket,+RI+02860/@41.8749446,-71.3851628,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44354d7e36cbf:0xf08314d12b9bf89f!8m2!3d41.8749446!4d-71.3829741"
 
 meta: ""

@@ -19,9 +19,9 @@ tags: [ 'Providence Public Library Digital Collections', 'Train Stations' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '11 Railroad Street, Pawtucket RI'
-latitude: '41.8835604'
-longitude: '-71.3872895'
+address: '11 Railroad St, Pawtucket RI'
+latitude: '41.8835584'
+longitude: '-71.3861952'
 gmap: "https://www.google.com/maps/place/11+Railroad+St,+Pawtucket,+RI+02860/@41.8835604,-71.3872895,18z/data=!3m1!4b1!4m5!3m4!1s0x89e4434d97838135:0x6281ef91544574fc!8m2!3d41.8835584!4d-71.3861952"
 
 meta: ""
@@ -87,7 +87,7 @@ images:
     caption: 'Photo by Maia Small of the demolition as part of the nearby CVS store construction that was halted by the City of Pawtucket with a court order (see CVS news story below)'
     sizes: '900, 598'
 
-imagescredit: 'Contributions by the Edward Ozog Photo Collection from the Providence Public Library (<a href="//provlibdigital.org/islandora/object/islandora%3A17036" target="_blank">postcard</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A17402" target="_blank">photo</a>), Jack Boucher for the National Register, Stephanie Ewens, and Maia Small'
+imagescredit: 'Contributions by the Edward Ozog Photo Collection from the Providence Public Library (<a href="https://provlibdigital.org/islandora/object/islandora%3A17036">postcard</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A17402">photo</a>), Jack Boucher for the National Register, Stephanie Ewens, and Maia Small'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -96,25 +96,25 @@ imagescredit: 'Contributions by the Edward Ozog Photo Collection from the Provid
 
 ### Last Tenant
 
-After its closing in 1959, this large station bounded by Broad, Barton, Clay, and Montgomery Streets remained vacant until Albert J. Vitali, Jr. and a partner as A & B Realty purchased it in 1972. They planned a new residential tower project called Metro Towers in 1978, but it never materialized. Instead, it slowly decayed and was partially used as commercial space and a flea market until about 2005. 
+After its closing in 1959, this large station bounded by Broad, Barton, Clay, and Montgomery Streets remained vacant until Albert J. Vitali, Jr. and a partner as A & B Realty purchased it in 1972. They planned a new residential tower project called Metro Towers in 1978, but it never materialized. Instead, it slowly decayed and was partially used as commercial space and a flea market until about 2005.
 
-In 2005 it was purchased after the passing of Albert Vitale, Jr. by Oscar W. Seelbinder. The corner of the property at Broad and Clay Streets was redeveloped for a CVS. Part of the development of that project called for the demolition of the former one-story baggage area on the building. The demolition was approved by Central Falls but the City of Pawtucket ceased it after a court order. 
+In 2005 it was purchased after the passing of Albert Vitale, Jr. by Oscar W. Seelbinder. The corner of the property at Broad and Clay Streets was redeveloped for a CVS. Part of the development of that project called for the demolition of the former one-story baggage area on the building. The demolition was approved by Central Falls but the City of Pawtucket ceased it after a court order.
 
 #### Redevelopment
 
-Since then, many ideas have come and gone. Local students have studied the station and the feasibility of creating farmer’s markets and community spaces out of it. The State and Amtrack have studied opening it back up as a commuter rail stop — though the plans never intended to reuse the station itself, merely a platform. 
+Since then, many ideas have come and gone. Local students have studied the station and the feasibility of creating farmer’s markets and community spaces out of it. The State and Amtrack have studied opening it back up as a commuter rail stop — though the plans never intended to reuse the station itself, merely a platform.
 
-Keeping the station as a rail stop still seems to be the strongest choice, as the building literally sits above the tracks and any effort to remove it would be highly expensive. In 2016, the state won a $13-million federal grant to kickstart a new rail project, and Pawtucket and Central Falls committed $3 million. A new rail stop has been projected to cost $40 million but as recently as 2019, that cost has been updated to over $50 million. 
+Keeping the station as a rail stop still seems to be the strongest choice, as the building literally sits above the tracks and any effort to remove it would be highly expensive. In 2016, the state won a $13-million federal grant to kickstart a new rail project, and Pawtucket and Central Falls committed $3 million. A new rail stop has been projected to cost $40 million but as recently as 2019, that cost has been updated to over $50 million.
 
-Trains are projected to start stopping at the station again in July, 2022. 
+Trains are projected to start stopping at the station again in July, 2022.
 
 #### Other Links
 
-+ [An in-depth account or rail history in the area by Edward Ozog](//sites.google.com/site/pawtucketcentralfalls/home/the-separate-stations){:target="_blank"}
-+ [Part of Ozog’s series concentrating on the ruins with photos from 1982](//sites.google.com/site/pawtucketcentralfalls/home/the-separate-stations/the-line-relocation/the-new-station/woodlawn-tower/the-freight-house/central-street-footbridge/boston-switch/tin-bridge/ruins){:target="_blank"}
-+ [A search on Flickr for photos of the station](//www.flickr.com/search/?text=pawtucket%20central%20falls%20train){:target="_blank"}
-+ [Drone videography by Jason Allard on YouTube](//www.youtube.com/watch?v=6usIKZl_8Ec){:target="_blank"}
-+ [The City of Pawtucket page about the Rail Project](//www.pawtucketri.com/planning-redevelopment/pawtucket-central-falls-commuter-rail-station){:target="_blank"}
++ [An in-depth account or rail history in the area by Edward Ozog](https://sites.google.com/site/pawtucketcentralfalls/home/the-separate-stations)
++ [Part of Ozog’s series concentrating on the ruins with photos from 1982](https://sites.google.com/site/pawtucketcentralfalls/home/the-separate-stations/the-line-relocation/the-new-station/woodlawn-tower/the-freight-house/central-street-footbridge/boston-switch/tin-bridge/ruins)
++ [A search on Flickr for photos of the station](https://www.flickr.com/search/?text=pawtucket%20central%20falls%20train)
++ [Drone videography by Jason Allard on YouTube](https://www.youtube.com/watch?v=6usIKZl_8Ec)
++ [The City of Pawtucket page about the Rail Project](https://www.pawtucketri.com/planning-redevelopment/pawtucket-central-falls-commuter-rail-station)
 
 
 ### History
@@ -126,6 +126,7 @@ _From a report prepared by Public Archeology Lab, 1999, RIHRA No. PAWT-OO1_
 The Pawtucket-Central Falls Railroad Station is an example of early twentieth century railroad station design. Built in 1915 and opened in 1916, the station was the result of a decades-long debate as to how to eliminate the many dangerous at-grade crossings in the adjoining cities of Pawtucket and Central Falls. This was a period when these two cities were at their peak of industrial and population growth, and the railroad was the primary form of transport for both passengers and merchandise. […]
 
 […] As both Pawtucket and Central Falls continued to grow, the incidence of accidents at these crossings increased. The solution was to depress the railroad tracks below ground surface, but initial attempts to remedy this situation, beginning in the late nineteenth century, were thwarted by competition between Central Falls and Pawtucket. Central Falls was fiercely jealous of its own independence, wishing to have its own depot. However, the New Haven Railroad did not want to build two stations so close to each other. Debate continued for approximately two decades with numerous proposals submitted for various routings, grade changes. etc. In 1912 the Rhode Island General Assembly ordered the Governor to appoint a Pawtucket and Central Falls Grade Crossing
+
 Commission made up of one representative from each city and the railroad to resolve the conflict. This commission submitted a plan in September 1912 for relocation and realignment of the tracks and construction of a single railroad station to serve both Pawtucket and Central Falls.
 
 The station was designed by **F.W. Mellor**. architect for the New Haven Railroad. **Norcross Brothers** of Worcester erected the building over structural steel erected by **Levering and Garrigues** of New York. The retaining walls were constructed by **C.W. Blakeslee and Sons** of New Haven who also served as general contractors for all masonry work and street changes. The grade separation required the construction of eight highway and one foot bridge. The **American Bridge Company** erected the Conant and Dexter Street bridges, and the other steel bridges were erected by the **Boston Bridge Works**. The grade separation, relocation, and station cost $2,500,000. The cost for the station was $325,000. The cities paid 35 percent of the cost, and the railroad carried the remaining 65 percent.
@@ -170,8 +171,9 @@ Amtrak’s safety rules for the Northeast Corridor have forced station work to b
 
 Although last year, Stephen Devine, the DOT’s head of rail and transit projects, said eliminating the second set of tracks from the station was done to save money and keep the project cost at $40 million, Charles St. Martin recast the change as an “upgrade” that could help the MBTA switch from diesel to electric trains and help Gov. Gina Raimondo’s push to establish express rail service between Providence and Boston. […]
 
-_Captured January 24, 2021, from https://www.providencejournal.com/news/20190826/pawtucket-station-cost-climbs-to-51m_
+— _Captured January 24, 2021, from https://www.providencejournal.com/news/20190826/pawtucket-station-cost-climbs-to-51m_
 
+***
 
 #### Train Station Spared As Part Of Store Deal
 

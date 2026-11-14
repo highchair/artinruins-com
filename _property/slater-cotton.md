@@ -13,16 +13,16 @@ date-added: '2003'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Church Hill Industrial District', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places' ]
 tags: [ 'Apartments for Rent' ]
 
 NRHP-ref-number: '82000135 (contributing)'
 added-to-NRHP: '1982'
 
-address: '75 South Union Street, Pawtucket RI'
+address: '75 South Union St, Pawtucket RI'
 latitude: '41.8754262'
-longitude: '-71.389221'
+longitude: '-71.3886738'
 gmap: "https://www.google.com/maps/place/75+S+Union+St,+Pawtucket,+RI+02860/@41.8754262,-71.389221,19z/data=!3m1!4b1!4m5!3m4!1s0x89e443567a530879:0xc455396e51732ae1!8m2!3d41.8754262!4d-71.3886738"
 
 meta: ""
@@ -95,12 +95,12 @@ imagescredit: 'Contribution by Warren Jagger for the National Register nominatio
 
 ### Redevelopment
 
-New Hampshire-based Brady Sullivan Properties purchased the former Slater Cotton Mill in 2007 or 2008. The downtown property is the second historic Rhode Island mill the developer acquired in six months — the first being Carpenter Mills, aka [Grant’s Mill]({% link _property/grants-mill.md %}), on the West Side of Providence. Brady Sullivan spent $22 million to renovate the 164,175-square-foot mill and created 124 market-rate loft condominiums which opened in 2009. 
+New Hampshire-based Brady Sullivan Properties purchased the former Slater Cotton Mill in 2007 or 2008. The downtown property is the second historic Rhode Island mill the developer acquired in six months — the first being Carpenter Mills, aka [Grant’s Mill]({% link _property/grants-mill.md %}), on the West Side of Providence. Brady Sullivan spent $22 million to renovate the 164,175-square-foot mill and created 124 market-rate loft condominiums which opened in 2009.
 
 
 ### Current Events
 
-Rental information is available at [slatercottonmill.com](//www.slatercottonmill.com){:target="_blank"}. The units all have high ceilings and large mill windows with shared spaces including a fitness center, rooftop patio, and movie theatre.  
+Rental information is available at [slatercottonmill.com](https://www.slatercottonmill.com). The units all have high ceilings and large mill windows with shared spaces including a fitness center, rooftop patio, and movie theatre.
 
 
 ### History
@@ -111,23 +111,25 @@ Constructed by B.F. Smith and Company, the Slater Cotton Company Mill is a long,
 
 Two handsome mill towers are located on the north side — their hipped roofs have been replaced by flat ones, but they retain their patterned brick cornices and freight doors. Granite courses separate the stories of the building. The windows have segmental-arch heads with paired, double-hung, 9-over-9 sash and, while many of the window openings are boarded over, most retain their original sash. A cast-iron fence apparently dating from the nineteenth-century runs along the north street side of the main mill.
 
-The brick and wooden weave shed has a saw-tooth roof designed to provide soft northern light to the interior. The fenestration of the weave shed matches that of the main mill. Attached to the northeast corner of the main mill is a small, 2-story, brick section. 
+The brick and wooden weave shed has a saw-tooth roof designed to provide soft northern light to the interior. The fenestration of the weave shed matches that of the main mill. Attached to the northeast corner of the main mill is a small, 2-story, brick section.
 
-New freight door openings have been cut into the weave shed and a new entrance has been added to the west end of the main mill to accommodate modern industrial and commercial requirements but, as a whole, the Slater Cotton Company Mill is well-preserved and in good condition. 
+New freight door openings have been cut into the weave shed and a new entrance has been added to the west end of the main mill to accommodate modern industrial and commercial requirements but, as a whole, the Slater Cotton Company Mill is well-preserved and in good condition.
 
 ***
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
-This company began producing twills, sateens, and fine quality bleached cotton cloth in 1869 in a 21⁄2-story, brick, pitched-roof building, 300’ X SO’, built in l863 and originally used as a file factory. This structure remains and, with its multiple ells, covers a city block directly north-of the main building, a 5-story, brick mill, 340’ X 92’, built in 1881-1882. This imposing structure, with its twin end towers, slightly pitched-roof and fine brick dentils contained 1,475 looms in 1891 and employed 600 workers. Both towers were originally built with peaked hipped roofs now removed. 
+This company began producing twills, sateens, and fine quality bleached cotton cloth in 1869 in a 21⁄2-story, brick, pitched-roof building, 300’ X SO’, built in l863 and originally used as a file factory. This structure remains and, with its multiple ells, covers a city block directly north-of the main building, a 5-story, brick mill, 340’ X 92’, built in 1881-1882. This imposing structure, with its twin end towers, slightly pitched-roof and fine brick dentils contained 1,475 looms in 1891 and employed 600 workers. Both towers were originally built with peaked hipped roofs now removed.
 
 During the late 19th century, the company produced four million yards of cloth annually with some of the best machinery available — Whitin revolving flat cards, Howard Bullough electric drawing frames, Carter combers, Fales Jenks spinning frames, and Whitin looms. Each room was equipped with patent automatic sprinklers, and the weave room contained a German-patent Aerophor air moistening machine. The old mill was powered by a 325-horsepower Corliss engine and was lighted electrically by the Waterhouse arc system. The new mill was powered by a 600-horsepower Harris-Corliss and a 250-horsepower Greene engine and, by 1891, was lighted by the Edison incandescent system, a relatively early factory use of Edison’s new electrical system. No historic machinery survives.
 
 Credit: _Grieve; Interview with owner of 1881 mill, Joseph Sousa, Slater Realty Company, August, 1975._
 
+***
+
 #### William P. Sayles
 
-_From the RI Historical Society [collection of Business records, 1868-1918](//www.rihs.org/mssinv/MSS006sg30.htm){:target="_blank"}_
+_From the RI Historical Society [collection of Business records, 1868-1918](https://www.rihs.org/mssinv/MSS006sg30.htm)_
 
 Mr. Sayles was one of a number of prominent Rhode Island businessmen who founded the **Slater Cotton Company** in Pawtucket in November 1868. At the outset, Sayles was not particularly prominent in the company’s affairs, owning only 300 our of 4,000 shares outstanding and holding no company office. By January 1881, however, William F. Sayles owned a majority of the company’s stock, which remained widely distributed throughout the 19th century.
 

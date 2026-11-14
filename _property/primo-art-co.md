@@ -14,7 +14,7 @@ date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: []
@@ -24,7 +24,7 @@ added-to-NRHP:
 
 address: '891 North Main St, Providence RI'
 latitude: '41.844661'
-longitude: '-71.4081257'
+longitude: '-71.405937'
 gmap: "https://www.google.com/maps/place/891+N+Main+St,+Providence,+RI+02904/@41.844661,-71.4081257,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444dd86c3ec23:0xb49a0247e4eefd7a!8m2!3d41.844661!4d-71.405937"
 street: [ 'North Main St' ]
 street-number: 891
@@ -94,12 +94,12 @@ imagescredit: 'Contributions from the ProQuest Online Digital Sanborn Map collec
 
 This is a C4-zoned industrial 0.13 acre lot with a small, two-story cinder-block building from the early 1930s with 3200 sf of interior space. It is of simple, economical construction with a flat roof and large metal-rail divided windows. The building has been under many owners — or had many tenants — since 2000.
 
-The building was recently purchased and is being renovated for a personal live/work studio. 
+The building was recently purchased and is being renovated for a personal live/work studio.
 
 
 ### History
 
-This building does not appear on Sanborn Insurance maps from 1920-1921, but does appear on a [G.M. Hopkins map from 1937](//www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/){:target="_blank"}. That’s how we estimate its build date between 1920 and 1937.
+This building does not appear on Sanborn Insurance maps from 1920-1921, but does appear on a [G.M. Hopkins map from 1937](https://www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/). That’s how we estimate its build date between 1920 and 1937.
 
 ***
 
@@ -110,4 +110,4 @@ The original owner/builder was Primo Art Company, a producer of plaster and cast
 + Was the location of “Laugh Track” in December, 2018
 + Was the location of “Yukon Gold” in September, 2018
 + Was the location of a RISD Student show called “Birds of Prey” in 2018
-+ Was the home to [Pneuhaus, LLC](//www.pneu.haus){:target="_blank"}, who later moved to Rumford. They create inflatable event structures and furniture
++ Was the home to [Pneuhaus, LLC](https://www.pneu.haus/), who later moved to Rumford. They create inflatable event structures and furniture

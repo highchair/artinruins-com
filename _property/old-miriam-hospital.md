@@ -25,7 +25,7 @@ added-to-NRHP: 'May 1, 1974'
 
 address: '31 Parade St, Providence RI'
 latitude: '41.8151789'
-longitude: '-71.435093'
+longitude: '-71.4329043'
 gmap: "https://www.google.com/maps/place/31+Parade+St,+Providence,+RI+02909/@41.8151789,-71.435093,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459ce2a074cb:0x2841fe8cb86b8055!8m2!3d41.8151789!4d-71.4329043"
 
 meta: ""

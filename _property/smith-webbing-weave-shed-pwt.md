@@ -16,7 +16,7 @@ date-added: '2026' #April
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: []
@@ -90,7 +90,7 @@ According to a listing in the Providence Journal, Paperworks Inc. was incorporat
 
 ### Current Events
 
-The former weave shed is now a paper supply warehouse in two modes. The upper floor, which is the ground floor on the Pawtucket Avenue side, is the warehouse for distributor [Central Paper](https://centralpaperonline.com). The basement, with entrance on the West Street side, is [Paperworks](https://paperworks.com/), which is open to the public and offers warehouse prices for small and medium quantity paper quantities.
+The former weave shed is now a paper supply warehouse in two modes. The upper floor, which is the ground floor on the Pawtucket Avenue side, is the warehouse for distributor [Central Paper](https://centralpaperonline.com/). The basement, with entrance on the West Street side, is [Paperworks](https://paperworks.com/), which is open to the public and offers warehouse prices for small and medium quantity paper quantities.
 
 
 ### History

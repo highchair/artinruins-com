@@ -26,7 +26,7 @@ added-to-NRHP: 'December 1988'
 
 address: '688 Broad St, Providence RI'
 latitude: '41.8054055'
-longitude: '-71.4206021'
+longitude: '-71.4193146'
 gmap: "https://www.google.com/maps/place/688+Broad+St,+Providence,+RI+02907/@41.8054055,-71.4206021,18z/data=!4m6!3m5!1s0x89e4457cbec597c9:0x5099f7a2445c3a5f!8m2!3d41.8054055!4d-71.4193146!16s%2Fg%2F11c5mwgzyz?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
 street: [ 'Broad St' ]
 street-number: 688

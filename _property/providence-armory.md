@@ -22,9 +22,9 @@ tags: [ 'Yellow brick' ]
 NRHP-ref-number: '74000047 (contributing)'
 added-to-NRHP: 'May 1, 1974'
 
-address: '125 Dexter Street, Providence RI'
+address: '125 Dexter St, Providence RI'
 latitude: '41.8126589'
-longitude: '-71.4324257'
+longitude: '-71.430237'
 gmap: "https://www.google.com/maps/place/125+Dexter+St,+Providence,+RI+02909/@41.8126589,-71.4324257,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44582a93eb45b:0xedf1ec5e05237ede!8m2!3d41.8126589!4d-71.430237"
 
 meta: ""

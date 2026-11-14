@@ -21,8 +21,8 @@ lists: []
 tags: [ 'Contemporary' ]
 
 address: '350 Taunton Ave, East Providence'
-latitude: '41.8208324'
-longitude: '-71.3671303'
+latitude: '41.8208284'
+longitude: '-71.3658428'
 gmap: "https://www.google.com/maps/place/350+Taunton+Ave,+East+Providence,+RI+02914/@41.8208324,-71.3671303,18z/data=!4m6!3m5!1s0x89e45ac4b9f3f6e1:0x7770cbeb1d2efe7c!8m2!3d41.8208284!4d-71.3658428!16s%2Fg%2F11c4t01kqz?entry=ttu"
 street: [ 'Taunton Ave' ]
 street-number: 350
@@ -159,7 +159,7 @@ In December of 2012, in a final ruling after appeals, a federal judge ordered Gi
 
 [^29]: Mulvaney, Kathleen. "Bankruptcy judge gives government OK to pursue $22M in assets owned by ex-nursing home chief Giordano's children." <em>Providence Journal (RI)</em>, All ed., sec. breaking_news, 14 Feb. 2013. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1524214CC2ED9A70. Accessed 24 Mar. 2024.
 
-[More about Giordano can be found in this 2002 Providence Phoenix article](//providencephoenix.com/archive/features/02/02/21/GIORDANO.html).
+[More about Giordano can be found in this 2002 Providence Phoenix article](https://providencephoenix.com/archive/features/02/02/21/GIORDANO.html).
 
 
 #### Architecture
@@ -300,7 +300,7 @@ Another visit to the home on Nov. 2 suggested that the same problems persisted. 
 
 Marshall said that in light of what has been found so far, the Health Department is sending staff members to the home on a regular basis now to “monitor” the situation and to see that patients are not in jeopardy.[…]
 
-_— See footnote for “Nursing home loses its federal payments.”_
+— _See footnote for “Nursing home loses its federal payments.”_
 
 ***
 
@@ -361,4 +361,4 @@ Representatives of U.S. Attorney Sheldon Whitehouse and Atty. Gen. Jeffrey B. Pi
 
 State and federal investigators also attended yesterday’s hearing, but did not comment.
 
-_— See footnote for “State stops admissions to nursing home…”_
+— _See footnote for “State stops admissions to nursing home…”_

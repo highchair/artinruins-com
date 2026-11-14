@@ -24,8 +24,8 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '355-359 Hope St, Providence RI'
-latitude: '41.8359265'
-longitude: '-71.4034348'
+latitude: '41.8359225'
+longitude: '-71.4012408'
 gmap: "https://www.google.com/maps/place/355+Hope+St,+Providence,+RI+02906/@41.8359265,-71.4034348,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44520b8d69a31:0x473dfd6b19939e77!8m2!3d41.8359225!4d-71.4012408"
 
 meta: ""
@@ -60,7 +60,7 @@ images:
 
 mostrecentimage: 2020-09-01
 
-imagescredit: 'Contribution from <a href="//provlibdigital.org/islandora/object/islandora%3A5366" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library, and Joanne Vincent'
+imagescredit: 'Contribution from <a href="https://provlibdigital.org/islandora/object/islandora%3A5366">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library, and Joanne Vincent'
 
 external:
   - source: 'Providence Journal — Historic Photos: The Providence Fire Department'
@@ -69,11 +69,11 @@ external:
 
 ### Redevelopment
 
-The home to Tortilla Flats since 1973 started as a neighborhood firehouse in 1892, shortly before fire companies converted to combustion engines. While a firehouse, apparatus exited out of an auxiliary door on the northern corner (now covered over), as well as another arched apparatus exit/entrance on the Olney Street (southern) side. 
+The home to Tortilla Flats since 1973 started as a neighborhood firehouse in 1892, shortly before fire companies converted to combustion engines. While a firehouse, apparatus exited out of an auxiliary door on the northern corner (now covered over), as well as another arched apparatus exit/entrance on the Olney Street (southern) side.
 
-According to the history write-up, the City sold the firehouse in 1951 to private buyers. It was converted to offices on the second floor, and we are unsure what the first floor was before it was Tortilla Flats. The glass block is [very reminiscent of the 1930s and 1940s](//sevesglassblockinc.com/blog/history-glass-block-architectural-design){:target="_blank"}, so it was likely added early in its life as a commercial structure. 
+According to the history write-up, the City sold the firehouse in 1951 to private buyers. It was converted to offices on the second floor, and we are unsure what the first floor was before it was Tortilla Flats. The glass block is [very reminiscent of the 1930s and 1940s](https://sevesglassblockinc.com/blog/history-glass-block-architectural-design), so it was likely added early in its life as a commercial structure.
 
-In addition to being a longtime home to The Flats, its second floor has been clubhouse to the Providence Rugby Club since at least 1987.[^1] 
+In addition to being a longtime home to The Flats, its second floor has been clubhouse to the Providence Rugby Club since at least 1987.[^1]
 
 [^1]: McNAMARA, KEVIN. “Camaraderie, competition, good times make Providence Rugby Club a big hit.” Providence Journal (RI), CITY ed., sec. CITY LIFE, 10 June 1987, pp. C-04. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15252B132BA42A38. Accessed 6 Oct. 2022.
 
@@ -83,12 +83,12 @@ Stan Spencer was an owner of The Flats for many years, dating back to at least 1
 
 [^3]: FITZPATRICK, EDWARD. “Robert A. Chernov, 63, promoter, restaurateur, writer, racehorse owner.” Providence Journal (RI), All ed., sec. News, 25 Dec. 2001, pp. B-10. NewsBank: America's News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152608F544F977D0. Accessed 6 Oct. 2022.
 
-Just like you might expect, this building has had and continues to make a colorful history. 
+Just like you might expect, this building has had and continues to make a colorful history.
 
 
 ### Current Events
 
-[Tortilla Flats](//tortillaflatsri.com){:target="_blank"} is open 6 days a week (closed on Monday) and offers a full menu with cocktails, local beers, and a kid’s menu. 
+[Tortilla Flats](https://tortillaflatsri.com/) is open 6 days a week (closed on Monday) and offers a full menu with cocktails, local beers, and a kid’s menu.
 
 
 ### History
@@ -145,6 +145,4 @@ The new owners hired Duffy & Shanley, the advertising, marketing and public rela
 
 Vincent, who comes from a family that owned restaurants including Marcello’s on Gansett Avenue in Cranston, said for him, “This is exactly what he envisioned when he dreamed of owning a business.”
 
-—
-
-Ciampa, Gail. “Restaurant Scene - Expanded menu lifts Tortilla Flats.” Providence Journal (RI), All ed., sec. Lifebeat/Food, 1 July 2009, pp. E-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524244E2A1B4C00. Accessed 6 Oct. 2022.
+— _Ciampa, Gail. “Restaurant Scene - Expanded menu lifts Tortilla Flats.” Providence Journal (RI), All ed., sec. Lifebeat/Food, 1 July 2009, pp. E-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524244E2A1B4C00. Accessed 6 Oct. 2022._

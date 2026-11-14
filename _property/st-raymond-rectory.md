@@ -25,8 +25,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '18 Eighth St, Providence RI'
-latitude: '41.8542341'
-longitude: '-71.4005698'
+latitude: '41.854070'
+longitude: '-71.399749'
 gmap: "https://www.google.com/maps/place/18+8th+St,+Providence,+RI+02906/@41.8542341,-71.4005698,629m/data=!3m1!1e3!4m6!3m5!1s0x89e444c73038c73d:0xfdd5637333a06453!8m2!3d41.8541467!4d-71.3997283!16s%2Fg%2F11c5jgdk0y?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D"
 street: [ "Eighth" ]
 street-number: 18
@@ -81,7 +81,7 @@ The building is quite deep as it runs from south to north, about three times as 
 
 As William Morgan states:
 
-> Adaptive re-use–saving and re-purposing solid older buildings makes sound economic and environmental sense, especially compared to cheap new construction built for a quick return. Older buildings often were better made – this 1955 building is incredibly solid, with 16-inch foundation walls and a loadbearing concrete frame.[^2]
+> Adaptive re-use–saving and re-purposing solid older buildings makes sound economic and environmental sense, especially compared to cheap new construction built for a quick return. Older buildings often were better made – this 1955 building is incredibly solid, with 16-inch foundation walls and a load-bearing concrete frame.[^2]
 
 [^2]: “Handsome New Apartments on Eighth Street”
 

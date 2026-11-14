@@ -22,9 +22,9 @@ superlative: 'One of the oldest brick mills in New England'
 NRHP-ref-number: '76000007 (contributing)'
 added-to-NRHP: 'July 1976'
 
-address: '555 Roosevelt Ave., Central Falls RI'
+address: '555 Roosevelt Ave, Central Falls RI'
 latitude: '41.8874391'
-longitude: '-71.3839302'
+longitude: '-71.3817415'
 gmap: "https://www.google.com/maps/place/555+Roosevelt+Ave,+Central+Falls,+RI+02863/@41.8874391,-71.3839302,17z/data=!3m1!4b1!4m5!3m4!1s0x89e45cb4ba03ae37:0x6a384898f328c5e4!8m2!3d41.8874391!4d-71.3817415"
 
 meta: ""
@@ -76,7 +76,7 @@ mostrecentimage: 2008-09-01
 
 ### Redevelopment
 
-Elizabeth Webbing started in the Kennedy/Stafford mill buildings in 1933. After over 70 years of making cloth straps used for seat belts, dog collars, luggage straps and more, it ceased operations in March of 2001. The complex, which included 19 nearby mill buildings, was split up and sold off — including the former Central Falls Woolen Company (later F.S. Farwell Worsted), General Fabrics Corporation Silk Mill at 558, and Pawtucket Hair Cloth (later American Hair Cloth) mills at 561. A portion of the mill at 558 Roosevelt became a self-storage facility in 2004. 
+Elizabeth Webbing started in the Kennedy/Stafford mill buildings in 1933. After over 70 years of making cloth straps used for seat belts, dog collars, luggage straps and more, it ceased operations in March of 2001. The complex, which included 19 nearby mill buildings, was split up and sold off — including the former Central Falls Woolen Company (later F.S. Farwell Worsted), General Fabrics Corporation Silk Mill at 558, and Pawtucket Hair Cloth (later American Hair Cloth) mills at 561. A portion of the mill at 558 Roosevelt became a self-storage facility in 2004.
 
 As late as 1991, Elizabeth Webbing was still expanding. They purchased the newly vacant former Health-Tex plant across the street to build a new production facility. In 1994, Elizabeth Webbing acquired California Webbing Industries Inc., a $9-million narrow-fabric manufacturer in Los Angeles. In 1995 it bought more modern equipment as well. The company boasted 600 employees and sales of about $103 million, but by the end of 1996, they started to suffer losses from growing too fast.
 
@@ -84,12 +84,12 @@ California Webbing Industries, Inc., became the parent company of Elizabeth Webb
 
 [^1]: “Elizabeth Webbing Mills to be liquidated,” Providence Business News, April 2, 2001 captured November 22, 2021 from https://pbn.com/elizabeth-webbing-mills-to-be-liquidated5095/
 
-In 2007 work began on converted the mill to residential, one of the earlier projects of this kind in Central Falls. Led by the Tai-O Group, with local companies [ai designs]({% link designer/ai-designs.html %}) as architects, Searle Design Group as landscape architects, and Caputo & Wick as surveyors and environmental services. The first phase of the project opened to tenants in 2009. 
+In 2007 work began on converted the mill to residential, one of the earlier projects of this kind in Central Falls. Led by the Tai-O Group, with local companies [ai designs]({% link designer/ai-designs.html %}) as architects, Searle Design Group as landscape architects, and Caputo & Wick as surveyors and environmental services. The first phase of the project opened to tenants in 2009.
 
 
 ### Current Events
 
-This mill is now residential condominiums. The [M Residential](//www.mresidential.com){:target="_blank"} is still a live destination but the information does not seem up to date. 
+This mill is now residential condominiums. The [M Residential](https://www.mresidential.com/) is still a live destination but the information does not seem up to date.
 
 
 ### History
@@ -109,7 +109,7 @@ We have the ability to manufacture over 8 million yards per week in our fully in
 
 Over the years we have become expert in manufacturing cost efficient, high quality commodity webbing. But what makes us stand above all other webbing manufacturers is our branded products such as Absorb-Edge, 2-Tone , Soft-Edge, Tuffweb, Tuffsling and Eplus. These products set the standard for the industry and help our customers distinguish their products at point of sale.
 
-_Captured November 22, 2021 from https://www.textileweb.com/doc/elizabeth-webbing-mills-0001_
+— _Captured November 22, 2021 from https://www.textileweb.com/doc/elizabeth-webbing-mills-0001_
 
 </details>
 
@@ -125,8 +125,9 @@ In 1824, John Kennedy, in conjunction with Samuel Slater’s partners, Almy El B
 
 In the l860s, Stafford built the mill’s east addition (brick, with slow-burning interior) and the right-angle stone dam. The dam is 10 feet high and has a rollway of 156 feet. Stafford also enlarged the existing power canal and built a new one with a separate entry gate, to provide exclusive power for the Stafford Mill. The older canal had its flow divided among the Stafford and three mills down stream, the former Benedict Mill, Central Falls Woolen, and the Pawtucket Hair Cloth Company. Originally built in 1823, the canal’s water power was divided into six privileges and carefully apportioned to prevent the kind of legal difficulties which were then embroiling Pawtucket (see Sargeant’s Trench[^2]). In 1965, both canals were filled in and no water-power equipment survives. The Stafford Manufacturing Company, established in 1864, produced cotton yarn here into the 20th century. No longer used for textiles, the mill is now vacant.
 
-[^2]: Cut as a fishway around Pawtucket Falls in 1714, Sargeant’s Trench was used, by the mid-l8th century, to power forges, blacksmith shops, and a fulling mill. […] By the early 19th century, the Trench generated new and intense conflict among competing industrial users. [The trench] is now completely covered over and runs from the Hodgson-Rotary Park on the Mill Historic Site under Main Street to a 42-inch conduit which runs to the Bridge Mill Power Plant. 
+[^2]: Cut as a fishway around Pawtucket Falls in 1714, Sargeant’s Trench was used, by the mid-l8th century, to power forges, blacksmith shops, and a fulling mill. […] By the early 19th century, the Trench generated new and intense conflict among competing industrial users. [The trench] is now completely covered over and runs from the Hodgson-Rotary Park on the Mill Historic Site under Main Street to a 42-inch conduit which runs to the Bridge Mill Power Plant.
 
+***
 
 _From the National Register nomination form for the Central Falls Mill District, 1976_
 
@@ -175,11 +176,9 @@ Most apartments in the complex are spacious, 1,200 square-feet, two bedrooms and
 
 Chan said that around 30 percent of his tenants are locals, Central Falls natives who may have left the area to find housing elsewhere if they weren’t given an attractive option.
 
-The rest have been brought to M from outside the city and include millennials, but also many retirees. Among them are Bob Billington, president of the Blackstone Valley Tourism Council and executives from nearby companies like Hasbro. Chan himself moved his family in for two years.
+The rest have been brought to M from outside the city and include millennials, but also many retirees. Among them are Bob Billington, president of the Blackstone Valley Tourism Council and executives from nearby companies like Hasbro. Chan himself moved his family in for two years. […]
 
-[…]
-
-_Captured November 22, 2021 from https://www.valleybreeze.com/news/m-residential-showcases-work-of-city-investor-tai-o/article_0242494f-8182-53bf-9d8f-12ee6ed770c9.html_
+— _Captured November 22, 2021 from https://www.valleybreeze.com/news/m-residential-showcases-work-of-city-investor-tai-o/article_0242494f-8182-53bf-9d8f-12ee6ed770c9.html_
 
 </details>
 

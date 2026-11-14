@@ -24,8 +24,8 @@ NRHP-ref-number: '83003856 (contributing)'
 added-to-NRHP: 'November 1983'
 
 address: '167 George St, Pawtucket RI'
-latitude: '41.8707024'
-longitude: '-71.3884989'
+latitude: '41.8707545'
+longitude: '-71.3882359'
 gmap: "https://www.google.com/maps/place/167+George+St,+Pawtucket,+RI+02860/@41.8707024,-71.3884989,19z/data=!4m6!3m5!1s0x89e444abd51aaaab:0xb4fc1487e05fdad9!8m2!3d41.8707545!4d-71.3882359!16s%2Fg%2F11snnjjshj?entry=ttu"
 street: []
 street-number:
@@ -91,9 +91,9 @@ imagescredit: 'Contributions by the Pawtucket Library Digital Collection on Flic
 
 This handsome turn-of-the-century parochial school building closed in 2009 due to low enrollment and high costs associated with maintaining the building. It was purchased along with the former convent next door in 2012 for a total of $800,000.
 
-The convent has since been converted into ten condominium residences. Plans included 24 condo units for the former school, with multi-story new construction behind the school for an additional 60+ condos. [Those plans have yet to materialize](//www.valleybreeze.com/news/board-makes-way-for-next-phases-of-clock-tower-residences/article_21583589-a4b3-5339-90b1-fe9f22211f3a.html).
+The convent has since been converted into ten condominium residences. Plans included 24 condo units for the former school, with multi-story new construction behind the school for an additional 60+ condos. [Those plans have yet to materialize](https://www.valleybreeze.com/news/board-makes-way-for-next-phases-of-clock-tower-residences/article_21583589-a4b3-5339-90b1-fe9f22211f3a.html).
 
-[LLB Architects were hired as primary planners](//llbarch.com/projects/housing/clock-tower-residence/) for the three-building complex. Their website details the plans and design phases.
+[LLB Architects were hired as primary planners](https://llbarch.com/projects/housing/clock-tower-residence/) for the three-building complex. Their website details the plans and design phases.
 
 
 #### Architecture
@@ -163,6 +163,4 @@ For instance, in one of the condos, built in the convent’s former chapel, a ga
 
 “Nothing about it is cookie-cutter,” she said.
 
-— 
-
-Dunn, Christine. “Convent to Condos.” Providence Journal, 30 January 2016. Accessed 15 August 2024 from https://www.providencejournal.com/story/business/real-estate/2016/01/31/conversion-of-pawtucket-convent-leap-of-faith-in-condo-market/32582585007/
+— _Dunn, Christine. “Convent to Condos.” Providence Journal, 30 January 2016. Accessed 15 August 2024 from https://www.providencejournal.com/story/business/real-estate/2016/01/31/conversion-of-pawtucket-convent-leap-of-faith-in-condo-market/32582585007/_

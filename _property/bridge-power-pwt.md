@@ -23,8 +23,8 @@ NRHP-ref-number: '83003805 (individual)'
 added-to-NRHP: 'November 1983'
 
 address: '25 Roosevelt Ave, Pawtucket RI'
-latitude: '41.8761115'
-longitude: '-71.3849649'
+latitude: '41.876092'
+longitude: '-71.384281'
 gmap: "https://www.google.com/maps/place/Bridge+Mill+Power+Plant/@41.8761115,-71.3849649,324m/data=!3m1!1e3!4m5!3m4!1s0x0:0xfecef99c1619faf1!8m2!3d41.8760258!4d-71.3841034"
 
 meta: ""
@@ -110,21 +110,21 @@ imagescredit: 'Contributions from the Pawtucket Library Collection on Flickr and
 
 This hydro plant was elected to the “[Hydro Hall of Fame]({% link supplements/hydro-hall-of-fame.md %})” in September of 1996, in only the second year of induction. Decommissioned in 1971, it became cost-effective to spin the plant back up starting with the 1973 oil embargo. In 1980, Blackstone Valley Electric announced plans for an extensive rehabilitation project. They began in 1983 and finished in 1985. The plant now has a capacity of 1.7 MegaWatts and an annual generation of around 7,200 megawatt-hours.[^1]
 
-The Bridge Mill Power Museum opened after its 100th anniversary, in May of 1996. The museum is open rarely these days and was last open during [Doors Open RI](http://www.doorsopenri.org){:target="_blank"} in 2019.
+The Bridge Mill Power Museum opened after its 100th anniversary, in May of 1996. The museum is open rarely these days and was last open during [Doors Open RI](https://www.doorsopenri.org/) in 2019.
 
-[^1]: “Hydro Hall of Fame: Honoring the Foundations of Hydropower,” Hydro Review, September 1996. Captured April 16, 2022 from https://images.hydroreview.com/wp-content/uploads/2017/08/Hydrohalloffame.pdf 
+[^1]: “Hydro Hall of Fame: Honoring the Foundations of Hydropower,” Hydro Review, September 1996. Captured April 16, 2022 from https://images.hydroreview.com/wp-content/uploads/2017/08/Hydrohalloffame.pdf
 
 
 ### Current Events
 
-Bridge Mill Power Plant was acquired by [Gravity Renewables](//www.gravityrenewables.com/work/pawtucket-no-2-hydro-project/){:target="_blank"} in 2014 and added to its portfolio of hydropower facilities across New England.[^2] Over 600 homes are still powered by the falls today.
+Bridge Mill Power Plant was acquired by [Gravity Renewables](https://www.gravityrenewables.com/work/pawtucket-no-2-hydro-project/) in 2014 and added to its portfolio of hydropower facilities across New England.[^2] Over 600 homes are still powered by the falls today.
 
 [^2]: “Gravity Renewables Announces Addition of Rhode Island Hydroelectric Facility,” April 25, 2014. Captured April 16, 2022 from https://www.gravityrenewables.com/gravity-renewables-announces-addition-of-rhode-island-small-hydro-hydroelectric-facility/
 
 
 ### History
 
-[The Pawtucket Library Flickr collection has 40 images](//www.flickr.com/photos/pawtucketlibrary/albums/72157710140971246){:target="_blank"} (some of them duplicates) of the Bridge Mill Power Plant, a few even while under construction.
+[The Pawtucket Library Flickr collection has 40 images](https://www.flickr.com/photos/pawtucketlibrary/albums/72157710140971246) (some of them duplicates) of the Bridge Mill Power Plant, a few even while under construction.
 
 ***
 
@@ -140,10 +140,10 @@ In the mid-1880s, members of the Goff family of Pawtucket began buying up the va
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
-**Bridge Mill Power Plant** 1893-1894 Main Street at Southwest corner of Main Street Bridge Pawtucket. This electric power plant, built in 1893-1894, could be powered by either steam or water. The building is brick, two-to-three stories high, with round-arch windows. The firm of Shedd & Sarle of Providence was responsible for the site’s hydraulic engineering. They constructed a [the] Pawtucket Falls Dam and an underground conduit, 130' X 17 1⁄2', both of brick. Everson and Liddle of Providence constructed the granite retaining wall at river’s edge while Stone, Carpenter, and Willson of Providence designed the flat-roofed gate, power, and boiler houses. The five pairs of 33-inch McCormick turbines-still in place — though one has a broken shaft — were installed by the Rodney Hunt Machine Company of Orange, Massachusetts as were the flumes which measure ten feet in diameter and thirty feet in length. The turbines operated with seventeen feet of head and produced 1300 horsepower. Five Lombard governors also remain in place. The plant’s steam power generation came from two Westinghouse compound automatic engines, with cylinders of 15 inches and 27 inches respectively and 16 inch strokes. Two Heine water tube boilers provided the steam. Both the engines and boilers have been removed. Electricity was last generated here in the l960s. 
+**Bridge Mill Power Plant** 1893-1894 Main Street at Southwest corner of Main Street Bridge Pawtucket. This electric power plant, built in 1893-1894, could be powered by either steam or water. The building is brick, two-to-three stories high, with round-arch windows. The firm of Shedd & Sarle of Providence was responsible for the site’s hydraulic engineering. They constructed a [the] Pawtucket Falls Dam and an underground conduit, 130' X 17 1⁄2', both of brick. Everson and Liddle of Providence constructed the granite retaining wall at river’s edge while Stone, Carpenter, and Willson of Providence designed the flat-roofed gate, power, and boiler houses. The five pairs of 33-inch McCormick turbines-still in place — though one has a broken shaft — were installed by the Rodney Hunt Machine Company of Orange, Massachusetts as were the flumes which measure ten feet in diameter and thirty feet in length. The turbines operated with seventeen feet of head and produced 1300 horsepower. Five Lombard governors also remain in place. The plant’s steam power generation came from two Westinghouse compound automatic engines, with cylinders of 15 inches and 27 inches respectively and 16 inch strokes. Two Heine water tube boilers provided the steam. Both the engines and boilers have been removed. Electricity was last generated here in the l960s.
 
 ***
 
 _From the RIHPHC survey of Pawtucket, 1978_
 
-**Bridge Mill Power Plant** 1893-1894; Stone, Carpenter & Willson, architects; hydraulic and masonry engineering by Shedd & Sarle; water wheels, flumes and transmission equipment installed by Rodney Hunt Machine Company. 2-and 3- story, brick, electric-power generating plant. Flat roofs, round-head windows many now bricked in. Built for the Pawtucket Electric Company. Could be powered by water through five pairs of 33-inch McCormick turbines still in place or by steam through two Westinghouse compound automatic engines provided with steam from two Heine water tube boilers (engines and boilers removed). Probably the finest l9th-century electric-power generating plant extant in Rhode Island. 
+**Bridge Mill Power Plant** 1893-1894; Stone, Carpenter & Willson, architects; hydraulic and masonry engineering by Shedd & Sarle; water wheels, flumes and transmission equipment installed by Rodney Hunt Machine Company. 2-and 3- story, brick, electric-power generating plant. Flat roofs, round-head windows many now bricked in. Built for the Pawtucket Electric Company. Could be powered by water through five pairs of 33-inch McCormick turbines still in place or by steam through two Westinghouse compound automatic engines provided with steam from two Heine water tube boilers (engines and boilers removed). Probably the finest l9th-century electric-power generating plant extant in Rhode Island.

@@ -22,8 +22,8 @@ NRHP-ref-number: 83003838
 added-to-NRHP: 'November, 1983'
 
 address: '137 Roosevelt Ave, Pawtucket RI'
-latitude: '41.8789597'
-longitude: '-71.383447'
+latitude: '41.8789557'
+longitude: '-71.3821595'
 gmap: "https://www.google.com/maps/place/137+Roosevelt+Ave,+Pawtucket,+RI+02860/@41.8789597,-71.383447,18z/data=!4m6!3m5!1s0x89e45cacd2389883:0x750db05537869adf!8m2!3d41.8789557!4d-71.3821595!16s%2Fg%2F11c5mckb4j?entry=ttu"
 street: [ 'Roosevelt Ave' ]
 street-number: 137
@@ -92,7 +92,7 @@ images:
 
 mostrecentimage: 2024-01-01
 
-imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157665871950953/">Pawtucket Library Collection (Flickr)</a> and the National Register nomination form'
+imagescredit: 'Contributions from the <a href="https://www.flickr.com/photos/pawtucketlibrary/albums/72157665871950953/">Pawtucket Library Collection (Flickr)</a> and the National Register nomination form'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -146,7 +146,7 @@ Plastered ceilings; are used throughout the building; those in the more importan
 
 Alterations to the original building beyond those mentioned above include the partitioning of the original ground floor auditorium into additional city offices in the late 1940s, and the 1970s expansion of the mayor’s suite of offices into the northeast corner of the Tenth District Courtroom.
 
-— [National Register nomination form, Pawtucket City Hall](//npgallery.nps.gov/NRHP/AssetDetail/20482802-2a30-4876-a987-e1d46c36c5bb)
+— [National Register nomination form, Pawtucket City Hall](https://npgallery.nps.gov/NRHP/AssetDetail/20482802-2a30-4876-a987-e1d46c36c5bb)
 
 
 ### In the News
@@ -168,9 +168,7 @@ Once again in Pawtucket, this is shaping up to be a debate over the value of his
 
 “There are many of us who are deeply committed to a wise preservation of this unique building, a monument to civic life from the very start of the all-important Works Progress Administration period,” said Judith Tolnick Champa for the committee. “We are also sensitive to the prolonged disrepair the building has suffered by neglect. All buildings need attention, and perhaps especially those on the National Historic Register housing municipal governments.” […]
 
-— 
-
-_Accessed 09 March 2024 from https://www.valleybreeze.com/news/water-again-breaches-city-hall-tower-as-advocates-urge-saving-it/article_33407204-9e78-11ee-a48a-471aff7c90ac.html_
+— _Accessed 09 March 2024 from https://www.valleybreeze.com/news/water-again-breaches-city-hall-tower-as-advocates-urge-saving-it/article_33407204-9e78-11ee-a48a-471aff7c90ac.html_
 
 ***
 
@@ -207,6 +205,4 @@ A representative from the contractor told The Breeze in 2012 that their work in 
 
 The Breeze reported in May of 2021 that officials had decided on a full restoration of the troublesome tower. As reported then, the work would include removing the facade and creating a layer inside and against the tower’s steel columns. An interior layer would prevent the infiltration of water going forward.
 
-—
-
-_Accessed 09 March 2024 from https://www.valleybreeze.com/news/costs-for-pawtucket-city-hall-tower-nearly-five-times-what-voters-approved/article_dff54c2a-8705-11ee-a8a9-7b3e2c290d3c.html_
+— _Accessed 09 March 2024 from https://www.valleybreeze.com/news/costs-for-pawtucket-city-hall-tower-nearly-five-times-what-voters-approved/article_dff54c2a-8705-11ee-a8a9-7b3e2c290d3c.html_

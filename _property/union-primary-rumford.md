@@ -23,7 +23,7 @@ added-to-NRHP:
 
 address: '1320 Pawtucket Ave, East Providence RI'
 latitude: '41.8384714'
-longitude: '-71.3510868'
+longitude: '-71.3485119'
 gmap: "https://www.google.com/maps/place/1320+Pawtucket+Ave,+Rumford,+RI+02916,+USA/@41.8384714,-71.3510868,17z/data=!3m1!4b1!4m6!3m5!1s0x89e45b106d85b4a7:0x1513f8aeee107f55!8m2!3d41.8384714!4d-71.3485119!16s%2Fg%2F11c269b92q?entry=ttu"
 street: [ 'Pawtucket Ave' ]
 street-number: 1320

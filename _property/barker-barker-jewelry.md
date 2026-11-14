@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: '1199 Eddy St, Providence RI'
 latitude: '41.7928743'
-longitude: '-71.4066752'
+longitude: '-71.4041003'
 gmap: "https://www.google.com/maps/place/1199+Eddy+St,+Providence,+RI+02905/@41.7928743,-71.4066752,16z/data=!3m1!4b1!4m6!3m5!1s0x89e44ff312166f11:0x9ab1ba4af875e571!8m2!3d41.7928743!4d-71.4041003!16s%2Fg%2F11c43x56z6?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Eddy' ]
 street-number: 1199

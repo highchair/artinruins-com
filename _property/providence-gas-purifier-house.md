@@ -13,7 +13,7 @@ date-added: '2004'
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'PPS Ten Most Endangered', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Berlin Bridge Company' ]
@@ -23,7 +23,7 @@ added-to-NRHP: 'June 2007'
 
 address: '200 Allens Ave, Providence RI'
 latitude: '41.8081098'
-longitude: '-71.4051409'
+longitude: '-71.403433'
 gmap: "https://www.google.com/maps/place/Providence+Gas+Company+Purifier+House/@41.8081098,-71.4051409,17z/data=!4m13!1m7!3m6!1s0x89e4455cd6eab165:0xc590665a17037cee!2s200+Allens+Ave,+Providence,+RI+02903!3b1!8m2!3d41.8081098!4d-71.4029522!3m4!1s0x89e4455cd6eae1df:0x1bb567390f2b3eda!8m2!3d41.8079918!4d-71.4034276"
 
 meta: ""
@@ -123,7 +123,7 @@ _From the description of its inclusion into the Ten Most Endangered Properties, 
 
 …The context affecting the fate of the Purifier House is largely location. Allens Avenue is a major artery running south from Downtown and serving as US 1A. The introduction of Interstate 95, parallel to the west, effectively severed Allens Avenue and the first block of several east-west streets from residential South Providence to the west. This sealed Allens Avenue’s fate as a location for largely noxious uses. Today, Allens Avenue is a lightning rod for citizens concerned with issues of environmental justice and the health and well-being of the riverfront and abutting neighborhoods — and neighbors!
 
-The architectural and historical significance of the Purifier House is well-documented. Furthermore, this one  building provides a snapshot of rapid, and sometimes ravaging, effects of industrial and environmental changes due to location and use. The preservation and future of the structure have less to do with integrity or adaptive reuse capacity and more to do with the harmful uses that surround it on the waterfront. 
+The architectural and historical significance of the Purifier House is well-documented. Furthermore, this one  building provides a snapshot of rapid, and sometimes ravaging, effects of industrial and environmental changes due to location and use. The preservation and future of the structure have less to do with integrity or adaptive reuse capacity and more to do with the harmful uses that surround it on the waterfront.
 
 ***
 

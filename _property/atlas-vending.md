@@ -24,9 +24,9 @@ tags: []
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '1106 N Main St, Providence RI'
-latitude: '41.8509387'
-longitude: '-71.4050272'
+address: '1106 North Main St, Providence RI'
+latitude: '41.8509389'
+longitude: '-71.4029887'
 gmap: "https://www.google.com/maps/place/1106+N+Main+St,+Providence,+RI+02904/@41.8509387,-71.4050272,17z/data=!4m6!3m5!1s0x89e444c3cc44a191:0x6f0a7ac5d3927577!8m2!3d41.8509389!4d-71.4029887!16s%2Fg%2F11bw3z77xk?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'North Main St' ]
 street-number: 1106
@@ -79,7 +79,7 @@ The building has had a recent paint job in stark white except for the front faca
 
 ### Current Events
 
-A domain name is listed as AtlasVendingInc.com yet the site seems to be offline. A similar domain name, [AtlasATM](http://www.atlasatm.com), is active but the copyright has not been updated since 2011.
+A domain name is listed as AtlasVendingInc.com yet the site seems to be offline. A similar domain name, [AtlasATM](http://www.atlasatm.com/), is active but the copyright has not been updated since 2011.
 
 
 ### History

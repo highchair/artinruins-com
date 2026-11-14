@@ -13,7 +13,7 @@ date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Needs History' ]
@@ -21,9 +21,9 @@ tags: [ 'Needs History' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '1080 Main Street, Pawtucket RI'
+address: '1080 Main St, Pawtucket RI'
 latitude: '41.860843'
-longitude: '-71.4009828'
+longitude: '-71.3987941'
 gmap: "https://www.google.com/maps/place/1080+Main+St,+Pawtucket,+RI+02860/@41.860843,-71.4009828,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444b95f0c9939:0x8e5004d2bbff968f!8m2!3d41.860843!4d-71.3987941"
 
 meta: ""
@@ -87,7 +87,7 @@ imagescredit: 'Contribution from the Library of Congress (<a href="https://www.l
 
 ### Previous Tenants
 
-Former tenants, Abaqus Software, moved to a new space at [Rising Sun Mills]({% link _property/national-providence-worsted.md %}) in the summer of 2003. 
+Former tenants, Abaqus Software, moved to a new space at [Rising Sun Mills]({% link _property/national-providence-worsted.md %}) in the summer of 2003.
 
 
 ### Current Events
@@ -97,7 +97,7 @@ New owners, Shechtman Halperin Savage LLP, have turned the building into offices
 
 ### History
 
-A great little complex, these buildings have some nice, simple details. In [photo number 5](#photo-smith-webbing-jh-2004-02-05), the bricked in area suggests that there once was a covered gangway to what is now the Paper Source building across the street. The most charming aspect is the [rounded corner in photo 6](#photo-smith-webbing-jh-2004-02-06) on the north side of the building. This addition was later than the main body of the building which was present in a 1902 Sanborn Map along with the smokestack and small engine room. 
+A great little complex, these buildings have some nice, simple details. In [photo number 5](#photo-smith-webbing-jh-2004-02-05), the bricked in area suggests that there once was a covered gangway to what is now the Paper Source building across the street. The most charming aspect is the [rounded corner in photo 6](#photo-smith-webbing-jh-2004-02-06) on the north side of the building. This addition was later than the main body of the building which was present in a 1902 Sanborn Map along with the smokestack and small engine room.
 
 All windows have been upgraded with aluminum replacements pre-2004, but sadly, have squared off the segmented arch.
 

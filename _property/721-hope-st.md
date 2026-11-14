@@ -21,9 +21,9 @@ tags: [ 'House' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '721 Hope Street, Providence RI'
+address: '721 Hope St, Providence RI'
 latitude: '41.8463248'
-longitude: '-71.3982424'
+longitude: '-71.3960537'
 gmap: "https://www.google.com/maps/place/721+Hope+St,+Providence,+RI+02906/@41.8463248,-71.3982424,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444c5375dc1eb:0x9ff04c33b60be211!8m2!3d41.8463248!4d-71.3960537"
 
 meta: ""
@@ -77,7 +77,7 @@ Davis Dairy occupied the ground-floor retail location of this home since we donâ
 
 The home is 2 and three-quarter stories (according to the tax records), with a rare double-gable roof line on the south side of the third floor. The north side of the third floor features a large dormer bay. It is wood frame construction with brown-stained wood shingle on the upper stories and concrete block facing on the commercial first floor. A storefront is diagonally placed (kitty-corner) on the northwest wall with a commercial plate glass window on the north and west sides. A large bay window is above the storefront on the second floor.
 
-In April of 2021, the third floor and roof were ripped off and the structure was left open to the elements for about six weeks. At the end of May a new third floor was added, this time, with straight walls to create a full size third floor. 
+In April of 2021, the third floor and roof were ripped off and the structure was left open to the elements for about six weeks. At the end of May a new third floor was added, this time, with straight walls to create a full size third floor.
 
 
 ### Current Events

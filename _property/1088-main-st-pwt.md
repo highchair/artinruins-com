@@ -13,15 +13,15 @@ date-added: '2004'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Flatiron Style' ]
 
 address: '1088 Main Street, Pawtucket'
-latitude: '41.8603023'
-longitude: '-71.3985357'
-gmap: "https://www.google.com/maps/place/1088+Main+St,+Pawtucket,+RI+02860/@41.8603023,-71.3985357,18z/data=!4m5!3m4!1s0x89e444b967859e85:0xce6e584822ce2de0!8m2!3d41.8601305!4d-71.3987395"
+latitude: '41.8601713'
+longitude: '-71.3987876'
+gmap: "https://www.google.com/maps/place/1088+Main+St+%231,+Pawtucket,+RI+02860/@41.860186,-71.3992375,115m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDUxJzM3LjEiTiA3McKwMjMnNTQuNyJX!8m2!3d41.8603023!4d-71.3985357!3m5!1s0x89e444b95d7ed5d5:0xd88a6c72d0df7000!8m2!3d41.8601713!4d-71.3987876!16s%2Fg%2F11z657dm75?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "An irregulary shaped two-story former jewelry mill turned into a small-business studio and residence"

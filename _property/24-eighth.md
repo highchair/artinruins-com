@@ -23,7 +23,7 @@ tags: [ 'Apartments for Rent', 'Contemporary' ]
 
 address: '24 Eighth St, Providence RI'
 latitude: '41.85393'
-longitude: '-71.4006814'
+longitude: '-71.399528'
 gmap: "https://www.google.com/maps/place/41%C2%B051'14.2%22N+71%C2%B023'58.3%22W/@41.85393,-71.4006814,158m/data=!3m2!1e3!4b1!4m7!1m2!2m1!1s24+8th+St!3m3!8m2!3d41.85393!4d-71.399528?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D"
 street: [ 'Eighth' ]
 street-number: 24

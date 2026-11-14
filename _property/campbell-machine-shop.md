@@ -13,16 +13,16 @@ date-added: '2003'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Church Hill Industrial District', 'Inventory of Historic Engineering & Industrial Sites 1978' , 'National Register of Historic Places']
 tags: []
 
 NRHP-ref-number: '82000135 (contributing)'
 added-to-NRHP: '1982'
 
-address: '28 Bayley Street, Pawtucket RI'
+address: '28 Bayley St, Pawtucket RI'
 latitude: '41.877654'
-longitude: '-71.3904246'
+longitude: '-71.3882359'
 gmap: "https://www.google.com/maps/place/28+Bayley+St,+Pawtucket,+RI+02860/@41.877654,-71.3904246,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4435403be7bc9:0x99a4f8fa2ac9db88!8m2!3d41.877654!4d-71.3882359"
 
 meta: ""

@@ -17,12 +17,12 @@ designers: []
 lists: [ 'Jenckes Spinning Company Historic District', 'Providence Industrial Sites 1981', 'National Register of Historic Places' ]
 tags: []
 
-NRHP-ref-number: 'Can’t find the number (contributing)'
+NRHP-ref-number: '100002059 (contributing)'
 added-to-NRHP: 'December 5, 2017'
 
 address: '173 Weeden St, Pawtucket RI'
 latitude: '41.8783298'
-longitude: '-71.3961132'
+longitude: '-71.3939245'
 gmap: "https://www.google.com/maps/place/173+Weeden+St,+Pawtucket,+RI+02860/@41.8783298,-71.3961132,17z/data=!4m5!3m4!1s0x89e443575a24a283:0x1654caf2b7df8579!8m2!3d41.8783298!4d-71.3939245"
 
 meta: ""

@@ -22,13 +22,13 @@ tags: [ 'Historic Diner Cars' ]
 NRHP-ref-number: '09001231'
 added-to-NRHP: 'January 2010'
 
-address: '777 Elmwood Ave., Providence RI'
+address: '777 Elmwood Ave, Providence RI'
 latitude: '41.7909941'
-longitude: '-71.4248197'
+longitude: '-71.422631'
 gmap: "https://www.google.com/maps/place/777+Elmwood+Ave,+Providence,+RI+02907/@41.7909941,-71.4248197,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44f9b6c91dd3b:0xe41881a43c59d2d4!8m2!3d41.7909941!4d-71.422631"
 
 meta: ""
-excerpt: "Worcester Lunch Car #806 has had a long life and many names but continues to attract new entrepreneurs who want to make a go of the restaurant business"
+excerpt: "Worcester Lunch Car #806 has had a long life and many names but continues to attract new entrepreneurs who want to start a restaurant business"
 
 thumbnail: liberty-elm-jh-2007-11-01.jpg
 
@@ -175,4 +175,4 @@ As for Smith and Neves, the undercurrent of family is always there, whether it�
 
 “This business is something that I think our kids can enjoy,” Neves said.
 
-_Captured September 25, 2021 from https://www.providencejournal.com/article/20140611/Lifestyle/306119903_
+— _Captured September 25, 2021 from https://www.providencejournal.com/article/20140611/Lifestyle/306119903_

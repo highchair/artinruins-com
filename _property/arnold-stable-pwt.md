@@ -14,7 +14,7 @@ date-added: '2010'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [ 'Henry F. Arnold' ]
 lists: [ 'National Register of Historic Places', 'Downtown Pawtucket Historic District' ]
 tags: [ 'Ghost Signs' ]
@@ -22,9 +22,9 @@ tags: [ 'Ghost Signs' ]
 NRHP-ref-number: '06001227 (contributing)'
 added-to-NRHP: 'November 2006'
 
-address: '49 North Union Street, Pawtucket RI'
+address: '49 North Union St, Pawtucket RI'
 latitude: '41.8790006'
-longitude: '-71.3872702'
+longitude: '-71.3850815'
 gmap: "https://www.google.com/maps/place/49+N+Union+St,+Pawtucket,+RI+02860/@41.8790006,-71.3872702,17z/data=!3m1!4b1!4m5!3m4!1s0x89e443530bf774a3:0xd264d9aca9d2945d!8m2!3d41.8790006!4d-71.3850815"
 
 meta: ""
@@ -62,7 +62,7 @@ images:
   - url: feldman-jh-2014-11-01.jpg
     sizes: '1440, 900'
 
-imagescredit: 'Contribution from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157673949588005" target="_blank">Pawtucket Library on Flickr</a>'
+imagescredit: 'Contribution from the <a href="https://www.flickr.com/photos/pawtucketlibrary/albums/72157673949588005">Pawtucket Library on Flickr</a>'
 
 mostrecentimage: 2014-11-01
 
@@ -73,21 +73,21 @@ mostrecentimage: 2014-11-01
 
 ### Redevelopment
 
-The striking presence at the top of Summer Street next to the Pawtucket Library has been underutilized since the 1990s. The ground floor was storage space for Major Electric, but the upper floors have been boarded up while architectural details like the metal roof cornice have deteriorated. Across the street from the Pawtucket Times building and also near the gateway Beswick Building, a redevelopment of this structure into something more vibrant would bring a lot of new life to downtown Pawtucket. 
+The striking presence at the top of Summer Street next to the Pawtucket Library has been underutilized since the 1990s. The ground floor was storage space for Major Electric, but the upper floors have been boarded up while architectural details like the metal roof cornice have deteriorated. Across the street from the Pawtucket Times building and also near the gateway Beswick Building, a redevelopment of this structure into something more vibrant would bring a lot of new life to downtown Pawtucket.
 
-Indeed, that is the plan of developers Michael Leshinsky and Nicholas D’Agnillo of Nexus Property Management. Owners of the building since 2014, they have been seeking financing and funding packages to turn the derelict building into apartments. The ground floor commercial space has already been converted to office space for Nexus and has hosted community events before the pandemic of 2020-2021. 
+Indeed, that is the plan of developers Michael Leshinsky and Nicholas D’Agnillo of Nexus Property Management. Owners of the building since 2014, they have been seeking financing and funding packages to turn the derelict building into apartments. The ground floor commercial space has already been converted to office space for Nexus and has hosted community events before the pandemic of 2020-2021.
 
-Construction on apartments was scheduled to begin in the summer of 2021. 
+Construction on apartments was scheduled to begin in the summer of 2021.
 
 
 ### Current Events
 
-The large former neon sign for Feldman’s Furniture has been replaced by a large vertical sign for the new owner, [Nexus Property Management](//www.nexri.com){:target="_blank"}. They are in the process of renovating the building and turning the upper floors into apartments. 
+The large former neon sign for Feldman’s Furniture has been replaced by a large vertical sign for the new owner, [Nexus Property Management](https://www.nexri.com/). They are in the process of renovating the building and turning the upper floors into apartments.
 
 
 ### History
 
-“How Do The Beasts Groan” is a Biblical reference, and it might have referred to the horses that were stored in the first story of the building when it was a livery. Stables for 176 horses filled the first floor and carriages were available for hire 24 hours a day. 
+“How Do The Beasts Groan” is a Biblical reference, and it might have referred to the horses that were stored in the first story of the building when it was a livery. Stables for 176 horses filled the first floor and carriages were available for hire 24 hours a day.
 
 ***
 
@@ -137,4 +137,4 @@ After delays caused by the pandemic, construction is expected to start this Augu
 
 A big fan of both Pawtucket and historic rehabs, he said he hopes once complete, the redevelopment will stir more activity in the area. “We’re excited,” he said. “I’m a big Pawtucket advocate.”
 
-_Captured August 12, 2021 from https://www.valleybreeze.com/2021-06-29/pawtucket/construction-set-begin-nexus-lofts-summer_
+— _Captured August 12, 2021 from https://www.valleybreeze.com/2021-06-29/pawtucket/construction-set-begin-nexus-lofts-summer_

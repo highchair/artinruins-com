@@ -13,7 +13,7 @@ date-added: '2010'
 categories: [ '#UrbanDecay' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'Did You Know?', 'National Register of Historic Places', 'Downtown Pawtucket Historic District' ]
 tags: [ 'Art Deco', 'Queen Anne' ]
@@ -21,9 +21,9 @@ tags: [ 'Art Deco', 'Queen Anne' ]
 NRHP-ref-number: '06001227 (contributing)'
 added-to-NRHP: 'November 2006'
 
-address: '3 Exchange Street, Pawtucket RI'
+address: '3 Exchange St, Pawtucket RI'
 latitude: '41.8791869'
-longitude: '-71.3883834'
+longitude: '-71.3861947'
 gmap: "https://www.google.com/maps/place/3+Exchange+St,+Pawtucket,+RI+02860/@41.8791869,-71.3883834,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44353ba91fca1:0x95fb57754ae2873d!8m2!3d41.8791869!4d-71.3861947"
 
 meta: ""
@@ -70,7 +70,7 @@ images:
     caption: 'The interior of the Riverside Diner (closed)'
     sizes: '1200, 900'
 
-imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/sets/72157670655157343/with/50088129077/" target="_blank">Pawtucket Library collection on Flickr</a>, Roland Lavallee, and Kathryn J. Cavanaugh for the National Register nomination form'
+imagescredit: 'Contributions from the <a href="https://www.flickr.com/photos/pawtucketlibrary/sets/72157670655157343/with/50088129077/">Pawtucket Library collection on Flickr</a>, Roland Lavallee, and Kathryn J. Cavanaugh for the National Register nomination form'
 
 mostrecentimage: 2010-03-01
 
@@ -85,7 +85,7 @@ This is a beautiful three story building with so much potential. The **News Caf*
 
 Since it is on such a prominent corner along Exchange Street, we hope that a new owner will continue to improve — and maybe even occupy — the upper floors. It would be amazing if the ground floor retail spaces could be restored to their former Art Deco glory, even though the building’s original storefronts were probably in more of a Late Victorian style.
 
-**Did you Know? Movies Edition:** In the pavement in front of the Beswick building is Pawtucket’s own little (crumbling) Walk of Fame. It was created after the filming of “[American Buffalo](//en.wikipedia.org/wiki/American_Buffalo_(film)){:target="_blank"}” in 1996. The film was directed by Michael Corrente (in his hometown) and starred Dustin Hoffman, Dennis Franz, and Sean Nelson — each received a star. The are badly decayed and barely legible, but a brass buffalo adorns the center of the panel.
+**Did you Know? Movies Edition:** In the pavement in front of the Beswick building is Pawtucket’s own little (crumbling) Walk of Fame. It was created after the filming of “[American Buffalo](https://en.wikipedia.org/wiki/American_Buffalo_(film))” in 1996. The film was directed by Michael Corrente (in his hometown) and starred Dustin Hoffman, Dennis Franz, and Sean Nelson — each received a star. The are badly decayed and barely legible, but a brass buffalo adorns the center of the panel.
 {:.o__tldr}
 
 #### We support and admire the Weird Island podcast! 

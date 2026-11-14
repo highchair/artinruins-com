@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: '226 Public St, Providence RI'
 latitude: '41.8067985'
-longitude: '-71.4108003'
+longitude: '-71.4082254'
 gmap: "https://www.google.com/maps/place/226+Public+St,+Providence,+RI+02905/@41.8067985,-71.4108003,17z/data=!3m1!4b1!4m6!3m5!1s0x89e4456709dd8cd3:0xbaabebe06db7af72!8m2!3d41.8067985!4d-71.4082254!16s%2Fg%2F11bw43jt21?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Public St' ]
 street-number: 226

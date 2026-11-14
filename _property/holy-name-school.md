@@ -14,7 +14,7 @@ date-added: '2022'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Former/Current Schools', 'Yellow Brick' ]
@@ -22,7 +22,7 @@ tags: [ 'Former/Current Schools', 'Yellow Brick' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '7 Mount Hope Avenue, Providence RI'
+address: '7 Mount Hope Ave, Providence RI'
 latitude: '41.8407687'
 longitude: '-71.4026271'
 gmap: "https://www.google.com/maps/place/7+Mt+Hope+Ave,+Providence,+RI+02906/@41.8407687,-71.4026271,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444def291bdc9:0x7886b1f52a3b6d1c!8m2!3d41.8407687!4d-71.4026271"
@@ -82,29 +82,29 @@ imagescredit:
 
 ### Redevelopment
 
-This former Catholic school, around the corner from Holy Name Roman Catholic Church, opened around 1930 and closed in 2004 due to low enrollment. It sat vacant for about 10 years before a developer started to investigate converting the building. 
+This former Catholic school, around the corner from Holy Name Roman Catholic Church, opened around 1930 and closed in 2004 due to low enrollment. It sat vacant for about 10 years before a developer started to investigate converting the building.
 
 “My client purchased it in 2015 and it took him years to get all the permits and everything with the neighbors onboard with the building project,” says listing agent Debbie Gold of Coldwell Banker Residential Brokerage – Providence. “So it’s very unique in Providence, especially the East Side, which doesn’t have a big complex like this.”[^1]
 
-[^1]: Nilsson, Casey. “House Lust: Brand New Condos in a Converted Schoolhouse on the East Side.” Rhode Island Monthly, 26 March 2019. https://www.rimonthly.com/house-lust-chapel-hill-east-condos. Accessed August 28, 2022. 
+[^1]: Nilsson, Casey. “House Lust: Brand New Condos in a Converted Schoolhouse on the East Side.” Rhode Island Monthly, 26 March 2019. https://www.rimonthly.com/house-lust-chapel-hill-east-condos. Accessed August 28, 2022.
 
-The school was converted into 24 two-bedroom units in five different floor plan configurations. The building also has a shared fitness room, meeting and recreation rooms, an elevator, and enclosed indoor parking on the lower level (east entrance) for an additional fees. All the units have central air, gas fireplaces, high ceilings, crown molding, and wainscoting and are for purchase, not rent.  
+The school was converted into 24 two-bedroom units in five different floor plan configurations. The building also has a shared fitness room, meeting and recreation rooms, an elevator, and enclosed indoor parking on the lower level (east entrance) for an additional fees. All the units have central air, gas fireplaces, high ceilings, crown molding, and wainscoting and are for purchase, not rent.
 
 
 ### Current Events
 
-All units have been sold but will come up occasionally on real estate sites when owners want to sell. 
+All units have been sold but will come up occasionally on real estate sites when owners want to sell.
 
 
 ### History
 
-No official history has been found. The former school had an address of 55 Camp Street. It does not appear in maps until the 1937 G.M. Hopkins map. 
+No official history has been found. The former school had an address of 55 Camp Street. It does not appear in maps until the 1937 G.M. Hopkins map.
 
-+ Does not appear. An octagonal house seems to be on the corner of the property — [1920–1921 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"}
-+ Appears — [1937 G.M. Hopkins Map](http://www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/){:target="_blank"}
-+ A more detailed view of the school building — [1920–1951 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"}
++ Does not appear. An octagonal house seems to be on the corner of the property — [1920–1921 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102)
++ Appears — [1937 G.M. Hopkins Map](http://www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/)
++ A more detailed view of the school building — [1920–1951 Sanborn Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102)
 
-The construction consists of grey/tan brick with carved soapstone details. The building is 2 stories over a raised basement. Corners of the “M” plan building have decorative carved pillars. The roof is low-pitched and covered with Spanish-style roof tiles. The cornice is shallow with decorative brackets. The circa 1930s school had separate entrances; girls entrance on the south wing and boys on the north. Central entrances are located on the east and west. The east entrance opens into the gymnasium which doubles as the auditorium. 
+The construction consists of grey/tan brick with carved soapstone details. The building is 2 stories over a raised basement. Corners of the “M” plan building have decorative carved pillars. The roof is low-pitched and covered with Spanish-style roof tiles. The cornice is shallow with decorative brackets. The circa 1930s school had separate entrances; girls entrance on the south wing and boys on the north. Central entrances are located on the east and west. The east entrance opens into the gymnasium which doubles as the auditorium.
 
 
 ### In the News
@@ -150,6 +150,4 @@ Mezzanotte said the children and their families have been understanding.
 
 “Holy Name has been around for many years, and roots are deep here,” he said. “There are children in school here whose parents came here and graduated. And I know that anyone who was associated with the school will be upset. But I just got a card from a former teacher, 101 years old. She wrote in her note that she had fond memories of the school, but that ‘all good things must come to an end.’” […]
 
-— 
-
-DUJARDIN, RICHARD C.. “At closing Catholic schools, a sad start to summer.” Providence Journal (RI), Metro ed., sec. News, 18 June 2004, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15242ACEAA93B820. Accessed 29 Aug. 2022.
+— _DUJARDIN, RICHARD C.. “At closing Catholic schools, a sad start to summer.” Providence Journal (RI), Metro ed., sec. News, 18 June 2004, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15242ACEAA93B820. Accessed 29 Aug. 2022._

@@ -14,7 +14,7 @@ date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [ 'Stillman White' ]
 lists: [ 'Moshassuck Square Historic District', 'HABS HAER', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Flatiron style', 'Chet Smolski image collection' ]
@@ -22,9 +22,9 @@ tags: [ 'Flatiron style', 'Chet Smolski image collection' ]
 NRHP-ref-number: '709380013 (contributing)'
 added-to-NRHP: '1970'
 
-address: '1 Charles Street, Providence RI'
+address: '1 Charles St, Providence RI'
 latitude: '41.833374'
-longitude: '-71.4133164'
+longitude: '-71.4111277'
 gmap: "https://www.google.com/maps/place/1+Charles+St,+Providence,+RI+02904/@41.833374,-71.4133164,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44519458e3d7d:0x3e45c1838c963682!8m2!3d41.833374!4d-71.4111277"
 
 meta: ""
@@ -86,7 +86,7 @@ In 1971-1972 it suffered a fire along with the neighboring [American Screw Compa
 
 Since then the building has been home to Textiles<sup>2</sup> (squared) when the 2005 photos were taken, and it was another printer, Sir Speedy, from about 2010 to about 2015. Now there is another business on the first floor and we believe that the second floor is actually residential. Would love someone to confirm that in the comments.
 
-Along with the [Fletcher Manufacturing Company]({% link _property/fletcher-manufacturing.md %}) across the street and the remains of American Screw up the hill on the corner of North Main and Stevens Street, these are the survivors or the formerly-vast [Randall Square industrial district]({% link list/moshassuck-square-historic-district.html %}). They stand as a symbol of the diversity and vitality of Providence’s industrial heritage.
+Along with the [Fletcher Manufacturing Company]({% link _property/fletcher-manufacturing.md %}) across the street and the remains of American Screw up the hill on the corner of North Main and Stevens Street, these are the survivors or the formerly-vast Randall Square industrial district ([now known as Moshassuck Square]({% link list/moshassuck-square-historic-district.html %})). They stand as a symbol of the diversity and vitality of Providence’s industrial heritage.
 
 
 ### History
@@ -95,7 +95,7 @@ _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS a
 
 Set on the east side of Charles Street, just east of the Moshassuck River. It is a brick building comprised of three sections: the northern part is a one-story brick structure with a gable roof, and tapered, square chimney; the middle section stands two-stories and has a gable roof and corbelling; the southern section, which was built in the early 20th century, has a flat roof and a chamfered facade. The primary entrance faces Charles Street and is comprised of paired metal-and-glass doors set below single-light transoms; a secondary entrance is set within the chamfered corner and along the east elevation facing a small paved area. Fenestration is comprised of rectangular, single-light awning sash with stone lintels and sills.
 
-This is the foundry complex in which Providence industrialist Stillman White manufactured an anti-friction metal used to line machine bearings. His product was renowned throughout New England during the Industrial Revolution. The Stillman White Brass Foundry continued to operate at this site until 1949. By the early 1970s the building was abandoned. Later in the decade it was rehabilitated for office use (Kulik 1978; RIHPHC 1981:46; RIHPHC data sheet). Along with the [Fletcher Office Building and Warehouse]({% link _property/fletcher-manufacturing.md %}) at 2 Charles Street, it is one of the few remaining nineteenth-century industrial buildings in the once heavily industrialized [Moshassuck Square]({% link list/moshassuck-square-historic-district.html %}) area.
+This is the foundry complex in which Providence industrialist Stillman White manufactured an anti-friction metal used to line machine bearings. His product was renowned throughout New England during the Industrial Revolution. The Stillman White Brass Foundry continued to operate at this site until 1949. By the early 1970s the building was abandoned. Later in the decade it was rehabilitated for office use. Along with the [Fletcher Office Building and Warehouse]({% link _property/fletcher-manufacturing.md %}) at 2 Charles Street, it is one of the few remaining nineteenth-century industrial buildings in the once heavily industrialized [Moshassuck Square]({% link list/moshassuck-square-historic-district.html %}) area.
 
 ***
 
@@ -111,4 +111,4 @@ _From the National Registration form for Moshassuck Square Historic District, 19
 
 The foundry occupies a constricted site bounded by Bark Street, the Moshassuck River, and the Mill Street Bridge. **Stillman White**, who became a prominent Providence civic leader, began business here in 1856. The firm continued at this location through 1949. Construction and detail of the extant building, however, suggest that its three sections date in the late 19th and early 20th centuries. (External evidence, e.g. the Providence atlases of 1875–1918, supports this assertion.)
 
-Though the roof profile varies from section to section, the coherent overall appearance of the building is due to its uniform brickwork, window openings and corbeled cornice. Lintels and sills are cast concrete throughout the building, save in some portions of the middle section where stone may be found. The two-story middle and south sections contained office, storage and work spaces. The north section was the foundry-room proper. It is identified by its tapering square chimney and four large wind-adjustable sheet-metal vents mounted on the roof. Though the interiors are badly damaged, they retain a series of overhead I-beam tracks used to transport castings to the Bark Street and Mill Street entrances. This straight forward working building is an effective contrast to the [ornamented office across the bridge]({% link _property/fletcher-manufacturing.md %}).
+Though the roof profile varies from section to section, the coherent overall appearance of the building is due to its uniform brickwork, window openings and corbeled cornice. Lintels and sills are cast concrete throughout the building, save in some portions of the middle section where stone may be found. The two-story middle and south sections contained office, storage and work spaces. The north section was the foundry-room proper. It is identified by its tapering square chimney and four large wind-adjustable sheet-metal vents mounted on the roof. Though the interiors are badly damaged, they retain a series of overhead I-beam tracks used to transport castings to the Bark Street and Mill Street entrances. This straight forward working building is an effective contrast to the ornamented office across the bridge [the [Fletcher Office Building and Warehouse]({% link _property/fletcher-manufacturing.md %})].

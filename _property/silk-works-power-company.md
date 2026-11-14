@@ -13,7 +13,7 @@ date-added: '2010'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Central Falls, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'Central Falls Mill District', 'National Register of Historic Places' ]
 tags: []
@@ -23,7 +23,7 @@ added-to-NRHP: 'July 1976'
 
 address: '404 Roosevelt Ave, Central Falls RI'
 latitude: '41.8842571'
-longitude: '-71.384585'
+longitude: '-71.3823963'
 gmap: "https://www.google.com/maps/place/404+Roosevelt+Ave,+Central+Falls,+RI+02863/@41.8842571,-71.384585,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4434d2a5e9cbf:0xa56923db49a56447!8m2!3d41.8842571!4d-71.3823963"
 
 meta: ""

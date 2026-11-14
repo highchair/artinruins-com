@@ -21,9 +21,9 @@ superlative: 'The older building in this complex is one of only a handful of woo
 NRHP-ref-number: '03001521 (individual)'
 added-to-NRHP: 'January 30, 2004'
 
-address: '85 Sprague Street, Providence RI'
-latitude: '41.8096992'
-longitude: '-71.4297436'
+address: '85 Sprague St, Providence RI'
+latitude: '41.810075'
+longitude: '-71.427768'
 gmap: "https://www.google.com/maps/place/85+Sprague+St,+Providence,+RI+02907/@41.8096992,-71.4297436,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44578f03ff69b:0x6c8c12ed3ee4b29f!8m2!3d41.8096952!4d-71.4275549"
 
 meta: ""

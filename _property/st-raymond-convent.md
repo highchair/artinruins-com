@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: '29 Ninth St, Providence RI'
 latitude: '41.8543147'
-longitude: '-71.4019113'
+longitude: '-71.3993364'
 gmap: "https://www.google.com/maps/place/29+9th+St,+Providence,+RI+02906/@41.8543147,-71.4019113,631m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e444c73baee08b:0x25535785a9d4ee5d!8m2!3d41.8543147!4d-71.3993364!16s%2Fg%2F11c23qr9_f?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D"
 street: [ "Ninth" ]
 street-number: 29

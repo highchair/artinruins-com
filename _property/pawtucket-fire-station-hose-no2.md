@@ -13,7 +13,7 @@ date-added: '2024'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Fire Stations', 'Needs History' ]
@@ -22,8 +22,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '395 Main St, Pawtucket RI'
-latitude: '41.877189'
-longitude: '-71.3893313'
+latitude: '41.877185'
+longitude: '-71.3880438'
 gmap: "https://www.google.com/maps/place/395+Main+St,+Pawtucket,+RI+02860/@41.877189,-71.3893313,18z/data=!4m6!3m5!1s0x89e443541c0f0e9d:0x512ac55dedbac14a!8m2!3d41.877185!4d-71.3880438!16s%2Fg%2F11hcz3s1y5?entry=ttu"
 street: [ 'Main St' ]
 street-number: 395

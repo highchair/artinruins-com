@@ -23,7 +23,7 @@ added-to-NRHP:
 
 address: '300 Front St, Pawtucket RI'
 latitude: '41.885782'
-longitude: '-71.3818167'
+longitude: '-71.379628'
 gmap: "https://www.google.com/maps/place/300+Front+St,+Pawtucket,+RI+02860/@41.885782,-71.3818167,17z/data=!3m1!4b1!4m5!3m4!1s0x89e45cb378f8d787:0xd9f8bc76279c932e!8m2!3d41.885782!4d-71.379628"
 
 meta: ""
@@ -68,7 +68,7 @@ images:
   - url: green-daniels-jh-2009-05-11.jpg
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from the Pawtucket Library collections on Flickr: <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157716100831568" target="_blank">Blackstone Landing,</a> <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157669597809192" target="_blank">Green & Daniels</a>'
+imagescredit: 'Contributions from the Pawtucket Library collections on Flickr: <a href="https://www.flickr.com/photos/pawtucketlibrary/albums/72157716100831568">Blackstone Landing,</a> <a href="https://www.flickr.com/photos/pawtucketlibrary/albums/72157669597809192">Green & Daniels</a>'
 
 mostrecentimage: 2009-05-01
 
@@ -81,25 +81,24 @@ mostrecentimage: 2009-05-01
 
 The redevelopment of this collection of mill buildings started in 1987 but seems to have not been completed until the mid-nineties. A series of unfortunate events made the conversion into condominiums slow, and as a means of saving the project, Collette Vacations purchased one of the mills for its headquarters. Now both mills are in excellent condition and fully occupied.
 
-It is a little confusing, though, the way the Providence Journal article mentions that the developers purchases the abandoned mill in 1987, but Collette owned part of the complex since 1966. We’re not sure what the straight story is. 
+It is a little confusing, though, the way the Providence Journal article mentions that the developers purchases the abandoned mill in 1987, but Collette owned part of the complex since 1966. We’re not sure what the straight story is.
 
 
 ### Current Events
 
-The more than 160-year old collection of mill buildings is half condominiums — 82 units called Blackstone Landing — and half commercial space as the headquarters for 200 full-time employees of [Collette Vacations](//www.gocollette.com){:target="_blank"}. 
+The more than 160-year old collection of mill buildings is half condominiums — 82 units called Blackstone Landing — and half commercial space as the headquarters for 200 full-time employees of [Collette Vacations](https://www.gocollette.com/). 
 
 
 ### History
 
-Since the complex is so old and significant, we are surprised that there has not been a National Register nomination for this mill complex. Documented history is rather light. 
+Since the complex is so old and significant, we are surprised that there has not been a National Register nomination for this mill complex. Documented history is rather light.
 
 
 _From Statewide Historical Preservation Report: Pawtucket, Rhode Island, by the RIHPHC, 1978_
 
 **Greene & Daniels Mill Complex** 1860 et seq.; Company founded in Central Falls. Manufacturers of spool cotton thread. Relocated to Pleasant View after construction of Central Avenue Bridge. Company a major factor in neighborhood’s development. The complex includes:
 
-**Mill One** 1860-1866; Large, 4-story, brick mill; 3-story wing on north. Flat roof has replaced original mansard. Pair
-of non-identical, 6-stage towers on river front; southern tower originally housed a clock. A major Pawtucket landmark.
+**Mill One** 1860-1866; Large, 4-story, brick mill; 3-story wing on north. Flat roof has replaced original mansard. Pair of non-identical, 6-stage towers on river front; southern tower originally housed a clock. A major Pawtucket landmark.
 
 **Office** 1864 et seq.: 2-story-and-basement brick office building. Very wide eaves; now has a saw-toothed roof.
 
@@ -107,10 +106,9 @@ of non-identical, 6-stage towers on river front; southern tower originally house
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
-This four-story, brick, spool-cotton mill was built in 1860 and has been substantially altered since. Originally 5-stories high, with a dormered mansard roof and twin towers, it was enlarged to 407' X 67' in 1866. The fifth story is now gone, as are the tower roofs. 
+This four-story, brick, spool-cotton mill was built in 1860 and has been substantially altered since. Originally 5-stories high, with a dormered mansard roof and twin towers, it was enlarged to 407' X 67' in 1866. The fifth story is now gone, as are the tower roofs.
 
-Benjamin F. Greene founded the company and also assisted in technical developments by taking out a patent for dressing thread. The firm was incorporated as the **Greene Daniels Manufacturing Company** in 1877. At that time, the mill ran 22,000 spindles and produced ivory-finished three-cord thread. Because of the increased use of sewing machines, the soft-finished six-cord threads, like those of J P. Coats, came into extensive use. Because of this, Greene Daniels was forced into new product lines. Using the new English system of carding and combing, the company began to produce high quality yarns, which they dyed themselves for women’s dresses. By 1893, the mill employed 400 workers. It is now used
-for warehouse space.
+Benjamin F. Greene founded the company and also assisted in technical developments by taking out a patent for dressing thread. The firm was incorporated as the **Greene Daniels Manufacturing Company** in 1877. At that time, the mill ran 22,000 spindles and produced ivory-finished three-cord thread. Because of the increased use of sewing machines, the soft-finished six-cord threads, like those of J P. Coats, came into extensive use. Because of this, Greene Daniels was forced into new product lines. Using the new English system of carding and combing, the company began to produce high quality yarns, which they dyed themselves for women’s dresses. By 1893, the mill employed 400 workers. It is now used for warehouse space.
 
 
 ### In the News

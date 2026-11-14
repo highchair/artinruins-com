@@ -19,8 +19,8 @@ lists: []
 tags: []
 
 address: '30 High St, Pawtucket RI'
-latitude: '41.8778295'
-longitude: '-71.3848144'
+latitude: '41.8778256'
+longitude: '-71.3841653'
 gmap: "https://www.google.com/maps/place/30+High+St,+Pawtucket,+RI+02860/@41.8778295,-71.3848144,19z/data=!4m6!3m5!1s0x89e4435366f65665:0xe8d7ab99afa3633!8m2!3d41.8778256!4d-71.3841653!16s%2Fg%2F11cnch49pm?entry=ttu"
 
 meta: ""
@@ -53,7 +53,7 @@ images:
 
 mostrecentimage: 2009-06-01
 
-imagescredit: 'Images contributed by <a href="https://quahog.org">Quahog.org</a>, the <a href="https://www.flickr.com/photos/pawtucketlibrary/51990887109/in/photolist-2myMBqd-2ndfTpk-2ndhgDV-2oiwMsq">Pawtucket Library</a>, and Google Streetview'
+imagescredit: 'Images contributed by <a href="https://quahog.org/">Quahog.org</a>, the <a href="https://www.flickr.com/photos/pawtucketlibrary/51990887109/in/photolist-2myMBqd-2ndfTpk-2ndhgDV-2oiwMsq">Pawtucket Library</a>, and Google Streetview'
 
 external:
   - source: 'Shutterstock: Tavares News with a Customer'

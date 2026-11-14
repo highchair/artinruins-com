@@ -21,8 +21,8 @@ NRHP-ref-number: '02000952 (contributing)'
 added-to-NRHP: 'September 6, 2002'
 
 address: '10 Exchange Court, Pawtucket RI'
-latitude: '41.8788711'
-longitude: '-71.3831801'
+latitude: '41.8788671'
+longitude: '-71.3809914'
 gmap: "https://www.google.com/maps/place/10+Exchange+Ct,+Pawtucket,+RI+02860/@41.8788711,-71.3831801,17z/data=!3m1!4b1!4m5!3m4!1s0x89e45cacdd8bf87d:0x61e3f7f6cdec2734!8m2!3d41.8788671!4d-71.3809914"
 
 meta: ""
@@ -91,16 +91,16 @@ imagescredit: 'Contribution by Matthew A. Kierstead for the National Register No
 
 ### Redevelopment
 
-[Riverside Lofts](//www.riverfrontloftsri.com){:target="_blank"} was an ambitious project for Pawtucket, a city where the average home price is much lower than Providence or the connected East Side. Lofts in this complex ranged from 1000 square feet to 2800, and $170,000 to $560,000 (for the fifth floor penthouse). Elevators and balconies were installed riverside with a brand new parking complex as retaining wall to the east. Some of the units are multi-floor and most have river views. They saved some of the old jewelry making machinery to use as sculptures in the lobbies and reused much of the old building materials. 
+[Riverside Lofts](https://www.riverfrontloftsri.com/) was an ambitious project for Pawtucket, a city where the average home price is much lower than Providence or the connected East Side. Lofts in this complex ranged from 1000 square feet to 2800, and $170,000 to $560,000 (for the fifth floor penthouse). Elevators and balconies were installed riverside with a brand new parking complex as retaining wall to the east. Some of the units are multi-floor and most have river views. They saved some of the old jewelry making machinery to use as sculptures in the lobbies and reused much of the old building materials.
 
-Ranne P. Warner was owner and developer of Riverfront Lofts along with her Boston real estate developer company, Blackstone Exchange. The design for Riverfront Lofts involved the collaboration of Casali, Inc. Architects and [Morris Nathanson Design]({% link designer/morris-nathanson.html %}) of Pawtucket. The landscape design was developed by Rick Lamb Associates. 
+Ranne P. Warner was owner and developer of Riverfront Lofts along with her Boston real estate developer company, Blackstone Exchange. The design for Riverfront Lofts involved the collaboration of Casali, Inc. Architects and [Morris Nathanson Design]({% link designer/morris-nathanson.html %}) of Pawtucket. The landscape design was developed by Rick Lamb Associates.
 
 Because the previous owner sold off portions of the land adjoining the mill complex, the condo developers had to obtain relief from zoning requirements for minimum lot size, side- and rear-yard setbacks, and street frontage. They also had to obtain relief from the requirement that each unit be a minimum of 2,000 square feet. The Zoning Board voted unanimously in favor of the dimensional variances on May 7, 2004.
 
 
 ### Current Events
 
-Units at the Riverfront Mills come on and off the market, ranging in price and size, with river views and without. The complex is still in very good repair and the nearby Rhode Island Cardboard company building has been redeveloped as well. The condo association maintains [RiverfrontLoftsCondo.org](//www.riverfrontloftscondo.org){:target="_blank"}
+Units at the Riverfront Mills come on and off the market, ranging in price and size, with river views and without. The complex is still in very good repair and the nearby Rhode Island Cardboard company building has been redeveloped as well. The condo association maintains [RiverfrontLoftsCondo.org](https://www.riverfrontloftscondo.org/)
 
 
 ### History
@@ -111,7 +111,7 @@ The 81,086-square-foot former factory complex on the east bank of the Blackstone
 
 #### More Photos
 
-+ [The Pawtucket Library Flickr collection](//www.flickr.com/photos/pawtucketlibrary/albums/72157708837358238){:target="_blank"} has 66 photos of Lebanon Mills.
++ [The Pawtucket Library Flickr collection](https://www.flickr.com/photos/pawtucketlibrary/albums/72157708837358238) has 66 photos of Lebanon Mills.
 
 
 _From the Exchange Street Historic District nomination form, prepared by Matthew Kierstead, Ind. Historian; Christine Longiaru, Arch. Historian; Mary Varden, Arch. Assistant._

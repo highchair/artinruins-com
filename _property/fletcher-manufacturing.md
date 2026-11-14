@@ -15,7 +15,7 @@ date-added: '2021'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [ 'Thomas Fletcher' ]
 lists: [ 'HABS HAER', 'Inventory of Historic Engineering & Industrial Sites 1978', 'Moshassuck Square Historic District', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Providence Public Library Digital Collections' ]
@@ -23,9 +23,9 @@ tags: [ 'Providence Public Library Digital Collections' ]
 NRHP-ref-number: '709380013 (contributing)'
 added-to-NRHP: '1970'
 
-address: '2 Charles Street, Providence RI'
+address: '2 Charles St, Providence RI'
 latitude: '41.8327068'
-longitude: '-71.4137088'
+longitude: '-71.4115201'
 gmap: "https://www.google.com/maps/place/2+Charles+St,+Providence,+RI+02904/@41.8327068,-71.4137088,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445196792154d:0xe03d4863e65f0f29!8m2!3d41.8327068!4d-71.4115201"
 
 meta: ""
@@ -105,7 +105,7 @@ _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS a
 
 47 Charles Street – The **Fletcher Manufacturing Company**, founded by Thomas Fletcher in 1793 for the production of narrow fabrics such as lampwicks, was originally located in Boston. Fletcher moved his company to Providence in 1808, and in 1844 Fletcher's sons, who then ran the business, built a mill, the first structure of the Charles Street factory complex. While Thomas Fletcher had produced lampwicks and other narrow fabrics, his sons expanded the operation to include the manufacture of boot and shoelaces, corset laces, twine, yarns, spindle bandings, and kerosene-lamp wicks. In 1865 the Fletcher brothers incorporated their rapidly growing company as the Fletcher Manufacturing Company. By 1890 the textile factory complex covered over four acres and employed 750 workers. The company remained at this site until the early 20th century when the International Braid Company bought the Fletcher plant as well as the Elmwood Mills for the production of shoe and corset laces. In the 1950s, when most textile companies were liquidating their New England properties and were moving south for cheaper labor, transportation and energy costs, the International Braid Company sold the large complex. Damaged by fire in the early 1970s, the Fletcher Manufacturing Company complex was demolished except for the office and warehouse.
 
-Built in 1869, the imposing 3 1/2-story office with brownstone trim, a mansard roof, and bracketed dormers, still retains the name of the company which is displayed in projected lettering on a brownstone cartouche above the entrance. Built at the same time and attached to the office is a 3-story brick building which, though less ornate than the office building, is nevertheless a handsome addition. The office and warehouse did not reflect the style of the mill buildings in the complex, which were 2- 3- and 4-story, brick, gable-roofed structures, one of which had a handsome exterior stair tower. In 1973 along with the other remaining industrial buildings in the Randall Square area (see [1 Bark Street and Hewes Street]({% link _property/stillman-white-brass.md %})), the Fletcher Building was placed on the National Register of Historic Places and recently has been rehabilitated as an office building.
+Built in 1869, the imposing 3 1/2-story office with brownstone trim, a mansard roof, and bracketed dormers, still retains the name of the company which is displayed in projected lettering on a brownstone cartouche above the entrance. Built at the same time and attached to the office is a 3-story brick building which, though less ornate than the office building, is nevertheless a handsome addition. The office and warehouse did not reflect the style of the mill buildings in the complex, which were 2- 3- and 4-story, brick, gable-roofed structures, one of which had a handsome exterior stair tower. In 1973 along with the other remaining industrial buildings in the Randall Square area (see 1 Bark Street and Hewes Street [in our database as [Stillman White Brass Foundry]({% link _property/stillman-white-brass.md %})], the Fletcher Building was placed on the National Register of Historic Places and recently has been rehabilitated as an office building.
 
 ***
 

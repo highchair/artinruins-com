@@ -15,7 +15,7 @@ date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [ 'Phillip Allen', 'Crawford Allen', 'Zachariah Allen' ]
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Providence Public Library Digital Collections' ]
@@ -25,7 +25,7 @@ added-to-NRHP:
 
 address: '25-27 Dryden Lane, Providence RI'
 latitude: '41.8431923'
-longitude: '-71.4122263'
+longitude: '-71.4100376'
 gmap: "https://www.google.com/maps/place/27+Dryden+Ln,+Providence,+RI+02904/@41.8431923,-71.4122263,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444e132e798db:0xbeb013061e23ab6!8m2!3d41.8431923!4d-71.4100376"
 
 meta: ""
@@ -107,7 +107,7 @@ images:
 
 mostrecentimage: 2025-08-01
 
-imagescredit: 'Contributions by the Brown University Digital Repository (<a href="https://repository.library.brown.edu/studio/item/bdr:213551/">1889</a>, <a href="https://repository.library.brown.edu/studio/item/bdr:213318/">1899</a>), the Rhode Island Mills and Mill Villages Photograph Collection at the Providence Public Library (<a href="https://provlibdigital.org/islandora/object/islandora%3A290">photo 1</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A162">photo 2</a>), and <a href="https://www.re-vision.com/photography/providence/">Jay Boersma</a>'
+imagescredit: 'Contributions by the Brown University Digital Repository (<a href="https://repository.library.brown.edu/studio/item/bdr:213551/">1889</a>, <a href="https://repository.library.brown.edu/studio/item/bdr:213318/">1899</a>), the Rhode Island Mills and Mill Villages Photograph Collection at the Providence Public Library and <a href="https://www.re-vision.com/photography/providence/">Jay Boersma</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -123,7 +123,7 @@ For many years — we would say from 1980 to 2017 — this once important mill 
 
 As long as we have been in Providence – since 1999 – this building was home to the Providence Picture Frame Company and Dryden Galleries. There is also some office space in the back. According to some of the anecdotes left below, the Providence Picture Frame company may be about the same age as the smaller stone mill at 25 Dryden Lane, with roots going back to 1830.
 
-[Providence Picture Frame](https://www.providencepictureframe.com) moved to Mineral Spring Avenue in North Providence starting in late 2019. 
+[Providence Picture Frame](https://www.providencepictureframe.com/) moved to Mineral Spring Avenue in North Providence starting in late 2019.
 
 The Benny’s sign from the highway is one of the more recognizable advertisements along the Providence stretch of I-95 and was in very good shape in [the photo from Jay Boersma in 1976](#photo-allen-print-jb-1976-01). Our guess is that it has been there since the 60s. The [Benny’s Branch Avenue location]({% link _property/chase-brass-copper.md %}) closed in 2017, signaling the end of one era and the beginning of another.
 
@@ -137,7 +137,7 @@ The building started to undergo a conversion to Class A medical office space und
 
 ### History
 
-More about Zachariah Allen at [Small State, Big History](https://smallstatebighistory.com/zachariah-allen-scientist-inventor-and-visionary/). 
+More about Zachariah Allen at [Small State, Big History](https://smallstatebighistory.com/zachariah-allen-scientist-inventor-and-visionary/).
 
 ***
 

@@ -23,8 +23,8 @@ added-to-NRHP: 'August 2005'
 
 address: '475 Valley St, Providence RI'
 latitude: '41.8288301'
-longitude: '-71.435352'
-gmap: "https://www.google.com/maps/place/The+WaterFire+Arts+Center/@41.8288301,-71.435352,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445a6db2dc74f:0xdad3a7ba66f93bb8!8m2!3d41.8289372!4d-71.4332758"
+longitude: '-71.4331633'
+gmap: "https://www.google.com/maps/place/The+WaterFire+Arts+Center/@41.8286165,-71.4347018,272m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ5JzQzLjgiTiA3McKwMjYnMDcuMyJX!8m2!3d41.8288301!4d-71.435352!3m5!1s0x89e445a6db2dc74f:0xdad3a7ba66f93bb8!8m2!3d41.8288301!4d-71.4331633!16s%2Fg%2F11crzftvy6?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Valley St' ]
 street-number: 475
 
@@ -71,7 +71,7 @@ The WaterFire Arts Center is becoming a much needed alternative arts venue to ho
 
 The historic building required extensive renovations, including the installation of a new roof, addition of new systems and complete build-out of office, meeting, production, exhibition, performance, education, and visitor spaces. WaterFire Providence and its community development supporters invested approximately $7,500,000 in this redevelopment over five years and opened in [June of 2017](https://flickr.com/photos/waterfire_providence/albums/72157685337326905).
 
-More photos are available on the [Waterfire Arts Center Flickr account](https://flickr.com/photos/waterfire_providence/albums/72157648334360303){:target="_blank"}. Videos of the process are [available on Vimeo](https://vimeo.com/search/page:5?q=Waterfire+Arts+Center).
+More photos are available on the [Waterfire Arts Center Flickr account](https://flickr.com/photos/waterfire_providence/albums/72157648334360303). Videos of the process are [available on Vimeo](https://vimeo.com/search/page:5?q=Waterfire+Arts+Center).
 
 
 ### Current Events
@@ -100,4 +100,4 @@ _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS a
 
 Located on the south side of Valley Street stands a two-story, flat-roof, brick structure identified on maps as the roll covering building. The structure features slightly projecting brick piers between each bay and large, rectangular window openings with rows of multi-light metal sash windows; many openings have been filled in. Two oversized vehicular entrances with metal roll top doors are located on the building’s east elevation. The Valley Street elevation is devoid of entrances and all window openings have been filled in. A small, one-story, flat-roof, brick ell projects from the south elevation of the building.
 
-The building appears on the 1937 map and is identified as part of the [United States Rubber Company]({% link _property/us-rubber.md %}) complex. […]
+The building appears on the 1937 map and is identified as part of the [U.S. Rubber Company Mill Complex]({% link _property/us-rubber.md %}). […]

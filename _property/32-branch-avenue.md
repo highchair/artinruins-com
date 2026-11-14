@@ -25,7 +25,7 @@ added-to-NRHP:
 
 address: '32 & 34 Branch Ave, Providence RI'
 latitude: '41.8423665'
-longitude: '-71.4107652'
+longitude: '-71.4085765'
 gmap: "https://www.google.com/maps/place/32+Branch+Ave,+Providence,+RI+02904/@41.8423665,-71.4107652,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444e0da8f7117:0x90b0a921f9812968!8m2!3d41.8423665!4d-71.4085765"
 street: [ 'Branch Ave' ]
 street-number: 32
@@ -66,14 +66,14 @@ mostrecentimage: 2025-08-01
 
 ### Previous Tenants
 
-The [Groden Center](https://www.grodencenter.org), a specialty learning center, was a tenant of this building until 2004, when they purchased and moved into the [Dyerville Mill]({% link _property/dyerville-mill.md %}). The property was on the market for a time and was home to Bond Brothers (construction) and was an Exit Realty office. It was leasable again after that.
+The [Groden Center](https://www.grodencenter.org/), a specialty learning center, was a tenant of this building until 2004, when they purchased and moved into the [Dyerville Mill]({% link _property/dyerville-mill.md %}). The property was on the market for a time and was home to Bond Brothers (construction) and was an Exit Realty office. It was leasable again after that.
 
 
 ### Current Events
 
-The building is the current home of [Nicki’s Liquors](https://nikkisliquors.com), a craft beer and wine store. They have been at this location since 2015.
+The building is the current home of [Nicki’s Liquors](https://nikkisliquors.com/), a craft beer and wine store. They have been at this location since 2015.
 
-[According to tax records](https://data.nereval.com/PropertyDetail.aspx?town=Providence&accountnumber=34802&card=1), the building is owned by National Small Ventures LLC. The address listed is 32 Branch but the photo is of 36 Branch Avenue, the former [Autocar & Studebaker Trucks]({% link _property/autocar-studebaker-trucks.md %}). With the matching paint job on both buildings, we are guessing that they have the same owner which is associated with 700–740 North Main Street’s **Dean Auto Collision Center/Richmond Motor Sales and Rentals** and **The Law Office of Thomas E. Badway & Associates, LLC**. 
+[According to tax records](https://data.nereval.com/PropertyDetail.aspx?town=Providence&accountnumber=34802&card=1), the building is owned by National Small Ventures LLC. The address listed is 32 Branch but the photo is of 36 Branch Avenue, the former [Autocar & Studebaker Trucks]({% link _property/autocar-studebaker-trucks.md %}). With the matching paint job on both buildings, we are guessing that they have the same owner which is associated with 700–740 North Main Street’s **Dean Auto Collision Center/Richmond Motor Sales and Rentals** and **The Law Office of Thomas E. Badway & Associates, LLC**.
 
 
 ### History

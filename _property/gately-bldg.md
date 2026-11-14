@@ -22,9 +22,9 @@ NRHP-ref-number: '12000135 (contributing)'
 added-to-NRHP: 'January 26, 2012'
 
 address: '335 Main Street, Pawtucket RI'
-latitude: '41.8784576'
-longitude: '-71.3888774'
-gmap: "https://www.google.com/maps/place/335+Main+St,+Pawtucket,+RI+02860/@41.8784576,-71.3888774,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44353f4b40e55:0xbe4c7bf66049aae4!8m2!3d41.8784576!4d-71.3866887"
+latitude: '41.8779757'
+longitude: '-71.3875142'
+gmap: "https://www.google.com/maps/place/2+Bayley+St,+Pawtucket,+RI+02860/@41.8783328,-71.3879519,189m/data=!3m1!1e3!4m6!3m5!1s0x89e44353f7dd1221:0xf10143934ae599c7!8m2!3d41.8779757!4d-71.3875142!16s%2Fg%2F11c2drk31q?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "This 3-story flatiron 1920s commercial building was vacant for more than 20 years"
@@ -86,16 +86,16 @@ imagescredit: 'Contributions from the Pawtucket Library collection via Flickr, a
 
 ### Redevelopment
 
-This handsome flatiron-style, trapezoidal building sat vacant and in decay for over 20 years before finally finding an organization that would follow through on a proposal. After three unsuccessful <abbr title="Request for Proposals">RFP</abbr> processes, the Pawtucket Redevelopment Agency (<span class="abbr">PRA</span>) found a new owner and development partner in the [Pawtucket Citizens Development Corporation](//www.pawtucketcdc.org){:target="_blank"} (<span class="abbr">PCDC</span>)
+This handsome flatiron-style, trapezoidal building sat vacant and in decay for over 20 years before finally finding an organization that would follow through on a proposal. After three unsuccessful <abbr title="Request for Proposals">RFP</abbr> processes, the Pawtucket Redevelopment Agency (<span class="abbr">PRA</span>) found a new owner and development partner in the [Pawtucket Citizens Development Corporation](https://www.pawtucketcdc.org/) (<span class="abbr">PCDC</span>)
 
-In 2005, <span class="abbr">PRA</span> chose “Chef Walter” Potenza’s proposal to site a cooking school, café and other uses at the site, but Potenza later dropped out due to inability to secure construction financing. 
+In 2005, <span class="abbr">PRA</span> chose “Chef Walter” Potenza’s proposal to site a cooking school, café and other uses at the site, but Potenza later dropped out due to inability to secure construction financing.
 
-In 2007, Platt Realty of Providence and AI Design, headquartered for years in downtown Pawtucket, partnered in a proposal which <span class="abbr">PRA</span> picked over three competitors. The estimated $2.9 million would have brought office and retail with a new headquarters for AI Design on the top two floors. While accepted by the <span class="abbr">PRA</span>, the proposal never moved forward. 
+In 2007, Platt Realty of Providence and AI Design, headquartered for years in downtown Pawtucket, partnered in a proposal which <span class="abbr">PRA</span> picked over three competitors. The estimated $2.9 million would have brought office and retail with a new headquarters for AI Design on the top two floors. While accepted by the <span class="abbr">PRA</span>, the proposal never moved forward.
 
 
 ### Current Events
 
-In 2015-2016 the Gately building finally got a makeover and is now home to ground-floor retail, a community room, and 12 residential apartments with income restrictions geared towards those who quality for affordable-rate housing. 
+In 2015-2016 the Gately building finally got a makeover and is now home to ground-floor retail, a community room, and 12 residential apartments with income restrictions geared towards those who quality for affordable-rate housing.
 
 The Gately building was the launching pad for a state-bond referendum in 2016 to support more affordable housing. Governor Gina Raimondo said at the event:
 
@@ -114,15 +114,15 @@ The building provides approximately 5,000 square feet of space on each floor. Th
 
 #### Edward & Annie Gately
 
-**Edward Gately** (1853-1904) established a furniture store in Boston area sometime before 1900 and, by 1904, had expanded to the sale of ready-to-wear clothing, with locations in other cities in the northeast. After Gately’s death in 1904, his wife, **Annie E. (Brennan) Gately** (b. 1854) continued to expand the clothing operation. In 1911, Annie Gately announced the intention to build next door to her retail operation a four-story commercial building on a triangular lot. The Cottrell Block, also a commercial block fronting on Main Street (built ca. 1890), shared a party wall with the existing carriage works of Bernard McCabe and that agreement was extended to Annie Gately at the time of her purchase in 1912. 
+**Edward Gately** (1853-1904) established a furniture store in Boston area sometime before 1900 and, by 1904, had expanded to the sale of ready-to-wear clothing, with locations in other cities in the northeast. After Gately’s death in 1904, his wife, **Annie E. (Brennan) Gately** (b. 1854) continued to expand the clothing operation. In 1911, Annie Gately announced the intention to build next door to her retail operation a four-story commercial building on a triangular lot. The Cottrell Block, also a commercial block fronting on Main Street (built ca. 1890), shared a party wall with the existing carriage works of Bernard McCabe and that agreement was extended to Annie Gately at the time of her purchase in 1912.
 
 Annie retained local architect Albert H. Humes as superintendent of construction, it is unknown whether he also designed the building. Between purchasing the property in 1912 and starting construction, the building was scaled down to three stories. The roughly 15,000 square foot Gately Building provided four street level storefronts with access from Main Street and Bayley Street. Because of the flatiron shape of the building, three of the store plans were dogleg-shaped while the easternmost and most prominent store at the narrow end of the building was five-sided in plan. Entrance to the upper floor offices and commercial space was gained by entryways on both Main and Bayley Streets at the westerly end of the building. These glazed storefronts were trimmed in a combination of simple iron and pressed metal elements.
 
 #### The Chamber of Commerce Building (1919-1929) and M.J. Gallagher Building (1929-1935)
 
-In 1919 the name of the Gately Building was changed to the **Chamber of Commerce** Building to represent that organization’s leasing of the entire second floor. Established in 1899, by 1915 the organization had downtown offices in the Slater Trust Building. “Feeling the necessity of larger and more commodious quarters,” the organization set up offices and meeting space on the second floor of the former Gately Building. 
+In 1919 the name of the Gately Building was changed to the **Chamber of Commerce** Building to represent that organization’s leasing of the entire second floor. Established in 1899, by 1915 the organization had downtown offices in the Slater Trust Building. “Feeling the necessity of larger and more commodious quarters,” the organization set up offices and meeting space on the second floor of the former Gately Building.
 
-Although the E. Gately Clothing Company remained next door at the Cottrell Block until 1923, Mrs. Gately appears to have had financial difficulty in the operation of the commercial block. M.J. Gallagher, a Pawtucket real estate and insurance entrepreneur, provided a mortgage to **Annie Gately** in 2921; default followed in 1935. In 1929, with default imminent, the buildings name changed to the **M.J. Gallagher building** for the next few years. 
+Although the E. Gately Clothing Company remained next door at the Cottrell Block until 1923, Mrs. Gately appears to have had financial difficulty in the operation of the commercial block. M.J. Gallagher, a Pawtucket real estate and insurance entrepreneur, provided a mortgage to **Annie Gately** in 2921; default followed in 1935. In 1929, with default imminent, the buildings name changed to the **M.J. Gallagher building** for the next few years.
 
 #### Old Colony Cooperative Bank Building (1935-1993)
 
@@ -138,14 +138,14 @@ The Gately Building was purchased by Pawtucket entrepreneur Louis Yip in 1998 an
 #### Pride being restored to historic Gately Building
 
 _by Ethan Shorey_  
-**[Valley Breeze](//www.valleybreeze.com/2015-03-17/pawtucket/pride-being-restored-historic-gately-building#.X9rKmC9h2jQ){:target="_blank"}** | March 17, 2015 (abridged)
+**[Valley Breeze](https://www.valleybreeze.com/2015-03-17/pawtucket/pride-being-restored-historic-gately-building#.X9rKmC9h2jQ)** | March 17, 2015 (abridged)
 
 PCDC converting it into affordable apartments
 {:.o__lead}
 
 One of the downtown’s most unique structures, the historic Gately Building at 335 Main St., is being remade into a hip new housing complex, according to those behind it.
 
-The [Pawtucket Citizens Development Corporation](//www.pawtucketcdc.org){:target="_blank"} (<span class="abbr">PCDC</span>) is responsible for yet another rehab of an old building. This one will bring 13 rental units, a community room and a culinary arts center for the Amos House to the triangular structure.
+The [Pawtucket Citizens Development Corporation](https://www.pawtucketcdc.org/) (<span class="abbr">PCDC</span>) is responsible for yet another rehab of an old building. This one will bring 13 rental units, a community room and a culinary arts center for the Amos House to the triangular structure.
 
 <span class="abbr">PCDC</span>’s Director of Construction Management Kim Pereira said significant planning has gone into making the modern version of this 1914 building one the city can be proud of. She said it will further transform the downtown area into a more desirable place to live.
 
@@ -167,9 +167,8 @@ There is already a long list of applicants looking to live in the apartments, sa
 
 […] Rents here will be $600 a month, said Pereira.
 
-[…] City officials say the restoration of the Gately Building and other <span class="abbr">PCDC</span> projects in the area fit with their goals for more residential units to support a growing business base in the area. Trendy places like [Machines with Magnets](//www.machineswithmagnets.com
-){:target="_blank"} and the Shri Yoga Studio will continue to attract young professionals to the area, they say.
+[…] City officials say the restoration of the Gately Building and other <span class="abbr">PCDC</span> projects in the area fit with their goals for more residential units to support a growing business base in the area. Trendy places like [Machines with Magnets](https://www.machineswithmagnets.com) and the Shri Yoga Studio will continue to attract young professionals to the area, they say.
 
 The other nine ongoing <span class="abbr">PCDC</span> projects in the area include housing units at 17 Cherry St., 169 Barton St., 6 Cherry St., 32 Barton St., 101 Barton St., 15 Jackson St., 262 High St., 123 Montgomery St., all in Pawtucket, and 127 Earle St. in Central Falls.
 
-_Captured from the Valley Breeze, December 17 2020. https://www.valleybreeze.com/2015-03-17/pawtucket/pride-being-restored-historic-gately-building#.X9rKmC9h2jQ_
+— _Captured from the Valley Breeze, December 17 2020. https://www.valleybreeze.com/2015-03-17/pawtucket/pride-being-restored-historic-gately-building#.X9rKmC9h2jQ_

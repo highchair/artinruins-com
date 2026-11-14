@@ -16,10 +16,10 @@ designers: [ 'HOK' ]
 lists: []
 tags: [ 'Contemporary', 'Former/Current Hospitals' ]
 
-address: '164 Summit Avenue, Providence RI'
-latitude: '41.8520568'
-longitude: '-71.3992971'
-gmap: "https://www.google.com/maps/place/164+Summit+Ave,+Providence,+RI+02906/@41.8520568,-71.3992971,18z/data=!3m1!4b1!4m5!3m4!1s0x89e444c6911acbd9:0xc6af7a9c2833e673!8m2!3d41.8523391!4d-71.3976526"
+address: '164 Summit Ave, Providence RI'
+latitude: '41.8521772'
+longitude: '-71.3977471'
+gmap: "https://www.google.com/maps/place/AED+-+The+Miriam+Hospital+Cafeteria/@41.8520987,-71.3987231,201m/data=!3m2!1e3!5s0x89e452f5f5439d35:0x6e303c492cd0fdb6!4m6!3m5!1s0x89e4453ef6fb7869:0x54fd4c4fbea1d7b!8m2!3d41.8521772!4d-71.3977471!16s%2Fg%2F11mv_4w6xd?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "An older building made way for a new patient care and operating room facility in the middle of a dense residental neighborhood"
@@ -67,12 +67,12 @@ Our new facility includes:
 
 ### Reception
 
-The previous “Sol Koffler Family Research Center” and small parking lot in front of it was demolished to make way for this new larger building. The Sol Koffler wing was constructed in the late 60s as one of the first expansions Miriam made into the neighborhood. Its concrete, almost Brutalist design was not easy to expand upon, and so it was removed instead. 
+The previous “Sol Koffler Family Research Center” and small parking lot in front of it was demolished to make way for this new larger building. The Sol Koffler wing was constructed in the late 60s as one of the first expansions Miriam made into the neighborhood. Its concrete, almost Brutalist design was not easy to expand upon, and so it was removed instead.
 
-Miriam and the [Summit Neighborhood Association](//www.sna.providence.ri.us){:target="_blank"} have a long history of working together and fighting each other as well. They don’t always see eye to eye, and that makes sense. Miriam wants to have access to state-of-the-art facilities and the Lifespan hospital system has gobbled up land along North Main Street for many years. Why expand here in the dense East Side when lots of land is available down the hill? 
+Miriam and the [Summit Neighborhood Association](https://www.sna.providence.ri.us/) have a long history of working together and fighting each other as well. They don’t always see eye to eye, and that makes sense. Miriam wants to have access to state-of-the-art facilities and the Lifespan hospital system has gobbled up land along North Main Street for many years. Why expand here in the dense East Side when lots of land is available down the hill?
 
-To the neighborhood, Miriam represents siren noise, inflated housing and rental costs due to the demand from staff and students, high traffic, and an appetite to expand and expand. On the other hand, the jobs are good to have in the area, and access to state-of-the-art facilities is not half bad. 
+To the neighborhood, Miriam represents siren noise, inflated housing and rental costs due to the demand from staff and students, high traffic, and an appetite to expand and expand. On the other hand, the jobs are good to have in the area, and access to state-of-the-art facilities is not half bad.
 
-For this project, the original intent was for Miriam to acquire more property in the neighborhood. The neighbors and the Summit Association fought back, and convinced them to build on the land they already own. We thought it was a win at the time, but did not have the full picture of how Miriam could have easily built along North Main Street at the former [Sears Department store]({% link _property/sears-north-main.md %}). North Main Street could certainly use some sort of anchor, after all. 
+For this project, the original intent was for Miriam to acquire more property in the neighborhood. The neighbors and the Summit Association fought back, and convinced them to build on the land they already own. We thought it was a win at the time, but did not have the full picture of how Miriam could have easily built along North Main Street at the former [Sears Department store]({% link _property/sears-north-main.md %}). North Main Street could certainly use some sort of anchor, after all.
 
-The two will continue to butt heads. Luckily for both, they have a positive working relationship and will (hopefully) continue to work towards being good neighbors to each other. 
+The two will continue to butt heads. Luckily for both, they have a positive working relationship and will (hopefully) continue to work towards being good neighbors to each other.

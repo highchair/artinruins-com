@@ -23,7 +23,7 @@ added-to-NRHP: 'November 2006'
 
 address: '238 Main St, Pawtucket RI'
 latitude: '41.8773007'
-longitude: '-71.3874471'
+longitude: '-71.3852584'
 gmap: "https://www.google.com/maps/place/238+Main+St,+Pawtucket,+RI+02860/@41.8773007,-71.3874471,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44354812650cb:0xe1284313207178e7!8m2!3d41.8773007!4d-71.3852584"
 
 meta: ""

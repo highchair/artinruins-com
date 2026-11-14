@@ -13,7 +13,7 @@ date-added: '2010'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'Rhody Awards', 'Quality Hill Historic District', National Register of Historic Places' ]
 tags: []
@@ -23,7 +23,7 @@ added-to-NRHP: 'April 1984'
 
 address: '26 Main St, Pawtucket RI'
 latitude: '41.875821'
-longitude: '-71.3825725'
+longitude: '-71.3803838'
 gmap: "https://www.google.com/maps/place/26+Main+St,+Pawtucket,+RI+02860/@41.875821,-71.3825725,17z/data=!3m1!4b1!4m5!3m4!1s0x89e45cab6dc95b19:0x8559986d121831!8m2!3d41.875821!4d-71.3803838"
 
 meta: ""
@@ -80,7 +80,7 @@ Around 2009, the former To Kalon Club (aka TK Club) started to seek a buyer for 
 
 The To Kalon Club was a prominent Pawtucket social club and is listed in the National Register of Historic Places as part of the Quality Hill Historic District. The rehabilitation of the clubhouse was done in accordance with the Secretary of the Interior’s Standards for Rehabilitation and received Federal Historic Preservation tax credits.
 
-Previous buyers were not so promising. Dunkin Donuts wanted to raze the building for a highway-accessible drive through. A few politicians wanted to keep the building but use it as a compassion center. <span class="abbr">PAL</span> bought the building in 2011 and updated the building, removed asbestos, sold the bowling lanes and pin-setting machines in the basement, and converted upper floors into office space. The ground floor, with its wood-paneled lounge, hall and staircase, and muraled dining room, was restored and left largely as is.[^1]
+Previous buyers were not so promising. Dunkin Donuts wanted to raze the building for a highway-accessible drive through. A few politicians wanted to keep the building but use it as a compassion center. <span class="abbr">PAL</span> bought the building in 2011 and updated the building, removed asbestos, sold the bowling lanes and pin-setting machines in the basement, and converted upper floors into office space. The ground floor, with its wood-paneled lounge, hall and staircase, and a dining room with murals, was restored and left largely as is.[^1]
 
 [^1]: “To Kalon clubhouse saved,” Providence Journal, April 22, 2011
 
@@ -91,7 +91,7 @@ Anecdotally, ArtInRuins has seen author bylines from <span class="abbr">PAL</spa
 
 ### Current Events
 
-The [Pawtucket Archeology Lab (PAL)](//www.palinc.com) operates out of 26 Main Street. 
+The [Pawtucket Archeology Lab (PAL)](https://www.palinc.com) operates out of 26 Main Street. 
 
 
 ### History

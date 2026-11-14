@@ -13,7 +13,7 @@ date-added: '2024'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'Church Hill Industrial District', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places' ]
 tags: []
@@ -22,8 +22,8 @@ NRHP-ref-number: '82000135 (contributing)'
 added-to-NRHP: '1982'
 
 address: '483 Main St, Pawtucket RI'
-latitude: '41.8769295'
-longitude: '-71.3912857'
+latitude: '41.8769255'
+longitude: '-71.3899982'
 gmap: "https://www.google.com/maps/place/483+Main+St,+Pawtucket,+RI+02860/@41.8769295,-71.3912857,18z/data=!4m6!3m5!1s0x89e44356eb0dc707:0x48109c2410eb3f2d!8m2!3d41.8769255!4d-71.3899982!16s%2Fg%2F11bw4cl3w7?entry=ttu"
 street: [ 'Main St' ]
 street-number: 483
@@ -80,7 +80,7 @@ The **James Brown Machine Shop** is a long, 2-story brick structure whose end fa
 
 […]
 
-The earliest building still standing in the Church Hill District was built for James S. Brown. The son of Sylvanus Brown, one of Pawtucket’s noted machinists, James Brown was himself a skilled metal-worker — he had worked in the shops of Pitcher and Gay in the early 1820s and succeeded to partnership in the firm (afterward known as Pitcher and Brown) in 1824. 
+The earliest building still standing in the Church Hill District was built for James S. Brown. The son of Sylvanus Brown, one of Pawtucket’s noted machinists, James Brown was himself a skilled metal-worker — he had worked in the shops of Pitcher and Gay in the early 1820s and succeeded to partnership in the firm (afterward known as Pitcher and Brown) in 1824.
 
 In 1842 he obtained full control of the company and determined to move the shops from a site near the Blackstone River to Church Hill. He began construction there of the long, 2-story, red brick mill standing at the corner of Main and Pine Streets. The building, carried on under the direction of master mason Israel Lee, was not completed until 1848. A small remnant of Brown’s earlier building near the site is the tiny, 1-story brick building east of the large mill [now extant]. It was later sold to [William H. Haskell]({% link _property/william-h-haskell-plant.md %}) and incorporated into the Haskell complex which was built around it. Probably dating from the mid-1840s, the building may have housed Brown’s forge.
 

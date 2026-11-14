@@ -13,7 +13,7 @@ date-added: '2006'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'National Register of Historic Places', 'Downtown Pawtucket Historic District' ]
 tags: [ 'Lost Music Venues' ]
@@ -22,8 +22,8 @@ NRHP-ref-number: '06001227 (contributing)'
 added-to-NRHP: 'November 2006'
 
 address: '250 Main St, Pawtucket RI'
-latitude: '41.8773731'
-longitude: '-71.3878269'
+latitude: '41.8773691'
+longitude: '-71.3856382'
 gmap: "https://www.google.com/maps/place/250+Main+St,+Pawtucket,+RI+02860/@41.8773731,-71.3878269,17z/data=!3m1!4b1!4m5!3m4!1s0x89e443547e8d00bd:0xeb0f2956ca270d6e!8m2!3d41.8773691!4d-71.3856382"
 
 meta: ""

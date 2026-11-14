@@ -16,7 +16,7 @@ categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
 designers: []
-people: [] #Stephen Jenks 
+people: [] #Stephen Jenks
 lists: [ 'Church Hill Industrial District', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places' ]
 tags: [ 'The Superlatives' ]
 superlative: 'Called “one of the most important operating industrial sites in the state”'
@@ -25,8 +25,8 @@ NRHP-ref-number: '82000135 (contributing)'
 added-to-NRHP: '1982'
 
 address: '453 Main St, Pawtucket RI'
-latitude: '41.8769965'
-longitude: '-71.3904003'
+latitude: '41.8769945'
+longitude: '-71.3891091'
 gmap: "https://www.google.com/maps/place/453+Main+St,+Pawtucket,+RI+02860/@41.8769965,-71.3904003,317m/data=!3m2!1e3!4b1!4m5!3m4!1s0x89e443568e2c4fd9:0x9da372936e712452!8m2!3d41.8769945!4d-71.3891091?entry=ttu"
 street: []
 
@@ -155,13 +155,13 @@ The concept is a brilliant one. It is expensive for small craft brewers to produ
 
 ### Current Events
 
-[The Guild Pawtucket](//www.theguildpawtucket.com/){:target="_blank"} is a brewery and beer hall with event space and rental units for small businesses. It is one of the locations of [The Guild RI](//www.theguildri.com/){:target="_blank"}.
+[The Guild Pawtucket](https://www.theguildpawtucket.com/) is a brewery and beer hall with event space and rental units for small businesses. It is one of the locations of [The Guild RI](https://www.theguildri.com/).
 
 
 ### History
 
-+ [Photos from the Pawtucket Library Collection on Flickr](//www.flickr.com/photos/pawtucketlibrary/albums/72157708802608028/){:target="_blank"}
-+ [1898 Catalog for the Wm. H. Haskell Company](//archive.org/details/Wm.H.HaskellCompany/page/n7/mode/2up){:target="_blank"} care of the Internet Archive and the Building Technology Heritage Library
++ [Photos from the Pawtucket Library Collection on Flickr](https://www.flickr.com/photos/pawtucketlibrary/albums/72157708802608028/)
++ [1898 Catalog for the Wm. H. Haskell Company](https://archive.org/details/Wm.H.HaskellCompany/page/n7/mode/2up) care of the Internet Archive and the Building Technology Heritage Library
 
 ***
 
@@ -260,6 +260,4 @@ He said there are “stacks of memorabilia, documents, and photos all waiting to
 
 Now there will be a new chapter.
 
-—
-
-Ciampa, Gail. “Business Hi Neighbor! ’Gansett returns to R.I. - Brewery setting up craft-beer operations in Pawtucket.” Providence Journal (RI), sec. RI News, 3 Apr. 2016, p. 1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15C05242C0D87228. Accessed 27 Dec. 2023.
+— _Ciampa, Gail. “Business Hi Neighbor! ’Gansett returns to R.I. - Brewery setting up craft-beer operations in Pawtucket.” Providence Journal (RI), sec. RI News, 3 Apr. 2016, p. 1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15C05242C0D87228. Accessed 27 Dec. 2023._

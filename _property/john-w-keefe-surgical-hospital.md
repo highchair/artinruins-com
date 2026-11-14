@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: '262 Blackstone Blvd, Providence RI'
 latitude: '41.8424339'
-longitude: '-71.3880585'
+longitude: '-71.3867567'
 gmap: "https://www.google.com/maps/place/262+Blackstone+Blvd,+Providence,+RI+02906/@41.8424339,-71.3880585,319m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e444d247d136ad:0x626e3eced9447fc4!8m2!3d41.8424339!4d-71.3867567!16s%2Fg%2F11bw42s8mv?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Blackstone Blvd' ]
 street-number: 262

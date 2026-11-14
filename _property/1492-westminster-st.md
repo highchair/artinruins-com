@@ -20,7 +20,7 @@ tags: [ 'Apartments for Rent', 'Contemporary' ]
 
 address: '1492 Westminster St, Providence RI'
 latitude: '41.8160092'
-longitude: '-71.4364386'
+longitude: '-71.4342499'
 gmap: "https://www.google.com/maps/place/1492+Westminster+St,+Providence,+RI+02909/@41.8160092,-71.4364386,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459cf50d01af:0x15a20af66012ec00!8m2!3d41.8160092!4d-71.4342499"
 street: [ 'Westminster St' ]
 street-number: 1492

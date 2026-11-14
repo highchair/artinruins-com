@@ -13,7 +13,7 @@ date-added: '2022'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered' ]
 tags: [ 'Fire Stations' ]
@@ -23,7 +23,7 @@ added-to-NRHP: 'February 1990'
 
 address: '653 North Main St, Providence RI'
 latitude: '41.8384905'
-longitude: '-71.4112166'
+longitude: '-71.4090279'
 gmap: "https://www.google.com/maps/place/653+N+Main+St,+Providence,+RI+02904/@41.8384905,-71.4112166,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451fd5622f11:0xa1a5b5284f51bb02!8m2!3d41.8384905!4d-71.4090279"
 street: [ 'North Main St' ]
 
@@ -76,7 +76,7 @@ From 1983 to about 1990 the building was home to **Computopia**.[^3] The 1988 ph
 
 [^4]: “New businesses.” Providence Journal (RI), ALL ed., sec. BUSINESS, 19 May 1994, pp. B-03. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15252349AFF98A38. Accessed 11 Mar. 2022.
 
-By 1998 **Miko’s**, a sex-positive adult store, moved in.[^5] They lasted almost 10 years at this corner, moving across town by 2007. Sometime before 2002 the property was part of a Ten Most Endangered List, heralded by the [Providence Preservation Society](https://ppsri.org). We say that because in a 2002 news story it was mentioned as a success story, where highlighting the building led to new investment in it. It was likely listed before Miko moved in.
+By 1998 **Miko’s**, a sex-positive adult store, moved in.[^5] They lasted almost 10 years at this corner, moving across town by 2007. Sometime before 2002 the property was part of a Ten Most Endangered List, heralded by the [Providence Preservation Society](https://ppsri.org/). We say that because in a 2002 news story it was mentioned as a success story, where highlighting the building led to new investment in it. It was likely listed before Miko moved in.
 
 [^5]: Gunther-Rosenberg, Avis. “Smart Shopping Ready, Get Set, Shop Halloween means indulging fantasies; win a diamond; HomeGoods for less.” Providence Journal (RI), ALL ed., sec. HERS, 29 Oct. 1998, pp. H-04. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15251CF4A53A2AA8. Accessed 11 Mar. 2022.
 
@@ -87,7 +87,7 @@ After Miko’s moved out, the building was vacant from 2008 to 2011. Google Stre
 
 ### Current Events
 
-[Jerry’s Art-a-rama](https://www.jerrysartarama.com) moved early in 2012 from the former [Vesta Knitting Mills]({% link _property/vesta-knitting-imperial-knife.md %}) in the Jewelry District and has been there since.
+[Jerry’s Art-a-rama](https://www.jerrysartarama.com/) moved early in 2012 from the former [Vesta Knitting Mills]({% link _property/vesta-knitting-imperial-knife.md %}) in the Jewelry District and has been there since.
 
 
 ### History

@@ -25,8 +25,8 @@ NRHP-ref-number: '83003845'
 added-to-NRHP: 'November, 1983 (individual)'
 
 address: '485 East Ave, Pawtucket, RI'
-latitude: '41.8653979'
-longitude: '-71.3896413'
+latitude: '41.865171'
+longitude: '-71.387746'
 gmap: "https://www.google.com/maps/place/Charles+E+Shea+High+School/@41.8653979,-71.3896413,16z/data=!4m15!1m8!3m7!1s0x89e444ac22c72485:0xd1e52ee5f78ade09!2s425+East+Ave,+Pawtucket,+RI+02860!3b1!8m2!3d41.8670918!4d-71.3877316!16s%2Fg%2F11b8v5y1sq!3m5!1s0x89e444addf26e43d:0xd24088744e9a3779!8m2!3d41.8651946!4d-71.3882585!16zL20vMGZfMWZr?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D"
 street: []
 street-number:

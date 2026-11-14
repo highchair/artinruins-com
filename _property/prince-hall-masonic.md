@@ -13,7 +13,7 @@ date-added: '2020'
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'PPS Ten Most Endangered' ]
 tags: [ 'Rhode Island Black Heritage', 'The Superlatives' ]
 superlative: 'The African Masonic Lodge was the first institution, other than the Black church, that organized on behalf of African Americans in the United States'
@@ -21,9 +21,9 @@ superlative: 'The African Masonic Lodge was the first institution, other than th
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '883 Eddy Street, Providence RI'
+address: '883 Eddy St, Providence RI'
 latitude: '41.8037348'
-longitude: '-71.4092577'
+longitude: '-71.407069'
 gmap: "https://www.google.com/maps/place/883+Eddy+St,+Providence,+RI+02905/@41.8037348,-71.4092577,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44560ba6173fd:0xaf0e82fdf5089f15!8m2!3d41.8037348!4d-71.407069"
 
 meta: ""

@@ -22,9 +22,9 @@ tags: [ 'Former/Current Hospitals' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '111 Brewster Street, Pawtucket RI'
+address: '111 Brewster St, Pawtucket RI'
 latitude: '41.8700113'
-longitude: '-71.3785955'
+longitude: '-71.3764068'
 gmap: "https://www.google.com/maps/place/111+Brewster+St,+Pawtucket,+RI+02860/@41.8700113,-71.3785955,17z/data=!3m1!4b1!4m5!3m4!1s0x89e45b55dfe978a7:0x6707477b49bca5ce!8m2!3d41.8700113!4d-71.3764068"
 
 meta: ""
@@ -60,7 +60,7 @@ images:
     caption: 'Map of the campus which has been built up since 1918. The bulkiest building is actually two, built at two different times in the expansion of the hospital, 1965 and 1976'
     sizes: '531, 439'
 
-imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/sets/72157665888425744/" target="_blank">Pawtucket Library Flickr album</a>'
+imagescredit: 'Contributions from the <a href="https://www.flickr.com/photos/pawtucketlibrary/sets/72157665888425744/">Pawtucket Library Flickr album</a>'
 
 mostrecentimage: 2018-11-01
 
@@ -92,7 +92,7 @@ In 1985, phase three of modernization was the $1.7-million **Ambulatory Care Cen
 
 ### Redevelopment
 
-Entrepreneur Michael Mota and an investment group want to continue to line of thinking that Lockwood Development was proposing before their financing fell through. Their plan would include housing for senior veterans. 
+Entrepreneur Michael Mota and an investment group want to continue to line of thinking that Lockwood Development was proposing before their financing fell through. Their plan would include housing for senior veterans.
 
 
 ### History
