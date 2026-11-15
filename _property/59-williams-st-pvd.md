@@ -23,8 +23,10 @@ added-to-NRHP: 'November 10, 1970'
 
 address: '59 Williams St, Providence RI'
 latitude: '41.8220829'
-longitude: '-71.4025681'
+longitude: '-71.4024072'
 gmap: "https://www.google.com/maps/place/59+Williams+St,+Providence,+RI+02906/@41.8220829,-71.4025681,19z/data=!4m6!3m5!1s0x89e4453e9045247d:0x25596d422e78fdec!8m2!3d41.8220829!4d-71.4024072!16s%2Fg%2F11v02l9z36?entry=ttu"
+street: [ 'Williams St' ]
+street-number: 59
 
 meta: ""
 excerpt: "A quaint small cottage is delicately saved by a considerate addition and rebuild while the large lot was subdivided to support monster new construction"
@@ -163,4 +165,3 @@ This double house will clearly be an addition to the Fox Point townscape, rather
 If this block of John Street is one of the city's finest, then putting up houses here requires a greater responsibility to the community than just the ability to raise financing. Having the expert knowledge of a good architect is essential if new construction is to enrich the neighborhood and create history for the future.
 
 — _Captured August 13, 2022 from https://www.golocalprov.com/business/ris-most-celebrated-architect-st-florian-breaking-the-code-in-fox-point-arc_
-

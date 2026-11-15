@@ -24,9 +24,9 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '132 Vinton St, Providence RI'
-latitude: '41.820523'
-longitude: '-71.4304167'
-gmap: "https://www.google.com/maps/place/132+Vinton+St,+Providence,+RI+02909/@41.820523,-71.4304167,17z"
+latitude: '41.8204865'
+longitude: '-71.42821'
+gmap: "https://www.google.com/maps/place/132+Vinton+St,+Providence,+RI+02909/@41.8206217,-71.4287109,144m/data=!3m1!1e3!4m6!3m5!1s0x89e445750d8fffff:0x87f729a70f43ea56!8m2!3d41.8204865!4d-71.42821!16s%2Fg%2F11rg64ddq0?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Broadway' ]
 street-number: 311
 
@@ -105,7 +105,7 @@ In a few of the photos one can see the back of the [Barnaby Castle Carriage Hous
 
 ### Current Events
 
-The property was converted to commercial/office space in approximately 2018. In 2025, it started being renovated as rumored restaurant space and a new location for Pizza J, whose owners Julian’s restaurant is across the street.
+The property was converted to commercial/office space in approximately 2018. In 2025, it started being renovated as rumored restaurant space and a new location for Pizza J, whose owners other business, Julian’s restaurant, is across the street.
 
 
 ### History

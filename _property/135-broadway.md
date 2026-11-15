@@ -14,7 +14,7 @@ date-added: '2009'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: []
@@ -24,7 +24,7 @@ added-to-NRHP: 'May 1, 1974'
 
 address: '135 Broadway, Providence RI'
 latitude: '41.8218212'
-longitude: '-71.4240074'
+longitude: '-71.4218187'
 gmap: "https://www.google.com/maps/place/135+Broadway,+Providence,+RI+02903/@41.8218212,-71.4240074,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450ccff0851d:0xd6f53bfbfc19340d!8m2!3d41.8218212!4d-71.4218187"
 street: [ 'Broadway' ]
 street-number: 135
@@ -103,7 +103,7 @@ The new laundromat added a concrete-block addition off the back of the building 
 
 ### Current Events
 
-This is one of the locations of [Freeway Laundry](https://freewaylaundry.com), a local family-owned and operated chain. 
+This is one of the locations of [Freeway Laundry](https://freewaylaundry.com/), a local family-owned and operated chain.
 
 
 ### History

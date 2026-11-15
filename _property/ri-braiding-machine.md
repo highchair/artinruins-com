@@ -13,7 +13,7 @@ date-added: '2022'
 categories: [ '#NotInRuins', '#UsedToBeThere' ]
 neighborhoods: [ 'Federal Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [ 'James Hanley' ]
 lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Providence Public Library Digital Collections' ]
@@ -23,7 +23,7 @@ added-to-NRHP:
 
 address: 'Two Fox Place, Providence RI'
 latitude: '41.8237867'
-longitude: '-71.4227433'
+longitude: '-71.4205546'
 gmap: "https://www.google.com/maps/place/2+Fox+Pl,+Providence,+RI+02903/@41.8237867,-71.4227433,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450db15feca7:0x84a4c364a8905d4f!8m2!3d41.8237867!4d-71.4205546"
 
 meta: ""
@@ -106,7 +106,7 @@ In 2005, daughter of Charles J. Fox, Jr., Jill Fox Tobak was appointed President
 
 [^2]: “Biz Bits & Quips.” Providence Journal (RI), All ed., sec. Business, 31 July 2005, pp. M-02. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15242875799CD338. Accessed 4 Feb. 2022.
 
-What must have been fairly shortly after 2005, the Fox family sold the company to an out-of-state buyer. The property remained vacant for some years before being purchased by the [Omni Group](http://www.omniri.com) for $1.6 million in mid-February, 2013.[^3]
+What must have been fairly shortly after 2005, the Fox family sold the company to an out-of-state buyer. The property remained vacant for some years before being purchased by the [Omni Group](http://www.omniri.com/) for $1.6 million in mid-February, 2013.[^3]
 
 [^3]: “News.” Providence Journal (RI), 1 ed., sec. News, 8 Mar. 2013, p. MAIN_06. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152421102C7564B8. Accessed 4 Feb. 2022.
 
@@ -131,7 +131,7 @@ In the 1920 map, the original Rhode Island Braiding Machine buildings were label
 
 ### Current Events
 
-The building is now called One Cedar and it is part of the Omni Groups’s [West Exchange Center](http://www.westexchangecenter.com) campus of office and commercial spaces.
+The building is now called One Cedar and it is part of the Omni Groups’s [West Exchange Center](http://www.westexchangecenter.com/) campus of office and commercial spaces.
 
 
 ### History
@@ -150,11 +150,11 @@ A four-story brick mill building (2 Fox Place) with heavy brick piers, segmented
 
 #### Source Maps
 
-+ [1889 Sanborn Insurance map, Vol. 1, Plate 4](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901)
-+ [1920–1921 Sanborn Insurance map, Vol. 1, Plate 8](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001)
-+ [1939 G.M. Hopkins Map, Plate 4](http://www.historicmapworks.com/Map/US/895461/Plate+004/Providence+1937/Rhode+Island/)
-+ [1920–1951 Sanborn Insurance map, Vol. 1, Plate 8](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101)
-+ [1920–1956 Sanborn Insurance map, Vol. 1, Plate 8](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601)
++ [1889 Sanborn Insurance map, Vol. 1, Plate 4b](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901) (page 11) — Labelled as 89 Aborn Street. A three story wood frame (yellow) building along Aborn Street with a three story brick (red/pink) building at the back (south). Labelled “Rhode Island Braiding Mach. Co.”
++ [1920–1921 Sanborn Insurance map, Vol. 1, Plate 8](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (page 20) — Now labelled as 228–232 Aborn Street. Same structure, with a wooden building attached to a brick structure. To the west is now the Hanley building. Both are labelled as “Various” manufacturing.
++ [1939 G.M. Hopkins Map, Plate 4](http://www.historicmapworks.com/Map/US/895461/Plate+004/Providence+1937/Rhode+Island/) — Still postal number 228–232 and now labelled with the company name “Edmands Company.”
++ [1920–1951 Sanborn Insurance map, Vol. 1, Plate 8](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101) (page 22) — Much the same as 1920 but without the “Various” label.
++ [1920–1956 Sanborn Insurance map, Vol. 1, Plate 8](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601) (page 14) — Same as 1920–1951.
 
 
 ### In the News
@@ -170,7 +170,7 @@ The Omni Group in mid-February paid $1.6 million for 2 Fox Place and five other 
 
 The private Omni firm has rebuilt much of the area between Atwells Avenue and West Exchange Street since 2006 as an office complex. Omni will raze some structures on the Fox properties and convert other space to offices.
 
-— Grimaldi, Paul. “Omni Group buys Fox building in Providence.” Providence Journal (RI), All ed., sec. breaking_news, 7 Mar. 2013. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524214E567EBA60. Accessed 4 Feb. 2022.
+— _Grimaldi, Paul. “Omni Group buys Fox building in Providence.” Providence Journal (RI), All ed., sec. breaking_news, 7 Mar. 2013. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524214E567EBA60. Accessed 4 Feb. 2022._
 
 ***
 
@@ -184,4 +184,4 @@ A lifelong resident of Providence, he was born on June 30, 1918, to the late C. 
 
 Soon after college graduation, Mr. Fox entered the packaging company founded by his father in 1895. In his 54 years with the C.J. Fox Company, the business grew from 35 to more than 100 employees. Instrumental in expanding the company’s product lines from boxes and tags to pressure sensitive labels and plastic display cards, Mr. Fox, with his brother, Robert Fox, introduced innovative marketing and manufacturing techniques to the business. Mr. Fox, who was called CJ by friends and family, was known to walk around the factory and personally thank each employee upon handing them their paycheck.
 
-— “Businessman Charles J. Fox Jr. dies; former CEO of the C.J. Fox Company.” Providence Journal (RI), ALL ed., sec. NEWS, 7 July 1996, pp. B-08. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15251FE528F07FD0. Accessed 4 Feb. 2022.
+— _“Businessman Charles J. Fox Jr. dies; former CEO of the C.J. Fox Company.” Providence Journal (RI), ALL ed., sec. NEWS, 7 July 1996, pp. B-08. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15251FE528F07FD0. Accessed 4 Feb. 2022._

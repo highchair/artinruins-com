@@ -19,10 +19,12 @@ lists: [ 'I-195 District Parcels' ]
 parcel: '6'
 tags: [ 'Apartments for Rent', 'Contemporary' ]
 
-address: 'S. Main and S. Water at Wickendon Sts, Providence RI'
-latitude: '41.818788'
-longitude: '-71.4018042'
-gmap: "https://www.google.com/maps/place/41%C2%B049'07.6%22N+71%C2%B024'04.5%22W/@41.818788,-71.4018042,19z/data=!3m1!4b1!4m13!1m6!3m5!1s0x0:0xe39bbb7ded173d2b!2sIndia+Point+Park!8m2!3d41.8174476!4d-71.3903767!3m5!1s0x0:0x9f4c9678a4295adc!7e2!8m2!3d41.8187884!4d-71.4012574"
+address: '125 Wickendon St, Providence RI'
+latitude: '41.8181715'
+longitude: '-71.4010078'
+gmap: "https://www.google.com/maps/place/500+S+Water+St,+Providence,+RI+02903/@41.818549,-71.4015263,168m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ5JzA3LjYiTiA3McKwMjQnMDQuNSJX!8m2!3d41.8187884!4d-71.4012574!3m5!1s0x89e4453f5a74185d:0xbaa7e756f98a0611!8m2!3d41.8181715!4d-71.4010078!16s%2Fg%2F11whsbyv4c?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Wickenden St' ]
+street-number: 125
 
 meta: ""
 excerpt: "A mixed-use commercial and residential development on land vacated by the relocation of interstate 195"
@@ -118,7 +120,7 @@ Truth Box and ZDS are the project architects.
 
 “It’s a rare opportunity to lead the design and development of an entire city block in such a prominent location,” said Jordan Durham of Link Street LLC. “We have been very pleased to see such broad support for the project vision, from not just the local Fox Point neighborhood but across the entire city. We expect this project to be a catalyst and an anchor for the exciting new district taking shape on the East Side.”
 
-_Captured November 19, 2020 from The Providence Business News (link now behind paywall)_
+— _Captured November 19, 2020 from The Providence Business News (link now behind paywall)_
 
 ***
 
@@ -133,4 +135,4 @@ For what’s formally known as Parcel 6, a 1.48-acre lot south of Wickenden Stre
 
 Architect and Truth Box founder Peter Gill Case may be best known for his 2009 Olneyville project Box Office, a 10,000-square-foot office and studio building made entirely of shipping containers, which is prominently visible from the Route 6-10 Connector. […]
 
-_Captured January 9, 2021 from https://www.providencejournal.com/story/news/2019/06/27/i-195-board-gives-initial-nod-to-295-apartments-in-2-projects/4820354007/_
+— _Captured January 9, 2021 from https://www.providencejournal.com/story/news/2019/06/27/i-195-board-gives-initial-nod-to-295-apartments-in-2-projects/4820354007/_

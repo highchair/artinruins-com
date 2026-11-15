@@ -23,8 +23,8 @@ NRHP-ref-number: '75000003 (individual)'
 added-to-NRHP: 'February 1975'
 
 address: '1 Union Station, Providence RI'
-latitude: '41.8264574'
-longitude: '-71.4184911'
+latitude: '41.825792'
+longitude: '-71.413324'
 gmap: "https://www.google.com/maps/search/1+Union+Station+Providence,+RI,+US/@41.8264574,-71.4184911,16z/data=!3m1!4b1"
 
 meta: ""
@@ -93,7 +93,7 @@ images:
 
 mostrecentimage: 2013-11-01
 
-imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12438" target="_blank">c.1902,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14447" target="_blank">c.1904,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14742" target="_blank">Trolley,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12455" target="_blank">c.1910,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12552" target="_blank">c.1915-20,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12641" target="_blank">c.1920-28,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A11557" target="_blank">fire,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12508" target="_blank">interior,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12656" target="_blank">c.1950,</a>); Edward Ozog Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A17600" target="_blank">postcard 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A16958" target="_blank">1932,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A17235" target="_blank">tracks,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A16113" target="_blank">postcard 2</a>); Avery Lord Aerial Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A58" target="_blank">aerial</a>), Providence Public Library; Library of Congress <a href="//www.loc.gov/pictures/item/ri0360/" target="_blank">HAER 14 1977,</a> <a href="//www.loc.gov/pictures/item/ri0400/" target="_blank">HAER 4 1982-83,</a> & <a href="//www.loc.gov/pictures/item/ri0377/" target="_blank">HABS 388 1982-83</a>; <a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>'
+imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A12438">c.1902,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A14447">c.1904,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A14742">Trolley,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A12455">c.1910,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A12552">c.1915-20,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A12641">c.1920-28,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A11557">fire,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A12508">interior,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A12656">c.1950,</a>); Edward Ozog Photograph Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A17600">postcard 1,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A16958">1932,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A17235">tracks,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A16113">postcard 2</a>); Avery Lord Aerial Photograph Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A58">aerial</a>), Providence Public Library; Library of Congress <a href="https://www.loc.gov/pictures/item/ri0360/">HAER 14 1977,</a> <a href="https://www.loc.gov/pictures/item/ri0400/">HAER 4 1982-83,</a> & <a href="https://www.loc.gov/pictures/item/ri0377/">HABS 388 1982-83</a>; <a href="https://digitalcommons.ric.edu/smolski_images/61">Chet Smolski</a>'
 
 ---
 
@@ -105,10 +105,10 @@ The Rhode Island Foundation purchased the building in April, 1999 for $4.5 milli
 
 #### More Photos
 
-+ Library of Congress — [Providence Union Station, Exchange Terrace, Providence, Providence County, RI: HABS RI-388](//www.loc.gov/pictures/item/ri0377/){:target="_blank"}, photos and documentation, 1982-83
-+ Library of Congress — [East Side Railroad Tunnel, Benefit Street to Seekonk River, Providence, Providence County, RI: HAER RI-29](//www.loc.gov/pictures/item/ri0396/){:target="_blank"}, photos and documentation, 1982-83
-+ Library of Congress — [Post Office Covered Walkway, Providence, Providence County, RI: HAER No RI-31](//www.loc.gov/pictures/item/ri0398/){:target="_blank"}, photos and documentation, 1982-83
-+ Library of Congress — [Union Station Viaduct, Spanning Gaspee, Francis, Promenade & Canal Streets, Providence, Providence County, RI: HAER RI-14](//www.loc.gov/pictures/collection/hh/item/ri0360/){:target="_blank"}, photos and documentation, 1977
++ Library of Congress — [Providence Union Station, Exchange Terrace, Providence, Providence County, RI: HABS RI-388](https://www.loc.gov/pictures/item/ri0377/), photos and documentation, 1982-83
++ Library of Congress — [East Side Railroad Tunnel, Benefit Street to Seekonk River, Providence, Providence County, RI: HAER RI-29](https://www.loc.gov/pictures/item/ri0396/), photos and documentation, 1982-83
++ Library of Congress — [Post Office Covered Walkway, Providence, Providence County, RI: HAER No RI-31](https://www.loc.gov/pictures/item/ri0398/), photos and documentation, 1982-83
++ Library of Congress — [Union Station Viaduct, Spanning Gaspee, Francis, Promenade & Canal Streets, Providence, Providence County, RI: HAER RI-14](https://www.loc.gov/pictures/collection/hh/item/ri0360/), photos and documentation, 1977
 
 #### Our Photos
 
@@ -121,7 +121,7 @@ We have photos from 2005 of the exterior of the building, but since not much has
 
 _From “Union Station: April 26, 1987 Fire”, Rhode Island College Digital Commons_
 
-[Photo of Union Station: April 26, 1987 Fire](//digitalcommons.ric.edu/smolski_images/61/){:target="_blank"}: In this photo can be seen the burned hulk of the central building and the foundation of a recreation of the eastern wing (far right) that burned originally in 1941.
+[Photo of Union Station: April 26, 1987 Fire](https://digitalcommons.ric.edu/smolski_images/61/): In this photo can be seen the burned hulk of the central building and the foundation of a recreation of the eastern wing (far right) that burned originally in 1941.
 
 > Union Station was in the process of being redesigned for office and retail use when it suffered an upper stories fire on April 26, 1987. In this photograph, behind the fire-stricken but extinguished Union Station, is the newly built Providence [Amtrack] Station with its two story parking garage and campanile.
 
@@ -136,7 +136,7 @@ What emerged instead were the North American headquarters of London-based Cookso
 
 ##### Alternative designs
 
-Stone & Carpenter submitted earlier designs for the station in much more elaborate styles. [One such design from 1883](//www.flickr.com/photos/cityarchives/16003399571/in/photolist-bZBzk5-qoaB9g){:target="_blank"} is viewable on the Providence RI Flickr page.
+Stone & Carpenter submitted earlier designs for the station in much more elaborate styles. [One such design from 1883](https://www.flickr.com/photos/cityarchives/16003399571/in/photolist-bZBzk5-qoaB9g) is viewable on the Providence RI Flickr page.
 
 
 ##### Original history write up taken from the RI Foundation Website, captured 2005
@@ -169,7 +169,7 @@ Today, Union Station again faces a surging Providence, this time on both sides. 
   <summary>Read the full article</summary>
 
 _by Stella Dawson_
-**[The AP](//apnews.com/article/b01ef5d598407df5b1b73f1360b1ecca){:target="_blank"}** | April 27, 1987
+**[The AP](https://apnews.com/article/b01ef5d598407df5b1b73f1360b1ecca)** | April 27, 1987
 
 A suspicious fire that gutted a historic train station and cracked its central tower has put in doubt plans to convert it into a multimillion-dollar commercial and residential complex, a developer says.
 

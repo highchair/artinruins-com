@@ -23,7 +23,7 @@ added-to-NRHP: 'September 1978'
 
 address: '407-409 Pine St, Providene RI'
 latitude: '41.814561'
-longitude: '-71.4201007'
+longitude: '-71.417912'
 gmap: "https://www.google.com/maps/place/407+Pine+St,+Providence,+RI+02903/@41.814561,-71.4201007,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456e202fcc85:0xb3911f0b68e92e0f!8m2!3d41.814561!4d-71.417912"
 
 meta: ""

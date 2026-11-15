@@ -15,7 +15,7 @@ date-added: '2012'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [  'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Berlin Bridge Company', 'Demolition by Progress', 'The Superlatives' ]
@@ -24,10 +24,12 @@ superlative: [ 'The first all glass and steel industrial building built in Provi
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '566 South Main St, Providence RI'
-latitude: '41.817095'
-longitude: '-71.4020767'
+address: '566 South Water St, Providence RI'
+latitude: '41.817356'
+longitude: '-71.400298'
 gmap: "https://www.google.com/maps/place/41°49'01.5%22N+71°23'59.6%22W/@41.817095,-71.4020767,17z/data=!3m1!4b1!4m14!1m7!3m6!1s0x89e44540aa6adea7:0x1a46c25c05c0b56e!2s566+S+Main+St,+Providence,+RI+02903!3b1!8m2!3d41.8176663!4d-71.4005749!3m5!1s0x0:0xde654d3bca63d70d!7e2!8m2!3d41.8170905!4d-71.3998883"
+street: [ 'South Water St' ]
+street-number: 570
 
 meta: ""
 excerpt: "The earliest steel-framed buildings in the city, constructed by the Berlin Iron Bridge Company of Connecticut"
@@ -86,18 +88,18 @@ imagescredit: 'Contributions by James Taylor and Rick Greenwood'
 
 ### Reason for Demolition
 
-This large building with a non-descript exterior on the edge of India Point directly across Tockwotton Street from interstate 195 was covered in purplish asbestos tile until recently. Underneath was revealed a wood curtain wall of glass panes 20 feet high with standard glazing. 
+This large building with a non-descript exterior on the edge of India Point directly across Tockwotton Street from interstate 195 was covered in purplish asbestos tile until recently. Underneath was revealed a wood curtain wall of glass panes 20 feet high with standard glazing.
 
-The building has sat in disrepair for a very long time and was most recently used as a nightclub. The soaring 20 foot ceiling was diminished by a drop ceiling, likely to keep the heat down where the people are. More recently the building seems to have been a hangout for a graffiti crew, or at least one of those places that everyone comes to leave their mark. 
+The building has sat in disrepair for a very long time and was most recently used as a nightclub. The soaring 20 foot ceiling was diminished by a drop ceiling, likely to keep the heat down where the people are. More recently the building seems to have been a hangout for a graffiti crew, or at least one of those places that everyone comes to leave their mark.
 
-The building and land were up for sale and then finally auction. Now that the buildings are adjacent to land that was recently cleared after portions of interstate 195 were removed form the center of the city, the land is more valuable for residential use rather than commercial. 
+The building and land were up for sale and then finally auction. Now that the buildings are adjacent to land that was recently cleared after portions of interstate 195 were removed form the center of the city, the land is more valuable for residential use rather than commercial.
 
 Still standing is the [older portion of the Fuller Iron Works]({% link _property/fuller-iron-works-1869.md %}) from 1869.
 
 
 ### Current Events
 
-The land on which the iron works once stood has a new residential building constructed on top of it — called [580 South Water](https://www.580southwater.com). Construction started in 2020. 
+The land on which the iron works once stood has a new residential building constructed on top of it — called [580 South Water](https://www.580southwater.com). Construction started in 2020.
 
 
 ### History

@@ -25,8 +25,10 @@ added-to-NRHP:
 
 address: '155-59 Humboldt Ave, Providence RI'
 latitude: '41.8332626'
-longitude: '-71.3887546'
+longitude: '-71.3865659'
 gmap: "https://www.google.com/maps/place/155+Humboldt+Ave,+Providence,+RI+02906/@41.8332626,-71.3887546,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4452a418d266b:0xc8ee7f8fc02f4189!8m2!3d41.8332626!4d-71.3865659"
+street: [ 'Humboldt Ave' ]
+street-number: 157
 
 meta: ""
 excerpt: "A wonderful Beaux-Arts fire station on the east side of Providence that has been vacant since 2017"
@@ -67,7 +69,7 @@ imagescredit:
 
 ### Last Tenant & Current Events
 
-This fire station was closed in 2017, the same time as the one on [Rochambeau Avenue]({% link _property/rochambeau-fire-station.md %}), also on the East Side. 
+This fire station was closed in 2017, the same time as the one on [Rochambeau Avenue]({% link _property/rochambeau-fire-station.md %}), also on the East Side.
 
 _Update January 27, 2026, from the Boston Globe Rhode Island Rhode Map email newsletter_
 
@@ -135,6 +137,4 @@ Emily W. Crowell, communications director for Mayor Jorge O. Elorza, said the ma
 
 But she noted that the tentative agreement the city has negotiated with the firefighters showed similar thinking, in that it reduced minimum staffing from 94 to 88, resulting in the five-year savings of $16 million.
 
-—
-
-Hill, John. “PROVIDENCE 2 fire stations could be closed — Union head says shutting stations possible under pact.” Providence Journal (RI), sec. RI News, 22 Oct. 2016, p. 1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1602E4D019E03CB0. Accessed 27 Mar. 2022.
+— _Hill, John. “PROVIDENCE 2 fire stations could be closed — Union head says shutting stations possible under pact.” Providence Journal (RI), sec. RI News, 22 Oct. 2016, p. 1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1602E4D019E03CB0. Accessed 27 Mar. 2022._

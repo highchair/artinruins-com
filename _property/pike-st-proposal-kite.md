@@ -19,8 +19,8 @@ lists: []
 tags: [ 'Contemporary', 'Never Built' ]
 
 address: 'Approx. 39 Pike St, Providence RI'
-latitude: '41.81789'
-longitude: '-71.4012513'
+latitude: '41.8178885'
+longitude: '-71.4001572'
 gmap: "https://www.google.com/maps/place/41%C2%B049'04.4%22N+71%C2%B024'00.6%22W/@41.81789,-71.4012513,18z/data=!3m1!4b1!4m14!1m7!3m6!1s0x89e44540a82dc65f:0x39843957e0ed8d71!2sS+Water+St+%26+Pike+St,+Providence,+RI+02903!3b1!8m2!3d41.8177146!4d-71.4008224!3m5!1s0x0:0x2155832438649879!7e2!8m2!3d41.8178885!4d-71.4001572"
 
 meta: ""
@@ -52,7 +52,7 @@ imagescredit:
 
 The design for Parcel 8 North came a few years before [580 Water Street]({% link _property/580-water-street-pvd.md %}) and [Parcel 6]({% link _property/parcel-6-india-point.md %}) in 2014. The developer was Richard Baccari II, the same developer who eventually moved on to create 580 South Water Street.
 
-By November of 2015, the project was approved by the city’s Downtown Design Review Committee but was awaiting approval from the [I-195 District Commission](//www.195district.com){:target="_blank"}.[^1] From what we can remember, the design was approved but did not move forward for reasons that are unclear. Richard Baccari II’s father, Richard Baccari, retired in 2015 which may have led to the shift in focus towards different developments.
+By November of 2015, the project was approved by the city’s Downtown Design Review Committee but was awaiting approval from the [I-195 District Commission](https://www.195district.com/).[^1] From what we can remember, the design was approved but did not move forward for reasons that are unclear. Richard Baccari II’s father, Richard Baccari, retired in 2015 which may have led to the shift in focus towards different developments.
 
 [^1]: Bramson, Kate. “I-195 COMMISSION Design panel OKs 7-story building east of Providence River - Project designed as gateway to city.” Providence Journal (RI), sec. RI News, 17 Nov. 2015, p. 3. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1592D95E8E7562B0. Accessed 14 Nov. 2022.
 
@@ -97,7 +97,7 @@ Baccari hopes his project will be the first to break ground on former highway la
 
 But before the proposal moves forward, the building’s design must be approved by the city’s Downtown Design Review Committee and by the 195 Commission.
 
-[The 195 Commission](//www.195district.com){:target="_blank"}, which does not have a design-review staff, agreed at its August meeting to a memorandum of understanding with the city’s design committee. The agreement goes beyond the Baccari proposal and would allow the city committee to review a proposed PawSox baseball stadium, a pending student-housing proposal and [a life-sciences complex]({% link _property/wexford-innovation-center.md %}) proposed by Wexford Science & Technology of Baltimore and CV Properties of Boston.
+[The 195 Commission](https://www.195district.com/), which does not have a design-review staff, agreed at its August meeting to a memorandum of understanding with the city’s design committee. The agreement goes beyond the Baccari proposal and would allow the city committee to review a proposed PawSox baseball stadium, a pending student-housing proposal and [a life-sciences complex]({% link _property/wexford-innovation-center.md %}) proposed by Wexford Science & Technology of Baltimore and CV Properties of Boston.
 
 The 195 Commission retains exclusive authority as the permitting agency for all projects located entirely on district property. However, with a project such as Baccari’s, which straddles land within the city and the 195 District, approval by both entities will be required. Baccari’s 39 Pike St. building is within the city’s jurisdiction.
 
@@ -117,6 +117,4 @@ Another development project is already under way on former 195 land, but Johnson
 
 The 2011 state law creating the 195 commission granted Johnson & Wales exclusive rights to buy two former highway parcels, which would not fall under the purview of the 195 commission. The university broke ground in April for its [$40-million academic building]({% link _property/jwu-science-innovation.md %}), located between Friendship and Pine streets on the western edge of the 195 land. The building will house the university’s School of Design and Engineering and undergraduate biology program.
 
-—
-
-Bramson, Kate. “Providence Display could light former 195 land - Baccari office, retail, residential project designed as gateway.” Providence Journal (RI), sec. RI News, 15 Sept. 2015, p. 1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/159579D1D9474870. Accessed 14 Nov. 2022.
+— _Bramson, Kate. “Providence Display could light former 195 land - Baccari office, retail, residential project designed as gateway.” Providence Journal (RI), sec. RI News, 15 Sept. 2015, p. 1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/159579D1D9474870. Accessed 14 Nov. 2022._

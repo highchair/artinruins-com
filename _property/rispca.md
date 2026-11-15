@@ -23,10 +23,12 @@ tags: []
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '372 West Fountain Street, Providence RI'
+address: '372 West Fountain St, Providence RI'
 latitude: '41.8189'
-longitude: '-71.4242087'
+longitude: '-71.42202'
 gmap: "https://www.google.com/maps/place/372+W+Fountain+St,+Providence,+RI+02903/@41.8189,-71.4242087,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4457309d96dab:0xe8f411a8df7d9147!8m2!3d41.8189!4d-71.42202"
+street: [ 'West Fountain St' ]
+street-number: 372
 
 meta: ""
 excerpt: "This modestly small but ornate brick building became the home to the Providence Revolving Fund"
@@ -70,7 +72,7 @@ mostrecentimage: 2023-02-01
 
 ### Redevelopment
 
-The [Providence Revolving Fund](https://revolvingfund.org) purchased this building in June of 2006 to use as their new headquarters. Executive Director Clark Schoettle and the Revolving Fund team used their expertise in helping homeowners renovate their homes with historic accuracy to save much of the original character of the offices upstairs. Original woodwork, doors with bubble glass, and large transoms were retained.
+The [Providence Revolving Fund](https://revolvingfund.org/) purchased this building in June of 2006 to use as their new headquarters. Executive Director Clark Schoettle and the Revolving Fund team used their expertise in helping homeowners renovate their homes with historic accuracy to save much of the original character of the offices upstairs. Original woodwork, doors with bubble glass, and large transoms were retained.
 
 The lovely exterior was cleaned and mortar was repointed. The mid-century garage door was replaced with a more historically accurate french door with arched top. A mid-century one-story annex seen in our 2006 photos was demolished as it was not a contributing historic structure.
 
@@ -79,7 +81,7 @@ The Providence Revolving Fund provides low cost loans to homeowners and small bu
 
 ### Current Events
 
-This building has been home to the [Providence Revolving Fund](https://revolsingfund.org) since their renovation of it in 2007–2008. A business occupies the ground floor space along Fountain Street with another, [West Side Wellness](https://www.westsidewell.com), in the rear. 
+This building has been home to the [Providence Revolving Fund](https://revolsingfund.org/) since their renovation of it in 2007–2008. A business occupies the ground floor space along Fountain Street with another, [West Side Wellness](https://www.westsidewell.com/), in the rear.
 
 
 ### History

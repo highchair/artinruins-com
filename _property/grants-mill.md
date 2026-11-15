@@ -20,9 +20,9 @@ tags: [ 'Apartments for Rent' ]
 NRHP-ref-number: '74000047 (contributing)'
 added-to-NRHP: 'May 1, 1974'
 
-address: '299 Carpenter Street, Providence RI'
-latitude: '41.8181843'
-longitude: '-71.4315842'
+address: '299 Carpenter St, Providence RI'
+latitude: '41.8181621'
+longitude: '-71.4293798'
 gmap: "https://www.google.com/maps/place/299+Carpenter+St,+Providence,+RI+02909/@41.8181843,-71.4315842,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44575fa569c25:0x108611f960c3880b!8m2!3d41.8181621!4d-71.4293798"
 
 meta: ""
@@ -85,14 +85,14 @@ imagescredit: 'Photo contributions by Jef Nickerson and Will Heublein'
 
 ### Redevelopment
 
-Until 2008, the mill was home to many small businesses and studios in the middle of a largely residential neighborhood on the city’s west side. Famed local custom bicycle frame manufacturer Circle-A Cycles had their shop here, among others. Alas, as mill conversions became the hot thing to do, this mill was sold to an out-of-state developer and converted. 
+Until 2008, the mill was home to many small businesses and studios in the middle of a largely residential neighborhood on the city’s west side. Famed local custom bicycle frame manufacturer Circle-A Cycles had their shop here, among others. Alas, as mill conversions became the hot thing to do, this mill was sold to an out-of-state developer and converted.
 
 
 ### Current Events
 
-Originally redeveloped by Brady Sullivan Properties, the [Grant Mill Lofts](https://www.grantmill.com) were sold for $13.4 million to [Heritage Properties](https://www.heritageprop.net), of Lowell, MA in 2017. In October 2007, Brady Sullivan paid $2.4 million for the former Carpenter’s Mill building.[^1]
+Originally redeveloped by Brady Sullivan Properties, the Grant Mill Lofts were sold for $13.4 million to [Heritage Properties](https://www.heritageprop.net/), of Lowell, MA in 2017. In October 2007, Brady Sullivan paid $2.4 million for the former Carpenter’s Mill building.[^1]
 
-Units are now managed by Heritage, a real-estate developer and management company. Availability and contact information for rentals are available on the [Grant Mill](https://www.grantmill.com) website. 
+Units are now managed by Heritage, a real-estate developer and management company. Availability and contact information for rentals are available on the [Grant Mill](https://www.grantmill.com/) website.
 
 [^1]: “Loft-style apartment building in Providence is sold for $13.4M,” Christine Dunn, Providence Journal, February 8, 2017. Captured December 26, 2020 from https://www.providencejournal.com/news/20170208/loft-style-apartment-building-in-providence-is-sold-for-134m
 
@@ -143,4 +143,4 @@ _From the “Broadway-Armory Historic District” National Register nomination f
 
 ### In the News
 
-While our opinion of the development company Brady Sullivan are relatively high — in that the workmanship and respect for historic mill spaces in their projects are high — they have been the subject of controversy. In 2018, after selling the Grant Mill property, Brady Sullivan was involved in a protracted dispute with tenants and former tenants of a mill property in Coventry where mold issues made tenants sick. The full story is more complicated and details can be found on [New Hampshire public radio’s website](https://www.nhpr.org/post/accusations-against-brady-sullivan-spread-multiple-ri-properties#stream/0).  
+While our opinion of the development company Brady Sullivan are relatively high — in that the workmanship and respect for historic mill spaces in their projects are high — they have been the subject of controversy. In 2018, after selling the Grant Mill property, Brady Sullivan was involved in a protracted dispute with tenants and former tenants of a mill property in Coventry where mold issues made tenants sick. The full story is more complicated and details can be found on [New Hampshire public radio’s website](https://www.nhpr.org/post/accusations-against-brady-sullivan-spread-multiple-ri-properties#stream/0).

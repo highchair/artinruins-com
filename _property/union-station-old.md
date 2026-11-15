@@ -20,9 +20,9 @@ tags: [ 'The Superlatives', 'Providence Public Library Digital Collections', 'Tr
 superlative: 'Voted in 1885 as one of the 20 best buildings in the country'
 
 address: '42 Exchange Terrace Providence RI'
-latitude: '41.8257944'
-longitude: '-71.415366'
-gmap: "https://www.google.com/maps/place/42+Exchange+Terrace,+Providence,+RI+02903/@41.8257944,-71.415366,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451146b0b5e9:0x7079e99be47c7876!8m2!3d41.8257944!4d-71.4131773"
+latitude: '41.824925'
+longitude: '-71.412805'
+gmap: "https://www.google.com/maps/place/41%C2%B049'35.3%22N+71%C2%B025'06.6%22W/@41.8252951,-71.4180326,633m/data=!3m1!1e3!4m4!3m3!8m2!3d41.8264574!4d-71.4184911?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "A masterpiece of the Italian Romanesque style designed by a young newcomer who would later become an architecture star in his relatively short life"
@@ -65,7 +65,7 @@ images:
     caption: 'Looking northwest, 1896, Union Station damaged by fire — Rhode Island Photograph Collection, Providence Public Library'
     sizes: '1490, 1200'
 
-imagescredit: 'Contributions from <a href="//dpml.providence.edu/islandora/object/islandora%3A14529">The John O. Pastore Photograph Album</a>, Providence College Collection; Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A12686">photo 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12746">photo 2,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14471">photo 3,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A10857">photo 4,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14924">photo 5,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A10747">photo 6,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A27030">fire 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14575">fire 2,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A14829">fire 3</a>), Providence Public Library'
+imagescredit: 'Contributions from <a href="https://dpml.providence.edu/islandora/object/islandora%3A14529">The John O. Pastore Photograph Album</a>, Providence College Collection; Rhode Island Photograph Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A12686">photo 1,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A12746">photo 2,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A14471">photo 3,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A10857">photo 4,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A14924">photo 5,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A10747">photo 6,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A27030">fire 1,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A14575">fire 2,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A14829">fire 3</a>), Providence Public Library'
 
 external:
   - source: 'Providence Journal: A wonderful view of Exchange Place with the Three Ones firehouse in the foreground'
@@ -84,11 +84,11 @@ Tefft left for England in December, 1856, as the country and region were heading
 
 [^1]: Wikipedia page on Thomas Tefft, captured May 3, 2021 from https://en.wikipedia.org/wiki/Thomas_Alexander_Tefft
 
-One can’t help but wonder what other notable architecture Tefft could have designed if he had lived beyond his short but relatively prolific 33 years — 50 buildings over the course of a 10-year career. [Read the New York Times’ obituary from February, 1860](//www.nytimes.com/1860/02/25/archives/death-of-thomas-a-tefft-esq.html).
+One can’t help but wonder what other notable architecture Tefft could have designed if he had lived beyond his short but relatively prolific 33 years — 50 buildings over the course of a 10-year career. [Read the New York Times’ obituary from February, 1860](https://www.nytimes.com/1860/02/25/archives/death-of-thomas-a-tefft-esq.html).
 
 #### Architecture
 
-Designed in the [Lombard Romanesque](//en.wikipedia.org/wiki/First_Romanesque) style, the handsome station had two wings on either side of a central pavilion with tall, slender towers. The exterior had much brick ornamentation in the form of drip mouldings along the cornices and breaking up the surface area of the façades, with rounded arch window groupings and arched supports for covered walkway openings. A double hip roof covered the bulk of the terminal wings while the central structure resembled a church with its steep hip roof and rosette window.
+Designed in the [Lombard Romanesque](https://en.wikipedia.org/wiki/First_Romanesque) style, the handsome station had two wings on either side of a central pavilion with tall, slender towers. The exterior had much brick ornamentation in the form of drip mouldings along the cornices and breaking up the surface area of the façades, with rounded arch window groupings and arched supports for covered walkway openings. A double hip roof covered the bulk of the terminal wings while the central structure resembled a church with its steep hip roof and rosette window.
 
 The two wings were each a terminal for a different railroad, while the central pavilion, which opened to [the Cove]({% link _property/cove-basin-and-waterplace.md %}), unified the two as passengers moved from one to the other to continue on their journey. Overall, the buildings extended 720 feet along the edge of Exchange Place and was the largest railroad station in the United States at the time of its construction. In 1885, _American Architect and Building News_ voted the building one of the 20 best buildings in the country. 20th century architectural historian Henry-Russell Hitchcock wrote of the station, “without much question it was the finest early station in the New World.”
 
@@ -99,7 +99,7 @@ Tefft gave Providence one of the grandest of early railroad stations but it was 
 
 ### History
 
-_Thank you to Edward J. Ozog for the extensive research materials found at [Railroad Stations of Providence](//sites.google.com/site/rrstationsofprovidence)_
+_Thank you to Edward J. Ozog for the extensive research materials found at [Railroad Stations of Providence](https://sites.google.com/site/rrstationsofprovidence)_
 
 Up until 1847, Providence did not have a central railroad depot terminus. Providence was instead served by two stations more than half a mile apart connected by a water Ferry in Providence Harbor. Regular train service began on the Boston & Providence line in 1835 and by 1845 operated a depot in India Point that connected to New York city via ferries. In 1838 the New York, Providence & Boston Railroad began regular service to a depot on the Providence Harbor at Crary Street in South Providence which was then largely unsettled.[^3]
 

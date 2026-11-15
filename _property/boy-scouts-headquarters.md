@@ -22,9 +22,11 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '175 Broad St, Providence RI'
-latitude: '41.8174762'
-longitude: '-71.420019'
+latitude: '41.8174722'
+longitude: '-71.4178303'
 gmap: "https://www.google.com/maps/place/175+Broad+St,+Providence,+RI+02903/@41.8174762,-71.420019,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456d88fa50e1:0x69c564b7dc0d7d66!8m2!3d41.8174722!4d-71.4178303"
+street: [ 'Broad St' ]
+street-number: 175
 
 meta: ""
 excerpt: "An opportunity for mid-century modern along a stretch of land opened up by razing older properties during the construction of I-95"
@@ -73,9 +75,9 @@ mostrecentimage: 2008-08-01
 
 This Moderne-styled double level lodge headquarters and offices was outgrown by the Boy Scouts around 2002 or 2003. They moved on and the building was vacant at the time these photos were taken (2008). It sits at the corner of Broad Street and West Franklin Street, which runs parallel along I-95 South. It is bounded on the west by Cahir Street.
 
-The 1960s post-mid-century style is evident here, with a modern interpretation and simplification reminiscent of the [Prairie School](//en.wikipedia.org/wiki/Prairie_School){:target="_blank"}. Exposed beam ends, criss-crossing hip rooflines, and deep overhangs feel more at home in the midwest or Pacific northwest than in New England. It’s as though a modern camp building was placed in the middle of a bustling city, which might have been the point.
+The 1960s post-mid-century style is evident here, with a modern interpretation and simplification reminiscent of the [Prairie School](https://en.wikipedia.org/wiki/Prairie_School). Exposed beam ends, criss-crossing hip rooflines, and deep overhangs feel more at home in the midwest or Pacific northwest than in New England. It’s as though a modern camp building was placed in the middle of a bustling city, which might have been the point.
 
-After the Boy Scouts left, it served as campaign headquarters for Hillary Clinton in 2008 and Buddy Cianci in 2014. 
+After the Boy Scouts left, it served as campaign headquarters for Hillary Clinton in 2008 and Buddy Cianci in 2014.
 
 
 ### Current Events
@@ -91,14 +93,14 @@ The man responsible for the design of this structure was [D. Thomas Russillo]({%
 
 According to Wm. Mackenzie Woodward of the RI Historic Preservation and Heritage Commission,
 
-> Russillo was clearly aware of & more than merely competent in producing designs within the contemporary mainstream. 
+> Russillo was clearly aware of & more than merely competent in producing designs within the contemporary mainstream.
 
 Thanks to Mr. Woodward for the brief bio of the architect, and for the list of properties he designed:
   
 + The Anthony Gizzarelli House (1947-48), 665 Pleasant Valley Parkway (no street view available)<br>
-+ The Leonard Levin House (1954-55), <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=80+Clarendon+Avenue+Providence+RI&amp;sll=41.841144,-71.384654&amp;sspn=0.009496,0.016329&amp;g=100+Clarendon+Avenue+Providence+RI&amp;ie=UTF8&amp;ll=41.84108,-71.385062&amp;spn=0.009496,0.016329&amp;t=h&amp;z=16&amp;iwloc=addr&amp;layer=c&amp;cbll=41.841057,-71.385171&amp;panoid=3LHws1ie3v1f7Qn-18PRfw&amp;cbp=12,354.79234716723397,,0,2.871222076215505" target="_blank">80 Clarendon Avenue</a><br>
-+ The Max & Roslyn H. Winograd House (1962), <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=100+Clarendon+Avenue+Providence+RI&amp;sll=41.848114,-71.387036&amp;sspn=0.009495,0.016329&amp;g=33+Intervale+Road+Providence+RI&amp;ie=UTF8&amp;ll=41.841144,-71.384654&amp;spn=0.009496,0.016329&amp;t=h&amp;z=16&amp;iwloc=addr&amp;layer=c&amp;cbll=41.841168,-71.384548&amp;panoid=cRl-HkFr-VC8qdsgxpvpnw&amp;cbp=12,350.6735569194498,,0,3.580814717477008" target="_blank">100 Clarendon Avenue</a><br>
-+ The Peter Bardach House (1958), <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=33+Intervale+Road+Providence+RI&amp;sll=41.841192,-71.384439&amp;sspn=0.009496,0.016329&amp;g=100+Clarendon+Avenue+Providence+RI&amp;ie=UTF8&amp;ll=41.848114,-71.387036&amp;spn=0.009495,0.016329&amp;t=h&amp;z=16&amp;iwloc=addr&amp;layer=c&amp;cbll=41.847955,-71.38959&amp;panoid=yYW5PB-ILtJfQGOoM7wccQ&amp;cbp=12,172.14487787990907,,0,4.408672798948753" target="_blank">33 Intervale Road</a>.
++ The Leonard Levin House (1954-55), <a href="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=80+Clarendon+Avenue+Providence+RI&amp;sll=41.841144,-71.384654&amp;sspn=0.009496,0.016329&amp;g=100+Clarendon+Avenue+Providence+RI&amp;ie=UTF8&amp;ll=41.84108,-71.385062&amp;spn=0.009496,0.016329&amp;t=h&amp;z=16&amp;iwloc=addr&amp;layer=c&amp;cbll=41.841057,-71.385171&amp;panoid=3LHws1ie3v1f7Qn-18PRfw&amp;cbp=12,354.79234716723397,,0,2.871222076215505">80 Clarendon Avenue</a><br>
++ The Max & Roslyn H. Winograd House (1962), <a href="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=100+Clarendon+Avenue+Providence+RI&amp;sll=41.848114,-71.387036&amp;sspn=0.009495,0.016329&amp;g=33+Intervale+Road+Providence+RI&amp;ie=UTF8&amp;ll=41.841144,-71.384654&amp;spn=0.009496,0.016329&amp;t=h&amp;z=16&amp;iwloc=addr&amp;layer=c&amp;cbll=41.841168,-71.384548&amp;panoid=cRl-HkFr-VC8qdsgxpvpnw&amp;cbp=12,350.6735569194498,,0,3.580814717477008">100 Clarendon Avenue</a><br>
++ The Peter Bardach House (1958), <a href="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=33+Intervale+Road+Providence+RI&amp;sll=41.841192,-71.384439&amp;sspn=0.009496,0.016329&amp;g=100+Clarendon+Avenue+Providence+RI&amp;ie=UTF8&amp;ll=41.848114,-71.387036&amp;spn=0.009495,0.016329&amp;t=h&amp;z=16&amp;iwloc=addr&amp;layer=c&amp;cbll=41.847955,-71.38959&amp;panoid=yYW5PB-ILtJfQGOoM7wccQ&amp;cbp=12,172.14487787990907,,0,4.408672798948753">33 Intervale Road</a>.
 
 
 ### In the News
@@ -132,6 +134,4 @@ The health center is designed to maximize efficiency, she said, with nurses, mid
 
 Over the last five years, Planned Parenthood’s patient visits in Rhode Island have grown almost 22 percent, Bawza said. Of the 8,000 patients served in 2016, 61 percent were low-income and 33 percent were uninsured, the organization said in a statement.
 
-— 
-
-Arditi, Lynn. “Planned Parenthood Privacy, efficiency key to new health center.” Providence Journal (RI), sec. RI News, 25 Apr. 2017, p. A1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/163FE32614E15A28. Accessed 9 Sept. 2023.
+— _Arditi, Lynn. “Planned Parenthood Privacy, efficiency key to new health center.” Providence Journal (RI), sec. RI News, 25 Apr. 2017, p. A1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/163FE32614E15A28. Accessed 9 Sept. 2023._

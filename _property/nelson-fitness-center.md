@@ -19,8 +19,8 @@ lists: []
 tags: [ 'Brown University', 'College Properties', 'Sports Entertainment' ]
 
 address: '225 Hope St, Providence RI'
-latitude: '41.8302524'
-longitude: '-71.3992101'
+latitude: '41.8301925'
+longitude: '-71.3980407'
 gmap: "https://www.google.com/maps/place/Nelson+Fitness+Center/@41.8302524,-71.3992101,17z/data=!4m6!3m5!1s0x89e445244452ad77:0xe118e4e1de8b5ccb!8m2!3d41.8301925!4d-71.3980407!16s%2Fg%2F1hc1bh2vl?entry=ttu"
 street: [ 'Hope St' ]
 street-number: 225
@@ -82,6 +82,6 @@ The Nelson Fitness Center is one part of a 39-acre Ittleson Quadrangle, which in
 
 ### Who is Jonathan Nelson?
 
-Mr. Nelson is currently (2024) Rhode Island’s only billionaire, as the <span class="abbr">CEO</span> and co-founder of [Providence Equity Partners, LLC](//www.provequity.com/). Prov Equity manages more that $40 billion in capital. Mr. Nelson graduated from Brown in 1977 and has pledged to donate half of his net worth to charitable causes that he and his family supports.[^1]
+Mr. Nelson is currently (2024) Rhode Island’s only billionaire, as the <span class="abbr">CEO</span> and co-founder of [Providence Equity Partners, LLC](https://www.provequity.com/). Prov Equity manages more that $40 billion in capital. Mr. Nelson graduated from Brown in 1977 and has pledged to donate half of his net worth to charitable causes that he and his family supports.[^1]
 
 [^1]: GoLocal News Team. “Providence Equity May Lose Hundreds of Millions as Altegrity Faces Seizure in Snowden Fallout.” GoLocal Providence, 02 January 2015. Accessed 01 June 2024 from https://www.golocalprov.com/business/new-providence-equity-owned-altegrity-facing-seizure-following-snowden-fall

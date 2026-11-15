@@ -21,7 +21,7 @@ added-to-NRHP:
 
 address: '1029 Westminster St, Providence RI'
 latitude: '41.81734'
-longitude: '-71.4277483'
+longitude: '-71.4255596'
 gmap: "https://www.google.com/maps/place/1029+Westminster+St,+Providence,+RI+02903/@41.81734,-71.4277483,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4457421fa911f:0x3d6d897e7f27fa1e!8m2!3d41.81734!4d-71.4255596"
 street: [ 'Westminster St' ]
 street-number: 1029
@@ -59,7 +59,7 @@ Developed by [<abbr title="Stop Wasting Abandoned Property">SWAP, Inc.</abbr>](h
 
 Previous to this, the lot had been vacant for a long time. What looked to be a new construction project had stalled for over a year before SWAP stepped in.[^1]
 
-[^1]: _“In Progress: SWAP Condos on Westminster”_, UrbanPlanet.org forum. http://www.urbanplanet.org/forums/index.php?showtopic=23517&hl=1029%2Bwestiminster
+[^1]: _“In Progress: SWAP Condos on Westminster”_, UrbanPlanet.org forum, posted 24 March 2006. https://www.urbanplanet.org/forums/index.php?showtopic=23517&hl=1029%2Bwestiminster
 
 
 ### Design Reception

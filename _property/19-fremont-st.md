@@ -16,10 +16,12 @@ designers: [] #Jeff Pivorunas
 lists: []
 tags: [ 'House', 'Contemporary' ]
 
-address: '19 Fremont Street, Providence RI'
-latitude: '41.8221421'
-longitude: '-71.3949781'
+address: '19 Fremont St, Providence RI'
+latitude: '41.8221381'
+longitude: '-71.3927894'
 gmap: "https://www.google.com/maps/place/19+Fremont+St,+Providence,+RI+02906/@41.8221421,-71.3949781,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44530c74d68c3:0xd1f972e3a0addbec!8m2!3d41.8221381!4d-71.3927894"
+street: [ 'Fremont St' ]
+street-number: 19
 
 meta: ""
 excerpt: "An unconventional home (for Providence) in a conventional working class neighborhood"
@@ -55,16 +57,16 @@ images:
 
 mostrecentimage: 2020-11-01
 
-imagescredit: 'Contribution by Jeff Pivorunas'
+imagescredit: 'Contributions by Jeff Pivorunas'
 ---
 
 ### Design Reception
 
 A reader alerted us to this new home nestled in a Fox Point neighborhood filled with single family homes and triple deckers, mostly clad in vinyl siding. We like it, especially because it makes a statement in the neighborhood, but it is not so ostentatious as to stick out like a bright coral Spanish revival, or another terrible vinyl-sided prefab home. It’s new and different without being out of place, and it seems to use materials and space well.
 
-The site was a parking lot for twenty five or so years, as we believe the original buildings (2) were demolished in the late seventies or early eighties. Even though it is an old neighborhood, it is not a historic district, and as such it was not subject to a design review by the city. This made for a rather easy permitting process with no variances required. The cladding is tongue and groove white cedar on the top two floors and stucco at the base. The roof is flat rubber and features a small pergola. 
+The site was a parking lot for twenty five or so years, as we believe the original buildings (2) were demolished in the late seventies or early eighties. Even though it is an old neighborhood, it is not a historic district, and as such it was not subject to a design review by the city. This made for a rather easy permitting process with no variances required. The cladding is tongue and groove white cedar on the top two floors and stucco at the base. The roof is flat rubber and features a small pergola.
 
-The home was featured on the cover of the Boston Globe Sunday Home magazine in an article by William Morgan[^1], as well as several other publications. Architect and owner Jeff Pivorunas evolved the building from the inside out, a minimal statement held within the framework of a tight rectangle derived from zoning setbacks and height restrictions. 
+The home was featured on the cover of the Boston Globe Sunday Home magazine in an article by William Morgan[^1], as well as several other publications. Architect and owner Jeff Pivorunas evolved the building from the inside out, a minimal statement held within the framework of a tight rectangle derived from zoning setbacks and height restrictions.
 
 [^1]: Morgan, William. “21st-Century Design Blossoms in Old New England.” Boston Globe Sunday Home, June 10.
 

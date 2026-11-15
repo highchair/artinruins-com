@@ -25,7 +25,7 @@ added-to-NRHP: 'May 1, 1974'
 
 address: '19-21 Harrison St, Providence RI'
 latitude: '41.8160373'
-longitude: '-71.4325412'
+longitude: '-71.4303525'
 gmap: "https://www.google.com/maps/place/19+Harrison+St,+Providence,+RI+02909/@41.8160373,-71.4325412,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459d85e4f983:0x4f43b52d7c9c46e3!8m2!3d41.8160373!4d-71.4303525"
 
 meta: ""
@@ -98,7 +98,7 @@ The former U.S. Gas location is under development now into a residential project
 
 ### Current Events
 
-Unit availability and details about the amenities can be found at [PilgrimLofts.com](https://www.pilgrimlofts.com).
+Unit availability and details about the amenities can be found at [PilgrimLofts.com](https://www.pilgrimlofts.com/).
 
 
 ### History

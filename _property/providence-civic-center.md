@@ -22,8 +22,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '1 La Salle Square, Providence RI'
-latitude: '41.8236321'
-longitude: '-71.4201443'
+latitude: '41.8236281'
+longitude: '-71.4179556'
 gmap: "https://www.google.com/maps/place/Dunkin'+Donuts+Center/@41.8236321,-71.4201443,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445127b921e3d:0xb13dd0d50b906e20!8m2!3d41.8236281!4d-71.4179556"
 
 meta: ""
@@ -82,7 +82,7 @@ imagescredit: 'Contributions from Ebay sellers'
 
 ### Redevelopment
 
-The Providence Civic Center was conceived several different times before finally getting the funding it needed. Mayor Dooley pushed hard for its construction. Built to replace [The RI Auditorium]({% link _property/ri-auditorium.md %}), the Civic Center was intended to be a modern and central destination for sporting and touring events. [More history of its inception from Wikipedia](//en.wikipedia.org/wiki/Dunkin%27_Donuts_Center){:target="_blank"}.
+The Providence Civic Center was conceived several different times before finally getting the funding it needed. Mayor Dooley pushed hard for its construction. Built to replace [The RI Auditorium]({% link _property/ri-auditorium.md %}), the Civic Center was intended to be a modern and central destination for sporting and touring events. [More history of its inception from Wikipedia](https://en.wikipedia.org/wiki/Dunkin%27_Donuts_Center).
 
 In 2006, the City started a $62 million dollar restoration of this sports and entertainment venue. The deterioration of the building and its continuing financial woes had been a dilemma for advocates of downtown development for several years. The Rhode Island Convention Center Authority was allowed to merge with the Dunkin’ Donuts Center, and the merger enabled the center to attract larger shows and conventions and streamline operations of The Dunk and the Convention Center immediately next door (and connected to the previously state-owned Westin).
 
@@ -91,14 +91,14 @@ The Center got 20 new luxury suites (or “boxes”), wider concourses, cushione
 
 ### Current Events
 
-During the pandemic of 2020 and 2021, the Dunk served as a large-scale vaccination center. Since indoor events have started t return, the Center has slowly started to host sporting events again on a regular basis. 
+During the pandemic of 2020 and 2021, the Dunk served as a large-scale vaccination center. Since indoor events have started t return, the Center has slowly started to host sporting events again on a regular basis.
 
 
 ### History
 
 The Civic Center has hosted many notable events in its forty-plus year history. In 1973, the first full year it opened, the PC Friars of Ernie DiGregorio and Marvin Barnes made it to the NCAA Final Four in basketball. The Boston Celtics once played some home games there, and Marvin Hagler and Vinny Pazienza fought for world championships in the building. The Civic Center was a stop for the world’s greatest entertainers as well — Elvis Presley, Neil Young, Olivia Newton John, and Bruce Springsteen among others. During his time, Frank Sinatra made several stops in Providence. Whenever he appeared, state police detectives would scan the crowd for organized crime figures who had gotten choice seats near the stage. The center also hosted various “shows” — car shows, home shows, boat shows, Monster Trucks, and World Wrestling.
 
-In 2001, the naming rights to the arena were sold to Dunkin’ Donuts, and the Center started to become known locally as “The Dunk”. In 2018, Dunkin’ Donuts corporate renamed and rebranded simply as “Dunkin,” and so now the building is officially known as the Dunkin Center. 
+In 2001, the naming rights to the arena were sold to Dunkin’ Donuts, and the Center started to become known locally as “The Dunk”. In 2018, Dunkin’ Donuts corporate renamed and rebranded simply as “Dunkin,” and so now the building is officially known as the Dunkin Center.
 
 ***
 
@@ -128,9 +128,7 @@ An impatient Cicilline said he could not wait a year to do something about the b
 
 The needs include a new roof; updated seating and scoreboards; repair or replacement of electrical systems and heating, ventilation and air-conditioning systems; and an exterior facelift. […]
 
-—
-
-SMITH, GREGORY. “WHITHER THE DUNKIN’ DONUTS CENTER — A source of Civic pride?” Providence Journal (RI), All ed., sec. News, 15 Nov. 2004, pp. A-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15242A2F9C81DDE8. Accessed 2 Jan. 2022.
+— _SMITH, GREGORY. “WHITHER THE DUNKIN’ DONUTS CENTER — A source of Civic pride?” Providence Journal (RI), All ed., sec. News, 15 Nov. 2004, pp. A-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15242A2F9C81DDE8. Accessed 2 Jan. 2022._
 
 ***
 
@@ -155,6 +153,4 @@ Here are some of the major changes in a “new” Dunk:
 + A new sound system and video scoreboard will be installed, as will other unseen mechanical improvements such as upgrades to heating/air conditioning, fire systems, and ice making.
 + The P-Bruins and Friars will move into upgraded locker rooms, as will visiting teams. Also, “star” dressing rooms for concert performers will be created.
 
-—
-
-McNAMARA, KEVIN. “Slam Dunk for the city.” Providence Journal (RI), All ed., sec. Sports, 3 July 2005, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524286283FF6060. Accessed 2 Jan. 2022.
+— _McNAMARA, KEVIN. “Slam Dunk for the city.” Providence Journal (RI), All ed., sec. Sports, 3 July 2005, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524286283FF6060. Accessed 2 Jan. 2022._

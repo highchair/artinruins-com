@@ -22,8 +22,8 @@ lists: []
 tags: [ 'Apartments for Rent', 'Contemporary', 'House' ]
 
 address: '545 Broadway, Providence RI'
-latitude: '41.8183072'
-longitude: '-71.4369668'
+latitude: '41.818244'
+longitude: '-71.436645'
 gmap: "https://www.google.com/maps/place/41%C2%B049'05.7%22N+71%C2%B026'11.9%22W/@41.8183072,-71.4369668,102m/data=!3m1!1e3!4m4!3m3!8m2!3d41.818244!4d-71.436645?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Broadway' ]
 street-number: 545
@@ -93,4 +93,4 @@ The two neighbors are part of the Broadway-Armory Historic District:
 
 **535 Broadway**. House (ca 1880): 2 1/2 story; mansard; clapboard dwelling; with ornate Italianate portico, bracketed roof, and two-story front bay. (C) 20th-C. garage, rear.
 
-**547-49 Broadway**. James T. Kennedy House (1886): 2 1/2 story; slate mansard; clapboard-and-shingle 2-family dwelling; with Queen Anne portico and other Queen Anne detailing. Nearly identical to number 551-53,next door. (C) Kennedy and Mrs. Margaret Gough were partners in Kennedy & Gough, grocers and emigration agents on Manton Avenue in Olneyville Square, just down the hill. 20th-C. garage, rear.
+**547-49 Broadway**. James T. Kennedy House (1886): 2 1/2 story; slate mansard; clapboard-and-shingle 2-family dwelling; with Queen Anne portico and other Queen Anne detailing. Nearly identical to number 551-53, next door. (C) Kennedy and Mrs. Margaret Gough were partners in Kennedy & Gough, grocers and emigration agents on Manton Avenue in Olneyville Square, just down the hill. 20th-C. garage, rear.

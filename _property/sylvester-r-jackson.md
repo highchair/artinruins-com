@@ -15,7 +15,7 @@ date-added: '2009'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'National Register of Historic Places', 'Pine Street Historic District', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: []
@@ -25,7 +25,7 @@ added-to-NRHP: 'September 1978'
 
 address: '301 Friendship St, Providence RI'
 latitude: '41.8155938'
-longitude: '-71.4181674'
+longitude: '-71.4159787'
 gmap: "https://www.google.com/maps/place/301+Friendship+St,+Providence,+RI+02903/@41.8155938,-71.4181674,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456dd8412edb:0xda3cdc2aaaae1d8d!8m2!3d41.8155938!4d-71.4159787"
 
 meta: ""
@@ -114,7 +114,7 @@ Owner at the time, Ted McGuire, got in touch with us in 2009. He supplied the ph
 
 ### Current Events
 
-Since then, Thames and Kosmos has moved to Ship Street in the Jewelry District and a new owner, Sage Environmental, is going to move in. 
+Since then, Thames and Kosmos has moved to Ship Street in the Jewelry District and a new owner, Sage Environmental, is going to move in.
 
 
 ### History

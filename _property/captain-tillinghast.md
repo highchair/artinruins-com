@@ -23,8 +23,10 @@ added-to-NRHP:
 
 address: '403 South Main St, Providence RI'
 latitude: '41.8206265'
-longitude: '-71.4059875'
+longitude: '-71.4037988'
 gmap: "https://www.google.com/maps/place/403+S+Main+St,+Providence,+RI+02903/@41.8206265,-71.4059875,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4453e532beabb:0xca206082900934fd!8m2!3d41.8206265!4d-71.4037988"
+street: [ 'South Main St' ]
+street-number: 403
 
 meta: ""
 excerpt: "A 250+ year old home belonging to one of the captain’s that took part in the burning of the Gaspee"
@@ -79,7 +81,7 @@ images:
   - url: capt-tillinghast-jh-2020-02-03.jpg
     sizes: '1200, 900'
 
-imagescredit: 'Early photos from the <a href="https://www.loc.gov/pictures/collection/hh/item/ri0264/">Historic American Building Survey (HABS), Library of Congress</a>'
+imagescredit: 'Early photos from the <a href="https://www.loc.gov/pictures/collection/hh/item/ri0264/">Historic American Building Survey</a> (HABS), Library of Congress'
 
 mostrecentimage: 2020-02-01
 
@@ -126,4 +128,4 @@ There is a later bay window between the south rooms on the first floor, and some
 
 The present six over six light, double hung windows are probably later; originally the windows may have had twelve light sash with heavier muntins as in the window at the stair landing. There is some later hardware, but second floor doors have early box locks and L-shape hinges. The stairway flusters around the stair well on the second floor are slightly different from those on the steps, and may have been altered. A bathroom has been added on the second floor in the central hallway over the entrance. The Gothic wallpaper in the hallway, recorded earlier in HABS, has been removed and destroyed. […]
 
-— Prepared by Osmund R. Overby, Architect National Park Service, April 1962.
+— _Prepared by Osmund R. Overby, Architect National Park Service, April 1962._

@@ -24,8 +24,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '117 Broadway, Providence RI'
-latitude: '41.821858'
-longitude: '-71.4233567'
+latitude: '41.821854'
+longitude: '-71.421168'
 gmap: "https://www.google.com/maps/place/41%C2%B049'18.7%22N+71%C2%B025'16.2%22W/@41.821858,-71.4233567,630m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d41.821854!4d-71.421168"
 street: [ 'Broadway' ]
 street-number: 117
@@ -97,7 +97,7 @@ This is a property on the edge of the West Side along the highway corridor and S
 
 In 2020, [a drawing surfaced](#photo-117-Broadway-Providence-RI-Beta-rendering) denoting the possibility of 117 being converted into a commercial space. The drawing at Loopnet looks to be of a fictitious law firm occupying the building, with a blade sign off the front, blue awnings, and an elevated deck on top of the one story structure off the rear of the property. Perhaps the owner at the time was trying to make the property seem more desirable by suggesting some preliminary uses for it.
 
-In early 2022, [drawings were submitted to the City of Providence](https://www.providenceri.gov/wp-content/uploads/2022/02/117-BROADWAY_022722.pdf) to convert 117 Broadway into five 2-bedroom apartments and, in the process, add an additional story to the front portion of the building and two more stories to the rear portion. As far as we can tell, the property does not sit inside a district that required design approval of these concepts.
+In early 2022, [drawings were submitted to the City of Providence (PDF)](https://www.providenceri.gov/wp-content/uploads/2022/02/117-BROADWAY_022722.pdf) to convert 117 Broadway into five 2-bedroom apartments and, in the process, add an additional story to the front portion of the building and two more stories to the rear portion. As far as we can tell, the property does not sit inside a district that required design approval of these concepts.
 
 
 #### Architecture

@@ -24,8 +24,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '514 Broadway, Providence RI'
-latitude: '41.818159'
-longitude: '-71.4375317'
+latitude: '41.818155'
+longitude: '-71.435343'
 gmap: "https://www.google.com/maps/place/514+Broadway,+Providence,+RI+02909/@41.818159,-71.4375317,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459c0588b2b9:0x1451b3f80ca72a8a!8m2!3d41.818155!4d-71.435343"
 street: [ 'Broadway' ]
 street-number: 514
@@ -128,7 +128,7 @@ imagescredit: 'Contributions from <a href="https://provlibdigital.org/islandora/
 The redevelopment of this ornate house was complicated by multiple owners, tax credits, and insolvency. Our timeline below aims to simplify the story a bit. All information found through reporting in the Providence Journal.
 
 2001
-: The work of sisters Anna Tirocchi and Laura Tirocchi Cella was celebrated with an exhibition at the RISD Museum, “[From Paris to Providence: Fashion, Art and the Tirocchi Dressmakers’ Shop, 1915-1947](http://tirocchi.stg.brown.edu).”
+: The work of sisters Anna Tirocchi and Laura Tirocchi Cella was celebrated with an exhibition at the RISD Museum, “[From Paris to Providence: Fashion, Art and the Tirocchi Dressmakers’ Shop, 1915-1947](http://tirocchi.stg.brown.edu/).”
 
 April 2010
 : A buyer is sought to redevelop the deteriorating building and take it off the hands of a California investment group, but “[It needs a half million dollars worth of work](#in-the-news)”
@@ -198,7 +198,7 @@ May 2019
 
 ### Current Events
 
-The [Dirt Palace at the Wedding Cake House](https://www.dirtpalace.org/) opened in 2019 and [rooms are available through AirBnB](https://www.airbnb.com/rooms/46187980). Follow the project and see past images of the renovations on [their Instagram](https://www.instagram.com/weddingcakehouse_renovations/).
+The [Dirt Palace at the Wedding Cake House](https://www.dirtpalace.org/) opened in 2019 and [rooms are available through AirBnB](https://www.airbnb.com/rooms/46187980).
 
 
 ### History
@@ -221,7 +221,7 @@ When Anna Tirocchi died in 1947, Laura Tirocchi Cella wrapped all the shop’s r
 
 _From the “Broadway-Armory Historic District” National Register nomination form, 1974_
 
-514 Broadway **John K. Kendrick House** (1867) : 2k-story; gabled-hip/- clapboard Italianate villa; with recessed entrance porch surmounted by arcaded loggia and square, 31,-story, corner tower topped with lantern. House, built at cost of approximately $20,000, is exceptional for elaborate and plentiful bracketed ornament encrusting every architectural feature like icing on a wedding cake. (C) Kendrick, owner of Kendrick Loom Harness Company, sold house in early 1880s to George W. Prentice, buttonhole manufacturer and street-railway tycoon.
+514 Broadway **John K. Kendrick House** (1867) : 2 1/2-story; gabled-hip/- clapboard Italianate villa; with recessed entrance porch surmounted by arcaded loggia and square, 31,-story, corner tower topped with lantern. House, built at cost of approximately $20,000, is exceptional for elaborate and plentiful bracketed ornament encrusting every architectural feature like icing on a wedding cake. (C) Kendrick, owner of Kendrick Loom Harness Company, sold house in early 1880s to George W. Prentice, buttonhole manufacturer and street-railway tycoon.
 
 
 ### In the News
@@ -258,6 +258,4 @@ The house has “some of the finest Victorian interiors I’ve seen,” Schoettl
 Micallef said he hopes the house is purchased by someone interested in “bringing the property back to its former glory” with a “fitting use — something good for the neighborhood.”
 {:.o__pull-quote}
 
-— 
-
-_DUNN, CHRISTINE. “On the Market \| ‘Gingerbread’ house needs rescue.” Providence Journal (RI), 1 ed., sec. projoHomes, 11 Apr. 2010, p. F1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524238BB723E7E0. Accessed 12 Dec. 2021._
+— _DUNN, CHRISTINE. “On the Market \| ‘Gingerbread’ house needs rescue.” Providence Journal (RI), 1 ed., sec. projoHomes, 11 Apr. 2010, p. F1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524238BB723E7E0. Accessed 12 Dec. 2021._

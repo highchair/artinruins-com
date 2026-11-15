@@ -13,7 +13,7 @@ date-added: '2022'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Rhody Awards' ]
 tags: []
@@ -23,8 +23,10 @@ added-to-NRHP:
 
 address: '206 Broad St, Providence RI'
 latitude: '41.816389'
-longitude: '-71.4207937'
+longitude: '-71.418605'
 gmap: "https://www.google.com/maps/place/206+Broad+St,+Providence,+RI+02903/@41.816389,-71.4207937,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4457205a90507:0xff2b691869ad5dd2!8m2!3d41.816389!4d-71.418605"
+street: [ 'Broad St' ]
+street-number: 206
 
 meta: ""
 excerpt: "This former hotel has sat vacant and underused for 20 years or more and only recently is being renovated"
@@ -200,4 +202,4 @@ Frank, another customer, straddles a stool at the counter.
 
 “Yeah,” Shoemaker hollers from the kitchen, “once we get ‘em in here, we can’t get rid of them.”
 
-— GRIFFIN, SHARON. “A South Providence success story: Arthur, Thomai and Continental diner.” Providence Journal (RI), CITY ed., sec. NEWS, 18 May 1987, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15252B6738DE3A40. Accessed 22 Jan. 2022.
+— _GRIFFIN, SHARON. “A South Providence success story: Arthur, Thomai and Continental diner.” Providence Journal (RI), CITY ed., sec. NEWS, 18 May 1987, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15252B6738DE3A40. Accessed 22 Jan. 2022._

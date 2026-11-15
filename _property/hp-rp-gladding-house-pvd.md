@@ -25,8 +25,8 @@ NRHP-ref-number: '74000047 (contributing)'
 added-to-NRHP: 'May 1, 1974'
 
 address: '256 Broadway, Providence RI'
-latitude: '41.8204198'
-longitude: '-71.4267446'
+latitude: '41.8204188'
+longitude: '-71.4260995'
 gmap: "https://www.google.com/maps/place/256+Broadway,+Providence,+RI+02903/@41.8204198,-71.4267446,18z/data=!3m1!4b1!4m6!3m5!1s0x89e44574ef3ca179:0x336480d9c0234ce5!8m2!3d41.8204188!4d-71.4260995!16s%2Fg%2F11b8v5zw7_?entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Broadway' ]
 street-number: 256

@@ -20,8 +20,10 @@ tags: [ 'Apartments for Rent', 'Contemporary' ]
 
 address: '580 South Water St, Providence RI'
 latitude: '41.8172987'
-longitude: '-71.4010596'
+longitude: '-71.3999621'
 gmap: "https://www.google.com/maps/place/580+S+Water+St,+Providence,+RI+02903/@41.8172987,-71.4010596,344m/data=!3m2!1e3!4b1!4m5!3m4!1s0x89e4454753f57a0b:0x92d3138ad8e09bea!8m2!3d41.8172987!4d-71.3999621"
+street: [ 'South Water St' ]
+street-number: 580
 
 meta: ""
 excerpt: "A low-rise, 5-story apartment building on the waterfront with a strange design adds livable space but no character to the waterfront"
@@ -105,7 +107,7 @@ To begin with, the skyline could be more distinctive, offering an identifiable s
 
 Why should we continue to encourage new buildings predicated on enriching development and real estate interests rather than for what they could contribute to the commonweal? These over-scaled intrusive buildings might force us to consider the kind of city we really want.
 
-_—Captured April 2, 2022 from https://www.golocalprov.com/business/the-invasion-of-the-over-scaled-buildingsarchitecture-critic-will-morgan_
+— _Captured April 2, 2022 from https://www.golocalprov.com/business/the-invasion-of-the-over-scaled-buildingsarchitecture-critic-will-morgan_
 
 
 ### In the News
@@ -119,4 +121,4 @@ _by Christine Dunn_
 
 […] The committee on Monday night also held a pre-application review for a new five-story, mixed-use building at 580 South Water St., proposed by Richard Baccari II of Churchill & Banks, doing business as 40 Tockwotton LLC. Architect Eric Zuena said 44 luxury condos are planned at the building, in addition to ground-floor commercial space. The building would be located at the corner of South Main and Tockwotton streets in Fox Point, near Route 195.
 
-— Dunn, Christine. “Providence Proposed building scaled down near N. Main Street Plan to cut height from seven to five stories after residents voice concerns.” Providence Journal (RI), sec. RI News, 15 May 2018, p. A3. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/16BEB8719B9B0FF8. Accessed 2 Apr. 2022.
+— _Dunn, Christine. “Providence Proposed building scaled down near N. Main Street Plan to cut height from seven to five stories after residents voice concerns.” Providence Journal (RI), sec. RI News, 15 May 2018, p. A3. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/16BEB8719B9B0FF8. Accessed 2 Apr. 2022._

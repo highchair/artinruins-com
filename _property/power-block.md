@@ -16,10 +16,12 @@ designers: [ 'Humphreys & Partners Architects' ]
 lists: []
 tags: [ 'Never Built', 'Vaporscraper' ]
 
-address: '21 Atwells Avenue, Providence, RI'
+address: '21 Atwells Ave, Providence, RI'
 latitude: '41.8230017'
-longitude: '-71.4207611'
+longitude: '-71.4185724'
 gmap: "https://www.google.com/maps/place/21+Atwells+Ave,+Providence,+RI+02903/@41.8230017,-71.4207611,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450d791be94f:0x122fda1808abfdf7!8m2!3d41.8230017!4d-71.4185724"
+street: [ 'Atwells Ave' ]
+street-number: 21
 
 meta: ""
 excerpt: "A three-quarters of a billion dollar investment in Downtown Providence, 2005, that was too good to be true"
@@ -66,7 +68,7 @@ A few sites mentioned in the Power Block are still undeveloped in 2020:
 
 #### So what happened?
 
-It’s interesting to us because one thing didn’t happen to stop all of this construction and investment, but a lot of little things. It was 2005–2006, so the economic disaster of 2008 was far enough away, and yet the economy was showing warning signs. Hurricane Katrina had devastated the Gulf coast, sending a ripple effect through the country. Gas went up to $3.50 a gallon. The price of building materials skyrocketed. On September 1st, 2005, a user named Cotuit said on the [UrbanPlanet.org](https://www.urbanplanet.org/forums/topic/9027-proposed-the-power-block/page/4/?tab=comments#comment-190689) forum:
+It’s interesting to us because one thing didn’t happen to stop all of this construction and investment, but a lot of little things. It was 2005–2006, so the economic disaster of 2008 was far enough away, and yet the economy was showing warning signs. Hurricane Katrina had devastated the Gulf coast, sending a ripple effect through the country. Gas went up to $3.50 a gallon. The price of building materials skyrocketed. On September 1st, 2005, a user named Cotuit said on the [UrbanPlanet.org forum page 4](https://www.urbanplanet.org/forums/topic/9027-proposed-the-power-block/page/4/?tab=comments#comment-190689) forum:
 
 > …vast numbers of people in this country carry a good amount of debt to support their lifestyles, eventually people are going to have drop those lifestyles to address that debt. 1/3 of a million dollar condos in Providence might be scratched off of a lot of people's shopping lists.
 
@@ -98,7 +100,7 @@ He also acknowledged that Procaccianti had settled the lawsuit last week, but he
 
 The state has said Procaccianti had $14 million in unpaid loans left over from the 1991 credit union collapse, but Procaccianti was sued for just one loan.
 
-_From [UrbanPlanet.org](https://www.urbanplanet.org/forums/topic/9027-proposed-the-power-block/page/2/#comments), captured from http://www.projo.com/digitalbulletin/content/projo-20050228-westin.f0fdda25.html_
+— _From [UrbanPlanet.org forum page 2](https://www.urbanplanet.org/forums/topic/9027-proposed-the-power-block/page/2/#comments), captured from http://www.projo.com/digitalbulletin/content/projo-20050228-westin.f0fdda25.html_
 
 
 #### Yes to Westin sale
@@ -124,7 +126,7 @@ It should be noted that the Procaccianti offer for the Westin has brought to lig
 
 It is in the strong interest of the public to move forward with selling the Westin — to take advantage of what appears to be a historic opportunity to boost the local economy. Area residents would benefit richly from the new business brought to town, and from the tax dollars that would flow into both the city and the state.
 
-_From [UrbanPlanet.org](https://www.urbanplanet.org/forums/topic/9027-proposed-the-power-block/page/2/#comments), captured from  http://www.projo.com/opinion/editorials/content/projo_20050227_27west.1dd3a4a.html_
+– _From [UrbanPlanet.org forum page 2](https://www.urbanplanet.org/forums/topic/9027-proposed-the-power-block/page/2/#comments), captured from  http://www.projo.com/opinion/editorials/content/projo_20050227_27west.1dd3a4a.html_
 
 ***
 
@@ -175,4 +177,4 @@ The money, along with another hotel-development fund and traditional constructio
 
 “We believe that Monday we’ll get approved,” said Procaccianti. “I can’t imagine what concerns they would have.”
 
-_From an Archive.org capture of http://www.projo.com/news/content/projo_20050224_proc24.24ec457.html_
+— _From an Archive.org capture of http://www.projo.com/news/content/projo_20050224_proc24.24ec457.html_

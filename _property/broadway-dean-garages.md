@@ -25,7 +25,7 @@ added-to-NRHP: 'May 1, 1974'
 
 address: '215 & 225 Dean St, Providence RI'
 latitude: '41.8210908'
-longitude: '-71.4245505'
+longitude: '-71.4223618'
 gmap: "https://www.google.com/maps/place/215+Dean+St,+Providence,+RI+02903/@41.8210908,-71.4245505,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445541820bd31:0xc0654f91f2365ba2!8m2!3d41.8210908!4d-71.4223618"
 
 meta: ""

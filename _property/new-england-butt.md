@@ -22,8 +22,8 @@ NRHP-ref-number: '80000001 (individual)'
 added-to-NRHP: 'January 1980'
 
 address: '304 Pearl St, Providence RI'
-latitude: '41.8152023'
-longitude: '-71.4238676'
+latitude: '41.8151983'
+longitude: '-71.4216789'
 gmap: "https://www.google.com/maps/place/304+Pearl+St,+Providence,+RI+02907/@41.8152023,-71.4238676,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445713ce7d165:0xde7e593c54e553ee!8m2!3d41.8151983!4d-71.4216789"
 
 meta: ""
@@ -103,7 +103,7 @@ About 44,000 sf of the complex — mostly a one story, less historically signifi
 
 ### History
 
-We are intrigued by what looks like [a new podcast coming all about the history of the New England Butt Company](https://www.nebuttco.com).
+We are intrigued by what looks like [a new podcast coming all about the history of the New England Butt Company](https://www.nebuttco.com/).
 {:.o__tldr}
 
 ***
@@ -144,7 +144,7 @@ Incorporated in 1842, the **New England Butt Company** is one of the oldest and 
 
 The main building, a 3-story, brick structure, 131’ X 38’, built in 1865, is located at the corner of Pearl and Perkins Streets. It has segmental-arch windows with granite sills, an altered trap-door monitor, and a steeply pitched roof.
 
-In 1901, the company employed 200 skilled workmen in the manufacture of machinery, hardware specialties, butt hinges,and fine castings. Among the products of New England Butt were braiding machines for silk, worsted and cotton braid as well as for telephone, electric light, and crinoline wire. A small New England Butt braider, built in the mid-l9th century, is exhibited at the Slater Mill Historic Site. In the hardware line, the company specialized in cast butt-hinges.
+In 1901, the company employed 200 skilled workmen in the manufacture of machinery, hardware specialties, butt hinges, and fine castings. Among the products of New England Butt were braiding machines for silk, worsted and cotton braid as well as for telephone, electric light, and crinoline wire. A small New England Butt braider, built in the mid-l9th century, is exhibited at the Slater Mill Historic Site. In the hardware line, the company specialized in cast butt-hinges.
 
 Between 1910 and 1913, New England Butt became one of the few Rhode Island firms to experiment with “scientific management” In these years, Frank Gilbreth, a noted follower of Frederick Taylor and a specialist in time and motion study, redesigned the firm’s work process. According to the state’s labor press, Gilbreth wished to “eliminate false moves and drive the worker into a stride that would be as mechanical as the machine he tends.”
 

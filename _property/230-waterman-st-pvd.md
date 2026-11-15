@@ -24,8 +24,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '230 Waterman St, Providence RI'
-latitude: '41.8288491'
-longitude: '-71.3892698'
+latitude: '41.8288451'
+longitude: '-71.3879823'
 gmap: "https://www.google.com/maps/place/230+Waterman+St,+Providence,+RI+02906/@41.8288491,-71.3892698,18z/data=!4m6!3m5!1s0x89e4452c1f544363:0x26886ae3553ca810!8m2!3d41.8288451!4d-71.3879823!16s%2Fg%2F11bw3z22hp?entry=ttu"
 street: [ 'Waterman St' ]
 street-number: 230
@@ -78,7 +78,7 @@ Starting in July of 2021, Myles Standish Associates brought plans to the City Pl
 
 The development required a variance to support the fifth floor, the number of parking spaces, and some of the design elements.
 
-The Providence Preservation Society (<span class="abbr">PPS</span>) [opposed the demolition in a letter](https://ppsri.org/wp-content/uploads/2022/11/2022-11-14-230-Waterman-CPC-letter.pdf) to the <span class="abbr">CPC</span> dated November, 2022. They were the sole voice of opposition during these meetings.
+The Providence Preservation Society (<span class="abbr">PPS</span>) [opposed the demolition in a letter (PDF)](https://ppsri.org/wp-content/uploads/2022/11/2022-11-14-230-Waterman-CPC-letter.pdf) to the <span class="abbr">CPC</span> dated November, 2022. They were the sole voice of opposition during these meetings.
 
 During the November 15th <span class="abbr">CPC</span> meeting, the demolition of this 1892 home was approved unanimously. There are no protections for the home, as it does not sit inside an existing historic district. In response to <span class="abbr">PPS</span>’ comments, the developer stated that “incorporation of the existing building would be impossible” but we feel that this is more a lack of willingness and imagination rather than an architectural impossibility.
 
@@ -108,7 +108,7 @@ _From a letter to the City Planning Commission from the Providence Preservation 
 The former funeral home is characteristic of the turn-of-the-century residences found on the East Side of Providence. The structure predates the commercial district in which it is located today, and is one of the only remaining structures of its kind. As this area was overlooked for inclusion in the National Register historic district nomination, it is imperative that we foster good stewardship of these properties. Without this foresight, the character of this neighborhood will be lost entirely.
 
 — Adriana Hazelton, Advocacy Manager, Providence Preservation Society  
-November 14, 2022 ([Source letter](https://ppsri.org/wp-content/uploads/2022/11/2022-11-14-230-Waterman-CPC-letter.pdf))
+November 14, 2022 ([Source letter (PDF)](https://ppsri.org/wp-content/uploads/2022/11/2022-11-14-230-Waterman-CPC-letter.pdf))
 
 ***
 

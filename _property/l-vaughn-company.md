@@ -7,7 +7,7 @@ update: 'Added post-fire photos of the former warehouse'
 update-image: l-vaughn-jh-2025-07-04.jpg
 
 built: 'circa 1890'
-demolition: 'partial 2024'
+demolition: '2024'
 redeveloped: '2005-2006'
 units:
 decade: '1890-1899'
@@ -24,8 +24,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '1155 Westminster St, Providence RI'
-latitude: '41.8174707'
-longitude: '-71.4299336'
+latitude: '41.8174667'
+longitude: '-71.4277449'
 gmap: "https://www.google.com/maps/place/1155+Westminster+St,+Providence,+RI+02909/@41.8174707,-71.4299336,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44575d81058af:0xc2abd35457c734e1!8m2!3d41.8174667!4d-71.4277449"
 street: [ 'Westminster St' ]
 street-number: 1155
@@ -151,7 +151,7 @@ The neighboring buildings that were formerly a lumber warehouse are still extant
 
 ### Current Events
 
-The larger mill building is currently home to studios and an internet data center. [Ogie’s Trailer Park](https://ogies-trailer-park.square.site) bar is located in front of the building in a cinder-block addition dating probably from the 1950s.
+The larger mill building is currently home to studios and an internet data center. [Ogie’s Trailer Park](https://ogies-trailer-park.square.site/) bar is located in front of the building in a cinder-block addition dating probably from the 1950s.
 
 A former warehouse built after 1956 at 1169 Westminster Street suffered a fire on October 15, 2024. All of the wood in the building burned quickly, including the roof. The cinder block walls remained standing after firefighter’s fought the blaze for an hour. The building will likely be razed in the coming weeks.
 

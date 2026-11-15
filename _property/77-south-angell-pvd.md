@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: '77 South Angell St, Providence RI'
 latitude: '41.8294142'
-longitude: '-71.3881203'
+longitude: '-71.3855454'
 gmap: "https://www.google.com/maps/place/77+S+Angell+St,+Providence,+RI+02906/@41.8294142,-71.3881203,16z/data=!3m1!4b1!4m6!3m5!1s0x89e4452c7efaa567:0xe7a709966bd27b8a!8m2!3d41.8294142!4d-71.3855454!16s%2Fg%2F11c1csnyz0?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'South Angell St' ]
 street-number: 77
@@ -134,7 +134,7 @@ The new construction demolished the former Katharine Gibbs career and business s
 
 RHODE ISLAND PHILHARMONIC ORCHESTRA: 178 Butler Avenue & 61-77 South Angell Street, Lot 370 on Assessor’s Plat 15 in a Residence R-3 Zone to be relieved from Section 303-use code 22, (special school) pursuant to Section 200 in the proposed expansion of the existing building (previously used as a secretarial/business school) to include the construction of an 800 square foot addition to the first floor for a lobby elevator and stairway, the existing first level to be used for studio and classroom space; a 800-sq. ft. addition to enlarge the second floor for music instruction, assembly and faculty/parent lounge; and create a 5,885-sq. ft. third floor that would be used for assembly and function room. The entire structure would be utilized for the instruction of music. The applicant is requesting a use variance in order to expand the special school - use code 22. The lot in question contains approximately 17,577-sq. ft. of land area.
 
-— “LEGAL NOTICES (4 OF 5).” Providence Journal (RI), All ed., sec. News, 14 Apr. 2004, pp. G-06. <em>NewsBank: America’s News – Historical and Current</em>. Accessed 18 Oct. 2025.
+— _“LEGAL NOTICES (4 OF 5).” Providence Journal (RI), All ed., sec. News, 14 Apr. 2004, pp. G-06. <em>NewsBank: America’s News – Historical and Current</em>. Accessed 18 Oct. 2025._
 
 ***
 
@@ -142,6 +142,6 @@ RHODE ISLAND PHILHARMONIC ORCHESTRA: 178 Butler Avenue & 61-77 South Angell Stre
 
 RHODE ISLAND PHILHARMONIC ORCHESTRA, OWNER AND ANGELL WAY, LLC, APPLICANT: 61-77 South Angell Street (a/k/a 178 Butler Avenue), Lot 370 on Assessor’s Plat 15 located in a Residence R-3 Zone; to be relieved from Sections 101.1, 303-use code 14, 304, 304.1, 414.3, 420, 1000.75, 704.2 and 705.1 in the proposed demolition of the existing structure formerly utilized for a school and the construction of a four-story brick building containing 16 dwelling units and basement level parking. The applicant is requesting a use variance for the number of dwelling units proposed in this residential R-3 three-family district, whereby the number of dwelling units permitted on this lot are 3 only; further relief is being sought from the height restriction, whereby only two-stories are allowed in this R-3 district or 3 stories if the side yards are increased; front yard - requires 13'6" proposing 8 feet along South Angell St.; side yard - requires 33'4" proposing 18'4", rear yard; lot coverage, whereby no more than 45 percent of a corner lot may be occupied by structures, proposing 55 percent lot coverage; the definition of a private garage, whereby parking is restricted to one space per 2,500 sq. ft. of lot area or 7 parking spaces, proposing 28 spaces; further the parking garage aisle width would be provided at 18' instead of the required 22 feet. Further, the applicant proposes to pave most of the rear yard, the paving restriction in the R-3 district provides that no more than 50 percent of the rear yard may be paved. The applicant is requesting a use variance for the proposed 16 dwelling units in this R-3 district and a dimensional variance relating to the proposed height, yard setbacks, paving and number of parking spaces. The lot in question contains approximately 17,576.55-sq. ft. of land area.
 
-_Note: A similar application with less detail appeared as early as December, 2004._
+Note: A similar application with less detail appeared as early as December, 2004.
 
-— “LEGAL NOTICES (5 OF 6).” <em>Providence Journal (RI)</em>, All ed., sec. News, 29 Mar. 2005, pp. B-04. <em>NewsBank: America’s News – Historical and Current</em>. Accessed 18 Oct. 2025.
+— _“LEGAL NOTICES (5 OF 6).” <em>Providence Journal (RI)</em>, All ed., sec. News, 29 Mar. 2005, pp. B-04. <em>NewsBank: America’s News – Historical and Current</em>. Accessed 18 Oct. 2025._

@@ -25,7 +25,7 @@ added-to-NRHP: 'May 1, 1974'
 
 address: '157–159 Sutton St, Providence RI'
 latitude: '41.8206244'
-longitude: '-71.4300146'
+longitude: '-71.4278259'
 gmap: "https://www.google.com/maps/place/159+Sutton+St,+Providence,+RI+02903/@41.8206244,-71.4300146,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4457510f7ef6f:0x115c73259c1e9c82!8m2!3d41.8206244!4d-71.4278259"
 
 meta: ""
@@ -85,7 +85,7 @@ According to the anecdotes, there have been more than a few owners over the past
 
 ### Current Events
 
-159 Sutton Street is [an art gallery for local RI talent](https://sutton.gallery/about), a sister project to the now closed 186 Carpenter Street. We are not sure what COVID in 2020 meant for the gallery space, as their website has not been updated with anything new since then.
+159 Sutton was a non-commercial gallery and event space in the West End of Providence, Rhode Island for mostly local artists. The gallery was run by Jori Ketten from 2015-2022. We believe the building is now a private residence.
 
 
 ### History

@@ -21,9 +21,9 @@ people: []
 lists: [ 'I-195 District Parcels' ]
 tags: [ 'Apartments for Rent', 'Contemporary' ]
 
-address: '55 George M Cohan Boulevard, Providence RI'
-latitude: '41.818292'
-longitude: '-71.4006285'
+address: '55 George M Cohan Blvd, Providence RI'
+latitude: '41.81829'
+longitude: '-71.399341'
 gmap: "https://www.google.com/maps/place/41%C2%B049'05.8%22N+71%C2%B023'57.6%22W/@41.818292,-71.4006285,18z/data=!3m1!4b1!4m13!1m8!3m7!1s0x89e4453884ac196d:0x85ebcf2a4288b76f!2s55+George+M+Cohan+Blvd,+Providence,+RI+02903!3b1!8m2!3d41.8175858!4d-71.3979915!16s%2Fg%2F11f4lwgxhs!3m3!8m2!3d41.81829!4d-71.399341?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
@@ -121,4 +121,4 @@ The child care facility planned on-site is being operated in partnership with th
 
 “We are thrilled to be bringing a new option for early education and family support services to Rhode Island families,” said David Caprio, CEO and president of Children’s Friend. “We are excited to incorporate feedback from our teaching staff across our sites to inform the design of this new space.” […]
 
-— Larocque, Marc. “Pennrose, partners break ground on 127-unit Parcel 9 apartment project.” Providence Business News, 02 August 2023. Accessed 28 August 2024 from https://pbn.com/pennrose-partners-break-ground-on-127-unit-parcel-9-apartment-project/
+— _Larocque, Marc. “Pennrose, partners break ground on 127-unit Parcel 9 apartment project.” Providence Business News, 02 August 2023. Accessed 28 August 2024 from https://pbn.com/pennrose-partners-break-ground-on-127-unit-parcel-9-apartment-project/_

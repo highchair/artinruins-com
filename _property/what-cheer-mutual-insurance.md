@@ -22,9 +22,11 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '229 Waterman St, Providence RI'
-latitude: '41.8283024'
-longitude: '-71.392435'
+latitude: '41.8283026'
+longitude: '-71.3880577'
 gmap: "https://www.google.com/maps/place/229+Waterman+St,+Providence,+RI+02906/@41.8283024,-71.392435,16z/data=!4m13!1m7!3m6!1s0x89e4452c2614d969:0xcffbfd1bd1b14896!2s229+Waterman+St,+Providence,+RI+02906!3b1!8m2!3d41.8283026!4d-71.3880577!3m4!1s0x89e4452c2614d969:0xcffbfd1bd1b14896!8m2!3d41.8283026!4d-71.3880577"
+street: [ 'Waterman St' ]
+street-number: 229
 
 meta: ""
 excerpt: "A classic mid-century brick and limestone commercial building transformed into a highly visible commercial, residential, and rooftop restaurant space"
@@ -168,6 +170,4 @@ Robert Azar, director of current planning for the city, said that Providence’s
 
 Stolzman said that the developer will meet with city planners and Yurdin and discuss their options before the council formally takes up the matter.
 
-—
-
-Barbarisi, Daniel. “Drive under way in Wayland Sq. to preserve ‘50s office building.” Providence Journal (RI), Metro ed., sec. News, 14 May 2008, pp. D-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152425BB97BFA6A0. Accessed 28 Dec. 2022.
+— _Barbarisi, Daniel. “Drive under way in Wayland Sq. to preserve ‘50s office building.” Providence Journal (RI), Metro ed., sec. News, 14 May 2008, pp. D-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152425BB97BFA6A0. Accessed 28 Dec. 2022._

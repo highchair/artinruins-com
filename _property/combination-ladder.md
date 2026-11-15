@@ -25,8 +25,10 @@ added-to-NRHP:
 
 address: '383 West Fountain St, Providence RI'
 latitude: '41.8190524'
-longitude: '-71.4243592'
+longitude: '-71.4221705'
 gmap: "https://www.google.com/maps/place/383+W+Fountain+St,+Providence,+RI+02903/@41.8190524,-71.4243592,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445730a311d2b:0x5d812b4ad0214abe!8m2!3d41.8190524!4d-71.4221705"
+street: [ 'West Fountain St' ]
+street-number: 383
 
 meta: ""
 excerpt: "Two indistinct one-story infill buildings flanked by 100+ year old two-story mill buildings that manufactured fire safety equipment"
@@ -131,7 +133,7 @@ When we originally posted this collection of buildings in 2007, it was under the
 
 In December of 2005 the Zoning Board unanimously approved the height and dimensional variances for the project. The City Plan Commission and the Historic District Commission had already given their approvals. In March of 2006 the sale of the two main properties was completed by West Side Lofts LLC, an Armory-sponsored LLC. One sold for just over $550,000 and the other for $1.8 million.
 
-In 2008, the local real estate economy took a downtown. The exuberance of the early 2000s came to an end and many projects stalled — [American Locomotive]({% link _property/american-locomotive-works.md %}), [the Dynamo House]({% link _property/south-street-power.md %}), [One Ten Westminster]({% link _property/one-ten-westminster.md %}) and the so-called [“Power Block”]({% link _property/power-block.md %}) to name a few.With many of those projects, demolition began and we lost many buildings without getting the promised replacements.
+In 2008, the local real estate economy took a downturn. The exuberance of the early 2000s came to an end and many projects stalled — [American Locomotive]({% link _property/american-locomotive-works.md %}), [the Dynamo House]({% link _property/south-street-power.md %}), [One Ten Westminster]({% link _property/one-ten-westminster.md %}) and the so-called [“Power Block”]({% link _property/power-block.md %}) to name a few. With many of those projects, demolition began and we lost many buildings without getting the promised replacements.
 
 Here, instead, the funding was there to purchase the buildings but not demolish them and begin construction. The buildings remained, and in 2012, plans to reuse them as residential started to move forward. What came out was a mix of residential and ground-floor commercial that immediately created a denser neighborhood. Since then more commercial space on West Fountain Street towards Battey has turned around with retail, restaurants, and breweries.
 

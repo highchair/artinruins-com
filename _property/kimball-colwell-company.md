@@ -25,8 +25,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '445–465 Washington St, Providence RI'
-latitude: '41.8182501'
-longitude: '-71.4247405'
+latitude: '41.818195'
+longitude: '-71.424455'
 gmap: "https://www.google.com/maps/place/465+Washington+St,+Providence,+RI+02903/@41.8182501,-71.4247405,19.31z/data=!4m15!1m8!3m7!1s0x89e445129ccddaa9:0xf63412a396d0071a!2sWashington+St,+Providence,+RI!3b1!8m2!3d41.8210456!4d-71.4175499!16s%2Fg%2F1vljhbvv!3m5!1s0x89e44574732ae9cb:0x7052361a7a93ebc0!8m2!3d41.8181066!4d-71.4245399!16s%2Fg%2F11c1kzn0kg?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Washington St' ]
 street-number: 445

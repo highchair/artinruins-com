@@ -19,8 +19,8 @@ lists: []
 tags: [ 'Contemporary', 'House' ]
 
 address: '64-66 Battey St, Providence RI'
-latitude: '41.8188774'
-longitude: '-71.4268067'
+latitude: '41.8188734'
+longitude: '-71.424618'
 gmap: "https://www.google.com/maps/place/64+Battey+St,+Providence,+RI+02903/@41.8188774,-71.4268067,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445747b1d8e21:0x380b7a46443dd0e3!8m2!3d41.8188734!4d-71.424618"
 
 meta: ""
@@ -56,18 +56,18 @@ The little piece of land that this duplex sits on seems to have been the parking
 
 [^2]: Library of Congress, Sanborn Maps, 1921-1956, Volume 1, Plate 47 captured April 4, 2022 from http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601
 
-The lot history in the tax records for 64 Battey Street only go back to 2010. In 2012, an entity called “Infill Development” purchased the lot. We presume this cheeky name to be associated with Peter Case and his development partner.[^2] 
+The lot history in the tax records for 64 Battey Street only go back to 2010. In 2012, an entity called “Infill Development” purchased the lot. We presume this cheeky name to be associated with Peter Case and his development partner.[^2]
 
 [^2]: Captured April 4, 2022 from https://gis.vgsi.com/ProvidenceRI/Parcel.aspx?pid=1227
 
-Soon after, ground broke on this modern, energy-efficient duplex. 
+Soon after, ground broke on this modern, energy-efficient duplex.
 
 
 ### Design Reception
 
-This rectangular, hard-edged building in the middle of late 19th-century and early-20th century homes is a bit of an oddity, but that is the kind of contrast that we appreciate. This design takes the familiar two- and three-family home design and applies modern building principals to it to achieve an energy efficiency that no reasonable amount of retrofitting can achieve in a historic building. And it does so on an otherwise forgotten, empty urban lot. This is some of the smartest infill we have seen since, well, the [Box Office]({% link _property/box-office.md %}). 
+This rectangular, hard-edged building in the middle of late 19th-century and early-20th century homes is a bit of an oddity, but that is the kind of contrast that we appreciate. This design takes the familiar two- and three-family home design and applies modern building principals to it to achieve an energy efficiency that no reasonable amount of retrofitting can achieve in a historic building. And it does so on an otherwise forgotten, empty urban lot. This is some of the smartest infill we have seen since, well, the [Box Office]({% link _property/box-office.md %}).
 
-Instead of an apartment per floor, each townhouse unit has a similar layout rotated around a similarly located entrance stairway. Kitchen, half bath, and living room are on the first floor while two bedrooms and a full bath are on the second. Again, its a great idea that reduces the noise from your neighbors being above you in the same rooms at the same time of day. 
+Instead of an apartment per floor, each townhouse unit has a similar layout rotated around a similarly located entrance stairway. Kitchen, half bath, and living room are on the first floor while two bedrooms and a full bath are on the second. Again, its a great idea that reduces the noise from your neighbors being above you in the same rooms at the same time of day.
 
 
 ### In the News
@@ -95,6 +95,4 @@ The townhomes are being marketed by Geo Properties Inc. of Providence. Listing a
 
 An open house is planned Sunday, April 7, from 1 to 3 p.m. For more information, see [www.batteystreetproject.com](https://web.archive.org/web/20150722210337/http://www.batteystreetproject.com/#!/)
 
-—
-
-DUNN, CHRISTINE. “Providence \| New townhomes energy-saving stars.” Providence Journal (RI), 1 ed., sec. Features, 31 Mar. 2013, p. PJHOME_01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524211B82E6C470. Accessed 4 Apr. 2022.
+— _DUNN, CHRISTINE. “Providence \| New townhomes energy-saving stars.” Providence Journal (RI), 1 ed., sec. Features, 31 Mar. 2013, p. PJHOME 01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524211B82E6C470. Accessed 4 Apr. 2022._

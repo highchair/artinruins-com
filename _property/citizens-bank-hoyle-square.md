@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: '870 Westminster St, Providence RI'
 latitude: '41.8170776'
-longitude: '-71.4257726'
+longitude: '-71.4231977'
 gmap: "https://www.google.com/maps/place/870+Westminster+St,+Providence,+RI+02903/@41.8170776,-71.4257726,631m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e44573fb01c79d:0xa78ed3a0888d6577!8m2!3d41.8170776!4d-71.4231977!16s%2Fg%2F11b8v4k0jy?entry=ttu&g_ep=EgoyMDI2MTAwNi4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Westminster St' ]
 street-number: 870

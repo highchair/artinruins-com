@@ -15,7 +15,7 @@ date-added: '2006'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Fire Stations' ]
@@ -23,7 +23,7 @@ tags: [ 'Fire Stations' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '41 Central Street, Providence RI'
+address: '41 Central St, Providence RI'
 latitude: '41.8139025'
 longitude: '-71.4235023'
 gmap: "https://www.google.com/maps/place/41+Central+St,+Providence,+RI+02907/@41.8139025,-71.4235023,18.26z/data=!4m5!3m4!1s0x89e445711f0c2cb9:0x9c6f2428e9cc0a4b!8m2!3d41.8143217!4d-71.4224009"
@@ -101,12 +101,12 @@ Nationwide, though, live music attendance dropped off and new generations of fan
 
 #### Other Links
 
-* [Photos from Realtor.com](//www.realtor.com/realestateandhomes-detail/41-Central-St_Providence_RI_02907_M32400-06705#photo16){:target="_blank"} when the Firehouse was on the market in 2017
+* [Photos from Realtor.com](https://www.realtor.com/realestateandhomes-detail/41-Central-St_Providence_RI_02907_M32400-06705#photo16) when the Firehouse was on the market in 2017
 
 
 ### Current Events
 
-The former firehouse is now a music venue and hostel called, appropriately enough, the [Good Will Engine Co.](//goodwillenginecompany.com){:target="_blank"}
+The former firehouse was a music venue and hostel called, appropriately enough, the Good Will Engine Co. The website stopped working mod-2025 and we are unsure what the current status of the building is.
 
 
 ### History

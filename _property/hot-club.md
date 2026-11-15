@@ -25,10 +25,11 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '575 S. Water St, Providence RI'
-latitude: '41.8172784'
-longitude: '-71.4030753'
+latitude: '41.8172744'
+longitude: '-71.4017878'
 gmap: "https://www.google.com/maps/place/575+S+Water+St,+Providence,+RI+02903/@41.8172784,-71.4030753,18z/data=!4m6!3m5!1s0x89e4454097fd778b:0x650693030513637a!8m2!3d41.8172744!4d-71.4017878!16s%2Fg%2F11b8vdbcnz?entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'South Water St' ]
+street-number: 575
 
 meta: ""
 excerpt: "A tiny former boiler house becomes a popular bar with a large cultural impact on Providence’s waterfront"
@@ -151,9 +152,7 @@ Bates’ “chance” just kept expanding, rolling on the same upscale wave that
 
 “I think the bars that attract people and make sense to me,” he said, “are places where people come in and just be themselves.”
 
-—
-
-GARLAND, RUSSELL. “Yupping it up Chic to chic, The Hot Club is a cool place.” Providence Journal (RI), ALL ed., sec. ACCENT, 27 Oct. 1985, pp. E-04. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525BEA415B4C728. Accessed 8 Jan. 2022.
+— _GARLAND, RUSSELL. “Yupping it up Chic to chic, The Hot Club is a cool place.” Providence Journal (RI), ALL ed., sec. ACCENT, 27 Oct. 1985, pp. E-04. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525BEA415B4C728. Accessed 8 Jan. 2022._
 
 ***
 
@@ -164,9 +163,7 @@ _by Journal Staff_
 
 The state Coastal Resources Management Council yesterday invited public comment on an application by the Hot Club, 575-579 South Water St., for a permit to build a one-story addition overlooking the Providence River above the Fox Point Hurricane Barrier. Nov. 30 is the deadline for comment. Details may be obtained from the council, 60 Davis St.
 
-—
-
-“Bar wants an addition.” Providence Journal (RI), CITY ed., sec. NEWS, 9 Nov. 1983, pp. C-03. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C24743210A68. Accessed 8 Jan. 2022.
+— _“Bar wants an addition.” Providence Journal (RI), CITY ed., sec. NEWS, 9 Nov. 1983, pp. C-03. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C24743210A68. Accessed 8 Jan. 2022._
 
 ***
 
@@ -181,6 +178,4 @@ The Hot Club, a tiny bar established in what used to be a boiler room, serves th
 
 Owners Johanne Killeen and George Germon, who also own Alforno restaurant, first tasted the Cajun martini at K-Paul’s Louisana Kitchen in New Orleans. The Hot Club has a limited menu of snack food, such as chili dogs and grilled chicken kebabs, cooked over a wood fire. It’s on the water, near R.I. Fish, at 575 S. Water St., Providence, just off Wickenden Street.
 
-—
-
-“Not all the ‘light’ beers are low in calories.” Providence Journal (RI), ALL ed., sec. FOOD, 31 Aug. 1983, pp. F-14. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C28F77C95770. Accessed 8 Jan. 2022.
+— _“Not all the ‘light’ beers are low in calories.” Providence Journal (RI), ALL ed., sec. FOOD, 31 Aug. 1983, pp. F-14. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C28F77C95770. Accessed 8 Jan. 2022._

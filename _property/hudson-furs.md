@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: '101 Cranston St, Providence RI'
 latitude: '41.8159599'
-longitude: '-71.4252582'
+longitude: '-71.4246145'
 gmap: "https://www.google.com/maps/place/101+Cranston+St,+Providence,+RI+02907/@41.8159599,-71.4252582,158m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e44576b73c498f:0xfdf4a1d354691df7!8m2!3d41.8159599!4d-71.4246145!16s%2Fg%2F11b8v4kxtf?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Cranston St' ]
 street-number: 101
@@ -186,4 +186,4 @@ Lanoue is serving an 8-year term at the Adult Correctional Institutions for a Jo
 
 MacAskill recently was released on parole after serving time for a separate robbery.
 
-— HULICK, DOANE. “Last two defendants in Bonded Vault heist have charges dropped.” <em>Providence Journal (RI)</em>, CITY ed., sec. NEWS, 8 Nov. 1985, pp. A-03. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/. Accessed 23 Aug. 2025.
+— _HULICK, DOANE. “Last two defendants in Bonded Vault heist have charges dropped.” Providence Journal (RI), CITY ed., sec. NEWS, 8 Nov. 1985, pp. A-03. NewsBank: America’s News, https://infoweb.newsbank.com/. Accessed 23 Aug. 2025._

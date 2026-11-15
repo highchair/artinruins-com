@@ -26,7 +26,7 @@ added-to-NRHP: 'May 1, 1974'
 
 address: '300 Broadway, Providence RI'
 latitude: '41.8200822'
-longitude: '-71.4300762'
+longitude: '-71.4275013'
 gmap: "https://www.google.com/maps/place/300+Broadway,+Providence,+RI+02903/@41.8200822,-71.4300762,16z/data=!3m1!4b1!4m6!3m5!1s0x89e44575069aa8c1:0x20ce219e6ef7aa48!8m2!3d41.8200822!4d-71.4275013!16s%2Fg%2F11bw42x9nj?entry=ttu&g_ep=EgoyMDI1MDYwMi4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Broadway' ]
 street-number: 300
@@ -75,7 +75,7 @@ The <span class="abbr">PHDC</span> suggested minimal changes to the designs to p
 
 ### Current Events
 
-Construction has begun as of mid-2025. It seems like Schasteâ will remain open while construction is underway. 
+Construction has begun as of mid-2025. It seems like Schasteâ will remain open while construction is underway.
 
 
 ### History

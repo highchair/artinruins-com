@@ -22,8 +22,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '109–111 Summer St, Providence RI'
-latitude: '41.8154037'
-longitude: '-71.4197974'
+latitude: '41.8153997'
+longitude: '-71.4185099'
 gmap: "https://www.google.com/maps/place/111+Summer+St,+Providence,+RI+02903/@41.8154037,-71.4197974,18z/data=!4m6!3m5!1s0x89e44571fb6e8103:0x2b82b8ec9f576068!8m2!3d41.8153997!4d-71.4185099!16s%2Fg%2F11cskf_kzs?entry=ttu"
 street: [ 'Summer' ]
 street-number: 109

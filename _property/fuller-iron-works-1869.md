@@ -14,7 +14,7 @@ date-added: '2021'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: []
@@ -22,10 +22,12 @@ tags: []
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '566 South Main St, Providence RI'
+address: '566 South Water St, Providence RI'
 latitude: '41.8176663'
-longitude: '-71.4027636'
+longitude: '-71.4005749'
 gmap: "https://www.google.com/maps/place/566+S+Main+St,+Providence,+RI+02903/@41.8176663,-71.4027636,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44540aa6adea7:0x1a46c25c05c0b56e!8m2!3d41.8176663!4d-71.4005749"
+street: [ 'South Water St' ]
+street-number: 566
 
 meta: ""
 excerpt: "A handsome, symmetrical façade, Greek-revival inspired mid-19th-century mill building that seems to have always been well cared for"
@@ -139,7 +141,7 @@ Keel Partners LLC, which sells premium light vodka, announced Wednesday that its
 
 “Keel is a great addition to the South Main Street and India Point waterfront scene, set to expand with increased housing and businesses as the 195 land is developed,” said Richard P. Baccari II, president and CEO of Churchill & Banks. Baccari is the manager of the Tockwotten Group.
 
-— Dunn, Christine. “Former Benrus building in Providence sold for $1.9M.” Providence Journal: Web Edition Articles (RI), sec. News, 12 July 2017. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/165A1C452633E458. Accessed 24 Nov. 2021.
+— _Dunn, Christine. “Former Benrus building in Providence sold for $1.9M.” Providence Journal: Web Edition Articles (RI), sec. News, 12 July 2017. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/165A1C452633E458. Accessed 24 Nov. 2021._
 
 ***
 
@@ -156,7 +158,7 @@ The glass-and-steel portion of the South Main Street building is now covered in 
 
 (**A.I.R.**: Correction to the above. The older building is the 3-story brick mill still standing, it is not a “three-story brick addition.”)
 
-— Katebramson. “Private land near old Rte. 195 site for sale at auction.” Providence Journal (RI), All ed., sec. breaking_news, 1 Nov. 2010. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152423601C6EC730. Accessed 24 Nov. 2021.
+— _Katebramson. “Private land near old Rte. 195 site for sale at auction.” Providence Journal (RI), All ed., sec. breaking_news, 1 Nov. 2010. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152423601C6EC730. Accessed 24 Nov. 2021._
 
 ***
 

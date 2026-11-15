@@ -21,9 +21,9 @@ tags: [ 'Fire Stations' ]
 NRHP-ref-number: '74000047 (contributing)'
 added-to-NRHP: 'May 1, 1974'
 
-address: '4 Pallas Street, Providence RI'
-latitude: '41.8202394'
-longitude: '-71.4258865'
+address: '4 Pallas St, Providence RI'
+latitude: '41.8202354'
+longitude: '-71.4236978'
 gmap: "https://www.google.com/maps/place/4+Pallas+St,+Providence,+RI+02903/@41.8202394,-71.4258865,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4457360d89519:0xdbe557a965cf789f!8m2!3d41.8202354!4d-71.4236978"
 
 meta: ""
@@ -90,7 +90,7 @@ In January 1838 Providence Fire Engine Company No. 9 (Gaspee Company) was incorp
 
 In 1886 Engine 9 was moved to new and incredibly beautiful quarters at the [corner of Atwells and America](https://provlibdigital.org/islandora/object/islandora%3A5645). It was demolished in the 1950s for parking and remains so today.
 
-_— Submitted by Harry Cohoon_
+— _Submitted by Harry Cohoon_
 
 ***
 

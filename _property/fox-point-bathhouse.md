@@ -22,8 +22,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '455 Wickenden St, Providence RI'
-latitude: '41.8195184'
-longitude: '-71.3954345'
+latitude: '41.820128'
+longitude: '-71.392932'
 gmap: "https://www.google.com/maps/place/455+Wickenden+St,+Providence,+RI+02903/@41.8195184,-71.3954345,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445376fbacfeb:0xc102f17491942ba3!8m2!3d41.8195184!4d-71.3932458"
 street: [ 'Wickenden St' ]
 street-number: 455
@@ -91,12 +91,12 @@ imagescredit: 'Interior before photos by Gilbane Construction, contributions fro
 
 Rehabilitation of this relatively small structure came with strong community support. So much so that the City of Providence pledged $500,000 from the Providence Public Buildings Authority (<span class="abbr">PPBA</span>) and Ward One Bond money. School and local leaders, the Providence School Department, Providence Historic District Commission, and councilmen David Segal and Seth Yurdin led the effort to turn a historic eyesore into a community resource. Studio JAED, The S/L/A/M Collaborative, and Gilbane Building Co. oversaw the exterior restoration and created separate spaces for school library and community gatherings inside.
 
-The renovation and reuse of this structure won a Preserve RI and RI Historical Preservation and Heritage Commission award in 2009. 
+The renovation and reuse of this structure won a Preserve RI and RI Historical Preservation and Heritage Commission award in 2009.
 
 
 ### Current Events
 
-The neighboring Vartian Gregorian public elementary school has connected to the former bath house and uses some of the space as its library. Community meeting space is available on the lower level. 
+The neighboring Vartian Gregorian public elementary school has connected to the former bath house and uses some of the space as its library. Community meeting space is available on the lower level.
 
 
 ### History
@@ -109,4 +109,4 @@ To mitigate the obvious health dangers associated with the lack of indoor plumbi
 
 Now vacant and derelict, the one-story brick and slate building at 455 Wickenden Street sits directly adjacent to the Vartan Gregorian Elementary school. A 1953 zoning law requiring hot running water in all residential buildings proved the death knell for the bath house, which found use as a library and a storage area until falling into neglect in the 1970s.
 
-Today [circa 2003], the low-profile structure suffers from vandalism, pigeon infestation and a leaky roof, but the building is fundamentally sound and there is a possibility that the structure can somehow be more closely incorporated into the neighboring elementary school or restored to a center of community activity. The Wickenden Bath House made [PPS’s Ten Most Endangered List](//guide.ppsri.org/property/fox-point-bath-house){:target="_blank"} in 1998, 1999 and 2002, but finding a new use for the old building has proved challenging and the bath house is on the list once again in 2003. We hope the current plans to renovate the structure go through.
+Today [circa 2003], the low-profile structure suffers from vandalism, pigeon infestation and a leaky roof, but the building is fundamentally sound and there is a possibility that the structure can somehow be more closely incorporated into the neighboring elementary school or restored to a center of community activity. The Wickenden Bath House made [PPS’s Ten Most Endangered List](https://guide.ppsri.org/property/fox-point-bath-house) in 1998, 1999 and 2002, but finding a new use for the old building has proved challenging and the bath house is on the list once again in 2003. We hope the current plans to renovate the structure go through.

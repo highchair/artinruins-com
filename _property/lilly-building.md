@@ -23,7 +23,7 @@ added-to-NRHP: 'May 2003'
 
 address: '755 Westminster St, Providence RI'
 latitude: '41.8182684'
-longitude: '-71.4229876'
+longitude: '-71.4207989'
 gmap: "https://www.google.com/maps/place/755+Westminster+St,+Providence,+RI+02903/@41.8182684,-71.4229876,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4457253bfdd81:0x8fa37660c165e4c1!8m2!3d41.8182684!4d-71.4207989"
 street: [ 'Westminster St' ]
 street-number: 755

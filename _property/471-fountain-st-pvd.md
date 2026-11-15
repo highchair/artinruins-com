@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: '471 Fountain St, Providennce RI'
 latitude: '41.8186871'
-longitude: '-71.4269941'
+longitude: '-71.4257082'
 gmap: "https://www.google.com/maps/place/471+W+Fountain+St,+Providence,+RI+02903/@41.8186871,-71.4269941,316m/data=!3m1!1e3!4m6!3m5!1s0x89e4457443b78957:0xd8a5a31985e724f1!8m2!3d41.8186871!4d-71.4257082!16s%2Fg%2F11bw5006fb?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Fountain St' ]
 street-number: 471

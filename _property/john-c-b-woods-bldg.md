@@ -22,8 +22,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '819 Westminster St, Providence'
-latitude: '41.8178923'
-longitude: '-71.4232322'
+latitude: '41.8178883'
+longitude: '-71.4219394'
 gmap: "https://www.google.com/maps/place/819+Westminster+St,+Providence,+RI+02903/@41.8178923,-71.4232322,18z/data=!4m6!3m5!1s0x89e445e501981ee1:0xe66353fa0094705f!8m2!3d41.8178883!4d-71.4219394!16s%2Fg%2F11l2cy4t4m?entry=ttu"
 street: [ 'Westminster St' ]
 street-number: 819
@@ -132,11 +132,11 @@ The building appears to have been constructed ca. 1900 when the property was acq
 
 #### John Carter Brown Woods
 
-Based on what we could sleuth, we think “J. C. B. Woods” is John Carter Brown Woods, a lawyer born in Providence in 1851.[^3] He maintained an office at 146 Westminster Street, the [Lauderdale Building](https://guide.ppsri.org/property/lauderdale-building), room 303, for more than 20 years. The building at 819 Westminster was likely an investment property. From the write-up above and the maps, we would agree that Mr. Woods purchased the property around 1900 — his name is attached first in the 1908 map.
+Based on what we could sleuth, we think “J. C. B. Woods” is John Carter Brown Woods, a lawyer born in Providence in 1851.[^3] He maintained an office at 146 Westminster Street, the [Lauderdale Building](https://guide.ppsri.org/property/lauderdale-building/), room 303, for more than 20 years. The building at 819 Westminster was likely an investment property. From the write-up above and the maps, we would agree that Mr. Woods purchased the property around 1900 — his name is attached first in the 1908 map.
 
 [^3]: “John Carter Brown Woods.” PRA Book, captured 21 November 2023 from https://prabook.com/web/john_carter_brown.woods/1070741
 
-Mr. Woods lived at 62 Prospect Street, the [Woods-Gerry house](https://guide.ppsri.org/property/woods-gerry-house), which is named for his father and mother, Anne Brown Francis and Marshall Woods. When his father passed in 1899, Mr. Woods continued to reside at 62 Prospect until his own death in January of 1930, at least according to the Providence House Directories.
+Mr. Woods lived at 62 Prospect Street, the [Woods-Gerry house](https://guide.ppsri.org/property/woods-gerry-house/), which is named for his father and mother, Anne Brown Francis and Marshall Woods. When his father passed in 1899, Mr. Woods continued to reside at 62 Prospect until his own death in January of 1930, at least according to the Providence House Directories.
 
 He was an amateur historian as well, it seems, having written “John Carter of Providence, Rhode Island, July 21, 1745 — August 19, 1814 and his Descendants: A Brief Narrative by his great- great grandson John Carter Brown Woods” published in October of 1918.[^4] A painting of his father, Marshall Woods, was donated by John to the Brown University collection.[^5]
 
