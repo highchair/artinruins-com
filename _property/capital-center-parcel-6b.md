@@ -21,9 +21,10 @@ tags: [ 'Apartments for Rent', 'Contemporary' ]
 
 address: '10 Park Row W, Providence RI'
 latitude: '41.8301322'
-longitude: '-71.4142801'
+longitude: '-71.4116998'
 gmap: "https://www.google.com/maps/place/Station+Row/@41.8301322,-71.4142801,17z/data=!3m1!4b1!4m6!3m5!1s0x89e4457bebe7b3bb:0x8f0f4c5b74d11ace!8m2!3d41.8301322!4d-71.4116998!16s%2Fg%2F11gwm9gyjr?entry=ttu"
 street: []
+street-number:
 
 meta: ""
 excerpt: "A six-story pile of setbacks and surface changes along the Moshassuck River, Amtrack train corridor, and the State House"
@@ -63,7 +64,7 @@ imagescredit: 'Contributions from the Providence Historical Aerial Viewer'
 
 ### Proposal
 
-In December of 2014, the Capital Center Commission (<span class="abbr">CCC</span>) approved plans for a new building, the second phase of [Capitol Cove]({% link _property/capital-center-parcel-6.md %}). Originally called The Commons at Providence Station, it was later renamed [Station Row](//www.stationrowapts.com/){:target="_blank"} apartments.
+In December of 2014, the Capital Center Commission (<span class="abbr">CCC</span>) approved plans for a new building, the second phase of [Capitol Cove]({% link _property/capital-center-parcel-6.md %}). Originally called The Commons at Providence Station, it was later renamed [Station Row](https://www.stationrowapts.com/) apartments.
 
 The <span class="abbr">CCC</span> had oversight into the design and development of Parcel 6, which in the map, was originally split into five different parcels. Instead, two buildings were proposed in 2003 and phase 1 constructed building A by 2008. A plan for another building was also approved, but the plans had changed significantly enough since that they required new approval. The shape of the building and surrounding area remained true to the intent of the original design approved by the Committee in 2003.
 
@@ -88,4 +89,4 @@ We have to agree here. The haphazard boxes look like a pile of legos dropped fro
 
 ### Current Events
 
-Leasing information is available at their website, [Station Row](//www.stationrowapts.com/){:target="_blank"}.
+Leasing information is available at their website, [Station Row](https://www.stationrowapts.com/).

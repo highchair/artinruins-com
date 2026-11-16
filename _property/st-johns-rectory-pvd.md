@@ -26,7 +26,7 @@ added-to-NRHP: 'November 10, 1970'
 
 address: '144 Benefit St, Providence RI'
 latitude: '41.8293603'
-longitude: '-71.4112442'
+longitude: '-71.4086693'
 gmap: "https://www.google.com/maps/place/144+Benefit+St,+Providence,+RI+02903/@41.8293603,-71.4112442,16z/data=!3m1!4b1!4m6!3m5!1s0x89e4451831b9bf79:0x15af0d46004e4a9b!8m2!3d41.8293603!4d-71.4086693!16s%2Fg%2F11b8z5jxqd?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Benefit St' ]
 street-number: 144

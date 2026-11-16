@@ -25,11 +25,11 @@ NRHP-ref-number: '71000034 (Individual)'
 added-to-NRHP: 'November 5, 1971'
 
 address: '100 North Main St, Providence RI'
-latitude: '41.8277901'
-longitude: '-71.4097486'
-gmap: "https://www.google.com/maps/place/100+N+Main+St,+Providence,+RI+02903/@41.8277901,-71.4097486,18z/data=!4m6!3m5!1s0x89e445177167bba3:0xf616d9731f638fbc!8m2!3d41.8278982!4d-71.4096338!16s%2Fg%2F11b8v4b93y?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+latitude: '41.8279502'
+longitude: '-71.409564'
+gmap: "https://www.google.com/maps/place/Elizabeth+Studio+Apartments/@41.8280211,-71.4101712,19.74z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzQwLjAiTiA3McKwMjQnMzUuMSJX!8m2!3d41.8277901!4d-71.4097486!3m5!1s0x89e4451771502e15:0x79d5d1ba89e8c2ae!8m2!3d41.8279502!4d-71.409564!16s%2Fg%2F1pp2tkjsy"
 street: [ 'North Main St' ]
-street-number: '100'
+street-number: 100
 
 meta: ""
 excerpt: "A five-story late 19th-century commercial building with one of the few cast iron façades in the city"
@@ -184,4 +184,4 @@ Riordan said she was disciplined — she said she believes it took one to two ye
 
 “And a love for life,” said Richard Waterman. “I’m sure she was an extraordinary woman.”
 
-— RAU, ELIZABETH. "Colonial sampler: 'Delightful,' and worth $192,000." <em>Providence Journal (RI)</em>, ALL ed., sec. NEWS, 20 Mar. 1987, pp. A-01. <em>NewsBank: America's News – Historical and Current</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/152529FDD7B80D50. Accessed 17 May 2026.
+— _RAU, ELIZABETH. "Colonial sampler: 'Delightful,' and worth $192,000." Providence Journal (RI), ALL ed., sec. NEWS, 20 Mar. 1987, pp. A-01. NewsBank: America's News – Historical and Current, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/152529FDD7B80D50. Accessed 17 May 2026._

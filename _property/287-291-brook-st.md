@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
 tags: [ 'Brown University', 'College Properties', 'House' ]
@@ -22,8 +22,8 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '287–291 Brook St, Providence RI'
-latitude: '41.824759'
-longitude: '-71.3994072'
+latitude: '41.824758'
+longitude: '-71.39886'
 gmap: "https://www.google.com/maps/place/41%C2%B049'29.1%22N+71%C2%B023'55.9%22W/@41.824759,-71.3994072,158m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d41.824758!4d-71.39886"
 street: [ 'Brook St' ]
 street-number: 287

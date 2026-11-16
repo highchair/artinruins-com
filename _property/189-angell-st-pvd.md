@@ -22,9 +22,11 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '185–189 Angell St, Providence RI'
-latitude: '41.8279859'
-longitude: '-71.4014022'
+latitude: '41.827982'
+longitude: '-71.4000504'
 gmap: "https://www.google.com/maps/place/189+Angell+St,+Providence,+RI+02906/@41.8279859,-71.4014022,17z/data=!4m6!3m5!1s0x89e44524a65591d3:0xc13b68f90a92e5bd!8m2!3d41.827982!4d-71.4000504!16s%2Fg%2F11bw3yrmdv?entry=ttu&g_ep=EgoyMDI0MDkwOC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Angell St' ]
+street-number: 185
 
 meta: ""
 excerpt: "A quick redevelopment of two historic homes in an eroding historic district under pressure to provide “modern” student housing"
@@ -75,7 +77,7 @@ These happened at a time when we at ArtInRuins were not keeping up very well wit
 
 If our opinion matters, these developments can only now be seen as part of the push on this block of Angell Street for bigger, denser, and more “modern” housing with new floors, kitchens, and some amenities. The character of this block has completely changed from smaller, mostly two story, pre-20th-century dwellings to these plainer, taller, and closely packed structures.
 
-Is it good, is it bad? Overall we feel the pressure that this section of the district is under. The commercialization of Thayer Street is expanding into these areas, and students generally want to live closer to campus. Only older students are increasingly drawn to neighborhoods like Fox Point, and young families of Fox Point probably appreciate that. Still, the loss of over twenty five homes within these four blocks in the past ten years is astounding. How much futher will this expansion continue, and into which historic blocks next?
+Is it good, is it bad? Overall we feel the pressure that this section of the district is under. The commercialization of Thayer Street is expanding into these areas, and students generally want to live closer to campus. Only older students are increasingly drawn to neighborhoods like Fox Point, and young families of Fox Point probably appreciate that. Still, the loss of over twenty five homes within these four blocks in the past ten years is astounding. How much further will this expansion continue, and into which historic blocks next?
 
 
 ### Current Events
@@ -87,6 +89,6 @@ The two houses are now privately-owned apartment buildings for rent to students 
 
 _From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 
-185 Angell — James R. Budlong House, 1844-7. Greek Revival and Colonial Revival; 2-1/2 stories; pedimented end-gable roof; clapboard; L plan; porch removed in corner of L on west side; side-hall entrance with sidelights and transom under later Tuscan portico with bracketed cornice; panelled corner pilasters; molded window caps; off-center 2-story front bay window with Colonial Revival pilaster, stringcourse, and segmental pediment trim on 1st floor.
+**185 Angell** — James R. Budlong House, 1844-7. Greek Revival and Colonial Revival; 2-1/2 stories; pedimented end-gable roof; clapboard; L plan; porch removed in corner of L on west side; side-hall entrance with sidelights and transom under later Tuscan portico with bracketed cornice; panelled corner pilasters; molded window caps; off-center 2-story front bay window with Colonial Revival pilaster, stringcourse, and segmental pediment trim on 1st floor.
 
-189 Angell — House?/Commercial Block?, c. 1910? Tudor Revival; 2-1/2 stories; flank gable roof; brick with some stucco and half-timbering; entrance on east under later awning; ell to rear in original condition with half-timbered dormer; later plate glass windows on front probably replace leaded casements. Now in commercial use.
+**189 Angell** — House?/Commercial Block?, c. 1910? Tudor Revival; 2-1/2 stories; flank gable roof; brick with some stucco and half-timbering; entrance on east under later awning; ell to rear in original condition with half-timbered dormer; later plate glass windows on front probably replace leaded casements. Now in commercial use.

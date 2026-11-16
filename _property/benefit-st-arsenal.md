@@ -23,8 +23,8 @@ NRHP-ref-number: '70000003 (individual)'
 added-to-NRHP: 'April 28, 1970'
 
 address: '176 Benefit St, Providence RI'
-latitude: '41.8284648'
-longitude: '-71.4110382'
+latitude: '41.8284608'
+longitude: '-71.4084633'
 gmap: "https://www.google.com/maps/place/176+Benefit+St,+Providence,+RI+02903/@41.8284648,-71.4110382,17z/data=!3m1!4b1!4m6!3m5!1s0x89e445178880f35b:0x79c6e2d366094bb4!8m2!3d41.8284608!4d-71.4084633!16s%2Fg%2F11c1cn0w6q"
 street: [ 'Benefit St' ]
 street-number: 176
@@ -76,7 +76,7 @@ images:
 
 mostrecentimage: 2024-01-01
 
-imagescredit: 'Contribution from the Rhode Island Photograph Collection (<a href="https://provlibdigital.org/islandora/object/VM013_GF2922">photo 1,</a> <a href="https://provlibdigital.org/islandora/object/VM013_GF2981">photo 2,</a> <a href="https://provlibdigital.org/islandora/object/VM013_FIC0123">photo 3</a>) and the <a href="https://provlibdigital.org/islandora/object/PC6433">RI Postcard Collection</a>'
+imagescredit: 'Contributions from the Rhode Island Photograph Collection and the <a href="https://provlibdigital.org/islandora/object/pc6433">RI Postcard Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -130,7 +130,7 @@ When — later in the mid-XIX-Century — the infantry unit left to occupy larg
 
 ***
 
-_From a caption on a paper drawing in the <a href="https://provlibdigital.org/islandora/object/islandora%3A5003">John Hutchinson Cady Research Scrapbook Collection</a>, Providence Public Library_
+_From a caption on a paper drawing in the John Hutchinson Cady Research Scrapbook Collection, Providence Public Library_
 
 This building was erected by the members of the organization, but delivered to the state, which paid off an indebtedness and gave the organization a 1000-year lease at the rate of six and one-quarter cents a year. In this arsenal was enlisted the most famous light batteries in the Civil War. The building is designated as the brooder house of the “Mother Battery.” It placed men in the field in 1861–65, 1898, and in France as a part of the famous 26th Division, A. M. E. F.
 

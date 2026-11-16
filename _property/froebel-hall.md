@@ -22,10 +22,12 @@ superlative: 'The second school for training kindergarten teachers in the Froebe
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
-address: '80 Brown Street, Providence RI'
+address: '80 Brown St, Providence RI'
 latitude: '41.8280064'
-longitude: '-71.4056092'
+longitude: '-71.4034205'
 gmap: "https://www.google.com/maps/place/Glenn+and+Darcy+Weiner+Center,+80+Brown+St,+Providence,+RI+02906/@41.8280064,-71.4056092,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44522d41a55d3:0x767c9ef84986040a!8m2!3d41.8280064!4d-71.4034205"
+street: [ 'Brown St' ]
+street-number: 80
 
 meta: ""
 excerpt: "This chalet-style 19th century Stone & Carpenter design was reivigorated in 2002 with new foundation and additional connecting buildings to expand Brown’s Hillel Center"
@@ -91,7 +93,7 @@ images:
 
 mostrecentimage: 2021-05-01
 
-imagescredit: 'Contributons from the John Hutchins Cady Research Scrapbooks Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A4962" target="_blank">photo 1 and 2,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A5284" target="_blank">photo 3,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A5110" target="_blank">photo 4</a>), Providence Public Library and Google Maps'
+imagescredit: 'Contributons from the John Hutchins Cady Research Scrapbooks Collection (<a href="https://provlibdigital.org/islandora/object/036-030301">photo 1 and 2,</a> <a href="https://provlibdigital.org/islandora/object/036-030301">photo 3,</a> <a href="https://provlibdigital.org/islandora/object/036-030301">photo 4</a>), Providence Public Library and Google Maps'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -104,7 +106,7 @@ Reshaping the Brown Hillel Center began in 1995, when Hillel programs at Brown e
 
 Fortuitously, the adjacent property became available and was acquired in 1996 with generous support from Alan Hassenfield, Fred Horowitz ’86, and the Jewish Federation of Rhode Island. Earl R. Flansburgh & Associates, hired to develop a needs assessment and master plan, concluded that a second, contiguous property at 100 Angell Street was needed to insure ample space for the future. Hillel was able to purchase this property in 1998, thanks to the generous support of Marty Granoff ’93 and Gary Winnick ’00.
 
-Architects Fred Babcock of [Babcock Design Group](//www.babcockdesign.com){:target="_blank"} and Cornelis de Boer of Haynes/de Boer Associates were engaged in 1997 to design an integrated facility accommodating the programmatic requirements. Their design encompasses the original structures connected by a compatible modern addition. In 2001, after a long review process due to the historic status of the buildings, the plan was granted regulatory and legal approval.
+Architects Fred Babcock of [Babcock Design Group](https://www.babcockdesign.com/) and Cornelis de Boer of Haynes/de Boer Associates were engaged in 1997 to design an integrated facility accommodating the programmatic requirements. Their design encompasses the original structures connected by a compatible modern addition. In 2001, after a long review process due to the historic status of the buildings, the plan was granted regulatory and legal approval.
 
 The new center, open in 2003, incorporates three historic structures — two late eighteenth-century Federal-style houses and the chalet-style Froebel Hall — into an expanded facility that provides Brown Hillel with more than 25,000 square feet for assembly, student activity, and administrative spaces. The center is designed to defer to the old structures and to be congruent with the residential scale and architectural character of the surrounding neighborhood. The facility also preserves the historic identity and essential integrity of the three existing buildings, provides worship access for all denominations, introduces universal access to all function rooms, and re-establishes the garden and terraces as open spaces suitable for outdoor functions and meditation.[^1]
 
@@ -117,7 +119,7 @@ In the 2002 renovation, Froebel Hall was lifted on wooden stacks while a new fou
 
 ### Current Events
 
-The former Brown Jewish student center is now an intercollegiate Jewish student center, jointly operated for the benefit of RISD and Brown students. The official dedication name is the Glenn and Darcy Weiner Center, or [Brown RISD Hillel](//www.brownrisdhillel.org){:target="_blank"}.
+The former Brown Jewish student center is now an intercollegiate Jewish student center, jointly operated for the benefit of RISD and Brown students. The official dedication name is the Glenn and Darcy Weiner Center, or [Brown RISD Hillel](https://www.brownrisdhillel.org/).
 
 
 ### History
@@ -131,7 +133,7 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 
 #### Brown Hillel Group to Dedicate Restored Froebel Hall as Center
 
-_From a [newspaper clipping in the John Hutchins Cady Research Scrapbooks Collection](//provlibdigital.org/islandora/object/islandora%3A5571){:target="_blank"}, Providence Public Library, dated February 3, 1963, by Ralph Kazarian_
+_From a [newspaper clipping in the John Hutchins Cady Research Scrapbooks Collection](https://provlibdigital.org/islandora/object/036-030301), Providence Public Library, dated February 3, 1963, by Ralph Kazarian_
 
 A Providence landmark has been restored and will be dedicated next Sunday to the purpose for which it was built 76 years ago — that of serving the area’s youth.
 

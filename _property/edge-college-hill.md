@@ -20,8 +20,10 @@ tags: [ 'Apartments for Rent', 'Contemporary' ]
 
 address: '169 Canal St, Providence RI'
 latitude: '41.8278226'
-longitude: '-71.4122902'
+longitude: '-71.4101015'
 gmap: "https://www.google.com/maps/place/169+Canal+St,+Providence,+RI+02903/@41.8278226,-71.4122902,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445176da6f2a5:0x701acb2a9ee6ae94!8m2!3d41.8278226!4d-71.4101015"
+street: [ 'Canal St' ]
+street-number: 169
 
 meta: ""
 excerpt: "21st-century modernist construction for micro-loft student housing at the base of College Hill"
@@ -70,7 +72,7 @@ imagescredit:
 
 ### Proposal
 
-Edge College Hill was among a new wave of construction that came along at the end of the two-thousand tens. A lull in new building after the economic and real estate downturn of 2008, by almost ten years later the market picked back up and projects that were only in conceptual stages came into being. Notable during this period were the completion of [South Street Landing]({% link _property/south-street-power.md %}), The Commons at Providence Station (Capital Center 2), the Providence River Pedestrian Bridge, Homewood Suites Extended Stay Hotel, the Nightingale Building, Chestnut Commons, [Wexford Innovation Center]({% link _property/wexford-innovation-center.md %}), and the Residence Inn by Marriott.[^1] 
+Edge College Hill was among a new wave of construction that came along at the end of the two-thousand tens. A lull in new building after the economic and real estate downturn of 2008, by almost ten years later the market picked back up and projects that were only in conceptual stages came into being. Notable during this period were the completion of [South Street Landing]({% link _property/south-street-power.md %}), The Commons at Providence Station (Capital Center 2), the Providence River Pedestrian Bridge, Homewood Suites Extended Stay Hotel, the Nightingale Building, Chestnut Commons, [Wexford Innovation Center]({% link _property/wexford-innovation-center.md %}), and the Residence Inn by Marriott.[^1]
 
 [^1]: Parker, Paul Edward. “Providence rising: That buzz downtown is from these 10 construction projects.” Providence Journal: Web Edition Articles (RI), sec. News, 5 May 2018. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/16BC0CE3AF69D140. Accessed 26 Dec. 2021.
 
@@ -85,7 +87,7 @@ In March of 2018 the new building topped out. Edge College Hill includes fully f
 
 ### Current Events
 
-Leasing information is available on [the Edge College Hill website](//www.edgecollegehill.com){:target="_blank"}.
+Leasing information is available on [the Edge College Hill website](https://www.edgecollegehill.com/).
 
 
 ### History
@@ -115,4 +117,4 @@ These modernly furnished apartments will primarily be marketed towards students.
 
 Construction of Edge College Hill is underway and completion is scheduled for summer 2018.
 
-_Captured on November 6, 2017 from http://www.gcpvd.org/2017/08/11/construction-starts-at-edge-college-hill/#comment-297207_
+— _Captured on November 6, 2017 from http://www.gcpvd.org/2017/08/11/construction-starts-at-edge-college-hill/#comment-297207_

@@ -25,8 +25,8 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '64 Angell St, Providence RI'
-latitude: '41.8279618'
-longitude: '-71.4057927'
+latitude: '41.8279698'
+longitude: '-71.4052992'
 gmap: "https://www.google.com/maps/place/64+Angell+St,+Providence,+RI+02906/@41.8279618,-71.4057927,18z/data=!4m6!3m5!1s0x89e4453d4dae6961:0xe9f913907be8c116!8m2!3d41.8279698!4d-71.4052992!16s%2Fg%2F11c214_958?entry=ttu&g_ep=EgoyMDI2MDMxMS4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Angell St' ]
 street-number: 64

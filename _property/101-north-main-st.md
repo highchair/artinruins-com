@@ -18,7 +18,7 @@ tags: [ 'Needs History' ]
 
 address: '101 North Main St, Providence RI'
 latitude: '41.8281038'
-longitude: '-71.4112867'
+longitude: '-71.409098'
 gmap: "https://www.google.com/maps/place/101+N+Main+St,+Providence,+RI+02903/@41.8281038,-71.4112867,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451777e2f41f:0x58003c565e434623!8m2!3d41.8281038!4d-71.409098"
 street: [ 'North Main St' ]
 street-number: 101
@@ -70,7 +70,7 @@ images:
 
 mostrecentimage: 2020-10-01
 
-imagescredit: 'Contributions by Betsy von Die, <a href="//www.flickr.com/photos/cthulhuwho1">Will Hart</a>, the Armory Revival Company, and real estate listing sites'
+imagescredit: 'Contributions by Betsy von Die, <a href="https://www.flickr.com/photos/cthulhuwho1">Will Hart</a>, the Armory Revival Company, and real estate listing sites'
 ---
 
 ### Redevelopment

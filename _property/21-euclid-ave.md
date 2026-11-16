@@ -19,9 +19,11 @@ lists: []
 tags: [ 'Contemporary', 'Darkitecture' ]
 
 address: '21 Euclid Ave, Providence RI'
-latitude: '41.8285627'
-longitude: '-71.3998545'
-gmap: "https://www.google.com/maps/place/21+Euclid+Ave,+Providence,+RI+02906/@41.8285627,-71.3998545,18z/data=!4m5!3m4!1s0x89e445249e6eca93:0x6ceff37cc15832da!8m2!3d41.8285627!4d-71.3998545"
+latitude: '41.8285895'
+longitude: '-71.3997176'
+gmap: "https://www.google.com/maps/place/Ceremony+College+Hill/@41.8284926,-71.4001722,19.3z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzQyLjgiTiA3McKwMjMnNTkuNSJX!8m2!3d41.8285627!4d-71.3998545!3m5!1s0x89e44527f4393b2b:0x3eb1e5885a840ab8!8m2!3d41.8285895!4d-71.3997176!16s%2Fg%2F11j0tvy9t1?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Euclid Ave' ]
+street-number: 21
 
 meta: ""
 excerpt: "A contemporary, boxy building for student housing which contributes to the erosion of what was once an intact historic district"
@@ -74,13 +76,13 @@ PPS page about the “Smart Hotel”: https://web.archive.org/web/20200609102848
 
 [This project replaced two houses with parking in between](https://www.google.com/maps/place/21+Euclid+Ave,+Providence,+RI+02906/@41.8287285,-71.399686,3a,90y,211.83h,92.64t/data=!3m7!1e1!3m5!1s5Lga-cIHyvwc38PJd7AxKg!2e0!5s20170901T000000!7i13312!8i6656!4m13!1m7!3m6!1s0x89e445249e6eca93:0x6ceff37cc15832da!2s21+Euclid+Ave,+Providence,+RI+02906!3b1!8m2!3d41.8285627!4d-71.3998545!3m4!1s0x89e445249e6eca93:0x6ceff37cc15832da!8m2!3d41.8285627!4d-71.3998545) for more density and no parking. In some ways, it is a win — more density is a good thing and most students don’t have or need cars, so housing without the need to clear more livable area for parking is great. The downside is the continued [erosion of a historic district]({% link _essays/erosion-of-college-hill-historic-district.md %}). This project was riding the wave of projects that had come before and set a precedent of demolition.
 
-Details about the new project build from the Michie Design & Build website: 
+Details about the new project build from the Michie Design & Build website:
 
 > …the entire interior design of the dormitories was redesigned, giving the students a more familiar and active style. This is vitally important because a considerable number of these students are from the Rhode Island School of Design, so the interior and exterior design of this complex had to be an icon that resonates with and represents them. The result was a contrast of dark tones with a bright red, also changing the color of the window frames to a dark tone and installing black and red aluminum panels instead of the traditional siding, thus giving it a more lively and contemporary finish.[^1]
 
 [^1]: “Brown Residential.” Michie Design & Build website, captured October 29, 2022 from https://www.michiedesigns.com/brown-residential
 
-According to the [College Hill Properties website](https://college-hill.com), the building contains several units of three, four, and five bedrooms and at least 2 bathrooms. The rentals are clearly for the student population. In the ground floor space as of the fall of 2022, **Ceremony**, an independently owned café and tea house, was tenant. They had moved from the corner of Angell and Thayer street (the former Tealuxe space) around 2020.
+According to the [College Hill Properties website](https://college-hill.com/), the building contains several units of three, four, and five bedrooms and at least 2 bathrooms. The rentals are clearly for the student population. In the ground floor space as of the fall of 2022, **Ceremony**, an independently owned café and tea house, was tenant. They had moved from the corner of Angell and Thayer street (the former Tealuxe space) around 2020.
 
 
 ### Design Reception
@@ -96,12 +98,12 @@ All that said, the neighborhood it is a part of is not the historic neighborhood
 
 ### History of 406–410 Brook Street (also 21 Euclid) and 15 Euclid Avenue
 
-We don’t normally include the history of the buildings that this newer one replaced, but we also have not captured photos of those houses, so we are unlikely to have a separate page about them. 
+We don’t normally include the history of the buildings that this newer one replaced, but we also have not captured photos of those houses, so we are unlikely to have a separate page about them.
 
 + 1908 L.J. Richards Map, plate 7 (private collection) — Both houses are present and the lot between them, at what would be 17 Euclid, is empty. It seems odd that a lot large enough for a home in this neighborhood went so long without one.
 + [1920–1921 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102) (page 20) — Both houses are present, though 410 Brook is smaller without an addition on the eastern face (same as in 1908)
 + [1920–1951 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102) (page 20) — A two-story addition has been added to 410 Brook
-+ [1920–1956 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602)  (page 14) — Same configuration
++ [1920–1956 Sanborn Map, Volume 2, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195602) (page 14) — Same configuration
 
 ***
 

@@ -25,8 +25,8 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '224 Benfit St, Providence RI'
-latitude: '41.8263368'
-longitude: '-71.4119607'
+latitude: '41.8263329'
+longitude: '-71.4073473'
 gmap: "https://www.google.com/maps/place/226+Benefit+St,+Providence,+RI+02903/@41.8263368,-71.4119607,17z/data=!3m1!4b1!4m6!3m5!1s0x89e44517cbf0b68f:0xd8196dd0234e339b!8m2!3d41.8263329!4d-71.4073473!16s%2Fg%2F11c5kx48rv?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D"
 street: [ "Benefit St" ]
 street-number: 224

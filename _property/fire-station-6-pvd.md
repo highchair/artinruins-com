@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Brown University', 'College Properties', 'Fire Stations', 'Providence Public Library Digital Collections', 'The Superlatives' ]
@@ -23,9 +23,11 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '88 Benevolent St, Providence RI'
-latitude: '41.824967'
-longitude: '-71.3989797'
-gmap: "https://www.google.com/maps/place/41%C2%B049'29.9%22N+71%C2%B023'54.0%22W/@41.824967,-71.3989797,19z/data=!3m1!4b1!4m4!3m3!8m2!3d41.824966!4d-71.398336"
+latitude: '41.825086'
+longitude: '-71.39835'
+gmap: "https://www.google.com/maps/place/WBRU/@41.8250835,-71.3987108,19.45z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzI5LjkiTiA3McKwMjMnNTQuMCJX!8m2!3d41.824966!4d-71.398336!3m5!1s0x89e4453b0e92b31f:0x5385e9e487998037!8m2!3d41.825086!4d-71.39835!16s%2Fg%2F1tmk9hym?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Benevolent St' ]
+street-number: 88
 
 meta: ""
 excerpt: "A former fire station that had its façade completely replaced by 1970, and home to independent radio station WBRU"
@@ -38,7 +40,7 @@ images:
     caption: 'A vintage postcard from an Ebay seller showing some of the original detailing of this fire station'
     sizes: '1440, 900'
   - url: station-6-ppl-water-witch-01.jpg
-    caption: 'Circa 1940s photo. John Hutchins Cady Research Scrapbooks Collection, Providence Public Library'
+    caption: 'Circa 1940s photo. John Hutchins Cady Research Scrapbooks Collection, Page 78, Providence Public Library'
     sizes: '1440, 900'
   - url: station-6-jh-2023-05-01.jpg
     sizes: '1440, 900'
@@ -58,7 +60,7 @@ images:
 
 mostrecentimage: 2023-05-01
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%253A4861" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> and the Library of Congress'
+imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/vm0110301078">John Hutchins Cady Research Scrapbooks Collection</a> and the Library of Congress'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -67,7 +69,7 @@ imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/ob
 
 ### Redevelopment
 
-We can’t talk about this building without talking about the radio station that operates from it. 95.5 WBRU was a mainstay during our teenage years growing up in the Providence area. Alternative music and the 90s were synonymous with the station. They were the first to play and promote many artists that went on to make grunge famous. 
+We can’t talk about this building without talking about the radio station that operates from it. 95.5 WBRU was a mainstay during our teenage years growing up in the Providence area. Alternative music and the 90s were synonymous with the station. They were the first to play and promote many artists that went on to make grunge famous.
 
 The building went through a major transformation in 1969 as it was converted from a former fire station to a part of Brown University. Previously, its rusticated stone arches, double- and triple-sets of arch topped windows also highlighted with rusticated stone, and stone rope detailing on the front façade corners greatly resemble [Niagara Engine Company number 5]({% link _property/niagara-station-17.md %}) at the corner of Doyle and North Main. Similar cornice, similar double-hip slate roof, and similar stone accents on pointed gothic arches.
 
@@ -76,7 +78,7 @@ Those details were all mostly removed during its conversion. A flat brick façad
 
 ### Current Events
 
-88 Benevolent Street is still home to independent [radio station WBRU](//www.wbru.com){:target="_blank"}. Though not broadcasting on the 95.5 FM channel, BRU continues to promote independent music and the black experience in sound streaming over the internet.
+88 Benevolent Street is still home to independent [radio station WBRU](https://www.wbru.com/). Though not broadcasting on the 95.5 FM channel, BRU continues to promote independent music and the black experience in sound streaming over the internet.
 
 
 ### History
@@ -91,22 +93,22 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 
 These are the same map references as the nearby [Robert H.I. Goddard stable]({% link _property/robert-goddard-stable.md %}) at 100 Benevolent Street.
 
-+ [1900 Sanborn Insurance Map, Volume 2, Plate 119](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002){:target="_blank"} (page 32) — The firehouse is simply labeled “House House” with a smaller portion labeled “Chemical.” In pink, it indicates it was brick, two stories tall, and 24 feet wide. There was a tower on the northeast corner of the building that is no longer present.
-+ [1920–1921 Sanborn Insurance Map, Volume 2, Plate 21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (page 28) — The firehouse is present and labeled simply “Fire Sta. No. 6.” 
-+ [1926–1927 G.M. Hopkins Insurance Map, Plate 19](https://sosri.access.preservica.com/uncategorized/IO_c82222b2-d07d-45bf-9526-99a4d742c58b/){:target="_blank"} — Much the same as the 1921 map but the label reads “Hose Co No. 5” (or at least it looks more like a five in this map).
-+ [1937 G.M. Hopkins Insurance Map, Plate 19](https://sosri.access.preservica.com/uncategorized/IO_d7d0bc6d-2c3f-4e1e-b9d1-e9b4eb580fa8/){:target="_blank"} — Much the same as the 1927 map except the label reads “City Hose 6” (though the six is blurry and it could still be a five).
-+ [1920–1951 Sanborn Insurance Map, Volume 2, Plate 21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (page 28) — Much the same markings as the 1921 map (these updated maps used the 1921 book as the basis and then overlaid updated portions of the map on top) but labelled “Vac.” presumably for Vacant.
++ [1900 Sanborn Insurance Map, Volume 2, Plate 119](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002) (page 32) — The firehouse is simply labeled “House House” with a smaller portion labeled “Chemical.” In pink, it indicates it was brick, two stories tall, and 24 feet wide. There was a tower on the northeast corner of the building that is no longer present.
++ [1920–1921 Sanborn Insurance Map, Volume 2, Plate 21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102) (page 28) — The firehouse is present and labeled simply “Fire Sta. No. 6.” 
++ [1926–1927 G.M. Hopkins Insurance Map, Plate 19](https://sosri.access.preservica.com/uncategorized/IO_c82222b2-d07d-45bf-9526-99a4d742c58b/) — Much the same as the 1921 map but the label reads “Hose Co No. 5” (or at least it looks more like a five in this map).
++ [1937 G.M. Hopkins Insurance Map, Plate 19](https://sosri.access.preservica.com/uncategorized/IO_d7d0bc6d-2c3f-4e1e-b9d1-e9b4eb580fa8/) — Much the same as the 1927 map except the label reads “City Hose 6” (though the six is blurry and it could still be a five).
++ [1920–1951 Sanborn Insurance Map, Volume 2, Plate 21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102) (page 28) — Much the same markings as the 1921 map (these updated maps used the 1921 book as the basis and then overlaid updated portions of the map on top) but labelled “Vac.” presumably for Vacant.
 
 ***
 
 #### Radio Station
 
-There are lots and lots of great links on the web about the radio station’s history. Here are a few of our faviorites and why: 
+There are lots and lots of great links on the web about the radio station’s history. Here are a few of our favorites and why:
 
-+ [Encyclopedia Brunoniana: WBRU](//www.brown.edu/Administration/News_Bureau/Databases/Encyclopedia/search.php?serial=W0120){:target="_blank"} — Penned by Martha Mitchell in 1993, this account from Brown University’s perspective traces the roots of the station started as The Brown Network
-+ [Bracksco: Memories of WBRU in the 1960s](//www.bracksco.com/wbru/history.html){:target="_blank"} — An early account from some of the people who were there as BRU transitioned from a college station for college students to a more broadly listened to station. The fuzzy recollections are argued about at the end of the article
-+ [RIRocks.net: 95.5 WBRU](http://www.rirocks.net/Radio%20Stations/wbru.htm){:target="_blank"} — It says this page is mostly copied from Wikipedia but there are also plenty of details added by the authors about their personal experience
-+ [Wikipedia: WBRU](//en.wikipedia.org/wiki/WBRU){:target="_blank"} — An extensive history but best of all, a list of the firsts, the April Fool’s jokes, the list of Rock Hunt winners, and a list of everyone who played at the Summer Concert Series’
++ [Encyclopedia Brunoniana: WBRU](https://www.brown.edu/Administration/News_Bureau/Databases/Encyclopedia/search.php?serial=W0120) — Penned by Martha Mitchell in 1993, this account from Brown University’s perspective traces the roots of the station started as The Brown Network
++ [Bracksco: Memories of WBRU in the 1960s](https://www.bracksco.com/wbru/history.html) — An early account from some of the people who were there as BRU transitioned from a college station for college students to a more broadly listened to station. The fuzzy recollections are argued about at the end of the article
++ [RIRocks.net: 95.5 WBRU](http://www.rirocks.net/Radio%20Stations/wbru.htm) — It says this page is mostly copied from Wikipedia but there are also plenty of details added by the authors about their personal experience
++ [Wikipedia: WBRU](https://en.wikipedia.org/wiki/WBRU) — An extensive history but best of all, a list of the firsts, the April Fool’s jokes, the list of Rock Hunt winners, and a list of everyone who played at the Summer Concert Series
 
 
 ### In the News

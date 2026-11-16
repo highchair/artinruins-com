@@ -25,8 +25,8 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '21 Planet St, Providence RI'
-latitude: '41.8234948'
-longitude: '-71.4069005'
+latitude: '41.8234908'
+longitude: '-71.4053167'
 gmap: "https://www.google.com/maps/place/21+Planet+St,+Providence,+RI+02903/@41.8234948,-71.4069005,18.38z/data=!4m6!3m5!1s0x89e4453de31a0d01:0xe3c6010f6825152!8m2!3d41.8234908!4d-71.4053167!16s%2Fg%2F11bw4p8cy1?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Planet St' ]
 street-number: 21
@@ -72,14 +72,14 @@ imagescredit: 'Contributions from the <a href="https://drive.google.com/drive/fo
 ### Redevelopment
 
 2015
-: The owner, Walter Bronhard, submitted an application to rezone the property to allow a higher density of dwelling on the property. If approved, this would have allowed the property to be demolished to allow a new building with more units. The City Council denied the request but requested modifications to the application that would have made it more likely to approve. __Source: “Endangered Properties — Owner seeks to raze College Hill house”__
+: The owner, Walter Bronhard, submitted an application to rezone the property to allow a higher density of dwelling on the property. If approved, this would have allowed the property to be demolished to allow a new building with more units. The City Council denied the request but requested modifications to the application that would have made it more likely to approve. _Source: “Endangered Properties — Owner seeks to raze College Hill house”_
 
 2016
 : Exterior work on the deteriorating house was underway but abruptly halted, which allowed broken windows and open doors to introduce the elements and vandalism to the property. The ground floor windows were eventually closed up.
-: Bronhard had intentions to renovate the interior, but was said to have discovered “serious structural issues.” Bronhard requested a permit from the Historic District Commission to raze the building and “reconstruct an architecturally identical version of the property.” __Source: “Endangered Properties — Owner seeks…”__
+: Bronhard had intentions to renovate the interior, but was said to have discovered “serious structural issues.” Bronhard requested a permit from the Historic District Commission to raze the building and “reconstruct an architecturally identical version of the property.” _Source: “Endangered Properties — Owner seeks…”_
 
 January 26, 2017
-: The house is listed on the Providence Preservation Society’s Ten Most Endangered List. __Source: “Endangered Properties — Owner seeks…”__
+: The house is listed on the Providence Preservation Society’s Ten Most Endangered List. _Source: “Endangered Properties — Owner seeks…”_
 
 October 16, 2017
 : The Interstate 195 Redevelopment District Commission voted against a plan that would have moved the historic Welcome Arnold House to site 1A. There is would have served as “a museum of Rhode Island colonial and revolutionary history and a point of departure for Bob Burke's innovative and educational Independence Trail.” Testifying in favor was Patrick Conley, Barnaby Evans, and Friedrich St. Florian. The approval went to a [proposed residential building](https://www.195district.com/parcel-1a/) that has yet to be built.[^1]
@@ -162,9 +162,7 @@ Brent Runyon, executive director of the Providence Preservation Society, said th
 
 Kelleher said Bronhard has invested millions of dollars to restore properties in College Hill, including $2 million on the Burnside House alone. At the Burnside House, the society has said, the masonry is in poor condition, there are missing tiles on the roof, and there is chipping and flaking paint on the doors, windows and trim. The decorative molding on the porch and balcony is “in especially poor condition.”
 
-—
-
-Dunn, Christine. “ENDANGERED PROPERTIES Owner seeks to raze College Hill house.” <em>Providence Journal (RI)</em>, sec. RI News, 20 Feb. 2017, p. A1. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/162ACB70CA6996A0. Accessed 4 Nov. 2024.
+— _Dunn, Christine. “ENDANGERED PROPERTIES Owner seeks to raze College Hill house.” Providence Journal (RI), sec. RI News, 20 Feb. 2017, p. A1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/162ACB70CA6996A0. Accessed 4 Nov. 2024._
 
 ***
 
@@ -202,8 +200,6 @@ Colonial-era structures are extremely resilient. Built with traditional framing 
 
 _Catherine W. Zipf, a monthly contributor, is the executive director of the Bristol Historical and Preservation Society. Isabelle J. Courtney assisted with the research and writing of this article._
 
-—
-
-“History underscores house’s importance.” <em>Providence Journal (RI)</em>, sec. RI Opinion, 27 July 2017, p. A17. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/165E88D302FAD528. Accessed 5 Nov. 2024.
+— _“History underscores house’s importance.” Providence Journal (RI), sec. RI Opinion, 27 July 2017, p. A17. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/165E88D302FAD528. Accessed 5 Nov. 2024._
 
 </details>

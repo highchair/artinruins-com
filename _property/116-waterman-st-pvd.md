@@ -19,8 +19,8 @@ lists: []
 tags: [ 'Apartments for Rent', 'Contemporary', 'Darkitecture' ]
 
 address: '116 Waterman St, Providence RI'
-latitude: '41.82755'
-longitude: '-71.4010164'
+latitude: '41.827546'
+longitude: '-71.3995305'
 gmap: "https://www.google.com/maps/place/116+Waterman+St,+Providence,+RI+02906/@41.82755,-71.4010164,18z/data=!4m6!3m5!1s0x89e44524ae26a263:0x9b511119671d3d1f!8m2!3d41.827546!4d-71.3995305!16s%2Fg%2F11cpdqppzn?entry=ttu"
 street: [ 'Waterman St' ]
 street-number: 116
@@ -139,4 +139,4 @@ Matthew Schaelling said he was for the project and for the adjustments, and that
 
 Christian Roselund was the only person to speak against the surveillance requirement imposed by the Plan Commission and said the development, and more housing, is in the public’s interest.
 
-— Cowperthwaite, Wheeler. “College Hill apartment project approved.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 23 Feb. 2023, p. A6. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/18FDD170984F4828. Accessed 22 May 2024.
+— _Cowperthwaite, Wheeler. “College Hill apartment project approved.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 23 Feb. 2023, p. A6. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/18FDD170984F4828. Accessed 22 May 2024._

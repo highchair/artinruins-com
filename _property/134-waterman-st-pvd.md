@@ -19,9 +19,11 @@ lists: []
 tags: [ 'Apartments for Rent', 'Contemporary', 'Darkitecture' ]
 
 address: '134 Waterman St, Providence RI'
-latitude: '41.827781'
-longitude: '-71.3990603'
-gmap: "https://www.google.com/maps/place/134+Waterman+St,+Providence,+RI+02906/@41.827781,-71.3990603,18z"
+latitude: '41.8277581'
+longitude: '-71.3976359'
+gmap: "https://www.google.com/maps/place/134+Waterman+St,+Providence,+RI+02906/@41.8277948,-71.3996144,18.25z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzQwLjAiTiA3McKwMjMnNTYuNiJX!8m2!3d41.827781!4d-71.3990603!3m5!1s0x89e44524dea5bc6d:0x1cb5e88da06df265!8m2!3d41.8277581!4d-71.3976359!16s%2Fg%2F11md4s_1lj?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Waterman St' ]
+street-number: 134
 
 meta: ""
 excerpt: "A new three story, boxy and flat modern apartment building on an important historic East Side corner"
@@ -71,12 +73,12 @@ Walter Bronhard Real Estate is the developer of this property and more than 30 o
 
 ### Design Reception
 
-William Morgan spoke specifically of this building in passing as he was ruminating on the lack of affordable housing that also looks interesting and pleasing: 
+William Morgan spoke specifically of this building in passing as he was ruminating on the lack of affordable housing that also looks interesting and pleasing:
 
 > Providence desperately needs affordable housing. So, why is it that many of the new apartment buildings — at least downtown and on the East Side — are over-priced, under-built Ubiquiboxes? How do luxury apartments, like those at Hope and Waterman Streets, solve our housing crisis? [Photo caption] A thin veneer of masonry and a wrapping of aluminum siding imprinted with wood grain barely obscure the overall cheapness of these flats at the corner of Hope and Waterman Streets. [Back to main story] This visually crucial and historic East Side corner could have been a showcase of affordable housing rather than just another example of a sheep in sheep’s clothing. […] Even so, it is hard to imagine the neighborhood or the preservationists overcoming the idea that affordable housing means people you don't want in your backyard. We will need to scrap that notion if we are to solve our housing crisis.[^4]
 
 [^4]: Morgan, William. “Affordable Housing Can Be Good Design.” GoLocal Providence, 11 September 2011. Accessed 22 April 2023 from https://www.golocalprov.com/business/affordable-housing-can-be-good-designarchitecture-critic-morgan
 
-While a good critique of this building, which we agree is largely uninspired, it is also an interesting article about <abbr title="Not In My Back Yard">NIMBY</abbr>-ism that can pervade communities that are well-to-do. It might be one of the reasons why the well-heeled communities in Rhode Island have the least affordable housing ([we’re looking at you, Barrington](https://ecori.org/affordable-housing-stock-shrinks-in-some-r-i-towns/)). 
+While a good critique of this building, which we agree is largely uninspired, it is also an interesting article about <abbr title="Not In My Back Yard">NIMBY</abbr>-ism that can pervade communities that are well-to-do. It might be one of the reasons why the well-heeled communities in Rhode Island have the least affordable housing ([we’re looking at you, Barrington](https://ecori.org/affordable-housing-stock-shrinks-in-some-r-i-towns/)).
 
 Back to this building specifically… Yes, its bland, but it could have been so much worse. For the most part we don’t mind it only because it is not hideous. It might be modern in its blocky-ness, but at least its darker wooden and stone colors blends in with the brownstone historic homes around it, including the [Lippitt House](https://www.preserveri.org/lippitt-house-museum) across the street.

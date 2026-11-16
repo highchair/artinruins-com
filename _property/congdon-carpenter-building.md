@@ -13,7 +13,7 @@ date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [ 'Joseph Congdon', 'Francis Wood Carpenter' ]
 lists: [ 'College Hill Historic District', 'HABS HAER', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Library of Congress', 'Providence Public Library Digital Collections', 'The Superlatives' ]
@@ -24,7 +24,7 @@ added-to-NRHP: 'November 10, 1970'
 
 address: '3 Steeple St, Providence RI'
 latitude: '41.8273357'
-longitude: '-71.4119574'
+longitude: '-71.4097687'
 gmap: "https://www.google.com/maps/place/3+Steeple+St,+Providence,+RI+02903/@41.8273357,-71.4119574,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445170e771bcd:0xf72c047b5affdbd5!8m2!3d41.8273357!4d-71.4097687"
 
 meta: ""
@@ -82,12 +82,12 @@ The buildings at 3 through 9 Steeple Street have long been home to restaurants a
 
 Some of the favorite restaurants at the location in more recent memory were the “3 Steeple Street” tavern and the One Up Bar (which eventually became part of the bar downstairs). The third floor was known as “Summer Camp” from about 2003 to 2007, when several people lived there as a large commune and event space.
 
-For a brief time the first floor space transitioned from 3 Steeple Street to Fat Belly’s (2010 to 2016), an Irish-themed pub. In 2009, after a small kitchen fire at New Rivers in 2007, floors 3 an 4 of 3 Steeple Street underwent a renovation and much of the exterior was cleaned and repointed. New owners Capitol Properties turned the upper floors into their corporate headquarters. 
+For a brief time the first floor space transitioned from 3 Steeple Street to Fat Belly’s (2010 to 2016), an Irish-themed pub. In 2009, after a small kitchen fire at New Rivers in 2007, floors 3 an 4 of 3 Steeple Street underwent a renovation and much of the exterior was cleaned and repointed. New owners Capitol Properties turned the upper floors into their corporate headquarters.
 
 From the anecdotes, other businesses included:
 
 + 1950–1960: The Crystal Tap (bar)
-+ 1960s: Armondo’s restaurant (first floor, with 3 Steeple STreet upstairs)
++ 1960s: Armondo’s restaurant (first floor, with 3 Steeple Street upstairs)
 + late 1970s: Simple Plastics
 + 1986–1990: Bryan Clegg Art Supply
 + 1994–1998: Newspeak bookstore and Obsidian video
@@ -127,7 +127,7 @@ After the Civil War, more space was needed so Congdon & Carpenter moved one bloc
 
 _From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 
-3 Steeple Street. George and Smith Owen building, c.1847. Mid- nineteenth century commercial building: 3% stories; brick with stone trim; cleré story monitor roof.
+3 Steeple Street. George and Smith Owen building, c.1847. Mid- nineteenth century commercial building: 3% stories; brick with stone trim; cleréstory monitor roof.
 
 ***
 

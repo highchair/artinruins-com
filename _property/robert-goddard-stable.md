@@ -25,6 +25,8 @@ address: '100 Benevolent St, Providence RI'
 latitude: '41.8251867'
 longitude: '-71.3980019'
 gmap: "https://www.google.com/maps/place/100+Benevolent+St,+Providence,+RI+02906/@41.8251867,-71.3980019,18z/data=!4m6!3m5!1s0x89e4453b1a9aba77:0x33b77e660f45e037!8m2!3d41.8251867!4d-71.3980019!16s%2Fg%2F11c23vrk7x"
+street: [ 'Benevolent St' ]
+street-number: 100
 
 meta: ""
 excerpt: "This former stable is a remnant of a larger house that was razed in the 1940s and now stands as a handsome private home"
@@ -62,7 +64,7 @@ images:
 
 mostrecentimage: 2023-01-01
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A6255" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Secretary of State Digital Collections, and the Library of Congress'
+imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/vm0110601051">John Hutchins Cady Research Scrapbooks Collection</a>, Secretary of State Digital Collections, and the Library of Congress'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -73,7 +75,7 @@ imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/ob
 
 While much is known about the Goddard family, not much is known about “Hopeton House” at 160 Hope Street, the large estate that once stood at the corner of Governor Street in Providence. This stable is all that is left of that estate.
 
-Built in 1885, this handsome stable building facing Benevolent Street was used as a Club House in the 1950s for a local theatre company (possibly affiliated with Brown University). Hopeton House was razed by 1937 (see [Maps](#maps)). A yellowed newspaper clipping in the John Hutchinson Cady Research Scrapbooks collection gives us [a blurry glimpse of what this large home looked like](//provlibdigital.org/islandora/object/islandora%253A5102){:target="_blank"} 
+Built in 1885, this handsome stable building facing Benevolent Street was used as a Club House in the 1950s for a local theatre company (possibly affiliated with Brown University). Hopeton House was razed by 1937 (see [Maps](#maps)). A yellowed newspaper clipping in the John Hutchinson Cady Research Scrapbooks collection gives us [a blurry glimpse of what this large home looked like](https://provlibdigital.org/islandora/object/islandora%253A5102)
 
 #### About Colonel Robert H. I. Goddard
 
@@ -83,9 +85,9 @@ After the war, Colonel Goddard became president of **Goddard Brothers**, the man
 
 [^1]: “Brown and Ives.” National Park Service, Blackstone River Valley. Captured 06 May, 2023 from https://www.nps.gov/blrv/learn/historyculture/brownandives.htm
 
-Colonel Goddard served in the state Senate as an independent, was a leader in the burgeoning Progressive movement, and ran but lost as a Democrat for another state senate seat later in life. In 2009 he was inducted into the [Rhode Island Heritage Hall of Fame](//riheritagehalloffame.com/Colonel-Robert-Goddard/){:target="_blank"} (where much of this information was sourced).
+Colonel Goddard served in the state Senate as an independent, was a leader in the burgeoning Progressive movement, and ran but lost as a Democrat for another state senate seat later in life. In 2009 he was inducted into the [Rhode Island Heritage Hall of Fame](https://riheritagehalloffame.com/Colonel-Robert-Goddard/) (where much of this information was sourced).
 
-In 1927, two of the Colonel’s children gave one of the family estates to the State of Rhode Island to be a park in memorarium. Nearly 490 acres of land on Ives Road in the Potowomut section of Warwick along with a 33-room mansion known as “The Oaks” opened in 1930 as Goddard Memorial Park.[^2] 
+In 1927, two of the Colonel’s children gave one of the family estates to the State of Rhode Island to be a park in memorarium. Nearly 490 acres of land on Ives Road in the Potowomut section of Warwick along with a 33-room mansion known as “The Oaks” opened in 1930 as Goddard Memorial Park.[^2]
 
 [^2]: “Goddard State Memorial Park, 1927.” State of Rhode Island, Division of Parks and Recreation. Captured 06 May, 2023 from https://riparks.com/History/HistoryGoddard.html
 
@@ -115,8 +117,8 @@ _Caption on the John Hutchins Cady Research Scrapbooks Collection photo_
 
 #### Maps
 
-+ [1900 Sanborn Insurance Map, Volume 2, Plate 119](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002){:target="_blank"} (page 32) — The stable is labeled as a 2 1/2 story brick (pink) building with a few small wooden (yellow) outbuildings. The large Hopeton House occupies the northeastern corner of George and Hope Streets while the southeastern corner of Hope and Benevolent is empty.
-+ [1920–1921 Sanborn Insurance Map, Volume 2, Plate 21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (page 28) — Much the same as the 1900 map but with slightly different labels.
-+ [1926–1927 G.M. Hopkins Insurance Map, Plate 19](https://sosri.access.preservica.com/uncategorized/IO_c82222b2-d07d-45bf-9526-99a4d742c58b/){:target="_blank"} — Much the same as the 1921 map but for the newer homes to the north and east of the stable (circled in red).
-+ [1937 G.M. Hopkins Insurance Map, Plate 19](https://sosri.access.preservica.com/uncategorized/IO_d7d0bc6d-2c3f-4e1e-b9d1-e9b4eb580fa8/){:target="_blank"} — While the stable remains the same, the shape of the Hopeton House in the northeast corner of the block has changed enough that we think this is a newer home. This would place the demolition of the Hopeton House between 1927 and 1937.
-+ [1920–1951 Sanborn Insurance Map, Volume 2, Plate 21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (page 28) — The stable is now labelled “Club Ho.” for club house and says “Fr. Gables” (fr. for “former”) under that. The large Hopeton House is gone and a new brick dwelling is in its place. Another new dwelling is in place on the southwestern corner.
++ [1900 Sanborn Insurance Map, Volume 2, Plate 119](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002) (page 32) — The stable is labeled as a 2 1/2 story brick (pink) building with a few small wooden (yellow) outbuildings. The large Hopeton House occupies the northeastern corner of George and Hope Streets while the southeastern corner of Hope and Benevolent is empty.
++ [1920–1921 Sanborn Insurance Map, Volume 2, Plate 21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102) (page 28) — Much the same as the 1900 map but with slightly different labels.
++ [1926–1927 G.M. Hopkins Insurance Map, Plate 19](https://sosri.access.preservica.com/uncategorized/IO_c82222b2-d07d-45bf-9526-99a4d742c58b/) — Much the same as the 1921 map but for the newer homes to the north and east of the stable (circled in red).
++ [1937 G.M. Hopkins Insurance Map, Plate 19](https://sosri.access.preservica.com/uncategorized/IO_d7d0bc6d-2c3f-4e1e-b9d1-e9b4eb580fa8/) — While the stable remains the same, the shape of the Hopeton House in the northeast corner of the block has changed enough that we think this is a newer home. This would place the demolition of the Hopeton House between 1927 and 1937.
++ [1920–1951 Sanborn Insurance Map, Volume 2, Plate 21](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102) (page 28) — The stable is now labelled “Club Ho.” for club house and says “Fr. Gables” (fr. for “former”) under that. The large Hopeton House is gone and a new brick dwelling is in its place. Another new dwelling is in place on the southwestern corner.

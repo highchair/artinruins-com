@@ -18,9 +18,11 @@ lists: [ 'Capital Center Parcels' ]
 tags: [ 'Apartments for Rent', 'Contemporary' ]
 
 address: '1 Park Row West, Providence RI'
-latitude: '41.8292265'
-longitude: '-71.4124586'
+latitude: '41.8291627'
+longitude: '-71.4114286'
 gmap: "https://www.google.com/maps/place/The+Cove-+JWU/@41.8292265,-71.4124586,16z/data=!4m5!3m4!1s0x0:0x8e03cba88075f822!8m2!3d41.8291627!4d-71.4114286"
+street: []
+street-number:
 
 meta: ""
 excerpt: "A seven story low rise condominium complex along the Blackstone River with 255 units — the first phase of a larger residential center"
@@ -79,7 +81,7 @@ imagescredit:
 
 ### Proposal
 
-In 2000 design ideas for this parcel has started to float around. Right alongside the State capitol, any idea that proposed a high rise came under scrutiny — would it detract from the State House? Would views from Benefit Street and College Hill be ruined? 
+In 2000 design ideas for this parcel has started to float around. Right alongside the State capitol, any idea that proposed a high rise came under scrutiny — would it detract from the State House? Would views from Benefit Street and College Hill be ruined?
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <img src="{{ site.propimg_path }}{{ page.slug }}/10-Park-Row.jpg" alt="" />

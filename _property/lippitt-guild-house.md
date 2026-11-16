@@ -7,7 +7,7 @@ update: 'Added a YouTube video and a new story about the move from 142 Angell to
 
 built: '1868'
 demolition:
-redeveloped:
+redeveloped: '2007'
 units:
 decade: '1860-1869'
 date-added: '2010'
@@ -26,6 +26,8 @@ address: '79 Brown St, Providence RI'
 latitude: '41.828202'
 longitude: '-71.402873'
 gmap: "https://www.google.com/maps/place/Peter+B.Green+House,+79+Brown+St,+Providence,+RI+02906/@41.828202,-71.402873,162m/data=!3m1!1e3!4m5!3m4!1s0x89e445232941d1b5:0x9426e37303454718!8m2!3d41.8280761!4d-71.4029079"
+street: [ 'Brown St' ]
+street-number: 79
 
 meta: ""
 excerpt: "This 300-ton house was rotated and moved 450 feet up Olive Street in one piece over the course of three days"
@@ -95,7 +97,7 @@ Of course, all of this couldn’t have been done without a team. Lerner \| Ladds
 
 ### Current Events
 
-Since the move in 2007, [the Sharpe house has been moved to become its neighbor](https://www.brown.edu/news/2020-02-05/history) to the north on Olive Street and the new performing center for the arts is under construction. 
+Since the move in 2007, [the Sharpe house has been moved to become its neighbor](https://www.brown.edu/news/2020-02-05/history) to the north on Olive Street and the new performing center for the arts is under construction.
 
 
 ### History
@@ -128,6 +130,4 @@ As Brown University has grown over the years, new construction projects have oft
 
 “The Walk” project was conceived by R.M. Kliment & Frances Halsband Architects, in consultation with The Walk Advisory Committee, Campus Planning Advisory Board, and the Facilities and Design Committee of the Corporation, and endorsed by the Corporation of Brown University in 2003.
 
-— 
-
-_Captured 03 September 2023 from https://news.brown.edu/articles/2007/07/historic-house-relocates_
+— _Captured 03 September 2023 from https://news.brown.edu/articles/2007/07/historic-house-relocates_

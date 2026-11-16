@@ -19,8 +19,10 @@ tags: [ 'Contemporary' ]
 
 address: '200 Exchange Terrace, Providence RI'
 latitude: '41.8274302'
-longitude: '-71.4149167'
+longitude: '-71.412728'
 gmap: "https://www.google.com/maps/place/Waterplace+Condominiums+Management/@41.8274302,-71.4149167,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44510d089f773:0x3d3045b4eade68c4!8m2!3d41.8274302!4d-71.412728"
+street: []
+street-number:
 
 meta: ""
 excerpt: "A pair of residential towers built during the mid-2000s post 9-11 boom — condos selling at the time for $300k to $1m."

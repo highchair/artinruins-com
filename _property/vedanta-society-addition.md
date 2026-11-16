@@ -19,8 +19,8 @@ lists: []
 tags: [ 'Contemporary' ]
 
 address: '227 Angell St, Providence RI'
-latitude: '41.8281639'
-longitude: '-71.4005603'
+latitude: '41.828140'
+longitude: '-71.398535'
 gmap: "https://www.google.com/maps/place/227+Angell+St,+Providence,+RI+02906/@41.8281639,-71.4005603,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44524e9ffccb9:0x2268c6e80555fcd!8m2!3d41.8281639!4d-71.3983716"
 street: [ 'Angell St' ]
 street-number: 227
@@ -95,7 +95,7 @@ KITE’s design for a major addition for the Vedanta Society is creating new wor
 
 #### Links
 
-+ [Vedanta Society of Providence](//vedantaprov.org){:target="_blank"}
++ [Vedanta Society of Providence](https://vedantaprov.org/)
 
 
 ### Design Reception

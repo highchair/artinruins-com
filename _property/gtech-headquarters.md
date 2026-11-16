@@ -3,7 +3,7 @@ title: "GTECH Headquarters"
 slug: gtech-headquarters
 aka: 'IGT Center'
 date-modified: 2022-01-01 14:00
-update: 'Added an image from <a href="/property/gtech-headquarters/#photo-waterplace-park-ppl-1995-01">PPL’s RI Postcard</a> collection'
+update: 'Added an image from PPL’s RI Postcard collection'
 
 built: '2005-2006'
 parcel: '9'
@@ -18,13 +18,15 @@ designers: [ 'Spagnolo Gisness & Associates', 'William D. Warner' ]
 lists: [ 'Did You Know?', 'Capital Center Parcels' ]
 tags: [ 'Contemporary', 'Providence Public Library Digital Collections' ]
 
-address: '10 Memorial Boulevard, Providence RI'
+address: '10 Memorial Blvd, Providence RI'
 latitude: '41.8266012'
-longitude: '-71.4171431'
+longitude: '-71.4149544'
 gmap: "https://www.google.com/maps/place/10+Memorial+Blvd,+Providence,+RI+02903/@41.8266012,-71.4171431,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451109c8db6b:0xadbc474e81c33bbd!8m2!3d41.8266012!4d-71.4149544"
+street: []
+street-number:
 
 meta: ""
-excerpt: "A modern, 13-story glass box reflecting the mall, the Westin, Union Station, and Waterplace park."
+excerpt: "A modern, 13-story glass box reflecting the mall, the Westin, Union Station, and Waterplace park"
 
 thumbnail: gtech-jh-2020-10-03.jpg
 
@@ -70,7 +72,7 @@ images:
 
 mostrecentimage: 2020-10-01
 
-imagescredit: 'Contribution from the <a href="https://provlibdigital.org/islandora/object/islandora%3A19481">Rhode Island Postcard Collection</a>, Providence Public Library'
+imagescredit: 'Contribution from the <a href="https://provlibdigital.org/islandora/object/pc9022">Rhode Island Postcard Collection</a>, Providence Public Library'
 
 ---
 
@@ -168,5 +170,5 @@ Under the terms of the contract, if the Rhode Island Lottery Commission “obtai
 
 However, under the recently drafted casino legislation, the Rhode Island lottery would not obtain any machines — Harrah’s would handle them directly. Consequently, GTECH would not get 50 percent of the machines. […]
 
-_From [UrbanPlanet.org](https://www.urbanplanet.org/forums/topic/7048-complete-gtech-center/?tab=comments#comment-30656), captured from http://www.projo.com/business/content/projo_20040624_gtk624.161cc5.html_
+— _From [UrbanPlanet.org](https://www.urbanplanet.org/forums/topic/7048-complete-gtech-center/?tab=comments#comment-30656), captured from http://www.projo.com/business/content/projo_20040624_gtk624.161cc5.html_
 

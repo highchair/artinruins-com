@@ -25,8 +25,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '60 Waterman St, Providence RI'
-latitude: '41.8270596'
-longitude: '-71.4077539'
+latitude: '41.8270556'
+longitude: '-71.405179'
 gmap: "https://www.google.com/maps/place/North+Hall/@41.8270596,-71.4077539,17z/data=!3m1!4b1!4m6!3m5!1s0x89e445fb77978b8f:0x35af8a16aea0d0fc!8m2!3d41.8270556!4d-71.405179!16s%2Fg%2F11j7gtb4d5?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Waterman St' ]
 street-number: 60
@@ -148,6 +148,4 @@ In his assessment, tall buildings made out of wood will only become more common 
 
 ”It requires a little bit of risk to demonstrate that a different system may be better,” Tehrani said.
 
-—
-
-Kuffner, Alex. “A clean design.” <em>Providence Journal (RI)</em>, sec. RI News, 13 Apr. 2020, p. A6. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/17A55002235D63F8. Accessed 21 Oct. 2024.
+— _Kuffner, Alex. “A clean design.” <em>Providence Journal (RI)</em>, sec. RI News, 13 Apr. 2020, p. A6. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/17A55002235D63F8. Accessed 21 Oct. 2024._

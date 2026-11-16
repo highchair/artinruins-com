@@ -21,8 +21,8 @@ lists: []
 tags: [ 'Brown University', 'College Properties', 'Contemporary' ]
 
 address: '144 Angell St, Providence RI'
-latitude: '41.8282079'
-longitude: '-71.4025779'
+latitude: '41.8281631'
+longitude: '-71.4021749'
 gmap: "https://www.google.com/maps/place/The+Lindemann+Performing+Arts+Center/@41.8282079,-71.4025779,19z/data=!4m15!1m8!3m7!1s0x89e44509b20b616b:0xb80dd252e438e180!2sThe+Lindemann+Performing+Arts+Center!8m2!3d41.8281631!4d-71.4021749!10e1!16s%2Fg%2F11hv5lwdsv!3m5!1s0x89e44509b20b616b:0xb80dd252e438e180!8m2!3d41.8281631!4d-71.4021749!16s%2Fg%2F11hv5lwdsv?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Angell St' ]
 street-number: 144
@@ -66,7 +66,7 @@ imagescredit:
 
 ### Proposal
 
-The 118,000-square-foot structure opened in October 2023 includes a main musical performance hall, practice rooms, and rehearsal areas. Designed by [architectural firm REX](//rex-ny.com/project/lindemann-brown/) with structural engineering by Odeh Engineers, the structure features many modern and unique approaches.[^1]
+The 118,000-square-foot structure opened in October 2023 includes a main musical performance hall, practice rooms, and rehearsal areas. Designed by [architectural firm REX](https://rex-ny.com/project/lindemann-brown/) with structural engineering by Odeh Engineers, the structure features many modern and unique approaches.[^1]
 
 [^1] “THE LINDEMANN PERFORMING ARTS CENTER AT BROWN UNIVERSITY.” REX Architecture. Accessed 06 September 2024 from https://rex-ny.com/project/lindemann-brown/
 
@@ -117,12 +117,10 @@ Brown’s original plan placed the facility between Angell and Waterman streets 
 
 Five of the buildings were included on the Providence Preservation Society’s [Most Endangered Properties List for 2018](/pps-ten-most/#2018): the Leonard M. Blodgett House, 127 Angell St. (1853); the Edward J. Cushing House, 129 Angell St. (c. 1849); the Lucien Sharpe Carriage House, 135 Angell St. (1885); Norwood House (aka Benjamin Stevens House), 82 Waterman St. (1857); and 86 Waterman St. (1857-1875). […]
 
-Shifting the site will require the [relocation of the 1873 Sharpe House](//www.brown.edu/news/2020-02-05/history), home to the Department of History. Carey said Brown is developing a plan to relocate it next to the Peter Green House on Brown Street.
+Shifting the site will require the [relocation of the 1873 Sharpe House](https://www.brown.edu/news/2020-02-05/history), home to the Department of History. Carey said Brown is developing a plan to relocate it next to the Peter Green House on Brown Street.
 
 With the addition of the performing-arts center and the relocation of Sharpe House, a portion of Olive Street between Thayer and Brown streets that is owned by the university will likely be closed to regular vehicle traffic, Carey said. […]
 
 Brown said it owns more than 130 historical houses and buildings, and [university architect Collette] Creppell said the university has invested “more than $500 million in the preservation of these buildings in the last 12 years alone.”
 
-—
-
-Dunn, Christine. “PROVIDENCE PRESERVATION Brown ends plan to demolish 4 houses Pressed by neighbors, preservationists, university shifts location of proposed performing arts center.” Providence Journal (RI), sec. RI News, 21 Feb. 2018, p. A1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/16A36EED5EC1EAA8. Accessed 6 Sept. 2024.
+— _Dunn, Christine. “PROVIDENCE PRESERVATION Brown ends plan to demolish 4 houses Pressed by neighbors, preservationists, university shifts location of proposed performing arts center.” Providence Journal (RI), sec. RI News, 21 Feb. 2018, p. A1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/16A36EED5EC1EAA8. Accessed 6 Sept. 2024._

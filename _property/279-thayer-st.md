@@ -23,9 +23,9 @@ tags: [ 'Apartments for Rent', 'Contemporary' ]
 
 address: '279 Thayer St, Providence RI'
 latitude: '41.8295648'
-longitude: '-71.4032078'
+longitude: '-71.4006329'
 gmap: "https://www.google.com/maps/place/279+Thayer+St,+Providence,+RI+02906/@41.8295648,-71.4032078,16z/data=!3m1!4b1!4m6!3m5!1s0x89e44523792bea03:0x5c844e36581592b3!8m2!3d41.8295648!4d-71.4006329!16s%2Fg%2F11bw43x6z2?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D"
-street: [ 'Thayer' ]
+street: [ 'Thayer St' ]
 street-number: 279
 
 meta: ""

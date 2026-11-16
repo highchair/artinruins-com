@@ -20,7 +20,7 @@ tags: [ 'Brown University', 'LEED in RI', 'Contemporary' ]
 
 address: '450 Brook St, Providence RI'
 latitude: '41.8299955'
-longitude: '-71.4020938'
+longitude: '-71.3999051'
 gmap: "https://www.google.com/maps/place/450+Brook+St,+Providence,+RI+02906/@41.8299955,-71.4020938,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4452479664f3b:0x2b4a661b0842123c!8m2!3d41.8299955!4d-71.3999051"
 street: [ 'Brook St' ]
 street-number: 450
@@ -91,7 +91,6 @@ This is first new student housing building on Brown’s campus, built by Brown, 
 [^3]: The architect’s website portfolio page about the project, captured March 23, 2022 from https://rawnarch.com/brownwellnessreshall
 
 
-
 ### Design Reception
 
 If our opinion matters, we are unsure about this building. It seems shiny and new now, with a certain kind of modernism that does not immediately scream bland pre-manufactured and off-the-shelf sameness. The variation in mass and punctuations make it less of one large blob and more like a series of interconnected buildings with the same visual theme. It is a stark contrast to its surroundings, and we are not sure if that is good or bad. The new-ish privately-developed dormitory at [257 Thayer Street]({% link _property/257-thayer-st.md %}) was forced by design review to blend in more with its surroundings by using brick and more traditional massing shapes, like the gable-roof-style dormers. It looks now like it is a theme-park version of what “traditional” architecture looks like when compared with this far-more stark and modern Wellness Center.
@@ -112,7 +111,6 @@ The City Plan Commission voted unanimously Monday night in favor of amendments t
 Other stories:
 https://www.browndailyherald.com/article/2021/10/editorial-we-shouldnt-have-to-live-in-wellness-to-live-well
 https://www.browndailyherald.com/article/2021/05/students-move-into-new-health-and-wellness-dorm-for-summer-semester
-
 
 Commission members praised Brown for responding to community concerns, voiced at the commission’s December meeting, about the university’s earlier plan to raze or move five historic buildings to make room for the performing arts center.
 
@@ -139,6 +137,4 @@ Not every speaker was in favor of Brown’s plans. Christopher and Catherine Tom
 
 But commission Vice Chairman Michael Gazdacko said public comments had to be limited to the matter at hand: the two new buildings.
 
-—
-
-Dunn, Christine. “Providence OKs Brown’s new performing arts center and dorm with wellness facilities.” Providence Journal: Web Edition Articles (RI), sec. News, 2 Apr. 2018. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/16B1258B713E8588. Accessed 22 Mar. 2022.
+— _Dunn, Christine. “Providence OKs Brown’s new performing arts center and dorm with wellness facilities.” Providence Journal: Web Edition Articles (RI), sec. News, 2 Apr. 2018. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/16B1258B713E8588. Accessed 22 Mar. 2022._

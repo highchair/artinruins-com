@@ -20,9 +20,9 @@ tags: [ 'Contemporary' ]
 
 address: '257 Thayer St, Providence RI'
 latitude: '41.8288489'
-longitude: '-71.4006592'
+longitude: '-71.4001111'
 gmap: "https://www.google.com/maps/place/257+Thayer+St,+Providence,+RI+02906/@41.8288489,-71.4006592,19z/data=!4m5!3m4!1s0x89e445249c5725a5:0x3e5769d3ec6175f8!8m2!3d41.8288489!4d-71.4001111"
-street: [ 'Thayer' ]
+street: [ 'Thayer St' ]
 street-number: 257
 
 meta: ""
@@ -136,4 +136,4 @@ Brown, while keeping an arm's length from this project, wants more students to l
 
 If unchecked, institutional creep could someday tip College Hill into decline. Without a buffer between its quiet streets and the menace of noise, bustle and ugliness, more families might move to the suburbs, and sell their houses to owners who might break them up into apartments, lowering property values, destabilizing the neighborhood and accelerating a downward spiral that had slowed in recent decades. […]
 
-— BRUSSAT, DAVID. “COMMENTARY — Stop institutional creep on College Hill.” Providence Journal (RI), 1 ed., sec. projoNation, 24 May 2012, p. B7. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152421E6077E1358. Accessed 29 Jan. 2022.
+— _BRUSSAT, DAVID. “COMMENTARY — Stop institutional creep on College Hill.” Providence Journal (RI), 1 ed., sec. projoNation, 24 May 2012, p. B7. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152421E6077E1358. Accessed 29 Jan. 2022._

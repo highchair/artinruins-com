@@ -22,8 +22,10 @@ tags: []
 
 address: '15 Park Row W, Providence RI'
 latitude: '41.828231'
-longitude: '-71.4158908'
+longitude: '-71.4137021'
 gmap: "https://www.google.com/maps/place/15+Park+Row+W,+Providence,+RI+02903/@41.828231,-71.4158908,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44510eacc30d3:0x196b759e565662ec!8m2!3d41.828231!4d-71.4137021"
+street: []
+street-number:
 
 meta: ""
 excerpt: "An early-addition to Capital Center, built next to the new train station after Waterplace Park was created"
@@ -96,7 +98,7 @@ In August 2013, CBRE/New England’s capital markets team completed the sale of 
 
 [^8]: “CBRE/NE sells 117,981 s/f at 15 Park Row West for $13.225 million,” New England Real Estate Journal, August 8, 2013. Captured June 13, 2021 from https://nerej.com/cbre-ne-sells-117-981-s-f-at-15-park-row-west-for-13-225-million
 
-The Big East Conference did not stay at this location for very long, announcing a move to Manhattan in September of 2014.[^9] 2013 also marks a split in the Bog East Conference itself, becoming a basketball conference and a football conference ([deeper history at Wikipedia](//en.wikipedia.org/wiki/Big_East_Conference_(1979–2013){:target="_blank"}).
+The Big East Conference did not stay at this location for very long, announcing a move to Manhattan in September of 2014.[^9] 2013 also marks a split in the Bog East Conference itself, becoming a basketball conference and a football conference ([deeper history at Wikipedia](https://en.wikipedia.org/wiki/Big_East_Conference_(1979–2013)).
 
 [^9]: “BIG EAST Settles into New York City Office Space,” BigEast.com, September 29, 2014. Captured June 13, 2021 from https://www.bigeast.com/news/2014/9/29/BIG_EAST_Settles_into_New_York_City_Office_Space.aspx
 

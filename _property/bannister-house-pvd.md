@@ -14,7 +14,7 @@ date-added: '2023'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places', 'PPS Ten Most Endangered' ]
 tags: [ 'Rhode Island Black Heritage' ]
@@ -26,6 +26,8 @@ address: '93 Benevolent St, Providence RI'
 latitude: '41.8248207'
 longitude: '-71.3985223'
 gmap: "https://www.google.com/maps/place/93+Benevolent+St,+Providence,+RI+02906/@41.8248207,-71.3985223"
+street: [ 'Benevolent St' ]
+street-number: 93
 
 meta: ""
 excerpt: "This narrow, small footprint a hundred fifty year-old house had a prominent African-American artist as a resident for about 20 years"
@@ -70,7 +72,7 @@ This simple, 2½-story home served for a time as the home of prominent artist Ed
 
 The house was placed on the 10 Most Endangered List in 2001 due to a lack of a plan from Brown University to use the building for anything other than storage for refrigerators.
 
-In 2009, the [Rhode Island Black Heritage Society](//riblackheritage.org){:target="_blank"} proposed the relocation of 93 Benevolent Street to Heritage Harbor Museum as part of its “Creative Survival” exhibit. A Brown University spokesperson stated, “Brown recognizes that it is an important historical building, and that’s why we've offered it.”. If the society can raise the necessary funds to move the building, “it’s theirs.” Brown University President Ruth J. Simmons — the first African-American to head an Ivy League university — assured the public that the building will be preserved either way.[^2]
+In 2009, the [Rhode Island Black Heritage Society](https://riblackheritage.org/) proposed the relocation of 93 Benevolent Street to Heritage Harbor Museum as part of its “Creative Survival” exhibit. A Brown University spokesperson stated, “Brown recognizes that it is an important historical building, and that’s why we've offered it.”. If the society can raise the necessary funds to move the building, “it’s theirs.” Brown University President Ruth J. Simmons — the first African-American to head an Ivy League university — assured the public that the building will be preserved either way.[^2]
 
 [^2]: DOWNING, NEIL. “Black contributions kept alive.” Providence Journal (RI), All ed., sec. Local News, 1 Mar. 2009, pp. B-02. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15242491E212B3B8. Accessed 4 Feb. 2023.
 
@@ -121,7 +123,7 @@ The house is older than most maps we have access to. It is present on 1899, 1908
 
 <span id="gowdey"></span>We believe that the cottage they mention further into the following story was the small neighboring house at [89 Benevolent Street]({% link _property/89-benevolent-pvd.md %}), now extant.
 
-_From the Mary A. Gowdey Archives, Providence Presentation Society at [gowdey.ppsri.org](//gowdey.ppsri.org){:target="_blank"}_
+_From the Mary A. Gowdey Archives, Providence Presentation Society at [gowdey.ppsri.org](https://gowdey.ppsri.org/)_
 
 Those who occasionally stroll or drive leisurely along Benevolent Street are wont to wonder about a narrow, red-brick dwelling near Brook Street. It stands just a few feet in from the side-walk, guarded by an iron fence with pointed pales. No grass grows between the fence and the face of the house. The ground there is paved with heavy stone blocks. At the right of the house there is a garden — lovely to see in summer. A gate at the path is securely padlocked.
 

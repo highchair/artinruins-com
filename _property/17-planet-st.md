@@ -23,7 +23,7 @@ tags: [ 'Apartments for Rent', 'Contemporary', 'Darkitecture' ]
 
 address: '17 Planet St, Providence RI'
 latitude: '41.8234587'
-longitude: '-71.4068721'
+longitude: '-71.4055846'
 gmap: "https://www.google.com/maps/place/17+Planet+St,+Providence,+RI+02903/@41.8234587,-71.4068721,18z/data=!4m6!3m5!1s0x89e4453dfd1072c3:0x822dd9dc0ccc2b8d!8m2!3d41.8234587!4d-71.4055846!16s%2Fg%2F11v6wn_77t?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Planet St' ]
 street-number: 17
@@ -86,7 +86,7 @@ The property’s six apartments come up for rent on sites like Zillow and Apartm
 
 ### Nearby History
 
-Not far away, a little to the north, was the site of the [Sabin Tavern](http://www.gaspee.org/SabinTavern.htm) at  182-198 South Main Street. It was in that tavern that the first act of the American Revolution was planned, the burning of the HMS Gaspee. Welcome Arnold, whose first house still stands at 21 Planet Street, later purchased the Sabin Tavern and it remained in the family for 100 years. When the tavern was demolished in 1891, the southeast part of the old tavern was detached, moved, and reattached to the Mary Arnold Talbot house at 209 Williams Street and served as headquarters for the Gaspee Chapter, Daughters of the American Revolution.
+Not far away, a little to the north, was the site of the [Sabin Tavern](http://www.gaspee.org/SabinTavern.htm) at 182-198 South Main Street. It was in that tavern that the first act of the American Revolution was planned, the burning of the HMS Gaspee. Welcome Arnold, whose first house still stands at 21 Planet Street, later purchased the Sabin Tavern and it remained in the family for 100 years. When the tavern was demolished in 1891, the southeast part of the old tavern was detached, moved, and reattached to the Mary Arnold Talbot house at 209 Williams Street and served as headquarters for the Gaspee Chapter, Daughters of the American Revolution.
 {:.o__tldr}
 
 A historic marker stands at the corner of Planet and South Main Streets. The southern side of the marker simply says “HMS Gaspee” while the northern side details the significance of the location.
@@ -113,6 +113,4 @@ The sloped 4,870-square-foot 17 Planet St. property was previously a private par
 
 The property was most recently valued by Providence assessors in fiscal year 2022 as being worth $262,900, according to the city’s online property tax evaluation database. The property is located in a C-2 zone of the city, according to the database.
 
-—
-
-_Captured 06 November 2024 from https://pbn.com/student-housing-under-construction-in-providence-with-2-6m-in-financing/_
+— _Captured 06 November 2024 from https://pbn.com/student-housing-under-construction-in-providence-with-2-6m-in-financing/_

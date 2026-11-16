@@ -18,7 +18,7 @@ tags: [ 'House' ]
 
 address: '2 Thomas St, Providence RI'
 latitude: '41.8276962'
-longitude: '-71.41111'
+longitude: '-71.4089213'
 gmap: "https://www.google.com/maps/place/2+Thomas+St,+Providence,+RI+02903/@41.8276962,-71.41111,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445179efa8db9:0x466e6f4d0b8c16cf!8m2!3d41.8276962!4d-71.4089213"
 street: [ 'North Main St' ]
 street-number: 87
@@ -46,12 +46,12 @@ images:
   - url: two-thomas-jh-2020-10-03.jpg
     sizes: '1200, 900'
 
-imagescredit: 'Contributions by <a href="//www.flickr.com/photos/cthulhuwho1">Will Hart</a>, the Armory Revival Company, and real estate agencies'
+imagescredit: 'Contributions by <a href="https://www.flickr.com/photos/cthulhuwho1">Will Hart</a>, the Armory Revival Company, and real estate agencies'
 ---
 
 ### The Project
 
-An early new construction project in Providence, Two Thomas Street replaced a two-story commercial building and joined new architecture to a mid-19th century structure. Five condominiums were created — three in the new building and two in the renovated attached Greek Revival house. Between the two structures is an entranceway and elevator. 
+An early new construction project in Providence, Two Thomas Street replaced a two-story commercial building and joined new architecture to a mid-19th century structure. Five condominiums were created — three in the new building and two in the renovated attached Greek Revival house. Between the two structures is an entranceway and elevator.
 
 In the words of an archived version of the Armory Revival Website:
 
@@ -125,4 +125,4 @@ Their mother, Nancy, joined Samuel in suing three of Raul’s former partners ov
 
 The case settled with the help of a mediator in a deal that encompassed any potential confusion concerning the operation of the two law firms and Nancy Lovett’s claim to a 5-foot neon Mickey Mouse that lit up at sundown. Under the terms of the mediated agreement, Nancy Lovett got back the neon Mickey Mouse and “shall be free to use or display the artwork at any place she wishes, and in any manner she wishes” — except in or on any building in which a law office is located.
 
-_Captured on October 16, 2020. https://www.providencejournal.com/article/20150711/NEWS/150719800_
+— _Captured on October 16, 2020. https://www.providencejournal.com/article/20150711/NEWS/150719800_
