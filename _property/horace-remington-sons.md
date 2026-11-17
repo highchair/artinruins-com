@@ -22,8 +22,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '91 Friendship St, Providence RI'
-latitude: '41.8211674'
-longitude: '-71.4109277'
+latitude: '41.821045'
+longitude: '-71.410564'
 gmap: "https://www.google.com/maps/place/91+Friendship+St+STE+2,+Providence,+RI+02903/@41.8211674,-71.4109277,20z/data=!4m15!1m8!3m7!1s0x89e44514a173feb3:0x4fe6b6fd6b39587!2sPine+St+%26+Richmond+St,+Providence,+RI+02906!3b1!8m2!3d41.8206158!4d-71.4118249!16s%2Fg%2F11hb6688rk!3m5!1s0x89e44514ecd8c9e9:0xcf175df6c9527d0a!8m2!3d41.8210337!4d-71.4105703!16s%2Fg%2F11hcf7kc1t?entry=ttu"
 street: [ 'Friendship St' ]
 street-number: 91
@@ -91,9 +91,9 @@ The building is part of the Johnson & Wales property. It houses Design & Editori
 
 _From the RIHPHC survey of Providence Industrial Sites, July 1981_
 
-91 **Horace Remington & Sons Company** (1888): Horace Remington entered the silver and gold refining and smelting business as an apprentice in the large refining firm of John Austin & Company and several years later became the firm’s manager. In 1881 Remington formed a partnership with Charles Barber who retired a few years later. When Remington’s son Albert became a partner in 1888, Remington renamed the refining firm Horace Remington & Son. The business incorporated in 1901 as Horace Remington & Sons Company when Remington’s younger sons, Horace E. and Clarence G. Remington, joined the firm. 
+91 **Horace Remington & Sons Company** (1888): Horace Remington entered the silver and gold refining and smelting business as an apprentice in the large refining firm of John Austin & Company and several years later became the firm’s manager. In 1881 Remington formed a partnership with Charles Barber who retired a few years later. When Remington’s son Albert became a partner in 1888, Remington renamed the refining firm Horace Remington & Son. The business incorporated in 1901 as Horace Remington & Sons Company when Remington’s younger sons, Horace E. and Clarence G. Remington, joined the firm.
 
-By the turn-of-the-century Horace Remington & Sons refined nearly a million ounces of silver a year. The business, one of the largest refining companies in the city, was known for its sophisticated machinery and innovative processes. One of Remington’s inventions was a machine capable of mixing (to produce an even quality of metal) 1000 to 6000 pounds of sweepings in two hours time, an operation which traditionally took two workers ten hours to accomplish. Another machine collected the silver or gold dust which rose during the refining process. 
+By the turn-of-the-century Horace Remington & Sons refined nearly a million ounces of silver a year. The business, one of the largest refining companies in the city, was known for its sophisticated machinery and innovative processes. One of Remington’s inventions was a machine capable of mixing (to produce an even quality of metal) 1000 to 6000 pounds of sweepings in two hours time, an operation which traditionally took two workers ten hours to accomplish. Another machine collected the silver or gold dust which rose during the refining process.
 
 When Horace Remington retired in 1923, Horace Remington & Sons was the oldest refining firm in the city. In 1969, when the president and treasurer of the refining company, Horace E. Remington, died, the Horace Remington & Sons Company ceased operations.
 
@@ -150,4 +150,3 @@ The Remington Building was erected in 1888 by Horace Remington, founder of Horac
 For years the building housed jewelry job shops, a jewelry assembly plant, a metal stamping operation, and even student sculptors.
 
 The Outlet Co. acquired it several years ago and all tenants left. In a bidding operation, Weinberg obtained the building for $150,000 and last month sold it to DeStefano.
-

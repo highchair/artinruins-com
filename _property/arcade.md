@@ -23,14 +23,14 @@ NRHP-ref-number: '71000029 (individual)'
 added-to-NRHP: 'May 1971'
 
 address: '130 Westminster St, Providence RI (also 65 Weybosset)'
-latitude: '41.8241709'
-longitude: '-71.4112332'
+latitude: '41.8241705'
+longitude: '-71.410702'
 gmap: "https://www.google.com/maps/place/The+Arcade+Providence/@41.8241709,-71.4112332,167m/data=!3m3!1e3!4b1!5s0x89e44514222cf7a3:0xef84708a8e9f1508!4m5!3m4!1s0x89e445142198f60f:0xac3f2b5e6651f5ea!8m2!3d41.8241705!4d-71.410702"
 street: [ 'Westminster St' ]
 street-number: 130
 
 meta: ""
-excerpt: "This over 190 year old structure survived 170 years as an indoor mall but now is a collection of retail and micro-loft styles residential condos"
+excerpt: "This almost 200-year-old structure survived 170 years as an indoor mall but now is a collection of retail and micro-loft styles residential condos"
 
 thumbnail: arcade-habs-1958-exterior.jpg
 
@@ -78,7 +78,7 @@ images:
   - url: arcade-jh-2003-10-01.jpg
     sizes: '895, 600'
 
-imagescredit: 'Contributions from the Providence Public Library — John Hutchins Cady Research Scrapbook collection (<a href="//provlibdigital.org/islandora/object/islandora%3A5427" target="_blank">north west,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A5918" target="_blank">south east</a>), Rhode Island Postcard collection (<a href="//provlibdigital.org/islandora/object/islandora%3A20299" target="_blank">interior,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A20266" target="_blank">north west,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A5918" target="_blank">south east</a>), Rhode Island Photo collection (<a href="//provlibdigital.org/islandora/object/islandora%3A15025" target="_blank">north west,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12666" target="_blank">south east</a>); HABS/HAER and the Library of Congress (<a href="//www.loc.gov/item/ri0135/" target="_blank">collection of two images</a>)'
+imagescredit: 'Contributions from the Providence Public Library — John Hutchins Cady Research Scrapbook collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A5427">north west,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A5918">south east</a>), Rhode Island Postcard collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A20299">interior,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A20266">north west 2,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A5918">south east 2</a>), Rhode Island Photo collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A15025">north west 3,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A12666" >south east 3</a>); HABS/HAER and the Library of Congress (<a href="https://www.loc.gov/item/ri0135/">collection of two images</a>)'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -100,7 +100,7 @@ January 15, 1828
 : A write up for the Historic American Buildings Survey (<span class="abbr">HABS</span>) and Historic American Engineering Record (<span class="abbr">HAER</span>) was completed with photos for the Library of Congress. The Rhode Island Association for the Blind was still listed as owners. Prepared by Osmund R. Overby, architect.
 
 1970
-: The National Register nomination for was completed for consideration by Antoinette Downing and stamped by the Department of the Interior as “received” in 1971. 
+: The National Register nomination for was completed for consideration by Antoinette Downing and stamped by the Department of the Interior as “received” in 1971.
 
 1980
 : The building is extensively renovated again by architects Irving B. Haynes and Associates and Gilbane Properties. The redevelopment for more modern indoor shopping and retail/office space gave the building a new life. It experienced a boom that would carry it into the early 2000s.[^3]
@@ -118,19 +118,19 @@ January 15, 1828
 : The Arcade cuts back its hours because business is slow in the evening and on Saturday mornings, citing a decline in traffic from downtown workers and visitors to the city. David Roser, property manager, says the new Providence Place Mall “has definitely hurt us.”[^9]
 
 2004
-: After nearly a decade of owning the Arcade, Johnson & Wales decides the shopping center is too costly to run. Merlin A. De Conti Jr., the university’s senior vice president of facilities management, said the Arcade loses about $200,000 a year for security and maintenance. The Rhode Island Association for the Blind, now known as INSIGHT, sold the three-floor building but retained ownership of the land. It was unclear whether the new buyer, 130 Westminster Street Associates, is also the landowner.[^10] 
+: After nearly a decade of owning the Arcade, Johnson & Wales decides the shopping center is too costly to run. Merlin A. De Conti Jr., the university’s senior vice president of facilities management, said the Arcade loses about $200,000 a year for security and maintenance. The Rhode Island Association for the Blind, now known as INSIGHT, sold the three-floor building but retained ownership of the land. It was unclear whether the new buyer, 130 Westminster Street Associates, is also the landowner.[^10]
 
 2008
-: The property is acquired by Granoff Associates. They had a vision to find a single tenant to use the building, and therefore, started to push out the remaining businesses. They gave tenants, some who had been there for more than 20 years, 30 days to vacate. Granoff planned to spend $8 million on renovations. Their plans hinged on a new high rise development called the [One Ten]({% link _property/one-ten-westminster.md %}), which stalled in late 2008. The property sat vacant for a time while the real estate market slowly came back from the recession.[^11] By December, after a lengthened eviction period for tenants, the Arcade closes and the plans to renovate are shelved because of economic uncertainty.[^12] 
+: The property is acquired by Granoff Associates. They had a vision to find a single tenant to use the building, and therefore, started to push out the remaining businesses. They gave tenants, some who had been there for more than 20 years, 30 days to vacate. Granoff planned to spend $8 million on renovations. Their plans hinged on a new high rise development called the [One Ten]({% link _property/one-ten-westminster.md %}), which stalled in late 2008. The property sat vacant for a time while the real estate market slowly came back from the recession.[^11] By December, after a lengthened eviction period for tenants, the Arcade closes and the plans to renovate are shelved because of economic uncertainty.[^12]
 
 May 2011
-: The Arcade is placed on the Preservation Society’s Ten Most Endangered list, after being vacant for three years.[^13] 
+: The Arcade is placed on the Preservation Society’s Ten Most Endangered list, after being vacant for three years.[^13]
 
 January 2012
-: Evan Granoff revealed a $7-million renovation plan to convert the two upper floors of the Arcade into 48 micro-lofts and 14 renovated commercial spaces on the ground floor. Most of these apartments will be less than 270 square feet and include a private bath, small kitchen, built-in bed and seating. Ten others will be larger, from 500 to more than 800 square feet, with two or three bedrooms.[^14] 
+: Evan Granoff revealed a $7-million renovation plan to convert the two upper floors of the Arcade into 48 micro-lofts and 14 renovated commercial spaces on the ground floor. Most of these apartments will be less than 270 square feet and include a private bath, small kitchen, built-in bed and seating. Ten others will be larger, from 500 to more than 800 square feet, with two or three bedrooms.[^14]
 
 September and November 2014
-: Real estate holding company 113 Westminster St. Associates wins a Rhody Project Award for the conversion and modernization of the Arcade.[^15] The Providence Preservation Society awarded the project a Rehabilitation Award as well.[^16] 
+: Real estate holding company 113 Westminster St. Associates wins a Rhody Project Award for the conversion and modernization of the Arcade.[^15] The Providence Preservation Society awarded the project a Rehabilitation Award as well.[^16]
 
 January 2020
 : The Arcade units will switch from rental to condo after the restrictions on tax credits have expired. Tenants had 60 days to convert their leases to mortgages.[^17]
@@ -173,7 +173,7 @@ January 2020
 
 ### Current Events
 
-[The Arcade](//www.arcadeprovidence.com){:target="_blank"} is “micro-loft” condominiums on its upper two levels and small business retail/restaurant space on its first floor. 
+[The Arcade](https://www.arcadeprovidence.com) is “micro-loft” condominiums on its upper two levels and small business retail/restaurant space on its first floor.
 
 
 ### History
@@ -188,7 +188,7 @@ Teams of oxen dragged each column five miles from the Bare Ledge Quarry in Johns
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-130 Westminster **The Arcade** (1828, 1980): Russell Warren and James C. Bucklin, architects; Irving B. Haynes & Associates, architects for the re-modeling. 3-story granite structure with gable roof; skylight extending the length of the building. Weybosset facade — six Ionic columns in antis with full entablature and stepped parapet above. Westminster facade — six Ionic columns in antis with full entablature and pediment above. Original interior of three floors of shops with galleries the length of the building at each level. 
+130 Westminster **The Arcade** (1828, 1980): Russell Warren and James C. Bucklin, architects; Irving B. Haynes & Associates, architects for the re-modeling. 3-story granite structure with gable roof; skylight extending the length of the building. Weybosset facade — six Ionic columns in antis with full entablature and stepped parapet above. Westminster facade — six Ionic columns in antis with full entablature and pediment above. Original interior of three floors of shops with galleries the length of the building at each level.
 
 Built by Cyrus Butler and the Arcade Realty Company, the Arcade was the first major commercial venture on the west side of the Providence River. Since its opening, it has housed small retail enterprises and offices. In 1980, the building underwent substantial rehabilitation to improve its economic vitality. Gilbane Company, a major Providence-based building firm, was the developer. Designated a National Historic Landmark in 1976, it is one of the finest Greek Revival monuments in this country and has special note as a well preserved and major commercial building; it has no peer in the nation.
 
@@ -200,4 +200,4 @@ _From its individual National Register nomination form, prepared by Antoinette F
 
 The Westminster Street (north) front, an Ionic pedimented portico was designed by James Bucklin for Cyrus Butler, the original entrepreneur. Russell Warren, who designed the Weybosset Street was engaged by The Arcade Realty Company. For this front, Warren employed an unpedimented portico with a panelled attic parapet — a scheme he used in variant forms for several of his later buildings.
 
-The interior space, three storeys high, has lengthwise banks of shops facing each other; the upper levels are reached by twin flights of stairs at each end. The stairs connect with galleries running across the end of the building and along its sides, in front of the ranges of shops. These galleries, enclosed by handsome, original cast iron railings, are in turn connected (at second-floor level only by a central cross-gallery or bridge. […]
+The interior space, three storeys [sic] high, has lengthwise banks of shops facing each other; the upper levels are reached by twin flights of stairs at each end. The stairs connect with galleries running across the end of the building and along its sides, in front of the ranges of shops. These galleries, enclosed by handsome, original cast iron railings, are in turn connected (at second-floor level only by a central cross-gallery or bridge. […]

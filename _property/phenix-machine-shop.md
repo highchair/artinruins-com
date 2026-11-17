@@ -13,7 +13,7 @@ date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'Providence Jewelry Manufacturing Historic District', 'Providence Industrial Sites 1981', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places' ]
 tags: []
@@ -21,10 +21,12 @@ tags: []
 NRHP-ref-number: '85003088 (contributing)'
 added-to-NRHP: 'December 1985'
 
-address: '110 Elm Street, Providence RI'
+address: '110 Elm St, Providence RI'
 latitude: '41.8175618'
 longitude: '-71.4102565'
-gmap: "https://www.google.com/maps/place/Brown+Physicians,+Incorporated/@41.8175618,-71.4102565,17z/data=!3m1!5s0x89e4456ac863afcf:0xdd8a5765b540bd98!4m12!1m6!3m5!1s0x89e44ff3e5b6b977:0xa7fe4cb8f782155f!2sBrown+Medicine!8m2!3d41.8189235!4d-71.4102199!3m4!1s0x0:0x94eae407f9296cb7!8m2!3d41.8166111!4d-71.4111214"
+gmap: "https://www.google.com/maps/place/110+Elm+St+Ste+1,+Providence,+RI+02903/@41.8168291,-71.4107339,156m/data=!3m2!1e3!5s0x89e4456b99f4153f:0xd100e8f941e9ea50!4m12!1m5!3m4!2zNDHCsDQ5JzAzLjIiTiA3McKwMjQnMzYuOSJX!8m2!3d41.8175556!4d-71.41025!3m5!1s0x89e4456b9a4b39ad:0x499bc2830e972dc6!8m2!3d41.8166111!4d-71.4111211!16s%2Fg%2F11st85xcsy?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Elm St' ]
+street-number: 110
 
 meta: ""
 excerpt: "A stone mill formerly used as a machine parts manufacturer and now commercial office space"
@@ -83,7 +85,7 @@ imagescredit: 'Contribution by Rick Greenwood for the National Register Form'
 
 ### Current Events
 
-This building is on the edge of the Jewelry District, right around the corner from Imperial Place (former Vesta Knitting Mills). It is a handsome stone mill building, three stories, with a clerstory roof and great rounded archways on one end. The side facing the parking lot has a newer brick elevator tower addition.
+This building is on the edge of the Jewelry District, right around the corner from Imperial Place (former Vesta Knitting Mills). It is a handsome stone mill building, three stories, with a clerestory roof and great rounded archways on one end. The side facing the parking lot has a newer brick elevator tower addition.
 
 We think it was converted into office space during the late-1990s, about 10 years after it was catalogued as part of the historic district nomination. It was home to the Brown University Development Office until about 2018 and is now used by the Brown Physicians Group.
 

@@ -26,7 +26,7 @@ added-to-NRHP: 'December 1985'
 
 address: '60 Ship St, Providence RI'
 latitude: '41.8189205'
-longitude: '-71.4099159'
+longitude: '-71.4097335'
 gmap: "https://www.google.com/maps/place/60+Ship+St,+Providence,+RI+02903/@41.8189205,-71.4099159,17z/data=!4m6!3m5!1s0x89e4456b2e7d85df:0x62c4a8b5e84bdd95!8m2!3d41.8189205!4d-71.4097335!16s%2Fg%2F11c1ylnblj?entry=ttu&g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Ship St' ]
 street-number: 60

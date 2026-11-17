@@ -19,10 +19,12 @@ tags: [ 'College Properties', 'RISD' ]
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
 
-address: '169 Weybosset St #3830, Providence RI'
-latitude: '41.8224684'
-longitude: '-71.4140718'
-gmap: "https://www.google.com/maps/place/RISD+Center+for+Integrative+Technologies+(CIT)%2FMason+Building/@41.8224684,-71.4140718,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451479a67bed:0x19bdfe4823ce1a3a!8m2!3d41.8224644!4d-71.4118831"
+address: '169 Weybosset St, Providence RI'
+latitude: '41.8224644'
+longitude: '-71.4118831'
+gmap: "https://www.google.com/maps/place/RISD+Center+for+Integrative+Technologies+(CIT)%2FMason+Building/@41.8222961,-71.4122308,112m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ5JzIxLjAiTiA3McKwMjQnNDMuMiJX!8m2!3d41.8225017!4d-71.4119858!3m5!1s0x89e4451479a67bed:0x19bdfe4823ce1a3a!8m2!3d41.8224644!4d-71.4118831!16s%2Fg%2F11b7qcjgm8?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Weybosset St' ]
+street-number: 169
 
 meta: ""
 excerpt: "A turn-of-the-century 6-story downtown commercial building that is now part of the RISD campus"
@@ -57,16 +59,16 @@ mostrecentimage: 2006-01-01
 
 ### Redevelopment
 
-In the fall of 2000, <abbr title="the Rhode Island School of Design">RISD</abbr> opened 60 studios for fine arts grad students in the adjacent [Fletcher Building] on Union and Weybosset Streets. In the fall of 2001, it signed a long-term lease for a second building in the downtown arts district: the 48,000-sf John Mason Building. 
+In the fall of 2000, <abbr title="the Rhode Island School of Design">RISD</abbr> opened 60 studios for fine arts grad students in the adjacent [Fletcher Building]({% link _property/fletcher-building.md %}) on Union and Weybosset Streets. In the fall of 2001, it signed a long-term lease for a second building in the downtown arts district: the 48,000-sf John Mason Building. 
 
-[Kennedy & Violich Architects](//www.kvarch.net){:target="_blank"} redesigned the interior spaces and local contractors [Site Specific](//www.sitespecificllc.com){:target="_blank"} handled the buildout. The renovation included a complete gut of interior walls on three levels of the 6-story building to accommodate new classrooms and studio space. All mechanical, electrical and plumbing systems were reworked and new exhaust was installed for state-of-the-art laser cutters and woodworking machines.
+[Kennedy & Violich Architects](https://www.kvarch.net) redesigned the interior spaces and local contractors [Site Specific](https://www.sitespecificllc.com) handled the buildout. The renovation included a complete gut of interior walls on three levels of the 6-story building to accommodate new classrooms and studio space. All mechanical, electrical and plumbing systems were reworked and new exhaust was installed for state-of-the-art laser cutters and woodworking machines.
 
 The Mason building reopened as the <span class="abbr">RISD</span> Center for Integrative Technologies in fall 2003, as a greenhouse for new ideas. The technology center, funded in part by a $2-million grant from the Small Business Administration, houses the Graduate Studies office, a graduate program in digital media, the Interior Architecture Department, computer labs for Continuing Education courses in new media, the RISD/Bryant Center for Design and Business (<span class="abbr">CDB</span>) and incubator space for some of the start-ups the <span class="abbr">CDB</span> advises.
 
 
 ### Current Events
 
-The Center for Integrative Technology provides maker resources and studio space for RISD students, with a focus on digital media, graphic design, art education, and textiles. On the ground floor is a gallery that often activates the window spaces and sometimes has openings available to the public. 
+The Center for Integrative Technology provides maker resources and studio space for <span class="abbr">RISD</span> students, with a focus on digital media, graphic design, art education, and textiles. On the ground floor is a gallery that often activates the window spaces and sometimes has openings available to the public. 
 
 
 ### History

@@ -23,9 +23,11 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '75 Chestnut St, Providence RI'
-latitude: '41.818748'
-longitude: '-71.4115162'
-gmap: "https://www.google.com/maps/place/John+J.+Bowen+Center+For+Science+And+Innovation/@41.818748,-71.4115162,18z/data=!4m5!3m4!1s0x89e4456ca8bc5181:0x3d892f38cdbf523d!8m2!3d41.8191531!4d-71.4125047"
+latitude: '41.8191289'
+longitude: '-71.4125299'
+gmap: "https://www.google.com/maps/place/John+J.+Bowen+Center+for+Science+and+Innovation/@41.8189884,-71.4128693,115m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ5JzA3LjUiTiA3McKwMjQnNDEuNSJX!8m2!3d41.818748!4d-71.4115162!3m5!1s0x89e4456ca8bc5181:0x3d892f38cdbf523d!8m2!3d41.8191289!4d-71.4125299!16s%2Fg%2F11g6m8sxvy?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Chestnut St' ]
+street-number: 75
 
 meta: ""
 excerpt: "A brand-new Johnson & Wales facility and the first project to break ground where I-195 used to be"
@@ -66,7 +68,7 @@ imagescredit:
 
 ### Proposal
 
-Johnson & Wales (<span class="abbr">JWU</span>) started working with the city on acquiring a portion of the land that would be ready for development in the early 2000s. The land was purchased in 2012 for $3.9 million.[^1] Once the land was cleared and utilities were hooked up, <span class="abbr">JWU</span> eagerly began construction on a $42 million, 71,000 square foot new home for their School of Engineering & Design and biology program. The building is named after the University chancellor. 
+Johnson & Wales (<span class="abbr">JWU</span>) started working with the city on acquiring a portion of the land that would be ready for development in the early 2000s. The land was purchased in 2012 for $3.9 million.[^1] Once the land was cleared and utilities were hooked up, <span class="abbr">JWU</span> eagerly began construction on a $42 million, 71,000 square foot new home for their School of Engineering & Design and biology program. The building is named after the University chancellor.
 
 [^1]: BRAMSON, KATE. “Providence \| JWU to expand on Route 195 land.” Providence Journal (RI), 1 ed., sec. News, 3 Sept. 2014, p. MAIN_01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15241C5FF0A994A0. Accessed 19 Feb. 2022.
 
@@ -74,7 +76,7 @@ Johnson & Wales (<span class="abbr">JWU</span>) started working with the city on
 
 [^2]: Ibid.
 
-While it was a sweat heart deal, the state allowed the University to purchase only two irregularly-shaped parcels adjacent to land it already owned. <span class="abbr">JWU</span> had their eyes set on a third parcel, but the legislature thought this “gateway” parcel was too lucrative to earmark for a deal before they hit the open market.[^3] 
+While it was a sweat heart deal, the state allowed the University to purchase only two irregularly-shaped parcels adjacent to land it already owned. <span class="abbr">JWU</span> had their eyes set on a third parcel, but the legislature thought this “gateway” parcel was too lucrative to earmark for a deal before they hit the open market.[^3]
 
 [^3]: Ibid.
 
@@ -90,7 +92,7 @@ _From SchoolDesigns.com_
 
 **Design team:** Edward Rowse Architects, Inc., Dimeo Construction (Construction Manager), Odeh Engineers (Structural Engineering), Thorton Tomasetti (<span class="abbr">LEED</span> Consultant), Woodard & Curran (Civil Engineering), BR+A (M/E/P/FP Engineering), Birchwood Design Group (Landscape Architect)
 
-[…] The space consists of four science labs; 19 classrooms including technology and computer labs; presentation space; faculty offices; and a café. They all combine to create a collaborative and interdisciplinary learning environment. The lobby is used as a gallery to display project work and host events. At street level is an Innovation Laboratory / Maker’s Space featuring wide windows with display areas that enable pedestrians to see in; it is an active engineering lab. 
+[…] The space consists of four science labs; 19 classrooms including technology and computer labs; presentation space; faculty offices; and a café. They all combine to create a collaborative and interdisciplinary learning environment. The lobby is used as a gallery to display project work and host events. At street level is an Innovation Laboratory / Maker’s Space featuring wide windows with display areas that enable pedestrians to see in; it is an active engineering lab.
 
 […] The design creates a central hub on campus where students and faculty come together and benefit from a variety of spaces to meet, collaborate on projects, and use the technology resources for hands-on learning. The building aims to achieve <span class="abbr">LEED</span> Silver certification and comply with National Grid’s Advanced Buildings Program for increased energy efficiency.[^4]
 
@@ -116,6 +118,4 @@ This significant investment would not be possible without the foresight, persist
 
 We in higher education have an enormous responsibility to educate and prepare our students for careers, citizenship and community. Since 1914, when our founders Gertrude I. Johnson and Mary T. Wales, launched their innovative experiential learning model, the university has given students the opportunity to acquire the knowledge and skills necessary to compete in the marketplace. As market demand changes to meet the needs of employers, Johnson & Wales adapts, preparing its graduates entering the workforce.
 
-—
-
-“First 195 facility points to R.I.’s future.” Providence Journal (RI), sec. RI Opinion, 1 Sept. 2016, p. 15. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15F215A240FFC0A8. Accessed 19 Feb. 2022.
+— _“First 195 facility points to R.I.’s future.” Providence Journal (RI), sec. RI Opinion, 1 Sept. 2016, p. 15. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15F215A240FFC0A8. Accessed 19 Feb. 2022._

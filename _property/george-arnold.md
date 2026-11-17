@@ -21,8 +21,10 @@ added-to-NRHP: 'February 10, 1984'
 
 address: '100 Washington St, Providence RI'
 latitude: '41.8231342'
-longitude: '-71.4166677'
+longitude: '-71.414479'
 gmap: "https://www.google.com/maps/place/100+Washington+St,+Providence,+RI+02903/@41.8231342,-71.4166677,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44513b0451c6d:0x52f156e2d5c68403!8m2!3d41.8231342!4d-71.414479"
+street: [ 'Washington St' ]
+street-number: 100
 
 meta: ""
 excerpt: "At only 12 1/2 feet deep, the George Arnold building is an anomoly in the Downtown Historic District"
@@ -79,25 +81,25 @@ imagescredit: 'Contributions from Robert Brewster for the National Register, Jef
 
 ### Redevelopment
 
-In the late 1990s, the adjacent and mutually supporting structure behind the George Arnold building was torn down for surface parking (Plymouth Building, 106–112 Mathewson Street, listing Central Real Estate business as occupant[^1]). Many thought this narrow building would not survive, as its back wall was actually the wall of the adjacent building. 
+In the late 1990s, the adjacent and mutually supporting structure behind the George Arnold building was torn down for surface parking (Plymouth Building, 106–112 Mathewson Street, listing Central Real Estate business as occupant[^1]). Many thought this narrow building would not survive, as its back wall was actually the wall of the adjacent building.
 
 [^1]: G.M. Hopkins cadastral map, published 1937. Copy used for reference at Historic Map Works, captured December 12, 2020. http://www.historicmapworks.com/Map/US/895458/Plate+001/Providence+1937/Rhode+Island/
 
-While the ground-floor retail spaces of this building were occupied for over 10 years up until 2009, the upper floors were decaying from years of under-use and neglect. In 2009, a mysterious fire damaged the upper floors. The building would appear on [PPS’s Ten Most Endangered List](//guide.ppsri.org/property/george-c-arnold-building){:target="_blank"} three year in a row — 2010, 2011, and 2012. 
+While the ground-floor retail spaces of this building were occupied for over 10 years up until 2009, the upper floors were decaying from years of under-use and neglect. In 2009, a mysterious fire damaged the upper floors. The building would appear on [PPS’s Ten Most Endangered List](https://guide.ppsri.org/property/george-c-arnold-building) three year in a row — 2010, 2011, and 2012.
 
-In 2013 it was acquired by a private developer with support from the Providence Revolving Fund and the Providence Redevelopment Agency for redevelopment and reuse. 
+In 2013 it was acquired by a private developer with support from the Providence Revolving Fund and the Providence Redevelopment Agency for redevelopment and reuse.
 
 
 ### Current Events
 
-A grand opening was held in 2016. Two ground-floor business occupy the space — including the local food truck favorite [Frisky Fries](//www.friskiefries.com){:target="_blank"} — and three apartments occupy the other two floors.
+A grand opening was held in 2016. Two ground-floor business occupy the space — including the local food truck favorite [Frisky Fries](https://www.friskiefries.com) — and three apartments occupy the other two floors.
 
 
 ### History
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-A three-story, brick-sheathed structure with mid-20th-century storefronts; 7-bay pier-and-spandrel system on upper stories with Chicago windows and decorative metal spandrels; decorative boxed copper cornice supported by consoles. Erected by a real-estate developer whose house still stands in Elmwood at 238 Adelaide Avenue, the George C. Arnold Building is a handsome structure typical of the low-rise structures built in the area during the years following the Great War. 
+A three-story, brick-sheathed structure with mid-20th-century storefronts; 7-bay pier-and-spandrel system on upper stories with Chicago windows and decorative metal spandrels; decorative boxed copper cornice supported by consoles. Erected by a real-estate developer whose house still stands in Elmwood at 238 Adelaide Avenue, the George C. Arnold Building is a handsome structure typical of the low-rise structures built in the area during the years following the Great War.
 
 Only 12 1/2-feet deep, the George C. Arnold Building is the narrowest office building Downtown. Arnold apparently built this narrow structure after he discovered the building to its rear on Mathewson Street occupied a small portion of Arnold property — thus this building uses the infringing portion of the adjacent structure as its rear wall. The Arnold family, which still owns this structure and the one at 120-130 Washington Street (just across Mathewson Street), has held property in this area since at least the middle of the 19th century.
 
@@ -120,6 +122,7 @@ Developers Dave Stem and Lori Quinn, in partnership with the the Providence Revo
 
 The developers plan to build three apartments and two ground-floor commercial spaces within the narrow, three-story building.
 
+***
 
 #### 3 Downcity Buildings Could Be Razed
 
@@ -135,11 +138,11 @@ The owners of the buildings have submitted applications for city demolition perm
 
 They are:
 
-The vacant three-story [Providence National Bank]({% link _property/providence-national-bank.md %}) building, which was the longtime home of Fleet Bank’s trust department but is sometimes referred to by the name of a more recent tenant, the former Downing Corp. Carrying two addresses, 90 Westminster St. and 30 Weybosset St., the building stretches from one street to another, angled like a slightly closed elbow. The Colonial Revival brick frontage on Westminster dates to 1929 and the Weybosset frontage, also inspired by classical design, to 1950. 
+The vacant three-story [Providence National Bank]({% link _property/providence-national-bank.md %}) building, which was the longtime home of Fleet Bank’s trust department but is sometimes referred to by the name of a more recent tenant, the former Downing Corp. Carrying two addresses, 90 Westminster St. and 30 Weybosset St., the building stretches from one street to another, angled like a slightly closed elbow. The Colonial Revival brick frontage on Westminster dates to 1929 and the Weybosset frontage, also inspired by classical design, to 1950.
 
 (**A.I.R.**: As of December 2005, [90 Westminster St]({% link _property/providence-national-bank.md %}) was razed for a new development that never happened, the [OneTen]({% link _property/one-ten-westminster.md %}).)
 
-The vacant [First Federal Savings and Loan]({% link _property/first-federal-bank.md %}) building at 110 Westminster St., adjacent to The Arcade, a national historic landmark. The two-story building carries the signs of a former tenant, the Buck A Book store. 
+The vacant [First Federal Savings and Loan]({% link _property/first-federal-bank.md %}) building at 110 Westminster St., adjacent to The Arcade, a national historic landmark. The two-story building carries the signs of a former tenant, the Buck A Book store.
 
 (**A.I.R.**: This building was razed in December 2005 as well for the [OneTen]({% link _property/one-ten-westminster.md %}).)
 

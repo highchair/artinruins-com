@@ -22,9 +22,9 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '425 Richmond St, Providence RI'
-latitude: '41.8157286'
-longitude: '-71.4085934'
-gmap: "https://www.google.com/maps/place/425+Richmond+St,+Providence,+RI+02903/@41.8157286,-71.4085934,18z/data=!4m6!3m5!1s0x89e4456a65187fef:0x9eae9ea0898cea27!8m2!3d41.8159046!4d-71.407027!16s%2Fg%2F11c23pk1d7?entry=ttu"
+latitude: '41.8159046'
+longitude: '-71.407027'
+gmap: "https://www.google.com/maps/place/425+Richmond+St,+Providence,+RI+02903/@41.815745,-71.4084192,18.66z/data=!4m12!1m5!3m4!2zNDHCsDQ4JzU2LjYiTiA3McKwMjQnMzAuOSJX!8m2!3d41.8157286!4d-71.4085934!3m5!1s0x89e4456a65187fef:0x9eae9ea0898cea27!8m2!3d41.8159046!4d-71.407027!16s%2Fg%2F11c23pk1d7?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Richmond St' ]
 street-number: 425
 
@@ -93,7 +93,7 @@ The buildings and business were too small (dare we say inconsequential?) to have
 
 #### Architecture
 
-The buildings were built together over the course of about twenty years. The first garage and later garage building on the north end of the property are both one story brick structures with a parapet wall and garage door openings. The 1918 structure is narrow and deep with a symmetrical façade and a stepped parapet. The larger building has a slanted parapet and an old wooden hand-painted sign in which one can barely read “Refiners — Handy & Harman — (indistinguishable).” The smallest building on the south side of the property was originally a gas station. It is square with a chamfered corner, made of cement block, with garage door openings on the southern and western walls as well as a wooden ell on the western wall. 
+The buildings were built together over the course of about twenty years. The first garage and later garage building on the north end of the property are both one story brick structures with a parapet wall and garage door openings. The 1918 structure is narrow and deep with a symmetrical façade and a stepped parapet. The larger building has a slanted parapet and an old wooden hand-painted sign in which one can barely read “Refiners — Handy & Harman — (indistinguishable).” The smallest building on the south side of the property was originally a gas station. It is square with a chamfered corner, made of cement block, with garage door openings on the southern and western walls as well as a wooden ell on the western wall.
 
 
 ### Current Events
@@ -138,4 +138,4 @@ Initially, Paolino said he’ll use the Coletta’s space for parking. He said o
 
 Phone calls to Coletta’s manager were not returned. City assessor’s records indicate the property is now owned by Black Duck Realty LLC and B&M Realty LLC and was assessed this year at $2.37 million.
 
-— Bramson, Kate. “Real estate - Paolino to buy Jewelry District site. Ex-mayor expects to close in mid-June on 2-acre parcel that includes Coletta’s Garage.” <em>Providence Journal (RI)</em>, sec. RI News, 9 June 2016, p. 10. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15D66627AAE798C8. Accessed 23 June 2024.
+— _Bramson, Kate. “Real estate - Paolino to buy Jewelry District site. Ex-mayor expects to close in mid-June on 2-acre parcel that includes Coletta’s Garage.” Providence Journal (RI), sec. RI News, 9 June 2016, p. 10. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15D66627AAE798C8. Accessed 23 June 2024._

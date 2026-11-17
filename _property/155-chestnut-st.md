@@ -19,9 +19,11 @@ lists: [ 'PPS Ten Most Endangered' ]
 tags: [ 'Contemporary', 'Never Built', 'Vaporscraper' ]
 
 address: '151-155 Chestnut St, Providence RI'
-latitude: '41.8181339'
-longitude: '-71.4126298'
+latitude: '41.8181299'
+longitude: '-71.4104411'
 gmap: "https://www.google.com/maps/place/151+Chestnut+St,+Providence,+RI+02903/@41.8181339,-71.4126298,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456b1583cf3b:0xf0272666caa1e96f!8m2!3d41.8181299!4d-71.4104411"
+street: [ 'Chestnut St' ]
+street-number: 153
 
 meta: ""
 excerpt: "A proposed 12-story modular building comprised of individual apartments pre-built and stacked in place was designed but never built"

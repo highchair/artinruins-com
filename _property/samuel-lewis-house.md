@@ -22,8 +22,8 @@ NRHP-ref-number: '85003088 (contributing)'
 added-to-NRHP: 'December 1985'
 
 address: '137 Chestnut St, Providence RI'
-latitude: '41.8183161'
-longitude: '-71.413122'
+latitude: '41.8183121'
+longitude: '-71.4105471'
 gmap: "https://www.google.com/maps/place/137+Chestnut+St,+Providence,+RI+02903/@41.8183161,-71.413122,17z/data=!3m1!4b1!4m6!3m5!1s0x89e4456b3f9f7b1d:0x44bd6cb183b89972!8m2!3d41.8183121!4d-71.4105471!16s%2Fg%2F11c5ky1grz?entry=ttu"
 street: [ 'Chestnut St' ]
 street-number: 137
@@ -65,7 +65,7 @@ images:
 
 mostrecentimage: 2023-03-01
 
-imagescredit: 'Contributions by Rick Greenwood, <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>'
+imagescredit: 'Contributions by Rick Greenwood, <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -85,7 +85,7 @@ In its early life, the house was a residence. It was built by Samuel Lewis, a br
 
 [^2]: Typewritten sheet on 137 Chestnut Street, part of the Mary Gowdey collection, Providence Preservation Society. Captured 10 February 2024 from https://gowdey.ppsri.org/gowdey/Chestnut/137%20Chestnut%20St.pdf
 
-The National Register nomination form notes the significance of the district and this property specifically: 
+The National Register nomination form notes the significance of the district and this property specifically:
 
 > One of the houses in the district, 137 Chestnut Street, is significant for its associations with two prominent members of a Providence family, Thomas A. Doyle and his sister, Sarah E. Doyle. Thomas A. Doyle was mayor of Providence for eighteen years between 1864 and 1886, during which time he oversaw the completion of numerous public works and the improvement of the city services. Sarah E. Doyle, as a teacher in the Providence High School and a leading advocate for the establishment of the coeducational Rhode Island School of Design and the Pembroke College for Women associated with Brown University, was one of the most effective spokesmen for women’s education in Rhode Island and the nation in the late 19th and early 20th
 centuries.[^3]
@@ -100,7 +100,7 @@ As mayor, Thomas Doyle was significant, having served a total of 18 years over t
 
 [^5]: Wikipedia, “Thomas A. Doyle (mayor).” Captured 10 February 2024 from https://en.wikipedia.org/wiki/Thomas_A._Doyle_(mayor)
 
-Sarah Doyle (1830–1922) founded the **Women’s Club** in 1886 and served as its first president. She was a member of the women’s committee that created the **Rhode Island School of Design**. She was the first women to receive an honorary degree from Brown University, and through her friendship with President Elisha Benjamin Andrews, established a separate women’s college. Doyle formed the **Rhode Island Society for the Collegiate Education of Women** in 1896. The group raised funds to construct [Pembroke Hall (Wikipedia)](//en.wikipedia.org/wiki/Pembroke_College_in_Brown_University) on university land.[^6]
+Sarah Doyle (1830–1922) founded the **Women’s Club** in 1886 and served as its first president. She was a member of the women’s committee that created the **Rhode Island School of Design**. She was the first women to receive an honorary degree from Brown University, and through her friendship with President Elisha Benjamin Andrews, established a separate women’s college. Doyle formed the **Rhode Island Society for the Collegiate Education of Women** in 1896. The group raised funds to construct [Pembroke Hall (Wikipedia)](https://en.wikipedia.org/wiki/Pembroke_College_in_Brown_University) on university land.[^6]
 
 [^6]: Typewritten sheet on 137 Chestnut Street.
 
@@ -110,7 +110,7 @@ The house was purchased in 1903 and presumably, Sarah and Charlotte moved to ano
 
 By 1951, the two-story commercial/industrial flat-roofed warehouse building had been constructed and connected to the southern side of the house.
 
-In 1988 the home underwent a renovation and remains in much the same condition. 
+In 1988 the home underwent a renovation and remains in much the same condition.
 
 
 ### Current Events
@@ -165,7 +165,7 @@ The property has been beautifully restored and is being used as a pub.”
 #### Maps
 
 + [1920 Sanborn Insurance Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (page 23) — Labelled the “Egan Mach. Tool Co.”, the building stands alone on the corner without the warehouse to the south. Interestingly, to the east is a building no longer extant at 147 Chestnut labelled “Emergency Hospital”.
-+ [1937 G.M. Hopkins Insurance Map](//sosri.access.preservica.com/uncategorized/IO_edbc5f46-052f-4b47-8f13-458f6b4cbefe/) — The house stands alone. The entire plot is labelled “M. Robinson” while the hospital building next door is labelled “Swan Point Cemetery Properties.” Maurice Robinson owned the house and operated the “Jewelry Casting Company” from 1932 until 1939.[^8]
++ [1937 G.M. Hopkins Insurance Map](https://sosri.access.preservica.com/uncategorized/IO_edbc5f46-052f-4b47-8f13-458f6b4cbefe/) — The house stands alone. The entire plot is labelled “M. Robinson” while the hospital building next door is labelled “Swan Point Cemetery Properties.” Maurice Robinson owned the house and operated the “Jewelry Casting Company” from 1932 until 1939.[^8]
 + [1920–1951 Sanborn Insurance Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101) (page 23) — The cement block building now stands to the south, connected by a small passageway. It is noted that the new building is brick-faced. The shape of the former emergency hospital is still to the east but it is not labelled as such.
 
 [^8]: Ibid.
@@ -222,6 +222,4 @@ But Jones has changed that. “I like it here because I can do something here wi
 
 He can preserve a neighborhood, playing the game of giants.
 
-—
-
-O'NEILL, JAMES M.. “Developer to renew Jewelry District Envisions block as the ‘front yard’ for the section.” Providence Journal (RI), CITY ed., sec. NEWS, 18 July 1988, pp. C-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525262459922C50. Accessed 10 Feb. 2024.
+— _O'NEILL, JAMES M.. “Developer to renew Jewelry District Envisions block as the ‘front yard’ for the section.” Providence Journal (RI), CITY ed., sec. NEWS, 18 July 1988, pp. C-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525262459922C50. Accessed 10 Feb. 2024._

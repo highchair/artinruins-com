@@ -24,7 +24,7 @@ added-to-NRHP: 'February 10, 1984'
 
 address: '15 Westminster St, Providence RI'
 latitude: '41.8253435'
-longitude: '-71.4116487'
+longitude: '-71.40946'
 gmap: "https://www.google.com/maps/place/15+Westminster+St,+Providence,+RI+02903/@41.8253435,-71.4116487,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44573c411eb4f:0xf50a69928445e0b5!8m2!3d41.8253435!4d-71.40946"
 street: [ 'Westminster St' ]
 street-number: 15
@@ -73,7 +73,7 @@ images:
 
 mostrecentimage: 2021-06-01
 
-imagescredit: 'Contributions from the John Hutchins Cady Research Scrapbooks collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A5485">drawing,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A5781">photo</a>), Rhode Island Photographs Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A15182">photo</a>), Providence Public Library; Frank Mullin; PDXStreecar, and Woneffe'
+imagescredit: 'Contributions from the John Hutchins Cady Research Scrapbooks collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A5485">drawing,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A5781">photo 1</a>), Rhode Island Photographs Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A15182">photo 2</a>), Providence Public Library; Frank Mullin; PDXStreecar; and Woneffe'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -107,11 +107,13 @@ With a combination of old architecture and modern design, the library was named 
 
 For the history of the banking institution, [RI Currency](https://www.ricurrency.com/bank-name/rhode-island-hospital-trust/) has a fantastic write up.
 
+***
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
 Same as the write up below, written only three years earlier.
 
+***
 
 _From “Downtown Providence: Statewide Historical Preservation Report P-P-5,” prepared by the RIHPHC, May 1981_
 

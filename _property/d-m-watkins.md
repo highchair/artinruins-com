@@ -15,7 +15,7 @@ date-added: '2006'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'PPS Preservation Awards', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'College Properties', 'Johnson & Wales University' ]
@@ -25,8 +25,10 @@ added-to-NRHP:
 
 address: '274 Pine St, Providence RI'
 latitude: '41.8179331'
-longitude: '-71.4162618'
+longitude: '-71.4140731'
 gmap: "https://www.google.com/maps/place/274+Pine+St,+Providence,+RI+02903/@41.8179331,-71.4162618,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456cf12b6659:0xed39a8ba51e96d5a!8m2!3d41.8179331!4d-71.4140731"
+street: [ 'Pine St' ]
+street-number: 274
 
 meta: ""
 excerpt: "A low slung jewelry manufacturing building on the edge of the Jewelry District is now the main Student Services Center for Johnson & Wales University"

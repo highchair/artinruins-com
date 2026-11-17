@@ -22,9 +22,9 @@ NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
 
 address: '236-250 Westminster St, Providence RI'
-latitude: '41.8228045'
-longitude: '-71.4124497'
-gmap: "https://www.google.com/maps/place/The+Alice+Building/@41.8228045,-71.4124497,15z/data=!4m5!3m4!1s0x0:0xa9b1396cf0be82d2!8m2!3d41.8228045!4d-71.4124497"
+latitude: '41.822801'
+longitude: '-71.4124567'
+gmap: "https://www.google.com/maps/place/The+Alice+Building/@41.8227612,-71.4129545,112m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ5JzIxLjAiTiA3McKwMjQnNDMuMiJX!8m2!3d41.8225017!4d-71.4119858!3m5!1s0x89e4451388d00001:0xa9b1396cf0be82d2!8m2!3d41.822801!4d-71.4124567!16s%2Fg%2F11hy9nrbsk?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Westminster St' ]
 street-number: 250
 
@@ -79,7 +79,7 @@ imagescredit: 'Contribution by Google Streetview and Cornish Associates'
 
 ### Redevelopment
 
-The redevelopment of this commercial block was the first for [Cornish Associates]({% link designer/cornish-associates.html %}), early proponents of bringing residents downtown. Arnold “Buff” Chace’s vision was spurred on by a 1994 report called “Downcity Providence: Master plan and implementation plan.” The report was crafted by Andres Duany and Elizabeth Palter-Zyberk, best known for their pioneering work in [New Urbanism](//en.wikipedia.org/wiki/New_Urbanism){:target="_blank"}, over the course of two years of research and observation.
+The redevelopment of this commercial block was the first for [Cornish Associates]({% link designer/cornish-associates.html %}), early proponents of bringing residents downtown. Arnold “Buff” Chace’s vision was spurred on by a 1994 report called “Downcity Providence: Master plan and implementation plan.” The report was crafted by Andres Duany and Elizabeth Palter-Zyberk, best known for their pioneering work in [New Urbanism](https://en.wikipedia.org/wiki/New_Urbanism), over the course of two years of research and observation.
 
 The report led to the development of Westminster Street as a mixed-use commercial and residential corridor, shifting from heavily commercial to heavily residential. It helped the City create the Downcity Arts and Entertainment District which was passed by then-mayor Cianci in 1996. This program was the first of its kind in the country.
 
@@ -88,17 +88,19 @@ The repurposed Alice Building was converted to house 38 loft-style residential u
 
 ### Current Events
 
-More photos of the spaces can be found at [@WestminsterLofts on Instagram](//www.instagram.com/westminsterlofts/){:target="_blank"}. Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](//westminsterlofts.com){:target="_blank"}.
+More photos of the spaces can be found at [@WestminsterLofts on Instagram](https://www.instagram.com/westminsterlofts/). Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](https://westminsterlofts.com).
 
 
 ### History
 
 #### Other Links
 
-+ [Downtown Providence of today vastly different from city of early ’90s](//www.browndailyherald.com/2006/03/13/downtown-providence-of-today-vastly-different-from-city-of-early-90s/), Anne Wooten, Brown Daily Herald, March 2006
-+ [Downcity: What is Past is Prologue](//web.archive.org/web/20090608132510/http://philipmarshall.net/providence/downcity.htm){:target="_blank"}, Philip C. Marshall, captured from Archive.org
++ [Downtown Providence of today vastly different from city of early ’90s](https://www.browndailyherald.com/2006/03/13/downtown-providence-of-today-vastly-different-from-city-of-early-90s/), Anne Wooten, Brown Daily Herald, March 2006
++ [Downcity: What is Past is Prologue](https://web.archive.org/web/20090608132510/http://philipmarshall.net/providence/downcity.htm), Philip C. Marshall, captured from Archive.org
 
-The Alice building was the home to many business and commercial storefronts, as it is now. Some of the brand names include Kay Jewelers, Fanny Farmer, and more recently, Tazza Caffe.
+The Alice building was the home to many business and commercial storefronts, as it is now. Some of the brand names include Kay Jewelers, Fanny Farmer, and Tazza Caffe.
+
+***
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 

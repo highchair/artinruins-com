@@ -1,7 +1,7 @@
 ---
 title: "Morris Clothes Shoppe"
 slug: 101-richmond-st
-aka: 'The Morris Apartments, The Recess Pub, Level II, Karma Nightclub, Deja Vu'
+aka: 'The Recess Pub, Level II, Karma Nightclub, Deja Vu, The Morris Apartments'
 date-modified: 2026-08-24 12:00
 update:
 update-image:
@@ -25,8 +25,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '101 Richmond St, Providence RI'
-latitude: '41.8200773'
-longitude: '-71.4115503'
+latitude: '41.8200339'
+longitude: '-71.4110498'
 gmap: "https://www.google.com/maps/place/101+Richmond+St,+Providence,+RI+02903/@41.8200773,-71.4115503,20z/data=!4m6!3m5!1s0x89e44514b0b0a73f:0x5f33cb6f740c5f28!8m2!3d41.8200339!4d-71.4110498!16s%2Fg%2F11b8vds6xj?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Richmond St' ]
 street-number: 101
@@ -130,4 +130,4 @@ The timeline to complete the project is about 18 to 20 months, Dezube said. He a
 
 Prior to JWU buying the property in 2014, the 101 Richmond St. building and parking lot were small parts of a proposed $60 million student housing development planned by the Dallas-based Lincoln Property Co. and Phoenix Property Co. But those plans fell apart, and the former owners Richmond and Friendship LLC approached JWU, which agreed to buy the property for $1.6 million. […]
 
-_Captured 24 August 2026 from https://pbn.com/jwu-sells-former-karma-property-to-alumnus-3m-mixed-use-apartment-project-planned/_
+— _Captured 24 August 2026 from https://pbn.com/jwu-sells-former-karma-property-to-alumnus-3m-mixed-use-apartment-project-planned/_

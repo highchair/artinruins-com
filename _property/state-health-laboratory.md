@@ -23,7 +23,7 @@ tags: [ 'Contemporary' ]
 
 address: '150 Richmond St, Providence RI'
 latitude: '41.819713'
-longitude: '-71.4106972'
+longitude: '-71.409902'
 gmap: "https://www.google.com/maps/place/41%C2%B049'11.0%22N+71%C2%B024'35.7%22W/@41.819713,-71.4106972,213m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d41.819713!4d-71.409902?entry=ttu"
 street: [ 'Richmond St' ]
 street-number: 150
@@ -129,7 +129,7 @@ Turco said building an incubator will allow Rhode Island to develop life science
 
 “One of the issues that Rhode Island has had is that we would have amazing technologies coming out of Brown University or coming out of the University of Rhode Island that would leave the state because there were no specific lab areas for those companies and technologies to move into. And now with the opening of this building, hopefully by the end of this year, end of 2025, we will have the opportunity for spin-outs from our health systems and academic institutions that stay in the state,” Turco said.
 
-— Williams, Jonny. “Investing in RI’s bid to become a life sciences leader.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 16 Mar. 2025, p. A28. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/19F5A789C259A388. Accessed 3 Aug. 2025.
+— _Williams, Jonny. “Investing in RI’s bid to become a life sciences leader.” Providence Journal (RI), PFO-Journal ed., sec. News, 16 Mar. 2025, p. A28. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/19F5A789C259A388. Accessed 3 Aug. 2025._
 
 ***
 
@@ -174,6 +174,4 @@ Former state Health Director Dr. Nicole Alexander-Scott, who first championed a 
 
 The new lab would also be classified as Level 3 and have a larger “biocontainment facility” allowing researchers to do more testing and genomic sequencing to search for deadly pathogens. […]
 
-—
-
-_Captured 09 June 2024 from https://www.providencejournal.com/story/news/politics/2022/10/04/new-ri-state-health-lab-to-be-in-jewelry-district-building/8167917001/_
+— _Captured 09 June 2024 from https://www.providencejournal.com/story/news/politics/2022/10/04/new-ri-state-health-lab-to-be-in-jewelry-district-building/8167917001/_

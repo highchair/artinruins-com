@@ -24,12 +24,14 @@ NRHP-ref-number: '80000093 (individual)'
 added-to-NRHP: 'June 1980'
 
 address: '10 Davol Sq, Providence RI'
-latitude: '41.8165431'
-longitude: '-71.4090343'
+latitude: '41.8165391'
+longitude: '-71.4068456'
 gmap: "https://www.google.com/maps/place/10+Davol+Square,+10+Davol+Square,+Providence,+RI+02903/@41.8165431,-71.4090343,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456a8646dbf1:0x2259e0f433c149cf!8m2!3d41.8165391!4d-71.4068456"
+street: []
+street-number:
 
 meta: ""
-excerpt: "After almost 100 years involved in heavy industry, this building became home to a variety of office and retail uses"
+excerpt: "After almost 100 years involved in heavy industry, this building became home to a variety of office and retail uses for the past 40"
 
 thumbnail: ten-davol-jh-2020-12-03.jpg
 
@@ -183,4 +185,4 @@ The Simmons Building, which was erected by money borrowed by the original Joseph
 
 While the structure initially housed the actual manufacturing operations, as the Davol complex across the street continued to grow the Simmons Building became the principal home of the company’s laboratory functions, Lefebvre says.
 
-— HARRINGTON, CLYDE H.. “Simmons Building opening in month.” Providence Journal (RI), ALL ed., sec. BUSINESS, 16 Oct. 1983, pp. G-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C236690AF928. Accessed 28 Dec. 2021.
+— _HARRINGTON, CLYDE H.. “Simmons Building opening in month.” Providence Journal (RI), ALL ed., sec. BUSINESS, 16 Oct. 1983, pp. G-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C236690AF928. Accessed 28 Dec. 2021._

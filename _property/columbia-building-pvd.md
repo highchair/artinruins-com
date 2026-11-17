@@ -22,9 +22,9 @@ NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
 
 address: '15–25 Snow St, Providence RI'
-latitude: '41.8223446'
-longitude: '-71.4152566'
-gmap: "https://www.google.com/maps/place/17+Snow+St,+Providence,+RI+02903/@41.8223446,-71.4152566,18z/data=!4m6!3m5!1s0x89e44512fdc0d015:0x833959b9c97a7a7!8m2!3d41.8223047!4d-71.4152834!16s%2Fg%2F11cs84m0fq?entry=ttu"
+latitude: '41.8222403'
+longitude: '-71.4152435'
+gmap: "https://www.google.com/maps/place/The+Dark+Lady/@41.8221618,-71.4154444,106m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ5JzIwLjQiTiA3McKwMjQnNTQuOSJX!8m2!3d41.8223446!4d-71.4152566!3m5!1s0x89e445136ac73f49:0xa8ce3c2dfd022a3e!8m2!3d41.8222403!4d-71.4152435!16s%2Fg%2F11ckvw2t5w?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Snow St' ]
 street-number: 17
 
@@ -103,7 +103,7 @@ images:
 
 mostrecentimage: 2024-03-01
 
-imagescredit: 'Contributions from <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a> and Ian Baldwin'
+imagescredit: 'Contributions from <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a> and Ian Baldwin'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -112,7 +112,7 @@ imagescredit: 'Contributions from <a href="//drive.google.com/drive/folders/144X
 
 ### Last Tenant
 
-The On Leong Merchants Association was an owner from roughly 1977[^4] until 2006, when the association sold to new owners Tony & Tina Siravo.[^3] The [On Leong association](//en.wikipedia.org/wiki/On_Leong_Chinese_Merchants_Association) had its start in 1893 in Manhattan, New York, and this local association was likely related. Their main headquarters was here until 2002.[^5]
+The On Leong Merchants Association was an owner from roughly 1977[^4] until 2006, when the association sold to new owners Tony & Tina Siravo.[^3] The [On Leong association](https://en.wikipedia.org/wiki/On_Leong_Chinese_Merchants_Association) had its start in 1893 in Manhattan, New York, and this local association was likely related. Their main headquarters was here until 2002.[^5]
 
 [^4]: “Exploring Providence’s historic Chinatown.” Brown Daily Herald; Jacob Smollen, Kathy Wang, Julia Vaz and Alex Nadirashvili. https://projects.browndailyherald.com/2023/12/22/chinatown/
 
@@ -122,9 +122,9 @@ The On Leong Merchants Association was an owner from roughly 1977[^4] until 2006
 
 The building’s history with the On Leong Association makes it an important part of Providence’s Chinese-American history. The Association was forced to move from its original location near Empire Street after the City decided to widen the street and demolish all of the original Chinatown. For more information, please visit:
 
-+ A 2018 history project in partnership with the RI Historic Preservation & Heritage Commission, [RI Chinese History](//richinesehistory.com/)
-+ [Exploring Providence’s historic Chinatown](//projects.browndailyherald.com/2023/12/22/chinatown/), a project hosted by the Brown Daily Herald
-+ [Seeing Providence Chinatown](//unterbahn.com/chinatown/), Jeffrey Yoo Warren’s personal digital reconstruction project
++ A 2018 history project in partnership with the RI Historic Preservation & Heritage Commission, [RI Chinese History](https://richinesehistory.com/)
++ [Exploring Providence’s historic Chinatown](https://projects.browndailyherald.com/2023/12/22/chinatown/), a project hosted by the Brown Daily Herald
++ [Seeing Providence Chinatown](https://unterbahn.com/chinatown/), Jeffrey Yoo Warren’s personal digital reconstruction project
 
 Not much can be found about the building from its early days as a Columbia Bicycle retail location, the first american bicycle manufacturer. Colonel Albert Pope founded the bicycle industry in the United States starting in 1877. By 1897, the Pope Manufacturing Co. held over 50 patents. The Columbia Manufacturing facility was opened in nearby Westfield, Massachusetts, producing bicycles and motorbikes. By 1900, Columbia was the largest bicycle manufacturer in the world.[^6]
 
@@ -132,7 +132,7 @@ Not much can be found about the building from its early days as a Columbia Bicyc
 
 In the late 1890’s, Pope Manufacturing started producing automobiles. Two gasoline-powered models were offered at this location as well as an electrical one called the _Waverly_. The early advertisements we have snippets of did not mention the specifics, but with its price of $850, it must have been a model described by a Wikipedia entry:
 
-> The 1904 [Pope-Waverley Road Wagon](//en.wikipedia.org/wiki/Pope-Waverley) was a smaller wagon model. It could seat 2 passengers with an open box at the rear for cargo and sold for US$850. The single electric motor was situated at the rear of the car and produced 3 hp (2.2 kW). The car used a 24-cell battery and could travel at 5 or 15 mph (8.0 or 24.1 km/h).
+> The 1904 [Pope-Waverley Road Wagon](https://en.wikipedia.org/wiki/Pope-Waverley) was a smaller wagon model. It could seat 2 passengers with an open box at the rear for cargo and sold for US$850. The single electric motor was situated at the rear of the car and produced 3 hp (2.2 kW). The car used a 24-cell battery and could travel at 5 or 15 mph (8.0 or 24.1 km/h).
 
 
 ### Current Events
@@ -154,9 +154,7 @@ In 1997, a bar called **Sgt. Peppers Pub** was shut down for two months because 
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-**Columbia Building** (1897): Fred E. Field, architect. 4-story brick structure with mid-20th-century storefronts, 4-bay articulation of second and third stories with 2-story bay windows; four small rectangular windows over each bay window on fourth story; boxed cornice
-with elaborate frieze and balustrade. The Columbia Building continues in original use, as a commercial block. It is one of the
-many fine vernacular commercial buildings erected downtown around the turn-of-the-century.
+**Columbia Building** (1897): Fred E. Field, architect. 4-story brick structure with mid-20th-century storefronts, 4-bay articulation of second and third stories with 2-story bay windows; four small rectangular windows over each bay window on fourth story; boxed cornice with elaborate frieze and balustrade. The Columbia Building continues in original use, as a commercial block. It is one of the many fine vernacular commercial buildings erected downtown around the turn-of-the-century.
 
 ***
 

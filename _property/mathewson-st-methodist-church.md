@@ -25,7 +25,8 @@ address: '134 Mathewson St, Providence RI'
 latitude: '41.822656'
 longitude: '-71.414025'
 gmap: "https://www.google.com/maps/place/Mathewson+St+Church/@41.822656,-71.414025,17z/data=!4m6!3m5!1s0x89e44513a6ba610b:0x958a6f0b9bb6ac53!8m2!3d41.822656!4d-71.414025!16s%2Fg%2F1tlbq4yy?entry=ttu"
-street: []
+street: [ 'Mathewson St' ]
+street-number: 134
 
 meta: ""
 excerpt: "An over 170-year-old congregation has served the needs of people in the center of Downtown Providence from a 120-year-old church building"
@@ -63,7 +64,7 @@ images:
 
 mostrecentimage: 2021-07-01
 
-imagescredit: 'Contributions from the Providence Public Library Digital Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A11432" >first,</a> <a href="https://provlibdigital.org/islandora/object/islandora%253A5158">second,</a> and <a href="https://provlibdigital.org/islandora/object/islandora%253A10286">third</a>) and <a href="https://commons.wikimedia.org/wiki/File:2021_Mathewson_Street_United_Methodist_Church,_134_Mathewson_Street,_Providence.jpg">Wikimedia</a>'
+imagescredit: 'Contributions from the Providence Public Library Digital Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A11432">first,</a> <a href="https://provlibdigital.org/islandora/object/islandora%253A5158">second,</a> and <a href="https://provlibdigital.org/islandora/object/islandora%253A10286">third</a>) and <a href="https://commons.wikimedia.org/wiki/File:2021_Mathewson_Street_United_Methodist_Church,_134_Mathewson_Street,_Providence.jpg">Wikimedia</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

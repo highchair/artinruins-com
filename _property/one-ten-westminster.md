@@ -21,7 +21,7 @@ added-to-NRHP:
 
 address: '110 Westminster St, Providence RI'
 latitude: '41.824246'
-longitude: '-71.4126317'
+longitude: '-71.410443'
 gmap: "https://www.google.com/maps/place/110+Westminster+St,+Providence,+RI+02903/@41.824246,-71.4126317,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445169e4ba73b:0x7331bdbad6cafba7!8m2!3d41.824246!4d-71.410443"
 street: [ 'Westminster St' ]
 street-number: 110
@@ -65,9 +65,9 @@ With this rendering video, you can just taste the glossy, glassy 2005 goodness:
 
 ### Reception
 
-The general reception was excitement. This was the first big new construction project of its kind in the early 00s when most of the development and construction happening was mill redevelopment and historic renovations. Nothing wrong with any of that, but a new modern glass skyscraper would start to directly compete with developments in Boston and Hartford. Just read some of the giddy comments in [the Urban Planet thread](//www.urbanplanet.org/forums/topic/9032-postponed-110-westminster-street){target="_blank"}.
+The general reception was excitement. This was the first big new construction project of its kind in the early 00s when most of the development and construction happening was mill redevelopment and historic renovations. Nothing wrong with any of that, but a new modern glass skyscraper would start to directly compete with developments in Boston and Hartford. Just read some of the giddy comments in [the Urban Planet thread](https://www.urbanplanet.org/forums/topic/9032-postponed-110-westminster-street).
 
-At one point, the tower was proposed to be over 500 feet — that was 35 floors with 6 levels of parking and a decorative spire. According to Jef Nickerson’s height list, that would have made it the tallest building in Providence by almost 100 feet (tallest architectural feature used as the measure): 
+At one point, the tower was proposed to be over 500 feet — that was 35 floors with 6 levels of parking and a decorative spire. According to Jef Nickerson’s height list, that would have made it the tallest building in Providence by almost 100 feet (tallest architectural feature used as the measure):
 
 1. 520 ft. — _proposed_ OneTen Westminster
 1. 428 ft. — Industrial Trust (“Superman”) Building (Note, by occupied floor, the Superman Building is shorter than the Hospital Trust Tower)
@@ -84,7 +84,7 @@ At one point, the tower was proposed to be over 500 feet — that was 35 floors
 1. 217 ft. — Turk’s Head Building & Providence County Courthouse
 1. 210 ft. — [WaterPlace Tower #2]({% link _property/waterplace-towers.md %})
 
-The City was clearly excited as well. Mayor Cicilline was all for it, as well as the zoning board and the Downcity Design Board of review which granted demolition permits of [two former bank structures]({% link _property/first-federal-bank.md %}), one of them an [85 year old Georgian Revival building]({% link _property/providence-national-bank.md %}), whose Weybosset Street façade the developer was encouraged to save and integrate into their building design. 
+The City was clearly excited as well. Mayor Cicilline was all for it, as well as the zoning board and the Downcity Design Board of review which granted demolition permits of [two former bank structures]({% link _property/first-federal-bank.md %}), one of them an [85 year old Georgian Revival building]({% link _property/providence-national-bank.md %}), whose Weybosset Street façade the developer was encouraged to save and integrate into their building design.
 
 [Jef Nickerson](//www.gcpvd.org/2009/02/24/vaporscraper-first-spark/){target="_blank"} summed it up well:
 
@@ -95,13 +95,13 @@ Why, why, why… why does the City allow demolition so quickly when a developer 
 
 ### Current Events
 
-Nearly 15 years later, the “vaporscraper” never came to pass. At one point a hotel was going to occupy part of the structure — rumored to be a W Hotel. The tower grew in height, and then shrunk. In the end, the fact that it was all privately financed was probably the death knell. 
+Nearly 15 years later, the “vaporscraper” never came to pass. At one point a hotel was going to occupy part of the structure — rumored to be a W Hotel. The tower grew in height, and then shrunk. In the end, the fact that it was all privately financed was probably the death knell.
 
-The lot is still parking. The former buildings that were here have been lost to history. The façade of the Providence National Bank on Weybosset still stands, but seeing as it has been exposed to the elements as City property for much longer than intended, we would not be surprised if it eventually needs to be removed before it falls on local traffic. 
+The lot is still parking. The former buildings that were here have been lost to history. The façade of the Providence National Bank on Weybosset still stands, but seeing as it has been exposed to the elements as City property for much longer than intended, we would not be surprised if it eventually needs to be removed before it falls on local traffic.
 
 #### So what happened?
 
-We’re not entirely sure. Financing dried up we suppose, but this was at the height of local new construction and years before the economic crash of 2008. Likely, it was a mix of events that turned these plans to mist, much like the famed [Power Block]({% link _property/power-block.md %}) proposal of 2005. 
+We’re not entirely sure. Financing dried up we suppose, but this was at the height of local new construction and years before the economic crash of 2008. Likely, it was a mix of events that turned these plans to mist, much like the famed [Power Block]({% link _property/power-block.md %}) proposal of 2005.
 
 
 ### In the News
@@ -113,13 +113,13 @@ _by Projo.com Staff_
 
 Two developers joined Mayor David N. Cicilline this morning in announcing plans for a 32-story residential tower in the city’s financial district.
 
-The $90 million project would include 130 new “city homes,” or luxury condominiums, at 110 Westminster St., a site formerly occupied by a Buck-A-Book store and next to the historic Arcade shopping mall. 
+The $90 million project would include 130 new “city homes,” or luxury condominiums, at 110 Westminster St., a site formerly occupied by a Buck-A-Book store and next to the historic Arcade shopping mall.
 
 When completed, the tower would be the tallest residential structure in Rhode Island, according to a press release handed out at this morning’s news conference.
 
 Its luxury condominiums would range from 900 to 3,500 square feet and are expected to sell for $500,000 to $2.5 million. [**A.I.R.**: These prices translated to $555/sf to $717/sf! Manhattan prices…]
 
-Granoff Associates of Providence and BlueChip Properties of Boston would develop the project, called “One Ten Westminster.” 
+Granoff Associates of Providence and BlueChip Properties of Boston would develop the project, called “One Ten Westminster.”
 
 The tower would abut the well-known Turk’s Head building on the east and be built on a site flanked by Weybosset Street, Westminster Street and the Arcade building, which links the two streets and will connect the new tower, according to the press release.
 

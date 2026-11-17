@@ -21,10 +21,12 @@ tags: [ 'College Properties', 'Johnson & Wales University' ]
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
 
-address: '274 Weybosset Street, Providence RI'
+address: '274 Weybosset St, Providence RI'
 latitude: '41.820603'
-longitude: '-71.4153817'
+longitude: '-71.413193'
 gmap: "https://www.google.com/maps/place/274+Weybosset+St,+Providence,+RI+02903/@41.820603,-71.4153817,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44513442553c7:0xeaef13fee5690376!8m2!3d41.820603!4d-71.413193"
+street: [ 'Weybosset St' ]
+street-number: 274
 
 meta: ""
 excerpt: "This reinforced concrete frame building was the first modern-style, large windowed design in the City"
@@ -57,7 +59,7 @@ imagescredit:
 
 ### Redevelopment
 
-_From the [Providence Preservation Society’s 2004 Annual Awards](//web.archive.org/web/20051017024556/http://www.ppsri.org/advocacy/awards/2004.php){:target="_blank"}_
+_From the [Providence Preservation Society’s 2004 Annual Awards](https://web.archive.org/web/20051017024556/http://www.ppsri.org/advocacy/awards/2004.php)_
 
 The rehabilitation and adaptive reuse of the **Summerfield Building** (PAR Building) not only corrected deficiencies in the building’s window system, but also preserves the highly significant Albert Harkness-designed structure. Constructed in 1913, the reinforced concrete frame office building was the first of its type in Providence. The building’s broad expanses of glass exploited the possibilities of the new technology of the day.
 
@@ -66,7 +68,7 @@ The rehabilitation project illustrates Johnson & Wales’ commitment and contrib
 
 ### Current Events
 
-The building is still being used by Johnson & Wales University but it now houses Information Technology operations and goes by the name “Del Sesto” in [the list of facilities](//www.jwu.edu/campuses/providence/about-jwu-providence/facilities.html){:target="_blank"}.
+The building is still being used by Johnson & Wales University but it now houses Information Technology operations and goes by the name “Del Sesto” in [the list of facilities](https://www.jwu.edu/campuses/providence/about-jwu-providence/facilities.html).
 
 
 ### History

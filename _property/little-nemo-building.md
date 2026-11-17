@@ -23,7 +23,7 @@ added-to-NRHP: 'December 1985'
 
 address: '222 Richmond St, Providence RI'
 latitude: '41.8188907'
-longitude: '-71.4096165'
+longitude: '-71.4085222'
 gmap: "https://www.google.com/maps/place/Brown+University+Medical+Education+Bldg,+222+Richmond+St,+Providence,+RI+02903/@41.8188907,-71.4096165,334m/data=!3m1!1e3!4m5!3m4!1s0x89e4456ad2817533:0xbc2f8408c61d0c0b!8m2!3d41.8188907!4d-71.4085222"
 street: [ 'Richmond St' ]
 street-number: 222
@@ -35,7 +35,7 @@ thumbnail: little-nemo-jh-2024-02-01.jpg
 
 images:
   - url: little-nemo-rg-1985-08-01.jpg
-    alt: 'This is a 3-story, flat-roof,reinforced concrete building. It has curtain walls arranged in piers and spandrels with bands of windows with narrow Roman brick panels underneath. The wall is rounded at the corner of Ship and Richmond Streets. The concrete piers rise up to the roofline, where they are capped with arrow-like ornaments. There are also small corner parapets and a central parapet over the Richmond Street entrance with geometric Art Deco detailing. '
+    alt: 'This is a 3-story, flat-roof,reinforced concrete building. It has curtain walls arranged in piers and spandrels with bands of windows with narrow Roman brick panels underneath. The wall is rounded at the corner of Ship and Richmond Streets. The concrete piers rise up to the roofline, where they are capped with arrow-like ornaments. There are also small corner parapets and a central parapet over the Richmond Street entrance with geometric Art Deco detailing.'
     caption: 'Richard Greenwood, August 1986, for the National Register nomination form'
     sizes: '1440, 900'
   - url: little-nemo-jh-2010-10-01.jpg
@@ -99,7 +99,7 @@ The Nemo jewelry of the 1940s and 1950s was of high quality with jewelry designs
 
 The […] Company […] enjoyed success as a syndicate plant manufacturing costume jewelry designed into necklaces, brooches, pins, bracelets, dress and fur clips, charm bracelets and charms, tiaras, hairclips of gold plated, silver plated, bronze tone, gilded brass and pot metal bases with hand faceted clear and colorful rhinestones, and colored glass stones to catch light and glitter. Mark of Brier Manufacturing Co. that manufactured Little Nemo jewelry: “LN”, “LN25”, “LN50”, “LITTLE NEMO” inside the shape of a ring, “NEMO GOLD SEAL QUALITY LN/25”, “L/N”, “LN” inside a flattened diamond shape, “VENUS” in 1958, and “NEMO” in block letters 1955. The Brier Manufacturing Co. and designs of “Little Nemo” jewelry ceased operations in 1978.
 
-_Captured around 2010 from http://www.jacksonjewels.com/Reference/Jewelry_Companies_J-L.htm, recaptured January 29, 2022 from https://web.archive.org/web/20071009101900/http://www.jacksonjewels.com/Reference/Jewelry_Companies_J-L.htm_
+— _Captured around 2010 from http://www.jacksonjewels.com/Reference/Jewelry_Companies_J-L.htm, recaptured January 29, 2022 from https://web.archive.org/web/20071009101900/http://www.jacksonjewels.com/Reference/Jewelry_Companies_J-L.htm_
 
 ***
 

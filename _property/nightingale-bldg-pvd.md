@@ -25,6 +25,8 @@ address: '100 Mathewson St, Providence RI'
 latitude: '41.8235252'
 longitude: '-71.4151711'
 gmap: "https://www.google.com/maps/place/Nightingale+Apartments/@41.8235252,-71.4151711,19z/data=!4m5!3m4!1s0x0:0xfeb5d5fa3b2711ef!8m2!3d41.8235054!4d-71.4150772"
+street: [ 'Mathewson St' ]
+street-number: 100
 
 meta: ""
 excerpt: "A new 6-story apartment in downtown with 143 studio, 1- and 2-bedroom apartments was developed by Cornish Associates and opened in 2020"
@@ -130,7 +132,5 @@ The ground floor commercial spaces promise additional amenities, with the potent
 “We are pleased to be involved in this transformative project,” said Ogden Hunnewell, partner at Nordblom. “Nightingale compliments the dynamic local community, while illuminating the opportunity to invest in the quality of its future.”
 
 State and municipal stakeholders–Rhode Island Commerce Corp. Rebuild RI program and the city of Providence–played a pivotal role in the $54 million transformation of the site from a parking lot to an apartment community and retail destination.
-
-— 
 
 — _Captured September 16, 2022 from https://commerceri.com/nerej-the-54-million-143-unit-nightingale-apartment-building-opens-in-providence/_

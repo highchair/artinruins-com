@@ -18,18 +18,17 @@ lists: []
 tags: [ 'Bridges' ]
 
 address: 'Providence River, south of the Hurricane Barrier, Providence RI'
-latitude: '41.815501'
-longitude: '-71.4038717'
-gmap: "https://www.google.com/maps/place/41°48'55.8%22N+71°24'06.1%22W/@41.815501,-71.4038717,17z/"
+latitude: '41.8155252'
+longitude: '-71.4017856'
+gmap: "https://www.google.com/maps/place/Providence+River+Bridge/@41.815501,-71.4064466,17z/data=!4m12!1m5!3m4!2zNDHCsDQ4JzU1LjgiTiA3McKwMjQnMTMuOSJX!8m2!3d41.815501!4d-71.4038717!3m5!1s0x89e44565d7681faf:0xefa840c0ece0ca5!8m2!3d41.8155252!4d-71.4017856!16s%2Fg%2F11g3106h65?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
-meta: ""
 excerpt: "An 80' high, 400' long steel bridge spanning the Providence River, preassembled and floated into place on August 27, 2006"
 
 thumbnail: iway-bridge-jh-2006-06-01.jpg
 
 images:
   - url: iway-bridge-2006-08-30.jpg
-    alt: 'A modern arch-type highway bridge over the Providence River just south of the 1940s-constructed Hurricane barrier. Art Deco Moderne decorations flank the bridge as pillars on both land sides. '
+    alt: 'A modern arch-type highway bridge over the Providence River just south of the 1940s-constructed Hurricane barrier. Art Deco Moderne decorations flank the bridge as pillars on both land sides.'
     caption: 'Web cam photo downloaded August 30, 2006'
     sizes: '640, 480'
   - url: iway-bridge-2007-04-21.jpg
@@ -78,18 +77,18 @@ external:
 
 ### Proposal
 
-The Maguire Group with engineer Patricia D. Steele, head of bridge design, in collaboration with architect William D. Warner collaborated on a $610 million dollar new bridge over the Providence River. The bridge was part of the relocation of interstate 195, moving a span that cut through the middle of the Jewelry District and previously crossed the Providence River north of the Hurricane Barrier. The relocation moved I-195 south of the Jewelry District and a new bridge south of the Hurricane Barrier to meet up with the existing Washington Bridge over the Seekonk. 
+The Maguire Group with engineer Patricia D. Steele, head of bridge design, in collaboration with architect William D. Warner collaborated on a $610 million dollar new bridge over the Providence River. The bridge was part of the relocation of interstate 195, moving a span that cut through the middle of the Jewelry District and previously crossed the Providence River north of the Hurricane Barrier. The relocation moved I-195 south of the Jewelry District and a new bridge south of the Hurricane Barrier to meet up with the existing Washington Bridge over the Seekonk.
 
-The innovation in the design was the construction process. The giant 400' long semicircular arches were laid flat and assembled in Quonset, North Kingston. The arches were then raised and interconnecting cross-members were added. The finished 5.5-million-pound bridge span was put onto barges and floated from Quonset up the coast to its final resting spot on the Providence River. 
+The innovation in the design was the construction process. The giant 400' long semicircular arches were laid flat and assembled in Quonset, North Kingston. The arches were then raised and interconnecting cross-members were added. The finished 5.5-million-pound bridge span was put onto barges and floated from Quonset up the coast to its final resting spot on the Providence River.
 
-At the end of August, 2006, the assembled bridge arrived and stayed on its floatation barge until permanently connected to its pilings a few days later. The remaining construction time was required for the lead up roadways, overpasses, and the new roadway and exits between the bridge and the Washington Bridge into East Providence. 
+At the end of August, 2006, the assembled bridge arrived and stayed on its floatation barge until permanently connected to its pilings a few days later. The remaining construction time was required for the lead up roadways, overpasses, and the new roadway and exits between the bridge and the Washington Bridge into East Providence.
 
 
 ### Design Reception
 
-The “network arch” design creates a series of diagonals criss-crossing each other from the arch down to the bridge deck it supports. These triangles change shape as one moves across the bridge, giving the passersby a sense of action along with a relatively unobstructed view of downtown Providence and the harbor. We are glad that the city and state took this opportunity to create infrastructure that can also make a design statement. For the traditional architecture purists, Art-Deco-detailed pillars anchor the junctions between roadway and bridge, trimmed in brass and glass panels. 
+The “network arch” design creates a series of diagonals criss-crossing each other from the arch down to the bridge deck it supports. These triangles change shape as one moves across the bridge, giving the passersby a sense of action along with a relatively unobstructed view of downtown Providence and the harbor. We are glad that the city and state took this opportunity to create infrastructure that can also make a design statement. For the traditional architecture purists, Art-Deco-detailed pillars anchor the junctions between roadway and bridge, trimmed in brass and glass panels.
 
-The public was given an opening day and thousands of people showed up to walk over the bridge for the first time. 
+The public was given an opening day and thousands of people showed up to walk over the bridge for the first time.
 
 
 ### In the News
@@ -99,7 +98,7 @@ The public was given an opening day and thousands of people showed up to walk ov
 **Unusual arrival for bridge arch**
 
 _by Bruce Landis_  
-**Providence Journal** | August 20, 2006 
+**Providence Journal** | August 20, 2006
 
 Never has a public works project here been put so dramatically on display. The bridge “float,” as Department of Transportation officials refer to it, will be visible from shore on both sides of the upper Bay, and the slow pace – a few miles per hour – will make it tough to miss.
 
@@ -132,7 +131,7 @@ The barges are the Chesapeake Trader and Atlantic Trader, both 300 feet long and
 #### Public Invited To Walk Over New Bridge
 
 _by Bruce Landis_  
-**Providence Journal** | October 21, 2007 
+**Providence Journal** | October 21, 2007
 
 Thousands of people turned out yesterday to walk on, photograph and show their children the state’s new bridge, the light blue-green arch over the Providence River.
 

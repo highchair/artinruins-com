@@ -20,9 +20,11 @@ lists: [ 'I-195 District Parcels' ]
 tags: [ 'Former/Current Hotels', 'Contemporary' ]
 
 address: '191 Dorrance St, Providence RI'
-latitude: '41.8215679'
-longitude: '-71.4117636'
+latitude: '41.821456'
+longitude: '-71.408781'
 gmap: "https://www.google.com/maps/place/Aloft+Providence+Downtown/@41.8215679,-71.4117636,16z/data=!4m8!3m7!1s0x0:0x1496cdc9e906b837!5m2!4m1!1i2!8m2!3d41.821456!4d-71.408781"
+street: [ 'Dorrance St' ]
+street-number: 191
 
 meta: ""
 excerpt: "A new 6 and 5 story boutique-brand hotel on the edge of the Jewelry District with views of the riverfront"
@@ -83,7 +85,7 @@ imagescredit:
 
 This hotel brand — started as a Starwood product and then purchased as part of the Marriott family — was rumored to land in Providence in 2017. But way before that, say, ever since 2006, officials have been saying that the city needs more and more hotel rooms. And most of us on the periphery of city developments have been saying “Really?” But here we are, walking around only a few months after the hotel has opened, without ground floor retail in place yet, and the hotel has visitors coming in and out. The place is hopping.
 
-The developers are CV Properties and Boston Andes Capital. The hotel features 175 rooms with a rooftop bar, ground floor restaurant, swimming pool, and fitness center. The project broke ground in January of 2020 and was completed in November of 2021. [Shawmut](//www.shawmut.com/news/aloft-hotel-in-providence-celebrates-topping-off-milestone){:target="_blank"} executed the construction.
+The developers are CV Properties and Boston Andes Capital. The hotel features 175 rooms with a rooftop bar, ground floor restaurant, swimming pool, and fitness center. The project broke ground in January of 2020 and was completed in November of 2021. [Shawmut](https://www.shawmut.com/news/aloft-hotel-in-providence-celebrates-topping-off-milestone) executed the construction.
 
 Most interesting to us is the fact that this parcel has been undeveloped since the 1960s, when the then-adjacent highway was built. Previous to that, this particular parcel on the edge of the waterfront, downtown, and the Jewelry district, was densely packed with buildings. From 1960-ish to 2020, this site has been parking or roadway. In this prime location, it is nice to see something new and shiny with great views of the waterfront.
 
@@ -116,7 +118,7 @@ Does anyone remember the great promise of our bold city taking down an intrusive
 
 One looks in vain to the new hotel for some visual interest, such as shadow lines, or an intriguing skyline. The only thing that mitigates the hotel’s ungainly bulk is the turning of the corner; instead of some grace or subtlety, there is only the lot line. And what will the trite brick cladding accomplish?
 
-How did this happen? There were a lot of meetings, hearings, studies, proposals, and promises, but was there any design review? Did the I-195 Commission consciously say: Let’s spend a whole lot of money and build a hotel that looks like any other chain offering from Omaha to Orlando? Was it the promise of construction contracts and the eternally skewed math of jobs-jobs-jobs that allowed such a visual insult to the city possible?  
+How did this happen? There were a lot of meetings, hearings, studies, proposals, and promises, but was there any design review? Did the I-195 Commission consciously say: Let’s spend a whole lot of money and build a hotel that looks like any other chain offering from Omaha to Orlando? Was it the promise of construction contracts and the eternally skewed math of jobs-jobs-jobs that allowed such a visual insult to the city possible?
 
 If the new Aloft Hotel is the answer, what was the question?
 
@@ -124,12 +126,10 @@ Aloft claims that “the brand is most notable for its modern architecture desig
 
 That hipness faded a bit under Marriott ownership. Among Aloft’s almost 200 hotels worldwide, some locations still offer some excitement, such as Aloft Boston Seaport. This is curious, because its developer, Richard Galvin of Commonwealth Ventures, is the man behind the Providence Aloft. It is hard to imagine anyone describing the Dyer Avenue Aloft as “smart, modern design,” as Galvin says of his Boston hotel.
 
-Aloft in Providence is the work of [Elkus Manfredi Architects](//www.elkus-manfredi.com){:target="_blank"}, a major Boston-based firm with some spectacular credits to its name. The firm has done skyscrapers, commercial blocks, and university structures for over 30 years. Perhaps the best-known Elkus Manfredi project is the headquarters for New Balance, the giant ship-like presence (some say it looks like a shoe) along the Mass Pike in Allston. In Rhode Island, Elkus Manfredi designed the too-little-known but distinguished campus for Citizens Bank in Johnston.
+Aloft in Providence is the work of [Elkus Manfredi Architects](https://www.elkus-manfredi.com), a major Boston-based firm with some spectacular credits to its name. The firm has done skyscrapers, commercial blocks, and university structures for over 30 years. Perhaps the best-known Elkus Manfredi project is the headquarters for New Balance, the giant ship-like presence (some say it looks like a shoe) along the Mass Pike in Allston. In Rhode Island, Elkus Manfredi designed the too-little-known but distinguished campus for Citizens Bank in Johnston.
 
 Yet for a primo site in downtown Providence, we got a big ungainly block of stick-a-brick real estate. This is what the patron saint of modern architecture criticism, Ada Louis Huxtable, would have described as “unforgivable, consummate mediocrity.” As so often happens with major out-of-town architects, Providence gets the firm’s B-Team. Or worse, we seem unable to demand what we really need or to which we should aspire.
 
 Governor Raimondo declared in October that, “the Aloft Hotel will help us attract visitors as our economy recovers.” Perhaps. But the clunky, chunky, lowest-common-denominator appearance of the new Aloft Hotel won’t win us any awards for inspiring urban design. What it will become, however, is a symbol of the failure of Providence to embrace a noble overall vision for the I-195 land. Good design costs no more than mediocre design, but the true cost of bad design is cumulatively corrosive.
 
-—
-
-_— Captured on March 31, 2022 from https://www.golocalprov.com/business/aloft-hotel-more-mediocrity-architecture-critic-morgan_
+— _Captured 31 March 2022 from https://www.golocalprov.com/business/aloft-hotel-more-mediocrity-architecture-critic-morgan_

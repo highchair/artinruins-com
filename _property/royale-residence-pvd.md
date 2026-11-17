@@ -19,10 +19,11 @@ lists: []
 tags: [ 'Apartments for Rent', 'Contemporary' ]
 
 address: '44 Hospital St, Providence RI'
-latitude: '41.8167273'
-longitude: '-71.410452'
-gmap: "https://www.google.com/maps/place/44+Hospital+St,+Providence,+RI+02903/@41.8167273,-71.410452,18z/"
-street: []
+latitude: '41.8167229'
+longitude: '-71.4099946'
+gmap: "https://www.google.com/maps/place/44+Hospital+St,+Providence,+RI+02903/@41.8166312,-71.4113543,18.21z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzAwLjIiTiA3McKwMjQnMzcuNiJX!8m2!3d41.8167222!4d-71.4104444!3m5!1s0x89e4456ba66ceb7f:0x93b3d21cfaab7804!8m2!3d41.8167229!4d-71.4099946!16s%2Fg%2F11bw3xn99c?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Hospital St' ]
+street-number: 44
 
 meta: ""
 excerpt: "A six-story, square plan apartment building adding density to the Jewelry District"
@@ -72,15 +73,15 @@ The replacement building is pretty non-descript from the outside. It certainly c
 
 Maps below are tracing the build history of the previous two-story brick-faced commercial building at 44 Hospital Street. It is possible that the previous building was constructed earlier than 1940. At the very least, it was added onto and altered significantly between 1937 and 1951. G.M. Hopkins Map from the Secretary of State Digital Collection, Sanborn Maps from the Library of Congress.
 
-+ [1920–1921 Sanborn Insurance Map, Volume 1, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"} (page 24) — A two-story yellow (wood-frame) structure with a stairway to the west, making the overall shape into a rectangle with slight inset like an upside-down L.
-+ [1937 G.M. Hopkins Map, Plate 2](https://sosri.access.preservica.com/uncategorized/IO_edbc5f46-052f-4b47-8f13-458f6b4cbefe/){:target="_blank"} — An unlabelled non-square building is in place at the corner of Hospital and South Streets. When one compares this building shape with the next map, it is possible that a previous building was added onto. The next map shows this L-shaped building with a cinder-block addition to the west which makes the overall shape into a square.
-+ [1920–1951 Sanborn Insurance Map, Volume 1, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101){:target="_blank"} (page 24) — One can see on the corner of Hospital and South Street a square yellow (wood structure) two-story building with attached blue (concrete or cinder block) portion. It is labelled “REST” for restaurant.
-+ [1920–1955 Sanborn Insurance Map, Volume 1, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601){:target="_blank"} (page 14) — In the same location with the same footprint is an all blue square building now, but the way it is labelled makes us think it is the same building. The cinder block portion is labelled and the outside edge says “BR FACED” for brick-faced.
++ [1920–1921 Sanborn Insurance Map, Volume 1, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (page 24) — A two-story yellow (wood-frame) structure with a stairway to the west, making the overall shape into a rectangle with slight inset like an upside-down L.
++ [1937 G.M. Hopkins Map, Plate 2](https://sosri.access.preservica.com/uncategorized/IO_edbc5f46-052f-4b47-8f13-458f6b4cbefe/) — An unlabelled non-square building is in place at the corner of Hospital and South Streets. When one compares this building shape with the next map, it is possible that a previous building was added onto. The next map shows this L-shaped building with a cinder-block addition to the west which makes the overall shape into a square.
++ [1920–1951 Sanborn Insurance Map, Volume 1, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101) (page 24) — One can see on the corner of Hospital and South Street a square yellow (wood structure) two-story building with attached blue (concrete or cinder block) portion. It is labelled “REST” for restaurant.
++ [1920–1955 Sanborn Insurance Map, Volume 1, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601) (page 14) — In the same location with the same footprint is an all blue square building now, but the way it is labelled makes us think it is the same building. The cinder block portion is labelled and the outside edge says “BR FACED” for brick-faced.
 
 
 ### Current Events
 
-Apartments are for rent and availability can be found at their website, [Royale Residence](https://theroyaleresidence.com/){:target="_blank"}
+Apartments are for rent and availability can be found at their website, [Royale Residence](https://theroyaleresidence.com/)
 
 
 ### In the News
@@ -111,4 +112,4 @@ The Jewelry District was named for the industry that dominated there in the 1870
 
 Since 2007, when Brown University purchased seven buildings in the district from Belvoir Properties for its medical school, the district, more recently known for its nightclubs, has been evolving once again.
 
-— DUNN, CHRISTINE. “Construction under way of 6-story apartment building in Providence’s Jewelry District.” Providence Journal, 16 April 2017. Captured 06 November 2017 http://www.providencejournal.com/news/20170416/construction-under-way-of-6-story-apartment-building-in-providences-jewelry-district
+— _DUNN, CHRISTINE. “Construction under way of 6-story apartment building in Providence’s Jewelry District.” Providence Journal, 16 April 2017. Captured 06 November 2017 http://www.providencejournal.com/news/20170416/construction-under-way-of-6-story-apartment-building-in-providences-jewelry-district_

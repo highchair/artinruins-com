@@ -26,9 +26,10 @@ added-to-NRHP: 'February 10, 1984'
 
 address: '150 Union St, Providence RI'
 latitude: '41.8230628'
-longitude: '-71.4151648'
+longitude: '-71.4129761'
 gmap: "https://www.google.com/maps/place/Peerless+Lofts/@41.8230628,-71.4151648,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44513c74bc97b:0x26965e4f6962a5f9!8m2!3d41.8230628!4d-71.4129761"
 street: [ 'Westminster St' ]
+street-number: 235
 
 meta: ""
 excerpt: "A former department store turned rock club venue turned loft apartments whose conversion contributed to making Downtown Providence bustle again"
@@ -123,7 +124,7 @@ images:
     caption: 'Promotional photo of the buildings from Cornish Associates'
     sizes: '1200, 955'
 
-imagescredit: 'Contributions by Wikimedia, Rhode Island Postcard Collection and Providence Public Library (<a href="//provlibdigital.org/islandora/object/islandora%3A20000">1900</a> and <a href="//provlibdigital.org/islandora/object/islandora%3A22693">1970</a>), Eric Hertfelder for the National Register nomination form, <a href="//consequenceofsound.net/2016/04/the-100-greatest-american-music-venues/2/">ConsequenceOfSound.net</a>, Frank Mullin, and Cornish Associates'
+imagescredit: 'Contributions by Wikimedia, Rhode Island Postcard Collection and Providence Public Library (<a href="https://provlibdigital.org/islandora/object/islandora%3A20000">1900</a> and <a href="https://provlibdigital.org/islandora/object/islandora%3A22693">1970</a>), Eric Hertfelder for the National Register nomination form, <a href="https://consequenceofsound.net/2016/04/the-100-greatest-american-music-venues/2/">ConsequenceOfSound.net</a>, Frank Mullin, and Cornish Associates'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -143,7 +144,7 @@ Some of the more interesting design elements found are exposed columns and slidi
 
 ### Current Events
 
-More photos of the spaces can be found at [@WestminsterLofts on Instagram](//www.instagram.com/westminsterlofts/). Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](//westminsterlofts.com).
+More photos of the spaces can be found at [@WestminsterLofts on Instagram](https://www.instagram.com/westminsterlofts/). Leasing information for commercial storefront space and residential lofts is available from [WestminsterLofts.com](https://westminsterlofts.com).
 
 
 ### History
@@ -169,8 +170,8 @@ The Boston Store was bought by **Peerless** in the early 1950s, and Peerless con
 ***
 
 + [An ArtInRuins Essay: Retail Moves out as Residential Moves In: The Evolution of Downtown, Capital Center, and the Providence Place Mall]({% link _essays/retails-move-from-downtown-to-mall.md %})
-+ [40 Years of Rock and Roll at Lupo’s](//providenceonline.com/stories/40-years-of-rock-and-roll-at-lupos,16439){:target="_blank"}, Lou Papineau, Providence Online, posted September 22, 2015
-+ [A Little Retail History: Providence, Rhode Island](//www.carmenandginger.com/2017/01/a-little-retail-history-providence.html){:target="_blank"}, Carmen & Ginger blog
-+ [Downtown Providence – A Nostalgic Stroll Down Westminster Street](//www.consumergrouch.com/?p=8884){:target="_blank"}, Betsy Von-Die, May 2020
-+ [Downtown Providence of today vastly different from city of early ’90s](//www.browndailyherald.com/2006/03/13/downtown-providence-of-today-vastly-different-from-city-of-early-90s/), Anne Wooten, Brown Daily Herald, March 2006
-+ [Downcity: What is Past is Prologue](//web.archive.org/web/20090608132510/http://philipmarshall.net/providence/downcity.htm){:target="_blank"}, Philip C. Marshall, captured from Archive.org
++ [40 Years of Rock and Roll at Lupo’s](https://providenceonline.com/stories/40-years-of-rock-and-roll-at-lupos,16439), Lou Papineau, Providence Online, posted September 22, 2015
++ [A Little Retail History: Providence, Rhode Island](https://www.carmenandginger.com/2017/01/a-little-retail-history-providence.html), Carmen & Ginger blog
++ [Downtown Providence – A Nostalgic Stroll Down Westminster Street](https://www.consumergrouch.com/?p=8884), Betsy Von-Die, May 2020
++ [Downtown Providence of today vastly different from city of early ’90s](https://www.browndailyherald.com/2006/03/13/downtown-providence-of-today-vastly-different-from-city-of-early-90s/), Anne Wooten, Brown Daily Herald, March 2006
++ [Downcity: What is Past is Prologue](https://web.archive.org/web/20090608132510/http://philipmarshall.net/providence/downcity.htm), Philip C. Marshall, captured from Archive.org

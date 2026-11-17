@@ -24,9 +24,11 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '35 Claverick St, Providence RI'
-latitude: '41.8178734'
-longitude: '-71.4148935'
-gmap: "https://www.google.com/maps/place/35+Claverick+St,+Providence,+RI+02903/@41.8178734,-71.4148935,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456c85309b33:0x295b69cbb7cac43e!8m2!3d41.8178734!4d-71.4127048"
+latitude: '41.818108'
+longitude: '-71.412461'
+gmap: "https://www.google.com/maps/place/35+Claverick+St,+Providence,+RI+02903/@41.8180493,-71.4126314,164m/data=!3m1!1e3!4m6!3m5!1s0x89e4456c85aab83b:0xf3f998be1cd916a3!8m2!3d41.8177719!4d-71.4126847!16s%2Fg%2F11yqknc7gy?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Claverick St' ]
+street-number: 35
 
 meta: ""
 excerpt: "A mid-century brick indistrial building on the edge of the Jewelry District is given new life as part of Johnson & Wales University"
@@ -86,7 +88,7 @@ imagescredit: 'Contributions by the Johnson & Wales Facilities Management team'
 
 This 17,000 square foot nondescript and unnamed building on the edge of the Jewelry District got a makeover and a 1,800 square foot addition as it transformed from industrial/office to space for classrooms, labs, lecture hall, library, and administrative offices. The concrete and glass addition added new circulation space to the building with a dramatic main entrance. The building has received <span class="abbr">LEED</span> Gold Certification for its efficiency.[^1]
 
-[^1]: Information gleaned from the architect’s portfolio entry for this property. Captured March 6, 2022 from https://dbvw.com/projects/jwu-center-for-physician-assistant-studies/ 
+[^1]: Information gleaned from the architect’s portfolio entry for this property. Captured March 6, 2022 from https://dbvw.com/projects/jwu-center-for-physician-assistant-studies/
 
 In addition to its environmental certification, the project also received a 2014 Design Award from the <span class="abbr">AIA</span> RI chapter[^2], a 2014 Preservation Award from the Providence Preservation Society[^3], and a 2015 GrowSmart RI Award[^4].
 
@@ -99,7 +101,7 @@ In addition to its environmental certification, the project also received a 2014
 
 ### Current Events
 
-The building is now home to Johnson & Wales’ training program for Physician Assistants. 
+The building is now home to Johnson & Wales’ training program for Physician Assistants.
 
 
 ### History
@@ -116,7 +118,7 @@ The project team paid special attention to the character-defining windows, fabri
 
 The project team would like to thank Michael Viveiros from Durkee, Brown, Viveiros & Werenfels Architects; Chris Maury, Justin Bernard, David Presbrey, and Aimee Kingston from Shawmut Design and Construction; and the City of Providence Department of Planning and Development.
 
-_— Captured on March 6, 2022 from an Archive.org snapshot at https://web.archive.org/web/20150324220348/http://ppsri.org/preservation-awards/johnson-wales-university-s-center-for-physician-assistant-studies-rehabilitation-award_
+— _Captured on March 6, 2022 from an Archive.org snapshot at https://web.archive.org/web/20150324220348/http://ppsri.org/preservation-awards/johnson-wales-university-s-center-for-physician-assistant-studies-rehabilitation-award_
 
 
 ### In the News
@@ -154,4 +156,4 @@ JWU has submitted documents seeking provisional accreditation from the Accredita
 
 The training program, which runs year round, will be “pretty intense,” said Bottomley, with the first year devoted to classroom instruction and the second year to clinical rotations. Graduates, he said, are most likely to stay to practice in Rhode Island. Starting salaries vary by specialty and location. In primary care, pay starts “somewhere in the mid-70s to mid-80s,” Bottomley said. The national median salary for a currently practicing PA is $93,000, he said.
 
-— Freyer, Felice J.. “EDUCATION \| J&W planning program for physician aides.” Providence Journal (RI), 1 ed., sec. News, 17 Dec. 2012, p. MAIN_01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524219D80FE8FF8. Accessed 6 Mar. 2022.
+— _Freyer, Felice J.. “EDUCATION \| J&W planning program for physician aides.” Providence Journal (RI), 1 ed., sec. News, 17 Dec. 2012, p. MAIN 01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524219D80FE8FF8. Accessed 6 Mar. 2022._

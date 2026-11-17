@@ -23,9 +23,10 @@ added-to-NRHP:
 
 address: '391 Eddy St, Providence RI'
 latitude: '41.8173488'
-longitude: '-71.4075889'
+longitude: '-71.4069438'
 gmap: "https://www.google.com/maps/place/391+Eddy+St,+Providence,+RI+02903/@41.8173488,-71.4075889,19z/data=!3m1!4b1!4m6!3m5!1s0x89e4456a91021723:0x1d2997ed1ae2532d!8m2!3d41.8173488!4d-71.4069438!16s%2Fg%2F11c24_dnv4?entry=ttu"
 street: [ 'Eddy St' ]
+street-number: 391
 
 meta: ""
 excerpt: "A small one-story industrial building has been home to a design studio for about 50 years but is now awaiting a new owner"
@@ -91,13 +92,13 @@ The first company to be documented as located here when the building was constru
 
 #### Maps
 
-From what we can tell, the address for this block has not changed since 1889. 
+From what we can tell, the address for this block has not changed since 1889.
 
-+ [1889–1900 Sanborn Insurance Map, Volume 1, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099189901){:target="_blank"} (page 22) — In the top right corner is the block bounded by Eddy to the east, Point to the south, Richmond to the west, and South Sts to the north. On the Eddy street side at number 391–393 is a two-story wooden dwelling (yellow, marked with a 2 and a D) with a two story outbuilding to the west. This seems to be a different building completely from the present one.
-+ [1920–1921 Sanborn Insurance Map, Volume 1, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"} (page 24) — The block is now in the lower right of the map, but the dwelling at 391–393 remains at the same footprint with the same markings.
-+ [1926 G.M. Hopkins Insurance Map, Plate 2](//sosri.access.preservica.com/uncategorized/IO_c2da2c8c-98ee-4fec-9c94-b4a016b592a9/){:target="_blank"} — In the lower right section of the map, the footprint at 391–393 has changed. A brick (pink) “L” shaped building is in place and labelled “John J. Carr & Sons.” “R. Carr” is marked as the owner and the lot size looks to be 3,325 square feet.
-+ [1937 G.M. Hopkins Insurance Map, Plate 2](//sosri.access.preservica.com/uncategorized/IO_edbc5f46-052f-4b47-8f13-458f6b4cbefe/){:target="_blank"} — Much the same as previous map.
-+ [1920–1951 Sanborn Insurance Map, Volume 1, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101){:target="_blank"} (page 24) — The block is in the lower right and many of the earlier buildings have been replaced. The building at 391–393 is one story (marked 1B for one-story on raised basement, not to be confused with what we think is 18' frontage) and labelled “Caterer.”
++ [1889–1900 Sanborn Insurance Map, Volume 1, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099189901) (page 22) — In the top right corner is the block bounded by Eddy to the east, Point to the south, Richmond to the west, and South Sts to the north. On the Eddy street side at number 391–393 is a two-story wooden dwelling (yellow, marked with a 2 and a D) with a two story outbuilding to the west. This seems to be a different building completely from the present one.
++ [1920–1921 Sanborn Insurance Map, Volume 1, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (page 24) — The block is now in the lower right of the map, but the dwelling at 391–393 remains at the same footprint with the same markings.
++ [1926 G.M. Hopkins Insurance Map, Plate 2](https://sosri.access.preservica.com/uncategorized/IO_c2da2c8c-98ee-4fec-9c94-b4a016b592a9/) — In the lower right section of the map, the footprint at 391–393 has changed. A brick (pink) “L” shaped building is in place and labelled “John J. Carr & Sons.” “R. Carr” is marked as the owner and the lot size looks to be 3,325 square feet.
++ [1937 G.M. Hopkins Insurance Map, Plate 2](https://sosri.access.preservica.com/uncategorized/IO_edbc5f46-052f-4b47-8f13-458f6b4cbefe/) — Much the same as previous map.
++ [1920–1951 Sanborn Insurance Map, Volume 1, Plate 13](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101) (page 24) — The block is in the lower right and many of the earlier buildings have been replaced. The building at 391–393 is one story (marked 1B for one-story on raised basement, not to be confused with what we think is 18' frontage) and labelled “Caterer.”
 
 
 ### In the News
@@ -121,6 +122,4 @@ Mr. Grear’s work appeared in numerous exhibitions, including shows at the Metr
 
 Friends and colleagues recall a man with a great sense of humor, whose ease around others conveyed the same kind of approachability as his art. Graphic design will continue to reinvent itself, as it always has done, but traces of Malcolm Grear’s influence will be visible for years to come.
 
-—
-
-“Malcolm Grear, 1931-2016.” Providence Journal (RI), sec. RI Opinion, 16 Feb. 2016, p. 14. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15B0D67A51D44CF0. Accessed 13 Nov. 2023.
+— _“Malcolm Grear, 1931-2016.” Providence Journal (RI), sec. RI Opinion, 16 Feb. 2016, p. 14. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15B0D67A51D44CF0. Accessed 13 Nov. 2023._

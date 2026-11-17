@@ -20,10 +20,12 @@ tags: [ 'Former Banks', 'Providence Public Library Digital Collections' ]
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
 
-address: '87 Empire Street, Providence RI'
+address: '87 Empire St, Providence RI'
 latitude: '41.8215893'
-longitude: '-71.4176998'
+longitude: '-71.4155111'
 gmap: "https://www.google.com/maps/place/87+Empire+St,+Providence,+RI+02903/@41.8215893,-71.4176998,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44512e6d0d03d:0x6e4be0f43f61eef0!8m2!3d41.8215893!4d-71.4155111"
+street: [ 'Empire St' ]
+street-number: 87
 
 meta: ""
 excerpt: "A classically-inspired former bank with soaring vaulted ceiling finds new life as a performing arts center"
@@ -81,7 +83,7 @@ images:
     caption: 'Photo from the DBVW website'
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="//provlibdigital.org/islandora/object/islandora%3A14563" target="blank">Exterior</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A14461" target="blank">Interior</a>) and <a href="//provlibdigital.org/islandora/object/islandora%3A5699" target="blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library, and DBVW Architects website'
+imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a href="https://provlibdigital.org/islandora/object/islandora%3A14563">Exterior</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A14461">Interior</a>) and <a href="https://provlibdigital.org/islandora/object/islandora%3A5699">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library, and DBVW Architects website'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -90,16 +92,16 @@ imagescredit: 'Contributions from the Rhode Island Photograph Collection (<a hre
 
 ### Redevelopment
 
-The 50 foot high, vaulted ceiling of this former banking institution was obscured by a normal-height drop ceiling — most likely to save energy costs while still in use as a bank lobby up until the 1990s. Our photos came from touring the space after AS220 held a Fool’s Ball there. 
+The 50 foot high, vaulted ceiling of this former banking institution was obscured by a normal-height drop ceiling — most likely to save energy costs while still in use as a bank lobby up until the 1990s. Our photos came from touring the space after AS220 held a Fool’s Ball there.
 
 Thanks to Citizens Bank’s gift of its former Empire Street branch, Trinity Rep has created a new first-class theater. Trinity gained an additional stage for its productions and those of sister Rhode Island arts organizations and new work from the Brown University/Trinity Rep graduate programs.
 
-With flexible audience seating for up to 350, the Pell Chafee Performance Center offers advanced technical capabilities, a “satellite” box office, and comfortable amenities for audience and performers, fully accessible and ADA-compliant. [DBVW Architects](//dbvw.com/projects/pell-chafee-performance-center/){:target="_blank"} supervised the adaptive reuse of this building. The project won a 2005 Providence Preservation Society Adaptive Reuse Award as well as a 2006 Preserve Rhode Island Merit Award. 
+With flexible audience seating for up to 350, the Pell Chafee Performance Center offers advanced technical capabilities, a “satellite” box office, and comfortable amenities for audience and performers, fully accessible and ADA-compliant. [DBVW Architects](https://dbvw.com/projects/pell-chafee-performance-center/) supervised the adaptive reuse of this building. The project won a 2005 Providence Preservation Society Adaptive Reuse Award as well as a 2006 Preserve Rhode Island Merit Award.
 
 
 ### Current Events
 
-The [Pell Chafee Performance Center](//www.trinityrep.com/box-office/our-theaters/){:target="_blank"} is home to a collaboration between Brown University and Trinity Repertory Theatre for joint MFA performances and education programs.
+The [Pell Chafee Performance Center](https://www.trinityrep.com/box-office/our-theaters/) is home to a collaboration between Brown University and Trinity Repertory Theatre for joint MFA performances and education programs.
 
 
 ### History
@@ -108,6 +110,6 @@ Old Stone Bank was a popular Rhode Island banking institution founded as a mutua
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-87 Empire Street **Old Stone Bank**, Empire Street Branch (1929): Howe & Church, assisted by Jackson, Robertson & Adams, architects. Classical Revival, 3-story, granite-and-brick-sheathed, steel-frame building with a fully articulated, stylized triumphal-arch-motif facade; mullioned windows with fan lights fill the arches; and the main entrance is in the lower portion of the central arch. The banking hall has been heavily altered. 
+87 Empire Street **Old Stone Bank**, Empire Street Branch (1929): Howe & Church, assisted by Jackson, Robertson & Adams, architects. Classical Revival, 3-story, granite-and-brick-sheathed, steel-frame building with a fully articulated, stylized triumphal-arch-motif facade; mullioned windows with fan lights fill the arches; and the main entrance is in the lower portion of the central arch. The banking hall has been heavily altered.
 
-Built as a branch of the Old Stone Bank, the successor firm of the **Providence Institution for Savings** (founded 1819), this building is the visual highlight in a block of simpler early 20th-century commercial blocks. 
+Built as a branch of the Old Stone Bank, the successor firm of the **Providence Institution for Savings** (founded 1819), this building is the visual highlight in a block of simpler early 20th-century commercial blocks.

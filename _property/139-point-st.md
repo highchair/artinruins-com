@@ -19,7 +19,9 @@ tags: []
 address: '139 Point St, Providence RI'
 latitude: '41.8159905'
 longitude: '-71.40941'
-gmap: "https://www.google.com/maps/place/139+Point+St,+Providence,+RI+02903/@41.8159905,-71.40941,3a,75y,64.64h,90t/data=!4m5!3m4!1s0x89e4456a4d53e7d7:0xe87b058bb5e40855!8m2!3d41.816109!4d-71.409136"
+gmap: "https://www.google.com/maps/place/143+Point+St,+Providence,+RI+02903/@41.8158635,-71.4097175,19.21z/data=!4m12!1m5!3m4!2zNDHCsDQ4JzU3LjYiTiA3McKwMjQnMzMuOSJX!8m2!3d41.8159905!4d-71.40941!3m5!1s0x89e4456bb32ebebf:0xd255cd5ecf5b4624!8m2!3d41.8159716!4d-71.4091888!16s%2Fg%2F11qg0ytq55?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Point St' ]
+street-number: 139
 
 meta: ""
 excerpt: "An unassuming rehabilitation of a simple mid-century industrial space into a modern office"
@@ -52,7 +54,7 @@ imagescredit:
 
 An understated redevelopment of a mid-century industrial structure into a modern office space. The building was not built like others in the area — it was built cheaply and presumably quickly to give home to support businesses for the jewelry and metal finishing industries, no doubt.
 
-The redesign encased the former loading dock area in a glass atrium-like structure, set back from the street. The clerstory design opens the interior to additional natural light. Bamboo was planted as a natural screen in front of the large central windows.
+The redesign encased the former loading dock area in a glass atrium-like structure, set back from the street. The clerestory design opens the interior to additional natural light. Bamboo was planted as a natural screen in front of the large central windows.
 
 
 ### Current Events
@@ -69,4 +71,4 @@ The history is spotty on this building. Thanks to the anecdotes I was able to ve
 + ITEM Product Development was the first tenant in the converted space from 2000 to about 2008. Lifespan then purchased the building, ITEM moved to a large space in Cranston, and the Lifespan Development Office now occupies the building
 + Gallimaufry Good Food, Inc. was located at **103 Point Street** as a catering business, registered with the State in 1992. The registration was dissolved in 2000. 103 Point Street is the location of the former Olga’s, _not_ this building. A related company owned by Paul and Patricia Millete — Burgess Oakes, LLC — entered into a court battle over the liquidation of assets when Gallimaufry closed
 
-Of course, if anyone else has further information about this building please let us know in the anecdotes.
+Of course, if anyone else has further information about this building, please let us know in the anecdotes.

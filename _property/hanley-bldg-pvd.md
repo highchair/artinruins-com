@@ -26,10 +26,10 @@ added-to-NRHP: 'February 10, 1984'
 
 address: '52–60 Pine St, Providence RI'
 latitude: '41.8228028'
-longitude: '-71.4099392'
+longitude: '-71.4092955'
 gmap: "https://www.google.com/maps/place/The+Hanley+Building,+56+Pine+St,+Providence,+RI+02903/@41.8228028,-71.4099392,19z/data=!3m1!4b1!4m6!3m5!1s0x89e44514359d11ff:0x3076ff754e00d87a!8m2!3d41.8228028!4d-71.4092955!16s%2Fg%2F11bw3xkvlf?entry=ttu&g_ep=EgoyMDI1MDcwNy4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Pine St' ]
-street-number: 52
+street-number: 56
 
 meta: ""
 excerpt: "A handsome, turn-of-the century commercial investment property that continues to be a notable downtown office building and landmark due to its unique mural"
@@ -120,11 +120,11 @@ Pine St, 52–60: **Hanley Building** (ca. 1910): William R. Walker & Son, archi
 
 ***
 
-James Hanley, 1841-1912 — Hanley’s first important step into the world of business came at the age of twenty. He opened an inn and liquor store in downtown Providence. In 1876 he began his career as a brewer in partnership with fellow-Irishman John P. Cooney. His major enterprise became known as the James Hanley Brewing Company in 1891, but he also established the [Providence Brewing Company]({% link _property/american-brewing-co-pvd.md %}) and the Hanley-Hoye Company, a wholesale liquor dealership. In addition, Hanley became a director of the National Exchange Bank and several other large financial corporations.
+**James Hanley**, 1841-1912 — Hanley’s first important step into the world of business came at the age of twenty. He opened an inn and liquor store in downtown Providence. In 1876 he began his career as a brewer in partnership with fellow-Irishman John P. Cooney. His major enterprise became known as the James Hanley Brewing Company in 1891, but he also established the [Providence Brewing Company]({% link _property/american-brewing-co-pvd.md %}) and the Hanley-Hoye Company, a wholesale liquor dealership. In addition, Hanley became a director of the National Exchange Bank and several other large financial corporations.
 
 Hanley loved the sport of thoroughbred horseracing and became nationally prominent as the trainer and owner of fine and successful racehorses, one of which, a pacer named Prince Alert, held the world’s record for the half-mile. In his business, he used the best draught animals available and his prize teams of six, nine, and twelve horses won many national and international competitions bringing wide attention to his fine ale. Hanley’s teams (foreshadowing those of Budweiser’s August Busch) were known as the “World’s Best,” and Providence residents thrilled to the appearance of these handsome deep-chested animals in parades and other public celebrations. His most famous group was “the Big Nine,” a synchronized team of roan Belgian horses, ranging in height from 17 to 19 hands and in weight from 2,200 to 2,500 pounds. The entire entourage, weighing over ten tons, hauled a twenty-foot show wagon and was regarded as one of the world’s finest teams of draught horses.
 
-— _Excerpted from the [RI Heritage Hall of Fame](https://riheritagehalloffame.com/james-hanley/), visited July 11, 2025_
+— _Excerpted from the [RI Heritage Hall of Fame](https://riheritagehalloffame.com/james-hanley/). Accessed 11 July 2025_
 
 
 ### In the News
@@ -142,7 +142,7 @@ Bjurman, who honed his skills as a billboard painter, specializes in what are kn
 
 For the Hanley Building mural, Bjurman and Cerilli decided to continue the window and cornice patterns on the front and sides of the building. But they also decided to add a twist - a clue to let viewers know that the visual joke was on them.
 
-At the mural’s lower righthand corner, just above street level, Bjurman painted what looks like the edge of a King Kong-sized poster that’s slowly peeling off the side of the building. 
+At the mural’s lower righthand corner, just above street level, Bjurman painted what looks like the edge of a King Kong-sized poster that’s slowly peeling off the side of the building.
 
 [An alternate idea that Bjurman pitched was that he paint a version of himself painting the windows. Cerilli liked both ideas and allowed Bjurman to choose his favorite.[^2]]
 
@@ -164,4 +164,4 @@ Bjurman and Cerilli, meanwhile, teamed up on another project last year. To lure 
 
 The result is a marvelous bit of trompe l’oeil decoration that not only makes good business sense, but adds a touch of artistic panache to the Providence waterfront.
 
-— SICLEN, BILL VAN. “Can you believe your eyes? Optical illusions paint a stunning face on dull architecture.” <em>Providence Journal (RI)</em>, ALL ed., sec. LIFEBEAT/WEEKEND, 29 July 1988, pp. D-01. <em>NewsBank: America's News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525262E12B1F320. Accessed 12 July 2025.
+— _SICLEN, BILL VAN. “Can you believe your eyes? Optical illusions paint a stunning face on dull architecture.” Providence Journal (RI), ALL ed., sec. LIFEBEAT/WEEKEND, 29 July 1988, pp. D-01. NewsBank: America's News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525262E12B1F320. Accessed 12 July 2025._

@@ -291,9 +291,7 @@ Margo St. James, the former prostitute who challenged the prostitution law in th
 **Update:** “By a tally of 62 to 8, the lawmakers [approved a bill to] make prostitution and soliciting sex illegal ‘regardless of the time, place or location,’ ending a four-year quest by Rep. Joanne M. Giannini, D-Providence, to amend the current law.”[^20]
 {:.o__tldr}
 
-—
-
-Arditi, Lynn. “How R.I. opened the door to prostitution — Broken legal barriers made public nuisance a private act.” <em>Providence Journal (RI)</em>, All ed., sec. News, 31 May 2009, pp. A-01. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/152424BD2ECB04E8. Accessed 7 Apr. 2024.
+— _Arditi, Lynn. “How R.I. opened the door to prostitution — Broken legal barriers made public nuisance a private act.” Providence Journal (RI), All ed., sec. News, 31 May 2009, pp. A-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/152424BD2ECB04E8. Accessed 7 Apr. 2024._
 
 [^20]: EDGAR, RANDAL. “At the Assembly —  House OKs ban on indoor prostitution.” <em>Providence Journal (RI)</em>, All ed., sec. News, 14 May 2009, pp. A-01. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/152424B510082BF8. Accessed 8 Apr. 2024.
 
@@ -324,6 +322,4 @@ He said he and his brothers will either donate the mural to a museum or hang it 
 
 Meanwhile, he added, “we’re putting it down in the cellar.”
 
-—
-
-BARRY, DAN. “Renovators find unexpected treasure.” <em>Providence Journal (RI)</em>, CITY FINAL ed., sec. NEWS, 25 Nov. 1988, pp. C-01. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525276398855030. Accessed 6 Apr. 2024.
+— _BARRY, DAN. “Renovators find unexpected treasure.” Providence Journal (RI), CITY FINAL ed., sec. NEWS, 25 Nov. 1988, pp. C-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525276398855030. Accessed 6 Apr. 2024._

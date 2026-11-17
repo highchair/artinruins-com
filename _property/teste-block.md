@@ -22,9 +22,11 @@ NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
 
 address: '84 Dorrance St, Providence RI'
-latitude: '41.822976'
-longitude: '-71.4112044'
+latitude: '41.822975'
+longitude: '-71.4106572'
 gmap: "https://www.google.com/maps/place/84+Dorrance+St,+Providence,+RI+02903/@41.822976,-71.4112044,161m/data=!3m2!1e3!4b1!4m5!3m4!1s0x89e445146aabde8d:0xea5dc41cb3df5823!8m2!3d41.822975!4d-71.4106572"
+street: [ 'Dorrance St' ]
+street-number: 84
 
 meta: ""
 excerpt: "A narrow and difficult to redevelop building languished on the Ten Most Endangered List for five years before getting a new life"
@@ -55,9 +57,9 @@ images:
   - url: teste-block-jh-2013-10-03.jpg
     sizes: '1200, 900'
 
-imagescredit: 'Contributions from the Rhode Island Collection of the Providence Public Library (<a href="https://provlibdigital.org/islandora/object/VM013_GF3220_1">1890 photo,</a> <a href="https://provlibdigital.org/islandora/object/VM013_WC1460">1895 photo</a>)'
-
 mostrecentimage: 2013-10-01
+
+imagescredit: 'Contributions from the Rhode Island Collection of the Providence Public Library (<a href="https://provlibdigital.org/islandora/object/VM013_GF3220_1">1890 photo,</a> <a href="https://provlibdigital.org/islandora/object/VM013_WC1460">1895 photo</a>)'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

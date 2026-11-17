@@ -21,9 +21,11 @@ lists: []
 tags: []
 
 address: '146 Dyer St, Providence RI'
-latitude: '41.8225568'
-longitude: '-71.4084976'
+latitude: '41.8225558'
+longitude: '-71.4079504'
 gmap: "https://www.google.com/maps/place/146+Dyer+St,+Providence,+RI+02903/@41.8225568,-71.4084976,19z/data=!3m1!4b1!4m5!3m4!1s0x89e44515c780a763:0x77a65f444d3d9162!8m2!3d41.8225558!4d-71.4079504"
+street: [ 'Dyer St' ]
+street-number: 146
 
 meta: ""
 excerpt: "A handsome two-story former wharf warehouse along Dyer street, backing up to the Providence River, used as a electric substation for about 100 years"
@@ -140,6 +142,7 @@ Duncan, a Scot, came to America in 1822 and married Cyrus Butler’s niece; he w
 
 146 Dyer Street ([rear building](#photo-quay-jh-2021-02-03)) **Narragansett Electric Battery Substation** ca 1920: 3-story brick structure with a flat roof and simple band cornice and quoined corners. This building has been used by the Narragansett Electric Company since its construction.
 
+***
 
 #### Alexander Duncan
 

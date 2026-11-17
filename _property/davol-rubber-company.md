@@ -22,9 +22,9 @@ NRHP-ref-number: '80000093 (individual)'
 added-to-NRHP: 'June 1980'
 
 address: '1 Davol Square, Providence RI'
-latitude: '41.8177183'
-longitude: '-71.407342'
-gmap: "https://www.google.com/maps/search/1+Davol+Square,+10+Davol+Square,+Providence,+RI+02903/@41.8177183,-71.407342,339m/data=!3m1!1e3"
+latitude: '41.81747'
+longitude: '-71.4063791'
+gmap: "https://www.google.com/maps/place/3+Davol+Sq+Unit+3A,+Providence,+RI+02903/@41.8176663,-71.4069589,18z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzAzLjgiTiA3McKwMjQnMjYuNCJX!8m2!3d41.8177183!4d-71.407342!3m5!1s0x89e4456a9f7fc27b:0x7e83b4cde591839a!8m2!3d41.81747!4d-71.4063791!16s%2Fg%2F11mhk1jn3n?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "A large 250,000 sf brick mill complex used for rubber manufacture over almost 100 years, now divided into office and retail space"
@@ -127,7 +127,7 @@ imagescredit: 'Contributions from <abbr title="Rhode Island Historic Preservatio
 
 ### Redevelopment
 
-In the early 80s, a small team of architects, engineers, and financiers (The Marathon Company) came together to redevelop this formerly industrial property into a Faneuil-hall-style indoor shopping establishment. A mix of quick and sit-down restaurants, small shops, specialty booths, and a few larger retailers were in the mix. It opened January of 1983. 
+In the early 80s, a small team of architects, engineers, and financiers (The Marathon Company) came together to redevelop this formerly industrial property into a Faneuil-hall-style indoor shopping establishment. A mix of quick and sit-down restaurants, small shops, specialty booths, and a few larger retailers were in the mix. It opened January of 1983.
 
 By 1985, business was so strong that the developer, Robert Freeman of the Marathon Group, set his sights on additional properties ripe for redevelopment. As early as 1988, though, cracks began to show as competition from places like Garden City and other suburban malls increased. To attract more “destination” clientele, management started to bring in larger stores instead of smaller mom and pops that rely on casual foot traffic.[^1] 
 
@@ -139,13 +139,13 @@ Optimism remained high, and perhaps the plan to use better-known brands to attra
 
 [^3]: “Utility weighs purchase of Davol Square complex.” Providence Journal (RI), ALL ed., sec. BUSINESS, 13 Dec. 1990, pp. F-02. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525BA8E54D870E8. Accessed 29 Dec. 2021.
 
-In February of 1991, Fleet National Bank moved to foreclose on the property, whose owners were in arrears on their $250,000 second mortgage.[^4] An economic downturn was underway and the local credit union crisis was about to begin. Its biggest tenant moved out in June.[^5] 
+In February of 1991, Fleet National Bank moved to foreclose on the property, whose owners were in arrears on their $250,000 second mortgage.[^4] An economic downturn was underway and the local credit union crisis was about to begin. Its biggest tenant moved out in June.[^5]
 
 [^4]: HARROP, FROMA. “Davol Square retail, office center facing the auction block.” Providence Journal (RI), ALL ed., sec. NEWS, 5 Feb. 1991, pp. A-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525B9D4DEA51BA8. Accessed 29 Dec. 2021.
 
 [^5]: HIDAY, JEFFREY L.. “Largest tenant leaves Davol Square.” Providence Journal (RI), ALL ed., sec. BUSINESS, 28 June 1991, pp. B-13. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525BA1B2AB624A0. Accessed 29 Dec. 2021.
 
-In November 1991, Freeman announced the center would become a costume jewelry trade center. The showrooms, which would not be open to the public, would display jewelry to volume buyers such as wholesalers and catalog merchandisers.[^6] The United Jewelry Show opened in February of 1992. About 60,000 square feet of the former mall had been converted into a year-round home for jewelry manufacturers with six-year leases for 131 of the 150 rooms being built.[^7] 
+In November 1991, Freeman announced the center would become a costume jewelry trade center. The showrooms, which would not be open to the public, would display jewelry to volume buyers such as wholesalers and catalog merchandisers.[^6] The United Jewelry Show opened in February of 1992. About 60,000 square feet of the former mall had been converted into a year-round home for jewelry manufacturers with six-year leases for 131 of the 150 rooms being built.[^7]
 
 [^6]: TOOHER, NORA LOCKWOOD. “MALL NO MORE Davol Square deal announced Complex to become jewelry trade center.” Providence Journal (RI), ALL ed., sec. BUSINESS, 9 Nov. 1991, pp. D-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525B93731CB96D0. Accessed 29 Dec. 2021.
 
@@ -155,16 +155,16 @@ With a few good years as a jewelry showroom, the property once again languished 
 
 [^8]: SMITH, GREGORY. “Tax sale king takes title *Patrick Conley and a group of partners forked over $1.74 million to pay the overdue taxes on three large properties, acquiring tax claims in the city’s largest tax sale.” Providence Journal (RI), METRO ed., sec. NEWS, 27 June 1996, pp. C-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525216C06211780. Accessed 29 Dec. 2021.
 
-In 2001, though, as the Jewelry District starts to reimagine itself as the Innovation District, the Rhode Island Economic Policy Council, the Rhode Island Technology Council, The Slater Center for Design Innovation, and The Slater Center for Interactive Technologies move out of spaces elsewhere in Providence and into Davol Square with companies like Global Risk Exchange, an Internet-based insurance marketplace; The Judge Group, a technology staffing company; and Simpli.com, an Internet search engine.[^9] 
+In 2001, though, as the Jewelry District starts to reimagine itself as the Innovation District, the Rhode Island Economic Policy Council, the Rhode Island Technology Council, The Slater Center for Design Innovation, and The Slater Center for Interactive Technologies move out of spaces elsewhere in Providence and into Davol Square with companies like Global Risk Exchange, an Internet-based insurance marketplace; The Judge Group, a technology staffing company; and Simpli.com, an Internet search engine.[^9]
 
 [^9]: STAPE, ANDREA L. “Davol Square emerging as a high-tech hotbed.” Providence Journal (RI), All ed., sec. Business, 10 Mar. 2001, pp. B-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152510EB86035268. Accessed 29 Dec. 2021.
 
-It seems that Davol Square has been more successful without a theme — shopping or jewelry — and just as a beautiful set of spaces that are flexible enough to change with the business climate. 
+It seems that Davol Square has been more successful without a theme — shopping or jewelry — and just as a beautiful set of spaces that are flexible enough to change with the business climate.
 
 
 ### Current Events
 
-Space at Davol Square is available for lease through commercial real estate companies. 
+Space at Davol Square is available for lease through commercial real estate companies.
 
 
 ### History
@@ -177,7 +177,7 @@ _From the National Register nomination form 1980, prepared by Jeffrey Blydenburg
 
 In 1874 Joseph Davol and Emery Perkins founded the **Perkins Manufacturing Company**. This small experimental rubber company was located on the site of the Eban Simmons Planing and Saw Mill, not far from the present facility, owned by Davol’s grandfather-in-law, Eban Simmons. In 1878 Davol was sole proprietor and two years later the **Davol Manufacturing Company** moved into the [Simmons Building]({% link _property/simmons-building.md %}). In 1884 the first building of the main complex was completed. The late 1890’s and the early 1900’s were periods of rapid expansion for Davol. The name of the company changed again to the **Davol Rubber Company** and became a “pioneer in a field hitherto exclusively controlled by foreign manufacturers”.
 
-Among the innovations of the company, Joseph Davol engineered the vanishing seam on rubber tubes used to carry plasma. They produced over 23,000 different products for druggists, surgeons, dentists and stationers. The company continued to grow and in 1913 a three-story brick and steel frame structure was erected on the corner of Point and Eddy Streets. The complex was essentially complete. 
+Among the innovations of the company, Joseph Davol engineered the vanishing seam on rubber tubes used to carry plasma. They produced over 23,000 different products for druggists, surgeons, dentists and stationers. The company continued to grow and in 1913 a three-story brick and steel frame structure was erected on the corner of Point and Eddy Streets. The complex was essentially complete.
 
 In the 1930’s as the textile industry was declining in Providence, Davol employed 700 men and women. The company name changed again to **Davol, Inc.**, as it expanded beyond the rubber industry. In the 1960’s, working in association with Tufts and Harvard universities, Davol researched and provided capital for the first heart pump machine. In 1969 a new facility was built in the suburbs and in 1977 the last operations in Providence moved to North Carolina.
 
@@ -187,7 +187,7 @@ In 1977, when Davol, Inc., stopped manufacturing at its Providence facility, it 
 
 [The Simmons Building]({% link _property/simmons-building.md %}) housed all of Davol’s operations until 1884 when the first structure of the main complex, north of Point Street, was constructed to provide room for expansion. […]
 
-The main complex of buildings was built in several stages. From the exterior the complex appears as several large rectangular structures surrounding interior, alleyways and courtyards. The flat-roofed, brick structures generally are three and four stories in height. 
+The main complex of buildings was built in several stages. From the exterior the complex appears as several large rectangular structures surrounding interior, alleyways and courtyards. The flat-roofed, brick structures generally are three and four stories in height.
 
 [The original three-story, brick structure, at 15 Point Street](#photo-davol-rubber-jb-1980-02-04), built in 1884, has heavy-timber framing, segmental-arch windows, and a five-bay storefront with large round-arch windows and a central, arched doorway. In the late 1890’s a one-story (later a second story was added) office was added to the west side and a large three-story addition was added to the east of the original structure. The Point Street elevation appears as one continuous building because of similar detailing in the earlier and later facades.
 
@@ -204,6 +204,7 @@ _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
 The original site of the Davol Rubber Company was near the site of the planing works owned by Davol's grandfather- in-law, Eban Simmons. The earliest existing structure built for the company is the [Simmons Building]({% link _property/simmons-building.md %}) on the south side of Point Street. Named for Eban Simmons, the Simmons Building (1880) is a long, 4-story, brick structure with a flat roof, granite beltcourses above rectangular windows, and 1st-story cast-iron storefronts. In the late 1880s and 1890s the Simmons Building was occupied mainly by jewelry manufacturers, but by the early 20th century it was reoccupied by the Davol Rubber Company. The main complex of the Davol Rubber Company, on the north side of Point Street, contains several late 19th- and early 20th-century structures, the earliest of which is a 3-story brick structure (1884) with segmental-arch windows, a 5-bay storefront with large round-arch windows, and a central arched doorway. About five years later, the company constructed a nearly identical, 3-story structure which was connected to the 1884 structure by a small, 3-bay, 3-story structure with rectangular windows and a large rectangular central entrance. As intended, the three structures present a symmetrical facade on the Point Street elevation. Other structures in the complex include a 2-story, brick office (c. 1900; second story added later); a long, 4-story, steel-frame brick structure (1913; fourth story added in 1960); and numerous late 19th- and early 20th-century additions at the rear of the complex. In 1969 Davol, Inc., built an additional plant in Cranston, and in 1977 the company vacated its Point Street plant for a modern factory in North Carolina. The Davol Rubber Company Complex is currently being developed for adaptive re-use.
 
+***
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
@@ -216,7 +217,7 @@ It has been heavily altered by a fourth story construct ed of glass and a large 
 
 ### In the News
 
-[A “Flashback” video from Channel 10](https://turnto10.com/news/videos/the-mall-that-came-before-providence-place) showing their footage from the opening of Davol Square, January 2, 1983. 
+[A “Flashback” video from Channel 10](https://turnto10.com/news/videos/the-mall-that-came-before-providence-place) showing their footage from the opening of Davol Square, January 2, 1983.
 
 ***
 
@@ -230,7 +231,7 @@ _by Jane Holtz Kay_
 
 […] Boston’s Faneuil Hall Marketplace, is a success story. An in-town amusement park that boasts more visitors than Disneyland, Faneuil Hall is clearly an architectural and commercial achievement that is emulated everywhere. […]
 
-They are one of the few prospering forms of architecture in tough times. Or, as Jeffrey Blydenburgh, the architect whose firm refurbished Davol Square, which opened here last month, puts it: “Everything except markets is a hard-time business.” 
+They are one of the few prospering forms of architecture in tough times. Or, as Jeffrey Blydenburgh, the architect whose firm refurbished Davol Square, which opened here last month, puts it: “Everything except markets is a hard-time business.”
 
 […] for Providence, one of the most laggard of the nitty-gritty cities of New England, the openings, first of the Arcade downtown two years ago and now Davol Square, are less ambivalent; and they’re especially instructive in showing the range of these architectural purveyors of quiches and quirkery.
 
@@ -244,11 +245,11 @@ Architects Beckman, Blydenburgh & Associates (the project manager was Alfred Oak
 
 Combined with a zest for the details, a strong hand in designing shops, and buildings wayward enough to allow wandering, it has a human irregularity. Davol Square avoids some of the mall’s dense and overwhelming materialism which gives shoppers a sense that they are smothering in an overenchanted forest of Paddington bears.
 
-High-tech touches also relieve the tedium of the idiom. Steel bridges crossing the 260-foot-long Galleria enliven the interior beneath an energy-efficient Kalwall translucent roof. 
+High-tech touches also relieve the tedium of the idiom. Steel bridges crossing the 260-foot-long Galleria enliven the interior beneath an energy-efficient Kalwall translucent roof.
 
 […] In short, the architects, with their consumer haven, have observed and enlivened a neighborhood that never even had a name. […]
 
-_Captured December 28, 2021 from https://www.csmonitor.com/1983/0121/012135.html_
+— _Captured December 28, 2021 from https://www.csmonitor.com/1983/0121/012135.html_
 
 ***
 
@@ -267,6 +268,6 @@ William E. Collins, an aide to the mayor, said that the loan is part of a new ci
 
 The $3.8 million is from the federal Community Development program. The money eventually will be spent on various projects in the city.
 
-— “Cianci gives loan for Davol Square.” Providence Journal (RI), CITY ed., sec. NEWS, 3 Aug. 1982, pp. B-03. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C39330A3EB68. Accessed 28 Dec. 2021.
+— _“Cianci gives loan for Davol Square.” Providence Journal (RI), CITY ed., sec. NEWS, 3 Aug. 1982, pp. B-03. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C39330A3EB68. Accessed 28 Dec. 2021._
 
 </details>

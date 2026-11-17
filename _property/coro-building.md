@@ -22,10 +22,12 @@ superlative: 'The largest manufacturer of costume jewelry in the 1950s and 1960s
 NRHP-ref-number: '85003088 (contributing)'
 added-to-NRHP: 'December 1985'
 
-address: '167 Point Street Providence RI'
+address: '167 Point St, Providence RI'
 latitude: '41.81599'
-longitude: '-71.4124137'
+longitude: '-71.410225'
 gmap: "https://www.google.com/maps/place/167+Point+St,+Providence,+RI+02903/@41.81599,-71.4124137,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456bb9509897:0x61a537bd261dd37c!8m2!3d41.81599!4d-71.410225"
+street: [ 'Point St' ]
+street-number: 167
 
 meta: ""
 excerpt: "Once the largest manufacturer of costume jewelry, this building was vacant in the 80s but then revived by Lifespan as their corporate headquarters"
@@ -68,9 +70,9 @@ imagescredit: 'Contributions by Rick Greenwood for the National Register Form an
 
 ### Redevelopment
 
-The Coro Building is a 270,000-square-foot, multi-wing Art-Deco style commercial building built for the Cohn & Rosenburger (hence, <i>CoRo</i>) jewelry firm right before the great depression and the stock market crash of 1929. The firm survived and thrived, expanding with a four story wing in 1947. The company continued to thrive, expanding with factory locations in Olneyville and Bristol, Canada, and England at it height in the 1960s and early 70s. In the late 60s, just around the time that the interstate highways cut through the city, the Coro building was attached to the former [Phenix Iron Foundry]({% link _property/phenix-machine-shop.md %}) as additional warehouse space. By 1979, however, fortunes had changed and manufacturing was closed by its parent company. 
+The Coro Building is a 270,000-square-foot, multi-wing Art-Deco style commercial building built for the Cohn & Rosenburger (hence, <i>CoRo</i>) jewelry firm right before the great depression and the stock market crash of 1929. The firm survived and thrived, expanding with a four story wing in 1947. The company continued to thrive, expanding with factory locations in Olneyville and Bristol, Canada, and England at it height in the 1960s and early 70s. In the late 60s, just around the time that the interstate highways cut through the city, the Coro building was attached to the former [Phenix Iron Foundry]({% link _property/phenix-machine-shop.md %}) as additional warehouse space. By 1979, however, fortunes had changed and manufacturing was closed by its parent company.
 
-The building was vacant at the time of its photo and inclusion in the Jewelry Historic District nomination of 1985. The Lifespan non-profit hospital group purchased and renovated the building in the late 80s/early 90s. In a similar timeframe, Brown University redeveloped the former [Phenix Iron Foundry]({% link _property/phenix-machine-shop.md %}) building for medical-related use. Between 1988 and 1997, a large eight-story parking garage was built for Lifespan employees. 
+The building was vacant at the time of its photo and inclusion in the Jewelry Historic District nomination of 1985. The Lifespan non-profit hospital group purchased and renovated the building in the late 80s/early 90s. In a similar timeframe, Brown University redeveloped the former [Phenix Iron Foundry]({% link _property/phenix-machine-shop.md %}) building for medical-related use. Between 1988 and 1997, a large eight-story parking garage was built for Lifespan employees.
 
 
 ### Current Events
@@ -86,6 +88,7 @@ _From the Providence Jewelry District National Register nomination form, 1985_
 
 Frank S. Perry, architect. This is a 3-story, flat-roof, U-shaped, reinforced-concrete building with pier and panel exterior walls. The panels are filled with large banks of industrial sash windows, with bands of beige brick beneath. The piers rise up to a low parapet that is trimmed with a moderate amount of Art Deco styling. The main entrance is in the center of the south facade, recessed between two projecting wings. A large aluminum-sheathed marquee shelters the doorway; the legend, “CORO BUILDING 1929”, adorns the wall above; and the parapet swells in an ogee arch at the roofline. Unlike the other factories in the district, the Coro Building has a front lawn planted with trees and shrubs and enclosed by an iron fence. The original contractor, the Edward Sturgeon Company, built a 4-story wing in a similar style (without the parapet!, on the western end of the building in 1946-47.
 
+***
 
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 

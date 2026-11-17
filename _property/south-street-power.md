@@ -24,9 +24,11 @@ NRHP-ref-number: '06000553 (individual)'
 added-to-NRHP: 'June 30, 2006'
 
 address: '350 Eddy St, Providence RI'
-latitude: '41.8182685'
-longitude: '-71.407947'
-gmap: "https://www.google.com/maps/place/South+Street+Landing/@41.8182685,-71.407947,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44540041da0bf:0x49ca99c253070813!8m2!3d41.8182645!4d-71.4057583"
+latitude: '41.8184611'
+longitude: '-71.4060021'
+gmap: "https://www.google.com/maps/place/350+Eddy+St,+Providence,+RI+02903/@41.818309,-71.4074606,18.17z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzA1LjgiTiA3McKwMjQnMjAuNyJX!8m2!3d41.8182645!4d-71.4057583!3m5!1s0x89e4454000c56107:0x65d5e18021cf184f!8m2!3d41.8184611!4d-71.4060021!16s%2Fg%2F11c4y20_ny?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Eddy St' ]
+street-number: 350
 
 meta: ""
 excerpt: "A massive 58,000 sf former electricity generating station went through three different redevelopment projects over 20 years before finally being completed"
@@ -145,19 +147,19 @@ external:
 The redevelopment of South Street Landing took almost 30 years. We present the history of those efforts here as a timeline (oldest event first):
 
 1991
-: Narragansett Electric decommissions the former power plant and starts to demolish smaller features on the site. The original smokestacks are removed. 
+: Narragansett Electric decommissions the former power plant and starts to demolish smaller features on the site. The original smokestacks are removed.
 
 1994
 : Talks begin with the **Heritage Harbor Museum** (<span class="abbr">HHM</span>) to use the former power plant as their new home. The <span class="abbr">HHR</span> was a local initiative started to create a state history museum. It’s original state charter of June 22, 1979 established the Foundation for the Promotion of State Cultural Heritage. [It still survives as an educational initiative](https://heritageharborfoundation.org).[^1]
 
 1995
-: South Street is donated to the <span class="abbr">HHM</span> in lieu of being demolished. The building and land was said to be worth $10 million. 
+: South Street is donated to the <span class="abbr">HHM</span> in lieu of being demolished. The building and land was said to be worth $10 million.
 
 2001
-: A $1.5 million dollar exterior renovation project was completed to ensure the building was weather tight and ready for interior renovations. 
+: A $1.5 million dollar exterior renovation project was completed to ensure the building was weather tight and ready for interior renovations.
 
 2004
-: As many as 19 businesses and cultural organizations join a coalition of member groups in developing the proposed Heritage Harbor Museum. It also became one of the first twelve museums in the Smithsonian Affiliates program, which means the museum would have access to the Smithsonian’s 140 million artifacts for temporary exhibitions.[^2] Despite this positivity and enthusiasm, the museum never opens. 
+: As many as 19 businesses and cultural organizations join a coalition of member groups in developing the proposed Heritage Harbor Museum. It also became one of the first twelve museums in the Smithsonian Affiliates program, which means the museum would have access to the Smithsonian’s 140 million artifacts for temporary exhibitions.[^2] Despite this positivity and enthusiasm, the museum never opens.
 
 2005
 : [Struever Bros. Eccles & Rouse]({% link designer/sber.html %}) (<span class="abbr">SBER</span>) was selected to oversee the redevelopment of Heritage Harbor. The plan was to create a mix of office, retail space, and 40 condominium units, as well as exhibition space for <span class="abbr">HHM</span>. The project was estimated to cost about $137 million (it started at $50m and some reporting quoted $150m) with new decorative smokestacks added to the top of the building, rising 128 feet above it. <span class="abbr">HHM</span> gave Struever Brothers title to the property in exchange for “turn-key” development of the museum space.
@@ -166,19 +168,19 @@ October 2006
 : <span class="abbr">SBER</span> was scheduled to start construction on the project. The project stalled, however, because the National Park Service rejected federal rehab tax credits. Construction required that new floors be added within the cavernous spaces, and was too big a change to the historic structure in their eyes. <span class="abbr">SBER</span> also had trouble dealing with easements that National Grid still had on the land for the substation.[^4]
 
 2007
-: A new construction date is scheduled for June[^5] with construction to be completed by the summer of 2009. Groundbreaking actually occurs in November. Some work does finally begin, namely, the windows are are all removed and opened up (some were bricked in) and the roof is removed, presumably, to be replaced. It sits open to the elements for almost 10 years. 
+: A new construction date is scheduled for June[^5] with construction to be completed by the summer of 2009. Groundbreaking actually occurs in November. Some work does finally begin, namely, the windows are are all removed and opened up (some were bricked in) and the roof is removed, presumably, to be replaced. It sits open to the elements for almost 10 years.
 
 2008
 : Due to the financial collapse, the General Assembly scaled back the historic tax-credit program to plug the deficit in the state budget. The program was a boon to developers who were using it to redevelop properties that might otherwise be too expensive, like this one.[^6] <span class="abbr">SBER</span> seeks alternative financing and changes the scale of the project.
 
 January 2009
-: A 100-ton capacity crane has taken up residence on South Street. Steelworkers are laying beams atop the 100-foot high building. The ground floor, which is just bare ground in places, is a skating rink of rock solid ice. The structural supports for boilers and steam turbines have been removed. Custom windows, some 30 feet tall, were ordered.[^7] 
+: A 100-ton capacity crane has taken up residence on South Street. Steelworkers are laying beams atop the 100-foot high building. The ground floor, which is just bare ground in places, is a skating rink of rock solid ice. The structural supports for boilers and steam turbines have been removed. Custom windows, some 30 feet tall, were ordered.[^7]
 
 March 19, 2009
 : Work stops and the project closes at Dynamo House. The economic downturn brought financial troubles to the company and project. <span class="abbr">SBER</span> would default on nearly $6 million in loans, lay off all their workers, and shut down its Providence office. The way in which the company walked away from its obligations puts the future of any physical <span class="abbr">HHM</span> space in great doubt.[^8]
 
 2011 & 2012
-: The stalled projects and the way the building had been exposed to the elements force the Providence Preservation Society to place the structure on its [10 Most Endangered Lists](https://guide.ppsri.org/property/narragansett-electric-lighting-company) two years in a row. 
+: The stalled projects and the way the building had been exposed to the elements force the Providence Preservation Society to place the structure on its [10 Most Endangered Lists](https://guide.ppsri.org/property/narragansett-electric-lighting-company) two years in a row.
 
 June 2013
 : Brown University announces its intention to be an anchor tenant in a $220 million redevelopment project that will house 11 administrative units of the University as well as the Rhode Island Nursing Education Center, a joint Rhode Island College and University of Rhode Island complex.
@@ -194,7 +196,7 @@ January 2016
 : Ground breaks on a 744-space concrete parking structure to the north of South Street Landing, designed by [Spagnolo Gisness & Associates]({% link designer/spagnolo-gisness-associates.html %}) (SGA).
 
 October 2017
-: Brown relocates 400 staff to 136,000 square feet of the total 265,000-square-feet of renovated office space.[^10] 
+: Brown relocates 400 staff to 136,000 square feet of the total 265,000-square-feet of renovated office space.[^10]
 
 2019
 : The [National Trust for Historic Preservation](https://forum.savingplaces.org/blogs/forum-online/2019/10/11/the-2019-national-preservation-awards) honors South Street Landing with the 2019 Richard H. Driehaus Foundation National Preservation Award, which recognizes adaptive reuse projects that give new meaning to communities while preserving architectural and cultural heritage. The renovation leveraged TK&A Architects for the redesign.[^11]
@@ -224,14 +226,14 @@ October 2017
 
 ### Current Events
 
-South Street Landing is home to office space for three major universities — Brown, Rhode Island College, and the University of Rhode Island —  as well as private companies and non-profits. 
+South Street Landing is home to office space for three major universities — Brown, Rhode Island College, and the University of Rhode Island —  as well as private companies and non-profits.
 
 
 ### History
 
 _From the National Register nomination form, 2006, prepared by Joanna M. Dohertv, Preservation Planner/Consultant, with Matthew A. Kierstead, Industrial Historian_
 
-The South Street Station at 360 Eddy Street is significant for the broad-reaching impact the facility had on the spread of electric service in Rhode Island, thereby contributing to the growth and development of the city of Providence and outlying areas, and as an excellent example of early twentieth-century power plant design. It was constructed by the Narragansett Electric Lighting Company (<span class="abbr">NELCo</span>) in several stages, beginning with the erection of the east end of the present-day 200 Lb. House and Turbine Hall in 1912-1914 and concluding with the construction of the present-day 400 Lb. House in 1924-1925. <span class="abbr">NELCo</span> employed a consistent architectural style — the Classical Revival — with each building campaign, giving the massive, 58,000 sq-ft structure a unified image. Located prominently just south of downtown Providence, the building has dominated the west side of the Providence River for 90 years, operating as a functional electric generating facility until the early 1990s. 
+The South Street Station at 360 Eddy Street is significant for the broad-reaching impact the facility had on the spread of electric service in Rhode Island, thereby contributing to the growth and development of the city of Providence and outlying areas, and as an excellent example of early twentieth-century power plant design. It was constructed by the Narragansett Electric Lighting Company (<span class="abbr">NELCo</span>) in several stages, beginning with the erection of the east end of the present-day 200 Lb. House and Turbine Hall in 1912-1914 and concluding with the construction of the present-day 400 Lb. House in 1924-1925. <span class="abbr">NELCo</span> employed a consistent architectural style — the Classical Revival — with each building campaign, giving the massive, 58,000 sq-ft structure a unified image. Located prominently just south of downtown Providence, the building has dominated the west side of the Providence River for 90 years, operating as a functional electric generating facility until the early 1990s.
 
 <details markdown="1" class="rhythm">
   <summary>More history</summary>
@@ -250,7 +252,7 @@ The company’s coal-powered station on Aborn Street initially operated from mid
 
 In 1901, <span class="abbr">NELCo</span> purchased additional land, so that the company owned the entire block from the Providence River to Eddy Street, between Elm and South Streets. […]
 
-As of 1910, the Central Power Station powered the machinery at 14 textile mills, 58 machine shops and 75 jewelry manufacturing firms. […] [A newspaper] article noted the need for the construction of a new station in the near future, to meet the ever-growing demand for power. Rather than continuing to expand upon the plant begun in 1888, the company chose to construct a new facility that, over the course of several building campaigns and two decades, would grow into the present-day South Street Station. 
+As of 1910, the Central Power Station powered the machinery at 14 textile mills, 58 machine shops and 75 jewelry manufacturing firms. […] [A newspaper] article noted the need for the construction of a new station in the near future, to meet the ever-growing demand for power. Rather than continuing to expand upon the plant begun in 1888, the company chose to construct a new facility that, over the course of several building campaigns and two decades, would grow into the present-day South Street Station.
 
 #### Construction of the South Street Station
 
@@ -287,7 +289,7 @@ As early as the 1980s, developers have been thinking about the South Street powe
 _by Gwynne Morgan_  
 **Providence Journal** | September 16, 1984 (abridged)
 
-[…] EVENTUALLY, Freeman envisions a New England Museum of Technology and Industry in the underused Narragansett Electric building next to [Davol Square]({% link _property/davol-rubber-company.md %}). The museum, as he conceives it, would house technological innovations sparked by Rhode Island-based companies — items like a working Bell Helicopter donated by Textron. 
+[…] EVENTUALLY, Freeman envisions a New England Museum of Technology and Industry in the underused Narragansett Electric building next to [Davol Square]({% link _property/davol-rubber-company.md %}). The museum, as he conceives it, would house technological innovations sparked by Rhode Island-based companies — items like a working Bell Helicopter donated by Textron.
 
 The museum, teamed with Davol Square and [Corliss Landing]({% link _property/providence-steam-engine.md %}), “will make this a major drop-off place for tourists on their way to the Cape or Newport,” Freeman predicts. In his vision, Providence and Newport tourists will shuttle back and forth by hydrofoil. […]
 
@@ -297,4 +299,4 @@ He is owner and president of the Marathon Group of Companies, five diversified c
 
 He also is a partner in Locke-Ober Co., the prestigous _[sic]_ Boston restaurant, and in Bannister’s Wharf Inc., the entertainment and epicurean hub of the Newport waterfront. […]
 
-— MORGAN, GWYNNE. “A young man with a big vision Davol Square developer Freeman eyes a waterfront empire.” Providence Journal (RI), ALL ed., sec. BUSINESS, 16 Sept. 1984, pp. F-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C0C25C274A68. Accessed 29 Dec. 2021.
+— _MORGAN, GWYNNE. “A young man with a big vision Davol Square developer Freeman eyes a waterfront empire.” Providence Journal (RI), ALL ed., sec. BUSINESS, 16 Sept. 1984, pp. F-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C0C25C274A68. Accessed 29 Dec. 2021._

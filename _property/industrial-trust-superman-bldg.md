@@ -23,9 +23,9 @@ NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
 
 address: '111 Westminster St, Providence RI'
-latitude: '41.8243947'
-longitude: '-71.4108875'
-gmap: "https://www.google.com/maps/place/111+Westminster+St,+Providence,+RI+02903/@41.8243947,-71.4108875,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44516a4aa0dd7:0x7de811455a8a1ff3!8m2!3d41.8243947!4d-71.4108875"
+latitude: '41.8246883'
+longitude: '-71.4111526'
+gmap: "https://www.google.com/maps/place/Superman+Building/@41.8246624,-71.4116061,279m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ5JzI3LjgiTiA3McKwMjQnMzkuMiJX!8m2!3d41.8243947!4d-71.4108875!3m5!1s0x89e4451697b77f75:0x737fe56811e07272!8m2!3d41.8246883!4d-71.4111526!16zL20vMGM0emsx?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Westminster St' ]
 street-number: 111
 
@@ -110,9 +110,9 @@ imagescredit: 'Contributions from the Providence Public Library — Rhode Island
 
 ### Current Events
 
-The most iconic building in the capital city, and likely the state, has been vacant for almost ten years. The developer, local leaders, and many politicians have lent their ideas and negotiating powers to try to find a new life, or at least a new tenant, for the structure. Other large companies were wooed — Citizens Bank, Paypal — artist’s reimagined how to use the building, and even demolition was proposed. It looks like, finally, a new deal for a conversion to residential units is close to happening. 
+The most iconic building in the capital city, and likely the state, has been vacant for almost ten years. The developer, local leaders, and many politicians have lent their ideas and negotiating powers to try to find a new life, or at least a new tenant, for the structure. Other large companies were wooed — Citizens Bank, Paypal — artist’s reimagined how to use the building, and even demolition was proposed. It looks like, finally, a new deal for a conversion to residential units is close to happening.
 
-As romantic lovers of turn-of-the-century architecture, we really want to see it saved. Residential makes the most sense, as especially in this post-pandemic world, the need for office space may never recover. Further, we have been in the building and it is still lovely. The unique pyramidal set-backs afford a variety of floor plans and amazing views tha sometimes look into the building itself. The upper floors are breathtaking and the lobby is just grand. Our fingers and toes are crossed that a deal will happen. 
+As romantic lovers of turn-of-the-century architecture, we really want to see it saved. Residential makes the most sense, as especially in this post-pandemic world, the need for office space may never recover. Further, we have been in the building and it is still lovely. The unique pyramidal set-backs afford a variety of floor plans and amazing views tha sometimes look into the building itself. The upper floors are breathtaking and the lobby is just grand. Our fingers and toes are crossed that a deal will happen.
 
 [The Providence Finance Committee approved a tax agreement](https://turnto10.com/news/local/superman-building-tax-agreement-providence-rhode-island-apartment-downtown-studio-bedroom-rent-project-affordability-retail-community-grand-banking-hall) in October, 2022, that would support the conversion of this building into 285 apartments.
 {:.o__tldr}
@@ -135,13 +135,13 @@ Visit on the web: [Weird Island Episode 20: Abandoned, It’s a Bird, It’s a P
 : Samuel P. Colt founds the Industrial Trust Company in Providence.[^16]
 
 1892
-: The Atlantic Building is partially demolished and incorporated into a new Industrial Trust Company Building designed by [Stone, Carpenter & Willson]({% link designer/stone-carpenter-willson.html %}). It is expanded again in 1910 and demolished in 1970 for the Hospital Trust Tower.[^19] It was originally five bays wide at Westminster in 1892 and topped by a copper cornice. The building ran the entire depth of the block along Exchange Street from Westminster to Exchange Place (Kennedy Plaza)[^20] and was expanded in 1910 to eleven bays wide (see first two postcards). 
+: The Atlantic Building is partially demolished and incorporated into a new Industrial Trust Company Building designed by [Stone, Carpenter & Willson]({% link designer/stone-carpenter-willson.html %}). It is expanded again in 1910 and demolished in 1970 for the Hospital Trust Tower.[^19] It was originally five bays wide at Westminster in 1892 and topped by a copper cornice. The building ran the entire depth of the block along Exchange Street from Westminster to Exchange Place (Kennedy Plaza)[^20] and was expanded in 1910 to eleven bays wide (see first two postcards).
 
 1925
-: Construction breaks ground on this high rise tower. It occupies the site of the former [Butler Exchange Building](https://commons.wikimedia.org/wiki/File:Butler_Exchange,_c_1920.jpg), built by businessman Cyrus Butler, which was the regarded as the most beautiful building in Providence at the time. It suffered a devastating fire and was therefore a perfect site for a new modern skyscraper. 
+: Construction breaks ground on this high rise tower. It occupies the site of the former [Butler Exchange Building](https://commons.wikimedia.org/wiki/File:Butler_Exchange,_c_1920.jpg), built by businessman Cyrus Butler, which was the regarded as the most beautiful building in Providence at the time. It suffered a devastating fire and was therefore a perfect site for a new modern skyscraper.
 
 1928
-: The building is completed and tops 428 feet tall. 
+: The building is completed and tops 428 feet tall.
 
 1951
 : The Providence National Bank and Union Trust Co. merged, becoming Providence Union National Bank.[^2]
@@ -159,7 +159,7 @@ April 1982
 : Industrial National Corp., parent company of Industrial National Bank, the state’s largest bank, changes its name on April 14, to “Fleet Financial Group, Inc.”. The bank branches will be known as “Fleet National Bank.”[^6]
 
 December 1982
-: Construction begins on a new modern tower right next door. Known at the time as “The Fleet Center,” the rose-colored granite building would rise 18 stories and cost $60 million with 390,000 square feet of rentable space.[^7] Architects were Hellmuth, Obata, & Kassabaum. 
+: Construction begins on a new modern tower right next door. Known at the time as “The Fleet Center,” the rose-colored granite building would rise 18 stories and cost $60 million with 390,000 square feet of rentable space.[^7] Architects were Hellmuth, Obata, & Kassabaum.
 
 1995
 : Fleet and Shawmut National Bank merge and move to Boston as FleetBoston Financial, but retained ownership of the building.[^8]
@@ -183,10 +183,10 @@ December 1982
 : With an appraised value of “none,”[^12] developers Joseph Paolino and Bob Gilbane propose to demolish the building in favor of a massive 36-story tower. They pitch Hasbro on the opportunity to be an anchor tenant in the process[^13], who never publicly weighed in. Many local politicians were for the proposal, while all preservationists and architectural critics were against.[^14]
 
 2022
-: The State of Rhode Island and High Rock Development reach a deal to convert the former office tower into housing. As the deal uses taxpayer funding, it is not going to go without opposition. This is not a done deal until construction begins, and even then, we won’t fully believe it until we see it completed. 
+: The State of Rhode Island and High Rock Development reach a deal to convert the former office tower into housing. As the deal uses taxpayer funding, it is not going to go without opposition. This is not a done deal until construction begins, and even then, we won’t fully believe it until we see it completed.
 
 
-[^1]: RI Currency. “Timeline of Rhode Island Banking.” http://www.ricurrency.com/timeline-of-rhode-island-banking/. Accessed July 6, 2022. 
+[^1]: RI Currency. “Timeline of Rhode Island Banking.” http://www.ricurrency.com/timeline-of-rhode-island-banking/. Accessed July 6, 2022.
 
 [^2]: JONES, BRIAN C.. “Year-long search for new name ends with ‘Fleet Financial Group’.” Providence Journal (RI), ALL ed., sec. BUSINESS, 11 Feb. 1982, pp. B-09. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C40876FB4970. Accessed 4 July 2022.
 
@@ -200,27 +200,27 @@ December 1982
 
 [^7]: “Skyscraper’s name to be Fleet Center.” Providence Journal (RI), ALL ed., sec. NEWS, 5 May 1983, pp. D-04. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C3506729ECB8. Accessed 6 July 2022.
 
-[^8]: Wikipedia. “Industrial National Bank Building.” https://en.wikipedia.org/wiki/Industrial_National_Bank_Building. Accessed July 6, 2022. 
+[^8]: Wikipedia. “Industrial National Bank Building.” https://en.wikipedia.org/wiki/Industrial_National_Bank_Building. Accessed July 6, 2022.
 
 [^9]: Ibid.
 
 [^10]: Ibid.
 
-[^12]: Nagle, Kate. “Superman Building Has Zero Value, Appraisal Shows.” GoLocal Providence, September 26, 2014. https://www.golocalprov.com/news/superman-building-has-zero-value-appraisal-shows. Accessed July 6, 2022. 
+[^12]: Nagle, Kate. “Superman Building Has Zero Value, Appraisal Shows.” GoLocal Providence, September 26, 2014. https://www.golocalprov.com/news/superman-building-has-zero-value-appraisal-shows. Accessed July 6, 2022.
 
-[^13]: Fenton, Josh & team. “UPDATED: Plan to Build Hasbro Headquarters in Providence—Demo Superman Building.” GoLocal Providence, December 12, 2017. https://www.golocalprov.com/business/exclusive-plan-to-build-hasbro-headquarters-at-superman-site. Accessed July 6, 2022. 
+[^13]: Fenton, Josh & team. “UPDATED: Plan to Build Hasbro Headquarters in Providence—Demo Superman Building.” GoLocal Providence, December 12, 2017. https://www.golocalprov.com/business/exclusive-plan-to-build-hasbro-headquarters-at-superman-site. Accessed July 6, 2022.
 
-[^14]: Fenton, Josh & team. “RI Leaders and Experts React To Hasbro Tower Proposal and Demolition of Superman Building.” GoLocal Providence, December 13, 2017. https://www.golocalprov.com/business/ri-leaders-and-experts-react-to-hasbro-tower-proposal-and-demolition-of-sup. Accessed July 6, 2022. 
+[^14]: Fenton, Josh & team. “RI Leaders and Experts React To Hasbro Tower Proposal and Demolition of Superman Building.” GoLocal Providence, December 13, 2017. https://www.golocalprov.com/business/ri-leaders-and-experts-react-to-hasbro-tower-proposal-and-demolition-of-sup. Accessed July 6, 2022.
 
-[^15]: Gagosz, Alexa. “Providence’s ‘Superman’ building owners could be close to making a deal with state officials.” Boston Globe,  February 3, 2022. https://www.bostonglobe.com/2022/02/03/metro/providences-superman-building-owners-could-be-close-making-deal-with-state-officials/. Accessed July 6, 2022. 
+[^15]: Gagosz, Alexa. “Providence’s ‘Superman’ building owners could be close to making a deal with state officials.” Boston Globe,  February 3, 2022. https://www.bostonglobe.com/2022/02/03/metro/providences-superman-building-owners-could-be-close-making-deal-with-state-officials/. Accessed July 6, 2022.
 
 [^16]: RI Currency. “Industrial Trust Company, Providence.” http://www.ricurrency.com/bank-name/industrial-trust-company-providence/. Accessed July 6, 2022.
 
-[^17]: Rhode Island Historical Preservation Commission. “Statewide Historical Preservation Report: Downtown Providence.” 1981. Page 26. Housed at https://preservation.ri.gov/historic-places/rihphc-publications. 
+[^17]: Rhode Island Historical Preservation Commission. “Statewide Historical Preservation Report: Downtown Providence.” 1981. Page 26. Housed at https://preservation.ri.gov/historic-places/rihphc-publications.
 
 [^18]: “Alpheus C. Morse.” WikiWand. https://www.wikiwand.com/en/Alpheus_C._Morse. Accessed July 6, 2022.
 
-[^19]: “Alpheus C. Morse.” WikiWand. https://www.wikiwand.com/en/Alpheus_C._Morse. Accessed July 6, 2022. 
+[^19]: “Alpheus C. Morse.” WikiWand. https://www.wikiwand.com/en/Alpheus_C._Morse. Accessed July 6, 2022.
 
 [^20]: “Sanborn Fire Insurance Map from Providence, Providence County, Rhode Island.” Sanborn Map Company, 1905. Map. Retrieved from the Library of Congress, http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080991904. Accessed July 6, 2022.
 
@@ -231,11 +231,11 @@ December 1982
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-55 Kennedy Plaza **Industrial Trust Company Building** (1928): Walker § Gillette, architects. 26-story, Art Deco, granite-sheathed, steel-frame skyscraper with stepped, pyramidal massing with major setbacks above 15th, 22nd, and 26th stories and a 4-story square lantern on top; 2-story base articulated with stylized classical motifs including colossal round-head window over central entrances on Kennedy Plaza and Westminster Street; original interiors include superb classicizing Art Deco banking hall with Ionic-colonnade screen around the perimeter of the room. 
+55 Kennedy Plaza **Industrial Trust Company Building** (1928): Walker § Gillette, architects. 26-story, Art Deco, granite-sheathed, steel-frame skyscraper with stepped, pyramidal massing with major setbacks above 15th, 22nd, and 26th stories and a 4-story square lantern on top; 2-story base articulated with stylized classical motifs including colossal round-head window over central entrances on Kennedy Plaza and Westminster Street; original interiors include superb classicizing Art Deco banking hall with Ionic-colonnade screen around the perimeter of the room.
 
-The Industrial Trust Company, founded in 1887, first occupied a building on Westminster Street ((first postcard)[#photo-first-indy-trust-ppl-postcard-01]) remodeled for the bank’s use by Stone, Carpenter & Willson (demolished in the early 1970s). Rapid growth necessitated the large quarters provided by the current structure on the site of the Second Empire style Butler Exchange (1873; Arthur Gilman, architect), which was demolished in 1925 for the present structure. The largest banking institution in the state, Industrial, now Fleet Financial Group, remains a regionally important firm. 
+The Industrial Trust Company, founded in 1887, first occupied a building on Westminster Street ((first postcard)[#photo-first-indy-trust-ppl-postcard-01]) remodeled for the bank’s use by Stone, Carpenter & Willson (demolished in the early 1970s). Rapid growth necessitated the large quarters provided by the current structure on the site of the Second Empire style Butler Exchange (1873; Arthur Gilman, architect), which was demolished in 1925 for the present structure. The largest banking institution in the state, Industrial, now Fleet Financial Group, remains a regionally important firm.
 
-The Industrial Trust Building, the only 1920s skyscraper in Providence, is undoubtedly the city’s best-known landmark. Its stepped-back massing and Art Deco detailing relate it closely to contemporary New York skyscrapers, notably the Chrysler Building (1929-32; William Van Alien, architect) and the Empire State Building (1930-31; Shreve, Lamb § Harmon, architects); completed before the construction of either the Chrysler or Empire State Buildings, it is an early and important monument of the style. Its size and unique shape make it readily identifiable from any angle. Its siting is masterful, for as Winston Weisman has observed, a building of this scale needs an “open park-like area of sufficient size to provide a vista.” Kennedy Plaza and Burnside Park furnish this necessary balance (an arrangement which anticipates the spatial organization of high-rise complexes built since) while maintaining an urban feeling. 
+The Industrial Trust Building, the only 1920s skyscraper in Providence, is undoubtedly the city’s best-known landmark. Its stepped-back massing and Art Deco detailing relate it closely to contemporary New York skyscrapers, notably the Chrysler Building (1929-32; William Van Alien, architect) and the Empire State Building (1930-31; Shreve, Lamb § Harmon, architects); completed before the construction of either the Chrysler or Empire State Buildings, it is an early and important monument of the style. Its size and unique shape make it readily identifiable from any angle. Its siting is masterful, for as Winston Weisman has observed, a building of this scale needs an “open park-like area of sufficient size to provide a vista.” Kennedy Plaza and Burnside Park furnish this necessary balance (an arrangement which anticipates the spatial organization of high-rise complexes built since) while maintaining an urban feeling.
 
 
 ### In the News

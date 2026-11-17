@@ -12,7 +12,7 @@ redeveloped:
 units:
 decade: '1900-1909'
 date-added: '2007'
-categories: [ '#DemolitionAlert', '#UsedToBeThere' ]
+categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
 designers: [ 'William R. Walker and Son', 'James C. Bucklin', 'Russell Warren' ]
@@ -24,9 +24,11 @@ NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
 
 address: '121 Mathewson St, Providence RI'
-latitude: '41.8226044'
-longitude: '-71.4154946'
+latitude: '41.822632'
+longitude: '-71.4144479'
 gmap: "https://www.google.com/maps/place/121+Mathewson+St,+Providence,+RI+02903/@41.8226044,-71.4154946,18.01z/data=!4m5!3m4!1s0x89e44513a8eb58f5:0xa2754bcb61cc9c1!8m2!3d41.822632!4d-71.4144479"
+street: [ 'Mathewson St' ]
+street-number: 121
 
 meta: ""
 excerpt: "A sliver of an 1829 structure survives under this turn-of-the-20th-century vaudeville theatre turned movie house turned commercial storefronts"

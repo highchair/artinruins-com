@@ -21,9 +21,11 @@ NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
 
 address: '95 Mathewson St, Providence RI'
-latitude: '41.823059'
-longitude: '-71.4171632'
+latitude: '41.823055'
+longitude: '-71.4149745'
 gmap: "https://www.google.com/maps/place/Dreyfus/@41.823059,-71.4171632,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445124d432e93:0x2078c049dab91e0b!8m2!3d41.823055!4d-71.4149745"
+street: [ 'Mathewson St' ]
+street-number: 95
 
 meta: ""
 excerpt: "A turn-of-the-century hotel with intact, 100-year old wood panelled bar enhanced by stained-glass windows and decorative terra cotta"
@@ -79,7 +81,7 @@ images:
 
 mostrecentimage: 2007-06-01
 
-imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%3A11562" target="_blank">Rhode Island Photograph Collection</a>, Providence Public Library and Scott Lapham for AS220 and TRAC Builders'
+imagescredit: 'Contributions from <a href="https://provlibdigital.org/islandora/object/islandora%3A11562">Rhode Island Photograph Collection</a>, Providence Public Library and Scott Lapham for AS220 and TRAC Builders'
 
 #external:
 # - source: ''
@@ -91,25 +93,27 @@ There is a Then and Now photo pair for this property! [View the Then & Now photo
 
 ### Redevelopment
 
-The redevelopment of the former Dreyfus Hotel into affordable live/work spaces for artists has cemented AS220’s commitment to artists and the downtown. AS220’s Empire Street studios has artists spaces in more of a dormitory style, while the Dreyfus allows older or more established artists to live and work in their own private studio. 
+The redevelopment of the former Dreyfus Hotel into affordable live/work spaces for artists has cemented AS220’s commitment to artists and the downtown. AS220’s Empire Street studios has artists spaces in more of a dormitory style, while the Dreyfus allows older or more established artists to live and work in their own private studio.
 
-AS220 had been ready to revitalize another building in the downtown for a number of years. In 1997, AS220 proposed [an extension of their Empire Street space into the Lederer-Packard Building](//digitalcommons.ric.edu/cgi/viewcontent.cgi?article=1913&context=as220_root){:target="_blank"} on the corner of Washington and Empire. The proposal would have only added 6 studio units along with shared print and video production studios. The Dreyfus is a much larger investment into the community. 
+AS220 had been ready to revitalize another building in the downtown for a number of years. In 1997, AS220 proposed [an extension of their Empire Street space into the Lederer-Packard Building](https://digitalcommons.ric.edu/cgi/viewcontent.cgi?article=1913&context=as220_root) on the corner of Washington and Empire. The proposal would have only added 6 studio units along with shared print and video production studios. The Dreyfus is a much larger investment into the community.
 
-A ground-floor restaurant called _Local 121_ opened in 2007, occupying the former Dreyfus Bar as well as a ratskeller space. The restaurant lasted in the space for 10 years and decided to close in March of 2017. In October 2020, a new restaurant opened in the same space called [The George](//www.thegeorge-onwashington.com/){:target="_blank"}, named after George Washington. We hope that it can sustain itself through these COVID-19 times. 
+A ground-floor restaurant called _Local 121_ opened in 2007, occupying the former Dreyfus Bar as well as a ratskeller space. The restaurant lasted in the space for 10 years and decided to close in March of 2017. In October 2020, a new restaurant opened in the same space called [The George](https://www.thegeorge-onwashington.com/), named after George Washington. We hope that it can sustain itself through these COVID-19 times.
 
 #### Other Links
 
-+ [Hotel Dreyfus artifacts (Flickr)](//www.flickr.com/photos/as220/sets/72157622531173780/){:target="_blank"}
++ [Hotel Dreyfus artifacts (Flickr)](https://www.flickr.com/photos/as220/sets/72157622531173780/)
 
 
 ### Current Events
 
-The Dreyfus is now 14 live/work artist studios, 4 work studios, a print studio, and main office space for AS220. Rents for eleven of the fourteen studios are affordable and a resident’s income must not exceed a specified maximum. More information and floor plans at [as220.org/livework-studios/dreyfus/](//as220.org/livework-studios/dreyfus/){:target="_blank"}
+The Dreyfus is now 14 live/work artist studios, 4 work studios, a print studio, and main office space for AS220. Rents for eleven of the fourteen studios are affordable and a resident’s income must not exceed a specified maximum. More information and floor plans at [as220.org/livework-studios/dreyfus/](https://as220.org/livework-studios/dreyfus/)
 
 
 ### History
 
-In 1975, Johnson & Wales University acquired the Dreyfus and converted it to dormitory space for between 40 and 50 students. The building was vacated by J&W in 2000. 
+In 1975, Johnson & Wales University acquired the Dreyfus and converted it to dormitory space for between 40 and 50 students. The building was vacated by J&W in 2000.
+
+***
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
@@ -140,6 +144,6 @@ Josh Miller also owns Trinity Brewhouse in downtown Providence. Miller is a stat
 
 In 2010, the restaurant was the first-ever recipient of the Mayor’s Culinary Cup award, given by the Culinary Institute of America, the National Restaurant Association, and the U.S. Conference of Mayors, according to AS220. It was in recognition of their work “advocating for sustainable economic efforts in Providence by using locally produced food and beverages.”
 
-_Captured February 7, 2021 from https://www.providencejournal.com/news/20170217/providence-restaurant-local-121-to-close-in-march_
+— _Captured February 7, 2021 from https://www.providencejournal.com/news/20170217/providence-restaurant-local-121-to-close-in-march_
 
 </details>

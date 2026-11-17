@@ -17,9 +17,9 @@ lists: []
 tags: [ 'College Properties', 'Contemporary', 'RISD' ]
 
 address: '20 North Main St, Providence RI'
-latitude: '41.8256264'
-longitude: '-71.409978'
-gmap: "https://www.google.com/maps/place/RISD+Museum/@41.8256264,-71.409978,17z/data=!4m13!1m7!3m6!1s0x89e4451647ff1dc3:0x4ad014c2f87eb1a!2s4+S+Main+St,+Providence,+RI+02903!3b1!8m2!3d41.8256264!4d-71.4077893!3m4!1s0x89e445164b5ec617:0x49112556d05817bc!8m2!3d41.8261771!4d-71.4080181"
+latitude: '41.8261621'
+longitude: '-71.4078499'
+gmap: "https://www.google.com/maps/place/Metcalf+Auditorium,+RISD/@41.8260599,-71.4081924,80m/data=!3m1!1e3!4m6!3m5!1s0x89e445e2e090f3a3:0xbb9284b85c25875f!8m2!3d41.8261621!4d-71.4078499!16s%2Fg%2F11gvtqybnb?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'North Main St' ]
 street-number: 20
 
@@ -97,7 +97,7 @@ We like it. It’s modern, it’s respectful of its context, and it uses a previ
 #### A fitting addition to RISD's world
 
 _by Robert Campbell_  
-**[Boston.com Archive](https://archive.boston.com/ae/theater_arts/articles/2008/09/27/a_fitting_addition_to_risds_world/)** | September 27, 2008 (abridged)
+**Boston.com Archive** | September 27, 2008 (abridged)
 
 The Rhode Island School of Design is one of my favorite institutions. Churning with youth and life, it’s a place where a student can learn just about any art.
 
@@ -120,3 +120,5 @@ Another kind of connection: Moneo places windows — often at corners — in suc
 Chace cost about $32 million for 43,000 square feet on a tricky site. The Boston firm of Perry Dean Rogers served as the local managing architect. Principal donors were the children of the late Malcolm and Happy Chace. Mrs. Chace was a preservationist who bought and restored dozens of houses in Providence’s Benefit Street neighborhood, just above RISD.
 
 Chace and RISD are players in a larger game. The city of Providence, once a port but long an economic backwater, today contends that it is home to more working artists per capita than any other American city. As Boston once did, Providence is successfully converting itself from an industrial city to a 21st-century city of arts and ideas. Chace Center is a thoughtful step in that evolution.
+
+— _Captured 15 October 2020 from https://archive.boston.com/ae/theater_arts/articles/2008/09/27/a_fitting_addition_to_risds_world/_

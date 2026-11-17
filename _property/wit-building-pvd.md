@@ -24,7 +24,7 @@ added-to-NRHP:
 
 address: '276 Westminster St, Providence RI'
 latitude: '41.8222373'
-longitude: '-71.4152878'
+longitude: '-71.4130991'
 gmap: "https://www.google.com/maps/place/276+Westminster+St,+Providence,+RI+02903/@41.8222373,-71.4152878,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445139d9a5935:0xd4f8ef488e7a81a6!8m2!3d41.8222373!4d-71.4130991"
 street: [ 'Westminster St' ]
 street-number: 276
@@ -83,7 +83,7 @@ images:
 
 mostrecentimage: 2021-02-01
 
-imagescredit: 'Contribution from the <a href="https://hdl.loc.gov/loc.pnp/fsa.8a34929">Library of Congress</a> and the David Doiron and Aurora Facebook pages'
+imagescredit: 'Contribution from the Library of Congress and the David Doiron and Aurora Facebook pages'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

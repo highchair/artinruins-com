@@ -38,16 +38,24 @@ thumbnail: beneficent-jh-2025-02-01.jpg
 
 images:
   - url: paul-rudoph-drawing-01.jpg
-    caption: 'Architectural drawing of the building as originally designed, with balconies on each apartment — From the Paul Rudolph collection, Library of Congress'
+    caption: 'Architectural drawing of the building as originally designed, with balconies on each apartment — From the Paul Rudolph collection, Library of Congress'
+    sizes: '1920, 960'
   - url: paul-rudoph-drawing-02.jpg
-    caption: 'Architetcural drawing of the building after cost-cutting removed the balconies — From the Paul Rudolph collection, Library of Congress'
+    caption: 'Architetcural drawing of the building after cost-cutting removed the balconies — From the Paul Rudolph collection, Library of Congress'
+    sizes: '1400, 800'
   - url: beneficent-jh-2025-02-01.jpg
+    sizes: '1440, 900'
   - url: beneficent-jh-2025-02-02.jpg
+    sizes: '1440, 900'
   - url: beneficent-jh-2025-02-03.jpg
+    sizes: '1200, 900'
   - url: beneficent-jh-2025-02-04.jpg
+    sizes: '1200, 900'
   - url: beneficent-jh-2025-02-05.jpg
+    sizes: '1200, 900'
   - url: 1956-sanborn-maps-vol1-p11-01.jpg
-    caption: 'The block that Beneficent House would later occupy as seen in 1956. 1920-1956 Sanborn Map, Volume 1, Plate 11 — Library of Congress, Maps Division'
+    caption: 'The block that Beneficent House would later occupy as seen in 1956. 1920-1956 Sanborn Map, Volume 1, Plate 11 — Library of Congress, Maps Division'
+    sizes: '1440, 900'
 
 mostrecentimage: 2025-02-01
 

@@ -21,9 +21,9 @@ tags: [ 'Yellow brick', 'Flatiron style' ]
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
 
-address: '100 Fountain Street, Providence RI'
-latitude: '41.8234487'
-longitude: '-71.4179085'
+address: '100 Fountain St, Providence RI'
+latitude: '41.8234447'
+longitude: '-71.4157198'
 gmap: "https://www.google.com/maps/place/100+Fountain+St,+Providence,+RI+02903/@41.8234487,-71.4179085,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445124f1844ff:0x606051125262980b!8m2!3d41.8234447!4d-71.4157198"
 street: [ 'Fountain St' ]
 street-number: 100
@@ -83,12 +83,12 @@ The condominiums in this building come up for sale now and then. They have some 
 
 ### History
 
-Originally a three story building, four more stories were added a year after original construction. This was not uncommon — most often, these commercial buildings were constructed speculatively. If demand for commercial space was great enough, additional height was added. The [O’Gorman building]({% link _property/burgess-ogorman-buildings-pvd.md %}) was another such building that was constructed to accommodate additional stories but they were never added. 
+Originally a three story building, four more stories were added a year after original construction. This was not uncommon — most often, these commercial buildings were constructed speculatively. If demand for commercial space was great enough, additional height was added. The [O’Gorman building]({% link _property/burgess-ogorman-buildings-pvd.md %}) was another such building that was constructed to accommodate additional stories but they were never added.
 
 ***
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-96-112 Fountain St — **Palmer Block** (1915): Stone, Carpenter, & Sheldon, architects. 7-story, brick-sheathed, steel-frame building with generally original storefronts and pier-and-spandrel system on upper stories resolved into 7-bay facade with each bay containing three sash windows; four upper stories sheathed in contrasting color brick; stone entablature and parapet above seventh story. 
+96-112 Fountain St — **Palmer Block** (1915): Stone, Carpenter, & Sheldon, architects. 7-story, brick-sheathed, steel-frame building with generally original storefronts and pier-and-spandrel system on upper stories resolved into 7-bay facade with each bay containing three sash windows; four upper stories sheathed in contrasting color brick; stone entablature and parapet above seventh story.
 
 The Palmer Block, built by Julius Palmer of Warwick, has housed retail stores at street level and offices on the upper floors throughout its history. It is a typical early 20th-century office building.

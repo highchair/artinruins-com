@@ -23,7 +23,7 @@ tags: [ 'Brown University', 'College Properties', 'Contemporary' ]
 
 address: '233 Richmond St, Providence RI'
 latitude: '41.818688'
-longitude: '-71.4098517'
+longitude: '-71.409208'
 gmap: "https://www.google.com/maps/place/41%C2%B049'07.3%22N+71%C2%B024'33.2%22W/@41.818688,-71.4098517,19z/data=!3m1!4b1!4m4!3m3!8m2!3d41.818688!4d-71.409208?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Richmond St' ]
 street-number: 233
@@ -98,7 +98,7 @@ Brown University’s expansion into the Jewelry District for the construction of
 
 200 Chestnut Street was also purchased by Brown in the same timeframe though that building remains on the block, along with [60 Ship Street]({% link _property/nh-haronian-building.md %}), the only building Brown does not own.
 
-Brown proposed a new integrated life sciences center as part of its 10-year strategic plan starting in 2014. The facility provides state-of-the-art laboratory space for researchers to work together on pressing health-related issues. The Jewelry District location offers collaborative proximity to [Brown’s Warren Alpert Medical School]({% link _property/little-nemo-building.md %}), the School of Public Health, the School of Engineering, and the University’s affiliated hospital partners (formerly Lifespan). 
+Brown proposed a new integrated life sciences center as part of its 10-year strategic plan starting in 2014. The facility provides state-of-the-art laboratory space for researchers to work together on pressing health-related issues. The Jewelry District location offers collaborative proximity to [Brown’s Warren Alpert Medical School]({% link _property/little-nemo-building.md %}), the School of Public Health, the School of Engineering, and the University’s affiliated hospital partners (formerly Lifespan).
 
 In June of 2022, the selection process for architectural team began[^2] and the team was selected by December. In September of 2023, the architectural plans were approved by the City Plan Commission.[^3]
 

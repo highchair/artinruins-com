@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'National Register of Historic Places', 'Providence Jewelry Manufacturing Historic District' ]
 tags: [ 'Bars, Businesses, & Restaurants' ]
@@ -22,10 +22,11 @@ NRHP-ref-number: '85003088 (contributing)'
 added-to-NRHP: 'January 2012'
 
 address: '171 Chestnut St, Providence RI'
-latitude: '41.8177984'
-longitude: '-71.4100507'
+latitude: '41.8177704'
+longitude: '-71.409761'
 gmap: "https://www.google.com/maps/place/171+Chestnut+St,+Providence,+RI+02903/@41.8177984,-71.4100507,17z/data=!4m6!3m5!1s0x89e4456b190cea77:0xbd65c7e0c40e5724!8m2!3d41.8177704!4d-71.409761!16s%2Fg%2F11bw43pwgg?entry=ttu"
 street: [ 'Chestnut St' ]
+street-number: 171
 
 meta: ""
 excerpt: "A two-story industrial building used mainly as a nightclub in recent years flies under the radar in the Jewelry District — a hotbed of new development"
@@ -66,7 +67,7 @@ The next tenant was a nightclub called **Jezebel’s**. Local music scene mentio
 
 [^2]: SMITH, ANDY. “Band Spotlight Local band plays blues, ‘the best music’.” Providence Journal (RI), ALL ed., sec. LIFEBEAT, 30 Sept. 1996, pp. F-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15251FED2E69CE30. Accessed 16 Nov. 2023.
 
-The first mention we found of **Art Bar** was from a Police Report in 2002. Art Bar seems to have been (might still be) a night club and bar open until 2am. 
+The first mention we found of **Art Bar** was from a Police Report in 2002. Art Bar seems to have been (might still be) a night club and bar open until 2am.
 
 There were other businesses located in this building as well, on the second floor most likely. A local start up called Tracelytics listed this address as their home base before moving to Boston. A design company was rooted here in the mid-to-late 2000s — we forget their name — and rumor had it that they had a little half pipe skate ramp in their space that used leftover parts and surface material from the Gravity Games (held in the late 90s and early 2000s). Youth Pride started using this location as a drop-in center in 2006.[^3]
 
@@ -114,6 +115,4 @@ Ferlise, 38, is a partner with his sister-in-law, Rachel Rafaelian, a Johnson & 
 
 The menu was a joint effort. “We wanted it to be mostly a saute house,” Ferlise said, because greasy food is “going out of style.” Indeed, there are plenty of saute dishes - beef, chicken, veal and seafood - of which one is what Ferlise calls “our signature dish,” Filet Mignon TriBeCa in which the filet is sauteed with lobster meat, fresh mushrooms and sun-dried tomatoes, finished in a pink brandy cream sauce. […]
 
-—
-
-BREED, DONALD D.. “DINING OUT New gem in the Jewelry District New Yorkers’ soups, sauces and sautes are splendid.” Providence Journal (RI), ALL ed., sec. LIFEBEAT/WEEKEND, 1 Oct. 1993, pp. D-04. NewsBank: America's News, https://infoweb.newsbank.com/apps/news/document-view?p=NewsBank&t=custom%3ACustBucket1!Providence%2BJournal%2BCollection&docref=news/15252399C190A280. Accessed 16 Nov. 2023.
+— _BREED, DONALD D.. “DINING OUT New gem in the Jewelry District New Yorkers’ soups, sauces and sautes are splendid.” Providence Journal (RI), ALL ed., sec. LIFEBEAT/WEEKEND, 1 Oct. 1993, pp. D-04. NewsBank: America's News, https://infoweb.newsbank.com/apps/news/document-view?p=NewsBank&t=custom%3ACustBucket1!Providence%2BJournal%2BCollection&docref=news/15252399C190A280. Accessed 16 Nov. 2023._

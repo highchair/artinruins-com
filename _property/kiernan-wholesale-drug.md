@@ -1,7 +1,7 @@
 ---
 title: "Kiernan Wholesale Drug Company"
 slug: kiernan-wholesale-drug
-aka: "3 Ship Street Lofts, formerly J & H Electric "
+aka: "J & H Electric, 3 Ship Street Lofts"
 date-modified: 2020-08-22 17:00
 
 built: 'circa 1922-23'
@@ -12,16 +12,16 @@ date-added: '2004'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Jewelry Manufacturing Historic District', 'Providence Industrial Sites 1981' ]
 tags: [ 'Ghost Signs' ]
 
 NRHP-ref-number: '85003088 (contributing)'
 added-to-NRHP: 'December 1985'
 
-address: '3 Ship Street, Providence RI'
+address: '3 Ship St, Providence RI'
 latitude: '41.8192853'
-longitude: '-71.4111365'
+longitude: '-71.4089478'
 gmap: "https://www.google.com/maps/place/3+Ship+St,+Providence,+RI+02903/@41.8192853,-71.4111365,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44515951e1d83:0x9fc99c28813f096f!8m2!3d41.8192853!4d-71.4089478"
 street: [ 'Richmond St' ]
 street-number: 200

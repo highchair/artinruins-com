@@ -22,10 +22,12 @@ tags: [ 'LEED in RI', 'Contemporary' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '225 Dyer Street, Providence RI'
-latitude: '41.8201573'
-longitude: '-71.4080188'
-gmap: "https://www.google.com/maps/place/225+Dyer+St,+Providence,+RI+02903/@41.8201573,-71.4080188,15z/data=!4m13!1m7!3m6!1s0x89e44515bb1f3ad9:0x32a107a554a713c0!2s225+Dyer+St,+Providence,+RI+02903!3b1!8m2!3d41.8201488!4d-71.4084323!3m4!1s0x89e44515bb1f3ad9:0x32a107a554a713c0!8m2!3d41.8201488!4d-71.4084323"
+address: '225 Dyer St, Providence RI'
+latitude: '41.8202863'
+longitude: '-71.4083607'
+gmap: "https://www.google.com/maps/place/CIC+Providence/@41.8202281,-71.4091374,259m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ5JzEyLjYiTiA3McKwMjQnMjguOSJX!8m2!3d41.8201573!4d-71.4080188!3m5!1s0x89e445d43ee241e7:0x2f2bda0de0f233c9!8m2!3d41.8202863!4d-71.4083607!16s%2Fg%2F11fm347wb1?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Dyer St' ]
+street-number: 225
 
 meta: ""
 excerpt: "A hub of scientific and academic innovation and one of the first projects to break ground in the newly available I-195 District"
@@ -34,7 +36,7 @@ thumbnail: wexford-jh-2018-09-10.jpg
 
 images:
   - url: wexford-jh-2017-10-01.jpg
-    alt: 'A modern steel and glass long box with an angular kink in the middle. It is seven stories high with a large coverered entrance and a punctuation for a roof deck on the east-facing façade. The modern building is effecient up to a LEED Gold rating. '
+    alt: 'A modern steel and glass long box with an angular kink in the middle. It is seven stories high with a large coverered entrance and a punctuation for a roof deck on the east-facing façade. The modern building is effecient up to a LEED Gold rating.'
     sizes: '1440, 900'
   - url: wexford-jh-2017-10-02.jpg
     sizes: '1440, 900'
@@ -92,9 +94,9 @@ images:
   - url: wexford-jh-2022-03-01.jpg
     sizes: '1200, 900'
 
-imagescredit:
-
 mostrecentimage: 2020-02-01
+
+imagescredit:
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -105,9 +107,9 @@ mostrecentimage: 2020-02-01
 
 The Wexford Science & Innovation Center is the first foray into Rhode Island for the technology-focused Wexford development company. The company has spearheaded over 50 properties in their 15 years in business (2021) to create what they call “knowledge communities.” The company was formed to meet the specialized real estate needs of universities and research institutions, so they partnered with Brown University and interested private business partners to create and plan the building.
 
-[Ayers Saint Gross Architects](//ayerssaintgross.com/portfolio/providence-innovation-center/){:target="_blank"} were hired to design the $88 million project featuring seven stories, 196k square feet, 31,000 square foot floor plates with 13 foot ceiling clearance, and a Gold <abbr title="Leadership in Energy and Environmental Design (LEED)">LEED</abbr> rating. Shawmut Construction built it in less than two years, with a groundbreaking in October of 2017, a topping off in March of 2018, and a ribbon-cutting in July of 2019. The building’s design has won an award from the American Institute of Architects (<span class="abbr">AIA</span>), Maryland chapter, and the Providence Preservation Society’s Award for Leadership In New Construction.
+[Ayers Saint Gross Architects](https://ayerssaintgross.com/portfolio/providence-innovation-center/) were hired to design the $88 million project featuring seven stories, 196k square feet, 31,000 square foot floor plates with 13 foot ceiling clearance, and a Gold <abbr title="Leadership in Energy and Environmental Design (LEED)">LEED</abbr> rating. Shawmut Construction built it in less than two years, with a groundbreaking in October of 2017, a topping off in March of 2018, and a ribbon-cutting in July of 2019. The building’s design has won an award from the American Institute of Architects (<span class="abbr">AIA</span>), Maryland chapter, and the Providence Preservation Society’s Award for Leadership In New Construction.
 
-The building was constructed on [land opened up by the I-195 redevelopment project](//www.195district.com/about/district-land/){:target="_blank"}, as the former highway was removed where it once cut through the Jewelry District. The Wexford Center was one of the first parcels to break ground in this new District, after winning approval by the I-195 Redevelopment District Commission in late 2016. Both Parcels 22 and 25 are owned and developed by Wexford Science & Technology of Baltimore, Maryland, and CV Properties LLC, of Boston and Southport, Connecticut. Parcel 25 is currently parking, Parcel 22 lot 1 is Point225, and Parcel 2 lot 2 is being developed into the Aloft Hotel. Wexford Properties has developed Point225, [South Street Landing]({% link _property/south-street-power.md %}), and 2/3 [Davol Square]({% link _property/davol-rubber-company.md %}) [source](//wexfordscitech.com/community/providence-innovation-design-district/){:target="_blank"} in collaboration with its anchor tenants. It also has a controlling interest in River House which houses many students who work and learn at these locations.
+The building was constructed on [land opened up by the I-195 redevelopment project](https://www.195district.com/about/district-land/), as the former highway was removed where it once cut through the Jewelry District. The Wexford Center was one of the first parcels to break ground in this new District, after winning approval by the I-195 Redevelopment District Commission in late 2016. Both Parcels 22 and 25 are owned and developed by Wexford Science & Technology of Baltimore, Maryland, and CV Properties LLC, of Boston and Southport, Connecticut. Parcel 25 is currently parking, Parcel 22 lot 1 is Point225, and Parcel 2 lot 2 is being developed into the Aloft Hotel. Wexford Properties has developed Point225, [South Street Landing]({% link _property/south-street-power.md %}), and 2/3 [Davol Square]({% link _property/davol-rubber-company.md %}) [source](https://wexfordscitech.com/community/providence-innovation-design-district/) in collaboration with its anchor tenants. It also has a controlling interest in River House which houses many students who work and learn at these locations.
 
 
 ### Design Reception
@@ -140,4 +142,4 @@ Brown’s School of Professional Studies, currently located at 200 Dyer St. adja
 
 Brown’s total investment in the project is expected to exceed $35 million between lease payments, capital improvements, furniture, fixtures and equipment. […]
 
-_Captured October 27, 2021 from https://www.brown.edu/news/2017-09-25/wexford_
+— _Captured October 27, 2021 from https://www.brown.edu/news/2017-09-25/wexford_

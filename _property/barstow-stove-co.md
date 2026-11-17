@@ -24,7 +24,7 @@ added-to-NRHP:
 
 address: '112 Point St, Providence RI'
 latitude: '41.8162411'
-longitude: '-71.4085714'
+longitude: '-71.4074717'
 gmap: "https://www.google.com/maps/place/112+Point+St,+Providence,+RI+02903/@41.8162411,-71.4085714,18z/data=!4m5!3m4!1s0x89e4456a6759bc79:0xbeb7f2940cd1104c!8m2!3d41.8162411!4d-71.4074717"
 street: [ 'Richmond St' ]
 street-number: 403
@@ -110,12 +110,12 @@ imagescredit: 'Contributions from the Library of Congress, Geography and Map Div
 
 In 2012 the nearby [Ward Baking Company]({% link _property/ward-baking-co.md %}) was razed. Soon after, around 2015, the site was considered as the location for a proposed Pawtucket Red Sox stadium, which depended on public support as taxpayer dollars would have been required. That deal was not successful, and the Ward baking and Barstow Stove properties continued to be without a new developer.
 
-The site has been languishing and decaying since then. Some work has been done on the first floor and we have seen cars entering and exiting the eastern side from what looks like ground floor parking or storage for Coastal Medical (they have office space next door in [10 Davol Square]({% link _property/simmons-building.md %})). The buildings seem stable from the outside but show signs of neglect and disrepair. 
+The site has been languishing and decaying since then. Some work has been done on the first floor and we have seen cars entering and exiting the eastern side from what looks like ground floor parking or storage for Coastal Medical (they have office space next door in [10 Davol Square]({% link _property/simmons-building.md %})). The buildings seem stable from the outside but show signs of neglect and disrepair.
 
 
 ### Current Events
 
-We will be keeping an eye on this complex and what happens to the remaining structures, as they represent a very old selection of industrial architecture that is becoming rarer and rarer. 
+We will be keeping an eye on this complex and what happens to the remaining structures, as they represent a very old selection of industrial architecture that is becoming rarer and rarer.
 
 
 ### History

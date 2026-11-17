@@ -23,8 +23,10 @@ added-to-NRHP: 'February 10, 1984'
 
 address: '68-76 Dorrance St, Providence RI'
 latitude: '41.8233071'
-longitude: '-71.413154'
+longitude: '-71.4109653'
 gmap: "https://www.google.com/maps/place/76+Dorrance+St,+Providence,+RI+02903/@41.8233071,-71.413154,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451413f01f41:0xf3505f86389dde4c!8m2!3d41.8233071!4d-71.4109653"
+street: [ 'Dorrance St' ]
+street-number: 72
 
 meta: ""
 excerpt: "A four-turned-five-story 19th-century commercial building goes residential to support 44 micro-lofts and a younger clientele"
@@ -65,7 +67,7 @@ images:
 
 mostrecentimage: 2019-07-01
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%253A15294" target="_blank">Rhode Island Photograph Collection</a>, Providence Public Library; <a href="//digitalcommons.ric.edu/smolski_images/61" target="_blank">Chet Smolski</a>; Jef Nickerson; and realty websites'
+imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/islandora%253A15294">Rhode Island Photograph Collection</a>, Providence Public Library; <a href="https://digitalcommons.ric.edu/smolski_images/61">Chet Smolski</a>; Jef Nickerson; and realty websites'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -74,20 +76,20 @@ imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/ob
 
 ### Redevelopment
 
-This is a very interesting building with history that goes back farther than you might think. With an 1859 build date, this was the location of an infantry hall for the first 20 years of its life. After another 20 years, the double-height hall was converted to two stories, while the exterior windows still retain their double height window trim. Therefore, the exterior shows rectangular commercial storefront windows and fenestration on the first and second floor, topped by a string-course, then a two-story high section of double height window trim around a set of rectangular windows on the third floor, rectangular and arch-topped windows on the 4th floor, with a smaller string-course above that, and finally smaller single-sets of double-hung windows on the fifth floor. 
+This is a very interesting building with history that goes back farther than you might think. With an 1859 build date, this was the location of an infantry hall for the first 20 years of its life. After another 20 years, the double-height hall was converted to two stories, while the exterior windows still retain their double height window trim. Therefore, the exterior shows rectangular commercial storefront windows and fenestration on the first and second floor, topped by a string-course, then a two-story high section of double height window trim around a set of rectangular windows on the third floor, rectangular and arch-topped windows on the 4th floor, with a smaller string-course above that, and finally smaller single-sets of double-hung windows on the fifth floor.
 
-From the 70s to the 2000s, the building was painted in low contrast colors, with no special attention being paid to the wonderful details of the string-courses and double height window trim. The updated paint scheme in medium blue-gray and dark, almost navy blue grey is much more attractive and really makes this building stand out against its much more flamboyant neighbor to the north, the former Union Trust and Federal Reserve building. 
+From the 70s to the 2000s, the building was painted in low contrast colors, with no special attention being paid to the wonderful details of the string-courses and double height window trim. The updated paint scheme in medium blue-gray and dark, almost navy blue grey is much more attractive and really makes this building stand out against its much more flamboyant neighbor to the north, the former Union Trust and Federal Reserve building.
 
-Its a shame we were not able to capture or find a photo of the mural that adorned the eastern side of the building, overlooking the parking lot. One sees remnants of it in [the photo from 2017](#photo-case-mead-jh-2017-06-01). It was a Providence city skyline on one side above the contact information for Paolino Properties and an older view of Exchange Place (Kennedy Plaza) above contact information for an insurance agency. 
+Its a shame we were not able to capture or find a photo of the mural that adorned the eastern side of the building, overlooking the parking lot. One sees remnants of it in [the photo from 2017](#photo-case-mead-jh-2017-06-01). It was a Providence city skyline on one side above the contact information for Paolino Properties and an older view of Exchange Place (Kennedy Plaza) above contact information for an insurance agency.
 
-This project utilized State Historic Tax Credits and also applied for [Rebuild Rhode Island Tax Credits](//commerceri.com/incentives/tax-credits-and-financing/rebuild-rhode-island-tax-credit-case-mead-associates/){:target="_blank"} which were approved in February of 2016. Commerce later revisited the need for Rebuild credits after the project received approval for State Historic credits. We are unsure of the outcome. The renovation costs were projected to be $7.7-million as reported in January of 2017.[^1] The project was a [2019 Providence Preservation Society Preservation Awards Winner](//ppsri.org/2019-preservation-award-winners/){:target="_blank"}. 
+This project utilized State Historic Tax Credits and also applied for [Rebuild Rhode Island Tax Credits](https://commerceri.com/incentives/tax-credits-and-financing/rebuild-rhode-island-tax-credit-case-mead-associates/) which were approved in February of 2016. Commerce later revisited the need for Rebuild credits after the project received approval for State Historic credits. We are unsure of the outcome. The renovation costs were projected to be $7.7-million as reported in January of 2017.[^1] The project was a [2019 Providence Preservation Society Preservation Awards Winner](https://ppsri.org/2019-preservation-award-winners/).
 
 [^1]: Bramson, Kate. “Case Mead building.” Providence Journal, 2017 January 13. Accessed November 21, 2022 from https://www.providencejournal.com/story/news/2017/01/13/case-mead-building/21918101007/
 
 
 ### Current Events
 
-The building’s 44 micro-loft studio and one-bedroom apartments are available for lease. Check the [Paolino Properties website](//paolinoproperties.com/portfolio/case-mead/){:target="_blank"} for availability.
+The building’s 44 micro-loft studio and one-bedroom apartments are available for lease. Check the [Paolino Properties website](https://paolinoproperties.com/portfolio/case-mead/) for availability.
 
 
 ### History
@@ -124,6 +126,4 @@ Paolino also points to the shared economy as a driver towards smaller, more econ
 
 Case-Mead is the second major micro-loft project in Providence since the re-opening of the Providence Arcade in late 2013. [Another project, marketed towards college students, is slated to open next spring]({% link _property/edge-college-hill.md %}).
 
-—
-
-Nilsson, Casey. “More Micro-Lofts Are Coming to Downtown.” Rhode Island Monthly, 2017 August 22. Accessed November 21, 2022 from https://www.rimonthly.com/more-micro-lofts-are-coming-to-downtown/
+— _Nilsson, Casey. “More Micro-Lofts Are Coming to Downtown.” Rhode Island Monthly, 2017 August 22. Accessed November 21, 2022 from https://www.rimonthly.com/more-micro-lofts-are-coming-to-downtown/_

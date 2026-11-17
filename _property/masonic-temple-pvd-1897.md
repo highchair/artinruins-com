@@ -25,6 +25,8 @@ address: '123-129 Dorrance St, Providence RI'
 latitude: '41.8222817'
 longitude: '-71.4100893'
 gmap: "https://www.google.com/maps/place/123+Dorrance+St,+Providence,+RI+02903/@41.8222817,-71.4100893,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445145ae98eb1:0x23c11afdfb389a4!8m2!3d41.8222817!4d-71.4100893"
+street: [ 'Dorrance St' ]
+street-number: 125
 
 meta: ""
 excerpt: "A five-story red brick former Freemasons hall in very good historic condition converted to commercial space in the 1980s"
@@ -77,23 +79,23 @@ imagescredit: 'Contributions from the Library of Congress and Historic Map Works
 
 ### Redevelopment
 
-The Masonic Building is a 6 story, 41,327 SF condominium building. Property management has upgraded it over the years to include  a recently refurbished lobby and digital tenant/owner directory. 
+The Masonic Building is a 6 story, 41,327 SF condominium building. Property management has upgraded it over the years to include  a recently refurbished lobby and digital tenant/owner directory.
 
-The first Masonic Temple was built at this location, constructed from 1884 to 1886 and designed by [William R. Walker]({% link designer/william-r-walker-and-son.html %}). It suffered a catastrophic fire in 1896, and was immediately rebuilt with a new design by Fred. E. Field (1861–1931). 
+The first Masonic Temple was built at this location, constructed from 1884 to 1886 and designed by [William R. Walker]({% link designer/william-r-walker-and-son.html %}). It suffered a catastrophic fire in 1896, and was immediately rebuilt with a new design by Fred. E. Field (1861–1931).
 
-You will notice in the photos that the third and fourth floors are split and asymmetrical, with tall round-arch-topped windows on the left side of the Dorrance Street façade and two-levels of rectangular windows on the right. Masonic halls would typically include an auditorium-like gathering space, and this building must have featured a two-story one on the third floor. We are unsure if it is intact or has been split into a multi-level condominium. 
+You will notice in the photos that the third and fourth floors are split and asymmetrical, with tall round-arch-topped windows on the left side of the Dorrance Street façade and two-levels of rectangular windows on the right. Masonic halls would typically include an auditorium-like gathering space, and this building must have featured a two-story one on the third floor. We are unsure if it is intact or has been split into a multi-level condominium.
 
-The Masons were going to move into bigger quarters by 1928, when the [new Masonic Temple]({% link _property/masonic-temple-pvd.md %}) was supposed to have been completed. Instead, they stayed at this location until the 1960s. This building, presumably, was vacant for about 20 years before finding a new life as commercial space. 
+The Masons were going to move into bigger quarters by 1928, when the [new Masonic Temple]({% link _property/masonic-temple-pvd.md %}) was supposed to have been completed. Instead, they stayed at this location until the 1960s. This building, presumably, was vacant for about 20 years before finding a new life as commercial space.
 
-When the Garrahy Complex was constructed next door — designed by Robinson Green Beretta, completed in 1980 at a cost of $10 million[^1] — the demand for nearby office space increased. The former hall was converted to condominiums. By 1982, a unit was sold to Tyler Smith for about $61,000[^2] (about $187,216 today). In 1983, another unit sold to Manasett Corp for $135,000[^3] (about $414,000 today).  
+When the Garrahy Complex was constructed next door — designed by Robinson Green Beretta, completed in 1980 at a cost of $10 million[^1] — the demand for nearby office space increased. The former hall was converted to condominiums. By 1982, a unit was sold to Tyler Smith for about $61,000[^2] (about $187,216 today). In 1983, another unit sold to Manasett Corp for $135,000[^3] (about $414,000 today).
 
-[^1]: RGB website. Accessed October 1, 2022 at https://www.rgb.net/project/garrahy-judicial-complex/. 
+[^1]: RGB website. Accessed October 1, 2022 at https://www.rgb.net/project/garrahy-judicial-complex/.
 
 [^2]: “Providence records.” Providence Journal (RI), CITY ed., sec. NEWS, 21 Oct. 1982, pp. C-3A. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C3C50CAE1BE8. Accessed 1 Oct. 2022.
 
 [^3]: “Providence records.” Providence Journal (RI), CITY ed., sec. NEWS, 4 Aug. 1983, pp. C-3A. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525C28025B9A760. Accessed 1 Oct. 2022.
 
-Since then, a few of the condominiums have changed hands. The building’s ground floor units have housed many restaurants over the years as well. It has remained in good repair and continues to be a historic gateway building on the edge of the financial district. 
+Since then, a few of the condominiums have changed hands. The building’s ground floor units have housed many restaurants over the years as well. It has remained in good repair and continues to be a historic gateway building on the edge of the financial district.
 
 
 ### History
@@ -131,6 +133,4 @@ Cerilli was a 1970 graduate of Roger Williams University, later serving on its B
 
 Besides his sons and daughter in Providence, he leaves another daughter, Bridget Redding of Denver, Colo.; two brothers, Benedetto A. Cerilli Jr. of Jamestown and Peter J. Cerilli of Barrington; a sister, Barbara Mueller of East Greenwich, and a companion, Kathryn Rappleye.
 
-—
-
-“Joseph M. Cerilli, 50; founder of Providence Land Company.” Providence Journal (RI), ALL ed., sec. NEWS, 9 July 1996, pp. D-04. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15251FE8FAA9DA50. Accessed 1 Oct. 2022. 
+— _“Joseph M. Cerilli, 50; founder of Providence Land Company.” Providence Journal (RI), ALL ed., sec. NEWS, 9 July 1996, pp. D-04. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15251FE8FAA9DA50. Accessed 1 Oct. 2022._
