@@ -20,9 +20,9 @@ superlative: 'At the turn of the 20th century, the largest metal-working foundri
 NRHP-ref-number: 'Eligible, not listed'
 added-to-NRHP: '1981'
 
-address: '333 Adelaide Avenue, Providence RI'
+address: '333 Adelaide Ave, Providence RI'
 latitude: '41.795841'
-longitude: '-71.4316601'
+longitude: '-71.4294714'
 gmap: "https://www.google.com/maps/place/333+Adelaide+Ave,+Providence,+RI+02907/@41.795841,-71.4316601,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44f8286afd7c3:0x7f4bbad6bcd9898a!8m2!3d41.795841!4d-71.4294714"
 
 meta: ""
@@ -113,13 +113,13 @@ imagescredit: '1904 aerial from WikiCommons. All pre-demolition photos by Erik G
 
 ### Reason for Demolition
 
-It seems that the large Gorham complex was a victim of being vacant during the wrong era of real estate development. For a little over 10 years after Gorham shut down operations at this location in 1986, the City of Providence with aid from the Providence Preservation Society, solicited proposals for redevelopment of the site and its buildings. No responses included the existing buildings in their plans. The insatiable thirst for mill building redevelopment would not strike the area for five more years. 
+It seems that the large Gorham complex was a victim of being vacant during the wrong era of real estate development. For a little over 10 years after Gorham shut down operations at this location in 1986, the City of Providence with aid from the Providence Preservation Society, solicited proposals for redevelopment of the site and its buildings. No responses included the existing buildings in their plans. The insatiable thirst for mill building redevelopment would not strike the area for five more years.
 
-If the complex could have stayed standing for a little longer, we might have mixed use residential and commercial at this location. The buildings were gorgeous and the history was long and proud. The location along Mashapaug Pond would have given developers water views. It’s really a shame. 
+If the complex could have stayed standing for a little longer, we might have mixed use residential and commercial at this location. The buildings were gorgeous and the history was long and proud. The location along Mashapaug Pond would have given developers water views. It’s really a shame.
 
-Granted, the soil under these buildings was heavily contaminated. The pollution in the nearby pond was bad enough that some thought it might never recover. None of these things were insurmountable, but they did stand in the way of a more preservationist vision of the redevelopment of this property. 
+Granted, the soil under these buildings was heavily contaminated. The pollution in the nearby pond was bad enough that some thought it might never recover. None of these things were insurmountable, but they did stand in the way of a more preservationist vision of the redevelopment of this property.
 
-The last remnant of the 37-acre, 14-building complex was going to be converted into a Firefighter Museum. It stood for more than 10 years after the main buildings were torn down, but succumbed to a suspicious fire in 2009. 
+The last remnant of the 37-acre, 14-building complex was going to be converted into a Firefighter Museum. It stood for more than 10 years after the main buildings were torn down, but succumbed to a suspicious fire in 2009.
 
 
 ### Current Events
@@ -129,7 +129,7 @@ The Stop-n-Shop plaza that was built on the land where the Gorham Factory once s
 
 ### History
 
-Rather good synopsis of Gorham’s legacy and importance [at Wikipedia](//en.wikipedia.org/wiki/Gorham_Manufacturing_Company){:target="_blank"}. This snippet is very impressive: 
+Rather good synopsis of Gorham’s legacy and importance [at Wikipedia](https://en.wikipedia.org/wiki/Gorham_Manufacturing_Company). This snippet is very impressive: 
 
 > The Smithsonian archives of American art list Gorham foundry over 700 times in its inventory of American sculpture.
 
@@ -158,7 +158,7 @@ Some of the notable silver products produced by Gorham include:
 + Silver punch bowl, tray, goblets and ladle for the Shah of Iran, 1964
 + White House Table Service (3434-pieces) for the Nixon White House, 1974
 
-The manufacturing process at Gorham was tailored to produce a wide array of different items in the same facility. Among their most important products were sterling silver flatware and hollowware, electroplated flatware and hollowware, ecclesiastical goods, and bronze statuary and architectural products. The design department had access to a large library of folios on ornamentation, architecture, antiquities, gems, silver, furniture, costuming, birds and flowers, etc…
+The manufacturing process at Gorham was tailored to produce a wide array of different items in the same facility. Among their most important products were sterling silver flatware and hollowware, electroplated flatware and hollowware, ecclesiastical goods, and bronze statuary and architectural products. The design department had access to a large library of folios on ornamentation, architecture, antiquities, gems, silver, furniture, costuming, birds and flowers, etc.
 
 The facility drew its power from four 175 horse power Corliss Upright boilers. These boilers were encased in brick and were located in building H. In this building’s Engine Room was located a 450 hp automatic Corliss Engine. This engine has a 26" cylinder, 60" stroke, and a band wheel 20 feet in diameter.
 
@@ -166,9 +166,9 @@ The main building complex is an interconnected group of 14 distinct buildings co
 
 ***
 
-_From the RIHPHC’s survey of Providence Industrial Sites, July 1981_ 
+_From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
-The Gorham Manufacturing Company was founded as a small jeweler’s shop in 1818 by Jabez Gorham, who made beads, earrings, breast pins, rings, and a gold chain known as the “Gorham Chain.” In 1831, the firm began manufacturing silver spoons. Soon the shop began the production of other silver items such as forks, thimbles, combs, and children’s cups. In 1841 Gorham’s son John joined the firm which became known as Jabez Gorham and Son. After his father’s retirement in 1847, John Gorham greatly expanded the business by installing a steam engine and producing flat silver and silver holloware by machine. In 1865, the Gorham Manufacturing Company incorporated. It established a separate department for the manufacture of ecclesiastical articles in 1885. The department was quite successful and the company was soon handling larger orders for statues and memorials (mainly made of bronze) and for architectural bronze work. One of the many statues cast at the Gorham Manufacturing plant is the Columbus Monument (1893) at Columbus Square in Elmwood: this bronze figure of Columbus is the replica of a silver statue designed by Auguste Bartholdi and cast at Gorham for the Columbian Exposition of 1892 in Chicago. 
+The Gorham Manufacturing Company was founded as a small jeweler’s shop in 1818 by Jabez Gorham, who made beads, earrings, breast pins, rings, and a gold chain known as the “Gorham Chain.” In 1831, the firm began manufacturing silver spoons. Soon the shop began the production of other silver items such as forks, thimbles, combs, and children’s cups. In 1841 Gorham’s son John joined the firm which became known as Jabez Gorham and Son. After his father’s retirement in 1847, John Gorham greatly expanded the business by installing a steam engine and producing flat silver and silver holloware by machine. In 1865, the Gorham Manufacturing Company incorporated. It established a separate department for the manufacture of ecclesiastical articles in 1885. The department was quite successful and the company was soon handling larger orders for statues and memorials (mainly made of bronze) and for architectural bronze work. One of the many statues cast at the Gorham Manufacturing plant is the Columbus Monument (1893) at Columbus Square in Elmwood: this bronze figure of Columbus is the replica of a silver statue designed by Auguste Bartholdi and cast at Gorham for the Columbian Exposition of 1892 in Chicago.
 
 The complex, which includes one of the largest metal-working foundries in the world, consists of a group of 2- and 3-story brick structures with low hip or pitched roofs, grouped for the most part symmetrically beside and behind a 3-story (third story added later), hip-roofed office building with a gabled, Romanesque-style, central entrance. All the structures possess uniform corbeled brick cornices and window sills and other trimmings of rock-faced granite. A large, bronze statue of Vulcan, cast at the plant, stands in front f the office building. A short distance to the north of the principal complex is a brick, cross-gabeled stable and carriage house erected in 1890 which originally was part of a now demolished station. Also in this area is a long, Colonial Revival building built in 1895 and enlarged in 1906 containing the Board of Director’s room, dining rooms, recreation rooms, and dormitories. This building was to be used by the workers as well as the executives. Located next to the Amtrack Railroad, the Gorham Manufacturing Company complex presents a handsome, picturesque façade to the railroad traveller from New York to Providence or Boston. In 1967 Gorham became a division of Textron. The plant is still in operation today (**A.I.R.**: until 1986).
 

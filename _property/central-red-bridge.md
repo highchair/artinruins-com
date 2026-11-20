@@ -19,8 +19,8 @@ lists: [ 'Did You Know?' ]
 tags: [ 'Bridges', 'Providence Public Library Digital Collections', 'Vintage Views' ]
 
 address: '1 Waterman Ave, East Providence RI'
-latitude: '41.8265461'
-longitude: '-71.3808518'
+latitude: '41.826544'
+longitude: '-71.379483'
 gmap: "https://www.google.com/maps/place/41%C2%B049'35.6%22N+71%C2%B022'46.1%22W/@41.8265461,-71.3808518,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.826544!4d-71.379483?entry=ttu"
 street: []
 street-number:
@@ -75,7 +75,7 @@ images:
     caption: 'The former operator’s gatehouse building, now the Waterman Grille, view east'
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from Larry Depetrillo and Ron Martin from Facebook; the Providence Public Library <a href="//provlibdigital.org/islandora/object/islandora%253A22093" target="_blank">RI Postcard Collection</a>; Sanborn Maps, Library of Congress, Maps Division; Google Maps'
+imagescredit: 'Contributions from Larry Depetrillo and Ron Martin from Facebook; the Providence Public Library <a href="https://provlibdigital.org/islandora/object/islandora%253A22093">RI Postcard Collection</a>; Sanborn Maps, Library of Congress, Maps Division; Google Maps'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -132,13 +132,12 @@ In the late 1950s, the Rhode Island Department of Public Works (<span class="abb
 
 Through much of the 1960s, the <span class="abbr">RIDPW</span> focused on finishing up the state’s Interstate highway network, but toward the end of that decade, the state built several key pieces of the state’s primary freeway network, of which the new “Red Bridge” was a part. The 1,903-foot-long bridge has seven spans, with its fixed center span over the navigable channel; its girders were painted red in a nod to the old “Red Bridges” that stood nearby. A viaduct approach on the east side of the span crosses a (now-abandoned) railroad right-of-way and Massasoit Avenue. The western end of the bridge approach ties into Angell and Waterman streets in Providence — the approach “exits” onto Angell Street from a “stub” highway — while the eastern expressway approach on the East Providence side has grade-separated interchanges at Massasoit Avenue and Broadway. The $7 million bridge and approach costs were completed in 1969.
 
-According to the Rhode Island Department of Transportation (<span class="abbr">RIDOT</span>), the Henderson Expressway carries approximately 30,000 vehicles per day (AADT). Originally built with six lanes in anticipation of freeways that never were completed on either side of the span, the <span class="abbr">RIDOT</span> reduced roadway capacity on the bridge to four lanes, reduced the speed limit to 35 MPH, and added a bike lane. In 2008, the state said the bridge needed $50 million in repairs, primarily to fix the bridge’s deteriorated concrete supports. With the state’s finances under pressure, the <span class="abbr">RIDOT</span> was able only to fund a $3.3 million surface repair of the bridge’s steel beams (using bolt-on steel reinforcements). 
+According to the Rhode Island Department of Transportation (<span class="abbr">RIDOT</span>), the Henderson Expressway carries approximately 30,000 vehicles per day (AADT). Originally built with six lanes in anticipation of freeways that never were completed on either side of the span, the <span class="abbr">RIDOT</span> reduced roadway capacity on the bridge to four lanes, reduced the speed limit to 35 MPH, and added a bike lane. In 2008, the state said the bridge needed $50 million in repairs, primarily to fix the bridge’s deteriorated concrete supports. With the state’s finances under pressure, the <span class="abbr">RIDOT</span> was able only to fund a $3.3 million surface repair of the bridge’s steel beams (using bolt-on steel reinforcements).
 
-—
-
-_Captured on 24 November 2023 from http://www.bostonroads.com/roads/henderson/_
+— _Captured on 24 November 2023 from http://www.bostonroads.com/roads/henderson/_
 
 #### Sources:
+
 + “Executive Documents: First Session, 43rd Congress,” Government Printing Office (1874);
 + “Rhode Island Roads,” Rhode Island Department of Public Works (1956);
 + “A Highway Program for Rhode Island,” Rhode Island Department of Public Works (1959);
@@ -175,6 +174,4 @@ The ground floor of the building will contain a restaurant. Offices will occupy 
 
 Schein changed plans for the building after the Blackstone Park Improvement Association and the Bethany Home of Rhode Island Inc., a retirement home being built in the area of Schein’s property, requested several changes. Among them was that the bridge keeper’s house on the bank of the river not be razed.
 
-—
-
-“Restaurant, offices OK’d for site on Seekonk River.” Providence Journal (RI), CITY ed., sec. NEWS, 27 May 1987, pp. C-03. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15252AE0E5B98820. Accessed 24 Nov. 2023.
+— _“Restaurant, offices OK’d for site on Seekonk River.” Providence Journal (RI), CITY ed., sec. NEWS, 27 May 1987, pp. C-03. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15252AE0E5B98820. Accessed 24 Nov. 2023._

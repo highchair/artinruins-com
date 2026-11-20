@@ -134,6 +134,4 @@ John Gonzalez, Class of 1997, said he might not have become the artist he is tod
 
 “This place was formative for me,” he said. “My art teacher helped me get into the Rhode Island School of Design and I’m thankful for that.”
 
-—
-
-_Captured July 31, 2022 from https://www.providencejournal.com/story/news/education/2021/08/02/demolition-begins-east-providence-high-school-and-alumna-stop-share-memories/5455225001/_
+— _Captured 31 July 2022 from https://www.providencejournal.com/story/news/education/2021/08/02/demolition-begins-east-providence-high-school-and-alumna-stop-share-memories/5455225001/_

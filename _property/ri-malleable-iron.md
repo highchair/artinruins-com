@@ -15,10 +15,10 @@ designers: [ 'Jackson, Robertson, and Adams' ]
 lists: []
 tags: [ 'Demolition by Progress' ]
 
-address: '697 Jefferson Boulevard, Warwick RI'
-latitude: '41.7293188'
-longitude: '-71.4427654'
-gmap: "https://www.google.com/maps/place/697+Jefferson+Blvd,+Warwick,+RI+02886/@41.7293188,-71.4427654,15z"
+address: '697 Jefferson Blvd, Warwick RI'
+latitude: '41.729182'
+longitude: '-71.443161'
+gmap: "https://www.google.com/maps/place/Iron+Works/@41.729273,-71.443398,136m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQzJzQ1LjYiTiA3McKwMjYnMzQuMCJX!8m2!3d41.7293188!4d-71.4427654!3m5!1s0x89e44e9d5b5578f7:0x3297970ee85ac5d!8m2!3d41.729182!4d-71.443161!16s%2Fg%2F1tcxqpmq?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "By the time we took photos, most of the main mill building had crumbled. The main building, though, is still standing and has been converted to a restaurant."
@@ -27,7 +27,7 @@ thumbnail: ri-malleable-mk-2002-09-04.jpg
 
 images:
   - url: ri-malleable-jh-2002-03-02.jpg
-    alt: 'Mostly a shell of a building left after a fire and then were later completely demolished. What remains is the main office, a two story square brick building five bays wide with a carved transform over the second floor that reads “Rhode Island Maleable Iron Works”.'
+    alt: 'Mostly a shell of a building left after a fire and then were later completely demolished. What remains is the main office, a two story square brick building five bays wide with a carved transform over the second floor that reads “Rhode Island Maleable Iron Works.”'
     sizes: '1200, 900'
   - url: ri-malleable-jh-2002-03-03.jpg
     sizes: '1200, 900'
@@ -74,7 +74,7 @@ images:
     caption: 'Google Streetview from November 2019'
     sizes: '1041, 651'
 
-imagescredit: Contribution by M.K.
+imagescredit: 'Contribution by M.K.'
 ---
 
 ### Reason for Demolition
@@ -90,11 +90,11 @@ The demolition crew tried to save the shell, but the mortar could not hold the 2
 
 ### Current Events
 
-The main office building is all that remains of the former Iron Works, but its impressive facade is still very impressive as a home to a restaurant — the [Iron Works](//www.ironworkswarwick.com). There was a Hilton Garden Inn hotel built next door as early as 2008, according to the oldest Streetview we could find. 
+The main office building is all that remains of the former Iron Works, but its impressive facade is still very impressive as a home to a restaurant — the [Iron Works](https://www.ironworkswarwick.com). There was a Hilton Garden Inn hotel built next door as early as 2008, according to the oldest Streetview we could find.
 
-The building on Thurber Street in [Photo 11](#photo-ri-malleable-jh-2002-03-01) is actually a different building (and should be moved as such). It was present up until around 2015 (Streetview May 2012 shows it but October 2016 does not). As of November 2019 it is still a large, empty lot. 
+The building on Thurber Street in [Photo 11](#photo-ri-malleable-jh-2002-03-01) is actually a different building (and should be moved as such). It was present up until around 2015 (Streetview May 2012 shows it but October 2016 does not). As of November 2019 it is still a large, empty lot.
 
-Across the street is the giant parking garage and rental car drop off for the airport at 700 Jefferson Boulevard. 
+Across the street is the giant parking garage and rental car drop off for the airport at 700 Jefferson Boulevard.
 
 
 ### History
@@ -103,7 +103,7 @@ The former RI Malleable Iron Works largely date from 1918, when the original com
 
 Malleable Iron is defined as a high-tensile strength white cast iron produced by a long heat-treatment of white chilled castings. Because of the process of higher casting temperature and longer and hotter annealing, malleable iron has greater strength and ductility than normal cast iron. The carbon is reduced to tiny particles instead of flakes as in gray cast iron. Malleable Iron is used for castings, implements, pipe fittings, building hardware, and small machine parts requiring high tensile strength.
 
-_From [SO Rhode Island](//sorhodeisland.com/stories/iron-works-tavern,7989)_
+_From [SO Rhode Island](https://sorhodeisland.com/stories/iron-works-tavern,7989)_
 
 Built by industrialist Thomas Jefferson Hill in 1867 for the manufacture of malleable iron castings, the RI Malleable Iron Works Factory provided the nucleus for the village that was to grow around it. This factory, the adjoining mill housing in the neighboring blocks, and the train depot next door were all part of Hill’s vision, who gave his name to the village “Hillsgrove.” The Malleable Iron Works factory burned in 1918 and was almost immediately rebuilt.
 

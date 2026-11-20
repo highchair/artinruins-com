@@ -11,17 +11,19 @@ date-added: '2003'
 categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Gas Station & Auto Repair', 'Needs History' ]
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '734 Eddy Street, Providence RI'
+address: '734 Eddy St, Providence RI'
 latitude: '41.80821'
-longitude: '-71.4091881'
+longitude: '-71.4069994'
 gmap: "https://www.google.com/maps/place/734+Eddy+St,+Providence,+RI+02903/@41.80821,-71.4091881,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44567edecd80d:0x196fb7386338fed6!8m2!3d41.80821!4d-71.4069994"
+street: [ 'Eddy St' ]
+street-number: 734
 
 meta: ""
 excerpt: "A sweet and spare little gas and service station formerly on Eddy Street. Love the painted transom sign."

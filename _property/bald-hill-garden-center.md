@@ -22,8 +22,8 @@ lists: []
 tags: []
 
 address: '50 South County Trail, North Kingstown RI'
-latitude: '41.5740824'
-longitude: '-71.5183063'
+latitude: '41.5740784'
+longitude: '-71.5157314'
 gmap: "https://www.google.com/maps/place/50+S+County+Trail,+North+Kingstown,+RI+02852/@41.5740824,-71.5183063,17z/data=!3m1!4b1!4m6!3m5!1s0x89e5b68e56bd4063:0x1eba03085267a216!8m2!3d41.5740784!4d-71.5157314!16s%2Fg%2F11c1jfrp40?entry=ttu&g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D"
 
 meta: ""

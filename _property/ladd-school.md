@@ -17,8 +17,8 @@ lists: [ 'Did You Know?' ]
 tags: [ 'Demolition by Neglect', 'Former/Current Hospitals', 'Former/Current Schools' ]
 
 address:
-latitude: '41.555459'
-longitude: '-71.5454077'
+latitude: '41.5554545'
+longitude: '-71.543219'
 gmap: "https://www.google.com/maps/place/41°33'19.6%22N+71°32'35.6%22W/@41.555459,-71.5454077,670m/data=!3m2!1e3!4b1!4m14!1m7!3m6!1s0x0:0x0!2zNDHCsDMzJzI1LjIiTiA3McKwMzInNDIuMCJX!3b1!8m2!3d41.557!4d-71.545!3m5!1s0x0:0x0!7e2!8m2!3d41.5554545!4d-71.543219"
 
 meta: ""
@@ -95,7 +95,7 @@ The RI Economic Development Corporation was charged with the redevelopment of th
 
 A handful of structures started to be razed in the early 2000s, but plans for the site continued to change. In August 2003, the site was going to host a $6.4-million state fire academy. The academy was eventually built on the north side of the property. The academy cost $9.6 million in total and boasts a live burn building and training area which was opened in 2011. Construction was completed in 2017 on a 8,100 square-foot building administration and classroom building. (The tip of which can be seen in the top right of the [last few aerial photos](#photo-ladd-school-aerial-2011).)
 
-In May, 2004, seven University of Rhode Island seniors studying landscape architecture presented their design ideas for establishing a rural village or mixed use development during a public meeting at the Exeter Grange. 
+In May, 2004, seven University of Rhode Island seniors studying landscape architecture presented their design ideas for establishing a rural village or mixed use development during a public meeting at the Exeter Grange.
 
 In 2008, Exeter received a grant from the Orton Family Foundation to involve residents in exploring and developing a shared vision for the future growth of the town. The project was overseen by town staff, residents, and business owners appointed by the Exeter Town Council. The process sought public feedback over 3 years. The Ladd School site was one of the locations explored for a new residential village designed around the town’s Conservation Development ordinance. From what we can tell via aerial photographs, no new village development has been constructed at the proposed locations.
 
@@ -107,12 +107,12 @@ The site of the former school is mostly razed, with only a few structures remain
 
 ### History
 
-Visit [theladdschool.com](//theladdschool.com){:target="_blank"}, a comprehensive resource about The Dr. Joseph H. Ladd School, formerly the _Exeter School for the Feeble-Minded_. They have photos, a more complete history, and more detailed stories of what went on there.
+Visit [theladdschool.com](https://theladdschool.com/), a comprehensive resource about The Dr. Joseph H. Ladd School, formerly the _Exeter School for the Feeble-Minded_. They have photos, a more complete history, and more detailed stories of what went on there.
 
 #### We support and admire the Weird Island podcast! 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/b79302ca-936c-4df9-9fc2-ed1be3586845?dark=false"></iframe>
 
-Visit on the web: [Weird Island Episode 03: Abandoned, The Ladd School](//weird-island.simplecast.com/episodes/abandoned-the-ladd-school)
+Visit on the web: [Weird Island Episode 03: Abandoned, The Ladd School](https://weird-island.simplecast.com/episodes/abandoned-the-ladd-school)
 
 ***
 
@@ -120,13 +120,13 @@ Like the [Boys Training School in Cranston]({% link _property/sockanosset-boys-s
 
 Prior to building the _Exeter for the Feeble-Minded in 1907_, most patients were treated out of state at places with such charming names as the _Connecticut School for Imbeciles_ and the _Massachusetts School for the Feeble-Minded_. The Ladd School started as a farm colony, based on programs in other states where patients were housed in small cottage settings, as opposed to large institutions that came later, and worked in a rural setting doing small chores, farming, and later making of clothes and household items. In 1909 they erected a girls dormitory, as the boys was full and a waiting list was established.
 
-In 1917 the name was changed to the _Exeter School_, dropping the “feeble-minded”, as the term began to grow objectionable. After a decade of mis-management, low funding, and high over-crowded enrollment, in 1928 the Exeter School was a warehouse for society’s refuse. Amidst a steady and growing controversy over his policies, Dr. Joseph Ladd retired on June 1, 1956. It was officially closed as an institution of the state in 1993. 
+In 1917 the name was changed to the _Exeter School_, dropping the “feeble-minded”, as the term began to grow objectionable. After a decade of mis-management, low funding, and high over-crowded enrollment, in 1928 the Exeter School was a warehouse for society’s refuse. Amidst a steady and growing controversy over his policies, Dr. Joseph Ladd retired on June 1, 1956. It was officially closed as an institution of the state in 1993.
 
 During the early seventies, privately-run homes for the mentally disabled brought suit against the state for running such poor institutions. In 1986, law-makers tried to get it closed because of pending legal issues (child abuse cases), and Rhode Island wanted to abolish institutions from it’s mental health programs.
 
 ***
 
-_From [The Asylum Antiquarian on Medium](//medium.com/the-asylum-antiquarian/the-fall-of-an-icon-the-end-of-an-era-fa20b9fb7885){:target="_blank"}, about the most recent building on the Ladd School site, the John E. Fogarty Hospital (the round, spaceship-looking orange and white structure)_
+_From [The Asylum Antiquarian on Medium](https://medium.com/the-asylum-antiquarian/the-fall-of-an-icon-the-end-of-an-era-fa20b9fb7885), about the most recent building on the Ladd School site, the John E. Fogarty Hospital (the round, spaceship-looking orange and white structure)_
 
 Built in 1962, the hospital was named for the U.S. Congressman from Rhode Island, John Fogarty, whose 27-year tenure has been lauded most for its unprecedented contributions toward the the increased awareness and improvement of services for “mentally retarded” citizens. The first and only facility of its kind, the hospital stood for more than a half century on the grounds of the Dr. Joseph H. Ladd Center; the state’s historic and now defunct institution for people with developmental and intellectual disabilities.
 

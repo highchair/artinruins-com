@@ -18,10 +18,12 @@ tags: [ 'Demolition by Neglect', 'Churches', 'Still an Empty Lot' ]
 NRHP-ref-number: '76000043'
 added-to-NRHP: 'June 30, 1976'
 
-address: '909 Eddy Street, Providence RI'
+address: '909 Eddy St, Providence RI'
 latitude: '41.802894'
-longitude: '-71.4090917'
+longitude: '-71.406903'
 gmap: "https://www.google.com/maps/place/909+Eddy+St,+Providence,+RI+02905/@41.802894,-71.4090917,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456099e46dd3:0x6324de09a488e52b!8m2!3d41.802894!4d-71.406903"
+street: [ 'Eddy St' ]
+stret-number: 909
 
 meta: ""
 excerpt: "Closed in 1981, this William R. Walker and Son-designed church was vacant for over 20 years before neglect contributed to its demise."
@@ -131,7 +133,7 @@ Having sat vacant for more than twenty years, the structure had deteriorated and
 
 The Christ Episcopal Church made the [Providence Preservation Society’s](https://guide.ppsri.org/property/church-of-god-in-christ-jesus) Ten Most Endangered List in 1999, and <abbr title="Providence Preservation Society">PPS</abbr> has worked with the church in the past. Renewed fears about the building’s status returned the structure to <span class="abbr">PPS</span>’s Ten Most Endangered List in 2002 and 2003.
 
-In early January 2006, the structure was taken down. The lot it used to sit on is still vacant. 
+In early January 2006, the structure was taken down. The lot it used to sit on is still vacant.
 
 ### Additional Links
 

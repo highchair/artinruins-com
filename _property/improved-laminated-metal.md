@@ -12,14 +12,16 @@ date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Neglect', 'Still an Empty Lot' ]
 
 address: '775 Eddy St, Providence RI'
 latitude: '41.806659'
-longitude: '-71.4099289'
+longitude: '-71.4077402'
 gmap: "https://www.google.com/maps/place/775+Eddy+St,+Providence,+RI+02905/@41.806659,-71.4099289,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445670b474bd5:0x27b982411c4d926d!8m2!3d41.806659!4d-71.4077402"
+street: [ 'Eddy St' ]
+stret-number: 775
 
 meta: ""
 excerpt: "A two-story brick L-shaped mill along Eddy Street south of the corner of Eddy and Public Streets. In decay for 10 years or more before being razed in 2005."
@@ -104,7 +106,7 @@ _From Sanborn Insurance Maps_
 The mystery of this building’s construction date has been narrowed down to between 1900 and 1920:
 
 * [1899 Sanborn Insurance Map, Volume 3, Plate 241](https://repository.library.brown.edu/studio/item/bdr:212087/) — Lower left corner of map, Public Street runs along the left side, no sign of this building on Eddy Street or its neighbor along Public Street. Brown Digital Repository, Brown University Library.
-* [1920-1921 Sanborn Insurance Map, Volume 5, Plate 15](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192105) (page 16) — Center top, Public Street running along the top, 775 Eddy Street is clearly visible and labelled “The Improved Seamless Wire Co.” To its south is a garage structure and to its north is a Jewelry Shop (1st floor) with Metals Works and Printing on the 2nd floor. This building later becomes Herff/Jones.
+* [1920-1921 Sanborn Insurance Map, Volume 5, Plate 15](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192105) (page 16) — Center top, Public Street running along the top, 775 Eddy Street is clearly visible and labelled “The Improved Seamless Wire Co.” To its south is a garage structure and to its north is a Jewelry Shop (1st floor) with Metals Works and Printing on the 2nd floor. This building later is occupied by [Herff/Jones]({% link _property/n-barstow-jewelers.md %}).
 
 By aerial photos it seems as though the garage to the south was attached to this building at one point, sharing a common wall that was built up along the alley shown in the old map. That garage disappears between the 1988 and 1997 photos. The wooden structure (houses) on the corner of Public and Eddy streets seem to be there as late as the 1951 aerial photo.
 

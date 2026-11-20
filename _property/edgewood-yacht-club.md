@@ -19,9 +19,9 @@ tags: [ 'Demolition by Fire' ]
 NRHP-ref-number: '89000072'
 added-to-NRHP: '1989'
 
-address: '3 Shaw Avenue, Cranston RI'
-latitude: '41.776367'
-longitude: '-71.3929436'
+address: '3 Shaw Ave, Cranston RI'
+latitude: '41.776300'
+longitude: '-71.390194'
 gmap: "https://www.google.com/maps/place/3+Shaw+Ave,+Cranston,+RI+02905/@41.776367,-71.3929436,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44fdd96031e63:0x17aa2d8ad15c3c56!8m2!3d41.776367!4d-71.3907549"
 
 meta: ""
@@ -56,14 +56,14 @@ imagescredit: 'Contributions by Patricia Sheehan for the National Register of Hi
 
 ### Reason for Demolition
 
-Built in 1908, this shingle-style building with cupola topped double-hip roof built over the river survived the storm surges of the 1938 Hurricane as well as Hurricane Carol in 1954. The structure was added to the National Register in 1989 and was a central part of the Edgewood community throughout its time. 
+Built in 1908, this shingle-style building with cupola topped double-hip roof built over the river survived the storm surges of the 1938 Hurricane as well as Hurricane Carol in 1954. The structure was added to the National Register in 1989 and was a central part of the Edgewood community throughout its time.
 
-The building was completely leveled by fire during the early morning hours of Wednesday, January 12, 2011. The fire began around 4:00 am by a lightning strike during an intense snowstorm; in about an hour and a half, the wooden structure was gone. No one was injured, and only the deep-set pilings survived. 
+The building was completely leveled by fire during the early morning hours of Wednesday, January 12, 2011. The fire began around 4:00 am by a lightning strike during an intense snowstorm; in about an hour and a half, the wooden structure was gone. No one was injured, and only the deep-set pilings survived.
  
 
 ### Current Events
 
-For a number of years after the fire, a temporary dock was constructed. Meanwhile, the club and its members formed a building committee, raised funds, and identified an architect that would honor the soul of the original structure. In May of 2018, seven years after the devastating fire, a new building was opened on the same spot, with many of the same familiar details. 
+For a number of years after the fire, a temporary dock was constructed. Meanwhile, the club and its members formed a building committee, raised funds, and identified an architect that would honor the soul of the original structure. In May of 2018, seven years after the devastating fire, a new building was opened on the same spot, with many of the same familiar details.
 
 
 ### History
@@ -74,7 +74,7 @@ It is a large two-and-one-half-story, wood-frame, Shingle Style building constru
 
 […] Edgewood Yacht Club is only slightly younger than the state's oldest yacht club, Rhode Island Yacht Club, and has long held important sailing activities. For many years, the club ran at least one regatta, one one-design race, and several special races. The predominant one-design boat races included Beetles, Stars, Indians, Snipes, 110s, and Puffins. Like many yacht clubs, the Edgewood Yacht Club during World War II formed an auxiliary coast guard to patrol the inland waters of Narragansett Bay. The club has long been a leader in providing sailing instruction to children and adults.
 
-[… T]he Edgewood Yacht Club [was] the only remaining example of a group once relatively common in this ocean-oriented state. Its form and siting typify those of late nineteenth- and early twentieth-century seaside clubhouses. 
+[… T]he Edgewood Yacht Club [was] the only remaining example of a group once relatively common in this ocean-oriented state. Its form and siting typify those of late nineteenth- and early twentieth-century seaside clubhouses.
 
 […] Established at this location in 1885 as the Edgewood Boat Club, this organization served the nascent, upper-middle-class suburb of Edgewood and included only a group of bayside bathhouses. The Club was formally incorporated as the Edgewood Yacht Club in 1889, and a clubhouse, which replaced the various temporary structures here, was constructed in 1903; its incineration in 1908 necessitated the construction of this structure.
 
@@ -113,8 +113,8 @@ On Saturday, longtime club member Andy Burkhardt shared some memories, too, afte
 
 “That community has joined hands with us in many ways,” Burkhardt said. “It’s going to be an interesting future. I think it’s a good fit.”
 
-Designed by [Donald S. Richardson](//dsraia.com){:target="_blank"}, the new clubhouse recreates the architectural spirit of the one it replaces, which in turn replaced the one lost in a 1908 fire — a requirement of the state and federal permitting processes, Kezirian said.
+Designed by [Donald S. Richardson](https://dsraia.com), the new clubhouse recreates the architectural spirit of the one it replaces, which in turn replaced the one lost in a 1908 fire — a requirement of the state and federal permitting processes, Kezirian said.
 
 “If the building was on the National Register of Historic Places, which it was, and it was lost to a disaster, you’re allowed to rebuild, provided the new building is in the same location and the design respects design of the building that was there,” he said. “The wraparound porches, the cupola, very much reflect what we had.”
 
-_Captured on November 8, 2020._ https://www.providencejournal.com/news/20180519/seven-years-after-fire-cranstons-edgewood-yacht-club-resurrected
+— _Captured on 08 November 2020 from https://www.providencejournal.com/news/20180519/seven-years-after-fire-cranstons-edgewood-yacht-club-resurrected_

@@ -22,9 +22,9 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '175 Memorial Blvd, Newport RI'
-latitude: '41.4882874'
-longitude: '-71.2928849'
-gmap: "https://www.google.com/maps/place/Rotunda+Ballroom/@41.4882874,-71.2928849,18z/data=!3m1!5s0x89e5af4a545088b9:0x6e825a3d27212631!4m6!3m5!1s0x89e5af4a5457159d:0x6079b6612d42b96a!8m2!3d41.488627!4d-71.2905675!16s%2Fg%2F11bbwnqkjv?entry=ttu"
+latitude: '41.4886417'
+longitude: '-71.2906146'
+gmap: "https://www.google.com/maps/place/175+Memorial+Blvd,+Newport,+RI+02840/@41.4885395,-71.2912061,399m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDI5JzE3LjgiTiA3McKwMTcnMzQuNCJX!8m2!3d41.4882874!4d-71.2928849!3m5!1s0x89e5af4af9545d71:0x6204cc12505fdf45!8m2!3d41.4886417!4d-71.2906146!16s%2Fg%2F11bw3_dgwt?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: []
 street-number:
 

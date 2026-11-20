@@ -20,8 +20,10 @@ added-to-NRHP:
 
 address: '338-350 Allens Ave, Providence RI'
 latitude: '41.804496'
-longitude: '-71.4021036'
-gmap: "https://www.google.com/maps/place/338+Allens+Ave,+Providence,+RI+02905/@41.804496,-71.4021036,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4455b8b7ae09b:0x27abe0c2db8253e8!8m2!3d41.804496!4d-71.3999149"
+longitude: '-71.3999149'
+gmap: "https://www.google.com/maps/place/340+Allens+Ave,+Providence,+RI+02905/@41.8038619,-71.4013537,256m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ4JzE2LjIiTiA3McKwMjMnNTkuNyJX!8m2!3d41.804496!4d-71.3999149!3m5!1s0x89e4455c04e691ed:0x83e81cff4149033c!8m2!3d41.803747!4d-71.4008532!16s%2Fg%2F11cpmd566c?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Allens Ave' ]
+street-number: 344
 
 meta: ""
 excerpt: "Two massive five-story, brick, pier-and-spandrel warehouses along the waterfront once used for storing cargo. Vacant for 15+ years before demolition from 2013-2015."

@@ -16,9 +16,9 @@ designers: []
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'Demolition by Fire', 'Providence Public Library Digital Collections' ]
 
-address: '785 Main Street, West Warwick RI'
-latitude: '41.7208157'
-longitude: '-71.5309967'
+address: '785 Main St, West Warwick RI'
+latitude: '41.7208137'
+longitude: '-71.5299076'
 gmap: "https://www.google.com/maps/place/785+Main+St,+West+Warwick,+RI+02893/@41.7208157,-71.5309967,399m/data=!3m2!1e3!4b1!4m13!1m7!3m6!1s0x89e44a4964e31dc9:0x35045854f2b574d1!2s771+Main+St,+West+Warwick,+RI+02893!3b1!8m2!3d41.720935!4d-71.531395!3m4!1s0x89e44a4bcf7eccaf:0x358ac136e002ded3!8m2!3d41.7208137!4d-71.5299076"
 
 meta: ""
@@ -59,19 +59,19 @@ images:
     caption: 'Aerial view from 2011. The land where the mill once stood has been cleaned and cleared and the raceway has been filled in.'
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A301" target="_blank" title="Opens in a new window">Providence Library Digital Collection</a> and the Providence Historic Aerial Viewer.'
+imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/islandora%3A301">Providence Library Digital Collection</a> and the Providence Historic Aerial Viewer.'
 ---
 
 ### Reason for Demolition
 
-In March 30, 2005, a fire swallowed this huge mill complex. The 175-year-old wood beams and floors burned quickly and walls collapsed before firefighter crews could do much about it. The fire was deemed suspicious immediately due to the fact that electric power service to the building had long been cut off. 
+In March 30, 2005, a fire swallowed this huge mill complex. The 175-year-old wood beams and floors burned quickly and walls collapsed before firefighter crews could do much about it. The fire was deemed suspicious immediately due to the fact that electric power service to the building had long been cut off.
 
-In 2003, the town sold tax title to the 2.6-acre property for $1 to Mill Conversions, LLC of Woonsocket. Work had not begun on converting the mill property into residential condominiums, but money had been spent on site clean up. 
+In 2003, the town sold tax title to the 2.6-acre property for $1 to Mill Conversions, LLC of Woonsocket. Work had not begun on converting the mill property into residential condominiums, but money had been spent on site clean up.
 
 
 ### Current Events
 
-A related nearby building at 771 that survived the fire was converted to six condos but the main site of the former Phenix Mill has not been developed and is currently green space. 
+A related nearby building at 771 that survived the fire was converted to six condos but the main site of the former Phenix Mill has not been developed and is currently green space.
 
 
 ### History
@@ -80,7 +80,7 @@ _From “Historic and Architectural Resources of West Warwick, Rhode Island: A P
 
 #### Phenix Mill & the village
 
-Set in the northwest corner of West Warwick, the village of Phenix had its origin when a dam and a cotton mill were built here by the Roger Williams Manufacturing Company in 1810. Following an 1821 fire, the mill was rebuilt with an improved water-power system on a site between Main Street and the river. 
+Set in the northwest corner of West Warwick, the village of Phenix had its origin when a dam and a cotton mill were built here by the Roger Williams Manufacturing Company in 1810. Following an 1821 fire, the mill was rebuilt with an improved water-power system on a site between Main Street and the river.
 
 […] As in other villages, housing for mill works was constructed in Phenix. The houses at 776-78 and 780-82 Main Street (c. 1822) are typical — plain, functional dwellings — 
 and may be the oldest houses of their type in West Warwick. […] By 1850, Phenix was a well established village with mills, mill housing along Main Street and the side streets north of the river, many private residences especially on the former Atwood estate, broken up in 1825, churches, two banks, and a post office.
@@ -91,9 +91,9 @@ and may be the oldest houses of their type in West Warwick. […] By 1850, Pheni
 
 The Phenix Mill complex, sited between Main Street and the Pawtuxet River, consists of a 328- by 43-foot, 4-story, stuccoed stone building with a square tower and a Greek Revival belfry, several attached and freestanding buildings, and a wooden gate house astride a raceway leading from a dam to the main building. Across the street is a later weave shed 1902, a 2-story, 122- by 192-foot, flat-roofed brick structure whose windows are covered, connected to the old mill by a steel bridge over the street.
 
-In 1830, […] Crawford Allen became the owner. Seven years later he was joined by his brother Zachariah, a well-known manufacturer and mill engineer, and by David Whitman. Whitman was an important technological innovator in the textile industry, and planned or altered some of the great factories in Lawrence, Lowell, Fall River, and Maine. The Allens and Whitman manufactured what was said to be the first two-and-one-quarter- to three-yard-wide sheeting made in the country. 
+In 1830, […] Crawford Allen became the owner. Seven years later he was joined by his brother Zachariah, a well-known manufacturer and mill engineer, and by David Whitman. Whitman was an important technological innovator in the textile industry, and planned or altered some of the great factories in Lawrence, Lowell, Fall River, and Maine. The Allens and Whitman manufactured what was said to be the first two-and-one-quarter- to three-yard-wide sheeting made in the country.
 
-In 1839, the Lonsdale Company, an outgrowth of the Providence mercantile firm Brown and Ives, acquired one-half of the real estate, and in the following years the mill operated under a variety of leasing arrangements. An addition to the east end of the 1823 mill was made in 1860. 
+In 1839, the Lonsdale Company, an outgrowth of the Providence mercantile firm Brown and Ives, acquired one-half of the real estate, and in the following years the mill operated under a variety of leasing arrangements. An addition to the east end of the 1823 mill was made in 1860.
 
 In 1861, the Lonsdale Company partners formed the Hope Company. It included John Carter Brown; Robert H. Ives, and others. By 1867, this company, which also owned the mill property at nearby Hope Village in Scituate, had acquired all the mill property at Phenix. In 1882, the company built a stone connector between the mills, creating a single building measuring 328 by 43 feet, with a capacity of 21,536 spindles and 430 looms.
 

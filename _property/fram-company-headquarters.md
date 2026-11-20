@@ -19,9 +19,9 @@ tags: [ 'Demolition by Neglect', 'Mid-century Modern', 'Still an Empty Lot' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '105 Pawtucket Avenue, East Providence RI'
-latitude: '41.854592'
-longitude: '-71.3647897'
+address: '105 Pawtucket Ave, East Providence RI'
+latitude: '41.854588'
+longitude: '-71.362601'
 gmap: "https://www.google.com/maps/place/105+Pawtucket+Ave,+Rumford,+RI+02916/@41.854592,-71.3647897,17z/data=!3m1!4b1!4m5!3m4!1s0x89e45b43d8814667:0xeadbc7b97c8f9df9!8m2!3d41.854588!4d-71.362601"
 
 meta: ""
@@ -94,14 +94,14 @@ imagescredit: 'Contributions from Camp Miriam (Flickr) and Sandor Bodo for the P
 
 ### Reason for Demolition
 
-The Fram/AlliedSignal company closed its doors in 1998. Manufacturing moved to Ohio and had already been present in Nevada and Missouri since the mid-1970s. Headquarters moved to Danbury, CT. With the closure, the building became vacant. To save some tax money, the owners at Fram gave it to a non-profit that was supposed to rehabilitate the building and then sell it, but that never materialized. Several other parties were interested and either walked away once they realized what poor shape the building was in, or they did not complete rezoning, design, abatement, or get the tax stabilization they wanted from the City. 
+The Fram/AlliedSignal company closed its doors in 1998. Manufacturing moved to Ohio and had already been present in Nevada and Missouri since the mid-1970s. Headquarters moved to Danbury, CT. With the closure, the building became vacant. To save some tax money, the owners at Fram gave it to a non-profit that was supposed to rehabilitate the building and then sell it, but that never materialized. Several other parties were interested and either walked away once they realized what poor shape the building was in, or they did not complete rezoning, design, abatement, or get the tax stabilization they wanted from the City.
 
 The building became a difficult property to develop and attract development the more and more it deteriorated. Over time the City of East Providence invested time and money in doing the minimum that the building required, but it was not enough to prevent entropy. Eventually, it was razed when conditions worsened. 19 different code violations were cited in the demolition request, including sanitation, trash, debris, boats and old mattresses on the property as well as its use by “transients,” who “were staying in the building and putting themselves at serious risk of injury and/or death.”
 
 
 ### Current Events
 
-The building was only recently razed (2020). Currently, the leveled land is available for development. No changes to zoning have been made that we know of. 
+The building was only recently razed (2020). Currently, the leveled land is available for development. No changes to zoning have been made that we know of.
 
 
 ### History
@@ -116,17 +116,17 @@ Fram, which later became Allied Aftermarket (also known as AlliedSignal), manufa
 
 The property includes two structures. The historically significant one, closer to Pawtucket Avenue, was built for Fram in 1954. It was designed by Benjamin Thompson of The Architectural Collaborative in Cambridge, Massachusetts, for whom Walter Gropius was also a member. Mr. Gropius was one of the influential German founders of the Bauhaus School. The Fram building was considered one of the few examples of the late Mr. Gropius’ work in Rhode Island and was a notable for being a local example of architecture’s “International Style”.
 
-The second structure is a two-story building to the rear, built in 1972. It borrows much of its massing and design details from the original building. In 2003, as a means of protecting the building and attracting investment in its rehabilitation, the Rhode Island Historical and Heritage Commission considered nominating the building for the National Register. They found the structure in stable condition with much of the historically significant details intact or repairable, but a full nomination was never finalized. The building’s glass and steel exterior was intact at the time, with original glazed white, black, and blue panels present ([See photos from 2012](#photo-fram-cm-2012-08-01)). 
+The second structure is a two-story building to the rear, built in 1972. It borrows much of its massing and design details from the original building. In 2003, as a means of protecting the building and attracting investment in its rehabilitation, the Rhode Island Historical and Heritage Commission considered nominating the building for the National Register. They found the structure in stable condition with much of the historically significant details intact or repairable, but a full nomination was never finalized. The building’s glass and steel exterior was intact at the time, with original glazed white, black, and blue panels present ([See photos from 2012](#photo-fram-cm-2012-08-01)).
 
-The main building shows up in aerial photos from 1962. It is not present in the photos from 1951-52 — in fact, nothing but trees are there. In an aerial from 1972 the addition had not yet been added, but by 1981 it is in the photos. These photos verify the dates that have been reported. 
+The main building shows up in aerial photos from 1962. It is not present in the photos from 1951-52 — in fact, nothing but trees are there. In an aerial from 1972 the addition had not yet been added, but by 1981 it is in the photos. These photos verify the dates that have been reported.
 
 #### Redevelopment failures
 
 In 2007, the property was placed in the hands of Seed America Foundation, a nonprofit organization that offered corporations a way to rid themselves of distressed industrial properties by donating them and taking hefty tax write-offs. Seed America’s stated mission was to reuse the industrial properties and put the proceeds toward establishing a graduate business school. Without ever opening the school, the company went into bankruptcy in 2010.
 
-First National Development, a Connecticut company that specializes in reusing vacant industrial properties, approached the city of East Providence in 2017 with plans for reuse. At a City Council meeting, project director Aurora Leigh touted her company’s plans and its success redeveloping the former Union Wadding Co. mill complex in Pawtucket. To go forward, First National sought tax stabilization, a rezoning from commercial to “waterfront district” to allow residential use, and possible forgiveness for liens on the property amounting to $800,000 for maintenance the City had to incur over the past 20 years. 
+First National Development, a Connecticut company that specializes in reusing vacant industrial properties, approached the city of East Providence in 2017 with plans for reuse. At a City Council meeting, project director Aurora Leigh touted her company’s plans and its success redeveloping the former Union Wadding Co. mill complex in Pawtucket. To go forward, First National sought tax stabilization, a rezoning from commercial to “waterfront district” to allow residential use, and possible forgiveness for liens on the property amounting to $800,000 for maintenance the City had to incur over the past 20 years.
 
-The East Providence City Council, at a meeting on January 17, 2017, unanimously approved the recommendation for the sale of the property known as 105 and 105R Pawtucket Avenue, to First National. Before any construction could take place, however, the developer must submit plans and gain approvals from various other governing bodies besides the council, including the East Providence Waterfront Commission. Plans did not move forward. 
+The East Providence City Council, at a meeting on January 17, 2017, unanimously approved the recommendation for the sale of the property known as 105 and 105R Pawtucket Avenue, to First National. Before any construction could take place, however, the developer must submit plans and gain approvals from various other governing bodies besides the council, including the East Providence Waterfront Commission. Plans did not move forward.
 
 Euston, LLC, entered the equation in 2018 with like plans for the site, which included approximately 100 apartment units as well as commercial components, and eventually purchased it for $47,847 in May of that year. However, after delving more deeply into the project, it was deemed unsuitable, structurally and financially, to pursue.
 

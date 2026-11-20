@@ -21,8 +21,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '310 Bourne Ave, East Providence RI'
-latitude: '41.840364'
-longitude: '-71.3725277'
+latitude: '41.84036'
+longitude: '-71.3703387'
 gmap: "https://www.google.com/maps/place/41°50'25.3%22N+71°22'13.2%22W/@41.840364,-71.3725277,667m/data=!3m2!1e3!4b1!4m14!1m7!3m6!1s0x89e45b3ae631c7e1:0x2d6610f603f239ed!2s310+Bourne+Ave,+Rumford,+RI+02916!3b1!8m2!3d41.8421384!4d-71.3688903!3m5!1s0x0:0x0!7e2!8m2!3d41.84036!4d-71.3703387"
 
 meta: ""

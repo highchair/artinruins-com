@@ -20,9 +20,9 @@ superlative: 'In 1894, this was the first direct investment by a British manufac
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '100 Roddy Avenue, Attleboro MA'
+address: '100 Roddy Ave, Attleboro MA'
 latitude: '41.8941807'
-longitude: '-71.3794153'
+longitude: '-71.3772266'
 gmap: "https://www.google.com/maps/place/100+Roddy+Ave,+Attleboro,+MA+02703/@41.8941807,-71.3794153,17z/data=!3m1!4b1!4m5!3m4!1s0x89e45ccbdd52771d:0x18cd477790cc254!8m2!3d41.8941807!4d-71.3772266"
 
 meta: ""
@@ -66,7 +66,7 @@ images:
   - url: cumb-plastics-jh-2015-12-03.jpg
     sizes: '1867, 800'
 
-imagescredit: 'Postcard from the <a href="//provlibdigital.org/islandora/object/islandora%3A16116">Edward Ozog Photograph Collection</a>, Providence Public Library Digital Collection'
+imagescredit: 'Postcard from the <a href="https://provlibdigital.org/islandora/object/islandora%3A16116">Edward Ozog Photograph Collection</a>, Providence Public Library Digital Collection'
 ---
 
 ### Reason for Demolition
@@ -82,13 +82,14 @@ Interestingly, there is some confusion as to where this building is actually loc
 
 ### Current Events
 
-The site is still undeveloped in 2020. While condemnation by the City put its demolition on a fast track, it is really unfortunate that another use for this large plot of land was not found first. 
+The site is still undeveloped in 2020. While condemnation by the City put its demolition on a fast track, it is really unfortunate that another use for this large plot of land was not found first.
 
 
 ### History
 
-More photos from the [Pawtucket Library Flickr collection](//www.flickr.com/photos/pawtucketlibrary/albums/72157708803331863){:target="_blank"}
+More photos from the [Pawtucket Library Flickr collection](https://www.flickr.com/photos/pawtucketlibrary/albums/72157708803331863)
 
+***
 
 #### Fred M. Roddy & Cumberland Plastics
 
@@ -104,7 +105,7 @@ The Attleboro facility was one quarter the size of Globe Works, the Howard & Bul
 
 H. & B. was the first direct investment by a British manufacturer in the United States. 
 
-More at [Kinlochcastle.blogspot.com](//kinlochcastle.blogspot.com/2016/06/howard-and-bullough-american-machine-co.html){:target="_blank"}
+More at [Kinlochcastle.blogspot.com](https://kinlochcastle.blogspot.com/2016/06/howard-and-bullough-american-machine-co.html)
 
 [^2]: _“Howard And Bullough American Machine Co., Limited. Cotton Machinery  Manufacturers, Pawtucket, R. I. The North American Connection,”_ George W. Randall, June 25 2016. Captured November 3 2020, from http://kinlochcastle.blogspot.com/2016/06/howard-and-bullough-american-machine-co.html
 
@@ -142,4 +143,3 @@ This is how The Evening Times put it on March 31, 1898:
 “This was one of the things that was important to the Rhode Island members, and it was hoped for the benefit of Pawtucket that this could be done, but the commissioners of Massachusetts would not make any agreement which would include the works within the Rhode Island line.”[^3]
 
 [^3]: _“Pawtucket or Attleboro?”_, Jun 28 2015, updated Jun 28 2015. Captured in 2018 from https://www.thesunchronicle.com/devices/news/local_news/pawtucket-or-attleboro/article_80fbafb3-b10a-5f90-b0a2-6aa31b5d46b5.html
-

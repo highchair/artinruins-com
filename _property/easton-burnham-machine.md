@@ -23,7 +23,7 @@ added-to-NRHP: 'December 5, 2017'
 
 address: '354 Pine St, Pawtucket RI'
 latitude: '41.8802495'
-longitude: '-71.395852'
+longitude: '-71.3936633'
 gmap: "https://www.google.com/maps/place/354+Pine+St,+Pawtucket,+RI+02860/@41.8802495,-71.395852,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44350977c973d:0x7df71d1bff7898ea!8m2!3d41.8802495!4d-71.3936633"
 
 meta: ""

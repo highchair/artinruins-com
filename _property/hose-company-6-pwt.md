@@ -22,8 +22,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '636 Central Ave, Pawtucket RI'
-latitude: '41.8871416'
-longitude: '-71.3598958'
+latitude: '41.8871376'
+longitude: '-71.3588015'
 gmap: "https://www.google.com/maps/place/636+Central+Ave,+Pawtucket,+RI+02861/@41.8871416,-71.3598958,18z/data=!4m5!3m4!1s0x89e45cbffdbe64b5:0x136e2e7b8a7b0789!8m2!3d41.8871376!4d-71.3588015"
 
 meta: ""
@@ -51,7 +51,7 @@ images:
 
 mostrecentimage: 2019-08-01
 
-imagescredit: 'Controbutions from the <a href="//flickr.com/photos/pawtucketlibrary/albums/72177720298617868" target="_blank">Pawtucket Library Flickr collection</a> and Google Streetview'
+imagescredit: 'Controbutions from the <a href="https://flickr.com/photos/pawtucketlibrary/albums/72177720298617868">Pawtucket Library Flickr collection</a> and Google Streetview'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -128,6 +128,4 @@ The Preservation Society of Pawtucket has led the campaign to save the old build
 
 On May 9, 2017, members of the Historic District Commission found that the structure is significant, instituting the six-month demolition delay. […]
 
-—
-
-_Captured 15 January 2023 from https://www.valleybreeze.com/news/old-hose-company-no-6-building-likely-to-be-leveled/article_34b7bc9b-9097-59c5-82f6-703bfe3e204e.html_ 
+— _Captured 15 January 2023 from https://www.valleybreeze.com/news/old-hose-company-no-6-building-likely-to-be-leveled/article_34b7bc9b-9097-59c5-82f6-703bfe3e204e.html_ 

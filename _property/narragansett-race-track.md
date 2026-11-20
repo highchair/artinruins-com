@@ -14,7 +14,7 @@ date-added: '2009'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [ 'James Dooley' ]
 lists: []
 tags: [ 'Providence Public Library Digital Collections', 'The Superlatives' ]
@@ -25,7 +25,7 @@ added-to-NRHP:
 
 address: '643 Narragansett Park Dr, Pawtucket RI'
 latitude: '41.862671'
-longitude: '-71.3500237'
+longitude: '-71.3478297'
 gmap: "https://www.google.com/maps/place/643+Narragansett+Park+Dr,+Pawtucket,+RI+02861/@41.862671,-71.3500237,17z/data=!3m1!4b1!4m5!3m4!1s0x89e45b6346908b59:0xe5ed6e152e08aaa6!8m2!3d41.862671!4d-71.3478297"
 
 meta: ""
@@ -85,7 +85,7 @@ images:
     caption: '2018 aerial: Current day conditions. Only a portion of the remaing road along turn 1 and the stretch in front of the former grandstands resemble the former track oval — Providence Historic Aerial Viewer'
     sizes: '1200, 800'
 
-imagescredit: 'Contributions from the Providence Historic Aerial Viewer and the Rhode Island Photograph Collection, Providence Public Library (<a href="//provlibdigital.org/islandora/object/islandora%3A26436" target="_blank">aerial,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A18595" target="_blank">postcard,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12970" target="_blank">photo 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A12984" target="_blank">photo 2,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A13040" target="_blank">photo 3</a>)'
+imagescredit: 'Contributions from the Providence Historic Aerial Viewer and the Rhode Island Photograph Collection, Providence Public Library (<a href="https://provlibdigital.org/islandora/object/islandora%3A26436">aerial,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A18595">postcard,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A12970">photo 1,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A12984">photo 2,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A13040">photo 3</a>)'
 
 mostrecentimage: 2014-09-01
 
@@ -124,25 +124,25 @@ Races such as the Narragansett Special, Rhode Island Handicap, Governors Handica
 
 #### Decline
 
-The track began a slow decline in the 1950s. On October 9, 1960, two of the track’s barns burned down. Ten horses were killed and the damages were estimated to be between $350,000 and $500,000. Many horses fled the barns and ran into neighboring yards and streets. By the 1970s the track had fallen upon hard times. Due to reduced public interest in thoroughbred racing, competition for racing dates with other New England tracks, and competition from greyhound racing and state lotteries for gambling dollars, attendance dropped and handles decreased rapidly. This led to an inability to attract high-quality horses. The physical condition of the track deteriorated as well. On March 23, 1976, 36 horses died when a fire spread from the hay barn to two adjacent stables. On Labor Day 1978, the final day of the racing season, the track drew only 2,882 patrons.[^7] 
+The track began a slow decline in the 1950s. On October 9, 1960, two of the track’s barns burned down. Ten horses were killed and the damages were estimated to be between $350,000 and $500,000. Many horses fled the barns and ran into neighboring yards and streets. By the 1970s the track had fallen upon hard times. Due to reduced public interest in thoroughbred racing, competition for racing dates with other New England tracks, and competition from greyhound racing and state lotteries for gambling dollars, attendance dropped and handles decreased rapidly. This led to an inability to attract high-quality horses. The physical condition of the track deteriorated as well. On March 23, 1976, 36 horses died when a fire spread from the hay barn to two adjacent stables. On Labor Day 1978, the final day of the racing season, the track drew only 2,882 patrons.[^7]
 
 [^7]: Wikipedia
 
-On June 29, 1979, the stockholders of Narragansett Park voted to sell the track to the City of Pawtucket for $5.6 million. The city used a grant to buy and improve the land, which they sold below market value to stimulate employment and business investment. On May 30, 1981, the clubhouse was destroyed by a suspicious fire.[^8] 
+On June 29, 1979, the stockholders of Narragansett Park voted to sell the track to the City of Pawtucket for $5.6 million. The city used a grant to buy and improve the land, which they sold below market value to stimulate employment and business investment. On May 30, 1981, the clubhouse was destroyed by a suspicious fire.[^8]
 
 [^8]: Ibid
 
 #### Other Sources
 
-+ [The Great American Race Track War: What happened to the most profitable horse track in the country?](//www.townandcountrymag.com/leisure/sporting/a10000879/narragansett-park-racetrack-war/){:target="_blank"}, Town & Country, June 2017
-+ [Remembering Narragansett Race Track (YouTube)](//www.youtube.com/watch?v=b2fgQ4bQvU4){:target="_blank"}, The Rhode Show, April 2019
-+ [Narragansett Park, Preserving History (YouTube)](//www.youtube.com/watch?v=Mbta3xH0k8A){:target="_blank"}, Corrie McDermott, 2007
-+ [Horseracing-Tracks.com](http://www.horseracing-tracks.com/tracks/ri/homeNar.html){:target="_blank"}
++ [The Great American Race Track War: What happened to the most profitable horse track in the country?](https://www.townandcountrymag.com/leisure/sporting/a10000879/narragansett-park-racetrack-war/), Town & Country, June 2017
++ [Remembering Narragansett Race Track (YouTube)](https://www.youtube.com/watch?v=b2fgQ4bQvU4), The Rhode Show, April 2019
++ [Narragansett Park, Preserving History (YouTube)](https://www.youtube.com/watch?v=Mbta3xH0k8A), Corrie McDermott, 2007
++ [Horseracing-Tracks.com](https://www.horseracing-tracks.com/tracks/ri/homeNar.html)
 
 
 ### Current Events
 
-All that remains of the park in 2021 is the grandstand, which was used as a flea market and later a discount store. The grandstand building has been unoccupied since 2014. 
+All that remains of the park in 2021 is the grandstand, which was used as a flea market and later a discount store. The grandstand building has been unoccupied since 2014.
 
 
 ### In the News
@@ -165,4 +165,4 @@ Narragansett Park opened on August 1, 1934. Building #19 occupies the main grand
 
 New England could not sustain a large thoroughbred racing industry after World War II, and by the 1960s the Pawtucket track was barely holding on. It folded in 1978, following a disastrous fire two years before that killed three dozen horses. The playground for the sport of kings was developed as an industrial park and Building #19 moved in. True to Ellis’s laid-back approach to design, one of the boards that posted the racing odds still graces the ceiling above the bargain tables. And a sign at the entrance equates Building #19’s run against the malls and the big box stores as a horse race. Alas, this was a Retail Derby that these Yankee retailers were doomed to lose.
 
-_Captured October 16, 2021 from https://archive.boston.com/lifestyle/house/blog/dne/2013/11/around_new_engl_9.html_
+— _Captured 16 October 2021 from https://archive.boston.com/lifestyle/house/blog/dne/2013/11/around_new_engl_9.html_

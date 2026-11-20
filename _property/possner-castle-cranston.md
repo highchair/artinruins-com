@@ -19,9 +19,9 @@ tags: [ 'Demolition by Progress', 'House', 'Providence Public Library Digital Co
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '1332 Narragansett Boulevard, Cranston RI'
+address: '1332 Narragansett Blvd, Cranston RI'
 latitude: '41.7757222'
-longitude: '-71.3931887'
+longitude: '-71.391'
 gmap: "https://www.google.com/maps/place/41°46'32.6%22N+71°23'27.6%22W/@41.7757222,-71.3931887,668m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d41.7757222!4d-71.391"
 
 meta: ""
@@ -59,7 +59,7 @@ A poor housing market and poor zoning decision basically forced a developer’s 
 
 ### Current Events
 
-Five housing lots were carved out of the single large plat and new houses were constructed by 1997. 
+Five housing lots were carved out of the single large plat and new houses were constructed by 1997.
 
 
 ### History
@@ -74,7 +74,7 @@ The ownership was transferred in 1920 to Dutee Flint, then known as “the large
 
 _[New research added by A.I.R., 2020]_
 
-On May 20, 1941, Harmony voted to purchase the old abandoned castle on Narragansett Blvd. Purchase and renovation costs totaled $90,000. The castle occupied a prominent position, overlooking the Providence River. 
+On May 20, 1941, Harmony voted to purchase the old abandoned castle on Narragansett Blvd. Purchase and renovation costs totaled $90,000. The castle occupied a prominent position, overlooking the Providence River.
 
 The new lodge was dedicated on April 19, 1942, when W. Harold Rosenquist opened lodge at our old home, and then lead a line of march from Ocean Avenue to 1332 Narragansett Boulevard. 
 
@@ -90,7 +90,7 @@ According to a Providence Journal article by Peter Howard, the castle had been v
 
 The Edgewood Yacht club purchased a tract of waterfront property to use as a parking lot, while the castle’s site was subdivided into housing lots. All that remains of the castle are the stone structures that once flanked the entrance, a stairway leading from the housing lots to the Edgewood Yacht Club’s lot, and a stone pillar at the rear of the property (on the Shaw Avenue side) that might have been a foundation for the former WPRO radio tower.
 
-[^1]: _“[Historic District Commission: Who We Are](https://www.cranstonri.gov/residents/historic-district-commission/).”_ Cranston Historic District Commission website, captured 2006. 
-[^2]: _“[Newspaper clipping announcing the conversion of the ‘castle’ located on Narragansett Boulevard in Edgewood into a Masonic Temple](https://provlibdigital.org/islandora/object/islandora%3A4216).”_ John Hutchins Cady Research Scrapbooks Collection at Providence Public Library, captured September 10, 2020.
+[^1]: _“[Historic District Commission: Who We Are](https://www.cranstonri.gov/residents/historic-district-commission/).”_ Cranston Historic District Commission website, captured 2006
+[^2]: _“[Newspaper clipping announcing the conversion of the ‘castle’ located on Narragansett Boulevard in Edgewood into a Masonic Temple](https://provlibdigital.org/islandora/object/islandora%3A4216).”_ John Hutchins Cady Research Scrapbooks Collection at Providence Public Library, captured September 10, 2020
 [^3]: “[Two Hundred Years of Harmony](https://harmony9.org/?page_id=6069).” Harmony Lodge website, written by Milton R. MacIntosh, P.M. and Paul C. Liese, P.M.
-[^4]: “Wrecker breaks the Castle’s walls, neighbors’ hearts.” Peter E. Howard, Providence Journal, Jun. 27, 1990.
+[^4]: “Wrecker breaks the Castle’s walls, neighbors’ hearts.” Peter E. Howard, Providence Journal, Jun. 27, 1990

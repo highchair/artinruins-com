@@ -12,13 +12,13 @@ date-added: '2009'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Demolition by Neglect', 'Demolition by Fire', 'Needs History', 'Still an Empty Lot' ]
 
-address: '523 Main Street, Pawtucket RI'
+address: '523 Main St, Pawtucket RI'
 latitude: '41.876175'
-longitude: '-71.3929997'
+longitude: '-71.390811'
 gmap: "https://www.google.com/maps/place/523+Main+St,+Pawtucket,+RI+02860/@41.876175,-71.3929997,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44356f8f35787:0xdc324a9a04894d82!8m2!3d41.876175!4d-71.390811"
 
 meta: ""
@@ -73,39 +73,39 @@ images:
   - url: morris-novel-jh-2011-11-01.jpg
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from Google Streetview 2007.'
+imagescredit: 'Contributions from Google Streetview 2007'
 ---
 
 ### Reason for Demolition
 
-Morris Novelty, the business, closed in around 2007 when the owner, Ken Stebenne, walked away. It’s not that simple, though. A few years earlier in the summer of 2005, Ken’s son Mark, only 35 at the time, died of alcohol-induced cardiac arrhythmia. Ken placed two 911 calls to get an ambulance on the scene, but the 6-ton ambulance would not cross a 9-ton-rated bridge to get there.[^1] Mr. Stebenne felt that these precious seconds cost Mark his life. 
+Morris Novelty, the business, closed around 2007 when the owner, Ken Stebenne, walked away. It’s not that simple, though. A few years earlier in the summer of 2005, Ken’s son Mark, only 35 at the time, died of alcohol-induced cardiac arrhythmia. Ken placed two 911 calls to get an ambulance on the scene, but the 6-ton ambulance would not cross a 9-ton-rated bridge to get there.[^1] Mr. Stebenne felt that these precious seconds cost Mark his life.
 
 The grief in combination with a legal battle took Mr. Stebenne’s focus away from his businesses, Pleasure Island in Swansea and Morris Novelty in Pawtucket. The Swansea banquet facility was sold in 2009.[^2]
 
 Building and fire code violations along with their associated fines piled up in Pawtucket. In 2008, there was a sign for a real-estate auction on the building and the building was sold at a tax sale. In June 2009 after the sale, it looked much the same as it did in our photos.
 
-Under new ownership, but with very little upkeep done to the building, a fire broke out on July 26th, 2011, around 8:15 in the evening. Because the building was being used for storage, and the materials being stored were mostly plastics, and because the building was unoccupied, fire fighters stayed outside to battle the blaze.[^3] 
+Under new ownership, but with very little upkeep done to the building, a fire broke out on July 26th, 2011, around 8:15 in the evening. Because the building was being used for storage, and the materials being stored were mostly plastics, and because the building was unoccupied, fire fighters stayed outside to battle the blaze.[^3]
 
-The building was a total loss and it was torn down a few months later. 
+The building was a total loss and it was torn down a few months later.
 
 
 ### Current Events
 
-The area where this building stood is a parking lot for the nearby businesses. 
+The area where this building stood is a parking lot for the nearby businesses.
 
 
 ### History
 
-We went into this shop around 2005 or 2006 to get some gory supplies for a Kickball team, [Zomboree](//providencekickball.org){:target="_blank"}. Our theme was zombies, wouldn’t you know, so this was the perfect place to get some fake fingers and blood and the like. Most fly-by-night Halloween stores are only around for a month or two, and then are replaced by a Christmas store, which is replaced by a Valentine’s store, etc… This place was open year round.
+We went into this shop around 2005 or 2006 to get some gory supplies for a Kickball team, [Zomboree](https;//providencekickball.org). Our theme was zombies, wouldn’t you know, so this was the perfect place to get some fake fingers and blood and the like. Most fly-by-night Halloween stores are only around for a month or two, and then are replaced by a Christmas store, which is replaced by a Valentine’s store, etc… This place was open year round.
 {:.o__drop-cap}
 
-The inside was dusty, and most of the product was pretty old-looking. But how “young” of a fake rubber finger did we need? There were the typical masks and gag body parts, of course, but there were also whole set-ups that could be rented to turn your living room into a Casino or a foggy bog or a Superhero’s lair. Popcorn machines, roulette tables, a fully-articulated skeleton, tiki-themed decorations, general party supplies, and lots of odd life size cardboard cut outs of celebrities. 
+The inside was dusty, and most of the product was pretty old-looking. But how “young” of a fake rubber finger did we need? There were the typical masks and gag body parts, of course, but there were also whole set-ups that could be rented to turn your living room into a Casino or a foggy bog or a Superhero’s lair. Popcorn machines, roulette tables, a fully-articulated skeleton, tiki-themed decorations, general party supplies, and lots of odd life size cardboard cut outs of celebrities.
 
 We loved it… they had just what we needed, and they felt like a mom and pop store from way back.
 
 ***
 
-Near as we can tell from news reports and from the anecdotes, the original owner, “Old man Morris” had the business until the early 80s, when he presumably sold it to Mr. Ken Stebenne. On their now defunct website was the claim that the company was in business since 1933. Another visitor commented that the business was previously located in the Slater Cotton building, and that this former building was a furniture store. 
+Near as we can tell from news reports and from the anecdotes, the original owner, “Old man Morris” had the business until the early 80s, when he presumably sold it to Mr. Ken Stebenne. On their now defunct website was the claim that the company was in business since 1933. Another visitor commented that the business was previously located in the Slater Cotton building, and that this former building was a furniture store.
 
 ***
 
@@ -119,7 +119,7 @@ Three story mill building. Two lower stories are brick and of typical constructi
 #### Pawtucket novelty shop being torn down
 
 _by R.J. Heim,_  
-**[WJAR](//turnto10.com/archive/pawtucket-novelty-shop-being-torn-down){:target="_blank"}** | October 6, 2011
+**[WJAR](https://turnto10.com/archive/pawtucket-novelty-shop-being-torn-down)** | October 6, 2011
 
 Demolition began this week on the Pawtucket building that housed the go-to-place for Halloween accessories in the 1980s up until a few years ago.
 
@@ -146,7 +146,6 @@ The fire in July was the end of an era.
 “Sad chapter in my life. And we'll just move on and go forward,” Stebenne said. “You know time has its way.”
 
 The demolition will take weeks. The owners of the MAACO auto body and paint shop next door plan to purchase the land for additional parking.
-
 
 [^1]: _Pleasure Island owner sues over death_, Jay Pateakos, November 6 2008. Captured August 21, 2020. “Pleasure Island owner Kenneth Stebenne has filed a wrongful death lawsuit in Fall River District Court against the Swansea Ambulance Corp. after the Aug. 10, 2005, death of his son Mark on the island. Stebenne claims the death was caused by negligence on the Ambulance Corp’s part.” https://www.heraldnews.com/x199491230/Pleasure-Island-owner-sues-town-for-sons-death
 

@@ -25,9 +25,9 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '188 Princeton Ave, Providence RI'
-latitude: '41.805265'
-longitude: '-71.4283381'
-gmap: "https://www.google.com/maps/place/41%C2%B048'19.0%22N+71%C2%B025'37.4%22W/@41.805265,-71.4283381,411m/data=!3m1!1e3!4m4!3m3!8m2!3d41.805265!4d-71.42705?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D"
+latitude: '41.8047163'
+longitude: '-71.4269817'
+gmap: "https://www.google.com/maps/place/160+Bucklin+St,+Providence,+RI+02907/@41.8049714,-71.4278313,226m/data=!3m1!1e3!4m6!3m5!1s0x89e4457fad598ef9:0xab2f2d59594e91d6!8m2!3d41.8047163!4d-71.4269817!16s%2Fg%2F11c874ltjz?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Princeton Ave' ]
 street-number: 188
 
@@ -100,7 +100,7 @@ According to the district, declining enrollment and aging infrastructure — str
 
 Agree or disagree with school demolition, the <span class="abbr">PPSD</span> and the Rhode Island Department of Education (<span class="abbr">RIDE</span>) did not take community input properly into account when it started to discuss plans to modernize buildings in the district. The Providence public school system has been under enormous pressure ever since the state take over and has not always handled community communication effectively.
 
-In 2022, the first mention of Gilbert Stuart on the chopping block surfaced at a public meeting. While two other schools were the focus of demolition, Gilbert Stuart Middle School was cited as another that would start to be phased out. The school district’s deputy superintendent of operations, Zack Scott, conceded after multiple questions that the city school district’s leadership team were the ones who deliberated on the school closures — not the community, as promised in messaging.[^2] 
+In 2022, the first mention of Gilbert Stuart on the chopping block surfaced at a public meeting. While two other schools were the focus of demolition, Gilbert Stuart Middle School was cited as another that would start to be phased out. The school district’s deputy superintendent of operations, Zack Scott, conceded after multiple questions that the city school district’s leadership team were the ones who deliberated on the school closures — not the community, as promised in messaging.[^2]
 
 [^2]: Russo, Amy. “RIDE, PPSD admit no community input over school closures.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 17 Dec. 2022, p. A1. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/. Accessed 6 Sept. 2025.
 
@@ -174,6 +174,6 @@ Complete renovation of Mount Pleasant could introduce modern learning amenities,
 
 The district can still choose to renovate Mount Pleasant. Positive engagement with families and smaller schools can turn decreased enrollment and stagnant student performance around. The district and state need to learn to consistently care for their assets so our neighborhood anchors are never demolished. Stability, consistent care and equitable treatment for our schools are what students want.
 
-_The Providence Student Union Leadership Team comprises 12 high schoolers. Senior and team co-director Dexter Vincent, senior Yasemin Eksioglu and junior Naima Gnepa, both team members, and all of Classical High School, lead the group's advocacy on Mount Pleasant High School._
+— The Providence Student Union Leadership Team comprises 12 high schoolers. Senior and team co-director Dexter Vincent, senior Yasemin Eksioglu and junior Naima Gnepa, both team members, and all of Classical High School, lead the group's advocacy on Mount Pleasant High School.
 
-— Columnists, Guest. “City students want equity, stability, not ‘Newer and Fewer’.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 11 Feb. 2024, p. A20. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/ Accessed 6 Sept. 2025.
+— _Columnists, Guest. “City students want equity, stability, not ‘Newer and Fewer’.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 11 Feb. 2024, p. A20. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/ Accessed 6 Sept. 2025._

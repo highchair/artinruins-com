@@ -24,8 +24,8 @@ NRHP-ref-number: '84002041 (contributing)'
 added-to-NRHP: 'April 1984'
 
 address: '97 Walcott St, Pawtucket RI'
-latitude: '41.876699'
-longitude: '-71.3785017'
+latitude: '41.876698'
+longitude: '-71.377858'
 gmap: "https://www.google.com/maps/place/41%C2%B052'36.1%22N+71%C2%B022'40.3%22W/@41.876699,-71.3785017,19z/data=!3m1!4b1!4m13!1m8!3m7!1s0x89e45cabf68d5edd:0x91a8feb83d5e3026!2s97+Walcott+St,+Pawtucket,+RI+02860!3b1!8m2!3d41.8760791!4d-71.3775412!16s%2Fg%2F11bw3zjhn3!3m3!8m2!3d41.876698!4d-71.377858"
 
 meta: ""
@@ -152,7 +152,7 @@ His shop was opened on Main street, on the site where the John B. Read block now
 
 John B. Read was distinctively a business man. As a public spirited citizen, however, he was induced to accept various offices, such as town councilman, etc., all of which positions he filled with great credit to himself and to the best interests of his constituents. Politically he was a Whig, but at the formation of the Republican party before the war he became one of its staunchest members. When Pawtucket was a part of Massachusetts, he was elected to the lower house of the state legislature and served four years. He was a very popular man. For a long time he was commanding general of the Massachusetts militia.
 
-_Captured 19 March 2023 from http://theusgenweb.org/rigenweb/articles/107.html_
+— _Captured 19 March 2023 from http://theusgenweb.org/rigenweb/articles/107.html_
 
 ***
 
@@ -162,7 +162,7 @@ OTT, Joseph, third child of Jacob and Genevieve (Hodler) Ott, was born March 11,
 
 To avoid military service he came to America in 1884 and connected himself with Coffin, Altemus & Co., of New York, as a designer. In 1885 he went with the Fare Alpaca Co., Holyoke, Mass., as a designer, and later with the Lyman Mill Co., of the same place, as superintendent, having charge of and successfully operating 1000 looms. A year later he came to [Slater Cotton Co., Pawtucket]({% link _property/slater-cotton.md %}), and remained in its employ until 1888 when, deciding to operate on his own account, he devoted a year to perfecting a loom for weaving silk, fine cotton and worsted, in which he succeeded, and began business with eight looms in the old Hicks building off East avenue. The enterprise prospered and later he associated with him as partners Daniel G. Littlefield and Darius Goff, and in May, 1889, the business was incorporated under the name of the **Royal Weaving Co.**, and the plant was removed to the factory of the **American Hair Cloth Co.**, corner Mill and Cross streets, Central Falls, and later to the new factory across the street from the hair cloth mill. This new mill is an unique structure and was specially constructed for delicate weaving, the light all being obtained from the roof.
 
-_Captured 19 March 2023 from http://theusgenweb.org/rigenweb/articles/106.html_
+— _Captured 19 March 2023 from http://theusgenweb.org/rigenweb/articles/106.html_
 
 
 ### In the News
@@ -211,6 +211,4 @@ City officials have not been active in attempting to save the old mansion, while
 
 The owners have said nothing publicly about their intentions, but are widely believed to want the adjoining property for a new parking lot. They previously told a municipal court judge that they were raising funds to tear it down. […]
 
-—
-
-_Captured March 19, 2023 from https://www.valleybreeze.com/townnews/architecture/church-applies-for-demo-permit-on-read-ott-house/article_f43590de-b139-11ed-a90d-2f22d333cc83.html_
+— _Captured March 19, 2023 from https://www.valleybreeze.com/townnews/architecture/church-applies-for-demo-permit-on-read-ott-house/article_f43590de-b139-11ed-a90d-2f22d333cc83.html_

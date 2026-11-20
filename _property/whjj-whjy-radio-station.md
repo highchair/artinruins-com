@@ -12,16 +12,16 @@ date-added: '2020'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'East Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Demolition by Neglect', 'Needs History' ]
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '115 Eastern Avenue, East Providence RI'
-latitude: '41.8279152'
-longitude: '-71.3716646'
+address: '115 Eastern Ave, East Providence RI'
+latitude: '41.8279112'
+longitude: '-71.3694759'
 gmap: "https://www.google.com/maps/place/115+Eastern+Ave,+East+Providence,+RI+02914/@41.8279152,-71.3716646,17z/data=!3m1!4b1!4m5!3m4!1s0x89e45ad9e9646bf3:0xdfaaeb16d85c15de!8m2!3d41.8279112!4d-71.3694759"
 
 meta: ""

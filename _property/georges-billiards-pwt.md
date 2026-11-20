@@ -101,9 +101,9 @@ imagescredit: 'Contributions from the <a href="https://www.flickr.com/photos/paw
 
 ### Reason for Demolition
 
-The City of Pawtucket purchased this property in 2021 in the hopes of making it part of a larger redevelopment package. A larger set of parcels for redevelopment can attract developers with larger visions. They are hoping that developers hoping to capitalize on the City’s investment in Tidewater Landing will see these large parcels as an opportunity. 
+The City of Pawtucket purchased this property in 2021 in the hopes of making it part of a larger redevelopment package. A larger set of parcels for redevelopment can attract developers with larger visions. They are hoping that developers hoping to capitalize on the City’s investment in Tidewater Landing will see these large parcels as an opportunity.
 
-Georges Games, Music, and Billiards (sometimes called just Georges Games & Music and sometimes called Georges Games & Music & Billiards) has been on the ground floor of this location for quite some time. One business listing used a business start date of 1945, and they could have been at this location since then. OpenCorporates.com does not have a listing for this business, however, for any of its names. 
+Georges Games, Music, and Billiards (sometimes called just Georges Games & Music and sometimes called Georges Games & Music & Billiards) has been on the ground floor of this location for quite some time. One business listing used a business start date of 1945, and they could have been at this location since then. OpenCorporates.com does not have a listing for this business, however, for any of its names.
 
 The Sawyer School was also located here, which was offered two certificate programs in office information systems and medical assistance. They closed across the state in early 2013.[^1]
 
@@ -112,16 +112,16 @@ The Sawyer School was also located here, which was offered two certificate progr
 
 ### Current Events
 
-George Thurber sold the property in 2015 after the business had been closed for some time. We are waiting for the demolition equipment to arrive on site. 
+George Thurber sold the property in 2015 after the business had been closed for some time. We are waiting for the demolition equipment to arrive on site.
 
 
 ### History
 
 No formal history has been compiled. The [Providence Historical Aerial Viewer](https://experience.arcgis.com/experience/df401367ce96417c9990726ab82b0dad/) shows that it was built between the 1939 and 1951 photos, though the 1939 photo may show that part of this building was in place. We have not yet been able to find this building on any cadastral maps.
 
-In a [1902 Sanborn insurance map, Volume 1, Plate 77](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961902) (page 82) this triangular parcel has many wooden structures and a few conjoined four-story brick structures, but none in the shape and size of the current building. 
+In a [1902 Sanborn insurance map, Volume 1, Plate 77](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g080961902) (page 82) this triangular parcel has many wooden structures and a few conjoined four-story brick structures, but none in the shape and size of the current building.
 
-An [undated photo in the collection of the Pawtucket Library](https://www.flickr.com/photos/pawtucketlibrary/29097253034/in/album-72157673959040405/) labels one of our early images “The Berry Building” and includes what might be an earlier photo of a structure that was in this same location. We’d love to know more if you have any information. 
+An [undated photo in the collection of the Pawtucket Library](https://www.flickr.com/photos/pawtucketlibrary/29097253034/in/album-72157673959040405/) labels one of our early images “The Berry Building” and includes what might be an earlier photo of a structure that was in this same location. We’d love to know more if you have any information.
 
 
 ### In the News
@@ -155,4 +155,4 @@ The former owners of Apex sought and received a zone change in 2015 allowing the
 
 George’s owner George Thurber sold the property at 101 Main St. for $343,500 in March of 2015 after it had been closed for some time. The store, which once sold billiard tables and various other arcade and recreation room games, did business for decades during the height of the downtown area.
 
-_Captured December 26, 2022 from https://www.valleybreeze.com/news/former-george-s-games-to-be-demolished/article_f6fce53c-2224-11ed-84c5-cf7ee8473cf6.html_ 
+— _Captured 26 December 2022 from https://www.valleybreeze.com/news/former-george-s-games-to-be-demolished/article_f6fce53c-2224-11ed-84c5-cf7ee8473cf6.html_ 

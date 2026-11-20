@@ -25,8 +25,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '1 Columbus Ave, Pawtucket RI'
-latitude: '41.8737323'
-longitude: '-71.3730809'
+latitude: '41.872922'
+longitude: '-71.369928'
 gmap: "https://www.google.com/maps/place/McCoy+Stadium/@41.8737323,-71.3730809,16z/data=!4m6!3m5!1s0x89e45ca625dcce45:0x7955f665bc3f8cdc!8m2!3d41.873317!4d-71.3700983!16zL20vMDQ2ODNz"
 
 meta: ""
@@ -94,7 +94,7 @@ We’ve been to many games at the stadium with family, friends, as business outi
 
 We can’t say much more than what has already been said, so here are some links to people who have said it better:
 
-+ An interesting dive into the history of a colorful major, [Mayor Thomas P McCoy (the “Price of Pawtucket”) and the Building of McCoy Stadium (“McCoy’s Folly”)](http://smallstatebighistory.com/mayor-thomas-p-mccoy-the-prince-of-pawtucket-and-the-building-of-mccoy-stadium-mccoys-folly/), by Dan Barry, hosted at Small State Big History
++ An interesting dive into the history of a colorful major, [Mayor Thomas P McCoy (the “Price of Pawtucket”) and the Building of McCoy Stadium (“McCoy’s Folly”)](https://smallstatebighistory.com/mayor-thomas-p-mccoy-the-prince-of-pawtucket-and-the-building-of-mccoy-stadium-mccoys-folly/), by Dan Barry, hosted at Small State Big History
 + [The Worcester Red Sox and the Problem of History](https://tht.fangraphs.com/baseball-in-the-rustbelt-the-loss-of-the-pawtucket-red-sox/), by Matt Ellis, hosted at The Hardball Times
 + [Abandoned From Above: McCoy Stadium](https://www.youtube.com/watch?v=JSNbH5n_Qj4), by Jason Allard. Video available on YouTube (see below)
 
@@ -103,7 +103,7 @@ We can’t say much more than what has already been said, so here are some links
 
 ### Current Events
 
-The stadium has been without a team since 2019. The last season for the Pawtucket Red Sox was supposed to be 2020, but the COVID-19 pandemic cut it short. The stadium has hosted a few concerts and events since the Paw Sox left, but few and far between. The infield grass, which requires much care and upkeep, has largely gone to seed or burned away from the dry summer. The adjacent soccer field and track get more use than this baseball diamond. 
+The stadium has been without a team since 2019. The last season for the Pawtucket Red Sox was supposed to be 2020, but the COVID-19 pandemic cut it short. The stadium has hosted a few concerts and events since the Paw Sox left, but few and far between. The infield grass, which requires much care and upkeep, has largely gone to seed or burned away from the dry summer. The adjacent soccer field and track get more use than this baseball diamond.
 
 
 ### History
@@ -112,11 +112,13 @@ Mayor Thomas P. McCoy, a five-term mayor, steered the City of Pawtucket away fro
 
 [^1]: “Statewide Historical Preservation Report P-P-A-2: Pawtucket, Rhode Island.” Rhode Island Historical Preservation Commission and authors, October 30 1978, page 35.
 
-In some ways, Mr. McCoy was Pawtucket’s Vincent “Buddy” Cianci 30 years early. The report goes on to say _“the ‘Prince of Pawtucket’ never succeeded in being elected to state wide office. […] Tom McCoy fits the stereotyped image of the urban, working-class boss using power politics and machine rule with consummate skill. While charged of corruption, most particularly of election fraud and misuse of public funds, were again and again leveled against his administration, and numerous indictments were handed down against members of the McCoy machine, the obvious physical improvement of the city accomplished during McCoy’s reign must be weighed against them.”_[^2]
+In some ways, Mr. McCoy was Pawtucket’s Vincent “Buddy” Cianci 30 years early. The report goes on to say:
+
+> “the ‘Prince of Pawtucket’ never succeeded in being elected to state wide office. […] Tom McCoy fits the stereotyped image of the urban, working-class boss using power politics and machine rule with consummate skill. While charged of corruption, most particularly of election fraud and misuse of public funds, were again and again leveled against his administration, and numerous indictments were handed down against members of the McCoy machine, the obvious physical improvement of the city accomplished during McCoy’s reign must be weighed against them.”[^2]
 
 [^2]: Ibid.
 
-The stadium was to be built on a swampy piece of land known as Hammond’s Pond. Local engineers Mark Linenthal and Thomas E. Harding planned the structure.[^3] On November 3, 1940, Mayor McCoy laid the foundation cornerstone for what was then known as Pawtucket Stadium. Construction was completed in 1942, and in 1946 the stadium was officially named in honor of Mayor McCoy, who had died the previous August. McCoy Stadium first began hosting affiliated Minor League Baseball in 1946. The **Pawtucket Slaters**, a Class B affiliate of the **Boston Braves**, was the first team to call McCoy Stadium home. The Pawtucket Slaters would play for four seasons in the New England League, as Braves affiliates. [^4] 
+The stadium was to be built on a swampy piece of land known as Hammond’s Pond. Local engineers Mark Linenthal and Thomas E. Harding planned the structure.[^3] On November 3, 1940, Mayor McCoy laid the foundation cornerstone for what was then known as Pawtucket Stadium. Construction was completed in 1942, and in 1946 the stadium was officially named in honor of Mayor McCoy, who had died the previous August. McCoy Stadium first began hosting affiliated Minor League Baseball in 1946. The **Pawtucket Slaters**, a Class B affiliate of the **Boston Braves**, was the first team to call McCoy Stadium home. The Pawtucket Slaters would play for four seasons in the New England League, as Braves affiliates.[^4] 
 
 [^3]: “Statewide Historical Preservation Report P-P-A-2: Pawtucket, Rhode Island.” Page 49
 

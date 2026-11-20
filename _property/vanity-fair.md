@@ -19,7 +19,7 @@ tags: [ 'Amusement Park' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: 'Roughly 3303 Pawtucket Ave, Riverside, East Providence, RI'
+address: 'Roughly 3303 Pawtucket Ave, East Providence, RI'
 latitude: '41.785026'
 longitude: '-71.3654238'
 gmap: "https://www.google.com/maps/place/3303+Pawtucket+Ave,+Riverside,+RI+02915/@41.785026,-71.3654238,17z/data=!4m5!3m4!1s0x89e4500ddd05126f:0x2e4b73d888d3ec0f!8m2!3d41.78407!4d-71.364029"
@@ -67,33 +67,33 @@ imagescredit: 'Postcards from various auction sites and Google Image Search.'
 
 ### Reason for Demolition
 
-In direct competition with the nearby [Crescent Park]({% link _property/crescent-park.md %}), construction begins on a new amusement park to be called **Vanity Fair**. Developers must have seen how successful Crescent Park was and speculated they could one-up it. Architects and designers Copeland and Dole are hired to design the park. A bit further north in Boston’s Revere Beach, this duo was designing another park with many similarities for the Point of Pines Attraction Company. That park never opened. 
+In direct competition with the nearby [Crescent Park]({% link _property/crescent-park.md %}), construction begins on a new amusement park to be called **Vanity Fair**. Developers must have seen how successful Crescent Park was and speculated they could one-up it. Architects and designers Copeland and Dole are hired to design the park. A bit further north in Boston’s Revere Beach, this duo was designing another park with many similarities for the Point of Pines Attraction Company. That park never opened.
 
-Vanity Fair was America’s first theme park designed from scratch and it attracted 40,000 visitors on its first day. Three months later, the stock market crashed in the Great Panic of 1907. In 1910, on the fourth season after opening, attendance flounders and the park is haunted by bankruptcy. A small fire in May 1910 didn’t affect operations but the park did close at the end of that season[^1]. During 1911 and 1912, the park was dismantled and many reusable features were purchased and shipped to Rocky Point and to a wide range of other places. 
+Vanity Fair was America’s first theme park designed from scratch and it attracted 40,000 visitors on its first day. Three months later, the stock market crashed in the Great Panic of 1907. In 1910, on the fourth season after opening, attendance flounders and the park is haunted by bankruptcy. A small fire in May 1910 didn’t affect operations but the park did close at the end of that season[^1]. During 1911 and 1912, the park was dismantled and many reusable features were purchased and shipped to Rocky Point and to a wide range of other places.
 
 [^1]: Many sources mention a fire in 1912 as one that happened at Vanity Fair. In fact, it was at the Boyden Heights park, just down the coast a bit, which had closed two years earlier in 1910.
 
 
 ### Current Events
 
-The site was purchased by Standard Oil as a refinery in 1915. Oil storage tanks remained on the site until the mid-nineties. Silver Spring Golf Course is located near the site now, though most of the former amusement park was oil storage tanks and has now been reclaimed by nature. 
+The site was purchased by Standard Oil as a refinery in 1915. Oil storage tanks remained on the site until the mid-nineties. Silver Spring Golf Course is located near the site now, though most of the former amusement park was oil storage tanks and has now been reclaimed by nature.
 
 
 ### History
 
 Across from a Dunkin’ on Veterans Memorial Parkway, along the shore of the Providence River, used to be another world. Enormous wooden buildings rose like castles over the trees, with spires sparkling in the sun and triangular flags snapping in the breeze. Welcome to Vanity Fair.
 
-Never heard of Vanity Fair Amusement Park? We’re not surprised. While only in operation for 4 seasons, 1907–1910, and it was one of the most grand amusement parks of its time. Providence at the turn of the century was home to manufacturing giants such as [Gorham Silver]({% link _property/gorham-manufacturing-co.md %}), [Brown & Sharpe]({% link _property/brown-sharpe-foundry.md %}), Corliss Steam Engine, and Nicholson File Co., and was considered the richest city in America. Amusement parks could flourish with a strong working middle class. 
+Never heard of Vanity Fair Amusement Park? We’re not surprised. While only in operation for 4 seasons, 1907–1910, and it was one of the most grand amusement parks of its time. Providence at the turn of the century was home to manufacturing giants such as [Gorham Silver]({% link _property/gorham-manufacturing-co.md %}), [Brown & Sharpe]({% link _property/brown-sharpe-foundry.md %}), Corliss Steam Engine, and Nicholson File Co., and was considered the richest city in America. Amusement parks could flourish with a strong working middle class.
 
-Unlike many early Rhode Island and Massachusetts parks which were developed as picnic areas at the end of trolley lines, Vanity Fair was developed on a centralized plan inspired by the 1902 Pan-American Exposition in Buffalo, N. Y. Its central attraction was the “Shoot the Chutes” boat ride which ended in a large 1,600,000 gallon pool. The entire park encompassed about 40 acres. Other attractions included shops, a “one-cent vaudeville” theatre, a grand ballroom, The Human Laundry, Rocky Road to Dublin, Dippy Daffy House, and a scenic railway called “Over the Rockies.” 
+Unlike many early Rhode Island and Massachusetts parks which were developed as picnic areas at the end of trolley lines, Vanity Fair was developed on a centralized plan inspired by the 1902 Pan-American Exposition in Buffalo, N. Y. Its central attraction was the “Shoot the Chutes” boat ride which ended in a large 1,600,000 gallon pool. The entire park encompassed about 40 acres. Other attractions included shops, a “one-cent vaudeville” theatre, a grand ballroom, The Human Laundry, Rocky Road to Dublin, Dippy Daffy House, and a scenic railway called “Over the Rockies.”
 
-One of the most popular shows was called “Fighting the Flames” in which a mock fire was started at various times to be put out by the Vanity Fair “fire company.” Visitors got to jump from the upper floors of the constructed buildings into nets and get “saved.” Trained acrobats performed stunts as well. 
+One of the most popular shows was called “Fighting the Flames” in which a mock fire was started at various times to be put out by the Vanity Fair “fire company.” Visitors got to jump from the upper floors of the constructed buildings into nets and get “saved.” Trained acrobats performed stunts as well.
 
 Copeland and Dole were designers for the park and its attractions. Point of Pines in Revere Beach could be Vanity Fair’s sister — same designers and many of the same attractions within the same years. Point of Pines had a boardwalk, an immense lagoon, a pony track, a scenic railway over 1000 feet in length, an ocean salt-water bathing pool, a mammoth lighthouse, dancing pavilion, a large open air theater, a carousel, and a show called “Fighting the Flames”. The Revere park never opened.
 
 #### Fact checker
 
-**Fact checking provided by historian Bruce Remick**. For years he has been researching the resorts and hotels in Riverside and has compiled a book, _”Rhode Island: Riverside’s Historic Shore Resorts and Hotels”_. Sources have been daily newspapers from the late 1840’s through around 1920. Mr. Remick can be contacted for questions or to request a copy of his book at remick [at] cox.net. 
+**Fact checking provided by historian Bruce Remick**. For years he has been researching the resorts and hotels in Riverside and has compiled a book, _”Rhode Island: Riverside’s Historic Shore Resorts and Hotels”_. Sources have been daily newspapers from the late 1840’s through around 1920. Mr. Remick can be contacted for questions or to request a copy of his book at remick [at] cox.net.
 
 #### Sources:
 
@@ -111,8 +111,7 @@ Copeland and Dole were designers for the park and its attractions. Point of Pine
 #### My Turn: Daniel F. Harrington: America’s original Magic Kingdom
 
 _by Daniel F. Harrington_  
-**Providence Journal** | May 1, 2018.  
-[providencejournal.com/opinion/20180501/my-turn-daniel-f-harrington-americas-original-magic-kingdom](//www.providencejournal.com/opinion/20180501/my-turn-daniel-f-harrington-americas-original-magic-kingdom){:target="_blank"}
+**Providence Journal** | May 1, 2018  
 
 The buildings were engulfed in flames. A young woman, high upon a ledge, cried out for help. Finally, the firefighters arrived. They hastily spread a net as the blaze moved to consume her. The damsel then leapt through the smoke and landed safely in the net! Two thousand onlookers burst into cheers.
 {:.o__drop-cap}
@@ -140,8 +139,6 @@ But Vanity was doomed from the start. Three months after opening, the stock mark
 
 But not before Joshua Daigneault changed the world.
 
-***
-
 Born in Providence in July 1907, Joshua was appallingly small at birth, weighing just one pound. Newspapers noted the hand of the world’s smallest human being “could slide through his mother’s wedding ring.”
 {:.o__drop-cap}
 
@@ -155,4 +152,4 @@ Still, he captured the imagination of the world.
 
 A British newspaper lovingly compared “Poor Little Joshua” to the biblical Joshua who made the sun stand still. Today, “Providence Joshua” is still worth a pause of reflection. More than 1,000 premature babies per year are cared for at Providence’s exemplary Women and Infants Hospital. Each one owes a tip of his or her tiny cap to the pioneering boy who, long ago, perished at an enchanting place called Vanity Fair.
 
-_Article as part of the promotion for “Midway Memories,” hosted by the Rhode Island Historical Society, on May 10, 2018._
+— _Article as part of the promotion for “Midway Memories,” hosted by the Rhode Island Historical Society, on 10 May 2018. Captured 15 August 2020 from https://www.providencejournal.com/opinion/20180501/my-turn-daniel-f-harrington-americas-original-magic-kingdom_

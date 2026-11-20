@@ -19,10 +19,10 @@ tags: [ 'Demolition by Neglect' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '833 Cranston Street, Cranston RI'
-latitude: '41.8031545'
-longitude: '-71.4433884'
-gmap: "https://www.google.com/maps/place/833+Cranston+St,+Cranston,+RI+02920/@41.8031545,-71.4433884,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44f7d29686cc3:0x192f1f9241e0c174!8m2!3d41.8031505!4d-71.4411944"
+address: '833 Cranston St, Cranston RI'
+latitude: '41.8036566'
+longitude: '-71.4417199'
+gmap: "https://www.google.com/maps/place/777+C+Cranston+St,+Cranston,+RI+02920/@41.8031505,-71.4437693,631m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ4JzExLjMiTiA3McKwMjYnMjguMyJX!8m2!3d41.8031505!4d-71.4411944!3m5!1s0x89e44f7d32c29af3:0x216d4f2e5deca3e4!8m2!3d41.8036566!4d-71.4417199!16s%2Fg%2F11nbngwp8l?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "A huge turn-of-the-century brick barn for trolleys that was later used by the Narragansett Brewing Company for storage & distribution."

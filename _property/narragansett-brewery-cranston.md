@@ -11,14 +11,14 @@ date-added: '2002'
 categories: [ '#ArchiveRI' ]
 neighborhoods: []
 town: [ 'Cranston, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Demolition by Progress', 'Demolition by Neglect', 'The Superlatives' ]
 superlative: 'By 1915, the largest lager beer brewery in New England'
 
 address: '5 Garfield Ave, Cranston RI'
 latitude: '41.8024603'
-longitude: '-71.444889'
+longitude: '-71.4427003'
 gmap: "https://www.google.com/maps/place/5+Garfield+Ave,+Cranston,+RI+02920/@41.8024603,-71.444889,797m/data=!3m2!1e3!4b1!4m5!3m4!1s0x89e44f63301ec96f:0x1d9280505f48b3ef!8m2!3d41.8024603!4d-71.4427003"
 
 meta: ""
@@ -68,26 +68,28 @@ imagescredit: 'Contributions by Tim O’Donnell, Gemma, and the Providence Histo
 
 ### Reason for Demolition
 
-The Narragansett Brewery in Cranston, Rhode Island, closed its doors on July 31, 1981. While the beer itself went on to be produced by the Falstaff Brewery in Indiana, the product was never the same – some say, the particular taste of the Scituate Reservoir water gave Narragansett its true flavor and quality. 
+The Narragansett Brewery in Cranston, Rhode Island, closed its doors on July 31, 1981. While the beer itself went on to be produced by the Falstaff Brewery in Indiana, the product was never the same – some say, the particular taste of the Scituate Reservoir water gave Narragansett its true flavor and quality.
 
-The plant suffered a long, drawn out death, succumbing to vandalism, property damage, fire and neglect. The site was eventually redeveloped after 17 years and (cruelly, in our opinion) renamed “Brewery Parkade”. A Lowe’s, K-Mart, and Stop-n-Shop occupy the site nearby along with a Texas Roadhouse and Wendy’s, right off Route 10, on previously undeveloped land. The corner of Garfield and Cranston street will be the home of the Cranston Police Department’s new facility. 
+The plant suffered a long, drawn out death, succumbing to vandalism, property damage, fire and neglect. The site was eventually redeveloped after 17 years and (cruelly, in our opinion) renamed “Brewery Parkade”. A Lowe’s, K-Mart, and Stop-n-Shop occupy the site nearby along with a Texas Roadhouse and Wendy’s, right off Route 10, on previously undeveloped land. The corner of Garfield and Cranston street will be the home of the Cranston Police Department’s new facility.
 
-In the summer of 2005, right as the reclaimed [Narragansett Beer](//www.narragansettbeer.com) brand came under new ownership and started its local comeback, the last remaining building of the original brewery came down – the [Cranston Street Trolley Barn]({% link _property/united-traction-trolley-barn.md %}). The site of the Trolley Barn – as of summer 2020 – is still unoccupied.
+In the summer of 2005, right as the reclaimed [Narragansett Beer](https://www.narragansettbeer.com/) brand came under new ownership and started its local comeback, the last remaining building of the original brewery came down – the [Cranston Street Trolley Barn]({% link _property/united-traction-trolley-barn.md %}). The site of the Trolley Barn – as of summer 2020 – is still unoccupied.
 
-**WATCH** the Narragansett Brewery documentary “Hi-Neighbor! The Story of the Narragansett Brewing Company” on demand at [RIPBS.org]( //watch.ripbs.org/show/hi-neighbor-story-narragansett-brewing-company/){:target="_blank"} (released May, 2022).
+**WATCH** the Narragansett Brewery documentary “Hi-Neighbor! The Story of the Narragansett Brewing Company” on demand at [RIPBS.org](https://watch.ripbs.org/show/hi-neighbor-story-narragansett-brewing-company/) (released May, 2022).
 {:.o__tldr}
 
 ### Current Events
 
-This location houses the Cranston Police Department and the Cranston Municipal Court. A Katharine Gibbs was in an adjacent parking lot for a short time but it is now Achievement First Elementary School. 
+This location houses the Cranston Police Department and the Cranston Municipal Court. A Katharine Gibbs was in an adjacent parking lot for a short time but it is now Achievement First Elementary School.
 
 ### History
 
-_From [the Free Library](//www.thefreelibrary.com/108-year-old+Narragansett+Brewery+demolished+in+Cranston%2C+RI.-a053392469)_
+_From [the Free Library](https://www.thefreelibrary.com/108-year-old+Narragansett+Brewery+demolished+in+Cranston%2C+RI.-a053392469)_
 
 Built in 1890 by a group of German Americans, the sprawling factory once boasted its own barrel-making operation and a stable of 70 horses. It was taken over in 1965 by the Falstaff Brewing Company and then sold to a California businessman. When the brewery shut down in 1981, 600 to 800 people lost their jobs. In its heyday, the Cranston Street plant brewed 65 percent of the beer in the region.
 
 Healey summed up the sentiments of others standing near him who laughed and smiled. “When I started working in 1955, the best four places in the state to get a job were the gas company, the phone company, the electric company and here. But this was tops, because the other three didn't have beer.”
+
+***
 
 _Pieced together from some of the above-mentioned and linked-to sources_
 
@@ -109,6 +111,8 @@ The once giant brewery became a victim of vandalism and weather in the decade fo
 
 On October 27, 1998, Cranston said farewell to an old neighbor when a 100,000-pound excavator rammed its claw-like grapple into the side of the bottling plant. A group of eight other buildings were demolished in the following months.
 
+***
+
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
 The Narragansett Brewery Company built this complex of brick brewery buildings between 1889 and 1911. The first buildings on the site are those adjacent to the railroad tracks and abutting New Depot Avenue. These were used for brewing, hop straining, and fermenting. The tower, used as a malt grain bin, is still in place, though its ornate mansard roof has been covered with lead-sheeted copper. Further south along the railroad line stands a 4-story, brick structure with small windows and hip-roofed tower on its northwest corner.
@@ -121,4 +125,4 @@ Its ornate brickwork, also prominent on other buildings, includes the use of lar
 
 ### In the News
 
-A [video flashback from October 1998](//turnto10.com/news/videos/flashback-the-demolition-of-the-narragansett-brewery) at Channel 10. 
+A [video flashback from October 1998](https://turnto10.com/news/videos/flashback-the-demolition-of-the-narragansett-brewery) at Channel 10.

@@ -13,7 +13,7 @@ date-added: '2021'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'North Smithfield, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Bars, Businesses, & Restaurants' ]
@@ -23,7 +23,7 @@ added-to-NRHP:
 
 address: '1 Greenville Rd, North Smithfield RI'
 latitude: '41.9855397'
-longitude: '-71.5249943'
+longitude: '-71.5228056'
 gmap: "https://www.google.com/maps/place/1+Greenville+Rd,+North+Smithfield,+RI+02896/@41.9855397,-71.5249943,17z/data=!3m1!4b1!4m5!3m4!1s0x89e46a6247ba014f:0x5fdcda8a4ffe6eba!8m2!3d41.9855397!4d-71.5228056"
 
 meta: ""
@@ -67,21 +67,21 @@ external:
 
 ### Reason for Relocation
 
-The owners of the Beef Barn restaurant never owned the land that the building sat on. Under threat of rising rent, the owners decided to move the restaurant — and the iconic silo — to a new location that is more in keeping with the farm theme. The former **Homestead Gardens** building will be a roomier home with six acres of open land surrounding it. The owners plan to expand the business after the main restaurant reopens. 
+The owners of the Beef Barn restaurant never owned the land that the building sat on. Under threat of rising rent, the owners decided to move the restaurant — and the iconic silo — to a new location that is more in keeping with the farm theme. The former **Homestead Gardens** building will be a roomier home with six acres of open land surrounding it. The owners plan to expand the business after the main restaurant reopens.
 
-As someone born in North Smithfield, our family had frequented the Beef Barn since the mid-80s. We remember well the tables, the kitschy decor all over the walls, and the great food at very low prices. I took my wife while we were dating and have taken my kids, too. Thick milk shakes, burgers, the strip beef sandwiches, chicken fingers and fries… was the food fantastic? No, but it was memorable and affordable and the service was quick with no frills. The milk shakes are pretty fantastic. 
+As someone born in North Smithfield, our family had frequented the Beef Barn since the mid-80s. We remember well the tables, the kitschy decor all over the walls, and the great food at very low prices. I took my wife while we were dating and have taken my kids, too. Thick milk shakes, burgers, the strip beef sandwiches, chicken fingers and fries… was the food fantastic? No, but it was memorable and affordable and the service was quick with no frills. The milk shakes are pretty fantastic.
 
-We look forward to trying the new location once they open back up, and hope to see them expand to offer “Coffee & Cream”-style breakfast once again. 
+We look forward to trying the new location once they open back up, and hope to see them expand to offer “Coffee & Cream”-style breakfast once again.
 
 
 ### Current Events
 
-The Beef Barn is open in its new location at [200 Industrial Drive, North Smithfield RI](//www.google.com/maps/place/200+Industrial+Dr,+North+Smithfield,+RI+02896/@41.989591,-71.5606767,17z/data=!3m1!4b1!4m5!3m4!1s0x89e46abaeefe06ff:0x22687a6646840dda!8m2!3d41.989591!4d-71.558488){:target="_blank"}, with the same silo. [Check the website for updates](//www.thebeefbarn.com){:target="_blank"} about their reopening or for menus. 
+The Beef Barn is open in its new location at [200 Industrial Drive, North Smithfield RI](https://www.google.com/maps/place/200+Industrial+Dr,+North+Smithfield,+RI+02896/@41.989591,-71.5606767,17z/data=!3m1!4b1!4m5!3m4!1s0x89e46abaeefe06ff:0x22687a6646840dda!8m2!3d41.989591!4d-71.558488), with the same silo. [Check the website for updates](https://www.thebeefbarn.com) about their reopening or for menus.
 
 
 ### History
 
-No formal history yet. Aerial photos show this building pop up between 1962 and 1972. 
+No formal history yet. Aerial photos show this building pop up between 1962 and 1972.
 
 
 ### In the News
@@ -121,7 +121,7 @@ Normand’s children say that as much as their father was creative — he was th
 
 When Rolande divorced Normand — the decree was final in 1980 but had been years in the making — the Beef Barn was broke. Marc and Michelle credit their mother, who had been a hairdresser in Manville before jumping into the restaurant business, for building it into an enduring success.
 
-The new Beef Barn, at [200 Industrial Drive](//www.google.com/maps/place/200+Industrial+Dr,+North+Smithfield,+RI+02896/@41.989591,-71.5606767,17z/data=!3m1!4b1!4m5!3m4!1s0x89e46abaeefe06ff:0x22687a6646840dda!8m2!3d41.989591!4d-71.558488){:target="_blank"}, about two miles from the original, will feature the original silo from Milton’s farm.
+The new Beef Barn, at [200 Industrial Drive](https://www.google.com/maps/place/200+Industrial+Dr,+North+Smithfield,+RI+02896/@41.989591,-71.5606767,17z/data=!3m1!4b1!4m5!3m4!1s0x89e46abaeefe06ff:0x22687a6646840dda!8m2!3d41.989591!4d-71.558488), about two miles from the original, will feature the original silo from Milton’s farm.
 
 After the original restaurant closes Sunday, the silo will be dismantled, along with the refrigeration and other restaurant equipment, and moved up the road, where it will again be a dining room with five two-person tables.
 
@@ -139,7 +139,7 @@ Both the main restaurant and the creamery will have indoor and outdoor seating.
 
 The Branchauds hope to open the new location — they will be maintaining a second Beef Barn in Bellingham, Massachusetts — by Labor Day weekend.
 
-_Captured August 22, 2021 from https://www.providencejournal.com/story/news/local/2021/08/03/iconic-beef-barn-restaurant-moving-new-location-north-smithfield/5453573001/_
+— _Captured 22 August 2021 from https://www.providencejournal.com/story/news/local/2021/08/03/iconic-beef-barn-restaurant-moving-new-location-north-smithfield/5453573001/_
 
 </details>
 
@@ -149,7 +149,7 @@ _Captured August 22, 2021 from https://www.providencejournal.com/story/news/loca
 _by Samantha Labrecque_  
 **RI Monthly** | December 19, 2019
 
-[Read the article and look at the great pictures on the RI Monthly website](//www.rimonthly.com/beef-barn-north-smithfield){:target="_blank"}. 
+[Read the article and look at the great pictures on the RI Monthly website](https://www.rimonthly.com/beef-barn-north-smithfield). 
 
 
 #### Beef Barn relocating to Homestead Gardens property
@@ -184,6 +184,6 @@ This is the second major announcement to come out of the popular business in the
 
 The new location, like the Bellingham location, will serve beer and wine along with the usual menu of roast beef and casual favorites.
 
-_Captured August 22, 2021 from https://www.valleybreeze.com/2019-11-20/woonsocket-north-smithfield/beef-barn-relocating-homestead-gardens-property#.YSMGzC1h1Z0_
+— _Captured 22 August 2021 from https://www.valleybreeze.com/2019-11-20/woonsocket-north-smithfield/beef-barn-relocating-homestead-gardens-property#.YSMGzC1h1Z0_
 
 </details>

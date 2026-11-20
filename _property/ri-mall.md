@@ -23,8 +23,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '650 Bald Hill Rd, Warwick RI'
-latitude: '41.7194654'
-longitude: '-71.4819794'
+latitude: '41.7194582'
+longitude: '-71.4813898'
 gmap: "https://www.google.com/maps/place/Midland+Commons/@41.7194654,-71.4819794,317m/data=!3m2!1e3!5s0x89e44bf5cc3d9459:0xd27ea3362ec81cd4!4m13!1m7!3m6!1s0x89e44bf6f2f9bfcd:0x9a1bc4ce06fd55c!2s650+Bald+Hill+Rd,+Warwick,+RI+02886!3b1!8m2!3d41.7217803!4d-71.4810464!3m4!1s0x89e44bf42fa97133:0x2ea4781694709a74!8m2!3d41.7194582!4d-71.4813898"
 
 meta: ""
@@ -134,7 +134,7 @@ Finally, a popular California pub restaurant chain – BJ’s Restaurant and Bre
 
 “This will, but for one space, be a fully occupied Rhode Island Mall, which we haven't seen probably since the ’80s, which is incredibly exciting,” said William DePasquale, city planning director. “We're very proud to get [the mall] back on again. I go by and I see employees, I see a vibrant retail center again.” […]
 
-_Captured October 10, 2021 from https://warwickonline.com/stories/rebirth-of-ris-first-suburban-mall_
+— _Captured 10 October 2021 from https://warwickonline.com/stories/rebirth-of-ris-first-suburban-mall_
 
 
 #### Rhode Island Mall owners envision outlet shopping in Warwick
@@ -197,6 +197,6 @@ Winstanley also is building a headquarters for Alexion Pharmaceuticals in New Ha
 
 Surrey formed in 2004 and now owns properties in 11 states, including Texas, Ohio and Florida.
 
-_Captured October 10, 2021 from https://www.providencejournal.com/article/20140807/news/308079612_
+— _Captured 10 October 2021 from https://www.providencejournal.com/article/20140807/news/308079612_
 
 </details>

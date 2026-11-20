@@ -19,9 +19,9 @@ tags: [ 'Amusement Park' ]
 NRHP-ref-number: '76000045'
 added-to-NRHP: 'April 21, 1976'
 
-address: '700 Bullocks Point Avenue, Riverside, East Providence, RI'
-latitude: '41.756652'
-longitude: '-71.3616487'
+address: '700 Bullocks Point Ave, East Providence, RI'
+latitude: '41.756648'
+longitude: '-71.35946'
 gmap: "https://www.google.com/maps/place/700+Bullocks+Point+Ave,+Riverside,+RI+02915/@41.756652,-71.3616487,17z/data=!3m1!4b1!4m5!3m4!1s0x89e450359250f475:0x409a0e76f3cb19ad!8m2!3d41.756648!4d-71.35946"
 
 meta: ""
@@ -103,19 +103,19 @@ images:
     caption: 'The old Crescent Park studio has been re-created by Ed Serowik at the still-operating carousel.'
     sizes: '1024, 664'
 
-imagescredit: 'Postcards from various auction sites and Google Image Search. Sanborn Map from the <a href="//repository.library.brown.edu/studio/item/bdr:212193/" target="_blank">Brown University research collection</a>.'
+imagescredit: 'Postcards from various auction sites and Google Image Search. Sanborn Map from the <a href="https://repository.library.brown.edu/studio/item/bdr:212193/">Brown University research collection</a>.'
 ---
 
 ### Reason for Demolition
 
 A 90-year history is a long, long time for an amusement park. Visitor’s tastes change, new rides need to be added all the time to keep up, and prices need to stay competitive to keep families coming back more than once a year. More and more, parks were becoming destinations in other states, not in your own backyard. Local attractions had to work quite hard to keep an audience.
 
-On the night of September 2, 1969, the large Alhambra Ballroom fell victim to a horrible fire. Soon after, the park tried to woo the thrill seekers by adding a menacing ride called “The Turbo.” Changing tastes, lack of care, financial problems, and local pollution in the bay all contributed to the death of the beloved Crescent Park in 1977. A large auction was held in March of 1979. The Carousel was doomed to be torn down with the rest of the park, but for the valiant efforts of “The Crescent Park Five” — local residents Gail Durfee, Jobel (Tracy) Aguiar, Richard Lund, Linda McEntee, and Robin Peacock. The [Crescent Park Carousel Commission](//www.crescentparkcarousel.org){:target="_blank"} still operates the 100+ year old masterpiece of Charles I.D. Looff.
+On the night of September 2, 1969, the large Alhambra Ballroom fell victim to a horrible fire. Soon after, the park tried to woo the thrill seekers by adding a menacing ride called “The Turbo.” Changing tastes, lack of care, financial problems, and local pollution in the bay all contributed to the death of the beloved Crescent Park in 1977. A large auction was held in March of 1979. The Carousel was doomed to be torn down with the rest of the park, but for the valiant efforts of “The Crescent Park Five” — local residents Gail Durfee, Jobel (Tracy) Aguiar, Richard Lund, Linda McEntee, and Robin Peacock. The [Crescent Park Carousel Commission](https://www.crescentparkcarousel.org) still operates the 100+ year old masterpiece of Charles I.D. Looff.
 
 
 ### Current Events
 
-The Looff carousel is still in operation. The hand-carved carousel was built in 1895 by Charles I. D. Looff at his Brooklyn, New York factory and installed at Crescent Park Amusement Park. The ride's fifty-foot platform contains sixty-one horses, one camel, two single coaches, and two double chariots. Fifty-six of the horses are jumpers. It is among the finest and least-altered of Looff’s surviving carousels, serving as a showcase for his workmanship. [Hours of operations](//www.crescentparkcarousel.org/hours){:target="_blank"} are available on the Carousel website.
+The Looff carousel is still in operation. The hand-carved carousel was built in 1895 by Charles I. D. Looff at his Brooklyn, New York factory and installed at Crescent Park Amusement Park. The ride's fifty-foot platform contains sixty-one horses, one camel, two single coaches, and two double chariots. Fifty-six of the horses are jumpers. It is among the finest and least-altered of Looff’s surviving carousels, serving as a showcase for his workmanship. [Hours of operations](https://www.crescentparkcarousel.org/hours) are available on the Carousel website.
 
 Crescent Park became the site for which Looff built and shipped his carousels across the country. Buyers came to Crescent Park and picked out the kind of horses they wanted duplicated for their own carousels.
 
@@ -142,7 +142,7 @@ Simmons and McCusker revived the park by updating many of the attractions that w
 
 Harder times were ahead, however. In 1962, the Satellite ride broke free of its axis and injured several visitors. In 1966 the park was sold to Melvin T. Berry. On September 2, 1969, the large Alhambra ballroom/Sugarberry Lounge caught fire and burned to the ground. The park kept open but started to decline as time moved into the early 1970s. Changing tastes, neglect, and financial difficulties made it hard for the park to survive.
 
-George LaCross of [LaffInTheDark.com](//laffinthedark.com){:target="_blank"} said, "For those of us growing up nearby, Crescent Park wasn’t just an amusement park, it was a way of life. And the park had a very short life if you were born in the mid-1950s; it closed after the 1977 season.“
+George LaCross of [LaffInTheDark.com](https://laffinthedark.com) said, "For those of us growing up nearby, Crescent Park wasn’t just an amusement park, it was a way of life. And the park had a very short life if you were born in the mid-1950s; it closed after the 1977 season.“
 
 [^1]: _Vue de L’Eau_ next door was the first area shore resort, in the 1840’s — about ten years before Ocean Cottage.
 

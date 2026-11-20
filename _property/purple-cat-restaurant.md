@@ -13,7 +13,7 @@ date-added: '2022'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Chepachet, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [ 'Al Zifchock' ]
 lists: []
 tags: [ 'Historic Diner Cars' ]
@@ -22,8 +22,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '4 Stafford Yard, Chepachet RI'
-latitude: '41.9158955'
-longitude: '-71.6741024'
+latitude: '41.915600'
+longitude: '-71.671336'
 gmap: "https://www.google.com/maps/place/4+Stafford+Yard,+Chepachet,+RI+02814/@41.9158955,-71.6741024,16.09z/data=!4m5!3m4!1s0x89e43bfe86ebb505:0x68995e75617ed07a!8m2!3d41.9157269!4d-71.670563"
 
 meta: ""
@@ -105,7 +105,7 @@ images:
 
 mostrecentimage: 2022-03-01
 
-imagescredit: 'Contributions from Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>'
+imagescredit: 'Contributions from Christopher Martin of <a href="https://quahog.org">Quahog.org</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -114,29 +114,31 @@ imagescredit: 'Contributions from Christopher Martin of <a href="https://quahog.
 
 ### Last Tenant
 
-The **Purple Cat Restaurant** closed its doors in 2005. It was a local favorite with its home-cooked meals and down-to-earth atmosphere. A related business, the **Purple Cat Vineyard** and Winery, shared the name but was located in a different building (11 Money Hill Road) behind the Purple Cat Restaurant. It was open for only a few years, 2015 through 2019.  
+The **Purple Cat Restaurant** closed its doors in 2005. It was a local favorite with its home-cooked meals and down-to-earth atmosphere. A related business, the **Purple Cat Vineyard** and Winery, shared the name but was located in a different building (11 Money Hill Road) behind the Purple Cat Restaurant. It was open for only a few years, 2015 through 2019.
 
-The Purple Cat remained in the Lavoie family for its entire long life. It started with the first generation, Fred and Ada, and continued into the fourth generation (see [History](#history) below). In the end, it was too much to keep up with, and was a rewarding but challenging business. 
+The Purple Cat remained in the Lavoie family for its entire long life. It started with the first generation, Fred and Ada, and continued into the fourth generation (see [History](#history) below). In the end, it was too much to keep up with, and was a rewarding but challenging business.
 
 
 #### Architecture & Artwork
 
-The original restaurant was cleverly built from two recycled circa 1907 trolley cars. The cars were manufactured by the Watson Company in Springfield, and ran from Woonsocket to a mill in the Pascoag and Harrisville area of Burrillville. When the mill closed down, it was moved to Chepachet at the Stafford Yard in 1929 and converted to a diner by the LaVoies.[^4] 
+The original restaurant was cleverly built from two recycled circa 1907 trolley cars. The cars were manufactured by the Watson Company in Springfield, and ran from Woonsocket to a mill in the Pascoag and Harrisville area of Burrillville. When the mill closed down, it was moved to Chepachet at the Stafford Yard in 1929 and converted to a diner by the LaVoies.[^4]
 
 [^4]: MOOREHEAD, JACQUELYN. “Purple Cat trolley to be transformed into ice cream parlor.” Valley Breeze (RI), 24 March, 2022. https://www.valleybreeze.com/news/purple-cat-trolley-to-be-transformed-into-ice-cream-parlor/article_8619acec-aa15-11ec-846e-3b83e3bcd757.html. Accessed 4 June, 2022.
 
-The interior of the restaurant was built up over time. In the early 30s it was expanded, and again in the 1960s. A fire in 1971 closed the business for a short time but it reopened and expanded more in 1976. Employees of the restaurant knew the diner cars were still there in the walls — one interior was visible from the kitchen — but the patrons may have never noticed. 
+The interior of the restaurant was built up over time. In the early 30s it was expanded, and again in the 1960s. A fire in 1971 closed the business for a short time but it reopened and expanded more in 1976. Employees of the restaurant knew the diner cars were still there in the walls — one interior was visible from the kitchen — but the patrons may have never noticed.
 
-Wood carved wall hangings and sculptures completed by local folk artist [Al Zifchock](//hdl.loc.gov/loc.afc/afc1991022.afc1991022_kg_008){:target="_blank"} adorned the walls. His work is collected in the Library of Congress and had been purchased and moved as far away as South Carolina. 
+Wood carved wall hangings and sculptures completed by local folk artist [Al Zifchock](https://hdl.loc.gov/loc.afc/afc1991022.afc1991022_kg_008) adorned the walls. His work is collected in the Library of Congress and had been purchased and moved as far away as South Carolina.
 
-Self-taught, Zifchock, grew up in Burriville and started carving “little things” like boats and guns when he was a young boy. He entered the Army, then worked with his father in the printing business, but kept whittling on the side. In 1971 he left the printing business to pursue art full time. He carved figurines, clock faces, ornate beams for buildings, blanket chests, a totem pole, as well as a Cigar-store Indian. He also enjoys masonry, often cutting the stones himself. His carved signs adorned many businesses in the area as well.[^6] 
+Self-taught, Zifchock, grew up in Burriville and started carving “little things” like boats and guns when he was a young boy. He entered the Army, then worked with his father in the printing business, but kept whittling on the side. In 1971 he left the printing business to pursue art full time. He carved figurines, clock faces, ornate beams for buildings, blanket chests, a totem pole, as well as a Cigar-store Indian. He also enjoys masonry, often cutting the stones himself. His carved signs adorned many businesses in the area as well.[^6]
 
 [^6]: ANDERSON, LESLIE. “With silent companions keeping watch, Pascoag native carves a life out of pine Sculptor to give new life to historic water trough at school.” Providence Journal (RI), BLACKSTONE VALLEY ed., sec. NEWS, 14 July 1986, pp. D-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15252D3CF9DE3968. Accessed 4 June 2022.
 
 
 ### Current Events
 
-Developer Al Costantino and business partner Meshell Adamo announced plans in March, 2022, to refurbish and transform two diner cars found within the former Purple Cat structure into an ice cream and soda fountain. Al said the process would likely take nine months to a year before the refurbished trolley is back on site. The second trolley, formerly used as part of the kitchen, would not be refurbished as too much of it was gone.[^5] 
+Developer Al Costantino and business partner Meshell Adamo announced plans in March, 2022, to refurbish and transform two diner cars found within the former Purple Cat structure into an ice cream and soda fountain. Al said the process would likely take nine months to a year before the refurbished trolley is back on site. The second trolley, formerly used as part of the kitchen, would not be refurbished as too much of it was gone.[^5]
+
+In 2026, the building does not seem to be in use and we are unsure what happened to the trolley cars.
 
 [^5]: Ibid
 
@@ -151,7 +153,7 @@ Where did the name come from? According to one article, the name came from a clu
 
 [^1]: WARCHUT, KATIE. “Popular eatery to close its doors.” Providence Journal (RI), Northwest ed., sec. News, 24 May 2005, pp. C-01. NewsBank: America's News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152429AF476A0688. Accessed 3 June 2022.
 
-In the early thirties, an addition provided living quarters for the family — Fred, Ada, and son Kenneth (“Skip”) — as well as a small tap room and a dining room. The liquor license for “The Purple Cat Diner” was the first issued in the town of Glocester following Prohibition. 
+In the early thirties, an addition provided living quarters for the family — Fred, Ada, and son Kenneth (“Skip”) — as well as a small tap room and a dining room. The liquor license for “The Purple Cat Diner” was the first issued in the town of Glocester following Prohibition.
 
 In the late forties and early fifties The Purple Cat was under the management of Ada’s oldest son, Jim Silverthorne. With the opening of the Pascoag Race Track, the staff was kept busy catering to busloads of patrons from nearby Massachusetts and Connecticut, as well as horse owners, trainers, and jockeys.
 
@@ -161,12 +163,13 @@ In 1977, after 48 years of service, the original thirteen diner stools were remo
 
 The Purple Cat Restaurant was managed into the early 2000s by the third generation of the LaVoie Family, Kevin and Keith LaVoie, with the fourth generation — Tara and Kelsea — pitching in as needed.
 
-By May of 2005, however, Skip and Rose were ready to close the doors, citing many personal health problems. Skip suffered from a stroke in 2004 and was paralyzed on one side. Rose had two stents implanted to keep blood flowing through her arteries and an artificial knee. And Kevin had a defibrillator implanted to regulate his heartbeat.[^2] 
+By May of 2005, however, Skip and Rose were ready to close the doors, citing many personal health problems. Skip suffered from a stroke in 2004 and was paralyzed on one side. Rose had two stents implanted to keep blood flowing through her arteries and an artificial knee. And Kevin had a defibrillator implanted to regulate his heartbeat.[^2]
 
 Rose, president of the Glocester Heritage Society[^3], was instrumental in getting the new owner to save the trolley cars buried within the walls.
 
 [^2]: Ibid.
 [^3]: Ibid.
+
 
 ### In the News
 
@@ -189,9 +192,7 @@ He offered to let the council come take a look at the trolley before making any 
 
 Costantino said the town could use the second trolley, which is sitting at the back of the old winery property, for parts to restore the donated trolley.
 
-—
-
-_Captured February 10, 2024 from https://www.valleybreeze.com/news/purple-cat-trolley-offered-to-glocester/article_edd9221c-c51c-11ee-a3fb-e7751c5a9ebb.html_
+— _Captured 10 February 2024 from https://www.valleybreeze.com/news/purple-cat-trolley-offered-to-glocester/article_edd9221c-c51c-11ee-a3fb-e7751c5a9ebb.html_
 
 ***
 
@@ -218,9 +219,7 @@ She said plans are in the very early stages, and they need to go through the rig
 
 Costantino said he has a lot of plans for properties across the state, and has had his eye on Glocester for some time. He said he hopes to build a post-and-beam style barn to house the finished furniture and antiques business. […]
 
-— 
-
-_Captured June 3, 2022 from https://www.valleybreeze.com/news/purple-cat-property-planned-to-become-antique-business/article_43a12426-72ac-11ec-a895-17f0a3acfc1a.html_
+— _Captured 03 June 2022 from https://www.valleybreeze.com/news/purple-cat-property-planned-to-become-antique-business/article_43a12426-72ac-11ec-a895-17f0a3acfc1a.html_
 
 ***
 
@@ -245,6 +244,4 @@ Adamo’s concept for the buildings is a 700-square-foot barn-like post-and-beam
 
 “I haven’t seen their condition, but I hope they’re good enough to keep,” she said. […]
 
-—
-
-_Captured June 3, 2022 from https://www.valleybreeze.com/news/history-of-purple-cat-restaurant-to-be-preserved-by-new-%20owners/article_5c759a3a-7811-11ec-8fa8-537f4f5c3868.html_
+— _Captured 03 June 2022 from https://www.valleybreeze.com/news/history-of-purple-cat-restaurant-to-be-preserved-by-new-%20owners/article_5c759a3a-7811-11ec-8fa8-537f4f5c3868.html_

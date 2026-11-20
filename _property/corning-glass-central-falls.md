@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Central Falls, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'David Lawlor', 'Demolition by Progress' ]
@@ -21,9 +21,9 @@ tags: [ 'David Lawlor', 'Demolition by Progress' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '1193 Broad St, Central Falls, RI'
-latitude: '41.8955841'
-longitude: '-71.3876419'
+address: '1193 Broad St, Central Falls RI'
+latitude: '41.896237'
+longitude: '-71.387705'
 gmap: "https://www.google.com/maps/place/Osram+Sylvania/@41.8955841,-71.3876419,16z/data=!4m6!3m5!1s0x89e44334304927cf:0xfdaf1814af95a44c!8m2!3d41.8955841!4d-71.3876419!16s%2Fg%2F1vnrm0qb?entry=ttu"
 
 meta: ""
@@ -94,21 +94,21 @@ images:
     caption: '1923 Sanborn Insurance Map, Pawtucket/Central Falls, Volume 2C, Plate 294 — Collection of the Brown University Digital Archives'
     sizes: '1440, 900'
 
-imagescredit: 'Contributions by Google Streetview, Brown University Digital Archives, and David Lawlor, aka <a href="//runofthemill.shop" target="_blank">Run of the Mill</a>'
+imagescredit: 'Contributions by Google Streetview, Brown University Digital Archives, and David Lawlor, aka <a href="https://runofthemill.shop">Run of the Mill</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
 #    url: https://perma.cc/MQ4Z-Z9K4
 ---
 
-This is the first collaboration with photographer and drone operator David Lawlor, who captured these beautiful images during demolition. Visit his site for [a video reel of the demolition as it was in progress](https://runofthemill.shop/work/osram-slyvania-demolitionlition){:target="_blank"}.
+This is the first collaboration with photographer and drone operator David Lawlor, who captured these beautiful images during demolition. Visit his site for [a video reel of the demolition as it was in progress](https://runofthemill.shop/work/osram-slyvania-demolitionlition).
 {:.o__tldr}
 
 ### Reason for Demolition
 
 Corning Glass Works has a history in Central Falls that goes back to 1924 at a portion of this Broad Street plant. Much of the original mills were located on the northern side of the property at the corner of Hunt and Broad Streets and Hunt and High Streets and expanded at this location with steel-frame warehouse structures to the south.
 
-[Aerial photos from 1939](//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e){:target="_blank"} (use a 1193 Broad Street Central Falls location) show the northern side of the property and small low buildings across Hunt Street, much like the [Sanborn Map from 1923](#photo-1923-sanborn-vol-2c-pl-294). Aerial photos at this location show a progressive increase of buildings around this main structure.
+[Aerial photos from 1939](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e){:target="_blank"} (use a 1193 Broad Street Central Falls location) show the northern side of the property and small low buildings across Hunt Street, much like the [Sanborn Map from 1923](#photo-1923-sanborn-vol-2c-pl-294). Aerial photos at this location show a progressive increase of buildings around this main structure.
 
 In 1959, Sylvania Electric Products merged into General Telephone and was renamed to General Telephone & Electronics Corporation (GT&E) and later simplified their name to GTE.[^1] Around 1986, GTE Products Corporation purchased the Corning Glass Site.[^2] GTE sold the Sylvania lighting division to the German Siemens AG in 1993, and it was hereafter referred to as “Osram-Sylvania.”[^3]
 
@@ -150,7 +150,7 @@ During the first decade of the twentieth century, the **Bryan Marsh Company** in
 
 Not many sources include maps of Central Falls. We were able to find two, and an earlier source does not include this area of Broad Street at Hunt.
 
-+ [1923 Sanborn Insurance Map](#photo-1923-sanborn-vol-2c-pl-294), Pawtucket/Central Falls, Volume 2C, Plate 294 — The first building if the complex was part of the entire lifecycle. Located along Hunt Street adjacent to the train tracks, this large structure is labelled “Rhode Island Glass division of General Electric.” The main building is 2-3 stories with stock room, machine shop, and blowing room. A smaller fire-proof area is likely where the melting furnaces were. Notice “Chaces Lane” as a through-road between High and Broad Streets, very likely named for Elizabeth and Samuel Chace. Collection of the [Brown University Digital Archives](https://repository.library.brown.edu/studio/item/bdr:384548/){:target="_blank"}
++ [1923 Sanborn Insurance Map](#photo-1923-sanborn-vol-2c-pl-294), Pawtucket/Central Falls, Volume 2C, Plate 294 — The first building if the complex was part of the entire lifecycle. Located along Hunt Street adjacent to the train tracks, this large structure is labelled “Rhode Island Glass division of General Electric.” The main building is 2-3 stories with stock room, machine shop, and blowing room. A smaller fire-proof area is likely where the melting furnaces were. Notice “Chaces Lane” as a through-road between High and Broad Streets, very likely named for Elizabeth and Samuel Chace. Collection of the [Brown University Digital Archives](https://repository.library.brown.edu/studio/item/bdr:384548/)
 + While the write-up from 1978 mentions the earliest date of construction at 1937, we wonder if they were aware of an earlier possible date (such as this 1923 map would indicate) or if they considered this building too heavily modified to have been considered an original structure.
 
 
@@ -175,7 +175,7 @@ The financial impact of the closure won’t immediately be felt, city solicitor 
 
 Osram Sylvania’s property tax bill is $138,000, and the company is current with its payments, Jerzyk said. The company owes an additional $25,000 this year in “tangible taxes,” based on the value of its equipment, he said. The next tax bill, to be mailed out on July 1, will be based on the equipment value at the end of 2013, so sale of that equipment wouldn’t be reflected until the tax bill that’s due by mid-2016, he said. […]
 
-— BRAMSON, KATE. “Central falls \| Company closure a ‘significant’ loss to city.” Providence Journal (RI), 1 ed., sec. News, 21 Mar. 2014, p. MAIN_06. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15241E8076163100. Accessed 11 June 2023.
+— _BRAMSON, KATE. “Central falls \| Company closure a ‘significant’ loss to city.” Providence Journal (RI), 1 ed., sec. News, 21 Mar. 2014, p. MAIN_06. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15241E8076163100. Accessed 11 June 2023._
 
 ***
 
@@ -211,7 +211,7 @@ The funds could help Central Falls acquire two acres of the 12-acre site and sup
 
 Central Falls is Rhode Island’s “most economically disadvantaged community,” and the federal funds aim to support much-needed economic development, Cicilline stated.
 
-Thomas Deller — the city’s planning and economic development director — confirmed Wednesday that Central Falls has crafted a vision statement for 110 housing units in three buildings on the site, with ground floor commercial space on Broad Street. 
+Thomas Deller — the city’s planning and economic development director — confirmed Wednesday that Central Falls has crafted a vision statement for 110 housing units in three buildings on the site, with ground floor commercial space on Broad Street.
 
 However, he said due to the ongoing nature of negotiations, he does not yet have a formal agreement to share with the public.
 
