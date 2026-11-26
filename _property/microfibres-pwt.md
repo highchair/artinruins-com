@@ -15,17 +15,17 @@ date-added: '2022'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
-lists: []
+lists: [ 'North Main Street Commercial Corridor' ]
 tags: [ 'Ghost Signs', 'Needs History' ]
 
 NRHP-ref-number:
 added-to-NRHP:
 
 address: '1 Moshassuck St, Pawtucket RI'
-latitude: '41.8596176'
-longitude: '-71.4014723'
+latitude: '41.859787'
+longitude: '-71.400391'
 gmap: "https://www.google.com/maps/place/1+Moshassuck+St,+Pawtucket,+RI+02860/@41.8596176,-71.4014723,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444becf0d6cc1:0x3c4bb8ab66b331e3!8m2!3d41.8596176!4d-71.4014723"
 
 meta: ""
@@ -200,31 +200,31 @@ According to the article, 37 dock doors, 28 trailer stalls, and 100 auto stalls 
 
 No formal written history about this complex of buildings from the usual places. We made our own history based on aerial photographs and Sanborn maps.
 
-1923, [Sanborn Map](#photo-microfibres-sanborn-1923)
+[1923, Sanborn Map](#photo-microfibres-sanborn-1923)
 : Two buildings appear in the 1923 Sanborn Map[^3], the earliest record we have been able to find.
 
 + **Weil Barnefield Corpin, Mfg. Silk & Cotton Novelties** on the northeast corner of Main Street and Moshassuck. A 2-story brick building used for winding and weaving. A smaller wood frame storage building was set to the west. This building also featured a sawtooth roof.
 + **Woodlawn Finishing Co., Finishing Yarn** on the northwest corner of Moshassuck and Esten Ave. A one and two story brick mill consisting of four buildings; Dye House, Bleach House, Finishing & Winding, and Shipping Winding and Quilling.
 
-1939, [aerial photo](#photo-microfibres-aerial-1939)
+[1939, aerial photo](#photo-microfibres-aerial-1939)
 : It looks like a few more houses were constructed on the lots along Greenville Street and a building to the north of those houses along Main Street.
 
 1951-1952, aerial photo (not shown)
 : A small outbuilding surrounds the western and southern sides of the Weil Barnefield Corpin building. It is narrow on the west side and deeper on the southern side, we are guessing one story. What looks to be eight skylights punctuate the new structure. The low building in between the row of houses and this building from the 1939 is now gone. A construction date of 1940 shown on the commercial sales listing might be referencing this configuration of buildings.
 
-1962, [aerial photo](#photo-microfibres-aerial-1962)
+[1962, aerial photo](#photo-microfibres-aerial-1962)
 : A significant expansion of the complex has taken place. Our guess is that Microfibres occupies the buildings along Main Street on the eastern side of the property and have expanded westward towards the Woodlawn Finishing Co. buildings. The houses on the southern edge are gone, and floor space has doubled if not tripled with the new structure in the middle of this plot and along the southern edge. A small parking area is along this southern side, behind the mid-century plate glass ten brick building on the southeast corner of Greenville and Main. The western portion of Esten Street that ran through this property seems to begin to be abandoned at this time.
 
 1972, aerial photo (not shown)
 : It is hard to decipher because the aerial photo displays a seam here, but the central area that once separated the two buildings on the western and eastern edges has now been filled in with the steel-clad warehouse structure. The Woodlawn Finishing Co. now appears to be part of the complex. A parking lot to its left (west) now occupies the former portion of Esten Street that used to run through to Greenville St.
 
-1981, [aerial photo](#photo-microfibres-aerial-1981)
+[1981, aerial photo](#photo-microfibres-aerial-1981)
 : A better view of the state shown in the previous 1972 photo with much unchanged. The southwestern portion shows the barn-like structures present today.
 
-1997, [aerial photo](#photo-microfibres-aerial-1997)
+[1997, aerial photo](#photo-microfibres-aerial-1997)
 : Not much changed aside from new roofs. It looks like a parking area on the southern side is filled with a building by 2008, but we can confirm that this is just the resurfacing of an existing parking lot.
 
-2008, [aerial photo](#photo-microfibres-aerial-2008)
+[2008, aerial photo](#photo-microfibres-aerial-2008)
 : Building configuration is now the same as present day.
 
 [^3]: Sanborn Map Company, “Insurance maps of Pawtucket: including Central Falls, Rhode Island V. 2a” (1923). Sanborn Maps for the State of Rhode Island. Brown Digital Repository. Brown University Library. https://repository.library.brown.edu/studio/item/bdr:212358/
@@ -273,4 +273,4 @@ It all began in February 1996 when the Respiratory Diseases Research Program at 
 
 After inspecting the plant, <span class="abbr">NIOSH</span> tested the air samplings to find any exposures to dust, bioaerosols and gases. According to <span class="abbr">NIOSH</span> documents, Microfibres had no prior awareness of the presence of the specific dust at the plant. Recommendations were made by <span class="abbr">NIOSH</span> for Microfibres management to take action by installing engineering controls, to enforce good work practices, to use proper respiratory protection, and establish a medical screening/surveillance program. Microfibres made “substantial progress” in complying with the recommendations, according to <span class="abbr">NIOSH</span>.
 
-_Captured May 8, 2022 from https://turnto10.com/news/local/pawtucket-manufacturer-to-file-bankruptcy-closes-shop-after-90-years-in-business_
+— _Captured May 8, 2022 from https://turnto10.com/news/local/pawtucket-manufacturer-to-file-bankruptcy-closes-shop-after-90-years-in-business_

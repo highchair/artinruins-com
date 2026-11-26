@@ -12,13 +12,13 @@ date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'North Main Street Commercial Corridor' ]
 tags: [ 'Needs History', 'Demolition by Neglect', 'Yellow brick', 'Ghost Signs' ]
 
 address: '1300 North Main St, Providence RI'
-latitude: '41.855927'
-longitude: '-71.4026967'
+latitude: '41.856211'
+longitude: '-71.400356'
 gmap: "https://www.google.com/maps/place/1300+N+Main+St,+Providence,+RI+02904"
 street: [ 'North Main St' ]
 street-number: 1300
@@ -65,9 +65,9 @@ external:
 
 ### Reason for Demolition
 
-The reasons here were easy — neglect, deferred maintenance, and then water/mold issues. The store had been empty for about 10 years before Miriam hospital used the basement portion (accessible from the back side) as their Cardiac Center. Mold issues forced them out, and they built a new Cardiac Center and office complex down the hill in the shopping complex in early 2008. The parking lot in the rear of the building was the only thing being used. 
+The reasons here were easy — neglect, deferred maintenance, and then water/mold issues. The store had been empty for about 10 years before Miriam hospital used the basement portion (accessible from the back side) as their Cardiac Center. Mold issues forced them out, and they built a new Cardiac Center and office complex down the hill in the shopping complex in early 2008. The parking lot in the rear of the building was the only thing being used.
 
-A redevelopment plan in the mid 2010s knocked this building down and along with the former [Anderson Little]({% link _property/anderson-little-north-main.md %}) and Duck Pin Bowling, a very large LA Fitness gym was built. 
+A redevelopment plan in the mid 2010s knocked this building down and along with the former [Anderson Little]({% link _property/anderson-little-north-main.md %}) and [Down Under Duckpin Bowling]({% link _property/down-under-duckpin.md %}), a very large LA Fitness gym was built.
 
 
 ### Current Events
@@ -77,4 +77,4 @@ This lot is now part of the 300-space parking area for LA Fitness just over the 
 
 ### History
 
-No formal history. The building shows up in an aerial photo from 1951-52. Previous to that it was a different building. This section of North Main Street on the Pawtucket line is difficult to find on Sanborn Maps. Though we did find one Sanborn map from 1908 shows the Union Rail Road Company “Car Barn” at approximately this location. 
+No formal history. The building shows up in an aerial photo from 1951-52. Previous to that it was a different building. This section of North Main Street on the Pawtucket line is difficult to find on Sanborn Maps. Though we did find one Sanborn map from 1908 shows the Union Rail Road Company “Car Barn” at approximately this location.

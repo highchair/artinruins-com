@@ -14,14 +14,14 @@ date-added: '2023'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [  'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Neglect', 'Demolition by Progress' ]
 
 address: '28 Agnes St, Providence RI'
-latitude: '41.8152234'
-longitude: '-71.4445411'
+latitude: '41.8152194'
+longitude: '-71.4432536'
 gmap: "https://www.google.com/maps/place/28+Agnes+St,+Providence,+RI+02909/@41.8152234,-71.4445411,18z/data=!4m6!3m5!1s0x89e4458fe002a29b:0xe7b936ec66095a66!8m2!3d41.8152194!4d-71.4432536!16s%2Fg%2F11c884typ1"
 
 meta: ""

@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: '164 Summit Ave, Providence RI'
 latitude: '41.851502'
-longitude: '-71.3985157'
+longitude: '-71.397872'
 gmap: "https://www.google.com/maps/place/41%C2%B051'05.4%22N+71%C2%B023'52.3%22W/@41.851502,-71.3985157,19z/data=!3m1!4b1!4m4!3m3!8m2!3d41.851502!4d-71.397872?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Summit Ave' ]
 street-number: 164
@@ -115,8 +115,8 @@ Jeffrey G. Brier, who served as chairman of the Miriam Hospital from 2004 to 200
 
 He is the grandson of the then-board president who helped placed the cornerstone and the time capsule, according to hospital officials.
 
-Ducharme said the time capsule opening also marks the official start to the demolition of Miriam Hospital campus' oldest building. 
+Ducharme said the time capsule opening also marks the official start to the demolition of Miriam Hospital campus' oldest building.
 
-She said it will be rebuilt with a new emergency department and new patient rooms. 
+She said it will be rebuilt with a new emergency department and new patient rooms.
 
-— NBC 10 Staff. “Miriam Hospital opens time capsule from nearly 75 years ago.” 19 June 2025. Accessed 06 September 2025 from https://turnto10.com/news/local/miriam-hospital-opens-time-capsule-from-nearly-75-years-ago-cornerstone-jewish-orphanage-rhode-island-newspaper-dimes-benediction-june-19-2025
+— _NBC 10 Staff. “Miriam Hospital opens time capsule from nearly 75 years ago.” 19 June 2025. Accessed 06 September 2025 from https://turnto10.com/news/local/miriam-hospital-opens-time-capsule-from-nearly-75-years-ago-cornerstone-jewish-orphanage-rhode-island-newspaper-dimes-benediction-june-19-2025_

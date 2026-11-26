@@ -12,14 +12,16 @@ date-added: '2010'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'PPS Ten Most Endangered' ]
 tags: [ 'Demolition by Progress', 'Needs History' ]
 
-address: '398 Hope Street, Providence RI'
-latitude: '41.8371294'
-longitude: '-71.4033203'
+address: '398 Hope St, Providence RI'
+latitude: '41.8371254'
+longitude: '-71.4011316'
 gmap: "https://www.google.com/maps/place/398+Hope+St,+Providence,+RI+02906/@41.8371294,-71.4033203,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444df59ebb73b:0x476878efeae77f60!8m2!3d41.8371254!4d-71.4011316"
+street: [ 'Hope St' ]
+street-number: 398
 
 meta: ""
 excerpt: "A neighborhood battle and a prolonged redevelopment took down Clark’s to replace it with mixed-use residential and commercial space"
@@ -74,7 +76,7 @@ One thing was clear — the flower shop was closing and something would replace
 #### Democracy and the flower shop
 
 _by David Brussat_  
-**[Providence Journal](https://web.archive.org/web/20110501030206/projo.com/opinion/columnists/content/CL_brussat30_09-30-10_TMK3UU1_v14.2761788.html)** | September 30, 2010 (abridged, captured November 2010)
+**Providence Journal** | September 30, 2010 (abridged, captured November 2010)
 
 The flower shop and greenhouse at 398 Hope St., Providence, owe a bouquet to democracy, which has stood in their defense. That doesn’t necessarily mean, however, that the old shop erected in the 1890s, and operating as Clarke Flowers since about 1982, will continue to house a florist.
 
@@ -91,3 +93,5 @@ But the abutters and others who want to prevent Hope Street from morphing into a
 […] And what about the property owner’s property rights? Well, like the right to shout “Fire!” in a crowded theater, property rights sit within a context of law. Zoning law tends to evolve in ways that tilt procedures for or against proponents of change (developers) or opponents of change (neighbors). Here the process worked well, but that too could change. Hope Streeters recognize that even if the florist is history, its successor — perhaps a nice coffee shop in the old building, with outdoor seating but no drive-thru — need not scrape the fingernail of change across the blackboard of Hope.
 
 This relatively minor flap remains a large issue in the ’hood, as it should. Democracy at the highest level is all about giving voice to issues that affect life as it is lived at home. Representative government in America may trickle down from Washington, but it also trickles up from Hope Street. All politics is local, the old adage says: The buck stops at the zoning board. But the buck never really does stop, does it? No, it does not. So it is up to Hope Street to keep its eyes open and its ears to the ground.
+
+— _Captured 17 September 2020 from https://web.archive.org/web/20110501030206/projo.com/opinion/columnists/content/CL_brussat30_09-30-10_TMK3UU1_v14.2761788.html_

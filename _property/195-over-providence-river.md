@@ -20,7 +20,7 @@ tags: [ 'Demolition by Progress' ]
 
 address: 'Around 200 Dyer St, Providence RI'
 latitude: '41.820335'
-longitude: '-71.4084747'
+longitude: '-71.406286'
 gmap: "https://www.google.com/maps/place/41°49'13.2%22N+71°24'22.6%22W/@41.820335,-71.4084747,17z/data=!3m1!4b1!4m6!3m5!1s0x0:0x9c91c3f832ea1647!7e2!8m2!3d41.820335!4d-71.406286"
 
 meta: ""

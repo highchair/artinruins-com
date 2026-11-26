@@ -11,23 +11,23 @@ date-added: '2002'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Demolition by Neglect', 'Brown University', 'College Properties' ]
 
 address: '414 Elmgrove Ave, Providence RI'
 latitude: '41.8428716'
-longitude: '-71.3948798'
+longitude: '-71.3926911'
 gmap: "https://www.google.com/maps/place/414+Elmgrove+Ave,+Providence,+RI+02906/@41.8428716,-71.3948798,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444d05e596dc1:0xa862394e7ec2502c!8m2!3d41.8428716!4d-71.3926911"
 
 meta: ""
-excerpt: "A large former gymnasium with a large enough indoor space to support a suspended indoor quarter mile track. Demolished in 2001. "
+excerpt: "A large former gymnasium with a large enough indoor space to support a suspended indoor quarter mile track. Demolished in 2001"
 
 thumbnail: marvel-gym-jh-2001-03-05.jpg
 
 images:
   - url: marvel-gym-jh-2001-03-01.jpg
-    alt: 'A large, greek-revival or neo-classical brick and concrete building with a three-bay facade under a triangular pediment roof, flanked by two buttress-like outcroppings, set in front of a larger, wider hip-roofed structure crested with a clock-tower and small dome supported by four classical columns. Most windows had arched lintels and the concrete was used to form decorative trim work and a crest-like shape over the entrance. '
+    alt: 'A large, greek-revival or neo-classical brick and concrete building with a three-bay facade under a triangular pediment roof, flanked by two buttress-like outcroppings, set in front of a larger, wider hip-roofed structure crested with a clock-tower and small dome supported by four classical columns. Most windows had arched lintels and the concrete was used to form decorative trim work and a crest-like shape over the entrance.'
     sizes: '1200, 900'
   - url: marvel-gym-jh-2001-03-02.jpg
     sizes: '1200, 900'

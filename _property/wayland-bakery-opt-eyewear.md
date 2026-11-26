@@ -23,8 +23,8 @@ tags: [ 'Bars, Businesses, & Restaurants', 'Demolition by Progress', 'Still an E
 
 address: '138 Wayland Ave, Providence RI'
 latitude: '41.827649'
-longitude: '-71.3889172'
-gmap: "https://www.google.com/maps/place/138+E+Manning+St,+Providence,+RI+02906/@41.827649,-71.3889172,80m/data=!3m1!1e3!4m6!3m5!1s0x89e4452e7c392885:0x3c98667a5b2e1660!8m2!3d41.8275449!4d-71.3888265!16s%2Fg%2F11c5mczcgl?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D"
+longitude: '-71.3888329'
+gmap: "https://www.google.com/maps/place/138+Wayland+Ave,+Providence,+RI+02906/@41.8274434,-71.3891612,19.55z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzM5LjUiTiA3McKwMjMnMjAuMSJX!8m2!3d41.827649!4d-71.3889172!3m5!1s0x89e4452e7c36c13b:0xd5161ed9590a6035!8m2!3d41.8276!4d-71.3888329!16s%2Fg%2F11b8v6t3z0?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Wayland Ave' ]
 street-number: 138
 
@@ -180,4 +180,4 @@ The couple opened Opt Eyewear Boutique in 2010 at 138 Wayland Ave. in Providence
 
 Until 2009, Jessica Leach worked in construction finance and Jed Leach worked in the family business manufacturing jewelry. When her industry hit a rough patch and his family sold their business, both were inspired to explore new opportunities. […]
 
-— Paknis, Lilli. “SMALL BUSINESS Q&A: A bar for glasses.” <em>Providence Journal (RI)</em>, sec. RI News, 26 Feb. 2017, p. B1. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/162D197C4F704158. Accessed 11 Jan. 2025. 
+— _Paknis, Lilli. “SMALL BUSINESS Q&A: A bar for glasses.” Providence Journal (RI), sec. RI News, 26 Feb. 2017, p. B1. NewsBank: America’s News< https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/162D197C4F704158. Accessed 11 Jan. 2025._

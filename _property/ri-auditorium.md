@@ -13,13 +13,13 @@ date-added: '2006'
 categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'North Main Street Commercial Corridor' ]
 tags: [ 'Demolition by Progress', 'Sports Entertainment' ]
 
 address: '1111 North Main St, Providence RI'
-latitude: '41.8505782'
-longitude: '-71.4037438'
+latitude: '41.850810'
+longitude: '-71.402209'
 gmap: "https://www.google.com/maps/@41.8505782,-71.4037438,17z"
 street: [ 'North Main St' ]
 street-number: 1111
@@ -55,11 +55,11 @@ images:
     caption: 'On this spot stood the Rhode Island Auditorium, home of the Rhode Island Reds hockey team, December 3, 1926 to April 11, 1972. 1111 North Main Street, Providence, Rhode Island. Dedicated on Saturday, July 31, 2010, by the Rhode Island Reds Heritage Society'
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from <a href="//rittmann-art.com/giclee.htm" target="_blank">Karl Rittman</a> (painting), Tucker Terzian, John Wardyga, and <a href="//en.wikipedia.org/wiki/Rhode_Island_Auditorium#/media/File:Former_Site_of_Rhode_Island_Auditorium.jpg" target="_blank">Wikimedia</a>.'
+imagescredit: 'Contributions from <a href="https://rittmann-art.com/giclee.htm">Karl Rittman</a> (painting), Tucker Terzian, John Wardyga, and <a href="https://en.wikipedia.org/wiki/Rhode_Island_Auditorium#/media/File:Former_Site_of_Rhode_Island_Auditorium.jpg">Wikimedia</a>.'
 
 external:
   - source: 'Time Lapse: R.I. Auditorium was center stage for big events, Providence Journal'
-    url: '//www.providencejournal.com/article/20160428/ENTERTAINMENTLIFE/160429291'
+    url: 'https://www.providencejournal.com/article/20160428/ENTERTAINMENTLIFE/160429291'
     #url: https://perma.cc/A6TT-KFZY
 ---
 
@@ -77,7 +77,7 @@ The land that the arena occupied is owned by Miriam hospital and used for parkin
 
 #### Quicks facts 
 
-_From [Wikipedia](//en.wikipedia.org/wiki/Rhode_Island_Auditorium){:target="_blank"}_
+_From [Wikipedia](https://en.wikipedia.org/wiki/Rhode_Island_Auditorium)_
 
 Rhode Island Auditorium was an indoor arena in Providence, at 1111 North Main Street. The arena held 5,300 people and opened in 1926. It hosted the NBA’s Providence Steamrollers basketball team from 1946 until 1949, and the Providence Reds ice hockey team until the [Providence Civic Center]({% link _property/providence-civic-center.md %}) (now the Dunkin’ Center) was opened in 1972. It languished for over a decade until it was razed in 1989.
 
@@ -105,9 +105,9 @@ Rhode Island Auditorium was built in 1925 by a group of investors headed by Rhod
 
 Surprisingly, when the Auditorium made its debut, it was not for a hockey game. Instead, an overflow crowd of 6,000 spectators jammed the new building to enjoy an ice skating show.
 
-The next fall, the Providence Reds joined the Canadian-American Hockey League composed of the Philadelphia Arrows, Quebec Beavers, New Haven Eagles and Boston Bruin Cubs. [Judge James E. Dooley](//en.wikipedia.org/wiki/James_Dooley_(judge)){:target="_blank"}, a leading sports figure at the famed [Narragansett Racetrack]({% link _property/narragansett-race-track.md %}) on the Pawtucket-East Providence line, was founder of the first Reds team. (Mr. Dooley also was part owner of the [Providence Steamroller]({% link _property/cyclodrome.md %}), short-lived NFL Football team.)
+The next fall, the Providence Reds joined the Canadian-American Hockey League composed of the Philadelphia Arrows, Quebec Beavers, New Haven Eagles and Boston Bruin Cubs. [Judge James E. Dooley](https://en.wikipedia.org/wiki/James_Dooley_(judge)), a leading sports figure at the famed [Narragansett Racetrack]({% link _property/narragansett-race-track.md %}) on the Pawtucket-East Providence line, was founder of the first Reds team. (Mr. Dooley also was part owner of the [Providence Steamroller]({% link _property/cyclodrome.md %}), short-lived NFL Football team.)
 
-[Louis A. R. Pieri](//en.wikipedia.org/wiki/Louis_Pieri){:target="_blank"}, a Brown University graduate, basketball and football player, became manager of the Auditorium in 1929. Then in 1938, he and his wife Mildred, daughter Lucille and son Louis took ownership of both the building and the Reds hockey team. Pieri later became one of the most important sports figures in the United States.
+[Louis A. R. Pieri](https://en.wikipedia.org/wiki/Louis_Pieri), a Brown University graduate, basketball and football player, became manager of the Auditorium in 1929. Then in 1938, he and his wife Mildred, daughter Lucille and son Louis took ownership of both the building and the Reds hockey team. Pieri later became one of the most important sports figures in the United States.
 
 For years, while the big building stood on North Main Street, it was called both Rhode Island Auditorium and The Arena. Photos of the edifice show the name Rhode Island Auditorium, back-lit by neon lights on the marquee over the main entrance. Yet high above, at the very top of the building’s façade itself, was the word ARENA, painted in big, white capital letters.
 
@@ -119,7 +119,7 @@ The thousands of fans who flocked there for hockey, basketball, boxing and shows
 
 Adam Ant, Aerosmith, Alex Hors Rock Time Band (1969), Jean Autrey, Beach Boys (1966), Bee Gees (1968), Blood Sweat And Tears (1968), Johnny Cash, Chicago Transit Authority, Cream, The Doors, Fats Domino, Bob Dylan and the Hawks, Aretha Franklin, Grand Funk Railroad (1970), Bill Halley and The Comets, the Jimi Hendrix Experience (1968), Iggy Pop, Rickie Lee Jones, The Mothers of Invention (1968), Buddy Myles, the Plasmatics, The Ramones, Buffalo Springfield, Steppenwolf, Sly and the Family Stone, George Thorogood & the Destroyers, U2, Vanilla Fudge (1968), The Who (1968), and the Young Rascals (1969).
 
-More band info at [RiRocks.net](//www.rirocks.net/Search/RI%20Auditorium.htm){:target="_blank"}
+More band info at [RiRocks.net](https://www.rirocks.net/Search/RI%20Auditorium.htm)
 
 ***
 

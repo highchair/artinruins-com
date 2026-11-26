@@ -15,7 +15,7 @@ date-added: '2021'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
 tags: [ 'Demolition by Speculation', 'House', 'Still an Empty Lot' ]
@@ -25,7 +25,7 @@ added-to-NRHP: 'November 10, 1970'
 
 address: '312 Wickenden St, Providence RI'
 latitude: '41.8196661'
-longitude: '-71.3991223'
+longitude: '-71.3969336'
 gmap: "https://www.google.com/maps/place/The+Duck+and+Bunny/@41.8196661,-71.3991223,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445849344edb9:0x2d477794c0710096!8m2!3d41.8196661!4d-71.3969336"
 street: [ 'Wickenden St' ]
 street-number: 312
@@ -156,7 +156,7 @@ The city contends that the Duck & Bunny could have operated in 312 Wickenden for
 
 Providence has 35 districts on the National Register of Historic Places. A listing is purely honorary. The city has only seven local historic districts with limited actual protection for historic properties. The local College Hill Historic District extends into Fox Point but only to within one block of Wickenden Street. If its merchants and residents fear for its historic character, they will need to petition to have the College Hill Historic District extended by at least one block. Eventually, the merchants who blocked the street’s inclusion in the local district decades ago will regret what is brought by the winds of change. Yet, by then it is likely that Providence as a whole will no longer boast the allure from which Wickenden Street borrows its charm.
 
-— Brussat, David. “A Duck and Bunny Mystery.” RI News Today. Captured from https://rinewstoday.com/a-duck-bunny-mystery
+— _Brussat, David. “A Duck and Bunny Mystery.” RI News Today. Captured from https://rinewstoday.com/a-duck-bunny-mystery_
 
 ***
 
@@ -179,4 +179,4 @@ In 2019, the Duck and Bunny announced it would be closing for “major renovatio
 
 The Duck and Bunny did not respond to request for comment on the demolition on Saturday.
 
-— GoLocalProv, “Duck and Bunny Building Demolished on Wickenden Street in Providence.” Captured from https://www.golocalprov.com/food/new-duck-and-bunny-building-demolished-on-wickenden-street-in-providence
+— _GoLocalProv, “Duck and Bunny Building Demolished on Wickenden Street in Providence.” Captured from https://www.golocalprov.com/food/new-duck-and-bunny-building-demolished-on-wickenden-street-in-providence_

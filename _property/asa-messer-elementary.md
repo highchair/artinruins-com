@@ -25,9 +25,9 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '1655 Westminster St, Providence RI'
-latitude: '41.816448'
-longitude: '-71.4383157'
-gmap: "https://www.google.com/maps/place/Asa+Messer+Elementary+School+at+Bridgham/@41.816448,-71.4383157,17z/data=!4m14!1m7!3m6!1s0x89e445cfe5e42701:0x722737281dfcde03!2sSchool!8m2!3d41.8179912!4d-71.4212676!16s%2Fg%2F11pyb8jkmq!3m5!1s0x89e4458383310d09:0xff1252ce7e8c7bd!8m2!3d41.8161391!4d-71.4375768!16s%2Fm%2F076l_9g?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D"
+latitude: '41.8164699'
+longitude: '-71.4371881'
+gmap: "https://www.google.com/maps/place/1655+Westminster+St,+Providence,+RI+02909/@41.8162088,-71.437554,154m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ4JzU5LjIiTiA3McKwMjYnMTcuOSJX!8m2!3d41.816448!4d-71.4383157!3m5!1s0x89e4459b0ad80ec9:0xd63499384cf274e1!8m2!3d41.8164699!4d-71.4371881!16s%2Fg%2F11bw3_tjyc?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Westminster St' ]
 street-number: 1655
 
@@ -169,4 +169,4 @@ Proponents of pre-K to grade 8 schools argue that the model allows for tightknit
 
 “When you close down or demolish any school building, there’s a real sense of institutional mourning and grieving,” he said. “I think one flaw in a takeover model is that community outreach isn’t the same.”
 
-— Kohli, Nish. “Demolition of middle school is flashpoint - Some say process lacked financial transparency.” <em>Providence Journal (RI)</em>, PFO-Journal ed., sec. News, 8 Aug. 2025, p. A1. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/. Accessed 4 Oct. 2025.
+— _Kohli, Nish. “Demolition of middle school is flashpoint - Some say process lacked financial transparency.” Providence Journal (RI), PFO-Journal ed., sec. News, 8 Aug. 2025, p. A1. NewsBank: America’s News, https://infoweb.newsbank.com/. Accessed 4 Oct. 2025._

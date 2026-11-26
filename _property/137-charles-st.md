@@ -17,10 +17,12 @@ designers: []
 lists: [ 'Mysteries of the Unknown', 'HABS HAER' ]
 tags: [ 'Chet Smolski image collection' ]
 
-address: '137 Charles Street, Providence RI'
-latitude: '41.8358878'
-longitude: '-71.4140841'
+address: '137 Charles St, Providence RI'
+latitude: '41.835478'
+longitude: '-71.411526'
 gmap: "https://www.google.com/maps/place/137+Charles+St,+Providence,+RI+02904/@41.8358878,-71.4140841,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451e82dd0349:0x325572655c2bd71c!8m2!3d41.8358838!4d-71.4118901"
+street: [ 'Charles St' ]
+street-number: 137
 
 meta: ""
 excerpt: "A mystery! How long did this slender building along Charles Street and the Moshassuck river stand?"

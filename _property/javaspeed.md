@@ -12,13 +12,13 @@ date-added: '2010'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
-lists: []
+designers: []
+lists: [ 'North Main Street Commercial Corridor' ]
 tags: [ 'Bars, Businesses, & Restaurants', 'Needs History' ]
 
 address: '1284 North Main St, Providence RI'
 latitude: '41.855296'
-longitude: '-71.4027172'
+longitude: '-71.4005285'
 gmap: "https://www.google.com/maps/place/1284+N+Main+St,+Providence,+RI+02904/@41.855296,-71.4027172,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444c0b6a9100f:0xd7e25bbe67d5db92!8m2!3d41.855296!4d-71.4005285"
 street: [ 'North Main St' ]
 street-number: 1284
@@ -73,6 +73,8 @@ images:
   - url: javaspeed-jh-2009-10-20.jpg
     sizes: '1200, 900'
 
+mostrecentimage: 2009-10-01
+
 imagescredit: 
 
 #external:
@@ -82,16 +84,16 @@ imagescredit:
 
 ### Reason for Closure
 
-Opened in 2002-2003, Javaspeed was at its core, a scooter sales and repair shop. Enthusiasts and new buyers made it one of the centers of the scooter universe in New England. The addition of the coffee bar and rotating selection of Pinball games made it a hang out as well. Riders would come by just to see other people in the community and use the parking lot as the meeting spot before rallies and events like the Wednesday night rides. 
+Opened in 2002-2003, Javaspeed was at its core, a scooter sales and repair shop. Enthusiasts and new buyers made it one of the centers of the scooter universe in New England. The addition of the coffee bar and rotating selection of Pinball games made it a hang out as well. Riders would come by just to see other people in the community and use the parking lot as the meeting spot before rallies and events like the Wednesday night rides.
 
-Javaspeed had a few strong years of sales when gas prices were at their highest — over $3 a gallon for some time in late 2006. The economic downturn that started in 2008, which slumped retail sales across all sectors and depressed gas prices as well, was the beginning of the demise of Javaspeed. Their last day open was October 31, 2010, and they had moved completely out of the space by December. 
+Javaspeed had a few strong years of sales when gas prices were at their highest — over $3 a gallon for some time in late 2006. The economic downturn that started in 2008, which slumped retail sales across all sectors and depressed gas prices as well, was the beginning of the demise of Javaspeed. Their last day open was October 31, 2010, and they had moved completely out of the space by December.
 
 
 ### Current Events
 
-The four-store retail block along North Main Street which housed Javaspeed is still there. Javaspeed has been replaced by a “Fit Body Bootcamp” business. 
+The four-store retail block along North Main Street which housed Javaspeed is still there. Javaspeed has been replaced by a “Fit Body Bootcamp” business.
 
-If you are a scooter enthusiast looking for repair services, one of the mechanics from Javaspeed started [Black Grease Cycles](//www.instagram.com/black_grease){:target="_blank"} which has a shop located in Pawtucket. 
+If you are a scooter enthusiast looking for repair services, one of the mechanics from Javaspeed started [Black Grease Cycles](https://www.instagram.com/black_grease) which has a shop located in Pawtucket.
 
 
 ### In the News
@@ -102,7 +104,7 @@ At the Providence shop, you can get a scooter and a cup of joe to go
 {:.o__lead}
 
 _by Laura Meade Kirk_  
-**[Providence Journal](//web.archive.org/web/20101205183500/http://www.projo.com/lifebeat/content/projo_20060226_browse26.2ec0bbf.html){:target="_blank"}** | February 26, 2006 (abridged)
+**Providence Journal** | February 26, 2006 (abridged)
 
 Patrick Engeman has an antidote to the high cost of gasoline: He sells scooters that get up to 80 miles per gallon. So they're perfect for commuting, or just tooling around town.
 
@@ -130,7 +132,7 @@ Javaspeed also sells clothing and accessories, from helmets and armored jackets 
 
 There aren’t nearly as many choices at the coffee bar, where plain coffee is $1.50 and espresso mocha is $4. There also are soft drinks and packaged pastries. But mostly there are just scooter owners and enthusiasts — and more of those than many would think. As Engeman said: “If you got bit by the scooter bug, you would start to notice scooters almost everywhere you look.”
 
-_Captured from a copy of the Providence Journal story on Archive.org, December 10, 2020. https://web.archive.org/web/20101205183500/http://www.projo.com/lifebeat/content/projo_20060226_browse26.2ec0bbf.html_
+— _Captured from a copy of the Providence Journal story on Archive.org, December 10, 2020. https://web.archive.org/web/20101205183500/http://www.projo.com/lifebeat/content/projo_20060226_browse26.2ec0bbf.html_
 
 ***
 
@@ -140,7 +142,7 @@ Move aside four-wheelers. On Wednesday nights, it's scooter time.
 {:.o__lead}
 
 _by Abigail Crocker_  
-**[Providence Phoenix](//web.archive.org/web/20091022131222/http://thephoenix.com/Providence/News/91439-Scooting-the-city){:target="_blank"}**  |  October 14, 2009
+**Providence Phoenix**  |  October 14, 2009
 
 The weekly ride, kick-started by Patrick Engeman, owner of North Main’s Javaspeed Scooters, draws about a dozen to two dozen riders. The assembled gear up behind the dealership/repair shop/coffee shop, strapping on helmets, leather, and eye protection. And then they ride.
 
@@ -174,4 +176,4 @@ And despite the occasional hassle, the riders get away with quite a bit. Though 
 
 “They chuckle at us and say, ‘What a weenie,’” said Ardizzone. “If I was driving a red sports car, they would pull me over.”
 
-_Captured from a copy of the Providence Phoenix story on Archive.org, December 10, 2020. https://web.archive.org/web/20091022131222/http://thephoenix.com/Providence/News/91439-Scooting-the-city_ 
+— _Captured from a copy of the Providence Phoenix story on Archive.org, December 10, 2020. https://web.archive.org/web/20091022131222/http://thephoenix.com/Providence/News/91439-Scooting-the-city_

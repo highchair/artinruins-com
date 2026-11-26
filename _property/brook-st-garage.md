@@ -13,7 +13,7 @@ date-added: '2022'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
 tags: [ 'Brown University', 'Demolition by Progress' ]
@@ -22,8 +22,8 @@ NRHP-ref-number: '70000019 (contributing & non)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '250 Brook St, Providence RI'
-latitude: '41.823517'
-longitude: '-71.3996452'
+latitude: '41.823516'
+longitude: '-71.399098'
 gmap: "https://www.google.com/maps/place/250+Brook+St,+Providence,+RI+02906/@41.823517,-71.3996452,19z/data=!3m1!4b1!4m5!3m4!1s0x89e4453b94a490db:0x70b9eecf48210dd3!8m2!3d41.823516!4d-71.399098"
 street: [ 'Brook St' ]
 street-number: 250
@@ -88,13 +88,13 @@ imagescredit: 'Contributions from WardMaps, Library of Congress, and Google'
 
 ### Reason for Demolition
 
-Brown University made its intentions clear about the fate of these properties starting in June of 2020. By November 2020 it listed for sale the twin houses on Charlesfield Street — each for $10 if you also paid the cost to move them to a new location. There were no buyers, as moving the houses is expensive and finding the land to drop them onto is even more expensive. Brown itself has moved a house or two itself when the pressure to demolish a building was too great. 
+Brown University made its intentions clear about the fate of these properties starting in June of 2020. By November 2020 it listed for sale the twin houses on Charlesfield Street — each for $10 if you also paid the cost to move them to a new location. There were no buyers, as moving the houses is expensive and finding the land to drop them onto is even more expensive. Brown itself has moved a house or two itself when the pressure to demolish a building was too great.
 
-Proposals went back and forth in front of the Historic District Commission (<span class="abbr">HDC</span>) as well as the Providence Preservation Society’s Planning & Architectural Review Committee (<span class="abbr">PAR</span>). The Commission voted a few times to continue the application, allowing time for Brown to revise its plan. An update in April removed the project from the purview of the <span class="abbr">HDC</span> by acquiring an adjacent property at 126 Power Street and removing the building footprint from the local historic district[^1]. [Read the timeline of events](//ppsri.org/advocacy/current-advocacy/brown-dorms-on-brook-street/){:target="_blank"} on the Preservation Society’s website. 
+Proposals went back and forth in front of the Historic District Commission (<span class="abbr">HDC</span>) as well as the Providence Preservation Society’s Planning & Architectural Review Committee (<span class="abbr">PAR</span>). The Commission voted a few times to continue the application, allowing time for Brown to revise its plan. An update in April removed the project from the purview of the <span class="abbr">HDC</span> by acquiring an adjacent property at 126 Power Street and removing the building footprint from the local historic district[^1]. [Read the timeline of events](https://ppsri.org/advocacy/current-advocacy/brown-dorms-on-brook-street/) on the Preservation Society’s website.
 
-[^1]: The western side of Brook Street was in the HDC district, which is not the same footprint as the College Hill Historic District. The western parcel’s southern area was under review, and any building that entered that parcel would be subject. Brown decided to circumvent this review by placing a pocket park on that side. Brown later purchased the eastern corner of the southern lot (was previously parking for the pink house). It should be noted that the College Hill district does not guarantee inclusion in the HDC review process. HDC is city-level protection. National Register districts are honorary and do not have any protections in place.  
+[^1]: The western side of Brook Street was in the HDC district, which is not the same footprint as the College Hill Historic District. The western parcel’s southern area was under review, and any building that entered that parcel would be subject. Brown decided to circumvent this review by placing a pocket park on that side. Brown later purchased the eastern corner of the southern lot (was previously parking for the pink house). It should be noted that the College Hill district does not guarantee inclusion in the HDC review process. HDC is city-level protection. National Register districts are honorary and do not have any protections in place.
 
-With that parliamentary move, Brown was free to proceed as they pleased with the design of the dorms and the demolition of three historically significant houses. Despite community pressure, they moved to evict well-liked businesses like Bagel Gourmet and further deplete Providence’s ever-shrinking tax base. Neighbors and groups including the Fox Point Neighborhood Association were none too pleased. Efforts have been made to find temporary space for Bagel Gourmet’s baking facility, but little was done to relocate other businesses. 
+With that parliamentary move, Brown was free to proceed as they pleased with the design of the dorms and the demolition of three historically significant houses. Despite community pressure, they moved to evict well-liked businesses like Bagel Gourmet and further deplete Providence’s ever-shrinking tax base. Neighbors and groups including the Fox Point Neighborhood Association were none too pleased. Efforts have been made to find temporary space for Bagel Gourmet’s baking facility, but little was done to relocate other businesses.
 
 
 ### Current Events
@@ -104,7 +104,7 @@ The site of these former buildings will become two new Brown University dorm bui
 
 ### History
 
-The Brook Street garage appears on the 1920 Sanborn map with a “T” shape to its site plan. The early building meets the street front on Brook Street. By 1956 the Brook street front of the building is cut back about fifteen feet. The blue line across the front indicates it was stone. After 1988 but before 1991, the back of the “T” (away from Brook Street) is demolished to make room for Brown University’s new student dorms (built in 1991). About half of the structure remained as original, but even that was heavily altered across the front façade. 
+The Brook Street garage appears on the 1920 Sanborn map with a “T” shape to its site plan. The early building meets the street front on Brook Street. By 1956 the Brook street front of the building is cut back about fifteen feet. The blue line across the front indicates it was stone. After 1988 but before 1991, the back of the “T” (away from Brook Street) is demolished to make room for Brown University’s new student dorms (built in 1991). About half of the structure remained as original, but even that was heavily altered across the front façade.
 
 It appears in the College Hill Historic District as “non-contributing”:
 
@@ -114,9 +114,9 @@ It appears in the College Hill Historic District as “non-contributing”:
 
 > 2 1/2-story, shingled frame, hip-roof double house, six bays deep with off-center entries under side porches on either flank. A hip roof that flares over the eaves, hip roof dormers and two-story bays are principal features of this eclectic Bungalow Queen Anne-influenced building.
 
-245-247 Brook street is listed in the College Hill Historic District as being built in 1895, though we do not see this represented in [1889-1900](//www.loc.gov/resource/g3774pm.g3774pm_g08099190002/?sp=32&r=0.057,0.502,0.959,0.474,0){:target="_blank"} or [1908](#photo-1908-ljrichards-01) cadastral maps: 
+245-247 Brook street is listed in the College Hill Historic District as being built in 1895, though we do not see this represented in [1889-1900](https://www.loc.gov/resource/g3774pm.g3774pm_g08099190002/?sp=32&r=0.057,0.502,0.959,0.474,0) or [1908](#photo-1908-ljrichards-01) cadastral maps: 
 
-> 2 1/2-story, clapboarded and shingled frame, end-gable-roof, two-family house, three bays wide, twin entries on the side. A portico with a center gable and Roman Doric columns and a 3-story bay with a gable roof with bracketed overhangs are principal features of this vernacular Queen Anne building. 
+> 2 1/2-story, clapboarded and shingled frame, end-gable-roof, two-family house, three bays wide, twin entries on the side. A portico with a center gable and Roman Doric columns and a 3-story bay with a gable roof with bracketed overhangs are principal features of this vernacular Queen Anne building.
 
 
 ### In the News
@@ -142,21 +142,21 @@ Faria has formed relationships and rapport with his customers over his many year
 
 While the Mini-Mart will be closed during the construction, Faria said he is interested in returning to the original 250 Brook St. location when the designated retail space is available.
 
-Bagel Gourmet, which has also leased the space from Brown for about 25 years, may relocate to a temporary location on campus, according to Clark. 
+Bagel Gourmet, which has also leased the space from Brown for about 25 years, may relocate to a temporary location on campus, according to Clark.
 
 “We have engaged in discussion with each tenant to support their relocation efforts, including discussion about potential relocation to other Brown-owned buildings,” Clark said. “We identified a location on campus for Bagel Gourmet to continue to bake its bagels in support of its other retail operations in Providence, including one in our medical school building.”
 
-Still, the loss of Brook Street’s Bagel Gourmet will be felt by students who often frequent the beloved bagel joint. 
+Still, the loss of Brook Street’s Bagel Gourmet will be felt by students who often frequent the beloved bagel joint.
 
 “It was basically a staple of my year last year because I would, before class, almost every day, go to Bagel Gourmet because it was so conveniently close,” said Charles Levy ’24. “It was very easily accessible from (Vartan Gregorian Quad) because it was right behind it, so I always felt like it was something I could rely on.” […]
 
-Faria also emphasized his partnership with the University, sharing his gratitude for its assistance throughout the COVID-19 pandemic. 
+Faria also emphasized his partnership with the University, sharing his gratitude for its assistance throughout the COVID-19 pandemic.
 
 “The last year and a half with COVID, we just got destroyed,” Faria said. “We had some government aid and cut our hours back. And (the University) reduced my rent tremendously … Without those things, I think I would’ve gone out a while ago. They’ve been really good to me.
 
 Still, Levy expresses regret at the demolition of the plaza. “I'm definitely sad because it was a big part of my freshman year,” Levy said. “I hope that somehow, hopefully the East Side Mini-Mart can move somewhere close by or be included as a bottom part of the new residence hall.”
 
-_Captured January 4, 2022 from https://www.browndailyherald.com/article/2021/09/east-side-mini-mart-to-close-in-bittersweet-farewell-as-university-makes-room-for-new-dorm_
+— _Captured January 4, 2022 from https://www.browndailyherald.com/article/2021/09/east-side-mini-mart-to-close-in-bittersweet-farewell-as-university-makes-room-for-new-dorm_
 
 ***
 
@@ -198,8 +198,6 @@ The university may decide, however, to buy out the leases before then, if money 
 
 “The decision was made … (to) bite the bullet and do it now,” Lynch said.
 
-—
-
-MINGIS, KEN. “Brown buys Brook St. business strip near dorm site.” Providence Journal (RI), CITY FINAL ed., sec. NEWS, 12 Oct. 1989, pp. B-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152524FE707CCFB0. Accessed 3 Jan. 2022.
+— _MINGIS, KEN. “Brown buys Brook St. business strip near dorm site.” Providence Journal (RI), CITY FINAL ed., sec. NEWS, 12 Oct. 1989, pp. B-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152524FE707CCFB0. Accessed 3 Jan. 2022._
 
 </details>

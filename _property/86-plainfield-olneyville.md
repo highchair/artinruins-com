@@ -20,9 +20,9 @@ lists: []
 tags: [ 'House', 'Still an Empty Lot' ]
 
 address: '86–90 Plainfield St, Providence RI'
-latitude: '41.815917'
-longitude: '-71.4456867'
-gmap: "https://www.google.com/maps/place/41%C2%B048'57.3%22N+71%C2%B026'42.2%22W/@41.815917,-71.4456867,18z/"
+latitude: '41.8157837'
+longitude: '-71.445001'
+gmap: "https://www.google.com/maps/place/86+Plainfield+St,+Providence,+RI+02909/@41.8159141,-71.4452155,130m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ4JzU3LjMiTiA3McKwMjYnNDQuNSJX!8m2!3d41.815917!4d-71.4456867!3m5!1s0x89e44591d4ed8acb:0x26360c427e9b6956!8m2!3d41.8157837!4d-71.445001!16s%2Fg%2F11cncdz33b?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "An almost 100-year old business in an even older building was hastily razed in 2021"

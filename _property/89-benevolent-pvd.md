@@ -22,9 +22,11 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '89 Benevolent St, Providence RI'
-latitude: '41.824859'
-longitude: '-71.3997498'
+latitude: '41.8248593'
+longitude: '-71.3986932'
 gmap: "https://www.google.com/maps/place/41%C2%B049'29.5%22N+71%C2%B023'55.3%22W/@41.824859,-71.3997498,19z/data=!3m1!4b1!4m14!1m7!3m6!1s0x89e4453b0b463e01:0xce21806ddb1fcab!2s89+Benevolent+St,+Providence,+RI+02906!3b1!8m2!3d41.8247154!4d-71.3987482!3m5!1s0x0:0x1ed46466245cc5e!7e2!8m2!3d41.8248593!4d-71.3986932"
+street: [ 'Benevolent St' ]
+street-number: 89
 
 meta: ""
 excerpt: "A narrow home that was once owned by antique collectors and caretakers of the Bannister House next door"

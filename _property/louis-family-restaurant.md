@@ -24,8 +24,8 @@ lists: []
 tags: [ 'Bars, Businesses, & Restaurants' ]
 
 address: '286 Brook St, Providence RI'
-latitude: '41.8246801'
-longitude: '-71.4006929'
+latitude: '41.8246562'
+longitude: '-71.3990943'
 gmap: "https://www.google.com/maps/place/286+Brook+St,+Providence,+RI+02906/@41.8246801,-71.4006929,17z/data=!4m6!3m5!1s0x89e4453b9e0de80b:0xe7817a72efa10321!8m2!3d41.8246562!4d-71.3990943!16s%2Fg%2F11b8z63f2n?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Brook St' ]
 street-number: 286
@@ -109,7 +109,7 @@ Arellano, a novelist and professor at Southern Oregon University, said he spent 
 
 “I knew I wanted to make it personal, and I knew the center of gravity had to be Louis Family Restaurant,” he said. “Those late teen, early 20s years are just hard. I didn’t know how to deal with the things I brought to Brown with me. I kind of needed a family, and [the restaurant] provided that.” […]
 
-— SMITH, ANDY. “Brown University 250 years | Life on College Hill told in 50 different voices.” <em>Providence Journal (RI)</em>, 1 ed., sec. Features, 25 May 2014, p. RISLANDER_03. <em>NewsBank: America’s News – Historical and Current</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15241EBA3349F588. Accessed 25 Jan. 2026.
+— _SMITH, ANDY. “Brown University 250 years | Life on College Hill told in 50 different voices.” Providence Journal (RI), 1 ed., sec. Features, 25 May 2014, p. RISLANDER_03. NewsBank: America’s News – Historical and Current, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15241EBA3349F588. Accessed 25 Jan. 2026._
 
 ***
 
@@ -146,7 +146,7 @@ There are daily board specials and it’s hard to believe this small place offer
 
 But everyone loves breakfast and there are as many versions of that as there names for this place. John Gianfrancesco surprised me by telling me about the Brown University students who appear at the door when they open at 5 a.m. If they’ve been up studying all night, they love an order of fish and chips to start the day. […]
 
-— CIAMPA, GAIL. “REVIEW  - Louis \| A place to satisfy hunger for the comforts of home.” <em>Providence Journal (RI)</em>, 1 ed., sec. Lifebeat, 17 June 2010, p. D11. <em>NewsBank: America’s News – Historical and Current</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/152423A642C620F8. Accessed 25 Jan. 2026.
+— _CIAMPA, GAIL. “REVIEW  - Louis \| A place to satisfy hunger for the comforts of home.” Providence Journal (RI), 1 ed., sec. Lifebeat, 17 June 2010, p. D11. NewsBank: America’s News – Historical and Current, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/152423A642C620F8. Accessed 25 Jan. 2026._
 
 ***
 
@@ -183,4 +183,4 @@ Bongiorno is a habitue of the diner, and he invited Louis to his senior art show
 
 Louis did not meddle with artistic expression and left the subject up to Bongiorno, who chose the Alaskan scene to “put a window on nature in the middle of all this concrete.” […]
 
-— KOTLYAR, VADIM. “Muralist copes with interruptions. Brown senior decorating diner now getting mostly support.” <em>Providence Journal (RI)</em>, CITY ed., sec. CITY LIFE, 30 Apr. 1986, pp. 0-01. <em>NewsBank: America’s News – Historical and Current</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525BCB04264EE28. Accessed 24 Jan. 2026.
+— _KOTLYAR, VADIM. “Muralist copes with interruptions. Brown senior decorating diner now getting mostly support.” Providence Journal (RI), CITY ed., sec. CITY LIFE, 30 Apr. 1986, pp. 0-01. NewsBank: America’s News – Historical and Current, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525BCB04264EE28. Accessed 24 Jan. 2026._

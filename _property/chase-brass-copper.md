@@ -13,15 +13,17 @@ date-added: '2022'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Demolition by Progress', 'Bars, Businesses, & Restaurants', 'Art Deco' ]
 
 address: '66 Branch Ave, Providence RI'
 latitude: '41.8435234'
-longitude: '-71.4113788'
+longitude: '-71.4091901'
 gmap: "https://www.google.com/maps/place/Benny's/@41.8435234,-71.4113788,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444e6d6789099:0x989ec143fc296b36!8m2!3d41.8435234!4d-71.4091901"
+street: [ 'Branch Ave' ]
+street-number: 66
 
 meta: ""
 excerpt: "A former industrial building converted to a Benny’s department store and then converted to a strip mall"
@@ -96,53 +98,53 @@ imagescredit: 'Contributions from the Library of Congress, <a href="http://www.h
 
 ### Reason for Demolition
 
-There are many reasons we — like most Rhode Islanders — think of Benny’s with fondness. We remember how they were part of the culture of Rhode Island — many news reports around a big winter snow storm would feature a video clip of customers snapping up shovels and rock salt from Benny’s. They were a local landmark. They were a local place to grab a wide variety of simple items for pretty cheap. A “hardware” store that also sold garden supplied, toys, bikes, cleaning supplies, auto supplies, and candy bars. 
+There are many reasons we — like most Rhode Islanders — think of Benny’s with fondness. We remember how they were part of the culture of Rhode Island — many news reports around a big winter snow storm would feature a video clip of customers snapping up shovels and rock salt from Benny’s. They were a local landmark. They were a local place to grab a wide variety of simple items for pretty cheap. A “hardware” store that also sold garden supplied, toys, bikes, cleaning supplies, auto supplies, and candy bars.
 
-In the late 2010s, Benny’s hit harder and harder times. Competition from nearby Home Depot and Lowe’s stores, plus the proliferation of CVS and Walgreens stories which sold many of the non-hardware items made it difficult for Benny’s to draw foot traffic. Their low price points made it difficult for them to make money — it was always about volume, but when you can’t get volume, you canÆt make money. They were seven years shy of their 100th birthday. 
+In the late 2010s, Benny’s hit harder and harder times. Competition from nearby Home Depot and Lowe’s stores, plus the proliferation of CVS and Walgreens stories which sold many of the non-hardware items made it difficult for Benny’s to draw foot traffic. Their low price points made it difficult for them to make money — it was always about volume, but when you can’t get volume, you canÆt make money. They were seven years shy of their 100th birthday.
 
 The last remaining store, on Putnam Pike in the Greenville section of Smithfield, closed its doors at 5 pm, Monday, December 11, 2017.[^1]
 
 [^1]: Anderson, Patrick. “Benny’s will close its last store on Monday.” Providence Journal: Web Edition Articles (RI), sec. News, 8 Dec. 2017. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/168B4F5C36703BC8. Accessed 1 Feb. 2022.
 
-Want to wear your love for Benny’s? Have you visited [VintageBennys.com](//vintagebennys.com){:target="_blank"}?
+Want to wear your love for Benny’s? Have you visited [VintageBennys.com](https://vintagebennys.com)?
 
 
 ### Current Events
 
-Procaccianti redeveloped and owns this strip mall parcel in which (in 2022) Chipotle, Hunt’s Photo/Video, jersey Mike’s Subs, and a Lifespan Urgent Care office is located. The nearby [Allens Printworks]({% link _property/allen-printworks.md %}) is still under redevelopment into medical office spaces. 
+Procaccianti redeveloped and owns this strip mall parcel in which (in 2022) Chipotle, Hunt’s Photo/Video, jersey Mike’s Subs, and a Lifespan Urgent Care office is located. The nearby [Allens Printworks]({% link _property/allen-printworks.md %}) is still under redevelopment into medical office spaces.
  
 
 ### History
 
-[In 1920](#photo-1920-sanborn-map-vol2-pl-77), smaller wood frame buildings are set on small lots. To the north, a Truck Tire Service Station exists. To the west is the [Allen Printworks]({% link _property/allen-printworks.md %}). In 1939, pretty much the same thing. On the corner of Dryden Lane appears the “White Motor Company” which later becomes the State Board of Elections building until 2019. 
+[In 1920](#photo-1920-sanborn-map-vol2-pl-77), smaller wood frame buildings are set on small lots. To the north, a Truck Tire Service Station exists. To the west is the [Allen Printworks]({% link _property/allen-printworks.md %}). In 1939, pretty much the same thing. On the corner of Dryden Lane appears the “White Motor Company” which later becomes the State Board of Elections building until 2019.
 
-By 1951, the **Chase Brass and Copper** building is in place. According to the Sanborn Maps, a portion of it is two-stories while the bulk of it is a single story warehouse. It is colored in blue, which means it is a cement block building, and a notation says it is brick-faced. The two-story portion is in the southeastern section of the building. In the more recent photos, we can see that [this portion had some Art Deco detailing](#photo-bennys-jh-2020-03-01) with an entrance set-off in concrete. Windows were rectangular and fenestration was sparse. 
+By 1951, the **Chase Brass and Copper** building is in place. According to the Sanborn Maps, a portion of it is two-stories while the bulk of it is a single story warehouse. It is colored in blue, which means it is a cement block building, and a notation says it is brick-faced. The two-story portion is in the southeastern section of the building. In the more recent photos, we can see that [this portion had some Art Deco detailing](#photo-bennys-jh-2020-03-01) with an entrance set-off in concrete. Windows were rectangular and fenestration was sparse.
 
-In the 1972 aerial photo nothing much has changed. A photo from 1981 is the same. Between 1981 and 1985 the Truck Tire Service Station has been demolished — its easier to see in the 1988 photo. The Benny’s store as we knew it starts to take shape as one story out-buildings are joined together to create one large building. 
+In the 1972 aerial photo nothing much has changed. A photo from 1981 is the same. Between 1981 and 1985 the Truck Tire Service Station has been demolished — its easier to see in the 1988 photo. The Benny’s store as we knew it starts to take shape as one story out-buildings are joined together to create one large building.
 
-We have not found too much about the Chase Brass and Copper company in Providence, but if they indeed the same, Chase Brass and Copper from Waterbury, Connecticut, was founded in 1876. Chase entered the consumer market with a line of chrome Art Deco household items in the 1930s, created by leading designers of the day such as Russel Wright, Rockwell Kent and Walter VonNessen.[^2] That would explain the Art Deco building they erected for themselves in likely the 1940s. 
+We have not found too much about the Chase Brass and Copper company in Providence, but if they indeed the same, Chase Brass and Copper from Waterbury, Connecticut, was founded in 1876. Chase entered the consumer market with a line of chrome Art Deco household items in the 1930s, created by leading designers of the day such as Russel Wright, Rockwell Kent and Walter VonNessen.[^2] That would explain the Art Deco building they erected for themselves in likely the 1940s.
 
-[^2]: Wikipedia, captured Febryary 2, 2022 from https://en.wikipedia.org/wiki/Chase_Brass_and_Copper_Company 
+[^2]: Wikipedia, captured February 2, 2022 from https://en.wikipedia.org/wiki/Chase_Brass_and_Copper_Company 
 
 #### Sources
 
-+ [1920-1921 Sanborn Map, Volume 2, Plate 77](//www.loc.gov/resource/g3774pm.g3774pm_g08099192102/?sp=84&r=0.259,0.229,0.921,0.441,0){:target="_blank"}
-+ [1939 G.M. Hopkins Map, Plate 24](http://www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/){:target="_blank"}
-+ [1920-1951 Sanborn Map, Volume 2, Plate 77](//www.loc.gov/resource/g3774pm.g3774pm_g08099195102/?sp=84&r=0.469,0.272,0.616,0.295,0){:target="_blank"}
-+ [1920-1956 Sanborn Map, Volume 2, Plate 77](//www.loc.gov/resource/g3774pm.g3774pm_g08099195602/?sp=78&r=0.51,0.332,0.522,0.25,0){:target="_blank"}
++ [1920-1921 Sanborn Map, Volume 2, Plate 77](https://www.loc.gov/resource/g3774pm.g3774pm_g08099192102/?sp=84&r=0.259,0.229,0.921,0.441,0)
++ [1939 G.M. Hopkins Map, Plate 24](http://www.historicmapworks.com/Map/US/895481/Plate+024/Providence+1937/Rhode+Island/)
++ [1920-1951 Sanborn Map, Volume 2, Plate 77](https://www.loc.gov/resource/g3774pm.g3774pm_g08099195102/?sp=84&r=0.469,0.272,0.616,0.295,0)
++ [1920-1956 Sanborn Map, Volume 2, Plate 77](https://www.loc.gov/resource/g3774pm.g3774pm_g08099195602/?sp=78&r=0.51,0.332,0.522,0.25,0)
 
 ***
 
 #### Benny’s History
 
-+ [Benny’s Origin Story — RI Monthly](//www.rimonthly.com/the-amazing-bennys-origin-story/){:target="_blank"}
-+ [Benny’s In East Greenwich, 1936-2017 — East Greenwich News](//eastgreenwichnews.com/bennys-in-east-greenwich-1936-2017/){:target="_blank"}
-+ [Benny’s — Wikipedia](//en.wikipedia.org/wiki/Benny%27s){:target="_blank"}
++ [Benny’s Origin Story — RI Monthly](https://www.rimonthly.com/the-amazing-bennys-origin-story/)
++ [Benny’s In East Greenwich, 1936-2017 — East Greenwich News](https://eastgreenwichnews.com/bennys-in-east-greenwich-1936-2017/)
++ [Benny’s — Wikipedia](https://en.wikipedia.org/wiki/Benny%27s)
 
 
 ### In the News
 
-There was plenty of news about Benny’s closing, but this story caught our eye as one of the reasons why we loved the store and the attitude of the owners. 
+There was plenty of news about Benny’s closing, but this story caught our eye as one of the reasons why we loved the store and the attitude of the owners.
 
 #### Benny’s “Biggest Little” ad much cooler
 
@@ -188,6 +190,4 @@ Bromberg said there’s obvious self-interest in the ad, which touts Benny’s a
 
 The ad features a diverse array of Rhode Islanders — including Sal Monteiro Jr. of the Institute for the Study & Practice of Nonviolence; Kobi Dennis of Project Night Vision; Sophia Academy students; comedian Frank O’Donnell and Big Blue Bug pest expert Tony DeJesus. […]
 
-—
-
-“COMMENTARY Benny’s ‘Biggest Little’ ad much cooler.” Providence Journal (RI), sec. RI News, 29 May 2016, p. 2. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15D2C768960081E0. Accessed 1 Feb. 2022.
+— _“COMMENTARY Benny’s ‘Biggest Little’ ad much cooler.” Providence Journal (RI), sec. RI News, 29 May 2016, p. 2. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15D2C768960081E0. Accessed 1 Feb. 2022._

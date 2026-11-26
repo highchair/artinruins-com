@@ -23,10 +23,11 @@ NRHP-ref-number: '709380013 (contributing)'
 added-to-NRHP: '1970'
 
 address: '21 Stevens St, Providence RI'
-latitude: '41.8359014'
-longitude: '-71.4132885'
+latitude: '41.835813'
+longitude: '-71.410713'
 gmap: "https://www.google.com/maps/place/Stevens+St,+Providence,+RI+02904/@41.8359014,-71.4132885,17z/data=!4m5!3m4!1s0x89e4451e814bc0e1:0x4808f6e0e84d5e65!8m2!3d41.8358894!4d-71.4113359"
 street: [ 'North Main St' ]
+street-number: 530
 
 meta: ""
 excerpt: "An amazingly dense complex of mill structures dating from the mid-1800s and in use for over 100 years before succumbing to two large fires in the midst of plans to redevelop"

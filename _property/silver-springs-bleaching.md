@@ -15,13 +15,13 @@ designers: [  ]
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'Providence Industrial Sites 1981' ]
 tags: [ 'Demolition by Progress' ]
 
-address: '387 Charles Street, Providence RI'
+address: '387 Charles St, Providence RI'
 latitude: '41.843616'
-longitude: '-71.4197507'
+longitude: '-71.417562'
 gmap: "https://www.google.com/maps/place/387+Charles+St,+Providence,+RI+02904/@41.843616,-71.4197507,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444e3493afc07:0xa3e2793a0f30bffb!8m2!3d41.843616!4d-71.417562"
 
 meta: ""
-excerpt: "An early demolition of a large mill complex that flew under the radar in the early 2000s. Replaced by a Home Depot shopping center."
+excerpt: "An early demolition of a large mill complex that flew under the radar in the early 2000s. Replaced by a Home Depot shopping center"
 
 thumbnail: silver-spring-thumb.jpg
 
@@ -139,6 +139,4 @@ The company also burns recycled oil in a plant in the old boiler building, and p
 
 “When they talk about the recession, the guy who’s going to be hardest hit is on the guy leasing on the high end,” Andrew said.
 
-—
-
-DAVIS, PAUL. “Brothers keep costs down at Silver Spring.” Providence Journal (RI), ALL ed., sec. REAL ESTATE, 24 Dec. 1989, pp. G-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525257A2543EEA8. Accessed 29 Dec. 2021.
+— _DAVIS, PAUL. “Brothers keep costs down at Silver Spring.” Providence Journal (RI), ALL ed., sec. REAL ESTATE, 24 Dec. 1989, pp. G-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1525257A2543EEA8. Accessed 29 Dec. 2021._

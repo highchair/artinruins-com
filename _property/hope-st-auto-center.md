@@ -11,14 +11,16 @@ date-added: '2002'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Gas Station & Auto Repair', 'Art Deco', 'Needs History', 'Demolition by Progress' ]
 
-address: '783 Hope Street, Providence RI'
+address: '783 Hope St, Providence RI'
 latitude: '41.8481787'
 longitude: '-71.3954661'
-gmap: "//www.google.com/maps/place/783+Hope+St,+Providence,+RI+02906/@41.8481787,-71.3954661,19z"
+gmap: "https://www.google.com/maps/place/783+Hope+St,+Providence,+RI+02906/@41.8481787,-71.3954661,19z"
+street: [ 'Hope St' ]
+street-number: 783
 
 meta: ""
 excerpt: "A sweet little simple Art Deco brick gas station in the middle of the Hope Street commercial district. Probably contaminated and hard to subdivide, so it came down."
@@ -70,6 +72,6 @@ An unassuming little gas station which hasn’t sold gas since what might have b
 
 ### Current Events
 
-By March the new steel structure was up. It took until August for businesses to move in. The new cinder block box has no charm or architectural details, and its parking lot in front is out of character with the rest of Hope Street, aside from the gas stations. A charming structure came down for a bland box, and sure, the retailers there are doing well now, and the repair shop might have been harder to subdivide, but must everything new we build be so bland? Utilitarian is one thing, but ugly is quite another, especially in the quaintly-coined “Hope Village”. 
+By March the new steel structure was up. It took until August for businesses to move in. The new cinder block box has no charm or architectural details, and its parking lot in front is out of character with the rest of Hope Street, aside from the gas stations. A charming structure came down for a bland box, and sure, the retailers there are doing well now, and the repair shop might have been harder to subdivide, but must everything new we build be so bland? Utilitarian is one thing, but ugly is quite another, especially in the quaintly-coined “Hope Village”.
 
-That a great building and business like Seven Stars started in what was a former gas station should have made someone think twice about razing this cute little structure. The bland cinder-block replacement building is home to Citi Nails, Apsara Palace, and On the Go Laundromat. 
+That a great building and business like Seven Stars started in what was a former gas station should have made someone think twice about razing this cute little structure. The bland cinder-block replacement building is home to Citi Nails, Apsara Palace, and On the Go Laundromat.

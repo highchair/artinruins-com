@@ -12,13 +12,13 @@ date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'North Main Street Commercial Corridor' ]
 tags: [ 'Demolition by Neglect', 'Needs History' ]
 
 address: '1320 North Main St, Providence RI'
-latitude: '41.8560174'
-longitude: '-71.4026579'
+latitude: '41.856785'
+longitude: '-71.400294'
 gmap: "https://www.google.com/maps/place/1320+N+Main+St,+Providence,+RI"
 street: [ 'North Main St' ]
 street-number: 1320
@@ -79,9 +79,9 @@ Previously, this former department store had been vacant since at least 1993. (A
 
 ### Current Events
 
-This lot is now part of the parking lot of the LA Fitness gym just over the line in Pawtucket. 
+This lot is now part of the parking lot of the LA Fitness gym just over the line in Pawtucket.
 
 
 ### History
 
-No formal history. The building shows up in an aerial photo from 1951-52. Previous to that it was a different building. This section of North Main Street on the Pawtucket line is difficult to find on Sanborn Maps. A Sanborn map from 1908 shows the Union Rail Road Company “Car Barn” at approximately this location. 
+No formal history. The building shows up in an aerial photo from 1951-52. Previous to that it was a different building. This section of North Main Street on the Pawtucket line is difficult to find on Sanborn Maps. A Sanborn map from 1908 shows the Union Rail Road Company “Car Barn” at approximately this location.

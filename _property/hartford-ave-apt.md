@@ -11,17 +11,19 @@ date-added: '2003'
 categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'Silver Lake' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Concrete', 'Needs History' ]
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '375 Hartford Avenue, Providence RI'
-latitude: '41.8180262'
-longitude: '-71.4571024'
-gmap: "https://www.google.com/maps/place/375+Hartford+Ave,+Providence,+RI+02909/@41.8180262,-71.4571024,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445ed44e150dd:0xe4d0e05282b522c4!8m2!3d41.8180262!4d-71.4549137"
+address: '375 Hartford Ave, Providence RI'
+latitude: '41.8184783'
+longitude: '-71.4563058'
+gmap: "https://www.google.com/maps/place/2+Whelan+Rd,+Providence,+RI+02909/@41.8182676,-71.4563764,170m/data=!3m1!1e3!4m6!3m5!1s0x89e445ed7481349d:0x92798b83c877af7d!8m2!3d41.8184783!4d-71.4563058!16s%2Fg%2F11c4zflxrq?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Hartfortd Ave' ]
+street-number: 375
 
 meta: ""
 excerpt: "A mid-century housing complex that survived the blast intended to take it down."
@@ -85,6 +87,8 @@ imagescredit: 'Photos by Tucker, Gary Buttenbaum, Gemma, and aerials from the Pr
 
 ### Reason for Demolition
 
-The Hartford Avenue Apartment 10-story high rise had 60 three-bedroom units, intended for families with children. It was built during an urban renewal boom in the 1950s. Solid concrete walls, floors, and ceilings. The city was unhappy with the crime and problems with tenants later in its life and wanted it gone. As one anecdote put it: “Stephen O’Rourke of the Providence Housing Authority testified in court that this building was in danger of falling over from a 30 mile wind gust.” Well, a dynamite blast in 1989 did not take it down. 
+The Hartford Avenue Apartment 10-story high rise had 60 three-bedroom units, intended for families with children. It was built during an urban renewal boom in the 1950s. Solid concrete walls, floors, and ceilings. The city was unhappy with the crime and problems with tenants later in its life and wanted it gone. As one anecdote put it: “Stephen O’Rourke of the Providence Housing Authority testified in court that this building was in danger of falling over from a 30 mile wind gust.” Well, a dynamite blast in 1989 did not take it down.
 
 A demolition company wired the first floor with blasts at designated structural locations. As these typically go, once the supports on the first floor are blown out, the weight of the other floors crashing down 8-10 feet implode the entire building. A wiring mishap meant that only half of the structural supports on the first floor were blown out, and the building listed to one side instead. The fall destroyed the safety and integrity of the building but it failed to implode. They later took it down slowly with a wrecking ball over three months.
+
+Anecdotes below tell a different story. The housing complex was never great to begin with, and there are other examples of government built 1950s and 1960s housing that made people feel like they were an afterthought. This was one of those examples.

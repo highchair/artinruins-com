@@ -11,14 +11,14 @@ date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Demolition by Neglect', 'Demolition by Fire', 'Former/Current Power Plant', 'Still an Empty Lot' ]
 
-address: '150 Esten Street, Pawtucket RI'
-latitude: '41.8616731'
-longitude: '-71.4040973'
-gmap: "https://www.google.com/maps/place/150+Esten+Ave,+Pawtucket,+RI+02860/@41.8616731,-71.4040973,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444be9854f45d:0x4c0f5656784a16b0!8m2!3d41.8616731!4d-71.4019086"
+address: '150 Esten St, Pawtucket RI'
+latitude: '41.863400'
+longitude: '-71.402263'
+gmap: "https://www.google.com/maps/place/41%C2%B051'42.0%22N+71%C2%B024'06.9%22W/@41.8625681,-71.4029674,243m/data=!3m1!1e3!4m4!3m3!8m2!3d41.8616731!4d-71.4019086?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "The iconic “HOPE” sign rose off the roof of a mill building as you drove north on 95 until a fire devastated it in 2004."
@@ -109,21 +109,21 @@ imagescredit: Contributions by Michael Knapp
 
 ### Reason for Demolition
 
-Hope Webbing closed down the facility on Main Street and moved to Cumberland in 1995. The holding company for the property, Erco, went into receivership in 1998. That means that this boiler room building had been sitting unmaintained for around 10 years before a suspicious fire broke out in 2004. Meanwhile, the larger former Hope Webbing and School House Candy was undergoing a real estate deal that would rehabilitate the complex into small business and living spaces. 
+[Hope Webbing]({% link _property/hope-webbing-pwt.md %}) closed down the facility on Main Street and moved to Cumberland in 1995. The holding company for the property, Erco, went into receivership in 1998. That means that this boiler room building had been sitting unmaintained for around 10 years before a suspicious fire broke out in 2004. Meanwhile, the larger former Hope Webbing and School House Candy was undergoing a real estate deal that would rehabilitate the complex into small business and living spaces.
 
-The boiler building was connected to back of Hope Webbing, also know as School House Candy, via a tunnel under Esten Avenue. This would gave carried hot water from the boiler building into the larger one for heat. Chemicals stored on site made the fire burn quickly and very, very hot. The structure was heavily damaged as the roof and walls collapsed. 
+The boiler building was connected to the back of Hope Webbing, also know as School House Candy, via a tunnel under Esten Avenue. This would have carried hot water from the boiler building into the larger one for heat. Chemicals stored on site made the fire burn quickly and very, very hot. The structure was heavily damaged as the roof and walls collapsed.
 
 
 ### Current Events
 
-The area where the building once stood is a larking lot for the larger complex and the retaining wall remains. 
+The area where the building once stood is a parking lot for the larger complex and only the retaining wall remains.
 
 
 ### History
 
-The Hope boiler building was somewhat of an icon that could be seen off of I-95 North — its wrought iron “HOPE” sign encircled on the roof. The building looked as though it had been boarded up for a very long time. I imagine it stopped being a working boiler supply facility for many years, as smaller heating units could have been used in the buildings that it served. All the other buildings around it were not in beautiful shape, but they were in use either as studios or as light manufacturing spaces until they were completely redeveloped in 2006–2010.
+The Hope boiler building was somewhat of an icon that could be seen off of I-95 North — its wrought-iron “HOPE” sign encircled on the roof. The building looked as though it had been boarded up for a very long time. I imagine it stopped being a working boiler supply facility for many years, as smaller heating units could have been used in the buildings that it served. All the other buildings around it were not in beautiful shape, but they were in use either as studios or as light manufacturing spaces until they were completely redeveloped in 2006–2010.
 
-The architectural details themselves were very nice. The building must have gotten a tremendous amount of light, but unfortunately all windows seemed to be boarded or bricked up. Granite sills and arched lintels were prevalent throughout. The windows used to be 2 sets of six lights on top, and nine on the bottom. The ground floor windows on the highway side must have been at least 15 feet high to accommodate the boilers inside. A large corrugated steel shed contained two large oil tanks. The U-shaped complex had mainly flat roofs, no tower, but a large smoke stack. 
+The architectural details themselves were very nice. The building must have gotten a tremendous amount of light, but unfortunately all windows seemed to be boarded or bricked up. Granite sills and arched lintels were prevalent throughout. The windows used to be 2 sets of six lights on top, and nine on the bottom. The ground floor windows on the highway side must have been at least 15 feet high to accommodate the boilers inside. A large corrugated steel shed contained two large oil tanks. The U-shaped complex had mainly flat roofs, no tower, but a large smoke stack.
 
 
 ### In the News

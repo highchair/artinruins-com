@@ -17,9 +17,9 @@ lists: [ 'Did You Know?' ]
 tags: [ 'Rhode Island Black Heritage', 'Sports Entertainment', 'The Superlatives' ]
 superlative: 'With a capacity of 13,000 spectators, it was the largest bicycle track in the country during the 1920s'
 
-address: '50 Ann Mary Street, Pawtucket RI'
-latitude: '41.85611'
-longitude: '-71.4037581'
+address: '50 Ann Mary St, Pawtucket RI'
+latitude: '41.856207'
+longitude: '-71.402793'
 gmap: "https://www.google.com/maps/search/maps.google.com+north+main+street/@41.85611,-71.4037581,17z"
 street: [ 'North Main St' ]
 
@@ -56,7 +56,7 @@ images:
     caption: 'The map is overlaid an aerial photograph from 1939 at 33% opacity'
     sizes: '1073, 671'
 
-imagescredit: Various sources. Playbill from <a href="//m.antiquesportsshop.com/footballprograms.html" target="_blank">AntiqueSportsShop.com</a>, insurance map from <a href="//www.historicmapworks.com">HistoricMapWorks</a>
+imagescredit: Various sources. Playbill from <a href="https://m.antiquesportsshop.com/footballprograms.html">AntiqueSportsShop.com</a>, insurance map from <a href="https://www.historicmapworks.com">HistoricMapWorks</a>
 ---
 
 ### Quick History
@@ -86,14 +86,14 @@ In bullet points:
 
 
 **Sources**
-+ [The Pro Football Hall of Fame](//www.profootballhof.com/news/nfl-s-first-night-game/){:target="_blank"}
-+ [Cyclodrome on Wikipedia](//en.wikipedia.org/wiki/Cycledrome){:target="_blank"}
-+ [Providence Steamroller on Wikipedia](//en.wikipedia.org/wiki/Providence_Steamrollers_(NFL)){:target="_blank"}
++ [The Pro Football Hall of Fame](https://www.profootballhof.com/news/nfl-s-first-night-game/)
++ [Cyclodrome on Wikipedia](https://en.wikipedia.org/wiki/Cycledrome)
++ [Providence Steamroller on Wikipedia](https://en.wikipedia.org/wiki/Providence_Steamrollers_(NFL))
 
 #### We support and admire the Weird Island podcast! 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/5d5d377c-cd84-47bb-bf53-5fe66fc2ae02?dark=false"></iframe>
 
-Visit on the web: [Weird Island Episode 59: Cycledrome and the First New England NFL Champions](//weird-island.simplecast.com/episodes/59-cycledrome-and-the-first-new-england-nfl-champions)
+Visit on the web: [Weird Island Episode 59: Cycledrome and the First New England NFL Champions](https://weird-island.simplecast.com/episodes/59-cycledrome-and-the-first-new-england-nfl-champions)
 
 
 ### Essay
@@ -175,4 +175,4 @@ Today, virtually no memory of the original Cyclodrome exists. Photos of the site
 
 ### Correction/Retraction
 
-A previous version of this article used a photo of the Cranston Open-Air Cycledrome in 1919, located at 721 Reservoir Avenue, by mistake. Similar, but not the Providence Cycledrome. We regret the error but thank [Dash Bicycle Shop](//www.dashbicycle.com){:target="_blank"} for the correction. The photo can be seen on the [Providence Journal’s Facebook page in a post from 2012](//www.facebook.com/ProvidenceJournal/photos/p.418768288159541/418768288159541/?type=1&theater){:target="_blank"}. 
+A previous version of this article used a photo of the Cranston Open-Air Cycledrome in 1919, located at 721 Reservoir Avenue, by mistake. Similar, but not the Providence Cycledrome. We regret the error but thank [Dash Bicycle Shop](https://www.dashbicycle.com) for the correction. The photo can be seen on the [Providence Journal’s Facebook page in a post from 2012](https://www.facebook.com/ProvidenceJournal/photos/p.418768288159541/418768288159541/?type=1&theater). 
