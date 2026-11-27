@@ -14,16 +14,16 @@ date-added: '2011'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'College Properties', 'RISD', 'Still an Empty Lot', 'Yellow brick' ]
 
 NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
-address: '14-20 Congdon Street, Providence RI'
+address: '14-20 Congdon St, Providence RI'
 latitude: '41.8282163'
-longitude: '-71.4091191'
+longitude: '-71.4069304'
 gmap: "https://www.google.com/maps/place/14+Congdon+St,+Providence,+RI+02906/@41.8282163,-71.4091191,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44517f77fcd97:0x9dbdda52fe5eee0d!8m2!3d41.8282163!4d-71.4069304"
 
 meta: ""
@@ -95,7 +95,7 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 
 ***
 
-_From [Wikipedia’s page](https://en.wikipedia.org/wiki/Royal_B._Farnum) on Royal B. Farnum (captured August 2011)_
+_From [Wikipedia’s page on Royal B. Farnum ](https://en.wikipedia.org/wiki/Royal_B._Farnum)(captured August 2011)_
 
 Royal Bailey Farnum (11 June 1884 – 28 August 1967) was an American art educator who served in administrative roles in various public and private educational institutions in Massachusetts, New York, Ohio, and Rhode Island during the first half of the 20th Century.
 
@@ -125,10 +125,10 @@ Within the context of <span class="abbr">RISD</span> planning, Farnum has long b
 
 Farnum sits directly atop a train tunnel, and over time, the foundation has cracked. As a result, the renovation would involve completely dismantling the building, fixing the foundation, and rebuilding it, which, according to Silva, is not practical. “It would mean going in and literally fixing all of the elements that are now broken, in addition to upgrading to the proper code required dimension of things.”
 
-With that in mind, last summer <span class="abbr">RISD</span> began Farnum’s application for demolition, holding several meetings with the Providence Historic District Commission and the Providence Preservation Society [PPS] to review Farnum before gaining approval for demolition. RISD alumnus and current Executive Director of PPS, James Hall, shared some concerns about demolishing Farnum.
+With that in mind, last summer <span class="abbr">RISD</span> began Farnum’s application for demolition, holding several meetings with the Providence Historic District Commission and the Providence Preservation Society (<span class="abbr">PPS</span>) to review Farnum before gaining approval for demolition. RISD alumnus and current Executive Director of <span class="abbr">PPS</span>, James Hall, shared some concerns about demolishing Farnum.
 
-James Hall reflected on <span class="abbr">RISD</span>’s proposal to knock Farnum down, “The building was expensive to maintain, didn’t meet their [<span class="abbr">RISD</span>’s] needs, was in bad condition, and it was based on these issues that we said, ‘Okay, we won’t stand in your way.’” Hall however did describe some issues that PPS has with knocking Farnum down, “What are you [<span class="abbr">RISD</span>] going to use the spot for instead?” Hall added, “We are concerned about the experience of people walking around the city. We don’t want people having to walk next to parking lots, we want the street edge to be defined.” In meetings that took place, PPS requested that <span class="abbr">RISD</span> present a fully worked out landscape plan that showed how the space was going to be developed.
+James Hall reflected on <span class="abbr">RISD</span>’s proposal to knock Farnum down, “The building was expensive to maintain, didn’t meet their [<span class="abbr">RISD</span>’s] needs, was in bad condition, and it was based on these issues that we said, ‘Okay, we won’t stand in your way.’” Hall however did describe some issues that <span class="abbr">PPS</span> has with knocking Farnum down, “What are you [<span class="abbr">RISD</span>] going to use the spot for instead?” Hall added, “We are concerned about the experience of people walking around the city. We don’t want people having to walk next to parking lots, we want the street edge to be defined.” In meetings that took place, <span class="abbr">PPS</span> requested that <span class="abbr">RISD</span> present a fully worked out landscape plan that showed how the space was going to be developed.
 
 At the moment there is no long-term plan as to what Farnum’s future will be. For now, the plan is to turn Farnum Hall into an open space. Raj Bellani, Associate Provost for Student Affairs, described its immediate future as a space for open critiques, a sculpture space, and a reflection space for students. School administrators are considering a variety of options for Farnum and what it could turn into in the more distant future. Bellani referred to Farnum, “The hope is that we will be going through in the future processes to think about what <span class="abbr">RISD</span> 2025 to what <span class="abbr">RISD</span> looks like in 2015,” he continued, “It [Farnum] could be a lot, the expansion of classrooms or studio space, it could be new housing options. There is no prescribed plan.” Bellani did however suggest ways for students and staff to get involved. “Gathering input from our current student community, from our faculty, from our staff will help define it’s future.”
 
-It is undecided as to how or who will choose what happens to the Farnum space.  For now there is no final say on how the space will be developed. Bellani states, “I  can’t wait to see what our community will come up with.”
+It is undecided as to how or who will choose what happens to the Farnum space. For now there is no final say on how the space will be developed. Bellani states, “I  can’t wait to see what our community will come up with.”

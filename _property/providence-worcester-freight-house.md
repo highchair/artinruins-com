@@ -22,9 +22,11 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: 'Approximately 125 Canal St, Providence RI'
-latitude: '41.8271901'
-longitude: '-71.4108374'
+latitude: '41.827186'
+longitude: '-71.410188'
 gmap: "https://www.google.com/maps/place/41%C2%B049'37.9%22N+71%C2%B024'36.7%22W/@41.8271901,-71.4108374,19.01z/data=!4m13!1m8!3m7!1s0x89e44519703e5ba1:0x7dc53c769f484831!2sN+Main+St+%26+Canal+St,+Providence,+RI+02904!3b1!8m2!3d41.8320424!4d-71.4112806!16s%2Fg%2F11hb42dsgz!3m3!8m2!3d41.827186!4d-71.410188?entry=ttu"
+street: [ 'Canal St' ]
+street-number: 125
 
 meta: ""
 excerpt: "This freight house was part of one of the first major railroad stations in America and one of the few only surviving structures of its architect Thomas A. Tefft"
@@ -81,7 +83,7 @@ images:
     caption: '2024 Providence Historical Aerial Viewer'
     sizes: '1600, 1200'
 
-imagescredit: 'Contributions from the Library of Congress <a href="//www.loc.gov/pictures/collection/hh/item/ri0345/">HABS/HAER Surveys</a>, the Maps Division, and the Providence Public Library'
+imagescredit: 'Contributions from the Library of Congress <a href="https://www.loc.gov/pictures/collection/hh/item/ri0345/">HABS/HAER Surveys</a>, the Maps Division, and the Providence Public Library'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -116,7 +118,7 @@ Multiple openings on both the east and west side of the structure allowed freigh
 
 The building had been extensively altered before its demolition in 1973. The northern end received an addition of corregated (_sic_) metal. A railroad viaduct had been cut through the middle of the south wing extensively altering the roofline of the structure, windows had been rebuilt or boarded up and a floor had been built over the railroad tracks that ran through the building.
 
-_Noted as “Condensed from National Register of Historic Places nomination form prepared by Clifford B. Renchaw, III (surveyor-researcher) and Richard B. Harrington (Consultant)” though we have been unable to find the complete National Register nomination form._
+— _Noted as “Condensed from National Register of Historic Places nomination form prepared by Clifford B. Renchaw, III (surveyor-researcher) and Richard B. Harrington (Consultant)” though we have been unable to find the complete National Register nomination form._
 
 
 #### Maps
@@ -171,6 +173,4 @@ As for the area north of Park Row, where the last Tefft railroad structure used 
 
 While he can’t speculate what exactly will happen, DiStefano said he’s sure it will happen before the end of the century.
 
-—
-
-BREED, DONALD D. “P&W official demolished past to move river.” Providence Journal (RI), ALL ed., sec. REAL ESTATE, 21 June 1992, pp. G-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525B82CE9881480. Accessed 20 Mar. 2024.
+— _BREED, DONALD D. “P&W official demolished past to move river.” Providence Journal (RI), ALL ed., sec. REAL ESTATE, 21 June 1992, pp. G-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525B82CE9881480. Accessed 20 Mar. 2024._

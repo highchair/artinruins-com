@@ -15,7 +15,7 @@ date-added: '2023'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
 tags: [ 'House', 'David Lawlor', 'Demolition by Speculation' ]
@@ -24,9 +24,9 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '209–217 Angell St, Providence RI'
-latitude: '41.8278401'
-longitude: '-71.3991829'
-gmap: "https://www.google.com/maps/place/209+Angell+St,+Providence,+RI+02906/@41.8278401,-71.3991829,156m/data=!3m1!1e3!4m6!3m5!1s0x89e44524bc139a17:0x28afbcdd80c0615e!8m2!3d41.82805!4d-71.3992204!16s%2Fg%2F11bw420vsr?entry=ttu"
+latitude: '41.8280919'
+longitude: '-71.3990554'
+gmap: "https://www.google.com/maps/place/211+Angell+St,+Providence,+RI+02906/@41.8278472,-71.3996415,19.2z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzQwLjIiTiA3McKwMjMnNTcuMSJX!8m2!3d41.8278401!4d-71.3991829!3m5!1s0x89e44524be8dccab:0x93874177f0f7d340!8m2!3d41.8280919!4d-71.3990554!16s%2Fg%2F11bw40hm6k?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Angell St' ]
 
 meta: ""
@@ -118,7 +118,7 @@ images:
     caption: 'Looking across the street from Brook, empty now all the way to the Vedanta Society'
     sizes: '1440, 900'
 
-imagescredit: 'Drone photos by David Lawlor, aka <a href="https://runofthemill.shop">Run of the Mill</a>'
+imagescredit: 'Drone photos by David Lawlor, aka <a href="https://www.runofthemillfilms.com/">Run of the Mill</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -133,7 +133,7 @@ We feel that a future developer will have an easier time constructing new apartm
 
 Let us also say that developers in this area have been given a pass to do whatever they want. It bears repeating that [in 10 years, the four blocks bounded by Angell, Brook, Cushing, and Thayer Streets saw the loss of almost 30 late-19th century houses]({% link _essays/erosion-of-college-hill-historic-district.md %}) and the conversion of 3 more away from historic status. At this point, demolishing another three homes continues the trend of loss and a pivot away from a historic neighborhood.
 
-For opinion, we side with Nina Tannenwald, a board member of the Wayland Square Neighborhood Association. Her op-ed in the Providence Journal was penned in 2020, around the time when the second Smart Hotel proposal came before the City Plan Commission. We’ll let her words stand: 
+For opinion, we side with Nina Tannenwald, a board member of the Wayland Square Neighborhood Association. Her op-ed in the Providence Journal was penned in 2020, around the time when the second Smart Hotel proposal came before the City Plan Commission. We’ll let her words stand:
 
 > Back on the agenda at the Providence City Plan Commission on Tuesday is a controversial hotel project proposed for the corner of Angell and Brook streets on the East Side. The project would involve demolishing three historic houses at 209-217 Angell St. and replacing them with a 118-room hotel/restaurant complex. The developers are Ed Bishop, longtime local real estate agent and owner of the three houses, and Smart Hotels LLC, an out-of-town developer who builds hotels in college towns. […]
 
@@ -171,13 +171,13 @@ _From the College Hill Historic District nomination form, Edward F. Sanderson & 
 _by Luis Hernandez_  
 **The Public’s Radio** | November 16, 2023 (abridged)
 
-**Luis Hernandez**: What’s so important, what's so special about these three houses? 
+**Luis Hernandez**: What’s so important, what's so special about these three houses?
 
-**John Goncalves**: Well, I, I think they’re historic in nature. They’re not in a historic district overlay, per se. But they’ve been around for quite some time. And I think one of the challenges that we’re experiencing just broadly is the degradation of historic homes across the city of Providence. Historic preservation is incredibly important. Obviously, we need to grow as a city. We need to address our tax base. We have to address affordability in the city, and that is going to require more building. But unfortunately, when you demolish properties, you’re just taking units off the, off the market. And also it just, it just leaves a, black eye on the neighborhood. 
+**John Goncalves**: Well, I, I think they’re historic in nature. They’re not in a historic district overlay, per se. But they’ve been around for quite some time. And I think one of the challenges that we’re experiencing just broadly is the degradation of historic homes across the city of Providence. Historic preservation is incredibly important. Obviously, we need to grow as a city. We need to address our tax base. We have to address affordability in the city, and that is going to require more building. But unfortunately, when you demolish properties, you’re just taking units off the, off the market. And also it just, it just leaves a, black eye on the neighborhood.
 
-**Hernandez**: There’s still a pitch or an idea to put apartments or a hotel or retail in that spot. I’m just wondering, what do you, what do you know about, they want to demolish the site, they want to demolish these three buildings, and then what?  
+**Hernandez**: There’s still a pitch or an idea to put apartments or a hotel or retail in that spot. I’m just wondering, what do you, what do you know about, they want to demolish the site, they want to demolish these three buildings, and then what?
 
-**Goncalves**: Well, that’s, that’s the thing. There is no plan. So currently there are no plans before the Providence Planning Department, which would, it’s a, it’s a department that would know if there were proposed developments on these … particular lots. … So that’s another issue here. We don’t want to have an empty lot here. That would just leave a scar on the neighborhood, and that needs to be addressed. There needs to be transparency as to what, what is the plan? And certainly stakeholders deserve to know, because razing these properties without any transparency especially to local neighbors and stakeholders is absolutely unacceptable. 
+**Goncalves**: Well, that’s, that’s the thing. There is no plan. So currently there are no plans before the Providence Planning Department, which would, it’s a, it’s a department that would know if there were proposed developments on these … particular lots. … So that’s another issue here. We don’t want to have an empty lot here. That would just leave a scar on the neighborhood, and that needs to be addressed. There needs to be transparency as to what, what is the plan? And certainly stakeholders deserve to know, because razing these properties without any transparency especially to local neighbors and stakeholders is absolutely unacceptable.
 
 That’s the thing. There is no plan. We don’t want to have an empty lot here.
 {:.o__pull-quote}
@@ -190,9 +190,7 @@ That’s the thing. There is no plan. We don’t want to have an empty lot here.
 
 **Goncalves**: Well, what we want to ensure happens is that the stakeholders particularly the neighbors in this neighborhood are kept abreast of what the plans are moving forward. … This is a highly traversed street. It’s in close proximity to a school, in fact. So whether it’s dust, debris, the airborne particles that are, that are coming from this demolition site, the folks who are in the immediate area, the abutters need to be notified as to when that is going to happen. And that’s to ensure everyone’s safety. Moving forward, if there are any potential plans that will be filed with the city, it’s incumbent on the folks who are behind this LLC to make those plans be known, and to be transparent about what the plans are. I think people in their respective neighborhoods deserve to know what’s going to happen in their backyards. And that’s what we’re going to ensure moving forward.
 
-—
-
-Hernandez, Luis. “Providence city councilor wants to save three historic College Hill homes from demolition.” The Public’s Radio, 16 November 2023. Captured 20 November 2023 from https://thepublicsradio.org/article/providence-city-councilor-wants-to-save-historic-college-hill-homes-from-demolition-
+— _Hernandez, Luis. “Providence city councilor wants to save three historic College Hill homes from demolition.” The Public’s Radio, 16 November 2023. Captured 20 November 2023 from https://thepublicsradio.org/article/providence-city-councilor-wants-to-save-historic-college-hill-homes-from-demolition-_
 
 ***
 
@@ -228,7 +226,7 @@ City Councilman John Goncalves called the demolitions “very problematic,” as
 
 Councilwoman Helen Anthony said no plans, applications, variances or subdivisions have been filed for the property and that she has no idea what is happening to the area.
 
-“This is how it goes,” Anthony said. “That plan is dead, the hotel, that’s done ... So it’s not that plan. No one knows what’s being done there or proposed to be done.”
+“This is how it goes,” Anthony said. “That plan is dead, the hotel, that’s done… So it’s not that plan. No one knows what’s being done there or proposed to be done.”
 
 The only apparent hint lies in the secretary of state’s corporate database where the public can look up LLCs and limited details on their existence. Each company may state their purpose for being. For 217 Angell Street Investments II LLC, that’s “the ownership and operation of commercial real estate, including without limitation a hotel, multi-family apartments, retail or office, and other ancillary commercial activities attendant to such activities.”
 
@@ -242,6 +240,4 @@ As of Tuesday afternoon, the city said a work permit was awaiting Department of 
 
 “Somebody’s making a plan,” Anthony said. “Whoever’s knocking them down I’m sure has a plan.”
 
-—
-
-Russo, Amy. “DEATH ROW MYSTERY - Three old homes on Providence’s Angell Street are under threat of demolition, and no one knows why.” Providence Journal (RI), PFO-Journal ed., sec. News, 16 Nov. 2023, p. A1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/19557C7048337CC0. Accessed 18 Nov. 2023.
+— _Russo, Amy. “DEATH ROW MYSTERY - Three old homes on Providence’s Angell Street are under threat of demolition, and no one knows why.” Providence Journal (RI), PFO-Journal ed., sec. News, 16 Nov. 2023, p. A1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/19557C7048337CC0. Accessed 18 Nov. 2023._

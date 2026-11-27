@@ -12,13 +12,13 @@ date-added: '2005'
 categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'Downtown Providence', 'Smith Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Did You Know?', 'RI Historic Resources Archive' ]
 tags: [ 'Providence Public Library Digital Collections' ]
 
 address: 'Memorial Blvd, Providence RI'
 latitude: '41.8274486'
-longitude: '-71.4161301'
+longitude: '-71.4139414'
 gmap: "https://www.google.com/maps/place/Waterplace+Park/@41.8274486,-71.4161301,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44510e1520037:0x622cd3cfc6974b20!8m2!3d41.8274486!4d-71.4139414"
 
 meta: ""
@@ -82,9 +82,9 @@ imagescredit: 'All new maps based on historic sources listed below. Images from 
 
 ### History of the Cove
 
-The revitalization of Waterplace Park and the uncovering of the river during the nineties was much touted by the Cianci administration and it kick-started the “Providence Renaissance”. But where did they get the idea? History, of course. 
+The revitalization of Waterplace Park and the uncovering of the river during the nineties was much touted by the Cianci administration and it kick-started the “Providence Renaissance”. But where did they get the idea? History, of course.
 
-Providence was founded largely as a harbor at the top of the bay, and much of what is now called Capital Center was under water. Part of what is now the mall was the “Grand Point”, which jutted out into the Cove. Our 1823 view was very much what Providence looked like since it started to become a settlement. It was incorporated as a City in 1831. 
+Providence was founded largely as a harbor at the top of the bay, and much of what is now called Capital Center was under water. Part of what is now the mall was the “Grand Point”, which jutted out into the Cove. Our 1823 view was very much what Providence looked like since it started to become a settlement. It was incorporated as a City in 1831.
 
 One of the reasons why it became a thriving center were the conglomeration of shipping by ocean and shipping by rail. This was where those goods changed over from one shipping method to another with raw materials moving in from the ports or out from the mills along the Blackstone River. By 1856 some of the land in the Cove started to get filled in and landscaped into a smaller circular body of water surrounded by a raised Promenade, heavily favoring rail travel. The original Union Station was built right up to the Cove and the Promenade was used for the tracks. By 1900 the Cove was completely filled in and the area resembled what remained in Providence until the late 80s, with a shaped body of water and a raised platform of railroad tracks. The redesign of Waterplace Park incorporated a smaller circular design and a rerouted (largely removed) railroad and river.
 
@@ -101,10 +101,10 @@ A podcast episode from Wierd Island about the evolution of Waterfire, which incl
 ### Maps of the Cove Lands
 
 1823
-: A large basin of water at the junction of the Blackstone and Woonasquatucket rivers forms the Cove. Smith Hill and the seat of the future State House is undeveloped, along with Exchange Place and most of the West Side of Providence. The waterfront along South Water Street and into what is now the Jewelry District is well developed as a busy harbor. Downtown Providence is familiar, though some of the street names are different. Weybosset and Westminster are the main thoroughfares with Fountain and Sabin also present as well as a strong, unified Eddy Street leading south parallel to the harbor. Keep an eye on Market Square, one of the few constants in these maps. 
+: A large basin of water at the junction of the Blackstone and Woonasquatucket rivers forms the Cove. Smith Hill and the seat of the future State House is undeveloped, along with Exchange Place and most of the West Side of Providence. The waterfront along South Water Street and into what is now the Jewelry District is well developed as a busy harbor. Downtown Providence is familiar, though some of the street names are different. Weybosset and Westminster are the main thoroughfares with Fountain and Sabin also present as well as a strong, unified Eddy Street leading south parallel to the harbor. Keep an eye on Market Square, one of the few constants in these maps.
 
 1849
-: Parts of the Cove basin have been filled in with railroad tracks beginning to take precedent in the city. The first Union Station was built in 1847, butting right up against the Cove waterfront. A wide area was infilled to create the first version of Exchange Place. The Arcade was built soon after the previous map. Dyer Street appears along the harbor as well as much more street development. 
+: Parts of the Cove basin have been filled in with railroad tracks beginning to take precedent in the city. The first Union Station was built in 1847, butting right up against the Cove waterfront. A wide area was infilled to create the first version of Exchange Place. The Arcade was built soon after the previous map. Dyer Street appears along the harbor as well as much more street development.
 
 1889
 : The Cove shrinks into the circular shape seen in some of the photos. A promenade is added around the perimeter of most of it, along with densely packed train tracks, warehouses, and train service buildings. Smith Hill was platted and planned to contain streets and residential/commercial development before being set aside as the base of the State House. The short-lived State Prison, built 1838, occupied the location of the later State Normal School and then the Providence Place Mall. The State Prison land is reused for the State Normal School, later Rhode Island College, in 1898. City Hall and Saints Peter and Paul Cathedral appear.
@@ -113,14 +113,14 @@ A podcast episode from Wierd Island about the evolution of Waterfire, which incl
 : A snapshot of the Providence that many people may still remember which only changed again starting in the mid-1980s. Viaducts, railroad tracks, and large swatches of parking lots occupy much of Smith Hill and north of Exchange Place. A second Union Station replaces the earlier Thomas Tefft version lost to fire. Memorial Square, or “Suicide Circle” was north of Market Square along Memorial Boulevard and home to a monument.
 
 1960s & 1970s (not a map)
-: The highway splits the city in the 1960s and urban redevelopment redefines streetscapes particularly around Saints Peter & Paul Cathedral and the Jewelry District. Exchange Place becomes Kennedy Plaza. 
+: The highway splits the city in the 1960s and urban redevelopment redefines streetscapes particularly around Saints Peter & Paul Cathedral and the Jewelry District. Exchange Place becomes Kennedy Plaza.
 
 1980s (not a map)
 : The railroad viaducts are removed to the north of Union Station. The bus ramp under Union Station is redeveloped into what would become the skating rink. Eddy Street is divided by the Outlet fire and redevelopments for Johnson & Wales University as well as the Garrahy Judicial complex in 1985.
 : **Note**: A new map circa 1980 would be nice, as it would capture how route 195 divided the Jewelry District, which is missing in this series.
 
 2005
-: The waterways that were covered by the railroad tracks are uncovered starting in the 1980s and culminate in Waterplace Park, home of Waterfire, starting in the late 90s. The circular Cove returns, but much much smaller. 
+: The waterways that were covered by the railroad tracks are uncovered starting in the 1980s and culminate in Waterplace Park, home of Waterfire, starting in the late 90s. The circular Cove returns, but much much smaller.
 
 
 [Other great histories are out there](https://rhodetour.org/items/show/351), as the Cove is an interesting piece of Providence history, and might be one the most worked and reworked pieces of real estate in the state.

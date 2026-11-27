@@ -12,13 +12,13 @@ date-added: '2005'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Gas Station & Auto Repair', 'Needs History' ]
 
 address: '120 Broadway, Providence, RI'
 latitude: '41.82159'
-longitude: '-71.4232195'
+longitude: '-71.4210308'
 gmap: "https://www.google.com/maps/place/120+Broadway,+Providence,+RI+02903/@41.82159,-71.4232195,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450cd7d5f87f:0x4f93dc080d79124c!8m2!3d41.82159!4d-71.4210308"
 street: [ 'Broadway' ]
 street-number: 120
@@ -87,7 +87,7 @@ Dunkin Donuts and Walgreen’s were interested in the location. The <span class=
 
 ### Current Events
 
-The buildings were razed in late 2012 for an extension of the neighboring Textron school. [<span class="abbr">UCAP</span> (Urban Collaborative Accelerated Program)](https://www.ucap.org/) constructed a new annex. The new facility cost around $4.6 million, was funded entirely by private and corporate donations, and added a science lab, art studio, meeting space, and a gym to the smaller facility. UCAP is the only public school focused on helping middle school students catch up to their peers in public school after they’ve been held back at least one grade.
+The buildings were razed in late 2012 for an extension of the neighboring Textron school. [<span class="abbr">UCAP</span> (Urban Collaborative Accelerated Program)](https://www.ucap.org/) constructed a new annex. The new facility cost around $4.6 million, was funded entirely by private and corporate donations, and added a science lab, art studio, meeting space, and a gym to the smaller facility. <span class="abbr">UCAP</span> is the only public school focused on helping middle school students catch up to their peers in public school after they’ve been held back at least one grade.
 
 
 ### History

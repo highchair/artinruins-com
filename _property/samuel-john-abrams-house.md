@@ -25,8 +25,8 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '215 Meeting St, Providence RI'
-latitude: '41.8289248'
-longitude: '-71.4013533'
+latitude: '41.829046'
+longitude: '-71.401225'
 gmap: "https://www.google.com/maps/place/215+Meeting+St,+Providence,+RI+02906/@41.8289248,-71.4013533,17z/data=!4m6!3m5!1s0x89e445236ecb3171:0x3fb86376b8c9e431!8m2!3d41.8289209!4d-71.4013479!16s%2Fg%2F11gg6ncpqg?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D"
 street: [ 'Meeting St' ]
 street-number: 215

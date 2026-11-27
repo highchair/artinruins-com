@@ -25,8 +25,8 @@ NRHP-ref-number: '74000047 (contributing)'
 added-to-NRHP: 'May 1, 1974'
 
 address: '113 Broadway, Providence RI'
-latitude: '41.821858'
-longitude: '-71.4233567'
+latitude: '41.821854'
+longitude: '-71.421168'
 gmap: "https://www.google.com/maps/place/41%C2%B049'18.7%22N+71%C2%B025'16.2%22W/@41.821858,-71.4233567,630m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d41.821854!4d-71.421168"
 street: [ 'Broadway' ]
 street-number: 113

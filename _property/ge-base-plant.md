@@ -14,7 +14,7 @@ date-added: '2015'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Progress', 'The Superlatives' ]
@@ -24,9 +24,11 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '586 Atwells Ave, Providence RI'
-latitude: '41.8241667'
-longitude: '-71.4388049'
+latitude: '41.8241627'
+longitude: '-71.4366162'
 gmap: "https://www.google.com/maps/place/586+Atwells+Ave,+Providence,+RI+02909/@41.8241667,-71.4388049,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44598a830df6d:0x4e880849312a5c33!8m2!3d41.8241627!4d-71.4366162"
+street: [ 'Atwells Ave' ]
+street-number: 586
 
 meta: ""
 excerpt: "A quietly operational General Electric light bulb plant for over 70 years until a swift demolition after 20 years of neglect"
@@ -154,4 +156,4 @@ The City of Providence’s zoning ordinance is currently being revamped to offer
 
 _Brent Runyon was executive director of the Providence Preservation Society._
 
-RUNYON, BRENT. “Preserve Providence’s magnificent industrial buildings.” Providence Journal (RI), 1 ed., sec. News, 5 May 2014, p. COMM_01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15241EA744EF2348. Accessed 29 Nov. 2021.
+— _RUNYON, BRENT. “Preserve Providence’s magnificent industrial buildings.” Providence Journal (RI), 1 ed., sec. News, 5 May 2014, p. COMM_01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15241EA744EF2348. Accessed 29 Nov. 2021._

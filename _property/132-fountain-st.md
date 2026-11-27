@@ -13,7 +13,7 @@ date-added: '2020'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Demolition by Proposal', 'Still an Empty Lot' ]
 

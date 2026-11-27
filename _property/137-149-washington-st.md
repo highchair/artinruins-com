@@ -11,7 +11,7 @@ date-added: '2005'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Demolition by Proposal', 'Needs History', 'Never Built', 'Still an Empty Lot' ]
 
@@ -19,9 +19,11 @@ address: '137–149 Washington Street'
 latitude: '41.8226661'
 longitude: '-71.4152915'
 gmap: "https://www.google.com/maps/place/149+Washington+St,+Providence,+RI+02903/@41.8226661,-71.4152915,3a,75y,321.27h,90t/data=!3m6!1e1!3m4!1saVoiiARQsh8dqql4-cWvJw!2e0!7i16384!8i8192!4m5!3m4!1s0x89e44512542240e3:0xbcc7c6522678ee08!8m2!3d41.8228099!4d-71.415435"
+street: [ 'Washington St' ]
+street-number: 137
 
 meta: 
-excerpt: "A small mercantile-style building razed for a never-built Sierra Suites Hotel in 2008. This building housed a few well-loved storefronts — New Japan, Cuban Revolution, and the Talk of the Town bar."
+excerpt: "A small mercantile-style building razed for a never-built Sierra Suites Hotel in 2008. This building housed a few well-loved storefronts — New Japan, Cuban Revolution, and the Talk of the Town bar"
 
 thumbnail: 147-washington-st-02.jpg
 

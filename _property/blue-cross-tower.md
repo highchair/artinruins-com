@@ -17,10 +17,10 @@ designers: [ 'Symmes Maini & McKee Associates' ]
 lists: [ 'Capital Center Parcels' ]
 tags: [ 'Contemporary' ]
 
-address: '500 Exchange Street, Providence RI'
-latitude: '41.827721'
-longitude: '-71.4159959'
-gmap: "https://www.google.com/maps/place/Blue+Cross+%26+Blue+Shield+of+Rhode+Island/@41.827721,-71.4159959,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44510c6d78aad:0xc34b0b7de2431ff6!8m2!3d41.827717!4d-71.4138072"
+address: '500 Exchange St, Providence RI'
+latitude: '41.828107'
+longitude: '-71.4132022'
+gmap: "https://www.google.com/maps/place/500+Exchange+St,+Providence,+RI+02903/@41.828107,-71.4141047,18z/data=!3m1!4b1!4m6!3m5!1s0x89e4451662980a63:0x4137e44b44b13fe5!8m2!3d41.828107!4d-71.4132022!16s%2Fg%2F11h_t6bk5n"
 
 meta: ""
 excerpt: "A new 13-story office tower headquarters for BCBS Rhode Island built in 2008"
@@ -84,23 +84,23 @@ imagescredit: 'Contributions by Jef Nickerson, Kinematix, and Paul Shelasky'
 
 ### Proposal
 
-A new office tower for BCBS RI would allow the company to consolidate spaces from around the city. Previously, employees were located in five locations — one on Empire Street which BCBS owned and others in which they rented — plus the original BCBS headquarters at LaSalle Square (built in 1987). Berkeley Investments purchased the LaSalle Square and Empire Street properties from BCBS in mid-2008. The sale of their former property and the cost-savings from consolidating their workforce made the move to a new tower cost effective. 
+A new office tower for <abbr title="Blue Cross Blue Shield">BCBS</abbr> Rhode Island would allow the company to consolidate spaces from around the city. Previously, employees were located in five locations — one on Empire Street which <span class="abbr">BCBSRI</span> owned and others in which they rented — plus the original <span class="abbr">BCBSRI</span> headquarters at LaSalle Square (built in 1987). Berkeley Investments purchased the LaSalle Square and Empire Street properties from <span class="abbr">BCBSRI</span> in mid-2008. The sale of their former property and the cost-savings from consolidating their workforce made the move to a new tower cost effective.
 
-State officials, however, thought that the move looked like they were unwisely spending their customer’s money. Governor Carcieri said, “It is not clear at this time that the construction of a Class A office building in one of the most expensive locations in Rhode Island comports with Blue Cross’ responsibility to provide affordable health insurance.” Blue Cross CEO Keough countered by saying that Blue Cross will not have to dig into its reserves or pass on costs to subscribers to pay for the project.[^1] 
+State officials, however, thought that the move looked like they were unwisely spending their customer’s money. Governor Carcieri said, “It is not clear at this time that the construction of a Class A office building in one of the most expensive locations in Rhode Island comports with Blue Cross’ responsibility to provide affordable health insurance.” Blue Cross CEO Keough countered by saying that Blue Cross will not have to dig into its reserves or pass on costs to subscribers to pay for the project.[^1]
 
-The State was also negotiating with BCBSRI to be the provider of state worker’s healthcare. United Healthcare (located out of state) made $38 million a year from their state contract previously. It is better to keep that money in-state, but at the same time, in 2008-2010 mind you, in-state reimbursement rates were dismal and hospitals and healthcare providers were hurting. 
+The State was also negotiating with <span class="abbr">BCBSRI</span> to be the provider of state worker’s healthcare. United Healthcare (located out of state) made $38 million a year from their state contract previously. It is better to keep that money in-state, but at the same time, in 2008-2010 mind you, in-state reimbursement rates were dismal and hospitals and healthcare providers were hurting.
 
-The State could have been a little sore that a $25-million tax deal negotiated with Intercontinental Development for their Waterplace projects ended up benefitting BCBSRI. The one-of-a-kind tax plan negotiated in 2004 had no restrictions on it. Carcieri would have rather had an out of state company relocate here to expand the tax base, instead of an already in-state company make a lateral move.[^2] This was short-sighted, in our opinion, considering that the Class B office space BCBSRI vacated would be on the market for smaller in- or out-of-state companies that are growing. 
+The State could have been a little sore that a $25-million tax deal negotiated with Intercontinental Development for their Waterplace projects ended up benefitting <span class="abbr">BCBSRI</span>. The one-of-a-kind tax plan negotiated in 2004 had no restrictions on it. Carcieri would have rather had an out of state company relocate here to expand the tax base, instead of an already in-state company make a lateral move.[^2] This was short-sighted, in our opinion, considering that the Class B office space <span class="abbr">BCBSRI</span> vacated would be on the market for smaller in- or out-of-state companies that are growing.
 
 [^1]: _“State official urges Blue Cross to seek cheaper office space”_, Providence Journal, April 19, 2007, from http://www.projo.com/news/content/BLUE_FOL...NP.33a3c97.html but not captured and not present at Archive.org
 
 [^2]: _“City considers pulling plug on tax treaty for Blue Cross’_, Daniel Barbarisi, Providence Journal, October 3, 2007. Captured from http://www.projo.com/ri/providence/content/MC_BLUECROSS_10-03-07_OF7BP4C.366ef14.html archived at Archive.org
 
-BCBSRI took over the parcel and the foundation that Waterplace developers started for a 10-story tower. The architects did extra work to ensure that the 13-story BCBSRI tower would be safe on a foundation rated for only 10 stories. 
+<span class="abbr">BCBSRI</span> took over the parcel and the foundation that Waterplace developers started for a 10-story tower. The architects did extra work to ensure that the 13-story <span class="abbr">BCBSRI</span> tower would be safe on a foundation rated for only 10 stories.
 
 #### Design features
 
-1100 employees a few hundred feet from the Commuter rail was a smart and green move on the part of BCBS. The building was constructed with only 180 parking spaces for cars and some for bikes, so clearly the company was ready to leverage existing parking around them as well as commuter options. 
+1100 employees a few hundred feet from the Commuter rail was a smart and green move on the part of <span class="abbr">BCBSRI</span>. The building was constructed with only 180 parking spaces for cars and some for bikes, so clearly the company was ready to leverage existing parking around them as well as commuter options.
 
 + 327,000 square-foot of space
 + Abundant natural light — over 90% of workspaces enjoy outside views through the floor-to-ceiling glass curtain wall facades
@@ -108,7 +108,7 @@ BCBSRI took over the parcel and the foundation that Waterplace developers starte
 + A decreased reliance on HVAC systems due to building envelope technology and interior layout
 + Water savings are 30% over a conventional building — rainwater is captured and recycled for use in cooling towers
 
-_From a [project case study](//www.smma.com/work/designing-context){:target="_blank"} on the architect’s website._
+_From a [project case study](https://www.smma.com/work/designing-context) on the architect’s website._
 
 
 ### Design Reception
@@ -177,4 +177,4 @@ Tom Niles, executive vice president for development at Procaccianti, said that t
 
 Niles said that his company has never discussed the possibility of purchasing either of the buildings.
 
-_Captured from an Archive.org version of http://www.projo.com/news/content/BLUECROSSHQ25_04-25-07_9C5CADA.330e1b2.html_
+— _Captured from an Archive.org version of http://www.projo.com/news/content/BLUECROSSHQ25_04-25-07_9C5CADA.330e1b2.html_

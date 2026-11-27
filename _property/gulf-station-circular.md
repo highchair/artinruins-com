@@ -17,7 +17,7 @@ tags: [ 'Concrete', Demolition by Proposal', 'Demolition without Permit', 'Gas S
 
 address: '25 Broadway, Providence RI'
 latitude: '41.8225819'
-longitude: '-71.421413'
+longitude: '-71.4192243'
 gmap: "https://www.google.com/maps/place/25+Broadway,+Providence,+RI+02903/@41.8225819,-71.421413,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450d6deff1bf:0xec3808ece8748ce9!8m2!3d41.8225819!4d-71.4192243"
 street: [ 'Broadway' ]
 street-number: 25
@@ -74,31 +74,31 @@ images:
   - url: gulf-station-aerial-2008.jpg
     sizes: '1440, 900'
 
-imagescredit: Aerials from the Providence Historical Aerial Viewer
+imagescredit: 'Aerials from the Providence Historical Aerial Viewer'
 ---
 
 ### Reason for Demolition
 
-> Without any public notice, a demolition crew came in and, before any effective response could be mounted, the roadside landmark was gone. To some, it was just a gas station, functional, aesthetically invisible, even ugly. To others, it was a rare and interesting example of mid-century commercial architecture, sort of a space age, circular plan gas station visible from all angles. 
+> Without any public notice, a demolition crew came in and, before any effective response could be mounted, the roadside landmark was gone. To some, it was just a gas station, functional, aesthetically invisible, even ugly. To others, it was a rare and interesting example of mid-century commercial architecture, sort of a space age, circular plan gas station visible from all angles.  
 – Ned Connors
 
 This was one of those buildings that you just took for granted. It was a gas station, and not much more. Never was it proposed to turn into a cool restaurant, or art gallery, or performance space. It sat on a very prominent lot, the gateway to Atwells and Broadway. Maybe, if you really looked and noticed, you might have realized that it was circular in nature, unlike most gas stations you’ve ever seen. Why? Who knew?
 
-Then, one day, it’s prime location got the best of it. It was hit by a wrecking ball, numerous times. It was steel reinforced concrete, after all. No longer was it to be a gas station, repair shop, or a potential restaurant… nope. A parking lot. The news story below accounts how it might have been a high-rise hotel or office building. 
+Then, one day, it’s prime location got the best of it. It was hit by a wrecking ball, numerous times. It was steel reinforced concrete, after all. No longer was it to be a gas station, repair shop, or a potential restaurant… nope. A parking lot. The news story below accounts how it might have been a high-rise hotel or office building.
 
-It was torn down when the real estate market was hot without a demolition permit by Paolino Properties. The Procaccianti Group’s promise to build something on the site has yet to come to pass, and Paolino’s measley fine for demolishing the structure without permission was paid off long ago by the $10 a car fees they can charge when the Dunk has something going on. 
+It was torn down when the real estate market was hot without a demolition permit by Paolino Properties. The Procaccianti Group’s promise to build something on the site has yet to come to pass, and Paolino’s measley fine for demolishing the structure without permission was paid off long ago by the $10 a car fees they can charge when the Dunk has something going on.
 
 
 ### Current Events
 
-The site of this former station is still a parking lot, more than 20 years later (2023). 
+The site of this former station is still a parking lot, more than 20 years later (2023).
 
 
 ### History
 
 _From the RIHPHC’s survey of Downtown Providence, 1981_
 
-Gulf Station (1968): Curtis and Davis, architects. 1-story concrete-block circular structure with brick sheathing, surmounted by a tall metal pole supporting an illuminated globe near the top. This station is inspired more by popular exhibition-and-exhibitionist architecture than by more traditional sources for gas stations, which aim toward establishing a connotative message by their design. It transcends pop trends in roadside architecture to achieve a thin but engaging monumentality adjacent to and visible from the highway. 
+Gulf Station (1968): Curtis and Davis, architects. 1-story concrete-block circular structure with brick sheathing, surmounted by a tall metal pole supporting an illuminated globe near the top. This station is inspired more by popular exhibition-and-exhibitionist architecture than by more traditional sources for gas stations, which aim toward establishing a connotative message by their design. It transcends pop trends in roadside architecture to achieve a thin but engaging monumentality adjacent to and visible from the highway.
 
 
 ### In the News

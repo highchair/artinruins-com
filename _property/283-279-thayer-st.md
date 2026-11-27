@@ -25,7 +25,7 @@ added-to-NRHP: 'November 10, 1970'
 
 address: '283–279 Thayer St, Providence RI'
 latitude: '41.8296182'
-longitude: '-71.4011404'
+longitude: '-71.4005932'
 gmap: "https://www.google.com/maps/place/281+Thayer+St,+Providence,+RI+02906/@41.8296182,-71.4011404,19z/data=!4m5!3m4!1s0x89e4452378d67791:0x3e0e4a16802f3ccf!8m2!3d41.8296182!4d-71.4005932"
 street: [ 'Thayer' ]
 street-number: 283

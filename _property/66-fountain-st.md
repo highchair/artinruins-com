@@ -12,14 +12,14 @@ date-added: '2005'
 categories: [ '#UsedToBeThere']
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Mysteries of the Unknown' ]
 tags: [ 'Demolition by Progress', 'Needs History', 'Yellow brick' ]
 
 address: '66 Fountain St, Providence, RI'
-latitude: '41.8236001'
-longitude: '-71.4155241'
-gmap: "https://www.google.com/maps/place/66+Fountain+St,+Providence,+RI+02903/"
+latitude: '41.823933'
+longitude: '-71.4152843'
+gmap: "https://www.google.com/maps/place/66+Fountain+St,+Providence,+RI+02903/@41.8236107,-71.4157039,19.52z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzI1LjAiTiA3McKwMjQnNTUuOSJX!8m2!3d41.8236001!4d-71.4155241!3m5!1s0x89e4451234555e65:0x65487e8d8fc213e2!8m2!3d41.823933!4d-71.4152843!16s%2Fg%2F11b8v6k7sl?entry=ttu&g_ep=EgoyMDI2MTEyMy4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Fountain St' ]
 street-number: 66
 
@@ -80,10 +80,10 @@ imagescredit: 'Aerials from the Providence Historical Aerial Viewer'
 
 external:
   - source: 'Providence rising: That buzz downtown is from these 10 construction projects, Providence Journal'
-    url: '//www.providencejournal.com/news/20180505/providence-rising-that-buzz-downtown-is-from-these-10-construction-projects'
+    url: 'https://www.providencejournal.com/news/20180505/providence-rising-that-buzz-downtown-is-from-these-10-construction-projects'
     #url: https://perma.cc/J7ES-2HE7
   - source: 'Videos, photos: Coffee King building in Providence is torn down, Providence Journal'
-    url: '//www.providencejournal.com/news/20181016/videos-photos-coffee-king-building-in-providence-is-torn-down'
+    url: 'https://www.providencejournal.com/news/20181016/videos-photos-coffee-king-building-in-providence-is-torn-down'
     #url: https://perma.cc/YBX6-8E4T
 ---
 

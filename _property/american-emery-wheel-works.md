@@ -26,7 +26,7 @@ added-to-NRHP:
 
 address: '1 Richmond Square, Providence RI'
 latitude: '41.8272175'
-longitude: '-71.383163'
+longitude: '-71.3825179'
 gmap: "https://www.google.com/maps/place/1+Richmond+Square,+Providence,+RI+02906/@41.8272175,-71.383163,18z/data=!4m6!3m5!1s0x89e4452cd2adc027:0x7915317885abdbe0!8m2!3d41.8272175!4d-71.3825179!16s%2Fg%2F11bw3xf0c8?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
 street: []
 street-number:
@@ -154,8 +154,9 @@ In 1909 the company expanded and commissioned Knight C. Richmond to build an add
 + [1921–1951 Sanborn Insurance Map, Volume 2, Plate 36](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102) (page 47) — The plant is much the same in 1951 as it was in 1921. The 1955 map is also unchanged.
 + Aerial photos are difficult to decipher. The 1939 photo resembles the 1921 and 1955 maps in that the nine furnaces are clearly distinguished. Other photos are out of focus or split on seams. In the 1962 photo, the area to the north is still populated with jewelry manufacturing, housing, and a garage (the remnants of Tuanton Manufacturing, a cotton goods producer). By the 1972 photo, of that former manufacturing and housing has been cleared and the Henderson bridge is constructed to the north. The coal house along Pitman Street was present in the 1972 photo but gone by the 1981 photo. The former “Red Bridge” is also gone but the Gatehouse building had not been constructed yet. By the 1988 photo, it had been constructed. It is difficult to discern how the former American Emery Wheel Works had changed.
 
+***
 
-### In the News
+#### News Clippings
 
 **Providence Evening Bulletin, June 9, 1898**: “The American Emery Wheel Works is about to erect a new building for carrying on its manufacturing businesses. A permit was issued yesterday and the factory will be erected on the corner of Waterman and East River streets by A. C. J. Learned, builder. It will be 99 by 45 feet, two stories in height and will be built of brick.”[^1]
 
@@ -183,7 +184,8 @@ All throughout 1944 and 1945 during World War II the company advertised its job 
 
 [^5]: <em>Providence Journal</em>, HAPPY NEW YEAR ed., 1 Jan. 1970, p. 44. <em>NewsBank: America’s News – Historical and Current</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A14728889532D3B69%2540EANX-15D38672869F4066%25402440588-15D36B8406D22C59%254043-15D36B8406D22C59%2540. Accessed 25 May 2026.
 
-***
+
+### In the News
 
 ####  Richmond Square starting to move Old factory complex being transformed 
 
@@ -228,4 +230,4 @@ The room will be made in the interior of the remaining kiln in the complex - a b
 
 Schein says dryly that the room should make “quite a conversation piece.”
 
-— HARRINGTON, CLYDE H.. “Richmond Square starting to move \| Old factory complex being transformed.” <em>Providence Journal (RI)</em>, ALL ed., sec. BUSINESS, 13 Nov. 1983, pp. G-01. <em>NewsBank: America’s News – Historical and Current</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525C24965E04230. Accessed 25 May 2026.
+— _HARRINGTON, CLYDE H.. “Richmond Square starting to move \| Old factory complex being transformed.” <em>Providence Journal (RI)</em>, ALL ed., sec. BUSINESS, 13 Nov. 1983, pp. G-01. <em>NewsBank: America’s News – Historical and Current</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=AMNEWS&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525C24965E04230. Accessed 25 May 2026._

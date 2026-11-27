@@ -97,7 +97,7 @@ imagescredit: 'Aerial photos from the <a href="https://pvdgis.maps.arcgis.com/ap
 
 ### Reason for Demolition
 
-An upgrade to the roadway system in 2010 led to the removal of the elevated highway over Dyer Street and the Providence River. The piling bases in the river itself were left behind and a new pedestrian bridge connecting the west and east shores was constructed in 2019. 
+An upgrade to the roadway system in 2010 led to the removal of the elevated highway over Dyer Street and the Providence River. The piling bases in the river itself were left behind and a new pedestrian bridge connecting the west and east shores was constructed in 2019.
 
 For more photos, visit our property page covering [the portion formerly over Wickenden Street]({% link _property/195-over-wickenden-st.md %}).
 
@@ -108,7 +108,7 @@ _From Wikipedia_
 
 I-195’s stretch through Providence was reconstructed with a $610 million project by the Rhode Island Department of Transportation (<span class="abbr">RIDOT</span>) to relocate the Interstate 195 and Interstate 95 intersection. The relocation improved traffic safety, reunified the [Jewelry District]({% link neighborhood/jewelry-district.html %}) with [downtown Providence]({% link list/downtown-providence-national-historic-district.html %}), and freed up [space for new development]({% link list/i-195-district-parcels.html %}). The previous lane alignment was dangerous and created congestion, as lane shifts were often required to avoid a left sided exit-only lane. The concrete supports had deteriorated to the point that steel shoring were needed to reinforce the intersection’s many bridges.
 
-In the process, [some 35 buildings, housing over 80 businesses and six residences were demolished]({% link list/i-195-relocation-project.html %}). The new stretch of highway is called [the Iway]({% link _property/iway.md %}) by the <span class="abbr">RIDOT</span> and includes a signature bridge over the Providence River as well as a landscaped pedestrian walkway over the highway connecting India Point Park to the Fox Point neighborhood. 
+In the process, [some 35 buildings, housing over 80 businesses and six residences were demolished]({% link list/i-195-relocation-project.html %}). The new stretch of highway is called [the Iway]({% link _property/iway.md %}) by the <span class="abbr">RIDOT</span> and includes a signature bridge over the Providence River as well as a landscaped pedestrian walkway over the highway connecting India Point Park to the Fox Point neighborhood.
 
 Built in the late 1950s, <span class="abbr">RIDOT</span> started to review plans to deal with the aging section of I-195 in the 1980s. Traffic volumes had increased tremendously over those 30 years. The highway designed for 75,000 vehicles a day carried more than 160,000. The old design had other problems. Tight curves, left-hand and closely spaced exits had contributed to excessive congestion, causing delays for motorists on I-95, the Route 6/10 connector, and on city streets.
 
@@ -118,7 +118,7 @@ Another idea that was considered was a no-build alternative, one in which the ex
 
 Consideration of these choices led <span class="abbr">RIDOT</span> to choose the alignment south of the Fox Point Hurricane Barrier. Safety problems and congestion issues could be addressed, and the removal of the old highway would allow for significant redevelopment of the Providence waterfront and fuller implementation of the Old Harbor Plan. Also, the redevelopment would complement other projects including the construction of Memorial Boulevard, Waterplace Park and the Riverwalk system, and the [Capital Center]({% link list/capital-center-parcels.html %}) projects.
 
-_Captured and excerpted on February 16, 2022 from https://en.wikipedia.org/wiki/Interstate_195\_(Rhode_Island–Massachusetts)_
+— _Captured and excerpted on February 16, 2022 from https://en.wikipedia.org/wiki/Interstate_195\_(Rhode_Island–Massachusetts)_
 
 
 ### In the News
@@ -176,6 +176,4 @@ It said it had also omitted the cost of change orders. Those are expenses not an
 
 In the last few years, the cost increases have flattened out, but the trend is still upward, with the estimate rising $13.3 million from 2008 to last year. However, the project is supposed to be finished in 2012, and the completion of much of the construction leaves less chance for cost increases.
 
-—
-
-LANDIS, BRUCE. “Relocating Route 195: Cost more than double.” Providence Journal (RI), 1 ed., sec. projo RhodeIsland, 31 Aug. 2010, p. A1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524232590802AB8. Accessed 19 Feb. 2022.
+— _LANDIS, BRUCE. “Relocating Route 195: Cost more than double.” Providence Journal (RI), 1 ed., sec. projo RhodeIsland, 31 Aug. 2010, p. A1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1524232590802AB8. Accessed 19 Feb. 2022._

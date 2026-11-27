@@ -11,16 +11,16 @@ date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Broadway-Armory Historic District', 'National Register of Historic Places', 'PPS Ten Most Endangered', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Neglect', 'Demolition without Permit', 'Former/Current Schools', 'Still an Empty Lot' ]
 
 NRHP-ref-number: '74000047 (contributing)'
 added-to-NRHP: 'May 1, 1974'
 
-address: '95 Grove Street, Providence RI'
+address: '95 Grove St, Providence RI'
 latitude: '41.820084'
-longitude: '-71.4345947'
+longitude: '-71.432406'
 gmap: "https://www.google.com/maps/place/95+Grove+St,+Providence,+RI+02909/@41.820084,-71.4345947,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4459e50925525:0x75cb168fa98908d0!8m2!3d41.820084!4d-71.432406"
 
 meta: ""
@@ -114,8 +114,7 @@ The [Grove Street school](https://guide.ppsri.org/property/grove-street-elementa
 
 _From the “Industrial Sites and Commercial Buildings Survey (ICBS)” by PPS and RIHPHC, 2001-2002_
 
-Built at the turn of the twentieth century, the schoolhouse rises two stories and is topped by a hipped roof and a massive brick chimney. The T-shaped structure is articulated by brick quoins on the comers and modillion blocks at the cornice. Pedestrian entrances are housed within recessed, arched openings located in two-story, hip-roof wings flanking the central block. The arched openings feature brick corbeling and keystones. The building stands on a granite foundation and features a watertable at the raised basement level. Fenestration consists of rectangular window openings with several round-arch openings with granite sills; windows have been boarded up. The property is surrounded by a chain link fence with a small paved parking
-area.
+Built at the turn of the twentieth century, the schoolhouse rises two stories and is topped by a hipped roof and a massive brick chimney. The T-shaped structure is articulated by brick quoins on the comers and modillion blocks at the cornice. Pedestrian entrances are housed within recessed, arched openings located in two-story, hip-roof wings flanking the central block. The arched openings feature brick corbeling and keystones. The building stands on a granite foundation and features a watertable at the raised basement level. Fenestration consists of rectangular window openings with several round-arch openings with granite sills; windows have been boarded up. The property is surrounded by a chain link fence with a small paved parking area.
 
 Built in 1901, the Grove Street Elementary School was constructed as a public grammar school during a period of massive immigration. The building first appears on the 1908 Sanborn map and is identified as a “school.” Subsequent maps show that the building has retained its original size and shape over its 100-year existence. The building is currently privately owned.
 

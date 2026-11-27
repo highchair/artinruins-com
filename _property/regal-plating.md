@@ -16,9 +16,9 @@ designers: []
 lists: []
 tags: [ 'Demolition by Speculation', 'Needs History', 'Still an Empty Lot' ]
 
-address: '85 South Street, Providence RI'
+address: '85 South St, Providence RI'
 latitude: '41.817162'
-longitude: '-71.4091676'
+longitude: '-71.408894'
 gmap: "https://www.google.com/maps/place/85+South+St,+Providence,+RI+02903/@41.817162,-71.4091676,83m/data=!3m1!1e3!4m5!3m4!1s0x89e4456afcf38bd5:0x71d62024bf9eecd8!8m2!3d41.817162!4d-71.408894"
 
 meta: ""

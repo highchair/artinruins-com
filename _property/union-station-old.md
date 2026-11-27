@@ -19,7 +19,7 @@ lists: [ 'Brussat’s 10 Best Lost Buildings' ]
 tags: [ 'The Superlatives', 'Providence Public Library Digital Collections', 'Train Stations' ]
 superlative: 'Voted in 1885 as one of the 20 best buildings in the country'
 
-address: '42 Exchange Terrace Providence RI'
+address: '42 Exchange Terrace, Providence RI'
 latitude: '41.824925'
 longitude: '-71.412805'
 gmap: "https://www.google.com/maps/place/41%C2%B049'35.3%22N+71%C2%B025'06.6%22W/@41.8252951,-71.4180326,633m/data=!3m1!1e3!4m4!3m3!8m2!3d41.8264574!4d-71.4184911?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"

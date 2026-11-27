@@ -4,21 +4,23 @@ slug: aaa-surgical
 aka: 
 date-modified: 2020-05-02 21:52
 
-built: 1950s?
+built: '1950s?'
 demolition: '2005'
 decade: '1950-1959'
 date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Federal Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Demolition by Proposal', 'Needs History' ]
 
 address: '442 Atwells Ave. Providence, RI'
-latitude: '41.8237182'
-longitude: '-71.4343248'
-gmap: "//www.google.com/maps/place/442+Atwells+Ave,+Providence,+RI+02909/@41.8237182,-71.4343248,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445a03a86d871:0x56fbedf2a4a57ece!8m2!3d41.8237182!4d-71.4321361"
+latitude: '41.823844'
+longitude: '-71.431953'
+gmap: "https://www.google.com/maps/place/442+Atwells+Ave,+Providence,+RI+02909/@41.8237182,-71.4343248,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445a03a86d871:0x56fbedf2a4a57ece!8m2!3d41.8237182!4d-71.4321361"
+street: [ 'Atwells Ave' ]
+street-number: 442
 
 meta: ""
 excerpt: "A simple art-deco-inspired mid-century storefront in Federal Hill demolished for the promise of a new hotel."

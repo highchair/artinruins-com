@@ -11,7 +11,7 @@ date-added: '2002'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'A.I.R.’s Lead Brick List', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered', 'Inventory of Historic Engineering & Industrial Sites 1978' ]
 tags: [ 'American Woolen Company', 'Demolition by Progress' ]
 
@@ -19,6 +19,8 @@ address: '589 Atwells Ave, Providence RI'
 latitude: '41.825194'
 longitude: '-71.4380621'
 gmap: "https://www.google.com/maps/place/589+Atwells+Ave,+Providence,+RI+02909/@41.825194,-71.4380621,334m"
+street: [ 'Atwell Ave' ]
+street-number: 589
 
 meta: ""
 excerpt: "The one that started a revolution. A 13 acre site, bounded by Atwells Ave, Eagle Street, and Valley Street, housing cheap artist studio space and the famous Fort Thunder arts collective."
@@ -201,7 +203,7 @@ Providence got a wake-up call when opponents sounded off against a proposal to t
 
 […] The current ground zero for this battle is Eagle Square, a long-forgotten industrial crossroads sandwiched between Federal Hill and Olneyville, where artists and small businesses have partially filled the void once occupied by large manufacturers. The symbolic stakes are high precisely because the present and proposed future uses of the site are so sharply opposed: Feldco Development of Long Island, New York, wants to demolish seven mill buildings, one of which includes the popular underground performance space Fort Thunder, and build a 14-acre suburban-style shopping plaza with 26 stores, anchored by a Shaw’s supermarket and a bevy of national chains. It’s hard to imagine a starker contrast between the Fort, an organic and proudly non-commercial entity that got its start in 1995, and the prefab concept of a strip mall.
 
-Olneyville may be poised for better days after decades of disinvestment, and few people would begrudge neighborhood residents who are enthused about a new supermarket and other signs of economic interest in a neglected area. Some of the threatened mills are vacant or in worse shape than others, and, as is typical with such properties, there’s some contaminated soil in the area. **But at a time when the reuse of old industrial spaces has long since found mainstream appeal, the idea of demolishing a cluster of mills (which may qualify for historic designation) for a cookie-cutter strip mall strikes many as short-sighted and woefully misguided.** This is especially true in an architecturally noteworthy city in which scores of 19th-century homes on College Hill were saved from destruction in the &lsquo;50s, and more recently, the Armory District has taken on fresh vitality through the restoration of once-faced Victorians.
+Olneyville may be poised for better days after decades of disinvestment, and few people would begrudge neighborhood residents who are enthused about a new supermarket and other signs of economic interest in a neglected area. Some of the threatened mills are vacant or in worse shape than others, and, as is typical with such properties, there’s some contaminated soil in the area. **But at a time when the reuse of old industrial spaces has long since found mainstream appeal, the idea of demolishing a cluster of mills (which may qualify for historic designation) for a cookie-cutter strip mall strikes many as short-sighted and woefully misguided.** This is especially true in an architecturally noteworthy city in which scores of 19th-century homes on College Hill were saved from destruction in the ‘50s, and more recently, the Armory District has taken on fresh vitality through the restoration of once-faced Victorians.
 
 **“I think that Providence is a place where you get a lot of feeling from your environment,”** says Sara Agniel, the owner of Gallery Agniel on Wickenden Street. **“It’s why a lot of people move here — there’s a lot of wistfulness about things that have been adapted and reused, or forgotten and that have the potential to take on a new life. What this kind of demolition does is erase any feelings of potential.”**
 
@@ -227,4 +229,4 @@ Perhaps most significantly, there are no real obstacles to the demolition of the
 
 What happens next is anyone’s guess. The Plan Commission is slated to decide the fate of the Feldco proposal during a City Hall meeting on Tuesday, December 19 at 6 p.m. Supporters were seriously outflanked during the last meeting, and both sides will no doubt rally their backers. The conventional wisdom holds that other than some fine-tuning of bike path and greenway issues, Feldco has the project in the bag. But nothing gets the attention of public officials like a massive show of public opinion, and it’s possible that the outpouring on November 21 might have been enough to make the Plan Commission unwilling to immediately move forward. […]
 
-— Donnis, Ian. “Dig the New Breed.” Providence Phoenix, December 14–21, 2000.
+— _Donnis, Ian. “Dig the New Breed.” Providence Phoenix, December 14–21, 2000._

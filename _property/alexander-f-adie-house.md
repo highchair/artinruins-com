@@ -13,17 +13,19 @@ date-added: '2020'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Federal Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'PPS Ten Most Endangered' ]
 tags: [ 'Demolition by Progress', 'Demolition by Speculation', 'House', 'Still an Empty Lot' ]
 
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '93 Atwells Avenue, Providence RI'
+address: '93 Atwells Ave, Providence RI'
 latitude: '41.823323'
-longitude: '-71.4231717'
+longitude: '-71.420983'
 gmap: "https://www.google.com/maps/place/95+Atwells+Ave,+Providence,+RI+02903/@41.823323,-71.4231717,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450d01c533d9:0x242693235633186b!8m2!3d41.823323!4d-71.420983"
+street: [ 'Atwells Ave' ]
+street-number: 93
 
 meta: ""
 excerpt: "A lovely split-square dual residence at the beginning of Atwells Avenue, razed in 2014 for a speculative development that has not come to pass"
@@ -54,7 +56,7 @@ images:
   - url: a-f-adie-house-jh-2014-06.jpg
     sizes: '1440, 900'
 
-imagescredit: 'Contributions from Shelby Salzberg, <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>, and the Providence Preservation Society'
+imagescredit: 'Contributions from Shelby Salzberg, <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>, and the Providence Preservation Society'
 ---
 
 ### Reason for Demolition
@@ -75,7 +77,7 @@ _From the PPS 2003 Guide to Providence Architecture_
 
 An income-producing investment property built by a drug and chemical manufacturer, this double house, inspired by the city palaces of Renaissance Italy, recalls the scale and setting of many house lining major streets where the downtown commercial character made a transition into surrounding residential neighborhoods. In its largely original state, it conveys a sense of what this area looked like in the latter part of the nineteenth century and serves as a foil for what follows.
 
-This property was listed as part of PPS’s list of the Ten Most Endangered Properties 2000. More history: [The PPS Guide to Providence Architecture](//guide.ppsri.org/property/alexander-f-adie-house){:target="_blank"}
+This property was listed as part of PPS’s list of the Ten Most Endangered Properties 2000. More history: [The PPS Guide to Providence Architecture](https://guide.ppsri.org/property/alexander-f-adie-house)
 
 #### Alendar F. Adie — Who was he?
 
@@ -89,7 +91,7 @@ Julia Ann died a year later — perhaps in childbirth? Adie must have been heart
 
 Nearly three years later, on December 2, 1840, he married Julia Ann’s younger sister, 17-year-old Almira Jenks Perkins. In 1843, the Adies welcomed a daughter, Julia Perkins Adie, named after her aunt, Alexander’s first wife.
 
-But tragedy was to strike again. In 1845, Almira died giving birth to an infant who also died; they are buried at Swan Point Cemetery. Alexander was now a twice-widowed 34-year-old with a two-year-old daughter. Some time before the 1850 census (probably shortly after Almira’s death), Julia Ann and Almira’s mother, Clarissa, moved in with the family to care for her granddaughter. Clarissa had also been a young widow since her husband had died when Almira was only three. Her third daughter, Henrietta, had also died young, at 23; only her two oldest daughters lived into their maturity. It must have been a sad house with the ghosts of all those lost daughters and wives. 
+But tragedy was to strike again. In 1845, Almira died giving birth to an infant who also died; they are buried at Swan Point Cemetery. Alexander was now a twice-widowed 34-year-old with a two-year-old daughter. Some time before the 1850 census (probably shortly after Almira’s death), Julia Ann and Almira’s mother, Clarissa, moved in with the family to care for her granddaughter. Clarissa had also been a young widow since her husband had died when Almira was only three. Her third daughter, Henrietta, had also died young, at 23; only her two oldest daughters lived into their maturity. It must have been a sad house with the ghosts of all those lost daughters and wives.
 
 With Clarissa there to care for young Julia, and without a wife to lavish his attention on, Adie must have thrown himself into his business once again. He appears to have been very successful, since he retired in 1853, selling his stock and good will to Chambers, Calder, & Co.
 
@@ -99,7 +101,7 @@ By 1888, two years before his death, Adie was mentioned as one of _Twenty Thousa
 
 Adie died in 1890, his daughter Julia Perkins Adie Anthony died in 1907; she and her husband had no children.
 
-_From research conducted by Catherine B. Hurst, [Chooosing-Providence](//choosing-providence.blogspot.com/2014/02/alexander-f-adie-house-part-1.html){:target="_blank"}_
+_From research conducted by [Catherine B. Hurst, Chooosing-Providence](https://choosing-providence.blogspot.com/2014/02/alexander-f-adie-house-part-1.html)_
 
 ***
 
@@ -137,4 +139,4 @@ Angelo died in 1977 at the age of 91; by this time he had moved back to Italy wh
 
 If the site of the former Alexander F. Adie house is, indeed, to become a hotel (which is the current scuttlebutt), I imagine that her ghost will be rattling a few pots and pans in its kitchen!
 
-_From research conducted by Catherine B. Hurst, [Chooosing-Providence](//choosing-providence.blogspot.com/2014/02/alexander-f-adie-house-part-2.html){:target="_blank"}_
+— _From research conducted by [Catherine B. Hurst, Chooosing-Providence](https://choosing-providence.blogspot.com/2014/02/alexander-f-adie-house-part-2.html)_

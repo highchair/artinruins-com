@@ -21,10 +21,12 @@ superlative: 'Built as a church, the building later housed the first private nor
 NRHP-ref-number: '84001967 (contributing)'
 added-to-NRHP: 'February 10, 1984'
 
-address: '151 Weybosset Street, Providence RI'
-latitude: '41.8225498'
-longitude: '-71.413989'
+address: '151 Weybosset St, Providence RI'
+latitude: '41.822614'
+longitude: '-71.411613'
 gmap: "https://www.google.com/maps/place/151+Weybosset+St,+Providence,+RI+02903/@41.8225498,-71.413989,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451476e6f0a9:0x4206c062b8f9e3cb!8m2!3d41.8225458!4d-71.4118003"
+street: [ 'Weybosset St' ]
+street-number: 151
 
 meta: ""
 excerpt: "This mid-1800s structure was one the few examples of Providence’s eminent architect Thomas Tefft but burned in 2006."
@@ -70,7 +72,7 @@ images:
     caption: 'Google Streetview from September 2015'
     sizes: '1024, 640'
 
-imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%3A4813" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library; <a href="http://www.consumergrouch.com/?p=6191" target="_blank">Betsey von Die</a>, and Google Streetview'
+imagescredit: 'Contributions from <a href="https://provlibdigital.org/islandora/object/islandora%3A4813">John Hutchins Cady Research Scrapbooks Collection</a>, Providence Public Library; <a href="http://www.consumergrouch.com/?p=6191">Betsey von Die</a>, and Google Streetview'
 ---
 
 ### Reason for Demolition

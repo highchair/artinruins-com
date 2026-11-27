@@ -13,7 +13,7 @@ date-added: '2007'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: []
@@ -22,8 +22,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '342 Broadway, Providence RI'
-latitude: '41.8197259'
-longitude: '-71.4295161'
+latitude: '41.8197249'
+longitude: '-71.4289689'
 gmap: "https://www.google.com/maps/place/342+Broadway,+Providence,+RI+02909/@41.8197259,-71.4295161,19z/data=!3m1!4b1!4m5!3m4!1s0x89e445759bf8a707:0xc5c106ae6acbe622!8m2!3d41.8197249!4d-71.4289689"
 street: [ 'Broadway' ]
 street-number: 342
@@ -79,7 +79,7 @@ We’ve seen this corner as a vacant storefront since 1999. We’ve heard rumors
 
 ### Current Events
 
-[Seven Stars](https://sevenstarsbakery.com) runs a bakery cafe at this location in addition to locations on the East Side, Rumford, and Point Street in the Jewelry District.
+[Seven Stars](https://sevenstarsbakery.com/) runs a bakery cafe at this location in addition to locations on the East Side, Rumford, and Point Street in the Jewelry District.
 
 
 ### History

@@ -16,7 +16,7 @@ date-added: '2025' #January
 categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Churches', 'Demolition by Progress', 'Providence Public Library Digital Collections', 'Still an Empty Lot' ]
@@ -120,4 +120,4 @@ She leaves two daughters, Miss Molly Del Rosso, with whom she lived, and Mrs. In
 
 A funeral service will be held Thursday at 11 a.m. at the Elliott M. Robbins Chapel, 2251 Mineral Spring Ave., Centredale. Burial will be in North Burial Ground, Providence.
 
-— “Sara Del Rosso.” <em>Providence Journal (RI)</em>, CITY ed., sec. NEWS, 12 Jan. 1982, pp. C-02. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15260926B19D04F0. Accessed 5 Jan. 2025.
+— _“Sara Del Rosso.” Providence Journal (RI), CITY ed., sec. NEWS, 12 Jan. 1982, pp. C-02. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15260926B19D04F0. Accessed 5 Jan. 2025._

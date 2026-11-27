@@ -11,7 +11,7 @@ date-added: '2002'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'PPS Ten Most Endangered', 'Providence Industrial Sites 1981' ]
 tags: [ 'Demolition by Neglect', 'Demolition by Fire', 'The Superlatives' ]
 superlative: 'After 1925, the largest laundry business in RI with 150 employees and 16 outlets throughout the state'
@@ -21,11 +21,13 @@ added-to-NRHP: 'March 18, 2004'
 
 address: '93 Cranston St, Providence RI'
 latitude: '41.8164469'
-longitude: '-71.4265637'
+longitude: '-71.424375'
 gmap: "https://www.google.com/maps/place/93+Cranston+St,+Providence,+RI+02907/@41.8164469,-71.4265637,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44576ae821739:0x61394214ce7c3b3a!8m2!3d41.8164469!4d-71.424375"
+street: [ 'Cranston St' ]
+street-number: 93
 
 meta: ""
-excerpt: "Vacant since 1987, this building stood on the West Side across from Central High School for over 20 years before being completely razed to the ground."
+excerpt: "Vacant since 1987, this building stood on the West Side across from Central High School for over 20 years before being completely razed to the ground"
 
 thumbnail: loutit-laundry-jh-2002-04-02.jpg
 
@@ -172,7 +174,7 @@ images:
     caption: 'Providence Historical Aerial Viewer 2011'
     sizes: '1440, 900'
 
-imagescredit: Contributions by Christopher Martin, <a href="https://quahog.org">Quahog.org</a>; Rick Greenwood (RIHPHC); Frederick C. Stachura; Lou Fancy; Stump; and aerials from the Providence Historical Aerial Viewer
+imagescredit: 'Contributions by Christopher Martin, <a href="https://quahog.org">Quahog.org</a>; Rick Greenwood (RIHPHC); Frederick C. Stachura; Lou Fancy; Stump; and aerials from the Providence Historical Aerial Viewer'
 ---
 
 ### Reason for Demolition
@@ -190,7 +192,7 @@ The City saved the ceramic (?) tiles on the front of the building above the main
 
 ### Current Events
 
-This area is the site of the [Urban Greens co-op market](https://urbangreens.com) and an affordable residential development called [The Upton]({% link _property/upton-residences.md %}).
+This area is the site of the [Urban Greens co-op market](https://urbangreens.com/) and an affordable residential development called [The Upton]({% link _property/upton-residences.md %}).
 
 
 ### History

@@ -19,10 +19,11 @@ lists: [ 'I-195 Relocation Project' ]
 tags: [ 'Demolition by Progress', 'Providence Public Library Digital Collections' ]
 
 address: 'Wickenden St and South Main, Providence RI'
-latitude: '41.818855'
-longitude: '-71.4035887'
+latitude: '41.8188549'
+longitude: '-71.4014001'
 gmap: "https://www.google.com/maps/place/41°49'07.9%22N+71°24'05.0%22W/@41.818855,-71.4035887,649m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0xdc80b4ccf6709d95!7e2!8m2!3d41.8188549!4d-71.4014001"
 street: [ 'Wickenden St' ]
+street-number: 125
 
 meta: ""
 excerpt: "The roadway system of on and off ramps and causeway over Wickenden Street and the murals that adorned it"
@@ -96,7 +97,7 @@ imagescredit: 'Contribution from Providence Public Library <a href="https://prov
 
 ### Reason for Demolition
 
-An upgrade to the roadway system in 2010 led to the removal of the overpass crossing Wickenden Street. Instead, the highway was moved south with a new bridge just feet from the Hurricane Barrier. The well-known murals on the retaining walls of the overpass went down in a pile of concrete as well. 
+An upgrade to the roadway system in 2010 led to the removal of the overpass crossing Wickenden Street. Instead, the highway was moved south with a new bridge just feet from the Hurricane Barrier. The well-known murals on the retaining walls of the overpass went down in a pile of concrete as well.
 
 For more photos, visit our property page covering [the portion formerly over the Providence River]({% link _property/195-over-providence-river.md %}).
 
@@ -107,7 +108,7 @@ _From Wikipedia_
 
 I-195’s stretch through Providence was reconstructed with a $610 million project by the Rhode Island Department of Transportation (<span class="abbr">RIDOT</span>) to relocate the Interstate 195 and Interstate 95 intersection. The relocation improved traffic safety, reunified the [Jewelry District]({% link neighborhood/jewelry-district.html %}) with [downtown Providence]({% link list/downtown-providence-national-historic-district.html %}), and freed up [space for new development]({% link list/i-195-district-parcels.html %}). The previous lane alignment was dangerous and created congestion, as lane shifts were often required to avoid a left sided exit-only lane. The concrete supports had deteriorated to the point that steel shoring were needed to reinforce the intersection’s many bridges.
 
-In the process, [some 35 buildings, housing over 80 businesses and six residences were demolished]({% link list/i-195-relocation-project.html %}). The new stretch of highway is called [the Iway]({% link _property/iway.md %}) by the <span class="abbr">RIDOT</span> and includes a signature bridge over the Providence River as well as a landscaped pedestrian walkway over the highway connecting India Point Park to the Fox Point neighborhood. 
+In the process, [some 35 buildings, housing over 80 businesses and six residences were demolished]({% link list/i-195-relocation-project.html %}). The new stretch of highway is called [the Iway]({% link _property/iway.md %}) by the <span class="abbr">RIDOT</span> and includes a signature bridge over the Providence River as well as a landscaped pedestrian walkway over the highway connecting India Point Park to the Fox Point neighborhood.
 
 Built in the late 1950s, <span class="abbr">RIDOT</span> started to review plans to deal with the aging section of I-195 in the 1980s. Traffic volumes had increased tremendously over those 30 years. The highway designed for 75,000 vehicles a day carried more than 160,000. The old design had other problems. Tight curves, left-hand and closely spaced exits had contributed to excessive congestion, causing delays for motorists on I-95, the Route 6/10 connector, and on city streets.
 
@@ -117,7 +118,7 @@ Another idea that was considered was a no-build alternative, one in which the ex
 
 Consideration of these choices led <span class="abbr">RIDOT</span> to choose the alignment south of the Fox Point Hurricane Barrier. Safety problems and congestion issues could be addressed, and the removal of the old highway would allow for significant redevelopment of the Providence waterfront and fuller implementation of the Old Harbor Plan. Also, the redevelopment would complement other projects including the construction of Memorial Boulevard, Waterplace Park and the Riverwalk system, and the [Capital Center]({% link list/capital-center-parcels.html %}) projects.
 
-_Captured and excerpted on February 16, 2022 from https://en.wikipedia.org/wiki/Interstate_195\_(Rhode_Island–Massachusetts)_
+— _Captured and excerpted on February 16, 2022 from https://en.wikipedia.org/wiki/Interstate_195\_(Rhode_Island–Massachusetts)_
 
 
 ### Current Events
@@ -150,6 +151,4 @@ Painting in prison: With a grant from the Rhode Island State Council on the Arts
 
 “I work with female inmates as part of a drug rehabilitation program,” he says. “They make the designs, pick the colors and materials and then paint the murals. There’s only one problem: We’ve been doing it for about a year now, and we’re running out of wall space.”
 
-—
-
-SICLEN, BILL VAN. “ART SPOTLIGHT Bachelder takes art to the wall and beyond.” Providence Journal (RI), ALL ed., sec. LIFEBEAT, 22 July 1997, pp. F-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15251E1E8FAB42D0. Accessed 16 Feb. 2022.
+— _SICLEN, BILL VAN. “ART SPOTLIGHT Bachelder takes art to the wall and beyond.” Providence Journal (RI), ALL ed., sec. LIFEBEAT, 22 July 1997, pp. F-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15251E1E8FAB42D0. Accessed 16 Feb. 2022._

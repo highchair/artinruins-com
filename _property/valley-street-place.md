@@ -107,6 +107,4 @@ _by Lisa Vernon-Sparks_
 
 […] Last September in Providence, authorities seized about 10,000 bootlegged CDs and DVDs, worth about $150,000, from the Valley Street Place flea market. […]
 
-—
-
-VERNON-SPARKS, LISA. “Investigators ‘burn’ pair for alleged DVD piracy.” <em>Providence Journal (RI)</em>, West Bay ed., sec. News, 17 May 2006, pp. D-01. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15242840273CEFE8. Accessed 25 Oct. 2024.
+— _VERNON-SPARKS, LISA. “Investigators ‘burn’ pair for alleged DVD piracy.” Providence Journal (RI), West Bay ed., sec. News, 17 May 2006, pp. D-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15242840273CEFE8. Accessed 25 Oct. 2024._

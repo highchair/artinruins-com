@@ -18,10 +18,12 @@ tags: [ 'Concrete', 'Demolition by Neglect', 'Still an Empty Lot' ]
 NRHP-ref-number: '05000583'
 added-to-NRHP: 'June 10, 2005'
 
-address: '6-64 Harris Avenue, Providence RI'
+address: '6-64 Harris Ave, Providence RI'
 latitude: '41.8273512'
-longitude: '-71.42409'
+longitude: '-71.4219013'
 gmap: "https://www.google.com/maps/place/64+Harris+Ave,+Providence,+RI+02903/@41.8273512,-71.42409,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450e507db709:0x56661c309f113e79!8m2!3d41.8273512!4d-71.4219013"
+street: [ 'Harris Ave' ]
+street-number: 52
 
 meta: ""
 excerpt: "A long, low slung industrial building west of the highway and in the shadow of the Providence Place Mall. Neglect over ten years as well as some nefarious local dealings took the building down."

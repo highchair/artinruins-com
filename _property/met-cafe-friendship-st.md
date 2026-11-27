@@ -19,10 +19,11 @@ lists: []
 tags: [ 'Bars, Businesses, & Restaurants', 'College Properties', 'Demolition by Progress', 'Johnson & Wales University' ]
 
 address: '165 Friendship St, Providence RI'
-latitude: '41.8194269'
-longitude: '-71.4148736'
+latitude: '41.819396'
+longitude: '-71.412075'
 gmap: "https://www.google.com/maps/place/165+Friendship+St,+Providence,+RI+02904/@41.8194269,-71.4148736,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456b5452ea35:0xd8149b057dce0740!8m2!3d41.8194229!4d-71.4122987?entry=ttu"
-street: []
+street: [ 'Friendship St' ]
+street-number: 165
 
 meta: ""
 excerpt: "“That very Rhode Island, deliberately shabby den of loud music, cheap beer and all kinds of people”"
@@ -67,7 +68,7 @@ Our property excerpt is extracted from a 1983 Providence Journal article talking
 
 The Met started as just a bar with a pool table but quickly grew into a small but powerful music venue. Friends of owners were the first to perform, passing a hat around for tips. Soon local acts made it a stop and touring acts came down as well.
 
-Bands that have shown up in Providence Journal articles include (not an exhaustive list by any means):  
+**Bands that have shown up in Providence Journal articles include (not an exhaustive list by any means):**  
 Riley Hayford, Duke Robillard Band, Ron Dass, Three Legged Horse, Neon Valley Boys, Jim McGrath and the Reprobates, Groovemasters, Louie Camp Band, Young Neal and the Vipers, Joe Houlihan, Albert Otis, The Detours, Chicago Vinnie Earnshaw, Lynne D. Harrison, Stovall Brown, Atomic Tom McDermott, Jerry Miller, Murphy’s Law (November 1984), Stovall Brown, Bobby Watson Blues Band, Mike Lattimore, and Shorty Jackson.
 
 20–30 years before we were ready to frequent a local watering hole, the vibe of the place described in the news stories reminds us of places like the **One Up**, **Nick-a-Nees**, the former [Decatur Lounge]({% link _property/decatur.md %}), and the **E & O Tap**.
@@ -96,24 +97,24 @@ The former location of **The Met Cafe** is still a Johnson & Wales faculty parki
 
 #### Maps
 
-+ [1926 G.M. Hopkins Map, Plate 2](//sosri.access.preservica.com/uncategorized/IO_74ff8acb-3e2d-4683-b89a-15b0f250b6b6/){:target="_blank"} — A small square in the middle of the highlighted area might be an early version of the structure located at 165 Friendship Street.
-+ [1937 G.M. Hopkins Map, Plate 2](//sosri.access.preservica.com/uncategorized/IO_edbc5f46-052f-4b47-8f13-458f6b4cbefe/){:target="_blank"} — The former square has expanded into the same shape that is depicted in the more detailed Sanborn maps. We guess to a build date between 1926 and 1937, therefore, and assume the smaller structure was replaced.
-+ [1920–1951 Sanborn Insurance Map, Plate 11, Volume 1](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101){:target="_blank"} (page 22) — A square building is split down the middle inside into spaces for numbers 165 and 167. Attached at the rear is an “L” shaped concrete block building. To the northeast is a three-story wooden “U”-shaped structure. To the northeast of that and to the south of the number 165/167 building are open surface parking lots. 
-+ [1920–1955 Sanborn Insurance Map, Plate 11, Volume 1](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601){:target="_blank"} (page 12) — Same as 1951.
++ [1926 G.M. Hopkins Map, Plate 2](https://sosri.access.preservica.com/uncategorized/IO_74ff8acb-3e2d-4683-b89a-15b0f250b6b6/) — A small square in the middle of the highlighted area might be an early version of the structure located at 165 Friendship Street.
++ [1937 G.M. Hopkins Map, Plate 2](https://sosri.access.preservica.com/uncategorized/IO_edbc5f46-052f-4b47-8f13-458f6b4cbefe/) — The former square has expanded into the same shape that is depicted in the more detailed Sanborn maps. We guess to a build date between 1926 and 1937, therefore, and assume the smaller structure was replaced.
++ [1920–1951 Sanborn Insurance Map, Plate 11, Volume 1](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101) (page 22) — A square building is split down the middle inside into spaces for numbers 165 and 167. Attached at the rear is an “L” shaped concrete block building. To the northeast is a three-story wooden “U”-shaped structure. To the northeast of that and to the south of the number 165/167 building are open surface parking lots. 
++ [1920–1955 Sanborn Insurance Map, Plate 11, Volume 1](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601) (page 12) — Same as 1951.
 
 ***
 
 #### City Directories
 
-+ [1932 Providence Directory and Rhode Island State Business Directory, Sampson & Murdoch Company](//archive.org/details/providencedirectunse_0/page/1388/mode/2up?q=%22165+friendship%22){:target="_blank"} — Page 1388: “Electrical Sales and Service Co 165 Friendship”
-+ [1934 Providence Directory and Rhode Island State Business Directory, Sampson & Murdoch Company](//archive.org/details/providencedirectunse_1/page/884/mode/2up?q=%22165+friendship%22){:target="_blank"} — Page 884: Under “Engineers — Mechanical”; “Whitman Herbert B 165 Friendship”
++ [1932 Providence Directory and Rhode Island State Business Directory, Sampson & Murdoch Company](https://archive.org/details/providencedirectunse_0/page/1388/mode/2up?q=%22165+friendship%22) — Page 1388: “Electrical Sales and Service Co 165 Friendship”
++ [1934 Providence Directory and Rhode Island State Business Directory, Sampson & Murdoch Company](https://archive.org/details/providencedirectunse_1/page/884/mode/2up?q=%22165+friendship%22) — Page 884: Under “Engineers — Mechanical”; “Whitman Herbert B 165 Friendship”
 + No entry in the 1940, 1942, 1944, 1946, or 1948 Polk’s City Directories
-+ [1950 Polk’s Providence City Directory](//archive.org/details/polksprovidencep1950unse/page/776/mode/2up?q=%22165+Friendship%22){:target="_blank"} — Under “Liquor Dealers — Retail”; “Keegan’s Frank Tap 165 Friendship”
-+ [1956 Polk’s Providence City Directory](//archive.org/details/polksprovidencepunse_1/page/n189/mode/2up?q=%22165+Friendship%22){:target="_blank"} — Under “Liquor Dealers — Retail”; “Keegan’s Frank Tap 165 Friendship”
-+ [1960 Polk’s Providence City Directory](//archive.org/details/polksprovidencep1960unse/page/n117/mode/2up?q=%22165+Friendship%22){:target="_blank"} — Under “Beer — Retail”; “Keegan’s Frank Tap 165 Friendship”
-+ [1962 Polk’s Providence City Directory](//archive.org/details/polksprovidencepunse_2/page/n165/mode/2up?q=%22165+friendship%22){:target="_blank"} — Under “Restaurants”; “Met Cafe 165 Friendship”
-+ [1966 Polk’s Providence City Directory](//archive.org/details/polksprovidencep00unse_0/page/142/mode/2up?q=%22165+Friendship%22){:target="_blank"} — Under “Liquor and Wines — Retail”; “Met Cafe 165 Friendship” page 154. Under Friendship St, “Met Cafe Liquors” page 142 in the second section.
-+ [1972 Polk’s Providence City Directory](//archive.org/details/polksprovidencep00unse_2/page/504/mode/2up?q=%22Met+Cafe%22){:target="_blank"} — In the M section; ”Met Cafe (Mrs Mollie Strashnick) liquors 165 Friendship St” page 504. Under “Strashnick”; Louis (Mollie) mgr Met Cafe h l81 10th St; Mollie Mrs (Met Cafe) r l81 10th St”
++ [1950 Polk’s Providence City Directory](https://archive.org/details/polksprovidencep1950unse/page/776/mode/2up?q=%22165+Friendship%22) — Under “Liquor Dealers — Retail”; “Keegan’s Frank Tap 165 Friendship”
++ [1956 Polk’s Providence City Directory](https://archive.org/details/polksprovidencepunse_1/page/n189/mode/2up?q=%22165+Friendship%22) — Under “Liquor Dealers — Retail”; “Keegan’s Frank Tap 165 Friendship”
++ [1960 Polk’s Providence City Directory](https://archive.org/details/polksprovidencep1960unse/page/n117/mode/2up?q=%22165+Friendship%22) — Under “Beer — Retail”; “Keegan’s Frank Tap 165 Friendship”
++ [1962 Polk’s Providence City Directory](https://archive.org/details/polksprovidencepunse_2/page/n165/mode/2up?q=%22165+friendship%22) — Under “Restaurants”; “Met Cafe 165 Friendship”
++ [1966 Polk’s Providence City Directory](https://archive.org/details/polksprovidencep00unse_0/page/142/mode/2up?q=%22165+Friendship%22) — Under “Liquor and Wines — Retail”; “Met Cafe 165 Friendship” page 154. Under Friendship St, “Met Cafe Liquors” page 142 in the second section.
++ [1972 Polk’s Providence City Directory](https://archive.org/details/polksprovidencep00unse_2/page/504/mode/2up?q=%22Met+Cafe%22) — In the M section; ”Met Cafe (Mrs Mollie Strashnick) liquors 165 Friendship St” page 504. Under “Strashnick”; Louis (Mollie) mgr Met Cafe h l81 10th St; Mollie Mrs (Met Cafe) r l81 10th St”
 
 
 ### In the News
@@ -153,9 +154,7 @@ The Last Call even has In A Gadda Da Vida by Iron Butterfly. The Met even has Hu
 
 And at either place, if you don’t like music you can always shoot pool.[…]
 
-—
-
-LIOCE, TONY. “A SLICE OF In the belly of three good bistros.” Providence Journal (RI), ALL ed., sec. WEEKEND, 11 Nov. 1983, pp. W-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525C2488CF8DCA0. Accessed 14 Jan. 2024.
+— _LIOCE, TONY. “A SLICE OF In the belly of three good bistros.” Providence Journal (RI), ALL ed., sec. WEEKEND, 11 Nov. 1983, pp. W-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525C2488CF8DCA0. Accessed 14 Jan. 2024._
 
 ***
 
@@ -239,6 +238,4 @@ Jaksina points to the picture of Davey Lopes hanging next to the swordfish that 
 
 He is obviously proud of having a piece of the place. He thinks Tom Bates is the greatest saloonkeeper there is. But he doesn’t know where he’ll go now. Neither does Watson. The Hot Club isn’t their kind of place. They’ve got some time in grade at **The Met**. It’s their place. They go to another place and the beer just won’t taste the same.
 
-—
-
-KERR, BOB. “CLOSING TIME They’re playing the last waltz at the Met Cafe.” Providence Journal (RI), ALL ed., sec. ACCENT, 27 Oct. 1985, pp. E-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525BEA410CED370. Accessed 14 Jan. 2024.
+— _KERR, BOB. “CLOSING TIME They’re playing the last waltz at the Met Cafe.” Providence Journal (RI), ALL ed., sec. ACCENT, 27 Oct. 1985, pp. E-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525BEA410CED370. Accessed 14 Jan. 2024._

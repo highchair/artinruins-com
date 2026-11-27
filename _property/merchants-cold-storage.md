@@ -20,9 +20,9 @@ superlative: 'The largest cold storage plant in New England outside of Boston wi
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '160 Kinsley Avenue, Providence RI'
+address: '160 Kinsley Aven, Providence RI'
 latitude: '41.8287755'
-longitude: '-71.4255064'
+longitude: '-71.4233177'
 gmap: "https://www.google.com/maps/place/160+Kinsley+Ave,+Providence,+RI+02908/@41.8287755,-71.4255064,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450f2606c039:0x1658ce4ce4095854!8m2!3d41.8287755!4d-71.4233177"
 
 meta: ""
@@ -87,34 +87,34 @@ images:
   - url: merchants-cold-rihphc-1994-12.jpg
     sizes: '1200, 800'
 
-imagescredit: 'Contributions by the <a href="//provlibdigital.org/islandora/object/islandora%3A036-03" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, Steve Dunwell, Virginia Adams & Anne Tait, and Erik Gould'
+imagescredit: 'Contributions by the <a href="https://provlibdigital.org/islandora/object/islandora%3A036-03">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, Steve Dunwell, Virginia Adams & Anne Tait, and Erik Gould'
 ---
 
 ### Reason for Demolition
 
-The Merchants Cold Storage Warehouse was demolished in 1998-2000 as part of the redevelopment of the old Cold Storage [Provisions Warehouse District]({% link list/provisions-warehouse-district.html %}) for increased residential use. The sign on the roof — at least 6' tall letters spelling “Providence Cold Storage” — looks to have been removed shortly after the company became defunct, about 1993. It was one of the first buildings to be razed in the district, followed by the [Providence Fruit Warehouse]({% link _property/providence-fruit-produce.md %}), A.T. Armour, and [Brownell and Field]({% link _property/brownell-field-co.md %}). 
+The Merchants Cold Storage Warehouse was demolished in 1998-2000 as part of the redevelopment of the old Cold Storage [Provisions Warehouse District]({% link list/provisions-warehouse-district.html %}) for increased residential use. The sign on the roof — at least 6' tall letters spelling “Providence Cold Storage” — looks to have been removed shortly after the company became defunct, about 1993. It was one of the first buildings to be razed in the district, followed by the [Providence Fruit Warehouse]({% link _property/providence-fruit-produce.md %}), A.T. Armour, and [Brownell and Field]({% link _property/brownell-field-co.md %}).
 
 It’s too bad that this building was gone right before the trend became turning them into housing or other commercial functions. The building’s thick insulated, sound-dampening walls would have made a perfect host for music practice spaces or even a few dance clubs. There is a similar building (built for the same use) in Paris that has been transformed into band practice and recording studios. It’s even worse that it was replaced by a building that won’t last the same 100 years that the Cold Storage building did.
 
 
 ### Current Events
 
-Jefferson Place, now called [the 903]({% link _property/the-903.md %}), occupies the former location of this building as well as the former location of the [Silver Top Diner]({% link _property/silver-top-diner.md %}). 
+Jefferson Place, now called [the 903]({% link _property/the-903.md %}), occupies the former location of this building as well as the former location of the [Silver Top Diner]({% link _property/silver-top-diner.md %}).
 
 
 ### History
 
-The amazing circa 1917 photograph was found in the [National Archive](//catalog.archives.gov/id/45500854){:target="_blank"} as part of the _Military Administration: In Service of the Interior_ collection. Another [interesting postcard (?) image](//commons.wikimedia.org/wiki/File:Merchants%27_Freezing_and_Cold_Storage_Company,_Providence,_Rhode_Island.jpg){:target="_blank"} is held at Wikimedia but the moire pattern of the scan makes some of the architectural detail hard to discern. 
+The amazing circa 1917 photograph was found in the [National Archive](https://catalog.archives.gov/id/45500854) as part of the _Military Administration: In Service of the Interior_ collection. Another [interesting postcard (?) image](https://commons.wikimedia.org/wiki/File:Merchants%27_Freezing_and_Cold_Storage_Company,_Providence,_Rhode_Island.jpg) is held at Wikimedia but the moire pattern of the scan makes some of the architectural detail hard to discern.
 
 ***
 
 _From the RIHPHC survey of Providence Industrial Sites, July 1981_
 
-The Merchants’ Cold Storage and Warehouse Company built this large, and architecturally impressive, warehouse in 1893, and continues to operate it. The warehouse is brick with recessed Gothic arches, corbeled belt courses, and drip mouldings. Opened for business in June 1894, the building originally contained 300,000 cubic feet of refrigerated space carried on substantial woOd beams and posts, a framing system which remains intact. [Located in the middle of Providence’s produce district]({% link list/provisions-warehouse-district.html %}), the warehouse was primarily used for the storage of eggs, butter, cheese, apples, and assorted dry fruits. With its storage space increased to 3,000,000 cubic feet by 1910, Merchants’ was the largest cold storage plant in New England outside of Boston. 
+The Merchants’ Cold Storage and Warehouse Company built this large, and architecturally impressive, warehouse in 1893, and continues to operate it. The warehouse is brick with recessed Gothic arches, corbeled belt courses, and drip mouldings. Opened for business in June 1894, the building originally contained 300,000 cubic feet of refrigerated space carried on substantial woOd beams and posts, a framing system which remains intact. [Located in the middle of Providence’s produce district]({% link list/provisions-warehouse-district.html %}), the warehouse was primarily used for the storage of eggs, butter, cheese, apples, and assorted dry fruits. With its storage space increased to 3,000,000 cubic feet by 1910, Merchants’ was the largest cold storage plant in New England outside of Boston.
 
-Refrigeration was maintained through a system of brine circulation involving the use of three brine tanks; three ice machines, or compressors, driven by steam engines an extensive net work of circulating pipes; and an assortment of pumps, boilers, and auxiliary equipment. Two of the three Linde Ice Machines patent dates, 1880 and 1884, built by the Fred W. Wolf Company of Chicago, are still in place though no longer used. The Number 2 machine, 15" X 25" with 75-tons capacity, was driven by a Harris Corliss high-pressure steam engine, 18" X 42". This steam engine-compressor set, which remains in place, was installed in 1893. 
+Refrigeration was maintained through a system of brine circulation involving the use of three brine tanks; three ice machines, or compressors, driven by steam engines an extensive net work of circulating pipes; and an assortment of pumps, boilers, and auxiliary equipment. Two of the three Linde Ice Machines patent dates, 1880 and 1884, built by the Fred W. Wolf Company of Chicago, are still in place though no longer used. The Number 2 machine, 15" X 25" with 75-tons capacity, was driven by a Harris Corliss high-pressure steam engine, 18" X 42". This steam engine-compressor set, which remains in place, was installed in 1893.
 
-In 1910, a larger set was installed and that too, survives. The ice machine is 16" X 30" with a 100-ton capacity and the Harris-Corliss is 32" X 42" with a 14-foot flywheel; The two steam engine-compressor sets, recently painted and with their brass fittings polished, are exceptionally well- preserved. Brine recirculation is still employed, though the system now uses York automatic compressors, installed in the late-1950s, with a 500-horsepower Carrier centrifugal compressor, c.l946, in stand-by. The original -hydraulic elevators continue in limited use. After World War -II, the company converted its cooling units to freezers to meet the growing market for frozen foods. 
+In 1910, a larger set was installed and that too, survives. The ice machine is 16" X 30" with a 100-ton capacity and the Harris-Corliss is 32" X 42" with a 14-foot flywheel; The two steam engine-compressor sets, recently painted and with their brass fittings polished, are exceptionally well- preserved. Brine recirculation is still employed, though the system now uses York automatic compressors, installed in the late-1950s, with a 500-horsepower Carrier centrifugal compressor, c.l946, in stand-by. The original -hydraulic elevators continue in limited use. After World War -II, the company converted its cooling units to freezers to meet the growing market for frozen foods.
 
 With modernized hatcheries eliminating the seasonal nature of the egg business, Merchants’ no longer stores shell eggs. The warehouse, with its own active rail spur, currently stores meat, poultry, and cranberries. Merchants’ is an excellent surviving example of 19th-century cold storage technology. (Board of Trade Journal, Providence, September 1910, illustrations; Interview with Carl Johnson, manager, August, 1977; Jenks and Ballou, “List of Apparatus and Notes on Design, Operation and Management of the Power Plant of the Merchants’ Cold Storage and Warehouse Company,” February, 1953.)
 

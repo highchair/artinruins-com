@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'College Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'College Hill Historic District', 'National Register of Historic Places' ]
 tags: [ 'Demolition by Progress', 'Demolition by Neglect', 'House' ]
@@ -22,8 +22,8 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '383 Brook St, 116 Waterman, Providence RI'
-latitude: '41.8276549'
-longitude: '-71.4037212'
+latitude: '41.827651'
+longitude: '-71.399494'
 gmap: "https://www.google.com/maps/place/41%C2%B049'39.5%22N+71%C2%B023'58.2%22W/@41.8276549,-71.4037212,630m/data=!3m2!1e3!4b1!4m7!1m2!2m1!1smaps.google.com+116+waterman+street!3m3!8m2!3d41.827651!4d-71.399494"
 street: [ 'Brook St' ]
 street-number: 383
@@ -82,7 +82,7 @@ imagescredit:
 
 [Walter Bronhard]({% link designer/walter-bronhard.html %}) and Brook Holding, LLC were applicants proposing to demolish these two existing homes in the College Hill Historic District. They want to construct a new mixed-use five story building with a commercial ground floor and 25 dwelling units. They sought a dimensional adjustment to maintain a height of 58' and five stories where 50' and four stories are allowed by right in the zone. They also requested a design waiver for locating residential development within 20' of a main street, which was approved contingent on the use of noise regulatory devices and 24/7 security for the life of the project.
 
-Few presentations in opposition were heard — the Providence Preservation Society was one of the few [objectors to the variances](https://ppsri.org/wp-content/uploads/2023/02/2023-02-116-Waterman-PPS.pdf) in a letter addressed to the City Planning Commission.
+Few presentations in opposition were heard — the Providence Preservation Society was one of the few [objectors to the variances (PDF)](https://ppsri.org/wp-content/uploads/2023/02/2023-02-116-Waterman-PPS.pdf) in a letter addressed to the City Planning Commission.
 
 The loss of these properties is part of [our essay about the erosion of the College Hill Historic District]({% link _essays/erosion-of-college-hill-historic-district.md %}).
 
@@ -108,7 +108,7 @@ _From an archived webpage about Brown Association of Cooperative Housing (BACH)_
 
 Finlandia's cluttered basement is home to the BACH office, which is where all the great work of our organization is processed and clumsily filed.
 
-_— Captured 03 March, 2023 from https://web.archive.org/web/20050323085223/http://www.brown.edu/Students/BACH/houses/finlandia.html_
+— _Captured 03 March, 2023 from https://web.archive.org/web/20050323085223/http://www.brown.edu/Students/BACH/houses/finlandia.html_
 
 
 ### In the News
@@ -162,4 +162,4 @@ Matthew Schaelling said he was for the project and for the adjustments, and that
 
 Christian Roselund was the only person to speak against the surveillance requirement imposed by the Plan Commission and said the development, and more housing, is in the public’s interest.
 
-_Captured on March 16, 2023 from https://www.providencejournal.com/story/news/local/2023/02/22/providence-approves-5-story-25-apartment-project-on-college-hill/69931601007/_
+— _Captured on March 16, 2023 from https://www.providencejournal.com/story/news/local/2023/02/22/providence-approves-5-story-25-apartment-project-on-college-hill/69931601007/_

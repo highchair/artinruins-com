@@ -160,7 +160,7 @@ The center has served as a meeting place for Women of Brown United, Socialist Fe
 
 The center also maintains a library featuring feminist literature and contains an art gallery designed to highlight the work of local female artists.[…]
 
-— DAVIS, KAREN A.. “East Side house’s days seem numbered.” <em>Providence Journal (RI)</em>, Metro ed., sec. News, 5 Oct. 2001, pp. C-01. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15250BA1582BD208. Accessed 27 Nov. 2024.
+— _DAVIS, KAREN A.. “East Side house’s days seem numbered.” Providence Journal (RI), Metro ed., sec. News, 5 Oct. 2001, pp. C-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15250BA1582BD208. Accessed 27 Nov. 2024._
 
 ***
 
@@ -190,6 +190,6 @@ I know that this old building shared with the larger women’s movement a compli
 
 But for all its faults, the center remains an important part of our history at Brown. I am comforted that many of its earlier functions and resources exist at the “new” center, which is also a lovely former residence. However, now that I’m in my forties I appreciate how an old building can connect us to history in a way that a new space, despite its strengths, simply cannot. I remain proudly faithful to the memories of the Meeting Street Sarah Doyle Women’s Center. I honor its sense of time and place, purpose and design, grace and wisdom. Allowing it to slip by in silence would make the demolition of a building a loss of so much more.
 
-— _Gigi Hansen-DiBello was director of the Sarah Doyle Women’s Center from 1989 to 1995. She is a founding faculty member of the CVS Highlander Charter School in Providence._ Accessed 30 November 2024.
+— _Gigi Hansen-DiBello was director of the Sarah Doyle Women’s Center from 1989 to 1995. She is a founding faculty member of the CVS Highlander Charter School in Providence. Accessed 30 November 2024._
 
 </details>

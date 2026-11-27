@@ -22,10 +22,11 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '184 Benefit St (west entrance), Providence RI'
-latitude: '41.8278722'
-longitude: '-71.4081401'
-gmap: "https://www.google.com/maps/place/184+Benefit+St,+Providence,+RI+02903/@41.8278722,-71.4081401,157m/data=!3m1!1e3!4m5!3m4!1s0x89e445178e5e4901:0x42c4f2b5c8afb09c!8m2!3d41.8281164!4d-71.4081423"
-street: [ 'Benefit St', North Main St' ]
+latitude: '41.8280352'
+longitude: '-71.4083721'
+gmap: "https://www.google.com/maps/place/East+Side+Railroad+Tunnel+Western+Portal/@41.8278998,-71.4087841,18.7z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzQwLjMiTiA3McKwMjQnMjkuMyJX!8m2!3d41.8278722!4d-71.4081401!3m5!1s0x89e44500290df961:0xfe15682b4e0fb019!8m2!3d41.8280352!4d-71.4083721!16s%2Fg%2F11mzpgmjjc?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Benefit St' ]
+street-number: 184
 
 meta: ""
 excerpt: "In use for almost 70 years, the East Side Train tunnel burrows beneath College Hill and once connected Union Station to East Providence"
@@ -108,34 +109,34 @@ images:
 
 mostrecentimage: 2024-08-01
 
-imagescredit: 'Contributions from the <a href="//provlibdigital.org/islandora/object/islandora%3A043-03" target="_blank">Providence Public Library Digital Collection</a> (<a href="https://provlibdigital.org/islandora/object/islandora%3A46" target="_blank">Avery Lord aerial</a>, Edward Ozog Photograph Collection), Leo King, Providence Historical Aerial Viewer, and <a href="https://www.loc.gov/pictures/item/ri0396/" target="_blank">Library of Congress</a> HABS/HAER photographer William E. Barrett'
+imagescredit: 'Contributions from the <a href="https://provlibdigital.org/islandora/object/islandora%3A043-03">Providence Public Library Digital Collection</a> (<a href="https://provlibdigital.org/islandora/object/islandora%3A46">Avery Lord aerial</a>, Edward Ozog Photograph Collection), Leo King, Providence Historical Aerial Viewer, and <a href="https://www.loc.gov/pictures/item/ri0396/">Library of Congress</a> HABS/HAER photographer William E. Barrett'
 ---
 
 ### Reason for Closure
 
-The tunnel and viaduct connected all rail traffic from Fall River, Massachusetts, and the eastern shore of the Narragansett Bay with the main shoreline route of the New York, New Haven & Hartford Railroad. Passenger service on this line was short-lived and discontinued in 1937. From then until 1981 the tunnel and line was used only for freight traffic. 
+The tunnel and viaduct connected all rail traffic from Fall River, Massachusetts, and the eastern shore of the Narragansett Bay with the main shoreline route of the New York, New Haven & Hartford Railroad. Passenger service on this line was short-lived and discontinued in 1937. From then until 1981 the tunnel and line was used only for freight traffic.
 
-Rail service dwindled as highways took over day-to-day transportation. In the 1950s, the second track was removed as freight service also dwindled. The continuation into Bristol was abandoned in 1976, and by 1981 the last train traversed the tracks. The ownership of the tunnel transferred from the Providence and Worcester Railroad to the State of Rhode Island in 1981, and the tunnel was closed as part of the Northeast Corridor Improvement Project shortly after. 
+Rail service dwindled as highways took over day-to-day transportation. In the 1950s, the second track was removed as freight service also dwindled. The continuation into Bristol was abandoned in 1976, and by 1981 the last train traversed the tracks. The ownership of the tunnel transferred from the Providence and Worcester Railroad to the State of Rhode Island in 1981, and the tunnel was closed as part of the Northeast Corridor Improvement Project shortly after.
 
 When construction began in 2000 to renovate [101 North Main Street]({% link _property/101-north-main-st.md %}) and construct a new building at [Two Thomas Street]({% link _property/two-thomas-st.md %}), the steel doors covering the tunnel entrance under Benefit Street were painted and the old track area in front of it was cleaned up and made into a surface parking lot.
 
 #### Related Links & Stories
 
-+ [Dark Shadows of the East Side Tunnel, Strange New England](//www.strange-new-england.com/2017/09/01/dark-shadows-of-eastside-tunnel/){:target="_blank"}
-+ [Providence’s Tunnel of Love, The Independent](//www.theindy.org/a/1214){:target="_blank"}
-+ [Transit advocates say reusing Providence train tunnel a waste of money. Providence Journal](//www.providencejournal.com/article/20131002/NEWS/310029853){:target="_blank"}
++ [Dark Shadows of the East Side Tunnel, Strange New England](https://www.strange-new-england.com/2017/09/01/dark-shadows-of-eastside-tunnel/)
++ [Providence’s Tunnel of Love, The Independent](https://www.theindy.org/a/1214)
++ [Transit advocates say reusing Providence train tunnel a waste of money. Providence Journal](https://www.providencejournal.com/article/20131002/NEWS/310029853)
 
 #### We support and admire the Weird Island podcast! 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/a7608e3d-f8fc-420f-b599-ac64e263ebe6?dark=false"></iframe>
 
-Visit on the web: [Weird Island Episode 18: The East Side Train Tunnel](//weird-island.simplecast.com/episodes/18-abandoned-the-east-side-train-tunnel)
+Visit on the web: [Weird Island Episode 18: The East Side Train Tunnel](https://weird-island.simplecast.com/episodes/18-abandoned-the-east-side-train-tunnel)
 
 
 ### Current Events
 
-In 2003, Brown University and the Mayor of East Providence, Rolland Grant, and Robert Manchester (a Brown alumni) considered putting trains back into the tunnel and linking East Providence and the East Side and Downtown once again, with proposed underground stops at Thayer Street and Benefit Street. This proposal was fun to think about but clearly went nowhere. 
+In 2003, Brown University and the Mayor of East Providence, Rolland Grant, and Robert Manchester (a Brown alumni) considered putting trains back into the tunnel and linking East Providence and the East Side and Downtown once again, with proposed underground stops at Thayer Street and Benefit Street. This proposal was fun to think about but clearly went nowhere.
 
-In 2020 the tunnel still sits under College Hill, largely forgotten. Both entrances are shut with welded steel doors. 
+In 2020 the tunnel still sits under College Hill, largely forgotten. Both entrances are shut with welded steel doors.
 
 
 ### History
@@ -182,4 +183,4 @@ On May 1st, 1993, a group of students gathered at the western portal below Benef
 
 By the time police arrived, the party had gained more attendants and they refused to disperse. The situation escalated quickly. The police tried to gain control of the situation with tear gas and the students answered with rocks and bricks. “The cops formed a riot line with locked arms and walked through the kids. A friend of mine breached the cop line. They beat him down and arrested him.” The police charge in the next day’s paper that they had encountered “satanic rituals”. As a result the tunnel was closed with thick corrugated steel, pierced at each end only by a locked door.
 
-_Thanks to Erik Gould and [Undercity.org](https://www.undercity.org) for some info. Quoted material from an account e-mailed to us by Kevin._
+_Thanks to Erik Gould and [Undercity.org](https://www.undercity.org/) for some info. Quoted material from an account e-mailed to us by Kevin._

@@ -22,8 +22,8 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '257 Thayer St, Providence RI'
-latitude: '41.828961'
-longitude: '-71.4006503'
+latitude: '41.8289611'
+longitude: '-71.4000995'
 gmap: "https://www.google.com/maps/place/41°49'44.3%22N+71°24'00.4%22W/@41.828961,-71.4006503,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0xb4a86bb1d3e053ce!7e2!8m2!3d41.8289611!4d-71.4000995"
 street: [ 'Thayer St' ]
 street-number: 257
@@ -107,13 +107,13 @@ imagescredit: 'Sanborn Map from the Library of Congress, Geography and Map Divis
 
 ### Reason for Demolition
 
-The demolition of nine late 19th-century homes in a heavily commercial residential district was controversial, as we hoped it would be. It should not be easy to tear down most of a complete city block. And yet, it was easier than we might have expected. 
+The demolition of nine late 19th-century homes in a heavily commercial residential district was controversial, as we hoped it would be. It should not be easy to tear down most of a complete city block. And yet, it was easier than we might have expected.
 
-The density of the project was what won over the City Plan Commission in the end. The new building as proposed would be four stories and not require a parking spot for every unit, easing the need for expensive and ugly surface lots. Modern construction materials could provide better long-term maintenance options for tenants as well as the neighborhood (in theory). 
+The density of the project was what won over the City Plan Commission in the end. The new building as proposed would be four stories and not require a parking spot for every unit, easing the need for expensive and ugly surface lots. Modern construction materials could provide better long-term maintenance options for tenants as well as the neighborhood (in theory).
 
-Rightfully so, residents of College Hill saw yet another example of institutional creep in the neighborhood, even though this project was not directly financed by any college. It used the universities’ student populations as its market and would not have happened without it. 
+Rightfully so, residents of College Hill saw yet another example of institutional creep in the neighborhood, even though this project was not directly financed by any college. It used the universities’ student populations as its market and would not have happened without it.
 
-[The erosion of the residential College Hill Historic District between Cushing, Brook, Waterman, and Thayer Streets is evident]({% link _essays/erosion-of-college-hill-historic-district.md %}). And yet Brown keeps building. And private developers piggy-back as well. And eventually, the north east section of the College Hill District may have very few 100+ year old homes left. This block of nine homes was the lynch pin that started lubricating the slippery slope in this area. 
+[The erosion of the residential College Hill Historic District between Cushing, Brook, Waterman, and Thayer Streets is evident]({% link _essays/erosion-of-college-hill-historic-district.md %}). And yet Brown keeps building. And private developers piggy-back as well. And eventually, the north east section of the College Hill District may have very few 100+ year old homes left. This block of nine homes was the lynch pin that started lubricating the slippery slope in this area.
 
 
 ### Current Events
@@ -182,6 +182,4 @@ Resident David Kolsky also said the comprehensive plan was designed to “stabil
 
 “The integrity of College Hill is broken,” he said. “It will be whatever is left over after Brown, Moses Brown and Wheeler… There won’t be a residential feel once you destroy it.”
 
-—
-
-PINA, ALISHA A.. “PROVIDENCE — Panel OKs Thayer Street apartments.” Providence Journal (RI), 1 ed., sec. projoRhodeIsland, 17 May 2012, p. A5. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152421E38EAC39C0. Accessed 23 Jan. 2022.
+— _PINA, ALISHA A.. “PROVIDENCE — Panel OKs Thayer Street apartments.” Providence Journal (RI), 1 ed., sec. projoRhodeIsland, 17 May 2012, p. A5. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152421E38EAC39C0. Accessed 23 Jan. 2022._

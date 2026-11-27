@@ -27,6 +27,8 @@ address: '108–110 Waterman St, Providence RI'
 latitude: '41.8275741'
 longitude: '-71.4000181'
 gmap: "https://www.google.com/maps/place/108+Waterman+St,+Providence,+RI+02906/@41.8275741,-71.4000181,17z/data=!3m1!4b1!4m6!3m5!1s0x89e44524abd50dbb:0x9b6c35292235062d!8m2!3d41.8275741!4d-71.4000181!16s%2Fg%2F11b8v6khn1?entry=ttu"
+street: [ 'Waterman St' ]
+street-number: 108
 
 meta: ""
 excerpt: "A beautifully detailed late 19th-century double house will succumb to the wrecking ball in favor of more of the same modern apartment building design"
@@ -132,6 +134,6 @@ We were able to find the obituary of Mr. Waterman, who died in 1896. He was a co
 
 “[…] He was twice married. In 1838 he married Elizabeth Bowen Greene, daughter of Franklin and Anna E. (Bowen) Greene. She died in 1848. Three sons survive this union, Henry, Richard and Rufus. In 1852 he married Emily Greene, sister of his first wife. There was no issue of this alliance.”
 
-— _Evening Bulletin, Tuesday June 2, 1896_ from a post captured 28 September 2023 from https://www.findagrave.com/memorial/21399560/rufus-waterman
+— _Evening Bulletin, Tuesday June 2, 1896_ from a post captured 28 September 2023 from https://www.findagrave.com/memorial/21399560/rufus-waterman_
 
 He is buried at Swan Point cemetery.

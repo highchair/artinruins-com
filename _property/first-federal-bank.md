@@ -11,14 +11,14 @@ date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Demolition by Proposal', 'Former Banks', 'Needs History', 'Still an Empty Lot' ]
 
 address: '110 Westminster St, Providence RI'
-latitude: '41.82425'
-longitude: '-71.4126317'
-gmap: "https://www.google.com/maps/place/110+Westminster+St,+Providence,+RI+02903/@41.82425,-71.4126317"
+latitude: '41.8242429'
+longitude: '-71.410342'
+gmap: "https://www.google.com/maps/place/110+Westminster+St,+Providence,+RI+02903/@41.824266,-71.4110501,18.4z/data=!4m6!3m5!1s0x89e445169e4ba73b:0x7331bdbad6cafba7!8m2!3d41.8242429!4d-71.410342!16s%2Fg%2F11cslqxc8r?entry=ttu&g_ep=EgoyMDI2MTEyMy4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Westminster St' ]
 street-number: 110
 
@@ -57,7 +57,7 @@ The march of progress came down hard on this glass- and steel facade building fr
 ### Current Events
 Alas, that was when the market was very hot, and projects like the new towers at [Waterplace Park Towers]({% link _property/waterplace-towers.md %}) were just starting. The high-end of the market had been met by projects like that. Once the land was cleared and made ready, and people were excited to see a building as tall as the Superman building (the Industrial Trust building), the bottom fell out of the housing market. Fifteen years later (in 2020), the land is still vacant and only home to a surface parking lot.
 
-Will developers ever be held accountable for demolishing buildings of historic importance? Should they put up some guarentee or hold money in escrow or something to prevent demolition by proposal? Probably not, but it would sure be nice. But, in the meantime, _downtown could really use some more surface parking lots_. 
+Will developers ever be held accountable for demolishing buildings of historic importance? Should they put up some guarentee or hold money in escrow or something to prevent demolition by proposal? Probably not, but it would sure be nice. But, in the meantime, _downtown could really use some more surface parking lots_.
 
 ### In the News
 

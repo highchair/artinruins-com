@@ -15,7 +15,7 @@ date-added: '2022'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Fire' ]
@@ -24,8 +24,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '4 Sims Ave, Providence RI'
-latitude: '41.8265009'
-longitude: '-71.433662'
+latitude: '41.826954'
+longitude: '-71.432854'
 gmap: "https://www.google.com/maps/place/498+Kinsley+Ave,+Providence,+RI+02909/@41.8265009,-71.433662,229m/data=!3m1!1e3!4m5!3m4!1s0x89e445a1207d6367:0x81886b0125f627b9!8m2!3d41.8267953!4d-71.4329692"
 
 meta: ""
@@ -100,9 +100,9 @@ Farm Fresh Rhode Island built a new distribution center and indoor farmer’s ma
 
 ### History
 
-According to _“RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”_, by Gary Kulik and Julia C. Bonham, 1978, the Builder’s Iron Foundry cast the ornate iron facade of the 1872 Equitable Building at the corner of Weybosset and Custom House Streets. 
+According to _“RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”_, by Gary Kulik and Julia C. Bonham, 1978, the Builder’s Iron Foundry cast the ornate iron facade of the 1872 Equitable Building at the corner of Weybosset and Custom House Streets.
 
-<span class="abbr">BIF</span>’s former complex on Codding Steet, which is no longer a street, was on Providence’s West Side near the former [New England Butt]({% link _property/new-england-butt.md %}). The area of this complex was bounded by Westminster to the north, Knight to the east, Cranston to the south, and Dodge to the west. That complex was razed between 1962 and 1972 to develop [Wiggin Village Apartments](https://www.google.com/maps/place/Wiggin+Village+Apartments/@41.8159299,-71.4266222,458m/data=!3m1!1e3!4m5!3m4!1s0x89e4457705e399f9:0x2062adc60a4feaa2!8m2!3d41.8144167!4d-71.4267555). 
+<span class="abbr">BIF</span>’s former complex on Codding Steet, which is no longer a street, was on Providence’s West Side near the former [New England Butt]({% link _property/new-england-butt.md %}). The area of this complex was bounded by Westminster to the north, Knight to the east, Cranston to the south, and Dodge to the west. That complex was razed between 1962 and 1972 to develop [Wiggin Village Apartments](https://www.google.com/maps/place/Wiggin+Village+Apartments/@41.8159299,-71.4266222,458m/data=!3m1!1e3!4m5!3m4!1s0x89e4457705e399f9:0x2062adc60a4feaa2!8m2!3d41.8144167!4d-71.4267555).
 
 ***
 
@@ -176,4 +176,4 @@ Fire Capt. Peter McMichael said on Friday that fire investigators are looking at
 
 The fire remains under investigation by the state and city fire marshal’s offices and with investigators from the federal Bureau of Alcohol, Tobacco, Firearms and Explosives. Capt. McMichael said the federal agency was providing resources such as chemists, engineers and other experts.
 
-— Mooney, Tom. “providence Burned mill building housed illicit drug lab.” Providence Journal (RI), sec. RI News, 21 Mar. 2015, p. 1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1595786D2DB52430. Accessed 13 Feb. 2022.
+— _Mooney, Tom. “providence Burned mill building housed illicit drug lab.” Providence Journal (RI), sec. RI News, 21 Mar. 2015, p. 1. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/1595786D2DB52430. Accessed 13 Feb. 2022._

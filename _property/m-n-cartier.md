@@ -12,14 +12,14 @@ date-added: '2006'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'PPS Ten Most Endangered', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Demolition by Neglect', 'The Superlatives' ]
 superlative: 'City directories listed the company as the largest receivers of roofing materials in New England'
 
 address: '1107 Westminster St, Providence RI'
 latitude: '41.8172654'
-longitude: '-71.4291047'
+longitude: '-71.426916'
 gmap: "https://www.google.com/maps/place/1107+Westminster+St,+Providence,+RI+02909/@41.8172654,-71.4291047,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445768008e1b1:0x760c6bed5251dc0f!8m2!3d41.8172654!4d-71.426916"
 street: [ 'Westminster St' ]
 street-number: 1107

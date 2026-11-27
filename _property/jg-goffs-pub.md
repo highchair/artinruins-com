@@ -12,17 +12,17 @@ date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Davol Rubber Company Complex', 'Providence Industrial Sites 1981', 'National Register of Historic Places' ]
 tags: [ 'Demolition by Progress' ]
 
 NRHP-ref-number: '80000093 (individual)'
 added-to-NRHP: 'June 1980'
 
-address: '7 Point Street, Providence RI'
-latitude: '41.817407'
-longitude: '-71.4082377'
-gmap: "https://www.google.com/maps/place/7+Point+St,+Providence,+RI+02903/@41.817407,-71.4082377,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4454020262997:0x231702654f768800!8m2!3d41.817407!4d-71.406049"
+address: '7 Point St, Providence RI'
+latitude: '41.8176878'
+longitude: '-71.4051252'
+gmap: "https://www.google.com/maps/place/River+House/@41.817673,-71.4056374,19.55z/data=!4m6!3m5!1s0x89e445819956a363:0x2cbf86f24667df90!8m2!3d41.8176878!4d-71.4051252!16s%2Fg%2F11fht_bvb_?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "A lovely little pub that we never had to pleasure of visiting. Construction on a 3 mile sewer project damaged the foundations beyond repair"
@@ -69,21 +69,21 @@ Founded in 1993, the J.G. Goff’s Pub (J.G. Goff’s or pub) was a small tavern
 
 J.G. Goff's was formed, owned, and operated by Free & Clear, an “S” corporation that originally was held jointly by Robert Freeman, Jr. (Freeman) and Stephen Cleary (Cleary). In addition to his ownership interest in Free & Clear, Cleary owned the real estate management company that managed the Davol Square Complex until the late 1990s. Freeman, who sold Cleary his interest in Free & Clear in 1998, was the son of the then-owner of the Davol Square Jewelry Mart, LLC (Davol Square). The building that housed the pub (Goff Building) was owned by Davol Square.
 
-The pub did not open for business on December 9, 2003, and it has not served another customer since that date. Two days later, on December 11, the Building Inspector for the City of Providence declared that the building was unsafe for occupancy and use. 
+The pub did not open for business on December 9, 2003, and it has not served another customer since that date. Two days later, on December 11, the Building Inspector for the City of Providence declared that the building was unsafe for occupancy and use.
 
-_Excerpted from [Case Law Archives](//caselaw.findlaw.com/ri-supreme-court/1726055.html){:target="_blank"}, captured June 4, 2020_
+_Excerpted from [Case Law Archives](https://caselaw.findlaw.com/ri-supreme-court/1726055.html), captured June 4, 2020_
 
 
 ### Current Events
 
-The area where this building once stood is now home to [River House](//www.myriverhouse.com/){: target=_blank}.
+The area where this building once stood is now home to [River House](https://www.myriverhouse.com/).
 
 
 ### History
 
-Local legend, bar owner, and bartender John “JR” Richard used to tend at J.G. Goff’s. Known more recently as the owner of The Avery in Loungo Square on the West Side and the PTX Lounge in Pawtucket Village, Cranston. 
+Local legend, bar owner, and bartender John “JR” Richard used to tend at J.G. Goff’s. Known more recently as the owner of The Avery in Loungo Square on the West Side and the PTX Lounge in Pawtucket Village, Cranston.
 
-We have not found much info about this building as the Davol Rubber Company nomination form is light on details. A build date in included in the excerpt below, but we question whether or not this building was built by Davol: 
+We have not found much info about this building as the Davol Rubber Company nomination form is light on details. A build date in included in the excerpt below, but we question whether or not this building was built by Davol:
 
 ***
 

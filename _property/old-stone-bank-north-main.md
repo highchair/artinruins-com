@@ -12,14 +12,14 @@ date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'East Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'North Main Street Commercial Corridor' ]
-tags: [ 'Former Banks', 'Demolition by Neglect', 'Needs History', 'Yellow brick' ]
+tags: [ 'Former Banks', 'Demolition by Neglect', 'Needs History', 'Still an Empty Lot', 'Yellow brick' ]
 
 address: '1340 North Main St, Providence RI'
-latitude: '41.8560174'
-longitude: '-71.4026579'
-gmap: "https://www.google.com/maps/place/1340+N+Main+St,+Providence,+RI"
+latitude: '41.856012'
+longitude: '-71.400108'
+gmap: "https://www.google.com/maps/place/1340+N+Main+St,+Providence,+RI+02904/@41.8559571,-71.4007069,19.35z/data=!4m12!1m5!3m4!2zNDHCsDUxJzIxLjciTiA3McKwMjQnMDkuNiJX!8m2!3d41.8560174!4d-71.4026579!3m5!1s0x89e444c755700f5d:0xbac29c35e1e84fe4!8m2!3d41.856012!4d-71.400108!16s%2Fg%2F11c86vtg8f?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'North Main St' ]
 street-number: 1340
 
@@ -52,9 +52,9 @@ imagescredit:
 
 ### Reason for Demolition
 
-This little building was rather cute, actually. Nothing fantastic about it, but some small architectural details on the façade. An old sticker on the side of the building hints that it was at one time a campaign headquarters for Myrth York. York ran unsuccessfully for governor three times — in 1994, 1998, and 2002. Which campaign this might have been for is anyone’s guess. 
+This little building was rather cute, actually. Nothing fantastic about it, but some small architectural details on the façade. An old sticker on the side of the building hints that it was at one time a campaign headquarters for Myrth York. York ran unsuccessfully for governor three times — in 1994, 1998, and 2002. Which campaign this might have been for is anyone’s guess.
 
-The lot must have been difficult to develop without acquiring adjacent parcels — it measured 50 feet wide by 220 feet deep. That's four times as deep as it is wide. Strange. 
+The lot must have been difficult to develop without acquiring adjacent parcels — it measured 50 feet wide by 220 feet deep. That's four times as deep as it is wide. Strange.
 
 At one point in 2006, when business was really good for me personally, I decided to track down the owner and see if the building was available for purchase. Taxes were paid in full, and the city listed an owner-business with an address. When I went to that address, though, somewhere on Reservoir Ave in Cranston, there wasn’t a building with that exact street number. I also couldn’t figure out what the phone number in the windows used to be. My search hit a dead end.
 
@@ -63,4 +63,4 @@ In that way, the vacant storefronts on North Main street from the 1990s up to 20
 
 ### Current Events
 
-The lot where this building once stood is now part of the parking lot for LA Fitness. 
+The lot where this building once stood is now part of the parking lot for LA Fitness.

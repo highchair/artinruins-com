@@ -15,7 +15,7 @@ date-added: '2004'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Pawtucket, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Gas Station & Auto Repair' ]
@@ -23,10 +23,10 @@ tags: [ 'Gas Station & Auto Repair' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '385 East Avenue, Pawtucket RI'
-latitude: '41.8683798'
-longitude: '-71.3896419'
-gmap: "https://www.google.com/maps/place/Blackstone+Market/@41.8683798,-71.3896419,17z/data=!4m13!1m7!3m6!1s0x89e444ac09d53db3:0x2b7647209bd1d298!2s385+East+Ave,+Pawtucket,+RI+02860!3b1!8m2!3d41.8683798!4d-71.3874532!3m4!1s0x89e444ac09c95461:0xb01e5a1de6db9ea2!8m2!3d41.868274!4d-71.387423"
+address: '385 East Ave, Pawtucket RI'
+latitude: '41.8683488'
+longitude: '-71.3874722'
+gmap: "https://www.google.com/maps/place/Centerville+Convenience/@41.8681069,-71.388422,189m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDUyJzA2LjIiTiA3McKwMjMnMjIuNyJX!8m2!3d41.8683798!4d-71.3896419!3m5!1s0x89e4451cca54874f:0x75e6a94f58f601b1!8m2!3d41.8683488!4d-71.3874722!16s%2Fg%2F11zkvrvjk0?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 
 meta: ""
 excerpt: "Likely a former Phillips 66 Gas Station, this building went from tire shop to restaurant to convenience store"
@@ -60,11 +60,11 @@ imagescredit: 'Contribution from the Pawtucket Library Flickr Collection'
 
 ### Redevelopment
 
-While we can’t be sure until we see some photographic evidence, this is likely a great example of the [mid-century “New Look” Phillips 66 Gas Station design](https://sca-roadside.org/vanishing-points-phillips-postwar-new-look-service-stations/). Though the design idea of a canopy was not new[^1], Phillips new “swept-wing” design was a revolution at the time. 
+While we can’t be sure until we see some photographic evidence, this is likely a great example of the [mid-century “New Look” Phillips 66 Gas Station design](https://sca-roadside.org/vanishing-points-phillips-postwar-new-look-service-stations/). Though the design idea of a canopy was not new[^1], Phillips new “swept-wing” design was a revolution at the time.
 
 [^1]: Frank Lloyd Wright is credited with the first canopy over gas pumps design, see the [R. W. Lindholm Service Station in Minnesota](https://en.wikipedia.org/wiki/R._W._Lindholm_Service_Station)
 
-Cliff Leppke, author of a <abbr title="Society for Commercial Architecture">SCA</abbr> Journal article, _Vanishing Points: Phillips’ Postwar “New Look” Service Stations_, produced a video as part of his conference paper presentation. In it he describes the design concept this way: 
+Cliff Leppke, author of a <abbr title="Society for Commercial Architecture">SCA</abbr> Journal article, _Vanishing Points: Phillips’ Postwar “New Look” Service Stations_, produced a video as part of his conference paper presentation. In it he describes the design concept this way:
 
 > Meant to catch the motorist’s eye, Phillips’ jet-age roadside architecture was part of the firm’s 1959 corporate identity makeover.[^2]
 

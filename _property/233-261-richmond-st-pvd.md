@@ -21,8 +21,8 @@ lists: []
 tags: [ 'Brown University', 'College Properties', 'Demolition by Progress' ]
 
 address: '233–261 Richmond St, Providence RI'
-latitude: '41.8183595'
-longitude: '-71.4113138'
+latitude: '41.8183555'
+longitude: '-71.4087389'
 gmap: "https://www.google.com/maps/place/261+Richmond+St,+Providence,+RI+02903/@41.8183595,-71.4113138,17z/data=!3m1!4b1!4m6!3m5!1s0x89e4456ada2bf519:0x68a6759346c84683!8m2!3d41.8183555!4d-71.4087389!16s%2Fg%2F11c2g4gkw7?entry=ttu"
 street: [ 'Richmond St' ]
 street-number: 233

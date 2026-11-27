@@ -13,17 +13,19 @@ date-added: '2012'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Jewelry District' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'PPS Ten Most Endangered', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Demolition by Proposal', 'Demolition by Neglect', 'Still an Empty Lot', 'Yellow brick' ]
 
-address: '461 Eddy Street, Providence RI'
+address: '461 Eddy St, Providence RI'
 latitude: '41.8154927'
-longitude: '-71.4089601'
+longitude: '-71.4067714'
 gmap: "https://www.google.com/maps/place/461+Eddy+St,+Providence,+RI+02903/@41.8154927,-71.4089601,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456a14bd66f1:0xd2dbfce59fc96a1f!8m2!3d41.8154927!4d-71.4067714"
+street: [ 'Eddy St' ]
+street-number: 461
 
 meta: ""
-excerpt: "A large parcel of land on the edge of the jewelry district whose 1- and 2-story buildings were razed by speculation but nothing yet occupies the site."
+excerpt: "A large parcel of land on the edge of the jewelry district whose 1- and 2-story buildings were razed by speculation but nothing yet occupies the site"
 
 thumbnail: 'ward-baking-pps-2011-02-01.jpg'
 

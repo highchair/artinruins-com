@@ -19,10 +19,11 @@ lists: [ 'PPS Ten Most Endangered' ]
 tags: [ 'Concrete', 'Demolition by Progress', 'Still an Empty Lot' ]
 
 address: '100 Pine St, Providence RI'
-latitude: '41.8221311'
-longitude: '-71.4101931'
+latitude: '41.821774'
+longitude: '-71.410512'
 gmap: "https://www.google.com/maps/place/100+Pine+St,+Providence,+RI+02903/@41.8221311,-71.4101931,18z/data=!4m6!3m5!1s0x89e445145f9d1a11:0x10f8403d8c6e1a6!8m2!3d41.8220711!4d-71.4103058!16s%2Fg%2F11c2d1td3p?entry=ttu"
 street: [ 'Pine St' ]
+street-number: 100
 
 meta: ""
 excerpt: "A mid-century, pre-Brutalist retail amenity in downtown was razed only to avoid maintenance costs"
@@ -111,8 +112,8 @@ When PPS included the garage on its 2011 [Ten Most Endangered Properties List]({
 
 #### Maps
 
-+ [1920-1921 Sanborn Insurance Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"} (page 12) — There was a six-story concrete structure on this site built in 1914 that was built by the Outlet Company. The rest of the block was full of jewelry-related businesses.
-+ [1920-1951 Sanborn Insurance Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101){:target="_blank"} (page 12) — The previous garage now has an overhead passageway into the Outlet building at the third and fourth floor level.
-+ [1920-1955 Sanborn Insurance Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601){:target="_blank"} (page 7) — The structure might have remained until 1955, but this digital scan of the Sanborn map is imperfect.
++ [1920-1921 Sanborn Insurance Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001) (page 12) — There was a six-story concrete structure on this site built in 1914 that was built by the Outlet Company. The rest of the block was full of jewelry-related businesses.
++ [1920-1951 Sanborn Insurance Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195101) (page 12) — The previous garage now has an overhead passageway into the Outlet building at the third and fourth floor level.
++ [1920-1955 Sanborn Insurance Map](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195601) (page 7) — The structure might have remained until 1955, but this digital scan of the Sanborn map is imperfect.
 
 When the new garage was built in 1963, the adjoining jewelry manufacturing buildings were razed. The garage was larger in plan and stretched from Eddy to Garnet, but did not occupy the entire plat.

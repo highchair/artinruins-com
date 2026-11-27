@@ -18,8 +18,8 @@ lists: []
 tags: [ 'Demolition by Progress', 'Fire Stations', 'Library of Congress', 'Providence Public Library Digital Collections' ]
 
 address: '2 Exchange Terrace, Providence RI'
-latitude: '41.8259541'
-longitude: '-71.4128747'
+latitude: '41.825986'
+longitude: '-71.411362'
 gmap: "https://www.google.com/maps/search/2+Exchange+Ter,+Providence,+RI,+US/@41.8259541,-71.4128747,17z/data=!3m1!4b1!4m3!2m2!3m1!2s2+Exchange+Ter,+Providence,+RI,+US"
 
 meta: ""
@@ -70,11 +70,11 @@ images:
   #- url: central-fire-1924c-demonstration.jpg
   #  caption: 'Providence Journal file photo, circa 1924'
 
-imagescredit: 'Contributions by <a href="//provlibdigital.org/islandora/object/islandora%3A036-03" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, and the Library of Congress'
+imagescredit: 'Contributions by <a href="https://provlibdigital.org/islandora/object/islandora%3A036-03">John Hutchins Cady Research Scrapbooks Collection</a> at the Providence Public Library, and the Library of Congress'
 
 external:
   - source: 'Time Lapse: Ready to answer the bell (gallery of 50 historic fire departmrnt photos), Providence Journal'
-    url: '//www.providencejournal.com/entertainmentlife/20200213/time-lapse-ready-to-answer-bell'
+    url: 'https://www.providencejournal.com/entertainmentlife/20200213/time-lapse-ready-to-answer-bell'
     #url: https://perma.cc/Y2NS-PV49
 ---
 
@@ -100,7 +100,7 @@ The location of the former Three Ones station is now the site of the Federal Cou
 
 ### History
 
-It is tempting to think that the first central fire station, the “Three Ones”, was in the same location as the turn-of-the-century station. In fact, when the first Union Station burned in 1896, more of the Cove lands were filled in to enlarge Exchange Place, which up to that point would have been considered a single wide street that ran in front of City Hall and the old Union Station. 
+It is tempting to think that the first central fire station, the “Three Ones”, was in the same location as the turn-of-the-century station. In fact, when the first Union Station burned in 1896, more of the Cove lands were filled in to enlarge Exchange Place, which up to that point would have been considered a single wide street that ran in front of City Hall and the old Union Station.
 
 <figure class="u__img">
   <a href="#photo-sanborn-map-1889-xxchange-place-plate-1">
@@ -115,7 +115,7 @@ It is tempting to think that the first central fire station, the “Three Ones�
 
 _From Robert O. Jones, Architectural Historian, RIHPHC_
 
-Construction of this Central Fire Station was authorized in 1900 and the building opened in 1903. John Hutchins Cady in his book “Civic and Architectural Development of Providence” credits Martin & Hall (Frank W. Martin & George F. Hall) as the architects. The City sold this property to the federal government as a site for a Federal Building annex [**A.I.R.**: Postal services outgrew the Federal Court House and eventually moved into an adjacent annex building which replaced the 1903 Fire Station]. 
+Construction of this Central Fire Station was authorized in 1900 and the building opened in 1903. John Hutchins Cady in his book “Civic and Architectural Development of Providence” credits Martin & Hall (Frank W. Martin & George F. Hall) as the architects. The City sold this property to the federal government as a site for a Federal Building annex [**A.I.R.**: Postal services outgrew the Federal Court House and eventually moved into an adjacent annex building which replaced the 1903 Fire Station].
 
 This fire station was demolished in 1938. Fire Headquarters moved temporarily to the old Richmond St. Fire Station until the consolidated Police and Fire Station at Lasalle Square was finished in 1940, which itself was subsequently demolished in 2007.
 

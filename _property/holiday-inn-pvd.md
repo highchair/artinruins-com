@@ -22,10 +22,12 @@ tags: [ 'Former/Current Hotels' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '21 Atwells Avenue, Providence RI'
-latitude: '41.8230017'
-longitude: '-71.4207611'
-gmap: "https://www.google.com/maps/place/21+Atwells+Ave,+Providence,+RI+02903/@41.8230017,-71.4207611,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450d791be94f:0x122fda1808abfdf7!8m2!3d41.8230017!4d-71.4185724"
+address: '21 Atwells Ave, Providence RI'
+latitude: '41.8228339'
+longitude: '-71.4183694'
+gmap: "https://www.google.com/maps/place/LAZ+Parking/@41.8228219,-71.4188441,206m/data=!3m1!1e3!4m12!1m5!3m4!2zNDHCsDQ5JzIyLjgiTiA3McKwMjUnMDYuOSJX!8m2!3d41.8230017!4d-71.4185724!3m5!1s0x89e445c338f7aae5:0x13518a839be7cd6b!8m2!3d41.8228339!4d-71.4183694!16s%2Fg%2F11y5_5xjd9?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+street: [ 'Atwells Ave' ]
+street-number: 21
 
 meta: ""
 excerpt: "A modest hotel gets a facelift and an upgrade during the city’s development boom time"
@@ -87,20 +89,20 @@ mostrecentimage: 2015-06-01
 
 ### Redevelopment
 
-We appreciate the original **Holiday Inn** more than we did when we wrote the original write up about 15 years ago. The simple roadside architecture was bland, but as [Wm. MacKenzie Woodward states in the historic write up](#history), that was the point — a building as a recognizable logo/brand of its own, independent from the city in which it was placed. 
+We appreciate the original **Holiday Inn** more than we did when we wrote the original write up about 15 years ago. The simple roadside architecture was bland, but as [Wm. MacKenzie Woodward states in the historic write up](#history), that was the point — a building as a recognizable logo/brand of its own, independent from the city in which it was placed.
 
-As 70s architecture goes, it was simple and nice compared to the nearby [Civic Center]({% link _property/providence-civic-center.md %}) when it was first built, with its brutalist-inspired jutting elbows and walkway structures. More importantly, the Holiday Inn was the first new hotel in the city since the Biltmore in 1922. The company took a risk on Providence and it was one that paid off. 
+As 70s architecture goes, it was simple and nice compared to the nearby [Civic Center]({% link _property/providence-civic-center.md %}) when it was first built, with its brutalist-inspired jutting elbows and walkway structures. More importantly, the Holiday Inn was the first new hotel in the city since the Biltmore in 1922. The company took a risk on Providence and it was one that paid off.
 
-The hotel was not failing so much as the hotel market was able to bear a higher price and demanded more luxurious accommodations. An upgrade to a nationally respected brand like Hilton made sense, and after this project, more new high-end [hotel construction]({% link tag/former-current-hotels.html %}) would take place (though not for another 10 years). 
+The hotel was not failing so much as the hotel market was able to bear a higher price and demanded more luxurious accommodations. An upgrade to a nationally respected brand like Hilton made sense, and after this project, more new high-end [hotel construction]({% link tag/former-current-hotels.html %}) would take place (though not for another 10 years).
 
-The facelift seemed like something that would look good temporarily but start to show age very quickly. Here it is 15 years later, though, and the building still gleams white. The material used (we think it was [Dryvit](//www.google.com/search?q=dry%2Bvit){:target="_blank"}) so far has not been the magnet for road grime that we thought. While the upgrade did shrink the windows, we understand that they are more efficient than the older ones. The eastern side (facing LaSalle Square) was previously blank, but in the upgrade process received windows and a glass atrium housing two restaurants as well as a ballroom.  
+The facelift seemed like something that would look good temporarily but start to show age very quickly. Here it is 15 years later, though, and the building still gleams white. The material used (we think it was [Dryvit](https://www.google.com/search?q=dry%2Bvit)) so far has not been the magnet for road grime that we thought. While the upgrade did shrink the windows, we understand that they are more efficient than the older ones. The eastern side (facing LaSalle Square) was previously blank, but in the upgrade process received windows and a glass atrium housing two restaurants as well as a ballroom.
 
-The upgrade was part of a long-term Procaccianti Group plan dubbed “[The Power Block]({% link _property/power-block.md %}).” A new condo tower was to be added west of the Hilton, above what is now a parking garage, along with a new hotel/office/commercial property of some sort across the street on the site of the former [Gulf gas station]({% link _property/gulf-station-circular.md %}). A skybridge would have connected the two, so that one could have walked from the new hotel through the Hilton, through the Civic Center, over to the Convention Center, and into the Providence Place Mall without ever stepping foot outside. That plan and the new tower have not come to fruition, but the walkways have come close — you are able to walk from the Civic Center through the Convention Center, Westin, and into the Mall. 
+The upgrade was part of a long-term Procaccianti Group plan dubbed “[The Power Block]({% link _property/power-block.md %}).” A new condo tower was to be added west of the Hilton, above what is now a parking garage, along with a new hotel/office/commercial property of some sort across the street on the site of the former [Gulf gas station]({% link _property/gulf-station-circular.md %}). A skybridge would have connected the two, so that one could have walked from the new hotel through the Hilton, through the Civic Center, over to the Convention Center, and into the Providence Place Mall without ever stepping foot outside. That plan and the new tower have not come to fruition, but the walkways have come close — you are able to walk from the Civic Center through the Convention Center, Westin, and into the Mall.
 
 
 ### Current Events
 
-The [Hilton Providence](//www.hilton.com/en/hotels/pvdprhf-hilton-providence/){:target="_blank"} is open as a hotel and conference space, located steps away from the [Dunkin’ Center]({% link _property/providence-civic-center.md %}) and RI Convention Center.
+The [Hilton Providence](https://www.hilton.com/en/hotels/pvdprhf-hilton-providence/) is open as a hotel and conference space, located steps away from the [Dunkin’ Center]({% link _property/providence-civic-center.md %}) and RI Convention Center.
 
 
 ### History
@@ -123,19 +125,19 @@ Sited near the exit ramp of Route I-95 and eminently visible to high-speed autom
 _by Jane D’Arcy_  
 **Hotel Online** | August 17, 2005
 
-The Procaccianti Group (TPG), announced preliminary conversion work is underway to turn the Holiday Inn Downtown Providence to The Hilton Hotel Providence. The complete interior and exterior renovation will include the resurfacing of the exterior, a reconfiguration of the main lobby, a three-story glass atrium to be used as a pedestrian-oriented retail space on the Fountain Street side of the building, an outdoor terrace and increased landscaping.  
+The Procaccianti Group (TPG), announced preliminary conversion work is underway to turn the Holiday Inn Downtown Providence to The Hilton Hotel Providence. The complete interior and exterior renovation will include the resurfacing of the exterior, a reconfiguration of the main lobby, a three-story glass atrium to be used as a pedestrian-oriented retail space on the Fountain Street side of the building, an outdoor terrace and increased landscaping.
  
 “This conversion to a Hilton brand is very exciting for our company,” said James A. Procaccianti, President and Chief Executive Officer of The Procaccianti Group. “Hilton is an outstanding company to work with and the cache that comes from being involved with such a respected brand is invaluable.”
 
 “We’re very excited about the Hilton being developed in Providence, R.I. — the brand’s first in the city,” said Tom Keltner, president, brand performance and development group, Hilton Hotels Corporation. “As important, this hotel will offer an exciting sense of place and meet the highest standards of the Hilton brand in both product quality and guest service. We’re delighted our already strong relationship with the Procaccianti Group is being strengthened and expanded.”
 
-The Holiday Inn/Hilton conversion is another step forward in the building of the [Providence Power Block]({% link _property/power-block.md %}). This project, along with the work slated to begin soon on The Westin Providence and [The Residences at The Westin Providence]({% link _property/westin-tower.md %}), contribute significantly to the revitalization currently occurring in Providence. 
+The Holiday Inn/Hilton conversion is another step forward in the building of the [Providence Power Block]({% link _property/power-block.md %}). This project, along with the work slated to begin soon on The Westin Providence and [The Residences at The Westin Providence]({% link _property/westin-tower.md %}), contribute significantly to the revitalization currently occurring in Providence.
 
 “I congratulate The Procaccianti Group on another major project for Providence. This conversion will boost tourism and conventions, providing new economic activity and well-deserved relief for property tax payers,” said Mayor David N. Cicilline. “Also, a revived facility at the end of the Sabin Street ‘power block’ will spur more development at an important location that connects our downtown neighborhood to Federal Hill.”
 
-The project is expected to be completed by Fall, 2006. 
+The project is expected to be completed by Fall, 2006.
 
-_Captured August 16, 2021 from https://www.hotel-online.com/News/PR2005_3rd/Aug05_HIProvidence.html_
+— _Captured August 16, 2021 from https://www.hotel-online.com/News/PR2005_3rd/Aug05_HIProvidence.html_
 
 ***
 
@@ -154,10 +156,10 @@ This year, an 80-room boutique hotel opened in the heart of the city’s old ret
 
 An upgrade is also planned for the **Holiday Inn**, a stalwart in the city. It is to become a high-end Hilton with 40 additional rooms, under plans by the owner, the Procaccianti Group of Cranston, R.I., a hotel development and management company.
 
-The hotel will be dressed up with new façades, a new roof design, a 10,000-square-foot ballroom and a three-story glass atrium. Next to the hotel, the developer plans to build a 17,000-square-foot fitness center as well as shops, restaurants and other attractions geared toward pedestrian traffic. 
+The hotel will be dressed up with new façades, a new roof design, a 10,000-square-foot ballroom and a three-story glass atrium. Next to the hotel, the developer plans to build a 17,000-square-foot fitness center as well as shops, restaurants and other attractions geared toward pedestrian traffic.
 
 Still other projects are being discussed. Carpionato Properties Inc. of Johnston, R.I., may build a new Holiday Inn where the city’s [Farmers’ Market]({% link _property/providence-fruit-produce.md %}) once was, according to John Kokot, executive vice president for development. And Procaccianti recently bought controlling interest in two parcels in Providence that had been intended for hotel development by their previous owner.
 
 The latter projects are not sure things. But add together the projects that are certain, and the city’s tally of hotel rooms is climbing by 850. […]
 
-_Captured August 16, 2021 from https://www.nytimes.com/2005/09/04/realestate/commercial/more-hotels-for-a-comeback-city.html_
+— _Captured August 16, 2021 from https://www.nytimes.com/2005/09/04/realestate/commercial/more-hotels-for-a-comeback-city.html_

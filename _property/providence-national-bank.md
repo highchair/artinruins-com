@@ -21,7 +21,7 @@ added-to-NRHP: 'February 10, 1984'
 
 address: '90 Westminster St, Providence RI'
 latitude: '41.8244922'
-longitude: '-71.4125834'
+longitude: '-71.4103947'
 gmap: "https://www.google.com/maps/place/90+Westminster+St,+Providence,+RI+02903/@41.8244922,-71.4125834,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44516993795f1:0xc88a1d682a2c0568!8m2!3d41.8244922!4d-71.4103947"
 street: [ 'Westminster St' ]
 street-number: 90
@@ -84,7 +84,7 @@ images:
     caption: 'Photo by Kevin James, July 2012'
     sizes: '1400, 933'
 
-imagescredit: 'Contributions by <a href="http://www.ricurrency.com/bank-name/providence-bank/" target="_blank">RICurrencycom</a>, <a href="//provlibdigital.org/islandora/object/islandora%3A14465" target="_blank">RI Photograph Collection</a> Providence Public Library, Jef Nickerson, Alex Carr, and Kevin James.'
+imagescredit: 'Contributions by <a href="http://www.ricurrency.com/bank-name/providence-bank/">RICurrencycom</a>, <a href="https://provlibdigital.org/islandora/object/islandora%3A14465">RI Photograph Collection</a> Providence Public Library, Jef Nickerson, Alex Carr, and Kevin James.'
 ---
 
 ### Reason for Demolition
@@ -94,7 +94,7 @@ A proposed new 32-story condo tower proposal called the [One Ten Westminster]({%
 ### Current Events
 The condo tower was never built. Fifteen years later (in 2020), a parking lot is the only thing at this location aside from the stabilized (but deteriorating) facade of the 1940s bank extension at 50 Weybosset Street.
 
-Jason Allard produced a video about the remaining bank façade on YouTube called “[Abandoned Providence National Bank Façade](//www.youtube.com/watch?v=9sXkm8aAfsc){:target="_blank"}” in June of 2021.
+Jason Allard produced a video about the remaining bank façade on YouTube called “[Abandoned Providence National Bank Façade](https://www.youtube.com/watch?v=9sXkm8aAfsc)” in June of 2021.
 
 
 ### History
@@ -107,7 +107,7 @@ Two blocks on the second story had two dates carved: 1791 and 1929. 1929 was the
 
 _From the National Register nomination form for the Downtown Providence Historic District, prepared by William McKenzie Woodward, Principal Historic Preservation Planner, 1984_
 
-100 Westminster **Providence National Bank Building** (1929, 1950): Howe & Church, architects. Colonial Revival; 3-story, brick-sheathed, structure with flank-gable roof on Westminster façade and flat roof on Weybosset elevation; irregular plan. Westminster façade — three bays with arcaded first story below stone string course; serlian-motif window in center of second story flanked by simple rectangular windows; dentil cornice; three dormers with triangular and segmental-arch pediments, paneled balustrade at crest of roof. Weybosset elevation — five bays with projecting center pavilion; arcaded first story; quoined corners and rectangular windows with splayed keystone lintels on second and third stories; broad entablature; gable end with oval window on center pavilion flanked by balustrade with urns. 
+100 Westminster **Providence National Bank Building** (1929, 1950): Howe & Church, architects. Colonial Revival; 3-story, brick-sheathed, structure with flank-gable roof on Westminster façade and flat roof on Weybosset elevation; irregular plan. Westminster façade — three bays with arcaded first story below stone string course; serlian-motif window in center of second story flanked by simple rectangular windows; dentil cornice; three dormers with triangular and segmental-arch pediments, paneled balustrade at crest of roof. Weybosset elevation — five bays with projecting center pavilion; arcaded first story; quoined corners and rectangular windows with splayed keystone lintels on second and third stories; broad entablature; gable end with oval window on center pavilion flanked by balustrade with urns.
 
 Built to house the Providence National Bank, formed by the 1920 merger of the Providence Bank and the Merchants National Bank, the building replaced the Lyceum Building (1858). Through corporate mergers, it developed first to Union Trust Company and later to the Industrial National Bank (now Fleet Bank) following corporate mergers in the 1950s. The building now houses Fleet Bank’s Trust Department. Providence National Bank Building is a well designed small building that adds variety to the streetscape through its almost domestic scale; its form and detail evoke the early residential neighborhood in the area.
 

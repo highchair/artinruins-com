@@ -16,10 +16,12 @@ designers: []
 lists: []
 tags: []
 
-address: '546 Harris Avenue, Providence RI'
-latitude: '41.8235067'
-longitude: '-71.4380762'
+address: '546 Harris Ave, Providence RI'
+latitude: '41.8235027'
+longitude: '-71.4358875'
 gmap: "https://www.google.com/maps/place/546+Harris+Ave,+Providence,+RI+02909/@41.8235067,-71.4380762,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44598ac2671e3:0x6a6f0bfb41a0e81e!8m2!3d41.8235027!4d-71.4358875"
+street: [ 'Harris Ave' ]
+street-number: 546
 
 meta: ""
 excerpt: "What was left of the former lumber yard along Harris Ave. was replaced with new office space in 2009"
@@ -77,6 +79,6 @@ This odd-shaped piece of land was difficult to redevelop, and it took about 10 y
 
 Very little information has been found about Harris Lumber but this description of one of the owner/founders:
 
-_From the [Tirocchi Database](https://tirocchi.stg.brown.edu/database/people_db.php?record=82), excerpted and modified_
+_From the Tirocchi Database, excerpted and modified_
 
 William M. Harris, Jr. — Owned a company that sold lumber and masonry materials with two locations. He was also the treasurer of [Terminal Warehouse Co.]({% link _property/atlas-terminal-warehouses.md %}), a storage facility. William Harris III (a son) was manager of William Harris Jr. Lumber Co. There was also a William M Harris Realty Co. at 546 Atwells Ave.

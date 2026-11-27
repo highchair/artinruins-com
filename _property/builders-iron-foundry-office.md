@@ -13,7 +13,7 @@ date-added: '2022'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Demolition by Progress' ]
@@ -22,6 +22,8 @@ address: '345 Harris Ave, Providence RI'
 latitude: '41.8256239'
 longitude: '-71.4320486'
 gmap: "https://www.google.com/maps/place/345+Harris+Ave,+Providence,+RI+02909/@41.8256239,-71.4320486,20z/data=!4m13!1m7!3m6!1s0x89e4459910c31c73:0x2406ee2a749e42d5!2sHarris+Ave,+Providence,+RI!3b1!8m2!3d41.825502!4d-71.4312409!3m4!1s0x89e445a0f22cb0cb:0x975da3abb511e5b9!8m2!3d41.8258013!4d-71.4318042"
+street: [ 'Harris Ave' ]
+street-number: 345
 
 meta: ""
 excerpt: "A converted industrial office building became the State Traffic Tribunal but closed for better digs"
@@ -123,4 +125,4 @@ Parking at the old building has been a long-standing problem, too. The front par
 
 The Harris Avenue factory building was retrofitted in 1974 to be a courthouse. Parker’s courtroom has worn carpeting around the rostrum and electrical wires fixed to the floor with silver duct tape. […]
 
-— Arsenault, Mark. “State Traffic Tribunal hits the road.” Providence Journal (RI), All ed., sec. News, 12 Jan. 2007, pp. A-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152426969C6E9468. Accessed 8 Feb. 2022.
+— _Arsenault, Mark. “State Traffic Tribunal hits the road.” Providence Journal (RI), All ed., sec. News, 12 Jan. 2007, pp. A-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152426969C6E9468. Accessed 8 Feb. 2022._

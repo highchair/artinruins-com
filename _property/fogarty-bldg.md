@@ -20,7 +20,7 @@ tags: [ 'Demolition by Progress', 'Concrete', 'Mid-century Modern' ]
 
 address: '111 Fountain St, Providence RI'
 latitude: '41.823628'
-longitude: '-71.4185207'
+longitude: '-71.416332'
 gmap: "https://www.google.com/maps/place/111+Fountain+St,+Providence,+RI+02903/@41.823628,-71.4185207,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451243d90e77:0xd7a9293f4ab36915!8m2!3d41.823628!4d-71.416332"
 street: [ 'Fountain St' ]
 street-number: 111
@@ -86,7 +86,7 @@ We have a feeling that looking upon anything built within 30 years is likely to 
 
 ### Current Events
 
-A Marriott Residence Inn sits at this location, having been completed and open for business only recently in 2020. The $40 million hotel boasts 154 rooms, each with a kitchenette, right across from the Convention Center with parking in the Convention Center garage. [The Procaccianti Group](//www.procaccianti.com){:target="_blank"} of Cranston was the developer on the project.
+A Marriott Residence Inn sits at this location, having been completed and open for business only recently in 2020. The $40 million hotel boasts 154 rooms, each with a kitchenette, right across from the Convention Center with parking in the Convention Center garage. [The Procaccianti Group](https://www.procaccianti.com) of Cranston was the developer on the project.
 
 
 ### History as a Eulogy 
@@ -95,9 +95,9 @@ The John E. Fogarty Memorial Building, of 111 Fountain Street, Providence, passe
  
 At birth, the Fogarty served the Department of Human Services; it was later leased to the state’s Department of Human Resources. Between 1999 and 2003, the Fogarty was used sporadically by the Department of Education. That year, hundreds of students were evacuated from the building due to breathing problems and since then, it has been vacant. In 2005, it was purchased by the Procaccianti Group.
  
-As a young building, the Fogarty was part of an enthusiastic family of Brutalist government buildings that expressed the energy and confidence of Lyndon Johnson’s 1960s [Great Society](//en.wikipedia.org/wiki/Great_Society){:target="_blank"} programs. To its neighbors, the building could be difficult, challenging – abrasive, even. It had a strong personality and was not always easy to engage with. Those who loved the Fogarty valued its strong sculptural form and the texture of its reinforced concrete, which looked like molded sand up close, while those who felt less love for it saw the building as ugly, rough and imposing.
+As a young building, the Fogarty was part of an enthusiastic family of Brutalist government buildings that expressed the energy and confidence of Lyndon Johnson’s 1960s [Great Society](https://en.wikipedia.org/wiki/Great_Society) programs. To its neighbors, the building could be difficult, challenging – abrasive, even. It had a strong personality and was not always easy to engage with. Those who loved the Fogarty valued its strong sculptural form and the texture of its reinforced concrete, which looked like molded sand up close, while those who felt less love for it saw the building as ugly, rough and imposing.
    
-Other members of the Brutalist family predeceased the Fogarty building, including cousins like Paul Rudolph’s [Orange County Government Building](//en.wikipedia.org/wiki/Orange_County_Government_Center){:target="_blank"} (d. 2015) and John Johansen’s [Morris A. Mechanic Theatre](//en.wikipedia.org/wiki/Morris_A._Mechanic_Theatre){:target="_blank"} in Baltimore (d. 2015). Some relatives are on life-support, their future uncertain. A lucky few have found a new lease on life through sensitive renovation, including Marcel Breuer’s old [Whitney Museum](//en.wikipedia.org/wiki/Met_Breuer){:target="_blank"}, Paul Rudolph’s [Yale Art and Architecture Building](//en.wikipedia.org/wiki/Rudolph_Hall){:target="_blank"} in New Haven and – closer to the Fogarty’s old stomping grounds – [Boston’s City Hall](//en.wikipedia.org/wiki/Boston_City_Hall){:target="_blank"} and the [University of Massachusetts Dartmouth](//en.wikipedia.org/wiki/University_of_Massachusetts_Dartmouth#/media/File:UMass_Dartmouth_Panorama.jpg){:target="_blank"} campus (another Rudolph creation).
+Other members of the Brutalist family predeceased the Fogarty building, including cousins like Paul Rudolph’s [Orange County Government Building](https://en.wikipedia.org/wiki/Orange_County_Government_Center)(d. 2015) and John Johansen’s [Morris A. Mechanic Theatre](https://en.wikipedia.org/wiki/Morris_A._Mechanic_Theatre) in Baltimore (d. 2015). Some relatives are on life-support, their future uncertain. A lucky few have found a new lease on life through sensitive renovation, including Marcel Breuer’s old [Whitney Museum](https://en.wikipedia.org/wiki/Met_Breuer), Paul Rudolph’s [Yale Art and Architecture Building](https://en.wikipedia.org/wiki/Rudolph_Hall) in New Haven and – closer to the Fogarty’s old stomping grounds – [Boston’s City Hall](https://en.wikipedia.org/wiki/Boston_City_Hall) and the [University of Massachusetts Dartmouth](https://en.wikipedia.org/wiki/University_of_Massachusetts_Dartmouth#/media/File:UMass_Dartmouth_Panorama.jpg) campus (another Rudolph creation).
 
 Jana Planka, the daughter of one of the Fogarty’s lead architects, H. Michael Planka, remembers her father’s excitement about designing the building: _“He was a very progressive man and was looking to do something different and a little left of center – he was looking to break the mold.”_  Its baby pictures reveal an energy and sense of confidence that jibe with the era’s muscle cars – the Ford Mustang, Chevy Camaro, and Plymouth Road Runner. But the world changed around it, and tastes changed and by the 21st century, the Fogarty had few friends left. The death knell sounded a couple of weeks ago on March 1, 2017, when the replacement building’s permit was issued.
 
@@ -105,7 +105,7 @@ Who are the Fogarty’s heirs? What inheritance does it leave? For a new generat
 
 **For those of us who live in Providence, and love Providence, the Fogarty was always a formidable building.** Even in death, it remains so. Demolition began on Monday, March 13 and at the end of the day, one corner of the building had succumbed, leaving a gaping hole. The steel bars known as rebar that “reinforce” the sand and stone that make up concrete were left exposed and deformed, having been cut through by the nearby excavator. But some sense of strength remained: Daniel Govoni, a project manager with Northstar Project and Real Estate Services, was quoted in the Providence Journal on March 9, saying “The bones of the building, they’re still intact.” No longer. RIP.
 
-_Authors: Marisa Angell Brown, Assistant Director of Programs at the John Nicholas Brown Center for Public Humanities and Cultural Heritage Brown University; Steve Lubar of Brown University; and Caroline Stevens, Director of [Doors Open Rhode Island](//www.doorsopenri.org){:target="_blank"}._
+_Authors: Marisa Angell Brown, Assistant Director of Programs at the John Nicholas Brown Center for Public Humanities and Cultural Heritage Brown University; Steve Lubar of Brown University; and Caroline Stevens, Director of [Doors Open Rhode Island](https://www.doorsopenri.org)._
 
 
 ### In the News
@@ -160,6 +160,4 @@ The Fogarty Building is valued at $2,965,570 and the land at $1,353,630, for a t
 
 If Mesolella’s project comes to fruition, Prignano said yesterday, the proceeds of the sale of the site would be expected to be used to reduce the debt on the borrowing for the Public Safety Complex.
 
-—
-
-SMITH, GREGORY. “City eyesore might become all-suites hotel.” <em>Providence Journal (RI)</em>, Metro ed., sec. News, 21 Apr. 2004, pp. C-01. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15242AA358125E68. Accessed 8 Apr. 2024.
+— _SMITH, GREGORY. “City eyesore might become all-suites hotel.” Providence Journal (RI), Metro ed., sec. News, 21 Apr. 2004, pp. C-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15242AA358125E68. Accessed 8 Apr. 2024._

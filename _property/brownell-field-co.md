@@ -21,8 +21,10 @@ added-to-NRHP:
 
 address: '119 Harris Ave, Providence RI'
 latitude: '41.827316'
-longitude: '-71.4263087'
+longitude: '-71.42412'
 gmap: "https://www.google.com/maps/place/119+Harris+Ave,+Providence,+RI+02903/@41.827316,-71.4263087,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445094c9bcb49:0xa72d2242f8cb2070!8m2!3d41.827316!4d-71.42412"
+street: [ 'Harris Ave' ]
+street-number: 119
 
 meta: ""
 excerpt: "A part of the Provisions District met the wrecking ball in 2011. Owner of this and nearby buildings, The Providence Journal Company, used deferred maintenance as an excuse."
@@ -125,7 +127,7 @@ On August 23, 2010, representatives from the Providence Journal Company, which o
 
 Listed on **PPS’s 2010 Ten Most Endangered Properties List**, the Brownell & Field Company building was one of the few remaining historic structures of its kind in the Smith Hill neighborhood. The Providence Journal Company purchased the building in the mid-1980s for its land value and has since used the building for storage, though it has remained mostly empty.
 
-On October 8, 2010, an unanimous ruling by the Historic District Commission approved for demolition. Preservationists had opposed destruction of the warehouse, saying its removal “would further erode the historic fabric of the city.” The commission agreed the building held historical importance tied to the city’s industrial past but said it was beyond repair. In a previous September 21 resolution, the commission said the three-story brick building represented a safety hazard that “cannot be eliminated by economic means available.” The hands of the Commission were tied on the matter, as there was not yet a way to enforce maintenance of a building to avoid the situation of demolition by neglect. 
+On October 8, 2010, an unanimous ruling by the Historic District Commission approved for demolition. Preservationists had opposed destruction of the warehouse, saying its removal “would further erode the historic fabric of the city.” The commission agreed the building held historical importance tied to the city’s industrial past but said it was beyond repair. In a previous September 21 resolution, the commission said the three-story brick building represented a safety hazard that “cannot be eliminated by economic means available.” The hands of the Commission were tied on the matter, as there was not yet a way to enforce maintenance of a building to avoid the situation of demolition by neglect.
 
 “This is definitely a clear case of demolition by neglect,” Preservation and Advocacy Coordinator [for The Providence Preservation Society] Kathleen Philp told Providence Business News. The advocacy group is exploring options to stop the demolition. It also has called on City Council to eliminate building disrepair as the result of neglect as a justification for tearing down a building.
 
@@ -165,4 +167,4 @@ The Brownell & Field Building was constructed between 1895 and 1908 when it appe
 
 #### Architecture
 
-If seen from the air, many of the buildings in this district — including this one — were built on an angle plan instead of a straight box plan — hence the “lozenge-shape” description. This was due to the way that rail lines curved off of Harris Avenue in “spurs” for loading and unloading. Rail lines could not make a sharp corner to meet a building at a 90° angle easily, so the building were built to meet the rail lines. The [aerial from 1939](#photo-provisions-warehouse-district-1939) makes this more apparent than it might be today, as ghosts of some of the newly removed rail lines can still be seen. It was because of some of these removals that the adjacent building at [113-115 Harris Avenue]({% link _property/115-harris-ave.md %}) was built. 
+If seen from the air, many of the buildings in this district — including this one — were built on an angle plan instead of a straight box plan — hence the “lozenge-shape” description. This was due to the way that rail lines curved off of Harris Avenue in “spurs” for loading and unloading. Rail lines could not make a sharp corner to meet a building at a 90° angle easily, so the building were built to meet the rail lines. The [aerial from 1939](#photo-provisions-warehouse-district-1939) makes this more apparent than it might be today, as ghosts of some of the newly removed rail lines can still be seen. It was because of some of these removals that the adjacent building at [113-115 Harris Avenue]({% link _property/115-harris-ave.md %}) was built.

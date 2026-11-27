@@ -11,19 +11,19 @@ date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'A.I.R.’s Lead Brick List', 'Brussat’s 10 Best Lost Buildings' ]
 tags: [ 'Art Deco', 'Demolition by Proposal', 'Demolition by Neglect', 'Fire Stations', 'Needs History', 'Still an Empty Lot' ]
 
 address: '186 Fountain St, Providence RI'
 latitude: '41.822429'
-longitude: '-71.4189217'
+longitude: '-71.416733'
 gmap: "https://www.google.com/maps/place/186+Fountain+St,+Providence,+RI+02903/@41.822429,-71.4189217,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445128c512ce1:0x9a848e3228b191c6!8m2!3d41.822429!4d-71.416733"
 street: [ 'Fountain St' ]
 street-number: 186
 
 meta: ""
-excerpt: "This 60 year-old Art Deco structure was vacated in 2000 for new digs across the highway. It stayed vacant for 6 years until a proposed condo structure took it down."
+excerpt: "This 60 year-old Art Deco structure was vacated in 2000 for new digs across the highway. It stayed vacant for 6 years until a proposed condo structure took it down4"
 
 thumbnail: public-safety-jh-2004-04-03.jpg
 
@@ -166,7 +166,7 @@ imagescredit: 'Contributions by Mike Morgan, Lou Fancy, Woneffe, and Frank Mulli
 
 ### Reason for Demolition
 
-This building had Art Deco details and a main entrance on Fountain Street that was Greek-revival topped with a straight across Art Deco frieze. On the back Sabin Street/Broadway side, it was a series of plain concrete facades. Anyone who has ever been inside for traffic court knows how institutional the halls were. Thick walls were everywhere. 
+This building had Art Deco details and a main entrance on Fountain Street that was Greek-revival topped with a straight across Art Deco frieze. On the back Sabin Street/Broadway side, it was a series of plain concrete facades. Anyone who has ever been inside for traffic court knows how institutional the halls were. Thick walls were everywhere.
 
 The 60-year-old building had been falling apart for some time to the dismay of those who worked in it. One city employee called the five-story structure a sewer. With dangling wires, chipping paint and an emergency generator that operated only when it wanted, the former headquarters was not the friendliest work environment. The state fire marshal found 27 code violations — in a complex that was the home of the fire department itself.
 
@@ -179,11 +179,9 @@ The new complex includes separate police officer and firefighter locker and trai
 
 ### Current Events
 
-13+ years later, the former building site is still a parking lot. No doubt, along with the small lot where the 
-[Gulf Station]({% link _property/gulf-station-circular.md %}) 
-used to be, it makes really good money when there is an even at the [Dunkin’ Center]({% link _property/providence-civic-center.md %}). We don’t know exactly why a project didn’t go forward, but based on the last quote in the news article, it looks like Procaccianti was not in fact _“committed to investing in downtown Providence.”_ 
+13+ years later, the former building site is still a parking lot. No doubt, along with the small lot where the [Gulf Station]({% link _property/gulf-station-circular.md %}) used to be, it makes really good money when there is an even at the [Dunkin’ Center]({% link _property/providence-civic-center.md %}). We don’t know exactly why a project didn’t go forward, but based on the last quote in the news article, it looks like Procaccianti was not in fact _“committed to investing in downtown Providence.”_ 
 
-The idea was sound — a location so close to the Dunkin’ Center, the Convention Center, and other venues could easily support another hotel. In fact, in these 13 years (2020), a new hotel was built on the site of the former [Fogarty Memorial Building]({% link _property/fogarty-bldg.md %}). It just seems to be clear that Procaccianti was not the developer to do it. Would love more information about why redevelopment of this parcel has stalled. 
+The idea was sound — a location so close to the Dunkin’ Center, the Convention Center, and other venues could easily support another hotel. In fact, in these 13 years (2020), a new hotel was built on the site of the former [Fogarty Memorial Building]({% link _property/fogarty-bldg.md %}). It just seems to be clear that Procaccianti was not the developer to do it. Would love more information about why redevelopment of this parcel has stalled.
 
 
 ### In the News
@@ -192,14 +190,14 @@ The idea was sound — a location so close to the Dunkin’ Center, the Convent
 
 _by Philipe & Jorge_  | **Providence Phoenix**
 
-One may have noticed that the repugnant greaser Vinnie “Family Man” Mesolella is being allowed to stay on at his job controlling the state’s Underground Storage Tank Financial Responsibility Fund Review Board (UST). But what one may not have noticed is that Vinnie is currently doing a deal with the City of Providence to build a hotel on the site of the old police and fire headquarters in LaSalle Square. And guess what, boys and girls? There may be some problem with fuel contamination at the site due to underground storage tanks. This, of course, would run up the cost to the City of Providence, which may then increase the cost to the developers through the still-being-finagled sale and purchase agreement. This means [Vinnie] and his business partners would take a direct hit to the wallet – unless someone were to guarantee that La Prov could get the clean-up paid for by – wait for it – the UST, which Mesolella heads up! 
+One may have noticed that the repugnant greaser Vinnie “Family Man” Mesolella is being allowed to stay on at his job controlling the state’s Underground Storage Tank Financial Responsibility Fund Review Board (UST). But what one may not have noticed is that Vinnie is currently doing a deal with the City of Providence to build a hotel on the site of the old police and fire headquarters in LaSalle Square. And guess what, boys and girls? There may be some problem with fuel contamination at the site due to underground storage tanks. This, of course, would run up the cost to the City of Providence, which may then increase the cost to the developers through the still-being-finagled sale and purchase agreement. This means [Vinnie] and his business partners would take a direct hit to the wallet – unless someone were to guarantee that La Prov could get the clean-up paid for by – wait for it – the UST, which Mesolella heads up!
 
 #### Reshaping A Piece Of Downtown
 
 _by David Ortiz_  
 **Providence Business News** | August 20, 2007
 
-Two years after the national real estate and hotel management company [The Procaccianti Group](//www.procaccianti.com) announced its ambition to acquire and develop a “power block” of marquee properties surrounding a renovated Dunkin’ Donuts Center and the R.I. Convention Center in downtown Providence, the plan is taking shape.
+Two years after the national real estate and hotel management company [The Procaccianti Group](https://www.procaccianti.com) announced its ambition to acquire and develop a “power block” of marquee properties surrounding a renovated Dunkin’ Donuts Center and the R.I. Convention Center in downtown Providence, the plan is taking shape.
 
 On Aug. 1, the Cranston-based developer began demolition of the city’s former police and fire headquarters across the street from the Dunk in La Salle Square, which it will turn into a surface parking lot while designs are drawn and approved for a new mixed-use office tower with street-level restaurant and retail shops.
 
@@ -223,13 +221,13 @@ Construction crews began tearing down the vacant public safety complex almost im
 
 Then on Aug. 14, an employee of AA Wrecking & Asbestos Abatement Co. in Johnston was taken from the demolition site to the hospital with an ankle injury after the excavator he was operating tipped on its side. Izzi said Procaccianti had launched an investigation of the accident, which he said was believed to have occurred when a foundation wall in the basement collapsed under the weight of the excavator.
 
-The demolition, which Izzi said will take about three weeks, already had been delayed by more than a year as the [Providence Preservation Society](//ppsri.org), the [West Broadway Neighborhood Association](//www.wbna.org), the [College Hill Neighborhood Association](//www.chnaprovidence.org) and other civic groups mounted a campaign to save the building, which they argued was structurally sound and historically significant.
+The demolition, which Izzi said will take about three weeks, already had been delayed by more than a year as the [Providence Preservation Society](https://ppsri.org/), the [West Broadway Neighborhood Association](https://www.wbna.org/), the [College Hill Neighborhood Association](https://www.chnaprovidence.org/) and other civic groups mounted a campaign to save the building, which they argued was structurally sound and historically significant.
 
-The [Downtown Neighborhood Alliance](//www.dnapvd.com) supported the demolition, saying it will spur economic development.
+The [Downtown Neighborhood Alliance](https://www.dnapvd.com/) supported the demolition, saying it will spur economic development.
 
 **Some groups also opposed the city’s decision to allow Procaccianti to turn the site into a surface parking lot until a new building plan is drafted and approved.**
 
-Jef Nickerson, president of [Greater City: Providence](//gcpvd.org), a group that advocates dense, mixed-use development downtown, said he believes the city should not have conveyed the property to Procaccianti before approving a plan for redevelopment that promised to increase pedestrian traffic and contribute to the downtown’s community fabric.
+Jef Nickerson, president of [Greater City: Providence](https://gcpvd.org/), a group that advocates dense, mixed-use development downtown, said he believes the city should not have conveyed the property to Procaccianti before approving a plan for redevelopment that promised to increase pedestrian traffic and contribute to the downtown’s community fabric.
 
 **“It gives an incentive to other developers to do the same thing,”** Nickerson said. **“You buy a building and you tear it down and you build parking, because the city obviously allows that, and it’s something that the city shouldn’t be making so easy for developers.”**
 

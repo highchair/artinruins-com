@@ -25,8 +25,8 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '123 Westminster St, Providence RI'
-latitude: '41.8245465'
-longitude: '-71.4125015'
+latitude: '41.8244791'
+longitude: '-71.4111277'
 gmap: "https://www.google.com/maps/place/Westminster+St,+Providence,+RI+02903/@41.8245465,-71.4125015,18z/data=!4m6!3m5!1s0x89e44516a6a91165:0xd436ba894276b99c!8m2!3d41.8244791!4d-71.4111277!16s%2Fg%2F11b5pkl_21?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Westminster St' ]
 street-number: 123
@@ -131,8 +131,6 @@ The Butler Exchange must have been a convenient downtown location for the Tirocc
 Anna would have been in her mid-thirties, with twenty years of experience in her trade, when she opened the downtown shop. Laura was thirteen years younger than Anna, but had also been trained in Italy. The sisters were well qualified to operate a high-end custom dressmaking shop, and their Roman pedigree lent them a certain European chic that their American competitors couldn’t claim.
 
 About 50% of the sisters’ business involved the traditional work of a dressmaker–altering, making over, repairing, cleaning, and pressing garments for their clients. The remaining 50% came from making gowns using fabric and ideas provided by the client or inspired by French fashion. Anna also designed original gowns for her clients and found this custom work the most satisfying. In these early years, the Tirocchis built a loyal following among Providence women who could afford their services.
-
-—
 
 The sisters later moved to [514 Broadway, known as the Wedding Cake House]({% link _property/kendrick-prentice-tirocchi-house.md %}), in 1915.
 

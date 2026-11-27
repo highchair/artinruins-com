@@ -12,14 +12,16 @@ date-added: '2003'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'South Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'I-195 Relocation Project', 'Providence Industrial Sites 1981', 'RI Historic Resources Archive' ]
 tags: [ 'Demolition by Progress' ]
 
-address: '1 Allens Avenue, Providence RI'
+address: '1 Allens Ave, Providence RI'
 latitude: '41.8138587'
-longitude: '-71.4083448'
-gmap: "//www.google.com/maps/place/1+Allens+Ave,+Providence,+RI+02903/@41.8138587,-71.4083448,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456a000cccbb:0xc0d1234163c38c5b!8m2!3d41.8138587!4d-71.4061561"
+longitude: '-71.4061561'
+gmap: "https://www.google.com/maps/place/1+Allens+Ave,+Providence,+RI+02903/@41.8138587,-71.4083448,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4456a000cccbb:0xc0d1234163c38c5b!8m2!3d41.8138587!4d-71.4061561"
+street: [ 'Allens Ave' ]
+street-number: 1
 
 meta: ""
 excerpt: "Demolished as part of the relocation of I-195 in the early 2000s, this large mill complex was home 45 small businesses, art studios, and a bar. "
@@ -103,7 +105,7 @@ images:
     caption: 'Providence Historical Aerial Viewer 2011'
     sizes: '1440, 900'
 
-imagescredit: Contributions by Virginia Adams, Sarah Clover, and aerials from the Providence Historical Aerial Viewer.
+imagescredit: 'Contributions by Virginia Adams, Sarah Clover, and aerials from the Providence Historical Aerial Viewer.'
 ---
 
 ### Reason for Demolition
@@ -123,6 +125,8 @@ M. Bertram Forman and a business partner bought One Allens Ave in 1962, after it
 The red-brick monolith survived the Hurricane of 1938. As water gushed down the streets outside, Forman said, the building’s only hiccup was a small sewage backup in the lower cellar.
 
 It has never fared well against highways. When the state built the Allens Avenue on-ramp to Route 95 many years ago, workers had to raze the rear of the building. The new Route 195 finished off the rest. Forman had been feeling it coming for some time. Rumors about the new highway had kept rents lower than he would have liked for about seven years.
+
+***
 
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
@@ -217,7 +221,7 @@ At the same time, Bright and other artists are concerned about what they see as 
 “On the one hand, they make the city sound like this great place with all these historic old buildings and a wonderful arts community,” he says. “Then they turn around and let developers knock down the buildings and throw out the artists. It doesn’t make any sense.”
 {:.o__pull-quote}
 
-City officials say the’re working on the problem. But they also complain that artists often come to them as a last resort, after threats of rent hikes or eviction notices actually come true.
+City officials say they’re working on the problem. But they also complain that artists often come to them as a last resort, after threats of rent hikes or eviction notices actually come true.
 
 “The city is willing to work with any artist or arts group that has a problem,” says deputy city solicitor Patricia McLaughlin. “But we also find that artists aren’t always willing to involve us in what they’re doing. They have to be willing to work with us for us to help them.”
 
@@ -235,6 +239,4 @@ That, in turn, could result in more work and living spaces for artists.
 
 “Right now, to renovate and older building anywhere in Rhode Island, you have to bring it up to the same safety codes as a new building,” she says. “In many cases, especially when you’re dealing with some of these big industrial properties, it’s just not cost-effective.”
 
-—
-
-SICLEN, BILL VAN. "FORCED OUT - Artists are leaving Providence for cheaper digs out of town." Providence Journal (RI), All ed., sec. Arts Week, 4 Feb. 2001, pp. E-01. NewsBank: America's News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/152510E3CD2E9688. Accessed 29 June 2023.
+— _SICLEN, BILL VAN. "FORCED OUT - Artists are leaving Providence for cheaper digs out of town." Providence Journal (RI), All ed., sec. Arts Week, 4 Feb. 2001, pp. E-01. NewsBank: America's News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/152510E3CD2E9688. Accessed 29 June 2023._

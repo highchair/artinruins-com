@@ -20,6 +20,8 @@ address: '230 Hope St, Providence RI'
 latitude: '41.830004'
 longitude: '-71.398585'
 gmap: "https://www.google.com/maps/place/230+Hope+St,+Providence,+RI+02906/@41.830004,-71.398585,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445244270359d:0x53ca372af88e85d5!8m2!3d41.830004!4d-71.398585"
+street: [ 'Hope St' ]
+street-number: 230
 
 meta: ""
 excerpt: "An innovative early 70s hyperbolic paraboloid roof structure design that allowed a 130' x 325' uninterrupted interior space"
@@ -38,7 +40,7 @@ images:
   - url: smith-swim-aerials-2007.jpg
     sizes: '1440, 900'
 
-imagescredit: Contributions by Donald Teto, Apavlo (Wikimedia), <a href="//www.foraste.com/htmls/editorial.br.diver.html" target="_blank" title="Opens a new window">John Forasté</a>, Brown University archives
+imagescredit: Contributions by Donald Teto, Apavlo (Wikimedia), <a href="https://www.foraste.com/htmls/editorial.br.diver.html">John Forasté</a>, Brown University archives
 ---
 
 ### Reason for Demolition
@@ -74,15 +76,15 @@ Maiorisi said the building was regularly maintained and that a series of renovat
 
 He said renovations undertaken in the 1990s to the Smith Swim Center revealed problems related to the building’s lack of a dehumidification system, but that one was never installed. Maiorisi said he did not know why.
 
-[Full story](//www.browndailyherald.com/2007/09/05/new-details-shed-light-on-demise-of-swim-center/){:target="_blank"}
+[Full story](https://www.browndailyherald.com/2007/09/05/new-details-shed-light-on-demise-of-swim-center/)
 
 More media:
-+ [A video timelapse video captured by Brown Facilities Management of the demolition on YouTube](//www.youtube.com/watch?time_continue=19&v=d-cVYYp5I3k&feature=emb_logo){:target="_blank"}.
++ [A video timelapse video captured by Brown Facilities Management of the demolition on YouTube](https://www.youtube.com/watch?time_continue=19&v=d-cVYYp5I3k&feature=emb_logo).
 
 
 ### Current Events
 
-A new swim center — the Katherine Moran Coleman Aquatics Center — was completed in May 2012 at a similar address, 235 Hope Street, as part of the Nelson Fitness Center. 
+A new swim center — the Katherine Moran Coleman Aquatics Center — was completed in May 2012 at a similar address, 235 Hope Street, as part of the Nelson Fitness Center.
 
 
 ### History

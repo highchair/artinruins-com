@@ -11,14 +11,16 @@ date-added: '2005'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: [ 'Federal Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Needs History' ]
 
 address: '333 Atwells Ave, Providence RI'
 latitude: '41.8241708'
-longitude: '-71.4311025'
+longitude: '-71.4289138'
 gmap: "https://www.google.com/maps/place/333+Atwells+Ave,+Providence,+RI+02903/@41.8241708,-71.4311025,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450a91a25bfd:0x5397cf30e0a11e3a!8m2!3d41.8241708!4d-71.4289138"
+street: [ 'Atwells Ave' ]
+street-number: 333
 
 meta: ""
 excerpt: "An unassuming single story commercial property razed for the Walgreens and condos at 333 Atwells Ave."
@@ -50,7 +52,7 @@ Several buildings would be razed for a proposed condominium tower: Rialto Furnit
 
 ### Current Events
 
-This land was turned into the Walgreens and the condominiums at 333 Atwells Avenue. While the news story references plans for a total height of 8 stories (77-feet tall), only three stories were built. 
+This land was turned into the Walgreens and the condominiums at 333 Atwells Avenue. While the news story references plans for a total height of 8 stories (77-feet tall), only three stories were built.
 
 ### In the News
 

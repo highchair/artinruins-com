@@ -12,14 +12,16 @@ date-added: '2004'
 categories: [ '#ArchiveRI' ]
 neighborhoods: [ 'Downtown Providence' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'HABS HAER', 'Did You Know?' ]
 tags: [ 'Demolition by Progress', 'Library of Congress', 'Needs History' ]
 
-address: '~265 Canal Street, Providence RI'
+address: '~265 Canal St, Providence RI'
 latitude: '41.829387'
 longitude: '-71.411100'
 gmap: "https://www.google.com/maps/place/41°49'45.8%22N+71°24'40.0%22W/@41.829389,-71.4121943,400m"
+street: [ 'Canal St' ]
+street-number: 265
 
 meta: ""
 excerpt: "Originally located along N. Main & Canal Sts., across from Roger Williams Park, Providence, the last meat-packing plant survived for about 50 years"
@@ -76,14 +78,14 @@ imagescredit: 'Images from the Library of Congress HABS/HAER projects, Jack Bouc
 
 ### Reason for Demolition
 
-Sometime between 1981 and 1985 this building was removed/demolished but the foundation over the Blackstone canal was left behind. Around the same time, the [Roger Williams National Memorial Park](//en.wikipedia.org/wiki/Roger_Williams_National_Memorial) was built. The [Providence Aerial Viewer](//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e) for 1981 shows this building’s shadow standing and the nearby park cleared but undeveloped. By 1985 the platform looks like it is left over the river and the nearby park is landscaped. 
+Sometime between 1981 and 1985 this building was removed/demolished but the foundation over the Blackstone canal was left behind. Around the same time, the [Roger Williams National Memorial Park](https://en.wikipedia.org/wiki/Roger_Williams_National_Memorial) was built. The [Providence Aerial Viewer](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e) for 1981 shows this building’s shadow standing and the nearby park cleared but undeveloped. By 1985 the platform looks like it is left over the river and the nearby park is landscaped.
 
-Industry near downtown Providence was discouraged generally after a few master planning exercises in the 50s and 60s. In order to make the city viable and attractive to white-collar businesses and possibly even residents, the City would need to move from being industrial to being commercial. The removal of businesses such as meat packing made sense. The nearby northeast corridor railroad project — which removed much of the industrial rail yards from downtown and pushed the passenger tracks below ground as they came into the City — was another major reason why the business moved from this location. 
+Industry near downtown Providence was discouraged generally after a few master planning exercises in the 50s and 60s. In order to make the city viable and attractive to white-collar businesses and possibly even residents, the City would need to move from being industrial to being commercial. The removal of businesses such as meat packing made sense. The nearby northeast corridor railroad project — which removed much of the industrial rail yards from downtown and pushed the passenger tracks below ground as they came into the City — was another major reason why the business moved from this location.
 
 
 ### Current Events
 
-The foundation that spans over the Blackstone canal is still present and is now a patio/outdoor space for [The Cove](//livingoncampus.jwu.edu/providence-the-cove), and apartment complex extension for Johnson & Wales University. [Station Row arpartments](//www.stationrowapts.com/) are right next door as well. 
+The foundation that spans over the Blackstone canal is still present and is now a patio/outdoor space for [The Cove](https://livingoncampus.jwu.edu/providence-the-cove), and apartment complex extension for Johnson & Wales University. [Station Row arpartments](https://www.stationrowapts.com/) are right next door as well.
 
 
 ### History

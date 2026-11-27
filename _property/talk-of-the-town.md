@@ -22,9 +22,11 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '147 Washington St, Providence RI'
-latitude: '41.8229194'
-longitude: '-71.4174538'
-gmap: "//www.google.com/maps/place/147+Washington+St,+Providence,+RI+02903/@41.8229194,-71.4174538,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451254ab8633:0x3c31e79c26cd0131!8m2!3d41.8229194!4d-71.4152651"
+latitude: '41.8226661'
+longitude: '-71.4152915'
+gmap: "https://www.google.com/maps/place/149+Washington+St,+Providence,+RI+02903/@41.8226661,-71.4152915,3a,75y,321.27h,90t/data=!3m6!1e1!3m4!1saVoiiARQsh8dqql4-cWvJw!2e0!7i16384!8i8192!4m5!3m4!1s0x89e44512542240e3:0xbcc7c6522678ee08!8m2!3d41.8228099!4d-71.415435"
+street: [ 'Washington St' ]
+street-number: 137
 
 meta: ""
 excerpt: "A former downtown bar forced to move after the building was razed for a hotel that was never built"
@@ -80,7 +82,7 @@ images:
 
 mostrecentimage: 2021-07-01
 
-imagescredit: 'All photos by <a href="//www.jaimelowe.com" target="_blank">Jaime Lowe</a>, October 29, 2017'
+imagescredit: 'All photos by <a href="https://www.jaimelowe.com">Jaime Lowe</a>, October 29, 2017'
 
 ---
 
@@ -92,18 +94,18 @@ Talk of the Town, a bar that has been on Washington Street for more than 25 year
 
 [^2]: Ibid
 
-By November 2007, George Langlois, owner of the bar, planned to move to 529 Atwells Ave., where Atwells intersects with Harris Avenue at the foot of Federal Hill. But a meeting of the board of licenses voted unanimously to renew the liquor license but to deny the request to transfer it to a new location at the objections of City Councilwoman Josephine DiRuzzo, D-Ward 15. Board chairman Andrew J. Annaldo and vice chairman Gordon D. Fox, D-Providence also voted to reject the move based on the lack of parking.[^3] 
+By November 2007, George Langlois, owner of the bar, planned to move to 529 Atwells Ave., where Atwells intersects with Harris Avenue at the foot of Federal Hill. But a meeting of the board of licenses voted unanimously to renew the liquor license but to deny the request to transfer it to a new location at the objections of City Councilwoman Josephine DiRuzzo, D-Ward 15. Board chairman Andrew J. Annaldo and vice chairman Gordon D. Fox, D-Providence also voted to reject the move based on the lack of parking.[^3]
 
 [^3]: Smith, Gregory. “Board pulls plug on plan to move Talk of the Town.” Providence Journal (RI), Metro ed., sec. News, 21 Nov. 2007, pp. D-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15242674618F6288. Accessed 11 Dec. 2021.
 
-In January 2008, the director of the state Department of Business Regulation, in an appeal by the bar, overruled the license board and allowed the liquor license to the transferred to the new location.[^4] Demolition of the former bar started in February, 2008. 
+In January 2008, the director of the state Department of Business Regulation, in an appeal by the bar, overruled the license board and allowed the liquor license to the transferred to the new location.[^4] Demolition of the former bar started in February, 2008.
 
 [^4]: Smith, Gregory. “DBR overrules license board on Talk of the Town move.” Providence Journal (RI), Metro ed., sec. News, 24 Jan. 2008, pp. D-01. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/152425621F3ED338. Accessed 11 Dec. 2021.
 
 
 ### Current Events
 
-The former location of Talk of the Town is still a parking lot (2021) for nearby businesses. The bar itself moved to 529 Atwells Avenue but later became Nolan’s Corner Bar around 2013. 
+The former location of Talk of the Town is still a parking lot (2021) for nearby businesses. The bar itself moved to 529 Atwells Avenue but later became Nolan’s Corner Bar around 2013.
 
 
 ### Personal Anecdote
@@ -112,8 +114,8 @@ The former location of Talk of the Town is still a parking lot (2021) for nearby
 
 Maybe we shouldn’t get all sentimental about a bar, but c’man, T.O.T.T. was great.
 
-We won’t pretend to be TOTTers from way back, because we’re not. There are plenty of people who could tell some great stories about this place. For us, though, Sunday nights with Mike Kelly and Jamie behind the bar and the [Johnny “The Colonel” Maguire](//www.instagram.com/colonelphotos){:target="_blank"} spinning rockabilly, tiki, lounge, and punk favorites just couldn’t be beat.
+We won’t pretend to be TOTTers from way back, because we’re not. There are plenty of people who could tell some great stories about this place. For us, though, Sunday nights with Mike Kelly and Jamie behind the bar and the [Johnny “The Colonel” Maguire](https://www.instagram.com/colonelphotos) spinning rockabilly, tiki, lounge, and punk favorites just couldn’t be beat.
 
 The bar itself had character and characters. The crowd was different almost every night of the week. Walnut and oak lined the walls, and there was a series of photos from the Hurricane of ’38 over by the pool table arranged into the letters TOTT. When it was packed, you could hardly move, and when it was empty, maybe you were too intimidated to go in.
 
-The bar relocated to the end of Atwells Avenue, past Lilies but not into Eagle Square. Part of the charm of this dive was its prime location right downtown. As more and more places go upscale, or get demolished for another hotel like this one, we will lose more and more of the establishments who were able to stick it out through the rough 80’s but can’t hold on during this new boom period. Will the establishments that replace them be able to hold on if Providence goes through another bust?
+The bar relocated to the end of Atwells Avenue, past Lilies but not into Eagle Square (current location of Nolan’s, 2026). Part of the charm of this dive was its prime location right downtown. As more and more places go upscale, or get demolished for another hotel like this one, we will lose more and more of the establishments who were able to stick it out through the rough 80’s but can’t hold on during this new boom period. Will the establishments that replace them be able to hold on if Providence goes through another bust?

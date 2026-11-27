@@ -24,9 +24,9 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: 'Around 436 Brook St, Providence RI'
-latitude: '41.8291167'
-longitude: '-71.4011786'
-gmap: "https://www.google.com/maps/place/436+Brook+St,+Providence,+RI+02906/@41.8291167,-71.4011786,18z/data=!4m5!3m4!1s0x89e445248735ef35:0xfb49152807b54118!8m2!3d41.8294938!4d-71.3998535"
+latitude: '41.8296961'
+longitude: '-71.3998771'
+gmap: "https://www.google.com/maps/place/242+450+Brook+St,+Providence,+RI+02906/@41.8295884,-71.4011384,19z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzQ0LjgiTiA3McKwMjQnMDQuMiJX!8m2!3d41.8291167!4d-71.4011786!3m5!1s0x89e445247e80310f:0x1a75622686204634!8m2!3d41.8296961!4d-71.3998771!16s%2Fg%2F11n44n7vz5?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Brook St' ]
 street-number: 436
 
@@ -182,6 +182,4 @@ Brown’s demolition plans are already drawing fire from the Providence Preserva
 
 “We oppose any plan for demolition that does not have anything better replacing it, and in this case we did not consider a parking lot an improvement,” Runyon said.
 
-—
-
-Anderson, Patrick. “Providence Brown seeks to raze buildings for parking lot — Seven multifamily houses near Thayer Street described as ‘unsightly’.” Providence Journal (RI), sec. RI News, 14 Jan. 2016, p. 4. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15A64C96CA3E40E0. Accessed 25 Jan. 2022.
+— _Anderson, Patrick. “Providence Brown seeks to raze buildings for parking lot — Seven multifamily houses near Thayer Street described as ‘unsightly’.” Providence Journal (RI), sec. RI News, 14 Jan. 2016, p. 4. NewsBank: America’s News, infoweb.newsbank.com/apps/news/document-view?p=NewsBank&docref=news/15A64C96CA3E40E0. Accessed 25 Jan. 2022._
