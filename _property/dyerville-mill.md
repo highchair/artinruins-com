@@ -12,7 +12,7 @@ date-added: '2003'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 people: [ 'Elisha Dyer', 'Truman Beckwith' ]
 tags: [ 'The Superlatives' ]
@@ -21,7 +21,7 @@ superlative: 'A well-preserved example of early 19th-century industrial architec
 NRHP-ref-number: '79000055'
 added-to-NRHP: 'June 18, 1979'
 
-address: '610 Manton Avenue, Providence RI'
+address: '610 Manton Ave, Providence RI'
 latitude: '41.8264712'
 longitude: '-71.461576'
 gmap: "https://www.google.com/maps/place/610+Manton+Ave,+Providence,+RI+02909/@41.8264712,-71.4637647,17z/data=!3m1!4b1!4m5!3m4!1s0x89e445e9b96ad611:0xa20be35cd01e8234!8m2!3d41.8264712!4d-71.461576"
@@ -85,7 +85,7 @@ As late as 1978, a covered wood walkway connected the mill tower with an early t
 
 In the early 2000s the mill was home to the Rhode Island Department of Labor. The newer single level portion of the mill was a facility occupied by Cowan Plastics. The mill changed hands in 2003 with a sale of a little over a million dollars. Since then, the office building has been zoned off and sold as residential while the mill remains in use.
 
-In 2020, the mill became part of the [Groden Network](https://grodennetwork.org) of educational and vocational centers assisting adults with development difficulties like autism. This location houses the “Cove Center” along with spaces for other businesses who presumably rent from Groden.
+In 2020, the mill became part of the [Groden Network](https://grodennetwork.org/) of educational and vocational centers assisting adults with development difficulties like autism. This location houses the “Cove Center” along with spaces for other businesses who presumably rent from Groden.
 
 
 ### History

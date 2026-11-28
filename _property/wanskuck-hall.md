@@ -12,7 +12,7 @@ date-added: '2004'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'North End' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Wanskuck Historic District' ]
 tags: []
 
@@ -23,6 +23,8 @@ address: '754-756 Branch Ave, Providence, RI'
 latitude: '41.8539115'
 longitude: '-71.4306321'
 gmap: "https://www.google.com/maps/place/754+Branch+Ave,+Providence,+RI+02904/@41.8539155,-71.4328208,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44458634908cf:0x1db67916505bc10b!8m2!3d41.8539115!4d-71.4306321"
+street: [ 'Branch Ave' ]
+street-number: 754
 
 meta: ""
 excerpt: "An ornate mill-company-built community space subdivided into offices during the last century"
@@ -31,7 +33,7 @@ thumbnail: wanskuck-hall-jh-2020-08-02.jpg
 
 images:
   - url: wanskuck-hall-habs-1982-01.jpg
-    alt: 'A red brick almost square plan structure with a central entrance atop granite steps. The brickwork is ornamental, with colored bricks adding a repeating pattern along the building. Decorative brackets support a deep roof eave, and cut out stars adorn the woodwork at the rafter ends. '
+    alt: 'A red brick almost square plan structure with a central entrance atop granite steps. The brickwork is ornamental, with colored bricks adding a repeating pattern along the building. Decorative brackets support a deep roof eave, and cut out stars adorn the woodwork at the rafter ends.'
     caption: 'Robert O. Jones for the Rhode Island Historical Preservation Commission, October 1982'
     sizes: '1440, 900'
   - url: wanskuck-hall-jh-2004-02-01.jpg

@@ -13,7 +13,7 @@ date-added: '2003'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Broadway-Armory Historic District', 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'Apartments for Rent' ]
 
@@ -120,15 +120,15 @@ This is the only extant mill in Providence associated with the important Knight 
 
 _From the RIHPHC’s survey of Providence Industrial Sites, July 1981_
 
-Built around an earlier stone mill structure tis plain, 4-story, brick mill with a flat roof and segmental-arch windows was one of the two Providence mills owned by the huge cotton combine B.B. and R. Knight, best known for its “Fruit of the Loom” products. Another plant, the Nottingham Mill (originally the Providence Steam Cotton Mill) on Dyer Street, owned by the Knights in the early 20th century, has been demolished. 
+Built around an earlier stone mill structure tis plain, 4-story, brick mill with a flat roof and segmental-arch windows was one of the two Providence mills owned by the huge cotton combine B.B. and R. Knight, best known for its “Fruit of the Loom” products. Another plant, the Nottingham Mill (originally the Providence Steam Cotton Mill) on Dyer Street, owned by the Knights in the early 20th century, has been demolished.
 
-The Knight brothers, Benjamin and Robert, began the manufacture of cotton cloth in 1852 and in 1856 adopted their Fruit of the Loom symbol which was later accompanied by a guarantee of satisfaction. By the early 20th century the B.B. & R. Knight Company owned 22 cotton mills in Rhode Island and Massachusetts. After the death of the Knight brothers in the early 20th century, the textile combine was run by their sons until 1920 when a New York corporation bought the Knight holdings. This corporation manufactured cotton goods under the Fruit of the Loom label until 1926 when it filed for bankruptcy; the mills were subsequently managed by the Knight Finance Corporation. In 1935 the Grant Mill was sold to the Blacher Brothers jewelry company which still occupies the mill. 
+The Knight brothers, Benjamin and Robert, began the manufacture of cotton cloth in 1852 and in 1856 adopted their Fruit of the Loom symbol which was later accompanied by a guarantee of satisfaction. By the early 20th century the B.B. & R. Knight Company owned 22 cotton mills in Rhode Island and Massachusetts. After the death of the Knight brothers in the early 20th century, the textile combine was run by their sons until 1920 when a New York corporation bought the Knight holdings. This corporation manufactured cotton goods under the Fruit of the Loom label until 1926 when it filed for bankruptcy; the mills were subsequently managed by the Knight Finance Corporation. In 1935 the Grant Mill was sold to the Blacher Brothers jewelry company which still occupies the mill.
 
 ***
 
 _From “RHODE ISLAND: An Inventory of Historic Engineering and Industrial Sites”, Gary Kulik and Julia C. Bonham, 1978_
 
-The original Grant Mill, a 4-story, stone textile mill with a central tower and a 2-story, wooden weave room on the west, stood on this Carpenter Street site some time before 1880. Owned by the Hebron Manufacturing Company, the Grant Mill was a part of the B. B. R. Knight textile combine. In 1896, the Knights owned eighteen textile mills, twelve of them in Rhode Island — **Grant**, Arctic, Cranston Print, Jackson, Clinton, Natick, Fiskville, [Royal]({% link _property/royal-mill-ace-dyeing.md %}) in Warwick, Valley Queen, [Pontiac]({% link _property/pontiac-mill-warwick.md %}), Lippitt in Warwick, and White Rock in Westerly — and controlled a total of 290,000 spindles. 
+The original Grant Mill, a 4-story, stone textile mill with a central tower and a 2-story, wooden weave room on the west, stood on this Carpenter Street site some time before 1880. Owned by the Hebron Manufacturing Company, the Grant Mill was a part of the B. B. R. Knight textile combine. In 1896, the Knights owned eighteen textile mills, twelve of them in Rhode Island — **Grant**, Arctic, Cranston Print, Jackson, Clinton, Natick, Fiskville, [Royal]({% link _property/royal-mill-ace-dyeing.md %}) in Warwick, Valley Queen, [Pontiac]({% link _property/pontiac-mill-warwick.md %}), Lippitt in Warwick, and White Rock in Westerly — and controlled a total of 290,000 spindles.
 
 Sometime between 1908 and 1918, the present Grant Mill, a 4-story, brick structure fronting directly on Carpenter Street, was built. The new mill completely replaced the earlier one. In 1935, with the decline of the state’s textile industry a jewelry firm bought the Grant Mill. This same firm, Blacher Brothers, continues to operate the mill. The mill’s basement contains two inactive steam engines: one, a cross-compound Corliss with a 16-foot flywheel, a 4-foot stroke, a 24-inch cylinder on the high pressure side, and a 40-inch cylinder on the low pressure side; the other, a small Fleming engine from Harrisburg, Pennsylvania, connected to a 125 KW generator and previously used for emergency lighting. The Corliss once provided direct mechanical drive and was probably installed when the new mill was built. It is currently connected to a 450 KW generator, but it has not operated for a number of years.
 

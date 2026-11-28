@@ -15,7 +15,7 @@ date-added: '2006'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: []

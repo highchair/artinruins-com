@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: []
@@ -153,4 +153,4 @@ For some, Therapy’s late hours pose a high barrier to entry, filtering out the
 
 “It’s not your average lifestyle, but that’s the beauty of it,” Verna said with a beam. “I’ve had the most beautiful and life-changing nights of my life here. What we have going on is really special.” […]
 
-— Ambrose, Graham. “Nightlife Dancing to the break of dawn - After all the bars close, Olneyville’s Club Therapy hits its groove.” Providence Journal (RI), sec. RI Features, 21 Aug. 2016, p. 1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15EE7528E27A2048. Accessed 17 June 2023.
+— _Ambrose, Graham. “Nightlife Dancing to the break of dawn - After all the bars close, Olneyville’s Club Therapy hits its groove.” Providence Journal (RI), sec. RI Features, 21 Aug. 2016, p. 1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15EE7528E27A2048. Accessed 17 June 2023._

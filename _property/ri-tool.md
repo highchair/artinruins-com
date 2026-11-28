@@ -12,7 +12,7 @@ date-added: '2003'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981' ]
 tags: [ 'The Superlatives' ]
 superlative: 'During the mid-1870s it was the largest single employer in Providence and an important American rifle manufacturer'
@@ -145,7 +145,7 @@ _From the National Register nomination form, prepared by Matthew Kierstead and S
 
 The four-story, 15-ft-square, brick stair tower has a shallow pyramidal hipped roof with an overhanging wood cornice with plank soffits and fascia, and curved wood brackets. The tower is divided into four stories with brick string courses between the first and second, and third and fourth floors. Each side of each story contains a Roman arch opening with a protruding brick arch and granite sill. The top story is a belfry with recessed panels and corner piers, and arched openings filled with horizontal metal louvers. […] The ground floor has an ornate, multiple pane, double-hung sash, double-arch- and-oriel window on the south elevation, a replacement aluminum and glass entrance door with an original wood sash fanlight on the east elevation, and a multiple pane wood sash window on the north elevation. The bell and pull rope are still in place and functional.
 
-#### Significance 
+#### Significance
 
 The period of significance begins in 1853, when the **Providence Forge & Nut Company** erected the first component buildings, and ends in 1921, when construction was completed. […] The tool works complex was begun by Providence Forge & Nut Company in 1853, and purchased by the **Providence Tool Company** in 1861. In the Civil War and post war eras, Providence Tool became an important American rifle manufacturer. During the mid-1870s it was the largest single employer in Providence. The company was reorganized as the **Rhode Island Tool Company** in 1883, and was the only drop forging operation in Rhode Island when it closed in 2003. The complex is Providence's most intact surviving complex of pre-Civil War-era base metals industry buildings. […]
 
@@ -166,7 +166,7 @@ The Providence Tool complex consists of a two-story brick structure facing West 
 
 The **Providence Tool Company** manufactured rifles for the Union Anny during the Civil War at this site. At another facility on Wickenden Street (since demolished) it also produced sewing machines. In 1883, the company was split in two: the **Household Sewing Machine Company** and the **Rhode Island Tool Company**, the latter of which continued to operate in the West River Street building. Later in the company’s history, it turned from producing rifles to making machine bolts and forgings (RJHPHC data sheet; Woodward 1986: Kulik 1978; RIHPHC 1981).
 
-R.I. Tool Company still uses the building as a factory today. J. Vingi and Son, Inc., a wholesale produce company, occupies part of the complex. The-ProvidenceTool complex is now one of the few surviving historic mill sites in the southern West River are'1⁄2which was once home to the Corliss Steam Engine Company (146 West River Street) and the Silver Spring Bleaching and DyeingCompany(387CharlesStreet- notextant).
+R.I. Tool Company still uses the building as a factory today. J. Vingi and Son, Inc., a wholesale produce company, occupies part of the complex. The Providence Tool complex is now one of the few surviving historic mill sites in the southern West River which was once home to the Corliss Steam Engine Company (146 West River Street) and the Silver Spring Bleaching and Dyeing Company (387 Charles Street — not extant).
 
 ***
 
@@ -178,6 +178,6 @@ The 3-story, brick structure on the west and the current foundry were also added
 
 In 1883, Providence Tool reorganized and two new firms were created. The **Household Sewing Machine Company** continued the manufacture of sewing machines on Wickenden Street in a building that has since been destroyed. The **Rhode Island Tool Company** was formed to operate the 1861 plant for the production of job-order machinery, bolts, nuts, and assorted tools. Rhode Island Tool still owns the building and currently produces drop forgings, upset forgings, and special industrial fasteners.
 
-Credit: _Munro; Bayles; Hall; Providence Directory, 1860 and 1861; Graphics Collection, RIHS; L. T. C. Rolt, A Short History of Machine Tools, 1965._
+— _Munro; Bayles; Hall; Providence Directory, 1860 and 1861; Graphics Collection, RIHS; L. T. C. Rolt, A Short History of Machine Tools, 1965._
 
 </details>

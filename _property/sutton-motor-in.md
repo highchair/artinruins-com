@@ -18,7 +18,7 @@ tags: [ 'Drive Ins' ]
 
 address: '110 Worcester-Providence Turnpike, Massachusetts'
 latitude: '42.16501'
-longitude: '-71.7466987'
+longitude: '-71.74451'
 gmap: "https://www.google.com/maps/place/110+Worcester-Providence+Turnpike,+Sutton,+MA+01590/@42.16501,-71.7466987,17z/data=!3m1!4b1!4m5!3m4!1s0x89e40fe3d63d7c77:0x4fcb1f913a81ca91!8m2!3d42.16501!4d-71.74451"
 
 meta: ""

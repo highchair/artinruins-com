@@ -14,7 +14,7 @@ date-added: '2008'
 categories: [ '#UrbanDecay' ]
 neighborhoods: [ 'Fox Point/India Point' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'PPS Ten Most Endangered' ]
 tags: [ 'Bridges', 'Providence Public Library Digital Collections' ]
 
@@ -77,11 +77,11 @@ images:
 
 mostrecentimage: 2008-08-01
 
-imagescredit: 'Postcard from the <a href="//provlibdigital.org/islandora/object/islandora%3A18026?solr_nav%5Bid%5D=98be77496b1046ab0dfe&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=3" target="_blank">Providence Public Library Digital Collection</a>, photo scan from Larry Depetrillo, and a photo by <a href="http://photos.nerail.org/showpic/?photo=2004051712391620075.jpg&amp;order=byyear&amp;page=8&amp;key=1954" target="_blank">Leo King</a>.'
+imagescredit: 'Postcard from the <a href="https://provlibdigital.org/islandora/object/islandora%3A18026?solr_nav%5Bid%5D=98be77496b1046ab0dfe&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=3">Providence Public Library Digital Collection</a>, photo scan from Larry Depetrillo, and a photo by <a href="http://photos.nerail.org/showpic/?photo=2004051712391620075.jpg&amp;order=byyear&amp;page=8&amp;key=1954">Leo King</a>.'
 
 external:
   - source: 'R.I. puts Providence’s distinctive drawbridge down for demolition, Providence Journal'
-    url: '//www.providencejournal.com/news/20190730/ri-puts-providences-distinctive-drawbridge-down-for-demolition--poll'
+    url: 'https://www.providencejournal.com/news/20190730/ri-puts-providences-distinctive-drawbridge-down-for-demolition--poll'
     #url: https://perma.cc/MQ4Z-Z9K4
 ---
 
@@ -89,14 +89,14 @@ external:
 
 An icon in its own right, the bridge that seems to be permanently stuck in the up position has hung over the Seekonk River since 1976. It’s silhouette can easily be seen as you pass over the Washington Bridge in a car on I-195 going East or West. The heavy iron structure recalls a time in engineering when heft was best… obviously, the bridge was built to last, and shows very little signs of structural damage, aside from the fires here and there that have slightly damaged the thick wooden railroad ties. The significance of this structure is partly the way it is stuck in time. To remove the bridge or to get it working again and turn it into a pedestrian walkway from East Providence to Fox Point might deny the bridge’s meaningful existence as a snapshot of history.
 
-Plans to redevelop this parcel along the waterfront have surfaced over the years and then quickly return to the bottom of the river. The town of East Providence was under  redevelopment along its waterfront in the aughts, but the bridge remained. An extension of the East Bay bike path was installed along the waterfront and India Point Park in 2016-2018, but the bridge remains. 
+Plans to redevelop this parcel along the waterfront have surfaced over the years and then quickly return to the bottom of the river. The town of East Providence was under  redevelopment along its waterfront in the aughts, but the bridge remained. An extension of the East Bay bike path was installed along the waterfront and India Point Park in 2016-2018, but the bridge remains.
 
 The populace generally has fond feelings towards the bridge and people think of it fondly as a landmark. It’s probably one of the most photographed bridges in New England. Unlike other bridges that have been demolished after being decommissioned ([Jamestown Bridge]({% link _property/jamestown-bridge.md %}), for example), this bridge seems to have won its way into the hearts and minds of the area residents.
 
 
 ### History
 
-The bridge has many names, some technical but most colloquial: The bridge opened with the name “Crook Point Bascule Bridge” ([Bascule Bridge definition in Wikipedia](//en.wikipedia.org/wiki/Bascule_bridge){:target="_blank"}), which is technically a “Scherzer Rolling Lift Bridge”; the DOT knows the bridge as the Seekonk River Drawbridge S.S. K-315; most of the rest of us call it the Drawbridge, or the Seekonk River Bridge, or the Stuck-Up Bridge, or simply the Up Bridge. It was built around 1908 – at the same time as the [East Side Railroad Tunnel]({% link _property/east-side-train-tunnel.md %}) – to connect the East Side and Downtown Providence with East Providence. The bridge served the Warren and Bristol train lines running east to west, and from Union Station, could connect out to the Providence and Worcester.
+The bridge has many names, some technical but most colloquial: The bridge opened with the name “Crook Point Bascule Bridge” ([Bascule Bridge definition in Wikipedia](https://en.wikipedia.org/wiki/Bascule_bridge)), which is technically a “Scherzer Rolling Lift Bridge”; the DOT knows the bridge as the Seekonk River Drawbridge S.S. K-315; most of the rest of us call it the Drawbridge, or the Seekonk River Bridge, or the Stuck-Up Bridge, or simply the Up Bridge. It was built around 1908 – at the same time as the [East Side Railroad Tunnel]({% link _property/east-side-train-tunnel.md %}) – to connect the East Side and Downtown Providence with East Providence. The bridge served the Warren and Bristol train lines running east to west, and from Union Station, could connect out to the Providence and Worcester.
 
 ***
 
@@ -115,11 +115,11 @@ The Phoenix Bridge Company, of Phoenixville, Pennsylvania, built this single lea
 #### Links
 
 + “[Stairway to Heaven]({% link supplements/stairway-to-heaven.md %}),” story submitted by John Blasing
-+ “[Providence Part Four](//web.archive.org/web/20130514121409/open.salon.com/blog/designanator/2008/08/10/providence_part_four){:target="_blank"},” photos and story circa 1977 from John Ballantine via archive.org
-+ [Google Photosphere from under the bridge](//www.google.com/maps/@41.8239096,-71.3852582,3a,75y,184.69h,148.06t/data=!3m8!1e1!3m6!1sAF1QipMMD-Bp1m9kbVcnos_8Rf3bmMjPuWkcfAgKN_IZ!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMMD-Bp1m9kbVcnos_8Rf3bmMjPuWkcfAgKN_IZ%3Dw203-h100-k-no-pi-0-ya284.9947-ro0-fo100!7i7680!8i3840){:target="_blank"}
-+ [Abandoned Crook Point Bascule Bridge (Aerial drone photography)](//www.youtube.com/watch?v=jknNV0eKVss){:target="_blank"}, Jason Allard
-+ [Urbanism in the Archaeological Record: Because it’s There](//www.brown.edu/Departments/Joukowsky_Institute/courses/urbanism/4700.html){:target="_blank"}, James A. Doyle, Brown University
-+ [Urbanism in the Archaeological Record: Crook Point Project](//brown.edu/Departments/Joukowsky_Institute/courses/urbanism/3903.html){:target="_blank"}, Brown University students
++ “[Providence Part Four](https://web.archive.org/web/20130514121409/open.salon.com/blog/designanator/2008/08/10/providence_part_four)” photos and story circa 1977 from John Ballantine via archive.org
++ [Google Photosphere from under the bridge](https://www.google.com/maps/@41.8239096,-71.3852582,3a,75y,184.69h,148.06t/data=!3m8!1e1!3m6!1sAF1QipMMD-Bp1m9kbVcnos_8Rf3bmMjPuWkcfAgKN_IZ!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMMD-Bp1m9kbVcnos_8Rf3bmMjPuWkcfAgKN_IZ%3Dw203-h100-k-no-pi-0-ya284.9947-ro0-fo100!7i7680!8i3840)
++ [Abandoned Crook Point Bascule Bridge (Aerial drone photography)](https://www.youtube.com/watch?v=jknNV0eKVss), Jason Allard
++ [Urbanism in the Archaeological Record: Because it’s There](https://www.brown.edu/Departments/Joukowsky_Institute/courses/urbanism/4700.html), James A. Doyle, Brown University
++ [Urbanism in the Archaeological Record: Crook Point Project](https://brown.edu/Departments/Joukowsky_Institute/courses/urbanism/3903.html), Brown University students
 
 
 ### In the News
@@ -146,4 +146,4 @@ Hearing the state DOT was formulating demolition plans, first reported by WPRI, 
 
 Opened in 1908, the drawbridge was abandoned in 1976 and fixed upright to allow boats to pass while avoiding the expense of tearing it down.
 
-— _Captured November 23, 2020 from https://www.providencejournal.com/news/20190730/ri-puts-providences-distinctive-drawbridge-down-for-demolition
+— _Captured November 23, 2020 from https://www.providencejournal.com/news/20190730/ri-puts-providences-distinctive-drawbridge-down-for-demolition_

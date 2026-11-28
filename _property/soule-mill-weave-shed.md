@@ -13,7 +13,7 @@ date-added: '2006'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Massachusetts' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: []
@@ -23,7 +23,7 @@ added-to-NRHP:
 
 address: '123 Sawyer St, New Bedford MA'
 latitude: '41.6584697'
-longitude: '-70.9246053'
+longitude: '-70.9224166'
 gmap: "https://www.google.com/maps/place/123+Sawyer+St,+New+Bedford,+MA+02746/@41.6584697,-70.9246053,670m/data=!3m1!1e3!4m5!3m4!1s0x89e4e41649e373e7:0x1cd8b3cb7e247137!8m2!3d41.6584697!4d-70.9224166"
 
 meta: ""
@@ -68,7 +68,7 @@ imagescredit: 'Google Maps satellite image'
 
 ### Redevelopment
 
-We were invited to meet Adam Buck and Anne Wolfe in 2005 to tour the progress they had been making on the former rope works building. We gathered some history shortly after our meeting as well but do not have any sources to share. 
+We were invited to meet Adam Buck and Anne Wolfe in 2005 to tour the progress they had been making on the former rope works building. We gathered some history shortly after our meeting as well but do not have any sources to share.
 
 
 ### Current Events
@@ -78,7 +78,7 @@ The thirteen units for sale in the Ropeworks come up on real estate website from
 
 ### History
 
-The building is over 90 years old, but it’s exact date of construction places it between 1911 and 1917. It was originally designed as an addition to the larger [Soule Mill complex](//www.digitalcommonwealth.org/search/commonwealth:8s45qm01k){:target="_blank"}, and is the only remaining structure. New Bedford was one of the first cities to integrate all stages of textile production within these large mill complexes, which were often several stories high and many city blocks long. This 25,000 square foot single story building was designed as a weave and dye shed, and north-facing skylights along the full length of each of the six sawteeth brought in ample even-toned natural light, which was important to the process of dying and color-matching. As New Bedford was one of the last cities in America to switch from whale oil to electric lights, the skylights were an important part of the design. The sawtooth roof design runs in a slight diagonal to the square of the building to face true north, which provides an interesting architectural feature ([seen best in the aerial photo](#photo-sawtooth-google-2020-10)).
+The building is over 90 years old, but it’s exact date of construction places it between 1911 and 1917. It was originally designed as an addition to the larger [Soule Mill complex](https://www.digitalcommonwealth.org/search/commonwealth:8s45qm01k), and is the only remaining structure. New Bedford was one of the first cities to integrate all stages of textile production within these large mill complexes, which were often several stories high and many city blocks long. This 25,000 square foot single story building was designed as a weave and dye shed, and north-facing skylights along the full length of each of the six saw teeth brought in ample even-toned natural light, which was important to the process of dying and color-matching. As New Bedford was one of the last cities in America to switch from whale oil to electric lights, the skylights were an important part of the design. The sawtooth roof design runs in a slight diagonal to the square of the building to face true north, which provides an interesting architectural feature ([seen best in the aerial photo](#photo-sawtooth-google-2020-10)).
 
 At one point the building was used as a liquor storehouse. Local laws required that all windows and skylights be bricked or boarded up when used for this purpose. Most recently, the building has been home to John Ruggles’s rope business which has been in operation in various locations since it was founded in the late 1800s. The business was originally created to provide cotton rope and braids to the New England textile industry, and later evolved to provide fine ropes for marine, industrial, and recreational markets. Mr. Ruggles started manufacturing rope at the 123 Sawyer St. location in 1974, and continued operating his business in a portion of the building after the 2004 sale.
 

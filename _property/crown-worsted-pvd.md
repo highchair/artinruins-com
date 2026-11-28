@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#NotInRuins', '#UrbanDecay' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: []
 
@@ -166,7 +166,7 @@ Worcester Textile makes fabrics - wool and wool synthetic blends - in short runs
 
 "We keep developing new yarns, new yarns, all the time," said Roorbach of Crown Worsted Mills. "You have to be fast on your feet to create new things for somebody, new wrinkles for somebody," said Roorbach. […]
 
-— WINTER, STEVE. “New direction for an old industry.” Providence Journal (RI), ALL ed., sec. BUSINESS, 2 Dec. 1984, pp. F-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525C11018B6E780. Accessed 9 July 2023.
+— _WINTER, STEVE. “New direction for an old industry.” Providence Journal (RI), ALL ed., sec. BUSINESS, 2 Dec. 1984, pp. F-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525C11018B6E780. Accessed 9 July 2023._
 
 ***
 
@@ -191,4 +191,4 @@ He points to U.S. Department of Commerce statistics that show the agriculture in
 
 “I honestly don’t know what we can do to compete any more.” […]
 
-— WINTER, STEVE. “Hard-hit textile industry gropes for answers.” Providence Journal (RI), ALL ed., sec. BUSINESS, 26 May 1985, pp. F-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525BEED22C71380. Accessed 9 July 2023.
+— _WINTER, STEVE. “Hard-hit textile industry gropes for answers.” Providence Journal (RI), ALL ed., sec. BUSINESS, 26 May 1985, pp. F-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525BEED22C71380. Accessed 9 July 2023._

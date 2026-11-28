@@ -22,8 +22,8 @@ NRHP-ref-number: '70000019 (contributing)'
 added-to-NRHP: 'November 10, 1970'
 
 address: '4–188 Benefit St, Providence RI'
-latitude: '41.831481'
-longitude: '-71.4118129'
+latitude: '41.831477'
+longitude: '-71.409238'
 gmap: "https://www.google.com/maps/place/41%C2%B049'53.3%22N+71%C2%B024'33.3%22W/@41.831481,-71.4118129,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.831477!4d-71.409238?entry=ttu"
 street: [ 'Benefit St' ]
 
@@ -187,7 +187,7 @@ imagescredit:
 
 Before there was Google Streetview and the history they preserve with access to older street views, ArtInRuins had an idea of documenting streets this way. It was a lot of work, and therefore something we haven’t been good at keeping up with. Thankfully, though, the aforementioned Google allows older views of streetscapes (for now).
 
-There is good reason why Benefit Street is also known as the “Mile of History.” Buildings along this stretch date from as early as 1763 (the old State House) with nothing newer than 1869 (the William G. Angell house). 
+There is good reason why Benefit Street is also known as the “Mile of History.” Buildings along this stretch date from as early as 1763 (the old State House) with nothing newer than 1869 (the William G. Angell house).
 
 We documented the western side of Benefit Street, overlooking Smith Hill and the Capitol, back in 2004. (Unfortunately, the original photos can not be found, therefore we can not present larger versions of these photos.) Luckily, aside from house colors, not much has changed. These late 18th century buildings have been largely preserved and well-kept by their stewards. Many of them were designed by eminent architects at the time, as Benefit Street changed from its middle class roots as “Back Street” to a more affluent and prestigious street to build a house upon, with views over an expanding commercial district and downtown core.
 
@@ -222,7 +222,7 @@ Built in 1840 by famed architect Russell Warren, the building looks unmistakably
 
 **[150 Benefit St.](#photo-08)**
 
-Work began in 1760 and was largely completed by 1762, but funds for finishing the interior were appropriated as late as 1771. The building’s symmetrical composition and use of red brick with rusticated brownstone and painted wood trim reflect the late English Baroque architecture of the period of William and Mary and Queen Anne. It is now home to the [Rhode Island Historical Preservation & Heritage Commission](//preservation.ri.gov/). Here, at the time of the American Revolution in the late 1700s, there were intense debates between factions represented by Brown brothers John and Moses over the issue of slavery and a proposal by some slaveholders to free their slaves in order to let them serve as soldiers. Moses Brown, being a Quaker, was as opposed to slavery as John was in support of it.
+Work began in 1760 and was largely completed by 1762, but funds for finishing the interior were appropriated as late as 1771. The building’s symmetrical composition and use of red brick with rusticated brownstone and painted wood trim reflect the late English Baroque architecture of the period of William and Mary and Queen Anne. It is now home to the [Rhode Island Historical Preservation & Heritage Commission](https://preservation.ri.gov/). Here, at the time of the American Revolution in the late 1700s, there were intense debates between factions represented by Brown brothers John and Moses over the issue of slavery and a proposal by some slaveholders to free their slaves in order to let them serve as soldiers. Moses Brown, being a Quaker, was as opposed to slavery as John was in support of it.
 
 #### Charles Shaw House
 
@@ -247,7 +247,7 @@ Built around 1850. A small cemetery behind the house contains the graves of memb
 
 _From the College Hill Historic District nomination form, Edward F. Sanderson & Keith N. Morgan, January 1976_
 
-With two additions from the [Mary A. Gowdey Library of House Histories](//gowdey.ppsri.org){:target="_blank"}.
+With two additions from the [Mary A. Gowdey Library of House Histories](https://gowdey.ppsri.org).
 
 ##### Building Descriptions
 
@@ -257,8 +257,7 @@ With two additions from the [Mary A. Gowdey Library of House Histories](//gowdey
 
 160 & 28 Meeting Street: Now called “What Cheer Studio 101”, owned by <span class="abbr">RISD</span>. _Not documented in the survey_
 
-150: **Old State House**, 1763. Colonial public building: 2 1/2 stories; brick, with brownstone quoining and rusticated window surrounds; double hipped roof; 5 bay facade. Sympathetically enlarged and altered twice in the 19th century including a fine clock tower entrance on west (by Thomas Tefft) and Benefit Street addition (by James Bucklin) on east. Building
-housed sessions of the Rhode Island legislature 1763–1900 and Rhode Island courts.
+150: **Old State House**, 1763. Colonial public building: 2 1/2 stories; brick, with brownstone quoining and rusticated window surrounds; double hipped roof; 5 bay facade. Sympathetically enlarged and altered twice in the 19th century including a fine clock tower entrance on west (by Thomas Tefft) and Benefit Street addition (by James Bucklin) on east. Building housed sessions of the Rhode Island legislature 1763–1900 and Rhode Island courts.
 
 144: **St. John’s Church Rectory**, Alpheus Morse, 1863-1866. Italianate: 3 stories; brick with brownstone trim; hipped roof with bracket cornice; symmetrical 3 bay facade with central entry with brownstone label.
 
@@ -312,7 +311,7 @@ housed sessions of the Rhode Island legislature 1763–1900 and Rhode Island cou
 
 34: **Earle D. Pearce house** by Alpheus Morse, 1835. Italianate: 2 1/2 stories; clapboard; hipped roof with gable dormers; classic cornice; 3 bay facade with Italianate windows and central Doric entrance porch; projecting pavilion on south.
 
-28–30: **William G. Angell house**, by Alpheus Morse, 1869. Italianate: 2 1/2 stories; brick with brownstone trim, quoining; hipped roof, decked with gable dormers; somewhat severe palazzo facade; 3 bay, pedimented windows; Ionic entrance porch with balustrade; pro­jecting pavillion on south; arcaded porches at rear of north and south sides; 2 story carriage house with cupola at north rear.
+28–30: **William G. Angell house**, by Alpheus Morse, 1869. Italianate: 2 1/2 stories; brick with brownstone trim, quoining; hipped roof, decked with gable dormers; somewhat severe palazzo facade; 3 bay, pedimented windows; Ionic entrance porch with balustrade; projecting pavillion on south; arcaded porches at rear of north and south sides; 2 story carriage house with cupola at north rear.
 
 24: **Samuel Staples, Jr. house**, 1828. Greek Revival: small; 2 1/2 stories; clapboard; pedimented gable end to street; paneled corner pilasters; 3 bay facade with off-center doorway with fanlight and sidelights.
 

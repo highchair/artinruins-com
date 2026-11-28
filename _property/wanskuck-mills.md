@@ -14,7 +14,7 @@ date-added: '2004'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'North End' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Wanskuck Historic District' ]
 tags: [ 'Apartments for Rent', 'The Superlatives', 'Providence Public Library Digital Collections' ]
 superlative: 'In 1883 this was the first mill in Rhode Island to be lit by electricity'
@@ -26,6 +26,8 @@ address: '715 Branch Ave, Providence, RI'
 latitude: '41.8539239'
 longitude: '-71.4294146'
 gmap: "https://www.google.com/maps/place/715+Branch+Ave,+Providence,+RI+02904/@41.8539239,-71.4316033,17z/data=!3m1!4b1!4m5!3m4!1s0x89e444f62c50573b:0xe23580a989e41443!8m2!3d41.8539239!4d-71.4294146"
+street: [ 'Branch Ave' ]
+street-number: 715
 
 meta: ""
 excerpt: "A recently underutilized mill building with distinctive central octoganol tower to become 225 apartments and commercial space"
@@ -152,8 +154,8 @@ _Did you know?_ The North End of Providence became part of North Providence in 1
 
 Alan Doyle, principal of Larew Doyle & Associates arranged $28.3 million in construction/perm financing for the redevelopment of the Wanskuck Mills into a mixed-use property comprised of 225 apartment units and 24,300 sf of commercial space. Wanskuck Mills was originally built in the 1860’s and was home to The Wanskuck Company, a manufacturer of woolens and worsted blankets & clothing and a supplier of northern Union armies during the Civil War.
 
-Renamed Wanskuck Mill Lofts, this well-located five building property contains 345,909 s/f and is within close proximity of the I-146/Branch Ave. highway access ramps which connects I-95 to the east and Rte. 7 to the west. The site is within minutes of Providence’s Central Business District and its LifeSpan Hospital network. 
+Renamed Wanskuck Mill Lofts, this well-located five building property contains 345,909 s/f and is within close proximity of the I-146/Branch Ave. highway access ramps which connects I-95 to the east and Rte. 7 to the west. The site is within minutes of Providence’s Central Business District and its LifeSpan Hospital network.
 
-Delivery of the first phase of the apartments (60 units) is expected in September with the second phase delivered 6-8 months thereafter. While the development will include efficiency units, most of the apartments will be one and two-bedroom units. Each apartment will feature a European design featuring imported Italian cabinetry, black stainless steel appliances, granite countertops and in-unit washer/dryers. The units will be heated and cooled by a high efficiency electric powered HVAC system. Residents will benefit from a 2,000 s/f exercise studio. 
+Delivery of the first phase of the apartments (60 units) is expected in September with the second phase delivered 6-8 months thereafter. While the development will include efficiency units, most of the apartments will be one and two-bedroom units. Each apartment will feature a European design featuring imported Italian cabinetry, black stainless steel appliances, granite countertops and in-unit washer/dryers. The units will be heated and cooled by a high efficiency electric powered HVAC system. Residents will benefit from a 2,000 s/f exercise studio.
 
 Wanskuck Mills is listed on the National Historic Registry, and as such, benefited from historic tax credits, the sale of which was coordinated by Tax Incentive Advisors, Inc. Competitively priced financing was provided by a Massachusetts-based regional lender who provided a structured and priced 36-month construction/stabilization loan coupled with a 7-year mini-perm.

@@ -23,7 +23,7 @@ added-to-NRHP:
 
 address: '81-119 Coggeshall St, New Bedford, MA'
 latitude: '41.6565222'
-longitude: '-70.9220378'
+longitude: '-70.9198491'
 gmap: "https://www.google.com/maps/place/81+Coggeshall+St,+New+Bedford,+MA+02746/@41.6565222,-70.9220378,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4e41770c93e75:0x48ce1c9beacf2820!8m2!3d41.6565222!4d-70.9198491"
 
 meta: ""

@@ -14,7 +14,7 @@ date-added: '2008'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Apartments for Rent' ]
@@ -97,20 +97,20 @@ mostrecentimage: 2021-11-01
 
 ### Last Tenant
 
-This approximately 25,000 sf building has been seemingly unoccupied for over 20 years. It has been sitting in various states of decay, the portion facing the train tracks covered in ever changing graffiti. Around 2017, either in preparation for a sale or shortly after a sale, new paint was put on the windows and some clean up around the perimeter was conducted. 
+This approximately 25,000 sf building has been seemingly unoccupied for over 20 years. It has been sitting in various states of decay, the portion facing the train tracks covered in ever changing graffiti. Around 2017, either in preparation for a sale or shortly after a sale, new paint was put on the windows and some clean up around the perimeter was conducted.
 
-More recently, a “For Lease” sign was put up by MG Commercial real estate and it remained for a few years. Now, windows have been completely removed and workers have been on site, presumably to turn the building into apartments. 
+More recently, a “For Lease” sign was put up by MG Commercial real estate and it remained for a few years. Now, windows have been completely removed and workers have been on site, presumably to turn the building into apartments.
 
 #### Architecture
 
-The PPS/AIAri description below is accurate, but makes little mention of the red-painted corrugated steel that covers four-window-bays-worth of the east end of the on either side. This is an addition that was added on to the original 15-bay long building, but with four-stories on steel on two of the three façades. It makes the building very distinctive, and makes us speculate whether or not there used to be two arms of a “T” that were chopped off. Alas, no Sanborn map shows such a design. 
+The PPS/AIAri description below is accurate, but makes little mention of the red-painted corrugated steel that covers four-window-bays-worth of the east end of the on either side. This is an addition that was added on to the original 15-bay long building, but with four-stories on steel on two of the three façades. It makes the building very distinctive, and makes us speculate whether or not there used to be two arms of a “T” that were chopped off. Alas, no Sanborn map shows such a design.
 
 
 ### Current Events
 
-In October of 2020, the owner, Goulding Properties and EJS Investments, petitioned the zoning board for a change from M-1 to M-MU-75. Plat AP 2 Lot 15 is “currently occupied by a four story building that the applicant is proposing to convert to a multifamily dwelling.” M-1 does not permit multifamily dwellings but M-MU-75 would. The recommendation was to allow the change.[^1] 
+In October of 2020, the owner, Goulding Properties and EJS Investments, petitioned the zoning board for a change from M-1 to M-MU-75. Plat AP 2 Lot 15 is “currently occupied by a four story building that the applicant is proposing to convert to a multifamily dwelling.” M-1 does not permit multifamily dwellings but M-MU-75 would. The recommendation was to allow the change.[^1]
 
-It seems as though this will become apartments of some kind in the near future. With train tracks on one side, the raised highway on another, and a one-way street on the other, we can only assume tenants will have some street noise to deal with. Goulding Properties purchased the property in 2017 for $390,000.[^2] 
+It seems as though this will become apartments of some kind in the near future. With train tracks on one side, the raised highway on another, and a one-way street on the other, we can only assume tenants will have some street noise to deal with. Goulding Properties purchased the property in 2017 for $390,000.[^2]
 
 [^1]: Captured from a PDF on August 1, 2021, at https://www.providenceri.gov/wp-content/uploads/2020/10/Referral3479-50AshburtonStreet-SR-docs.pdf
 

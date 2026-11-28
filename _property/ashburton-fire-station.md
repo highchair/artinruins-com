@@ -14,7 +14,7 @@ date-added: '2009'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'North End', 'Charles' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Fire Stations' ]
@@ -111,4 +111,4 @@ In between trips abroad, Bernal fashioned the upstairs into her lofty living spa
 
 [...] There is just no telling what you’ll find at Antiques & Interiors: Among the few rules that Bernal observes is, “Everything functional – no kitsch.” […]
 
-— IMBRIE, KATHERINE. “Spending - Browsing - A beacon of chic in a gritty city neighborhood.” <em>Providence Journal (RI)</em>, All ed., sec. Lifebeat/HOME, 6 Aug. 2006, pp. J-02. <em>NewsBank: America’s News</em>, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1524271E2366F148. Accessed 23 Feb. 2025.
+— _IMBRIE, KATHERINE. “Spending - Browsing - A beacon of chic in a gritty city neighborhood.” Providence Journal (RI), All ed., sec. Lifebeat/HOME, 6 Aug. 2006, pp. J-02. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1524271E2366F148. Accessed 23 Feb. 2025._

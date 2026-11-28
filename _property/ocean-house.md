@@ -13,7 +13,7 @@ date-added: '2003'
 categories: [ '#UsedToBeThere', '#WhatAreTheyBuilding' ]
 neighborhoods: []
 town: [ 'Westerly, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [ 'George M. Nash' ]
 lists: [ 'Watch Hill Historic District', 'National Register of Historic Places' ]
 tags: [ 'Demolition by Progress' ]
@@ -21,9 +21,9 @@ tags: [ 'Demolition by Progress' ]
 NRHP-ref-number: '85001948 (contributing)'
 added-to-NRHP: 'September 1985'
 
-address: '2 Bluff Avenue, Westerly RI'
+address: '2 Bluff Ave, Westerly RI'
 latitude: '41.310409'
-longitude: '-71.8558117'
+longitude: '-71.853623'
 gmap: "https://www.google.com/maps/place/2+Bluff+Ave,+Westerly,+RI+02891/@41.310409,-71.8558117,17z/data=!3m1!4b1!4m5!3m4!1s0x89e5e474f8ff28e7:0x8e9b9c49f16a391b!8m2!3d41.310409!4d-71.853623"
 
 meta: ""
@@ -115,7 +115,7 @@ images:
     caption: 'Photo by David Margolis at SkyViewSurvey'
     sizes: '750, 702'
 
-imagescredit: 'Contributions by Cristina di Chiera, Nicole Gesmondi, the Providence Historical Aerial Viewer, and David Margolis at <a href="//skyviewsurvey.com" target="_blank">SkyViewSurvey</a>'
+imagescredit: 'Contributions by Cristina di Chiera, Nicole Gesmondi, the Providence Historical Aerial Viewer, and David Margolis at <a href="https://skyviewsurvey.com/">SkyViewSurvey</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -124,15 +124,15 @@ imagescredit: 'Contributions by Cristina di Chiera, Nicole Gesmondi, the Provide
 
 ### Reason for Demolition
 
-In 2004, an out-of-state developer, Girouard Associates, purchased the aging and failing Ocean House property with the intent of erecting five luxury homes on its 11 oceanfront acres. Part time summer residents of Watch Hill, Charles and Deborah Royce, optioned the property after much local pressure to save the elegant and iconic hotel. 
+In 2004, an out-of-state developer, Girouard Associates, purchased the aging and failing Ocean House property with the intent of erecting five luxury homes on its 11 oceanfront acres. Part time summer residents of Watch Hill, Charles and Deborah Royce, optioned the property after much local pressure to save the elegant and iconic hotel.
 
 A ground-up reconstruction of the hotel was needed, as the craftsmanship of the mid-1800s did not hold up well after years and years of neglect or substandard repairs. Many of the iconic features were built again almost exactly the same as the older structure, namely the entrance flanked by columns and a deep porch. The massing and mansard roof details also remained. Thousands of furniture pieces were saved including the reception desk, phone booth, and stone fireplace, which was dismantled and resembled stone by stone.
 
-The rear of the property facing the ocean, however, was rethought and redesigned to provide the maximum amount of sun exposure and ocean views. A below-ground parking structure was added to reduce the visual pollution that a parking lot would have created. 
+The rear of the property facing the ocean, however, was rethought and redesigned to provide the maximum amount of sun exposure and ocean views. A below-ground parking structure was added to reduce the visual pollution that a parking lot would have created.
 
 While the old hotel had 150 rooms, the newly configured hotel boasts 49 guest rooms, 18 condo-style suites, and 5 off-site cottages, ranging from two-bedroom bungalows to sprawling 6,000-square-foot estates. With fewer rooms, though, the hotel is also larger — 50,000 square feet larger than the original at 156,000 square feet total.
 
-This renovation and redevelopment was the first such endeavor by the couple. It must have been rewarding and lucrative, because the couple formed a hospitality firm and renovated other historic properties in Rhode Island and Connecticut. 
+This renovation and redevelopment was the first such endeavor by the couple. It must have been rewarding and lucrative, because the couple formed a hospitality firm and renovated other historic properties in Rhode Island and Connecticut.
 
 #### Sources:
 
@@ -142,16 +142,16 @@ This renovation and redevelopment was the first such endeavor by the couple. It 
 
 ### Current Events
 
-Modern photos and details of the amenities available at the [Ocean House RI](//www.oceanhouseri.com){:target="_blank"} website. The redeveloped hotel achieved the first and only AAA Five Diamond and Forbes Five-Star ranking in the state. 
+Modern photos and details of the amenities available at the [Ocean House RI](https://www.oceanhouseri.com/) website. The redeveloped hotel achieved the first and only AAA Five Diamond and Forbes Five-Star ranking in the state.
 
 
 ### History
 
 _From the Watch Hill Historic District nomination form, prepared by Robert 0. Jones, Jr., 1985_
 
-59 Bluff Avenue **Ocean House** (1867-68, altered and enlarged 1903): A huge, complexly massed clapboard structure set on a hillside site overlooking Block Island Sound. The original portion, near Bluff Avenue, comprises two perpendicular 3 1/2-story, mansard-roof wings with modillion cornices. At the intersection of these wings there is a 5 1/2-story tower with a modillion cornice and a tall hip roof pierced by hipped dormers. Two 4-story, parallel wings with low-pitch hip roofs run back to the southeast from the L-shaped portion of the building, rising above the hillside on high basements. 
+59 Bluff Avenue **Ocean House** (1867-68, altered and enlarged 1903): A huge, complexly massed clapboard structure set on a hillside site overlooking Block Island Sound. The original portion, near Bluff Avenue, comprises two perpendicular 3 1/2-story, mansard-roof wings with modillion cornices. At the intersection of these wings there is a 5 1/2-story tower with a modillion cornice and a tall hip roof pierced by hipped dormers. Two 4-story, parallel wings with low-pitch hip roofs run back to the southeast from the L-shaped portion of the building, rising above the hillside on high basements.
 
-The outer end of each wing contains a recessed, glazed porch at first-floor level. A columned Colonial Revival veranda, partly enclosed, runs along the southwesterly side and north westerly end of the building. The west end is also fronted by a 2-story, bow-front entrance portico with colossal Corinthian columns. The parallel, southeasterly wings were added in 1903, probably together with the veranda and portico. 
+The outer end of each wing contains a recessed, glazed porch at first-floor level. A columned Colonial Revival veranda, partly enclosed, runs along the southwesterly side and north westerly end of the building. The west end is also fronted by a 2-story, bow-front entrance portico with colossal Corinthian columns. The parallel, southeasterly wings were added in 1903, probably together with the veranda and portico.
 
 The Ocean House was built for George M. Nash, whose father, lighthouse keeper Jonathan Nash, was the first person to take seasonal boarders at Watch Hill. The Ocean House is notable as one of the very few extant and functioning 19th-century resort hotels remaining in Rhode Island.
 

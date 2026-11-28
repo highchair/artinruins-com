@@ -12,7 +12,7 @@ date-added: '2018'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'Massachusetts' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
 tags: [ 'Providence Public Library Digital Collections', 'Still an Empty Lot', 'The Superlatives' ]
 superlative: 'In 1894, this was the first direct investment by a British manufacturer in the United States'

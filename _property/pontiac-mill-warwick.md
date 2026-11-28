@@ -13,7 +13,7 @@ date-added: '2006'
 categories: [ '#NotInRuins' ]
 neighborhoods: []
 town: [ 'Warwick, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [] # B. B. Knight, R. Knight
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'Rhody Awards' ]
 tags: [ 'Apartments for Rent', 'Library of Congress' ]
@@ -242,12 +242,12 @@ January, 2015
 
 ### Current Events
 
-Leasing at the Pontiac Mills is open on their stand-alone website, [pontiacmills.com](//pontiacmills.com){:target="_blank"}
+Leasing at the Pontiac Mills is open on their stand-alone website, [pontiacmills.com](https://pontiacmills.com)
 
 
 ### History
 
-Our previous property page mentioned a favorite factoid about the Pontiac Mill — that Abraham Lincoln dedicated the new mill in person in 1863. There is no primary source for this fact. The legend originated in an 1891 history of Providence County but cites no source. [A pamphlet from 1930 makes hay of Lincoln’s two appearances in Rhode Island](//sosri.access.preservica.com/uncategorized/IO_0d948d38-7d01-4d69-ae5b-03de8d06132d/){:target="_blank"} — Providence and Woonsocket — but does not mention this dedication.
+Our previous property page mentioned a favorite factoid about the Pontiac Mill — that Abraham Lincoln dedicated the new mill in person in 1863. There is no primary source for this fact. The legend originated in an 1891 history of Providence County but cites no source. [A pamphlet from 1930 makes hay of Lincoln’s two appearances in Rhode Island](https://sosri.access.preservica.com/uncategorized/IO_0d948d38-7d01-4d69-ae5b-03de8d06132d/) — Providence and Woonsocket — but does not mention this dedication.
 {:.o__tldr}
 
 ***
@@ -270,7 +270,7 @@ The mill locale is well defined by the adjoining neighborhood of former “compa
 
 ***
 
-The above nomination mentions the following book as a source, starting on page 1017: [History of Washington and Kent counties, Rhode Island, including their early settlement and progress to the present time; a description of their historic and interesting localities; sketches of their towns and villages; portraits of some of their prominent men, and biographies of many of their representative citizens](//archive.org/details/cu31924028840011/page/1017/mode/2up?view=theater){:target="_blank"} from 1889 and housed at the Internet Archive.
+The above nomination mentions the following book as a source, starting on page 1017: [History of Washington and Kent counties, Rhode Island, including their early settlement and progress to the present time; a description of their historic and interesting localities; sketches of their towns and villages; portraits of some of their prominent men, and biographies of many of their representative citizens](https://archive.org/details/cu31924028840011/page/1017/mode/2up?view=theater) from 1889 and housed at the Internet Archive.
 
 ***
 
@@ -280,9 +280,9 @@ The [company store building](#photo-pontiac-mill-habs-1972-01) in our second pho
 
 #### More Sources
 
-+ [Pontiac Mill video prepared by the Rhody Awards, 2021](//www.youtube.com/watch?v=2H5q3zSU790){:target="_blank"}
-+ [Pontiac Mill history stand-alone site](//pontiacmillshistory.com/){:target="_blank"}
-+ [Pontiac Mill on the Rhode Tour by Larry Manire](//rhodetour.org/items/show/397){:target="_blank"}
++ [Pontiac Mill video prepared by the Rhody Awards, 2021](https://www.youtube.com/watch?v=2H5q3zSU790)
++ [Pontiac Mill history stand-alone site](https://pontiacmillshistory.com/)
++ [Pontiac Mill on the Rhode Tour by Larry Manire](https://rhodetour.org/items/show/397)
 
 ***
 
@@ -327,9 +327,7 @@ Hodges said the economy and the death of his partner stalled his plans to redeve
 
 The mills are not Silverstein’s first investment in Rhode Island. In 2012, Silverstein spent $2 million for Salas’ Dining Room on Thames Street in Newport, forming a partnership with a local restaurateur, Patrick Kilroy, to restore the building and operate an upscale restaurant there. Silverstein could not be reached for comment on his plans in Warwick. […]
 
-—
-
-DUNN, CHRISTINE. “Neighborhood of the week Pontiac Mills \| New owner plans revival for mill.” Providence Journal (RI), 1 ed., sec. Features, 25 Jan. 2015, p. PJHOME_01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/153176F141D7D128. Accessed 25 Sept. 2023.
+— _DUNN, CHRISTINE. “Neighborhood of the week Pontiac Mills \| New owner plans revival for mill.” Providence Journal (RI), 1 ed., sec. Features, 25 Jan. 2015, p. PJHOME 01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/153176F141D7D128. Accessed 25 Sept. 2023._
 
 ***
 
@@ -383,9 +381,7 @@ One who could not be happier about the new life of the complex is Mildred Longo,
 
 Now the nice, friendly people are back. And, unlike so many old mills that have fallen victim to arson and neglect, Pontiac Mills lives again, a vibrant part of the village around it.
 
-—
-
-SMITH, MARTHA. “Spotlight on PONTIAC MILLS.” Providence Journal (RI), ALL ed., sec. HOME, 21 June 1998, pp. K-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15251D7E5114C1C8. Accessed 25 Sept. 2023.
+— _SMITH, MARTHA. “Spotlight on PONTIAC MILLS.” Providence Journal (RI), ALL ed., sec. HOME, 21 June 1998, pp. K-01. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/15251D7E5114C1C8. Accessed 25 Sept. 2023._
 
 ***
 
@@ -412,8 +408,6 @@ The Pontiac Mills, where some of the 18 buildings stretch back to 1863, have bee
 
 The complex has attracted entrepreneurs, artisans and antique dealers who have been able to have the space they want renovated to their needs. Some of the tenants moved from the old [Riverside Mills]({% link _property/american-woolen-riverside-mills.md %}) in Providence, which burned down in 1989. […]
 
-—
-
-Journal-Bulletin Staff. “Old mills are put to new use.” Providence Journal (RI), ALL ed., sec. BUSINESS, 23 Apr. 1994, pp. B-13. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525233106882650. Accessed 25 Sept. 2023.
+— _Journal-Bulletin Staff. “Old mills are put to new use.” Providence Journal (RI), ALL ed., sec. BUSINESS, 23 Apr. 1994, pp. B-13. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525233106882650. Accessed 25 Sept. 2023._
 
 </details>

@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'West Side' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Ghost Signs' ]
@@ -22,9 +22,9 @@ NRHP-ref-number:
 added-to-NRHP:
 
 address: '819 Westminster St, Providence'
-latitude: '41.8178883'
-longitude: '-71.4219394'
-gmap: "https://www.google.com/maps/place/819+Westminster+St,+Providence,+RI+02903/@41.8178923,-71.4232322,18z/data=!4m6!3m5!1s0x89e445e501981ee1:0xe66353fa0094705f!8m2!3d41.8178883!4d-71.4219394!16s%2Fg%2F11l2cy4t4m?entry=ttu"
+latitude: '41.8177235'
+longitude: '-71.421766'
+gmap: "https://www.google.com/maps/place/819+Westminster+St+Unit+3,+Providence,+RI+02903/@41.8178269,-71.4223508,19.1z/data=!4m12!1m5!3m4!2zNDHCsDQ5JzA0LjQiTiA3McKwMjUnMTkuMCJX!8m2!3d41.8178883!4d-71.4219394!3m5!1s0x89e44573b78aeded:0x76ea583e59c6c27b!8m2!3d41.8177235!4d-71.421766!16s%2Fg%2F11txh88t82?entry=ttu&g_ep=EgoyMDI2MTEyMy4wIKXMDSoASAFQAw%3D%3D"
 street: [ 'Westminster St' ]
 street-number: 819
 
@@ -115,7 +115,7 @@ The building consists of two distinct halves, with a change in elevation in the 
 
 ### Current Events
 
-The newest owner is a registered corporation called Accordion LLC.[^2] Micheal Bulman is named an officer, and he is also half of the design team at one of the tenant firms, a design-build company called [HB Design Build](http://hbarchive.com). Studios are for rent in the space, with one of the current tenants being [Design xRI](https://www.designxri.com/). A ground-floor retail space is in the works.
+The newest owner is a registered corporation called Accordion LLC.[^2] Micheal Bulman is named an officer, and he is also half of the design team at one of the tenant firms, a design-build company called [HB Design Build](http://hbarchive.com/). Studios are for rent in the space, with one of the current tenants being [Design xRI](https://www.designxri.com/). A ground-floor retail space is in the works.
 
 [^2]: Open Corporates public info for Accordion LLC, captured 21 November 2023 from https://opencorporates.com/companies/us_ri/001671211
 

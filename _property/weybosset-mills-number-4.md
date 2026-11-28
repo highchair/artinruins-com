@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#NotInRuins', '#UrbanDecay' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: 'James W. Welsh'
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981', 'Weybosset Mills Complex' ]
 tags: [ 'American Woolen Company' ]

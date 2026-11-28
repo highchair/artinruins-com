@@ -12,9 +12,9 @@ date-added: '2004'
 categories: [ '#UsedToBeThere' ]
 neighborhoods: []
 town: [ 'East Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 lists: []
-tags: [ 'Still an Empty Lot', 'The Superlatives' ]
+tags: [ 'The Superlatives' ]
 superlative: 'Under the leadership of Eugene Phillips, it became the largest steel and copper wire manufacturer in the world.'
 
 NRHP-ref-number:
@@ -94,40 +94,40 @@ imagescredit: 'All photos provided by PIPS Works — Providence Initiative for 
 
 external:
   - source: 'Time Lapse: An East Providence time capsule from our archives, Providence Journal'
-    url: '//www.providencejournal.com/entertainment/20200312/time-lapse-scenic-tour-of-east-providence'
+    url: 'https://www.providencejournal.com/entertainment/20200312/time-lapse-scenic-tour-of-east-providence'
     #url: https://perma.cc/G4JT-TU2Q
 ---
 
 ### Reason for Demolition
 
-This property just can’t seem to catch a break. In 1994, the former steel and wire manufacturer by the name of Ocean State Steel was forced to shut down. A developer planned to turn the cleaned up land into residential condos 10 years later, then that plan died. More developers came forward, but nothing has happened to the site yet. Maybe there is a bright future for this waterfront property, since there is another developer on the scene. 
+This property just can’t seem to catch a break. In 1994, the former steel and wire manufacturer by the name of Ocean State Steel was forced to shut down. A developer planned to turn the cleaned up land into residential condos 10 years later, then that plan died. More developers came forward, but nothing has happened to the site yet. Maybe there is a bright future for this waterfront property, since there is another developer on the scene.
 
 This history below is a mix of buildings that still survive today as Phillipsdale Landing and structures that were part of the now demolished Washburn Wire company.
 
 1883–1887
-: Richmond Paper Company builds the earliest of seven buildings on this land and land north of what would become Washburn Wire. These early buildings have become known as Phillipsdale Landing since 1987. 
+: Richmond Paper Company builds the earliest of seven buildings on this land and land north of what would become Washburn Wire. These early buildings have become known as Phillipsdale Landing since 1987.
 
 1887–1889
-: The Richmond Paper Company fails and its equipment is sold for auction. The land lay vacant for four years until it was purchased at public auction in 1893 by Eugene Phillips and adapted for wire manufacture. Phillips’ company, **American Electrical Works** (<span class="abbr">AEW</span>), a pioneer in the manufacture of insulated wire, made significant alterations to the plant and occupied it until 1934. 
+: The Richmond Paper Company fails and its equipment is sold for auction. The land lay vacant for four years until it was purchased at public auction in 1893 by Eugene Phillips and adapted for wire manufacture. Phillips’ company, **American Electrical Works** (<span class="abbr">AEW</span>), a pioneer in the manufacture of insulated wire, made significant alterations to the plant and occupied it until 1934.
 
 1893–1899
-: Phillips’s acquisition of the former Richmond Paper plant allowed space to expand and provided access to rail, coal, process water, and a wharf on the Seekonk River. The new plant contained about 175,000sf of floor space. 
+: Phillips’s acquisition of the former Richmond Paper plant allowed space to expand and provided access to rail, coal, process water, and a wharf on the Seekonk River. The new plant contained about 175,000sf of floor space.
 
 1899
-: Charles Washburn leaves Worcester-based manufacturer **Washburn and Moen** when it was acquired by American Steel and Wire. He entered into a brief partnership with Eugene Phillips the following year, under the name **Washburn Wire Company**. 
+: Charles Washburn leaves Worcester-based manufacturer **Washburn and Moen** when it was acquired by American Steel and Wire. He entered into a brief partnership with Eugene Phillips the following year, under the name **Washburn Wire Company**.
 
 1900
-: <span class="abbr">AEW</span> built a new rolling mill and a three-story shipping building, the first major adaptations of the former Richmond plant for wire manufacture. In 1900 the Washburn Wire Company built an open hearth furnace to the immediate south of the <span class="abbr">AEW</span> works. Although Charles Washburn left the partnership shortly after, Phillips continued to operate it as a wire manufacturer. 
+: <span class="abbr">AEW</span> built a new rolling mill and a three-story shipping building, the first major adaptations of the former Richmond plant for wire manufacture. In 1900 the Washburn Wire Company built an open hearth furnace to the immediate south of the <span class="abbr">AEW</span> works. Although Charles Washburn left the partnership shortly after, Phillips continued to operate it as a wire manufacturer.
 : The plant employed upwards of 1000 workers, and was processing fifty tons per day of Michigan copper billet into rod for wire.
 
 1905
-: Eugene Phillips dies at the age of 62 and management of the <span class="abbr">AEW</span> company passed to his sons. 
+: Eugene Phillips dies at the age of 62 and management of the <span class="abbr">AEW</span> company passed to his sons.
 
 1934
-: The Phillips interests sold the <span class="abbr">AEW</span> plant to **Kennecott Wire and Cable**. Washburn Wire continues to operate. 
+: The Phillips interests sold the <span class="abbr">AEW</span> plant to **Kennecott Wire and Cable**. Washburn Wire continues to operate.
 
 1976
-: Within a year of the resolution of an 8-month strike, Washburn Wire files for bankruptcy. 
+: Within a year of the resolution of an 8-month strike, Washburn Wire files for bankruptcy.
 
 1982
 : The Washburn Wire Company closed for business. Rhode Island Forging Steel operates at this location until 1989, when Ocean State Steel, an American subsidiary of a Swiss company, purchased the complex and continued to produce steel until 1994.
@@ -137,7 +137,7 @@ This history below is a mix of buildings that still survive today as Phillipsdal
 
 2001
 : GeoNova Development Company LLC, of New York first proposes redeveloping the former Ocean State Steel site. GeoNova named it “East Pointe” in a $200-million plan for close to 500 condominiums, townhouses, and single-family houses, as well as commercial spaces.
-: The U.S. Department of Housing and Urban Development awarded the city a $2-million grant and a $3-million loan to aid with cleanup of the industrial site, which had been contaminated with heavy metals. 
+: The U.S. Department of Housing and Urban Development awarded the city a $2-million grant and a $3-million loan to aid with cleanup of the industrial site, which had been contaminated with heavy metals.
 
 2004
 : Demolition of the Ocean State Steel site was nearing completion and construction of the first housing units were scheduled to begin in February. The environmental cleanup was completed, but the housing project never progressed.
@@ -146,10 +146,10 @@ This history below is a mix of buildings that still survive today as Phillipsdal
 : Superior Court Judge Michael A. Silverstein appoints W. Mark Russo special master of the property after a longstanding legal dispute between the City of East Providence and GeoNova.
 
 2016
-: A new developer, Prominem LLC, releases plans for 144 apartments on the 9 acre site. Sale price was set at $1.8 million cash, or $2.8 million for a financed purchase. Prominem is owned by the same investors who are involved in the Lippitt Mill project in West Warwick. This plan never made it off the drawing boards. 
+: A new developer, Prominem LLC, releases plans for 144 apartments on the 9 acre site. Sale price was set at $1.8 million cash, or $2.8 million for a financed purchase. Prominem is owned by the same investors who are involved in the Lippitt Mill project in West Warwick. This plan never made it off the drawing boards.
 
 2020
-: Noble Development, LLC., represented by Churchill & Banks, submitted a plan to develop a series of 330–370 mixed residential units of single family and townhouse/duplex residences. It would also afford the city community at-large access to the river’s shoreline. 
+: Noble Development, LLC., represented by Churchill & Banks, submitted a plan to develop a series of 330–370 mixed residential units of single family and townhouse/duplex residences. It would also afford the city community at-large access to the river’s shoreline.
 
 
 #### Sources
@@ -164,7 +164,7 @@ This history below is a mix of buildings that still survive today as Phillipsdal
 
 ### Current Events
 
-In 2020, a new developer came onto the scene. We’ll keep track of how that new plan proceeds. 
+In 2020, a new developer came onto the scene and they are creating a condominium development of several large buildings.
 
 
 ### History
@@ -188,4 +188,3 @@ Eugene F. Phillips was greatly loved by his employees, and highly respected and 
 #### Rhode Island Forging Steel and Ocean State Steel
 
 When Washburn Wire closed, the site became Rhode Island Forging Steel. It then operated as Ocean State Steel from 1989 to 1994, when a judge ordered the plant shut down because of air pollution. The site had been abandoned until its demolition in 2004.
-

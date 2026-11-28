@@ -13,7 +13,7 @@ date-added: '2009'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'North End', 'Charles' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: []
@@ -69,14 +69,14 @@ mostrecentimage: 2021-11-01
 
 ### Redevelopment
 
-Damiano Industries closed its doors in 2004 after nearly 60 years in business as a speciality metal fabricator and blacksmith shop. Their work can be seen around Providence still today (2021) and the work they have done that you can’t see influence the military, bridges, departments of transportation, and the rail system. 
+Damiano Industries closed its doors in 2004 after nearly 60 years in business as a speciality metal fabricator and blacksmith shop. Their work can be seen around Providence still today (2021) and the work they have done that you can’t see influence the military, bridges, departments of transportation, and the rail system.
 
 <figure class="u__img u__img--right" aria-hidden="true">
   <img src="{{ site.propimg_path }}{{ page.slug }}/former-snookers-at-chestnut-st.jpg" alt="" />
   <figcaption>The former Snookers location as seen from the deck of I-195 East, care of Google Maps historic streetview</figcaption>
 </figure>
 
-For a short time between 2005 and 2009, these buildings were home to Mirabelle/Carlin & Sons Antiques. Manta lists them as having been incorporated in 2007. Snookers purchased and expanded the location in 2009 after moving out of the second floor of [95 Chestnut Street]({% link _property/irons-russell-building.md %}). Some may remember seeing the Snookers neon sign in that building when Interstate 195 still ran through the [Jewelry District]({% link neighborhood/jewelry-district.html %}) and right by that building. 
+For a short time between 2005 and 2009, these buildings were home to Mirabelle/Carlin & Sons Antiques. Manta lists them as having been incorporated in 2007. Snookers purchased and expanded the location in 2009 after moving out of the second floor of [95 Chestnut Street]({% link _property/irons-russell-building.md %}). Some may remember seeing the Snookers neon sign in that building when Interstate 195 still ran through the [Jewelry District]({% link neighborhood/jewelry-district.html %}) and right by that building.
 
 
 ### Current Events
@@ -174,4 +174,4 @@ Even as they prepare to close, Luigi and Roy manage to stay upbeat.
 
 “When you come to work in the morning, you’ve got to come in with a smile,” Luigi said. “You don’t want to come with a long face because it’s going to be a long day.”
 
-_Captured from the Providence Public Library access to Providence Journal archives November 5, 2021_
+— _Captured from the Providence Public Library access to Providence Journal archives November 5, 2021_

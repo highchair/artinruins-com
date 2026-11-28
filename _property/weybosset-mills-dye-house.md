@@ -13,7 +13,7 @@ date-added: '2008'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'Inventory of Historic Engineering & Industrial Sites 1978', 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Providence Industrial Sites 1981', 'Weybosset Mills Complex' ]
 tags: [ 'American Woolen Company' ]
@@ -85,7 +85,7 @@ From 2015 until 2019, the Dye House was a studio and home of ceramist J. Schatz.
 
 ### Current Events
 
-The Dye House is currently a [small boutique hotel](https://www.dyehouseri.com) with open concept community space. All of the interior fixtures down to the linens and the ceramics in the studio apartment are created and provided by local artisans within a small radius.
+The Dye House is currently a [small boutique hotel](https://www.dyehouseri.com/) with open concept community space. All of the interior fixtures down to the linens and the ceramics in the studio apartment are created and provided by local artisans within a small radius.
 
 
 ### History

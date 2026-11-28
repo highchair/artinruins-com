@@ -13,7 +13,7 @@ date-added: '2004'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: [ 'Ghost Signs' ]
@@ -21,7 +21,7 @@ tags: [ 'Ghost Signs' ]
 NRHP-ref-number:
 added-to-NRHP:
 
-address: '10 Ambrose Street, Providence RI'
+address: '10 Ambrose St, Providence RI'
 latitude: '41.8361418'
 longitude: '-71.4164619'
 gmap: "https://www.google.com/maps/place/10+Ambrose+St,+Providence,+RI+02908/@41.8361418,-71.4186506,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4451ceaf0822f:0x461bd49ba86ea2cd!8m2!3d41.8361418!4d-71.4164619"
@@ -57,7 +57,7 @@ mostrecentimage: 2008-07-01
 
 Louis Fink was a scrap metal dealership who occupied this location from 1954 to the late 1970s. From there is has changed hands a few times. Due to its small size — about 1440 sq ft per floor — and location in the scrap metal, car parts, and impound yard district (how’s that for a great marketing name?) the use has always been towards the industrial nature of things.
 
-The building has been for sale a few times in recent years and tax info states that it was sold twice for the same price. In recent memory it was the home of [Stacey Smith Photography Studio](https://www.stacysmithstudios.com) but her website lists a different address in North Providence now. We are not sure who owns it now or for what purpose. 
+The building has been for sale a few times in recent years and tax info states that it was sold twice for the same price. In recent memory it was the home of [Stacey Smith Photography Studio](https://www.stacysmithstudios.com/) but her website lists a different address in North Providence now. We are not sure who owns it now or for what purpose.
 
 
 ### History

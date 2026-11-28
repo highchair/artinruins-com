@@ -13,7 +13,7 @@ date-added: '2023'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Olneyville/Valley' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey', 'Weybosset Mills Complex' ]
 tags: [ 'American Woolen Company', 'The Superlatives' ]
@@ -26,6 +26,8 @@ address: '244 Oak St, Providence RI'
 latitude: '41.8147701'
 longitude: '-71.4418801'
 gmap: "https://www.google.com/maps/place/244+Oak+St,+Providence,+RI+02909/@41.8147701,-71.4418801,18z/"
+street: [ 'Oak St' ]
+street-number: 244
 
 meta: ""
 excerpt: "One of the oldest mill structures in Olneyville, this building housed a collection of 60 artists who were forced out in 2004"

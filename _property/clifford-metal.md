@@ -13,7 +13,7 @@ date-added: '2022'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Charles' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: []
 lists: []
 tags: [ 'Providence Public Library Digital Collections' ]
@@ -102,14 +102,14 @@ But back to the urban renewal project. Let’s reiterate: 50 acres, 500 building
   <figcaption>Aerial photo of the West River Industrial Park before the demolition of 500 structures. Photo links to the larger version at the Providence Public Library.</figcaption>
 </figure>
 
-Its an amazing but unsurprising story of a city reducing urban blight with a blowtorch rather than fertilizer and careful pruning. We wonder about the stories of the people who were displaced, their homes, their churches & schools.One of the industrial properties that was removed was the Corliss Steam Engine factory, a monument to the industrial revolution. The former [R.I. Tool Company]({% link _property/ri-tool.md %}) was one of the few in the area saved from demolition. 
+Its an amazing but unsurprising story of a city reducing urban blight with a blowtorch rather than fertilizer and careful pruning. We wonder about the stories of the people who were displaced, their homes, their churches & schools.One of the industrial properties that was removed was the Corliss Steam Engine factory, a monument to the industrial revolution. The former [R.I. Tool Company]({% link _property/ri-tool.md %}) was one of the few in the area saved from demolition.
 
 
 ### Current Events
 
-The Lifespan Medical group owns and operates a laboratory facility in this building adjacent to the Lifespan Men’s Health Center to the north at 200 Corliss Street also. 
+The Lifespan Medical group owns and operates a laboratory facility in this building adjacent to the Lifespan Men’s Health Center to the north at 200 Corliss Street also.
 
 
 ### History
 
-No formal history. The building was erected in 1961 as part of the redevelopment of West River Street. 
+No formal history. The building was erected in 1961 as part of the redevelopment of West River Street.

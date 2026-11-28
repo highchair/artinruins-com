@@ -13,7 +13,7 @@ date-added: '2011'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Silver Lake' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ] # Elton + Hampton
+designers: [] # Elton + Hampton
 people: []
 lists: [ 'National Register of Historic Places', 'PPS/RIHPHC Industrial Commercial Buildings Survey' ]
 tags: []

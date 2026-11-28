@@ -14,7 +14,7 @@ date-added: '2005'
 categories: [ '#NotInRuins' ]
 neighborhoods: [ 'Smith Hill' ]
 town: [ 'Providence, RI' ]
-designers: [ 'Designer Unknown' ]
+designers: []
 people: [ 'William T. Nicholson' ]
 lists: [ 'PPS Ten Most Endangered', 'Smith Hill Historic District', 'National Register of Historic Places' ]
 tags: [ 'House', 'Queen Anne' ]
@@ -22,7 +22,7 @@ tags: [ 'House', 'Queen Anne' ]
 NRHP-ref-number: '93001183 (contributing)'
 added-to-NRHP: 'November 1993'
 
-address: '57 Brownell Street, Providence RI'
+address: '57 Brownell St, Providence RI'
 latitude: '41.8305097'
 longitude: '-71.418565'
 gmap: "https://www.google.com/maps/place/57+Brownell+St,+Providence,+RI+02908/@41.8305097,-71.4207537,17z/data=!3m1!4b1!4m5!3m4!1s0x89e4450556e8fc5f:0xcbcbb2ee2486ff9e!8m2!3d41.8305097!4d-71.418565"
@@ -61,7 +61,7 @@ images:
     sizes: '1024, 768'
 
 
-imagescredit: 'Images from the <a href="//gowdey.ppsri.org/" target="_blank">Gowdey database</a> and the <a href="//drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>'
+imagescredit: 'Images from the <a href="https://gowdey.ppsri.org/">Gowdey database</a> and the <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>'
 
 mostrecentimage: 2004-01-01
 
@@ -88,7 +88,7 @@ The Mowry-Nicholson House is no longer a bed and breakfast but was purchased by 
 
 ### History
 
-_From the [Providence Preservation Society online architecture guide](//guide.ppsri.org/property/mowry-nicholson-house){:target="_blank"}_
+_From the [Providence Preservation Society online architecture guide](https://guide.ppsri.org/property/mowry-nicholson-house)_
 
 In 1997, a fire caused extensive damage to the Mowry-Nicholson House. The owner of the building, which then served as a boarding house, planned to raze the site and replace the striking home with […] a parking lot. […] PPS immediately began an advocacy campaign [… as] the house contributes to the Smith Hill National Register Historic District. PPS feared that the conversion of the property would deprive the small historic district of one of its most prominent landmarks, and that necessary variance changes would promote further encroachments by adjacent commercial zones into the residential neighborhood. Neighbors of the Mowry-Nicholson House had long felt that the boarding house was incompatible with the neighborhood and thus supported the planned demolition. Persuaded by PPS’s arguments, however, Smith Hill neighbors agreed to support the preservation of the house. The owner, nevertheless, remained unconvinced. That is, until PPS threatened to challenge the needed parking lot variance, at which time the owner finally conceded. PPS, in appreciation, agreed to advertise the property and launched a mailing campaign offering information about both the home and available low-interest loans and tax credits.
 
@@ -96,6 +96,7 @@ It would be several years until the house was sold. The owner set the asking pri
 
 In 2001, the house was finally sold. Following an additional change in ownership, the property was acquired by Frank Hopton and Ken Parker who converted the home into a bed and breakfast. Builder Scott Weremay and associates Dave Brown and Jose Tirado […] rehabilitated the interior into guest rooms and suites while carefully preserving original details and crafting new elements appropriate to the Italianate style. The restoration of the Mowry-Nicholson Home has greatly contributed to the ongoing improvement of Smith Hill. As of February, 2019, the house appears to be in good repair.
 
+***
 
 _From the Smith Hill Historic District National Register nomination form, 1993_
 
