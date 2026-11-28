@@ -21,7 +21,7 @@ sitemap:
   </ul>
 </div>
 
-This statement of privacy applies to ArtInRuins.com (ArtInRuins) and governs data collection and usage. The ArtInRuins website is a historical information and photography website. By using the ArtInRuins website, you consent to the data practices described in this statement. 
+This statement of privacy applies to ArtInRuins.com (ArtInRuins) and governs data collection and usage. The ArtInRuins website is a historical information and photography website. By using the ArtInRuins website, you consent to the data practices described in this statement.
 
 ## Collection of your personal information
 
@@ -31,33 +31,33 @@ ArtInRuins uses the Google Analytics service to collect anonymous demographic in
 + Gender
 + Interests as they are available in your Google profile
 
-ArtInRuins does not collect information unique to you unless supplied by you directly through our property anecdote email form. Directly disclosed personally identifiable information or personally sensitive data may be collected and used by others. 
+ArtInRuins does not collect information unique to you unless supplied by you directly through our property anecdote email form. Directly disclosed personally identifiable information or personally sensitive data may be collected and used by others.
 
 ## Sharing information with third parties
 
 ArtInRuins does not sell, rent, or lease its visitor lists to third parties.
 
-ArtInRuins may disclose your personal information, without notice, if required by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal processes; (b) act under exigent circumstances to protect the personal safety of users of ArtInRuins or the public. 
+ArtInRuins may disclose your personal information, without notice, if required by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal processes; (b) act under exigent circumstances to protect the personal safety of users of ArtInRuins or the public.
 
 ### The Use of Adobe Fonts
 
-ArtInRuins leverages the Adobe fonts service ([fonts.adobe.com](//fonts.adobe.com){:target="_blank"}) to host the beautiful fonts that we use. The Adobe web service **does not** collect user-identifiable information like IP address or location. More information about what information Adobe collects and stores can be found at [adobe.com/privacy/policies/adobe-fonts](//www.adobe.com/privacy/policies/adobe-fonts.html){:target="_blank"}.
+ArtInRuins leverages the Adobe fonts service ([fonts.adobe.com](https://fonts.adobe.com/)) to host the beautiful fonts that we use. The Adobe web service **does not** collect user-identifiable information like IP address or location. More information about what information Adobe collects and stores can be found at [adobe.com/privacy/policies/adobe-fonts](https://www.adobe.com/privacy/policies/adobe-fonts.html).
 
 ## Tracking user behavior
 
-ArtInRuins may keep track of the websites and pages our users visit within ArtInRuins.com in order to determine what properties are the most popular. This data IS NOT used for advertising content or services to our visitors. 
+ArtInRuins may keep track of the websites and pages our users visit within ArtInRuins.com in order to determine what properties are the most popular. This data IS NOT used for advertising content or services to our visitors.
 
 ## Automatically collected information
 
-Information about your computer hardware and software may be automatically collected by ArtInRuins and Google Analytics. This information can include: your IP address, browser type, domain names, access times, and referring website addresses. This information is used to maintain quality of the service, and to provide general statistics regarding use of the ArtInRuins website. 
+Information about your computer hardware and software may be automatically collected by ArtInRuins and Google Analytics. This information can include: your IP address, browser type, domain names, access times, and referring website addresses. This information is used to maintain quality of the service, and to provide general statistics regarding use of the ArtInRuins website.
 
 ## Use of cookies
 
-The ArtInRuins website may use “cookies” to help personalize the online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
+The ArtInRuins website may use “cookies” to help personalize the online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. ArtInRuins offers no user account feature, no user log in, and no payment options — therefore, the cookies we use are for opting into or out of analytical tracking.
 
-You have the ability to accept or decline cookies. If you choose to decline cookies, your experience with ArtInRuins WILL NOT be compromised. 
+You have the ability to accept or decline cookies. If you choose to decline cookies, your experience with ArtInRuins WILL NOT be compromised.
 
 ## Links
 
@@ -91,7 +91,7 @@ ArtInRuins reserves the right to change this Privacy Policy from time to time. W
 
 ## Contact information
 
-ArtInRuins welcomes your questions or comments regarding this statement of privacy. Please email info@artinruins.com with questions, concerns, or request to remove personal data. 
+ArtInRuins welcomes your questions or comments regarding this statement of privacy. Please email info@artinruins.com with questions, concerns, or request to remove personal data.
 
 ***
 

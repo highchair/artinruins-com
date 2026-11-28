@@ -161,7 +161,7 @@ With the Comprehensive Plan nearing finalization, it is the perfect time to asse
 
 Most importantly, we may be able to document or even save a property that tells a different story than the places that have already been given that privilege.
 
-To understand what is involved with creating a new local historic district, start with the National Trust for Historic Preservation’s article [10 Steps to Establish a Local Historic District](https://savingplaces.org/stories/10-steps-to-establish-a-local-historic-district). Local consultants and subject matter experts include the [Providence Preservation Society](https://www.ppsri.org/), [Preserve RI](//www.preserveri.org/), and the office of [Councilman John Goncalves](https://www.johnforward1.com/issues/planning-development-housing-housing-affordability).
+To understand what is involved with creating a new local historic district, start with the National Trust for Historic Preservation’s article [10 Steps to Establish a Local Historic District](https://savingplaces.org/stories/10-steps-to-establish-a-local-historic-district). Local consultants and subject matter experts include the [Providence Preservation Society](https://www.ppsri.org/), [Preserve RI](https://www.preserveri.org/), and the office of [Councilman John Goncalves](https://www.johnforward1.com/issues/planning-development-housing-housing-affordability).
 
 
 Republished from its source at https://pvdeye.org/historic-districts-in-providence-how-they-work-what-they-do-and-why-there-should-be-more/. This is a longer and unedited version of the published version, containing references to properties outside of Providence.

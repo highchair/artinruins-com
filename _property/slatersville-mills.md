@@ -102,13 +102,13 @@ The mills were the village center since their inception in the early 1800s. Cott
 
 The stone mills, owning much to the stable nature of the stone they were built with, survived the years of deferred maintenance. With the careful and thoughtful redevelopment of the complex (luckily, right before the bust of 2008) these structures should remain in good repair for the coming decades. 
 
-The National Parks Service has a page which presents [a self-guided walking tour of Slatersville](//www.nps.gov/blrv/planyourvisit/slatersville-self-guided-tour.htm){:target="_blank"}.
+The National Parks Service has a page which presents [a self-guided walking tour of Slatersville](https://www.nps.gov/blrv/planyourvisit/slatersville-self-guided-tour.htm).
 {:.o__tldr}
 
 
 ### Current Events
 
-Leasing info, galleries, and floor plan are available at [SlatersvilleMill.com](//www.slatersvillemill.com){:target="_blank"}
+Leasing info, galleries, and floor plan are available at [SlatersvilleMill.com](https://www.slatersvillemill.com)
 
 
 ### History
@@ -117,7 +117,7 @@ Part of the Slatersville Historic District, registered April 1973.
 
 ***
 
-_Condensed from [NorthSmithfield.org](http://www.nsmithfieldri.org){:target="_blank"}, captured in 2008_
+_Condensed from [NorthSmithfield.org](http://www.nsmithfieldri.org), captured in 2008_
 
 The village of Slatersville, in the town of North Smithfield, Rhode Island epitomizes the quintessence of a New England Village, but Slatersville (est. July 1807) is also recognized as America’s first planned industrial village, and its true heart is not the quaint common, but the massive stone mill along the river.
 
@@ -137,7 +137,7 @@ John Slater became the resident manager of the Slatersville mill and remained th
 
 _From “Historic and Architectural Resources of North Smithfield, Rhode Island: A Preliminary Report,” Rhode Island Historic Preservation Commission, September 1980_
 
-**Slatersville Mills** 1806 and later: The complex of industrial buildings along the Branch River focuses on the 1826 Mill, also known as the Center Mill, or Number 1 Mill. A 4-story structure, it has dressed-granite walls; a central, projecting, 5-story stair-tower; a flat roof; and additions at the rear. It replaced the original 1806 cotton mill which was destroyed by fire. Along the river, the long, 1 1⁄2-story, clapboard-sided 1806 Office Building is all that remains of the original mill complex. Its trap door monitor-roof windows are characteristic of early mill buildings. Behind the 1826 mill is the 1843 Granite Mill, or Number Three Mill, with a 4-story, square, projecting stair tower near the center. It was used as a weave shed and as a storehouse. Along the mill trench, or power canal, near Railroad Street, is the 1894 Weave Shed, a long, 2-story, brick structure. 
+**Slatersville Mills** 1806 and later: The complex of industrial buildings along the Branch River focuses on the 1826 Mill, also known as the Center Mill, or Number 1 Mill. A 4-story structure, it has dressed-granite walls; a central, projecting, 5-story stair-tower; a flat roof; and additions at the rear. It replaced the original 1806 cotton mill which was destroyed by fire. Along the river, the long, 1 1⁄2-story, clapboard-sided 1806 Office Building is all that remains of the original mill complex. Its trap door monitor-roof windows are characteristic of early mill buildings. Behind the 1826 mill is the 1843 Granite Mill, or Number Three Mill, with a 4-story, square, projecting stair tower near the center. It was used as a weave shed and as a storehouse. Along the mill trench, or power canal, near Railroad Street, is the 1894 Weave Shed, a long, 2-story, brick structure.
 
 
 ### In the News
@@ -147,7 +147,7 @@ _From “Historic and Architectural Resources of North Smithfield, Rhode Island:
 _by Andy Baron_  
 **Business Wire** | January 30, 2008 (abridged)
 
-[The DSF Group](//www.thedsfgroup.com){:target="_blank"}, a leading private real estate investment firm, today announced that the American Industrial Revolution-era mill it owns in North Smithfield, R.I., has been completed and recognized for its design excellence and renovation.
+[The DSF Group](https://www.thedsfgroup.com), a leading private real estate investment firm, today announced that the American Industrial Revolution-era mill it owns in North Smithfield, R.I., has been completed and recognized for its design excellence and renovation.
 
 The Rhode Island chapter of the American Institute of Architects presented a merit award to Newport Collaborative Architects, Inc. of Providence for adaptive reuse/renovation of Slatersville Mill, built in 1806 during the height of the American Industrial Revolution. Now known as The Halstead at Slatersville Mill, the DSF-owned village complex has been renovated into a luxury 224-unit multi-family complex spread over four buildings.
 

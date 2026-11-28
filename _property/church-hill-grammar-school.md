@@ -72,7 +72,7 @@ images:
 
 mostrecentimage: 2024-01-01
 
-imagescredit: 'Contributions from the <a href="//www.flickr.com/photos/pawtucketlibrary/albums/72157706241840225/">Pawtucket Library Digital Collection on Flickr</a>'
+imagescredit: 'Contributions from the <a href="https://www.flickr.com/photos/pawtucketlibrary/albums/72157706241840225/">Pawtucket Library Digital Collection on Flickr</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -100,7 +100,7 @@ In 2020, the project was given a Rhody Award for Historic Preservation. In its w
 ### Current Events
 
 Fourteen apartments are located inside this former school building. We can not find a single resource for apartment listings at this location. The sign on the door in [photo 2024-07
-](#photo-church-hill-grammar-jh-2024-01-07) labels this as Building IV in the [Slater Cotton Mill](//www.slatercottonmill.com/) complex.
+](#photo-church-hill-grammar-jh-2024-01-07) labels this as Building IV in the [Slater Cotton Mill](https://www.slatercottonmill.com/) complex.
 
 ### History
 
@@ -142,4 +142,4 @@ In 1889-1890, when the extant Church Hill Grammar School was constructed, it was
 
 —
 
-[Original National Register nomination form available from the National Park Service (pdf)](//npgallery.nps.gov/NRHP/AssetDetail/43a15dc8-6bf9-4e21-a88f-3403970249a8)
+[Original National Register nomination form available from the National Park Service (PDF)](https://npgallery.nps.gov/NRHP/AssetDetail/43a15dc8-6bf9-4e21-a88f-3403970249a8)

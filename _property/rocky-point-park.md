@@ -202,7 +202,7 @@ images:
     caption: 'Providence Historical Aerial Viewer 2016'
     sizes: '1440, 900'
 
-imagescredit: 'Contributions by John Barchi, Denise Hogue, and Gemma.' 
+imagescredit: 'Contributions by John Barchi, Denise Hogue, and Gemma.'
 ---
 
 ### Reason for Demolition
@@ -229,8 +229,8 @@ On June 26, 2011, Rocky Point was once again opened to the public and features a
 ### Links
 
 + [“Rocky Point Park is Not Forgotten”](https://rhodetour.org/items/show/331) on RhodeTour.org
-+ [“You Must Be This Tall: The Story of Rocky Point” (full-length documentary)](https://www.youtube.com/watch?v=pG5djZBthuc){:target="_blank"} by local filmmaker David Bettencourt.
-+ [Rocky Point Park book by David Bettencourt](https://www.arcadiapublishing.com/Products/9781467123365) and Arcadia Publishing. 
++ [“You Must Be This Tall: The Story of Rocky Point” (full-length documentary)](https://www.youtube.com/watch?v=pG5djZBthuc) by local filmmaker David Bettencourt.
++ [Rocky Point Park book by David Bettencourt](https://www.arcadiapublishing.com/Products/9781467123365) and Arcadia Publishing.
 + [Defunct New England’s Flickr Set Collection](https://www.flickr.com/photos/defunctnewengland/albums/72157657137597831)
 + [RI Rocks page about Rocky Point as a venue](https://www.rirocks.net/Search/Rocky%20Point.htm)
 + [An untagged Flickr set of the Rocky Point grounds in 2006](https://www.flickr.com/photos/grayfamilia/2456351375/in/photostream/)
@@ -246,7 +246,7 @@ In 1850 Winslow added the first carousel, swings, and the Spanish Fandango, the 
 
 Colonel Harrington was the second owner, and billed the park as “New England’s most beautiful amusement park” on an 1918 advertisement. By this time, the rail line provided easier access to the popular spot which featured a Looff Ferris wheel, a circle swing (and a version that swung in the ocean), and a flume type coaster called the Russian Toboggan which was destroyed in the Gale of 1938.
 
-Two hurricanes will wreck havoc on the park, but it survived and was rebuilt. The Great Hurricane of 1938 and Hurricane Carol in 1954. Notwithstanding, the park becomes the most visited attraction in Rhode Island during the 1950s. The Shore Dinner Hall, famous for its clamcakes, steamers, lobsters, and New England clam chowder, seated over 4,000 patrons at a time. The indoor ballroom, the Palladium, was erected in late 50s along with the Windjammer Lounge. 
+Two hurricanes will wreck havoc on the park, but it survived and was rebuilt. The Great Hurricane of 1938 and Hurricane Carol in 1954. Notwithstanding, the park becomes the most visited attraction in Rhode Island during the 1950s. The Shore Dinner Hall, famous for its clamcakes, steamers, lobsters, and New England clam chowder, seated over 4,000 patrons at a time. The indoor ballroom, the Palladium, was erected in late 50s along with the Windjammer Lounge.
 
 In 1949, Rocky Point was purchased by Vincent Ferla. His brother Conrad becomes general manager. The Ferla family were the last owners of the park. Conrad Ferla, a fixture at the park since he started, riding on his motorbike from one station to another attending to his duties, passed away on October 22, 1996.
 

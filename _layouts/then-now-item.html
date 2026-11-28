@@ -75,7 +75,7 @@ layout: default
         <li class="item__cats__item item__cats__location">
         {%- if page.address.size > 0 -%}
           <strong>Address: </strong>
-          {% if page.gmap.size > 0 %}<a href="{{ page.gmap }}" target="_blank" rel="nofollow" title="Open Google Maps in a new window">{% endif %}{{ page.address }}{% if page.gmap.size > 0 %}</a>{% endif %}<br>
+          {% if page.gmap.size > 0 %}<a href="{{ page.gmap }}" rel="nofollow noreferrer" title="Open Google Maps in a new window">{% endif %}{{ page.address }}{% if page.gmap.size > 0 %}</a>{% endif %}<br>
         {%- endif -%}
         {%- assign neighborhoods = page.neighborhoods -%}
         {%- if neighborhoods.size > 0 -%}
@@ -148,7 +148,7 @@ layout: default
         <li class="item__cats__item item__cats__citation">
           <details class="rhythm">
             <summary>Citations & Reference URLs</summary>
-            <p>Create a permanent reference to today’s version of this page with <a href="//web.archive.org/save/https://artinruins.com/property{{ page.slug }}" title="Archive.org is a foundation that archives the internet" target="_blank" rel="nofollow noreferrer">Archive.org</a>
+            <p>Create a permanent reference to today’s version of this page with <a href="https://web.archive.org/save/https://artinruins.com/property{{ page.slug }}" title="Archive.org is a foundation that archives the internet" rel="nofollow noreferrer">Archive.org</a>
             </p>
             <p><label for="cite"><abbr title="Modern Language Association">MLA</abbr>- and <abbr title="Chicago Manual of Style">CMS</abbr>-style Citation:</label> <input id="cite" type="text" readonly class="form__input form__input--text form__input--readonly" value="ArtInRuins & public sources. “Property: {{ page.title }},” ArtInRuins.com, updated {{ page.date-modified | date: "%B %e, %Y" }}, https://artinruins.com/property/{{ page.slug }}/. Accessed {{ 'now' | date: '%B %e, %Y' }}." />
               <span class="form__input--help">Select all to cut and paste citation</span>

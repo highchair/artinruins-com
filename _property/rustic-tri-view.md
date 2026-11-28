@@ -54,25 +54,25 @@ The Rustic is the last operating Drive-In in the state, showing movies during th
 
 #### Links
 
-+ Purchase tickets at [Your Neighborhood Theatre](//www.yourneighborhoodtheatre.com){:target="_blank"} by choosing the Rustic as your theatre
-+ Visit [their Facebook page](//www.facebook.com/RusticDriveIn/){:target="_blank"} to follow them and get updates about what’s playing
-+ The Rustic’s page on [Cinema Treasures](//cinematreasures.org/theaters/9761){:target="_blank"}
++ Purchase tickets at [Your Neighborhood Theatre](https://www.yourneighborhoodtheatre.com) by choosing the Rustic as your theatre
++ Visit [their Facebook page](https://www.facebook.com/RusticDriveIn/) to follow them and get updates about what’s playing
++ The Rustic’s page on [Cinema Treasures](https://cinematreasures.org/theaters/9761)
 
 #### We support and admire the Weird Island podcast! 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/051a0ca1-bde9-44d0-b8f5-51b106b1e046?dark=false"></iframe>
 
-Visit on the web: [Weird Island Episode 19: Dirty Drive In, the Forgotten History of Rhode Island Drive Ins](//weird-island.simplecast.com/episodes/19-dirty-drive-in-the-forgotten-history-of-rhode-islands-drive-ins)
+Visit on the web: [Weird Island Episode 19: Dirty Drive In, the Forgotten History of Rhode Island Drive Ins](https://weird-island.simplecast.com/episodes/19-dirty-drive-in-the-forgotten-history-of-rhode-islands-drive-ins)
 
 
 ### History
 
 Richard Hollingshead Jr. opened the first drive-in movie theater in 1933. He was a young sales manager at his dad’s Whiz Auto Products who had a hankering to invent something that combined his two interests: cars and movies. He experimented in his own driveway at 212 Thomas Avenue, Camden, New Jersey with a 1928 Kodak projector on the hood of his car, projected onto a screen he had nailed to trees in his backyard, and used a radio placed behind the screen for sound. The first patent for the Drive-In Theater was issued on May 16, 1933 and Richard opened the first on June 6, 1933 at a location on Crescent Boulevard, Camden, New Jersey.
 
-By 1958 there were 4,063 Drive-Ins nationwide — there are fewer than 400 now. The flat land that drive-in theaters sat on was perfect for countless malls and the acres of parking they required. Today, only the Rustic is left in Rhode Island, while [four remain in Massachusetts](//www.driveinmovie.com/MA.htm){:target="_blank"}, the nearest being the Mendon Twin, just north of the Rhode Island line.
+By 1958 there were 4,063 Drive-Ins nationwide — there are fewer than 400 now. The flat land that drive-in theaters sat on was perfect for countless malls and the acres of parking they required. Today, only the Rustic is left in Rhode Island, while [four remain in Massachusetts](https://www.driveinmovie.com/MA.htm), the nearest being the Mendon Twin, just north of the Rhode Island line.
 
 During the “golden age of the automobile”, drive-in theatres and other car-oriented concepts were prevalent. Roadside diners had car-hops to bring food out to the car, churches fleetingly experimented with the drive-in idea, and local tourist traps sprouted up along major thoroughfares to get people out of their cars and into shops to spend money. Rt 146 was one of the popular roads where roadside architecture flourished, especially before the interstate highway (Rt 95) was completed in 1969. The [Milk Can]({% link _property/milk-can.md %}) ice cream and snack stand was one of these roadside treasures.
 
-The drive-in can be seen in aerial photos as early as [the 1951–1952 photo at the Providence Historical Aerial Viewer](//pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e){:target="_blank"}.
+The drive-in can be seen in aerial photos as early as [the 1951–1952 photo at the Providence Historical Aerial Viewer](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e).
 
 Through the 60s and 70s, Drive-Ins suffered closures and general stagnation. Some turned to other sources of income, or other types of movies that had a guaranteed draw. The Rustic went through a period where it showed Adult R- and X-rated films. An article in November 1971 detailed the town’s fight to control the content of the Rustic’s screen:
 
@@ -82,4 +82,4 @@ Despite hard times for Drive-In owners, Beverly and Clem Desmarais bought the Ru
 
 The Desmarais family sold the drive-in to the Boston Culinary Group in April, 2008, who will continue to operate the facility. Boston Culinary Group is a privately-owned food service management company that provides food and beverages in the recreation and leisure industry. The company’s theatre division owns and operates 23 theatres throughout the northeast managing all aspects of theatre operations, including the projection booth, concessions stands and box offices.
 
-In 2014, to continue playing new movies that are increasingly only available in a digital format, the Rustic switched from 35mm film to digital projection. 
+In 2014, to continue playing new movies that are increasingly only available in a digital format, the Rustic switched from 35mm film to digital projection.

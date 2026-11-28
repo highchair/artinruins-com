@@ -23,7 +23,7 @@ Our [Needs History]({% link tag/needs-history.html %}) tag highlights properties
 
 ### Add Block Island’s Harborside Inn and it history
 
-A fire gutted the building in August, 2023, and it was demolished as a total loss. We’d love to host some documentation, which would be the first property on the site for Block Island. [The Boston Globe did a nice write up that provides a good start](//www.bostonglobe.com/2023/08/28/metro/forgotten-history-block-islands-harborside-inn){:target="_blank"}.
+A fire gutted the building in August, 2023, and it was demolished as a total loss. We’d love to host some documentation, which would be the first property on the site for Block Island. [The Boston Globe did a nice write up that provides a good start](https://www.bostonglobe.com/2023/08/28/metro/forgotten-history-block-islands-harborside-inn).
 
 
 ### Brown University‘s BioMed Building expansion in 2002
@@ -36,7 +36,7 @@ A fire gutted the building in August, 2023, and it was demolished as a total los
 https://www.providencejournal.com/article/20140327/OPINION/303279890
 {% endcomment %}
 
-Mr. Brussat was the Providence Journal’s architecture critic for decades and [he still maintains a blog](//architecturehereandthere.com/){:target="_blank"}. We have [a list page of Mr. Brussat’s 10 Best Lost buildings]({% link list/brussat-s-10-best-lost-buildings.html %}) but would need help completing the missing properties. The missing properties are: 
+Mr. Brussat was the Providence Journal’s architecture critic for decades and [he still maintains a blog](https://architecturehereandthere.com/?. We have [a list page of Mr. Brussat’s 10 Best Lost buildings]({% link list/brussat-s-10-best-lost-buildings.html %}) but would need help completing the missing properties. The missing properties are: 
 
 + The Outlet Company
 + The third Howard Building (1859, James Bucklin)
@@ -95,11 +95,6 @@ Built 1876, designed by James Bucklin. Demolished ??. Not many photos are availa
 ## Developer Tasks
 
 **You don’t have to be a historian or photographer to contribute!** We have some ideas about to improve the functionality of the site as well. [The site is in a public Github repository](https://github.com/highchair/artinruins-com/) and it is built with Jekyll, SASS for CSS, and vanilla Javascript.
-
-
-### Interactive Map
-
-Each property has a latitude and longitude associated with it as well as a Google Maps link. We’d like to visualize categories of properties on maps. We’d like to use Open Street Maps instead of Google but that requires a map tile rendering engine service. If anyone has expertise in setting these things up, that’d be a great project to contribute.
 
 
 {% comment %}

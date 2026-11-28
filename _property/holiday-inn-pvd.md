@@ -78,7 +78,7 @@ images:
     caption: 'Photo by Christopher Martin'
     sizes: '1200, 900'
 
-imagescredit: 'Contributions from Christopher Martin of <a href="https://quahog.org" target="_blank">Quahog.org</a>'
+imagescredit: 'Contributions from Christopher Martin of <a href="https://quahog.org/">Quahog.org</a>'
 
 mostrecentimage: 2015-06-01
 

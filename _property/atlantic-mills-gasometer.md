@@ -73,7 +73,7 @@ images:
 
 mostrecentimage: 2019-01-01
 
-imagescredit: 'Contributions from <a href="//www.flickr.com/photos/hivearchive/" target="_blank">Hive Archive on Flickr</a>, <a href="//www.flickr.com/photos/78348039@N03/20454461263/" target="_blank">User JR2000 on Flickr</a>, and the <a href="//www.atlanticdesign.works" target="_blank">Atlantic Designworks website</a>'
+imagescredit: 'Contributions from <a href="https://www.flickr.com/photos/hivearchive/">Hive Archive on Flickr</a>, <a href="https://www.flickr.com/photos/78348039@N03/20454461263/">User JR2000 on Flickr</a>, and the <a href="https://www.atlanticdesign.works">Atlantic Designworks website</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

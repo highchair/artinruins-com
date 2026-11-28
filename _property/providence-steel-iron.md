@@ -94,7 +94,7 @@ images:
 
 mostrecentimage: 2025-07-01
 
-imagescredit: 'Contributions from <a href="//provlibdigital.org/islandora/object/islandora%253A11318" target="_blank">Rhode Island Photograph Collection</a>, Providence Public Library; ProQuest Digital Sanborn Maps, Providence Public Library; G.M. Hopkins Insurance Maps, Historic Map Works; Edward Connors, January 2005 for the National Register Nomination Form'
+imagescredit: 'Contributions from <a href="https://provlibdigital.org/islandora/object/islandora%253A11318">Rhode Island Photograph Collection</a>, Providence Public Library; ProQuest Digital Sanborn Maps, Providence Public Library; G.M. Hopkins Insurance Maps, Historic Map Works; Edward Connors, January 2005 for the National Register Nomination Form'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -109,12 +109,12 @@ The first major foray into programming began with the intention of furnishing lo
 
 Over the years, both the interior and exterior spaces have been used for the fabrication of products, the creation of works of art, open houses, workshops, demonstrations, exhibits, and performances. The input and assistance of the surrounding community has helped drive a grassroots evolution at the Steel Yard ensuring that its vision, curriculum, and facilities are unique and uniquely beneficial to the locality in which they work.
 
-In 2008, funds from the Environmental Protection Agency (<span class="abbr">EPA</span>) matched local state dollars to begin remediation of contaminants across the site. Boston-based landscape architects Klopfer Martin Design Group (<span class="abbr">KMDG</span>) [designed the new grounds](https://www.klopfermartin.com/projects/the-steel-yard){:target="_blank"} created an improved flow for community events on the site without changing the layout of buildings or cranes. The remediation and redevelopment of the grounds took two years.
+In 2008, funds from the Environmental Protection Agency (<span class="abbr">EPA</span>) matched local state dollars to begin remediation of contaminants across the site. Boston-based landscape architects Klopfer Martin Design Group (<span class="abbr">KMDG</span>) [designed the new grounds](https://www.klopfermartin.com/projects/the-steel-yard) created an improved flow for community events on the site without changing the layout of buildings or cranes. The remediation and redevelopment of the grounds took two years.
 
 
 ### Current Events
 
-[The Steel Yard](https://www.thesteelyard.org){:target="_blank"} is a place to learn to weld, make jewelry, throw a pot, pour bronze, or many other “industrial” arts. The Yard is also available to rent as an event space, and frequently will host community events open to the public.
+[The Steel Yard](https://www.thesteelyard.org) is a place to learn to weld, make jewelry, throw a pot, pour bronze, or many other “industrial” arts. The Yard is also available to rent as an event space, and frequently will host community events open to the public.
 
 
 ### History

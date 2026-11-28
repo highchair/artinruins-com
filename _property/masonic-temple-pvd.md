@@ -146,19 +146,19 @@ external:
 
 ### Redevelopment
 
-After 80 years of sitting open to the elements — a little more than 50 years of which was under state-ownership — the Masonic Temple gets a new life as a hotel. A major $87 million renovation saved nothing but the impressive three Greek-Revival brick-and-sandstone exterior walls of the building. The interior was completely gutted and reconfigured as it was originally designed with double-story meeting rooms and an interior amphitheater on the top levels. 
+After 80 years of sitting open to the elements — a little more than 50 years of which was under state-ownership — the Masonic Temple gets a new life as a hotel. A major $87 million renovation saved nothing but the impressive three Greek-Revival brick-and-sandstone exterior walls of the building. The interior was completely gutted and reconfigured as it was originally designed with double-story meeting rooms and an interior amphitheater on the top levels.
 
-The Temple and its close neighbor, the [Veterans Memorial Auditorium](//www.thevetsri.com){:target="_blank"}, were built as a single complex in the 1920s. Construction was never finished and the shells remained standing but unoccupied from 1928-1949. In 1950, the state completed construction on the Auditorium portion while the Temple remained unfinished. Over 50 years later the Temple is finally redeveloped and structurally complete. The Sage Hospitality Group renovated the building with a complete interior gut-out in 2004–2006. 
+The Temple and its close neighbor, the [Veterans Memorial Auditorium](https://www.thevetsri.com/), were built as a single complex in the 1920s. Construction was never finished and the shells remained standing but unoccupied from 1928-1949. In 1950, the state completed construction on the Auditorium portion while the Temple remained unfinished. Over 50 years later the Temple is finally redeveloped and structurally complete. The Sage Hospitality Group renovated the building with a complete interior gut-out in 2004–2006. 
 
 
 ### Current Events
 
-The property has operated as a [Marriott Renaissance Hotel](//www.marriott.com/hotels/travel/pvdbr-renaissance-providence-downtown-hotel/){:target="_blank"} since 2007 even though it has gone through three corporate owners. 
+The property has operated as a [Marriott Renaissance Hotel](https://www.marriott.com/hotels/travel/pvdbr-renaissance-providence-downtown-hotel/) since 2007 even though it has gone through three corporate owners. 
 
 
 ### History as Timeline
 
-_Sources: National Register Nomination Form (Veterans Memorial Auditorium/Masonic Temple combined)_, [ProvidenceArchitecure.org](//www.brown.edu/cis/sta/dev/providence_architecture/locations/downtown/masonic_temple/){:target="_blank"}, _Wikipedia, and a New York Times story from 2006_
+_Sources: National Register Nomination Form (Veterans Memorial Auditorium/Masonic Temple combined)_, [ProvidenceArchitecure.org](https://www.brown.edu/cis/sta/dev/providence_architecture/locations/downtown/masonic_temple/), _Wikipedia, and a New York Times story from 2006_
 
 Late 1910s/early 1920s
 : The Masons began planning for construction of a new Masonic Temple to replace the existing 1897 temple at 121-123 Dorrance Street. An agreement was reached among the Mason chapters in 1923 that the building should be a memorial rather than a commercial structure. Fundraising commenced for erection of a $2,500,000 white marble building, for which a preliminary design had already been prepared.
@@ -173,10 +173,10 @@ Late 1910s/early 1920s
 : Despite optimistic expectations, in June a shortfall of funds followed by the Great Depression caused construction to cease. The basic structures, exterior walls, roofs, most mechanical systems, and approximately 35 per cent of the auditorium interior were completed. The building shells (A.I.R.: Both the Temple and the Auditorium) will stand empty and unattended for nearly twenty years.
 
 1942
-: In response to a demand for increased state office space, a special legislative committee was established in 1942 to study state acquisition of the Masonic Temple complex. Voters approved a bond issue for funding and the state purchased the buildings for $754,000 on June 1 with the intent of converting it to an office building for state workers. 
+: In response to a demand for increased state office space, a special legislative committee was established in 1942 to study state acquisition of the Masonic Temple complex. Voters approved a bond issue for funding and the state purchased the buildings for $754,000 on June 1 with the intent of converting it to an office building for state workers.
 
 1949
-: Construction on the auditorium and offices block began in the spring. On May 4, Governor John O. Pastore signed a bill dedicating [one of the buildings] as the “Veterans Memorial Auditorium” and providing free office space for chartered veterans organizations. 
+: Construction on the auditorium and offices block began in the spring. On May 4, Governor John O. Pastore signed a bill dedicating [one of the buildings] as the “Veterans Memorial Auditorium” and providing free office space for chartered veterans organizations.
 : The optimistic “1949” date is carved into the facade of the Temple.
 : The linking building between the two structures is removed as part of the construction process on the Auditorium.
 
@@ -184,28 +184,28 @@ Late 1910s/early 1920s
 : Restoration of the auditorium was completed for a dedication ceremony on January 29, 1950, and the grand opening concert on January 30, with performances by the Rhode Island Philharmonic Orchestra and the Boston Symphony Orchestra. *Long range plans to finish the Temple as office space never materialized*.
 
 1970s
-: Edward F. Sanderson, a historian and executive director of the Rhode Island Historical Preservation and Heritage Commission was quoted as saying of the Temple, “when I first came to work in the 1970s, you could go in there, and you could see the hand tools that were still sitting where they had been put down in 1928. It was pretty amazing.” The entire copper roof was stolen for scrap. 
+: Edward F. Sanderson, a historian and executive director of the Rhode Island Historical Preservation and Heritage Commission was quoted as saying of the Temple, “when I first came to work in the 1970s, you could go in there, and you could see the hand tools that were still sitting where they had been put down in 1928. It was pretty amazing.” The entire copper roof was stolen for scrap.
 
 1994
-: The first year that the [Providence Preservation Society](//ppsri.org){:target="_blank"} published their “Ten Most Most Endangered Properties” list, [the Masonic Temple](//guide.ppsri.org/property/masonic-temple){:target="_blank"} was included. It went on to be included every year until 2003. 
+: The first year that the [Providence Preservation Society](https://ppsri.org/) published their “Ten Most Most Endangered Properties” list, [the Masonic Temple](https://guide.ppsri.org/property/masonic-temple) was included. It went on to be included every year until 2003.
 
 1996
 : In April, the Providence Preservation Society hosted a design charrette with partners — the State, the City, the RI Foundation, the Providence Foundation, the Greater Providence Chamber of Commerce, the Scenic Rhode Island Foundation, and the Veteran’s Memorial Auditorium Preservation Association. The charette examined nine reuse concepts and was attended by over 130 participants.
 
 2001
-: In an August news brief, Governor Lincoln Almond announced that Algen Construction and Development had secured a $38.7 million loan from New York-based M.K.D. Capital Corp. “to develop a 216-room luxury hotel in the abandoned Masonic Temple building in downtown Providence”. 
+: In an August news brief, Governor Lincoln Almond announced that Algen Construction and Development had secured a $38.7 million loan from New York-based M.K.D. Capital Corp. “to develop a 216-room luxury hotel in the abandoned Masonic Temple building in downtown Providence”.
 
 2002
 : By March the pending proposal was withdrawn as Algen Construction and Development was unable to close on financing for the project due to the slowdown in the nation’s economy. Governor Almond said, “We have worked hard for years to put every step in place to preserve the architectural and historic significance of this building so it could provide needed hotel rooms in our capital city. It is my hope that a new developer will come forward with a viable proposal to transform the existing structure […]”
 
 2003
-: Sage Hospitality comes forward as a potential hotel developer. Various discussions ensue, including a tax stabilization agreement. Sage Hospitality’s project manager, Mr. Perrett, a native of Michigan whose family owned hotels there, has completed five rehabilitations of historic buildings into hotels, including the conversion of a Romanesque-style bank building in San Diego into a Courtyard by Marriott and the conversion of the Fulton Building in Pittsburgh. 
+: Sage Hospitality comes forward as a potential hotel developer. Various discussions ensue, including a tax stabilization agreement. Sage Hospitality’s project manager, Mr. Perrett, a native of Michigan whose family owned hotels there, has completed five rehabilitations of historic buildings into hotels, including the conversion of a Romanesque-style bank building in San Diego into a Courtyard by Marriott and the conversion of the Fulton Building in Pittsburgh.
 
 2004
-: Sage Hospitality receives approval in the spring from the Capital Center Commission to began construction. Its investment partner, the Kimberly-Clark Corporation, will spend about $87 million to transform the temple over five years. The developer received a federal tax credit equivalent to 20 percent of the main costs of the rehabilitation and a state tax credit worth an additional 30 percent, along with some city assistance. 
+: Sage Hospitality receives approval in the spring from the Capital Center Commission to began construction. Its investment partner, the Kimberly-Clark Corporation, will spend about $87 million to transform the temple over five years. The developer received a federal tax credit equivalent to 20 percent of the main costs of the rehabilitation and a state tax credit worth an additional 30 percent, along with some city assistance.
 
 2007
-: In April, the Temple opens as a Marriott Renaissance hotel with 272 luxury rooms, a ballroom, a lower-level restaurant and lounge, meeting rooms and a fitness center. Weekday corporate rates started at $259 a night. 
+: In April, the Temple opens as a Marriott Renaissance hotel with 272 luxury rooms, a ballroom, a lower-level restaurant and lounge, meeting rooms and a fitness center. Weekday corporate rates started at $259 a night.
 
 2012
 : The Procaccianti Group of Cranston purchases the hotel.

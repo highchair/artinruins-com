@@ -39,7 +39,7 @@ images:
     caption: 'Photo taken 2024 by J. Hogue for ArtInRuins'
     sizes: '2474, 1024'
 
-imagescredit: '1982 image from the Library of Congress, <a href="//www.loc.gov/pictures/item/ri0377.photos.145737p/">Historic American Building Survey/Historical American Engineering Record of Union Station</a>'
+imagescredit: '1982 image from the Library of Congress, <a href="https://www.loc.gov/pictures/item/ri0377.photos.145737p/">Historic American Building Survey/Historical American Engineering Record of Union Station</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

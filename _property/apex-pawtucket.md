@@ -281,7 +281,7 @@ _By Tim Lehnert_
 
 DEPENDING ON WHOM you ask, the Apex building next to Interstate 95 in downtown Pawtucket is a sickly eyesore, or a true landmark and an outstanding piece of roadside architecture. The structure is a standard low-slung department store box, upon which six white blocks have been stacked, each one smaller than the one below. The result is a pyramid with an upright trapezoid placed on top, displaying the name “Apex” in red. Constructed in 1969, the Apex building is an example of what Providence designer J. Hogue terms “divisive architecture. Some people hate it vehemently,” he says, “while others love it.”
 
-Regardless, the future of the well-known ziggurat is in doubt. Currently, the Apex Department Store, a rump of its former retail self since the small chain downsized three years ago, occupies one half of the space, while the state Division of Motor Vehicles rents the other half. The privately owned [Teknor Apex Company](//theapexcompanies.com){:target="_blank"} has not divulged its plans for the store, or the 10-acre slice of Pawtucket riverfront property upon which it sits.
+Regardless, the future of the well-known ziggurat is in doubt. Currently, the Apex Department Store, a rump of its former retail self since the small chain downsized three years ago, occupies one half of the space, while the state Division of Motor Vehicles rents the other half. The privately owned [Teknor Apex Company](https://theapexcompanies.com) has not divulged its plans for the store, or the 10-acre slice of Pawtucket riverfront property upon which it sits.
 
 <details markdown="1" class="rhythm">
   <summary>Read the full article</summary>

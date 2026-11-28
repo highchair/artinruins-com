@@ -99,7 +99,7 @@ images:
   - url: fort-adams-jh-2006-05-27.jpg
     sizes: '768, 924'
 
-imagescredit: 'Contributions from the Rhode Island Photograph Collection, Providence Public Library (<a href="//provlibdigital.org/islandora/object/islandora%3A11590" target="_blank">photo 1,</a> <a href="//provlibdigital.org/islandora/object/islandora%3A11938" target="_blank">photo 2,</a> <a href="//provlibdigital.org/islandora/search/Fort%20Adams?type=dismax" target="_blank">more</a>)'
+imagescredit: 'Contributions from the Rhode Island Photograph Collection, Providence Public Library (<a href="https://provlibdigital.org/islandora/object/islandora%3A11590">photo 1,</a> <a href="https://provlibdigital.org/islandora/object/islandora%3A11938">photo 2,</a> <a href="https://provlibdigital.org/islandora/search/Fort%20Adams?type=dismax">more</a>)'
 
 mostrecentimage: 2006-05-01
 
@@ -110,19 +110,19 @@ mostrecentimage: 2006-05-01
 
 ### Redevelopment
 
-When we visited the fort in 2006, it was to [view a sculpture installation by our friend Jen Raimondi](//jenraimondi.artinruins.com/projects/hibernation/){:target="_blank"}. The fort was partially restored in the casement section. Since then, the grounds have been improved and designed to host many types of public events. Some of the rest of the fort have been restored or at least reinforced to last for the next hundred years. 
+When we visited the fort in 2006, it was to [view a sculpture installation by our friend Jen Raimondi](https://westsidewell.com/). The fort was partially restored in the casement section. Since then, the grounds have been improved and designed to host many types of public events. Some of the rest of the fort have been restored or at least reinforced to last for the next hundred years.
 
 
 ### Current Events
 
-[Fort Adams](http://www.fortadams.org){:target="_blank"} is a valuable resource, and a National Landmark structure. This eighty-acre historical site stands ready to serve as an educational facility and a cultural center. It is a major historic attraction for our State’s tourism industry and helps educate the public, especially children, on American history, military culture, architecture, engineering and technology. Fort Adams is a masterpiece of coastal defense and an untapped jewel on Narragansett Bay.
+[Fort Adams](http://www.fortadams.org/) is a valuable resource, and a National Landmark structure. This eighty-acre historical site stands ready to serve as an educational facility and a cultural center. It is a major historic attraction for our State’s tourism industry and helps educate the public, especially children, on American history, military culture, architecture, engineering and technology. Fort Adams is a masterpiece of coastal defense and an untapped jewel on Narragansett Bay.
 
 The Fort Adams Trust was founded in 1994 as a nonprofit 501(c)(3) organization and is charged by its articles of incorporation with directing and supporting the stabilization, restoration, maintenance, and operation of Fort Adams as a historic site; conducting educational, cultural, and interpretive programs and activities; generating revenues that will financially sustain the Trust’s programs; conducting fundraising activities to finance the stabilization, restoration and maintenance of the Fort during the short and long term; holding special events; operating a museum; employing a staff; maintaining a membership; and all other business consistent with the operation of an historic site. The Trust has prepared, with the help of past grants, a strategic master plan that encompasses these diverse requirements.
 
 
 ### History
 
-Much, much history archived at the [Fort Adams > Discover > Fort Adams History](https://fortadams.org/discover-the-fortress/fort-adams-history/full-history/){:target="_blank"} website. 
+Much, much history archived at the [Fort Adams > Discover > Fort Adams History](https://fortadams.org/discover-the-fortress/fort-adams-history/full-history/) website.
 
 ***
 
@@ -138,9 +138,9 @@ The high granite walls have two casemate levels within, with their embrasures (n
 
 Entrance to the fort is through a large, rusticated, segmental north portal originally protected by a moat. Within the massive walls, a one- story range of granite runs along the east wall, projecting towards the parade-lawn and sweeping around a bastion angle with a surprisingly elegant convex curve. This range continues along the south side also, but there has surmounting brick additions etc… Construction is of dressed ashlar used in the simplest, most utilitarian, but handsome, manner. There is no applied ornament, no carving; yet recessed oblong panels let into the stonework over each opening give an understated adornment or at least a relief from monotony: this is surprising in its modest subtlety, somehow reminding one of Alexander Parris’s work in this country and of the quieter sophistications of the English Regency style.
 
-The southerly granite range mentioned above has for long served as basement to one floor of brick barracks prefaced by covered galleries supported on cast-iron columns at parade-ground-front and served by cast-iron stairs at rear, within the landward defenses. The upper barracks structures and their chimnies survive, though mostly hollow through either fire or the collapse of roofs and floors. There are no other structures with the fort’s walls.
+The southerly granite range mentioned above has for long served as basement to one floor of brick barracks prefaced by covered galleries supported on cast-iron columns at parade-ground-front and served by cast-iron stairs at rear, within the landward defenses. The upper barracks structures and their chimneys survive, though mostly hollow through either fire or the collapse of roofs and floors. There are no other structures with the fort’s walls.
 
-A few other buildings of early date were placed outside the great walls, and of these the most interesting survivor is the old granite guardhouse, in very austere Greek Revival style and most penitentiary in aspect. Outside the walls there are also more structures to east and north; these are brick auxiliary buildings, shed-like in form, constructed in the late XIX and early XX Centuries, but they bear witness to the long-continuing use and development of the fort. To the south of the landward fortifications were erected the commander’s residence (1873) and housing for officers and their families. This entire southern area stretching from the fort proper to Harrison Avenue is now a naval housing development and is not included in the state-owned park. The fort, and its masonry (with the exception of the fire-damaged barracks)is in sound condition and intact in form. 
+A few other buildings of early date were placed outside the great walls, and of these the most interesting survivor is the old granite guardhouse, in very austere Greek Revival style and most penitentiary in aspect. Outside the walls there are also more structures to east and north; these are brick auxiliary buildings, shed-like in form, constructed in the late XIX and early XX Centuries, but they bear witness to the long-continuing use and development of the fort. To the south of the landward fortifications were erected the commander’s residence (1873) and housing for officers and their families. This entire southern area stretching from the fort proper to Harrison Avenue is now a naval housing development and is not included in the state-owned park. The fort, and its masonry (with the exception of the fire-damaged barracks)is in sound condition and intact in form.
 
 #### Significance
 

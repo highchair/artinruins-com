@@ -108,7 +108,7 @@ This is the first collaboration with photographer and drone operator David Lawlo
 
 Corning Glass Works has a history in Central Falls that goes back to 1924 at a portion of this Broad Street plant. Much of the original mills were located on the northern side of the property at the corner of Hunt and Broad Streets and Hunt and High Streets and expanded at this location with steel-frame warehouse structures to the south.
 
-[Aerial photos from 1939](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e){:target="_blank"} (use a 1193 Broad Street Central Falls location) show the northern side of the property and small low buildings across Hunt Street, much like the [Sanborn Map from 1923](#photo-1923-sanborn-vol-2c-pl-294). Aerial photos at this location show a progressive increase of buildings around this main structure.
+[Aerial photos from 1939](https://pvdgis.maps.arcgis.com/apps/webappviewer/index.html?id=b1b3a4a4c66847a8b767cde26264246e) (use a 1193 Broad Street Central Falls location) show the northern side of the property and small low buildings across Hunt Street, much like the [Sanborn Map from 1923](#photo-1923-sanborn-vol-2c-pl-294). Aerial photos at this location show a progressive increase of buildings around this main structure.
 
 In 1959, Sylvania Electric Products merged into General Telephone and was renamed to General Telephone & Electronics Corporation (GT&E) and later simplified their name to GTE.[^1] Around 1986, GTE Products Corporation purchased the Corning Glass Site.[^2] GTE sold the Sylvania lighting division to the German Siemens AG in 1993, and it was hereafter referred to as “Osram-Sylvania.”[^3]
 

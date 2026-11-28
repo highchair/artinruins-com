@@ -163,7 +163,7 @@ Gothic elements were a key part of the style, hence the pointed windows on the S
 #### Map Sources
 
 + [1899 Sanborn Insurance Map, Volume 1, Plate 55](https://www.loc.gov/resource/g3774pm.g3774pm_g08099189901/?sp=64&r=-0.311,0.035,1.699,0.814,0) — Library of Congress, Geography and Map Division
-+ [1908 L.J. Richards Insurance Map, Plate 2](https://wardmapsgifts.com/pages/search-results-page?q=1908+providence+ri){:target="_blank"} — WardMapsGifts.com
++ [1908 L.J. Richards Insurance Map, Plate 2](https://wardmapsgifts.com/pages/search-results-page?q=1908+providence+ri) — WardMapsGifts.com
 + [1920–1921 Sanborn Insurance Map, Volume 1, Plate 55](https://www.loc.gov/resource/g3774pm.g3774pm_g08099192001/?sp=66&r=-0.535,-0.001,2.07,0.992,0) — Library of Congress, Geography and Map Division
 + [1939 G.M. Hopkins Insurance Map, Plate 6](http://www.historicmapworks.com/Map/US/895463/Plate+006/Providence+1937/Rhode+Island/)
 + [1920–1951 Sanborn Insurance Map, Volume 1, Plate 55](https://www.loc.gov/resource/g3774pm.g3774pm_g08099195101/?sp=66) — Library of Congress, Geography and Map Division

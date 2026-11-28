@@ -86,7 +86,7 @@ At one point, the tower was proposed to be over 500 feet — that was 35 floors
 
 The City was clearly excited as well. Mayor Cicilline was all for it, as well as the zoning board and the Downcity Design Board of review which granted demolition permits of [two former bank structures]({% link _property/first-federal-bank.md %}), one of them an [85 year old Georgian Revival building]({% link _property/providence-national-bank.md %}), whose Weybosset Street façade the developer was encouraged to save and integrate into their building design.
 
-[Jef Nickerson](//www.gcpvd.org/2009/02/24/vaporscraper-first-spark/){target="_blank"} summed it up well:
+[Jef Nickerson](https://www.gcpvd.org/2009/02/24/vaporscraper-first-spark/) summed it up well:
 
 > The Mayor was quoted as saying that OneTen would be a “first spark of a development boom.” And it was, in that time we’ve seen the development of [GTECH]({% link _property/gtech-headquarters.md %}), the [Waterplace Condos]({% link _property/waterplace-towers.md %}), the [Westin Residences]({% link _property/westin-tower.md %}), [Capitol Cove]({% link _property/capital-center-parcel-6.md %}), 333 Atwells Avenue, ALCO, [RISD’s Chase Center]({% link _property/chace-center-risd.md %}) and numerous other developments and renovations both large and small. We just never saw the development of OneTen Westminster.
 

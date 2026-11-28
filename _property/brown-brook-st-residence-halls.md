@@ -90,7 +90,7 @@ imagescredit: 'Architectural rendering courtesy the architect and the Brown Univ
 
 A very modern set of buildings were constructed along Brook Street between Charlesfield and Power Streets. The buildings house approximately 350 third and fourth year undergraduate students, relieving some of the pressure on the nearby housing stock. Between the [recently completed health and wellness center and residence hall]({% link _property/wellness-center-residence-hall.md %}) bounded by Thayer, Cushing, Brook, and Meeting and this project, Brown will have exceeded its 2013 Master Plan target for new undergraduate beds.
 
-The buildings will be 64,000 and 61,000 square feet respectively. Ground-floor retail in one of the buildings was promised, and then was pulled away, but has been added again to the west building. Visit the [Brown Facilities page about the project](//www.brown.edu/facilities/projects/capital-projects/current/brook-street-residence-halls).
+The buildings will be 64,000 and 61,000 square feet respectively. Ground-floor retail in one of the buildings was promised, and then was pulled away, but has been added again to the west building. Visit the [Brown Facilities page about the project](https://www.brown.edu/facilities/projects/capital-projects/current/brook-street-residence-halls).
 
 
 ### Design Reception

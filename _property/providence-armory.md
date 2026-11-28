@@ -131,7 +131,7 @@ images:
     caption: 'Photo by Jack Boucher for HABS/HAER RI-407, 1997'
     sizes: '1200, 900'
 
-imagescredit: 'Contributions by Jack Boucher for <a href="//www.loc.gov/pictures/collection/hh/item/ri0452/" target="_blank">HABS/HAER RI-407</a>'
+imagescredit: 'Contributions by Jack Boucher for <a href="https://www.loc.gov/pictures/collection/hh/item/ri0452/">HABS/HAER RI-407</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -140,18 +140,18 @@ imagescredit: 'Contributions by Jack Boucher for <a href="//www.loc.gov/pictures
 
 ### Last Tenant
 
-The State of Rhode Island assumed ownership of the Providence Armory in 1996 as the National Guard were moving out the following year. Since then, this “castle for the people” has been threatened by neglect and deferred maintenance as new uses have been sought for its voluminous spaces. 
+The State of Rhode Island assumed ownership of the Providence Armory in 1996 as the National Guard were moving out the following year. Since then, this “castle for the people” has been threatened by neglect and deferred maintenance as new uses have been sought for its voluminous spaces.
 
-In 1998 The National Trust for Historic Preservation added the Armory to its 11 Most Endangered Sites List. It was the second property in the state ever to be listed (the first was the Block Island lighthouse). The [Providence Preservation Society’s Ten Most Endangered Buildings](//guide.ppsri.org/property/dexter-training-ground-cranston-street-armory){:target="_blank"}
-listed the building in 1996 and it continued to stay on the list until 2000, then was listed again in 2003. In 2004, [Ballot Question #6](//ballotpedia.org/Rhode_Island_Question_6,_Cranston_Street_Armory_Bonds_(2004)){:target="_blank"} which would have provided a $12 million bond to restore and reuse the building as the State Archive was rejected. The property was then listed again in 2015, 2016, and 2017. 
+In 1998 The National Trust for Historic Preservation added the Armory to its 11 Most Endangered Sites List. It was the second property in the state ever to be listed (the first was the Block Island lighthouse). The [Providence Preservation Society’s Ten Most Endangered Buildings](https://guide.ppsri.org/property/dexter-training-ground-cranston-street-armory)
+listed the building in 1996 and it continued to stay on the list until 2000, then was listed again in 2003. In 2004, [Ballot Question #6](https://ballotpedia.org/Rhode_Island_Question_6,_Cranston_Street_Armory_Bonds_(2004)) which would have provided a $12 million bond to restore and reuse the building as the State Archive was rejected. The property was then listed again in 2015, 2016, and 2017.
 
-In the late 2000s the building hosted car shows, inaugural balls, track meets, and home shows, and housed the office of the state fire marshal along with storage space for other R.I. state agencies. The films Outside Providence (1999) and Underdog (2007) were filmed using the open areas within the Armory for bluescreen work, as well as exterior shots of adjacent areas. It was the site of Jorge Eloza’s inauguration in 2015. In 2021, the armory was again used as a filming location, [this time for Hocus Pocus 2](//www.goprovidence.com/blog/post/spot-the-hocus-pocus-2-rhode-island-filming-locations/). In 2022, it was used as a temporary warming station during a bout of unseasonally cold weather. 
+In the late 2000s the building hosted car shows, inaugural balls, track meets, and home shows, and housed the office of the state fire marshal along with storage space for other R.I. state agencies. The films Outside Providence (1999) and Underdog (2007) were filmed using the open areas within the Armory for bluescreen work, as well as exterior shots of adjacent areas. It was the site of Jorge Eloza’s inauguration in 2015. In 2021, the armory was again used as a filming location, [this time for Hocus Pocus 2](https://www.goprovidence.com/blog/post/spot-the-hocus-pocus-2-rhode-island-filming-locations/). In 2022, it was used as a temporary warming station during a bout of unseasonally cold weather.
 
-For several years, the State has funded repairs of the roof, flashing, parapets and other masonry. As of February, 2019, the State has continued to work with [a steering committee](//dcamm.ri.gov/initiatives/cranston-street-armory.php){:target="_blank"} of community organizations, members, City representatives and others, to conduct a participatory process to find new users and uses. 
+For several years, the State has funded repairs of the roof, flashing, parapets and other masonry. As of February, 2019, the State has continued to work with [a steering committee](https://dcamm.ri.gov/initiatives/cranston-street-armory.php) of community organizations, members, City representatives and others, to conduct a participatory process to find new users and uses.
 
-In early 2023, an out-of-state developer with local roots was interested in the building. Lindsey Scannapieco and Everett Abitbol head Scout Limited, a Philidelphia-based development company. Locally, they purchased and converted the former [Weybossett Mills Dye House]({% link _property/weybosset-mills-dye-house.md %}) in Olneyville. 
+In early 2023, an out-of-state developer with local roots was interested in the building. Lindsey Scannapieco and Everett Abitbol head Scout Limited, a Philidelphia-based development company. Locally, they purchased and converted the former [Weybossett Mills Dye House]({% link _property/weybosset-mills-dye-house.md %}) in Olneyville.
 
-According to a Providence Journal article: 
+According to a Providence Journal article:
 
 > Scout’s Armory mantra is to “use a light-touch approach,” or as Scannapieco describes it: “What is already here and how can we make that work?”[^1]
 
@@ -164,19 +164,20 @@ And they have a track record in Philadelphia. Scout was responsible for the rede
 
 ### Current Events
 
+The Armory is still looking for a long-term purpose.
 
 
 ### History
 
 Built in 1907 on the southern end of the Dexter Training Ground, this magnificent building had been in continuous use by the RI National Guard until 1997. Ebenezer Knight Dexter willed the land to be known as the Dexter Training Ground to City of Providence to be used for military training (used during Civil War as encampment and drill field). The Training Ground became part of city’s park system (395,410 sq. ft.), and soon after, the Armory was built by contractor M.J. Houlihan and architect William Walker and Sons on the fields’ southern end for a total cost of $650,000 over a period of ten years.
 
-Architects William Walker and Sons designed most of the armory buildings and Masonic halls in Rhode Island as well as many other large public buildings in the state including the North Main Street Armory, the Avon Theater and Trinity Rep. William Walker and Sons was selected to design the armory through a competition. 
+Architects William Walker and Sons designed most of the armory buildings and Masonic halls in Rhode Island as well as many other large public buildings in the state including the North Main Street Armory, the Avon Theater and Trinity Rep. William Walker and Sons was selected to design the armory through a competition.
 
 The architectural style is Medieval Gothic, with castellated fortress appearance, slate roof, yellow brick, copper flashing, and granite carvings. The general layout consists of two office towers with a four-story open atrium in each 6-story tower, flanking a large drill hall with 90 foot ceilings. This central Drill hall covers 8,775 sq. ft (about a sixth of a football field). The towers are each 35,100 sq. ft., with a total sq. footage including basement for the building at 165,300 sq. ft.
 
 Before the [Providence Civic Center]({% link _property/providence-civic-center.md %}) was built downtown, the Armory building functioned as a public space with track meets, dog shows, circuses and gubernatorial inaugural balls. Its distinctive form can be seen from all over Providence and the outlying areas.
 
-More info on RI Armories: [www.rhodeislandarmories.org](//www.rhodeislandarmories.org){:target="_blank"}
+More info on RI Armories: [www.rhodeislandarmories.org](https://www.rhodeislandarmories.org).
 
 <details markdown="1" class="rhythm">
   <summary>Additional History</summary>
@@ -229,6 +230,4 @@ The misconduct allegations and McKee’s termination of Scout’s contract spark
 
 Talks between the Smiley and McKee administrations over the ownership of the building have been ongoing since the beginning of the summer. During a June episode of the Rhode Island Report podcast, Smiley said the city was “prepared to put real financial resources into the proposal,” but that “the level of investment that we can make is not enough to get the project done on its own.”
 
-—
-
-Gagosz, Alexa. “Providence wants $45 million from state to take over Cranston Street Armory, emails show.” Boston Globe, 31 August 2023. Captured 15 December 2023 from https://www.bostonglobe.com/2023/08/31/metro/cranston-street-armory-future-still-in-question-due-to-costs/
+— _Gagosz, Alexa. “Providence wants $45 million from state to take over Cranston Street Armory, emails show.” Boston Globe, 31 August 2023. Captured 15 December 2023 from https://www.bostonglobe.com/2023/08/31/metro/cranston-street-armory-future-still-in-question-due-to-costs/_

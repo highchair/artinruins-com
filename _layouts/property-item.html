@@ -71,7 +71,7 @@ layout: default
                 <p class="item__external"><small>Copyright prevents the display of these images:</small>
                   {% for external in page.external %}
                     {% unless forloop.first %}, {% endunless %}
-                  <a href="{{ external.url }}" target="_blank">{{ external.source }}</a>
+                  <a href="{{ external.url }}" rel="nofollow">{{ external.source }}</a>
                   {% endfor %}
                 </p>
                 {% endif %}
@@ -82,9 +82,9 @@ layout: default
 {%- comment -%}
   {%- if page.latitude and page.longitude -%}
     <iframe width="420" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openlinkmap.org/small.php?lat={{ page.latitude }}&lon={{ page.longitude }}&zoom=16" style="border: 1px solid black"></iframe>
-    <p class="map"><a href="https://www.openstreetmap.org/#map=16/{{ page.latitude }}/{{ page.longitude }}" target="_blank">Open Street Map</a></p>
+    <p class="map"><a href="https://www.openstreetmap.org/#map=16/{{ page.latitude }}/{{ page.longitude }}">Open Street Map</a></p>
   {%- else if page.gmap -%}
-    <p class="map"><a href="{{ page.gmap }}" target="_blank">Google Map</a></p>
+    <p class="map"><a href="{{ page.gmap }}">Google Map</a></p>
   {%- endif -%}
 {%- endcomment -%}
             <footer id="meta" class="item__meta u__vertical__p u__gutter__p">
@@ -93,7 +93,7 @@ layout: default
                 <li class="item__cats__item item__cats__location">
                 {%- if page.address.size > 0 -%}
                   <strong>Address:</strong> 
-                  {% if page.gmap.size > 0 %}<a href="{{ page.gmap }}" target="_blank" rel="nofollow" title="Open Google Maps in a new window"><span class="u__sr-only">Open a Google map of </span>{% endif %}{{ page.address }}{% if page.gmap.size > 0 %}</a>{% endif %}<br>
+                  {% if page.gmap.size > 0 %}<a href="{{ page.gmap }}" rel="nofollow noreferrer"><span class="u__sr-only">Open a Google map of </span>{% endif %}{{ page.address }}{% if page.gmap.size > 0 %}</a>{% endif %}<br>
                 {%- endif -%}
                 {%- assign neighborhoods = page.neighborhoods -%}
                 {%- if neighborhoods.size > 0 -%}
@@ -179,7 +179,7 @@ layout: default
                 <li class="item__cats__item item__cats__citation">
                   <details class="rhythm">
                     <summary>Citations & Reference URLs</summary>
-                    <p><a href="//web.archive.org/save/https://artinruins.com{{ page.url }}" target="_blank" rel="nofollow noreferrer">Create a reference to this current page version with Archive.org</a>
+                    <p><a href="https://web.archive.org/save/https://artinruins.com{{ page.url }}" rel="nofollow noreferrer">Create a reference to this current page version with Archive.org</a>
                     </p>
                     <p><label for="cite"><abbr title="Modern Language Association">MLA</abbr>- and <abbr title="Chicago Manual of Style">CMS</abbr>-style Citation:</label> <input id="cite" type="text" readonly class="form__input form__input--text form__input--readonly" value="ArtInRuins & public sources. “Property: {{ page.title }},” ArtInRuins.com, updated {{ datemodified | date: "%B %e, %Y" }}, https://artinruins.com{{ page.url }}. Accessed {{ 'now' | date: '%B %e, %Y' }}." />
                       <span class="form__input--help">Select all and copy citation</span>

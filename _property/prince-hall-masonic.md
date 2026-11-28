@@ -27,7 +27,7 @@ longitude: '-71.407069'
 gmap: "https://www.google.com/maps/place/883+Eddy+St,+Providence,+RI+02905/@41.8037348,-71.4092577,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44560ba6173fd:0xaf0e82fdf5089f15!8m2!3d41.8037348!4d-71.407069"
 
 meta: ""
-excerpt: 'A fire on Christmas morning gutted the building, but the Masonic Lodge members plan to rebuild, <a href="//charity.gofundme.com/phglfa" target="_blank">and you can help</a>.'
+excerpt: 'A fire on Christmas morning gutted the building, but the Masonic Lodge members plan to rebuild, <a href="https://charity.gofundme.com/phglfa">and you can help</a>.'
 
 thumbnail: prince-hall-jh-2020-12-01.jpg
 
@@ -134,4 +134,4 @@ City Council President Sabina Matos called it “a landmark institution that has
 
 [Prince Hall](https://en.wikipedia.org/wiki/Prince_Hall), a Barbados native who immigrated to Boston in the 1700s, established the Prince Hall Masons after he and a handful of other Black men were denied admittance to the existing American Masonic organization. Hall petitioned the Grand Lodge of England, the oldest Masonic grand lodge in the world, to issue a charter for African Lodge No. 459, which was established in Boston in 1784 as the first lodge of African American Masons in North America. The lodge in Providence was formed more than 10 years later.
 
-_Captured December 28, 2020 from https://www.providencejournal.com/story/news/local/2020/12/26/prince-hall-masonic-temple-destroyed-fire-christmas/4047308001/_
+— _Captured December 28, 2020 from https://www.providencejournal.com/story/news/local/2020/12/26/prince-hall-masonic-temple-destroyed-fire-christmas/4047308001/_

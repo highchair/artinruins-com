@@ -47,7 +47,7 @@ We also want to celebrate the region’s great history. At the end of the 19th c
 1. [American Screw]({% link _property/american-screw-co.md %}), the world’s largest screw factory; and
 1. [Gorham Silver]({% link _property/gorham-manufacturing-co.md %}), the world’s largest silver foundry.
 
-[^1]: There are a few sources for this claim. Heritage Harbor Foundation mentions it in this page: [heritageharborfoundation.org/heritage-harbor-six-big-ideas/wonders-of-the-world/](//heritageharborfoundation.org/heritage-harbor-six-big-ideas/wonders-of-the-world/){:target="_blank"}: “By late 19th century, Providence is a world leader in production od (sic) cotton, wool, base metals, precious metals and rubber. Corliss, Gorham, Brown & Sharpe, Nicholsen (sic) File and American Screw are dubbed the ‘Five Industrial Wonders of the World’.”
+[^1]: There are a few sources for this claim. Heritage Harbor Foundation mentions it in this page: [heritageharborfoundation.org/heritage-harbor-six-big-ideas/wonders-of-the-world/](https://heritageharborfoundation.org/heritage-harbor-six-big-ideas/wonders-of-the-world/): “By late 19th century, Providence is a world leader in production od (sic) cotton, wool, base metals, precious metals and rubber. Corliss, Gorham, Brown & Sharpe, Nicholsen (sic) File and American Screw are dubbed the ‘Five Industrial Wonders of the World’.”
 
 There are [many other superlatives that Rhode Island can boast]({% link tag/the-superlatives.html %}), some of which have not been replaced by other buildings or businesses. 
 
@@ -100,7 +100,7 @@ ArtInRuins is open source software. The entire photographic collection as presen
 
 Alternatively, if you have code skills and feel comfortable in GitHub, you are welcome to submit issues, submit pull requests for updates, and/or lend us a hand with improvements.
 
-We decided to use a static site generator, [Jekyll](https://jekyllrb.com), for a few reasons:
+We decided to use a static site generator, [Jekyll](https://jekyllrb.com/), for a few reasons:
 + A “static site” means that the <span class="abbr">HTML/CSS/JS</span> is built on a host computer and uploaded to the server fully rendered. It will continue to work as long as the server exists
 + No database connection is required, which means simple, inexpensive hosting
 + Because there is no database, there are no security issues or access holes

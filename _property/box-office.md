@@ -83,16 +83,16 @@ images:
 
 mostrecentimage: 2017-09-01
 
-imagescredit: 'Construction photos from Peter Case, additional photos by Christopher Martin, <a href="//quahog.org" target="_blank">Quahog.org</a>'
+imagescredit: 'Construction photos from Peter Case, additional photos by Christopher Martin, <a href="https://quahog.org/">Quahog.org</a>'
 ---
 
 ### Proposal & Construction
 
 _From the website of Durham Polak, development consultants_
 
-Fabricated from 35 recycled shipping containers, **The Box Office** transformed a vacant and abandoned Brownfield site at the urban periphery into a collaborative office and incubator space targeted to small companies […]. 
+Fabricated from 35 recycled shipping containers, **The Box Office** transformed a vacant and abandoned Brownfield site at the urban periphery into a collaborative office and incubator space targeted to small companies […].
 
-The project consists of approximately 12,000 SF of newly constructed office space at the site of the [former Harris Lumber]({% link _property/546-harris-ave.md %}) warehouse on Providence’s west side. The building uses approximately 50% less energy than a typical new construction office building (22 kBTU/SF/yr) and less than most <span class="abbr">LEED</span> platinum buildings; energy use is further reduced by a rooftop PV solar array. The Box Office has been a magnet for small companies, and has been near capacity throughout an economic recession. 
+The project consists of approximately 12,000 SF of newly constructed office space at the site of the [former Harris Lumber]({% link _property/546-harris-ave.md %}) warehouse on Providence’s west side. The building uses approximately 50% less energy than a typical new construction office building (22 kBTU/SF/yr) and less than most <span class="abbr">LEED</span> platinum buildings; energy use is further reduced by a rooftop PV solar array. The Box Office has been a magnet for small companies, and has been near capacity throughout an economic recession.
 
 ***
 
@@ -103,17 +103,17 @@ The whole thing was erected in one week. The 35 containers were in Cranston in a
 
 ### Design Reception
 
-We love the design of this building and the way it fits in while also adding to an industrial area with industrial materials. The way the stacked Lego-like containers jut out and cantilever gives the structure some drama, and the colors make it playful instead of harsh and metallic. We actually had the pleasure of working in this building on the 3rd floor for two years. We liked it, though the metal could make it very cold in the winter at times. We especially love that many of the original tenants still occupy offices in the 12 available spaces. 
+We love the design of this building and the way it fits in while also adding to an industrial area with industrial materials. The way the stacked Lego-like containers jut out and cantilever gives the structure some drama, and the colors make it playful instead of harsh and metallic. We actually had the pleasure of working in this building on the 3rd floor for two years. We liked it, though the metal could make it very cold in the winter at times. We especially love that many of the original tenants still occupy offices in the 12 available spaces.
 
 It also does not hurt that the building reused material that would otherwise be sold to China for scrap. The building was constructed for about half the cost that new construction would cost at a difficult time after the 2008-2009 economic and housing market crash, as the news story below details. We love that the building is also greener than most <span class="abbr">LEED</span> platinum buildings. To us, its all around brilliant. 
 
 ## Project Credits & Links
 
-+ Leasing website: [boxoffice460.com]https:(//www.boxoffice460.com)
-+ Developer: [Truth Box Architects](https://www.truthbox.com)
++ Leasing website: [boxoffice460.com](https://www.boxoffice460.com/)
++ Developer: [Truth Box Architects](https://www.truthbox.com/)
 + Architect: Distill Studio (Joe Haskett, principal, now with Union Studio)
-+ Builder: [Stack Design Build](https://stackac.com)
-+ Development Consultant: [Durham Polak](http://www.durhampolak.com)
++ Builder: [Stack Design Build](https://stackac.com/)
++ Development Consultant: [Durham Polak](http://www.durhampolak.com/)
 
 
 ### In the News
@@ -144,7 +144,7 @@ Then he bought shipping containers for $2,000 each and welded two or three of th
 
 Inside, it feels like any other office space. It took Case and his team six months to design and figure out the basics like installing windows, electric and plumbing. It took just four days to truck in the containers and plunk them down on-site.
 
-The building is now open for business, and [website consultant Chris Murray](https://oomphinc.com) is the first renter. He recognized it from a Craigslist ad and had to check it out.
+The building is now open for business, and [website consultant Chris Murray](https://pare.co/) is the first renter. He recognized it from a Craigslist ad and had to check it out.
 
 “We decided to come here because it is a really unique and neat place,” Murray says.
 

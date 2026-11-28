@@ -47,7 +47,7 @@ images:
 
 mostrecentimage: 2024-01-01
 
-imagescredit: 'Contributions from the <a href="//drive.google.com/drive/folders/1CU909zEvqLRVcvVlo-LVHe2dinLEle84" target="_blank">PPS Architectural Slides Collection</a>, Facebook, the Secretary of State Digital Collection, and the Library of Congress'
+imagescredit: 'Contributions from the <a href="https://drive.google.com/drive/folders/1CU909zEvqLRVcvVlo-LVHe2dinLEle84">PPS Architectural Slides Collection</a>, Facebook, the Secretary of State Digital Collection, and the Library of Congress'
 
 external:
   - source: 'Providence Journal on Facebook'

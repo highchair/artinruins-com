@@ -51,7 +51,7 @@ images:
     caption: 'Photo by Chris Bricault, taken 09 November 2019'
     sizes: '811, 1024'
 
-imagescredit: 'Contributions from Flickr (<a href="//www.flickr.com/photos/foxpoint/7742041002/" target="_blank">Fox Point Photo History</a>, <a href="https://www.flickr.com/photos/kjitty/4884252290" target="_blank">Katharine</a>) and <a href="//www.loopnet.com/Listing/385-389-Wickenden-St-Providence-RI/20006751/" target="_blank">Loopnet</a>, and Chris Bricault'
+imagescredit: 'Contributions from Flickr (<a href="https://www.flickr.com/photos/foxpoint/7742041002/">Fox Point Photo History</a>, <a href="https://www.flickr.com/photos/kjitty/4884252290">Katharine</a>) and <a href="https://www.loopnet.com/Listing/385-389-Wickenden-St-Providence-RI/20006751/">Loopnet</a>, and Chris Bricault'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -82,12 +82,12 @@ Part of the Manuscript descriptions of all properties in this survey:
 
 #### Maps
 
-+ [1889 Sanborn Insurance Map, Volume 2, Plate 41 B](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188902){:target="_blank"} (page 6) — On the southwest corner of Wickenden and Hope stands a wooden structure (yellow) labelled “3” for three story and marked as post number 289-91. A one-story structure extends off to its northwest corner. Both are labelled “S” for Store.
-+ [1889-1900 Sanborn Insurance Map, Volume 2, Plate 131](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002){:target="_blank"} (page 44) — Similar footprint from 1889, now labelled postal number 385–389. Still three story with a one-story extension and labelled “S” for Store.
-+ [1920–1921 Sanborn Insurance Map, Volume 2, Plate 29](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102){:target="_blank"} (page 36) — Same as previous map, except the stories are labelled as “3 1/2.”
-+ [1926 G.M. Hopkins Insurance Map, Plate 18](//sosri.access.preservica.com/uncategorized/IO_e862f402-49c6-4b15-8dff-e1e112a51341/){:target="_blank"} — Less detail, but same outline on the south west corner of Wickenden and Hope.
-+ [1937 G.M. Hopkins Insurance Map, Plate 18](//sosri.access.preservica.com/uncategorized/IO_43309afc-e09a-43f3-af43-56af2047cd71/){:target="_blank"} — Same as 1926 map.
-+ [1920–1951 Sanborn Insurance Map, Volume 2, Plate 29](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102){:target="_blank"} (page 36) — Same as 1920–21 map.
++ [1889 Sanborn Insurance Map, Volume 2, Plate 41 B](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188902) (page 6) — On the southwest corner of Wickenden and Hope stands a wooden structure (yellow) labelled “3” for three story and marked as post number 289-91. A one-story structure extends off to its northwest corner. Both are labelled “S” for Store.
++ [1889-1900 Sanborn Insurance Map, Volume 2, Plate 131](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099190002) (page 44) — Similar footprint from 1889, now labelled postal number 385–389. Still three story with a one-story extension and labelled “S” for Store.
++ [1920–1921 Sanborn Insurance Map, Volume 2, Plate 29](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192102) (page 36) — Same as previous map, except the stories are labelled as “3 1/2.”
++ [1926 G.M. Hopkins Insurance Map, Plate 18](https://sosri.access.preservica.com/uncategorized/IO_e862f402-49c6-4b15-8dff-e1e112a51341/) — Less detail, but same outline on the south west corner of Wickenden and Hope.
++ [1937 G.M. Hopkins Insurance Map, Plate 18](https://sosri.access.preservica.com/uncategorized/IO_43309afc-e09a-43f3-af43-56af2047cd71/) — Same as 1926 map.
++ [1920–1951 Sanborn Insurance Map, Volume 2, Plate 29](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099195102) (page 36) — Same as 1920–21 map.
 
 
 ### In the News
@@ -99,7 +99,7 @@ _by Amy Mendillo_
 
 As Fox Point neighbors may know, local developer and landlord Bahman Jalili appeared before the Providence City Plan Commission in late October to request approvals for a new development project on Wickenden Street. Jalili has since demolished the century-old, muraled apartment building on the corner of Wickenden and Hope streets, site of the former Aqua-Life Aquarium, and plans to replace it with a modern, 15-unit structure with a flat roof and a commercial space on the first floor.
 
-Several Fox Point neighbors testified at the hearing, both to oppose the demolition of the structure and to stress the importance of preserving the historic character of Wickenden Street. FPNA ([Fox Point Neighborhood Association](//www.fpna.net){:target="_blank"}) president Nick Cicchitelli expressed concerns about population density on that street, possible troubles with parking, and most emphatically, the visual appeal of a proposed new structure. “This is one of the most prominent and iconic corners in Fox Point,” he said. While Cicchitelli acknowledged that the existing building is not protected by historic preservation laws, he expressed reluctance about demolishing it. “It is of paramount importance,” he continued, “that a replacement structure respect the historic charm of the neighborhood.” Neighbor Dennis Wood, echoing these sentiments, evoked the words of local architect Dave Brussat, saying, “In saving the past, you are investing in the future.” Rachel Robinson, of the [Providence Preservation Society](//ppsri.org){:target="_blank"}, expressed misgivings about “the gradual erosion” of the historic character of Wickenden Street. Likewise, Fox Point neighbor Candace Powning extolled the appeal of this commercial-residential strip. “If we demolish the old buildings,” she stated, “we lose this interesting neighborhood.”
+Several Fox Point neighbors testified at the hearing, both to oppose the demolition of the structure and to stress the importance of preserving the historic character of Wickenden Street. FPNA ([Fox Point Neighborhood Association](https://www.fpna.net/)) president Nick Cicchitelli expressed concerns about population density on that street, possible troubles with parking, and most emphatically, the visual appeal of a proposed new structure. “This is one of the most prominent and iconic corners in Fox Point,” he said. While Cicchitelli acknowledged that the existing building is not protected by historic preservation laws, he expressed reluctance about demolishing it. “It is of paramount importance,” he continued, “that a replacement structure respect the historic charm of the neighborhood.” Neighbor Dennis Wood, echoing these sentiments, evoked the words of local architect Dave Brussat, saying, “In saving the past, you are investing in the future.” Rachel Robinson, of the [Providence Preservation Society](https://ppsri.org/), expressed misgivings about “the gradual erosion” of the historic character of Wickenden Street. Likewise, Fox Point neighbor Candace Powning extolled the appeal of this commercial-residential strip. “If we demolish the old buildings,” she stated, “we lose this interesting neighborhood.”
 
 After some deliberation, the Commission voted to grant approvals to the developer — thereby allowing the team to proceed to the next phase — explaining to attendees that he had met all of the requirements laid out in the city’s zoning ordinance. The Commission also recommended that the developer meet with neighbors in order to hear our concerns and begin a dialogue.
 
@@ -138,9 +138,7 @@ The store draws customers from an approximately 300-mile radius, including some 
 
 “I only keep the rare and odd stuff that Amazon doesn’t have,” he said. […]
 
-—
-
-Hill, John. “George Goulart Jr., still remembers when he was a young child.” Providence Journal (RI), sec. RI News, 3 Aug. 2018, p. A7. NewsBank: America's News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/16D946C309F024C8. Accessed 3 Nov. 2023.
+— _Hill, John. “George Goulart Jr., still remembers when he was a young child.” Providence Journal (RI), sec. RI News, 3 Aug. 2018, p. A7. NewsBank: America's News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/16D946C309F024C8. Accessed 3 Nov. 2023._
 
 ***
 
@@ -163,9 +161,7 @@ Pedestrians occasionally stop to express appreciation and encouragement.
 
 And so, for about a month now, and perhaps with several weeks to go, Ashley Keene drives up from Saunderstown to renew this corner of our state.
 
-—
-
-Bodo, Sandor. “Providence Newcomer saw a problem - and found artful solution.” Providence Journal (RI), sec. RI News, 6 Oct. 2017, p. A4. NewsBank: America's News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1675F08109FEC2F8. Accessed 3 Nov. 2023.
+— _Bodo, Sandor. “Providence Newcomer saw a problem - and found artful solution.” Providence Journal (RI), sec. RI News, 6 Oct. 2017, p. A4. NewsBank: America's News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1675F08109FEC2F8. Accessed 3 Nov. 2023._
 
 ***
 
@@ -190,7 +186,4 @@ There are bottom-dwelling, mid-streaming and air-breathing fish, and it is possi
 
 There are 115 possible factors to consider in the proper care of fish. The Fish Doctor knows them all. At a pediatrician's office where he maintains a fish tank, he regularly has to clean the handprints of curious little fish fans from the glass. At other tanks on his rounds, he might have to change the water due to the buildup of waste and an unhealthy ratio between bad nitrites and good nitrates. […]
 
-—
-
-KERR, BOB. “His patients are in the swim ‘Fish Doctor’ George Goulart makes house calls his business.” Providence Journal (RI), ALL ed., sec. LIFEBEAT, 24 Apr. 1991, pp. G-05. NewsBank: America's News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525B9AA322908B0. Accessed 3 Nov. 2023.
-
+— _KERR, BOB. “His patients are in the swim ‘Fish Doctor’ George Goulart makes house calls his business.” Providence Journal (RI), ALL ed., sec. LIFEBEAT, 24 Apr. 1991, pp. G-05. NewsBank: America's News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/1525B9AA322908B0. Accessed 3 Nov. 2023._

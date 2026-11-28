@@ -111,7 +111,7 @@ The condos would be built on the site of the former City Gulf gas station, acros
 _by Andrea L. Stape_  
 **Providence Journal** | February 25, 2005
 
-While it’s not a done deal, condos could rise from the site of the former City Gulf Station, off Broadway in downtown Providence. It’s a small triangle of land operating as a parking lot, but if the market conditions are right and the Holiday Inn’s conversion to a Hilton moves forward, it could become a 27-story condo complex, according to Joseph R. Paolino Jr., the former mayor of Providence, who co-owns the lot with [The Procaccianti Group](//www.procaccianti.com).
+While it’s not a done deal, condos could rise from the site of the former City Gulf Station, off Broadway in downtown Providence. It’s a small triangle of land operating as a parking lot, but if the market conditions are right and the Holiday Inn’s conversion to a Hilton moves forward, it could become a 27-story condo complex, according to Joseph R. Paolino Jr., the former mayor of Providence, who co-owns the lot with [The Procaccianti Group](https://www.procaccianti.com/).
 
 The Procaccianti Group has a clear vision for the $175-million to $200-million development, which it calls The Providence City Center. The building would have underground and aboveground parking for 250 cars, a fitness center and a high-end restaurant, according to a document the company put together for potential investors. The company envisions the building _“as the address for upscale downtown living and entertainment.”_
 

@@ -106,7 +106,7 @@ images:
 
 mostrecentimage: 2024-07-01
 
-imagescredit: 'Contributions from the Providence Public Library, <a href="//provlibdigital.org/islandora/object/islandora%3A5193" target="_blank">John Hutchins Cady Research Scrapbooks Collection</a> and <a href="//provlibdigital.org/islandora/object/islandora%3A10247" target="_blank">Rhode Island Photograph Collection</a>'
+imagescredit: 'Contributions from the Providence Public Library, <a href="https://provlibdigital.org/islandora/object/islandora%3A5193">John Hutchins Cady Research Scrapbooks Collection</a> and <a href="https://provlibdigital.org/islandora/object/islandora%3A10247">Rhode Island Photograph Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -125,19 +125,19 @@ The renovation of the main building included the demolition of a one-story addit
 
 As seen in some of the photos we took, care was taken to save any decorative plaster elements that were in good condition. Pocket doors were removed for storage and will be returned. [A stunning fourth floor unit](#photo-old-miriam-jh-2022-03-18) features a giant window with skylight along with a five-sided four window corner bay.
 
-[More renderings are available from Jack Ryan’s website](//www.jackryanarchitect.com/parkview){:target="_blank"}
+[More renderings are available from Jack Ryan’s website](https://www.jackryanarchitect.com/parkview).
 
 
 ### Current Events
 
-The building is slated to be finished before the end of 2022. Leasing information can be acquired through the Armory Revival Company and the [Armory Management Company](http://armorymanagement.com){:target="_blank"}.
+The building is slated to be finished before the end of 2022. Leasing information can be acquired through the Armory Revival Company and the [Armory Management Company](https://armorymanagement.com).
 
 
 ### History
 
-An [1889 Sanborn Insurance Map, Volume 1, Plate 22](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901){:target="_blank"} shows this building without the addition on the southern side. The addition added another row to the house, essentially, and included the five-side turret. We believe it was added around 1900.
+An [1889 Sanborn Insurance Map, Volume 1, Plate 22](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099188901) shows this building without the addition on the southern side. The addition added another row to the house, essentially, and included the five-side turret. We believe it was added around 1900.
 
-By a [1920-1921 map, Volume 1, Plate 63](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001){:target="_blank"}, it is labelled the “Walleford Apartments” and includes the addition to the south. The north side is labelled “Maternity Hospital (Private).” We believe the hospital started off in one of the apartments and then grew to take over the entire building by 1925, when the changes to the entrances were made.
+By a [1920-1921 map, Volume 1, Plate 63](http://hdl.loc.gov/loc.gmd/g3774pm.g3774pm_g08099192001), it is labelled the “Walleford Apartments” and includes the addition to the south. The north side is labelled “Maternity Hospital (Private).” We believe the hospital started off in one of the apartments and then grew to take over the entire building by 1925, when the changes to the entrances were made.
 
 ***
 
@@ -150,9 +150,9 @@ In 1925, the row became Miriam Hospital and was considerably remodeled. In the 1
 
 ### In the News
 
-The [West Broadway Neighborhood Association has a page on their site](//www.wbna.org/news/2018/6/14/cdc-reviews-parkview-nursing-home-1492-westminster){:target="_blank"} describing the meeting in June of 2018 where they heard of plans to convert this building:
+The [West Broadway Neighborhood Association has a page on their site](https://www.wbna.org/news/2018/6/14/cdc-reviews-parkview-nursing-home-1492-westminster) describing the meeting in June of 2018 where they heard of plans to convert this building:
 
 > Local developers and neighbors Mark Van Noppen and Seth Zeren along with architect Jack Ryan presented preliminary plans for the Parkview properties that border Dexter Training Ground at 41 & 45 Parade Street, 19R Willow and 12 Oak.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The plans include the redevelopment of the existing four-story historic structure into 12 residential apartments with a rear addition, and the construction of a new four story building next to the nursing home that would contain 19 apartments. Two non-contributing buildings would be demolished on the site, as well. […]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most neighbors have not had the opportunity to see inside Parkview. Before becoming Miriam Hospital in 1920, this turn of the century building was comprised of stately row homes. Van Noppen described the interior today as having original 11 foot ceilings and grand rooms, some of which still have their plaster cornices, fireplaces and mantles.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The developers would seek federal historic tax credits to renovate the building and restore many of the historic details, though modern building codes, they said, would prohibit reconstruction of the grand stairs and entrances that once fronted these homes.
+&nbsp;&nbsp;&nbsp;The plans include the redevelopment of the existing four-story historic structure into 12 residential apartments with a rear addition, and the construction of a new four story building next to the nursing home that would contain 19 apartments. Two non-contributing buildings would be demolished on the site, as well. […]
+&nbsp;&nbsp;&nbsp;Most neighbors have not had the opportunity to see inside Parkview. Before becoming Miriam Hospital in 1920, this turn of the century building was comprised of stately row homes. Van Noppen described the interior today as having original 11 foot ceilings and grand rooms, some of which still have their plaster cornices, fireplaces and mantles.
+&nbsp;&nbsp;&nbsp;The developers would seek federal historic tax credits to renovate the building and restore many of the historic details, though modern building codes, they said, would prohibit reconstruction of the grand stairs and entrances that once fronted these homes.

@@ -2,10 +2,6 @@
 Ongoing Notes
 =============
 
-ALL Numbered properties (beginning with an address) have been cleaned of target="_blank"
-and have had their non-HTTPS referenced URLs added.
-
-
 ## Photoshop
 
 HABS/HAER, Photographer Name, Year

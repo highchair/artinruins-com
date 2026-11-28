@@ -66,7 +66,7 @@ images:
 
 mostrecentimage: 2024-04-01
 
-imagescredit: 'Contributions from Thomas Rossi, <a href="https://provlibdigital.org/islandora/object/VM011_03_02_091">Providence Public Library</a>, the <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw" target="_blank">PPS Architectural Slides Collection</a>'
+imagescredit: 'Contributions from Thomas Rossi, <a href="https://provlibdigital.org/islandora/object/VM011_03_02_091">Providence Public Library</a>, the <a href="https://drive.google.com/drive/folders/144XfDEMR4o2mbyBVuJOheUrV2_RnpJFJ?fbclid=IwAR33GXXFcnzecIouWwCmOlhp6S6NFidZKnetyJc0S1pYHeCZdrOAD1aIQhw">PPS Architectural Slides Collection</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'

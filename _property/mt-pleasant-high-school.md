@@ -85,7 +85,7 @@ images:
 
 mostrecentimage: 2023-11-01
 
-imagescredit: 'Contribution from the <a href="//provlibdigital.org/islandora/object/islandora%253A4808" target="_blank">Providence Public Library</a>'
+imagescredit: 'Contribution from the <a href="https://provlibdigital.org/islandora/object/islandora%253A4808">Providence Public Library</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -168,7 +168,7 @@ Completed in 1938 to designs provided by architects at the Office of the Commiss
 
 Under the recommendations of the Facilities Master Plan by DeJONG educational consultants, Mt. Pleasant High School was slated for demolition and replacement by two new schools [in 2006]. Word of this demolition resulted in an outcry from the neighborhood residents. In 2007, PPS included this school on the [Ten Most Endangered Properties List]({% link pps-ten-most-properties.md %}). As of February, 2019, the landmark school continues to serve the community.
 
-— Captured 30 December 2023 from [guide.ppsri.org/property/mount-pleasant-high-school](//guide.ppsri.org/property/mount-pleasant-high-school){:target="_blank"}
+— Captured 30 December 2023 from [guide.ppsri.org/property/mount-pleasant-high-school](https://guide.ppsri.org/property/mount-pleasant-high-school/)
 
 
 ### In the News
@@ -234,6 +234,4 @@ The partial demolition would keep that part of the building intact.
 
 It would also avoid displacing students, as they would be able to remain in the existing structure while a new building is built behind it, then move to the new building while part of the old one is demolished.
 
-—
-
-Russo, Amy. “Rebuild of Mt. Pleasant High School is ruled out - City says renovation would be too costly.” Providence Journal (RI), PFO-Journal ed., sec. News, 9 Sept. 2023, p. A1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/193F10EF08977A68. Accessed 30 Dec. 2023.
+— _Russo, Amy. “Rebuild of Mt. Pleasant High School is ruled out - City says renovation would be too costly.” Providence Journal (RI), PFO-Journal ed., sec. News, 9 Sept. 2023, p. A1. NewsBank: America’s News, https://infoweb.newsbank.com/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=NewsBank&req_dat=D4BD6B42F1AB4706B5E1244D477DEE03&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Anews/193F10EF08977A68. Accessed 30 Dec. 2023._

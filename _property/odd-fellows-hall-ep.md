@@ -64,7 +64,7 @@ images:
 
 mostrecentimage: 2020-02-01
 
-imagescredit: 'Contributions from Warren Jagger for the National Register nomination form and <a href="https://commons.wikimedia.org/w/index.php?curid=101208487" target="_blank">Kenneth Zirkel for Wikimedia</a>'
+imagescredit: 'Contributions from Warren Jagger for the National Register nomination form and <a href="https://commons.wikimedia.org/w/index.php?curid=101208487">Kenneth Zirkel for Wikimedia</a>'
 
 #external:
 #  - source: 'Providence Journal (permalink)'
@@ -94,9 +94,9 @@ The ground floor, originally subdivided into shops, is now occupied by a restaur
 
 #### Significance
 
-The Oddfellow’s Hall is historically and architecturally significant. The hall and Saint Mary’s Episcopal Church are the only surviving Victorian public buildings near the site of Watchemoket Square, once the focus of the Watchemoket neighborhood, which became East Providence’s new civic center in the late nineteenth century. The buildings that occupied the square were all cleared away in the twentieth century to permit the construction of Washington Bridge and an interchange on Interstate Route 195. The hall is thus an important indicator of this area's former status. It reflects Watchemoket’s development as a community center and a suburban residential neighborhood of Providence, and the attendant establishment of new civic and social institutions to serve an expanding populace. 
+The Oddfellow’s Hall is historically and architecturally significant. The hall and Saint Mary’s Episcopal Church are the only surviving Victorian public buildings near the site of Watchemoket Square, once the focus of the Watchemoket neighborhood, which became East Providence’s new civic center in the late nineteenth century. The buildings that occupied the square were all cleared away in the twentieth century to permit the construction of Washington Bridge and an interchange on Interstate Route 195. The hall is thus an important indicator of this area's former status. It reflects Watchemoket’s development as a community center and a suburban residential neighborhood of Providence, and the attendant establishment of new civic and social institutions to serve an expanding populace.
 
-The Oddfellow’s Hall is architecturally noteworthy for the high quality of its design. A distinguished structure by the prominent late nineteenth-century Providence architectural firm Gould and Angell, it is an excellent example of a small Shingle Style public building. 
+The Oddfellow’s Hall is architecturally noteworthy for the high quality of its design. A distinguished structure by the prominent late nineteenth-century Providence architectural firm Gould and Angell, it is an excellent example of a small Shingle Style public building.
 
 
 ### In the News
